@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Join Family Circle - Fahsak</title>
+    <meta name="apple-itunes-app" content="app-id=6760306334">
+    <link rel="icon" href="/icon.png" type="image/png">
+    <link rel="stylesheet" href="/style.css">
+    <style>
+        .join-container {
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 2rem;
+        }
+        .join-card {
+            background: rgba(255,255,255,0.03);
+            border: 1px solid rgba(255,255,255,0.08);
+            border-radius: 24px;
+            padding: 3rem 2rem;
+            max-width: 420px;
+            width: 100%;
+            text-align: center;
+        }
+        .join-icon {
+            width: 80px;
+            height: 80px;
+            border-radius: 20px;
+            background: linear-gradient(135deg, #0d9488, #10b981);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin: 0 auto 1.5rem;
+            font-size: 36px;
+        }
+        .join-title {
+            font-size: 1.5rem;
+            font-weight: 700;
+            color: #f8fafc;
+            margin-bottom: 0.5rem;
+        }
+        .join-subtitle {
+            color: #94a3b8;
+            font-size: 0.95rem;
+            margin-bottom: 2rem;
+            line-height: 1.6;
+        }
+        .join-code {
+            background: rgba(13, 148, 136, 0.1);
+            border: 2px solid rgba(13, 148, 136, 0.3);
+            border-radius: 16px;
+            padding: 1.25rem;
+            margin-bottom: 2rem;
+        }
+        .join-code-label {
+            color: #94a3b8;
+            font-size: 0.8rem;
+            margin-bottom: 0.5rem;
+        }
+        .join-code-value {
+            color: #0d9488;
+            font-size: 1.75rem;
+            font-weight: 700;
+            letter-spacing: 4px;
+            font-family: monospace;
+        }
+        .join-steps {
+            text-align: left;
+            margin-bottom: 2rem;
+        }
+        .join-step {
+            display: flex;
+            align-items: flex-start;
+            gap: 0.75rem;
+            margin-bottom: 1rem;
+            color: #cbd5e1;
+            font-size: 0.9rem;
+            line-height: 1.5;
+        }
+        .join-step-num {
+            background: rgba(13, 148, 136, 0.15);
+            color: #0d9488;
+            width: 28px;
+            height: 28px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: 700;
+            font-size: 0.8rem;
+            flex-shrink: 0;
+        }
+        .join-btn {
+            display: inline-block;
+            background: linear-gradient(135deg, #0d9488, #10b981);
+            color: #fff;
+            padding: 0.9rem 2rem;
+            border-radius: 14px;
+            text-decoration: none;
+            font-weight: 600;
+            font-size: 1rem;
+            width: 100%;
+            box-sizing: border-box;
+            margin-bottom: 0.75rem;
+        }
+        .join-btn:hover {
+            opacity: 0.9;
+        }
+        .join-btn-secondary {
+            display: inline-block;
+            background: transparent;
+            border: 1px solid rgba(255,255,255,0.1);
+            color: #94a3b8;
+            padding: 0.75rem 2rem;
+            border-radius: 14px;
+            text-decoration: none;
+            font-size: 0.9rem;
+            width: 100%;
+            box-sizing: border-box;
+        }
+        .ar-text {
+            direction: rtl;
+            color: #64748b;
+            font-size: 0.85rem;
+            margin-top: 1.5rem;
+        }
+    </style>
+</head>
+<body>
+    <div class="join-container">
+        <div class="join-card">
+            <div class="join-icon">&#128106;</div>
+            <h1 class="join-title">Family Health Circle</h1>
+            <p class="join-subtitle">Someone invited you to join their family health circle on Fahsak.</p>
+
+            <div class="join-code">
+                <div class="join-code-label">Your Invite Code</div>
+                <div class="join-code-value" id="inviteCode">---</div>
+            </div>
+
+            <div class="join-steps">
+                <div class="join-step">
+                    <span class="join-step-num">1</span>
+                    <span>Download Fahsak from the App Store</span>
+                </div>
+                <div class="join-step">
+                    <span class="join-step-num">2</span>
+                    <span>Create an account or sign in</span>
+                </div>
+                <div class="join-step">
+                    <span class="join-step-num">3</span>
+                    <span>Go to Family tab and tap "Join" then enter the code above</span>
+                </div>
+            </div>
+
+            <a href="https://apps.apple.com/app/id6760306334" class="join-btn">Download Fahsak</a>
+            <a href="/" class="join-btn-secondary">Learn More</a>
+
+            <p class="ar-text">تمت دعوتك للانضمام إلى دائرة صحية عائلية على فحصك. حمّل التطبيق وأدخل الرمز أعلاه للانضمام.</p>
+        </div>
+    </div>
+
+    <script>
+        // Extract invite code from URL path
+        const path = window.location.pathname;
+        const parts = path.split('/');
+        const code = parts[parts.length - 1] || parts[parts.length - 2];
+        if (code && code !== 'join') {
+            document.getElementById('inviteCode').textContent = code;
+        }
+
+        // Try to open in app (deep link)
+        if (code && code !== 'join') {
+            const appLink = 'fahsak://join/' + code;
+            setTimeout(function() {
+                window.location.href = appLink;
+            }, 1500);
+        }
+    </script>
+</body>
+</html>
