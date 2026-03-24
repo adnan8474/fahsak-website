@@ -4,13 +4,13 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Fahsak - فحصك | Your Health Intelligence Companion</title>
-  <meta name="description" content="AI-powered health companion. Scan lab results, manage medications, chat with AI, and track your family's health. Free for all patients.">
-  <meta name="keywords" content="health app, lab results, medications, AI health, فحصك, صحة, تحاليل, أدوية">
+  <meta name="description" content="AI-powered health companion. Scan lab results, manage medications, track nutrition with barcode scanning, log exercises, chat with AI, and monitor your family's health. Free for all patients.">
+  <meta name="keywords" content="health app, lab results, medications, AI health, nutrition tracking, barcode scanner, exercise logging, فحصك, صحة, تحاليل, أدوية, تغذية">
   <meta property="og:title" content="Fahsak - فحصك | Your Health Intelligence Companion">
-  <meta property="og:description" content="AI-powered health companion. Scan lab results, manage medications, and track your family's health.">
+  <meta property="og:description" content="AI-powered health companion. Scan lab results, manage medications, track nutrition, log exercises, and monitor your family's health.">
   <meta property="og:type" content="website">
-  <meta property="og:url" content="https://fahsak.com">
-  <meta property="og:image" content="https://fahsak.com/og-image.png">
+  <meta property="og:url" content="https://www.fahsak.com">
+  <meta property="og:image" content="https://www.fahsak.com/og-image.png">
   <meta name="apple-itunes-app" content="app-id=6760306334">
   <link rel="icon" type="image/png" href="/icon.png">
   <link rel="apple-touch-icon" href="/icon.png">
@@ -27,6 +27,10 @@
         <img src="/icon.png" alt="Fahsak" class="nav-logo">
         <span class="nav-name">Fahsak <span class="nav-arabic">فحصك</span></span>
       </a>
+      <input type="checkbox" id="nav-toggle" class="nav-toggle" aria-label="Toggle navigation">
+      <label for="nav-toggle" class="nav-hamburger" aria-hidden="true">
+        <span></span><span></span><span></span>
+      </label>
       <div class="nav-links">
         <a href="#features">Features</a>
         <a href="#download" class="btn btn-sm">Download</a>
@@ -115,6 +119,27 @@
           <h3>Lab Directory</h3>
           <p>Find nearby laboratories with ratings, contact information, and available tests. Book directly from the app.</p>
         </div>
+        <div class="feature-card">
+          <div class="feature-icon">
+            <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 8h1a4 4 0 0 1 0 8h-1"/><path d="M2 8h16v9a4 4 0 0 1-4 4H6a4 4 0 0 1-4-4V8z"/><line x1="6" y1="1" x2="6" y2="4"/><line x1="10" y1="1" x2="10" y2="4"/><line x1="14" y1="1" x2="14" y2="4"/></svg>
+          </div>
+          <h3>Nutrition Tracking</h3>
+          <p>Track meals, scan food barcodes, search the USDA database. Monitor daily calories, protein, carbs, and fat intake.</p>
+        </div>
+        <div class="feature-card">
+          <div class="feature-icon">
+            <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 20V6a2 2 0 0 0-2-2H8a2 2 0 0 0-2 2v14"/><path d="M2 20h20"/><path d="M14 12v.01"/><path d="M6 12h4"/><path d="M6 8h4"/><path d="M6 16h4"/></svg>
+          </div>
+          <h3>Exercise Logging</h3>
+          <p>Log workouts with automatic calorie estimation. Track walking, running, cycling, gym sessions, swimming, and yoga.</p>
+        </div>
+        <div class="feature-card">
+          <div class="feature-icon">
+            <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 8a6 6 0 0 1 12 0c0 7 3 9 3 9H3s3-2 3-9"/><path d="M10.3 21a1.94 1.94 0 0 0 3.4 0"/></svg>
+          </div>
+          <h3>Smart Reminders</h3>
+          <p>Custom medication alarms with AM/PM scheduling. Family notifications, low stock alerts, and adherence tracking.</p>
+        </div>
       </div>
     </div>
   </section>
@@ -184,5 +209,26 @@
       </div>
     </div>
   </footer>
+  <script>
+    // Scroll animations
+    const observer = new IntersectionObserver((entries) => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting) {
+          entry.target.classList.add('visible');
+          observer.unobserve(entry.target);
+        }
+      });
+    }, { threshold: 0.1 });
+    document.querySelectorAll('.feature-card, .bilingual-inner, .provider-inner, .download-inner, .lang-card').forEach(el => {
+      el.classList.add('animate-on-scroll');
+      observer.observe(el);
+    });
+    // Close hamburger on link click
+    document.querySelectorAll('.nav-links a').forEach(link => {
+      link.addEventListener('click', () => {
+        document.getElementById('nav-toggle').checked = false;
+      });
+    });
+  </script>
 </body>
 </html>
