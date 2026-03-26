@@ -3,29 +3,59 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Sihtak - صحتك | Your Health Intelligence Platform</title>
-  <meta name="description" content="AI-powered health platform. Chat with AI, scan lab results, manage medications, track nutrition & exercise, monitor sleep, Apple Health sync, voice conversations, and family health management. Free for all patients.">
-  <meta name="keywords" content="health app, AI health, lab results, medications, nutrition tracking, exercise, sleep tracker, Apple Health, voice chat, family health, صحتك, صحة, تحاليل, أدوية, تغذية">
-  <meta property="og:title" content="Sihtak - صحتك | Your Health Intelligence Platform">
-  <meta property="og:description" content="AI-powered health platform with lab scanning, medication management, nutrition & exercise tracking, sleep monitoring, and family health. Free for all patients.">
+  <title>Sihtak - Your AI Health Companion | Free Health App</title>
+  <meta name="description" content="Sihtak (صحتك) is a free AI-powered health app. Chat with AI about your health, scan lab results, track medications, log nutrition & exercise, monitor sleep, and manage family health. Available on iOS.">
+  <meta name="keywords" content="health app, AI health assistant, lab scanner, medication tracker, nutrition tracking, exercise log, sleep tracker, Apple Health, family health, صحتك, تطبيق صحة, تحاليل, أدوية">
+  <meta name="author" content="Sihtak">
+  <meta name="robots" content="index, follow">
+  <link rel="canonical" href="https://www.sihtak.com/">
+  <meta property="og:title" content="Sihtak - Your AI Health Companion">
+  <meta property="og:description" content="Free AI-powered health app with lab scanning, medication tracking, nutrition & exercise logging, sleep monitoring, and family health management.">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://www.sihtak.com">
   <meta property="og:image" content="https://www.sihtak.com/og-image.png">
+  <meta property="og:site_name" content="Sihtak">
+  <meta property="og:locale" content="en_US">
+  <meta property="og:locale:alternate" content="ar_SA">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Sihtak - Your AI Health Companion">
+  <meta name="twitter:description" content="Free AI-powered health app. Chat, scan labs, track meds, log meals & workouts, monitor sleep.">
+  <meta name="twitter:image" content="https://www.sihtak.com/og-image.png">
   <meta name="apple-itunes-app" content="app-id=6760306334">
+  <meta name="theme-color" content="#020617">
   <link rel="icon" type="image/png" href="/icon.png">
   <link rel="apple-touch-icon" href="/icon.png">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="/style.css">
+
+  <!-- Structured Data -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "MobileApplication",
+    "name": "Sihtak",
+    "alternateName": "صحتك",
+    "operatingSystem": "iOS",
+    "applicationCategory": "HealthApplication",
+    "offers": { "@type": "Offer", "price": "0", "priceCurrency": "USD" },
+    "description": "AI-powered health companion with lab scanning, medication tracking, nutrition & exercise logging, sleep monitoring, and family health management.",
+    "url": "https://www.sihtak.com",
+    "downloadUrl": "https://apps.apple.com/app/id6760306334",
+    "author": { "@type": "Organization", "name": "Sihtak" },
+    "inLanguage": ["en", "ar"],
+    "featureList": "AI Health Chat, Lab Scanner OCR, Medication Manager, Nutrition Tracking, Exercise Logging, Sleep Tracker, Apple Health Sync, Family Health, Vitals Dashboard, Symptom Checker, Health Passport"
+  }
+  </script>
 </head>
 <body>
   <!-- Navigation -->
-  <nav class="nav">
+  <nav class="nav" role="navigation" aria-label="Main navigation">
     <div class="container nav-inner">
-      <a href="/" class="nav-brand">
-        <img src="/icon.png" alt="Sihtak" class="nav-logo">
-        <span class="nav-name">Sihtak <span class="nav-arabic">صحتك</span></span>
+      <a href="/" class="nav-brand" aria-label="Sihtak home">
+        <img src="/icon.png" alt="" class="nav-logo" width="36" height="36">
+        <span class="nav-name">Sihtak <span class="nav-ar">صحتك</span></span>
       </a>
       <input type="checkbox" id="nav-toggle" class="nav-toggle" aria-label="Toggle navigation">
       <label for="nav-toggle" class="nav-hamburger" aria-hidden="true">
@@ -35,419 +65,345 @@
         <a href="#features">Features</a>
         <a href="#how-it-works">How It Works</a>
         <a href="#providers">Providers</a>
-        <a href="#download" class="btn btn-sm btn-primary">Download</a>
+        <a href="https://apps.apple.com/app/id6760306334" class="btn btn-sm btn-primary">Get the App</a>
       </div>
     </div>
   </nav>
 
   <!-- Hero -->
   <section class="hero">
-    <div class="hero-glow"></div>
-    <div class="hero-glow-2"></div>
+    <div class="hero-bg">
+      <div class="hero-glow hero-glow--1"></div>
+      <div class="hero-glow hero-glow--2"></div>
+      <div class="hero-grid-lines"></div>
+    </div>
     <div class="container hero-inner">
       <div class="hero-content">
-        <div class="badge">&#9889; Free for all patients</div>
-        <h1>Your Health,<br><span class="gradient-text">Intelligently Managed</span></h1>
-        <p class="hero-subtitle">AI-powered health companion with voice chat, lab scanning, medication tracking, nutrition & exercise logging, sleep monitoring, period tracking, social connections, Apple Health sync, and family health management &mdash; all in one beautifully designed bilingual app.</p>
-        <div class="hero-actions">
+        <div class="badge"><span class="badge-dot"></span>Free for all patients</div>
+        <h1>Your health,<br><span class="gradient-text">intelligently managed.</span></h1>
+        <p class="hero-sub">AI-powered health companion with voice chat, lab scanning, medication tracking, wellness logging, and family health &mdash; all in one bilingual app.</p>
+        <div class="hero-ctas">
           <a href="https://apps.apple.com/app/id6760306334" class="btn btn-primary btn-lg">
-            <svg width="20" height="24" viewBox="0 0 20 24" fill="currentColor"><path d="M16.52 12.76c-.03-3.02 2.47-4.47 2.58-4.55-1.4-2.05-3.59-2.33-4.37-2.36-1.86-.19-3.63 1.1-4.57 1.1-.94 0-2.4-1.07-3.94-1.04-2.03.03-3.9 1.18-4.94 3-2.11 3.66-.54 9.08 1.52 12.05 1 1.45 2.2 3.08 3.77 3.02 1.51-.06 2.08-.98 3.91-.98 1.83 0 2.35.98 3.96.95 1.63-.03 2.65-1.48 3.65-2.93 1.15-1.68 1.62-3.31 1.65-3.39-.04-.02-3.17-1.22-3.22-4.87zM13.52 3.83C14.35 2.82 14.91 1.44 14.76 0c-1.2.05-2.65.8-3.51 1.81-.77.89-1.44 2.31-1.26 3.68 1.33.1 2.69-.68 3.53-1.66z"/></svg>
+            <svg width="18" height="22" viewBox="0 0 20 24" fill="currentColor"><path d="M16.52 12.76c-.03-3.02 2.47-4.47 2.58-4.55-1.4-2.05-3.59-2.33-4.37-2.36-1.86-.19-3.63 1.1-4.57 1.1-.94 0-2.4-1.07-3.94-1.04-2.03.03-3.9 1.18-4.94 3-2.11 3.66-.54 9.08 1.52 12.05 1 1.45 2.2 3.08 3.77 3.02 1.51-.06 2.08-.98 3.91-.98 1.83 0 2.35.98 3.96.95 1.63-.03 2.65-1.48 3.65-2.93 1.15-1.68 1.62-3.31 1.65-3.39-.04-.02-3.17-1.22-3.22-4.87zM13.52 3.83C14.35 2.82 14.91 1.44 14.76 0c-1.2.05-2.65.8-3.51 1.81-.77.89-1.44 2.31-1.26 3.68 1.33.1 2.69-.68 3.53-1.66z"/></svg>
             Download on App Store
           </a>
-          <a href="#features" class="btn btn-outline btn-lg">Explore Features</a>
+          <a href="#features" class="btn btn-ghost btn-lg">See Features</a>
         </div>
-        <p class="hero-note">Available on iOS &middot; Android coming soon</p>
+        <p class="hero-note">iOS &middot; Android coming soon</p>
       </div>
       <div class="hero-visual">
         <div class="phone-mockup">
           <div class="phone-frame">
             <div class="phone-screen">
-              <div class="screen-placeholder">
-                <img src="/icon.png" alt="Sihtak App" class="screen-icon">
-                <span class="screen-text">Sihtak</span>
+              <div class="screen-content">
+                <img src="/icon.png" alt="Sihtak App" class="screen-icon" width="64" height="64">
+                <span class="screen-name">Sihtak</span>
               </div>
             </div>
           </div>
+          <div class="phone-shine"></div>
         </div>
       </div>
     </div>
   </section>
 
-  <!-- Stats Bar -->
-  <section class="stats-bar">
+  <!-- Social Proof Bar -->
+  <section class="proof" aria-label="Key statistics">
     <div class="container">
-      <div class="stats-grid">
-        <div class="stat-item animate-on-scroll">
-          <h3 class="gradient-text">18+</h3>
-          <p>Health Features</p>
+      <div class="proof-grid">
+        <div class="proof-item anim">
+          <span class="proof-num">18+</span>
+          <span class="proof-label">Health Features</span>
         </div>
-        <div class="stat-item animate-on-scroll">
-          <h3 class="gradient-text">2</h3>
-          <p>Languages (AR + EN)</p>
+        <div class="proof-divider"></div>
+        <div class="proof-item anim">
+          <span class="proof-num">AR + EN</span>
+          <span class="proof-label">Fully Bilingual</span>
         </div>
-        <div class="stat-item animate-on-scroll">
-          <h3 class="gradient-text">24/7</h3>
-          <p>AI Health Assistant</p>
+        <div class="proof-divider"></div>
+        <div class="proof-item anim">
+          <span class="proof-num">24/7</span>
+          <span class="proof-label">AI Assistant</span>
         </div>
-        <div class="stat-item animate-on-scroll">
-          <h3 class="gradient-text">100%</h3>
-          <p>Free for Patients</p>
+        <div class="proof-divider"></div>
+        <div class="proof-item anim">
+          <span class="proof-num">100%</span>
+          <span class="proof-label">Free for Patients</span>
         </div>
       </div>
     </div>
   </section>
 
-  <!-- Features -->
+  <!-- Features — Bento Grid -->
   <section id="features" class="features">
     <div class="container">
-      <div class="section-header">
-        <h2>Everything you need for<br><span class="gradient-text">smarter health management</span></h2>
-        <p>18+ powerful features designed for patients and healthcare providers alike.</p>
+      <div class="section-head">
+        <span class="section-tag">Features</span>
+        <h2>Everything for<br><span class="gradient-text">smarter health</span></h2>
+        <p>Powerful tools designed for patients and providers alike.</p>
       </div>
-      <div class="features-grid">
-        <div class="feature-card">
-          <div class="feature-icon feature-icon--teal">
-            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg>
+
+      <!-- Bento Grid: 3 hero cards + compact grid -->
+      <div class="bento">
+        <!-- Hero Feature 1: AI Chat -->
+        <div class="bento-hero bento-hero--teal anim">
+          <div class="bento-icon">
+            <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg>
           </div>
           <h3>AI Health Chat</h3>
-          <p>Get instant health guidance powered by Claude AI. Ask about symptoms, medications, lab results, nutrition, and more.</p>
-        </div>
-
-        <div class="feature-card">
-          <div class="feature-icon feature-icon--purple">
-            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 1a3 3 0 0 0-3 3v8a3 3 0 0 0 6 0V4a3 3 0 0 0-3-3z"/><path d="M19 10v2a7 7 0 0 1-14 0v-2"/><line x1="12" y1="19" x2="12" y2="23"/><line x1="8" y1="23" x2="16" y2="23"/></svg>
+          <p>Get instant health guidance powered by Claude AI. Ask about symptoms, medications, labs, nutrition &mdash; in Arabic or English. Voice conversations with hands-free mode.</p>
+          <div class="bento-tags">
+            <span>Voice Chat</span><span>Bilingual</span><span>Context-Aware</span>
           </div>
-          <h3>Voice Conversations</h3>
-          <p>Talk to your AI health assistant hands-free. Real-time speech recognition with natural voice responses in Arabic and English.</p>
         </div>
 
-        <div class="feature-card">
-          <div class="feature-icon feature-icon--blue">
-            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="18" height="18" rx="2"/><circle cx="8.5" cy="8.5" r="1.5"/><path d="m21 15-5-5L5 21"/></svg>
+        <!-- Hero Feature 2: Lab Scanner -->
+        <div class="bento-hero bento-hero--blue anim">
+          <div class="bento-icon">
+            <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="18" height="18" rx="2"/><circle cx="8.5" cy="8.5" r="1.5"/><path d="m21 15-5-5L5 21"/></svg>
           </div>
           <h3>Lab Scanner (OCR)</h3>
-          <p>Scan paper lab reports with your camera. AI-powered OCR digitizes and analyzes results instantly with trend tracking.</p>
+          <p>Scan paper lab reports with your camera. AI digitizes, analyzes, and tracks trends across all your results automatically.</p>
+          <div class="bento-tags">
+            <span>Camera OCR</span><span>AI Analysis</span><span>Trend Tracking</span>
+          </div>
         </div>
 
-        <div class="feature-card">
-          <div class="feature-icon feature-icon--amber">
-            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m10.5 20.5 10-10a4.95 4.95 0 1 0-7-7l-10 10a4.95 4.95 0 1 0 7 7Z"/><path d="m8.5 8.5 7 7"/></svg>
+        <!-- Hero Feature 3: Medication -->
+        <div class="bento-hero bento-hero--amber anim">
+          <div class="bento-icon">
+            <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m10.5 20.5 10-10a4.95 4.95 0 1 0-7-7l-10 10a4.95 4.95 0 1 0 7 7Z"/><path d="m8.5 8.5 7 7"/></svg>
           </div>
           <h3>Medication Manager</h3>
-          <p>Track medications, dosages, and schedules. Adherence calendars, smart reminders, drug interaction warnings, and dose logging.</p>
-        </div>
-
-        <div class="feature-card">
-          <div class="feature-icon feature-icon--green">
-            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 20V6a2 2 0 0 0-2-2H8a2 2 0 0 0-2 2v14"/><path d="M2 20h20"/><path d="M14 12v.01"/></svg>
-          </div>
-          <h3>Nutrition Tracking</h3>
-          <p>Log meals, scan food barcodes, search USDA database. Track calories, protein, carbs, and fat with daily progress rings.</p>
-        </div>
-
-        <div class="feature-card">
-          <div class="feature-icon feature-icon--rose">
-            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/></svg>
-          </div>
-          <h3>Apple Health Sync</h3>
-          <p>Two-way sync with Apple Health. Import heart rate, blood pressure, weight, steps, and more. Your data stays connected.</p>
-        </div>
-
-        <div class="feature-card">
-          <div class="feature-icon feature-icon--teal">
-            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="M12 6v6l4 2"/></svg>
-          </div>
-          <h3>Exercise Logging</h3>
-          <p>Log walking, running, cycling, gym, swimming, and yoga. Automatic calorie estimation with weekly progress tracking.</p>
-        </div>
-
-        <div class="feature-card">
-          <div class="feature-icon feature-icon--purple">
-            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>
-          </div>
-          <h3>Sleep Tracker</h3>
-          <p>Monitor sleep duration, quality, and patterns. Visualize your sleep history with charts and set personalized sleep goals.</p>
-        </div>
-
-        <div class="feature-card">
-          <div class="feature-icon feature-icon--blue">
-            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M22 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>
-          </div>
-          <h3>Family Health</h3>
-          <p>Monitor health records for up to 6 family members. Share labs, medications, and vitals. Invite via link or QR code.</p>
-        </div>
-
-        <div class="feature-card">
-          <div class="feature-icon feature-icon--amber">
-            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 12h-4l-3 9L9 3l-3 9H2"/></svg>
-          </div>
-          <h3>Vitals Dashboard</h3>
-          <p>Track blood pressure, blood sugar, heart rate, temperature, weight, and oxygen. Visual trends and smart alerts for anomalies.</p>
-        </div>
-
-        <div class="feature-card">
-          <div class="feature-icon feature-icon--green">
-            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><path d="M14 2v6h6"/><path d="M16 13H8"/><path d="M16 17H8"/><path d="M10 9H8"/></svg>
-          </div>
-          <h3>Health Passport</h3>
-          <p>Export your complete health summary as a professional PDF. Share with doctors during visits, referrals, or emergencies.</p>
-        </div>
-
-        <div class="feature-card">
-          <div class="feature-icon feature-icon--rose">
-            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 10c0 6-8 12-8 12s-8-6-8-12a8 8 0 0 1 16 0Z"/><circle cx="12" cy="10" r="3"/></svg>
-          </div>
-          <h3>Lab Directory</h3>
-          <p>Find nearby laboratories with ratings and available tests. View locations on a map and book appointments directly.</p>
-        </div>
-
-        <div class="feature-card">
-          <div class="feature-icon feature-icon--teal">
-            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
-          </div>
-          <h3>Symptom Checker</h3>
-          <p>AI-powered symptom analysis. Describe how you feel, get potential causes, urgency assessment, and guidance on next steps.</p>
-        </div>
-
-        <div class="feature-card">
-          <div class="feature-icon feature-icon--purple">
-            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 8a6 6 0 0 1 12 0c0 7 3 9 3 9H3s3-2 3-9"/><path d="M10.3 21a1.94 1.94 0 0 0 3.4 0"/></svg>
-          </div>
-          <h3>Smart Reminders</h3>
-          <p>Custom medication alarms, lab follow-up reminders, and health check notifications. Never miss a dose or appointment.</p>
-        </div>
-
-        <div class="feature-card">
-          <div class="feature-icon feature-icon--blue">
-            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/></svg>
-          </div>
-          <h3>AI Insights</h3>
-          <p>Personalized health insights generated from your data. Actionable recommendations for nutrition, exercise, sleep, and medications.</p>
-        </div>
-
-        <div class="feature-card">
-          <div class="feature-icon feature-icon--rose">
-            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/><circle cx="12" cy="16" r="2"/></svg>
-          </div>
-          <h3>Period Tracker</h3>
-          <p>Track menstrual cycles with predictions, fertile windows, and symptom logging. Visual calendar with history and personalized cycle insights.</p>
-        </div>
-
-        <div class="feature-card">
-          <div class="feature-icon feature-icon--blue">
-            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>
-          </div>
-          <h3>Social Connections</h3>
-          <p>Connect with friends and family on the platform. Search users, send connection requests, and share health milestones with your circle.</p>
-        </div>
-
-        <div class="feature-card">
-          <div class="feature-icon feature-icon--amber">
-            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 8A6 6 0 0 0 6 8c0 7-3 9-3 9h18s-3-2-3-9"/><path d="M13.73 21a2 2 0 0 1-3.46 0"/><line x1="12" y1="2" x2="12" y2="5"/></svg>
-          </div>
-          <h3>Daily Health Tips</h3>
-          <p>Receive personalized daily health tips and reminders. AI-curated advice on nutrition, exercise, mental wellness, and preventive care.</p>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <!-- Highlight: Voice Chat -->
-  <section class="highlight highlight--alt">
-    <div class="container highlight-inner">
-      <div class="highlight-text">
-        <div class="highlight-label">&#127908; Voice-First Experience</div>
-        <h2>Talk to your AI<br><span class="gradient-text">health assistant</span></h2>
-        <p>Have natural voice conversations about your health in Arabic or English. Sihtak listens, understands, and responds with personalized guidance based on your complete health profile.</p>
-        <div class="highlight-features">
-          <div class="highlight-feat">
-            <span class="check check--teal">&#10003;</span>
-            <span>On-device speech recognition &mdash; fast & private</span>
-          </div>
-          <div class="highlight-feat">
-            <span class="check check--teal">&#10003;</span>
-            <span>Natural voice responses in Arabic and English</span>
-          </div>
-          <div class="highlight-feat">
-            <span class="check check--teal">&#10003;</span>
-            <span>Context-aware &mdash; knows your meds, labs & vitals</span>
-          </div>
-          <div class="highlight-feat">
-            <span class="check check--teal">&#10003;</span>
-            <span>Hands-free mode for cooking, exercising, or driving</span>
+          <p>Track medications, dosages, schedules, and adherence. Smart reminders, drug interaction checks, and dose history calendars.</p>
+          <div class="bento-tags">
+            <span>Dose Tracking</span><span>Smart Reminders</span><span>Interaction Alerts</span>
           </div>
         </div>
       </div>
-      <div class="highlight-visual">
-        <div class="visual-card">
-          <div class="visual-orb visual-orb--teal">&#127911;</div>
-          <div class="visual-title">Voice Mode Active</div>
-          <div class="visual-subtitle">Listening in Arabic &middot; Tap to stop</div>
-        </div>
-      </div>
-    </div>
-  </section>
 
-  <!-- Highlight: Apple Health -->
-  <section class="highlight">
-    <div class="container highlight-inner" style="direction: ltr;">
-      <div class="highlight-visual">
-        <div class="visual-card">
-          <div class="visual-orb visual-orb--rose">&#10084;&#65039;</div>
-          <div class="visual-title">Apple Health Connected</div>
-          <div class="visual-subtitle">Syncing heart rate, steps, weight & more</div>
-        </div>
-      </div>
-      <div class="highlight-text">
-        <div class="highlight-label">&#127836; Apple Health Integration</div>
-        <h2>Your health data,<br><span class="gradient-text">all in one place</span></h2>
-        <p>Sihtak syncs seamlessly with Apple Health to pull in your heart rate, blood pressure, weight, steps, sleep data, and more. See everything in one unified dashboard alongside your labs and medications.</p>
-        <div class="highlight-features">
-          <div class="highlight-feat">
-            <span class="check check--rose">&#10003;</span>
-            <span>Two-way sync &mdash; read and write to Apple Health</span>
+      <!-- Compact Feature Grid -->
+      <div class="feat-grid">
+        <div class="feat-item anim">
+          <div class="fi-icon fi-icon--green">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 20V6a2 2 0 0 0-2-2H8a2 2 0 0 0-2 2v14"/><path d="M2 20h20"/></svg>
           </div>
-          <div class="highlight-feat">
-            <span class="check check--rose">&#10003;</span>
-            <span>Heart rate, BP, weight, steps, oxygen & sleep</span>
-          </div>
-          <div class="highlight-feat">
-            <span class="check check--rose">&#10003;</span>
-            <span>Vitals auto-populate from your Apple Watch</span>
-          </div>
-          <div class="highlight-feat">
-            <span class="check check--rose">&#10003;</span>
-            <span>AI insights enhanced with real-time health data</span>
+          <div class="fi-text">
+            <h4>Nutrition Tracking</h4>
+            <p>Log meals, scan barcodes, track calories & macros with daily progress.</p>
           </div>
         </div>
-      </div>
-    </div>
-  </section>
 
-  <!-- Highlight: Wellness -->
-  <section class="highlight highlight--alt">
-    <div class="container highlight-inner">
-      <div class="highlight-text">
-        <div class="highlight-label">&#127793; Complete Wellness Tracking</div>
-        <h2>Nutrition, exercise &<br><span class="gradient-text">sleep in one view</span></h2>
-        <p>Track every aspect of your daily wellness. Log meals with barcode scanning, record workouts with calorie estimation, and monitor your sleep patterns &mdash; all with beautiful progress visualizations.</p>
-        <div class="highlight-features">
-          <div class="highlight-feat">
-            <span class="check check--teal">&#10003;</span>
-            <span>Barcode food scanner with USDA nutrition database</span>
+        <div class="feat-item anim">
+          <div class="fi-icon fi-icon--rose">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><path d="M12 6v6l4 2"/></svg>
           </div>
-          <div class="highlight-feat">
-            <span class="check check--teal">&#10003;</span>
-            <span>6 exercise types with auto calorie calculation</span>
-          </div>
-          <div class="highlight-feat">
-            <span class="check check--teal">&#10003;</span>
-            <span>Sleep quality tracking with weekly trends</span>
-          </div>
-          <div class="highlight-feat">
-            <span class="check check--teal">&#10003;</span>
-            <span>Customizable daily goals for calories, exercise & sleep</span>
+          <div class="fi-text">
+            <h4>Exercise Logging</h4>
+            <p>Track walking, running, cycling, gym, swimming & yoga with calorie estimation.</p>
           </div>
         </div>
-      </div>
-      <div class="highlight-visual">
-        <div class="visual-card">
-          <div class="visual-orb visual-orb--purple">&#127942;</div>
-          <div class="visual-title">Daily Wellness Score</div>
-          <div class="visual-subtitle">Nutrition + Exercise + Sleep progress</div>
+
+        <div class="feat-item anim">
+          <div class="fi-icon fi-icon--purple">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>
+          </div>
+          <div class="fi-text">
+            <h4>Sleep Tracker</h4>
+            <p>Monitor duration, quality, and patterns with weekly charts and goals.</p>
+          </div>
+        </div>
+
+        <div class="feat-item anim">
+          <div class="fi-icon fi-icon--amber">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 12h-4l-3 9L9 3l-3 9H2"/></svg>
+          </div>
+          <div class="fi-text">
+            <h4>Vitals Dashboard</h4>
+            <p>Track BP, blood sugar, heart rate, temperature, weight & oxygen levels.</p>
+          </div>
+        </div>
+
+        <div class="feat-item anim">
+          <div class="fi-icon fi-icon--blue">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M22 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>
+          </div>
+          <div class="fi-text">
+            <h4>Family Health</h4>
+            <p>Monitor up to 6 family members. Share labs, meds, and vitals securely.</p>
+          </div>
+        </div>
+
+        <div class="feat-item anim">
+          <div class="fi-icon fi-icon--rose">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/></svg>
+          </div>
+          <div class="fi-text">
+            <h4>Apple Health Sync</h4>
+            <p>Two-way sync with Apple Health &mdash; heart rate, steps, weight, and more.</p>
+          </div>
+        </div>
+
+        <div class="feat-item anim">
+          <div class="fi-icon fi-icon--teal">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
+          </div>
+          <div class="fi-text">
+            <h4>Symptom Checker</h4>
+            <p>AI-powered symptom analysis with urgency assessment and next steps.</p>
+          </div>
+        </div>
+
+        <div class="feat-item anim">
+          <div class="fi-icon fi-icon--green">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><path d="M14 2v6h6"/></svg>
+          </div>
+          <div class="fi-text">
+            <h4>Health Passport</h4>
+            <p>Export your complete health summary as a PDF for doctor visits.</p>
+          </div>
+        </div>
+
+        <div class="feat-item anim">
+          <div class="fi-icon fi-icon--rose">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
+          </div>
+          <div class="fi-text">
+            <h4>Period Tracker</h4>
+            <p>Track cycles, predict fertile windows, and log symptoms visually.</p>
+          </div>
+        </div>
+
+        <div class="feat-item anim">
+          <div class="fi-icon fi-icon--purple">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 8a6 6 0 0 1 12 0c0 7 3 9 3 9H3s3-2 3-9"/><path d="M10.3 21a1.94 1.94 0 0 0 3.4 0"/></svg>
+          </div>
+          <div class="fi-text">
+            <h4>Smart Reminders</h4>
+            <p>Medication alarms, lab follow-ups, and daily health tips at 9 AM.</p>
+          </div>
+        </div>
+
+        <div class="feat-item anim">
+          <div class="fi-icon fi-icon--amber">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20 10c0 6-8 12-8 12s-8-6-8-12a8 8 0 0 1 16 0Z"/><circle cx="12" cy="10" r="3"/></svg>
+          </div>
+          <div class="fi-text">
+            <h4>Lab Directory</h4>
+            <p>Find nearby labs with ratings, tests, and appointment booking.</p>
+          </div>
+        </div>
+
+        <div class="feat-item anim">
+          <div class="fi-icon fi-icon--blue">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/></svg>
+          </div>
+          <div class="fi-text">
+            <h4>Social Connections</h4>
+            <p>Connect with friends and family, share milestones, and grow your circle.</p>
+          </div>
         </div>
       </div>
     </div>
   </section>
 
   <!-- How It Works -->
-  <section id="how-it-works" class="how-it-works">
+  <section id="how-it-works" class="steps-section">
     <div class="container">
-      <div class="section-header">
-        <h2>Get started in<br><span class="gradient-text">3 simple steps</span></h2>
-        <p>From download to full health management in under a minute.</p>
+      <div class="section-head">
+        <span class="section-tag">Get Started</span>
+        <h2>Up and running in<br><span class="gradient-text">3 simple steps</span></h2>
       </div>
-      <div class="steps-grid">
-        <div class="step-card">
+      <div class="steps">
+        <div class="step anim">
           <div class="step-num">1</div>
-          <h3>Download & Sign Up</h3>
-          <p>Get Sihtak from the App Store. Create an account with email, Apple, or Google sign-in. Choose your preferred language.</p>
+          <h3>Download &amp; Sign Up</h3>
+          <p>Get Sihtak from the App Store. Sign in with email, Apple, or Google. Pick your language.</p>
         </div>
-        <div class="step-card">
+        <div class="step-line"></div>
+        <div class="step anim">
           <div class="step-num">2</div>
           <h3>Add Your Health Data</h3>
-          <p>Scan lab reports, add medications, connect Apple Health, log your first meal or workout. The app adapts to your data.</p>
+          <p>Scan lab reports, add medications, connect Apple Health, log meals or workouts.</p>
         </div>
-        <div class="step-card">
+        <div class="step-line"></div>
+        <div class="step anim">
           <div class="step-num">3</div>
-          <h3>Get Personalized Insights</h3>
-          <p>Chat with the AI assistant about your health, receive smart alerts, track trends, and share reports with your doctor.</p>
+          <h3>Get AI Insights</h3>
+          <p>Chat with AI about your health, receive smart alerts, track trends, and share reports.</p>
         </div>
       </div>
     </div>
   </section>
 
-  <!-- Bilingual -->
+  <!-- Bilingual Showcase -->
   <section class="bilingual">
-    <div class="container bilingual-inner">
+    <div class="container bilingual-inner anim">
       <div class="bilingual-content">
-        <h2>Fully Bilingual<br><span class="gradient-text">عربي + English</span></h2>
-        <p>Sihtak supports both Arabic (with full RTL layout) and English. Switch languages instantly from settings. Every screen, every feature, every notification, every AI response &mdash; in your preferred language.</p>
+        <span class="section-tag">Bilingual</span>
+        <h2>Fully bilingual<br><span class="gradient-text">عربي + English</span></h2>
+        <p>Every screen, notification, and AI response works in both Arabic (RTL) and English. Switch instantly from settings.</p>
       </div>
-      <div class="bilingual-visual">
-        <div class="lang-card">
-          <span class="lang-label">العربية</span>
+      <div class="bilingual-cards">
+        <div class="lang-card lang-card--ar">
+          <span class="lang-tag">العربية</span>
           <span class="lang-text">مرحبا بك في صحتك</span>
         </div>
-        <div class="lang-card">
-          <span class="lang-label">English</span>
+        <div class="lang-card lang-card--en">
+          <span class="lang-tag">English</span>
           <span class="lang-text">Welcome to Sihtak</span>
         </div>
       </div>
     </div>
   </section>
 
-  <!-- Provider CTA -->
+  <!-- Provider Section -->
   <section id="providers" class="provider">
-    <div class="container provider-inner">
-      <div class="provider-badge">For Healthcare Providers</div>
-      <h2>Grow your practice with<br><span class="gradient-text-purple">Sihtak Provider</span></h2>
-      <p>Manage patients, enter lab results, get listed in our directory, and access priority support. Everything a modern healthcare provider needs to go digital.</p>
-      <div class="provider-features">
-        <div class="pf-item"><span class="pf-check">&#10003;</span> Patient management dashboard</div>
-        <div class="pf-item"><span class="pf-check">&#10003;</span> Digital lab result entry</div>
-        <div class="pf-item"><span class="pf-check">&#10003;</span> Business listing in directory</div>
-        <div class="pf-item"><span class="pf-check">&#10003;</span> Priority support channel</div>
-        <div class="pf-item"><span class="pf-check">&#10003;</span> Patient messaging</div>
-        <div class="pf-item"><span class="pf-check">&#10003;</span> Analytics & reports</div>
+    <div class="container">
+      <div class="provider-inner anim">
+        <div class="provider-content">
+          <span class="section-tag section-tag--purple">For Providers</span>
+          <h2>Grow your practice with<br><span class="gradient-text-purple">Sihtak Provider</span></h2>
+          <p>Manage patients, enter lab results, get listed in our directory, and access priority support.</p>
+          <div class="provider-grid">
+            <div class="pf"><span class="pf-dot pf-dot--purple"></span>Patient management</div>
+            <div class="pf"><span class="pf-dot pf-dot--purple"></span>Lab result entry</div>
+            <div class="pf"><span class="pf-dot pf-dot--purple"></span>Directory listing</div>
+            <div class="pf"><span class="pf-dot pf-dot--purple"></span>Priority support</div>
+            <div class="pf"><span class="pf-dot pf-dot--purple"></span>Patient messaging</div>
+            <div class="pf"><span class="pf-dot pf-dot--purple"></span>Analytics &amp; reports</div>
+          </div>
+        </div>
       </div>
     </div>
   </section>
 
   <!-- Download CTA -->
-  <section id="download" class="download">
-    <div class="container download-inner">
-      <h2>Start managing your health<br><span class="gradient-text">intelligently, today</span></h2>
-      <p>Free for all patients. No limits. No catches. No ads.</p>
-      <a href="https://apps.apple.com/app/id6760306334" class="btn btn-primary btn-lg">
-        <svg width="20" height="24" viewBox="0 0 20 24" fill="currentColor"><path d="M16.52 12.76c-.03-3.02 2.47-4.47 2.58-4.55-1.4-2.05-3.59-2.33-4.37-2.36-1.86-.19-3.63 1.1-4.57 1.1-.94 0-2.4-1.07-3.94-1.04-2.03.03-3.9 1.18-4.94 3-2.11 3.66-.54 9.08 1.52 12.05 1 1.45 2.2 3.08 3.77 3.02 1.51-.06 2.08-.98 3.91-.98 1.83 0 2.35.98 3.96.95 1.63-.03 2.65-1.48 3.65-2.93 1.15-1.68 1.62-3.31 1.65-3.39-.04-.02-3.17-1.22-3.22-4.87zM13.52 3.83C14.35 2.82 14.91 1.44 14.76 0c-1.2.05-2.65.8-3.51 1.81-.77.89-1.44 2.31-1.26 3.68 1.33.1 2.69-.68 3.53-1.66z"/></svg>
-        Download on App Store
-      </a>
+  <section id="download" class="cta">
+    <div class="container">
+      <div class="cta-card anim">
+        <h2>Start managing your health<br><span class="gradient-text">intelligently, today</span></h2>
+        <p>Free for all patients. No limits. No ads.</p>
+        <a href="https://apps.apple.com/app/id6760306334" class="btn btn-primary btn-lg">
+          <svg width="18" height="22" viewBox="0 0 20 24" fill="currentColor"><path d="M16.52 12.76c-.03-3.02 2.47-4.47 2.58-4.55-1.4-2.05-3.59-2.33-4.37-2.36-1.86-.19-3.63 1.1-4.57 1.1-.94 0-2.4-1.07-3.94-1.04-2.03.03-3.9 1.18-4.94 3-2.11 3.66-.54 9.08 1.52 12.05 1 1.45 2.2 3.08 3.77 3.02 1.51-.06 2.08-.98 3.91-.98 1.83 0 2.35.98 3.96.95 1.63-.03 2.65-1.48 3.65-2.93 1.15-1.68 1.62-3.31 1.65-3.39-.04-.02-3.17-1.22-3.22-4.87zM13.52 3.83C14.35 2.82 14.91 1.44 14.76 0c-1.2.05-2.65.8-3.51 1.81-.77.89-1.44 2.31-1.26 3.68 1.33.1 2.69-.68 3.53-1.66z"/></svg>
+          Download on App Store
+        </a>
+      </div>
     </div>
   </section>
 
   <!-- Footer -->
-  <footer class="footer">
+  <footer class="footer" role="contentinfo">
     <div class="container footer-inner">
       <div class="footer-brand">
-        <img src="/icon.png" alt="Sihtak" class="footer-logo">
+        <img src="/icon.png" alt="" class="footer-logo" width="28" height="28">
         <span>Sihtak &mdash; صحتك</span>
       </div>
-      <div class="footer-links">
+      <nav class="footer-links" aria-label="Footer navigation">
         <a href="/privacy">Privacy Policy</a>
         <a href="/terms">Terms of Service</a>
         <a href="/contact">Contact</a>
-      </div>
+      </nav>
       <div class="footer-copy">
         <p>&copy; 2026 Sihtak. All rights reserved.</p>
         <p class="footer-disclaimer">Sihtak provides educational health information only. Always consult your doctor for medical advice.</p>
@@ -456,24 +412,15 @@
   </footer>
 
   <script>
-    // Scroll animations
-    const observer = new IntersectionObserver((entries) => {
-      entries.forEach(entry => {
-        if (entry.isIntersecting) {
-          entry.target.classList.add('visible');
-          observer.unobserve(entry.target);
-        }
+    const io = new IntersectionObserver((entries) => {
+      entries.forEach(e => {
+        if (e.isIntersecting) { e.target.classList.add('in'); io.unobserve(e.target); }
       });
-    }, { threshold: 0.1 });
-    document.querySelectorAll('.feature-card, .bilingual-inner, .provider-inner, .download-inner, .lang-card, .stat-item, .step-card, .highlight-inner, .visual-card').forEach(el => {
-      el.classList.add('animate-on-scroll');
-      observer.observe(el);
-    });
-    // Close hamburger on link click
-    document.querySelectorAll('.nav-links a').forEach(link => {
-      link.addEventListener('click', () => {
-        document.getElementById('nav-toggle').checked = false;
-      });
+    }, { threshold: 0.1, rootMargin: '0px 0px -40px 0px' });
+    document.querySelectorAll('.anim').forEach(el => io.observe(el));
+    // Close mobile nav on link click
+    document.querySelectorAll('.nav-links a').forEach(a => {
+      a.addEventListener('click', () => { document.getElementById('nav-toggle').checked = false; });
     });
   </script>
 </body>
