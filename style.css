@@ -638,6 +638,67 @@ img { max-width: 100%; display: block; }
 .phone-glow { animation: phone-breathe 3s ease-in-out infinite; }
 @keyframes phone-breathe { 0%,100% { opacity: .7; } 50% { opacity: 1; filter: blur(50px); } }
 
+/* ===== Hero phone with real screenshot ===== */
+.hero .phone-screen {
+  background: url('/screenshots/dashboard.png') top center / cover;
+  padding: 0;
+}
+.hero .phone-screen > * { display: none; }
+
+/* ===== App Screenshots Showcase ===== */
+.showcase {
+  padding: 100px 0; position: relative; overflow: hidden;
+}
+.showcase-bg {
+  position: absolute; inset: 0; pointer-events: none;
+  background: radial-gradient(ellipse 60% 50% at 50% 50%, rgba(13,148,136,.04), transparent);
+}
+.showcase-phones {
+  display: flex; justify-content: center; align-items: flex-start;
+  gap: 60px; perspective: 1200px;
+}
+.showcase-item { text-align: center; max-width: 300px; }
+.showcase-phone {
+  position: relative; margin-bottom: 24px;
+}
+.showcase-phone img {
+  width: 260px; height: auto; border-radius: 32px;
+  border: 2px solid rgba(255,255,255,.08);
+  box-shadow: 0 40px 80px rgba(0,0,0,.45), 0 0 60px rgba(13,148,136,.04);
+  transition: transform .6s cubic-bezier(.23,1,.32,1), box-shadow .6s ease;
+  display: block;
+}
+.showcase-phone--1 img {
+  transform: perspective(1200px) rotateY(6deg) rotateX(1deg);
+}
+[dir="rtl"] .showcase-phone--1 img {
+  transform: perspective(1200px) rotateY(-6deg) rotateX(1deg);
+}
+.showcase-phone--2 img {
+  transform: perspective(1200px) rotateY(-6deg) rotateX(1deg);
+}
+[dir="rtl"] .showcase-phone--2 img {
+  transform: perspective(1200px) rotateY(6deg) rotateX(1deg);
+}
+.showcase-phone:hover img {
+  transform: perspective(1200px) rotateY(0) rotateX(0);
+  box-shadow: 0 40px 80px rgba(0,0,0,.45), 0 0 80px rgba(13,148,136,.08);
+}
+.showcase-item h3 { font-size: 18px; font-weight: 800; margin-bottom: 6px; }
+.showcase-item p { font-size: 14px; color: var(--text-m); line-height: 1.5; }
+
+@media (max-width: 640px) {
+  .showcase { padding: 56px 0; }
+  .showcase-phones { flex-direction: column; align-items: center; gap: 40px; }
+  .showcase-phone img {
+    width: 220px; border-radius: 28px;
+    transform: none !important;
+    box-shadow: 0 24px 48px rgba(0,0,0,.4);
+  }
+  .showcase-item h3 { font-size: 16px; }
+  .showcase-item p { font-size: 13px; }
+}
+
 /* Wave section dividers */
 .wave { line-height: 0; overflow: hidden; background: var(--bg); margin-top: -1px; position: relative; z-index: 1; }
 .wave svg { width: 100%; height: 70px; display: block; }
