@@ -27,8 +27,8 @@
   <meta name="twitter:description" content="تطبيق صحة مجاني: محادثة ذكية بالصوت، ماسح تحاليل، متابعة أدوية وتفاعلات، تغذية وتمارين ونوم ودورة شهرية، صحة عائلة، جواز صحي PDF.">
   <meta name="twitter:image" content="https://www.sihtak.com/og-image.png">
   <meta name="apple-itunes-app" content="app-id=6760306334">
-  <meta name="theme-color" content="#030303" id="meta-theme-color">
-  <meta name="color-scheme" content="dark" id="meta-color-scheme">
+  <meta name="theme-color" content="#ffffff" id="meta-theme-color">
+  <meta name="color-scheme" content="light" id="meta-color-scheme">
   <link rel="icon" type="image/png" href="/icon.png">
   <link rel="apple-touch-icon" href="/icon.png">
   <link rel="sitemap" type="application/xml" href="/sitemap.xml">
@@ -37,7 +37,7 @@
   <link rel="preload" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Tajawal:wght@400;500;700;800&display=swap" as="style">
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Tajawal:wght@400;500;700;800&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="/style.css">
-  <script>(function(){var t=localStorage.getItem('sihtak-theme');if(t==='light'||(!t&&window.matchMedia('(prefers-color-scheme: light)').matches)){document.documentElement.setAttribute('data-theme','light');}})();</script>
+  <script>(function(){var t=localStorage.getItem('sihtak-theme');if(t!=='dark'){document.documentElement.setAttribute('data-theme','light');}})();</script>
 
   <!-- Schema: SoftwareApplication -->
   <script type="application/ld+json">
@@ -769,7 +769,7 @@
     function getPreferredTheme() {
       var stored = localStorage.getItem('sihtak-theme');
       if (stored) return stored;
-      return window.matchMedia('(prefers-color-scheme: light)').matches ? 'light' : 'dark';
+      return 'light';
     }
 
     function applyTheme(theme) {
