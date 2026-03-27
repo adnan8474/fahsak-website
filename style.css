@@ -1532,12 +1532,17 @@ img { max-width: 100%; display: block; }
     perspective: none;
     flex-direction: row;
     gap: 10px;
+    overflow-x: auto;
+    justify-content: flex-start;
+    padding: 0 20px 12px;
+    scroll-snap-type: x mandatory;
+    -webkit-overflow-scrolling: touch;
   }
   .phone-showcase::before { width: 200px; height: 200px; }
-  .phone-showcase .phone-secondary { position: relative; left: auto; right: auto; top: auto; }
-  .phone-showcase .phone-secondary--left { transform: scale(0.88); opacity: 0.7; }
-  .phone-showcase .phone-secondary--right { display: none; }
-  .phone-showcase .phone-main { transform: none; }
+  .phone-showcase .phone-secondary { position: relative; left: auto; right: auto; top: auto; flex-shrink: 0; scroll-snap-align: center; }
+  .phone-showcase .phone-secondary--left { transform: scale(0.92); opacity: 0.8; }
+  .phone-showcase .phone-secondary--right { transform: scale(0.92); opacity: 0.8; flex-shrink: 0; scroll-snap-align: center; }
+  .phone-showcase .phone-main { transform: none; flex-shrink: 0; scroll-snap-align: center; }
   .phone { width: 180px; height: 380px; border-radius: 32px; }
   .phone img { border-radius: 30px; }
   .phone--large { width: 200px; height: 420px; }
@@ -1708,7 +1713,8 @@ img { max-width: 100%; display: block; }
 
   .phone { width: 140px; height: 300px; }
   .phone--large, .phone--xl { width: 160px; height: 340px; }
-  .phone-showcase .phone-secondary--left { display: none; }
+  .phone-showcase .phone-secondary--left { transform: scale(0.88); opacity: 0.75; }
+  .phone-showcase .phone-secondary--right { transform: scale(0.88); opacity: 0.75; }
 
   .section-title { font-size: 22px; }
   .feature-title { font-size: 21px; }
