@@ -7,6 +7,7 @@
     <meta name="apple-itunes-app" content="app-id=6760306334">
     <link rel="icon" href="/icon.png" type="image/png">
     <link rel="stylesheet" href="/style.css">
+    <script>(function(){var t=localStorage.getItem('sihtak-theme');if(t==='light'||(!t&&window.matchMedia('(prefers-color-scheme: light)').matches)){document.documentElement.setAttribute('data-theme','light');}})();</script>
     <style>
         .join-container {
             min-height: 100vh;
@@ -126,6 +127,20 @@
             font-size: 0.85rem;
             margin-top: 1.5rem;
         }
+        /* Light mode overrides */
+        html[data-theme="light"] .join-card {
+            background: rgba(0,0,0,0.02);
+            border-color: rgba(0,0,0,0.08);
+        }
+        html[data-theme="light"] .join-title { color: #111111; }
+        html[data-theme="light"] .join-subtitle { color: #555555; }
+        html[data-theme="light"] .join-code-label { color: #555555; }
+        html[data-theme="light"] .join-step { color: #444444; }
+        html[data-theme="light"] .join-btn-secondary {
+            border-color: rgba(0,0,0,0.1);
+            color: #555555;
+        }
+        html[data-theme="light"] .ar-text { color: #666666; }
     </style>
 </head>
 <body>
