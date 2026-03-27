@@ -80,6 +80,7 @@
       <div class="hero-glow hero-glow--2"></div>
       <div class="hero-glow hero-glow--3"></div>
       <div class="hero-grid"></div>
+      <div class="particles"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div>
     </div>
     <div class="container hero-inner">
       <div class="hero-content">
@@ -159,9 +160,17 @@
     </div>
   </section>
 
+  <div class="wave"><svg viewBox="0 0 1440 70" preserveAspectRatio="none"><path d="M0,48L48,42.7C96,37,192,27,288,32C384,37,480,56,576,56C672,56,768,37,864,32C960,27,1056,37,1152,42.7C1248,48,1344,43,1392,40.3L1440,37L1440,70L0,70Z" fill="#0a0f1e"/></svg></div>
+
   <!-- Stats Bar -->
   <section class="stats" aria-label="Key statistics">
     <div class="container">
+      <div class="stats-ecg" aria-hidden="true">
+        <svg viewBox="0 0 600 40" preserveAspectRatio="none">
+          <defs><linearGradient id="ecg-g" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="rgba(45,212,191,0)"/><stop offset="50%" stop-color="rgba(45,212,191,.25)"/><stop offset="100%" stop-color="rgba(45,212,191,0)"/></linearGradient></defs>
+          <polyline points="0,20 80,20 100,20 110,5 120,35 130,20 150,20 230,20 250,20 260,5 270,35 280,20 300,20 380,20 400,20 410,5 420,35 430,20 450,20 530,20 550,20 560,5 570,35 580,20 600,20" fill="none" stroke="url(#ecg-g)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+      </div>
       <div class="stats-grid">
         <div class="stats-item anim">
           <span class="stats-num">+45</span>
@@ -229,7 +238,23 @@
           </div>
         </div>
         <div class="ai-visual">
-          <div class="chat-demo">
+          <div class="ai-network" aria-hidden="true">
+          <svg viewBox="0 0 400 350" fill="none">
+            <circle cx="200" cy="175" r="50" stroke="rgba(45,212,191,.12)" stroke-width="1"/><circle cx="200" cy="175" r="100" stroke="rgba(45,212,191,.06)" stroke-width="1"/><circle cx="200" cy="175" r="150" stroke="rgba(45,212,191,.03)" stroke-width="1"/>
+            <circle cx="200" cy="175" r="6" fill="rgba(45,212,191,.4)"><animate attributeName="r" values="6;8;6" dur="3s" repeatCount="indefinite"/></circle>
+            <circle cx="110" cy="90" r="4" fill="rgba(139,92,246,.35)"/><line x1="110" y1="90" x2="200" y2="175" stroke="rgba(139,92,246,.1)" stroke-width="1"/>
+            <circle cx="300" cy="100" r="3.5" fill="rgba(59,130,246,.35)"/><line x1="300" y1="100" x2="200" y2="175" stroke="rgba(59,130,246,.1)" stroke-width="1"/>
+            <circle cx="80" cy="200" r="3" fill="rgba(16,185,129,.3)"/><line x1="80" y1="200" x2="200" y2="175" stroke="rgba(16,185,129,.08)" stroke-width="1"/>
+            <circle cx="320" cy="230" r="4" fill="rgba(245,158,11,.3)"/><line x1="320" y1="230" x2="200" y2="175" stroke="rgba(245,158,11,.08)" stroke-width="1"/>
+            <circle cx="140" cy="290" r="3.5" fill="rgba(244,63,94,.3)"/><line x1="140" y1="290" x2="200" y2="175" stroke="rgba(244,63,94,.08)" stroke-width="1"/>
+            <circle cx="280" cy="310" r="3" fill="rgba(45,212,191,.3)"/><line x1="280" y1="310" x2="200" y2="175" stroke="rgba(45,212,191,.08)" stroke-width="1"/>
+            <circle cx="60" cy="130" r="2.5" fill="rgba(59,130,246,.25)"/><line x1="60" y1="130" x2="110" y2="90" stroke="rgba(59,130,246,.06)" stroke-width="1"/>
+            <circle cx="340" cy="170" r="2.5" fill="rgba(139,92,246,.25)"/><line x1="340" y1="170" x2="300" y2="100" stroke="rgba(139,92,246,.06)" stroke-width="1"/>
+            <circle cx="150" cy="50" r="2" fill="rgba(245,158,11,.2)"/><line x1="150" y1="50" x2="110" y2="90" stroke="rgba(245,158,11,.05)" stroke-width="1"/>
+            <circle cx="260" cy="50" r="2" fill="rgba(16,185,129,.2)"/><line x1="260" y1="50" x2="300" y2="100" stroke="rgba(16,185,129,.05)" stroke-width="1"/>
+          </svg>
+        </div>
+        <div class="chat-demo">
             <div class="chat-msg chat-msg--user">
               <span data-ar="ما هي أعراض نقص فيتامين د؟" data-en="What are vitamin D deficiency symptoms?">ما هي أعراض نقص فيتامين د؟</span>
             </div>
@@ -486,6 +511,8 @@
       </div>
     </div>
   </section>
+
+  <div class="wave"><svg viewBox="0 0 1440 70" preserveAspectRatio="none"><path d="M0,32L48,37.3C96,43,192,53,288,48C384,43,480,21,576,21.3C672,21,768,43,864,48C960,53,1056,43,1152,37.3C1248,32,1344,37,1392,40L1440,43L1440,70L0,70Z" fill="#0a0f1e"/></svg></div>
 
   <!-- How It Works -->
   <section id="how-it-works" class="steps-section">
