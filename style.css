@@ -1530,19 +1530,15 @@ img { max-width: 100%; display: block; }
   .phone-showcase {
     height: auto;
     perspective: none;
-    flex-direction: row;
-    gap: 10px;
-    overflow-x: auto;
-    justify-content: flex-start;
-    padding: 0 20px 12px;
-    scroll-snap-type: x mandatory;
-    -webkit-overflow-scrolling: touch;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 12px 10px;
   }
   .phone-showcase::before { width: 200px; height: 200px; }
-  .phone-showcase .phone-secondary { position: relative; left: auto; right: auto; top: auto; flex-shrink: 0; scroll-snap-align: center; }
-  .phone-showcase .phone-secondary--left { transform: scale(0.92); opacity: 0.8; }
-  .phone-showcase .phone-secondary--right { transform: scale(0.92); opacity: 0.8; flex-shrink: 0; scroll-snap-align: center; }
-  .phone-showcase .phone-main { transform: none; flex-shrink: 0; scroll-snap-align: center; }
+  .phone-showcase .phone-main { transform: none; order: -1; flex-basis: 100%; display: flex; justify-content: center; }
+  .phone-showcase .phone-secondary { position: relative; left: auto; right: auto; top: auto; }
+  .phone-showcase .phone-secondary--left { transform: none; opacity: 0.85; }
+  .phone-showcase .phone-secondary--right { transform: none; opacity: 0.85; }
   .phone { width: 180px; height: 380px; border-radius: 32px; }
   .phone img { border-radius: 30px; }
   .phone--large { width: 200px; height: 420px; }
