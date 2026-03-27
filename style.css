@@ -163,9 +163,7 @@ img { max-width: 100%; display: block; }
   min-height: 100vh;
   display: flex;
   align-items: center;
-  background:
-    linear-gradient(180deg, rgba(3,3,3,0.6) 0%, rgba(3,3,3,0.85) 40%, var(--bg) 100%),
-    url('/images/hero-bg.jpg') center/cover no-repeat;
+  background: var(--bg);
 }
 
 /* Hero gradient accents */
@@ -540,32 +538,43 @@ img { max-width: 100%; display: block; }
 
 .feature--left .feature-visual { order: -1; }
 
-/* Section background images with dark overlays */
+/* Section accent backgrounds — solid dark with subtle gradient tint */
 .feature--accent-teal {
-  background:
-    linear-gradient(135deg, rgba(3,3,3,0.92) 0%, rgba(0,212,170,0.06) 50%, rgba(3,3,3,0.95) 100%),
-    url('/images/ai-tech-bg.jpg') center/cover no-repeat;
+  background: linear-gradient(135deg, var(--bg) 0%, rgba(0,212,170,0.04) 50%, var(--bg) 100%);
 }
 .feature--accent-blue {
-  background:
-    linear-gradient(135deg, rgba(3,3,3,0.93) 0%, rgba(96,165,250,0.05) 50%, rgba(3,3,3,0.95) 100%),
-    url('/images/lab-bg.jpg') center/cover no-repeat;
+  background: linear-gradient(135deg, var(--bg-surface) 0%, rgba(96,165,250,0.03) 50%, var(--bg-surface) 100%);
 }
 .feature--accent-purple {
-  background:
-    linear-gradient(135deg, rgba(3,3,3,0.92) 0%, rgba(167,139,250,0.06) 50%, rgba(3,3,3,0.95) 100%),
-    url('/images/wellness-bg.jpg') center/cover no-repeat;
+  background: linear-gradient(135deg, var(--bg) 0%, rgba(167,139,250,0.04) 50%, var(--bg) 100%);
 }
 .feature--accent-rose {
-  background:
-    linear-gradient(135deg, rgba(3,3,3,0.93) 0%, rgba(251,113,133,0.05) 50%, rgba(3,3,3,0.95) 100%),
-    url('/images/family-bg.jpg') center/cover no-repeat;
+  background: linear-gradient(135deg, var(--bg-surface) 0%, rgba(251,113,133,0.03) 50%, var(--bg-surface) 100%);
 }
 .feature--accent-amber {
-  background:
-    linear-gradient(135deg, rgba(3,3,3,0.92) 0%, rgba(251,191,36,0.05) 50%, rgba(3,3,3,0.95) 100%),
-    url('/images/security-bg.jpg') center/cover no-repeat;
+  background: linear-gradient(135deg, var(--bg) 0%, rgba(251,191,36,0.03) 50%, var(--bg) 100%);
 }
+
+/* ===== Floating Decorations ===== */
+.floater {
+  position: absolute;
+  pointer-events: none;
+  z-index: 0;
+  opacity: 1;
+  user-select: none;
+}
+.floater--top-right { top: 20px; right: 20px; }
+.floater--top-left { top: 20px; left: 20px; }
+.floater--bottom-right { bottom: 20px; right: 40px; }
+.floater--bottom-left { bottom: 20px; left: 40px; }
+.floater--mid-right { top: 50%; right: 0; transform: translateY(-50%); }
+.floater--mid-left { top: 50%; left: 0; transform: translateY(-50%); }
+[dir="rtl"] .floater--top-right { right: auto; left: 20px; }
+[dir="rtl"] .floater--top-left { left: auto; right: 20px; }
+[dir="rtl"] .floater--bottom-right { right: auto; left: 40px; }
+[dir="rtl"] .floater--bottom-left { left: auto; right: 40px; }
+[dir="rtl"] .floater--mid-right { right: auto; left: 0; }
+[dir="rtl"] .floater--mid-left { left: auto; right: 0; }
 
 .feature-tag {
   display: inline-flex;
@@ -729,9 +738,7 @@ img { max-width: 100%; display: block; }
   border-bottom: 1px solid var(--border);
   overflow: hidden;
   position: relative;
-  background:
-    linear-gradient(180deg, rgba(3,3,3,0.94) 0%, rgba(0,212,170,0.04) 50%, rgba(3,3,3,0.96) 100%),
-    url('/images/hero-bg.jpg') center/cover no-repeat;
+  background: linear-gradient(180deg, var(--bg-surface) 0%, rgba(0,212,170,0.03) 50%, var(--bg-surface) 100%);
 }
 
 .gallery::before {
@@ -874,6 +881,8 @@ img { max-width: 100%; display: block; }
   background: var(--bg-surface);
   border-top: 1px solid var(--border);
   border-bottom: 1px solid var(--border);
+  position: relative;
+  overflow: hidden;
 }
 
 .steps-inner {
@@ -1152,9 +1161,7 @@ img { max-width: 100%; display: block; }
   text-align: center;
   position: relative;
   overflow: hidden;
-  background:
-    linear-gradient(180deg, var(--bg) 0%, rgba(3,3,3,0.88) 30%, rgba(0,212,170,0.08) 50%, rgba(3,3,3,0.92) 70%, var(--bg) 100%),
-    url('/images/cta-bg.jpg') center/cover no-repeat;
+  background: linear-gradient(180deg, var(--bg) 0%, rgba(0,212,170,0.06) 50%, var(--bg) 100%);
 }
 
 .cta::before {
@@ -1436,6 +1443,8 @@ img { max-width: 100%; display: block; }
   }
   .feature--left .feature-visual { order: -1; }
   .feature-visual { order: -1; }
+  .floater { display: none; }
+  .hero-deco { display: none; }
   .feature-tag { font-size: 11px; margin-bottom: 12px; }
   .feature-title { font-size: 26px; margin-bottom: 14px; }
   [lang="ar"] .feature-title { font-size: 24px; }

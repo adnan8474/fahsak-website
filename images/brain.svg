@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="140" height="140" viewBox="0 0 140 140" fill="none">
+  <path d="M70 25 C45 25 30 45 30 65 C30 85 45 100 55 105 L55 115 L85 115 L85 105 C95 100 110 85 110 65 C110 45 95 25 70 25Z" fill="url(#bg1)" opacity="0.1"/>
+  <path d="M70 35 C70 35 55 45 55 65 C55 85 70 95 70 95" stroke="#00D4AA" stroke-width="1" opacity="0.12"/>
+  <path d="M70 35 C70 35 85 45 85 65 C85 85 70 95 70 95" stroke="#60a5fa" stroke-width="1" opacity="0.12"/>
+  <circle cx="55" cy="55" r="4" fill="#00D4AA" opacity="0.15"/>
+  <circle cx="85" cy="55" r="4" fill="#60a5fa" opacity="0.15"/>
+  <circle cx="60" cy="75" r="3" fill="#a78bfa" opacity="0.12"/>
+  <circle cx="80" cy="75" r="3" fill="#a78bfa" opacity="0.12"/>
+  <circle cx="70" cy="60" r="3" fill="#fbbf24" opacity="0.1"/>
+  <line x1="55" y1="55" x2="70" y2="60" stroke="#00D4AA" stroke-width="0.5" opacity="0.1"/>
+  <line x1="85" y1="55" x2="70" y2="60" stroke="#60a5fa" stroke-width="0.5" opacity="0.1"/>
+  <line x1="60" y1="75" x2="70" y2="60" stroke="#a78bfa" stroke-width="0.5" opacity="0.1"/>
+  <line x1="80" y1="75" x2="70" y2="60" stroke="#a78bfa" stroke-width="0.5" opacity="0.1"/>
+  <defs>
+    <linearGradient id="bg1" x1="30" y1="25" x2="110" y2="115">
+      <stop offset="0%" stop-color="#00D4AA"/>
+      <stop offset="50%" stop-color="#a78bfa"/>
+      <stop offset="100%" stop-color="#60a5fa"/>
+    </linearGradient>
+  </defs>
+</svg>
