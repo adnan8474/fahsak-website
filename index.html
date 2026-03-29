@@ -29,7 +29,8 @@
   <meta name="twitter:description" content="Free AI health app: voice chat with AI doctor, lab scanner OCR, medication tracker with drug interactions, nutrition, exercise, sleep & period tracking, family health circles, PDF health passport. Arabic & English.">
   <meta name="twitter:image" content="https://www.sihtak.com/og-image.png">
   <meta name="twitter:image:alt" content="Sihtak AI Health Companion App">
-  <!-- <meta name="apple-itunes-app" content="app-id=6760306334"> -->
+  <meta name="apple-itunes-app" content="app-id=6760306334">
+  <link rel="manifest" href="/manifest.json">
   <meta name="theme-color" content="#ffffff" id="meta-theme-color">
   <meta name="color-scheme" content="light" id="meta-color-scheme">
   <link rel="icon" type="image/png" href="/icon.png">
@@ -82,7 +83,7 @@
     "contactPoint": [
       { "@type": "ContactPoint", "contactType": "customer service", "email": "contact@sihtak.com", "url": "https://www.sihtak.com/contact", "availableLanguage": ["Arabic", "English"] }
     ],
-    "sameAs": []
+    "sameAs": ["https://fahsak.com", "https://fahsak.co.uk"]
   }
   </script>
 
@@ -130,6 +131,46 @@
         "@type": "Question",
         "name": "Does it work offline?",
         "acceptedAnswer": { "@type": "Answer", "text": "Yes. Sihtak uses an offline-first architecture. Your health data is cached locally so you can view medications, vitals, lab results, and more without internet. Failed requests are automatically queued and synced when connectivity returns." }
+      },
+      {
+        "@type": "Question",
+        "name": "What languages does Sihtak support?",
+        "acceptedAnswer": { "@type": "Answer", "text": "Sihtak is fully bilingual in Arabic and English. The entire interface, AI assistant, voice mode, and all notifications work seamlessly in both languages. You can switch languages anytime from settings." }
+      },
+      {
+        "@type": "Question",
+        "name": "How does the medication tracker work?",
+        "acceptedAnswer": { "@type": "Answer", "text": "Add your medications with dosage, frequency, and schedule. Sihtak sends smart reminders, tracks adherence, checks for drug-drug and drug-food interactions using a clinical database, and alerts you to potential side effects. Your doctor can also view your medication list if you share access." }
+      },
+      {
+        "@type": "Question",
+        "name": "Can I share my health data with my doctor?",
+        "acceptedAnswer": { "@type": "Answer", "text": "Yes. Sihtak's Health Passport feature lets you generate a shareable summary of your medical profile — including medications, lab results, conditions, allergies, and vitals — that you can share with any healthcare provider via a secure link or PDF." }
+      },
+      {
+        "@type": "Question",
+        "name": "Does Sihtak have a family sharing feature?",
+        "acceptedAnswer": { "@type": "Answer", "text": "Yes. The Social Connections feature lets you connect with family members and caregivers. You can share health updates, coordinate care, and manage health profiles for children or elderly family members — all within the app." }
+      },
+      {
+        "@type": "Question",
+        "name": "Is there a period and cycle tracker?",
+        "acceptedAnswer": { "@type": "Answer", "text": "Yes. Sihtak includes a full menstrual cycle tracker with period logging, cycle predictions, symptom tracking, and AI-powered insights. It integrates with your overall health profile so the AI assistant can consider your cycle in its health recommendations." }
+      },
+      {
+        "@type": "Question",
+        "name": "Is Sihtak available on Android?",
+        "acceptedAnswer": { "@type": "Answer", "text": "Sihtak is currently available on iOS (iPhone and iPad). An Android version is in development and will be available soon. Join our waitlist to be notified when the Android app launches." }
+      },
+      {
+        "@type": "Question",
+        "name": "What makes Sihtak different from other health apps?",
+        "acceptedAnswer": { "@type": "Answer", "text": "Sihtak combines 12+ health tools into one AI-powered app: voice AI chat, lab scanner with OCR, drug interaction checker, symptom checker, medication tracker, vitals logging, period tracker, health passport, and more. Most health apps do one thing — Sihtak connects everything with AI that understands your full medical context." }
+      },
+      {
+        "@type": "Question",
+        "name": "Can I export or delete my data?",
+        "acceptedAnswer": { "@type": "Answer", "text": "Yes. Sihtak is fully GDPR compliant. You can export all your health data at any time from Settings, and you can permanently delete your account and all associated data. We believe your health data belongs to you." }
       }
     ]
   }
@@ -150,8 +191,7 @@
   }
   </script>
 
-  <link rel="preload" href="/screenshots/dashboard.png" as="image">
-  <link rel="preload" href="/screenshots/voice-chat.png" as="image">
+  <!-- Preloads removed: 2.9MB images killed LCP score -->
 </head>
 <body>
 
@@ -727,6 +767,62 @@
             <svg class="faq-arrow" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"/></svg>
           </button>
           <div class="faq-a"><p data-ar="نعم. التطبيق مبني بمعمارية offline-first — بياناتك الصحية محفوظة محلياً فيمكنك عرض أدويتك وعلاماتك الحيوية وتحاليلك بدون إنترنت. الطلبات الفاشلة تُحفظ تلقائياً وتُرسل عند عودة الاتصال." data-en="Yes. The app uses an offline-first architecture — your health data is cached locally so you can view medications, vitals, and lab results without internet. Failed requests are queued and synced when connectivity returns.">نعم. التطبيق مبني بمعمارية offline-first — بياناتك الصحية محفوظة محلياً فيمكنك عرض أدويتك وعلاماتك الحيوية وتحاليلك بدون إنترنت. الطلبات الفاشلة تُحفظ تلقائياً وتُرسل عند عودة الاتصال.</p></div>
+        </div>
+        <div class="faq-item">
+          <button class="faq-q" onclick="this.parentElement.classList.toggle('open')">
+            <span data-ar="ما هي اللغات التي يدعمها صحتك؟" data-en="What languages does Sihtak support?">ما هي اللغات التي يدعمها صحتك؟</span>
+            <svg class="faq-arrow" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"/></svg>
+          </button>
+          <div class="faq-a"><p data-ar="صحتك ثنائي اللغة بالكامل — عربي وإنجليزي. الواجهة بالكامل، المساعد الذكي، الوضع الصوتي، وجميع الإشعارات تعمل بسلاسة بكلتا اللغتين. يمكنك تبديل اللغة في أي وقت من الإعدادات." data-en="Sihtak is fully bilingual in Arabic and English. The entire interface, AI assistant, voice mode, and all notifications work seamlessly in both languages. You can switch languages anytime from settings.">صحتك ثنائي اللغة بالكامل — عربي وإنجليزي. الواجهة بالكامل، المساعد الذكي، الوضع الصوتي، وجميع الإشعارات تعمل بسلاسة بكلتا اللغتين. يمكنك تبديل اللغة في أي وقت من الإعدادات.</p></div>
+        </div>
+        <div class="faq-item">
+          <button class="faq-q" onclick="this.parentElement.classList.toggle('open')">
+            <span data-ar="كيف يعمل متتبع الأدوية؟" data-en="How does the medication tracker work?">كيف يعمل متتبع الأدوية؟</span>
+            <svg class="faq-arrow" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"/></svg>
+          </button>
+          <div class="faq-a"><p data-ar="أضف أدويتك مع الجرعة والتكرار والجدول. صحتك يرسل تذكيرات ذكية، يتتبع الالتزام، يفحص تفاعلات الأدوية مع بعضها ومع الطعام باستخدام قاعدة بيانات طبية، وينبهك للآثار الجانبية المحتملة. يمكن لطبيبك أيضاً عرض قائمة أدويتك إذا شاركت الوصول." data-en="Add your medications with dosage, frequency, and schedule. Sihtak sends smart reminders, tracks adherence, checks for drug-drug and drug-food interactions using a clinical database, and alerts you to potential side effects. Your doctor can also view your medication list if you share access.">أضف أدويتك مع الجرعة والتكرار والجدول. صحتك يرسل تذكيرات ذكية، يتتبع الالتزام، يفحص تفاعلات الأدوية مع بعضها ومع الطعام باستخدام قاعدة بيانات طبية، وينبهك للآثار الجانبية المحتملة. يمكن لطبيبك أيضاً عرض قائمة أدويتك إذا شاركت الوصول.</p></div>
+        </div>
+        <div class="faq-item">
+          <button class="faq-q" onclick="this.parentElement.classList.toggle('open')">
+            <span data-ar="هل يمكنني مشاركة بياناتي مع طبيبي؟" data-en="Can I share my health data with my doctor?">هل يمكنني مشاركة بياناتي مع طبيبي؟</span>
+            <svg class="faq-arrow" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"/></svg>
+          </button>
+          <div class="faq-a"><p data-ar="نعم. ميزة جواز السفر الصحي تمكّنك من إنشاء ملخص قابل للمشاركة لملفك الطبي — بما في ذلك الأدوية، نتائج التحاليل، الأمراض، الحساسيات، والعلامات الحيوية — يمكنك مشاركته مع أي مقدم رعاية صحية عبر رابط آمن أو PDF." data-en="Yes. The Health Passport feature lets you generate a shareable summary of your medical profile — including medications, lab results, conditions, allergies, and vitals — that you can share with any healthcare provider via a secure link or PDF.">نعم. ميزة جواز السفر الصحي تمكّنك من إنشاء ملخص قابل للمشاركة لملفك الطبي — بما في ذلك الأدوية، نتائج التحاليل، الأمراض، الحساسيات، والعلامات الحيوية — يمكنك مشاركته مع أي مقدم رعاية صحية عبر رابط آمن أو PDF.</p></div>
+        </div>
+        <div class="faq-item">
+          <button class="faq-q" onclick="this.parentElement.classList.toggle('open')">
+            <span data-ar="هل يوجد ميزة مشاركة عائلية؟" data-en="Does Sihtak have a family sharing feature?">هل يوجد ميزة مشاركة عائلية؟</span>
+            <svg class="faq-arrow" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"/></svg>
+          </button>
+          <div class="faq-a"><p data-ar="نعم. ميزة الروابط الاجتماعية تمكّنك من التواصل مع أفراد العائلة ومقدمي الرعاية. يمكنك مشاركة التحديثات الصحية، تنسيق الرعاية، وإدارة الملفات الصحية للأطفال أو كبار السن — كل ذلك داخل التطبيق." data-en="Yes. The Social Connections feature lets you connect with family members and caregivers. You can share health updates, coordinate care, and manage health profiles for children or elderly family members — all within the app.">نعم. ميزة الروابط الاجتماعية تمكّنك من التواصل مع أفراد العائلة ومقدمي الرعاية. يمكنك مشاركة التحديثات الصحية، تنسيق الرعاية، وإدارة الملفات الصحية للأطفال أو كبار السن — كل ذلك داخل التطبيق.</p></div>
+        </div>
+        <div class="faq-item">
+          <button class="faq-q" onclick="this.parentElement.classList.toggle('open')">
+            <span data-ar="هل يوجد متتبع للدورة الشهرية؟" data-en="Is there a period and cycle tracker?">هل يوجد متتبع للدورة الشهرية؟</span>
+            <svg class="faq-arrow" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"/></svg>
+          </button>
+          <div class="faq-a"><p data-ar="نعم. صحتك يتضمن متتبع كامل للدورة الشهرية مع تسجيل الدورة، توقعات الدورة، تتبع الأعراض، ورؤى مدعومة بالذكاء الاصطناعي. يتكامل مع ملفك الصحي الشامل حتى يتمكن المساعد الذكي من مراعاة دورتك في توصياته الصحية." data-en="Yes. Sihtak includes a full menstrual cycle tracker with period logging, cycle predictions, symptom tracking, and AI-powered insights. It integrates with your overall health profile so the AI assistant can consider your cycle in its health recommendations.">نعم. صحتك يتضمن متتبع كامل للدورة الشهرية مع تسجيل الدورة، توقعات الدورة، تتبع الأعراض، ورؤى مدعومة بالذكاء الاصطناعي. يتكامل مع ملفك الصحي الشامل حتى يتمكن المساعد الذكي من مراعاة دورتك في توصياته الصحية.</p></div>
+        </div>
+        <div class="faq-item">
+          <button class="faq-q" onclick="this.parentElement.classList.toggle('open')">
+            <span data-ar="هل صحتك متوفر على أندرويد؟" data-en="Is Sihtak available on Android?">هل صحتك متوفر على أندرويد؟</span>
+            <svg class="faq-arrow" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"/></svg>
+          </button>
+          <div class="faq-a"><p data-ar="صحتك متوفر حالياً على iOS (آيفون وآيباد). إصدار أندرويد قيد التطوير وسيتوفر قريباً. انضم لقائمة الانتظار ليصلك إشعار عند إطلاق تطبيق أندرويد." data-en="Sihtak is currently available on iOS (iPhone and iPad). An Android version is in development and will be available soon. Join our waitlist to be notified when the Android app launches.">صحتك متوفر حالياً على iOS (آيفون وآيباد). إصدار أندرويد قيد التطوير وسيتوفر قريباً. انضم لقائمة الانتظار ليصلك إشعار عند إطلاق تطبيق أندرويد.</p></div>
+        </div>
+        <div class="faq-item">
+          <button class="faq-q" onclick="this.parentElement.classList.toggle('open')">
+            <span data-ar="ما الذي يميز صحتك عن تطبيقات الصحة الأخرى؟" data-en="What makes Sihtak different from other health apps?">ما الذي يميز صحتك عن تطبيقات الصحة الأخرى؟</span>
+            <svg class="faq-arrow" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"/></svg>
+          </button>
+          <div class="faq-a"><p data-ar="صحتك يجمع ١٢+ أداة صحية في تطبيق واحد مدعوم بالذكاء الاصطناعي: محادثة ذكية صوتية، ماسح تحاليل بتقنية OCR، كاشف تفاعلات أدوية، فاحص أعراض، متتبع أدوية، تسجيل علامات حيوية، متتبع دورة شهرية، جواز سفر صحي، والمزيد. معظم التطبيقات تفعل شيئاً واحداً — صحتك يربط كل شيء بذكاء اصطناعي يفهم سياقك الطبي الكامل." data-en="Sihtak combines 12+ health tools into one AI-powered app: voice AI chat, lab scanner with OCR, drug interaction checker, symptom checker, medication tracker, vitals logging, period tracker, health passport, and more. Most health apps do one thing — Sihtak connects everything with AI that understands your full medical context.">صحتك يجمع ١٢+ أداة صحية في تطبيق واحد مدعوم بالذكاء الاصطناعي: محادثة ذكية صوتية، ماسح تحاليل بتقنية OCR، كاشف تفاعلات أدوية، فاحص أعراض، متتبع أدوية، تسجيل علامات حيوية، متتبع دورة شهرية، جواز سفر صحي، والمزيد. معظم التطبيقات تفعل شيئاً واحداً — صحتك يربط كل شيء بذكاء اصطناعي يفهم سياقك الطبي الكامل.</p></div>
+        </div>
+        <div class="faq-item">
+          <button class="faq-q" onclick="this.parentElement.classList.toggle('open')">
+            <span data-ar="هل يمكنني تصدير أو حذف بياناتي؟" data-en="Can I export or delete my data?">هل يمكنني تصدير أو حذف بياناتي؟</span>
+            <svg class="faq-arrow" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"/></svg>
+          </button>
+          <div class="faq-a"><p data-ar="نعم. صحتك متوافق بالكامل مع GDPR. يمكنك تصدير جميع بياناتك الصحية في أي وقت من الإعدادات، ويمكنك حذف حسابك وجميع البيانات المرتبطة نهائياً. نؤمن أن بياناتك الصحية ملكك أنت." data-en="Yes. Sihtak is fully GDPR compliant. You can export all your health data at any time from Settings, and you can permanently delete your account and all associated data. We believe your health data belongs to you.">نعم. صحتك متوافق بالكامل مع GDPR. يمكنك تصدير جميع بياناتك الصحية في أي وقت من الإعدادات، ويمكنك حذف حسابك وجميع البيانات المرتبطة نهائياً. نؤمن أن بياناتك الصحية ملكك أنت.</p></div>
         </div>
       </div>
     </div>
