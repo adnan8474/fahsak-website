@@ -30,7 +30,7 @@
   <meta name="twitter:description" content="Free AI health app: voice chat with AI doctor, lab scanner OCR, medication tracker with drug interactions, nutrition, exercise, sleep & period tracking, family health circles, PDF health passport. Arabic & English.">
   <meta name="twitter:image" content="https://www.sihtak.com/og-image.png">
   <meta name="twitter:image:alt" content="Sihtak AI Health Companion App">
-  <meta name="apple-itunes-app" content="app-id=6760306334">
+  <!-- <meta name="apple-itunes-app" content="app-id=6760306334"> uncomment when live on App Store -->
   <link rel="manifest" href="/manifest.json">
   <meta name="theme-color" content="#ffffff" id="meta-theme-color">
   <meta name="color-scheme" content="light" id="meta-color-scheme">
@@ -54,10 +54,10 @@
     "operatingSystem": "iOS 16+",
     "applicationCategory": "HealthApplication",
     "applicationSubCategory": "Medical",
-    "offers": { "@type": "Offer", "price": "0", "priceCurrency": "USD", "availability": "https://schema.org/PreOrder" },
+    "offers": { "@type": "Offer", "price": "0", "priceCurrency": "USD", "availability": "https://schema.org/InStock" },
     "description": "AI-powered health companion with 74 screens and 175 API endpoints. Features include AI health chat with voice mode, lab scanner OCR, medication manager with drug interaction detection, nutrition and exercise tracking, sleep and period cycle monitoring, Apple Health sync, family health circles with real-time messaging, provider network, professional PDF health passport with QR code, emergency SOS, and full bilingual Arabic/English support. Works offline.",
     "url": "https://www.sihtak.com",
-    "downloadUrl": "https://www.sihtak.com",
+    "downloadUrl": "https://play.google.com/store/apps/details?id=com.sihhati.app",
     "screenshot": [
       "https://www.sihtak.com/screenshots/dashboard.png",
       "https://www.sihtak.com/screenshots/ai-chat.png",
@@ -161,7 +161,7 @@
       {
         "@type": "Question",
         "name": "Is Sihtak available on Android?",
-        "acceptedAnswer": { "@type": "Answer", "text": "Sihtak is currently available on iOS (iPhone and iPad). An Android version is in development and will be available soon. Join our waitlist to be notified when the Android app launches." }
+        "acceptedAnswer": { "@type": "Answer", "text": "Yes! Sihtak is available on Google Play for Android. For iPhone users, the app is available via TestFlight (beta testing). Visit sihtak.com for download links or follow @sihtak_app on Instagram." }
       },
       {
         "@type": "Question",
@@ -209,9 +209,9 @@
           <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="theme-icon-moon" style="display:none"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>
         </button>
         <button class="lang-btn" onclick="toggleLang()" aria-label="Switch language">EN</button>
-        <span class="btn btn-primary btn-sm" style="cursor:default;opacity:0.9;">
-          <span data-ar="قريباً" data-en="Coming Soon">قريباً</span>
-        </span>
+        <a href="https://play.google.com/store/apps/details?id=com.sihhati.app" class="btn btn-primary btn-sm" target="_blank" rel="noopener">
+          <span data-ar="حمّل الآن" data-en="Download">حمّل الآن</span>
+        </a>
       </div>
     </div>
   </nav>
@@ -228,7 +228,7 @@
       <div class="hero-content reveal">
         <div class="hero-badge">
           <span class="hero-badge-dot" aria-hidden="true"></span>
-          <span data-ar="قريباً على iOS · مجاني بالكامل · بدون إعلانات" data-en="Coming Soon on iOS · Completely Free · No Ads">قريباً على iOS · مجاني بالكامل · بدون إعلانات</span>
+          <span data-ar="متوفر الآن · مجاني بالكامل · بدون إعلانات" data-en="Available Now · Completely Free · No Ads">متوفر الآن · مجاني بالكامل · بدون إعلانات</span>
         </div>
         <h1 id="hero-title">
           <span data-ar="كل صحتك." data-en="All your health.">كل صحتك.</span><br>
@@ -237,18 +237,16 @@
         </h1>
         <p class="hero-sub" data-ar="مساعد صحي ذكي يتحدث معك بالصوت، يمسح تحاليلك بالكاميرا، يتابع أدويتك ويكشف تفاعلاتها، يراقب تغذيتك ونومك وتمارينك ودورتك الشهرية، ويدير صحة عائلتك بالكامل." data-en="An AI health assistant that talks by voice, scans your labs with the camera, tracks medications and detects interactions, monitors nutrition, sleep, exercise, and your menstrual cycle, and manages your entire family's health.">مساعد صحي ذكي يتحدث معك بالصوت، يمسح تحاليلك بالكاميرا، يتابع أدويتك ويكشف تفاعلاتها، يراقب تغذيتك ونومك وتمارينك ودورتك الشهرية، ويدير صحة عائلتك بالكامل.</p>
         <div class="hero-ctas">
-          <span class="btn btn-primary btn-lg" style="cursor:default;">
-            <span data-ar="قريباً على App Store" data-en="Coming Soon on App Store">قريباً على App Store</span>
-          </span>
-          <a href="mailto:contact@sihtak.com" class="btn btn-ghost btn-lg">
-            <span data-ar="سجّل للتجربة المبكرة" data-en="Join the Beta">سجّل للتجربة المبكرة</span>
+          <a href="https://play.google.com/store/apps/details?id=com.sihhati.app" class="btn btn-primary btn-lg" target="_blank" rel="noopener">
+            <span data-ar="حمّل من Google Play" data-en="Get it on Google Play">حمّل من Google Play</span>
+          </a>
+          <a href="https://testflight.apple.com/join/UZ5Utknh" class="btn btn-ghost btn-lg" target="_blank" rel="noopener">
+            <span data-ar="جرّب على iOS (TestFlight)" data-en="Try on iOS (TestFlight)">جرّب على iOS (TestFlight)</span>
           </a>
         </div>
         <p class="hero-beta" style="margin-top:16px;font-size:14px;color:var(--text-m);">
-          <span data-ar="مهتم بالتجربة المبكرة؟ تواصل معنا على" data-en="Interested in beta testing? Contact us at">مهتم بالتجربة المبكرة؟ تواصل معنا على</span>
-          <a href="mailto:contact@sihtak.com" style="color:var(--teal);font-weight:600;">contact@sihtak.com</a>
-          <span data-ar="أو واتساب" data-en="or WhatsApp">أو واتساب</span>
-          <a href="https://wa.me/447440487115" dir="ltr" style="color:var(--teal);font-weight:600;unicode-bidi:embed;">+447440487115</a>
+          <span data-ar="نسخة الآيفون بمرحلة الاختبار عبر TestFlight · تابعنا على" data-en="iPhone version in beta via TestFlight · Follow us on">نسخة الآيفون بمرحلة الاختبار عبر TestFlight · تابعنا على</span>
+          <a href="https://instagram.com/sihtak_app" style="color:var(--teal);font-weight:600;" target="_blank" rel="noopener">@sihtak_app</a>
         </p>
       </div>
       <div class="hero-visual reveal reveal-delay-2">
@@ -600,7 +598,7 @@
         <div class="step reveal">
           <div class="step-num">1</div>
           <h3 class="step-title" data-ar="حمّل وسجّل" data-en="Download & Sign Up">حمّل وسجّل</h3>
-          <p class="step-desc" data-ar="حمّل من App Store مجاناً. سجّل بإيميلك أو عبر Apple/Google — حسابك جاهز في ثوانٍ." data-en="Download free from the App Store. Sign up with email or via Apple/Google — your account is ready in seconds.">حمّل من App Store مجاناً. سجّل بإيميلك أو عبر Apple/Google — حسابك جاهز في ثوانٍ.</p>
+          <p class="step-desc" data-ar="حمّل من Google Play أو عبر TestFlight للآيفون. سجّل بإيميلك أو عبر Apple/Google — حسابك جاهز في ثوانٍ." data-en="Download from Google Play or via TestFlight for iPhone. Sign up with email or via Apple/Google — your account is ready in seconds.">حمّل من Google Play أو عبر TestFlight للآيفون. سجّل بإيميلك أو عبر Apple/Google — حسابك جاهز في ثوانٍ.</p>
         </div>
         <div class="step reveal reveal-delay-1">
           <div class="step-num">2</div>
@@ -809,7 +807,7 @@
             <span data-ar="هل صحتك متوفر على أندرويد؟" data-en="Is Sihtak available on Android?">هل صحتك متوفر على أندرويد؟</span>
             <svg class="faq-arrow" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"/></svg>
           </button>
-          <div class="faq-a"><p data-ar="صحتك متوفر حالياً على iOS (آيفون وآيباد). إصدار أندرويد قيد التطوير وسيتوفر قريباً. انضم لقائمة الانتظار ليصلك إشعار عند إطلاق تطبيق أندرويد." data-en="Sihtak is currently available on iOS (iPhone and iPad). An Android version is in development and will be available soon. Join our waitlist to be notified when the Android app launches.">صحتك متوفر حالياً على iOS (آيفون وآيباد). إصدار أندرويد قيد التطوير وسيتوفر قريباً. انضم لقائمة الانتظار ليصلك إشعار عند إطلاق تطبيق أندرويد.</p></div>
+          <div class="faq-a"><p data-ar="نعم! صحتك متوفر على Google Play للأندرويد. لمستخدمي الآيفون، التطبيق متاح عبر TestFlight (مرحلة الاختبار) — حمّله من الرابط أعلاه أو تابعنا على إنستغرام @sihtak_app." data-en="Yes! Sihtak is available on Google Play for Android. For iPhone users, the app is available via TestFlight (beta) — download it from the link above or follow us on Instagram @sihtak_app.">نعم! صحتك متوفر على Google Play للأندرويد. لمستخدمي الآيفون، التطبيق متاح عبر TestFlight (مرحلة الاختبار) — حمّله من الرابط أعلاه أو تابعنا على إنستغرام @sihtak_app.</p></div>
         </div>
         <div class="faq-item">
           <button class="faq-q" onclick="this.parentElement.classList.toggle('open')">
@@ -844,15 +842,16 @@
       </h2>
       <p class="cta-sub" data-ar="٧٤ شاشة. ذكاء اصطناعي. محادثات صوتية. ماسح تحاليل. متابعة أدوية. تغذية وتمارين ونوم ودورة. صحة عائلة. جواز صحي PDF. كل هذا مجاناً." data-en="74 screens. AI assistant. Voice chat. Lab scanner. Medication tracking. Nutrition, exercise, sleep & period. Family health. PDF passport. All free.">٧٤ شاشة. ذكاء اصطناعي. محادثات صوتية. ماسح تحاليل. متابعة أدوية. تغذية وتمارين ونوم ودورة. صحة عائلة. جواز صحي PDF. كل هذا مجاناً.</p>
       <div class="hero-ctas" style="justify-content: center;">
-        <a href="mailto:contact@sihtak.com" class="btn btn-primary btn-lg">
-          <span data-ar="سجّل للتجربة المبكرة" data-en="Join the Beta">سجّل للتجربة المبكرة</span>
+        <a href="https://play.google.com/store/apps/details?id=com.sihhati.app" class="btn btn-primary btn-lg" target="_blank" rel="noopener">
+          <span data-ar="حمّل من Google Play" data-en="Get it on Google Play">حمّل من Google Play</span>
+        </a>
+        <a href="https://testflight.apple.com/join/UZ5Utknh" class="btn btn-ghost btn-lg" target="_blank" rel="noopener">
+          <span data-ar="جرّب على iOS (TestFlight)" data-en="Try on iOS (TestFlight)">جرّب على iOS (TestFlight)</span>
         </a>
       </div>
       <p style="margin-top:14px;font-size:14px;color:var(--text-m);">
-        <span data-ar="التطبيق قريباً على App Store · تواصل معنا على" data-en="Coming soon on App Store · Contact us at">التطبيق قريباً على App Store · تواصل معنا على</span>
-        <a href="mailto:contact@sihtak.com" style="color:var(--teal);font-weight:600;">contact@sihtak.com</a>
-        <span data-ar="أو واتساب" data-en="or WhatsApp">أو واتساب</span>
-        <a href="https://wa.me/447440487115" dir="ltr" style="color:var(--teal);font-weight:600;unicode-bidi:embed;">+447440487115</a>
+        <span data-ar="نسخة الآيفون بمرحلة الاختبار عبر TestFlight · تابعنا على" data-en="iPhone version in beta via TestFlight · Follow us on">نسخة الآيفون بمرحلة الاختبار عبر TestFlight · تابعنا على</span>
+        <a href="https://instagram.com/sihtak_app" style="color:var(--teal);font-weight:600;" target="_blank" rel="noopener">@sihtak_app</a>
       </p>
       <div class="cta-badges">
         <span class="cta-badge">
@@ -883,7 +882,7 @@
             <span data-ar="صحتك" data-en="Sihtak">صحتك</span>
           </div>
           <p class="footer-tagline" data-ar="تطبيق صحة مجاني مدعوم بالذكاء الاصطناعي. ٧٤ شاشة، ١٧٥ واجهة برمجية، ثنائي اللغة، يعمل بدون إنترنت. مبني بحب لصحتك." data-en="Free AI-powered health app. 74 screens, 175 API endpoints, bilingual, works offline. Built with care for your health.">تطبيق صحة مجاني مدعوم بالذكاء الاصطناعي. ٧٤ شاشة، ١٧٥ واجهة برمجية، ثنائي اللغة، يعمل بدون إنترنت. مبني بحب لصحتك.</p>
-          <a href="mailto:contact@sihtak.com" class="btn btn-primary btn-sm" data-ar="سجّل للتجربة المبكرة" data-en="Join the Beta">سجّل للتجربة المبكرة</a>
+          <a href="https://play.google.com/store/apps/details?id=com.sihhati.app" class="btn btn-primary btn-sm" target="_blank" rel="noopener" data-ar="حمّل الآن" data-en="Download Now">حمّل الآن</a>
         </div>
         <div class="footer-col">
           <h4 data-ar="التطبيق" data-en="App">التطبيق</h4>
