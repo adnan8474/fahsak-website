@@ -545,16 +545,66 @@
     // --- Form submission ---
     const API_BASE = 'https://fahsak-api.azurewebsites.net/api/v1/careers';
 
+    function showError(msg) {
+      const errorMsg = document.getElementById('errorMsg');
+      errorMsg.textContent = msg;
+      errorMsg.style.display = 'block';
+      errorMsg.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    }
+
+    function resetBtn() {
+      const btn = document.getElementById('submitBtn');
+      btn.disabled = false;
+      btn.querySelector('span').textContent = currentLang === 'ar' ? 'أرسل طلب التقديم' : 'Submit Application';
+    }
+
     async function handleSubmit(e) {
       e.preventDefault();
       const btn = document.getElementById('submitBtn');
       const form = document.getElementById('applicationForm');
       const successMsg = document.getElementById('successMsg');
       const errorMsg = document.getElementById('errorMsg');
+      errorMsg.style.display = 'none';
+
+      // Client-side validation
+      const commuteChoice = document.querySelector('input[name="can_commute"]:checked');
+      if (!commuteChoice) {
+        showError(currentLang === 'ar'
+          ? 'يرجى الإجابة على سؤال الحضور للمكتب (نعم / لا)'
+          : 'Please answer the office commute question (Yes / No)');
+        return;
+      }
+
+      const introInput = document.getElementById('introVideo');
+      if (!introInput.files.length) {
+        showError(currentLang === 'ar'
+          ? 'يرجى رفع فيديو تعريفي (30 ثانية) — هذا الحقل إلزامي'
+          : 'Please upload a 30-second intro video — this field is required');
+        return;
+      }
+
+      // Check file sizes (max 50MB per file)
+      const maxSize = 50 * 1024 * 1024;
+      if (introInput.files[0].size > maxSize) {
+        showError(currentLang === 'ar'
+          ? 'حجم الفيديو التعريفي يتجاوز 50 ميغابايت. يرجى ضغط الفيديو أو تقصيره'
+          : 'Intro video exceeds 50 MB. Please compress or shorten the video');
+        return;
+      }
+
+      const fileInput = document.getElementById('files');
+      for (let i = 0; i < fileInput.files.length; i++) {
+        if (fileInput.files[i].size > maxSize) {
+          const name = fileInput.files[i].filename || fileInput.files[i].name;
+          showError(currentLang === 'ar'
+            ? 'الملف "' + name + '" يتجاوز 50 ميغابايت'
+            : 'File "' + name + '" exceeds 50 MB');
+          return;
+        }
+      }
 
       btn.disabled = true;
-      btn.querySelector('span').textContent = currentLang === 'ar' ? 'جاري الإرسال...' : 'Sending...';
-      errorMsg.style.display = 'none';
+      btn.querySelector('span').textContent = currentLang === 'ar' ? 'جاري الإرسال... قد يستغرق دقيقة' : 'Sending... may take a minute';
 
       const formData = new FormData();
       formData.append('full_name', document.getElementById('fullName').value);
@@ -563,42 +613,61 @@
       formData.append('area', document.getElementById('area').value);
       formData.append('instagram', document.getElementById('instagram').value);
       formData.append('expected_salary', document.getElementById('salary').value);
-      formData.append('can_commute', document.querySelector('input[name="can_commute"]:checked').value);
+      formData.append('can_commute', commuteChoice.value);
       formData.append('motivation', document.getElementById('motivation').value);
       formData.append('position', 'brand_face_content_creator');
 
       // Intro video (required, separate upload)
-      const introInput = document.getElementById('introVideo');
-      if (introInput.files.length > 0) {
-        formData.append('files', introInput.files[0]);
-      }
+      formData.append('files', introInput.files[0]);
       // Additional supporting files
-      const fileInput = document.getElementById('files');
       for (let i = 0; i < fileInput.files.length; i++) {
         formData.append('files', fileInput.files[i]);
       }
 
       try {
+        const controller = new AbortController();
+        const timeout = setTimeout(() => controller.abort(), 120000); // 2 min timeout
+
         const res = await fetch(API_BASE + '/apply', {
           method: 'POST',
           body: formData,
+          signal: controller.signal,
         });
+        clearTimeout(timeout);
 
         if (res.ok) {
-          const result = await res.json();
           form.style.display = 'none';
           successMsg.style.display = 'block';
+          successMsg.scrollIntoView({ behavior: 'smooth', block: 'center' });
         } else {
           const err = await res.json().catch(() => null);
-          throw new Error(err?.detail || 'Failed to submit application');
+          const detail = err?.detail || '';
+          if (res.status === 400) {
+            showError(currentLang === 'ar'
+              ? 'خطأ في البيانات: ' + detail
+              : 'Validation error: ' + detail);
+          } else if (res.status === 413) {
+            showError(currentLang === 'ar'
+              ? 'حجم الملفات كبير جداً. يرجى تقليل حجم الملفات المرفقة'
+              : 'Files too large. Please reduce file sizes');
+          } else {
+            showError(currentLang === 'ar'
+              ? 'حدث خطأ في الخادم. يرجى المحاولة لاحقاً أو التواصل عبر contact@sihtak.com'
+              : 'Server error. Please try again later or contact contact@sihtak.com');
+          }
+          resetBtn();
         }
       } catch (err) {
-        errorMsg.textContent = currentLang === 'ar'
-          ? 'حدث خطأ أثناء الإرسال. يرجى المحاولة مرة أخرى أو التواصل عبر contact@sihtak.com'
-          : err.message || 'Something went wrong. Please try again or email contact@sihtak.com';
-        errorMsg.style.display = 'block';
-        btn.disabled = false;
-        btn.querySelector('span').textContent = currentLang === 'ar' ? 'أرسل طلب التقديم' : 'Submit Application';
+        if (err.name === 'AbortError') {
+          showError(currentLang === 'ar'
+            ? 'انتهت المهلة — الاتصال بطيء أو حجم الملفات كبير. يرجى المحاولة بملفات أصغر أو اتصال أسرع'
+            : 'Request timed out — slow connection or large files. Try with smaller files or faster internet');
+        } else {
+          showError(currentLang === 'ar'
+            ? 'فشل الاتصال بالخادم. تحقق من اتصالك بالإنترنت وحاول مرة أخرى'
+            : 'Failed to connect. Check your internet connection and try again');
+        }
+        resetBtn();
       }
     }
   </script>
