@@ -448,9 +448,9 @@
           <div class="form-group">
             <label for="introVideo">
               <span data-ar="فيديو تعريفي 30 ثانية" data-en="30-Second Intro Video">فيديو تعريفي 30 ثانية</span>
-              <span class="label-hint" data-ar=" (إلزامي — تحدث أمام الكاميرا عن نفسك)" data-en=" (required — talk on camera about yourself)"> (إلزامي — تحدث أمام الكاميرا عن نفسك)</span>
+              <span class="label-hint" data-ar=" (اختياري — تحدث أمام الكاميرا عن نفسك، يزيد فرصتك بشكل كبير)" data-en=" (optional — talk on camera about yourself, greatly increases your chances)"> (اختياري — تحدث أمام الكاميرا عن نفسك، يزيد فرصتك بشكل كبير)</span>
             </label>
-            <input type="file" id="introVideo" name="introVideo" required accept=".mp4,.mov,.avi,.mkv,.webm">
+            <input type="file" id="introVideo" name="introVideo" accept=".mp4,.mov,.avi,.mkv,.webm">
           </div>
 
           <div class="form-group">
@@ -576,16 +576,10 @@
       }
 
       const introInput = document.getElementById('introVideo');
-      if (!introInput.files.length) {
-        showError(currentLang === 'ar'
-          ? 'يرجى رفع فيديو تعريفي (30 ثانية) — هذا الحقل إلزامي'
-          : 'Please upload a 30-second intro video — this field is required');
-        return;
-      }
 
       // Check file sizes (max 50MB per file)
       const maxSize = 50 * 1024 * 1024;
-      if (introInput.files[0].size > maxSize) {
+      if (introInput.files.length && introInput.files[0].size > maxSize) {
         showError(currentLang === 'ar'
           ? 'حجم الفيديو التعريفي يتجاوز 50 ميغابايت. يرجى ضغط الفيديو أو تقصيره'
           : 'Intro video exceeds 50 MB. Please compress or shorten the video');
@@ -617,8 +611,10 @@
       formData.append('motivation', document.getElementById('motivation').value);
       formData.append('position', 'brand_face_content_creator');
 
-      // Intro video (required, separate upload)
-      formData.append('files', introInput.files[0]);
+      // Intro video (optional but encouraged)
+      if (introInput.files.length > 0) {
+        formData.append('files', introInput.files[0]);
+      }
       // Additional supporting files
       for (let i = 0; i < fileInput.files.length; i++) {
         formData.append('files', fileInput.files[i]);
