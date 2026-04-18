@@ -528,7 +528,8 @@
     applyTheme(getPreferredTheme());
 
     // --- Language management ---
-    let currentLang = localStorage.getItem('sihtak-lang') || 'ar';
+    // Careers page always defaults to Arabic
+    let currentLang = 'ar';
     function switchLang(lang) {
       currentLang = lang;
       const html = document.documentElement;
@@ -538,10 +539,8 @@
         el.textContent = el.dataset[lang];
       });
       document.querySelector('.lang-btn').textContent = lang === 'ar' ? 'EN' : 'عربي';
-      localStorage.setItem('sihtak-lang', lang);
     }
     function toggleLang() { switchLang(currentLang === 'ar' ? 'en' : 'ar'); }
-    if (currentLang !== 'ar') switchLang(currentLang);
 
     // --- Form submission ---
     const API_BASE = 'https://fahsak-api.azurewebsites.net/api/v1/careers';
