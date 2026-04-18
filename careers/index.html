@@ -386,6 +386,18 @@
           </div>
 
           <div class="form-group">
+            <label for="whatsapp">
+              <span data-ar="رقم الواتساب" data-en="WhatsApp Number">رقم الواتساب</span>
+            </label>
+            <input type="tel" id="whatsapp" name="whatsapp" placeholder="مثال: 09XXXXXXXX" required dir="ltr" style="text-align: left;">
+          </div>
+
+          <div class="form-group">
+            <label for="email" data-ar="البريد الإلكتروني" data-en="Email Address">البريد الإلكتروني</label>
+            <input type="email" id="email" name="email" placeholder="example@email.com" required dir="ltr" style="text-align: left;">
+          </div>
+
+          <div class="form-group">
             <label for="area">
               <span data-ar="مكان الإقامة" data-en="Area of Residence">مكان الإقامة</span>
               <span class="label-hint" data-ar=" (المدينة والمنطقة في سوريا)" data-en=" (City and area in Syria)"> (المدينة والمنطقة في سوريا)</span>
@@ -410,6 +422,22 @@
           </div>
 
           <div class="form-group">
+            <label>
+              <span data-ar="هل يمكنك الحضور للمكتب في دمشق — الحلبوني كل أسبوعين؟" data-en="Can you visit the office in Damascus — Al-Halbouni every two weeks?">هل يمكنك الحضور للمكتب في دمشق — الحلبوني كل أسبوعين؟</span>
+            </label>
+            <div style="display: flex; gap: 16px; margin-top: 8px;">
+              <label style="display: flex; align-items: center; gap: 8px; cursor: pointer; font-size: 15px; color: var(--text);">
+                <input type="radio" name="can_commute" value="yes" required style="accent-color: var(--teal); width: 18px; height: 18px;">
+                <span data-ar="نعم" data-en="Yes">نعم</span>
+              </label>
+              <label style="display: flex; align-items: center; gap: 8px; cursor: pointer; font-size: 15px; color: var(--text);">
+                <input type="radio" name="can_commute" value="no" style="accent-color: var(--teal); width: 18px; height: 18px;">
+                <span data-ar="لا" data-en="No">لا</span>
+              </label>
+            </div>
+          </div>
+
+          <div class="form-group">
             <label for="motivation">
               <span data-ar="لماذا تريد أن تكون وجه صحتك؟" data-en="Why do you want to be the face of Sihtak?">لماذا تريد أن تكون وجه صحتك؟</span>
               <span class="label-hint" data-ar=" (2–3 جمل)" data-en=" (2–3 sentences)"> (2–3 جمل)</span>
@@ -418,9 +446,17 @@
           </div>
 
           <div class="form-group">
+            <label for="introVideo">
+              <span data-ar="فيديو تعريفي 30 ثانية" data-en="30-Second Intro Video">فيديو تعريفي 30 ثانية</span>
+              <span class="label-hint" data-ar=" (إلزامي — تحدث أمام الكاميرا عن نفسك)" data-en=" (required — talk on camera about yourself)"> (إلزامي — تحدث أمام الكاميرا عن نفسك)</span>
+            </label>
+            <input type="file" id="introVideo" name="introVideo" required accept=".mp4,.mov,.avi,.mkv,.webm">
+          </div>
+
+          <div class="form-group">
             <label for="files">
-              <span data-ar="ملفات داعمة" data-en="Supporting Files">ملفات داعمة</span>
-              <span class="label-hint" data-ar=" (فيديو تعريفي، نماذج أعمال سابقة، CV)" data-en=" (intro video, portfolio samples, CV)"> (فيديو تعريفي، نماذج أعمال سابقة، CV)</span>
+              <span data-ar="ملفات داعمة إضافية" data-en="Additional Supporting Files">ملفات داعمة إضافية</span>
+              <span class="label-hint" data-ar=" (اختياري — نماذج أعمال سابقة، CV)" data-en=" (optional — portfolio samples, CV)"> (اختياري — نماذج أعمال سابقة، CV)</span>
             </label>
             <input type="file" id="files" name="files" multiple accept=".pdf,.doc,.docx,.mp4,.mov,.avi,.jpg,.jpeg,.png,.zip">
           </div>
@@ -523,12 +559,21 @@
 
       const formData = new FormData();
       formData.append('full_name', document.getElementById('fullName').value);
+      formData.append('whatsapp', document.getElementById('whatsapp').value);
+      formData.append('email', document.getElementById('email').value);
       formData.append('area', document.getElementById('area').value);
       formData.append('instagram', document.getElementById('instagram').value);
       formData.append('expected_salary', document.getElementById('salary').value);
+      formData.append('can_commute', document.querySelector('input[name="can_commute"]:checked').value);
       formData.append('motivation', document.getElementById('motivation').value);
       formData.append('position', 'brand_face_content_creator');
 
+      // Intro video (required, separate upload)
+      const introInput = document.getElementById('introVideo');
+      if (introInput.files.length > 0) {
+        formData.append('files', introInput.files[0]);
+      }
+      // Additional supporting files
       const fileInput = document.getElementById('files');
       for (let i = 0; i < fileInput.files.length; i++) {
         formData.append('files', fileInput.files[i]);
