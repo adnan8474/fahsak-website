@@ -9,7 +9,8 @@
     { "route": "/contact", "rewrite": "/contact/index.html" },
     { "route": "/join/*", "rewrite": "/join/index.html" },
     { "route": "/deck", "rewrite": "/deck/index.html" },
-    { "route": "/delete-account", "rewrite": "/delete-account/index.html" }
+    { "route": "/delete-account", "rewrite": "/delete-account/index.html" },
+    { "route": "/careers", "rewrite": "/careers/index.html" }
   ],
   "responseOverrides": {
     "404": {
