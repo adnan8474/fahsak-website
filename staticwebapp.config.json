@@ -10,7 +10,8 @@
     { "route": "/join/*", "rewrite": "/join/index.html" },
     { "route": "/deck", "rewrite": "/deck/index.html" },
     { "route": "/delete-account", "rewrite": "/delete-account/index.html" },
-    { "route": "/careers", "rewrite": "/careers/index.html" }
+    { "route": "/careers", "rewrite": "/careers/index.html" },
+    { "route": "/admin", "rewrite": "/admin/index.html" }
   ],
   "responseOverrides": {
     "404": {
@@ -20,7 +21,7 @@
   "globalHeaders": {
     "X-Content-Type-Options": "nosniff",
     "X-Frame-Options": "DENY",
-    "Content-Security-Policy": "default-src 'self'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src https://fonts.gstatic.com; img-src 'self' data:; script-src 'self' 'unsafe-inline'; connect-src 'self' https://fahsak-api.azurewebsites.net https://www.googletagmanager.com https://www.google-analytics.com;",
+    "Content-Security-Policy": "default-src 'self'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src https://fonts.gstatic.com; img-src 'self' data:; script-src 'self' 'unsafe-inline' https://cdn.sheetjs.com; connect-src 'self' https://fahsak-api.azurewebsites.net https://www.googletagmanager.com https://www.google-analytics.com;",
     "Cache-Control": "public, max-age=3600"
   }
 }
