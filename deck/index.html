@@ -1,0 +1,626 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-JGTTBKMM4G"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-JGTTBKMM4G');
+</script>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>صحتك — دليل التطبيق الشامل | Sihtak Complete Guide</title>
+<meta name="description" content="Explore every feature of Sihtak (صحتك) — AI voice chat, lab scanner, drug interaction checker, symptom checker, medication tracker, health passport, and 12+ tools in one bilingual health app.">
+<meta name="robots" content="index, follow">
+<link rel="canonical" href="https://www.sihtak.com/deck">
+<link rel="icon" type="image/png" href="../icon.png">
+<!-- Open Graph -->
+<meta property="og:type" content="website">
+<meta property="og:title" content="Sihtak Complete Guide — صحتك دليل التطبيق الشامل">
+<meta property="og:description" content="Explore every feature of Sihtak: AI voice chat, lab scanner, drug interaction checker, symptom checker, medication tracker, health passport, and more.">
+<meta property="og:url" content="https://www.sihtak.com/deck">
+<meta property="og:image" content="https://www.sihtak.com/og-image.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:site_name" content="Sihtak">
+<meta property="og:locale" content="ar_SA">
+<meta property="og:locale:alternate" content="en_GB">
+<!-- Twitter Card -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Sihtak Complete Guide — صحتك">
+<meta name="twitter:description" content="12+ AI health tools in one app. Voice chat, lab scanner, drug checker, symptom checker, medication tracker, and more.">
+<meta name="twitter:image" content="https://www.sihtak.com/og-image.png">
+<!-- Hreflang -->
+<link rel="alternate" hreflang="ar" href="https://www.sihtak.com/deck">
+<link rel="alternate" hreflang="en" href="https://www.sihtak.com/deck">
+<link rel="alternate" hreflang="x-default" href="https://www.sihtak.com/deck">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Tajawal:wght@400;500;700;800;900&family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+:root{
+  --bg:#ffffff;--bg2:#f8fafc;--bg3:#f1f5f9;--card:#ffffff;
+  --text:#0f172a;--text-m:#475569;--text-d:#94a3b8;
+  --teal:#0d9488;--teal-l:#14b8a6;--teal-bg:rgba(13,148,136,.08);
+  --green:#22c55e;--blue:#3b82f6;--purple:#8b5cf6;--pink:#ec4899;
+  --red:#ef4444;--amber:#f59e0b;
+  --r:20px;--shadow:0 1px 3px rgba(0,0,0,.06),0 4px 20px rgba(0,0,0,.04);
+  --shadow-lg:0 4px 40px rgba(0,0,0,.08);
+}
+html{scroll-behavior:smooth}
+body{font-family:'Tajawal','Inter',system-ui,sans-serif;background:var(--bg);color:var(--text);line-height:1.7;-webkit-font-smoothing:antialiased}
+::selection{background:var(--teal);color:#fff}
+img{max-width:100%}
+
+/* Lang toggle */
+.lang-switch{position:fixed;top:20px;left:20px;z-index:200;background:var(--card);border:1px solid #e2e8f0;border-radius:12px;padding:6px;display:flex;gap:4px;box-shadow:var(--shadow)}
+.lang-switch button{border:none;background:transparent;padding:6px 14px;border-radius:8px;font-size:13px;font-weight:600;cursor:pointer;color:var(--text-m);transition:all .2s;font-family:inherit}
+.lang-switch button.active{background:var(--teal);color:#fff}
+
+/* Nav */
+.deck-nav{position:fixed;top:0;right:0;left:0;z-index:100;background:rgba(255,255,255,.88);backdrop-filter:blur(20px);border-bottom:1px solid rgba(0,0,0,.05);height:64px;display:flex;align-items:center;justify-content:center;padding:0 24px}
+.deck-nav-inner{max-width:1100px;width:100%;display:flex;align-items:center;justify-content:space-between}
+.deck-nav-brand{display:flex;align-items:center;gap:10px;text-decoration:none;color:var(--text)}
+.deck-nav-brand img{width:38px;height:38px;border-radius:10px}
+.deck-nav-brand span{font-weight:800;font-size:20px}
+.deck-nav-links{display:flex;gap:28px}
+.deck-nav-links a{color:var(--text-m);text-decoration:none;font-size:14px;font-weight:600;transition:color .2s}
+.deck-nav-links a:hover{color:var(--teal)}
+
+/* Hero */
+.deck-hero{padding:120px 24px 60px;text-align:center;position:relative;overflow:hidden;background:linear-gradient(180deg,var(--teal-bg) 0%,var(--bg) 100%)}
+.deck-hero-logo{width:80px;height:80px;border-radius:22px;box-shadow:var(--shadow-lg);margin:0 auto 24px;display:block}
+.deck-hero h1{font-size:48px;font-weight:900;line-height:1.2;max-width:700px;margin:0 auto 16px}
+.deck-hero h1 .teal{color:var(--teal)}
+.deck-hero p{font-size:18px;color:var(--text-m);max-width:600px;margin:0 auto 40px;line-height:1.8}
+.hero-chips{display:flex;justify-content:center;gap:12px;flex-wrap:wrap;margin-bottom:48px}
+.hero-chip{background:var(--card);border:1px solid #e2e8f0;border-radius:100px;padding:8px 20px;font-size:14px;font-weight:600;color:var(--text);display:flex;align-items:center;gap:6px;box-shadow:var(--shadow)}
+.hero-phones{display:flex;justify-content:center;gap:16px;align-items:flex-end}
+
+/* Container */
+.container{max-width:1000px;margin:0 auto;padding:0 24px}
+
+/* Section */
+.section{padding:80px 0}
+.section-label{display:inline-flex;align-items:center;gap:8px;font-size:13px;font-weight:700;color:var(--teal);background:var(--teal-bg);padding:8px 18px;border-radius:100px;margin-bottom:16px}
+.section-title{font-size:36px;font-weight:900;margin-bottom:12px;line-height:1.2}
+.section-sub{font-size:16px;color:var(--text-m);max-width:600px;line-height:1.8}
+.section-head{margin-bottom:48px}
+
+/* Feature Row */
+.feature-row{display:grid;grid-template-columns:1fr 1fr;gap:56px;align-items:center;margin-bottom:72px}
+.feature-row:last-child{margin-bottom:0}
+.feature-text h3{font-size:28px;font-weight:800;margin-bottom:10px;line-height:1.3}
+.feature-text p{color:var(--text-m);font-size:15px;line-height:1.8;margin-bottom:20px}
+.check-list{list-style:none;display:flex;flex-direction:column;gap:10px}
+.check-list li{display:flex;align-items:flex-start;gap:10px;font-size:14px;color:var(--text-m);line-height:1.6}
+.check-list li::before{content:'✓';color:var(--teal);font-weight:800;flex-shrink:0;margin-top:1px}
+
+/* Phone */
+.phones{display:flex;gap:12px;justify-content:center;align-items:center}
+.phone{border-radius:28px;overflow:hidden;box-shadow:var(--shadow-lg);border:1px solid rgba(0,0,0,.06);flex-shrink:0}
+.phone img{display:block;width:100%}
+.phone--lg{width:240px}
+.phone--md{width:200px}
+.phone--sm{width:170px}
+
+/* Benefit Cards */
+.benefits{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin-top:40px}
+.benefit{background:var(--card);border:1px solid #e2e8f0;border-radius:var(--r);padding:28px 24px;transition:transform .2s,box-shadow .2s}
+.benefit:hover{transform:translateY(-4px);box-shadow:var(--shadow-lg)}
+.benefit-icon{font-size:28px;margin-bottom:12px}
+.benefit h4{font-size:16px;font-weight:700;margin-bottom:6px}
+.benefit p{font-size:13px;color:var(--text-m);line-height:1.7}
+
+/* Role Tabs */
+.role-tabs{display:flex;gap:8px;margin-bottom:40px;flex-wrap:wrap}
+.role-tab{border:none;background:var(--bg2);padding:10px 22px;border-radius:100px;font-size:14px;font-weight:700;cursor:pointer;color:var(--text-m);transition:all .2s;font-family:inherit}
+.role-tab.active{background:var(--teal);color:#fff}
+.role-tab:hover:not(.active){background:var(--bg3)}
+.role-content{display:none}
+.role-content.active{display:block}
+
+/* Gallery */
+.gallery{display:grid;grid-template-columns:repeat(auto-fill,minmax(180px,1fr));gap:14px}
+.gallery-item{border-radius:20px;overflow:hidden;border:1px solid rgba(0,0,0,.06);transition:transform .2s,box-shadow .2s;cursor:pointer;background:var(--card)}
+.gallery-item:hover{transform:scale(1.03);box-shadow:var(--shadow-lg)}
+.gallery-item img{width:100%;display:block}
+.gallery-label{padding:10px 14px;font-size:12px;color:var(--text-m);font-weight:600;text-align:center}
+
+/* Divider */
+.divider{height:1px;background:linear-gradient(90deg,transparent,#e2e8f0 50%,transparent);margin:0}
+
+/* CTA */
+.deck-cta{padding:80px 24px;text-align:center;background:var(--teal-bg)}
+.deck-cta h2{font-size:36px;font-weight:900;margin-bottom:12px}
+.deck-cta p{color:var(--text-m);font-size:16px;max-width:500px;margin:0 auto 28px}
+.btn{display:inline-flex;align-items:center;gap:8px;padding:14px 32px;border-radius:14px;font-size:16px;font-weight:700;text-decoration:none;transition:all .2s;font-family:inherit}
+.btn-teal{background:var(--teal);color:#fff}
+.btn-teal:hover{background:var(--teal-l);transform:translateY(-2px);box-shadow:0 8px 30px rgba(13,148,136,.25)}
+.btn-outline{border:2px solid #e2e8f0;color:var(--text)}
+.btn-outline:hover{border-color:var(--teal);color:var(--teal)}
+
+/* Footer */
+.deck-footer{padding:28px;text-align:center;font-size:13px;color:var(--text-d)}
+
+/* Lightbox */
+.lightbox{display:none;position:fixed;inset:0;z-index:999;background:rgba(0,0,0,.85);backdrop-filter:blur(16px);align-items:center;justify-content:center;cursor:pointer}
+.lightbox.active{display:flex}
+.lightbox img{max-height:90vh;max-width:90vw;border-radius:20px;box-shadow:0 0 60px rgba(0,0,0,.3)}
+.lightbox-close{position:fixed;top:20px;left:20px;width:44px;height:44px;border-radius:50%;background:rgba(255,255,255,.15);color:#fff;font-size:22px;display:flex;align-items:center;justify-content:center;cursor:pointer;border:none;backdrop-filter:blur(10px)}
+
+/* Responsive */
+@media(max-width:768px){
+  .deck-nav-links{display:none}
+  .lang-switch{top:auto;bottom:20px;left:50%;transform:translateX(-50%)}
+  .deck-hero{padding:100px 20px 40px}
+  .deck-hero h1{font-size:32px}
+  .deck-hero p{font-size:15px}
+  .hero-phones{gap:8px}
+  .phone--lg{width:160px}
+  .phone--md{width:140px}
+  .phone--sm{width:120px}
+  .container{padding:0 20px}
+  .section{padding:56px 0}
+  .section-title{font-size:26px}
+  .feature-row{grid-template-columns:1fr;gap:28px}
+  .phones{flex-wrap:wrap}
+  .benefits{grid-template-columns:1fr}
+  .gallery{grid-template-columns:repeat(2,1fr);gap:10px}
+  .deck-cta h2{font-size:28px}
+}
+</style>
+</head>
+<body>
+
+<!-- Language Toggle -->
+<div class="lang-switch">
+  <button class="active" onclick="setLang('ar')">عربي</button>
+  <button onclick="setLang('en')">EN</button>
+</div>
+
+<!-- Nav -->
+<nav class="deck-nav">
+  <div class="deck-nav-inner">
+    <a href="#" class="deck-nav-brand">
+      <img src="../icon.png" alt="صحتك">
+      <span data-ar="دليل صحتك" data-en="Sihtak Guide">دليل صحتك</span>
+    </a>
+    <div class="deck-nav-links">
+      <a href="#ai" data-ar="المساعد الذكي" data-en="AI Assistant">المساعد الذكي</a>
+      <a href="#tracking" data-ar="متابعة الصحة" data-en="Health Tracking">متابعة الصحة</a>
+      <a href="#roles" data-ar="الأدوار" data-en="Roles">الأدوار</a>
+      <a href="#screens" data-ar="الشاشات" data-en="Screenshots">الشاشات</a>
+    </div>
+  </div>
+</nav>
+
+<!-- Hero -->
+<section class="deck-hero">
+  <img src="../icon.png" alt="صحتك" class="deck-hero-logo">
+  <h1>
+    <span data-ar="كل صحتك في" data-en="All your health in">كل صحتك في</span><br>
+    <span class="teal" data-ar="تطبيق واحد" data-en="one app">تطبيق واحد</span>
+  </h1>
+  <p data-ar="مساعد صحي ذكي يتحدث معك بالصوت، يمسح تحاليلك، يتابع أدويتك، يراقب صحتك وصحة عائلتك — مجاناً بالكامل" data-en="An AI health assistant that talks by voice, scans your labs, tracks medications, monitors your health and your family's — completely free">مساعد صحي ذكي يتحدث معك بالصوت، يمسح تحاليلك، يتابع أدويتك، يراقب صحتك وصحة عائلتك — مجاناً بالكامل</p>
+  <div class="hero-chips">
+    <div class="hero-chip">🤖 <span data-ar="ذكاء اصطناعي صوتي" data-en="Voice AI">ذكاء اصطناعي صوتي</span></div>
+    <div class="hero-chip">🔬 <span data-ar="ماسح تحاليل" data-en="Lab Scanner">ماسح تحاليل</span></div>
+    <div class="hero-chip">💊 <span data-ar="متابعة أدوية" data-en="Medication Tracker">متابعة أدوية</span></div>
+    <div class="hero-chip">👨‍👩‍👧 <span data-ar="صحة العائلة" data-en="Family Health">صحة العائلة</span></div>
+    <div class="hero-chip">🌙 <span data-ar="عربي + إنجليزي" data-en="Arabic + English">عربي + إنجليزي</span></div>
+  </div>
+  <div class="hero-phones">
+    <div class="phone phone--sm"><img src="screens/IMG_6510.PNG" alt="Voice AI"></div>
+    <div class="phone phone--lg"><img src="screens/IMG_6621.PNG" alt="Dashboard"></div>
+    <div class="phone phone--sm"><img src="screens/IMG_6624.PNG" alt="AI Chat"></div>
+  </div>
+</section>
+
+<div class="divider"></div>
+
+<!-- ===== AI ASSISTANT ===== -->
+<section class="section" id="ai">
+<div class="container">
+  <div class="section-head">
+    <div class="section-label">🤖 <span data-ar="المساعد الذكي" data-en="AI Assistant">المساعد الذكي</span></div>
+    <h2 class="section-title" data-ar="تحدّث مع طبيبك الذكي" data-en="Talk to your AI doctor">تحدّث مع طبيبك الذكي</h2>
+    <p class="section-sub" data-ar="مساعد صحي يفهم أدويتك وتحاليلك وحالتك الصحية بالكامل. اسأله بالصوت أو الكتابة بالعربي أو الإنجليزي." data-en="A health assistant that understands your medications, labs, and full health context. Ask by voice or text in Arabic or English.">مساعد صحي يفهم أدويتك وتحاليلك وحالتك الصحية بالكامل. اسأله بالصوت أو الكتابة بالعربي أو الإنجليزي.</p>
+  </div>
+
+  <!-- Voice AI -->
+  <div class="feature-row">
+    <div class="feature-text">
+      <h3 data-ar="محادثة صوتية ذكية" data-en="Voice AI Conversations">محادثة صوتية ذكية</h3>
+      <p data-ar="تحدّث بالصوت مع المساعد الذكي — يعرف أدويتك وتحاليلك وأعراضك ويردّ عليك بالعربي أو الإنجليزي." data-en="Talk naturally by voice — the AI knows your medications, lab results, and symptoms, and responds in Arabic or English.">تحدّث بالصوت مع المساعد الذكي — يعرف أدويتك وتحاليلك وأعراضك ويردّ عليك بالعربي أو الإنجليزي.</p>
+      <ul class="check-list">
+        <li data-ar="تحويل صوت إلى نص فوري" data-en="Real-time speech-to-text">تحويل صوت إلى نص فوري</li>
+        <li data-ar="يعرف ملفك الصحي بالكامل" data-en="Knows your full health profile">يعرف ملفك الصحي بالكامل</li>
+        <li data-ar="يعمل بالعربي والإنجليزي" data-en="Works in Arabic and English">يعمل بالعربي والإنجليزي</li>
+        <li data-ar="قاطعه بأي وقت أثناء الكلام" data-en="Interrupt anytime while speaking">قاطعه بأي وقت أثناء الكلام</li>
+      </ul>
+    </div>
+    <div class="phones">
+      <div class="phone phone--md"><img src="screens/IMG_6522.PNG" alt="Thinking"></div>
+      <div class="phone phone--md"><img src="screens/IMG_6510.PNG" alt="Speaking"></div>
+    </div>
+  </div>
+
+  <!-- AI Chat -->
+  <div class="feature-row" style="direction:ltr">
+    <div class="phones">
+      <div class="phone phone--md"><img src="screens/IMG_6624.PNG" alt="Drug Check"></div>
+      <div class="phone phone--md"><img src="screens/IMG_6625.PNG" alt="Context"></div>
+    </div>
+    <div class="feature-text" style="direction:rtl">
+      <h3 data-ar="فحص تفاعلات الأدوية" data-en="Drug Interaction Checker">فحص تفاعلات الأدوية</h3>
+      <p data-ar="يفحص أدويتك تلقائياً ويكشف أي تفاعلات خطيرة بينها. مع مصادر طبية موثوقة." data-en="Automatically checks your medications and detects dangerous interactions. With trusted medical sources.">يفحص أدويتك تلقائياً ويكشف أي تفاعلات خطيرة بينها. مع مصادر طبية موثوقة.</p>
+      <ul class="check-list">
+        <li data-ar="فحص بضغطة واحدة لكل أدويتك" data-en="One-tap check for all your medications">فحص بضغطة واحدة لكل أدويتك</li>
+        <li data-ar="مصادر من Mayo Clinic و MedlinePlus" data-en="Sources from Mayo Clinic & MedlinePlus">مصادر من Mayo Clinic و MedlinePlus</li>
+        <li data-ar="يكتشف أنماطاً مقلقة في صحتك" data-en="Detects concerning patterns in your health">يكتشف أنماطاً مقلقة في صحتك</li>
+        <li data-ar="إرسال صور للتحليل بالكاميرا" data-en="Send photos for AI analysis">إرسال صور للتحليل بالكاميرا</li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- Lab Scanner -->
+  <div class="feature-row">
+    <div class="feature-text">
+      <h3 data-ar="ماسح التحاليل الذكي" data-en="Smart Lab Scanner">ماسح التحاليل الذكي</h3>
+      <p data-ar="صوّر تقرير تحاليلك والذكاء الاصطناعي يحلله فوراً — مستوى الخطورة، النتائج المهمة، والتوصيات." data-en="Photograph your lab report and AI analyzes it instantly — risk level, key findings, and recommendations.">صوّر تقرير تحاليلك والذكاء الاصطناعي يحلله فوراً — مستوى الخطورة، النتائج المهمة، والتوصيات.</p>
+      <ul class="check-list">
+        <li data-ar="يقرأ ١٨+ تحليل من صورة واحدة" data-en="Reads 18+ tests from a single photo">يقرأ ١٨+ تحليل من صورة واحدة</li>
+        <li data-ar="تصنيف مستوى الخطورة" data-en="Risk level classification">تصنيف مستوى الخطورة</li>
+        <li data-ar="يراعي أدويتك الحالية بالتحليل" data-en="Considers your current medications">يراعي أدويتك الحالية بالتحليل</li>
+        <li data-ar="توصيات عملية وخطوات تالية" data-en="Actionable recommendations and next steps">توصيات عملية وخطوات تالية</li>
+      </ul>
+    </div>
+    <div class="phones">
+      <div class="phone phone--lg"><img src="screens/IMG_6626.PNG" alt="Lab Scanner"></div>
+    </div>
+  </div>
+
+  <!-- Symptom Checker -->
+  <div class="feature-row" style="direction:ltr">
+    <div class="phones">
+      <div class="phone phone--md"><img src="screens/IMG_6639.PNG" alt="Symptoms"></div>
+      <div class="phone phone--md"><img src="screens/IMG_6640.PNG" alt="Results"></div>
+    </div>
+    <div class="feature-text" style="direction:rtl">
+      <h3 data-ar="فحص الأعراض الذكي" data-en="AI Symptom Checker">فحص الأعراض الذكي</h3>
+      <p data-ar="اوصف أعراضك بكلماتك والذكاء الاصطناعي يحللها — أسباب محتملة، مستوى الطوارئ، وخطوات العلاج." data-en="Describe your symptoms in your own words and AI analyzes them — possible causes, emergency level, and treatment steps.">اوصف أعراضك بكلماتك والذكاء الاصطناعي يحللها — أسباب محتملة، مستوى الطوارئ، وخطوات العلاج.</p>
+      <ul class="check-list">
+        <li data-ar="٥ أسباب محتملة مع تصنيف الطوارئ" data-en="5 possible causes with triage level">٥ أسباب محتملة مع تصنيف الطوارئ</li>
+        <li data-ar="أخضر (رعاية ذاتية) · أصفر (راجع طبيب) · أحمر (طوارئ)" data-en="Green (self-care) · Yellow (see doctor) · Red (emergency)">أخضر (رعاية ذاتية) · أصفر (راجع طبيب) · أحمر (طوارئ)</li>
+        <li data-ar="خطوات علاج فورية" data-en="Immediate treatment steps">خطوات علاج فورية</li>
+        <li data-ar="تحذيرات العلامات الخطيرة" data-en="Red flag warnings">تحذيرات العلامات الخطيرة</li>
+      </ul>
+    </div>
+  </div>
+</div>
+</section>
+
+<div class="divider"></div>
+
+<!-- ===== HEALTH TRACKING ===== -->
+<section class="section" id="tracking">
+<div class="container">
+  <div class="section-head">
+    <div class="section-label">📊 <span data-ar="متابعة الصحة" data-en="Health Tracking">متابعة الصحة</span></div>
+    <h2 class="section-title" data-ar="راقب كل جوانب صحتك" data-en="Monitor every aspect of your health">راقب كل جوانب صحتك</h2>
+    <p class="section-sub" data-ar="ضغط الدم، التغذية، النوم، التمارين، الدورة الشهرية — كل شيء في مكان واحد مع مزامنة Apple Health." data-en="Blood pressure, nutrition, sleep, exercise, menstrual cycle — everything in one place with Apple Health sync.">ضغط الدم، التغذية، النوم، التمارين، الدورة الشهرية — كل شيء في مكان واحد مع مزامنة Apple Health.</p>
+  </div>
+
+  <!-- Vitals + Sleep -->
+  <div class="feature-row">
+    <div class="feature-text">
+      <h3 data-ar="العلامات الحيوية والنوم" data-en="Vital Signs & Sleep">العلامات الحيوية والنوم</h3>
+      <p data-ar="تابع ضغط الدم ونبض القلب والسكر والحرارة مع رسوم بيانية أسبوعية. وسجّل نومك يومياً." data-en="Track blood pressure, heart rate, glucose, temperature with weekly charts. And log your sleep daily.">تابع ضغط الدم ونبض القلب والسكر والحرارة مع رسوم بيانية أسبوعية. وسجّل نومك يومياً.</p>
+      <ul class="check-list">
+        <li data-ar="٤ أنواع من العلامات الحيوية" data-en="4 vital sign types">٤ أنواع من العلامات الحيوية</li>
+        <li data-ar="رسم بياني لآخر ٧ أيام" data-en="7-day trend chart">رسم بياني لآخر ٧ أيام</li>
+        <li data-ar="جودة النوم بالألوان (ممتاز/جيد/مقبول/ضعيف)" data-en="Color-coded sleep quality">جودة النوم بالألوان (ممتاز/جيد/مقبول/ضعيف)</li>
+      </ul>
+    </div>
+    <div class="phones">
+      <div class="phone phone--md"><img src="screens/IMG_6642.PNG" alt="Vitals"></div>
+      <div class="phone phone--md"><img src="screens/IMG_6641.PNG" alt="Sleep"></div>
+    </div>
+  </div>
+
+  <!-- Nutrition -->
+  <div class="feature-row" style="direction:ltr">
+    <div class="phones">
+      <div class="phone phone--md"><img src="screens/IMG_6636.PNG" alt="Nutrition"></div>
+      <div class="phone phone--md"><img src="screens/IMG_6661.PNG" alt="Nutrition Data"></div>
+    </div>
+    <div class="feature-text" style="direction:rtl">
+      <h3 data-ar="تتبع التغذية" data-en="Nutrition Tracker">تتبع التغذية</h3>
+      <p data-ar="سجّل وجباتك وتابع السعرات والبروتين والكربوهيدرات والدهون يومياً مع ماسح باركود." data-en="Log meals and track calories, protein, carbs, and fats daily with barcode scanner.">سجّل وجباتك وتابع السعرات والبروتين والكربوهيدرات والدهون يومياً مع ماسح باركود.</p>
+      <ul class="check-list">
+        <li data-ar="هدف سعرات يومي مع حلقة تقدم" data-en="Daily calorie goal with progress ring">هدف سعرات يومي مع حلقة تقدم</li>
+        <li data-ar="ماسح باركود للأطعمة المعلبة" data-en="Barcode scanner for packaged foods">ماسح باركود للأطعمة المعلبة</li>
+        <li data-ar="قاعدة بيانات أطعمة ومطاعم" data-en="Food and restaurant database">قاعدة بيانات أطعمة ومطاعم</li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- Period + Apple Health -->
+  <div class="feature-row">
+    <div class="feature-text">
+      <h3 data-ar="صحة المرأة و Apple Health" data-en="Women's Health & Apple Health">صحة المرأة و Apple Health</h3>
+      <p data-ar="تتبعي دورتك الشهرية مع تقويم ملون وتوقع فترة الخصوبة. ومزامنة ١٠ مقاييس صحية من Apple Health." data-en="Track your menstrual cycle with color-coded calendar and fertility prediction. Sync 10 health metrics from Apple Health.">تتبعي دورتك الشهرية مع تقويم ملون وتوقع فترة الخصوبة. ومزامنة ١٠ مقاييس صحية من Apple Health.</p>
+      <ul class="check-list">
+        <li data-ar="تقويم شهري مع أيام الحيض والخصوبة" data-en="Monthly calendar with period and fertile days">تقويم شهري مع أيام الحيض والخصوبة</li>
+        <li data-ar="تسجيل أعراض ومزاج يومي" data-en="Daily symptom and mood logging">تسجيل أعراض ومزاج يومي</li>
+        <li data-ar="مزامنة الخطوات ونبض القلب والنوم من ساعة Apple" data-en="Sync steps, heart rate, sleep from Apple Watch">مزامنة الخطوات ونبض القلب والنوم من ساعة Apple</li>
+      </ul>
+    </div>
+    <div class="phones">
+      <div class="phone phone--sm"><img src="screens/IMG_6630.PNG" alt="Period"></div>
+      <div class="phone phone--sm"><img src="screens/IMG_6631.PNG" alt="Symptoms"></div>
+      <div class="phone phone--sm"><img src="screens/IMG_6635.PNG" alt="Apple Health"></div>
+    </div>
+  </div>
+</div>
+</section>
+
+<div class="divider"></div>
+
+<!-- ===== HEALTH PASSPORT ===== -->
+<section class="section" id="passport">
+<div class="container">
+  <div class="section-head">
+    <div class="section-label">🛂 <span data-ar="الجواز الصحي" data-en="Health Passport">الجواز الصحي</span></div>
+    <h2 class="section-title" data-ar="شارك ملفك الصحي بثوانٍ" data-en="Share your health profile in seconds">شارك ملفك الصحي بثوانٍ</h2>
+    <p class="section-sub" data-ar="رمز QR يمسحه طبيبك فوراً، أو تقرير PDF كامل ترسله بالواتساب — أدويتك وتحاليلك وحالتك الصحية." data-en="A QR code your doctor scans instantly, or a full PDF report you send via WhatsApp — medications, labs, and health status.">رمز QR يمسحه طبيبك فوراً، أو تقرير PDF كامل ترسله بالواتساب — أدويتك وتحاليلك وحالتك الصحية.</p>
+  </div>
+  <div class="feature-row">
+    <div class="feature-text">
+      <ul class="check-list">
+        <li data-ar="رمز QR للمسح الفوري بدون تحميل تطبيق" data-en="QR code — scan instantly, no app needed">رمز QR للمسح الفوري بدون تحميل تطبيق</li>
+        <li data-ar="تقرير PDF من ٤ صفحات عبر واتساب" data-en="4-page PDF report via WhatsApp">تقرير PDF من ٤ صفحات عبر واتساب</li>
+        <li data-ar="ملخص الأدوية والتحاليل والعلامات الحيوية" data-en="Medication, lab, and vitals summary">ملخص الأدوية والتحاليل والعلامات الحيوية</li>
+        <li data-ar="زر طوارئ SOS باتصال فوري" data-en="SOS emergency button with instant call">زر طوارئ SOS باتصال فوري</li>
+      </ul>
+    </div>
+    <div class="phones">
+      <div class="phone phone--md"><img src="screens/IMG_6643.PNG" alt="Passport"></div>
+      <div class="phone phone--md"><img src="screens/IMG_6644.PNG" alt="PDF"></div>
+    </div>
+  </div>
+</div>
+</section>
+
+<div class="divider"></div>
+
+<!-- ===== ALL ROLES ===== -->
+<section class="section" id="roles">
+<div class="container">
+  <div class="section-head">
+    <div class="section-label">👥 <span data-ar="لكل مستخدم" data-en="For Everyone">لكل مستخدم</span></div>
+    <h2 class="section-title" data-ar="تطبيق واحد لكل الأدوار" data-en="One app for every role">تطبيق واحد لكل الأدوار</h2>
+    <p class="section-sub" data-ar="مريض، طبيب، صيدلي، مختبر — كل واحد يفتح التطبيق ويرى لوحته الخاصة." data-en="Patient, doctor, pharmacist, lab — each opens the app and sees their own dashboard.">مريض، طبيب، صيدلي، مختبر — كل واحد يفتح التطبيق ويرى لوحته الخاصة.</p>
+  </div>
+
+  <!-- Role Tabs -->
+  <div class="role-tabs">
+    <button class="role-tab active" onclick="showRole('patient')" data-ar="المريض" data-en="Patient">المريض</button>
+    <button class="role-tab" onclick="showRole('doctor')" data-ar="الطبيب" data-en="Doctor">الطبيب</button>
+    <button class="role-tab" onclick="showRole('pharmacy')" data-ar="الصيدلي" data-en="Pharmacy">الصيدلي</button>
+    <button class="role-tab" onclick="showRole('lab')" data-ar="المختبر" data-en="Lab">المختبر</button>
+  </div>
+
+  <!-- Patient -->
+  <div class="role-content active" id="role-patient">
+    <div class="feature-row">
+      <div class="feature-text">
+        <h3 data-ar="لوحة المريض الرئيسية" data-en="Patient Dashboard">لوحة المريض الرئيسية</h3>
+        <p data-ar="مركز صحي ذكي يتكيف مع يومك — نقاط الصحة، جدول الأدوية، التنبيهات، وأكثر من ٥٠ ميزة." data-en="A smart health hub that adapts to your day — health score, medication schedule, alerts, and 50+ features.">مركز صحي ذكي يتكيف مع يومك — نقاط الصحة، جدول الأدوية، التنبيهات، وأكثر من ٥٠ ميزة.</p>
+        <ul class="check-list">
+          <li data-ar="نقاط الصحة من ١٠٠" data-en="Health score out of 100">نقاط الصحة من ١٠٠</li>
+          <li data-ar="جدول الأدوية اليومي (تم/قادم/فائت)" data-en="Daily medication timeline (taken/upcoming/missed)">جدول الأدوية اليومي (تم/قادم/فائت)</li>
+          <li data-ar="تنبيهات ذكية وتذكيرات" data-en="Smart alerts and reminders">تنبيهات ذكية وتذكيرات</li>
+          <li data-ar="٥٠+ ميزة في قائمة المزيد" data-en="50+ features in the More menu">٥٠+ ميزة في قائمة المزيد</li>
+          <li data-ar="دليل شامل للأطباء والمختبرات والصيدليات" data-en="Full directory of doctors, labs, and pharmacies">دليل شامل للأطباء والمختبرات والصيدليات</li>
+        </ul>
+      </div>
+      <div class="phones">
+        <div class="phone phone--md"><img src="screens/IMG_6621.PNG" alt="Dashboard"></div>
+        <div class="phone phone--md"><img src="screens/IMG_6633.PNG" alt="Directory"></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Doctor -->
+  <div class="role-content" id="role-doctor">
+    <div class="feature-row">
+      <div class="feature-text">
+        <h3 data-ar="لوحة الطبيب" data-en="Doctor Dashboard">لوحة الطبيب</h3>
+        <p data-ar="إدارة المرضى، كتابة الوصفات، تسجيل الاستشارات، ومكالمات فيديو — كل شيء من هاتفك." data-en="Manage patients, write prescriptions, log consultations, and video calls — everything from your phone.">إدارة المرضى، كتابة الوصفات، تسجيل الاستشارات، ومكالمات فيديو — كل شيء من هاتفك.</p>
+        <ul class="check-list">
+          <li data-ar="قائمة المرضى مع رسائل فورية" data-en="Patient list with instant messaging">قائمة المرضى مع رسائل فورية</li>
+          <li data-ar="مسح QR للوصول لملف المريض" data-en="Scan QR to access patient file">مسح QR للوصول لملف المريض</li>
+          <li data-ar="كتابة وصفات إلكترونية" data-en="Write electronic prescriptions">كتابة وصفات إلكترونية</li>
+          <li data-ar="تسجيل استشارات (حضوري/عن بعد/منزلي)" data-en="Log consultations (in-person/telemedicine/home)">تسجيل استشارات (حضوري/عن بعد/منزلي)</li>
+          <li data-ar="مكالمات صوتية ومرئية مع المرضى" data-en="Voice and video calls with patients">مكالمات صوتية ومرئية مع المرضى</li>
+          <li data-ar="إدارة ملف العيادة والتخصص والأتعاب" data-en="Manage clinic profile, specialty, and fees">إدارة ملف العيادة والتخصص والأتعاب</li>
+        </ul>
+      </div>
+      <div class="phones">
+        <div class="phone phone--lg"><img src="screens/IMG_6600.PNG" alt="Doctor Dashboard"></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Pharmacy -->
+  <div class="role-content" id="role-pharmacy">
+    <div class="feature-row">
+      <div class="feature-text">
+        <h3 data-ar="إدارة الصيدلية" data-en="Pharmacy Management">إدارة الصيدلية</h3>
+        <p data-ar="مخزون كامل مع تتبع الدُفعات وتواريخ الانتهاء، واستقبال طلبات الأدوية من المرضى." data-en="Full inventory with batch tracking and expiry dates, plus receiving medication orders from patients.">مخزون كامل مع تتبع الدُفعات وتواريخ الانتهاء، واستقبال طلبات الأدوية من المرضى.</p>
+        <ul class="check-list">
+          <li data-ar="لوحة بإحصائيات المخزون والطلبات" data-en="Dashboard with stock and order stats">لوحة بإحصائيات المخزون والطلبات</li>
+          <li data-ar="تنبيهات مخزون منخفض وقرب الانتهاء" data-en="Low stock and near-expiry alerts">تنبيهات مخزون منخفض وقرب الانتهاء</li>
+          <li data-ar="تسعير وأرقام دفعات لكل دواء" data-en="Pricing and batch numbers per medication">تسعير وأرقام دفعات لكل دواء</li>
+          <li data-ar="استقبال طلبات وتأكيدها أو رفضها" data-en="Receive orders and confirm or reject">استقبال طلبات وتأكيدها أو رفضها</li>
+          <li data-ar="دعم التوصيل مع عنوان المريض" data-en="Delivery support with patient address">دعم التوصيل مع عنوان المريض</li>
+        </ul>
+      </div>
+      <div class="phones">
+        <div class="phone phone--sm"><img src="screens/IMG_6669.PNG" alt="Pharmacy"></div>
+        <div class="phone phone--sm"><img src="screens/IMG_6670.PNG" alt="Stock"></div>
+        <div class="phone phone--sm"><img src="screens/IMG_6672.PNG" alt="Orders"></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Lab -->
+  <div class="role-content" id="role-lab">
+    <div class="feature-row">
+      <div class="feature-text">
+        <h3 data-ar="إدارة المختبر" data-en="Lab Management">إدارة المختبر</h3>
+        <p data-ar="أدخل نتائج التحاليل مباشرة في ملف المريض، واستقبل طلبات الفحوصات وأدرها." data-en="Enter lab results directly into patient records, receive test orders and manage them.">أدخل نتائج التحاليل مباشرة في ملف المريض، واستقبل طلبات الفحوصات وأدرها.</p>
+        <ul class="check-list">
+          <li data-ar="إدخال نتائج مع وحدات ومرجعيات تلقائية" data-en="Enter results with auto-filled units and ranges">إدخال نتائج مع وحدات ومرجعيات تلقائية</li>
+          <li data-ar="استقبال طلبات الفحص وتحديث حالتها" data-en="Receive test orders and update status">استقبال طلبات الفحص وتحديث حالتها</li>
+          <li data-ar="قائمة فحوصات مع أسعار وأوقات إنجاز" data-en="Test menu with prices and turnaround times">قائمة فحوصات مع أسعار وأوقات إنجاز</li>
+          <li data-ar="المريض يحصل على النتائج فوراً في تطبيقه" data-en="Patient gets results instantly in their app">المريض يحصل على النتائج فوراً في تطبيقه</li>
+        </ul>
+      </div>
+      <div class="phones" style="justify-content:center">
+        <div class="phone phone--lg"><img src="screens/IMG_6626.PNG" alt="Lab Results"></div>
+      </div>
+    </div>
+  </div>
+</div>
+</section>
+
+<div class="divider"></div>
+
+<!-- ===== ALL FEATURES QUICK VIEW ===== -->
+<section class="section" id="features">
+<div class="container">
+  <div class="section-head">
+    <div class="section-label">⭐ <span data-ar="كل الميزات" data-en="All Features">كل الميزات</span></div>
+    <h2 class="section-title" data-ar="أكثر من ١٠٠ شاشة" data-en="Over 100 screens">أكثر من ١٠٠ شاشة</h2>
+  </div>
+  <div class="benefits">
+    <div class="benefit"><div class="benefit-icon">🤖</div><h4 data-ar="محادثة ذكية" data-en="AI Chat">محادثة ذكية</h4><p data-ar="نصي وصوتي مع Claude AI" data-en="Text and voice with Claude AI">نصي وصوتي مع Claude AI</p></div>
+    <div class="benefit"><div class="benefit-icon">🎙️</div><h4 data-ar="وضع صوتي" data-en="Voice Mode">وضع صوتي</h4><p data-ar="تحدث بالصوت مع المساعد" data-en="Talk by voice with AI">تحدث بالصوت مع المساعد</p></div>
+    <div class="benefit"><div class="benefit-icon">💊</div><h4 data-ar="إدارة الأدوية" data-en="Medications">إدارة الأدوية</h4><p data-ar="تتبع، تذكيرات، تفاعلات" data-en="Tracking, reminders, interactions">تتبع، تذكيرات، تفاعلات</p></div>
+    <div class="benefit"><div class="benefit-icon">🔬</div><h4 data-ar="ماسح تحاليل" data-en="Lab Scanner">ماسح تحاليل</h4><p data-ar="صوّر وحلل بالذكاء الاصطناعي" data-en="Photograph and analyze with AI">صوّر وحلل بالذكاء الاصطناعي</p></div>
+    <div class="benefit"><div class="benefit-icon">🩺</div><h4 data-ar="فحص أعراض" data-en="Symptom Check">فحص أعراض</h4><p data-ar="تشخيص ذكي مع تصنيف طوارئ" data-en="AI diagnosis with triage level">تشخيص ذكي مع تصنيف طوارئ</p></div>
+    <div class="benefit"><div class="benefit-icon">❤️</div><h4 data-ar="علامات حيوية" data-en="Vital Signs">علامات حيوية</h4><p data-ar="ضغط، نبض، سكر، حرارة" data-en="BP, heart rate, glucose, temp">ضغط، نبض، سكر، حرارة</p></div>
+    <div class="benefit"><div class="benefit-icon">🥗</div><h4 data-ar="تغذية" data-en="Nutrition">تغذية</h4><p data-ar="سعرات ومغذيات مع باركود" data-en="Calories and macros with barcode">سعرات ومغذيات مع باركود</p></div>
+    <div class="benefit"><div class="benefit-icon">🏋️</div><h4 data-ar="تمارين" data-en="Exercise">تمارين</h4><p data-ar="تسجيل نشاط وإحصائيات أسبوعية" data-en="Log activity and weekly stats">تسجيل نشاط وإحصائيات أسبوعية</p></div>
+    <div class="benefit"><div class="benefit-icon">😴</div><h4 data-ar="تتبع نوم" data-en="Sleep">تتبع نوم</h4><p data-ar="مدة، جودة، استيقاظات" data-en="Duration, quality, awakenings">مدة، جودة، استيقاظات</p></div>
+    <div class="benefit"><div class="benefit-icon">🌙</div><h4 data-ar="صحة المرأة" data-en="Women's Health">صحة المرأة</h4><p data-ar="دورة شهرية وخصوبة ومزاج" data-en="Period, fertility, mood">دورة شهرية وخصوبة ومزاج</p></div>
+    <div class="benefit"><div class="benefit-icon">🛂</div><h4 data-ar="جواز صحي" data-en="Health Passport">جواز صحي</h4><p data-ar="QR + PDF عبر واتساب" data-en="QR + PDF via WhatsApp">QR + PDF عبر واتساب</p></div>
+    <div class="benefit"><div class="benefit-icon">👨‍👩‍👧</div><h4 data-ar="صحة العائلة" data-en="Family Health">صحة العائلة</h4><p data-ar="دعوات، رسائل، مكالمات فيديو" data-en="Invites, messages, video calls">دعوات، رسائل، مكالمات فيديو</p></div>
+    <div class="benefit"><div class="benefit-icon">👨‍⚕️</div><h4 data-ar="دليل الأطباء" data-en="Provider Directory">دليل الأطباء</h4><p data-ar="أطباء، مختبرات، صيدليات" data-en="Doctors, labs, pharmacies">أطباء، مختبرات، صيدليات</p></div>
+    <div class="benefit"><div class="benefit-icon">📞</div><h4 data-ar="مكالمات فيديو" data-en="Video Calls">مكالمات فيديو</h4><p data-ar="مع الأطباء والعائلة" data-en="With doctors and family">مع الأطباء والعائلة</p></div>
+    <div class="benefit"><div class="benefit-icon">⌚</div><h4 data-ar="Apple Health" data-en="Apple Health">Apple Health</h4><p data-ar="مزامنة ١٠ مقاييس صحية" data-en="Sync 10 health metrics">مزامنة ١٠ مقاييس صحية</p></div>
+    <div class="benefit"><div class="benefit-icon">🚨</div><h4 data-ar="طوارئ SOS" data-en="Emergency SOS">طوارئ SOS</h4><p data-ar="اتصال فوري ومشاركة QR" data-en="Instant call and QR sharing">اتصال فوري ومشاركة QR</p></div>
+    <div class="benefit"><div class="benefit-icon">💉</div><h4 data-ar="تطعيمات" data-en="Vaccinations">تطعيمات</h4><p data-ar="كبار وأطفال" data-en="Adults and children">كبار وأطفال</p></div>
+    <div class="benefit"><div class="benefit-icon">🩸</div><h4 data-ar="إدارة السكري" data-en="Diabetes">إدارة السكري</h4><p data-ar="سكر الدم، HbA1c، رؤى AI" data-en="Glucose, HbA1c, AI insights">سكر الدم، HbA1c، رؤى AI</p></div>
+    <div class="benefit"><div class="benefit-icon">💗</div><h4 data-ar="إدارة الضغط" data-en="Hypertension">إدارة الضغط</h4><p data-ar="قراءات، اتجاهات، التزام" data-en="Readings, trends, adherence">قراءات، اتجاهات، التزام</p></div>
+    <div class="benefit"><div class="benefit-icon">📱</div><h4 data-ar="بدون إنترنت" data-en="Works Offline">بدون إنترنت</h4><p data-ar="بياناتك متاحة دائماً" data-en="Your data is always available">بياناتك متاحة دائماً</p></div>
+    <div class="benefit"><div class="benefit-icon">🔒</div><h4 data-ar="Face ID" data-en="Face ID">Face ID</h4><p data-ar="قفل بالبصمة أو الوجه" data-en="Biometric lock">قفل بالبصمة أو الوجه</p></div>
+  </div>
+</div>
+</section>
+
+<div class="divider"></div>
+
+<!-- ===== SCREENSHOTS ===== -->
+<section class="section" id="screens">
+<div class="container">
+  <div class="section-head">
+    <div class="section-label">📱 <span data-ar="شاشات التطبيق" data-en="App Screenshots">شاشات التطبيق</span></div>
+    <h2 class="section-title" data-ar="اضغط على أي شاشة للتكبير" data-en="Tap any screenshot to enlarge">اضغط على أي شاشة للتكبير</h2>
+  </div>
+  <div class="gallery">
+    <div class="gallery-item" onclick="openLB(this)"><img src="screens/IMG_6621.PNG" alt="" loading="lazy"><div class="gallery-label" data-ar="لوحة المريض" data-en="Patient Dashboard">لوحة المريض</div></div>
+    <div class="gallery-item" onclick="openLB(this)"><img src="screens/IMG_6510.PNG" alt="" loading="lazy"><div class="gallery-label" data-ar="المساعد الصوتي" data-en="Voice AI">المساعد الصوتي</div></div>
+    <div class="gallery-item" onclick="openLB(this)"><img src="screens/IMG_6522.PNG" alt="" loading="lazy"><div class="gallery-label" data-ar="الصوتي — يفكر" data-en="Voice — Thinking">الصوتي — يفكر</div></div>
+    <div class="gallery-item" onclick="openLB(this)"><img src="screens/IMG_6523.PNG" alt="" loading="lazy"><div class="gallery-label" data-ar="الصوتي — سياق طبي" data-en="Voice — Medical Context">الصوتي — سياق طبي</div></div>
+    <div class="gallery-item" onclick="openLB(this)"><img src="screens/IMG_6624.PNG" alt="" loading="lazy"><div class="gallery-label" data-ar="فحص تفاعلات الأدوية" data-en="Drug Interaction Check">فحص تفاعلات الأدوية</div></div>
+    <div class="gallery-item" onclick="openLB(this)"><img src="screens/IMG_6625.PNG" alt="" loading="lazy"><div class="gallery-label" data-ar="محادثة ذكية" data-en="AI Chat">محادثة ذكية</div></div>
+    <div class="gallery-item" onclick="openLB(this)"><img src="screens/IMG_6626.PNG" alt="" loading="lazy"><div class="gallery-label" data-ar="تحليل التحاليل الذكي" data-en="Smart Lab Analysis">تحليل التحاليل الذكي</div></div>
+    <div class="gallery-item" onclick="openLB(this)"><img src="screens/IMG_6639.PNG" alt="" loading="lazy"><div class="gallery-label" data-ar="فحص الأعراض" data-en="Symptom Checker">فحص الأعراض</div></div>
+    <div class="gallery-item" onclick="openLB(this)"><img src="screens/IMG_6640.PNG" alt="" loading="lazy"><div class="gallery-label" data-ar="نتائج التشخيص" data-en="Diagnosis Results">نتائج التشخيص</div></div>
+    <div class="gallery-item" onclick="openLB(this)"><img src="screens/IMG_6642.PNG" alt="" loading="lazy"><div class="gallery-label" data-ar="ضغط الدم" data-en="Blood Pressure">ضغط الدم</div></div>
+    <div class="gallery-item" onclick="openLB(this)"><img src="screens/IMG_6641.PNG" alt="" loading="lazy"><div class="gallery-label" data-ar="تتبع النوم" data-en="Sleep Tracker">تتبع النوم</div></div>
+    <div class="gallery-item" onclick="openLB(this)"><img src="screens/IMG_6636.PNG" alt="" loading="lazy"><div class="gallery-label" data-ar="التغذية" data-en="Nutrition">التغذية</div></div>
+    <div class="gallery-item" onclick="openLB(this)"><img src="screens/IMG_6661.PNG" alt="" loading="lazy"><div class="gallery-label" data-ar="التغذية — مع بيانات" data-en="Nutrition — With Data">التغذية — مع بيانات</div></div>
+    <div class="gallery-item" onclick="openLB(this)"><img src="screens/IMG_6630.PNG" alt="" loading="lazy"><div class="gallery-label" data-ar="الدورة الشهرية" data-en="Period Tracker">الدورة الشهرية</div></div>
+    <div class="gallery-item" onclick="openLB(this)"><img src="screens/IMG_6631.PNG" alt="" loading="lazy"><div class="gallery-label" data-ar="أعراض ومزاج" data-en="Symptoms & Mood">أعراض ومزاج</div></div>
+    <div class="gallery-item" onclick="openLB(this)"><img src="screens/IMG_6643.PNG" alt="" loading="lazy"><div class="gallery-label" data-ar="الجواز الصحي" data-en="Health Passport">الجواز الصحي</div></div>
+    <div class="gallery-item" onclick="openLB(this)"><img src="screens/IMG_6644.PNG" alt="" loading="lazy"><div class="gallery-label" data-ar="تقرير PDF" data-en="PDF Report">تقرير PDF</div></div>
+    <div class="gallery-item" onclick="openLB(this)"><img src="screens/IMG_6633.PNG" alt="" loading="lazy"><div class="gallery-label" data-ar="الدليل" data-en="Directory">الدليل</div></div>
+    <div class="gallery-item" onclick="openLB(this)"><img src="screens/IMG_6635.PNG" alt="" loading="lazy"><div class="gallery-label" data-ar="Apple Health" data-en="Apple Health">Apple Health</div></div>
+    <div class="gallery-item" onclick="openLB(this)"><img src="screens/IMG_6627.PNG" alt="" loading="lazy"><div class="gallery-label" data-ar="المزيد — تواصل" data-en="More — Communication">المزيد — تواصل</div></div>
+    <div class="gallery-item" onclick="openLB(this)"><img src="screens/IMG_6628.PNG" alt="" loading="lazy"><div class="gallery-label" data-ar="المزيد — تشخيص" data-en="More — Diagnostics">المزيد — تشخيص</div></div>
+    <div class="gallery-item" onclick="openLB(this)"><img src="screens/IMG_6629.PNG" alt="" loading="lazy"><div class="gallery-label" data-ar="المزيد — بحث" data-en="More — Search">المزيد — بحث</div></div>
+    <div class="gallery-item" onclick="openLB(this)"><img src="screens/IMG_6600.PNG" alt="" loading="lazy"><div class="gallery-label" data-ar="لوحة الطبيب" data-en="Doctor Dashboard">لوحة الطبيب</div></div>
+    <div class="gallery-item" onclick="openLB(this)"><img src="screens/IMG_6669.PNG" alt="" loading="lazy"><div class="gallery-label" data-ar="لوحة الصيدلية" data-en="Pharmacy Dashboard">لوحة الصيدلية</div></div>
+    <div class="gallery-item" onclick="openLB(this)"><img src="screens/IMG_6670.PNG" alt="" loading="lazy"><div class="gallery-label" data-ar="مخزون الصيدلية" data-en="Pharmacy Stock">مخزون الصيدلية</div></div>
+    <div class="gallery-item" onclick="openLB(this)"><img src="screens/IMG_6671.PNG" alt="" loading="lazy"><div class="gallery-label" data-ar="طلبات واردة" data-en="Incoming Orders">طلبات واردة</div></div>
+    <div class="gallery-item" onclick="openLB(this)"><img src="screens/IMG_6672.PNG" alt="" loading="lazy"><div class="gallery-label" data-ar="تفاصيل الطلب" data-en="Order Details">تفاصيل الطلب</div></div>
+  </div>
+</div>
+</section>
+
+<!-- CTA -->
+<section class="deck-cta">
+  <h2 data-ar="جرّب صحتك اليوم" data-en="Try Sihtak today">جرّب صحتك اليوم</h2>
+  <p data-ar="قريباً على App Store. سجّل الآن للتجربة المبكرة." data-en="Coming soon to the App Store. Sign up now for early access.">قريباً على App Store. سجّل الآن للتجربة المبكرة.</p>
+  <div style="display:flex;gap:14px;justify-content:center;flex-wrap:wrap">
+    <a href="mailto:contact@sihtak.com" class="btn btn-teal" data-ar="سجّل للتجربة المبكرة" data-en="Join the Beta">سجّل للتجربة المبكرة</a>
+    <a href="https://www.sihtak.com" class="btn btn-outline" data-ar="زيارة sihtak.com" data-en="Visit sihtak.com">زيارة sihtak.com</a>
+  </div>
+</section>
+
+<footer class="deck-footer">
+  <p>&copy; 2026 Sihtak (صحتك) · <span data-ar="صنع بواسطة عدنان الرفاعي" data-en="Built by Adnan Alrefai">صنع بواسطة عدنان الرفاعي</span></p>
+</footer>
+
+<!-- Lightbox -->
+<div class="lightbox" id="lb" onclick="closeLB()">
+  <button class="lightbox-close" onclick="closeLB()">&times;</button>
+  <img id="lb-img" src="" alt="">
+</div>
+
+<script>
+// Lightbox
+function openLB(el){document.getElementById('lb-img').src=el.querySelector('img').src;document.getElementById('lb').classList.add('active');document.body.style.overflow='hidden'}
+function closeLB(){document.getElementById('lb').classList.remove('active');document.body.style.overflow=''}
+document.addEventListener('keydown',e=>{if(e.key==='Escape')closeLB()});
+
+// Role tabs
+function showRole(role){
+  document.querySelectorAll('.role-tab').forEach(t=>t.classList.remove('active'));
+  document.querySelectorAll('.role-content').forEach(c=>c.classList.remove('active'));
+  event.target.classList.add('active');
+  document.getElementById('role-'+role).classList.add('active');
+}
+
+// Language toggle
+let currentLang='ar';
+function setLang(lang){
+  currentLang=lang;
+  document.documentElement.lang=lang;
+  document.documentElement.dir=lang==='ar'?'rtl':'ltr';
+  document.body.style.fontFamily=lang==='ar'?"'Tajawal','Inter',system-ui,sans-serif":"'Inter','Tajawal',system-ui,sans-serif";
+  document.querySelectorAll('.lang-switch button').forEach(b=>b.classList.remove('active'));
+  document.querySelector('.lang-switch button:' + (lang==='ar'?'first-child':'last-child')).classList.add('active');
+  document.querySelectorAll('[data-'+lang+']').forEach(el=>{el.textContent=el.getAttribute('data-'+lang)});
+}
+</script>
+</body>
+</html>
