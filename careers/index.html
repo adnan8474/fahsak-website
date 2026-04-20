@@ -377,19 +377,19 @@
 
         <!-- Application Form -->
         <h2 style="font-size: 28px; font-weight: 800; margin-bottom: 8px;" data-ar="قدّم طلبك الآن" data-en="Apply Now">قدّم طلبك الآن</h2>
-        <p style="color: var(--text-m); margin-bottom: 32px; font-size: 15px; line-height: 1.8;" data-ar="املأ النموذج أدناه وأرفق ملفاتك الداعمة (فيديو تعريفي، نماذج أعمال سابقة، إلخ). سيتم الرد على المرشحين المناسبين خلال 7 أيام." data-en="Fill out the form below and attach your supporting files (intro video, portfolio samples, etc.). Suitable candidates will be contacted within 7 days.">املأ النموذج أدناه وأرفق ملفاتك الداعمة (فيديو تعريفي، نماذج أعمال سابقة، إلخ). سيتم الرد على المرشحين المناسبين خلال 7 أيام.</p>
+        <p style="color: var(--text-m); margin-bottom: 32px; font-size: 15px; line-height: 1.8;" data-ar="املأ النموذج أدناه. يمكنك مشاركة روابط لفيديوهاتك وأعمالك بدل رفع الملفات. سيتم الرد على المرشحين المناسبين خلال 7 أيام." data-en="Fill out the form below. You can share links to your videos and portfolio instead of uploading files. Suitable candidates will be contacted within 7 days.">املأ النموذج أدناه. يمكنك مشاركة روابط لفيديوهاتك وأعمالك بدل رفع الملفات. سيتم الرد على المرشحين المناسبين خلال 7 أيام.</p>
 
         <form id="applicationForm" onsubmit="handleSubmit(event)">
           <div class="form-group">
             <label for="fullName" data-ar="الاسم الكامل" data-en="Full Name">الاسم الكامل</label>
-            <input type="text" id="fullName" name="fullName" placeholder="" required>
+            <input type="text" id="fullName" name="fullName" required>
           </div>
 
           <div class="form-group">
             <label for="whatsapp">
               <span data-ar="رقم الواتساب" data-en="WhatsApp Number">رقم الواتساب</span>
             </label>
-            <input type="tel" id="whatsapp" name="whatsapp" placeholder="مثال: 09XXXXXXXX" required dir="ltr" style="text-align: left;">
+            <input type="tel" id="whatsapp" name="whatsapp" placeholder="09XXXXXXXX" required dir="ltr" style="text-align: left;">
           </div>
 
           <div class="form-group">
@@ -402,7 +402,7 @@
               <span data-ar="مكان الإقامة" data-en="Area of Residence">مكان الإقامة</span>
               <span class="label-hint" data-ar=" (المدينة والمنطقة في سوريا)" data-en=" (City and area in Syria)"> (المدينة والمنطقة في سوريا)</span>
             </label>
-            <input type="text" id="area" name="area" placeholder="" required>
+            <input type="text" id="area" name="area" required>
           </div>
 
           <div class="form-group">
@@ -418,7 +418,7 @@
               <span data-ar="الراتب الشهري المتوقع" data-en="Expected Monthly Salary">الراتب الشهري المتوقع</span>
               <span class="label-hint" data-ar=" (بالليرة السورية)" data-en=" (in Syrian Lira / SYP)"> (بالليرة السورية)</span>
             </label>
-            <input type="text" id="salary" name="salary" placeholder="مثال: 1,000,000 ل.س" required>
+            <input type="text" id="salary" name="salary" required>
           </div>
 
           <div class="form-group">
@@ -445,25 +445,40 @@
             <textarea id="motivation" name="motivation" required minlength="10" maxlength="2000"></textarea>
           </div>
 
+          <!-- Link-based video/portfolio (recommended — faster and more reliable) -->
           <div class="form-group">
-            <label for="introVideo">
-              <span data-ar="فيديو تعريفي 30 ثانية" data-en="30-Second Intro Video">فيديو تعريفي 30 ثانية</span>
-              <span class="label-hint" data-ar=" (اختياري — تحدث أمام الكاميرا عن نفسك، يزيد فرصتك بشكل كبير)" data-en=" (optional — talk on camera about yourself, greatly increases your chances)"> (اختياري — تحدث أمام الكاميرا عن نفسك، يزيد فرصتك بشكل كبير)</span>
+            <label for="videoLink">
+              <span data-ar="رابط فيديو تعريفي" data-en="Intro Video Link">رابط فيديو تعريفي</span>
+              <span class="label-hint" data-ar=" (اختياري — رابط يوتيوب، إنستغرام، تيك توك، أو Google Drive — يزيد فرصتك بشكل كبير)" data-en=" (optional — YouTube, Instagram, TikTok, or Google Drive link — greatly increases your chances)"> (اختياري — رابط يوتيوب، إنستغرام، تيك توك، أو Google Drive — يزيد فرصتك بشكل كبير)</span>
             </label>
-            <input type="file" id="introVideo" name="introVideo" accept=".mp4,.mov,.avi,.mkv,.webm">
+            <input type="url" id="videoLink" name="videoLink" placeholder="https://" dir="ltr" style="text-align: left;">
           </div>
 
           <div class="form-group">
-            <label for="files">
-              <span data-ar="ملفات داعمة إضافية" data-en="Additional Supporting Files">ملفات داعمة إضافية</span>
-              <span class="label-hint" data-ar=" (اختياري — نماذج أعمال سابقة، CV)" data-en=" (optional — portfolio samples, CV)"> (اختياري — نماذج أعمال سابقة، CV)</span>
+            <label for="portfolioLink">
+              <span data-ar="رابط أعمال سابقة" data-en="Portfolio / Previous Work Link">رابط أعمال سابقة</span>
+              <span class="label-hint" data-ar=" (اختياري — حسابك على إنستغرام، Google Drive، أو أي رابط لأعمالك)" data-en=" (optional — your Instagram, Google Drive, or any link to your work)"> (اختياري — حسابك على إنستغرام، Google Drive، أو أي رابط لأعمالك)</span>
             </label>
-            <input type="file" id="files" name="files" multiple accept=".pdf,.doc,.docx,.mp4,.mov,.avi,.jpg,.jpeg,.png,.zip">
+            <input type="url" id="portfolioLink" name="portfolioLink" placeholder="https://" dir="ltr" style="text-align: left;">
+          </div>
+
+          <!-- File upload (alternative to links) -->
+          <div class="form-group" style="border-top: 1px solid var(--border); padding-top: 20px; margin-top: 8px;">
+            <label for="files">
+              <span data-ar="رفع ملفات" data-en="Upload Files">رفع ملفات</span>
+              <span class="label-hint" data-ar=" (اختياري — فيديو، CV، نماذج أعمال — الحد الأقصى 25 ميغا لكل ملف)" data-en=" (optional — video, CV, portfolio — max 25 MB per file)"> (اختياري — فيديو، CV، نماذج أعمال — الحد الأقصى 25 ميغا لكل ملف)</span>
+            </label>
+            <input type="file" id="files" name="files" multiple accept=".pdf,.doc,.docx,.mp4,.mov,.avi,.mkv,.webm,.jpg,.jpeg,.png,.zip">
           </div>
 
           <button type="submit" class="submit-btn" id="submitBtn">
             <span data-ar="أرسل طلب التقديم" data-en="Submit Application">أرسل طلب التقديم</span>
           </button>
+
+          <!-- Progress bar for file uploads -->
+          <div id="progressBar" style="display:none; margin-top: 12px; background: var(--bg-card); border: 1px solid var(--border); border-radius: 8px; overflow: hidden; height: 6px;">
+            <div id="progressFill" style="height: 100%; background: var(--teal); width: 0%; transition: width 0.3s;"></div>
+          </div>
         </form>
 
         <div class="success-msg" id="successMsg">
@@ -471,6 +486,14 @@
           <p data-ar="شكراً لاهتمامك بالانضمام لفريق صحتك. سيتم التواصل معك خلال 7 أيام إذا كنت من المرشحين المناسبين." data-en="Thank you for your interest in joining the Sihtak team. You'll be contacted within 7 days if you're a suitable candidate.">شكراً لاهتمامك بالانضمام لفريق صحتك. سيتم التواصل معك خلال 7 أيام إذا كنت من المرشحين المناسبين.</p>
         </div>
         <div class="error-msg" id="errorMsg"></div>
+        <!-- WhatsApp fallback shown on error -->
+        <div id="whatsappFallback" style="display:none; text-align: center; margin-top: 16px;">
+          <p style="color: var(--text-m); font-size: 14px; margin-bottom: 12px;" data-ar="أو أرسل طلبك عبر واتساب مباشرة:" data-en="Or send your application via WhatsApp:">أو أرسل طلبك عبر واتساب مباشرة:</p>
+          <a id="whatsappLink" href="#" target="_blank" rel="noopener" style="display: inline-flex; align-items: center; gap: 8px; padding: 14px 28px; border-radius: var(--r-sm); background: #25D366; color: #fff; font-weight: 700; font-size: 15px; text-decoration: none; transition: all 0.2s;">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
+            <span data-ar="أرسل عبر واتساب" data-en="Send via WhatsApp">أرسل عبر واتساب</span>
+          </a>
+        </div>
 
         <!-- Contact info -->
         <div class="job-section" style="margin-top: 32px; text-align: center;">
@@ -528,7 +551,6 @@
     applyTheme(getPreferredTheme());
 
     // --- Language management ---
-    // Careers page always defaults to Arabic
     let currentLang = 'ar';
     function switchLang(lang) {
       currentLang = lang;
@@ -546,28 +568,59 @@
     const API_BASE = 'https://fahsak-api.azurewebsites.net/api/v1/careers';
 
     function showError(msg) {
-      const errorMsg = document.getElementById('errorMsg');
-      errorMsg.textContent = msg;
-      errorMsg.style.display = 'block';
-      errorMsg.scrollIntoView({ behavior: 'smooth', block: 'center' });
+      const el = document.getElementById('errorMsg');
+      el.textContent = msg;
+      el.style.display = 'block';
+      el.scrollIntoView({ behavior: 'smooth', block: 'center' });
     }
 
     function resetBtn() {
       const btn = document.getElementById('submitBtn');
       btn.disabled = false;
       btn.querySelector('span').textContent = currentLang === 'ar' ? 'أرسل طلب التقديم' : 'Submit Application';
+      document.getElementById('progressBar').style.display = 'none';
+    }
+
+    function buildWhatsAppFallback() {
+      var name = document.getElementById('fullName').value || '';
+      var wa = document.getElementById('whatsapp').value || '';
+      var email = document.getElementById('email').value || '';
+      var area = document.getElementById('area').value || '';
+      var ig = document.getElementById('instagram').value || '';
+      var salary = document.getElementById('salary').value || '';
+      var commute = (document.querySelector('input[name="can_commute"]:checked') || {}).value || '';
+      var motivation = document.getElementById('motivation').value || '';
+      var videoLink = document.getElementById('videoLink').value || '';
+      var portfolioLink = document.getElementById('portfolioLink').value || '';
+      var text = 'طلب توظيف — وجه العلامة التجارية\n\n'
+        + 'الاسم: ' + name + '\n'
+        + 'واتساب: ' + wa + '\n'
+        + 'إيميل: ' + email + '\n'
+        + 'المنطقة: ' + area + '\n'
+        + 'إنستغرام: ' + ig + '\n'
+        + 'الراتب المتوقع: ' + salary + '\n'
+        + 'الحضور للمكتب: ' + (commute === 'yes' ? 'نعم' : 'لا') + '\n'
+        + 'الدافع: ' + motivation + '\n';
+      if (videoLink) text += 'رابط الفيديو: ' + videoLink + '\n';
+      if (portfolioLink) text += 'رابط الأعمال: ' + portfolioLink + '\n';
+      var url = 'https://wa.me/447440487115?text=' + encodeURIComponent(text);
+      document.getElementById('whatsappLink').href = url;
+      document.getElementById('whatsappFallback').style.display = 'block';
     }
 
     async function handleSubmit(e) {
       e.preventDefault();
-      const btn = document.getElementById('submitBtn');
-      const form = document.getElementById('applicationForm');
-      const successMsg = document.getElementById('successMsg');
-      const errorMsg = document.getElementById('errorMsg');
+      var btn = document.getElementById('submitBtn');
+      var form = document.getElementById('applicationForm');
+      var successMsg = document.getElementById('successMsg');
+      var errorMsg = document.getElementById('errorMsg');
+      var progressBar = document.getElementById('progressBar');
+      var progressFill = document.getElementById('progressFill');
       errorMsg.style.display = 'none';
+      document.getElementById('whatsappFallback').style.display = 'none';
 
-      // Client-side validation
-      const commuteChoice = document.querySelector('input[name="can_commute"]:checked');
+      // Validate commute radio
+      var commuteChoice = document.querySelector('input[name="can_commute"]:checked');
       if (!commuteChoice) {
         showError(currentLang === 'ar'
           ? 'يرجى الإجابة على سؤال الحضور للمكتب (نعم / لا)'
@@ -575,32 +628,31 @@
         return;
       }
 
-      const introInput = document.getElementById('introVideo');
-
-      // Check file sizes (max 50MB per file)
-      const maxSize = 50 * 1024 * 1024;
-      if (introInput.files.length && introInput.files[0].size > maxSize) {
-        showError(currentLang === 'ar'
-          ? 'حجم الفيديو التعريفي يتجاوز 50 ميغابايت. يرجى ضغط الفيديو أو تقصيره'
-          : 'Intro video exceeds 50 MB. Please compress or shorten the video');
-        return;
-      }
-
-      const fileInput = document.getElementById('files');
-      for (let i = 0; i < fileInput.files.length; i++) {
+      // Validate file sizes (max 25MB per file to be safe for Syrian internet)
+      var fileInput = document.getElementById('files');
+      var maxSize = 25 * 1024 * 1024;
+      var hasFiles = false;
+      for (var i = 0; i < fileInput.files.length; i++) {
+        hasFiles = true;
         if (fileInput.files[i].size > maxSize) {
-          const name = fileInput.files[i].filename || fileInput.files[i].name;
           showError(currentLang === 'ar'
-            ? 'الملف "' + name + '" يتجاوز 50 ميغابايت'
-            : 'File "' + name + '" exceeds 50 MB');
+            ? 'الملف "' + fileInput.files[i].name + '" أكبر من 25 ميغابايت. يرجى استخدام رابط بدلاً من الرفع'
+            : 'File "' + fileInput.files[i].name + '" exceeds 25 MB. Please use a link instead of uploading');
           return;
         }
       }
 
       btn.disabled = true;
-      btn.querySelector('span').textContent = currentLang === 'ar' ? 'جاري الإرسال... قد يستغرق دقيقة' : 'Sending... may take a minute';
+      btn.querySelector('span').textContent = currentLang === 'ar'
+        ? (hasFiles ? 'جاري الرفع... قد يستغرق دقيقة' : 'جاري الإرسال...')
+        : (hasFiles ? 'Uploading... may take a minute' : 'Sending...');
 
-      const formData = new FormData();
+      if (hasFiles) {
+        progressBar.style.display = 'block';
+        progressFill.style.width = '0%';
+      }
+
+      var formData = new FormData();
       formData.append('full_name', document.getElementById('fullName').value);
       formData.append('whatsapp', document.getElementById('whatsapp').value);
       formData.append('email', document.getElementById('email').value);
@@ -610,61 +662,72 @@
       formData.append('can_commute', commuteChoice.value);
       formData.append('motivation', document.getElementById('motivation').value);
       formData.append('position', 'brand_face_content_creator');
+      formData.append('video_link', document.getElementById('videoLink').value);
+      formData.append('portfolio_link', document.getElementById('portfolioLink').value);
 
-      // Intro video (optional but encouraged)
-      if (introInput.files.length > 0) {
-        formData.append('files', introInput.files[0]);
-      }
-      // Additional supporting files
-      for (let i = 0; i < fileInput.files.length; i++) {
+      for (var i = 0; i < fileInput.files.length; i++) {
         formData.append('files', fileInput.files[i]);
       }
 
-      try {
-        const controller = new AbortController();
-        const timeout = setTimeout(() => controller.abort(), 120000); // 2 min timeout
+      // Use XMLHttpRequest for upload progress
+      var xhr = new XMLHttpRequest();
+      xhr.open('POST', API_BASE + '/apply');
+      xhr.timeout = 180000; // 3 min for file uploads
 
-        const res = await fetch(API_BASE + '/apply', {
-          method: 'POST',
-          body: formData,
-          signal: controller.signal,
-        });
-        clearTimeout(timeout);
+      xhr.upload.onprogress = function(ev) {
+        if (ev.lengthComputable) {
+          var pct = Math.round((ev.loaded / ev.total) * 100);
+          progressFill.style.width = pct + '%';
+          if (pct >= 100) {
+            btn.querySelector('span').textContent = currentLang === 'ar' ? 'جاري المعالجة...' : 'Processing...';
+          }
+        }
+      };
 
-        if (res.ok) {
+      xhr.onload = function() {
+        if (xhr.status >= 200 && xhr.status < 300) {
           form.style.display = 'none';
+          progressBar.style.display = 'none';
           successMsg.style.display = 'block';
           successMsg.scrollIntoView({ behavior: 'smooth', block: 'center' });
         } else {
-          const err = await res.json().catch(() => null);
-          const detail = err?.detail || '';
-          if (res.status === 400) {
+          var detail = '';
+          try { detail = JSON.parse(xhr.responseText).detail || ''; } catch(e) {}
+          if (xhr.status === 400) {
             showError(currentLang === 'ar'
               ? 'خطأ في البيانات: ' + detail
               : 'Validation error: ' + detail);
-          } else if (res.status === 413) {
+          } else if (xhr.status === 413) {
             showError(currentLang === 'ar'
-              ? 'حجم الملفات كبير جداً. يرجى تقليل حجم الملفات المرفقة'
-              : 'Files too large. Please reduce file sizes');
+              ? 'حجم الملفات كبير جداً. استخدم روابط بدلاً من رفع الملفات'
+              : 'Files too large. Use links instead of uploading');
           } else {
             showError(currentLang === 'ar'
-              ? 'حدث خطأ في الخادم. يرجى المحاولة لاحقاً أو التواصل عبر contact@sihtak.com'
-              : 'Server error. Please try again later or contact contact@sihtak.com');
+              ? 'حدث خطأ. يرجى المحاولة بدون ملفات أو التقديم عبر واتساب'
+              : 'An error occurred. Try without files or apply via WhatsApp');
           }
+          buildWhatsAppFallback();
           resetBtn();
         }
-      } catch (err) {
-        if (err.name === 'AbortError') {
-          showError(currentLang === 'ar'
-            ? 'انتهت المهلة — الاتصال بطيء أو حجم الملفات كبير. يرجى المحاولة بملفات أصغر أو اتصال أسرع'
-            : 'Request timed out — slow connection or large files. Try with smaller files or faster internet');
-        } else {
-          showError(currentLang === 'ar'
-            ? 'فشل الاتصال بالخادم. تحقق من اتصالك بالإنترنت وحاول مرة أخرى'
-            : 'Failed to connect. Check your internet connection and try again');
-        }
+      };
+
+      xhr.onerror = function() {
+        showError(currentLang === 'ar'
+          ? 'فشل الاتصال بالخادم. يمكنك التقديم عبر واتساب مباشرة'
+          : 'Failed to connect. You can apply via WhatsApp instead');
+        buildWhatsAppFallback();
         resetBtn();
-      }
+      };
+
+      xhr.ontimeout = function() {
+        showError(currentLang === 'ar'
+          ? 'انتهت المهلة — الاتصال بطيء. يرجى المحاولة بدون ملفات أو التقديم عبر واتساب'
+          : 'Request timed out. Try without files or apply via WhatsApp');
+        buildWhatsAppFallback();
+        resetBtn();
+      };
+
+      xhr.send(formData);
     }
   </script>
 </body>
