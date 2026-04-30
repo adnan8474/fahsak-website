@@ -10,7 +10,6 @@
     { "route": "/join/*", "rewrite": "/join/index.html" },
     { "route": "/deck", "rewrite": "/deck/index.html" },
     { "route": "/delete-account", "rewrite": "/delete-account/index.html" },
-    { "route": "/careers", "rewrite": "/careers/index.html" },
     { "route": "/admin", "rewrite": "/admin/index.html" }
   ],
   "responseOverrides": {
