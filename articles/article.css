@@ -1,0 +1,232 @@
+/* Sihtak articles: editorial layer over style.css (both themes, RTL-safe) */
+
+.art-nav-link {
+  color: var(--text-m);
+  font-weight: 600;
+  font-size: 14px;
+  padding: 8px 10px;
+  border-radius: 8px;
+}
+.art-nav-link:hover { color: var(--teal); }
+
+.art-page { padding-top: 64px; }
+
+/* Hero */
+.art-hero {
+  position: relative;
+  overflow: hidden;
+  padding: 72px 24px 48px;
+  background:
+    radial-gradient(600px 300px at 85% 0%, var(--teal-dim), transparent 70%),
+    var(--bg-surface);
+  border-bottom: 1px solid rgba(128,128,128,0.12);
+}
+.art-hero .hero-deco {
+  position: absolute;
+  inset-inline-end: -40px;
+  top: -80px;
+  opacity: 0.5;
+  pointer-events: none;
+}
+.art-hero-inner { max-width: 760px; margin: 0 auto; position: relative; }
+.art-hero-icon {
+  width: 64px; height: 64px;
+  display: flex; align-items: center; justify-content: center;
+  border-radius: 18px;
+  background: var(--teal-dim);
+  color: var(--teal);
+  box-shadow: 0 0 40px var(--teal-dim);
+  margin-bottom: 20px;
+}
+.art-chip {
+  display: inline-block;
+  font-size: 12.5px; font-weight: 700;
+  color: var(--teal);
+  background: var(--teal-dim);
+  border: 1px solid var(--teal-glow);
+  border-radius: 999px;
+  padding: 4px 12px;
+  margin-bottom: 14px;
+}
+.art-hero h1 {
+  font-size: clamp(28px, 5vw, 42px);
+  line-height: 1.25;
+  margin: 6px 0 14px;
+  color: var(--text);
+}
+.art-meta { color: var(--text-m); font-size: 14.5px; }
+.art-meta strong { color: var(--text); font-weight: 600; }
+.art-hero--hub { text-align: center; padding-bottom: 40px; }
+.art-hero--hub h1 { margin-top: 8px; }
+.art-hub-sub { max-width: 620px; margin: 0 auto; color: var(--text-m); font-size: 17px; line-height: 1.8; }
+
+/* Body */
+.art-body {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 40px 24px 24px;
+}
+.art-body section { margin-bottom: 36px; }
+.art-body h2 {
+  font-size: clamp(21px, 3vw, 26px);
+  color: var(--text);
+  margin-bottom: 14px;
+  position: relative;
+  padding-inline-start: 16px;
+}
+.art-body h2::before {
+  content: "";
+  position: absolute;
+  inset-inline-start: 0;
+  top: 6px; bottom: 6px;
+  width: 4px;
+  border-radius: 4px;
+  background: linear-gradient(180deg, var(--teal), var(--teal-dark));
+}
+.art-body p {
+  color: var(--text-m);
+  font-size: 17px;
+  line-height: 2;
+  margin-bottom: 14px;
+}
+.art-list { margin: 4px 0 14px; padding-inline-start: 22px; }
+.art-list li {
+  color: var(--text-m);
+  font-size: 16.5px;
+  line-height: 1.95;
+  margin-bottom: 8px;
+}
+.art-list li::marker { color: var(--teal); }
+
+/* Takeaways */
+.art-takeaways {
+  background: var(--bg-card);
+  border: 1px solid var(--teal-glow);
+  border-radius: 16px;
+  padding: 22px 24px;
+  margin-bottom: 40px;
+}
+.art-takeaways h2 { font-size: 17px; color: var(--teal); margin-bottom: 12px; padding: 0; }
+.art-takeaways h2::before { display: none; }
+.art-takeaways ul { padding-inline-start: 20px; }
+.art-takeaways li { color: var(--text); font-size: 15.5px; line-height: 1.9; margin-bottom: 6px; }
+.art-takeaways li::marker { color: var(--teal); }
+
+/* App tie-in */
+.art-tie {
+  border-inline-start: 3px solid var(--teal);
+  background: linear-gradient(90deg, var(--teal-dim), transparent 80%);
+  border-radius: 12px;
+  padding: 18px 20px;
+}
+.art-tie p { margin: 0; color: var(--text); font-size: 16px; }
+
+/* CTA */
+.art-cta {
+  display: flex;
+  align-items: center;
+  gap: 18px;
+  flex-wrap: wrap;
+  background: var(--bg-card);
+  border: 1px solid rgba(128,128,128,0.15);
+  border-radius: 18px;
+  padding: 22px 24px;
+  margin: 40px 0;
+}
+.art-cta img { border-radius: 14px; }
+.art-cta-text { flex: 1; min-width: 220px; }
+.art-cta-text h3 { color: var(--text); font-size: 18px; margin-bottom: 4px; }
+.art-cta-text p { color: var(--text-m); font-size: 14.5px; line-height: 1.7; margin: 0; }
+.art-cta-btns { display: flex; gap: 10px; flex-wrap: wrap; }
+
+/* FAQ */
+.art-faq-item {
+  border: 1px solid rgba(128,128,128,0.15);
+  border-radius: 12px;
+  margin-bottom: 10px;
+  background: var(--bg-card);
+  overflow: hidden;
+}
+.art-faq-item summary {
+  cursor: pointer;
+  list-style: none;
+  padding: 15px 18px;
+  color: var(--text);
+  font-weight: 600;
+  font-size: 15.5px;
+  position: relative;
+  padding-inline-end: 40px;
+}
+.art-faq-item summary::-webkit-details-marker { display: none; }
+.art-faq-item summary::after {
+  content: "+";
+  position: absolute;
+  inset-inline-end: 16px;
+  top: 50%;
+  transform: translateY(-50%);
+  color: var(--teal);
+  font-size: 20px;
+  font-weight: 700;
+}
+.art-faq-item[open] summary::after { content: "−"; }
+.art-faq-item p { padding: 0 18px 16px; margin: 0; font-size: 15px; line-height: 1.9; }
+
+/* Disclaimer */
+.art-disclaimer {
+  font-size: 13.5px !important;
+  color: var(--text-d) !important;
+  border-top: 1px solid rgba(128,128,128,0.15);
+  padding-top: 18px;
+  margin-top: 8px;
+}
+
+/* Related grid + cards */
+.art-related { max-width: 1000px; margin: 0 auto; padding: 16px 24px 80px; }
+.art-related--hub { padding-top: 40px; }
+.art-related h2 { color: var(--text); font-size: 22px; margin-bottom: 20px; }
+.art-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: 16px;
+}
+.art-card {
+  display: block;
+  background: var(--bg-card);
+  border: 1px solid rgba(128,128,128,0.14);
+  border-radius: 16px;
+  padding: 20px;
+  transition: transform .2s, border-color .2s, background .2s;
+}
+.art-card:hover {
+  transform: translateY(-3px);
+  border-color: var(--teal-glow);
+  background: var(--bg-card-h);
+}
+.art-card-icon {
+  width: 44px; height: 44px;
+  display: flex; align-items: center; justify-content: center;
+  border-radius: 12px;
+  background: var(--teal-dim);
+  color: var(--teal);
+  margin-bottom: 12px;
+}
+.art-card .art-chip { margin-bottom: 10px; }
+.art-card h3 { color: var(--text); font-size: 16.5px; line-height: 1.5; margin-bottom: 8px; }
+.art-card p {
+  color: var(--text-m);
+  font-size: 13.5px;
+  line-height: 1.75;
+  margin-bottom: 12px;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.art-card-meta { color: var(--text-d); font-size: 12.5px; }
+
+@media (max-width: 640px) {
+  .art-hero { padding: 56px 18px 36px; }
+  .art-body { padding: 28px 18px 16px; }
+  .art-cta { flex-direction: column; align-items: flex-start; }
+  .art-nav-link { display: none; }
+}
