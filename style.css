@@ -741,6 +741,18 @@ img { max-width: 100%; display: block; }
   margin-top: 3px;
 }
 
+/* safety note under the AI feature list: explains, does not diagnose */
+.feature-note {
+  margin-top: 20px;
+  padding: 12px 16px;
+  border-radius: var(--r);
+  border-inline-start: 3px solid var(--teal);
+  background: var(--bg-card);
+  font-size: 14px;
+  line-height: 1.65;
+  color: var(--text-m);
+}
+
 .feature-check { color: var(--teal); }
 .feature-check--purple { color: var(--purple); }
 .feature-check--blue { color: var(--blue); }
@@ -1252,13 +1264,13 @@ img { max-width: 100%; display: block; }
 .sibling-logo {
   flex-shrink: 0;
   display: block;
-  padding: 24px 32px;
+  padding: 20px 26px;
   border-radius: var(--r);
   background: #ffffff;
 }
 .sibling-logo img {
   display: block;
-  width: 260px;
+  width: 330px;
   height: auto;
 }
 
@@ -1296,8 +1308,8 @@ img { max-width: 100%; display: block; }
 @media (max-width: 768px) {
   .sibling { padding: 60px 0; }
   .sibling-card { padding: 28px; gap: 28px; }
-  .sibling-logo { padding: 20px 24px; }
-  .sibling-logo img { width: 200px; }
+  .sibling-logo { padding: 16px 18px; }
+  .sibling-logo img { width: 250px; }
   .sibling-title { font-size: 22px; }
 }
 
