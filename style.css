@@ -1221,6 +1221,86 @@ img { max-width: 100%; display: block; }
   color: var(--text-d);
 }
 
+/* ===== Sibling project (LabSyria) ===== */
+.sibling {
+  padding: 80px 0;
+  border-top: 1px solid var(--border);
+}
+
+.sibling-inner {
+  max-width: 1200px; margin: 0 auto; padding: 0 24px;
+}
+
+.sibling-card {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 48px;
+  flex-wrap: wrap;
+  padding: 40px;
+  border-radius: var(--r-lg);
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  transition: all 0.3s;
+}
+.sibling-card:hover {
+  border-color: var(--border-h);
+  background: var(--bg-card-h);
+}
+
+/* white plate so the navy/green wordmark reads on the dark theme too */
+.sibling-logo {
+  flex-shrink: 0;
+  display: block;
+  padding: 24px 32px;
+  border-radius: var(--r);
+  background: #ffffff;
+}
+.sibling-logo img {
+  display: block;
+  width: 260px;
+  height: auto;
+}
+
+.sibling-body {
+  flex: 1;
+  min-width: 280px;
+}
+
+.sibling-title {
+  font-size: 26px;
+  font-weight: 700;
+  line-height: 1.35;
+  color: var(--text);
+  margin-bottom: 12px;
+}
+
+.sibling-text {
+  font-size: 16px;
+  line-height: 1.7;
+  color: var(--text-m);
+  margin-bottom: 20px;
+}
+
+.sibling-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 15px;
+  font-weight: 600;
+  color: var(--teal);
+  text-decoration: none;
+}
+.sibling-link:hover { text-decoration: underline; }
+
+@media (max-width: 768px) {
+  .sibling { padding: 60px 0; }
+  .sibling-card { padding: 28px; gap: 28px; }
+  .sibling-logo { padding: 20px 24px; }
+  .sibling-logo img { width: 200px; }
+  .sibling-title { font-size: 22px; }
+}
+
 /* ===== FAQ ===== */
 .faq {
   padding: 100px 0;
