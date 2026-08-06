@@ -10,7 +10,9 @@
     { "route": "/join/*", "rewrite": "/join/index.html" },
     { "route": "/deck", "rewrite": "/deck/index.html" },
     { "route": "/delete-account", "rewrite": "/delete-account/index.html" },
-    { "route": "/admin", "rewrite": "/admin/index.html" }
+    { "route": "/admin", "rewrite": "/admin/index.html" },
+    { "route": "/about", "rewrite": "/about/index.html" },
+    { "route": "/tools", "rewrite": "/tools/index.html" }
   ],
   "responseOverrides": {
     "404": {

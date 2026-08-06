@@ -1,0 +1,101 @@
+[
+  {
+    "slug": "bmi",
+    "js": "bmi.js",
+    "chip_ar": "أداة صحية",
+    "chip_en": "Health Tool",
+    "icon": "<path d=\"M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2\"/><circle cx=\"12\" cy=\"7\" r=\"4\"/>",
+    "ar": {
+      "title": "حاسبة مؤشر كتلة الجسم (BMI)",
+      "h1": "حاسبة مؤشر كتلة الجسم (BMI)",
+      "desc": "احسب مؤشر كتلة الجسم (BMI) مجاناً من وزنك وطولك، واعرف إن كان وزنك ضمن المعدل الطبيعي. أداة توعية لا تغني عن الطبيب.",
+      "keywords": "حاسبة كتلة الجسم, حساب BMI, مؤشر كتلة الجسم, الوزن المثالي, الوزن الطبيعي, السمنة, حاسبة الوزن",
+      "intro": "أدخل وزنك وطولك لحساب مؤشر كتلة الجسم فوراً، وهو رقم يقارن وزنك بطولك ويعطي فكرة عامة عن فئة وزنك.",
+      "howto": ["يُحسب مؤشر كتلة الجسم بقسمة الوزن بالكيلوغرام على مربع الطول بالمتر. مثلاً شخص وزنه 70 كيلوغرام وطوله 170 سنتيمتر يكون مؤشره نحو 24.2، أي ضمن المعدل الطبيعي.", "المؤشر أداة فرز عامة وليس تشخيصاً. لا يميّز بين العضلات والدهون، وقد لا يناسب الرياضيين أو كبار السن أو الحوامل أو الأطفال. اعتبره نقطة بداية للحديث مع طبيبك، لا حكماً نهائياً على صحتك."],
+      "faqs": [
+        {"q": "ما هو مؤشر كتلة الجسم الطبيعي؟", "a": "يُعتبر المدى من 18.5 إلى 24.9 طبيعياً بشكل عام للبالغين. أقل من ذلك يشير إلى نقص الوزن، ومن 25 إلى 29.9 إلى زيادة الوزن، و30 فأكثر إلى السمنة. لكنها فئات عامة يفسرها الطبيب حسب حالتك."},
+        {"q": "هل المؤشر دقيق للجميع؟", "a": "لا. المؤشر لا يميز بين كتلة العضلات والدهون، لذا قد يعطي نتيجة مضللة للرياضيين أصحاب العضلات، وقد لا يناسب كبار السن أو الحوامل أو الأطفال. هو مؤشر عام لا بديل عن تقييم الطبيب."},
+        {"q": "هل يقيس المؤشر نسبة الدهون في الجسم؟", "a": "لا، مؤشر كتلة الجسم لا يقيس نسبة الدهون مباشرة، بل يقارن الوزن بالطول فقط. لتقييم أدق قد يستخدم الطبيب قياسات أخرى مثل محيط الخصر."}
+      ]
+    },
+    "en": {
+      "title": "Body Mass Index (BMI) Calculator",
+      "h1": "Body Mass Index (BMI) Calculator",
+      "desc": "Calculate your Body Mass Index (BMI) for free from your weight and height, and see whether your weight is in the normal range. An awareness tool, not a substitute for a doctor.",
+      "keywords": "BMI calculator, body mass index, ideal weight, normal weight, obesity, weight calculator, calculate BMI",
+      "intro": "Enter your weight and height to calculate your Body Mass Index instantly. It is a number that compares your weight to your height and gives a general idea of your weight category.",
+      "howto": ["BMI is calculated by dividing weight in kilograms by the square of height in meters. For example, a person weighing 70 kilograms and 170 centimeters tall has a BMI of about 24.2, which is within the normal range.", "BMI is a general screening tool, not a diagnosis. It does not tell muscle from fat, and may not suit athletes, older adults, pregnant women, or children. Treat it as a starting point for a conversation with your doctor, not a final verdict on your health."],
+      "faqs": [
+        {"q": "What is a normal BMI?", "a": "A range of 18.5 to 24.9 is generally considered normal for adults. Below that points to underweight, 25 to 29.9 to overweight, and 30 and above to obesity. But these are general categories that a doctor interprets for your situation."},
+        {"q": "Is BMI accurate for everyone?", "a": "No. BMI does not distinguish muscle from fat, so it can be misleading for muscular athletes, and it may not suit older adults, pregnant women, or children. It is a general indicator, not a substitute for a doctor's assessment."},
+        {"q": "Does BMI measure body fat percentage?", "a": "No, BMI does not measure body fat directly, it only compares weight to height. For a more accurate assessment, a doctor may use other measures such as waist circumference."}
+      ]
+    }
+  },
+  {
+    "slug": "a1c-converter",
+    "js": "a1c.js",
+    "chip_ar": "أداة صحية",
+    "chip_en": "Health Tool",
+    "icon": "<path d=\"M12 3.2s6.3 6.8 6.3 11.3a6.3 6.3 0 0 1-12.6 0C5.7 10 12 3.2 12 3.2z\"/>",
+    "ar": {
+      "title": "محوّل السكر التراكمي (HbA1c) إلى متوسط السكر",
+      "h1": "محوّل السكر التراكمي (HbA1c) إلى متوسط السكر",
+      "desc": "حوّل نسبة السكر التراكمي HbA1c إلى متوسط سكر الدم التقديري بالملغم/دل والملي مول/لتر. أداة تقديرية للتوعية لا تغني عن الطبيب.",
+      "keywords": "محول السكر التراكمي, HbA1c, متوسط السكر, eAG, تحويل السكر التراكمي, السكري, سكر الدم",
+      "intro": "أدخل نسبة السكر التراكمي HbA1c لتعرف متوسط سكر الدم التقديري المقابل لها، وهو يساعدك على ربط رقم التحليل بقراءات السكر اليومية التي اعتدت عليها.",
+      "howto": ["يعكس السكر التراكمي متوسط سكر الدم خلال نحو شهرين إلى ثلاثة أشهر. تستخدم هذه الأداة معادلة معروفة تقدّر متوسط السكر (eAG) من نسبة HbA1c، وتعرضه بالوحدتين الشائعتين: الملغم/دل والملي مول/لتر.", "النتيجة تقديرية وقد تختلف قليلاً عن قراءات جهازك اليومي. لا تستخدمها للتشخيص أو لتعديل جرعة الدواء، فطبيبك هو من يفسر السكر التراكمي ويقرر خطتك. لمعرفة المزيد اقرأ مقال صحتك عن قراءة تحليل السكر التراكمي."],
+      "faqs": [
+        {"q": "ماذا يعني السكر التراكمي 7%؟", "a": "نسبة 7% تعادل متوسط سكر تقديري نحو 154 ملغم/دل (8.6 ملي مول/لتر). كثير من مرضى السكري يضع لهم الطبيب هدفاً قريباً من هذه النسبة، لكن الهدف يختلف من شخص لآخر ويحدده الطبيب حسب حالتك."},
+        {"q": "هل هذه الأداة تشخّص السكري؟", "a": "لا. الأداة تحوّل الأرقام فقط لمساعدتك على فهمها. التشخيص يعتمد على تحاليل يطلبها الطبيب ويفسرها، ولا يُبنى على هذه الأداة."},
+        {"q": "ما الفرق بين متوسط السكر وقراءة الصيام؟", "a": "متوسط السكر التقديري يلخّص فترة أشهر، أما قراءة الصيام فتقيس لحظة واحدة. لذلك قد يختلفان، وكلاهما يكمل الآخر في متابعة السكري مع طبيبك."}
+      ]
+    },
+    "en": {
+      "title": "HbA1c to Average Glucose Converter",
+      "h1": "HbA1c to Average Glucose Converter",
+      "desc": "Convert your HbA1c percentage to an estimated average blood glucose in mg/dL and mmol/L. An estimation tool for awareness, not a substitute for a doctor.",
+      "keywords": "HbA1c converter, A1c to average glucose, eAG, estimated average glucose, diabetes, blood sugar converter",
+      "intro": "Enter your HbA1c percentage to see the estimated average blood glucose it corresponds to. It helps you connect the lab number to the daily glucose readings you are used to.",
+      "howto": ["HbA1c reflects your average blood glucose over about two to three months. This tool uses a well-known formula that estimates the average glucose (eAG) from the HbA1c percentage, and shows it in the two common units: mg/dL and mmol/L.", "The result is an estimate and may differ slightly from your daily meter readings. Do not use it to diagnose or to change a medication dose, as your doctor interprets HbA1c and decides your plan. To learn more, read the Sihtak article on reading your HbA1c test."],
+      "faqs": [
+        {"q": "What does an HbA1c of 7% mean?", "a": "An HbA1c of 7% corresponds to an estimated average glucose of about 154 mg/dL (8.6 mmol/L). Many people with diabetes are set a target near this by their doctor, but the target varies from person to person and is decided by your doctor based on your situation."},
+        {"q": "Does this tool diagnose diabetes?", "a": "No. The tool only converts numbers to help you understand them. Diagnosis relies on tests requested and interpreted by a doctor, and is not based on this tool."},
+        {"q": "What is the difference between average glucose and a fasting reading?", "a": "Estimated average glucose summarizes a period of months, while a fasting reading measures a single moment. So they can differ, and each complements the other in following diabetes with your doctor."}
+      ]
+    }
+  },
+  {
+    "slug": "lab-unit-converter",
+    "js": "labunit.js",
+    "chip_ar": "أداة صحية",
+    "chip_en": "Health Tool",
+    "icon": "<polyline points=\"17 1 21 5 17 9\"/><path d=\"M3 11V9a4 4 0 0 1 4-4h14\"/><polyline points=\"7 23 3 19 7 15\"/><path d=\"M21 13v2a4 4 0 0 1-4 4H3\"/>",
+    "ar": {
+      "title": "محوّل وحدات التحاليل الطبية (mg/dL و mmol/L)",
+      "h1": "محوّل وحدات التحاليل الطبية",
+      "desc": "حوّل قيم التحاليل الشائعة بين الوحدات التقليدية (mg/dL) والدولية (mmol/L): السكر، الكوليسترول، الدهون الثلاثية، الكرياتينين واليوريا.",
+      "keywords": "محول وحدات التحاليل, mg/dL, mmol/L, تحويل السكر, تحويل الكوليسترول, الكرياتينين, وحدات المختبر",
+      "intro": "اختر التحليل وأدخل القيمة لتحويلها بين الوحدات التقليدية والدولية، فبعض المختبرات تستخدم وحدات مختلفة عن التي اعتدت عليها في نتائجك.",
+      "howto": ["تستخدم المختبرات وحدتين شائعتين لقيم الدم: الوحدة التقليدية (مثل ملغم/دل) والوحدة الدولية (مثل ملي مول/لتر). لكل تحليل معامل تحويل ثابت بين الوحدتين، وهذه الأداة تطبّقه لك مباشرة.", "لاحظ أن الكرياتينين يُعبَّر عنه بالوحدة الدولية بالميكرومول/لتر لا الملي مول/لتر. النتيجة هنا تحويل رقمي فقط، أما تفسير القيمة نفسها فيبقى مهمة الطبيب ضمن حالتك والنطاق المرجعي لمختبرك."],
+      "faqs": [
+        {"q": "لماذا تختلف وحدات نتائج تحاليلي عن غيرها؟", "a": "لأن بعض المختبرات تستخدم الوحدات الدولية (mmol/L) وأخرى الوحدات التقليدية (mg/dL). القيمة نفسها لا تتغير، فقط طريقة التعبير عنها، وهذه الأداة تساعدك على المقارنة بينها."},
+        {"q": "هل التحويل يغيّر تفسير النتيجة؟", "a": "لا. التحويل يغيّر الوحدة فقط وليس القيمة الفعلية. ما إذا كانت النتيجة طبيعية أو مرتفعة يعتمد على النطاق المرجعي للمختبر وعلى تفسير طبيبك."},
+        {"q": "أي التحاليل يمكن تحويلها هنا؟", "a": "تدعم الأداة سكر الدم (الغلوكوز)، والكوليسترول، والدهون الثلاثية، والكرياتينين، واليوريا. لتحاليل أخرى استعن بطبيبك أو المختبر."}
+      ]
+    },
+    "en": {
+      "title": "Medical Lab Unit Converter (mg/dL and mmol/L)",
+      "h1": "Medical Lab Unit Converter",
+      "desc": "Convert common lab values between conventional units (mg/dL) and SI units (mmol/L): glucose, cholesterol, triglycerides, creatinine, and urea.",
+      "keywords": "lab unit converter, mg/dL, mmol/L, glucose conversion, cholesterol conversion, creatinine, laboratory units",
+      "intro": "Choose the analyte and enter the value to convert it between conventional and SI units, since some labs use different units from the ones you are used to seeing in your results.",
+      "howto": ["Labs use two common units for blood values: the conventional unit (such as mg/dL) and the SI unit (such as mmol/L). Each analyte has a fixed conversion factor between the two units, and this tool applies it for you instantly.", "Note that creatinine is expressed in SI units as µmol/L, not mmol/L. The result here is a numeric conversion only, while interpreting the value itself remains your doctor's task within your situation and your lab's reference range."],
+      "faqs": [
+        {"q": "Why do the units on my results differ from others?", "a": "Because some labs use SI units (mmol/L) and others use conventional units (mg/dL). The value itself does not change, only how it is expressed, and this tool helps you compare between them."},
+        {"q": "Does converting change how the result is interpreted?", "a": "No. Converting changes only the unit, not the actual value. Whether a result is normal or high depends on the lab's reference range and your doctor's interpretation."},
+        {"q": "Which analytes can I convert here?", "a": "The tool supports glucose, cholesterol, triglycerides, creatinine, and urea. For other tests, ask your doctor or lab."}
+      ]
+    }
+  }
+]
