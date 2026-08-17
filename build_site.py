@@ -655,11 +655,19 @@ HUB_JS = """/* Sihtak article library: search, topic filter and sort for the hub
   /* The chip strip scrolls sideways, so an active chip arriving from a ?cat=
      link can be off screen. Nudge the strip, never the page. */
   function revealChip(el) {
-    var strip = document.getElementById('hubFilters');
-    if (!strip || !el) return;
-    var er = el.getBoundingClientRect(), sr = strip.getBoundingClientRect();
-    if (er.left < sr.left) strip.scrollLeft -= (sr.left - er.left) + 16;
-    else if (er.right > sr.right) strip.scrollLeft += (er.right - sr.right) + 16;
+    if (!el) return;
+    var run = function () {
+      var strip = document.getElementById('hubFilters');
+      if (!strip) return;
+      var er = el.getBoundingClientRect(), sr = strip.getBoundingClientRect();
+      if (er.left < sr.left) strip.scrollLeft -= (sr.left - er.left) + 16;
+      else if (er.right > sr.right) strip.scrollLeft += (er.right - sr.right) + 16;
+    };
+    run();
+    /* Chip widths only settle once the web font has swapped in. Measuring
+       once against fallback metrics stops the strip short of the chip, so
+       measure again when the fonts have finished either way. */
+    if (document.fonts && document.fonts.ready) document.fonts.ready.then(run);
   }
 
   function setCat(cat) {
