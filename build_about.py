@@ -4,6 +4,7 @@
 build_tools.py. No network, no deploy.  Run:  python build_about.py"""
 import os, json
 import build_tools as bt
+from build_chrome import serp_title, serp_desc
 
 BASE = bt.BASE
 PLAY = bt.PLAY
@@ -12,7 +13,7 @@ e = bt.e
 
 CONTENT = {
     "ar": {
-        "title": "عن صحتك",
+        "title": "عن صحتك: من نحن ولماذا بنينا التطبيق",
         "desc": "صحتك منصة صحية عربية مجانية: مساعد ذكي، وماسح تحاليل، ومتتبع أدوية، ومقالات وأدوات صحية موثوقة بلغة يفهمها الجميع.",
         "keywords": "عن صحتك, من نحن, تطبيق صحتك, منصة صحية عربية, مساعد صحي ذكي, POCTIFY",
         "chip": "من نحن",
@@ -41,7 +42,7 @@ CONTENT = {
         "cta_p": "مساعد صحي ذكي يفهم تحاليلك وأدويتك ويتابع صحة عائلتك. مجاني بالكامل وبدون إعلانات.",
     },
     "en": {
-        "title": "About Sihtak",
+        "title": "About Sihtak: who we are and why we built the app",
         "desc": "Sihtak is a free Arabic health platform: a smart assistant, a lab scanner, a medication tracker, and trusted health articles and tools in plain language everyone understands.",
         "keywords": "about Sihtak, who we are, Sihtak app, Arabic health platform, smart health assistant, POCTIFY",
         "chip": "Who we are",
@@ -89,8 +90,8 @@ def head(lang, c):
         "  <script>\n    window.dataLayer = window.dataLayer || [];\n    function gtag(){dataLayer.push(arguments);}\n    gtag('js', new Date());\n    gtag('config', 'G-JGTTBKMM4G');\n  </script>\n",
         '  <script src="/analytics.js" defer></script>\n',
         '  <meta charset="UTF-8">\n  <meta name="viewport" content="width=device-width, initial-scale=1.0">\n',
-        f'  <title>{e(c["title"])} | {site}</title>\n',
-        f'  <meta name="description" content="{e(c["desc"], True)}">\n',
+        f'  <title>{e(serp_title(c["title"], " | " + site))} | {site}</title>\n',
+        f'  <meta name="description" content="{e(serp_desc(c["desc"]), True)}">\n',
         f'  <meta name="keywords" content="{e(c["keywords"], True)}">\n',
         f'  <meta name="author" content="{bt.AUTHOR}">\n',
         '  <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">\n',
@@ -104,7 +105,7 @@ def head(lang, c):
         f'  <meta name="twitter:image" content="{bt.OG_IMAGE}">\n',
         '  <link rel="manifest" href="/manifest.json">\n  <meta name="theme-color" content="#ffffff" id="meta-theme-color">\n',
         '  <link rel="icon" type="image/png" href="/icon.png">\n  <link rel="apple-touch-icon" href="/icon.png">\n',
-        '  <link rel="stylesheet" href="/style.css">\n  <link rel="stylesheet" href="/articles/article.css">\n',
+        f'  <link rel="stylesheet" href="/style.css?v={bt.ASSET_V}">\n  <link rel="stylesheet" href="/articles/article.css?v={bt.ASSET_V}">\n',
         f'  <script type="application/ld+json">{j(about_ld)}</script>\n',
         '  <link rel="preconnect" href="https://fonts.googleapis.com">\n  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>\n',
         '  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Tajawal:wght@400;500;700;800&display=swap" rel="stylesheet">\n',

@@ -10,6 +10,8 @@ Run:  python build_tools.py
 """
 import os, json, html
 
+from build_chrome import serp_title, serp_desc, ASSET_V
+
 BASE = os.path.dirname(os.path.abspath(__file__))
 AUTHOR = "Adnan Alrefai"
 OG_IMAGE = "https://www.sihtak.com/og-image.png"
@@ -82,7 +84,7 @@ FOOTER = {
           <p class="footer-tag">مساعدك الصحي الذكي، مجاني وبدون إعلانات.</p>
           <a href="__PLAY__" class="btn btn-primary btn-sm" target="_blank" rel="noopener">حمّل الآن</a></div>
         <div class="footer-col"><h4>استكشف</h4><ul class="footer-links"><li><a href="/#features">المزايا</a></li><li><a href="/articles/">المقالات</a></li><li><a href="/tools/">الأدوات</a></li></ul></div>
-        <div class="footer-col"><h4>قانوني</h4><ul class="footer-links"><li><a href="/privacy">سياسة الخصوصية</a></li><li><a href="/terms">شروط الاستخدام</a></li><li><a href="/contact">تواصل معنا</a></li></ul></div></div>
+        <div class="footer-col"><h4>قانوني</h4><ul class="footer-links"><li><a href="/privacy/">سياسة الخصوصية</a></li><li><a href="/terms/">شروط الاستخدام</a></li><li><a href="/contact/">تواصل معنا</a></li></ul></div></div>
       <div class="footer-bottom"><p class="footer-copy">&copy; 2026 Sihtak. جميع الحقوق محفوظة.</p>
         <p class="footer-owner" style="font-size:13px;color:var(--text-d);margin-top:6px;"><span>منتج من</span> <a href="https://poctify.com" target="_blank" rel="noopener" style="color:var(--text-m);font-weight:600;text-decoration:none;">POCTIFY LTD</a></p>
         <p style="font-size:13px;color:var(--text-d);margin-top:4px;">تابعنا على <a href="https://instagram.com/sihtak_app" style="color:var(--teal);font-weight:600;" target="_blank" rel="noopener">@sihtak_app</a></p></div>
@@ -93,7 +95,7 @@ FOOTER = {
           <p class="footer-tag">Your smart health companion, free with no ads.</p>
           <a href="__PLAY__" class="btn btn-primary btn-sm" target="_blank" rel="noopener">Download</a></div>
         <div class="footer-col"><h4>Explore</h4><ul class="footer-links"><li><a href="/#features">Features</a></li><li><a href="/en/articles/">Articles</a></li><li><a href="/en/tools/">Tools</a></li></ul></div>
-        <div class="footer-col"><h4>Legal</h4><ul class="footer-links"><li><a href="/privacy">Privacy Policy</a></li><li><a href="/terms">Terms of Service</a></li><li><a href="/contact">Contact Us</a></li></ul></div></div>
+        <div class="footer-col"><h4>Legal</h4><ul class="footer-links"><li><a href="/privacy/">Privacy Policy</a></li><li><a href="/terms/">Terms of Service</a></li><li><a href="/contact/">Contact Us</a></li></ul></div></div>
       <div class="footer-bottom"><p class="footer-copy">&copy; 2026 Sihtak. All rights reserved.</p>
         <p class="footer-owner" style="font-size:13px;color:var(--text-d);margin-top:6px;"><span>A product of</span> <a href="https://poctify.com" target="_blank" rel="noopener" style="color:var(--text-m);font-weight:600;text-decoration:none;">POCTIFY LTD</a></p>
         <p style="font-size:13px;color:var(--text-d);margin-top:4px;">Follow us on <a href="https://instagram.com/sihtak_app" style="color:var(--teal);font-weight:600;" target="_blank" rel="noopener">@sihtak_app</a></p></div>
@@ -122,8 +124,8 @@ def head(lang, slug, title, desc, keywords, extra_ld):
         "  <script>\n    window.dataLayer = window.dataLayer || [];\n    function gtag(){dataLayer.push(arguments);}\n    gtag('js', new Date());\n    gtag('config', 'G-JGTTBKMM4G');\n  </script>\n",
         '  <script src="/analytics.js" defer></script>\n',
         '  <meta charset="UTF-8">\n  <meta name="viewport" content="width=device-width, initial-scale=1.0">\n',
-        f'  <title>{e(title)} | {o["site"]}</title>\n',
-        f'  <meta name="description" content="{e(desc, True)}">\n',
+        f'  <title>{e(serp_title(title, " | " + o["site"]))} | {o["site"]}</title>\n',
+        f'  <meta name="description" content="{e(serp_desc(desc), True)}">\n',
         f'  <meta name="keywords" content="{e(keywords, True)}">\n',
         f'  <meta name="author" content="{AUTHOR}">\n',
         '  <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">\n',
@@ -141,7 +143,7 @@ def head(lang, slug, title, desc, keywords, extra_ld):
         f'  <meta name="twitter:image" content="{OG_IMAGE}">\n',
         '  <link rel="manifest" href="/manifest.json">\n  <meta name="theme-color" content="#ffffff" id="meta-theme-color">\n',
         '  <link rel="icon" type="image/png" href="/icon.png">\n  <link rel="apple-touch-icon" href="/icon.png">\n',
-        '  <link rel="stylesheet" href="/style.css">\n  <link rel="stylesheet" href="/articles/article.css">\n  <link rel="stylesheet" href="/tools/tools.css">\n',
+        f'  <link rel="stylesheet" href="/style.css?v={ASSET_V}">\n  <link rel="stylesheet" href="/articles/article.css?v={ASSET_V}">\n  <link rel="stylesheet" href="/tools/tools.css?v={ASSET_V}">\n',
         f'  <script type="application/ld+json">{j(crumb)}</script>\n']
     for ld in extra_ld:
         parts.append(f'  <script type="application/ld+json">{j(ld)}</script>\n')
@@ -293,6 +295,10 @@ def hub_page(lang, tools):
     sub = ("حاسبات صحية بسيطة ومجانية تعمل مباشرة في متصفحك، دون تسجيل. للتوعية والتقدير العام، ولا تغني عن الطبيب."
            if lang == "ar" else
            "Simple, free health calculators that run right in your browser, no sign-up. For awareness and general estimation, not a substitute for a doctor.")
+    # The grid used to start at h3 straight after the h1, which left a hole in
+    # the outline and wasted the one heading on this page that could carry the
+    # words people type. "Free health calculators" is what the page is.
+    grid_h = "الحاسبات الصحية المجانية" if lang == "ar" else "Free health calculators"
     cards = []
     for t in tools:
         c = t[lang]
@@ -309,7 +315,7 @@ def hub_page(lang, tools):
         '      <div class="art-hero-inner reveal">\n'
         f'        <div class="art-hero-icon" style="margin-inline:auto"><svg width="30" height="30" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">{hub_icon}</svg></div>\n'
         f'        <h1>{e(title)}</h1>\n        <p class="art-hub-sub">{e(sub)}</p>\n      </div>\n    </header>\n'
-        f'    <section class="art-related art-related--hub">\n      <div class="art-grid">\n{"".join(cards)}      </div>\n    </section>\n  </main>\n',
+        f'    <section class="art-related art-related--hub">\n      <h2 class="cat-list-h">{e(grid_h)}</h2>\n      <div class="art-grid">\n{"".join(cards)}      </div>\n    </section>\n  </main>\n',
         FOOTER[lang], SCRIPT_BLOCK]
     return "".join(parts)
 

@@ -19,6 +19,11 @@ PLAY = "https://play.google.com/store/apps/details?id=com.sihhati.app"
 APPSTORE = "https://apps.apple.com/us/app/sihtak-%D8%B5%D8%AD%D8%AA%D9%83/id6764330989"
 GA_ID = "G-JGTTBKMM4G"
 
+# Bump this whenever a shared .css or .js changes. staticwebapp.config.json
+# caches those for seven days, so without a new query string a returning
+# visitor keeps the old file for a week.
+ASSET_V = "2026081702"
+
 # --------------------------------------------------------------------------
 # taxonomy
 # --------------------------------------------------------------------------
@@ -90,6 +95,11 @@ L = {
                        "الصحي ولا تغني عن استشارة طبيبك."),
         "author_link": "المزيد عن الكاتب",
         "browse_h": "تصفح حسب الموضوع",
+        # Printed as the h2 above a category's article grid. It stops the page
+        # jumping h1 -> h3, but the reason it is worth a real sentence rather
+        # than a hidden spacer is that the topic name lands in a heading a
+        # second time, in the wording someone would actually search.
+        "cat_list_h": "مقالات عن {}",
         "all_articles": "كل المقالات",
         "search_ph": "ابحث عن مرض أو تحليل أو دواء…",
         "search_none": "لا توجد نتائج مطابقة. جرّب كلمة أخرى.",
@@ -104,12 +114,13 @@ L = {
         "tpl_all": "{t} مقالاً",
         "tpl_some": "{n} من {t} مقالاً",
         # الشريط المولَّد في الصفحة الرئيسية. {t} = عدد المقالات الكلي.
+        # الصفحة الرئيسية مهمتها التطبيق، فهذا الشريط يذكر المكتبة ويفتح بابها
+        # فقط، ولا يعدّد المقالات ولا المواضيع.
         "lib_eyebrow": "مكتبة صحتك المجانية",
         "lib_h": "{t} مقالاً صحياً، مكتوبة لتُفهم من أول قراءة",
-        "lib_sub": ("من شرح التحاليل إلى الأمراض المزمنة وصحة المرأة والطفل والأدوية "
-                    "والتغذية والصحة النفسية. اختر موضوعاً تهتم به، أو ادخل المكتبة "
-                    "وابحث فيها كلها."),
-        "lib_cta": "ادخل المكتبة كاملة",
+        "lib_sub": ("بلغة بسيطة ومصادر منشورة، مفتوحة للجميع بلا تسجيل "
+                    "وبلا مقابل."),
+        "lib_cta": "ادخل المكتبة",
     },
     "en": {
         "htmltag": '<html lang="en" dir="ltr" data-theme="light">',
@@ -142,6 +153,7 @@ L = {
                        "rather than a substitute for your own doctor."),
         "author_link": "More about the author",
         "browse_h": "Browse by topic",
+        "cat_list_h": "{} articles",
         "all_articles": "All articles",
         "search_ph": "Search a condition, test or medicine…",
         "search_none": "Nothing matched. Try another word.",
@@ -157,12 +169,13 @@ L = {
         "tpl_all": "{t} articles",
         "tpl_some": "{n} of {t} articles",
         # The generated band on the home page. {t} = the whole article set.
+        # The home page sells the app, so this band mentions the library and
+        # opens the door to it. It does not list articles or topics.
         "lib_eyebrow": "The free Sihtak library",
         "lib_h": "{t} health guides, written to be understood first time",
-        "lib_sub": ("From reading your lab results to chronic conditions, women's and "
-                    "children's health, medicines, nutrition and mental health. Pick a "
-                    "topic, or open the library and search all of it."),
-        "lib_cta": "Open the full library",
+        "lib_sub": ("Plain language, published sources, open to everyone. "
+                    "No sign-up and no charge."),
+        "lib_cta": "Open the library",
     },
 }
 
@@ -213,6 +226,10 @@ def footer(lang):
     """Footer carries a topic column: it is the site-wide internal link mesh
     that pushes authority from the homepage down into every category."""
     o = L[lang]
+    # Every internal link here ends in a slash. The slashless forms are 301s
+    # now, and a site-wide footer linking through a redirect on 396 pages is
+    # 396 wasted crawls plus a duplicate URL Google has to reconcile.
+    about_href = "/about/" if lang == "ar" else "/en/about/"
     top = [c for c in CATEGORIES[:6]]
     topic_links = "".join(
         f'            <li><a href="{cat_url(lang, c["id"])}">{e(c[lang]["short"])}</a></li>\n'
@@ -246,7 +263,7 @@ def footer(lang):
           <a href="{PLAY}" class="btn btn-primary btn-sm" target="_blank" rel="noopener">{o["download"]}</a>
         </div>
         <div class="footer-col">
-          <h4>{h_app}</h4>
+          <h2 class="footer-col-h">{h_app}</h2>
           <ul class="footer-links">
             <li><a href="/#features">{l_features}</a></li>
             <li><a href="{o["nav_articles"]}">{l_articles}</a></li>
@@ -255,18 +272,18 @@ def footer(lang):
           </ul>
         </div>
         <div class="footer-col">
-          <h4>{h_topics}</h4>
+          <h2 class="footer-col-h">{h_topics}</h2>
           <ul class="footer-links">
 {topic_links}            <li><a href="{o["nav_articles"]}">{all_lbl}</a></li>
           </ul>
         </div>
         <div class="footer-col">
-          <h4>{h_legal}</h4>
+          <h2 class="footer-col-h">{h_legal}</h2>
           <ul class="footer-links">
-            <li><a href="/about">{l_about}</a></li>
-            <li><a href="/privacy">{l_priv}</a></li>
-            <li><a href="/terms">{l_terms}</a></li>
-            <li><a href="/contact">{l_contact}</a></li>
+            <li><a href="{about_href}">{l_about}</a></li>
+            <li><a href="/privacy/">{l_priv}</a></li>
+            <li><a href="/terms/">{l_terms}</a></li>
+            <li><a href="/contact/">{l_contact}</a></li>
           </ul>
         </div>
       </div>
@@ -303,11 +320,57 @@ def nav(lang, other_href):
     )
 
 
+SERP_TITLE_MAX = 65
+SERP_DESC_MAX = 165
+
+
+def serp_title(title, suffix):
+    """The <title> Google actually has room to show, brand suffix included.
+
+    A result title is cut at roughly 600 pixels. Running past that is not a
+    penalty, it just means the half we wrote to earn the click is the half that
+    disappears. Almost every title here is "Keyword: a longer promise", so the
+    first cut is at the colon: that keeps the keyword and drops the promise.
+    Only if the keyword half is still too long do we fall back to a word
+    boundary. The whole title stays on the page as the h1 and in og:title,
+    where a social card gives it far more room.
+    """
+    budget = SERP_TITLE_MAX - len(suffix)
+    if len(title) <= budget:
+        return title
+    for sep in (":", "؟", " - "):
+        head_part = title.split(sep)[0].strip()
+        if 18 <= len(head_part) <= budget:
+            return head_part
+    window = title[:budget]
+    space = window.rfind(" ")
+    return window[:space].rstrip(" ,،-:؛") if space > 18 else window
+
+
+def serp_desc(desc):
+    """Trim a meta description to something Google will show whole.
+
+    A snippet that stops mid-clause reads like a bug, and over the limit Google
+    cuts it there regardless, so we choose the cut ourselves and prefer to land
+    on a full stop. og:description keeps the untrimmed text: a social card has
+    room for it.
+    """
+    if len(desc) <= SERP_DESC_MAX:
+        return desc
+    window = desc[:SERP_DESC_MAX]
+    stop = max(window.rfind(". "), window.rfind("؟ "), window.rfind("! "))
+    if stop >= 90:
+        return window[: stop + 1].strip()
+    space = window.rfind(" ")
+    return window[:space].rstrip(" ,،-:؛") if space >= 90 else window
+
+
 def head(lang, *, title, desc, url, ar_url, en_url, keywords="", og_type="article",
-         og_image=None, extra_ld="", css=("/style.css", "/articles/article.css"),
+         og_image=None, extra_ld="", css=(f"/style.css?v={ASSET_V}", f"/articles/article.css?v={ASSET_V}"),
          robots="index, follow, max-image-preview:large, max-snippet:-1"):
     o = L[lang]
     img = og_image or OG_IMAGE
+    brand = " | " + o["site"]
     css_links = "".join(f'  <link rel="stylesheet" href="{c}">\n' for c in css)
     kw = f'  <meta name="keywords" content="{e(keywords, True)}">\n' if keywords else ""
     return (
@@ -319,8 +382,8 @@ def head(lang, *, title, desc, url, ar_url, en_url, keywords="", og_type="articl
         '  <script src="/analytics.js" defer></script>\n'
         '  <meta charset="UTF-8">\n'
         '  <meta name="viewport" content="width=device-width, initial-scale=1.0">\n'
-        f'  <title>{e(title)} | {o["site"]}</title>\n'
-        f'  <meta name="description" content="{e(desc, True)}">\n'
+        f'  <title>{e(serp_title(title, brand))}{brand}</title>\n'
+        f'  <meta name="description" content="{e(serp_desc(desc), True)}">\n'
         + kw +
         f'  <meta name="author" content="{AUTHOR}">\n'
         f'  <meta name="robots" content="{robots}">\n'
@@ -328,7 +391,9 @@ def head(lang, *, title, desc, url, ar_url, en_url, keywords="", og_type="articl
         f'  <link rel="alternate" hreflang="ar" href="{ar_url}">\n'
         f'  <link rel="alternate" hreflang="en" href="{en_url}">\n'
         f'  <link rel="alternate" hreflang="x-default" href="{ar_url}">\n'
-        f'  <meta property="og:title" content="{e(title, True)} | {o["site"]}">\n'
+        # The untrimmed title, and no brand suffix: og:site_name already prints
+        # "Sihtak" beside the card, and a social card has room the SERP has not.
+        f'  <meta property="og:title" content="{e(title, True)}">\n'
         f'  <meta property="og:description" content="{e(desc, True)}">\n'
         f'  <meta property="og:type" content="{og_type}">\n'
         f'  <meta property="og:url" content="{url}">\n'

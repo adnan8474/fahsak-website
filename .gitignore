@@ -10,3 +10,6 @@ __pycache__/
 # they just happen to sit in this folder. Never ship them inside sihtak.com.
 /fahsak-co-uk/
 /fahsak-com/
+
+# Layout screenshots taken by the local verify harness.
+/.shots/

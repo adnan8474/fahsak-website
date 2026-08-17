@@ -42,32 +42,38 @@ TODAY = datetime.date.today().isoformat()
 # last week's script. Only the hub needs the busted URLs: the article pages use
 # none of the new rules, and versioning them would throw away a warm cache on
 # 348 pages for nothing.
-ASSET_V = "2026081701"
+# Single source of truth lives in build_chrome so every builder busts together.
+from build_chrome import ASSET_V
 
 # Twelve illustrated topic covers live at /images/topics/<id>.webp (800x450
 # tile) and <id>-wide.webp (1200x630, the category hero and that page's
 # og:image). They are built from the source art by tmp/topic_covers.py.
 COVERS = "/images/topics/"
 
-STATIC_PAGES = [
+# Every URL here ends in a slash, because that is the form each page declares
+# as its own canonical and the slashless variants are 301s. A sitemap that
+# advertises the redirecting form asks Google to crawl twice to reach one page.
+#
+# A pair is (arabic path, english path) where the same page exists in both
+# languages; those emit reciprocal hreflang so the right one shows in the right
+# market. Single-language documents (the legal set, which is English only) go
+# in SOLO_PAGES and carry no alternates.
+PAIRED_PAGES = [
+    ("/articles/", "/en/articles/", "daily", "0.9"),
+    ("/tools/", "/en/tools/", "monthly", "0.8"),
+    ("/tools/bmi/", "/en/tools/bmi/", "monthly", "0.7"),
+    ("/tools/a1c-converter/", "/en/tools/a1c-converter/", "monthly", "0.7"),
+    ("/tools/lab-unit-converter/", "/en/tools/lab-unit-converter/", "monthly", "0.7"),
+    ("/about/", "/en/about/", "monthly", "0.6"),
+    ("/author/", "/en/author/", "monthly", "0.5"),
+]
+
+SOLO_PAGES = [
     ("/", "weekly", "1.0"),
-    ("/articles/", "daily", "0.9"),
-    ("/en/articles/", "daily", "0.9"),
-    ("/tools/", "monthly", "0.8"),
-    ("/en/tools/", "monthly", "0.8"),
-    ("/tools/bmi/", "monthly", "0.7"),
-    ("/en/tools/bmi/", "monthly", "0.7"),
-    ("/tools/a1c-converter/", "monthly", "0.7"),
-    ("/en/tools/a1c-converter/", "monthly", "0.7"),
-    ("/tools/lab-unit-converter/", "monthly", "0.7"),
-    ("/en/tools/lab-unit-converter/", "monthly", "0.7"),
-    ("/about", "monthly", "0.6"),
-    ("/en/about", "monthly", "0.6"),
-    ("/author/", "monthly", "0.5"),
-    ("/en/author/", "monthly", "0.5"),
-    ("/privacy", "yearly", "0.3"),
-    ("/terms", "yearly", "0.3"),
-    ("/contact", "yearly", "0.4"),
+    ("/privacy/", "yearly", "0.3"),
+    ("/terms/", "yearly", "0.3"),
+    ("/contact/", "yearly", "0.4"),
+    ("/delete-account/", "yearly", "0.3"),
 ]
 
 
@@ -261,7 +267,7 @@ def hub_page(lang, articles, counts):
         head(lang, title=title, desc=sub, url=url,
              ar_url=f"{SITE}/articles/", en_url=f"{SITE}/en/articles/",
              og_type="website",
-             css=("/style.css", f"/articles/article.css?v={ASSET_V}"),
+             css=(f"/style.css?v={ASSET_V}", f"/articles/article.css?v={ASSET_V}"),
              extra_ld=f'  <script type="application/ld+json">{jd(ld)}</script>\n')
         + nav(lang, "/en/articles/" if lang == "ar" else "/articles/")
         + '  <main class="art-page">\n'
@@ -345,7 +351,7 @@ def category_page(lang, c, items, counts):
              # Each topic now shares as its own illustration instead of the one
              # generic site card, so twelve links look like twelve things.
              og_image=f"{SITE}{COVERS}{cid}-wide.webp",
-             css=("/style.css", f"/articles/article.css?v={ASSET_V}"),
+             css=(f"/style.css?v={ASSET_V}", f"/articles/article.css?v={ASSET_V}"),
              extra_ld=f'  <script type="application/ld+json">{jd(ld)}</script>\n')
         + nav(lang, f'/en/articles/c/{cid}/' if lang == "ar" else f'/articles/c/{cid}/')
         + '  <main class="art-page">\n'
@@ -365,6 +371,7 @@ def category_page(lang, c, items, counts):
         '    </header>\n'
         '    <div class="art-hub-body">\n'
         '      <section class="art-related art-related--hub">\n'
+        f'        <h2 class="cat-list-h">{e(o["cat_list_h"].format(meta["name"]))}</h2>\n'
         '        <div class="art-grid">\n'
         + "".join(card(lang, a) for a in items)
         + '        </div>\n      </section>\n'
@@ -532,35 +539,57 @@ def build_feed(articles):
     write(os.path.join(BASE, "articles", "feed.xml"), xml)
 
 
-def url_block(loc, lastmod, changefreq, priority, ar=None, en=None):
+def url_block(loc, lastmod, changefreq, priority, ar=None, en=None, images=()):
+    """One <url> entry. `images` is a list of (absolute url, caption) pairs.
+
+    The image extension is what gets a picture into Google Images independently
+    of the page it sits on, which for a health library is a whole second
+    doorway: people search "what does a thyroid test look like" in pictures.
+    Google reads the caption as the image's own description, so it is worth a
+    real sentence rather than the page title again.
+    """
     alts = ""
     if ar and en:
         alts = (f'    <xhtml:link rel="alternate" hreflang="ar" href="{ar}"/>\n'
                 f'    <xhtml:link rel="alternate" hreflang="en" href="{en}"/>\n'
                 f'    <xhtml:link rel="alternate" hreflang="x-default" href="{ar}"/>\n')
+    imgs = "".join(
+        "    <image:image>\n"
+        f"      <image:loc>{u}</image:loc>\n"
+        f"      <image:title>{e(cap, True)}</image:title>\n"
+        "    </image:image>\n"
+        for u, cap in images
+    )
     return ("  <url>\n"
             f"    <loc>{loc}</loc>\n" + alts +
             f"    <lastmod>{lastmod}</lastmod>\n"
             f"    <changefreq>{changefreq}</changefreq>\n"
-            f"    <priority>{priority}</priority>\n"
+            f"    <priority>{priority}</priority>\n" + imgs +
             "  </url>\n")
 
 
 HEAD_XML = ('<?xml version="1.0" encoding="UTF-8"?>\n'
             '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"\n'
-            '        xmlns:xhtml="http://www.w3.org/1999/xhtml">\n')
+            '        xmlns:xhtml="http://www.w3.org/1999/xhtml"\n'
+            '        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">\n')
 
 
 def build_sitemaps(articles, counts):
-    blocks = [url_block(SITE + p if p != "/" else SITE + "/", TODAY, cf, pr)
-              for p, cf, pr in STATIC_PAGES]
+    blocks = [url_block(SITE + p, TODAY, cf, pr) for p, cf, pr in SOLO_PAGES]
+    for ar_p, en_p, cf, pr in PAIRED_PAGES:
+        ar, en = SITE + ar_p, SITE + en_p
+        blocks.append(url_block(ar, TODAY, cf, pr, ar, en))
+        blocks.append(url_block(en, TODAY, cf, pr, ar, en))
     for c in CATEGORIES:
         if not counts.get(c["id"]):
             continue
         ar = f"{SITE}/articles/c/{c['id']}/"
         en = f"{SITE}/en/articles/c/{c['id']}/"
-        blocks.append(url_block(ar, TODAY, "weekly", "0.8", ar, en))
-        blocks.append(url_block(en, TODAY, "weekly", "0.7", ar, en))
+        cover = f"{SITE}{COVERS}{c['id']}-wide.webp"
+        blocks.append(url_block(ar, TODAY, "weekly", "0.8", ar, en,
+                                [(cover, c["ar"]["name"])]))
+        blocks.append(url_block(en, TODAY, "weekly", "0.7", ar, en,
+                                [(cover, c["en"]["name"])]))
     write(os.path.join(BASE, "sitemap-pages.xml"), HEAD_XML + "".join(blocks) + "</urlset>\n")
 
     ablocks = []
@@ -830,94 +859,104 @@ HOME_START = "<!-- library-band:start (generated by build_site.py) -->"
 HOME_END = "<!-- library-band:end -->"
 
 
-def home_library_band(counts, total):
+# The three covers fanned beside the copy. Decoration, not a menu: they carry
+# no labels, no links and no alt text, and the reader gets to the library
+# through the one button. Picked to look unlike each other at thumbnail size.
+FAN = ("lab-tests", "womens-health", "nutrition")
+
+
+def home_library_band(total):
     """The library band on the home page, in both languages at once.
+
+    The home page's job is the app. This band exists to say the library is
+    there and open its door, so it is one screen band with one link in it. It
+    deliberately does not list articles or topics: that is what the hub is for,
+    and two directories on one page was the reason this got cut down.
 
     The home page swaps language in the browser by writing data-ar/data-en into
     textContent, so every string here has to ship twice and every element that
-    carries a pair has to be a leaf. Links carry data-href-ar/data-href-en for
-    the same reason: an English reader clicking a topic should land on the
-    English page, not on the Arabic one.
+    carries a pair has to be a leaf. The link carries data-href-ar/data-href-en
+    for the same reason: an English reader has to land on the English hub.
     """
     ar, en = L["ar"], L["en"]
 
-    def pair(tag, cls, key, sub=None):
-        a = ar[key] if sub is None else sub[0]
-        b = en[key] if sub is None else sub[1]
+    def pair(tag, cls, key):
+        a, b = ar[key], en[key]
         return (f'<{tag} class="{cls}" data-ar="{e(a, True)}" data-en="{e(b, True)}">'
                 f'{e(a)}</{tag}>')
 
-    tiles = []
-    for c in CATEGORIES:
-        n = counts.get(c["id"], 0)
-        if not n:
-            continue
-        na, ne = ar["tpl_all"].replace("{t}", str(n)), en["tpl_all"].replace("{t}", str(n))
-        tiles.append(
-            f'        <a class="topic-tile" href="/articles/c/{c["id"]}/" '
-            f'data-href-ar="/articles/c/{c["id"]}/" data-href-en="/en/articles/c/{c["id"]}/">\n'
-            f'          <span class="topic-tile-media"><img src="{COVERS}{c["id"]}.webp" alt="" '
-            'width="800" height="450" loading="lazy" decoding="async"></span>\n'
-            '          <span class="topic-tile-body">\n'
-            f'            <span class="topic-tile-name" data-ar="{e(c["ar"]["name"], True)}" '
-            f'data-en="{e(c["en"]["name"], True)}">{e(c["ar"]["name"])}</span>\n'
-            f'            <span class="topic-tile-count" data-ar="{e(na, True)}" '
-            f'data-en="{e(ne, True)}">{e(na)}</span>\n'
-            '          </span>\n'
-            '        </a>\n'
-        )
-
+    fan = "".join(
+        f'          <img src="{COVERS}{cid}.webp" alt="" width="800" height="450" '
+        'loading="lazy" decoding="async">\n'
+        for cid in FAN
+    )
     heads = (ar["lib_h"].replace("{t}", str(total)), en["lib_h"].replace("{t}", str(total)))
     return (
         '  <style>\n'
-        '    .lib-band{padding:82px 24px;background:linear-gradient(180deg,var(--bg) 0%,var(--bg-surface) 100%);'
+        '    .lib-band{padding:64px 24px;background:linear-gradient(180deg,var(--bg) 0%,var(--bg-surface) 100%);'
         'border-top:1px solid var(--border);border-bottom:1px solid var(--border);}\n'
-        '    .lib-inner{max-width:1140px;margin:0 auto;}\n'
-        '    .lib-head{text-align:center;max-width:660px;margin:0 auto 40px;}\n'
+        '    .lib-inner{max-width:1080px;margin:0 auto;display:grid;'
+        'grid-template-columns:1fr minmax(0,420px);gap:56px;align-items:center;}\n'
+        '    .lib-copy{text-align:start;}\n'
         "    .lib-eyebrow{font-family:'Inter','Tajawal',sans-serif;font-size:12.5px;font-weight:700;"
         'letter-spacing:.08em;text-transform:uppercase;color:var(--teal);margin:0 0 12px;}\n'
-        '    .lib-head h2{font-size:clamp(26px,4vw,38px);line-height:1.3;color:var(--text);margin:0 0 14px;font-weight:800;}\n'
-        '    .lib-head p{color:var(--text-m);font-size:16px;line-height:1.85;margin:0;}\n'
-        '    .lib-foot{text-align:center;margin-top:38px;}\n'
-        '    .lib-cta{display:inline-flex;align-items:center;gap:8px;padding:15px 32px;border-radius:999px;'
+        '    .lib-copy h2{font-size:clamp(24px,3.3vw,33px);line-height:1.32;color:var(--text);'
+        'margin:0 0 12px;font-weight:800;}\n'
+        '    .lib-lead{color:var(--text-m);font-size:16px;line-height:1.8;margin:0 0 26px;max-width:44ch;}\n'
+        '    .lib-cta{display:inline-flex;align-items:center;gap:8px;padding:14px 30px;border-radius:999px;'
         'background:var(--teal);color:#fff;font-weight:700;font-size:15.5px;text-decoration:none;'
         'transition:transform .2s,box-shadow .2s;}\n'
         '    .lib-cta:hover{transform:translateY(-2px);box-shadow:0 18px 32px -16px rgba(58,157,146,.85);}\n'
-        '    @media (max-width:640px){.lib-band{padding:60px 18px;}}\n'
+        # The fan is three absolutely positioned cards. inset-inline-start flips
+        # the running order in Arabic on its own, but rotation is not a logical
+        # property, so the tilts are mirrored by hand below.
+        '    .lib-fan{position:relative;height:232px;}\n'
+        '    .lib-fan img{position:absolute;top:0;width:58%;height:auto;border-radius:14px;'
+        'border:1px solid var(--border);background:#f7f2ec;'
+        'box-shadow:0 22px 40px -26px rgba(20,40,70,.6);}\n'
+        '    .lib-fan img:nth-child(1){inset-inline-start:0;top:30px;z-index:1;}\n'
+        '    .lib-fan img:nth-child(2){inset-inline-start:21%;top:0;z-index:3;}\n'
+        '    .lib-fan img:nth-child(3){inset-inline-start:42%;top:30px;z-index:2;}\n'
+        '    html[dir="ltr"] .lib-fan img:nth-child(1){transform:rotate(-5deg);}\n'
+        '    html[dir="ltr"] .lib-fan img:nth-child(3){transform:rotate(5deg);}\n'
+        '    html[dir="rtl"] .lib-fan img:nth-child(1){transform:rotate(5deg);}\n'
+        '    html[dir="rtl"] .lib-fan img:nth-child(3){transform:rotate(-5deg);}\n'
+        '    @media (max-width:860px){.lib-inner{grid-template-columns:1fr;gap:36px;}'
+        '.lib-copy{text-align:center;}.lib-lead{margin-inline:auto;}'
+        '.lib-fan{height:190px;max-width:420px;margin-inline:auto;width:100%;}}\n'
+        '    @media (max-width:640px){.lib-band{padding:52px 18px;}.lib-fan{height:150px;}}\n'
         '    @media (prefers-reduced-motion:reduce){.lib-cta{transition:none;}.lib-cta:hover{transform:none;}}\n'
         '  </style>\n'
         '  <section class="lib-band" id="library" aria-labelledby="lib-title">\n'
         '    <div class="lib-inner">\n'
-        '      <div class="lib-head reveal">\n'
+        '      <div class="lib-copy reveal">\n'
         f'        {pair("p", "lib-eyebrow", "lib_eyebrow")}\n'
         f'        <h2 id="lib-title" data-ar="{e(heads[0], True)}" data-en="{e(heads[1], True)}">{e(heads[0])}</h2>\n'
         f'        {pair("p", "lib-lead", "lib_sub")}\n'
-        '      </div>\n'
-        '      <div class="topic-tiles">\n'
-        + "".join(tiles) +
-        '      </div>\n'
-        '      <div class="lib-foot">\n'
         f'        <a class="lib-cta" href="/articles/" data-href-ar="/articles/" data-href-en="/en/articles/" '
         f'data-ar="{e(ar["lib_cta"], True)}" data-en="{e(en["lib_cta"], True)}">{e(ar["lib_cta"])}</a>\n'
+        '      </div>\n'
+        '      <div class="lib-fan reveal" aria-hidden="true">\n'
+        + fan +
         '      </div>\n'
         '    </div>\n'
         '  </section>\n'
     )
 
 
-def patch_homepage(counts, total):
+def patch_homepage(total):
     """Rewrite the library band inside index.html, leaving the rest untouched.
 
-    The counts in that band are the same numbers the hub prints, so they have
-    to come from the same place. Regenerating the block on every build is the
-    only way they cannot drift apart.
+    The article count in that band is the same number the hub prints, so it
+    has to come from the same place. Regenerating the block on every build is
+    the only way the two cannot drift apart.
     """
     with open(HOME, encoding="utf-8") as fh:
         page = fh.read()
     i, j = page.find(HOME_START), page.find(HOME_END)
     if i < 0 or j < 0 or j < i:
         raise SystemExit("index.html has lost its library-band markers")
-    new = (page[:i] + HOME_START + "\n" + home_library_band(counts, total)
+    new = (page[:i] + HOME_START + "\n" + home_library_band(total)
            + "  " + page[j:])
     if new == page:
         return False
@@ -956,7 +995,7 @@ def main():
     print("  404.html")
 
     print("  index.html library band " +
-          ("rewritten" if patch_homepage(counts, len(articles)) else "already current"))
+          ("rewritten" if patch_homepage(len(articles)) else "already current"))
 
     build_feed(articles)
     n_pages, n_arts = build_sitemaps(articles, counts)

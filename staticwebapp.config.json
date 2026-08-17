@@ -1,15 +1,19 @@
 {
   "routes": [
-    { "route": "/privacy", "rewrite": "/privacy/index.html" },
-    { "route": "/terms", "rewrite": "/terms/index.html" },
-    { "route": "/contact", "rewrite": "/contact/index.html" },
+    { "route": "/privacy", "redirect": "/privacy/", "statusCode": 301 },
+    { "route": "/terms", "redirect": "/terms/", "statusCode": 301 },
+    { "route": "/contact", "redirect": "/contact/", "statusCode": 301 },
+    { "route": "/delete-account", "redirect": "/delete-account/", "statusCode": 301 },
+    { "route": "/admin", "redirect": "/admin/", "statusCode": 301 },
+    { "route": "/about", "redirect": "/about/", "statusCode": 301 },
+    { "route": "/en/about", "redirect": "/en/about/", "statusCode": 301 },
+    { "route": "/tools", "redirect": "/tools/", "statusCode": 301 },
+    { "route": "/en/tools", "redirect": "/en/tools/", "statusCode": 301 },
+    { "route": "/author", "redirect": "/author/", "statusCode": 301 },
+    { "route": "/en/author", "redirect": "/en/author/", "statusCode": 301 },
+    { "route": "/articles", "redirect": "/articles/", "statusCode": 301 },
+    { "route": "/en/articles", "redirect": "/en/articles/", "statusCode": 301 },
     { "route": "/join/*", "rewrite": "/join/index.html" },
-    { "route": "/deck", "rewrite": "/deck/index.html" },
-    { "route": "/delete-account", "rewrite": "/delete-account/index.html" },
-    { "route": "/admin", "rewrite": "/admin/index.html" },
-    { "route": "/about", "rewrite": "/about/index.html" },
-    { "route": "/tools", "rewrite": "/tools/index.html" },
-    { "route": "/author", "rewrite": "/author/index.html" },
     {
       "route": "/images/*",
       "headers": { "Cache-Control": "public, max-age=31536000, immutable" }
