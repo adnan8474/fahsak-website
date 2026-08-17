@@ -490,9 +490,6 @@ html[dir="ltr"] .hub-toolbar-in::after {
    so filtered-out cards need saying explicitly. */
 .art-grid .art-card[hidden] { display: none; }
 
-.hub-topics { margin-top: 52px; padding-top: 36px; border-top: 1px solid var(--border); }
-.hub-topics .cat-strip { margin: 0; }
-
 @media (max-width: 640px) {
   .hub-toolbar { top: 56px; }
   .hub-toolbar-in { padding: 10px 18px; }
@@ -502,7 +499,114 @@ html[dir="ltr"] .hub-toolbar-in::after {
   .hub-toolbar-row .art-search input { font-size: 16px; padding-inline-start: 42px; }
   .hub-sort { padding: 6px 10px; font-size: 12px; }
   .hub-filters { margin-top: 10px; }
-  .hub-topics { margin-top: 40px; }
+}
+
+/* ==========================================================================
+   Topic covers: the illustrated tiles shared by the hub and the home page
+   ========================================================================== */
+
+/* Twelve tiles, one per category, drawn in a single house style. Every page
+   that shows them shows all twelve, so the browser fetches 157KB once and
+   then serves them from cache on the hub, the home page and back again. */
+.topic-tiles {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(212px, 1fr));
+  gap: 16px;
+}
+.topic-tile {
+  display: block;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  overflow: hidden;
+  text-decoration: none;
+  transition: transform 0.18s, border-color 0.18s, box-shadow 0.18s;
+}
+.topic-tile:hover {
+  transform: translateY(-3px);
+  border-color: var(--teal);
+  box-shadow: 0 18px 34px -22px rgba(20, 40, 70, 0.5);
+}
+.topic-tile-media {
+  display: block;
+  aspect-ratio: 16 / 9;
+  overflow: hidden;
+  /* The art's own paper colour. Without it the tile flashes card-grey, or in
+     dark mode near-black, before a cream illustration lands on top of it. */
+  background: #f7f2ec;
+}
+.topic-tile-media img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  transition: transform 0.4s ease;
+}
+.topic-tile:hover .topic-tile-media img { transform: scale(1.045); }
+.topic-tile-body {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 10px;
+  padding: 13px 15px 15px;
+}
+.topic-tile-name {
+  font-size: 14.5px;
+  font-weight: 700;
+  color: var(--text);
+  line-height: 1.4;
+}
+.topic-tile-count {
+  flex: none;
+  font-size: 11.5px;
+  color: var(--text-d);
+  font-variant-numeric: tabular-nums;
+}
+
+/* The band that carries them at the top of the hub, between the hero and the
+   sticky toolbar. */
+.hub-covers { max-width: 1000px; margin: 0 auto; padding: 30px 24px 4px; }
+
+@media (prefers-reduced-motion: reduce) {
+  .topic-tile, .topic-tile-media img { transition: none; }
+  .topic-tile:hover { transform: none; }
+  .topic-tile:hover .topic-tile-media img { transform: none; }
+}
+@media (max-width: 640px) {
+  .topic-tiles { grid-template-columns: repeat(2, 1fr); gap: 12px; }
+  .topic-tile-body { padding: 10px 12px 12px; gap: 6px; }
+  .topic-tile-name { font-size: 13px; }
+  .topic-tile-count { font-size: 11px; }
+  .hub-covers { padding: 22px 18px 2px; }
+}
+
+/* ==========================================================================
+   Category hero with its cover
+   ========================================================================== */
+.art-hero--cover { text-align: start; }
+.art-hero--cover .art-hero-inner {
+  max-width: 1000px;
+  display: grid;
+  grid-template-columns: 1fr minmax(0, 400px);
+  gap: 40px;
+  align-items: center;
+}
+.art-hero--cover .art-hub-sub { margin-inline: 0; max-width: none; }
+.art-hero--cover h1 { margin-top: 0; }
+.cat-cover {
+  border-radius: 20px;
+  overflow: hidden;
+  border: 1px solid var(--border);
+  box-shadow: 0 26px 48px -30px rgba(20, 40, 70, 0.55);
+}
+.cat-cover img { width: 100%; height: auto; display: block; }
+@media (max-width: 860px) {
+  .art-hero--cover { text-align: center; }
+  .art-hero--cover .art-hero-inner { grid-template-columns: 1fr; gap: 24px; justify-items: center; }
+  .art-hero--cover .art-hero-icon { display: none; }
+  /* Lead with the illustration on a phone: it says what the topic is faster
+     than the heading does. */
+  .art-hero--cover .cat-cover { order: -1; max-width: 440px; }
 }
 
 /* ==========================================================================

@@ -103,6 +103,13 @@ L = {
         # {n} = المعروض، {t} = الإجمالي. النص كامل في الصفحة قبل تشغيل جافاسكربت.
         "tpl_all": "{t} مقالاً",
         "tpl_some": "{n} من {t} مقالاً",
+        # الشريط المولَّد في الصفحة الرئيسية. {t} = عدد المقالات الكلي.
+        "lib_eyebrow": "مكتبة صحتك المجانية",
+        "lib_h": "{t} مقالاً صحياً، مكتوبة لتُفهم من أول قراءة",
+        "lib_sub": ("من شرح التحاليل إلى الأمراض المزمنة وصحة المرأة والطفل والأدوية "
+                    "والتغذية والصحة النفسية. اختر موضوعاً تهتم به، أو ادخل المكتبة "
+                    "وابحث فيها كلها."),
+        "lib_cta": "ادخل المكتبة كاملة",
     },
     "en": {
         "htmltag": '<html lang="en" dir="ltr" data-theme="light">',
@@ -149,6 +156,13 @@ L = {
         # is correct before hub.js runs.
         "tpl_all": "{t} articles",
         "tpl_some": "{n} of {t} articles",
+        # The generated band on the home page. {t} = the whole article set.
+        "lib_eyebrow": "The free Sihtak library",
+        "lib_h": "{t} health guides, written to be understood first time",
+        "lib_sub": ("From reading your lab results to chronic conditions, women's and "
+                    "children's health, medicines, nutrition and mental health. Pick a "
+                    "topic, or open the library and search all of it."),
+        "lib_cta": "Open the full library",
     },
 }
 

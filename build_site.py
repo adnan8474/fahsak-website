@@ -17,6 +17,10 @@ Regenerates, wholesale and idempotently:
   /articles/feed.xml                        RSS
   /404.html                                 real 404, not a soft one
   /author/  and /en/author/                 E-E-A-T author page
+  /index.html                               only the block between the
+                                            library-band markers, so the home
+                                            page always shows the real article
+                                            and per-topic counts
 
 Nothing here is append-only, so the output can never drift out of sync with
 content/articles.json the way the old insert-a-card-into-HTML approach did.
@@ -38,7 +42,12 @@ TODAY = datetime.date.today().isoformat()
 # last week's script. Only the hub needs the busted URLs: the article pages use
 # none of the new rules, and versioning them would throw away a warm cache on
 # 348 pages for nothing.
-ASSET_V = "2026081201"
+ASSET_V = "2026081701"
+
+# Twelve illustrated topic covers live at /images/topics/<id>.webp (800x450
+# tile) and <id>-wide.webp (1200x630, the category hero and that page's
+# og:image). They are built from the source art by tmp/topic_covers.py.
+COVERS = "/images/topics/"
 
 STATIC_PAGES = [
     ("/", "weekly", "1.0"),
@@ -98,6 +107,39 @@ def topic_tiles(lang, counts, active=None):
         + "".join(tiles) +
         '        </div>\n'
         '      </section>\n'
+    )
+
+
+def topic_covers(lang, counts):
+    """The illustrated topic grid that opens the hub.
+
+    This replaces the plain icon strip that used to sit at the very bottom of
+    the hub, underneath 174 cards, where a reader would have had to scroll past
+    the entire library to discover that the library had topics.
+    """
+    o = L[lang]
+    tiles = []
+    for c in CATEGORIES:
+        n = counts.get(c["id"], 0)
+        if not n:
+            continue
+        tiles.append(
+            f'        <a class="topic-tile" href="{cat_url(lang, c["id"])}">\n'
+            f'          <span class="topic-tile-media"><img src="{COVERS}{c["id"]}.webp" alt="" '
+            'width="800" height="450" loading="lazy" decoding="async"></span>\n'
+            '          <span class="topic-tile-body">\n'
+            f'            <span class="topic-tile-name">{e(c[lang]["name"])}</span>\n'
+            f'            <span class="topic-tile-count">{e(o["tpl_all"].replace("{t}", str(n)))}</span>\n'
+            '          </span>\n'
+            '        </a>\n'
+        )
+    return (
+        '    <section class="hub-covers">\n'
+        f'      <h2 class="cat-strip-h">{e(o["browse_h"])}</h2>\n'
+        '      <div class="topic-tiles">\n'
+        + "".join(tiles) +
+        '      </div>\n'
+        '    </section>\n'
     )
 
 
@@ -233,6 +275,10 @@ def hub_page(lang, articles, counts):
         # mean one of the two numbers is wrong most of the time.
         '      </div>\n'
         '    </header>\n'
+        # Covers first, then the controls. A reader who knows what they want
+        # scrolls one screen and picks a topic; a reader who does not keeps
+        # going and gets the whole library with a search box pinned above it.
+        + topic_covers(lang, counts)
         + hub_toolbar(lang, counts, total)
         + '    <div class="art-hub-body">\n'
         '      <div class="hub-meta">\n'
@@ -247,9 +293,6 @@ def hub_page(lang, articles, counts):
         + '        </div>\n'
         f'        <p class="art-search-none" id="artNone" hidden>{e(o["search_none"])}</p>\n'
         '      </section>\n'
-        '      <div class="hub-topics">\n'
-        + topic_tiles(lang, counts)
-        + '      </div>\n'
         '    </div>\n'
         '  </main>\n'
         + footer(lang)
@@ -299,17 +342,25 @@ def category_page(lang, c, items, counts):
     return (
         head(lang, title=meta["title"], desc=meta["desc"], url=url,
              ar_url=ar_url, en_url=en_url, og_type="website",
+             # Each topic now shares as its own illustration instead of the one
+             # generic site card, so twelve links look like twelve things.
+             og_image=f"{SITE}{COVERS}{cid}-wide.webp",
+             css=("/style.css", f"/articles/article.css?v={ASSET_V}"),
              extra_ld=f'  <script type="application/ld+json">{jd(ld)}</script>\n')
         + nav(lang, f'/en/articles/c/{cid}/' if lang == "ar" else f'/articles/c/{cid}/')
         + '  <main class="art-page">\n'
         + crumbs
-        + '    <header class="art-hero art-hero--hub">\n'
+        + '    <header class="art-hero art-hero--hub art-hero--cover">\n'
         '      <img src="/images/dna-helix.svg" alt="" class="hero-deco" aria-hidden="true" width="200" height="600">\n'
         '      <div class="art-hero-inner reveal">\n'
-        f'        <div class="art-hero-icon"><svg width="30" height="30" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">{c["icon"]}</svg></div>\n'
-        f'        <h1>{e(meta["title"])}</h1>\n'
-        f'        <p class="art-hub-sub">{e(meta["desc"])}</p>\n'
-        f'        <p class="art-hub-count">{len(items)} {e(o["count_suffix"])}</p>\n'
+        '        <div class="cat-hero-copy">\n'
+        f'          <div class="art-hero-icon"><svg width="30" height="30" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">{c["icon"]}</svg></div>\n'
+        f'          <h1>{e(meta["title"])}</h1>\n'
+        f'          <p class="art-hub-sub">{e(meta["desc"])}</p>\n'
+        f'          <p class="art-hub-count">{len(items)} {e(o["count_suffix"])}</p>\n'
+        '        </div>\n'
+        f'        <div class="cat-cover"><img src="{COVERS}{cid}-wide.webp" alt="" '
+        'width="1200" height="630" fetchpriority="high" decoding="async"></div>\n'
         '      </div>\n'
         '    </header>\n'
         '    <div class="art-hub-body">\n'
@@ -770,6 +821,111 @@ HUB_JS = """/* Sihtak article library: search, topic filter and sort for the hub
 
 
 # --------------------------------------------------------------------------
+# home page library band
+# --------------------------------------------------------------------------
+# index.html is hand-written, so the builder only owns what is between these
+# two markers. Everything else in the file is left byte for byte alone.
+HOME = os.path.join(BASE, "index.html")
+HOME_START = "<!-- library-band:start (generated by build_site.py) -->"
+HOME_END = "<!-- library-band:end -->"
+
+
+def home_library_band(counts, total):
+    """The library band on the home page, in both languages at once.
+
+    The home page swaps language in the browser by writing data-ar/data-en into
+    textContent, so every string here has to ship twice and every element that
+    carries a pair has to be a leaf. Links carry data-href-ar/data-href-en for
+    the same reason: an English reader clicking a topic should land on the
+    English page, not on the Arabic one.
+    """
+    ar, en = L["ar"], L["en"]
+
+    def pair(tag, cls, key, sub=None):
+        a = ar[key] if sub is None else sub[0]
+        b = en[key] if sub is None else sub[1]
+        return (f'<{tag} class="{cls}" data-ar="{e(a, True)}" data-en="{e(b, True)}">'
+                f'{e(a)}</{tag}>')
+
+    tiles = []
+    for c in CATEGORIES:
+        n = counts.get(c["id"], 0)
+        if not n:
+            continue
+        na, ne = ar["tpl_all"].replace("{t}", str(n)), en["tpl_all"].replace("{t}", str(n))
+        tiles.append(
+            f'        <a class="topic-tile" href="/articles/c/{c["id"]}/" '
+            f'data-href-ar="/articles/c/{c["id"]}/" data-href-en="/en/articles/c/{c["id"]}/">\n'
+            f'          <span class="topic-tile-media"><img src="{COVERS}{c["id"]}.webp" alt="" '
+            'width="800" height="450" loading="lazy" decoding="async"></span>\n'
+            '          <span class="topic-tile-body">\n'
+            f'            <span class="topic-tile-name" data-ar="{e(c["ar"]["name"], True)}" '
+            f'data-en="{e(c["en"]["name"], True)}">{e(c["ar"]["name"])}</span>\n'
+            f'            <span class="topic-tile-count" data-ar="{e(na, True)}" '
+            f'data-en="{e(ne, True)}">{e(na)}</span>\n'
+            '          </span>\n'
+            '        </a>\n'
+        )
+
+    heads = (ar["lib_h"].replace("{t}", str(total)), en["lib_h"].replace("{t}", str(total)))
+    return (
+        '  <style>\n'
+        '    .lib-band{padding:82px 24px;background:linear-gradient(180deg,var(--bg) 0%,var(--bg-surface) 100%);'
+        'border-top:1px solid var(--border);border-bottom:1px solid var(--border);}\n'
+        '    .lib-inner{max-width:1140px;margin:0 auto;}\n'
+        '    .lib-head{text-align:center;max-width:660px;margin:0 auto 40px;}\n'
+        "    .lib-eyebrow{font-family:'Inter','Tajawal',sans-serif;font-size:12.5px;font-weight:700;"
+        'letter-spacing:.08em;text-transform:uppercase;color:var(--teal);margin:0 0 12px;}\n'
+        '    .lib-head h2{font-size:clamp(26px,4vw,38px);line-height:1.3;color:var(--text);margin:0 0 14px;font-weight:800;}\n'
+        '    .lib-head p{color:var(--text-m);font-size:16px;line-height:1.85;margin:0;}\n'
+        '    .lib-foot{text-align:center;margin-top:38px;}\n'
+        '    .lib-cta{display:inline-flex;align-items:center;gap:8px;padding:15px 32px;border-radius:999px;'
+        'background:var(--teal);color:#fff;font-weight:700;font-size:15.5px;text-decoration:none;'
+        'transition:transform .2s,box-shadow .2s;}\n'
+        '    .lib-cta:hover{transform:translateY(-2px);box-shadow:0 18px 32px -16px rgba(58,157,146,.85);}\n'
+        '    @media (max-width:640px){.lib-band{padding:60px 18px;}}\n'
+        '    @media (prefers-reduced-motion:reduce){.lib-cta{transition:none;}.lib-cta:hover{transform:none;}}\n'
+        '  </style>\n'
+        '  <section class="lib-band" id="library" aria-labelledby="lib-title">\n'
+        '    <div class="lib-inner">\n'
+        '      <div class="lib-head reveal">\n'
+        f'        {pair("p", "lib-eyebrow", "lib_eyebrow")}\n'
+        f'        <h2 id="lib-title" data-ar="{e(heads[0], True)}" data-en="{e(heads[1], True)}">{e(heads[0])}</h2>\n'
+        f'        {pair("p", "lib-lead", "lib_sub")}\n'
+        '      </div>\n'
+        '      <div class="topic-tiles">\n'
+        + "".join(tiles) +
+        '      </div>\n'
+        '      <div class="lib-foot">\n'
+        f'        <a class="lib-cta" href="/articles/" data-href-ar="/articles/" data-href-en="/en/articles/" '
+        f'data-ar="{e(ar["lib_cta"], True)}" data-en="{e(en["lib_cta"], True)}">{e(ar["lib_cta"])}</a>\n'
+        '      </div>\n'
+        '    </div>\n'
+        '  </section>\n'
+    )
+
+
+def patch_homepage(counts, total):
+    """Rewrite the library band inside index.html, leaving the rest untouched.
+
+    The counts in that band are the same numbers the hub prints, so they have
+    to come from the same place. Regenerating the block on every build is the
+    only way they cannot drift apart.
+    """
+    with open(HOME, encoding="utf-8") as fh:
+        page = fh.read()
+    i, j = page.find(HOME_START), page.find(HOME_END)
+    if i < 0 or j < 0 or j < i:
+        raise SystemExit("index.html has lost its library-band markers")
+    new = (page[:i] + HOME_START + "\n" + home_library_band(counts, total)
+           + "  " + page[j:])
+    if new == page:
+        return False
+    write(HOME, new)
+    return True
+
+
+# --------------------------------------------------------------------------
 def main():
     articles = load_articles()
     counts = {}
@@ -798,6 +954,9 @@ def main():
 
     write(os.path.join(BASE, "404.html"), not_found_page(counts))
     print("  404.html")
+
+    print("  index.html library band " +
+          ("rewritten" if patch_homepage(counts, len(articles)) else "already current"))
 
     build_feed(articles)
     n_pages, n_arts = build_sitemaps(articles, counts)
