@@ -32,6 +32,37 @@ with open(os.path.join(BASE, "content", "categories.json"), encoding="utf-8") as
 CAT_BY_ID = {c["id"]: c for c in CATEGORIES}
 
 
+# --------------------------------------------------------------------------
+# per-article cover art
+# --------------------------------------------------------------------------
+def load_covers():
+    """Slugs that have a cover, keyed to their alt text, from build_covers.py.
+
+    Filtered against the files actually on disk rather than trusted from the
+    manifest. Covers arrive in batches, and a slug listed but not yet rendered
+    would put a 404 into og:image and the image sitemap, which is the one kind
+    of broken link a crawler tells other people about.
+    """
+    path = os.path.join(BASE, "content", "covers.json")
+    if not os.path.exists(path):
+        return {}
+    with open(path, encoding="utf-8") as fh:
+        listed = json.load(fh)
+    art = os.path.join(BASE, "images", "articles")
+    return {slug: meta for slug, meta in listed.items()
+            if os.path.exists(os.path.join(art, f"{slug}.webp"))}
+
+
+COVER_HERO = "/images/articles/{}.webp"
+COVER_SHARE = "/images/articles/{}-share-{}.jpg"
+
+
+def headline(a, lang):
+    """The h1. The six hand-written legacy pages only carry a title."""
+    c = a["content"][lang]
+    return c.get("h1") or c.get("title", "")
+
+
 def cat_url(lang, cid):
     return f'/articles/c/{cid}/' if lang == "ar" else f'/en/articles/c/{cid}/'
 
@@ -366,10 +397,14 @@ def serp_desc(desc):
 
 
 def head(lang, *, title, desc, url, ar_url, en_url, keywords="", og_type="article",
-         og_image=None, extra_ld="", css=(f"/style.css?v={ASSET_V}", f"/articles/article.css?v={ASSET_V}"),
+         og_image=None, og_image_alt="", extra_ld="",
+         css=(f"/style.css?v={ASSET_V}", f"/articles/article.css?v={ASSET_V}"),
          robots="index, follow, max-image-preview:large, max-snippet:-1"):
     o = L[lang]
     img = og_image or OG_IMAGE
+    img_alt = (f'  <meta property="og:image:alt" content="{e(og_image_alt, True)}">\n'
+               f'  <meta name="twitter:image:alt" content="{e(og_image_alt, True)}">\n'
+               if og_image_alt else "")
     brand = " | " + o["site"]
     css_links = "".join(f'  <link rel="stylesheet" href="{c}">\n' for c in css)
     kw = f'  <meta name="keywords" content="{e(keywords, True)}">\n' if keywords else ""
@@ -400,6 +435,7 @@ def head(lang, *, title, desc, url, ar_url, en_url, keywords="", og_type="articl
         f'  <meta property="og:image" content="{img}">\n'
         '  <meta property="og:image:width" content="1200">\n'
         '  <meta property="og:image:height" content="630">\n'
+        + img_alt +
         '  <meta property="og:site_name" content="Sihtak">\n'
         f'  <meta property="og:locale" content="{o["oglocale"]}">\n'
         f'  <meta property="og:locale:alternate" content="{o["oglocale_alt"]}">\n'

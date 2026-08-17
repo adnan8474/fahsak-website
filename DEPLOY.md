@@ -7,10 +7,17 @@ deploy is manual.
 ## Before you deploy
 
 ```
+python build_covers.py       # only when covers-src/ has new masters
 python build_content.py && python build_site.py && python build_tools.py && python build_about.py
 python seo_audit.py          # must exit 0
 git commit -am "..."         # the deploy ships committed code only
 ```
+
+`build_covers.py` turns a master render in `covers-src/<slug>.jpg` into the
+article hero and the two titled share cards, and records the alt text in
+`content/covers.json`. The masters are gitignored and never ship; the three
+derivatives under `images/articles/` do. Run it before the other builders,
+because they read that manifest to decide which articles have a cover.
 
 `seo_audit.py` exits non-zero on blocker-level findings. It walks the working
 tree but skips anything gitignored, so what it audits is what ships.
@@ -33,9 +40,9 @@ Strip these:
 
 - `deck/` (71M) and `content/` (15M)
 - the builders and dev tooling: `build_about.py`, `build_chrome.py`,
-  `build_content.py`, `build_site.py`, `build_tools.py`, `build_visuals.py`,
-  `cite.py`, `merge_batches.py`, `validate_batch.py`, `add-analytics.py`,
-  `verify-analytics.js`, `seo_audit.py`
+  `build_content.py`, `build_covers.py`, `build_site.py`, `build_tools.py`,
+  `build_visuals.py`, `cite.py`, `merge_batches.py`, `validate_batch.py`,
+  `add-analytics.py`, `verify-analytics.js`, `seo_audit.py`
 - `email-signature.html`, `email-signature-ar.html` (email templates, not pages)
 - `DEPLOY.md`
 

@@ -18,10 +18,12 @@ from build_chrome import (
     BASE, SITE, AUTHOR, AUTHOR_URL, OG_IMAGE, PLAY, APPSTORE, L, CAT_BY_ID,
     cat_url, cat_name, fmt_date, e, nav, footer, head, card, jd,
     ORG_LD, PERSON_LD, SCRIPT_BLOCK, load_articles,
+    load_covers, COVER_HERO, COVER_SHARE,
 )
 import build_visuals
 
 DATA = os.path.join(BASE, "content", "articles.json")
+COVERS = load_covers()
 
 
 # --------------------------------------------------------------------------
@@ -66,8 +68,21 @@ def breadcrumbs(lang, a):
     )
 
 
-def lead_image(a):
-    img = a.get("lead_image")
+def cover_hero(a, lang):
+    """The article's own 3D cover, as a lead_image dict, if one exists.
+
+    Alt text describes the artwork rather than repeating the h1 sitting two
+    inches above it: a screen reader would otherwise announce the headline
+    twice, and Google Images matches on what the picture shows.
+    """
+    cover = COVERS.get(a["slug"])
+    if not cover:
+        return None
+    return {"src": COVER_HERO.format(a["slug"]), "alt": cover.get(f"alt_{lang}", "")}
+
+
+def lead_image(a, lang):
+    img = a.get("lead_image") or cover_hero(a, lang)
     if not img:
         return ""
     credit = ""
@@ -191,9 +206,13 @@ def ldjson(lang, a):
     c = a["content"][lang]
     url = f'{SITE}{L[lang]["base"]}{a["slug"]}/'
     cid = a.get("category")
-    img = OG_IMAGE
-    if a.get("lead_image", {}).get("src"):
-        img = SITE + a["lead_image"]["src"]
+    # Schema.org gets the untitled 16:9 hero, not the share card. This image
+    # is what Discover and rich results may reuse at their own crop, and text
+    # burnt into a picture cannot reflow when they do.
+    lead = a.get("lead_image") or cover_hero(a, lang)
+    img, dims = OG_IMAGE, (1200, 630)
+    if lead and lead.get("src"):
+        img, dims = SITE + lead["src"], (1200, 675)
 
     page = {
         "@type": "MedicalWebPage",
@@ -206,7 +225,7 @@ def ldjson(lang, a):
         "datePublished": a["date_iso"],
         "dateModified": a.get("updated_iso") or a["date_iso"],
         "lastReviewed": a.get("updated_iso") or a["date_iso"],
-        "image": {"@type": "ImageObject", "url": img, "width": 1200, "height": 630},
+        "image": {"@type": "ImageObject", "url": img, "width": dims[0], "height": dims[1]},
         "author": {"@id": f"{SITE}/#adnan"},
         "publisher": {"@id": f"{SITE}/#org"},
         "isPartOf": {"@id": f"{SITE}/#website"},
@@ -291,7 +310,13 @@ def page(lang, a, articles):
     date_txt = a["date_ar"] if lang == "ar" else a["date_en"]
     byline = (f'{o["byline"]} <bdi><strong>{AUTHOR}</strong></bdi> · {date_txt} · '
               f'{a["read_min"]} {o["read_suffix"]}')
-    og_img = SITE + a["lead_image"]["src"] if a.get("lead_image", {}).get("src") else None
+    # og:image is the titled share card, in this page's language: a link
+    # pasted into WhatsApp or LinkedIn shows a picture and a headline where
+    # the site's own words would otherwise be a caption nobody reads.
+    cover = COVERS.get(slug)
+    og_img = SITE + COVER_SHARE.format(slug, lang) if cover else (
+        SITE + a["lead_image"]["src"] if a.get("lead_image", {}).get("src") else None)
+    og_alt = (cover or {}).get(f"alt_{lang}", "")
 
     chip_html = (f'<a class="art-chip" href="{cat_url(lang, cid)}">{e(chip)}</a>'
                  if cid else f'<span class="art-chip">{e(chip)}</span>')
@@ -308,14 +333,14 @@ def page(lang, a, articles):
         f'        <p class="art-meta">{byline}</p>\n'
         '      </div>\n'
         '    </header>\n'
-        + lead_image(a) +
+        + lead_image(a, lang) +
         '    <article class="art-body">\n'
     )
 
     return (
         head(lang, title=c["title"], desc=c["desc"], url=url, ar_url=ar_url, en_url=en_url,
              keywords=c.get("keywords", ""), og_type="article", og_image=og_img,
-             extra_ld=ldjson(lang, a))
+             og_image_alt=og_alt, extra_ld=ldjson(lang, a))
         + nav(lang, other_href)
         + hero
         + body_html(lang, a)

@@ -13,3 +13,7 @@ __pycache__/
 
 # Layout screenshots taken by the local verify harness.
 /.shots/
+
+# Master 3D cover renders. Large, regenerable, and only the small webp
+# derivatives under /images/articles/ ever ship. OneDrive backs this folder up.
+/covers-src/

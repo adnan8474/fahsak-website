@@ -33,6 +33,7 @@ from build_chrome import (
     BASE, SITE, AUTHOR, AUTHOR_URL, OG_IMAGE, PLAY, APPSTORE, L, CATEGORIES,
     CAT_BY_ID, cat_url, cat_name, fmt_date, e, nav, footer, head, card, jd,
     ORG_LD, PERSON_LD, SCRIPT_BLOCK, load_articles,
+    load_covers, COVER_HERO, headline,
 )
 
 TODAY = datetime.date.today().isoformat()
@@ -48,7 +49,12 @@ from build_chrome import ASSET_V
 # Twelve illustrated topic covers live at /images/topics/<id>.webp (800x450
 # tile) and <id>-wide.webp (1200x630, the category hero and that page's
 # og:image). They are built from the source art by tmp/topic_covers.py.
-COVERS = "/images/topics/"
+TOPIC_COVERS = "/images/topics/"
+
+# Per-article 3D covers, a different tier: the twelve flat tiles say "this is
+# the nutrition shelf", one render per article says "this is that article".
+# Built by build_covers.py, which also writes the alt text.
+ART_COVERS = load_covers()
 
 # Every URL here ends in a slash, because that is the form each page declares
 # as its own canonical and the slashless variants are 301s. A sitemap that
@@ -131,7 +137,7 @@ def topic_covers(lang, counts):
             continue
         tiles.append(
             f'        <a class="topic-tile" href="{cat_url(lang, c["id"])}">\n'
-            f'          <span class="topic-tile-media"><img src="{COVERS}{c["id"]}.webp" alt="" '
+            f'          <span class="topic-tile-media"><img src="{TOPIC_COVERS}{c["id"]}.webp" alt="" '
             'width="800" height="450" loading="lazy" decoding="async"></span>\n'
             '          <span class="topic-tile-body">\n'
             f'            <span class="topic-tile-name">{e(c[lang]["name"])}</span>\n'
@@ -350,7 +356,7 @@ def category_page(lang, c, items, counts):
              ar_url=ar_url, en_url=en_url, og_type="website",
              # Each topic now shares as its own illustration instead of the one
              # generic site card, so twelve links look like twelve things.
-             og_image=f"{SITE}{COVERS}{cid}-wide.webp",
+             og_image=f"{SITE}{TOPIC_COVERS}{cid}-wide.webp",
              css=(f"/style.css?v={ASSET_V}", f"/articles/article.css?v={ASSET_V}"),
              extra_ld=f'  <script type="application/ld+json">{jd(ld)}</script>\n')
         + nav(lang, f'/en/articles/c/{cid}/' if lang == "ar" else f'/articles/c/{cid}/')
@@ -365,7 +371,7 @@ def category_page(lang, c, items, counts):
         f'          <p class="art-hub-sub">{e(meta["desc"])}</p>\n'
         f'          <p class="art-hub-count">{len(items)} {e(o["count_suffix"])}</p>\n'
         '        </div>\n'
-        f'        <div class="cat-cover"><img src="{COVERS}{cid}-wide.webp" alt="" '
+        f'        <div class="cat-cover"><img src="{TOPIC_COVERS}{cid}-wide.webp" alt="" '
         'width="1200" height="630" fetchpriority="high" decoding="async"></div>\n'
         '      </div>\n'
         '    </header>\n'
@@ -585,7 +591,7 @@ def build_sitemaps(articles, counts):
             continue
         ar = f"{SITE}/articles/c/{c['id']}/"
         en = f"{SITE}/en/articles/c/{c['id']}/"
-        cover = f"{SITE}{COVERS}{c['id']}-wide.webp"
+        cover = f"{SITE}{TOPIC_COVERS}{c['id']}-wide.webp"
         blocks.append(url_block(ar, TODAY, "weekly", "0.8", ar, en,
                                 [(cover, c["ar"]["name"])]))
         blocks.append(url_block(en, TODAY, "weekly", "0.7", ar, en,
@@ -597,8 +603,16 @@ def build_sitemaps(articles, counts):
         ar = f"{SITE}/articles/{a['slug']}/"
         en = f"{SITE}/en/articles/{a['slug']}/"
         lm = a.get("updated_iso") or a["date_iso"]
-        ablocks.append(url_block(ar, lm, "monthly", "0.8", ar, en))
-        ablocks.append(url_block(en, lm, "monthly", "0.7", ar, en))
+        # The image entry carries the untitled hero and, as its title, the
+        # article headline in that language. Google Images indexes the picture
+        # against those words, which is the whole point of one cover per
+        # article rather than one shared og-image for the site.
+        cover = ART_COVERS.get(a["slug"])
+        hero = f"{SITE}{COVER_HERO.format(a['slug'])}" if cover else None
+        imgs = {lang: [(hero, headline(a, lang))] if hero else []
+                for lang in ("ar", "en")}
+        ablocks.append(url_block(ar, lm, "monthly", "0.8", ar, en, imgs["ar"]))
+        ablocks.append(url_block(en, lm, "monthly", "0.7", ar, en, imgs["en"]))
     write(os.path.join(BASE, "sitemap-articles.xml"), HEAD_XML + "".join(ablocks) + "</urlset>\n")
 
     idx = ('<?xml version="1.0" encoding="UTF-8"?>\n'
@@ -886,7 +900,7 @@ def home_library_band(total):
                 f'{e(a)}</{tag}>')
 
     fan = "".join(
-        f'          <img src="{COVERS}{cid}.webp" alt="" width="800" height="450" '
+        f'          <img src="{TOPIC_COVERS}{cid}.webp" alt="" width="800" height="450" '
         'loading="lazy" decoding="async">\n'
         for cid in FAN
     )
