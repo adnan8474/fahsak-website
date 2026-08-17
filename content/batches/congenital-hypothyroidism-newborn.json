@@ -1,0 +1,385 @@
+{
+  "slug": "congenital-hypothyroidism-newborn",
+  "category": "genetic-conditions",
+  "chip_ar": "صحة الأطفال",
+  "chip_en": "Child Health",
+  "date_iso": "2026-08-04",
+  "sources": [
+    {
+      "label": "Wassner AJ: Congenital Hypothyroidism, Clinics in perinatology, 2018",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29405999/"
+    },
+    {
+      "label": "Bowden SA, Goldis M: Congenital Hypothyroidism, StatPearls, 2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32644339/"
+    },
+    {
+      "label": "Deeb A, Elkadry I, Attia S et al: Biochemical, radiological, and genetic characterization of congenital hypothyroidism in Abu Dhabi, United Arab Emirates, Journal of pediatric endocrinology and metabolism, 2016",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27060741/"
+    },
+    {
+      "label": "Lau CS, Joseph R, Aw TC et al: Screening for Congenital Hypothyroidism, Annals of the Academy of Medicine Singapore, 2020",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33463650/"
+    },
+    {
+      "label": "Brady J, Cannupp A, Myers J et al: Congenital Hypothyroidism, Neonatal network, 2021",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34845088/"
+    },
+    {
+      "label": "Alzahrani AS, Al Mourad M, Hafez K et al: Diagnosis and Management of Hypothyroidism in Gulf Cooperation Council (GCC) Countries, Advances in therapy, 2020",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32488658/"
+    },
+    {
+      "label": "World Health Organization: Newborn health fact sheet",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/newborns-reducing-mortality"
+    }
+  ],
+  "content": {
+    "ar": {
+      "title": "قصور الغدة الدرقية عند المولود: لماذا فحص الكعب مهم جداً",
+      "desc": "قصور الغدة الدرقية الخلقي قابل للعلاج تماماً إذا اكتُشف في الأسابيع الأولى. ما هو الفحص، ومتى يُجرى، وماذا تفعل إذا كانت النتيجة غير طبيعية.",
+      "keywords": "قصور الغدة الدرقية الخلقي, فحص المولود, فحص الكعب, ثيروكسين, TSH, الإعاقة الذهنية, هرمون الغدة الدرقية, حديثو الولادة",
+      "h1": "قصور الغدة الدرقية الخلقي: فحص يمنع إعاقة ذهنية كاملة",
+      "takeaways": [
+        "قصور الغدة الدرقية الخلقي هو أكثر الأمراض الهرمونية الخلقية القابلة للعلاج شيوعاً، ويصيب نحو 1 من كل 2000 إلى 4000 مولود.",
+        "المولود المصاب يبدو طبيعياً تماماً عند الولادة، لأن هرمون الغدة الدرقية للأم كان يعوّض النقص أثناء الحمل.",
+        "البدء بعلاج الثيروكسين (Levothyroxine) قبل نهاية الأسبوع الثالث من الحمل يمنع الإعاقة الذهنية بشكل كامل تقريباً.",
+        "فحص المولود في الأيام الأولى هو الطريقة الوحيدة للكشف المبكر، لأن الأعراض لا تظهر إلا في مراحل متأخرة."
+      ],
+      "sections": [
+        {
+          "h2": "ما هو قصور الغدة الدرقية الخلقي؟",
+          "paras": [
+            "قصور الغدة الدرقية الخلقي (Congenital Hypothyroidism أو CH) يعني أن المولود يأتي إلى العالم بغدة درقية لا تعمل بشكل كافٍ أو غائبة كلياً. الغدة الدرقية مسؤولة عن إنتاج هرمون الثيروكسين (Thyroxine أو T4)، وهو ضروري لنمو الدماغ في السنوات الأولى من العمر وللنمو الجسمي العام.",
+            "في معظم الحالات، السبب هو شذوذ في نمو الغدة الدرقية نفسها أثناء مرحلة الجنين: إما أنها تكونت في مكان خاطئ (ما يسمى ectopic)، أو أنها أصغر من الطبيعي، أو أنها غائبة تماماً. في حالات أقل، الغدة موجودة تشريحياً لكن إنزيمات إنتاج الهرمون لا تعمل. هذا النوع قد يكون موروثاً وقد يتكرر في الأبناء.",
+            "ينتشر قصور الغدة الدرقية الخلقي بنسبة تتراوح بين 1 في 2000 و1 في 4000 مولود في المناطق التي لا يعاني سكانها من نقص اليود. في مناطق نقص اليود، كأجزاء من منطقة الشرق الأوسط وأفريقيا، يمكن أن يكون المعدل أعلى لأن نقص اليود يمنع إنتاج الهرمون. تشير بيانات الإمارات العربية المتحدة إلى معدلات مقاربة للمعدلات العالمية مع وجود بعض العوامل الإقليمية المؤثرة."
+          ]
+        },
+        {
+          "h2": "لماذا يبدو المولود طبيعياً في البداية؟",
+          "paras": [
+            "هذا هو السبب الجوهري الذي يجعل فحص المولود ضرورياً لا اختيارياً. أثناء الحمل، كانت هرمونات الغدة الدرقية للأم تعبر المشيمة وتصل إلى الجنين، مما يوفر قدراً كافياً من الهرمون لحماية نمو الدماغ خلال فترة الحمل.",
+            "بعد الولادة، تنقطع هذه الإمدادات من الأم، ويبدأ المولود بالاعتماد على غدته الدرقية الخاصة. إذا كانت الغدة لا تعمل، يبدأ مستوى الهرمون بالتراجع تدريجياً. في الأسابيع الأولى لا تظهر أي أعراض واضحة، والمولود يبدو بصحة جيدة.",
+            "مع مرور الأسابيع والأشهر الأولى دون علاج، يبدأ نقص الهرمون في التأثير على نمو الدماغ الذي يكون في أشد فترات نشاطه في هذا العمر. الضرر الذي يتراكم في هذه المرحلة ليس عكوساً. لهذا يكون الوقت بالغ الأهمية، وتشير الأبحاث إلى أن البدء بالعلاج قبل اليوم الثالث عشر من العمر يحقق أفضل النتائج.",
+            "الأعراض التي قد تظهر لاحقاً عند المولود غير المعالج تشمل اليرقان الذي يستمر طويلاً دون سبب واضح، وصعوبة في الرضاعة، وقِصر القامة، والإمساك المزمن، والنوم المفرط، وتأخر المشي والكلام. لكن بحلول وقت ظهور هذه الأعراض، قد يكون قسط من الضرر الذهني قد حدث بالفعل."
+          ],
+          "visual": {
+            "type": "timeline",
+            "title": "ما يحدث عند غياب العلاج المبكر",
+            "items": [
+              {"when": "الولادة", "what": "المولود يبدو طبيعياً تماماً، الهرمون الأمومي لا يزال في دمه"},
+              {"when": "أسبوع 1-3", "what": "مستوى هرمون الغدة يبدأ بالتراجع، لا أعراض ظاهرة بعد"},
+              {"when": "أسبوع 4-8", "what": "قد يلاحظ الأهل نعاساً مفرطاً أو صعوبة في الرضاعة"},
+              {"when": "شهور 3-6", "what": "تأخر في النمو وبدء تأثير على تطور الدماغ"},
+              {"when": "سنة 1+", "what": "ظهور تأخر ذهني وحركي إذا لم يُعالج"}
+            ]
+          }
+        },
+        {
+          "h2": "فحص المولود: كيف ومتى؟",
+          "paras": [
+            "الطريقة المعيارية لاكتشاف قصور الغدة الدرقية الخلقي هي فحص الدم من الكعب (Heel prick test). يُسحب قطرة صغيرة من دم المولود بوخز لطيف في كعبه، عادةً بين اليوم الثاني والخامس من الولادة. العينة تُوضع على ورقة خاصة وتُرسل إلى المختبر لقياس مستوى TSH في الدم.",
+            "TSH (هرمون منبه الغدة الدرقية) يرتفع في قصور الغدة الدرقية لأن الغدة النخامية تحاول تحفيز الغدة الدرقية الكسولة أو الغائبة. ارتفاع TSH في دم المولود في الأيام الأولى هو الإشارة التحذيرية التي تستلزم مراجعة فورية.",
+            "التوقيت مهم جداً: إذا أُخذت العينة في اليوم الأول، قد يكون TSH لا يزال طبيعياً بسبب الارتفاع الفيزيولوجي الذي يحدث في الساعات الأولى بعد الولادة، مما قد يعطي نتيجة طبيعية كاذبة. الأفضل أخذ العينة بعد 48 ساعة من الولادة. المواليد المبتسرون أو المرضى قد يحتاجون عينة ثانية في عمر أسبوعين.",
+            "تجدر الإشارة إلى أن هذا الفحص لا يتوفر بانتظام في جميع المستشفيات في كل دول المنطقة. في دول الخليج ومصر والأردن ولبنان، تتوفر برامج فحص المواليد الوطنية في معظم المستشفيات. في دول أخرى مثل اليمن وسوريا ولبنان خلال الأزمات، قد يكون الفحص غير منتظم. إذا ولد طفلك ولم تتلقَ أي إشعار بنتيجة فحص الكعب، اسأل طبيب الأطفال مباشرة."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "خطوات فحص المولود من الكعب",
+            "items": [
+              "اليوم الثاني إلى الخامس: وخز لطيف في كعب المولود لسحب قطرات دم",
+              "وضع قطرات الدم على ورقة فلتر خاصة وتركها تجف",
+              "إرسال العينة إلى مختبر الفحص الوطني",
+              "النتيجة تصدر خلال 1-7 أيام",
+              "إذا كانت النتيجة طبيعية: لا داعي لأي إجراء إضافي",
+              "إذا كانت غير طبيعية: استدعاء عاجل للمراجعة وبدء التحاليل التأكيدية"
+            ]
+          }
+        },
+        {
+          "h2": "ماذا يحدث إذا كانت النتيجة غير طبيعية؟",
+          "paras": [
+            "نتيجة غير طبيعية من فحص الكعب لا تعني تلقائياً أن طفلك مؤكد الإصابة بقصور الغدة الدرقية. قد تكون النتيجة إيجابية كاذبة، خاصة إذا كان المولود مبتسراً أو مرض في الأيام الأولى. يستلزم الأمر تحليلاً دموياً تأكيدياً يقيس TSH وT4 مع الفحص الإكلينيكي من طبيب الأطفال.",
+            "إذا تأكد ارتفاع TSH مع انخفاض T4، يبدأ الطبيب علاج الثيروكسين (Levothyroxine) في أقرب وقت ممكن دون انتظار نتائج التصوير أو الفحوصات الجينية. العلاج يأتي أولاً، والفحوصات الإضافية تأتي لاحقاً لتحديد السبب.",
+            "التصوير يمكن أن يتضمن مسح الغدة الدرقية بالموجات الصوتية أو باستخدام تقنية المسح بالنظائر المشعة لمعرفة حجم الغدة وموقعها. أما الفحوصات الجينية فتساعد في تحديد ما إذا كانت الحالة موروثة ومدى خطر تكرارها في الحمول القادمة، لكنها لا تغير خطة العلاج الفورية.",
+            "حتى لو بدأ العلاج مبكراً، يتابع الطبيب مستوى الهرمونات بانتظام لأن الجرعة تحتاج تعديلاً مع نمو الطفل. التحليل يُكرر كل بضعة أشهر في السنة الأولى ثم بوتيرة أقل لاحقاً."
+          ]
+        },
+        {
+          "h2": "العلاج بالثيروكسين: كيف يعطى وكيف يُتابع؟",
+          "paras": [
+            "ثيروكسين الصوديوم (Levothyroxine) هو الهرمون الاصطناعي الذي يعوض ما تعجز عنه الغدة الدرقية. يأتي في شكل أقراص تُسحق وتُذاب في كمية صغيرة من الماء أو حليب الأم وتُعطى للمولود في بداية الرضعة الصباحية. بعض الأقراص لا تُذاب في الحليب الاصطناعي لأنه يحتوي على كالسيوم يقلل من امتصاص الدواء، لذلك من المهم اتباع تعليمات الطبيب بدقة حول طريقة التحضير.",
+            "الجرعة تُحدد بحسب وزن الطفل وتتراوح في البداية بين 10 و15 ميكروغرام لكل كيلوغرام يومياً. تتغير الجرعة مع نمو الطفل وكلما تغير وزنه بشكل ملحوظ. كل تعديل يبنى على تحليل الدم لا على الأعراض وحدها، لذا لا تغير الجرعة من تلقاء نفسك دون مراجعة الطبيب.",
+            "في السنة الأولى من العمر، يُفضل إجراء تحليل TSH وT4 الحر كل شهر إلى شهرين للتأكد من أن الجرعة ملائمة. الهدف هو الحفاظ على TSH ضمن المدى الطبيعي لعمر الطفل، وعادةً أقل من 5 وحدة دولية/لتر في السنة الأولى، مع الحفاظ على T4 الحر في النطاق العلوي من الطبيعي. ارتفاع TSH يدل على جرعة غير كافية وانخفاضه الحاد قد يعني جرعة زائدة.",
+            "العلاج في أغلب الحالات يستمر مدى الحياة لأن الغدة الدرقية الغائبة أو المتضررة لا تتعافى بمرور الوقت. في بعض الحالات الخفيفة التي قد يكون فيها القصور عابراً، يحاول الطبيب إيقاف العلاج مؤقتاً عند عمر ثلاث سنوات للتحقق مما إذا كانت الغدة قد استأنفت عملها. هذا لا يحدث أبداً بشكل مفاجئ ودون مراقبة، بل تحت إشراف طبي صارم مع تحاليل متكررة.",
+            "لا يسبب الليفوثيروكسين إدماناً ولا آثاراً جانبية عند الجرعة الصحيحة. هو ببساطة يعوض هرموناً طبيعياً كان يجب أن ينتجه الجسم لكنه لا يستطيع. الأسر التي تخضع طفلها للعلاج المنتظم وتلتزم بمواعيد التحاليل ترى نتائج ممتازة في الغالب."
+          ],
+          "visual": {
+            "type": "range-scale",
+            "title": "متابعة TSH أثناء العلاج في السنة الأولى",
+            "label": "TSH",
+            "unit": "mIU/L",
+            "min": 0,
+            "max": 20,
+            "zones": [
+              {"to": 0.5, "tone": "warn", "label": "جرعة زائدة"},
+              {"to": 5, "tone": "good", "label": "هدف العلاج"},
+              {"to": 10, "tone": "warn", "label": "جرعة قاصرة"},
+              {"to": 20, "tone": "bad", "label": "غير معالج"}
+            ],
+            "source": "Wassner AJ: Congenital Hypothyroidism, Clinics in Perinatology, 2018",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/29405999/"
+          }
+        },
+        {
+          "h2": "ما الذي يمكن توقعه على المدى البعيد؟",
+          "paras": [
+            "نتيجة العلاج المبكر والمنتظم ممتازة في الغالب. الدراسات المتابعة على المدى البعيد تظهر أن الأطفال الذين عولجوا في الأسابيع الأولى من حياتهم يصلون إلى ذكاء طبيعي أو قريب من الطبيعي في معظم الحالات، ويلتحقون بالتعليم الطبيعي ويعيشون حياة اجتماعية ومهنية مستقلة.",
+            "الأطفال الذين يعانون من قصور حاد جداً بسبب غياب الغدة كلياً، أو الذين تأخر علاجهم عدة أسابيع بعد الولادة، قد يواجهون بعض صعوبات خفيفة في مجالات محددة مثل الذاكرة اللفظية أو الانتباه حتى مع إدارة العلاج الجيدة. هذا يجعل الكشف المبكر والبدء الفوري بالعلاج أمراً بالغ الأهمية ولا يقبل التأجيل.",
+            "مع نمو الطفل وبلوغه سن المدرسة، المتابعة مع طبيب الأطفال ومتخصص التنمية مهمة لاكتشاف أي احتياج داعم مبكراً إذا وجد. إشراك المعلمين في الخطة الصحية للطفل وإبلاغهم بوضعه يساعد على توفير بيئة داعمة.",
+            "التحفيز المبكر من الأيام الأولى يلعب دوراً حقيقياً جنباً إلى جنب مع العلاج الدوائي. الكلام مع الطفل، والقراءة له، والتفاعل البصري والحركي، كلها تدعم النمو الإدراكي وتستغل القدرة الهائلة للدماغ الصغير على التعلم والتكيف. الأسرة المطّلعة الملتزمة بالمواعيد والعلاج هي أكثر ما يحتاجه الطفل ليحقق إمكاناته الكاملة."
+          ]
+        },
+        {
+          "h2": "اليود والحمل: الوقاية قبل الولادة",
+          "paras": [
+            "نقص اليود لدى الأم الحامل هو أحد أسباب قصور الغدة الدرقية عند المولود في مناطق نقص اليود. اليود ضروري لبناء هرمون الثيروكسين، وإذا كانت الأم تعاني من نقصه قد تؤثر على نمو الغدة الدرقية للجنين.",
+            "في كثير من دول الشرق الأوسط، تُستخدم نسبة من الملح المعالج باليود كإجراء وقائي. لكن في المناطق التي يعاني فيها السكان من نقص اليود أو تلك التي تستهلك أقل من الكميات الموصى بها، قد لا يكون هذا كافياً وحده. منظمة الصحة العالمية توصي الحوامل بتناول 250 ميكروغرام من اليود يومياً، مما يعني أن الفيتامينات التكميلية للحمل يجب أن تحتوي على اليود.",
+            "نقص اليود أثناء الحمل له عواقب أوسع من مجرد الغدة الدرقية عند المولود. يؤثر على الذكاء وتطور دماغ الجنين بشكل مستقل. الأم الحامل التي تعيش في منطقة بمستوى اليود غير المؤكد ينبغي أن تتحدث مع طبيبها حول الحاجة إلى مكمل اليود.",
+            "في المقابل، الإفراط في اليود أيضاً خطير على غدة الجنين الدرقية، خاصة لدى الأمهات اللواتي يتعرضن لكميات كبيرة من الكشف بالأصباغ المحتوية على اليود أو يتناولن كميات مفرطة من مكملات اليود. التوازن هو المطلوب."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "راجع طبيب الأطفال فوراً إذا لاحظت على مولودك",
+            "items": [
+              "يرقان (اصفرار الجلد والعينين) يستمر أكثر من أسبوعين",
+              "نعاس مفرط وصعوبة في البقاء مستيقظاً للرضاعة",
+              "الرضاعة بطيئة جداً والطفل لا يكتسب وزناً",
+              "إمساك مستمر منذ الأيام الأولى",
+              "لسان كبير أو بروز في السرة مع برودة الجلد",
+              "وجود فحص الكعب في بلدك ولم يُجرَ لطفلك"
+            ]
+          }
+        },
+        {
+          "h2": "الفحص متاح في بلدك؟ ماذا تفعل إذا لم يكن كذلك",
+          "paras": [
+            "برامج فحص المواليد الوطنية التي تشمل الغدة الدرقية وأمراضاً أخرى موجودة في السعودية والإمارات والكويت ومصر والأردن والمغرب وتونس والجزائر. في هذه البلدان، يُجرى الفحص تلقائياً قبل الخروج من المستشفى أو في أول زيارة للطبيب.",
+            "في بلدان أخرى في المنطقة أو في حال الولادة خارج المستشفى أو في مستشفى صغير، قد لا يكون الفحص متوفراً تلقائياً. إذا كنت في هذا الموقف، اسأل صراحةً: هل أُجري فحص الكعب لطفلي؟ هل يشمل الغدة الدرقية؟ متى ستصلنا النتيجة؟",
+            "إذا لم يُجرَ الفحص وكان طفلك أكبر من أسبوع، فلا تنتظر. طلب فحص TSH وT4 من دم الوريد لطفلك عند أول طبيب أطفال متاح هو إجراء بسيط وآمن وينبغي ألا يتأخر. الكلفة منخفضة والفائدة لا تقدر بثمن.",
+            "التوعية في المجتمع أيضاً دور مهم. الأمهات اللواتي يعرفن أهمية هذا الفحص يسألن عنه وبالتالي يضمنّ عدم إغفاله. مشاركة هذه المعلومات مع الأهل والصديقات المقبلات على الولادة هو عمل يمكن أن ينقذ عقل طفل."
+          ]
+        }
+      ],
+      "tie": "إذا كان طفلك خاضعاً لبرنامج متابعة قصور الغدة الدرقية الخلقي، استخدم تطبيق صحتك لتسجيل نتائج التحاليل الدورية وجرعات الدواء ومواعيد الزيارات الطبية. السجل الدقيق يساعد الطبيب في كل مراجعة.",
+      "faqs": [
+        {
+          "q": "هل قصور الغدة الدرقية الخلقي موروث؟",
+          "a": "في معظم الحالات لا. السبب الأكثر شيوعاً هو خلل في تكوين الغدة الدرقية أثناء الحمل وهو غير موروث. لكن في حالات أقل شيوعاً يحدث بسبب خلل في إنزيمات إنتاج الهرمون وهي حالات موروثة بنمط متنحٍ يمكن أن تتكرر. الفحص الجيني يحدد النوع."
+        },
+        {
+          "q": "هل العلاج بالثيروكسين يكون مدى الحياة؟",
+          "a": "في معظم الحالات نعم، لأن الغدة الدرقية لا تتعافى إذا كانت غائبة أو ضامرة. في حالات القصور الخفيف الذي قد يكون عابراً، يحاول الطبيب إيقاف العلاج مؤقتاً عند عمر ثلاث سنوات تحت مراقبة دقيقة للتحقق من احتياج الطفل للاستمرار."
+        },
+        {
+          "q": "هل يمكن التنبؤ بقصور الغدة الدرقية الخلقي أثناء الحمل؟",
+          "a": "لا توجد فحوصات روتينية تكتشفه قبل الولادة بشكل موثوق. بعض الحالات قد تكتشف بالمصادفة في الموجات الصوتية إذا لاحظ الطبيب غياب الغدة أو شذوذاً في موقعها، لكن هذا غير منتظم. الاعتماد الأساسي هو على فحص المولود بعد الولادة."
+        },
+        {
+          "q": "متى يُجرى فحص الكعب بالضبط؟",
+          "a": "عادةً بين اليوم الثاني والخامس من الحياة. إذا جرى قبل 48 ساعة، قد يكون أقل دقة بسبب الارتفاع الفيزيولوجي الطبيعي في TSH بعد الولادة مباشرة. المواليد المبتسرون أو المرضى يحتاجون عينة ثانية في عمر أسبوعين للتأكد."
+        },
+        {
+          "q": "هل يؤثر الرضاعة الطبيعية على امتصاص الدواء؟",
+          "a": "لا بالضرورة. الثيروكسين يُعطى في بداية وجبة الصباح، ويمكن إذابته في كمية صغيرة من حليب الأم. المشكلة تكون مع الحليب الاصطناعي الذي يحتوي على كالسيوم يقلل الامتصاص إذا أُعطي في آن واحد. اتبع تعليمات الطبيب بدقة حول توقيت الجرعة."
+        },
+        {
+          "q": "هل يؤثر قصور الغدة الدرقية الخلقي على طول القامة؟",
+          "a": "نعم إذا لم يُعالج. هرمون الغدة الدرقية ضروري للنمو الجسمي كذلك. الطفل غير المعالج يعاني من قِصر في القامة وتأخر في سن البلوغ. مع العلاج المبكر والجرعة الصحيحة، يصل معظم الأطفال إلى الطول المتوقع لهم."
+        },
+        {
+          "q": "هل نقص اليود يتسبب في قصور الغدة الدرقية الخلقي؟",
+          "a": "نعم في مناطق نقص اليود. اليود ضروري لتصنيع هرمون الغدة الدرقية، ونقصه عند الأم الحامل يمكن أن يؤثر على إنتاج الغدة الدرقية للجنين. استخدام الملح المعالج باليود وتناول مكملات الحمل التي تحتوي على اليود وقاية مهمة."
+        },
+        {
+          "q": "ماذا أفعل إذا لم يُجرَ فحص الكعب لطفلي؟",
+          "a": "اذهب إلى طبيب أطفال في أقرب وقت ممكن واطلب فحص TSH وT4 من دم الوريد. هذا الفحص البسيط يكشف قصور الغدة الدرقية إذا كان موجوداً ويمكن إجراؤه في أي عمر، لكن كلما بكّرت كلما كانت فرصة الوقاية من الضرر أكبر."
+        }
+      ]
+    },
+    "en": {
+      "title": "Congenital hypothyroidism: why the newborn heel prick matters",
+      "desc": "Congenital hypothyroidism is fully treatable if caught in the first days. How newborn screening works, what abnormal results mean, and why timing is critical.",
+      "keywords": "congenital hypothyroidism, newborn screening, heel prick test, levothyroxine, TSH, intellectual disability prevention, thyroid hormone, neonatal screening",
+      "h1": "Congenital hypothyroidism: a treatable cause of intellectual disability that screening prevents",
+      "takeaways": [
+        "Congenital hypothyroidism is the most common treatable congenital hormonal condition, affecting roughly 1 in every 2000 to 4000 newborns.",
+        "The affected baby looks completely normal at birth because the mother's thyroid hormone crosses the placenta during pregnancy.",
+        "Starting levothyroxine treatment before the end of the third week of life prevents intellectual disability almost completely.",
+        "The only way to detect it early is newborn screening in the first days of life. By the time symptoms appear, some irreversible damage may have already occurred."
+      ],
+      "sections": [
+        {
+          "h2": "What is congenital hypothyroidism?",
+          "paras": [
+            "Congenital hypothyroidism (CH) means a baby is born with a thyroid gland that does not work adequately, or that is absent. The thyroid gland produces thyroxine (T4), a hormone essential for brain development in the first years of life and for physical growth throughout childhood. Without it, both the brain and the body fail to develop normally.",
+            "In most cases, the cause is a developmental abnormality of the thyroid gland itself during fetal life. The gland may have formed in the wrong position (ectopic thyroid), be smaller than normal (hypoplastic), or be entirely absent (athyreosis). In a smaller proportion of cases, the gland is present but the enzymes needed to produce thyroid hormone do not function correctly. This second group is often inherited in an autosomal recessive pattern and can recur in siblings.",
+            "The condition affects approximately 1 in 2000 to 4000 newborns in iodine-sufficient populations. In iodine-deficient areas, which include parts of the Middle East and Africa, the rate may be higher because iodine deficiency prevents adequate hormone synthesis independently of gland structure. A 2016 study from Abu Dhabi in the UAE documented local characteristics of congenital hypothyroidism in the region, finding patterns broadly consistent with international data while noting regional features including a higher proportion of ectopic glands."
+          ]
+        },
+        {
+          "h2": "Why the newborn looks normal at first",
+          "paras": [
+            "This is the fundamental reason that newborn screening exists and why it cannot be skipped or deferred. During pregnancy, the mother's thyroid hormones cross the placenta and reach the fetus, providing enough hormone to protect fetal brain development for the duration of the pregnancy. At birth, the baby carries a reserve of maternal hormone in its circulation.",
+            "After delivery, that maternal supply is cut off. The newborn must now rely on its own thyroid gland. If the gland is absent or severely dysfunctional, circulating T4 begins to fall over the first days and weeks of life. During this early period there are no symptoms. The baby feeds, sleeps and appears healthy. Nothing in a clinical examination would raise suspicion.",
+            "As weeks pass without treatment, the falling hormone level begins to affect brain development, which is at its most intense period of activity precisely in these first months of life. The damage that accumulates is not reversible once it has occurred. Research consistently shows that treatment begun before day 13 of life is associated with the best cognitive outcomes. Delay of even a few weeks matters significantly for the child's long-term intellectual development.",
+            "Symptoms that eventually appear in an untreated infant include prolonged jaundice, feeding difficulties, excessive sleepiness, constipation, a large tongue, an umbilical hernia, slow reflexes and poor weight gain. By the time these are noticed and acted upon, meaningful cognitive damage may already have occurred. The treatment window for preventing disability is measured in days and weeks, not months."
+          ],
+          "visual": {
+            "type": "timeline",
+            "title": "What happens without early treatment",
+            "items": [
+              {"when": "Birth", "what": "Baby appears completely normal; maternal hormone still in circulation"},
+              {"when": "Days 1-3", "what": "Maternal hormone reserve begins to fall; no symptoms visible"},
+              {"when": "Week 1-3", "what": "TSH rising if thyroid is absent; still no clinical signs"},
+              {"when": "Week 4-8", "what": "Family may notice excessive sleepiness or poor feeding"},
+              {"when": "Months 3-6", "what": "Growth slowing; brain development impact beginning"},
+              {"when": "Year 1+", "what": "Intellectual and motor delay apparent if untreated"}
+            ]
+          }
+        },
+        {
+          "h2": "How newborn screening works",
+          "paras": [
+            "The standard screening method is the heel prick test, also called the newborn bloodspot screen or Guthrie test in some countries. A small drop of blood is taken by a gentle heel prick, usually between day two and day five of life. The blood is absorbed onto a filter paper card and sent to a laboratory where TSH is measured.",
+            "TSH (thyroid stimulating hormone) rises when the thyroid gland is underperforming because the pituitary gland responds by sending a stronger signal to try to stimulate it. A high TSH in the newborn's blood in the first days of life is the alert that triggers further testing. Some programmes also measure T4 directly from the same sample to increase sensitivity.",
+            "Timing is important. A sample taken in the first 24 hours may give a falsely normal result because there is a physiological surge in TSH immediately after birth that can temporarily mask the underlying deficiency. Waiting until after 48 hours produces a more reliable result. Preterm babies or sick newborns may need a repeat sample at two weeks because their TSH response is sometimes delayed or blunted by their clinical condition.",
+            "A 2020 paper in the Annals of the Academy of Medicine Singapore reviewed the evidence base for different screening strategies and confirmed that TSH-based primary screening with T4 as a backup remains the most sensitive approach for detecting primary congenital hypothyroidism in large populations."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "How the heel prick test is done",
+            "items": [
+              "Day 2 to 5: a heel warmed briefly, then a gentle lancet prick draws a few drops of blood",
+              "Drops absorbed onto special filter paper and left to dry",
+              "Card sent to national screening laboratory",
+              "Result returned in 1 to 7 days depending on local programme",
+              "Normal result: no further action needed",
+              "Abnormal result: urgent recall for confirmatory blood test and paediatric review"
+            ]
+          }
+        },
+        {
+          "h2": "What an abnormal screening result means",
+          "paras": [
+            "An abnormal heel prick result is not a confirmed diagnosis. It is an alert that needs urgent follow-up, not a cause for immediate despair. False positives occur, particularly in premature babies, infants who were unwell at the time of testing, or those whose sample was taken very early. A confirmatory venous blood sample measuring TSH and free T4 is the next step.",
+            "If the venous sample confirms elevated TSH with low free T4, treatment with levothyroxine begins as soon as possible, ideally within the same day. Treatment does not wait for imaging or genetic results. The priority is starting the hormone before more time is lost. A 2021 review in Neonatal Network confirmed that the speed of treatment initiation is among the strongest predictors of cognitive outcome.",
+            "Additional investigations follow but do not delay treatment. A thyroid ultrasound assesses the size and position of the gland. A radionuclide scan (technetium or iodine-123) can identify ectopic tissue, but access to this investigation varies across the region. Genetic testing is relevant when the enzyme-defect form is suspected, because it carries recurrence risk for future pregnancies.",
+            "A 2020 review of hypothyroidism management across GCC countries by Alzahrani and colleagues noted that while awareness and screening coverage have improved substantially in the Gulf, gaps remain in standardisation of follow-up protocols across the region."
+          ]
+        },
+        {
+          "h2": "Levothyroxine treatment: how it is given and monitored",
+          "paras": [
+            "Sodium levothyroxine (Levothyroxine or L-T4) is the synthetic thyroid hormone that replaces what the gland cannot produce. For newborns it comes in tablet form: the tablet is crushed and dissolved in a small amount of breast milk or water, then given to the baby at the start of the first morning feed. It should not be mixed into a full bottle of formula because the calcium in formula reduces absorption.",
+            "The starting dose is typically 10 to 15 micrograms per kilogram of body weight per day. The dose is adjusted as the baby grows, guided entirely by blood results rather than symptoms. In the first year, thyroid function tests are repeated frequently, roughly every one to two months, and then less often as the child stabilises.",
+            "The treatment target is to keep TSH within the normal range for the child's age, generally below 5 mIU/L in the first year of life, and to keep free T4 in the upper half of the normal range. TSH persistently above target suggests the dose needs increasing. TSH below 0.1 suggests the dose is too high, which carries its own risks to bone density and cardiac rhythm in the long run.",
+            "Levothyroxine does not cause dependence and has no harmful effects at the correct dose. It simply replaces a hormone the body cannot make enough of. Families sometimes worry about giving a newborn a daily medicine indefinitely, but it is no different in principle from an insulin-dependent diabetic child receiving insulin. Without the hormone, the child cannot develop normally; with it, development proceeds."
+          ],
+          "visual": {
+            "type": "range-scale",
+            "title": "TSH monitoring target during treatment in year one",
+            "label": "TSH",
+            "unit": "mIU/L",
+            "min": 0,
+            "max": 20,
+            "zones": [
+              {"to": 0.5, "tone": "warn", "label": "Over-treated"},
+              {"to": 5, "tone": "good", "label": "Target range"},
+              {"to": 10, "tone": "warn", "label": "Under-treated"},
+              {"to": 20, "tone": "bad", "label": "Untreated range"}
+            ],
+            "source": "Wassner AJ: Congenital Hypothyroidism, Clinics in Perinatology, 2018",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/29405999/"
+          }
+        },
+        {
+          "h2": "What to expect in the longer term",
+          "paras": [
+            "The long-term outlook for children who are screened, diagnosed and treated early is excellent. Long-term follow-up studies show that children treated from the first weeks of life reach normal or near-normal intellectual development in the great majority of cases. They attend mainstream school, develop social relationships and live independently.",
+            "Children with the most severe form of the condition, where the gland is completely absent, or those whose treatment was delayed by several weeks, may experience subtle difficulties in specific cognitive domains such as verbal memory or attention, even with otherwise well-managed treatment. This underscores why the speed of detection and treatment initiation matters so much.",
+            "Treatment is lifelong in most cases because the absent or damaged gland does not recover. In the minority of children who have a milder, potentially transient form of the condition, the paediatrician may attempt a trial off medication around age three, with close monitoring, to determine whether the thyroid has resumed adequate function. This is done only under specialist supervision with blood tests at every step.",
+            "Supporting the child's development more broadly, through language-rich interaction, reading, play and early stimulation, compounds the benefit of the medication. The families who engage actively with follow-up appointments and medication consistency tend to see the best outcomes."
+          ]
+        },
+        {
+          "h2": "Iodine in pregnancy: prevention before birth",
+          "paras": [
+            "In iodine-deficient regions, maternal iodine deficiency during pregnancy is a preventable contributor to thyroid problems in newborns. Iodine is a building block of thyroid hormone. If the mother is severely deficient, her ability to supply adequate hormone to the fetus during critical brain development periods is compromised.",
+            "The World Health Organization recommends 250 micrograms of iodine per day for pregnant and breastfeeding women, which is higher than the requirement for non-pregnant adults. Iodised salt is a population-level intervention used across much of the Middle East, but its coverage and the actual iodine content of available salt varies. Antenatal vitamins that include iodine provide a more reliable supplement for individual women.",
+            "Severe iodine deficiency causing cretinism, the most extreme form of developmental thyroid failure, has been largely eliminated where iodisation programmes are working. But mild to moderate deficiency affecting cognitive development more subtly remains a public health concern in parts of the region. A pregnant woman who is unsure about iodine intake in her diet should raise this with her antenatal care provider.",
+            "Excess iodine also carries risk. Exposure to large quantities of iodine-containing contrast agents during imaging procedures, or supplementation far above recommended levels, can suppress fetal thyroid function transiently. This is a less common concern but worth noting in regions where contrast-enhanced imaging during pregnancy is not always tightly monitored."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "See a paediatrician urgently if your newborn shows",
+            "items": [
+              "Jaundice (yellow skin or whites of eyes) lasting more than two weeks",
+              "Excessive sleepiness: hard to wake for feeds",
+              "Feeding very slowly or gaining weight poorly",
+              "Persistent constipation from the first week",
+              "An unusually large tongue or prominent navel bulge with cool skin",
+              "You are not sure whether the heel prick test was done or what the result was"
+            ]
+          }
+        },
+        {
+          "h2": "Is screening available where you are?",
+          "paras": [
+            "National newborn screening programmes covering congenital hypothyroidism are established in Saudi Arabia, UAE, Kuwait, Egypt, Jordan, Morocco, Tunisia and Algeria. In these countries, the test is performed routinely before hospital discharge or at the first outpatient visit. Families typically receive the result within a week.",
+            "In other countries in the region, particularly in settings affected by conflict or fragile health systems, routine newborn screening is not reliably available. If you are unsure whether the test was done for your baby, ask directly: was the heel prick test performed? Does it include thyroid screening? When will the result come back?",
+            "If the test was not performed and your baby is already more than a week old, do not wait for the screening system. A venous blood draw for TSH and free T4 is a simple, safe and inexpensive test that any paediatric clinic can perform. Catching the condition at two weeks rather than two months is still far better than missing it entirely.",
+            "Community awareness is itself a preventive intervention. A mother who knows about this test asks for it. Sharing this information with family members and friends who are expecting is one of the most directly useful things a person with health literacy can do."
+          ]
+        }
+      ],
+      "tie": "If your child is on congenital hypothyroidism follow-up, use Sihtak to log blood test results, medication doses and clinic appointments in one place. A clear record at every review helps the doctor adjust the dose accurately and reduces the chance of a missed follow-up.",
+      "faqs": [
+        {
+          "q": "Is congenital hypothyroidism inherited?",
+          "a": "In most cases no. The majority arise from a random developmental abnormality of the thyroid gland during fetal life, which is not inherited. A smaller proportion caused by enzyme defects in hormone production are inherited in an autosomal recessive pattern and can recur in subsequent children. Genetic testing determines which type is present."
+        },
+        {
+          "q": "Does the baby need levothyroxine for life?",
+          "a": "Usually yes, because the absent or structurally abnormal gland does not recover. In children with milder, potentially transient forms, the paediatrician may try stopping medication around age three under strict monitoring to see whether the thyroid is working adequately on its own. This is done only under specialist supervision."
+        },
+        {
+          "q": "Can congenital hypothyroidism be detected during pregnancy?",
+          "a": "Not reliably by routine antenatal screening. Occasional cases are suspected on ultrasound if the gland appears absent or displaced, but this is not part of standard antenatal care. The primary detection method is postnatal heel prick screening."
+        },
+        {
+          "q": "When exactly is the heel prick test done?",
+          "a": "Ideally between day 2 and day 5 of life. Taking it before 48 hours increases the risk of a false normal result due to the physiological TSH surge after delivery. Premature or sick babies may need a repeat test at two weeks because their TSH response can be delayed."
+        },
+        {
+          "q": "Does breastfeeding affect how the medicine is absorbed?",
+          "a": "Breast milk does not significantly interfere with levothyroxine absorption. The tablet can be crushed and dissolved in a small amount of breast milk and given at the start of the morning feed. Formula milk contains calcium which can reduce absorption, so the medicine should not be mixed into a full formula feed. Follow the specific instructions given by the prescribing doctor."
+        },
+        {
+          "q": "Does untreated congenital hypothyroidism affect height?",
+          "a": "Yes. Thyroid hormone is necessary for normal growth as well as brain development. Untreated children have short stature and delayed puberty. With early treatment at the correct dose, most children reach their expected height."
+        },
+        {
+          "q": "Does iodine deficiency cause congenital hypothyroidism?",
+          "a": "It can contribute in iodine-deficient regions. Iodine is essential for thyroid hormone synthesis, and maternal deficiency during pregnancy can impair fetal thyroid function independently of any structural problem with the gland. Using iodised salt and taking antenatal vitamins that contain iodine are sensible preventive measures."
+        },
+        {
+          "q": "What if the heel prick test was not done for my baby?",
+          "a": "Go to a paediatrician and ask for a venous blood test measuring TSH and free T4. This test is simple, safe and can be done at any age. The earlier the diagnosis, the better the outcome, so do not delay if you are uncertain whether screening was completed."
+        }
+      ]
+    }
+  }
+}

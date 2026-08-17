@@ -1,0 +1,317 @@
+{
+  "slug": "semen-analysis-explained",
+  "category": "lab-tests",
+  "chip_ar": "فهم التحاليل",
+  "chip_en": "Understanding Lab Tests",
+  "date_iso": "2026-07-22",
+  "sources": [
+    {"label": "Boitrelle F, Shah R, Saleh R et al: The Sixth Edition of the WHO Manual for Human Semen Analysis: A Critical Review and SWOT Analysis, Life (Basel, Switzerland), 2021", "url": "https://pubmed.ncbi.nlm.nih.gov/34947899/"},
+    {"label": "Boeri L, Fallara G, Pozzi E et al: The impact of different WHO reference criteria for semen analysis in clinical practice: Who will benefit from the new 2021 thresholds for normal semen parameters?, Andrology, 2022", "url": "https://pubmed.ncbi.nlm.nih.gov/35726049/"},
+    {"label": "Alshahrani S, Aldossari K, Al-Zahrani J et al: Interpretation of semen analysis using WHO 1999 and WHO 2010 reference values: Abnormal becoming normal, Andrologia, 2018", "url": "https://pubmed.ncbi.nlm.nih.gov/28771785/"},
+    {"label": "Elbardisi H, Majzoub A, Al Said S et al: Geographical differences in semen characteristics of 13 892 infertile men, Arab journal of urology, 2018", "url": "https://pubmed.ncbi.nlm.nih.gov/29713531/"},
+    {"label": "Okashah S, Abunada T, Zayed H et al: Genetic epidemiology of male infertility (MI) in Arabs: a systematic review, Reproduction, fertility, and development, 2022", "url": "https://pubmed.ncbi.nlm.nih.gov/36041737/"},
+    {"label": "de Ligny W, Smits RM, Mackenzie-Proctor R et al: Antioxidants for male subfertility, The Cochrane database of systematic reviews, 2022", "url": "https://pubmed.ncbi.nlm.nih.gov/35506389/"}
+  ],
+  "content": {
+    "ar": {
+      "title": "تحليل السائل المنوي: دليل قراءة نتيجة خصوبة الرجل",
+      "desc": "اقرأ نتيجة تحليل السائل المنوي بثقة: الحجم والعدد والحركة والشكل وفق معايير WHO، وما يعنيه تحليل واحد غير طبيعي، ومتى تحتاج تقييماً إضافياً.",
+      "keywords": "تحليل السائل المنوي, خصوبة الرجل, حركة الحيوانات المنوية, عدد الحيوانات المنوية, شكل الحيوانات المنوية, الأوليغوسبيرميا, الأزوسبيرميا, WHO تحليل السيمن, عقم الرجل, فترة الامتناع قبل التحليل",
+      "h1": "تحليل السائل المنوي: كيف تقرأ التقرير ولماذا لا يكفي تحليل واحد؟",
+      "takeaways": [
+        "تحليل السائل المنوي يقيس الحجم والعدد والحركة والشكل، وكل معامل له قيمة مرجعية منشورة من منظمة الصحة العالمية.",
+        "نتيجة واحدة غير طبيعية لا تعني العقم، لأن جودة السائل المنوي تتغير من أسبوع إلى آخر وتتأثر بالحمى والإجهاد والأدوية.",
+        "فترة الامتناع الصحيحة قبل التحليل هي من يومين إلى سبعة أيام، وهذا يؤثر على النتيجة بشكل كبير.",
+        "العامل الذكري يمثل نصف أسباب الإنجاب المتأخر تقريباً، وفحص الزوج ضروري بالتوازي مع فحص الزوجة.",
+        "بعض الأسباب قابلة للعلاج، ولهذا يهدف التقييم إلى إيجاد سبب وليس فقط وصف نتيجة."
+      ],
+      "sections": [
+        {
+          "h2": "لماذا يُطلب تحليل السائل المنوي؟",
+          "paras": [
+            "تحليل السائل المنوي (Semen Analysis) هو الاختبار الأساسي لتقييم الخصوبة لدى الرجل. يُطلب عادةً عندما تواجه الزوجان صعوبة في الإنجاب لمدة عام أو أكثر من المحاولة الطبيعية، أو لستة أشهر إذا كانت عمر المرأة فوق الخامسة والثلاثين. كما يُستخدم لمتابعة فاعلية بعض علاجات تحسين الخصوبة أو بعد العمليات الجراحية في الجهاز التناسلي.",
+            "دراسة نشرتها مجلة Arab Journal of Urology عام 2018 درست نتائج تحاليل السائل المنوي لأكثر من 13,000 رجل من مناطق عربية مختلفة ووجدت تبايناً واضحاً في جودة السائل المنوي بين المناطق، مما يؤكد أهمية مقارنة النتيجة بالمعايير الدولية المعتمدة لا بمعايير مختبر بعينه.",
+            "العامل الذكري يُساهم في نصف حالات تأخر الإنجاب تقريباً. هذه الحقيقة مهمة لأن كثيراً من الأزواج في مجتمعاتنا يبدؤون بفحص المرأة وحدها، بينما الأصح والأسرع هو فحص الطرفين في وقت واحد. تحليل السائل المنوي بسيط ولا يتضمن ألماً ويعطي صورة أولية واضحة."
+          ]
+        },
+        {
+          "h2": "كيف تُجمع العينة وما فترة الامتناع الصحيحة؟",
+          "paras": [
+            "فترة الامتناع الجنسي قبل إجراء التحليل تؤثر بشكل مباشر على النتيجة. الامتناع لمدة يومين إلى سبعة أيام هي الفترة التي تنصح بها منظمة الصحة العالمية للحصول على نتيجة تمثيلية. الامتناع أقل من يومين يقلل عدد الحيوانات المنوية في العينة، والامتناع أكثر من أسبوع يقلل حركتها ويرفع نسبة الأشكال غير الطبيعية.",
+            "العينة تُجمع عادةً في غرفة خاصة بالمختبر، ويفضل ذلك على الجمع في البيت لأن درجة الحرارة وسرعة الوصول للمختبر مهمان. إذا جُمعت في البيت، يجب إيصالها للمختبر في غضون ساعة مع الحرص على إبقائها بدرجة حرارة قريبة من حرارة الجسم (خلال الجيب مثلاً). لا يجوز استخدام الواقيات أو أي مواد تشحيم لأنها تضر بالحيوانات المنوية.",
+            "ينبغي إخبار المختبر بأي أدوية تتناولها، وبأي مرض أو ارتفاع في درجة الحرارة حدث في الأيام أو الأسابيع الماضية. الحمى ترفع درجة حرارة الخصية وتضر بإنتاج الحيوانات المنوية لمدة تصل إلى ثلاثة أشهر، وهي المدة الكاملة لدورة إنتاج الحيوان المنوي الجديد."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "كيف تتحضر لتحليل السائل المنوي",
+            "items": [
+              "أمسك عن الجماع أو الاستمناء من يومين إلى سبعة أيام فقط قبل التحليل",
+              "تجنب الساونا والحمام الساخن جداً والمجهود الشديد في الأيام السابقة",
+              "أبلغ المختبر بأي دواء تتناوله وبأي مرض حدث في الأسابيع الثلاثة الماضية",
+              "اجمع العينة في المختبر إذا أمكن، أو في البيت وأوصلها خلال ساعة قريبةً من حرارة الجسم",
+              "لا تستخدم واقيات أو مواد تشحيم أثناء جمع العينة"
+            ]
+          }
+        },
+        {
+          "h2": "ما الذي يقيسه التحليل؟ المعامَلات الأساسية",
+          "paras": [
+            "التقرير النموذجي للسائل المنوي يشمل عدة معامَلات. الحجم الإجمالي للعينة هو أولها، والقيمة الطبيعية وفق منظمة الصحة العالمية هي 1.4 ملليلتر أو أكثر. الحجم الأقل من ذلك قد يعني مشكلة في إنتاج السوائل من الغدد الإضافية كالبروستاتا والحويصلات المنوية، أو مشكلة في القنوات.",
+            "العدد الكلي للحيوانات المنوية في العينة هو المعامَل الثاني، وتبلغ القيمة المرجعية وفق دليل الجيل السادس لمنظمة الصحة العالمية الصادر عام 2021 ما لا يقل عن 39 مليون حيوان منوي في المجمل. الحركة تنقسم إلى حركة تقدمية وهي التي تتحرك للأمام، وحركة غير تقدمية، وغير متحرك. يجب أن تكون الحركة التقدمية 30 بالمئة أو أكثر وفق المعايير الأحدث.",
+            "الشكل أو المورفولوجيا هو ربما المعامَل الأصعب فهماً. يتحدث التقرير عن نسبة الحيوانات المنوية ذات الشكل الطبيعي من حيث الرأس والرقبة والذيل. في معايير WHO 2010 كانت القيمة المرجعية 4 بالمئة وفق معيار Kruger الصارم، وهو رقم يبدو منخفضاً للوهلة الأولى لكنه حقيقي لأن معيار الشكل دقيق جداً. دراسة سعودية نُشرت في Andrologia عام 2018 أوضحت الأثر الكبير الذي تحدثه التغييرات بين الإصدارات المختلفة من معايير WHO على تصنيف نتائج المرضى."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "المعامَلات الأساسية لتحليل السائل المنوي (وفق WHO 2021)",
+            "head": ["المعامَل", "القيمة المرجعية (الحد الأدنى)", "ما يعنيه الانخفاض"],
+            "rows": [
+              ["الحجم", "1.4 مل أو أكثر", "قد يشير لمشكلة في الغدد أو القنوات"],
+              ["التركيز (مليون/مل)", "16 مليون حيوان منوي/مل أو أكثر", "أوليغوسبيرميا: انخفاض العدد"],
+              ["العدد الكلي", "39 مليون في المجمل أو أكثر", "عدد إجمالي منخفض"],
+              ["الحركة التقدمية", "30% أو أكثر", "أستينوسبيرميا: ضعف الحركة"],
+              ["الشكل الطبيعي (Kruger)", "4% أو أكثر", "تيراتوسبيرميا: شكل غير طبيعي"],
+              ["الحيوية", "54% أو أكثر أحياء", "حيوية منخفضة"]
+            ]
+          }
+        },
+        {
+          "h2": "لماذا لا يكفي تحليل واحد؟",
+          "paras": [
+            "هذه القاعدة الأهم في قراءة نتيجة السائل المنوي، وهي ما يغفل عنها كثيرون. جودة السائل المنوي ليست ثابتة بل تتفاوت بصورة طبيعية من أسبوع إلى آخر، وتتأثر بعوامل مؤقتة عديدة. حمى بسيطة أصابتك قبل ثلاثة أشهر، أو ليالٍ من قلة النوم، أو فترة توتر شديد، كل ذلك قد يُظهر في التحليل نتيجة دون المستوى الطبيعي.",
+            "مراجعة نقدية شاملة نُشرت في مجلة Life عام 2021 عن الجيل السادس من دليل WHO لتحليل السائل المنوي أكدت أهمية هذا المبدأ وأن التفسير الصحيح للنتيجة لا يكتمل بتحليل واحد فقط. الإرشادات الدولية توصي بإجراء التحليل مرتين على الأقل بفاصل ثلاثة إلى أربعة أسابيع قبل اتخاذ أي قرارات علاجية كبرى.",
+            "إذا جاء التحليل الأول طبيعياً فمن المرجح أنه لا داعي لتكراره في الوقت الحالي. أما إذا كانت النتيجة دون الطبيعي، فلا تنزعج مباشرةً بل انتظر التحليل الثاني. نتيجتان متشابهتان تحت الطبيعي هي التي تستدعي تقييماً أعمق وبحثاً عن سبب."
+          ]
+        },
+        {
+          "h2": "ماذا تعني الأنماط المختلفة في التقرير؟",
+          "paras": [
+            "الأطباء يستخدمون مصطلحات طبية لوصف أنواع التغير في السائل المنوي. الأوليغوسبيرميا تعني انخفاض عدد الحيوانات المنوية. الأستينوسبيرميا تعني ضعف الحركة. التيراتوسبيرميا تعني زيادة نسبة الأشكال غير الطبيعية. وكثيراً ما تتزامن هذه الأنماط معاً، ويُسمى التقرير حينئذٍ أوليغو-أستينو-تيراتوسبيرميا أو اختصاراً OAT.",
+            "الأزوسبيرميا هي غياب الحيوانات المنوية في العينة كلياً. وهذا لا يعني بالضرورة أن الخصية لا تنتجها، لأن الغياب قد يكون انسدادياً بسبب انسداد في القنوات الناقلة قابل للعلاج الجراحي في بعض الحالات. يختلف هذا عن الأزوسبيرميا غير الانسدادية التي تعني ضعفاً في إنتاج الخصية ذاتها، وتحتاج تقييماً مختلفاً.",
+            "مراجعة منهجية نشرتها مجلة Reproduction, Fertility and Development عام 2022 عن الوبائيات الجينية لعقم الرجل في المجتمعات العربية أوضحت أن بعض الأسباب الجينية أكثر شيوعاً في هذه المجتمعات نتيجة زيادة نسب الزواج من الأقارب. هذا يجعل التقييم الجيني جزءاً مهماً من التشخيص في الحالات التي لا يُعثر لها على سبب واضح."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "warn",
+            "title": "متى تحتاج إلى تقييم متخصص أسرع؟",
+            "items": [
+              "غياب الحيوانات المنوية كلياً (أزوسبيرميا) في تحليلين متتاليين",
+              "عدد أقل من مليون حيوان منوي في المليليلتر",
+              "حركة تقدمية أقل من 10 بالمئة في تحليلين",
+              "وجود دم ظاهر في السائل المنوي",
+              "ألم في الخصية أو تضخم ملحوظ يرافق التحليل"
+            ]
+          }
+        },
+        {
+          "h2": "الأسباب الشائعة لتراجع جودة السائل المنوي",
+          "paras": [
+            "دوالي الخصية (Varicocele) هي من أكثر الأسباب القابلة للتشخيص والعلاج شيوعاً عند الرجال الذين لديهم نتائج غير طبيعية في تحليل السائل المنوي. تحدث نتيجة توسع في الأوردة المحيطة بالخصية مما يرفع درجة حرارتها باستمرار ويؤثر سلباً على إنتاج الحيوانات المنوية. يُشخَّص الدوالي بالفحص السريري أو سونار كيس الصفن، والجراحة أو التدخل الطبي لعلاجها أثبت في الدراسات تحسناً ملموساً في معامَلات السائل المنوي لدى بعض المرضى، وإن كان حجم التحسن يتباين من شخص إلى آخر.",
+            "الهرمونات تلعب دوراً أساسياً في إنتاج الحيوانات المنوية. انخفاض هرمون التستوستيرون أو اضطراب هرمونات أخرى كالـ FSH والـ LH الصادرتين من الغدة النخامية قد يقلل إنتاج الحيوانات المنوية بصورة كبيرة. لهذا السبب يطلب الطبيب في الغالب فحصاً هرمونياً شاملاً بالتوازي مع تحليل السائل المنوي. الأسباب الهرمونية كثيراً ما تكون قابلة للعلاج بأدوية محددة يصفها أخصائي المسالك البولية أو الغدد.",
+            "العوامل البيئية والسلوكية لها أثر حقيقي وموثق علمياً. التدخين يُقلل عدد الحيوانات المنوية وحركتها ويرفع نسبة الأشكال غير الطبيعية. الحرارة المزمنة كالعمل في البيئات الحارة جداً أو الجلوس لساعات طويلة بحاسوب على الحضن تضر بإنتاج الحيوانات المنوية، لأن الخصية تحتاج درجة حرارة أقل قليلاً من درجة الجسم لتعمل بشكل أمثل. بعض الأدوية تؤثر أيضاً، ومنها بعض أدوية ضغط الدم ومضادات الاكتئاب وبعض الستيرويدات الابتنائية التي يأخذها بعضهم لأغراض رياضية، ومن المهم إخبار الطبيب بكل ما تتناوله بصدق."
+          ]
+        },
+        {
+          "h2": "هل المكملات الغذائية تحسّن السائل المنوي؟",
+          "paras": [
+            "هذا سؤال يُطرح كثيراً في عيادات الخصوبة، والإجابة الأمينة هي أن الأدلة متفاوتة. مراجعة Cochrane الشاملة المنشورة عام 2022 حول أثر مضادات الأكسدة على خصوبة الرجل وجدت أن بعض المكملات قد تحسّن معامَلات السائل المنوي في تحاليل المختبر، لكن الأدلة على تحسين نسب الحمل الفعلية في الواقع لا تزال غير قاطعة. ما أثبتته الدراسات لا يعني أن المكملات كافية وحدها بديلاً عن تشخيص وعلاج السبب الأصلي، وهذه نقطة مهمة لأن كثيرين يكتفون بالمكملات دون الإجراء التشخيصي الكامل.",
+            "مضادات الأكسدة مثل فيتامين C وفيتامين E والزنك والسيلينيوم وحمض ألفا ليبويك تُستخدم على نطاق واسع في عيادات الخصوبة، وهي بشكل عام آمنة بالجرعات المعقولة. لكن تناول مكملات بجرعات مفرطة ظناً بأن الأكثر هو الأفضل خاطئ وقد يكون ضاراً. فيتامين A والسيلينيوم مثلاً لهما مستويات سمية عند الإفراط. ناقش أي مكملات مع طبيبك قبل البدء.",
+            "التعديلات في نمط الحياة أثبتت أثراً حقيقياً أيضاً. التوقف عن التدخين، والحفاظ على وزن صحي، والابتعاد عن الحرارة الشديدة المزمنة في منطقة الخصية، هذه التغييرات تستغرق ثلاثة أشهر على الأقل لترى نتائجها في التحليل لأن هذا هو الوقت الفعلي لإتمام دورة إنتاج الحيوانات المنوية كاملاً. لا تتوقع نتيجة مختلفة بعد أسبوع من التغيير وإعادة التحليل فوراً."
+          ]
+        },
+        {
+          "h2": "أسئلة تطرحها مع طبيبك",
+          "paras": [
+            "عند مراجعة نتيجة التحليل مع طبيب المسالك البولية أو أخصائي الخصوبة، من المفيد أن تسأل عن السبب المحتمل للنتيجة غير الطبيعية وما التحاليل الإضافية التي تساعد في تحديده. الفحص الهرموني الشامل لكل من FSH وLH والتستوستيرون والبرولاكتين، وفحص الكروموسومات لاستبعاد متلازمة كلاينفلتر أو غيرها من التشوهات الكروموسومية المرتبطة بعقم الرجل، والسونار على الخصيتين، وتحليل الكشف عن البكتيريا والالتهاب في السائل المنوي، كلها قد يطلبها الطبيب بحسب نمط النتيجة والتاريخ الصحي.",
+            "اسأل أيضاً عن الجدول الزمني المتوقع للتحسن إذا أُعطيت علاجاً أو نُصحت بتغييرات في نمط الحياة، وعن متى تُعيد التحليل لمتابعة التغير. التواصل الصريح مع الطبيب يختصر وقتاً طويلاً ويمنع الانتظار غير المبرر. في عيادات كثيرة في المنطقة العربية يتوقف بعض الرجال عن المتابعة بعد التحليل الأول تجنباً للحرج، وهذا يطيل مدة الوصول للتشخيص والعلاج الصحيح.",
+            "تذكر أن الإنجاب عملية مشتركة، والتقييم الكامل يشمل دائماً الطرفين. حتى إذا كانت نتيجتك طبيعية، يبقى فحص الشريكة ضرورياً لاستكمال الصورة الكاملة. والعكس صحيح تماماً: إذا كانت نتيجة الشريكة طبيعية فهذا لا يعفي من فحص الرجل كذلك. الفريق الطبي المتخصص يأخذ نتائج الطرفين معاً لاتخاذ القرار الأنسب."
+          ]
+        }
+      ],
+      "tie": "تطبيق صحتك يتيح لك حفظ نتائج تحليل السائل المنوي مع التاريخ والملاحظات الخاصة بكل تحليل. يمكنك مقارنة نتيجتين متتاليتين بوضوح ومشاركة التقرير مع طبيبك في الزيارة القادمة دون الحاجة إلى تذكر كل التفاصيل. هذا التتبع الهادئ والمنتظم يساعدك وطبيبك على رؤية التغير الحقيقي مع الوقت.",
+      "faqs": [
+        {
+          "q": "هل نتيجة السائل المنوي السيئة تعني أنني لا أستطيع الإنجاب؟",
+          "a": "لا. نتيجة دون الطبيعي تعني احتمالاً أقل لحدوث الحمل الطبيعي، لكنها لا تعني استحالته. كثير من الرجال الذين لديهم معامَلات دون الطبيعي أنجبوا بشكل طبيعي، وآخرون أنجبوا بعد العلاج أو المساعدة الطبية. السبب والدرجة وباقي العوامل تحدد الخيارات المتاحة."
+        },
+        {
+          "q": "كم مرة يُكرر التحليل قبل اتخاذ قرار علاجي؟",
+          "a": "الإرشادات الدولية توصي بإجراء تحليلين على الأقل بفاصل ثلاثة إلى أربعة أسابيع قبل تشخيص مشكلة حقيقية. نتيجة واحدة غير طبيعية قد تعكس عاملاً مؤقتاً كحمى أو إجهاد، ولا تكفي وحدها للحكم على الحالة."
+        },
+        {
+          "q": "هل تؤثر درجة الحرارة على نتيجة تحليل السائل المنوي؟",
+          "a": "نعم، بشكل كبير. ارتفاع درجة حرارة الخصية مزمناً يضر بإنتاج الحيوانات المنوية وحركتها. حتى الحمى البسيطة يمكن أن تؤثر على التحليل لمدة تصل إلى ثلاثة أشهر. لهذا ينبغي دائماً إبلاغ المختبر بأي مرض حدث في الأشهر الثلاثة الماضية."
+        },
+        {
+          "q": "هل التدخين يؤثر على السائل المنوي؟",
+          "a": "نعم. الدراسات وثّقت أن التدخين يقلل عدد الحيوانات المنوية وحركتها ويزيد نسبة الأشكال غير الطبيعية. الإقلاع عن التدخين من التغييرات القليلة المثبتة علمياً التي تُحسّن جودة السائل المنوي على المدى المتوسط."
+        },
+        {
+          "q": "هل المكملات الغذائية تُحسّن السائل المنوي فعلاً؟",
+          "a": "بعضها أظهر تأثيراً محدوداً في معامَلات السائل المنوي في دراسات معينة، لكن الأدلة على تحسين نسب الحمل الفعلية ليست قاطعة حتى الآن. لا ينبغي أن تحل المكملات محل تشخيص السبب الأصلي وعلاجه. استشر طبيبك قبل البدء بأي مكمل."
+        },
+        {
+          "q": "هل الأزوسبيرميا دائماً نهاية الطريق؟",
+          "a": "لا دائماً. الأزوسبيرميا الانسدادية تعني غياب الحيوانات المنوية بسبب انسداد في القنوات مع إنتاج طبيعي في الخصية، وهذه قابلة للعلاج الجراحي في كثير من الحالات أو يمكن استخلاص الحيوانات المنوية مباشرة من الخصية لأغراض الحقن المجهري."
+        },
+        {
+          "q": "هل يؤثر تحليل السائل المنوي على فرص الإنجاب الطبيعي أم أنه فقط للحقن المجهري؟",
+          "a": "التحليل لا يُحدد أسلوب الإنجاب بل يُقيّم الوضع ليساعد الطبيب في اختيار المسار الأنسب. النتيجة الطبيعية أو شبه الطبيعية تدعم الإنجاب الطبيعي، وكلما كانت الانحرافات عن الطبيعي أكبر كلما اتجهت الخيارات نحو المساعدة الطبية مثل تحسين الخصوبة أو الحقن المجهري."
+        },
+        {
+          "q": "هل الفترة بين التحليلين مهمة؟",
+          "a": "نعم. يجب أن تكون ثلاثة إلى أربعة أسابيع على الأقل بين التحليلين، لأن ذلك يمثل وقتاً كافياً لانتهاء أي عوامل مؤقتة مؤثرة مثل الحمى أو التوتر الشديد. التحليل بعد أسبوع واحد فقط قد لا يعطي صورة مختلفة كافية."
+        }
+      ]
+    },
+    "en": {
+      "title": "Semen analysis: how to read a male fertility report",
+      "desc": "Understand every line of a semen analysis: volume, count, motility, morphology, WHO reference values, why one abnormal result means little, and when to repeat the test.",
+      "keywords": "semen analysis, male fertility test, sperm count, sperm motility, sperm morphology, WHO semen parameters, oligospermia, azoospermia, male infertility, semen sample collection",
+      "h1": "Semen analysis: reading your report and understanding why one test is never enough",
+      "takeaways": [
+        "Semen analysis measures volume, sperm count, motility, and morphology, each with a WHO reference value.",
+        "One abnormal result does not mean infertility. Semen quality fluctuates week to week and is easily affected by illness, stress, and medicines.",
+        "The correct abstinence period before the test is two to seven days. Shorter or longer periods change the result significantly.",
+        "Male factor contributes to roughly half of all delayed conception cases, so testing both partners at the same time is more efficient than testing one first.",
+        "Many causes of poor semen quality are treatable, which is why the goal of assessment is to find a reason, not simply to describe the result."
+      ],
+      "sections": [
+        {
+          "h2": "Why is semen analysis ordered?",
+          "paras": [
+            "Semen analysis is the primary laboratory test for assessing male reproductive function. It is usually ordered when a couple has been trying to conceive for twelve months without success, or six months if the woman is over 35. It is also used to monitor the response to treatment for male subfertility, or to confirm the success of a vasectomy.",
+            "A study published in the Arab Journal of Urology in 2018 that analysed semen parameters of more than 13,000 infertile men from different Arab regions found meaningful variation in semen quality between countries. This underlines why results should be compared against internationally established reference values rather than a single laboratory's local norms.",
+            "Male factor is responsible for roughly half of all delayed conception, either alone or in combination with a female factor. Many couples in the region begin by investigating the woman while postponing the man's test, but both partners should ideally be assessed at the same time. The semen analysis is painless, straightforward, and gives a clear initial picture."
+          ]
+        },
+        {
+          "h2": "How is the sample collected, and why does the timing matter?",
+          "paras": [
+            "Abstinence before the test has a direct effect on the result. The World Health Organization recommends an abstinence period of two to seven days before the sample is collected. Shorter abstinence reduces sperm count in the sample, while abstinence longer than seven days lowers motility and increases the proportion of abnormal forms.",
+            "The sample is best collected at the laboratory in a private room, because temperature control and the time between collection and analysis both affect the result. If home collection is used, the sample must reach the laboratory within one hour and be kept close to body temperature in transit, for example carried in a shirt pocket. Do not use a condom or lubricant, as these damage sperm.",
+            "Tell the laboratory about any medicines you take, and about any fever or illness in the preceding weeks. A fever raises the temperature inside the testis and damages sperm production for up to three months, which is the full cycle time for a new generation of sperm. A result affected by a recent illness will not reflect your normal baseline."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "How to prepare for a semen analysis",
+            "items": [
+              "Abstain from ejaculation for two to seven days, not more and not less",
+              "Avoid saunas, very hot baths, and heavy exercise in the two days before",
+              "Tell the lab about all medicines and any illness or fever in the past three months",
+              "Collect at the lab if possible, or at home and deliver within one hour, kept near body temperature",
+              "Do not use condoms or lubricants during collection"
+            ]
+          }
+        },
+        {
+          "h2": "What does the report measure?",
+          "paras": [
+            "A standard semen analysis report covers several parameters. Volume is the total amount of fluid in the sample, and the reference value from the WHO sixth edition manual published in 2021 is 1.4 millilitres or more. A lower volume may point to a problem with the seminal vesicles or prostate, or to a blockage, and it is worth investigating separately.",
+            "Total sperm count in the sample should be at least 39 million per ejaculate according to the 2021 WHO values, and the concentration should be at least 16 million per millilitre. Motility is divided into progressive motility, meaning sperm that swim forward in a directed way, non-progressive motility, and immotile sperm. The reference for progressive motility is 30 percent or above.",
+            "Morphology describes the proportion of sperm with a normal shape, graded under strict Kruger criteria that assess the head, neck, and tail. The WHO 2010 reference was 4 percent normal forms, a number that surprises many patients because it seems low. A Saudi study published in Andrologia in 2018 showed how much impact the shift from earlier WHO editions to the 2010 criteria had on classifying results, with many men moving from abnormal to normal when the newer thresholds were applied. The 2021 edition has refined these values further."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Key semen parameters and WHO reference values (2021 edition)",
+            "head": ["Parameter", "Lower reference limit", "If below the limit"],
+            "rows": [
+              ["Volume", "1.4 mL or more", "May suggest gland or duct problem"],
+              ["Concentration", "16 million/mL or more", "Oligospermia: low count"],
+              ["Total sperm count", "39 million or more per ejaculate", "Low total output"],
+              ["Progressive motility", "30% or more", "Asthenospermia: poor motility"],
+              ["Normal morphology (Kruger)", "4% or more", "Teratospermia: high abnormal forms"],
+              ["Vitality", "54% or more live", "Low sperm survival"]
+            ]
+          }
+        },
+        {
+          "h2": "Why one result is not enough to decide anything",
+          "paras": [
+            "This is the most important principle in reading a semen analysis, and it is the one most often overlooked. Semen quality is not fixed. It varies naturally from week to week, and it responds to temporary stresses on the body. A mild infection three months ago, a run of poor sleep, a period of intense anxiety, or a course of antibiotics can all push a result below the normal range without reflecting a permanent problem.",
+            "A critical review published in Life in 2021 on the sixth edition of the WHO semen manual emphasised that a single result is insufficient for diagnosis and that the clinical context, including the patient's recent health history, must always accompany the numbers. International guidelines recommend at least two analyses separated by three to four weeks before making any major treatment decision.",
+            "If the first result is normal, a repeat is usually not needed immediately. If the first result is below the reference, do not draw conclusions yet. Wait for the second test. Two consistent results below normal, taken weeks apart, are what justify a more thorough investigation."
+          ]
+        },
+        {
+          "h2": "What do the named patterns mean?",
+          "paras": [
+            "Doctors use specific terms for different patterns of semen abnormality. Oligospermia means low sperm count. Asthenospermia means reduced motility. Teratospermia means a high proportion of abnormal forms. These often occur together, and when all three are present the report may use the combined term OAT syndrome, meaning oligoasthenoteratospermia.",
+            "Azoospermia means no sperm are found in the ejaculate at all. This does not automatically mean the testes are not producing sperm. Obstructive azoospermia occurs when sperm are produced normally but cannot travel through the reproductive tract because of a blockage. This can sometimes be corrected surgically or sperm can be retrieved directly from the testis for use in ICSI. Non-obstructive azoospermia, where the testis itself is not producing sperm, requires a different evaluation pathway.",
+            "A systematic review published in Reproduction, Fertility and Development in 2022 on the genetic epidemiology of male infertility in Arab populations found that certain genetic causes of male infertility are more prevalent in these communities, partly related to higher rates of consanguineous marriage. Genetic testing is therefore a relevant part of the workup when no obvious cause is found on standard assessment."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "warn",
+            "title": "See a specialist promptly if you find",
+            "items": [
+              "No sperm at all (azoospermia) on two separate tests",
+              "Sperm concentration below one million per millilitre",
+              "Progressive motility below 10 percent on two tests",
+              "Blood visible in the semen sample",
+              "Testicular pain or noticeable swelling alongside the result"
+            ]
+          }
+        },
+        {
+          "h2": "Common causes of poor semen quality",
+          "paras": [
+            "Varicocele, an enlargement of the veins surrounding the testis, is one of the most common identifiable and treatable causes of male subfertility. The dilated veins raise the temperature inside the scrotum, which impairs sperm production. Studies have shown that treating a varicocele surgically or through a minimally invasive procedure improves semen parameters in a proportion of men, and sometimes improves natural conception rates.",
+            "Hormonal imbalances play a major role. Low testosterone or abnormal levels of FSH and LH can reduce sperm production. This is why a doctor usually orders a hormone panel alongside the semen analysis. Hormonal causes are often correctable with appropriate treatment.",
+            "Lifestyle factors carry real weight. Smoking has a documented negative effect on sperm count, motility, and morphology. Chronic heat exposure, whether from working in a hot environment, regular saunas, or habits like keeping a laptop on the lap for hours, damages sperm production because the testis functions best a few degrees below core body temperature. Some medicines also affect semen quality, including certain blood pressure drugs, antidepressants, and anabolic steroids. Always give your doctor a full list of what you take."
+          ]
+        },
+        {
+          "h2": "Do supplements actually help?",
+          "paras": [
+            "This is one of the most asked questions in fertility clinics, and the honest answer is that the evidence is mixed. A comprehensive Cochrane review published in 2022 on antioxidants for male subfertility found that some supplements may improve semen parameters in certain studies, but evidence that they actually improve pregnancy rates is not yet conclusive. Supplements should not substitute for diagnosing and treating the underlying cause.",
+            "Antioxidants such as vitamin C, vitamin E, zinc, and selenium are widely used and are generally safe at reasonable doses. Taking them at very high doses on the assumption that more is better is wrong and can be harmful. Discuss any supplement with your doctor before starting, and be clear about the dose.",
+            "Lifestyle changes are better supported by evidence. Stopping smoking, reaching a healthy weight, reducing alcohol intake, and avoiding prolonged heat exposure to the groin area all have a plausible positive effect on semen quality. These changes take a minimum of three months to show in a semen test, because that is how long a full sperm production cycle takes."
+          ]
+        },
+        {
+          "h2": "Questions to bring to your doctor",
+          "paras": [
+            "When reviewing your result with a urologist or fertility specialist, it helps to ask what the likely cause might be based on the pattern of the result, and what additional tests would clarify this. A hormone panel including FSH, LH, testosterone, and prolactin, chromosome testing to exclude conditions such as Klinefelter syndrome, a scrotal ultrasound, and a semen culture for bacterial infection are all investigations the doctor may want to add depending on your specific findings and health history.",
+            "Ask about the expected timeline for improvement if treatment or lifestyle changes are recommended, and about when to repeat the semen analysis to track progress. Clear communication shortens the total time to a diagnosis and avoids months of unnecessary waiting. In many regional fertility clinics, men sometimes disengage after the first abnormal result out of embarrassment, which only delays the path to effective treatment.",
+            "Remember that conception is a shared process, and complete evaluation always involves both partners. Even if your semen analysis is normal, investigating your partner is still necessary to complete the picture. The reverse is equally true: a normal result for your partner does not remove the need for your own assessment. The fertility team uses both sets of results together to decide on the most appropriate next step for the couple."
+          ]
+        }
+      ],
+      "tie": "The Sihtak app lets you store semen analysis results over time, with the date, the abstinence period, and any notes about your recent health. Comparing two consecutive results side by side gives you and your doctor a clearer picture of any change, whether for better or worse. Keeping this record in one place saves time at every clinic visit.",
+      "faqs": [
+        {
+          "q": "Does a poor semen result mean I cannot have children?",
+          "a": "No. A below-normal result means a lower probability of natural conception, but not an impossibility. Many men with sub-optimal parameters conceive naturally, and others do so after treatment or assisted reproduction. The specific pattern and severity of the finding, along with the partner's assessment, determines the realistic options."
+        },
+        {
+          "q": "How many tests do I need before a treatment decision is made?",
+          "a": "International guidelines recommend at least two semen analyses separated by three to four weeks before diagnosing a genuine problem. A single abnormal result may reflect a temporary factor such as a recent illness, and is not sufficient to draw firm conclusions."
+        },
+        {
+          "q": "Does temperature really affect the sperm count?",
+          "a": "Yes, significantly. The testis needs to stay slightly cooler than core body temperature to produce sperm efficiently. Chronic heat from saunas, hot baths, or hot working environments impairs production. A fever can affect semen quality for up to three months, which is why you should always mention any recent illness when giving a sample."
+        },
+        {
+          "q": "Does smoking affect semen quality?",
+          "a": "Yes. Multiple studies have linked smoking to lower sperm count, reduced motility, and higher rates of abnormal morphology. Stopping smoking is one of the lifestyle changes with the clearest evidence of benefit for semen quality, though the improvement takes at least three months to appear in testing."
+        },
+        {
+          "q": "Is azoospermia the end of the road for fertility?",
+          "a": "Not always. Obstructive azoospermia means sperm are produced normally in the testis but cannot pass through because of a blockage. This can sometimes be corrected surgically, or sperm can be retrieved directly from the testis for use in ICSI. Non-obstructive azoospermia, where the testis itself is not producing sperm, requires a different approach but options may still exist depending on the cause."
+        },
+        {
+          "q": "Do supplements improve semen quality?",
+          "a": "Some supplements, particularly antioxidants, have shown modest improvements in semen parameters in certain studies, but the evidence that they improve actual pregnancy rates is not conclusive. They should be discussed with a doctor and should not replace investigation and treatment of an underlying cause."
+        },
+        {
+          "q": "How long after a vasectomy should I test to confirm success?",
+          "a": "Most guidelines recommend a semen analysis around eight to twelve weeks after a vasectomy, or after approximately twenty ejaculations, to confirm that no sperm remain. Your surgeon will give you specific timing guidance based on their usual protocol."
+        },
+        {
+          "q": "My partner's tests are all normal. Do I still need to be tested?",
+          "a": "Yes, absolutely. Male factor contributes to roughly half of all cases of delayed conception, and having a partner with normal results tells you nothing about your own semen quality. Both partners need to be assessed to get a complete picture and choose the right next step."
+        }
+      ]
+    }
+  }
+}

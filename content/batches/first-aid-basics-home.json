@@ -1,0 +1,379 @@
+{
+  "slug": "first-aid-basics-home",
+  "category": "lifestyle",
+  "chip_ar": "نمط الحياة",
+  "chip_en": "Lifestyle",
+  "date_iso": "2026-07-28",
+  "sources": [
+    {
+      "label": "Singletary EM, Zideman DA, Bendall JC et al: 2020 International Consensus on First Aid Science With Treatment Recommendations, Circulation, 2020",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33084394/"
+    },
+    {
+      "label": "Holbert MD, Singer Y, Palmieri T et al: Cool Running Water as a First Aid Treatment for Burn Injuries, Annals of emergency medicine, 2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40985917/"
+    },
+    {
+      "label": "Djorv T, Douma M, Palmieri T et al: Duration of cooling with water for thermal burns as a first aid intervention: A systematic review, Burns: journal of the International Society for Burn Injuries, 2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34916091/"
+    },
+    {
+      "label": "Ranjous Y, Al Balkhi A, Alnader I et al: Knowledge and misconceptions of choking and first-aid procedures among Syrian adults: A cross-sectional study, SAGE open medicine, 2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38725922/"
+    },
+    {
+      "label": "Charlton NP, Swain JM, Brozek JL et al: Control of Severe, Life-Threatening External Bleeding in the Out-of-Hospital Setting: A Systematic Review, Prehospital emergency care, 2021",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32208060/"
+    },
+    {
+      "label": "Pek JH: Guidelines for Bystander First Aid 2016, Singapore medical journal, 2017",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28740997/"
+    }
+  ],
+  "content": {
+    "ar": {
+      "title": "الإسعافات الأولية في المنزل: الحالات التي تهم",
+      "desc": "كيف تتصرف صح عند الاختناق والحروق والنزيف والإغماء والتشنجات. تصحيح للعلاجات الشعبية الخاطئة التي تضر بدل أن تنفع.",
+      "keywords": "إسعافات أولية, اختناق, حرق, نزيف, إغماء, تشنجات, حوادث المنزل, طوارئ منزلية, إسعافات منزلية, أخطاء إسعافات أولية",
+      "h1": "الإسعافات الأولية في المنزل: ما تفعله في الدقائق الأولى يُحدث الفارق",
+      "takeaways": [
+        "الاختناق يتطلب ضربات على الظهر وضغطات على البطن، وليس الإدخال العشوائي لليد في الفم.",
+        "الحروق تُبرّد بماء بارد جار لمدة 20 دقيقة، وليس بالزيت أو معجون الأسنان أو الثلج.",
+        "النزيف الشديد يتوقف بضغط مباشر ثابت بقماش نظيف، لا بتغيير القطعة المبللة بالدم.",
+        "الشخص المُغمى عليه يُوضع على جانبه إذا كان يتنفس، ولا يُعطى أي شيء ليشرب.",
+        "خلال نوبة تشنج، لا تضع أي شيء في فم الشخص، بل حرره من الأذى وانتظر حتى تنتهي."
+      ],
+      "sections": [
+        {
+          "h2": "الاختناق: ماذا تفعل وما لا تفعله أبدا؟",
+          "paras": [
+            "الاختناق يحدث حين يعلق جسم ما في الحلق ويسد مجرى الهواء. العلامات الواضحة هي عدم القدرة على الكلام أو البكاء أو الكحة الفعلية، وقد يمسك الشخص رقبته بيديه تلقائيا، وقد يتحول لون وجهه إلى أحمر داكن أو أزرق. الاختناق الصامت، حين لا يصدر أي صوت، هو الأشد خطرا.",
+            "دراسة نشرت عام 2024 في مجلة SAGE Open Medicine على بالغين سوريين وجدت أن نسبة كبيرة منهم يعتقدون خطأ أن إدخال اليد في فم الشخص المختنق هو الإجراء الصحيح. هذا الفعل خطير لأنه قد يدفع الجسم الغريب أعمق ويزيد الانسداد. ما يجب فعله بدلا من ذلك هو خمس ضربات قوية على الظهر بين الكتفين بكف مفتوحة، ثم إذا لم تنجح، خمس ضغطات بطنية (يُعرف هذا بمناورة هيمليك Heimlich).",
+            "لتنفيذ الضغطة البطنية: قف خلف الشخص وضع ذراعيك حول خصره. اجعل يدا مشكّلة قبضة وضعها على البطن فوق السرة وتحت عظمة الصدر مباشرة. تمسك بها بيدك الأخرى ثم اضغط للداخل وللأعلى بشكل حاد. كرر حتى يخرج الجسم أو يبدأ الشخص بالسعال. إذا فقد الوعي، ضعه على الأرض واستدع الإسعاف فورا وابدأ الإنعاش القلبي الرئوي إذا كنت تعرفه."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "الخطوات الصحيحة عند الاختناق لدى البالغين",
+            "items": [
+              "تأكد أن الشخص يختنق فعلا: لا يستطيع الكلام ولا الكحة ولا التنفس",
+              "اطلب من شخص آخر الاتصال بالإسعاف فورا",
+              "اميل الشخص للأمام قليلا وأعط 5 ضربات قوية على الظهر بين الكتفين بكف مفتوحة",
+              "إذا لم تنجح، قف خلفه وضع قبضتك فوق سرته وتحت عظمة الصدر",
+              "أمسك القبضة بيدك الأخرى واضغط بشكل حاد للداخل وللأعلى 5 مرات",
+              "كرر تناوب الضربات والضغطات حتى يُطرد الجسم أو يفقد الشخص وعيه",
+              "إذا فقد الوعي: أضجعه وابدأ الإنعاش القلبي الرئوي إذا كنت مدربا عليه"
+            ]
+          }
+        },
+        {
+          "h2": "الحروق: لماذا الزيت والثلج والمعجون أخطاء خطيرة؟",
+          "paras": [
+            "من أشيع المعتقدات الخاطئة في منطقتنا أن الحرق يُعالج بوضع الزيت أو الزبدة أو معجون الأسنان أو الثلج أو الدقيق على الجلد المحروق. جميع هذه المواد ضارة. الزيت والزبدة يحبسان الحرارة داخل الجلد بدلا من تبريده، ومعجون الأسنان يحتوي على مكونات تُهيّج الجلد المتضرر، والثلج يُسبب إضافة ضرر الصقيع للجلد الذي تضرر أصلا.",
+            "الطريقة الصحيحة الوحيدة لإسعاف الحرق في الدقائق الأولى هي الماء البارد الجاري. صنفّت مراجعة منهجية نشرت عام 2022 في مجلة Burns الأدلة المتاحة وخلصت إلى أن التبريد بالماء الجاري البارد لمدة 20 دقيقة متواصلة يُقلل العمق النهائي للحرق ومدة التئامه. وأكدت دراسة في Annals of Emergency Medicine عام 2026 فاعلية هذا النهج البسيط. هذه الـ 20 دقيقة كاملة وليست دقيقتين أو خمسا.",
+            "أزل أي ملابس أو مجوهرات من المنطقة المحروقة قبل أن تنتفخ، لكن لا تنزع أي شيء عالق بالجلد. غطِّ الحرق بعد التبريد بغطاء نظيف ومعقم أو رقعة تحروق (إن وجدت). لا تكسر أي فقاعات. ابحث عن الرعاية الطبية إذا كان الحرق أكثر من حجم راحة يدك، أو على الوجه أو اليدين أو المنطقة التناسلية، أو إذا بدا أبيض أو أسود اللون."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "لا تضع أبدا على الحرق أيا من هذه المواد",
+            "items": [
+              "زيت أو زبدة أو سمن: تحبس الحرارة وتزيد الضرر",
+              "معجون أسنان: يُهيّج الجلد ويزيد الألم",
+              "ثلج أو ماء متجمد: يُسبب تلف الأنسجة بالصقيع",
+              "دقيق أو أي مسحوق: يُلصق بالجلد ويعقّد العلاج",
+              "رذاذ الشعر أو الكحول: مهيّجان وقابلان للاشتعال"
+            ]
+          }
+        },
+        {
+          "h2": "النزيف: الضغط هو الحل وليس التغيير المستمر للضمادة",
+          "paras": [
+            "الخطأ الأكثر شيوعا عند النزيف هو رفع القطعة المضغوطة للنظر هل توقف النزيف. هذا يُفسد التخثر الذي بدأ يتكون ويجعل النزيف يعود أو يشتد. الضغط يجب أن يكون مستمرا وثابتا لمدة لا تقل عن عشر دقائق دون رفع اليد للنظر.",
+            "ضع قطعة قماش نظيفة أو شاشة معقمة على الجرح مباشرة واضغط بثبات بيدك أو بيد المصاب نفسه. إذا تشبّعت القطعة بالدم، أضف طبقة فوقها ولا تنزع الأولى. رفع الطرف المصاب فوق مستوى القلب يُساعد على تباطؤ النزيف. إذا كان النزيف من طرف وكان غزيرا جدا، يمكن استخدام رباط إيقاف النزيف (Tourniquet) إذا توفر وعرفت استخدامه.",
+            "توجه فورا إلى الطوارئ أو اتصل بالإسعاف إذا كان النزيف لا يتوقف بعد عشر دقائق من الضغط المستمر، أو إذا كان الجرح عميقا أو واسعا أو في منطقة حساسة كالرقبة والبطن والصدر. فقدان الدم الكثير يُسبب الصدمة (Shock) التي تظهر بعلامات مثل الشحوب والتعرق البارد وتسارع القلب والارتباك."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "إيقاف النزيف الشديد خطوة بخطوة",
+            "items": [
+              "ارتدِ قفازات إن أمكن لحماية نفسك من الدم",
+              "ضع قماشا نظيفا أو شاشة معقمة مباشرة على الجرح",
+              "اضغط بثبات وثقل دون رفع اليد لمدة 10 دقائق كاملة",
+              "إذا تشبّعت الضمادة، أضف طبقة فوقها ولا تنزع الأولى",
+              "ارفع الطرف المصاب فوق مستوى القلب إذا أمكن",
+              "إذا لم يتوقف النزيف بعد 10 دقائق، اتصل بالإسعاف فورا"
+            ]
+          }
+        },
+        {
+          "h2": "الإغماء: لماذا لا تعطيه ماء بينما هو على الأرض؟",
+          "paras": [
+            "الإغماء هو فقدان وعي مؤقت قصير عادة سببه انخفاض مفاجئ في تدفق الدم للدماغ. قد يكون سببه الوقوف طويلا في حر أو جوع أو توتر شديد أو ارتفاع حاد في درجة الحرارة. غالبا يُسبق بدوار وشحوب وتعرق بارد وطنين في الأذنين.",
+            "إذا أدركت أن شخصا على وشك الإغماء، اجعله يجلس ويضع رأسه بين ركبتيه، أو أضجعه على الأرض ورفع قدميه قليلا. هذا يُسرع عودة الدم للدماغ. إذا أُغمي عليه فعلا، ضعه على جانبه (وضعية الإنعاش الجانبية) للحفاظ على مجرى الهواء مفتوحا وتفادي الاختناق إذا تقيأ. لا تضع أي شيء في فمه ولا تعطيه شيئا ليشرب وهو غير واعٍ.",
+            "معظم نوبات الإغماء تنتهي في دقيقة إلى دقيقتين وينتعش الشخص بسرعة. لكن ابحث عن رعاية طبية إذا استمر فقدان الوعي أكثر من دقيقتين، أو إذا لم يتذكر الشخص ما حدث، أو إذا كان هناك إصابة في الرأس بسبب السقوط، أو إذا اشتكى من ألم في الصدر أو خفقان قبل الإغماء."
+          ]
+        },
+        {
+          "h2": "نوبات التشنج: الصبر وتأمين المحيط، لا أكثر",
+          "paras": [
+            "نوبة التشنج (Seizure) تبدو مخيفة وتستدعي تصرفا هادئا ومحددا. الخطأ الأكثر شيوعا في منطقتنا هو محاولة إدخال شيء في فم الشخص المتشنج، سواء ملعقة أو إصبع أو قضيب لمنعه من عض لسانه. هذا المعتقد خاطئ تماما وخطير: الشخص لا يبلع لسانه أثناء التشنج، هذا مستحيل تشريحيا. لكن وضع أي شيء في فمه قد يكسر أسنانه أو يكسر أصابعك أو يُسبب اختناقا. تجنب هذا الخطأ الشائع تماما.",
+            "ما يجب فعله: حرر محيطه من الأشياء الصلبة التي قد يصطدم بها كالطاولات والكراسي. ضع شيئا ناعما كوسادة أو طية من ملابس تحت رأسه إن أمكن. أميله على جانبه برفق إذا أمكن لتسهيل التنفس وتفادي استنشاق أي قيء في حال حدوثه. لا تقيّد حركته ولا تمسك أطرافه وتحاول منع اهتزازها لأن ذلك يُسبب إصابات. ابقَ بقربه وراقبه وقِس وقت النوبة إذا أمكن. استدع الإسعاف إذا كانت النوبة أول مرة في حياته أو إذا استمرت أكثر من خمس دقائق.",
+            "بعد انتهاء النوبة، سيكون الشخص مرتبكا ومتعبا وقد لا يعرف ما حدث. هذا طبيعي تماما ويُسمى المرحلة ما بعد التشنجية وقد تستمر من دقائق إلى نصف ساعة. أبقَ معه وتحدث إليه بهدوء وطمئنه وامنحه وقتا. لا تعطيه طعاما أو شرابا حتى يستعيد وعيه الكامل واستعادة القدرة على البلع. أبلغ طبيبه بتفاصيل النوبة: مدتها، وكيف بدت حركات جسمه، وهل كان واعيا قبلها وما الذي كان يفعله."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "اتصل بالإسعاف فورا في هذه الحالات",
+            "items": [
+              "نوبة التشنج مستمرة أكثر من 5 دقائق",
+              "الشخص لا يتعافى بعد 10 دقائق من انتهاء التشنج",
+              "نوبة أولى لم تحدث من قبل",
+              "المصاب حامل أو مريض بالسكري أو تعرض لإصابة رأس",
+              "نوبة في الماء أو بعد الغرق"
+            ]
+          }
+        },
+        {
+          "h2": "حوادث الأطفال الأكثر شيوعا في المنزل",
+          "paras": [
+            "الأطفال الصغار في عمر الزحف والمشي يبتلعون أشياء صغيرة بدون أعراض واضحة في أحيان كثيرة. إذا بلع طفلك جسما غريبا وبدا بخير ولا يختنق ولا يبكي بطريقة غير اعتيادية، اتصل بطبيبه أو بالطوارئ لاستشارتهم. كثيرا ما تمر الأجسام الصغيرة المستديرة كالعملات المعدنية وحدها، لكن أجسام البطاريات القرصية خطر حقيقي تستوجب طوارئ فورية.",
+            "السقوط من ارتفاع، حتى ارتفاع بسيط كالسرير، يستحق فحصا دقيقا للطفل. إذا كان فاقدا للوعي حتى لبرهة، أو بكاء غير معتاد مستمر، أو تقيؤ متكرر، أو أن الطفل يمتنع عن تحريك طرف ما، فهذه علامات تستوجب عرضه على الطبيب فورا دون تأخير.",
+            "الحروق عند الأطفال تستحق رعاية أسرع لأن جلدهم أرق وأكثر حساسية. أي حرق يتجاوز حجم راحة يد الطفل نفسه يستوجب التوجه للطوارئ بعد التبريد بالماء البارد. لا تُطبق أي مراهم أو أدوية على حرق طفل دون توجيه طبي."
+          ]
+        },
+        {
+          "h2": "ما يجب أن يكون في صندوق الإسعافات الأولية في كل بيت",
+          "paras": [
+            "صندوق إسعافات أولية منزلي بسيط لا يحتاج أن يكون مكلفا ويمكن تجميعه من الصيدلية بسهولة. المحتويات الأساسية: شاش معقم وضمادات لاصقة (بلاستر) بأحجام مختلفة، قطن طبي، محلول بيتادين لتنظيف الجروح الصغيرة، مقص طبي صغير، ملقط، رباط ضغط مرن، دواء لخفض الحرارة ومسكن بسيط مثل الباراسيتامول، وقائمة مكتوبة بأرقام الطوارئ والإسعاف المحلية وطبيب الأسرة.",
+            "احرص على تخزين الصندوق في مكان ثابت يعرفه كل البالغين في المنزل، بعيدا عن متناول الأطفال الصغار لكن في متناول الكبار بسرعة عند الحاجة. وضعه في الحمام أو الدولاب المطبخي العلوي خيار شائع. تفقّد محتوياته كل ستة أشهر وجدد ما انتهت صلاحيته. كثير من الأدوية تضعف فاعليتها بعد انتهاء صلاحيتها، وبعض الضمادات تفقد معقمتها إذا بليت عبوتها.",
+            "تعلّم الإنعاش القلبي الرئوي الأساسي (CPR) إذا أتيحت لك الفرصة، لأنه مهارة تُنقذ حياة وليست حكرا على الأطباء والمسعفين. دورات الإسعافات الأولية متاحة في كثير من المستشفيات والمراكز الصحية ومنظمات الهلال الأحمر في مصر والأردن والسعودية والإمارات وغيرها. الشخص الذي يعرف ما يفعله في الدقائق الأولى يكون أقل ذعرا وأكثر فاعلية في لحظة اتخاذ قرار سريع يُحدث الفارق."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "محتويات صندوق الإسعافات الأولية المنزلي الأساسي",
+            "head": ["المادة", "الاستخدام", "ملاحظة"],
+            "rows": [
+              ["شاش معقم وضمادات", "تغطية الجروح", "عدة أحجام"],
+              ["بلاستر لاصق", "جروح صغيرة", "أحجام مختلفة"],
+              ["بيتادين أو ماء أكسجيني", "تنظيف الجروح", "لا تستخدم الكحول على جرح مفتوح"],
+              ["رباط مرن", "ضغط وتثبيت", "مفيد للالتواءات"],
+              ["دواء خافض للحرارة", "حرارة مرتفعة", "تحقق من جرعة الأطفال"],
+              ["قائمة أرقام الطوارئ", "الاتصال السريع", "اكتبها بخط واضح"]
+            ]
+          }
+        },
+        {
+          "h2": "متى تتصل بالإسعاف ومتى تذهب بنفسك للطوارئ؟",
+          "paras": [
+            "اتصل بالإسعاف فورا ولا تحاول النقل بنفسك في الحالات التالية: إذا كان الشخص فاقدا للوعي أو يصعب عليه التنفس، أو يُعاني ألما شديدا في الصدر، أو أصيب بصدمة قوية في الرأس أو العمود الفقري، أو إذا كان النزيف غزيرا لا يتوقف بالضغط. في هذه الحالات الحركة والنقل غير المتخصص قد يزيدان الضرر بشكل خطير، خاصة في إصابات العمود الفقري حيث يمكن لحركة خاطئة أن تُسبب شللا.",
+            "يمكنك نقل المصاب بسيارتك إلى أقرب طوارئ في حالات أخف: جرح يحتاج خياطة لكن النزيف تحت السيطرة بالضغط، حرق محدود بعد تبريده 20 دقيقة، كسر محتمل في طرف بعد تثبيته بسيط لمنع الحركة. في هذه الحالات أبلغ الطوارئ عبر الهاتف أثناء توجهك ليكونوا على استعداد عند وصولك.",
+            "في مناطق كثيرة من سوريا والعراق وليبيا واليمن قد يكون الإسعاف بطيئا أو غير متاح أصلا. في هذا الواقع، معرفة الإسعافات الأولية ليست تحسينا للسلامة فحسب، بل قد تكون الفارق الوحيد بين النجاة وعدمها. تعلّم هذه المهارات وعلّمها لأبنائك وجيرانك. المجتمع المتعلم يحمي نفسه."
+          ]
+        }
+      ],
+      "tie": "مع تطبيق صحتك يمكنك حفظ أرقام الطوارئ المحلية وبيانات مجموعة الدم والحساسيات لكل فرد في الأسرة، وجعلها في متناول يدك في أي وقت. المساعد الذكي يُجيب على أسئلتك الطبية اليومية ويُساعدك على تقييم ما إذا كان الوضع طارئا أم يمكن الانتظار. ثق بنفسك في الدقائق الأولى، وابن معرفتك اليوم.",
+      "faqs": [
+        {
+          "q": "هل يجب وضع معجون الأسنان على الحروق لتبريدها؟",
+          "a": "لا. معجون الأسنان يحتوي على مكونات تُهيّج الجلد المحروق وتزيد الألم وتُعقّد العلاج الطبي لاحقا. الطريقة الصحيحة الوحيدة هي الماء البارد الجاري لمدة 20 دقيقة متواصلة. هذا ما تُوصي به الأبحاث الحديثة بشكل واضح."
+        },
+        {
+          "q": "هل أضع شيئا في فم الشخص المتشنج لمنعه من عض لسانه؟",
+          "a": "لا تضع أي شيء في فمه. الشخص لا يبتلع لسانه أثناء التشنج. وضع الأشياء في الفم خطر حقيقي: يمكن أن يكسر الأسنان، يُؤذي أصابعك، أو يُسبب اختناقا. ما تفعله هو تأمين محيطه ووضعه على جانبه إن أمكن."
+        },
+        {
+          "q": "كيف أفرق بين الإغماء وشيء أخطر؟",
+          "a": "الإغماء البسيط يتعافى منه الشخص خلال دقيقتين وعادة يتذكر ما حدث. اطلب رعاية طبية عاجلة إذا: استمر فقدان الوعي أكثر من دقيقتين، أو كان مصحوبا بألم صدر أو خفقان قبله، أو كان عقب إصابة في الرأس، أو إذا كان المصاب مريضا بالقلب أو السكري."
+        },
+        {
+          "q": "ما الفرق بين الحرق من الدرجة الأولى والثانية والثالثة؟",
+          "a": "الدرجة الأولى: احمرار وألم فقط على السطح مثل حرق الشمس. الدرجة الثانية: ظهور فقاعات وألم شديد. الدرجة الثالثة: جلد أبيض أو أسود لا يُؤلم لأن الأعصاب تضررت. الدرجة الثانية والثالثة تحتاجان رعاية طبية عاجلة دائما."
+        },
+        {
+          "q": "هل يمكن إعطاء شخص مغمى عليه ماء ليفيق؟",
+          "a": "لا أبدا. إعطاء شخص غير واعٍ أي سائل يُعرّضه لخطر استنشاقه لرئتيه مما يُسبب ما يُعرف بالاختناق الاستنشاقي. ضعه على جانبه إذا كان يتنفس وانتظر حتى يُفيق وحده."
+        },
+        {
+          "q": "متى تُغيّر الضمادة عند النزيف؟",
+          "a": "لا تُغيّر الضمادة الأولى. إذا تشبّعت بالدم، أضف طبقة جديدة فوقها واستمر في الضغط. رفع الضمادة الأولى يُفسد التخثر ويعيد النزيف. أضغط 10 دقائق كاملة دون رفع اليد. بعد التوقف، غطِّ الجرح بضمادة نظيفة للحفاظ عليه."
+        },
+        {
+          "q": "ماذا أفعل إذا ابتلع طفلي بطارية قرصية؟",
+          "a": "هذه حالة طارئة حقيقية. البطاريات القرصية تُسبب حرقا كيميائيا خطيرا في المريء في غضون ساعات. لا تُعطِ الطفل طعاما أو شرابا وتوجه فورا إلى أقرب طوارئ دون انتظار. أخبر الطاقم الطبي بنوع البطارية إن عرفت."
+        }
+      ]
+    },
+    "en": {
+      "title": "Home First Aid: the Situations That Matter Most",
+      "desc": "Choking, burns, bleeding, fainting, and seizures: what to do and what not to do. Corrects the dangerous folk remedies for burns that are widespread across the region.",
+      "keywords": "home first aid, choking treatment, burn first aid, how to stop bleeding, fainting first aid, seizure first aid, toothpaste on burns wrong, Heimlich maneuver, first aid mistakes",
+      "h1": "Home First Aid: What You Do in the First Minutes Makes the Real Difference",
+      "takeaways": [
+        "Choking requires back blows and abdominal thrusts, not reaching into the mouth, which can push the blockage deeper.",
+        "Burns must be cooled under cool running water for 20 minutes. Oil, toothpaste, butter, and ice all make burns worse.",
+        "Severe bleeding is controlled by steady direct pressure with a clean cloth. Do not lift the cloth to check, add a second layer instead.",
+        "An unconscious but breathing person should be placed on their side. Never give them anything to drink.",
+        "During a seizure, do not put anything in the person's mouth. Protect them from their surroundings and wait for it to end."
+      ],
+      "sections": [
+        {
+          "h2": "Choking: what to do and what never to do",
+          "paras": [
+            "Choking occurs when an object blocks the airway. The clearest signs are that the person cannot speak, cry, or cough effectively. They may instinctively grab their throat with both hands. Their face may turn dark red or blue. Silent choking, where no sound at all comes out, is the most dangerous because it is the most complete obstruction.",
+            "A 2024 cross-sectional study published in SAGE Open Medicine surveyed adults in Syria and found that a significant proportion incorrectly believed that reaching into the choking person's mouth was the right response. This is dangerous: fingers can push the object deeper. The correct sequence is five firm back blows between the shoulder blades with an open palm, then if those do not work, five abdominal thrusts using the Heimlich maneuver.",
+            "To deliver abdominal thrusts: stand behind the person and wrap your arms around their waist. Make a fist with one hand and place it thumb-side in against the abdomen, just above the navel and below the breastbone. Grasp the fist with your other hand and thrust sharply inward and upward. Repeat until the object is expelled or the person loses consciousness. If they become unconscious, lower them to the floor, call for emergency services, and begin CPR if you are trained."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "Correct steps for choking in adults",
+            "items": [
+              "Confirm the person is truly choking: they cannot speak, cough, or breathe",
+              "Ask someone else to call emergency services immediately",
+              "Lean them slightly forward and give 5 firm back blows between the shoulder blades",
+              "If the blows do not work, stand behind them and place your fist above the navel",
+              "Grasp your fist with the other hand and thrust sharply inward and upward 5 times",
+              "Alternate 5 back blows and 5 abdominal thrusts until the object clears",
+              "If they lose consciousness: lower them to the ground and begin CPR if trained"
+            ]
+          }
+        },
+        {
+          "h2": "Burns: why oil, toothpaste, and ice cause real harm",
+          "paras": [
+            "Applying oil, butter, toothpaste, ice, or flour to a burn is common practice across many parts of the Arab world. Every one of these remedies is harmful. Oil and butter trap heat inside the skin instead of drawing it out, making the burn deeper. Toothpaste contains chemicals that irritate already damaged skin. Ice causes a secondary frostbite injury on top of the burn. Flour sticks to the skin and complicates wound care.",
+            "The only correct first aid for a burn in the first minutes is cool running water. A systematic review published in Burns in 2022 reviewed the available evidence and concluded that cooling with cool running water for 20 continuous minutes reduces the final depth of the burn and the time to healing. A 2026 study in Annals of Emergency Medicine confirmed the effectiveness of this simple approach. Those 20 minutes need to be continuous, not two minutes on and off.",
+            "Remove any clothing or jewellery from the burned area before swelling sets in, but do not remove anything stuck to the skin. After cooling, cover the burn with a clean sterile dressing or a burns film if available. Do not break any blisters. Seek medical care if the burn is larger than the palm of the injured person's hand, or if it is on the face, hands, feet, or genitals, or if it appears white or black."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "Never apply any of these to a burn",
+            "items": [
+              "Oil, butter, or ghee: traps heat and worsens the injury",
+              "Toothpaste: irritates damaged skin and increases pain",
+              "Ice or freezing water: adds frostbite damage to the burned tissue",
+              "Flour or any powder: sticks to the wound and complicates treatment",
+              "Hair spray or alcohol: both are irritants and flammable"
+            ]
+          }
+        },
+        {
+          "h2": "Bleeding: pressure is the answer, not changing the dressing",
+          "paras": [
+            "The most common mistake made with a bleeding wound is lifting the cloth to see whether the bleeding has stopped. This disrupts the clot that is forming and causes the bleeding to restart or worsen. Pressure must be firm and continuous for at least ten minutes without lifting the hand to look. A systematic review published in Prehospital Emergency Care in 2021 confirmed that sustained direct pressure is the most effective first-line control for severe external bleeding.",
+            "Place a clean cloth or sterile gauze directly over the wound and press steadily with your hand or guide the injured person to press on it themselves. If the cloth becomes soaked through, add another layer on top and do not remove the first one. Elevating the injured limb above the level of the heart helps slow bleeding. If the bleeding is from a limb and is life-threatening, a tourniquet can be life-saving if one is available and you know how to apply it correctly.",
+            "Go to the emergency department or call for an ambulance immediately if the bleeding does not slow after ten minutes of continuous pressure, or if the wound is deep or wide, or if it is near the neck, abdomen, or chest. Heavy blood loss causes shock, which shows as pallor, cold sweat, rapid heartbeat, and confusion. These are signs that the situation has become critical."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "Controlling severe bleeding step by step",
+            "items": [
+              "Put on gloves if available to protect yourself",
+              "Place a clean cloth or sterile gauze directly on the wound",
+              "Press firmly and steadily with your full hand weight for 10 full minutes",
+              "If the cloth soaks through, add a second layer on top, do not remove the first",
+              "Elevate the injured limb above heart level if possible",
+              "If bleeding continues after 10 minutes, call for emergency help immediately"
+            ]
+          }
+        },
+        {
+          "h2": "Fainting: why you must not give them water while they are down",
+          "paras": [
+            "Fainting is a brief loss of consciousness caused by a sudden drop in blood flow to the brain. Common triggers include prolonged standing in heat, hunger, severe emotional stress, or a sudden rise in temperature. It is usually preceded by dizziness, pallor, cold sweat, and ringing in the ears. Recognising these warning signs gives you a chance to act before the person falls.",
+            "If someone is about to faint, have them sit and place their head between their knees, or lay them on the floor and raise their legs slightly. This helps blood return to the brain quickly. If they have already fainted, place them on their side in the recovery position. This keeps the airway open and prevents them from inhaling vomit if they are sick. Do not put anything in their mouth and do not give them anything to drink while they are unconscious.",
+            "Most fainting episodes resolve within one to two minutes and the person recovers quickly without any intervention. Seek medical attention if unconsciousness lasts more than two minutes, if the person has no memory of what happened, if there was a head injury from the fall, or if they complained of chest pain or palpitations just before fainting. These features can point to a more serious cause."
+          ]
+        },
+        {
+          "h2": "Seizures: patience and safety, nothing else",
+          "paras": [
+            "A seizure looks frightening and demands a calm, specific response. The most widespread harmful myth is that you must put something in the person's mouth to stop them from swallowing their tongue. This is wrong on two counts: a person cannot swallow their tongue during a seizure, and inserting anything into their mouth risks breaking their teeth, injuring your fingers, or causing choking.",
+            "What you should do: move hard objects away from around them. Place something soft under their head if possible. Gently roll them onto their side if you can, to help breathing and to prevent aspiration if they vomit. Do not restrain their limbs and do not try to hold them still. Stay with them, time the seizure, and keep them safe. Call for an ambulance if it is their first seizure, or if it lasts more than five minutes.",
+            "After the seizure ends, the person will be confused and exhausted. This is normal and is called the postictal phase. Stay with them, speak calmly, and give them time to recover. Do not offer food or drink until they are fully conscious and able to swallow safely. Tell their doctor the details: how long it lasted, what the movements looked like, and whether they were conscious beforehand."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "Call an ambulance immediately for a seizure if",
+            "items": [
+              "The seizure continues for more than 5 minutes",
+              "The person does not recover within 10 minutes of it stopping",
+              "This is the first seizure they have ever had",
+              "The person is pregnant, has diabetes, or has had a head injury",
+              "The seizure happened in water"
+            ]
+          }
+        },
+        {
+          "h2": "The most common childhood accidents at home",
+          "paras": [
+            "Young children in the crawling and walking stage swallow small objects, often with no obvious symptoms. If your child has swallowed something and appears well, is not choking, and is not crying in an unusual way, call their doctor or a poisons helpline for advice. Small rounded objects like coins usually pass on their own. Disc batteries are a genuine emergency: they cause severe chemical burns to the oesophagus within hours of being swallowed and require immediate emergency care.",
+            "A fall from even a modest height like a bed or sofa warrants a careful check. Signs that require immediate medical attention include any period of unconsciousness however brief, persistent unusual crying, repeated vomiting, or the child refusing to use a limb. Do not assume a child is fine because they are not showing an obvious external injury after a head impact.",
+            "Burns in children are more serious because their skin is thinner and a smaller burn covers a greater proportion of their body surface. Any burn larger than the child's own palm requires emergency care after the 20-minute water cooling. Do not apply any cream or medication to a child's burn without medical guidance."
+          ]
+        },
+        {
+          "h2": "What should your home first aid kit contain?",
+          "paras": [
+            "A basic home first aid kit does not need to be expensive. Essential contents include: sterile gauze pads and adhesive bandages in several sizes, cotton wool, an antiseptic solution such as povidone-iodine for cleaning small wounds, medical scissors, tweezers, a compression bandage, a basic pain reliever and fever reducer, and a written list of local emergency phone numbers.",
+            "Keep the kit in a fixed location that every adult in the home knows, out of reach of young children but quickly accessible for adults. Check its contents every six months and replace anything past its expiry date. Expired medicines may have reduced effectiveness and in some cases can be harmful.",
+            "Learning basic cardiopulmonary resuscitation is one of the most valuable skills an ordinary person can acquire. It is not confined to medical professionals. Courses are offered by many hospitals, health centres, and Red Crescent chapters across the region. Knowing what to do in the first two minutes of a cardiac emergency dramatically improves survival odds, and the knowledge costs nothing to carry."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Basic home first aid kit contents",
+            "head": ["Item", "Use", "Note"],
+            "rows": [
+              ["Sterile gauze and bandages", "Wound coverage", "Several sizes"],
+              ["Adhesive plasters", "Small cuts", "Various sizes"],
+              ["Povidone-iodine or saline", "Wound cleaning", "Avoid alcohol on open wounds"],
+              ["Compression bandage", "Pressure and support", "Useful for sprains"],
+              ["Fever reducer and pain reliever", "High temperature and pain", "Check children's dosing"],
+              ["Emergency numbers list", "Quick contact", "Write clearly and keep visible"]
+            ]
+          }
+        },
+        {
+          "h2": "When to call an ambulance versus driving to the emergency department",
+          "paras": [
+            "Call an ambulance and do not attempt to move the person yourself in these situations: unconsciousness, difficulty breathing, severe chest pain, a forceful impact to the head or spine, or severe bleeding that is not slowing. In these cases, moving someone without the right equipment and training can worsen the injury, particularly if the spine is involved.",
+            "You can drive the person yourself to the nearest emergency department for less severe situations: a wound that needs stitches but where bleeding is under control, a limited burn after proper cooling, or a suspected fracture in a limb that has been stabilised. In these cases, phone the emergency department while you are on the way so they can prepare.",
+            "In many parts of Syria, Iraq, Libya and Yemen, ambulance services may be slow or unavailable. In those settings, knowing first aid is not a safety enhancement, it is the only available response. Learning these skills and teaching them to family members is one of the most practical things a household can do."
+          ]
+        }
+      ],
+      "tie": "Sihtak lets you store emergency contact numbers, blood groups, and medication lists for every member of your household, all ready in one place when you need them most. The AI assistant can help you think through whether a situation needs emergency care or can wait. Building this knowledge today costs nothing and may matter enormously one day.",
+      "faqs": [
+        {
+          "q": "Should you put toothpaste on a burn to cool it down?",
+          "a": "No. Toothpaste contains chemicals that irritate burned skin, increase pain, and complicate later medical treatment. The only correct first aid for a burn is cool running water for 20 continuous minutes. This is what the latest clinical evidence consistently recommends."
+        },
+        {
+          "q": "Should you put something in a seizing person's mouth to protect their tongue?",
+          "a": "No. A person cannot swallow their tongue during a seizure. Inserting anything into their mouth risks breaking their teeth, injuring your fingers, or causing choking. The right response is to move hard objects away from them, place something soft under their head, roll them gently onto their side, and stay with them."
+        },
+        {
+          "q": "How do I tell fainting apart from something more serious?",
+          "a": "Simple fainting resolves within about two minutes and the person usually remembers what happened beforehand. Seek urgent medical care if unconsciousness lasts more than two minutes, if there was chest pain or palpitations beforehand, if there was a head injury in the fall, or if the person has a known heart condition or diabetes."
+        },
+        {
+          "q": "What is the difference between first, second and third degree burns?",
+          "a": "First degree: redness and pain on the surface only, like sunburn. Second degree: blisters and severe pain. Third degree: white or black skin that does not hurt because the nerves are destroyed. Second and third degree burns always need urgent medical care."
+        },
+        {
+          "q": "Can you give an unconscious person water to help them recover?",
+          "a": "Never. Giving any liquid to an unconscious person risks it being inhaled into the lungs, causing aspiration pneumonia which can be life-threatening. Place them on their side in the recovery position and wait for them to regain consciousness on their own."
+        },
+        {
+          "q": "When should you change the dressing on a bleeding wound?",
+          "a": "Do not remove the first dressing. If it soaks through with blood, add a second layer on top and continue pressing. Removing the first dressing disrupts the clot and restarts or worsens the bleeding. Press for 10 full minutes without lifting your hand. Once the bleeding stops, cover the wound with a clean dressing to protect it."
+        },
+        {
+          "q": "My child swallowed a button battery. What do I do?",
+          "a": "This is a genuine emergency. Button batteries cause severe chemical burns to the oesophagus within hours of being swallowed. Do not give the child anything to eat or drink and go immediately to the nearest emergency department without waiting. Tell the medical team what type of battery was swallowed if you know."
+        }
+      ]
+    }
+  }
+}

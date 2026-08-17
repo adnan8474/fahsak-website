@@ -1,0 +1,355 @@
+{
+  "slug": "familial-mediterranean-fever",
+  "category": "genetic-conditions",
+  "chip_ar": "أمراض وراثية",
+  "chip_en": "Genetic conditions",
+  "date_iso": "2026-07-08",
+  "sources": [
+    {
+      "label": "Lancieri M, Bustaffa M, Palmeri S et al: An Update on Familial Mediterranean Fever, International journal of molecular sciences, 2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37298536/"
+    },
+    {
+      "label": "Tufan A, Lachmann HJ: Familial Mediterranean fever, from pathogenesis to treatment: a contemporary review, Turkish journal of medical sciences, 2020",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32806879/"
+    },
+    {
+      "label": "El-Shanti H, Majeed HA, El-Khateeb M et al: Familial mediterranean fever in Arabs, Lancet (London, England), 2006",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16564365/"
+    },
+    {
+      "label": "Romano M, Piskin D, Kul Cinar O et al: Familial Mediterranean Fever; Recent Advances, Future Prospectives, Diagnostics (Basel, Switzerland), 2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40218163/"
+    },
+    {
+      "label": "Kisla Ekinci RM, Kilic Konte E, Akay N et al: Familial Mediterranean Fever in Childhood, Turkish archives of pediatrics, 2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39540697/"
+    },
+    {
+      "label": "Ozdogan H, Ugurlu S: Familial Mediterranean Fever, Presse medicale (Paris, France : 1983), 2019",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30686512/"
+    }
+  ],
+  "content": {
+    "en": {
+      "title": "Familial Mediterranean Fever: attacks, colchicine and monitoring",
+      "desc": "FMF causes recurrent fever and pain in people from the Mediterranean region. Learn the attack pattern, why colchicine must be taken every day, and when to test for the gene.",
+      "keywords": "familial Mediterranean fever, FMF, MEFV gene, colchicine, recurrent fever, amyloidosis, peritonitis, Arab genetic disease",
+      "h1": "Familial Mediterranean Fever: understanding the attacks and why daily colchicine matters",
+      "takeaways": [
+        "FMF causes brief, recurring attacks of fever and severe pain in the abdomen, chest or joints, usually lasting one to three days.",
+        "It is caused by mutations in the MEFV gene and is most common in people of Arab, Armenian, Turkish, Jewish and other Mediterranean origin.",
+        "Colchicine taken every day, even between attacks, is the cornerstone of treatment and prevents the most dangerous long-term complication: amyloidosis.",
+        "A normal attack does not mean the diagnosis is wrong; between episodes, blood tests and physical examination are often completely normal.",
+        "Genetic testing can confirm the diagnosis, guide family screening, and is worth doing before marriage if there is a family history."
+      ],
+      "sections": [
+        {
+          "h2": "What is familial Mediterranean fever and who gets it?",
+          "paras": [
+            "Familial Mediterranean fever, usually shortened to FMF, is an inherited inflammatory disease that causes repeated episodes of fever and intense pain. The disease was named for the ethnic groups in which it was first clearly described: Armenians, Sephardic Jews, Turks and Arabs from the Levant and North Africa. Today it is well recognised across Syria, Lebanon, Jordan, Iraq, Egypt and the wider Arab world, where it is one of the most common inherited diseases seen in genetics clinics.",
+            "The condition is caused by mutations in a gene called MEFV, which codes for a protein called pyrin. Pyrin is part of the body's inflammatory control system. When it is abnormal, the system can misfire, producing bursts of inflammation that have no obvious trigger from the outside. The pattern of disease is the same across all affected groups: unpredictable attacks of illness separated by periods of feeling completely well.",
+            "FMF follows an autosomal recessive inheritance pattern. This means a child needs to inherit a faulty copy of the MEFV gene from both parents to develop the full disease. A person who inherits only one faulty copy is a carrier and usually has no symptoms, but can pass the gene to their children. In populations where the carrier rate is high, as it is across much of the Arab world, two carrier parents have a one-in-four chance with each pregnancy of having a child with FMF."
+          ],
+          "visual": {
+            "type": "stats",
+            "items": [
+              {"value": "1 in 4", "label": "chance of FMF when both parents are carriers", "tone": "warn"},
+              {"value": "1 in 2", "label": "chance of being a carrier like the parents", "tone": "info"},
+              {"value": "1 in 4", "label": "chance of inheriting no faulty copy at all", "tone": "good"}
+            ]
+          }
+        },
+        {
+          "h2": "What does an FMF attack feel like?",
+          "paras": [
+            "A typical FMF attack starts quickly, often within hours, and reaches its worst point within a day. The most common feature is fever, which can reach 38 to 40 degrees Celsius. The fever is almost always accompanied by pain, and the location of that pain varies from person to person but tends to be consistent within the same individual over their lifetime.",
+            "Abdominal pain is the most frequent type, occurring in around 90 percent of people with FMF. It can be so severe that it is mistaken for appendicitis or a surgical emergency, and some patients have undergone unnecessary operations before the diagnosis was made. Chest pain from inflammation of the lining of the lungs (pleuritis) occurs in about half of patients. Joint pain and swelling, typically in a single large joint such as the knee or ankle, affect a significant proportion and can look exactly like an acute gout attack.",
+            "A characteristic rash sometimes appears on the lower legs, resembling erysipelas, a type of skin infection. This rash is not infectious and settles with the attack. Most attacks resolve completely within one to three days, leaving no lasting damage, and the person returns to full health between episodes. This short and self-limiting pattern is one of the key features that distinguishes FMF from other causes of recurrent fever."
+          ]
+        },
+        {
+          "h2": "How does an attack progress over time?",
+          "paras": [
+            "FMF attacks are not random in length. They tend to be brief and stereotyped, meaning the same patient usually has the same type of attack each time. Understanding this rhythm helps both the patient and their doctor distinguish a genuine FMF flare from another illness happening alongside it.",
+            "Several things are known to trigger attacks in some patients, including emotional stress, physical exertion, menstruation, and certain foods. However, many attacks have no identifiable trigger at all. The frequency of attacks varies widely: some people have an attack every week, others go months between episodes. Frequency often falls off somewhat in adulthood compared with childhood."
+          ],
+          "visual": {
+            "type": "timeline",
+            "title": "How a typical FMF attack unfolds",
+            "items": [
+              {"when": "Hours 0 to 6", "what": "Attack begins: fever rises, pain starts in abdomen, chest or joint"},
+              {"when": "Hours 6 to 24", "what": "Attack at its worst: temperature peaks, pain is most severe"},
+              {"when": "Day 1 to 3", "what": "Gradual recovery: fever falls, pain eases, inflammatory markers in the blood are rising"},
+              {"when": "Day 3 to 5", "what": "Full recovery: person feels well, blood tests normalise between attacks"},
+              {"when": "Variable interval", "what": "Next attack: may be days, weeks or months later"}
+            ]
+          }
+        },
+        {
+          "h2": "What tests are used to diagnose FMF?",
+          "paras": [
+            "There is no single test that definitively confirms FMF in all cases. The diagnosis is primarily clinical, meaning a doctor looks at the pattern of attacks, the age they started, the ethnic background of the patient, and the family history. The Tel Hashomer criteria, developed in Israel and later refined, are widely used: they require at least two definite episodes of fever with serosal, synovial or skin involvement, or one definite episode in someone with a positive family history.",
+            "Blood tests during an attack show a strong inflammatory response: the white cell count rises, the erythrocyte sedimentation rate (ESR) and C-reactive protein (CRP) go up, and the serum amyloid A protein can be markedly elevated. Critically, between attacks these markers often return to normal, which can lead doctors to dismiss the diagnosis if they only see the patient when well.",
+            "Genetic testing for mutations in the MEFV gene is now widely available and is a valuable part of the workup. However, it has limits that are important to understand. The test checks for the most common mutations but there are many rarer variants, and a negative result does not rule out FMF if the clinical picture is convincing. The most informative scenario is finding two mutations, one on each copy of the gene, in a patient whose attacks fit the typical pattern."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Blood tests in FMF: during versus between attacks",
+            "head": ["Test", "During an attack", "Between attacks"],
+            "rows": [
+              ["CRP (C-reactive protein)", "Often very high", "Usually normal"],
+              ["ESR (sedimentation rate)", "Elevated", "Usually normal"],
+              ["White blood cell count", "Elevated", "Usually normal"],
+              ["Serum amyloid A (SAA)", "Very high", "May remain elevated in poorly controlled disease"],
+              ["Urine protein", "Usually normal", "Raised if amyloidosis has developed"]
+            ]
+          }
+        },
+        {
+          "h2": "Why is colchicine taken every day, not just during attacks?",
+          "paras": [
+            "Colchicine is the foundation of FMF treatment and has been so for more than 50 years. It is a plant-derived medicine that works by reducing the inflammatory signalling inside cells. The critical point that many patients and families miss is that colchicine needs to be taken every day regardless of whether an attack is happening. Taking it only when an attack starts does not prevent attacks and does not protect against the disease's most serious complication.",
+            "That complication is amyloidosis, a condition in which a protein called amyloid A builds up in organs over years of poorly controlled inflammation. The kidneys are most vulnerable. Untreated or under-treated FMF can lead to kidney failure requiring dialysis within a decade or two in people who develop amyloidosis. A 2020 review in the Turkish Journal of Medical Sciences, covering decades of follow-up data, confirmed that daily colchicine both reduces attack frequency and dramatically reduces the risk of amyloidosis. This is why the medicine must be continued for life, even in patients who feel well.",
+            "The usual starting dose in adults is 0.5 to 1 mg per day, adjusted upwards if attacks continue. Side effects are mostly gastrointestinal: loose stools and abdominal discomfort are common when starting and usually settle after a few weeks. Taking the tablet with food helps. Colchicine is safe in pregnancy and during breastfeeding, which matters because the disease often becomes apparent in childhood and affects women through their reproductive years."
+          ]
+        },
+        {
+          "h2": "What if colchicine does not control the attacks?",
+          "paras": [
+            "A minority of patients, estimated at five to ten percent, do not respond adequately to colchicine even at the maximum tolerated dose. Inadequate response is defined as three or more attacks per year on a full dose of colchicine. In these cases, a different class of drugs called IL-1 inhibitors can be very effective. Anakinra and canakinumab are the most commonly used and work by blocking the interleukin-1 pathway that drives the inflammation in FMF.",
+            "Before labelling someone as colchicine-resistant, it is worth confirming that the tablets are actually being taken consistently, as poor adherence is a common reason for continuing attacks. It is also worth checking that the diagnosis itself is correct: some conditions that mimic FMF, such as other hereditary fever syndromes, do not respond to colchicine and require different treatment.",
+            "Where IL-1 inhibitors are needed, access varies considerably across the region. In countries like Jordan, Lebanon and Syria, specialist centre referral is necessary to access these medications, and cost can be a significant barrier. If a patient is on colchicine and having frequent attacks, asking for a referral to a rheumatologist or a clinical genetics service is the right next step."
+          ]
+        },
+        {
+          "h2": "The risk of amyloidosis and how to monitor for it",
+          "paras": [
+            "Amyloidosis is the complication that makes consistent colchicine treatment essential rather than optional. It does not develop quickly: it accumulates silently over years of repeated, poorly suppressed inflammation. The first sign is usually protein appearing in the urine, detected on a routine urine dipstick test. This is why annual urine testing for protein is recommended for everyone with FMF, even those who feel their disease is well controlled.",
+            "Once protein appears in the urine, a 24-hour urine collection or a urine albumin-to-creatinine ratio can quantify how much is being lost. If amyloidosis is suspected, a kidney biopsy is the definitive test. The good news is that if detected early, when protein loss is modest and kidney function is still preserved, intensive treatment of the underlying FMF can slow or halt the progression. Optimising colchicine, switching to an IL-1 inhibitor if needed, and close monitoring all contribute.",
+            "The risk of developing amyloidosis is higher in men, in people with the M694V mutation on both copies of the MEFV gene, and in those with persistent elevation of inflammatory markers between attacks. These patients warrant particularly close follow-up."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "Get medical attention promptly if you have FMF and notice:",
+            "items": [
+              "Persistent swelling of the legs or ankles that does not settle after an attack",
+              "Foamy or frothy urine, which can signal protein in the urine from kidney involvement",
+              "Worsening kidney function on a blood test (rising creatinine)",
+              "An attack that does not resolve within three to four days",
+              "Any difficulty breathing during a chest pain attack"
+            ]
+          }
+        },
+        {
+          "h2": "Genetic testing and family planning",
+          "paras": [
+            "Because FMF is autosomal recessive, one of the most important conversations is around genetics and family planning. If one person in a family has FMF, their parents are almost certainly both carriers. Siblings of the affected person have a one-in-four chance of also having FMF and a two-in-four chance of being carriers. Genetic testing of family members, particularly siblings and the children of an affected person, can identify carriers who may not have any symptoms.",
+            "The question of premarital genetic testing is directly relevant to FMF in populations where the carrier rate is high. In Arab populations from the Levant, carrier rates for the most common MEFV mutations can be substantial, meaning the chance of two carriers meeting is not negligible. If both members of a couple are carriers, each pregnancy carries a one-in-four chance of producing a child with FMF.",
+            "Knowing this in advance does not make the decision for anyone, but it allows informed discussion. Some couples choose prenatal diagnosis; others use preimplantation genetic diagnosis where that technology is accessible; others decide to proceed with pregnancy knowing the odds and the fact that FMF, when treated with colchicine, is a manageable condition rather than a life-threatening one. A clinical geneticist or genetic counsellor is the right professional to guide this conversation."
+          ]
+        },
+        {
+          "h2": "Living with FMF: practical day-to-day management",
+          "paras": [
+            "Between attacks, most people with well-controlled FMF live completely normal lives. The goal of daily colchicine is precisely to get to that point. Adherence is the biggest challenge: the medicine needs to be taken every day, and skipping doses when feeling well is the most common mistake that leads to continuing attacks and rising amyloid load.",
+            "Keeping a simple diary of attacks, noting date, duration, site of pain and any possible trigger, is genuinely useful both for the patient's own understanding and for discussions with the treating doctor. If attacks are becoming more frequent or more severe on the same dose, this is the evidence needed to prompt a dose adjustment.",
+            "Children with FMF deserve particular attention to school life. Repeated absences due to unpredictable attacks can affect education and be misunderstood by teachers. A letter from the treating doctor explaining the condition and the expected attack pattern is worth having so that families and schools can plan appropriately. With good colchicine control, most children with FMF attend school normally and participate fully in physical activity."
+          ]
+        }
+      ],
+      "tie": "Tracking your FMF attack dates, duration and severity in Sihtak lets you spot patterns and gives your doctor a clear picture at each visit, making it easier to know when to adjust your treatment.",
+      "faqs": [
+        {
+          "q": "Can FMF be cured, or does it last a lifetime?",
+          "a": "FMF is a lifelong genetic condition and cannot be cured by current treatments. However, it can be very well controlled. Most people on appropriate daily colchicine have far fewer attacks and, crucially, protect themselves from the kidney-damaging complication of amyloidosis. Many people with FMF live entirely normal lives with this treatment."
+        },
+        {
+          "q": "Is it safe to take colchicine throughout pregnancy?",
+          "a": "Yes. Colchicine is considered safe in pregnancy and should not be stopped, because uncontrolled FMF poses more risk to a pregnancy than the medicine does. Women with FMF who are planning or expecting a pregnancy should discuss their treatment with their rheumatologist or obstetrician, but stopping colchicine during pregnancy is not recommended."
+        },
+        {
+          "q": "If I have no attacks for several months, can I stop colchicine?",
+          "a": "No. Colchicine should be continued even during long attack-free periods. The medicine is preventing attacks, not just treating them. Stopping it typically leads to attacks returning, often within weeks. It also allows low-level inflammation to continue even when no obvious attack is felt, which accumulates amyloid over time."
+        },
+        {
+          "q": "My child has had two attacks of fever and abdominal pain. Could it be FMF?",
+          "a": "It is worth asking the doctor specifically about FMF, especially if your family has any Mediterranean, Arab, Armenian or Turkish heritage. The diagnosis is often delayed because doctors unfamiliar with the condition investigate each attack separately without connecting them. Bring a record of the attacks, their duration and what the child looked like during them to the appointment."
+        },
+        {
+          "q": "Can FMF attacks damage the abdomen permanently over time?",
+          "a": "Individual attacks do not usually cause permanent abdominal damage, although repeated severe attacks can lead to adhesions (scar tissue inside the abdomen) over many years. The main long-term risk is not from the attacks themselves but from amyloidosis, which affects the kidneys rather than the abdomen. Good colchicine control reduces both problems."
+        },
+        {
+          "q": "Is the MEFV genetic test available in the Arab world?",
+          "a": "MEFV genetic testing is available at specialist centres and reference laboratories in Jordan, Lebanon, Saudi Arabia, the UAE and Egypt. Availability in Syria, Iraq and Yemen is more limited, though samples can sometimes be sent to regional reference laboratories. A paediatrician or rheumatologist can arrange the referral."
+        },
+        {
+          "q": "What is the difference between FMF and a simple recurrent fever?",
+          "a": "The key differences are the consistent attack pattern, the severity of the accompanying pain, the typical duration of one to three days, and the complete resolution between attacks. Simple recurrent fevers in children are usually much milder and not associated with severe abdominal or chest pain. If febrile episodes are repeatedly disabling and follow a consistent pattern, FMF should be considered."
+        }
+      ]
+    },
+    "ar": {
+      "title": "حمى البحر الأبيض المتوسط العائلية: النوبات والكولشيسين والوقاية",
+      "desc": "حمى البحر الأبيض المتوسط تصيب العرب والأرمن والأتراك بنوبات متكررة من الحمى والألم. اعرف كيف تُشخَّص وكيف يحميك الكولشيسين اليومي من مضاعفاتها.",
+      "keywords": "حمى البحر الأبيض المتوسط العائلية, الحمى المتوسطية, FMF, جين MEFV, كولشيسين, داء النشواني, ألم بطني متكرر",
+      "h1": "حمى البحر الأبيض المتوسط العائلية: فهم النوبات وأهمية الكولشيسين اليومي",
+      "takeaways": [
+        "حمى البحر الأبيض المتوسط العائلية (FMF) مرض وراثي يسبب نوبات متكررة من الحمى وألم شديد في البطن أو الصدر أو المفاصل، تمتد عادة من يوم إلى ثلاثة أيام.",
+        "يسببه طفرات في جين MEFV وهو أكثر شيوعاً عند العرب والأرمن والأتراك واليهود السفارديم وشعوب البحر الأبيض المتوسط.",
+        "تناول الكولشيسين يومياً حتى بين النوبات هو حجر الأساس في العلاج، ويحمي من مضاعفة داء النشواني التي تهدد الكلى.",
+        "بين النوبات تعود الفحوصات المخبرية إلى الطبيعي في الغالب، وهذا لا يعني أن التشخيص خاطئ.",
+        "الفحص الجيني يؤكد التشخيص ومهم قبل الزواج في الأسر التي لها تاريخ مع المرض."
+      ],
+      "sections": [
+        {
+          "h2": "ما هي حمى البحر الأبيض المتوسط العائلية ومن يُصاب بها؟",
+          "paras": [
+            "حمى البحر الأبيض المتوسط العائلية، المعروفة اختصاراً بـ FMF، مرض التهابي وراثي يُسبب نوبات متكررة من الحمى والألم الشديد. سُميت نسبةً إلى المجموعات العرقية التي وُصفت فيها أولاً، وهي الأرمن واليهود السفارديم والأتراك والعرب في بلاد الشام وشمال أفريقيا. اليوم يُشخَّص المرض بشكل منتظم في سوريا ولبنان والأردن والعراق ومصر وسائر أنحاء العالم العربي، حيث يُعدّ من أكثر الأمراض الوراثية التي تُراجَع بسببها عيادات الوراثة.",
+            "يحدث المرض بسبب طفرات في جين يُسمى MEFV، وهذا الجين يصنع بروتيناً يُسمى البيرين (Pyrin) يلعب دوراً محورياً في ضبط الاستجابة الالتهابية. حين يكون البيرين معيباً، تنطلق موجات التهاب دون مبرر خارجي واضح، فتُسبب النوبات المتكررة التي تفصل بينها فترات من الصحة الكاملة. نُشرت دراسة مرجعية في مجلة The Lancet عام 2006 وثّقت خصائص المرض في المرضى العرب وأكدت أن توزيع الطفرات يتفاوت بين المجتمعات العربية المختلفة، مما يؤكد أهمية إجراء الفحص الجيني المتخصص لا الاكتفاء بالنتائج العامة.",
+            "يتبع المرض نمط الوراثة الجسمية المتنحية (Autosomal Recessive)، أي أن الطفل يحتاج إلى نسختين معيبتين من الجين، واحدة من كل والد، ليُصاب بالمرض كاملاً. من يرث نسخة واحدة فقط يُسمى حاملاً (Carrier) وغالباً لا تظهر عليه أعراض، لكنه يستطيع نقل الجين لأبنائه. في المجتمعات التي ترتفع فيها نسب الحاملين كما هو الحال في كثير من الدول العربية، تبلغ احتمالية إنجاب طفل مصاب ربع الحالات في كل حمل عند الوالدين الحاملين."
+          ],
+          "visual": {
+            "type": "stats",
+            "items": [
+              {"value": "1 من 4", "label": "احتمال الإصابة بالمرض عند كون الوالدين حاملين", "tone": "warn"},
+              {"value": "1 من 2", "label": "احتمال أن يكون الطفل حاملاً مثل والديه", "tone": "info"},
+              {"value": "1 من 4", "label": "احتمال عدم وراثة أي نسخة معيبة", "tone": "good"}
+            ]
+          }
+        },
+        {
+          "h2": "كيف تبدو نوبة حمى البحر الأبيض المتوسط؟",
+          "paras": [
+            "تبدأ النوبة النموذجية بسرعة، أحياناً في غضون ساعات قليلة، وتبلغ ذروتها خلال يوم واحد. أبرز ما يميزها هو الحمى التي قد تصل إلى 38-40 درجة مئوية، وتكاد تكون دائماً مصحوبة بألم شديد، تختلف مواضعه من شخص لآخر لكنها تظل ثابتة لدى نفس الشخص طوال حياته.",
+            "ألم البطن هو الأكثر شيوعاً إذ يحدث في نحو 90 بالمئة من المصابين. قد يكون شديداً لدرجة يُخلط فيها مع التهاب الزائدة الدودية أو حالة طارئة تستوجب الجراحة، وقد خضع بعض المرضى لعمليات غير ضرورية قبل تشخيص المرض. يصيب ألم الصدر الناتج عن التهاب الغشاء الجنبي (Pleuritis) نحو نصف المرضى. أما التهاب المفاصل فيظهر في مفصل واحد كبير كالركبة أو الكاحل ويُشبه في مظهره نوبة النقرس الحادة.",
+            "تظهر أحياناً طفح جلدي على أسفل الساقين يُشبه الحمرة (Erysipelas)، وهو ليس معدياً ويزول مع نهاية النوبة. معظم النوبات تنتهي خلال يوم إلى ثلاثة أيام دون أن تترك أثراً دائماً، ويعود المريض إلى صحته الكاملة بين النوبات. هذا النمط القصير والمُحدد هو ما يُميز المرض عن غيره من أسباب الحمى المتكررة."
+          ]
+        },
+        {
+          "h2": "كيف تتطور النوبة خلال ساعاتها الأولى والأيام التالية؟",
+          "paras": [
+            "النوبات ليست عشوائية في مدتها: فهي قصيرة ومتكررة بنمط ثابت لدى نفس المريض. هذا الثبات يساعد الطبيب على التمييز بين نوبة حمى البحر المتوسط والأمراض الأخرى التي قد تطرأ في نفس الوقت.",
+            "بعض العوامل قد تُحفز النوبات لدى جزء من المرضى كالتوتر النفسي والجهد البدني والدورة الشهرية عند النساء وبعض الأطعمة. بيد أن كثيراً من النوبات تحدث دون محفز واضح. تتفاوت تكرارية النوبات تفاوتاً كبيراً: فبعض المرضى يُعانون نوبة في الأسبوع بينما يمر آخرون أشهراً بين نوبة وأخرى."
+          ],
+          "visual": {
+            "type": "timeline",
+            "title": "كيف تتطور نوبة FMF النموذجية",
+            "items": [
+              {"when": "الساعات 0 إلى 6", "what": "بداية النوبة: ارتفاع الحرارة وبداية الألم في البطن أو الصدر أو المفصل"},
+              {"when": "الساعات 6 إلى 24", "what": "ذروة النوبة: أعلى درجة حرارة وأشد ألم"},
+              {"when": "اليوم 1 إلى 3", "what": "التعافي التدريجي: تنخفض الحرارة ويتراجع الألم"},
+              {"when": "اليوم 3 إلى 5", "what": "تعافٍ تام: يشعر المريض بصحة جيدة وتعود المخبريات للطبيعي"},
+              {"when": "فترة متغيرة", "what": "النوبة التالية: قد تكون بعد أيام أو أسابيع أو أشهر"}
+            ]
+          }
+        },
+        {
+          "h2": "كيف يُشخَّص المرض وما هي الفحوصات المطلوبة؟",
+          "paras": [
+            "لا يوجد تحليل واحد يُثبت تشخيص حمى البحر المتوسط في جميع الحالات. التشخيص أساساً سريري: يعتمد الطبيب على نمط النوبات وعمر بدايتها وخلفية المريض العرقية والتاريخ الأسري. تُستخدم معايير تل هاشومر المعتمدة دولياً: تتطلب على الأقل نوبتين واضحتين من الحمى مع التهاب في الصفاق أو الغشاء الجنبي أو المفصل أو الجلد، أو نوبة واحدة في وجود تاريخ عائلي إيجابي.",
+            "خلال النوبة تُظهر تحاليل الدم التهاباً واضحاً: ارتفاع في تعداد الكريات البيضاء وCRP وسرعة الترسيب (ESR) وبروتين الأميلويد A المصلي. لكن بين النوبات كثيراً ما تعود هذه القيم إلى الطبيعي تماماً، مما قد يدفع بعض الأطباء غير المتخصصين إلى استبعاد التشخيص.",
+            "الفحص الجيني للكشف عن طفرات جين MEFV متاح في مختبرات متخصصة ويُفيد كثيراً في تأكيد التشخيص. لكن ثمة قيد مهم: الاختبار يفحص الطفرات الأكثر شيوعاً، وهناك طفرات نادرة قد لا يكشفها، لذا النتيجة السلبية لا تنفي التشخيص إذا كانت الصورة السريرية واضحة. الأكثر إفادةً هو إيجاد طفرتين، واحدة على كل نسخة من الجين."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "تحاليل الدم في FMF: أثناء النوبة وبينها",
+            "head": ["التحليل", "أثناء النوبة", "بين النوبات"],
+            "rows": [
+              ["CRP (البروتين التفاعلي C)", "مرتفع جداً في الغالب", "طبيعي في الغالب"],
+              ["ESR (سرعة الترسيب)", "مرتفع", "طبيعي في الغالب"],
+              ["تعداد الكريات البيضاء", "مرتفع", "طبيعي في الغالب"],
+              ["بروتين الأميلويد A المصلي (SAA)", "مرتفع جداً", "قد يظل مرتفعاً إذا كان المرض غير منضبط"],
+              ["بروتين البول", "طبيعي في الغالب", "مرتفع إذا تطوّر داء النشواني"]
+            ]
+          }
+        },
+        {
+          "h2": "لماذا يُؤخذ الكولشيسين يومياً وليس فقط عند النوبات؟",
+          "paras": [
+            "الكولشيسين (Colchicine) هو ركيزة علاج حمى البحر المتوسط منذ أكثر من خمسين عاماً. مصدره نبات الزعفران البري، ويعمل بتقليل الإشارات الالتهابية داخل الخلايا. النقطة الأساسية التي يغفلها كثير من المرضى وعائلاتهم أن الكولشيسين يجب أن يُؤخذ كل يوم بصرف النظر عن وجود نوبة أو غيابها. تناوله فقط عند بداية النوبة لا يمنعها ولا يحمي من المضاعفة الأخطر.",
+            "تلك المضاعفة هي داء النشواني (Amyloidosis)، حيث يتراكم بروتين الأميلويد A في الأعضاء على مدى سنوات من الالتهاب غير المكبوح. الكلى هي الأكثر تضرراً. بيّنت مراجعة شاملة نُشرت عام 2020 في المجلة التركية للعلوم الطبية أن الكولشيسين اليومي يُقلل وتيرة النوبات ويخفض خطر داء النشواني بشكل ملحوظ. لهذا يجب الاستمرار في تناوله طوال العمر حتى في أوقات الهدوء التام.",
+            "الجرعة الاعتيادية للبالغين 0.5 إلى 1 ملغ يومياً وتُعدَّل حسب الاستجابة. الأعراض الجانبية غالباً هضمية: إسهال وانزعاج في البطن عند البدء وتتحسن مع مرور الوقت، ويساعد تناول الحبة مع الطعام على تخفيفها. الكولشيسين آمن أثناء الحمل والرضاعة، وهذا مهم لأن المرض يبدأ في كثير من الأحيان في مرحلة الطفولة ويُلازم المرأة في سنوات الإنجاب."
+          ]
+        },
+        {
+          "h2": "ما الخيارات إذا لم يُسيطر الكولشيسين على النوبات؟",
+          "paras": [
+            "نحو خمسة إلى عشرة بالمئة من المرضى لا يستجيبون للكولشيسين بجرعته القصوى المحتملة. يُعرَّف عدم الاستجابة بحدوث ثلاث نوبات أو أكثر في السنة رغم الجرعة الكاملة والانتظام التام في تناولها. في هذه الحالات، يكون لأدوية مُثبطات الإنترلوكين-1 (IL-1) مثل الأناكينرا (Anakinra) والكانيكينوماب (Canakinumab) فعالية جيدة لأنها تُوقف المسار الالتهابي الجوهري الذي يُشغّل المرض، وقد أثبتت دراسات سريرية فعاليتها في تقليل عدد النوبات ومنع ارتفاع مؤشرات الالتهاب.",
+            "قبل الحكم بمقاومة الكولشيسين، من الضروري التحقق من انتظام تناوله فعلاً، إذ يكون ضعف الالتزام بالجرعة اليومية السبب الأكثر شيوعاً لاستمرار النوبات. كذلك ينبغي مراجعة التشخيص: ثمة متلازمات حمى وراثية أخرى لا تستجيب للكولشيسين وتحتاج علاجاً مختلفاً.",
+            "أدوية IL-1 المثبطة متاحة في مستشفيات متخصصة وقد يكون وصولها محدوداً في بعض البلدان بسبب التكلفة. إذا كنت على الكولشيسين ولا تزال النوبات متكررة، فاطلب الإحالة إلى طبيب روماتيزم أو عيادة وراثة طبية."
+          ]
+        },
+        {
+          "h2": "داء النشواني وكيف تُراقبه",
+          "paras": [
+            "داء النشواني هو المضاعفة التي تجعل الكولشيسين اليومي ضرورة لا اختياراً. لا يظهر بسرعة: بل يتراكم بصمت على مدى سنوات من الالتهاب غير المُعالَج. أول إشارة له عادةً ظهور بروتين في البول يكشفه اختبار دپستيك (Dipstick) البسيط. لهذا يُوصى بفحص البول السنوي للكشف عن البروتين لجميع مرضى FMF حتى من يشعرون بأن مرضهم منضبط.",
+            "إذا ظهر بروتين في البول، تُقاس كميته بدقة بجمع بول 24 ساعة أو بحساب نسبة الألبومين إلى الكرياتينين في عينة البول. إذا تأكد الشك، فإن الخزعة الكلوية هي الفحص الحاسم. البشرى هي أن الكشف المبكر قبل أن تنخفض وظيفة الكلى بشكل ملحوظ يتيح إيقاف التقدم أو إبطاءه بتحسين ضبط المرض.",
+            "الخطر أعلى عند الذكور وعند من يحملون طفرة M694V على كلتا نسختي الجين وعند من تظل مؤشرات الالتهاب لديهم مرتفعة بين النوبات. هؤلاء يحتاجون متابعة أدق."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "راجع طبيبك فوراً إذا لاحظت وأنت مصاب بـ FMF:",
+            "items": [
+              "تورماً مستمراً في القدمين أو الساقين لا يزول بعد النوبة",
+              "بولاً رغوياً أو زبدياً قد يدل على بروتين في البول",
+              "تراجعاً في وظيفة الكلى (ارتفاع Creatinine في تحاليل الدم)",
+              "نوبة لا تتحسن بعد ثلاثة إلى أربعة أيام",
+              "صعوبة في التنفس خلال نوبة ألم الصدر"
+            ]
+          }
+        },
+        {
+          "h2": "الفحص الجيني والتخطيط للأسرة",
+          "paras": [
+            "بما أن FMF وراثي بنمط جسمي متنحٍّ، فإن النقاش حول الوراثة والتخطيط للأسرة محوري. إذا أُصيب فرد من الأسرة، فوالداه على الأرجح كلاهما حاملان. إخوة المريض لديهم احتمال ربع للإصابة واحتمال النصف لأن يكونوا حاملين. الفحص الجيني للأقارب المقربين وأبناء المريض يُحدد هذه الاحتمالات بدقة.",
+            "الفحص الجيني قبل الزواج ذو صلة مباشرة بمرض FMF في المجتمعات التي ترتفع فيها نسبة الحاملين. في بعض المجتمعات العربية يكون احتمال التقاء حاملَين ليس ضئيلاً، مما يجعل السؤال عن التاريخ الأسري وإجراء الفحص مسألة عملية قبل الزواج.",
+            "معرفة الوضع الجيني لا تفرض قراراً على أحد، لكنها تتيح نقاشاً مُستنيراً. يستطيع المتخصص في الوراثة الطبية أو المُرشد الجيني مساعدة الأزواج في فهم خياراتهم المتاحة."
+          ]
+        },
+        {
+          "h2": "العيش مع حمى البحر الأبيض المتوسط في الحياة اليومية",
+          "paras": [
+            "بين النوبات، يعيش أغلب مرضى FMF المُعالَجين بشكل جيد حياةً طبيعية كاملة. الهدف من الكولشيسين اليومي هو بلوغ هذا الوضع والمحافظة عليه. التحدي الأكبر هو الالتزام بالجرعة اليومية، إذ إن تخطي الحبة عند الشعور بالراحة هو الخطأ الأكثر شيوعاً الذي يُضعف ضبط المرض ويُراكم الأميلويد في صمت.",
+            "الاحتفاظ بسجل بسيط للنوبات يُدوَّن فيه التاريخ والمدة وموضع الألم وأي محفز محتمل يُفيد المريض نفسه في فهم مرضه ويُفيد الطبيب في كل زيارة. إذا أصبحت النوبات أكثر تكراراً أو أشد حدة على نفس الجرعة، فهذا الدليل الذي يحتاجه الطبيب لتعديل الخطة العلاجية.",
+            "الأطفال المصابون بـ FMF يستحقون اهتماماً خاصاً في ما يخص المدرسة. الغيابات المتكررة غير المتوقعة تُؤثر على التحصيل الدراسي وقد تُسبب سوء فهم من المعلمين. رسالة من الطبيب المُعالِج تشرح طبيعة المرض ونمط النوبات المتوقع تساعد الأسرة والمدرسة على التخطيط المناسب. مع ضبط جيد بالكولشيسين يستطيع معظم الأطفال حضور الدراسة بانتظام والمشاركة في النشاط البدني دون قيود تُذكر."
+          ]
+        }
+      ],
+      "tie": "تسجيل تواريخ نوباتك ومدتها وشدتها في تطبيق سهتك يساعدك على رصد أي تغيير في نمط مرضك، ويُعطي طبيبك صورة واضحة تُسهّل قرارات العلاج.",
+      "faqs": [
+        {
+          "q": "هل يمكن الشفاء من حمى البحر الأبيض المتوسط؟",
+          "a": "حمى البحر الأبيض المتوسط مرض وراثي مدى الحياة ولا يوجد له علاج شافٍ حتى اليوم. لكنه يمكن السيطرة عليه بشكل جيد جداً، وأغلب المرضى المنتظمين على الكولشيسين يعيشون حياة طبيعية كاملة ويحمون أنفسهم من مضاعفة داء النشواني."
+        },
+        {
+          "q": "هل الكولشيسين آمن خلال الحمل؟",
+          "a": "نعم. يُعدّ الكولشيسين آمناً أثناء الحمل ولا يجب إيقافه، لأن MRض FMF غير المُعالَج يُشكّل خطراً على الحمل أكبر من خطر الدواء. المرأة الحامل المصابة بـ FMF ينبغي أن تناقش علاجها مع طبيب متخصص ولكن إيقاف الكولشيسين خلال الحمل غير مُوصى به."
+        },
+        {
+          "q": "إذا مرّت أشهر دون نوبات، هل يمكن إيقاف الكولشيسين؟",
+          "a": "لا. يجب الاستمرار في تناول الكولشيسين حتى خلال فترات الهدوء الطويلة. الدواء هو الذي يمنع النوبات، وليس غيابها دليلاً على شفاء المرض. إيقافه عادةً يُعيد النوبات خلال أسابيع ويسمح بتراكم الأميلويد في صمت."
+        },
+        {
+          "q": "طفلي أُصيب بنوبتين من الحمى مع ألم شديد في البطن، هل قد يكون FMF؟",
+          "a": "يستحق الأمر أن تسأل طبيبك تحديداً عن حمى البحر المتوسط، خاصة إذا كان في العائلة أصول عربية أو أرمينية أو تركية. التشخيص يتأخر كثيراً لأن الأطباء أحياناً يُعالجون كل نوبة على حدة دون ربطها بسابقتها. احضر سجلاً بتواريخ النوبات ومدتها ومواضع الألم."
+        },
+        {
+          "q": "هل الفحص الجيني لـ MEFV متاح في الدول العربية؟",
+          "a": "نعم، يتوفر فحص جين MEFV في مراكز متخصصة ومختبرات مرجعية في الأردن ولبنان والسعودية والإمارات ومصر. في سوريا والعراق واليمن يكون الوصول أصعب أحياناً. طبيب الأطفال أو الروماتيزم يستطيع الإحالة."
+        },
+        {
+          "q": "هل تُسبب النوبات المتكررة أضراراً دائمة في البطن؟",
+          "a": "النوبات المنفردة لا تُسبب ضرراً دائماً في الغالب، وإن كانت سنوات من النوبات الشديدة المتكررة قد تؤدي إلى التصاقات داخل البطن. الخطر الحقيقي الدائم ليس من النوبات بل من داء النشواني الذي يُصيب الكلى، والكولشيسين المنتظم يحمي من كليهما."
+        },
+        {
+          "q": "ما الفرق بين FMF والحمى المتكررة البسيطة؟",
+          "a": "أبرز الفوارق هي شدة الألم المرافق، والنمط الثابت المتكرر، والمدة المحددة بواحد إلى ثلاثة أيام، والعودة التامة للصحة بين النوبات. الحمى المتكررة البسيطة عند الأطفال تكون أخف وغالباً لا تصحبها آلام شديدة في البطن أو الصدر."
+        }
+      ]
+    }
+  }
+}

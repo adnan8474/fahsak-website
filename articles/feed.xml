@@ -1,143 +1,430 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>مقالات صحتك | Sihtak Articles</title>
+    <title>صحتك · مقالات صحية</title>
     <link>https://www.sihtak.com/articles/</link>
-    <atom:link href="https://www.sihtak.com/articles/feed.xml" rel="self" type="application/rss+xml"/>
-    <description>شروحات طبية مبسطة بالعربية من فريق صحتك</description>
+    <description>شروحات طبية مبسطة بالعربية من تطبيق صحتك.</description>
     <language>ar</language>
+    <atom:link href="https://www.sihtak.com/articles/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>وظائف الكلى: الكرياتينين واليوريا ومعدل الترشيح الكبيبي (eGFR)</title>
-      <link>https://www.sihtak.com/articles/kidney-function-tests-guide/</link>
-      <guid>https://www.sihtak.com/articles/kidney-function-tests-guide/</guid>
+      <title>نقص فيتامين ب12: الأعراض والأسباب والعلاج</title>
+      <link>https://www.sihtak.com/articles/vitamin-b12-deficiency-guide/</link>
+      <guid isPermaLink="true">https://www.sihtak.com/articles/vitamin-b12-deficiency-guide/</guid>
       <pubDate>Thu, 06 Aug 2026 08:00:00 GMT</pubDate>
-      <description>دليل مبسط لفهم تحاليل وظائف الكلى: ما معنى الكرياتينين واليوريا وeGFR، ولماذا يرتفع بعضها، وكيف تحمي كليتيك ومتى تراجع الطبيب.</description>
+      <description>دليل مبسط عن نقص فيتامين ب12: وظيفته للأعصاب والدم والطاقة، أعراضه، من هم الأكثر عرضة، كيف يُشخّص، مصادره الغذائية وعلاجه.</description>
     </item>
     <item>
-      <title>تحاليل وظائف الكبد: دليل مبسط لفهم ALT و AST و ALP والبيليروبين والألبومين</title>
-      <link>https://www.sihtak.com/articles/liver-function-tests-guide/</link>
-      <guid>https://www.sihtak.com/articles/liver-function-tests-guide/</guid>
+      <title>الغدة الدرقية وتحليل TSH: دليلك المبسط</title>
+      <link>https://www.sihtak.com/articles/thyroid-tsh-guide/</link>
+      <guid isPermaLink="true">https://www.sihtak.com/articles/thyroid-tsh-guide/</guid>
       <pubDate>Thu, 06 Aug 2026 08:00:00 GMT</pubDate>
-      <description>دليل مبسط لفهم تحاليل وظائف الكبد ومعنى إنزيمات الكبد المرتفعة، ولماذا ترتفع، وعلامات التحذير، وكيف تحمي كبدك. الطبيب هو من يفسر النتائج.</description>
+      <description>تعرف على الغدة الدرقية ودورها في الطاقة، وما هو تحليل TSH، والفرق بين الكسل والنشاط الزائد، وأعراضهما، ومتى تزور الطبيب.</description>
     </item>
     <item>
-      <title>متلازمة تكيس المبايض: الأعراض والأسباب وطرق التعامل</title>
-      <link>https://www.sihtak.com/articles/pcos-guide/</link>
-      <guid>https://www.sihtak.com/articles/pcos-guide/</guid>
+      <title>الثلاسيميا وزواج الأقارب في سوريا: لماذا الفحص قبل الزواج مهم</title>
+      <link>https://www.sihtak.com/articles/thalassemia-consanguinity-syria/</link>
+      <guid isPermaLink="true">https://www.sihtak.com/articles/thalassemia-consanguinity-syria/</guid>
       <pubDate>Thu, 06 Aug 2026 08:00:00 GMT</pubDate>
-      <description>دليل مبسط عن متلازمة تكيس المبايض للنساء: ما هي، أبرز أعراضها، علاقتها بمقاومة الأنسولين والوزن، وكيف يشخصها الطبيب ويديرها بأسلوب مطمئن.</description>
-    </item>
-    <item>
-      <title>الصيام في رمضان بأمان لمرضى السكري والضغط والأمراض المزمنة</title>
-      <link>https://www.sihtak.com/articles/ramadan-fasting-chronic-disease/</link>
-      <guid>https://www.sihtak.com/articles/ramadan-fasting-chronic-disease/</guid>
-      <pubDate>Thu, 06 Aug 2026 08:00:00 GMT</pubDate>
-      <description>دليل صحي مبسط للصيام في رمضان لمرضى السكري وضغط الدم والأمراض المزمنة: نصائح للسحور والإفطار والترطيب، وعلامات الخطر، وأهمية مراجعة الطبيب.</description>
+      <description>الثلاسيميا من أكثر الأمراض الوراثية انتشارا في سوريا، ويزيد زواج الأقارب من خطرها. تعرف كيف تورث، ولماذا فحص ما قبل الزواج يحمي أطفالك.</description>
     </item>
     <item>
       <title>التدخين في سوريا: حجم المشكلة، وحقيقة الأركيلة، وكيف تقلع</title>
       <link>https://www.sihtak.com/articles/smoking-in-syria/</link>
-      <guid>https://www.sihtak.com/articles/smoking-in-syria/</guid>
+      <guid isPermaLink="true">https://www.sihtak.com/articles/smoking-in-syria/</guid>
       <pubDate>Thu, 06 Aug 2026 08:00:00 GMT</pubDate>
       <description>التدخين من أوسع المشكلات الصحية في سوريا، وتشير دراسات إلى أن أكثر من نصف البالغين يدخنون. تعرف على أضرار السجائر والأركيلة، وكيف تقلع بخطوات عملية.</description>
     </item>
     <item>
+      <title>الصيام في رمضان بأمان لمرضى السكري والضغط والأمراض المزمنة</title>
+      <link>https://www.sihtak.com/articles/ramadan-fasting-chronic-disease/</link>
+      <guid isPermaLink="true">https://www.sihtak.com/articles/ramadan-fasting-chronic-disease/</guid>
+      <pubDate>Thu, 06 Aug 2026 08:00:00 GMT</pubDate>
+      <description>دليل صحي مبسط للصيام في رمضان لمرضى السكري وضغط الدم والأمراض المزمنة: نصائح للسحور والإفطار والترطيب، وعلامات الخطر، وأهمية مراجعة الطبيب.</description>
+    </item>
+    <item>
+      <title>متلازمة تكيس المبايض: الأعراض والأسباب وطرق التعامل</title>
+      <link>https://www.sihtak.com/articles/pcos-guide/</link>
+      <guid isPermaLink="true">https://www.sihtak.com/articles/pcos-guide/</guid>
+      <pubDate>Thu, 06 Aug 2026 08:00:00 GMT</pubDate>
+      <description>دليل مبسط عن متلازمة تكيس المبايض للنساء: ما هي، أبرز أعراضها، علاقتها بمقاومة الأنسولين والوزن، وكيف يشخصها الطبيب ويديرها بأسلوب مطمئن.</description>
+    </item>
+    <item>
       <title>الصحة النفسية في سوريا: عبء صامت بعد الحرب وكيف تعتني بنفسك</title>
       <link>https://www.sihtak.com/articles/mental-health-in-syria/</link>
-      <guid>https://www.sihtak.com/articles/mental-health-in-syria/</guid>
+      <guid isPermaLink="true">https://www.sihtak.com/articles/mental-health-in-syria/</guid>
       <pubDate>Thu, 06 Aug 2026 08:00:00 GMT</pubDate>
       <description>سنوات الحرب تركت عبئاً نفسياً كبيراً في سوريا. تعرف على حجم المشكلة بلغة مطمئنة، وعلامات الضغط النفسي، وخطوات بسيطة للعناية بنفسك، ومتى تطلب المساعدة.</description>
     </item>
     <item>
       <title>الحصبة والتطعيمات في سوريا: لماذا عادت الأمراض وكيف تحمي طفلك</title>
       <link>https://www.sihtak.com/articles/measles-vaccination-syria/</link>
-      <guid>https://www.sihtak.com/articles/measles-vaccination-syria/</guid>
+      <guid isPermaLink="true">https://www.sihtak.com/articles/measles-vaccination-syria/</guid>
       <pubDate>Thu, 06 Aug 2026 08:00:00 GMT</pubDate>
       <description>قبل الحرب سيطرت سوريا على الحصبة بتغطية تطعيم عالية، ثم انهارت التغطية في مناطق كثيرة فعادت الأوبئة. تعرف كيف تحمي طفلك وتكمل التطعيمات الفائتة.</description>
     </item>
     <item>
+      <title>تحاليل وظائف الكبد: دليل مبسط لفهم ALT و AST و ALP والبيليروبين والألبومين</title>
+      <link>https://www.sihtak.com/articles/liver-function-tests-guide/</link>
+      <guid isPermaLink="true">https://www.sihtak.com/articles/liver-function-tests-guide/</guid>
+      <pubDate>Thu, 06 Aug 2026 08:00:00 GMT</pubDate>
+      <description>دليل مبسط لفهم تحاليل وظائف الكبد ومعنى إنزيمات الكبد المرتفعة، ولماذا ترتفع، وعلامات التحذير، وكيف تحمي كبدك. الطبيب هو من يفسر النتائج.</description>
+    </item>
+    <item>
+      <title>وظائف الكلى: الكرياتينين واليوريا ومعدل الترشيح الكبيبي (eGFR)</title>
+      <link>https://www.sihtak.com/articles/kidney-function-tests-guide/</link>
+      <guid isPermaLink="true">https://www.sihtak.com/articles/kidney-function-tests-guide/</guid>
+      <pubDate>Thu, 06 Aug 2026 08:00:00 GMT</pubDate>
+      <description>دليل مبسط لفهم تحاليل وظائف الكلى: ما معنى الكرياتينين واليوريا وeGFR، ولماذا يرتفع بعضها، وكيف تحمي كليتيك ومتى تراجع الطبيب.</description>
+    </item>
+    <item>
       <title>ارتفاع ضغط الدم: القاتل الصامت وكيف تحمي نفسك</title>
       <link>https://www.sihtak.com/articles/high-blood-pressure-guide/</link>
-      <guid>https://www.sihtak.com/articles/high-blood-pressure-guide/</guid>
+      <guid isPermaLink="true">https://www.sihtak.com/articles/high-blood-pressure-guide/</guid>
       <pubDate>Thu, 06 Aug 2026 08:00:00 GMT</pubDate>
       <description>دليل مبسط لفهم أرقام ضغط الدم وفئاته، ولماذا يُسمى القاتل الصامت، وكيف تقيسه في المنزل بدقة، ومتى تطلب المساعدة الطارئة.</description>
     </item>
     <item>
-      <title>الكوليسترول وتحليل الدهون في الدم: دليلك المبسط</title>
-      <link>https://www.sihtak.com/articles/cholesterol-lipid-panel-guide/</link>
-      <guid>https://www.sihtak.com/articles/cholesterol-lipid-panel-guide/</guid>
-      <pubDate>Thu, 06 Aug 2026 08:00:00 GMT</pubDate>
-      <description>تعرف على الكوليسترول ومكونات تحليل الدهون: الكوليسترول الكلي والضار والنافع والدهون الثلاثية، وكيف تقرأ نتائجك مع طبيبك، وما يرفع القيم، وكيف تحميك التغذية والحركة.</description>
-    </item>
-    <item>
-      <title>الغدة الدرقية وتحليل TSH: دليلك المبسط</title>
-      <link>https://www.sihtak.com/articles/thyroid-tsh-guide/</link>
-      <guid>https://www.sihtak.com/articles/thyroid-tsh-guide/</guid>
-      <pubDate>Thu, 06 Aug 2026 08:00:00 GMT</pubDate>
-      <description>تعرف على الغدة الدرقية ودورها في الطاقة، وما هو تحليل TSH، والفرق بين الكسل والنشاط الزائد، وأعراضهما، ومتى تزور الطبيب.</description>
-    </item>
-    <item>
-      <title>نقص فيتامين ب12: الأعراض والأسباب والعلاج</title>
-      <link>https://www.sihtak.com/articles/vitamin-b12-deficiency-guide/</link>
-      <guid>https://www.sihtak.com/articles/vitamin-b12-deficiency-guide/</guid>
-      <pubDate>Thu, 06 Aug 2026 08:00:00 GMT</pubDate>
-      <description>دليل مبسط عن نقص فيتامين ب12: وظيفته للأعصاب والدم والطاقة، أعراضه، من هم الأكثر عرضة، كيف يُشخّص، مصادره الغذائية وعلاجه.</description>
-    </item>
-    <item>
       <title>السكري في سوريا: الأرقام والواقع وكيف تحمي نفسك</title>
       <link>https://www.sihtak.com/articles/diabetes-in-syria/</link>
-      <guid>https://www.sihtak.com/articles/diabetes-in-syria/</guid>
+      <guid isPermaLink="true">https://www.sihtak.com/articles/diabetes-in-syria/</guid>
       <pubDate>Thu, 06 Aug 2026 08:00:00 GMT</pubDate>
       <description>نظرة مبسطة على انتشار السكري في سوريا، وكيف أثرت سنوات الأزمة على رعاية المرضى، وخطوات عملية للوقاية والتحكم رغم الظروف الصعبة.</description>
     </item>
     <item>
-      <title>الثلاسيميا وزواج الأقارب في سوريا: لماذا الفحص قبل الزواج مهم</title>
-      <link>https://www.sihtak.com/articles/thalassemia-consanguinity-syria/</link>
-      <guid>https://www.sihtak.com/articles/thalassemia-consanguinity-syria/</guid>
+      <title>الكوليسترول وتحليل الدهون في الدم: دليلك المبسط</title>
+      <link>https://www.sihtak.com/articles/cholesterol-lipid-panel-guide/</link>
+      <guid isPermaLink="true">https://www.sihtak.com/articles/cholesterol-lipid-panel-guide/</guid>
       <pubDate>Thu, 06 Aug 2026 08:00:00 GMT</pubDate>
-      <description>الثلاسيميا من أكثر الأمراض الوراثية انتشارا في سوريا، ويزيد زواج الأقارب من خطرها. تعرف كيف تورث، ولماذا فحص ما قبل الزواج يحمي أطفالك.</description>
+      <description>تعرف على الكوليسترول ومكونات تحليل الدهون: الكوليسترول الكلي والضار والنافع والدهون الثلاثية، وكيف تقرأ نتائجك مع طبيبك، وما يرفع القيم، وكيف تحميك التغذية والحركة.</description>
     </item>
     <item>
       <title>حبة حلب (الليشمانيا الجلدية): لماذا تحمل اسم المدينة وكيف تحمي نفسك</title>
       <link>https://www.sihtak.com/articles/aleppo-boil-leishmaniasis-syria/</link>
-      <guid>https://www.sihtak.com/articles/aleppo-boil-leishmaniasis-syria/</guid>
+      <guid isPermaLink="true">https://www.sihtak.com/articles/aleppo-boil-leishmaniasis-syria/</guid>
       <pubDate>Thu, 06 Aug 2026 08:00:00 GMT</pubDate>
       <description>حبة حلب أو الليشمانيا الجلدية مرض جلدي قديم في سوريا تنقله ذبابة الرمل. تعرف على سببها، وكيف تظهر، ولماذا ازدادت خلال الحرب، وكيف تقي نفسك.</description>
     </item>
     <item>
-      <title>دليل عملي لنوم أفضل: عادات بسيطة تغير ليلك</title>
-      <link>https://www.sihtak.com/articles/better-sleep-guide/</link>
-      <guid>https://www.sihtak.com/articles/better-sleep-guide/</guid>
-      <pubDate>Mon, 13 Jul 2026 08:00:00 GMT</pubDate>
-      <description>لماذا يؤثر النوم في مناعتك ومزاجك ووزنك؟ كم ساعة تحتاج فعلاً كل ليلة؟ دليل عملي بعادات بسيطة لنوم أعمق، وعلامات تدل على أن نومك يحتاج إلى طبيب.</description>
+      <title>كم تحتاج من الماء في المناخ الحار؟</title>
+      <link>https://www.sihtak.com/articles/water-intake-hot-climate/</link>
+      <guid isPermaLink="true">https://www.sihtak.com/articles/water-intake-hot-climate/</guid>
+      <pubDate>Wed, 05 Aug 2026 08:00:00 GMT</pubDate>
+      <description>الجواب يتغير كثيراً تحت شمس المنطقة العربية. تعرف على علامات الجفاف الحقيقية ولون البول دليلاً عملياً ولماذا المشروبات السكرية لا تعوض الماء.</description>
     </item>
     <item>
-      <title>التفاعلات الدوائية: دليل مبسط لكل عائلة</title>
-      <link>https://www.sihtak.com/articles/drug-interactions-guide/</link>
-      <guid>https://www.sihtak.com/articles/drug-interactions-guide/</guid>
-      <pubDate>Mon, 13 Jul 2026 08:00:00 GMT</pubDate>
-      <description>هل تعلم أن بعض الأطعمة والأعشاب قد تغيّر مفعول أدويتك؟ دليل مبسط للتفاعلات الدوائية الشائعة، وعادات بسيطة تحمي عائلتك عند تناول أكثر من دواء.</description>
+      <title>تسمم الحمل: أعراض ضغط الدم الخطرة</title>
+      <link>https://www.sihtak.com/articles/preeclampsia-warning-signs/</link>
+      <guid isPermaLink="true">https://www.sihtak.com/articles/preeclampsia-warning-signs/</guid>
+      <pubDate>Wed, 05 Aug 2026 08:00:00 GMT</pubDate>
+      <description>دليل شامل لتسمم الحمل (Preeclampsia): الأعراض التحذيرية التي لا يجب تجاهلها، حدود ضغط الدم الخطرة، وما يجب فعله قبل وصول الطبيب.</description>
     </item>
     <item>
-      <title>كيف تقرأ نتائج تحليل الدم بنفسك</title>
-      <link>https://www.sihtak.com/articles/how-to-read-blood-test-results/</link>
-      <guid>https://www.sihtak.com/articles/how-to-read-blood-test-results/</guid>
-      <pubDate>Mon, 13 Jul 2026 08:00:00 GMT</pubDate>
-      <description>دليل بسيط وواضح يشرح لك مكونات تحليل الدم الشائعة، ومعنى النطاق المرجعي، ومتى تحتاج فعلاً إلى استشارة الطبيب دون قلق زائد.</description>
+      <title>دواؤك غير متوفر: ما تفعله بأمان</title>
+      <link>https://www.sihtak.com/articles/medication-shortages-coping/</link>
+      <guid isPermaLink="true">https://www.sihtak.com/articles/medication-shortages-coping/</guid>
+      <pubDate>Wed, 05 Aug 2026 08:00:00 GMT</pubDate>
+      <description>شُح الأدوية في سوريا واليمن ولبنان والسودان واقع شائع. تعرّف على الأدوية الخطيرة إيقافها فجأة وكيف تجد البدائل وكيف تُقنّن الجرعة بأمان.</description>
     </item>
     <item>
-      <title>فقر الدم ونقص الحديد: التعب الذي لا يجب تجاهله</title>
-      <link>https://www.sihtak.com/articles/iron-deficiency-anemia-guide/</link>
-      <guid>https://www.sihtak.com/articles/iron-deficiency-anemia-guide/</guid>
-      <pubDate>Mon, 13 Jul 2026 08:00:00 GMT</pubDate>
-      <description>تشعر بتعب مستمر وشحوب وتساقط شعر؟ قد يكون السبب نقص الحديد. تعرف على الأعراض، ومن هم الأكثر عرضة، والتحاليل اللازمة، وأفضل مصادر الحديد في غذائك.</description>
+      <title>اضطراب الدورة الشهرية: الأسباب وما تحتاجين فحصه</title>
+      <link>https://www.sihtak.com/articles/irregular-periods-causes/</link>
+      <guid isPermaLink="true">https://www.sihtak.com/articles/irregular-periods-causes/</guid>
+      <pubDate>Wed, 05 Aug 2026 08:00:00 GMT</pubDate>
+      <description>الغدة الدرقية وتكيس المبايض والتوتر والوزن كلها تُؤثر على الدورة. تعرفي على الأسباب الشائعة والتحاليل التي تُساعد على التشخيص.</description>
     </item>
     <item>
-      <title>نقص فيتامين د: العلامات والأسباب وماذا تفعل</title>
-      <link>https://www.sihtak.com/articles/vitamin-d-deficiency-signs/</link>
-      <guid>https://www.sihtak.com/articles/vitamin-d-deficiency-signs/</guid>
-      <pubDate>Mon, 13 Jul 2026 08:00:00 GMT</pubDate>
-      <description>التعب وآلام العظام وتقلب المزاج قد تكون علامات على نقص فيتامين د. تعرف على أسباب انتشاره في منطقتنا رغم الشمس، وكيف يشخص بتحليل دم بسيط، وماذا تفعل.</description>
+      <title>إيبوبروفين ومضادات الالتهاب: من يجب أن يتجنبها؟</title>
+      <link>https://www.sihtak.com/articles/ibuprofen-nsaids-risks/</link>
+      <guid isPermaLink="true">https://www.sihtak.com/articles/ibuprofen-nsaids-risks/</guid>
+      <pubDate>Wed, 05 Aug 2026 08:00:00 GMT</pubDate>
+      <description>دليل عملي لمضادات الالتهاب غير الستيرويدية: أضرارها على المعدة والكلى وضغط الدم، والحالات التي تستوجب تجنبها تماماً مع بدائل أكثر أماناً.</description>
+    </item>
+    <item>
+      <title>أرقام الطوارئ في الدول العربية: متى تتصل وكيف؟</title>
+      <link>https://www.sihtak.com/articles/emergency-numbers-arab-countries/</link>
+      <guid isPermaLink="true">https://www.sihtak.com/articles/emergency-numbers-arab-countries/</guid>
+      <pubDate>Wed, 05 Aug 2026 08:00:00 GMT</pubDate>
+      <description>أرقام الإسعاف والشرطة والإطفاء الموثّقة في السعودية والإمارات ومصر والأردن ولبنان وسوريا والعراق والكويت وقطر والبحرين وعُمان والمغرب والجزائر وتونس.</description>
+    </item>
+    <item>
+      <title>الكوليرا: كيف تعرفها وكيف تمنع الوفاة من الجفاف</title>
+      <link>https://www.sihtak.com/articles/cholera-outbreak-guide/</link>
+      <guid isPermaLink="true">https://www.sihtak.com/articles/cholera-outbreak-guide/</guid>
+      <pubDate>Wed, 05 Aug 2026 08:00:00 GMT</pubDate>
+      <description>وباء الكوليرا (Cholera) ضرب اليمن وسوريا والسودان. تعرف على أعراض الجفاف الشديد وكيفية تحضير محلول الإماهة الفموي في المنزل.</description>
+    </item>
+    <item>
+      <title>الإسهال عند الأطفال: الإماهة التي تنقذ الحياة</title>
+      <link>https://www.sihtak.com/articles/child-diarrhoea-dehydration/</link>
+      <guid isPermaLink="true">https://www.sihtak.com/articles/child-diarrhoea-dehydration/</guid>
+      <pubDate>Wed, 05 Aug 2026 08:00:00 GMT</pubDate>
+      <description>دليل عملي للوالدين عن إعداد محلول الإماهة الفموي في المنزل، علامات الجفاف عند الطفل، ودور الزنك في تقصير مدة الإسهال، ومتى يجب الذهاب للمستشفى.</description>
+    </item>
+    <item>
+      <title>جودة الماء والأمراض التي ينقلها: دليل عملي للوقاية</title>
+      <link>https://www.sihtak.com/articles/water-quality-and-disease/</link>
+      <guid isPermaLink="true">https://www.sihtak.com/articles/water-quality-and-disease/</guid>
+      <pubDate>Tue, 04 Aug 2026 08:00:00 GMT</pubDate>
+      <description>مقارنة عملية بين الغلي والكلور والترشيح لتنقية الماء في المنزل، وكيفية تنظيف خزان الماء، والأمراض التي تنقلها المياه الملوثة ومتى تطلب المساعدة الطبية.</description>
+    </item>
+    <item>
+      <title>الورم العضلي الليفي بالرحم: الأعراض والتشخيص والعلاج</title>
+      <link>https://www.sihtak.com/articles/uterine-fibroids-guide/</link>
+      <guid isPermaLink="true">https://www.sihtak.com/articles/uterine-fibroids-guide/</guid>
+      <pubDate>Tue, 04 Aug 2026 08:00:00 GMT</pubDate>
+      <description>دليل شامل عن الأورام الليفية الرحمية (Uterine Fibroids): أسبابها وأعراضها وعلاقتها بفقر الدم والحمل، وكيف تختاري العلاج المناسب من دواء أو جراحة.</description>
+    </item>
+    <item>
+      <title>الصحة في السفر: التطعيمات والأدوية وما يجب التحضير له</title>
+      <link>https://www.sihtak.com/articles/travel-health-preparation/</link>
+      <guid isPermaLink="true">https://www.sihtak.com/articles/travel-health-preparation/</guid>
+      <pubDate>Tue, 04 Aug 2026 08:00:00 GMT</pubDate>
+      <description>التحضير الصحي للسفر يمنع أغلب مشاكل الصحة الشائعة في الرحلات. تعلم ما تحتاجه من تطعيمات وأدوية وكيف تحمل أدويتك عبر الحدود بأمان.</description>
+    </item>
+    <item>
+      <title>الترامادول والاعتماد على المسكنات: الواقع والمخرج</title>
+      <link>https://www.sihtak.com/articles/tramadol-painkiller-addiction/</link>
+      <guid isPermaLink="true">https://www.sihtak.com/articles/tramadol-painkiller-addiction/</guid>
+      <pubDate>Tue, 04 Aug 2026 08:00:00 GMT</pubDate>
+      <description>الترامادول أكثر أدوية الإدمان شيوعاً في مصر ودول عربية أخرى. دليل غير مُحكوم عليك لفهم كيف يحدث الاعتماد وما الذي يساعد فعلاً.</description>
+    </item>
+    <item>
+      <title>السكر في الحلويات والمشروبات العربية: الأرقام الحقيقية</title>
+      <link>https://www.sihtak.com/articles/sugar-in-arabic-sweets/</link>
+      <guid isPermaLink="true">https://www.sihtak.com/articles/sugar-in-arabic-sweets/</guid>
+      <pubDate>Tue, 04 Aug 2026 08:00:00 GMT</pubDate>
+      <description>تعرف على كمية السكر الفعلية في الكنافة والبقلاوة والمشروبات الغازية والشاي المحلى، وكيف تؤثر على خطر الإصابة بالسكري، مع نصائح عملية غير مبنية على الإدانة.</description>
+    </item>
+    <item>
+      <title>الستاتينات: فوائدها الحقيقية وألم العضلات والأساطير الشائعة</title>
+      <link>https://www.sihtak.com/articles/statins-cholesterol-drugs/</link>
+      <guid isPermaLink="true">https://www.sihtak.com/articles/statins-cholesterol-drugs/</guid>
+      <pubDate>Tue, 04 Aug 2026 08:00:00 GMT</pubDate>
+      <description>دليل واضح عن أدوية الكوليسترول (الستاتينات): ما الذي تفعله فعلاً، الفرق بين الخطر النسبي والمطلق، متى يكون ألم العضلات حقيقياً ومتى يكون لأسباب أخرى، وأهمية الالتزام بالدواء.</description>
+    </item>
+    <item>
+      <title>البلهارسيا: طفيل مياه النيل وقنوات الري</title>
+      <link>https://www.sihtak.com/articles/schistosomiasis-bilharzia/</link>
+      <guid isPermaLink="true">https://www.sihtak.com/articles/schistosomiasis-bilharzia/</guid>
+      <pubDate>Tue, 04 Aug 2026 08:00:00 GMT</pubDate>
+      <description>دليل شامل عن مرض البلهارسيا (Schistosomiasis): دورة حياة الطفيل، علامة الدم في البول، صلته بسرطان المثانة، وعلاجه بالبرازيكوانتيل.</description>
+    </item>
+    <item>
+      <title>الأرق: كيف تُصلح نومك بدون حبوب</title>
+      <link>https://www.sihtak.com/articles/insomnia-treatment-cbt/</link>
+      <guid isPermaLink="true">https://www.sihtak.com/articles/insomnia-treatment-cbt/</guid>
+      <pubDate>Tue, 04 Aug 2026 08:00:00 GMT</pubDate>
+      <description>لماذا العلاج المعرفي السلوكي للأرق يتفوق على الحبوب المنومة في النتائج طويلة المدى؟ خطوات عملية لتقييد النوم وضبط الحافزية تُجريها بنفسك في البيت.</description>
+    </item>
+    <item>
+      <title>قصور الغدة الدرقية: الأعراض والعلاج والمتابعة</title>
+      <link>https://www.sihtak.com/articles/hypothyroidism-underactive-thyroid/</link>
+      <guid isPermaLink="true">https://www.sihtak.com/articles/hypothyroidism-underactive-thyroid/</guid>
+      <pubDate>Tue, 04 Aug 2026 08:00:00 GMT</pubDate>
+      <description>دليل شامل لقصور الغدة الدرقية: أعراضه الشائعة، كيفية أخذ ليفوثيروكسين بالطريقة الصحيحة، والتداخلات مع القهوة والحديد، وجداول إعادة الفحص.</description>
+    </item>
+    <item>
+      <title>الحجامة: ما تقوله الأبحاث وكيف تجريها بأمان</title>
+      <link>https://www.sihtak.com/articles/hijama-cupping-evidence/</link>
+      <guid isPermaLink="true">https://www.sihtak.com/articles/hijama-cupping-evidence/</guid>
+      <pubDate>Tue, 04 Aug 2026 08:00:00 GMT</pubDate>
+      <description>مراجعة موضوعية لأدلة الحجامة العلمية في تخفيف الألم وضغط الدم، مع شرح مفصل لمخاطر العدوى وسلامة الإبر وحالات يجب تجنب الحجامة فيها.</description>
+    </item>
+    <item>
+      <title>نقص G6PD (الفوّالة): الأطعمة والأدوية التي يجب تجنبها</title>
+      <link>https://www.sihtak.com/articles/g6pd-deficiency-favism/</link>
+      <guid isPermaLink="true">https://www.sihtak.com/articles/g6pd-deficiency-favism/</guid>
+      <pubDate>Tue, 04 Aug 2026 08:00:00 GMT</pubDate>
+      <description>دليل عملي لمن يعاني من نقص G6PD (الفوّالة): قائمة بالأطعمة والأدوية المحظورة، وكيف تتعرف على أزمة انحلال الدم وماذا تفعل.</description>
+    </item>
+    <item>
+      <title>صحة الأسنان واللثة: الوقاية وعلاقة السكري باللثة</title>
+      <link>https://www.sihtak.com/articles/dental-health-guide/</link>
+      <guid isPermaLink="true">https://www.sihtak.com/articles/dental-health-guide/</guid>
+      <pubDate>Tue, 04 Aug 2026 08:00:00 GMT</pubDate>
+      <description>تقنية تنظيف الأسنان الصحيحة، خيط الأسنان والمسواك بدليل العلم، والعلاقة الثنائية بين مرض اللثة والسكري التي يجهلها كثيرون.</description>
+    </item>
+    <item>
+      <title>قصور الغدة الدرقية عند المولود: لماذا فحص الكعب مهم جداً</title>
+      <link>https://www.sihtak.com/articles/congenital-hypothyroidism-newborn/</link>
+      <guid isPermaLink="true">https://www.sihtak.com/articles/congenital-hypothyroidism-newborn/</guid>
+      <pubDate>Tue, 04 Aug 2026 08:00:00 GMT</pubDate>
+      <description>قصور الغدة الدرقية الخلقي قابل للعلاج تماماً إذا اكتُشف في الأسابيع الأولى. ما هو الفحص، ومتى يُجرى، وماذا تفعل إذا كانت النتيجة غير طبيعية.</description>
+    </item>
+    <item>
+      <title>الربو عند الأطفال: البخاخات والكراهب والمدرسة</title>
+      <link>https://www.sihtak.com/articles/child-asthma-guide/</link>
+      <guid isPermaLink="true">https://www.sihtak.com/articles/child-asthma-guide/</guid>
+      <pubDate>Tue, 04 Aug 2026 08:00:00 GMT</pubDate>
+      <description>دليل عملي لربو الأطفال يشمل تقنية الكراهب، ومحفزات الغبار والدخان في البيت، وخطة المدرسة، ومتى تطلب مساعدة طارئة.</description>
+    </item>
+    <item>
+      <title>القلق عند الأطفال: علامات يُغفلها الآباء</title>
+      <link>https://www.sihtak.com/articles/child-anxiety-and-fears/</link>
+      <guid isPermaLink="true">https://www.sihtak.com/articles/child-anxiety-and-fears/</guid>
+      <pubDate>Tue, 04 Aug 2026 08:00:00 GMT</pubDate>
+      <description>قلق الطفل نادرا ما يبدو كقلق. يظهر في آلام البطن والامتناع عن المدرسة والتعلق الزائد. تعرف على ما تبحث عنه وكيف تُساعد دون أن تُفاقم الأمر.</description>
+    </item>
+    <item>
+      <title>الرضاعة الطبيعية: كيف تنجح وكيف تتغلب على المشكلات</title>
+      <link>https://www.sihtak.com/articles/breastfeeding-guide/</link>
+      <guid isPermaLink="true">https://www.sihtak.com/articles/breastfeeding-guide/</guid>
+      <pubDate>Tue, 04 Aug 2026 08:00:00 GMT</pubDate>
+      <description>دليل عملي للرضاعة الطبيعية: الالتصاق الصحيح، قلق نقص الحليب، التهاب الثدي، والإجابة عن سؤال الصيام في رمضان أثناء الإرضاع.</description>
+    </item>
+    <item>
+      <title>تحليل حمض اليوريك والنقرس: الأرقام وأساطير الغذاء</title>
+      <link>https://www.sihtak.com/articles/uric-acid-test-gout/</link>
+      <guid isPermaLink="true">https://www.sihtak.com/articles/uric-acid-test-gout/</guid>
+      <pubDate>Mon, 03 Aug 2026 08:00:00 GMT</pubDate>
+      <description>دليل كامل لفهم تحليل حمض اليوريك (Uric Acid) في الدم، معدلاته الطبيعية، أسباب ارتفاعه، وعلاقته بالنقرس مع تصحيح أساطير الطعام الشائعة.</description>
+    </item>
+    <item>
+      <title>الجلطة الدماغية: التعرف عليها في دقائق والتصرف الصحيح</title>
+      <link>https://www.sihtak.com/articles/stroke-warning-signs/</link>
+      <guid isPermaLink="true">https://www.sihtak.com/articles/stroke-warning-signs/</guid>
+      <pubDate>Mon, 03 Aug 2026 08:00:00 GMT</pubDate>
+      <description>دليل عاجل للجلطة الدماغية: اختبار FAST بالعربية، نافذة العلاج التي تنقذ الحياة، لماذا الانتظار يقتل، وكيف تتصرف بينما تنتظر الإسعاف.</description>
+    </item>
+    <item>
+      <title>تحليل البراز: الطفيليات والدم وما تعنيه النتائج</title>
+      <link>https://www.sihtak.com/articles/stool-analysis-parasites/</link>
+      <guid isPermaLink="true">https://www.sihtak.com/articles/stool-analysis-parasites/</guid>
+      <pubDate>Mon, 03 Aug 2026 08:00:00 GMT</pubDate>
+      <description>دليل واضح لقراءة نتيجة تحليل البراز: فحص الطفيليات كالأميبا والجيارديا، والدم الخفي، وكيفية أخذ العينة بشكل صحيح، ومتى تستدعي النتيجة مراجعة الطبيب.</description>
+    </item>
+    <item>
+      <title>الكساح ونقص فيتامين د عند الأطفال</title>
+      <link>https://www.sihtak.com/articles/rickets-vitamin-d-children/</link>
+      <guid isPermaLink="true">https://www.sihtak.com/articles/rickets-vitamin-d-children/</guid>
+      <pubDate>Mon, 03 Aug 2026 08:00:00 GMT</pubDate>
+      <description>الكساح يعود للظهور في منطقتنا رغم الشمس الوفيرة. تعرف على أسبابه عند الأطفال والجرعات الوقائية لكل مرحلة عمرية وعلامات التحذير.</description>
+    </item>
+    <item>
+      <title>اضطراب ما بعد الصدمة: الأعراض، وماذا يساعد</title>
+      <link>https://www.sihtak.com/articles/ptsd-after-war-and-disaster/</link>
+      <guid isPermaLink="true">https://www.sihtak.com/articles/ptsd-after-war-and-disaster/</guid>
+      <pubDate>Mon, 03 Aug 2026 08:00:00 GMT</pubDate>
+      <description>دليل شامل لاضطراب ما بعد الصدمة (PTSD) في سياق الحرب والنزوح والكوارث، يشرح الأعراض والعلاج المتاح ومتى تطلب المساعدة.</description>
+    </item>
+    <item>
+      <title>النظام الغذائي المتوسطي بالأطعمة الشامية والمغاربية</title>
+      <link>https://www.sihtak.com/articles/mediterranean-diet-arab-version/</link>
+      <guid isPermaLink="true">https://www.sihtak.com/articles/mediterranean-diet-arab-version/</guid>
+      <pubDate>Mon, 03 Aug 2026 08:00:00 GMT</pubDate>
+      <description>أفضل نظام غذائي من حيث الإثبات العلمي هو في جوهره الطعام الإقليمي الأصيل. أعد اكتشاف ما تعرفه بالفعل وتناوله بوعي أكبر.</description>
+    </item>
+    <item>
+      <title>أطعمة غنية بالحديد في المطبخ العربي</title>
+      <link>https://www.sihtak.com/articles/iron-rich-foods-arab-diet/</link>
+      <guid isPermaLink="true">https://www.sihtak.com/articles/iron-rich-foods-arab-diet/</guid>
+      <pubDate>Mon, 03 Aug 2026 08:00:00 GMT</pubDate>
+      <description>قائمة بأفضل مصادر الحديد في النظام الغذائي العربي، مع شرح الفرق بين الحديد الحيواني والنباتي، ولماذا الشاي مع الأكل عادة سيئة لامتصاص الحديد.</description>
+    </item>
+    <item>
+      <title>كيف تستخدم البخاخ بشكل صحيح مع البوق وبدونه</title>
+      <link>https://www.sihtak.com/articles/inhaler-technique-guide/</link>
+      <guid isPermaLink="true">https://www.sihtak.com/articles/inhaler-technique-guide/</guid>
+      <pubDate>Mon, 03 Aug 2026 08:00:00 GMT</pubDate>
+      <description>معظم من يستخدم البخاخ يرتكب أخطاء تجعل الدواء لا يصل إلى الرئتين. دليل خطوة بخطوة لبخاخ MDI والبوق الفاصل والبودرة الجافة.</description>
+    </item>
+    <item>
+      <title>صحتك في الحج والعمرة: دليل شامل للاستعداد</title>
+      <link>https://www.sihtak.com/articles/hajj-umrah-health-guide/</link>
+      <guid isPermaLink="true">https://www.sihtak.com/articles/hajj-umrah-health-guide/</guid>
+      <pubDate>Mon, 03 Aug 2026 08:00:00 GMT</pubDate>
+      <description>كيف تستعد طبيا للحج أو العمرة: التطعيمات الإلزامية والموصى بها وإدارة الأمراض المزمنة والوقاية من الحرارة والعدوى وما تحمله معك من أدوية.</description>
+    </item>
+    <item>
+      <title>فحوصات تأخر الحمل: ما تكشفه وكيف تُقرأ</title>
+      <link>https://www.sihtak.com/articles/female-infertility-tests/</link>
+      <guid isPermaLink="true">https://www.sihtak.com/articles/female-infertility-tests/</guid>
+      <pubDate>Mon, 03 Aug 2026 08:00:00 GMT</pubDate>
+      <description>دليل مبسط لفحوصات الخصوبة لدى المرأة: هرمونات المبيض، AMH، تتبع التبويض، سالكية قناتَي فالوب، ولماذا لا يكتمل التقييم دون فحص الشريك.</description>
+    </item>
+    <item>
+      <title>مضادات التخثر: الوارفارين والأدوية الجديدة وكيف تبقى بأمان</title>
+      <link>https://www.sihtak.com/articles/blood-thinners-warfarin-doacs/</link>
+      <guid isPermaLink="true">https://www.sihtak.com/articles/blood-thinners-warfarin-doacs/</guid>
+      <pubDate>Mon, 03 Aug 2026 08:00:00 GMT</pubDate>
+      <description>مقارنة بين الوارفارين والأدوية المضادة للتخثر الأحدث (DOACs)، وجدول INR حسب التشخيص، وتأثيرات الطعام والأدوية، وإرشادات السلامة قبل العمليات.</description>
+    </item>
+    <item>
+      <title>إنقاص الوزن: ما يثبته العلم فعلاً</title>
+      <link>https://www.sihtak.com/articles/weight-loss-that-works/</link>
+      <guid isPermaLink="true">https://www.sihtak.com/articles/weight-loss-that-works/</guid>
+      <pubDate>Sun, 02 Aug 2026 08:00:00 GMT</pubDate>
+      <description>دليل علمي غير مُشيم لإنقاص الوزن: ميزان الطاقة، لماذا تفشل الحميات السريعة، الهضبة، وحقن GLP-1 الشائعة في المنطقة.</description>
+    </item>
+    <item>
+      <title>الرقية الشرعية والطب: كيف يجتمعان دون تعارض</title>
+      <link>https://www.sihtak.com/articles/ruqyah-and-modern-medicine/</link>
+      <guid isPermaLink="true">https://www.sihtak.com/articles/ruqyah-and-modern-medicine/</guid>
+      <pubDate>Sun, 02 Aug 2026 08:00:00 GMT</pubDate>
+      <description>الرقية الشرعية ممارسة راسخة ومشروعة، ومقال سهتاك لا يناقش إباحتها. السؤال الطبي الوحيد هو: كيف تُمارسها دون أن تتأخر عن علاج يُنقذك؟</description>
+    </item>
+    <item>
+      <title>التأمين الصحي في الدول العربية: كيف يعمل</title>
+      <link>https://www.sihtak.com/articles/health-insurance-arab-countries/</link>
+      <guid isPermaLink="true">https://www.sihtak.com/articles/health-insurance-arab-countries/</guid>
+      <pubDate>Sat, 01 Aug 2026 08:00:00 GMT</pubDate>
+      <description>دليل مقارن للتأمين الصحي في السعودية والإمارات ومصر والأردن ولبنان. ما يُغطيه وما لا يُغطيه، وكيف تقرأ وثيقتك قبل أن تحتاجها.</description>
+    </item>
+    <item>
+      <title>الحموضة وارتجاع المريء: الأسباب والعلاج ومتى تقلق</title>
+      <link>https://www.sihtak.com/articles/gerd-acid-reflux/</link>
+      <guid isPermaLink="true">https://www.sihtak.com/articles/gerd-acid-reflux/</guid>
+      <pubDate>Sat, 01 Aug 2026 08:00:00 GMT</pubDate>
+      <description>دليل شامل للحموضة وارتجاع المريء: الأعراض التحذيرية، دور العادات الغذائية في منطقتنا، الأدوية المثبطة للحمض ومتى يلزم التنظير.</description>
+    </item>
+    <item>
+      <title>السكري النوع الثاني: دليل شامل للمريض في المنطقة العربية</title>
+      <link>https://www.sihtak.com/articles/type-2-diabetes-complete-guide/</link>
+      <guid isPermaLink="true">https://www.sihtak.com/articles/type-2-diabetes-complete-guide/</guid>
+      <pubDate>Thu, 30 Jul 2026 08:00:00 GMT</pubDate>
+      <description>كل ما تحتاج معرفته عن السكري النوع الثاني: التشخيص وأهداف HbA1c والمضاعفات وإدارة الصيام والعلاج في ظل التحديات الإقليمية الخاصة بمنطقتنا.</description>
+    </item>
+    <item>
+      <title>الأعشاب والأدوية: التفاعلات الخطيرة التي تجهلها</title>
+      <link>https://www.sihtak.com/articles/herbal-remedies-drug-interactions/</link>
+      <guid isPermaLink="true">https://www.sihtak.com/articles/herbal-remedies-drug-interactions/</guid>
+      <pubDate>Thu, 30 Jul 2026 08:00:00 GMT</pubDate>
+      <description>تعرف على الأعشاب الشائعة في المنطقة العربية والأدوية التي تتفاعل معها بصورة خطيرة، ولماذا يجب إخبار طبيبك بكل ما تتناوله من نباتات ومكملات.</description>
+    </item>
+    <item>
+      <title>اعتلال الشبكية السكري: كيف تحمي بصرك قبل فوات الأوان</title>
+      <link>https://www.sihtak.com/articles/diabetic-retinopathy-eyes/</link>
+      <guid isPermaLink="true">https://www.sihtak.com/articles/diabetic-retinopathy-eyes/</guid>
+      <pubDate>Thu, 30 Jul 2026 08:00:00 GMT</pubDate>
+      <description>اعتلال الشبكية السكري يسرق البصر بصمت لسنوات. اعرف متى تبدأ فحوصات العين وما الذي يحدث فعلاً داخل العين ومتى يصبح الأمر طارئاً.</description>
+    </item>
+    <item>
+      <title>كيف تقرأ التقرير الطبي وتطرح أسئلة أفضل على طبيبك؟</title>
+      <link>https://www.sihtak.com/articles/understanding-your-medical-report/</link>
+      <guid isPermaLink="true">https://www.sihtak.com/articles/understanding-your-medical-report/</guid>
+      <pubDate>Tue, 28 Jul 2026 08:00:00 GMT</pubDate>
+      <description>دليل عملي لفهم اختصارات التحاليل والتقارير الإشعاعية، وحفظ سجلك الصحي، وطرح الأسئلة الصحيحة التي تمنحك إجابات واضحة من طبيبك.</description>
+    </item>
+    <item>
+      <title>أجسام الغدة الدرقية المضادة: anti-TPO وanti-Tg وما تعنيه</title>
+      <link>https://www.sihtak.com/articles/thyroid-antibodies-tpo/</link>
+      <guid isPermaLink="true">https://www.sihtak.com/articles/thyroid-antibodies-tpo/</guid>
+      <pubDate>Tue, 28 Jul 2026 08:00:00 GMT</pubDate>
+      <description>دليل لفهم نتائج أجسام الغدة الدرقية المضادة anti-TPO وanti-Tg، وما تعنيه حين يكون TSH طبيعياً، ومتى تستدعي متابعة دورية دون علاج فوري.</description>
+    </item>
+    <item>
+      <title>الملح وضغط الدم: كم هو كثير وأين يختبئ؟</title>
+      <link>https://www.sihtak.com/articles/salt-intake-blood-pressure/</link>
+      <guid isPermaLink="true">https://www.sihtak.com/articles/salt-intake-blood-pressure/</guid>
+      <pubDate>Tue, 28 Jul 2026 08:00:00 GMT</pubDate>
+      <description>تعرف على الكمية الآمنة من الملح يوميا، والأطعمة التي تحتوي على كميات مخفية في النظام الغذائي العربي، وكيف تخفض استهلاكك فعليا.</description>
+    </item>
+    <item>
+      <title>زيت الزيتون: ما يدعمه الدليل العلمي فعلاً</title>
+      <link>https://www.sihtak.com/articles/olive-oil-health/</link>
+      <guid isPermaLink="true">https://www.sihtak.com/articles/olive-oil-health/</guid>
+      <pubDate>Tue, 28 Jul 2026 08:00:00 GMT</pubDate>
+      <description>زيت الزيتون البكر الممتاز له فوائد قلبية موثقة، لكن ليس كل زيت زيتون متساوياً. تعرف على الفرق بين الأنواع ودرجة الحرارة المناسبة والغش التجاري.</description>
     </item>
   </channel>
 </rss>

@@ -1,0 +1,359 @@
+{
+  "slug": "autism-early-signs",
+  "category": "child-health",
+  "chip_ar": "صحة الطفل",
+  "chip_en": "Child Health",
+  "date_iso": "2026-07-10",
+  "sources": [
+    {
+      "label": "Seif Eldin A, Habib D, Noufal A et al: Use of M-CHAT for a multinational screening of young children with autism in the Arab countries, International review of psychiatry (Abingdon, England), 2008",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18569180/"
+    },
+    {
+      "label": "Nasir AK, Masri AT, Shaheen S et al: Arabic Language Autism Diagnostic Interview (ALADIN): A Validation Study, Journal of autism and developmental disorders, 2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40100562/"
+    },
+    {
+      "label": "Burstain TL, Jacques D, Burstain JM et al: Association Between First MMR Vaccination Before Age 2 Years and Childhood Autism in a U.S. EHR Cohort of 2.5 Million Children, The Pediatric infectious disease journal, 2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42520244/"
+    },
+    {
+      "label": "Fuller EA, Kaiser AP: The Effects of Early Intervention on Social Communication Outcomes for Children with Autism Spectrum Disorder: A Meta-analysis, Journal of autism and developmental disorders, 2020",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30805766/"
+    },
+    {
+      "label": "Sandbank M, Bottema-Beutel K, Crowley LaPoint S et al: Autism intervention meta-analysis of early childhood studies (Project AIM): updated systematic review and secondary analysis, BMJ (Clinical research ed.), 2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37963634/"
+    },
+    {
+      "label": "Turfa M, Rida A, Siblany Y et al: Autism spectrum disorder knowledge among kindergarten teachers in Lebanon: a cross-sectional survey, BMJ paediatrics open, 2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41177556/"
+    },
+    {
+      "label": "World Health Organization: Autism spectrum disorders fact sheet",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/autism-spectrum-disorders"
+    }
+  ],
+  "content": {
+    "en": {
+      "title": "Autism: early signs and getting an assessment",
+      "desc": "Learn which developmental signs to look for in children aged 12 months to 4 years, when to seek an assessment, and why early support makes a real difference.",
+      "keywords": "autism early signs children, autism symptoms toddler, autism assessment Arab countries, autism red flags 18 months, autistic child behaviour, autism diagnosis Middle East",
+      "h1": "Autism in children: early signs, assessment, and what comes next",
+      "takeaways": [
+        "Early signs of autism can appear before 18 months, but many children are not identified until age 3 or later.",
+        "The most important early signs are not connecting through eye contact and not pointing to share interest, rather than not speaking.",
+        "Autism is not caused by vaccines. This has been studied in millions of children and the evidence is clear.",
+        "Starting support before age 4 gives the best outcomes, even before a formal diagnosis is confirmed.",
+        "An assessment is available in most Arab countries through child psychiatry, developmental paediatrics, or neurology departments."
+      ],
+      "sections": [
+        {
+          "h2": "What is autism and what does it actually mean for a child?",
+          "paras": [
+            "Autism spectrum disorder (ASD) is a difference in how the brain develops, affecting how a person communicates, relates to others, and experiences the world around them. The word 'spectrum' matters: autism looks very different from one child to the next. One child may not speak at all at age three. Another may speak in full sentences but find it very hard to play alongside other children or to cope with unexpected changes.",
+            "According to the World Health Organization, approximately 1 in 100 children has autism worldwide, though estimates vary across studies. In Arab countries, recognition has historically been lower than in Europe or North America, not because autism is rarer, but because awareness among families and health workers has lagged. A 2008 multinational study that screened children across several Arab countries using the M-CHAT screening tool found that many children at risk had not previously been identified by their families or clinics.",
+            "Autism is not a disease that appeared recently. It is not caused by parenting style, by stress during pregnancy, or by any vaccine. It is a neurodevelopmental variation that is present from birth, even when signs only become visible in the second year of life.",
+            "Understanding what autism is, and just as importantly what it is not, is the starting point for getting the right support at the right time."
+          ],
+          "visual": {
+            "type": "stats",
+            "items": [
+              {"value": "1 in 100", "label": "children affected globally (WHO estimate)", "tone": "info"},
+              {"value": "4:1", "label": "ratio of boys to girls diagnosed", "tone": "neutral"}
+            ]
+          }
+        },
+        {
+          "h2": "What are the earliest signs to look for in the first two years?",
+          "paras": [
+            "The signs that matter most in the first two years are not about speech, even though delayed speech is what most families notice first. The more telling early signs involve how a baby connects with the people around them. Most children with autism show changes in social attention and communication before they show obvious differences in speech.",
+            "By 9 to 12 months, a child without autism typically makes frequent eye contact with familiar people, smiles back when smiled at, and points at things they find interesting, not just to get something but to share the experience with you. They also respond when their name is called, turning reliably within a few seconds. If these behaviours are absent or inconsistent by the end of the first year, that is worth noting.",
+            "Between 12 and 18 months, the signs become clearer. A child who does not wave goodbye, does not point to show interest, does not look at an object when you point to it, and does not engage in simple back-and-forth play with sounds or expressions is showing a pattern worth discussing with a doctor. Loss of skills that the child previously had, such as losing words they had begun to use, is a clear red flag at any age and should always be investigated.",
+            "Speech delay alone does not confirm autism. Some children with autism speak on schedule but show the social differences described above. Other children have speech delays for entirely different reasons. The pattern of several signs together, particularly the social and communication differences, is what warrants investigation."
+          ],
+          "visual": {
+            "type": "timeline",
+            "title": "Developmental milestones and when to act",
+            "items": [
+              {"when": "9 months", "what": "Should respond to their own name consistently"},
+              {"when": "12 months", "what": "Should point, wave, and make varied sounds with intent"},
+              {"when": "16 months", "what": "Should use at least a few single words meaningfully"},
+              {"when": "18 months", "what": "Should use at least 6 to 10 words and show joint attention"},
+              {"when": "24 months", "what": "Should use 2-word phrases. Any loss of words at any age warrants immediate review."}
+            ]
+          }
+        },
+        {
+          "h2": "Red flags between ages 2 and 4: what families often notice",
+          "paras": [
+            "Between 2 and 4 years of age, the differences that characterise autism often become more visible in everyday situations. Families often notice that their child plays differently from other children of the same age, sticks very rigidly to routines, or seems distressed by things others do not find upsetting, such as certain sounds, textures in food, or changes in the order of events.",
+            "Repetitive behaviours are common and take many forms. Some children spend long periods lining objects up, spinning wheels, or repeating phrases from television (called echolalia). Others develop very intense interests in specific topics and resist moving on to anything else. These behaviours are not bad habits or signs of a spoiled child. They are part of how an autistic brain self-regulates and processes the world.",
+            "Difficulties with imaginative play are another marker. Most children this age begin to pretend, using a banana as a phone or feeding a toy bear. A child who cannot do this, or who plays with toys only in rigid, repetitive ways, may be showing a social imagination difference that is worth exploring.",
+            "Some children are also much more, or much less, sensitive to sensory experiences than their peers. A child who is very distressed by normal sounds such as a hand dryer or a busy market, or who cannot tolerate certain food textures, or who does not respond to pain as expected, may have a sensory processing difference that often accompanies autism."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "Speak to a doctor without waiting if your child:",
+            "items": [
+              "Has lost words or social skills they previously had, at any age",
+              "Does not respond to their name by 12 months",
+              "Does not point or make eye contact by 15 months",
+              "Has no two-word phrases by 24 months",
+              "Shows severe distress at minor changes in routine that affects daily life"
+            ]
+          }
+        },
+        {
+          "h2": "Does autism affect girls differently?",
+          "paras": [
+            "Autism is diagnosed in boys about four times more often than in girls. But growing evidence suggests that girls with autism are more frequently missed or diagnosed later, rather than that autism is genuinely rarer in girls. Many girls with autism learn to copy the social behaviour of peers around them, a pattern called masking, which means their differences are less obvious to adults.",
+            "In a girl, autism may look like shyness, anxiety, or being overly rule-bound, rather than the obvious social disconnection that families and teachers tend to recognise. A girl who has one very intense friendship that she manages carefully, who copies others socially but finds it exhausting, and who has strong private interests she does not share at school, may be showing a profile that is worth discussing with a specialist.",
+            "This means that if a daughter is struggling socially, seems different from her peers in ways that are hard to name, or has high anxiety around routine and change, it is worth raising the question of autism even if her speech and classroom performance seem fine."
+          ]
+        },
+        {
+          "h2": "Does the MMR vaccine cause autism?",
+          "paras": [
+            "No. This question has been studied more thoroughly than almost any other in paediatric medicine, and the answer is consistently and clearly no. The original 1998 paper that raised the claim was retracted by the journal that published it after an investigation found the data had been manipulated. The lead author lost his medical licence.",
+            "Since then, studies covering millions of children have found no link between the MMR vaccine and autism. A 2026 analysis of 2.5 million children in the United States, published in the Pediatric Infectious Disease Journal, found that early MMR vaccination was not associated with any increased risk of autism. The Cochrane Collaboration, which produces the most rigorous systematic reviews in medicine, reached the same conclusion after reviewing all available data.",
+            "Autism signs often become visible around the same age that vaccines are given, typically 12 to 18 months. This timing has led many families to link the two, but a coincidence of timing is not the same as a cause. Children who receive no vaccines also develop autism at similar rates. Declining vaccines leaves children at real risk of measles, mumps and rubella, which can cause serious harm.",
+            "If a family has concerns about vaccines, a paediatrician can discuss those concerns directly. Delaying or avoiding vaccines because of the autism myth creates a real health risk with no benefit."
+          ]
+        },
+        {
+          "h2": "How does an autism assessment work in practice?",
+          "paras": [
+            "An assessment for autism is not a single test. There is no blood test, brain scan, or genetic test that diagnoses autism on its own. The diagnosis is made by observing how a child communicates and interacts, collecting detailed history from parents, and comparing what is seen with established diagnostic criteria.",
+            "In most Arab countries, assessment is done by a child psychiatrist, a developmental paediatrician, or a specialist neurology team. Some centres use structured tools such as the Autism Diagnostic Observation Schedule (ADOS) or structured parent interviews. A 2026 study published in the Journal of Autism and Developmental Disorders validated an Arabic-language version of the autism diagnostic interview specifically for Arab families, which should improve the quality of assessments in Arabic-speaking settings.",
+            "The assessment usually involves at least two clinic visits. The specialist will observe the child directly, often through play, and will ask the parents detailed questions about the child's development from birth. It is helpful to bring videos of the child at home, because children often behave differently in a clinic than in their everyday environment.",
+            "Access to assessment varies greatly across the region. In large cities, specialist services exist but may have long waits. In smaller towns or rural areas, access may require travelling. If a formal assessment is not available quickly, starting speech and occupational therapy while waiting is worthwhile: these support the child regardless of the eventual diagnosis."
+          ]
+        },
+        {
+          "h2": "Why does early support make such a difference?",
+          "paras": [
+            "The brain is most adaptable in the first four years of life. Programmes that provide intensive, structured support during this window consistently show better outcomes than the same programmes started later. A 2020 meta-analysis in the Journal of Autism and Developmental Disorders, covering data from multiple trials, found that early intervention significantly improved social communication skills in children on the spectrum.",
+            "A 2023 updated review published in the BMJ, Project AIM, which analysed data from 188 studies, confirmed that early behavioural and developmental interventions produce meaningful gains in communication, learning, and adaptive behaviour. The gains are not about making an autistic child less autistic. They are about giving the child skills that help them engage with the world, learn from school, and build relationships.",
+            "Critically, a family does not need to wait for a confirmed diagnosis to begin support. Many children who later receive an autism diagnosis have already been receiving speech therapy or early intervention for months before the formal assessment. This is appropriate and beneficial. A diagnosis provides clarity and often unlocks additional support, but it is not a prerequisite for starting.",
+            "Parent-mediated approaches, where parents are trained in specific techniques to support their child's communication at home, have strong evidence behind them. These programmes can be delivered even in settings with limited specialist services and have been shown to be effective in multiple countries."
+          ]
+        },
+        {
+          "h2": "Stigma, family responses, and talking to relatives",
+          "paras": [
+            "In many families across the Arab world, a child's autism diagnosis brings fear, shame, or denial from relatives who see it as a reflection on the family. This is one of the most significant barriers to children receiving help early. A parent who suspects their child may be autistic often has to manage their own worry at the same time as managing extended family pressure to wait and see or to seek religious explanations rather than medical ones.",
+            "A 2025 survey of kindergarten teachers in Lebanon found that autism awareness among educators was limited, with many teachers unable to identify common signs or knowing what support to request. This reflects a wider gap across the region. When families and teachers do not recognise autism, children spend years in settings that cannot meet their needs, which increases frustration and behavioural difficulties for everyone.",
+            "If you are navigating this with relatives, the most useful framing is usually practical rather than diagnostic. Saying that your child learns differently and that a specialist can help them communicate and learn better is often received more constructively than leading with the word autism. The label matters less than the support. What matters is that the child gets the input they need as early as possible.",
+            "For children who are autistic and attending school, communication with teachers is essential. Many schools in the region have limited experience with autism but can adapt with clear guidance. A written summary from the specialist team, describing the child's specific needs and the strategies that help, is often more effective than a diagnosis letter alone."
+          ]
+        },
+        {
+          "h2": "What support is available and how to access it",
+          "paras": [
+            "Support for autistic children covers several areas: speech and language therapy to build communication, occupational therapy to address sensory processing and daily skills, applied behaviour analysis (ABA) for specific learning targets, and for some children, educational support within or alongside mainstream schooling.",
+            "Availability differs widely across the region. In countries such as Jordan, Lebanon, Egypt, and the Gulf states, private centres offering these therapies exist in most major cities. State services are more limited and waiting times can be long. Some families who cannot access local services have used structured parent-training programmes delivered online, which have evidence of effectiveness.",
+            "Medication does not treat autism itself. Some children who are autistic also have anxiety, attention difficulties, or sleep problems, and medication for those specific difficulties may be discussed with a specialist. Any medication decision of this kind should involve a child psychiatrist and should be reviewed regularly.",
+            "Families often find peer support groups, both in person and online in Arabic, to be as valuable as professional guidance. Connecting with a family who has gone through assessment and early support a year or two ahead of you provides practical knowledge that clinical appointments rarely offer."
+          ]
+        }
+      ],
+      "tie": "Use the Sihtak app to log your child's developmental milestones and share the record with your paediatrician. A written timeline of what you have observed, and when, is one of the most useful things you can bring to an assessment appointment.",
+      "faqs": [
+        {
+          "q": "At what age is autism usually diagnosed?",
+          "a": "Most children receive a formal diagnosis between 3 and 5 years of age, but signs are often present from 12 to 18 months. A reliable diagnosis can be made from age 2 in a specialist centre. There is no upper age limit: older children, teenagers, and adults can also be assessed and diagnosed for the first time."
+        },
+        {
+          "q": "My child speaks well but avoids other children. Could that be autism?",
+          "a": "Yes. Speaking well does not rule out autism. Some autistic children develop language normally or even early, but show clear differences in how they use language socially: they may talk at others rather than with them, stick to scripted topics, or find unstructured social time very difficult. If you have concerns about social development alongside good speech, it is worth raising with a specialist."
+        },
+        {
+          "q": "Can autism be cured?",
+          "a": "Autism is not a disease with a cure. It is a different way the brain is wired, and that does not change. What early support does is give an autistic child skills to communicate, learn, and manage daily life more effectively. Many autistic adults live independently, have careers, and build families. The goal of intervention is not to remove autism but to reduce the barriers the world places in front of autistic people."
+        },
+        {
+          "q": "Is autism more common now than it used to be?",
+          "a": "Diagnosed rates have risen significantly over the past 30 years, but most researchers believe this reflects better awareness and broadened diagnostic criteria rather than a true increase. Children who would previously have been labelled with intellectual disability or were simply considered difficult or shy are now correctly identified as autistic and can access appropriate support."
+        },
+        {
+          "q": "Can a child grow out of autism?",
+          "a": "Autism does not go away, but its impact changes significantly with age and with support. Some children who receive intensive early intervention show such gains that they no longer meet diagnostic criteria as adults, though this is not the norm. More commonly, autistic people learn strategies that allow them to navigate daily life effectively, while remaining autistic."
+        },
+        {
+          "q": "Do I need to go to a private centre for assessment, or is it available through government hospitals?",
+          "a": "Government hospital assessment is available in most Arab countries through child psychiatry or developmental paediatrics departments, but waiting times can be long. Private specialist centres are available in most cities and offer faster access. If you are uncertain where to start, your general practitioner or paediatrician can refer you to the appropriate service in your country."
+        },
+        {
+          "q": "My son is 3 and has no words. Is that definitely autism?",
+          "a": "Not necessarily. There are several reasons a 3-year-old may have no or very few words, including hearing impairment, selective mutism, or other developmental delays. Autism is one possibility but not the only one. The most important step is to have hearing tested first, then see a specialist who can assess the full picture. A referral for speech therapy should start immediately, regardless of the eventual diagnosis."
+        },
+        {
+          "q": "What should I say to teachers who think my autistic child is just badly behaved?",
+          "a": "Bring written documentation from the specialist team describing your child's diagnosis and specific needs. Explain that the behaviours they are seeing, such as resistance to transitions or strong reactions to sensory input, are features of how your child's brain works and not choices or parenting failures. Ask the school what accommodations they can make. If the school is unresponsive, escalate to the local education authority or the specialist who did the assessment."
+        }
+      ]
+    },
+    "ar": {
+      "title": "التوحد: العلامات المبكرة وكيف تحصل على تقييم",
+      "desc": "تعرف على العلامات التطورية التي تستحق الانتباه لدى الأطفال من عمر سنة إلى أربع سنوات، ومتى تطلب التقييم، ولماذا يصنع التدخل المبكر فارقاً حقيقياً.",
+      "keywords": "توحد علامات مبكرة, اضطراب طيف التوحد عند الأطفال, تشخيص التوحد في الدول العربية, علامات التوحد عند الرضع, طفل توحدي, متلازمة الطيف",
+      "h1": "التوحد عند الأطفال: العلامات المبكرة والتقييم وما يأتي بعده",
+      "takeaways": [
+        "قد تظهر علامات التوحد قبل عمر 18 شهراً، لكن كثيراً من الأطفال لا يُكشف عنهم إلا في سن الثالثة أو ما بعدها.",
+        "أهم العلامات المبكرة ليست غياب الكلام، بل غياب التواصل بالعين وغياب الإشارة لمشاركة الاهتمام.",
+        "التوحد لا علاقة له بالتطعيمات، وهذا ثبت بالبحث في ملايين الأطفال.",
+        "البدء في الدعم قبل سن الرابعة يُعطي أفضل النتائج، حتى قبل تأكيد التشخيص الرسمي.",
+        "التقييم متاح في معظم الدول العربية عبر أطباء الطب النفسي للأطفال أو طب الأطفال التطوري."
+      ],
+      "sections": [
+        {
+          "h2": "ما هو التوحد وماذا يعني فعلاً لطفلك؟",
+          "paras": [
+            "اضطراب طيف التوحد (Autism Spectrum Disorder - ASD) هو اختلاف في طريقة نمو الدماغ، يؤثر على كيفية تواصل الشخص وتفاعله مع الآخرين وإدراكه للعالم من حوله. كلمة 'طيف' مهمة هنا: التوحد يبدو مختلفاً جداً من طفل لآخر. طفل قد لا ينطق بكلمة واحدة في سن الثالثة، بينما آخر قد يتكلم بجمل كاملة لكنه يجد صعوبة شديدة في اللعب مع الأطفال الآخرين أو في تقبل التغييرات غير المتوقعة.",
+            "تشير منظمة الصحة العالمية إلى أن طفلاً واحداً من كل مئة تقريباً مصاب بالتوحد في أنحاء العالم. في البلدان العربية، ظل التعرف على التوحد تاريخياً أقل مما هو عليه في أوروبا أو أمريكا الشمالية، لا لأن التوحد أقل شيوعاً، بل لأن الوعي به لدى الأسر والعاملين في الصحة جاء متأخراً. دراسة متعددة الدول نُشرت عام 2008 فحصت أطفالاً في عدد من الدول العربية باستخدام أداة M-CHAT للفحص المبكر، ووجدت أن كثيراً من الأطفال الذين هم في دائرة الخطر لم يكن قد تعرف عليهم أحد من أسرهم أو عياداتهم.",
+            "التوحد ليس مرضاً ظهر حديثاً. وليس سببه أسلوب التربية، ولا التوتر أثناء الحمل، ولا أي تطعيم. هو تنوع في التطور العصبي موجود منذ الولادة، حتى لو لم تصبح علاماته واضحة إلا في السنة الثانية من العمر.",
+            "فهم ما هو التوحد، وبالقدر نفسه ما ليس هو، هو نقطة البداية للحصول على الدعم المناسب في الوقت المناسب."
+          ],
+          "visual": {
+            "type": "stats",
+            "items": [
+              {"value": "1 من 100", "label": "طفل مصاب بالتوحد تقريباً على مستوى العالم (تقدير منظمة الصحة العالمية)", "tone": "info"},
+              {"value": "4:1", "label": "نسبة تشخيص الذكور إلى الإناث", "tone": "neutral"}
+            ]
+          }
+        },
+        {
+          "h2": "ما هي أولى العلامات في السنتين الأوليين من العمر؟",
+          "paras": [
+            "العلامات الأكثر أهمية في السنتين الأوليين لا تتعلق بالكلام، رغم أن تأخر الكلام هو ما تلاحظه الأسر أولاً في الغالب. العلامات الأكثر دلالة تتعلق بكيفية تواصل الطفل مع من حوله. معظم الأطفال المصابين بالتوحد يُظهرون تغيرات في الانتباه الاجتماعي والتواصل قبل أن تظهر فروق واضحة في الكلام.",
+            "في عمر 9 إلى 12 شهراً، يُقيم الطفل السليم تواصلاً بالعين بشكل متكرر مع المقربين منه، ويرد بالابتسام حين يُبتسم له، ويُشير إلى الأشياء التي تستهويه، لا ليطلبها فقط بل ليشارك تجربة رؤيتها مع الآخرين. كذلك يستجيب حين يُنادى باسمه. إن كانت هذه السلوكيات غائبة أو غير منتظمة بنهاية الشهر الثاني عشر، فهذا أمر يستحق التأمل.",
+            "بين عمر 12 و18 شهراً تصبح العلامات أوضح. الطفل الذي لا يُلوح وداعاً، ولا يُشير ليُظهر اهتمامه، ولا ينظر إلى شيء تشير إليه أنت، ولا يشارك في اللعب التبادلي البسيط بالأصوات أو التعبيرات، يُظهر نمطاً يستحق مناقشة الطبيب فيه. أما فقدان مهارات كان الطفل قد اكتسبها مسبقاً، كفقدان كلمات كان يستخدمها، فهذا مؤشر خطير في أي عمر ويجب التحقيق فيه دائماً.",
+            "تأخر الكلام وحده لا يؤكد التوحد. بعض الأطفال المصابين بالتوحد يتكلمون في الوقت المعتاد لكنهم يُظهرون الفروق الاجتماعية المذكورة أعلاه. أطفال آخرون يتأخرون في الكلام لأسباب مختلفة كلياً. النمط الذي يجمع عدة علامات معاً، ولا سيما الفروق الاجتماعية والتواصلية، هو ما يستدعي التقييم."
+          ],
+          "visual": {
+            "type": "timeline",
+            "title": "معالم التطور ومتى يجب التصرف",
+            "items": [
+              {"when": "9 أشهر", "what": "يجب أن يستجيب لاسمه بانتظام"},
+              {"when": "12 شهراً", "what": "يجب أن يُشير ويُلوح ويُصدر أصواتاً متنوعة بقصد"},
+              {"when": "16 شهراً", "what": "يجب أن يستخدم كلمات مفردة ذات معنى"},
+              {"when": "18 شهراً", "what": "يجب أن يستخدم 6 إلى 10 كلمات ويُظهر الانتباه المشترك"},
+              {"when": "24 شهراً", "what": "يجب أن يستخدم جملاً من كلمتين. أي فقدان للكلام في أي سن يستوجب مراجعة فورية."}
+            ]
+          }
+        },
+        {
+          "h2": "المؤشرات الحمراء بين سن الثانية والرابعة: ما تلاحظه الأسر",
+          "paras": [
+            "بين عمر السنتين والأربع سنوات، تصبح الفروق التي تميز التوحد أكثر وضوحاً في مواقف الحياة اليومية. كثيراً ما تلاحظ الأسر أن طفلها يلعب بأسلوب مختلف عن أطفال سنه، ويتمسك بشدة بالروتين، أو يُصيبه ضيق شديد من أشياء لا تُزعج الآخرين، كأصوات معينة، أو ملمس بعض الأطعمة، أو تغيير ترتيب الأحداث.",
+            "السلوكيات التكرارية شائعة وتأخذ أشكالاً كثيرة. بعض الأطفال يقضون وقتاً طويلاً يرتبون الأشياء في صفوف، أو يدورون عجلات السيارات اللعبة، أو يكررون جملاً سمعوها من التلفزيون (ويُسمى ذلك المصادة أو echolalia). آخرون يطورون اهتمامات شديدة بموضوعات بعينها ويرفضون الانتقال لغيرها. هذه السلوكيات ليست عادات سيئة ولا دليلاً على دلال الطفل. هي طريقة الدماغ التوحدي في تنظيم نفسه وفهم العالم.",
+            "صعوبات اللعب التخيلي علامة أخرى. معظم الأطفال في هذه السن يبدأون في التظاهر، كاستخدام الموزة هاتفاً أو إطعام دمية. الطفل الذي لا يفعل ذلك، أو يلعب بالأدوات بطرق جامدة ومتكررة فقط، قد يُظهر فرقاً في الخيال الاجتماعي يستحق الاستكشاف.",
+            "بعض الأطفال أكثر حساسية أو أقل حساسية من أقرانهم تجاه التجارب الحسية. الطفل الذي يُعاني بشدة من أصوات عادية كمجفف اليدين أو سوق مزدحم، أو لا يتحمل ملمس بعض الأطعمة، أو لا يستجيب للألم كما هو متوقع، قد يكون لديه فرق في المعالجة الحسية كثيراً ما يصاحب التوحد."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "تحدث إلى طبيب دون تأخير إذا كان طفلك:",
+            "items": [
+              "فقد كلمات أو مهارات اجتماعية كان قد اكتسبها، في أي عمر",
+              "لا يستجيب لاسمه في عمر 12 شهراً",
+              "لا يُشير ولا يُقيم تواصلاً بالعين في عمر 15 شهراً",
+              "لا يستخدم جملاً من كلمتين في عمر 24 شهراً",
+              "يعاني ضائقة شديدة من أي تغيير طفيف في الروتين تؤثر على حياته اليومية"
+            ]
+          }
+        },
+        {
+          "h2": "هل يؤثر التوحد على البنات بشكل مختلف؟",
+          "paras": [
+            "يُشخَّص التوحد لدى الذكور بنحو أربعة أضعاف الإناث. لكن الأدلة المتراكمة تُشير إلى أن البنات المصابات بالتوحد كثيراً ما يُغفل عنهن أو يُشخَّصن في وقت متأخر، لا لأن التوحد أقل شيوعاً فيهن بالفعل. كثير من البنات المصابات بالتوحد يتعلمن تقليد السلوك الاجتماعي للأقران من حولهن، وهو نمط يُسمى 'التمويه' (masking)، ما يجعل فروقهن أقل وضوحاً للكبار.",
+            "لدى البنت، قد يبدو التوحد كخجل أو قلق أو تمسك مفرط بالقواعد، بدلاً من الانسحاب الاجتماعي الواضح الذي تميل الأسر والمعلمات عادةً إلى التعرف عليه. البنت التي تملك صداقة واحدة مكثفة تديرها بعناية، وتُقلد الآخرين اجتماعياً لكن ذلك يُنهكها، ولديها اهتمامات خاصة قوية لا تُشاركها في المدرسة، قد تُظهر صورة تستحق مناقشة أخصائي.",
+            "إذا كانت ابنتك تعاني في علاقاتها الاجتماعية، أو تبدو مختلفة عن أقرانها بطريقة يصعب تحديدها، أو تعاني قلقاً شديداً حول الروتين والتغيير، فإن طرح سؤال التوحد يستحق المتابعة حتى لو كان كلامها وأداؤها الدراسي مناسبَين."
+          ]
+        },
+        {
+          "h2": "هل التطعيم يسبب التوحد؟",
+          "paras": [
+            "لا. هذا السؤال دُرس بعناية أكبر مما دُرست به أي مسألة أخرى تقريباً في طب الأطفال، والجواب واضح وقاطع: لا. الورقة الأصلية التي نُشرت عام 1998 وأثارت هذا الادعاء سُحبت من المجلة التي نشرتها بعد تحقيق كشف أن البيانات قد عُبث بها، وفقد الطبيب الذي كتبها ترخيصه المهني.",
+            "منذ ذلك الحين، درست أبحاث شملت ملايين الأطفال إمكانية وجود صلة بين لقاح الحصبة والنكاف والحصبة الألمانية (MMR) والتوحد، فلم تجد أي صلة. تحليل أُجري عام 2026 شمل 2.5 مليون طفل في الولايات المتحدة ونُشر في مجلة Pediatric Infectious Disease Journal وجد أن التطعيم المبكر بلقاح MMR لم يكن مرتبطاً بأي خطر متزايد للإصابة بالتوحد. مجموعة كوكرين، التي تُصدر أدق المراجعات المنهجية في الطب، توصلت للنتيجة نفسها.",
+            "علامات التوحد كثيراً ما تصبح واضحة في العمر ذاته الذي تُعطى فيه التطعيمات، أي بين 12 و18 شهراً. هذا التزامن جعل كثيراً من الأسر تربط بين الأمرين، لكن التزامن في التوقيت لا يعني السببية. الأطفال الذين لا يُطعَّمون يُصابون بالتوحد بمعدلات مماثلة. رفض التطعيمات يُعرض الطفل لأضرار حقيقية من الحصبة والنكاف والحصبة الألمانية دون أي فائدة.",
+            "إن كانت لدى الأسرة مخاوف حول التطعيمات، يمكن مناقشتها مع طبيب الأطفال مباشرة. تأجيل التطعيمات أو تجنبها خشية التوحد ينطوي على مخاطر صحية حقيقية دون أي مبرر علمي."
+          ]
+        },
+        {
+          "h2": "كيف يسير تقييم التوحد عملياً؟",
+          "paras": [
+            "تقييم التوحد ليس اختباراً واحداً. لا يوجد تحليل دم ولا صورة دماغية ولا فحص جيني يُشخص التوحد بمفرده. التشخيص يُبنى على ملاحظة كيفية تواصل الطفل وتفاعله، وجمع تاريخ مفصل من الوالدين، ومقارنة ما يُرى بمعايير التشخيص المعتمدة.",
+            "في معظم الدول العربية، يُجرى التقييم على يد طبيب نفسي للأطفال، أو طبيب أطفال متخصص في التطور، أو فريق متخصص في طب الأعصاب. تستخدم بعض المراكز أدوات منهجية مثل مقياس ملاحظة تشخيص التوحد (ADOS) أو مقابلات منهجية مع الوالدين. دراسة نُشرت عام 2026 في مجلة Journal of Autism and Developmental Disorders اعتمدت نسخة عربية من مقابلة التشخيص التوحدي خصيصاً للأسر الناطقة بالعربية، ويُتوقع أن تُحسن هذا جودة التقييمات في البيئات العربية.",
+            "عادةً يتضمن التقييم زيارتين أو أكثر للعيادة. سيراقب الأخصائي الطفل مباشرة، في الغالب من خلال اللعب، وسيطرح على الوالدين أسئلة مفصلة حول مسيرة تطور الطفل منذ الولادة. يُفيد كثيراً إحضار مقاطع مصورة للطفل في البيت، لأن الأطفال كثيراً ما يتصرفون بشكل مختلف في العيادة عن بيئتهم اليومية.",
+            "إمكانية الوصول إلى التقييم تتفاوت كثيراً في أنحاء المنطقة. في المدن الكبرى توجد خدمات متخصصة لكن قد تكون قوائم الانتظار طويلة. في المدن الأصغر أو المناطق الريفية قد يتطلب الأمر السفر. إن لم يكن التقييم الرسمي متاحاً بسرعة، فالبدء في علاج النطق والعلاج الوظيفي أثناء الانتظار أمر مفيد: هذا الدعم ينفع الطفل بصرف النظر عن التشخيص النهائي."
+          ]
+        },
+        {
+          "h2": "لماذا يُحدث الدعم المبكر كل هذا الفرق؟",
+          "paras": [
+            "الدماغ يكون في ذروة مرونته خلال السنوات الأربع الأولى من الحياة. البرامج التي تُقدم دعماً مكثفاً ومنظماً في هذه الفترة تُظهر باستمرار نتائج أفضل من البرامج ذاتها التي تبدأ لاحقاً. تحليل شامل نُشر عام 2020 في مجلة Journal of Autism and Developmental Disorders، واستعرض بيانات من تجارب متعددة، وجد أن التدخل المبكر حسّن بشكل ملحوظ مهارات التواصل الاجتماعي لدى الأطفال في طيف التوحد.",
+            "مراجعة مُحدَّثة نُشرت عام 2023 في مجلة BMJ تحت اسم Project AIM، حللت بيانات 188 دراسة، أكدت أن التدخلات السلوكية والتطورية المبكرة تُحقق مكاسب حقيقية في التواصل والتعلم والسلوك التكيفي. المكاسب لا تتعلق بجعل الطفل التوحدي أقل توحداً، بل بمنحه مهارات تساعده على التواصل مع العالم، والتعلم في المدرسة، وبناء علاقات.",
+            "ما يستحق التأكيد أن الأسرة لا تحتاج إلى انتظار تشخيص رسمي لتبدأ في طلب الدعم. كثير من الأطفال الذين يتلقون لاحقاً تشخيص التوحد يكونون قد خضعوا لعلاج النطق أو التدخل المبكر لأشهر قبل التقييم الرسمي. هذا مناسب ومفيد. التشخيص يُوفر الوضوح ويفتح أبواباً للدعم الإضافي، لكنه ليس شرطاً للبدء.",
+            "الأساليب التي تُدرَّب فيها الأسرة نفسها على تقنيات دعم تواصل طفلها في البيت لديها أدلة قوية على فعاليتها. يمكن تقديم هذه البرامج حتى في البيئات التي تفتقر إلى خدمات متخصصة كافية، وقد أثبتت فعاليتها في دول عديدة."
+          ]
+        },
+        {
+          "h2": "الوصمة الاجتماعية وردود أفعال الأسرة وكيف تتحدث مع الأقارب",
+          "paras": [
+            "في كثير من الأسر العربية، يجلب تشخيص التوحد خوفاً أو خجلاً أو إنكاراً من الأقارب الذين يرون فيه انعكاساً على الأسرة بأسرها. هذا من أبرز العوائق أمام حصول الأطفال على المساعدة مبكراً. الوالد الذي يشك في إصابة طفله بالتوحد يجد نفسه مضطراً للتعامل مع قلقه الخاص في الوقت ذاته الذي يواجه فيه ضغط العائلة الممتدة التي تطلب الانتظار والترقب أو الاكتفاء بالتفسيرات الدينية.",
+            "دراسة أُجريت عام 2025 على معلمات الروضة في لبنان وجدت أن معرفة المعلمين بالتوحد كانت محدودة، وأن كثيرين منهم لا يستطيعون تحديد العلامات الشائعة أو معرفة الدعم الذي يمكن طلبه. هذا يعكس فجوة أوسع في المنطقة. حين لا تتعرف الأسر والمعلمون على التوحد، يقضي الأطفال سنوات في بيئات لا تستطيع تلبية احتياجاتهم، مما يزيد الإحباط ومشكلات السلوك للجميع.",
+            "إن كنت تتعامل مع هذا الأمر بحضور أقارب، فكثيراً ما يُجدي توصيف عملي لا تشخيصي. القول بأن طفلك يتعلم بطريقة مختلفة وأن المتخصص يمكنه مساعدته على التواصل والتعلم بشكل أفضل يُلقى في الغالب بقبول أكبر من البدء بكلمة 'توحد'. المصطلح أقل أهمية من الدعم. المهم أن يحصل الطفل على ما يحتاجه في أقرب وقت ممكن.",
+            "بالنسبة للأطفال التوحديين الذين يلتحقون بالمدرسة، التواصل مع المعلمين أمر ضروري. كثير من المدارس في المنطقة محدودة الخبرة مع التوحد، لكنها قادرة على التكيف بتوجيه واضح. ملخص مكتوب من الفريق المتخصص يصف احتياجات الطفل الخاصة والاستراتيجيات التي تُفيده كثيراً ما يكون أكثر نفعاً من رسالة التشخيص وحدها."
+          ]
+        },
+        {
+          "h2": "ما الدعم المتاح وكيف تصل إليه؟",
+          "paras": [
+            "يشمل دعم الأطفال التوحديين عدة محاور: علاج النطق واللغة لبناء مهارات التواصل، والعلاج الوظيفي لمعالجة الجانب الحسي ومهارات الحياة اليومية، وتحليل السلوك التطبيقي (ABA) لأهداف تعلمية محددة، وبعض الأطفال يحتاجون إلى دعم تعليمي داخل المدرسة الاعتيادية أو بجانبها.",
+            "يتفاوت المتاح تفاوتاً كبيراً في أرجاء المنطقة. في دول كالأردن ولبنان ومصر ودول الخليج، توجد مراكز خاصة تُقدم هذه العلاجات في معظم المدن الكبرى. الخدمات الحكومية أكثر محدودية وقوائم الانتظار أطول. بعض الأسر التي لا تستطيع الوصول إلى خدمات محلية لجأت إلى برامج تدريب الوالدين المقدمة عبر الإنترنت، وهي برامج أثبتت فعاليتها.",
+            "الدواء لا يُعالج التوحد بذاته. بعض الأطفال التوحديين يعانون أيضاً من القلق أو صعوبات الانتباه أو مشكلات النوم، وقد يُناقش الطبيب النفسي دواءً لهذه الصعوبات تحديداً. أي قرار من هذا القبيل يجب أن يتم مع طبيب نفسي للأطفال ويُراجَع بانتظام.",
+            "كثير من الأسر تجد في مجموعات الدعم بين الأقران، سواء حضورياً أو إلكترونياً باللغة العربية، ما يعادل قيمة التوجيه المهني إن لم يتفوق عليه. التواصل مع أسرة مرت بالتقييم والدعم المبكر قبلك بعام أو عامين يُوفر معرفة عملية نادراً ما تُقدمها المواعيد السريرية."
+          ]
+        }
+      ],
+      "tie": "استخدم تطبيق سهتك لتسجيل معالم تطور طفلك ومشاركة السجل مع طبيب الأطفال. الجدول الزمني المكتوب لما لاحظته ومتى لاحظته هو من أكثر الأشياء التي تُفيدك في موعد التقييم.",
+      "faqs": [
+        {
+          "q": "في أي عمر يُشخَّص التوحد عادةً؟",
+          "a": "يحصل معظم الأطفال على التشخيص الرسمي بين سن الثالثة والخامسة، لكن العلامات كثيراً ما تكون حاضرة منذ عمر 12 إلى 18 شهراً. يمكن التشخيص الموثوق من عمر سنتين في مركز متخصص. لا يوجد حد أعلى للعمر: يمكن تقييم الأطفال الأكبر والمراهقين والبالغين وتشخيصهم للمرة الأولى."
+        },
+        {
+          "q": "طفلي يتكلم جيداً لكنه يتجنب الأطفال الآخرين. هل يمكن أن يكون توحداً؟",
+          "a": "نعم. الكلام الجيد لا ينفي التوحد. بعض الأطفال التوحديين يُطورون اللغة بشكل طبيعي أو مبكر، لكنهم يُظهرون فروقاً واضحة في كيفية استخدام اللغة اجتماعياً: قد يتحدثون إلى الآخرين بدلاً من أن يتحدثوا معهم، ويتمسكون بموضوعات محددة، أو يجدون الوقت الاجتماعي غير المنظم صعباً جداً. إن كانت لديك مخاوف حول التطور الاجتماعي إلى جانب الكلام الجيد، فإن طرح الأمر على متخصص أمر يستحق المتابعة."
+        },
+        {
+          "q": "هل يمكن علاج التوحد؟",
+          "a": "التوحد ليس مرضاً له علاج. هو طريقة مختلفة في عمل الدماغ ولا تتغير. ما يُحققه الدعم المبكر هو منح الطفل التوحدي مهارات التواصل والتعلم وإدارة الحياة اليومية بشكل أكثر فعالية. كثير من البالغين التوحديين يعيشون باستقلالية ويمارسون مهناً ويُكونون أسراً. هدف التدخل ليس إزالة التوحد بل تقليص الحواجز التي يضعها العالم أمام الأشخاص التوحديين."
+        },
+        {
+          "q": "هل التوحد أكثر شيوعاً اليوم مما كان عليه سابقاً؟",
+          "a": "المعدلات المُشخَّصة ارتفعت ارتفاعاً ملحوظاً خلال الثلاثين سنة الماضية، لكن معظم الباحثين يرون أن هذا يعكس الوعي الأوسع ومعايير التشخيص الأشمل لا ارتفاعاً حقيقياً في الإصابة. أطفال كانوا يُصنَّفون سابقاً بالإعاقة الذهنية أو يُعدّون صعبي التعامل أو خجولين يُحددون اليوم بشكل صحيح كتوحديين ويصلون إلى الدعم المناسب."
+        },
+        {
+          "q": "هل يمكن أن 'يتجاوز' الطفل التوحد؟",
+          "a": "التوحد لا يختفي، لكن أثره يتغير تغيراً ملحوظاً مع العمر والدعم. بعض الأطفال الذين يتلقون تدخلاً مبكراً مكثفاً يُحرزون مكاسب تجعلهم لا يستوفون معايير التشخيص كبالغين، وإن كان هذا ليس الحال الشائع. الأكثر شيوعاً أن الأشخاص التوحديين يتعلمون استراتيجيات تُمكنهم من التعامل مع الحياة اليومية بفعالية مع بقائهم توحديين."
+        },
+        {
+          "q": "هل أحتاج إلى الذهاب إلى مركز خاص للتقييم أم هو متاح في المستشفيات الحكومية؟",
+          "a": "التقييم الحكومي متاح في معظم الدول العربية عبر أقسام الطب النفسي للأطفال أو طب الأطفال التطوري، لكن أوقات الانتظار قد تكون طويلة. المراكز المتخصصة الخاصة متاحة في معظم المدن وتوفر وصولاً أسرع. إن لم تكن متأكداً من أين تبدأ، يمكن لطبيب الأطفال العام أن يحيلك إلى الخدمة المناسبة في بلدك."
+        },
+        {
+          "q": "ابني في الثالثة ولا يتكلم إطلاقاً. هل هذا حتماً توحد؟",
+          "a": "ليس بالضرورة. هناك أسباب عديدة لغياب الكلام في سن الثالثة أو ندرته، منها ضعف السمع، والصمت الانتقائي، وتأخرات تطورية أخرى. التوحد احتمال واحد لكنه ليس الوحيد. الخطوة الأهم هي فحص السمع أولاً، ثم مراجعة متخصص يتمكن من تقييم الصورة الكاملة. يجب البدء في علاج النطق فوراً بصرف النظر عن التشخيص النهائي."
+        },
+        {
+          "q": "ماذا أقول للمعلمين الذين يعتبرون طفلي التوحدي سيء السلوك؟",
+          "a": "أحضر وثائق مكتوبة من الفريق المتخصص تصف تشخيص طفلك واحتياجاته تحديداً. اشرح أن السلوكيات التي يرونها، كالمقاومة عند الانتقال بين الأنشطة أو ردود الفعل القوية تجاه المثيرات الحسية، هي سمات في طريقة عمل دماغ طفلك وليست اختيارات أو تقصيراً في التربية. اسأل المدرسة ما التسهيلات التي يمكنها تقديمها. إن لم تستجب المدرسة، ارفع الأمر إلى الجهة التعليمية المختصة أو الفريق الذي أجرى التقييم."
+        }
+      ]
+    }
+  }
+}

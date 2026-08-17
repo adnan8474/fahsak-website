@@ -1,0 +1,510 @@
+{
+  "slug": "hajj-umrah-health-guide",
+  "category": "lifestyle",
+  "chip_ar": "نمط الحياة",
+  "chip_en": "Lifestyle",
+  "date_iso": "2026-08-03",
+  "sources": [
+    {
+      "label": "Alshamrani M, Farahat F, Alzunitan M et al: Hajj vaccination strategies: Preparedness for risk mitigation, Journal of infection and public health, 2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39353398/"
+    },
+    {
+      "label": "Salmon-Rousseau A, Piednoir E, Cattoir V et al: Hajj-associated infections, Medecine et maladies infectieuses, 2016",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27230822/"
+    },
+    {
+      "label": "Badur S, Khalaf M et al: Meningococcal Disease and Immunization Activities in Hajj and Umrah Pilgrimage: a review, Infectious diseases and therapy, 2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35585384/"
+    },
+    {
+      "label": "Rashid H, Khatami A, Haworth E et al: Meningococcal vaccination and Hajj pilgrimage, Lancet (London, England), 2015",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25797556/"
+    },
+    {
+      "label": "Pane M, Raharni R, Hermawan A et al: Determinants of hospitalization among Indonesian Hajj pilgrims in Saudi Arabia: a nationwide retrospective cohort study, Annals of Saudi medicine, 2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42571036/"
+    },
+    {
+      "label": "Memish ZA, Al Rabeeah AA: Health conditions for travellers to Saudi Arabia for the pilgrimage to Mecca (Hajj) 1432 (2011), Journal of infection and public health, 2011",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21843856/"
+    },
+    {
+      "label": "Khan AA, Balkhi BS, Alamri FA et al: Vaccinations for Hajj: Enhancing health and global health security, Travel medicine and infectious disease, 2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39579838/"
+    }
+  ],
+  "content": {
+    "ar": {
+      "title": "صحتك في الحج والعمرة: دليل شامل للاستعداد",
+      "desc": "كيف تستعد طبيا للحج أو العمرة: التطعيمات الإلزامية والموصى بها وإدارة الأمراض المزمنة والوقاية من الحرارة والعدوى وما تحمله معك من أدوية.",
+      "keywords": "صحة الحاج, تطعيمات الحج, أمراض الحج, حج وعمرة, مناسك الحج صحة, الحج والمرض المزمن, أدوية الحج, الوقاية في الحج",
+      "h1": "الصحة في الحج والعمرة: كل ما تحتاجه قبل السفر وخلاله",
+      "takeaways": [
+        "تطعيم المكورات السحائية (رباعي التكافؤ) إلزامي للحصول على تأشيرة الحج والعمرة ولا غنى عنه.",
+        "الحر الشديد هو الخطر الأول على صحة الحجاج، ابدأ الشرب قبل الشعور بالعطش دائما.",
+        "من يعاني من أمراض مزمنة يحتاج استشارة طبيب قبل السفر بوقت كافٍ وليس قبل أسبوع.",
+        "التنفسي الحاد شائع في التجمعات الكبيرة، الكمامة والنظافة اليدوية يقللان الخطر بشكل ملحوظ.",
+        "احتفظ بقائمة أدويتك بالاسم العلمي وليس التجاري لتجد بديلا إذا نفد المخزون."
+      ],
+      "sections": [
+        {
+          "h2": "التطعيمات: ما هو إلزامي وما هو موصى به؟",
+          "paras": [
+            "تطعيم المكورات السحائية رباعي التكافؤ (ACWY) إلزامي للجميع الراغبين في الحصول على تأشيرة الحج أو العمرة. هذا القرار ليس بيروقراطيا بل مبني على تجربة مرة: قبل اشتراط التطعيم، كانت تفشيات التهاب السحايا المكوري تضرب الحجاج وتنتشر لبلدانهم بعد العودة. مراجعة نشرتها مجلة Infectious Diseases and Therapy عام 2022 وثقت انخفاضا دراماتيكيا في معدلات التهاب السحايا بعد تطبيق اشتراط التطعيم.",
+            "التطعيمات الموصى بها وليست إلزامية تشمل تطعيم الإنفلونزا الموسمي، وتطعيم التهاب الكبد أ وب إذا لم تكن قد أخذتهما، وتطعيم المكورات الرئوية خاصة لمن تجاوزوا الخمسين أو يعانون من أمراض الرئة أو مرض السكري، وتطعيم كوفيد-19 المحدّث. هذه التطعيمات تقلل من خطر الإصابة بالتهابات تنفسية شائعة في الحشود.",
+            "يجب أخذ تطعيم المكورات السحائية قبل موعد السفر بأسبوعين على الأقل لأن الجسم يحتاج هذا الوقت ليبني مناعة كافية. تطعيم الإنفلونزا أيضا يُفضل أخذه قبل أسبوعين من السفر. لا تترك أمر التطعيمات لآخر أسبوع."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "التطعيمات للحج والعمرة",
+            "head": [
+              "التطعيم",
+              "الوضع",
+              "التوقيت"
+            ],
+            "rows": [
+              [
+                "المكورات السحائية ACWY",
+                "إلزامي للتأشيرة",
+                "قبل السفر بأسبوعين على الأقل"
+              ],
+              [
+                "الإنفلونزا الموسمي",
+                "موصى به بشدة",
+                "قبل السفر بأسبوعين"
+              ],
+              [
+                "التهاب الكبد أ وب",
+                "موصى به إذا لم تُأخذ من قبل",
+                "جرعتان تحتاجان جدولة مسبقة"
+              ],
+              [
+                "المكورات الرئوية",
+                "موصى به للكبار وأصحاب الأمراض المزمنة",
+                "قبل السفر"
+              ],
+              [
+                "كوفيد-19 المحدّث",
+                "موصى به",
+                "حسب الجدول المحلي"
+              ]
+            ]
+          }
+        },
+        {
+          "h2": "الحر الشديد: الخطر الأكبر على صحة الحاج",
+          "paras": [
+            "الحج يقع في موسم مختلف كل عام بسبب التقويم الهجري، وحين يصادف أشهر الصيف في مكة المكرمة تتجاوز درجات الحرارة 45 درجة مئوية في أحيان كثيرة. الحشود الكثيفة والمشي الطويل لساعات بين المشاعر تجعل خطر الإجهاد الحراري وضربة الشمس حقيقيا لكل حاج بغض النظر عن عمره.",
+            "دراسة نشرتها مجلة Annals of Saudi Medicine عام 2026 تابعت الحجاج الإندونيسيين وهم من أكثر الجنسيات المشاركة عددا، ووجدت أن العوامل الرئيسية للدخول إلى المستشفى كانت الأمراض القلبية السابقة والتقدم في السن والتعرض المطول للحرارة. الحجاج القادمون من مناخات باردة أكثر عرضة لأن أجسامهم لم تتأقلم.",
+            "التوصية العملية هي الشرب المستمر حتى قبل الشعور بالعطش. احمل معك دائما زجاجة ماء وارشاء إذا كنت في الحر. استغل فترات الراحة في الخيام أو الأماكن المكيفة. ارتدِ ملابس فضفاضة وفاتحة اللون وغطاء للرأس. تجنب المشي في الذروة الحرارية إذا كان بإمكانك التنقل في أوقات أبرد.",
+            "راقب زملاءك في المجموعة وأخبرهم بمراقبتك. الشخص الذي يتعرض لضربة الشمس يفقد القدرة على تقييم حالته بنفسه. إذا لاحظت على أحدهم تغيرا في السلوك أو ارتباكا غير مبرر في الحر، أبلغ العاملين الصحيين فورا."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "الوقاية من الحرارة خلال الحج",
+            "items": [
+              "اشرب ماء كل 15 إلى 20 دقيقة حتى دون شعور بالعطش.",
+              "ارتدِ ملابس فضفاضة فاتحة اللون وغطِّ رأسك دائما في الهواء الطلق.",
+              "استخدم المظلة أو الشمسية خلال التنقل في الشمس المباشرة.",
+              "استغل الأماكن المكيفة للراحة كل ساعة على الأقل.",
+              "راقب أعراض الإجهاد الحراري عند نفسك ومن حولك: دوخة وغثيان وتعب شديد.",
+              "أي ارتباك أو تغير في الوعي يستوجب الإبلاغ فورا للمسؤولين الصحيين."
+            ]
+          }
+        },
+        {
+          "h2": "أمراض الجهاز التنفسي: التهديد الأكثر شيوعا",
+          "paras": [
+            "جمع ملايين الحجاج من دول مختلفة في مكان واحد يخلق بيئة مثالية لانتشار الأمراض التنفسية. مراجعة نشرتها مجلة Medecine et Maladies Infectieuses عام 2016 وجدت أن العدوى التنفسية هي السبب الأكثر شيوعا للتوجه للعلاج الطبي خلال موسم الحج، وأن معظم الحجاج يعودون ببلدانهم بنزلة برد على الأقل. هذا لا يعني أن الحج خطير، بل أن التحضير الجيد يقلل من احتمال أن تقضي المرض في الفراش بدلا من أداء المناسك.",
+            "الفيروسات الأكثر شيوعا هي فيروسات الإنفلونزا ونزلات البرد والفيروسات التنفسية المختلفة. الكمامة الطبية تقلل من انتقال هذه الفيروسات عبر الهواء وهي توصية طبية وليست تحفظا دينيا. غسل اليدين بالصابون لمدة 20 ثانية بعد لمس الأسطح المشتركة وقبل لمس الوجه هو من أكثر الإجراءات فعالية وأبسطها. تجنب لمس وجهك بيديك غير المغسولتين خاصة في المناطق المكتظة.",
+            "من يعاني من الربو أو أمراض الرئة المزمنة يجب أن يحمل بخاخه الموسع دائما في جيب سهل الوصول وليس في حقيبته الرئيسية. الحشود والغبار والهواء الحار الجاف يمكن أن تحفز نوبات الضيق التنفسي بسرعة. من عانى من نوبة ربو حادة خلال الأشهر الثلاثة الماضية يجب أن يستشير طبيبه بجدية قبل قرار الذهاب، وقد يوصي الطبيب بتأجيل إلى موسم قادم حين تكون الحالة أكثر استقرارا.",
+            "الإصابة بالعدوى التنفسية أثناء الحج تعني صعوبة في إكمال بعض المناسك التي تتطلب جهدا جسديا. الوقاية أسهل بكثير من العلاج في ظروف الحشود. التطعيمات المناسبة والنظافة اليدوية والكمامة ثلاثة إجراءات بسيطة تغير النتيجة بشكل واضح."
+          ]
+        },
+        {
+          "h2": "إدارة الأمراض المزمنة خلال الحج والعمرة",
+          "paras": [
+            "مرضى السكري وارتفاع ضغط الدم وأمراض القلب والكلى والربو يمكنهم أداء مناسك الحج والعمرة بأمان مع التخطيط المسبق الجيد. الزيارة الطبية قبل السفر بشهر على الأقل وليس قبل أيام ضرورية لتقييم مدى استقرار الحالة وتعديل الجرعات إذا لزم.",
+            "مرضى السكري يواجهون تحديا مزدوجا: المشي الطويل يغير احتياج الجسم للأنسولين، والحرارة تغير امتصاص الأنسولين من موقع الحقن. يحتاجون مراقبة السكر بشكل أكثر تكرارا من المعتاد. يجب حمل وجبات خفيفة دائما وعلاج سريع للسكر المنخفض كحبوب الجلوكوز أو العصير.",
+            "مرضى القلب يجب أن يحملوا ملخصا طبيا بلغة عربية وإنجليزية يذكر تشخيصاتهم وأدويتهم والإجراءات التي خضعوا لها. إذا تطلب أي إجراء طارئ تدخلا، هذا الملخص يوفر وقتا ثمينا. تعلم الفرق بين ألم الصدر الذي يستدعي التوقف فورا والذي يمكن تجاهزه مؤقتا.",
+            "من يأخذ أدوية مزمنة يجب أن يحمل كمية تكفي للرحلة كاملة وزيادة أسبوع على الأقل. تأخر الرحلة أو امتدادها واردان. سجل الاسم العلمي (الجنيسي) لكل دواء لأن الأسماء التجارية تختلف بين البلدان. هذا يسمح لك بإيجاد بديل في المملكة العربية السعودية إذا نفد الدواء.",
+            "من يتناول دواء مضاد للتخثر كالوارفارين يجب أن يسأل طبيبه خصيصا عن المشي لفترات طويلة وعن احتمال نسيان جرعة أو فقدان الدواء. التوقف المفاجئ عن بعض أدوية القلب وضغط الدم خطير ويجب التخطيط لما يحدث إذا فقد الدواء خلال الرحلة."
+          ]
+        },
+        {
+          "h2": "حقيبة الدواء: ما الذي تحمله معك؟",
+          "paras": [
+            "كل حاج يجب أن يحمل حقيبة صغيرة للإسعافات الأولية والأدوية الضرورية. المكتظة تعني أن الوصول للصيدليات ليس دائما سريعا، وقد تكون بعيدا عن مخيمك حين تحتاج دواء. الفندق أو المخيم الذي ستقيم فيه قد يبعد عن الصيدلية لساعة أو أكثر في موسم الازدحام.",
+            "الأساسيات التي يحتاجها معظم الحجاج تشمل: مسكن حرارة ومسكن ألم كالباراسيتامول، أدوية ضد الإسهال، أقراص الإماهة الفموية، بخاخ أنف ملحي لجفاف الممرات الأنفية في الجو الحار الجاف، كريم واقٍ من الشمس، ضمادات صغيرة لتقرحات القدم، وحبوب دوار السفر إذا كنت تعاني منه.",
+            "من يأخذ أدوية لأمراض مزمنة يحتاج نسخة من وصفته الطبية ترجمت للعربية والإنجليزية. بعض الدول تشترط وثيقة رسمية من طبيبها للسماح بحمل أدوية بعينها عبر الحدود، خاصة المخدرات أو أدوية السيكو. تحقق من ذلك مع الجهة الصادرة للتأشيرة أو سفارة المملكة العربية السعودية قبل السفر."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "حقيبة الدواء الأساسية للحاج",
+            "head": [
+              "الصنف",
+              "الغرض",
+              "ملاحظة"
+            ],
+            "rows": [
+              [
+                "باراسيتامول",
+                "مسكن الحرارة والألم",
+                "الجرعة كل 6 ساعات كحد أقصى 4 مرات يوميا"
+              ],
+              [
+                "أدوية الإسهال",
+                "التحكم في الإسهال البسيط",
+                "لا تستخدم إذا كان فيه دم"
+              ],
+              [
+                "أقراص الإماهة الفموية",
+                "تعويض السوائل والأملاح",
+                "مهمة جدا في الحر"
+              ],
+              [
+                "أدوية الربو إذا كنت مريضا",
+                "فتح الشعب الهوائية",
+                "في متناول اليد دائما"
+              ],
+              [
+                "كريم الشمس SPF 30+",
+                "حماية الجلد",
+                "أعد وضعه كل ساعتين"
+              ],
+              [
+                "ضمادات وشرائط جرح",
+                "تقرحات القدم والجروح الصغيرة",
+                "احذية مريحة مجربة سابقا"
+              ]
+            ]
+          }
+        },
+        {
+          "h2": "العناية بالقدمين: غالبا ما يُهمل",
+          "paras": [
+            "الحج يتضمن مشيا على الأقدام لمسافات طويلة على أسطح صلبة وساخنة في حر شديد. تقرحات القدم وبثور الجلد هي من أكثر المشكلات الصحية شيوعا بين الحجاج، وهي تبدو بسيطة في البداية لكنها تستطيع أن تجعل إكمال المناسك أمرا شاقا ومؤلما بشكل غير ضروري.",
+            "ابدأ بارتداء الحذاء الذي ستحمله في الحج أسابيع قبل السفر ليتكيف شكله مع قدمك. الحذاء الجديد غير المجرب مصدر رئيسي للبثور. الجوارب القطنية أو الرياضية التي تمتص العرق تقلل من الاحتكاك. احمل معك ضمادات مضادة للبثور وجوربا إضافيا في حقيبة اليد.",
+            "مرضى السكري يجب أن يفحصوا قدميهم كل يوم في الصباح والمساء. قرحة صغيرة على قدم سكرية لا تلتئم بالسرعة ذاتها التي تلتئم بها على قدم سليمة، وقد تتطور إلى التهاب خطير في ظروف الحر والإجهاد المتواصل. أي جرح في قدم سكرية يجب أن يُعرض على الطاقم الطبي في أقرب مركز صحي في المخيمات في نفس اليوم وليس الانتظار حتى اليوم التالي.",
+            "الأسطح التي يمشي عليها الحجاج في المشاعر قد تصل درجة حرارتها لمستويات عالية جدا تحت الشمس. ارتدِ دائما حذاء أو نعلا يحمي القاع الكامل للقدم ولا تمشِ حافي القدمين على الإسفلت أو البلاط في الهواء الطلق."
+          ]
+        },
+        {
+          "h2": "متى تبحث عن المساعدة الطبية خلال الحج؟",
+          "paras": [
+            "الخدمات الطبية في الحج واسعة النطاق وتشمل مراكز صحية موزعة في جميع المشاعر. لا تتردد في الذهاب إليها لأنها موجودة من أجل الحجاج. التردد في طلب المساعدة قد يحول حالة بسيطة إلى حالة معقدة.",
+            "الأعراض التي تستدعي التوجه للطاقم الطبي فورا دون انتظار تشمل ألم الصدر أو ضيق التنفس المفاجئ، الارتباك أو تغير الوعي عند أي شخص، الحمى الشديدة فوق 39 درجة، الإسهال المصحوب بدم، أي إصابة جرحية عميقة، وأعراض السكتة الدماغية مثل ضعف جانب الجسم أو صعوبة الكلام.",
+            "حمل معك اسم وهاتف مجموعتك الطبية المصاحبة إذا كنت مع بعثة رسمية. كتب معلومات الطوارئ بالعربية والإنجليزية وضعها في مكان واضح على ملابسك أو في محفظتك. كبار السن والمصابون بأمراض مزمنة يجب أن يطلعوا مرافقيهم على أدويتهم وحالاتهم.",
+            "المراكز الصحية في مشعر منى ومزدلفة وعرفات والمسجد الحرام جميعها مستعدة لتقديم الرعاية للحجاج وفيها طواقم متعددة الجنسيات. لا تشعر بالحرج من طلب المساعدة. هذه الخدمات تمولها المملكة العربية السعودية تحديدا لخدمة الحجاج وهي مجانية."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "اطلب المساعدة الطبية فورا عند",
+            "items": [
+              "ألم الصدر أو ضيق التنفس المفاجئ.",
+              "الارتباك أو فقدان الوعي عند أي شخص.",
+              "حمى فوق 39 درجة مئوية.",
+              "أعراض السكتة: ضعف وجه أو ذراع أو صعوبة كلام.",
+              "إسهال مصحوب بدم أو قيء متكرر.",
+              "ضعف شديد لا تستطيع معه الحركة."
+            ]
+          }
+        },
+        {
+          "h2": "التخطيط الزمني: متى تبدأ الاستعداد؟",
+          "paras": [
+            "من يريد أداء الحج أو العمرة بصحة جيدة يجب أن يبدأ التخطيط الصحي قبل شهرين إلى ثلاثة أشهر من الموعد، وليس في الأيام الأخيرة. هذا الوقت كافٍ لاستيفاء التطعيمات التي تحتاج جرعتين أو تحتاج وقتا لبناء المناعة.",
+            "أصحاب الأمراض المزمنة يحتاجون زيارة طبيبهم في هذه المرحلة للتقييم ولمعرفة ما إذا كانت حالتهم مستقرة كفاية للسفر. بعض الأدوية تحتاج تعديل جرعاتها قبل الذهاب، وبعض المرضى يحتاجون تحاليل للتأكد من استقرار الوضع الصحي.",
+            "خلاصة القول: الحج والعمرة ليسا حكرا على الأصحاء تماما، لكن التخطيط الجيد هو ما يجعل الفرق بين حج تؤديه بصحة جيدة وتعود منه بنفس الطاقة، وحج تقضي جزءا منه في المراكز الصحية. ابدأ باكرا واستشر طبيبك ولا تستهن بالتفاصيل الطبية الصغيرة."
+          ],
+          "visual": {
+            "type": "timeline",
+            "title": "الجدول الزمني للاستعداد الصحي",
+            "items": [
+              {
+                "when": "قبل 8 أسابيع",
+                "what": "مراجعة الطبيب للحصول على التطعيمات ومراجعة الأمراض المزمنة"
+              },
+              {
+                "when": "قبل 6 أسابيع",
+                "what": "أخذ تطعيم التهاب الكبد أ (إذا احتجت جرعتين)"
+              },
+              {
+                "when": "قبل 4 أسابيع",
+                "what": "تطعيم المكورات السحائية وتأكيد بقية التطعيمات"
+              },
+              {
+                "when": "قبل 2 أسبوع",
+                "what": "تطعيم الإنفلونزا وتجميع الأدوية والوثائق الطبية"
+              },
+              {
+                "when": "قبل السفر",
+                "what": "مراجعة قائمة الأدوية ووضع الملخص الطبي في حقيبة اليد"
+              }
+            ]
+          }
+        }
+      ],
+      "tie": "استخدم تطبيق صحتك لتوثيق تطعيماتك وأدويتك المزمنة قبل السفر للحج أو العمرة. وجود سجلك الصحي بين يديك على هاتفك يوفر وقتا ثمينا إذا احتجت لمراجعة طبية في المملكة.",
+      "faqs": [
+        {
+          "q": "هل يستطيع مريض السكري أداء فريضة الحج؟",
+          "a": "نعم في معظم الحالات مع تخطيط جيد. يجب مراجعة الطبيب قبل شهرين لتقييم استقرار الحالة، وتعلم كيفية تعديل الأنسولين عند زيادة النشاط البدني، ومراقبة السكر بشكل متكرر خلال المناسك. الحمل الحراري والمشي الطويل يغيران الاحتياج من الأنسولين بشكل ملحوظ."
+        },
+        {
+          "q": "كم مدة صلاحية تطعيم المكورات السحائية للحج؟",
+          "a": "تطعيم المكورات السحائية رباعي التكافؤ ACWY يُعتبر فعالا لمدة 5 سنوات عادة وإن كان بعض الدول تشترط أن يكون أُخذ خلال آخر 3 سنوات. تحقق من الاشتراط المحدد عند تقديم طلب التأشيرة لأن الشروط قد تتغير."
+        },
+        {
+          "q": "هل يجوز استخدام الكمامة خلال أداء المناسك؟",
+          "a": "نعم، الكمامة لا تتعارض مع صحة المناسك وهي توصية طبية مهمة في الحشود الكثيفة. كثير من العلماء أفتوا بجوازها وعدم تأثيرها على أداء النسك. الكمامة الجراحية توفر حماية معقولة من الجسيمات الكبيرة للفيروسات."
+        },
+        {
+          "q": "ماذا أفعل إذا نفدت أدويتي خلال الحج؟",
+          "a": "أولا تأكد من الاسم العلمي للدواء وليس التجاري. صيدليات مكة والمدينة ومنى تحمل معظم الأدوية الشائعة. المستشفيات الملكية في المشاعر توفر الرعاية الطارئة مجانا للحجاج. الأدوية الحيوية مثل الأنسولين وأدوية القلب متاحة في منافذ الصحة الرسمية."
+        },
+        {
+          "q": "هل تطعيم الإنفلونزا ضروري للحج؟",
+          "a": "هو ليس إلزاميا لكن موصى به بشدة. التجمعات الضخمة في الحج تجعل الإنفلونزا من أكثر الأمراض انتشارا في الموسم. الإنفلونزا تُعيق كثيرا من الحجاج عن إكمال مناسكهم كل عام. التطعيم لا يمنع كل الأمراض التنفسية لكنه يقلل بشكل ملحوظ من خطر الأشد خطورة منها."
+        },
+        {
+          "q": "كيف أحافظ على أدوية الثلاجة كالأنسولين خلال الحج؟",
+          "a": "الأنسولين الذي لم يُفتح يمكن تخزينه في درجة حرارة الغرفة حتى 28 درجة لمدة تصل لشهر لمعظم الأنواع. في الحرارة الشديدة استخدم حقيبة تبريد طبية صغيرة مع ثلج صناعي. تحقق من تعليمات التخزين المحددة لنوع الأنسولين الذي تستخدمه."
+        },
+        {
+          "q": "من يجب أن يؤجل الحج من الناحية الصحية؟",
+          "a": "الحالات التي يُنصح فيها بالتأجيل تشمل: مريض بأزمة قلبية حديثة في الأشهر الثلاثة الماضية، من يعاني من فشل كلوي وهو على غسيل الكلى ولا تتوفر الخدمة في مكة ضمن برنامجه، والمريض بحالة تنفسية حادة غير مستقرة. القرار النهائي للطبيب المعالج الذي يعرف الحالة كاملة."
+        }
+      ]
+    },
+    "en": {
+      "title": "Staying healthy during Hajj and Umrah",
+      "desc": "Required vaccinations, heat safety, managing chronic conditions, and what medicines to carry for Hajj and Umrah. Practical medical preparation from start to finish.",
+      "keywords": "Hajj health guide, Umrah health preparation, Hajj vaccinations required, meningococcal vaccine Hajj, Hajj heat stroke, diabetes Hajj pilgrimage, medicines for Hajj, Hajj medical kit",
+      "h1": "Health preparation for Hajj and Umrah: the complete medical guide",
+      "takeaways": [
+        "The quadrivalent meningococcal vaccine (ACWY) is mandatory for visa approval and must be taken at least two weeks before travel.",
+        "Heat is the leading health risk for pilgrims. Drink water continuously before you feel thirsty, and schedule the most strenuous activities in cooler hours.",
+        "People with chronic conditions must see their doctor at least six to eight weeks before travel, not the week before.",
+        "Respiratory infections are extremely common in the crowds. Wearing a mask and handwashing significantly reduce transmission.",
+        "Record the generic name of every medicine you take so you can find an equivalent in Saudi Arabia if your supply runs out."
+      ],
+      "sections": [
+        {
+          "h2": "Vaccinations: what is mandatory and what is recommended?",
+          "paras": [
+            "The quadrivalent meningococcal vaccine covering serogroups A, C, W and Y is mandatory for all pilgrims and is required for Hajj and Umrah visa approval. This requirement is grounded in documented history: before the mandate was introduced, outbreaks of meningococcal meningitis followed pilgrims home to their countries after each season. A 2022 review in Infectious Diseases and Therapy documented a dramatic reduction in meningococcal disease after the vaccination requirement took effect.",
+            "A 2025 paper in Travel Medicine and Infectious Disease reviewed the full vaccination landscape for Hajj pilgrims and recommended influenza, hepatitis A and B (if not previously immunised), pneumococcal vaccine for those over 50 or with chronic lung disease or diabetes, and the most current Covid-19 formulation. These are not mandatory but they address the infections most likely to disrupt your pilgrimage.",
+            "The meningococcal vaccine must be taken at least two weeks before departure to allow the immune system enough time to build protective antibody levels. Influenza vaccine similarly benefits from a two-week lead time. Do not leave vaccination to the final week before travel."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Vaccinations for Hajj and Umrah",
+            "head": [
+              "Vaccine",
+              "Status",
+              "Timing"
+            ],
+            "rows": [
+              [
+                "Meningococcal ACWY",
+                "Mandatory for visa",
+                "At least 2 weeks before departure"
+              ],
+              [
+                "Influenza (seasonal)",
+                "Strongly recommended",
+                "2 weeks before departure"
+              ],
+              [
+                "Hepatitis A and B",
+                "Recommended if not previously given",
+                "May require 2 doses scheduled in advance"
+              ],
+              [
+                "Pneumococcal",
+                "Recommended for over-50s and chronic conditions",
+                "Before travel"
+              ],
+              [
+                "Covid-19 updated",
+                "Recommended",
+                "Per local schedule"
+              ]
+            ]
+          }
+        },
+        {
+          "h2": "Heat: the leading health risk for pilgrims",
+          "paras": [
+            "Because the Islamic calendar is lunar, Hajj falls in a different season each year in the Gregorian calendar. When it coincides with summer months in Mecca, ambient temperatures exceed 45 degrees Celsius and humidity adds to the heat load by reducing the body's ability to cool itself through sweating. The combination of intense physical exertion, large crowds and extreme heat makes heat exhaustion and heat stroke a real risk for every pilgrim regardless of age.",
+            "A 2026 cohort study in Annals of Saudi Medicine followed Indonesian pilgrims, one of the largest national groups at Hajj, and found that the main determinants of hospitalisation were pre-existing cardiac disease, advanced age and prolonged heat exposure. Pilgrims arriving from cooler climates were at higher risk because their bodies had not acclimatised to the heat.",
+            "The practical guidance is to drink water continuously before thirst develops, because thirst is a late signal that dehydration has already begun. Carry a water bottle at all times and use the water spraying stations at the holy sites. Rest in tents or air-conditioned areas for at least part of every hour during outdoor periods. Wear loose, light-coloured clothing and keep your head covered whenever you are in the sun.",
+            "Time the most physically demanding parts of the journey for the cooler hours of early morning or evening where the logistics of the ritual permit. During peak heat, move more slowly than you think you need to. Your body will tell you it can keep going long after the damage has already started."
+          ]
+        },
+        {
+          "h2": "Respiratory infections: the most common health complaint",
+          "paras": [
+            "Bringing millions of people from dozens of countries into close proximity creates ideal conditions for respiratory viruses to circulate. A review in Medecine et Maladies Infectieuses found that respiratory infection is the most common reason pilgrims seek medical treatment during Hajj season, and that most pilgrims return home with at least a mild respiratory illness.",
+            "The most common agents are influenza viruses, rhinoviruses causing the common cold and other respiratory viruses. A surgical mask provides meaningful protection against the larger respiratory droplets that carry many of these viruses, and consistent mask use in crowded spaces reduces transmission. Washing hands with soap for 20 seconds after touching shared surfaces and before touching your face is one of the most effective preventive measures available.",
+            "For pilgrims with asthma or chronic lung disease, carry your bronchodilator inhaler in an easily accessible pocket at all times. The combination of crowds, dust, dry heat and physical exertion can trigger acute bronchospasm. Anyone who has had an asthma exacerbation requiring hospital treatment in the past three months should discuss the timing of their pilgrimage seriously with their respiratory doctor before committing to travel."
+          ]
+        },
+        {
+          "h2": "Managing chronic conditions during pilgrimage",
+          "paras": [
+            "People with diabetes, high blood pressure, heart disease, kidney disease or asthma can perform Hajj and Umrah safely with good preparation. The key is planning well in advance. A medical review at least six to eight weeks before departure allows time to assess stability, adjust medications if needed, and make sure supplies are adequate.",
+            "People with diabetes face a particular challenge because prolonged walking significantly alters insulin requirements, and heat affects insulin absorption from the injection site. More frequent blood glucose monitoring than usual is essential. Carry fast-acting glucose treatment such as glucose tablets or small cartons of juice at all times for hypoglycaemia, and tell a travelling companion where these are kept.",
+            "Cardiac patients should carry a brief medical summary in both Arabic and English listing their diagnoses, medications, procedures and any devices such as pacemakers. If emergency treatment is needed, this document saves valuable time. Know the distinction between chest discomfort that resolves with rest and the kind that requires you to stop immediately and seek help.",
+            "Anyone on long-term medication must carry enough supply for the entire trip plus at least one extra week. Delays and extensions happen. Record the generic (non-brand) name of every medicine you take, because brand names differ between countries. This allows a pharmacist in Saudi Arabia to find an equivalent if your supply runs short."
+          ]
+        },
+        {
+          "h2": "Your medicine bag: what to carry",
+          "paras": [
+            "Every pilgrim should carry a small medical kit because access to pharmacies is not always immediate in the crowded conditions of the holy sites. Assembling this kit two weeks before departure gives you time to replace anything you discover you are missing.",
+            "The essentials that most pilgrims need include: paracetamol for fever and pain, antidiarrhoeal tablets, oral rehydration sachets which are essential in the heat for replacing fluids and electrolytes, nasal saline spray for the dry air, sunscreen of at least SPF 30, a small supply of adhesive plasters and blister dressings for foot problems, and any prescribed medicines with enough supply plus a margin.",
+            "Pilgrims with chronic conditions also need a copy of their prescription translated into Arabic and English. Some countries require an official letter from a physician for carrying controlled substances across international borders. Check this requirement with your country's health authority or the Saudi Arabian consulate well before departure, as the process can take time. Some countries also require documentation for carrying injectable medications such as insulin through customs, so check with the relevant embassy in advance if this applies to you."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Essential medical kit for Hajj and Umrah",
+            "head": [
+              "Item",
+              "Purpose",
+              "Note"
+            ],
+            "rows": [
+              [
+                "Paracetamol",
+                "Fever and pain relief",
+                "Maximum 4 doses per day, not exceeding 6-hour intervals"
+              ],
+              [
+                "Antidiarrhoeal",
+                "Control of simple diarrhoea",
+                "Do not use if blood is present in stool"
+              ],
+              [
+                "Oral rehydration sachets",
+                "Replace fluids and electrolytes",
+                "Critical in extreme heat"
+              ],
+              [
+                "Rescue inhaler if asthmatic",
+                "Open the airways",
+                "Carry in an accessible pocket at all times"
+              ],
+              [
+                "Sunscreen SPF 30+",
+                "Protect the skin",
+                "Reapply every 2 hours outdoors"
+              ],
+              [
+                "Blister dressings",
+                "Foot sores and small wounds",
+                "Wear tested comfortable shoes"
+              ]
+            ]
+          }
+        },
+        {
+          "h2": "Foot care: the aspect most pilgrims overlook",
+          "paras": [
+            "Hajj involves walking long distances on hard surfaces in extreme heat over several days. Foot blisters and skin sores are among the most common medical complaints, and while they seem minor, they can make completing the remaining rites genuinely painful and difficult.",
+            "Wear the shoes you plan to use at Hajj for several weeks before travel so they conform to your feet. Cotton or sports socks that absorb moisture reduce friction against the skin. Carry spare socks and a small supply of blister dressings. If a blister forms, clean it carefully and cover it rather than bursting it carelessly, as infection in hot conditions is a real risk.",
+            "Pilgrims with diabetes must inspect their feet every day of the pilgrimage. A small wound on a diabetic foot does not heal at the same rate as in a person without diabetes, and the combination of heat, walking and possible infection can turn a minor lesion into something serious quickly. Any foot injury in a person with diabetes should be shown to the medical staff at the camp health posts, which are available specifically for this purpose."
+          ]
+        },
+        {
+          "h2": "When to seek medical help during pilgrimage",
+          "paras": [
+            "Medical services at Hajj are extensive and include health centres distributed across all the holy sites. Do not hesitate to use them. They exist for pilgrims, they are staffed by doctors and nurses from Saudi Arabia and from many of the same countries as the pilgrims, and they are experienced with the specific health conditions that arise during the season.",
+            "Symptoms that warrant going to the medical team without waiting include chest pain or sudden shortness of breath, confusion or altered consciousness in any person, a fever above 39 degrees Celsius, bloody diarrhoea, any deep wound or significant injury, and symptoms of stroke such as sudden weakness on one side of the body or difficulty speaking.",
+            "Carry the contact number for your official delegation's medical team if you are travelling with an organised group. Write your emergency information in Arabic and English and keep it in a visible place on your person. Companions travelling with elderly or chronically ill pilgrims should know the person's medications and conditions in case they cannot communicate."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "Seek medical help immediately for",
+            "items": [
+              "Chest pain or sudden shortness of breath.",
+              "Confusion, altered behaviour or loss of consciousness.",
+              "Fever above 39 degrees Celsius.",
+              "Stroke symptoms: weakness on one side, slurred speech or sudden severe headache.",
+              "Bloody diarrhoea or repeated vomiting.",
+              "Severe weakness that prevents movement."
+            ]
+          }
+        },
+        {
+          "h2": "Planning timeline: when to start preparing",
+          "paras": [
+            "Anyone who wants to perform Hajj or Umrah in good health should start the medical planning two to three months before the travel date, not in the final week. This timeline allows enough time for vaccines that require two doses or need weeks to generate immunity, and for any adjustments to chronic medication that a doctor recommends.",
+            "People with chronic conditions need their doctor's review during this preparation window to assess whether their condition is stable enough for the physical demands of pilgrimage. Some medications need dose adjustment before travel. Some conditions benefit from additional blood tests to confirm stability before committing to the journey. Use this window also to obtain a medical summary document and to ensure prescription supplies are available in sufficient quantity for the trip and beyond."
+          ],
+          "visual": {
+            "type": "timeline",
+            "title": "Health preparation timeline",
+            "items": [
+              {
+                "when": "8 weeks before",
+                "what": "See your doctor for vaccination assessment and chronic disease review"
+              },
+              {
+                "when": "6 weeks before",
+                "what": "Hepatitis A first dose if needed and any other two-dose vaccines"
+              },
+              {
+                "when": "4 weeks before",
+                "what": "Meningococcal ACWY vaccine and confirm remaining vaccinations"
+              },
+              {
+                "when": "2 weeks before",
+                "what": "Influenza vaccine and assemble medicines and medical documents"
+              },
+              {
+                "when": "Before departure",
+                "what": "Final medicine check, medical summary in hand luggage, emergency contact written down"
+              }
+            ]
+          }
+        }
+      ],
+      "tie": "Use Sihtak to record your vaccinations, chronic medications and medical history before travelling. Having your health record on your phone means that if you need medical attention in Mecca, a doctor can access accurate information immediately rather than relying on your memory under stress.",
+      "faqs": [
+        {
+          "q": "Can a person with diabetes perform Hajj safely?",
+          "a": "Yes in most cases with good preparation. See your doctor two months before to assess stability, learn how to adjust insulin for increased physical activity and heat, and monitor blood glucose more frequently than usual throughout the rites. The extended walking and heat both affect insulin requirements significantly."
+        },
+        {
+          "q": "How long is the meningococcal vaccine valid for Hajj?",
+          "a": "The ACWY vaccine is generally considered effective for five years, though some countries require it to have been taken within the previous three years for visa purposes. Check the current requirement on your visa application, as Saudi health requirements can change between seasons."
+        },
+        {
+          "q": "Is it permissible to wear a mask during Hajj rituals?",
+          "a": "Yes. A mask does not invalidate any of the rites and is a practical medical recommendation in large crowds. Many Islamic scholars have confirmed its permissibility. A surgical mask provides meaningful protection against the larger respiratory droplets that transmit most common respiratory viruses."
+        },
+        {
+          "q": "What should I do if I run out of a prescription medicine during Hajj?",
+          "a": "First identify the generic name of the medicine, not the brand name. Pharmacies in Mecca and Medina and at Mina carry most common medicines. Royal Commission hospitals at the holy sites provide emergency care to pilgrims. Vital medicines such as insulin and cardiac drugs are available at official health distribution points in the camps."
+        },
+        {
+          "q": "Is the influenza vaccine necessary for Hajj?",
+          "a": "It is not mandatory but it is strongly recommended. The large congregations at Hajj make influenza one of the most common illnesses of the season, and it prevents many pilgrims from completing their rites each year. The vaccine does not prevent every respiratory illness but significantly reduces the risk of the most serious forms."
+        },
+        {
+          "q": "How do I keep insulin cold during Hajj?",
+          "a": "Unopened insulin stored correctly can generally remain at room temperature up to about 28 degrees Celsius for up to a month for most types. In extreme heat use a small medical cooling pouch with ice packs. Check the specific storage instructions for your insulin type, as they differ between rapid-acting, long-acting and mixed formulations."
+        },
+        {
+          "q": "Who should consider postponing Hajj for medical reasons?",
+          "a": "Conditions that warrant serious discussion with a doctor before travelling include a heart attack in the past three months, unstable angina, active heart failure, dialysis-dependent kidney failure if dialysis cannot be arranged in Mecca, and an unstable acute respiratory condition. The decision belongs to the treating doctor who knows the full picture."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,326 @@
+{
+  "slug": "hyperthyroidism-overactive-thyroid",
+  "category": "chronic-conditions",
+  "chip_ar": "الغدد الصماء",
+  "chip_en": "Endocrine",
+  "date_iso": "2026-07-14",
+  "sources": [
+    {
+      "label": "Chaker L, Cooper DS, Walsh JP et al: Hyperthyroidism, Lancet (London, England), 2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38278171/"
+    },
+    {
+      "label": "Lee SY, Pearce EN: Hyperthyroidism: A Review, JAMA, 2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37847271/"
+    },
+    {
+      "label": "Beshyah SA, Khalil AB, Sherif IH et al: A SURVEY OF CLINICAL PRACTICE PATTERNS IN MANAGEMENT OF GRAVES DISEASE IN THE MIDDLE EAST AND NORTH AFRICA, Endocrine practice, 2017",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27967219/"
+    },
+    {
+      "label": "De Almeida R, McCalmon S, Cabandugama PK et al: Clinical Review and Update on the Management of Thyroid Storm, Missouri medicine, 2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36118802/"
+    },
+    {
+      "label": "Azizi F, Mehran L, Abdi H et al: Approach to the Patient Considering Long-term Antithyroid Drug Therapy for Graves' Disease, The Journal of clinical endocrinology and metabolism, 2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39018185/"
+    },
+    {
+      "label": "Jin M, Jang A, Kim CA et al: Long-term follow-up result of antithyroid drug treatment of Graves' hyperthyroidism in a large cohort, European thyroid journal, 2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36826832/"
+    }
+  ],
+  "content": {
+    "ar": {
+      "title": "فرط نشاط الغدة الدرقية: مرض غريفز وخيارات العلاج",
+      "desc": "دليل شامل لفرط نشاط الغدة الدرقية: الأعراض، وتشخيص مرض غريفز، ومقارنة بين الأدوية والعلاج الإشعاعي والجراحة، وعلامات الأزمة الدرقية الطارئة.",
+      "keywords": "فرط نشاط الغدة الدرقية, مرض غريفز, الغدة الدرقية المفرطة النشاط, أعراض فرط الدرقية, علاج الدرقية, الثيمازول, اليود المشع, الأزمة الدرقية, TSH منخفض, T4 مرتفع",
+      "h1": "فرط نشاط الغدة الدرقية: مرض غريفز وخيارات العلاج الثلاثة",
+      "takeaways": [
+        "فرط نشاط الغدة الدرقية (Hyperthyroidism) يعني أن الغدة تنتج هرمونات أكثر مما يحتاجه الجسم، وأكثر أسبابه شيوعاً هو مرض غريفز (Graves' disease) وهو مرض مناعي ذاتي.",
+        "الأعراض الكلاسيكية تشمل سرعة ضربات القلب، فقدان الوزن رغم الأكل الجيد، التعرق الزائد، الرعشة، والقلق، وقد تظهر جحوظ العينين في مرض غريفز تحديداً.",
+        "خيارات العلاج ثلاثة: أدوية مضادة للدرق تعطى لفترة سنة إلى سنتين، اليود المشع الذي يتلف أنسجة الغدة، والجراحة لاستئصالها كلياً أو جزئياً.",
+        "الأزمة الدرقية (Thyroid Storm) حالة طارئة نادرة تهدد الحياة وتحتاج علاجاً في المستشفى فوراً."
+      ],
+      "sections": [
+        {
+          "h2": "ما هو فرط نشاط الغدة الدرقية؟",
+          "paras": [
+            "الغدة الدرقية (Thyroid) غدة صغيرة على شكل فراشة تقع في مقدمة العنق، ووظيفتها الرئيسية ضبط معدل الأيض في جسمك بالكامل من خلال إفراز هرموني T4 وT3. عندما تنتج الغدة كميات زائدة من هذه الهرمونات، يُعاني كل جهاز في الجسم من نشاط مفرط وغير خاضع للسيطرة. القلب يعمل أسرع، والأمعاء تتحرك بإلحاح، والجهاز العصبي يبقى في تيقظ مستمر حتى أثناء النوم.",
+            "يُشبه الأطباء هذه الحالة بمحرك سيارة يعمل على أقصى طاقته دون توقف، حتى وهي واقفة. الشخص المصاب يأكل جيداً لكنه يفقد الوزن، يتعب لكنه لا يستطيع النوم، يشعر بالحرارة حين يرتاح الجميع. التشخيص يتأكد بقياس TSH (الهرمون المحفز للدرقية) في الدم، وهو يكون منخفضاً جداً لأن الغدة النخامية (Pituitary) تكتشف الفائض وتتوقف عن إرسال إشاراتها التحفيزية.",
+            "يكشف مسح أجري في المنطقة عام 2017 ونشرته مجلة Endocrine Practice أن مرض غريفز هو أكثر أسباب فرط النشاط الدرقي شيوعاً في الشرق الأوسط وشمال أفريقيا، وأن الخيارات العلاجية المتاحة تختلف تفاوتاً ملحوظاً بين الدول حسب البنية التحتية الصحية المتوفرة. الحالة أكثر شيوعاً عند النساء بنسبة تقارب سبعة إلى واحد مقارنة بالرجال.",
+            "مراجعة شاملة نشرتها مجلة The Lancet عام 2024 أكدت أن فرط النشاط الدرقي يمس نحو 1 إلى 2% من السكان عالمياً، وأن غياب التشخيص المبكر يترك الشخص عرضة لمضاعفات القلب والعظام على المدى البعيد."
+          ]
+        },
+        {
+          "h2": "ما أسباب فرط نشاط الغدة الدرقية؟",
+          "paras": [
+            "مرض غريفز (Graves' disease) هو المسبب في نحو 80% من الحالات. يهاجم فيه جهاز المناعة الغدة الدرقية نفسها، لكن بطريقة غير معتادة: بدلاً من تدميرها، ينتج أجساماً مضادة تلتصق بمستقبلات TSH في الغدة وترسل إليها إشارات تحفيز لا تتوقف، فتعمل الغدة بلا قيود وبصرف النظر عن احتياج الجسم الفعلي. لهذا المرض ارتباط وراثي واضح، وهو أكثر شيوعاً عند النساء وعند من لديهم تاريخ عائلي في أمراض المناعة الذاتية.",
+            "أسباب أخرى أقل شيوعاً تشمل العقيدات الدرقية المفرِزة (Toxic Nodular Goiter)، وهي تضخمات صغيرة في الغدة تعمل باستقلالية تامة دون انتظار إشارات من الدماغ. التهاب الغدة الدرقية (Thyroiditis)، سواء أكان بسبب فيروس أم بسبب الجهاز المناعي، قد يطلق جرعة من الهرمون المخزون بصورة مؤقتة. كذلك فإن تناول كميات كبيرة من اليود عبر الغذاء أو عبر أدوية معينة كأميودارون (Amiodarone) المستخدم في علاج اضطرابات ضربات القلب قد يحفز الغدة.",
+            "التشخيص الدقيق للسبب مهم لاختيار العلاج الأنسب. يعتمد الطبيب على اختبار الدم (TSH وT4 الحر وT3)، وأحياناً على قياس الأجسام المضادة لمستقبلات TSH الذي يثبت وجود مرض غريفز تحديداً. الموجات فوق الصوتية على الغدة مفيدة وهي متاحة في أغلب عيادات المنطقة. أما مسح الغدة بالنويدات المشعة فيتطلب مركزاً متخصصاً وقد لا يتوفر في كل دول المنطقة."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "أسباب فرط نشاط الغدة الدرقية",
+            "head": ["السبب", "النسبة التقريبية", "الميزة التشخيصية"],
+            "rows": [
+              ["مرض غريفز", "80%", "أجسام مضادة TRAb موجبة، جحوظ العينين في بعض الحالات"],
+              ["عقيدات مفرِزة", "15%", "عقيدة أو عقيدات في الموجات فوق الصوتية"],
+              ["التهاب الغدة", "3-5%", "ألم في الغدة، زائل في الغالب خلال أسابيع"],
+              ["اليود أو الأدوية", "نادر", "تاريخ تناول أميودارون أو كميات ضخمة من اليود"]
+            ]
+          }
+        },
+        {
+          "h2": "أعراض فرط نشاط الغدة الدرقية",
+          "paras": [
+            "الأعراض تعكس جسماً يعمل على أقصى طاقته بلا استراحة. يشعر كثيرون بتعب وإرهاق رغم أنهم لا يستطيعون النوم، وتزداد سرعة ضربات القلب حتى في الراحة التامة. قد يشعر المريض بأن قلبه يخفق بعنف أو بصورة غير منتظمة، وهو ما يدفع بعضهم إلى التوجه أولاً لطبيب القلب قبل الوصول إلى تشخيص الغدة. فقدان الوزن رغم الشهية الجيدة أو الزائدة هو من أبرز الأعراض المحيرة.",
+            "أعراض أخرى تشمل التعرق المفرط حتى في الجو المعتدل أو البارد، عدم تحمل الحرارة، الرعشة الخفيفة في اليدين حين تمدها أمامك، الإسهال أو كثرة حركة الأمعاء، والشعور بالقلق والتوتر الشديد وصعوبة التركيز حتى على المهام البسيطة. ضعف عضلات الجذع والفخذين يجعل صعود الدرج أو حمل شيء ثقيل أمراً أصعب من المعتاد. عند النساء قد تصبح الدورة الشهرية أخف كثيراً أو تتباعد.",
+            "في مرض غريفز تحديداً، قد تبرز علامة مميزة هي جحوظ العينين (Graves' ophthalmopathy) حيث تبدو العينان أكبر من المعتاد، وقد تصبحان حساستين للضوء أو لاذعتين أو يصعب إغلاق الجفنين عليهما تماماً. هذه العلامة ناجمة عن التهاب مناعي في الأنسجة خلف العين وقد تستمر حتى بعد علاج الغدة نفسها، ولها علاج مستقل."
+          ]
+        },
+        {
+          "h2": "الخيار الأول: الأدوية المضادة للدرق",
+          "paras": [
+            "الأدوية المضادة للدرق، وأبرزها الثيمازول (Thiamazole) وكاربيمازول (Carbimazole) والبروبيل ثيوراسيل (Propylthiouracil)، توقف الغدة عن صنع هرمونات جديدة دون تدمير الغدة نفسها. هي الخيار الأول الذي يلجأ إليه الأطباء في كثير من دول منطقتنا، وذلك لأنها الطريقة الوحيدة التي تمنح فرصة للشفاء التام دون المساس بالغدة. الأعراض تبدأ بالتحسن في غضون أسبوعين إلى أربعة، وتعود قيم T4 وTSH نحو الطبيعي خلال شهرين إلى أربعة أشهر.",
+            "تمتد مدة العلاج المعتادة بين 12 و24 شهراً. توصل تحليل نشره باحثون في المجلة الأوروبية للغدة الدرقية عام 2023 شمل آلاف المرضى إلى أن نسبة كبيرة منهم تحقق مغفرة تدوم سنوات بعد الانتهاء من دورة علاجية منتظمة. مراجعة 2024 في مجلة JCEM أوضحت أن تمديد مدة العلاج إلى 18 إلى 24 شهراً يزيد نسبة المغفرة مقارنةً بالدورات الأقصر. الانتكاس ممكن لكنه قابل للعلاج، ولذلك تبقى المتابعة الدورية بعد توقف الدواء ضرورية.",
+            "الآثار الجانبية نادرة في مجملها. الأثر الجانبي الأكثر خطورة هو انخفاض حاد في خلايا الدم البيضاء (Agranulocytosis) الذي يجعل الجسم عاجزاً عن مقاومة العدوى. إذا أصابتك حمى شديدة مفاجئة أو ألم شديد في الحلق في أي وقت خلال العلاج، توجه إلى الطوارئ في نفس اليوم وأخبرهم أنك تتناول دواء مضاداً للدرق. لا تتأخر ولا تنتظر اليوم التالي."
+          ]
+        },
+        {
+          "h2": "الخيار الثاني: اليود المشع",
+          "paras": [
+            "العلاج باليود المشع (Radioactive Iodine, RAI) يعتمد على حقيقة بيولوجية بسيطة: الغدة الدرقية هي الوحيدة في الجسم التي تمتص اليود بكميات كبيرة. عندما تبتلع كبسولة أو سائلاً يحتوي على يود مشع، تمتصه الغدة انتقائياً ويتلف خلاياها تدريجياً من الداخل على مدى أسابيع إلى أشهر، بينما تبقى بقية أعضاء الجسم بعيدة عن تأثيره.",
+            "العلاج آمن جداً بسجل طويل يمتد لعقود، وفعاليته دائمة في أغلب الحالات. معظم الأشخاص يصلون إلى حالة طبيعية أو يصابون بخمول طفيف في الغدة بعد جرعة واحدة. الخمول يعالج ببساطة بهرمون الغدة الاصطناعي (Levothyroxine) الذي يؤخذ قرصاً واحداً يومياً في الصباح. التحذير الرئيسي الخاص بمرض غريفز هو أن اليود المشع قد يزيد من خطر تدهور علامات العين، لذلك يناقش الطبيب هذا الأمر قبل اتخاذ القرار.",
+            "لا يناسب هذا العلاج النساء الحوامل أو المرضعات على الإطلاق، ويجب تجنب الحمل لمدة ستة أشهر بعد العلاج على الأقل. من حيث التوافر، فهو متاح في مراكز الطب النووي الكبرى في المملكة العربية السعودية ومصر والإمارات، لكنه قد لا يتوفر في سوريا أو اليمن أو السودان."
+          ]
+        },
+        {
+          "h2": "الخيار الثالث: الجراحة",
+          "paras": [
+            "استئصال الغدة الدرقية كلياً أو معظمها خيار علاجي فعال وسريع المفعول. هو مناسب بخاصة حين تكون الغدة كبيرة جداً وتضغط على الرغامى أو المريء مسببةً صعوبة في البلع أو التنفس، أو حين توجد عقيدات تحتاج إلى فحص نسيجي لاستبعاد السرطان، أو حين تعذر الخياران الآخران لأسباب طبية أو شخصية.",
+            "نجاح الجراحة مرتبط ارتباطاً وثيقاً بخبرة الجراح. المراكز التي تجري عدداً كبيراً من عمليات الغدة الدرقية سنوياً تسجل معدلات مضاعفات أقل بكثير. الخطران الرئيسيان هما تلف الغدد جارات الدرقية (Parathyroid) التي تتحكم في مستوى الكالسيوم في الدم، وأذى في الأعصاب العائدة للحنجرة التي تتحكم في الصوت. كلاهما قابل للحدوث لكن احتماله نادر في يد جراح متمرس.",
+            "بعد الاستئصال الكامل للغدة ستحتاج إلى هرمون الغدة الاصطناعي (Levothyroxine) كل يوم بقية حياتك، لأن الجسم لم تعد لديه غدة لإنتاج الهرمون الطبيعي. الجرعة تضبط بقياس TSH مرة أو مرتين سنوياً بعد الاستقرار على جرعة مناسبة."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "مقارنة بين خيارات علاج فرط نشاط الغدة الدرقية",
+            "head": ["العلاج", "كيف يعمل", "مزايا", "محاذير"],
+            "rows": [
+              ["أدوية مضادة للدرق", "توقف انتاج الهرمون دون تدمير الغدة", "فرصة شفاء تام، الغدة تبقى سليمة", "دورة طويلة 12-24 شهراً، خطر نادر على الكريات البيضاء"],
+              ["اليود المشع", "يتلف خلايا الغدة من الداخل", "جرعة واحدة، فعالية عالية ودائمة", "يسبب خمول الغدة غالباً، لا يناسب الحوامل"],
+              ["الجراحة", "يستأصل الغدة كلياً أو جزئياً", "نتيجة فورية، مناسب للغدة الكبيرة أو العقيدات المشبوهة", "تدخل جراحي، احتمال تأثر الكالسيوم أو الصوت"]
+            ]
+          }
+        },
+        {
+          "h2": "الأزمة الدرقية: الطارئة التي لا تحتمل الانتظار",
+          "paras": [
+            "الأزمة الدرقية (Thyroid Storm) حالة بالغة الخطورة تحدث عادةً عند شخص مصاب بفرط نشاط غير مشخص أو غير معالَج يتعرض لضغط جسدي حاد كعملية جراحية أو عدوى شديدة أو حادث. تطلق الغدة في هذه الحالة كميات ضخمة من الهرمونات دفعةً واحدة مما يدخل الجسم في أزمة متعددة الأعضاء في آن واحد.",
+            "مراجعة شاملة نشرتها مجلة Missouri Medicine عام 2022 وصفت الأزمة الدرقية بأن معدل الوفيات بها يتجاوز 10% حتى مع العلاج الفوري في وحدة العناية المركزة. العلامات التحذيرية التالية تستوجب الذهاب إلى المستشفى فوراً دون أي تأخير.",
+            "من يتناول أدوية الغدة الدرقية ويعاني من حمى مفاجئة وارتباك ذهني في نفس الوقت ينبغي أن يصل إلى الطوارئ في أقرب وقت ممكن ويخبرهم بقائمة أدويته بالكامل."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "توجه إلى المستشفى فوراً إذا ظهرت هذه العلامات",
+            "items": [
+              "حمى شديدة تتجاوز 39 درجة مئوية مصحوبة بتسارع حاد في القلب",
+              "ارتباك ذهني أو هلوسة أو فقدان الوعي",
+              "ضربات قلب غير منتظمة وسريعة جداً تحس بها بوضوح",
+              "قيء وإسهال حادان مع ارتفاع الحرارة في نفس الوقت",
+              "أي شخص يتناول أدوية الدرقية ويشعر بحمى مفاجئة مع ألم شديد في الحلق"
+            ]
+          }
+        },
+        {
+          "h2": "الحياة مع مرض غريفز: المتابعة والعيون واليومي",
+          "paras": [
+            "إذا اخترت الأدوية، يحتاج طبيبك إلى متابعة TSH وT4 الحر كل ثلاثة إلى ستة أشهر لضبط الجرعة حسب استجابتك. لا تتوقف عن الدواء من تلقاء نفسك حتى لو شعرت بتحسن كامل وتوقفت الأعراض تماماً. الجسم يحتاج إلى الوقت ليضبط نظامه المناعي، والتوقف المبكر هو السبب الأكثر شيوعاً للانتكاس.",
+            "مرضى غريفز الذين يعانون من جحوظ العينين يحتاجون إلى متابعة منفصلة مع طبيب عيون لديه خبرة في أمراض الغدة الدرقية. حماية العينين من الإضاءة الشديدة والهواء الجاف والغبار مهمة عملياً. قطرات العين المرطبة تخفف الانزعاج اليومي. أما في الحالات الشديدة فتستخدم أدوية مناعية أو تقنيات لتخفيف الضغط خلف العين.",
+            "التدخين يزيد بشكل موثق وملحوظ من خطر تدهور أمراض عين غريفز، وهذا من أقوى الأسباب للإقلاع عن التدخين إذا كنت مصاباً بهذا المرض. الضغط النفسي الحاد قد يحفز انتكاسة عند بعض المرضى، لذلك يفيد الاهتمام بالنوم الكافي وإدارة التوتر بطرق عملية.",
+            "لا توجد حمية غذائية علاجية لمرض غريفز. الأطعمة الغنية جداً باليود كالأعشاب البحرية يفضل تناولها باعتدال خلال فترة العلاج، لكن المأكولات العادية في المنطقة كالسمك والملح المعالج باليود بكميات معتدلة مقبولة تماماً ولا تتطلب قيوداً خاصة."
+          ]
+        }
+      ],
+      "tie": "تتبع أعراضك وجرعة دوائك ونتائج اختبارات الغدة الدرقية في تطبيق سهتك يساعدك على ملاحظة أي تغيير قبل موعدك القادم مع الطبيب وتقديم صورة واضحة لتطور حالتك عبر الوقت.",
+      "faqs": [
+        {
+          "q": "هل يمكن أن يشفى مرض غريفز تماماً؟",
+          "a": "نعم، يصل نحو 30 إلى 50% من مرضى غريفز إلى مغفرة طويلة الأمد بعد دورة علاجية كاملة من الأدوية. الشفاء التام أكثر احتمالاً لمن تكون غدتهم أصغر وأجسامهم المضادة أقل. المتابعة الدورية بعد توقف الدواء ضرورية للكشف المبكر عن أي انتكاس."
+        },
+        {
+          "q": "هل اليود المشع آمن؟",
+          "a": "نعم، ويستخدم منذ سبعينيات القرن الماضي مع سجل أمان ممتاز على مدى عقود طويلة. الإشعاع يستهدف الغدة الدرقية فقط ولا يؤثر على بقية الجسم بصورة ذات أهمية سريرية. المحاذير الرئيسية هي الحمل والرضاعة، وتدهور أمراض عين غريفز المحتمل وهو ما يناقش مع الطبيب مسبقاً."
+        },
+        {
+          "q": "ما علاقة الخفقان بفرط نشاط الغدة الدرقية؟",
+          "a": "الهرمونات الدرقية الزائدة تسرع ضربات القلب وتزيد قوة انقباضاته مما يسبب الخفقان والشعور بنبض قوي في الصدر أو الرقبة. في بعض الحالات، لا سيما عند كبار السن، قد يتطور الأمر إلى رجفان أذيني (Atrial Fibrillation) يحتاج إلى علاج مستقل."
+        },
+        {
+          "q": "هل أحتاج إلى دواء مدى الحياة؟",
+          "a": "يعتمد على خيارك العلاجي. من اختار اليود المشع أو الجراحة سيحتاج على الأرجح إلى Levothyroxine مدى الحياة. من أتم دورة الأدوية وحقق مغفرة لا يحتاج إلى شيء طالما بقيت الغدة تعمل بصورة طبيعية، لكنه يحتاج إلى متابعة دورية."
+        },
+        {
+          "q": "هل يؤثر فرط نشاط الدرقية على الخصوبة والحمل؟",
+          "a": "نعم، فرط النشاط غير المعالج قد يعيق التبويض ويقلل من فرص الحمل. إذا حدث الحمل مع فرط نشاط غير مسيطر عليه ترتفع مخاطر الإجهاض والولادة المبكرة وضعف الجنين. السيطرة على مستوى الهرمون قبل الحمل وأثناءه تشرف عليها الطبيبة مع أخصائي الغدد الصماء."
+        },
+        {
+          "q": "كيف أعرف أن علاجي يعمل؟",
+          "a": "عادةً تتحسن الأعراض في غضون أسبوعين إلى أربعة من بدء الدواء. اختبار الدم لقياس T4 وTSH يعود نحو الطبيعي في غضون شهرين إلى أربعة أشهر. طبيبك هو من يحدد متى تصبح التحاليل مقبولة وهل يمكن تخفيض الجرعة."
+        },
+        {
+          "q": "هل يمكن أن أكون مصاباً بفرط النشاط دون أعراض واضحة؟",
+          "a": "نعم، يسمى هذا بفرط النشاط تحت السريري (Subclinical Hyperthyroidism) حيث يكون TSH منخفضاً لكن T4 وT3 لا يزالان ضمن الطبيعي وقد تغيب الأعراض. على المدى البعيد يزيد هذا من خطر الرجفان الأذيني وهشاشة العظام ويتطلب متابعة دورية."
+        }
+      ]
+    },
+    "en": {
+      "title": "Overactive thyroid: Graves disease and the treatment choices",
+      "desc": "A clear guide to hyperthyroidism: symptoms, diagnosing Graves disease, comparing antithyroid drugs with radioactive iodine and surgery, and recognising thyroid storm.",
+      "keywords": "hyperthyroidism, Graves disease, overactive thyroid, antithyroid drugs, radioactive iodine, thyroid storm, TSH low, T4 high, thyroid treatment",
+      "h1": "Overactive thyroid: Graves disease and your three treatment choices",
+      "takeaways": [
+        "Hyperthyroidism means your thyroid gland makes more hormone than your body needs. Graves disease, an autoimmune condition, causes around 80% of cases.",
+        "Classic symptoms include a fast heart rate, unintentional weight loss despite a good appetite, excessive sweating, tremor and anxiety. Graves disease can also cause bulging eyes.",
+        "Three treatment paths exist: antithyroid medicines taken for one to two years, radioactive iodine that permanently reduces thyroid activity, and surgery to remove the gland.",
+        "Thyroid storm is a rare but life-threatening emergency that needs hospital treatment immediately."
+      ],
+      "sections": [
+        {
+          "h2": "What is hyperthyroidism?",
+          "paras": [
+            "Your thyroid gland sits at the front of your neck and controls your metabolic rate by releasing thyroid hormones, chiefly T4 (thyroxine) and T3 (triiodothyronine). When it overproduces these hormones, every system in your body runs faster than it should. Your heart beats faster, your gut moves more urgently, and your nervous system stays on high alert even when you are trying to sleep.",
+            "Your doctor confirms the diagnosis by measuring TSH (thyroid stimulating hormone) in your blood: in hyperthyroidism, TSH is very low because your pituitary gland detects the excess and switches off its own signal. A 2024 review in The Lancet by Chaker and colleagues described hyperthyroidism as affecting roughly 1 to 2% of the general population worldwide, with significant variation in how it is managed depending on local resources.",
+            "A survey published in Endocrine Practice in 2017 examined practice specifically across the Middle East and North Africa, finding that Graves disease is the dominant cause in the region and that the treatment options available to patients vary considerably between countries. The condition is far more common in women than in men, roughly seven to one, and it can appear at any age though the peak is between 30 and 60 years.",
+            "Without treatment, persistent hyperthyroidism raises the long-term risk of atrial fibrillation, an irregular heart rhythm that increases stroke risk, and of osteoporosis, because excess thyroid hormone accelerates bone breakdown. These are reasons to take the condition seriously and follow through with treatment even when symptoms seem manageable."
+          ]
+        },
+        {
+          "h2": "What causes an overactive thyroid?",
+          "paras": [
+            "Graves disease accounts for around 80% of cases. It is an autoimmune disorder where your immune system produces antibodies that attach to TSH receptors on the thyroid and keep telling it to produce hormones continuously, bypassing the normal feedback loop entirely. The antibodies are called TSH receptor antibodies (TRAb) and a blood test that detects them confirms the diagnosis of Graves disease specifically. The condition has a clear genetic component and is more common in people with a family history of thyroid or other autoimmune conditions.",
+            "Toxic nodular goitre accounts for most of the remaining cases. One or more nodules in the thyroid develop the ability to produce hormone independently, without waiting for TSH signals. This form is more common in older patients and in regions where iodine intake has historically been low, which gives it some relevance in parts of the Arab world where dietary patterns vary.",
+            "Other causes include thyroiditis, an inflammation of the gland that can release a burst of stored hormone and cause transient hyperthyroidism over a few weeks before the gland burns out. Some medicines trigger overactivity: amiodarone, widely used for heart rhythm disorders and containing a large amount of iodine, is the most common culprit. Excess iodine from dietary sources such as very large amounts of seaweed can also occasionally push a borderline gland into overactivity.",
+            "Your doctor will determine the underlying cause before deciding on treatment, because the right approach differs between causes. This usually involves a blood panel for TSH, free T4 and T3, and sometimes TRAb antibodies. Ultrasound of the thyroid is widely available across the region and shows nodules clearly. Radioactive thyroid scanning, which helps distinguish Graves disease from nodular disease, requires a nuclear medicine facility and is available in major centres in Saudi Arabia, Egypt and the UAE."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Common causes of hyperthyroidism",
+            "head": ["Cause", "Approximate share", "Key diagnostic feature"],
+            "rows": [
+              ["Graves disease", "80%", "Positive TRAb antibody, eye signs possible"],
+              ["Toxic nodular goitre", "15%", "Nodule or nodules visible on ultrasound"],
+              ["Thyroiditis", "3-5%", "Tender gland, usually resolves spontaneously"],
+              ["Drug or iodine induced", "Rare", "History of amiodarone or excess iodine intake"]
+            ]
+          }
+        },
+        {
+          "h2": "What does hyperthyroidism feel like?",
+          "paras": [
+            "The symptoms reflect a body running at full throttle with no off switch. The most common are a rapid or pounding heart rate even at rest, unexplained weight loss despite eating normally or more than usual, feeling too warm when others are comfortable, sweating more than expected, and a fine tremor in the hands when you hold them out flat. Many people also feel persistently anxious, irritable or unable to concentrate, and sleep becomes difficult despite exhaustion.",
+            "Other symptoms include frequent bowel movements or loose stools, thinning or brittle hair, irregular or lighter menstrual periods in women, and muscle weakness particularly in the shoulders and thighs. Getting up from a chair without using your arms, or climbing stairs, can feel harder than it should. Some patients first notice a rapid or fluttering heartbeat and see a cardiologist before the thyroid diagnosis is reached.",
+            "In Graves disease specifically, a proportion of patients develop eye changes collectively called Graves ophthalmopathy. The eyes may appear to protrude, feel dry or gritty, become sensitive to bright light, or the eyelids may not fully close during sleep. These changes are caused by an immune reaction in the tissues behind the eye and are separate from the thyroid itself. They need specialist eye review and can sometimes continue or even temporarily worsen after the thyroid has been treated. If you notice any changes in your vision or eye comfort, mention them to your doctor."
+          ]
+        },
+        {
+          "h2": "Treatment choice one: antithyroid medicines",
+          "paras": [
+            "Antithyroid medicines block the thyroid from making new hormone without damaging the gland itself. The most commonly used are carbimazole or its active breakdown product methimazole, sold as thiamazole in some countries, and propylthiouracil (PTU), which is preferred in the first trimester of pregnancy because it crosses the placenta less than the alternatives. Symptoms typically begin to improve within two to four weeks as the stored hormone already in the blood is used up, and blood levels usually normalise within two to four months.",
+            "A 2024 paper in the Journal of Clinical Endocrinology and Metabolism by Azizi and colleagues reviewed the evidence for long-term antithyroid drug therapy in Graves disease and concluded that a course of 12 to 24 months is appropriate for most patients, with evidence that longer courses achieve higher remission rates. A 2023 large cohort study published in the European Thyroid Journal confirmed that a substantial proportion of patients maintain normal thyroid function for years after stopping treatment, though regular follow-up remains important.",
+            "The most serious side effect is agranulocytosis, a dangerous drop in the white blood cells that fight infection. It occurs in roughly 0.1 to 0.3% of patients and is most likely in the first few weeks of treatment. If you develop a sudden high fever or a severe sore throat at any point during treatment, go to an emergency department or clinic that day, not the next morning. Tell them you are on an antithyroid medicine and ask for an urgent white blood cell count.",
+            "Milder and more common side effects include a skin rash, joint aches or a raised liver enzyme on blood tests. These usually resolve with a dose adjustment or switch to an alternative drug. Tell your doctor about any new symptoms rather than stopping the medicine on your own, because abrupt discontinuation can trigger a rapid return of thyroid overactivity."
+          ]
+        },
+        {
+          "h2": "Treatment choice two: radioactive iodine",
+          "paras": [
+            "Radioactive iodine (RAI) is taken as a single capsule or liquid. The thyroid gland is unique in its ability to absorb iodine from the bloodstream, and the radioactive form destroys thyroid cells from the inside over several weeks to months. The targeting is remarkably precise: surrounding structures in the neck and other organs receive a very small radiation dose.",
+            "RAI has been in use since the 1940s and has an excellent long-term safety record. A 2023 review in JAMA by Lee and Pearce noted that RAI is effective and leads to resolution of hyperthyroidism in the majority of patients after one or occasionally two doses. The most common outcome is that the thyroid becomes underactive, which is then managed simply with a daily tablet of levothyroxine. Most people find this easy to live with.",
+            "The main concern specific to Graves disease is that RAI may worsen Graves ophthalmopathy in patients who already have eye involvement. Your doctor will assess your eye situation before recommending this treatment. RAI is absolutely contraindicated in pregnancy and breastfeeding, and pregnancy should be delayed for at least six months after treatment. A short course of antithyroid medicine is usually given first to normalise thyroid levels, and RAI is administered once that is achieved.",
+            "Availability varies across the region. Major nuclear medicine centres in Saudi Arabia, Egypt, Jordan and the UAE offer this treatment. It may not be accessible in Yemen, Syria or Sudan, and this is a practical reality that affects which treatment options are feasible for a given patient."
+          ]
+        },
+        {
+          "h2": "Treatment choice three: surgery",
+          "paras": [
+            "Total or near-total thyroidectomy removes the thyroid gland entirely or almost entirely. It is the fastest route to definitive treatment and is particularly suitable when the gland is very large and causing swallowing or breathing difficulty, when nodules need pathological examination to exclude malignancy, when a patient has Graves ophthalmopathy and wants to avoid the potential worsening associated with RAI, or when the other two treatments are contraindicated or have already failed.",
+            "The outcome of surgery depends heavily on the experience of the surgical team. The main risks are damage to the parathyroid glands, four tiny structures behind the thyroid that regulate calcium in the blood, and injury to the recurrent laryngeal nerves, which control the voice box. Temporary calcium problems are fairly common immediately after surgery and are managed with supplements. Permanent changes to the voice are rare in experienced hands. Choosing a hospital or surgeon who performs thyroid surgery frequently is important.",
+            "After complete removal you will need lifelong levothyroxine. The dose is adjusted by periodic TSH blood tests, usually every six to twelve months once a stable dose is found. Most people reach a good level and feel completely normal on their replacement dose. Surgery is immediately definitive: there is no waiting months for the gland to wind down as there is with RAI."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Comparing the three treatment options",
+            "head": ["Treatment", "How it works", "Advantages", "Key considerations"],
+            "rows": [
+              ["Antithyroid medicines", "Blocks new hormone production", "Chance of lasting remission, gland preserved", "12-24 month course, rare white cell risk"],
+              ["Radioactive iodine", "Permanently reduces gland activity", "One dose, highly effective, no surgery", "Usually causes hypothyroidism, avoid in pregnancy, may worsen eye disease in Graves"],
+              ["Surgery", "Removes the gland", "Immediate result, suitable for large goitre or suspicious nodules", "Requires experienced surgeon, lifelong replacement afterwards"]
+            ]
+          }
+        },
+        {
+          "h2": "Thyroid storm: the emergency that cannot wait",
+          "paras": [
+            "Thyroid storm is an extreme and sudden worsening of hyperthyroidism, usually triggered in someone with undiagnosed or untreated overactivity by a physical stress such as a severe infection, an operation, trauma, or even childbirth. The thyroid floods the body with hormones at a rate that overwhelms every compensatory mechanism simultaneously. It is rare but it is one of the most dangerous conditions in endocrinology.",
+            "A comprehensive review in Missouri Medicine in 2022 described thyroid storm as carrying a mortality rate above 10% even with prompt treatment in an intensive care unit. Recognising the warning signs and acting immediately is potentially life-saving. The condition needs intravenous medicines to block hormone production and release, beta-blockers to protect the heart, and treatment of whatever triggered the crisis, all given simultaneously in a hospital setting.",
+            "Anyone with known or suspected thyroid disease who develops the combination of high fever, very fast heart rate and mental confusion needs emergency care that same hour. Do not wait to see if the fever settles with paracetamol."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "Go to hospital immediately if you notice these",
+            "items": [
+              "Fever above 39 degrees Celsius combined with a very rapid heart rate",
+              "Confusion, agitation or loss of consciousness",
+              "Irregular and very fast heartbeat you can feel clearly in your chest or neck",
+              "Severe vomiting and diarrhoea together with high temperature",
+              "Anyone on antithyroid medicines who develops sudden high fever with severe sore throat"
+            ]
+          }
+        },
+        {
+          "h2": "Living with Graves disease: monitoring, eyes and everyday life",
+          "paras": [
+            "If you are taking antithyroid medicines, your doctor will check your TSH and free T4 every three to six months to adjust the dose and confirm you are remaining in the normal range. Do not stop the medicine based on how you feel. Normal symptoms can return within a few weeks of discontinuation if the autoimmune process is still active, and restarting is straightforward but avoidable.",
+            "If you have Graves ophthalmopathy, your eyes need a separate review from a specialist, ideally an ophthalmologist experienced in thyroid eye disease. Lubricating eye drops relieve the dry and gritty sensation. Wearing wraparound glasses outdoors reduces wind irritation. Sleeping with the head of the bed slightly elevated helps reduce morning puffiness. In moderate to severe cases, systemic treatments including corticosteroids and orbital radiation or decompression surgery are available in regional centres.",
+            "Smoking is one of the strongest known risk factors for worsening Graves ophthalmopathy. Studies consistently show that smokers with Graves disease have more severe and more treatment-resistant eye involvement than non-smokers. If you smoke, stopping is the single most effective action you can take to protect your eyes.",
+            "There is no special diet that treats Graves disease. Very high iodine intake, for example from daily consumption of large amounts of seaweed supplements, is best avoided during antithyroid drug treatment because it can interfere with the medicine. Otherwise, normal regional foods including fish, dairy and iodised salt in ordinary amounts are fine. Moderate regular exercise, sleep and stress management support overall wellbeing and may reduce the frequency of autoimmune flares."
+          ]
+        }
+      ],
+      "tie": "Use the Sihtak app to log your thyroid test results, symptoms and medication over time. Seeing the pattern clearly helps you and your doctor make better decisions at each follow-up visit.",
+      "faqs": [
+        {
+          "q": "Can Graves disease go into remission permanently?",
+          "a": "Yes. Roughly 30 to 50% of patients achieve lasting remission after completing a full course of antithyroid medicines. Remission is more likely in people with smaller goitres, lower antibody levels at the start, and who maintain treatment for at least 18 months. Regular TSH checks are still needed after stopping because relapse can occur years later."
+        },
+        {
+          "q": "Is radioactive iodine safe?",
+          "a": "Radioactive iodine has been used since the 1940s and has an excellent long-term safety record backed by decades of follow-up data. The radiation is concentrated almost entirely within the thyroid gland. The main expected outcome is hypothyroidism, which is easily and reliably managed with daily levothyroxine. It is not given during pregnancy or breastfeeding, and pregnancy should be avoided for six months afterwards."
+        },
+        {
+          "q": "Why does an overactive thyroid cause heart palpitations?",
+          "a": "Excess thyroid hormone directly increases both the rate and force of each heartbeat. This causes the pounding or fluttering sensation many people notice. In some patients, particularly older adults, it can trigger atrial fibrillation, an irregular heart rhythm that requires separate treatment and raises the risk of stroke if left unmanaged."
+        },
+        {
+          "q": "Will I need medication for the rest of my life?",
+          "a": "It depends on which treatment you choose. After radioactive iodine or surgery you will most likely need daily levothyroxine indefinitely, but this is a simple and inexpensive treatment. After a successful course of antithyroid medicines that achieves remission, you may need nothing, but periodic TSH checks every six to twelve months remain important."
+        },
+        {
+          "q": "Does hyperthyroidism affect fertility or pregnancy?",
+          "a": "Uncontrolled hyperthyroidism can disrupt ovulation and reduce the chance of conception. If pregnancy occurs with poorly controlled disease, the risks of miscarriage, premature birth and low birth weight increase. Achieving good control before attempting pregnancy is strongly advisable, and thyroid levels need close monitoring throughout pregnancy with input from both an endocrinologist and an obstetrician."
+        },
+        {
+          "q": "How do I know if my treatment is working?",
+          "a": "Symptoms usually begin to improve within two to four weeks of starting antithyroid medicines as thyroid hormone levels fall. Blood levels of T4 and TSH typically reach the target range within two to four months. Your doctor will adjust your dose based on these results. Feeling better is encouraging but the blood test is the definitive guide."
+        },
+        {
+          "q": "What is subclinical hyperthyroidism?",
+          "a": "Subclinical hyperthyroidism means your TSH is below the normal range but your T4 and T3 remain normal. Many people have no symptoms. It still warrants monitoring and sometimes treatment because persistent suppressed TSH is associated over time with a higher risk of atrial fibrillation and reduced bone density, particularly in postmenopausal women and older adults."
+        }
+      ]
+    }
+  }
+}

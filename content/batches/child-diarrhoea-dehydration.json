@@ -1,0 +1,356 @@
+{
+  "slug": "child-diarrhoea-dehydration",
+  "category": "child-health",
+  "chip_ar": "صحة الطفل",
+  "chip_en": "Child Health",
+  "date_iso": "2026-08-05",
+  "sources": [
+    {
+      "label": "King CK, Glass R, Bresee JS et al: Managing acute gastroenteritis among children: oral rehydration, maintenance, and nutritional therapy, MMWR. Recommendations and reports, 2003",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/14627948/"
+    },
+    {
+      "label": "Yakoob MY, Theodoratou E, Jabeen A et al: Preventive zinc supplementation in developing countries: impact on mortality and morbidity due to diarrhea, pneumonia and malaria, BMC public health, 2011",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21501441/"
+    },
+    {
+      "label": "Zieg J, Narla D, Gonsorcikova L et al: Fluid management in children with volume depletion, Pediatric nephrology (Berlin, Germany), 2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37452205/"
+    },
+    {
+      "label": "GBD 2023 Causes of Death Collaborators: Global burden of 292 causes of death in 204 countries and territories and 660 subnational locations, 1990-2023: a systematic analysis for the Global Burden of Disease Study 2023, Lancet (London, England), 2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41092928/"
+    },
+    {
+      "label": "Fang YH, Wan CM, Gong ST et al: Clinical practice guidelines for acute infectious diarrhea in children in China (2024), World journal of pediatrics, 2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40437180/"
+    },
+    {
+      "label": "World Health Organization: The treatment of diarrhoea: a manual for physicians and other senior health workers",
+      "url": "https://www.who.int/publications/i/item/9241593180"
+    }
+  ],
+  "content": {
+    "ar": {
+      "title": "الإسهال عند الأطفال: الإماهة التي تنقذ الحياة",
+      "desc": "دليل عملي للوالدين عن إعداد محلول الإماهة الفموي في المنزل، علامات الجفاف عند الطفل، ودور الزنك في تقصير مدة الإسهال، ومتى يجب الذهاب للمستشفى.",
+      "keywords": "إسهال الأطفال، محلول الإماهة الفموي ORS، جفاف الطفل، علامات الجفاف عند الأطفال، زنك للأطفال، علاج الإسهال المنزلي، إسهال الرضيع، متى يذهب الطفل للمستشفى",
+      "h1": "الإسهال عند الأطفال: الإماهة التي تنقذ الحياة وكيف تفعلها في المنزل",
+      "takeaways": [
+        "محلول الإماهة الفموي (ORS) هو أهم علاج للإسهال عند الأطفال وهو ينقذ الحياة حقاً.",
+        "يمكن تحضير محلول إماهة منزلي من الماء والملح والسكر إذا لم يتوفر الجاهز.",
+        "الزنك يُقصّر مدة الإسهال ويُقلل شدته عند الأطفال دون خمس سنوات وفق توصيات منظمة الصحة العالمية.",
+        "المضادات الحيوية لا تُفيد في معظم حالات الإسهال الفيروسي وقد تضر الجهاز الهضمي.",
+        "علامات الجفاف الشديد تستوجب المستشفى فوراً ولا يمكن علاجها في المنزل."
+      ],
+      "sections": [
+        {
+          "h2": "لماذا يُقتل الإسهال الأطفال وليس المرض نفسه؟",
+          "paras": [
+            "الإسهال الحاد عند الأطفال لا يقتل بسبب البكتيريا أو الفيروس نفسه في الغالبية العظمى من الحالات. ما يقتل هو الجفاف الناتج عن خسارة الماء والأملاح بسرعة أكبر مما يمكن تعويضه. جسم طفل في الثانية أو الثالثة من عمره يمكن أن يخسر ما يعادل 10% من وزنه في الماء في غضون ساعات إذا كان الإسهال شديداً ولم يُعوَّض، وهذه النسبة كافية لإصابته بصدمة دموية خطيرة.",
+            "تقرير دراسة عبء الأمراض العالمية الصادر في مجلة Lancet عام 2025 يُؤكد أن الإسهال لا يزال من أسباب الوفاة الكبرى عند الأطفال دون الخامسة في دول ذات دخل منخفض ومتوسط، خاصة في مناطق محدودة الوصول للرعاية الطبية. المنطقة العربية ليست بمنأى عن ذلك، والسودان واليمن وسوريا تُسجّل حالات وفاة بالإسهال والجفاف بشكل منتظم.",
+            "الحقيقة التي يجب أن تعرفها: محلول الإماهة الفموي (ORS أو Oral Rehydration Solution) هو أحد أعظم الاكتشافات الطبية في القرن العشرين. قُدّر الباحثون أن ORS أنقذ عشرات الملايين من الأرواح منذ السبعينيات. وفاة طفل بالجفاف في بيت معظم ساكنيه يستطيعون الوصول للماء والملح والسكر ليست حتمية بل هي مأساة قابلة للوقاية بأدوات بسيطة تماماً.",
+            "تفهم آلية الإسهال يساعدك على اتخاذ القرار الصحيح. في الإسهال الفيروسي مثل الذي تُسببه فيروسات الروتا (Rotavirus) المسببة الأولى لوفيات الإسهال عند الرضع، تتضرر الخلايا المعوية التي تمتص السوائل. فجأة الأمعاء تُفرز ماءً بدلاً من أن تمتصه. محلول ORS بتركيبه الدقيق من الصوديوم والغلوكوز يُنشّط آلية نقل مختلفة في الخلية المعوية لا تزال تعمل حتى في الإسهال الحاد، ويُعيد الامتصاص من طريق بديل."
+          ]
+        },
+        {
+          "h2": "كيف تُحضّر محلول الإماهة الفموي في المنزل؟",
+          "paras": [
+            "محلول الإماهة الجاهز المعبأ (ORS) متوفر في معظم الصيدليات ويُفضّل دائماً لأن تركيزه دقيق ومضمون. لكن إذا لم يكن متوفراً أو إذا كنت في منطقة نائية، يمكن تحضيره في المنزل بخطوات بسيطة وفق صيغة منظمة الصحة العالمية. منظمة الصحة العالمية توصي بـORS يحتوي على ما بين 75 و90 ملي مول من الصوديوم في الليتر، وهو التركيز الأمثل للامتصاص عبر جدار الأمعاء.",
+            "الوصفة المنزلية المقبولة هي: لتر واحد من الماء النظيف المغلي والمبرد، زائد ملعقة صغيرة مستوية من الملح الطبيعي، زائد ستة ملاعق صغيرة مستوية من السكر. اخلط جيداً حتى يذوب تماماً. هذا المحلول يبقى صالحاً في درجة حرارة الغرفة لمدة 24 ساعة فقط، ثم يجب صنع كمية جديدة. في الأجواء الحارة كصيف المنطقة العربية، تلوث المحلول يمكن أن يبدأ أسرع من ذلك، لذا الحفاظ على النظافة في تحضيره ضروري.",
+            "الجرعة المناسبة من ORS للطفل دون سنتين هي 50 إلى 100 مل بعد كل إسهالة واحدة. للطفل بين سنتين وعشر سنوات: 100 إلى 200 مل بعد كل إسهالة. أعطِه بملعقة صغيرة أو محقن بلاستيكي إذا كان يتقيأ، وليس دفعة واحدة. الشرب البطيء المتكرر أفضل بكثير من الكمية الكبيرة التي ستُستدعى عبر القيء."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "تحضير محلول الإماهة المنزلي بأمان",
+            "items": [
+              "اغلِ لتراً من الماء النظيف ثم اتركه يبرد تماماً",
+              "أضف ملعقة صغيرة مستوية من الملح الطعام (5 غرام)",
+              "أضف ست ملاعق صغيرة مستوية من السكر (30 غرام)",
+              "اخلط جيداً حتى يذوب الملح والسكر كلياً",
+              "أعطِ الطفل بمجرد الجاهزية: 100 مل بعد كل إسهالة",
+              "اصنع كمية جديدة كل 24 ساعة واحتفظ بالمحلول في إناء نظيف مغطى"
+            ]
+          }
+        },
+        {
+          "h2": "ما علامات الجفاف التي يجب أن تعرفها؟",
+          "paras": [
+            "مراجعة عام 2024 المنشورة في مجلة Pediatric Nephrology تُفيد بأن التقييم السريري الدقيق لدرجة الجفاف عند الطفل لا يزال المرشد الأساسي لاتخاذ قرار العلاج وتحديد حاجة الطفل للسوائل الوريدية أم لا. الطبيب يقيّم مجموعة من العلامات معاً لا علامة واحدة بمعزل عن غيرها.",
+            "الجفاف الخفيف إلى المتوسط يظهر في: فم جاف ولسان لاصق، دموع تقل عند البكاء، عيون تبدو قليلاً أعمق من المعتاد، الطفل أقل نشاطاً من المعتاد لكن لا يزال يستجيب عند مناداته، البول يقل لكن لم يتوقف كلياً. هذه المرحلة يمكن في الغالب علاجها بـORS في المنزل مع مراقبة مستمرة.",
+            "الجفاف الشديد يظهر في: عيون غائرة واضحة، جلد يرتفع ويبقى في مكانه عند قرصه بدلاً من العودة للطبيعي، طفل خامل جداً يصعب إيقاظه، فم وشفاه جافة جداً، لا بول منذ أكثر من ثماني ساعات، في الرضع الصافورة الأمامية (اليافوخ) تبدو غائرة. هذه علامات تستوجب المستشفى والسوائل الوريدية فوراً ولا يمكن علاجها بالفم وحده."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "تقييم درجة الجفاف عند الطفل",
+            "head": ["العلامة", "لا جفاف", "جفاف متوسط", "جفاف شديد"],
+            "rows": [
+              ["حال الطفل", "نشيط طبيعي", "قلق أو كسول", "خامل جداً"],
+              ["العيون", "طبيعية", "قليلاً غائرة", "غائرة بوضوح"],
+              ["الدموع", "طبيعية", "تقل", "لا دموع"],
+              ["الفم", "رطب", "جاف", "جاف جداً"],
+              ["قرص الجلد", "يعود فوراً", "عودة بطيئة", "يبقى مرتفعاً"]
+            ]
+          }
+        },
+        {
+          "h2": "لماذا الزنك مهم ومتى يُستخدم؟",
+          "paras": [
+            "توصية منظمة الصحة العالمية تشمل إعطاء الزنك (Zinc) لكل طفل دون خمس سنوات يُعاني من الإسهال الحاد، بجانب ORS وليس بدلاً منه. الزنك عنصر أساسي لعمل الجهاز المناعي ولتكاثر الخلايا المعوية وإصلاح جدار الأمعاء بعد الالتهاب. دراسة منهجية نشرتها مجلة BMC Public Health عام 2011 درست تأثير الزنك الوقائي في الدول النامية ووجدت أنه يُقلل من حدة الإسهال ومدته وكذلك من خطر الوفاة بالأمراض الإسهالية والالتهاب الرئوي.",
+            "الجرعة الموصى بها للزنك في الإسهال الحاد: 20 ميلليغراماً يومياً للأطفال فوق ستة أشهر لمدة 10 إلى 14 يوماً. للرضع بين شهرين وستة أشهر: 10 ميلليغرامات يومياً. يأتي في صورة أقراص قابلة للتفتيت أو شراب وهو متوفر في أغلب صيدليات المنطقة العربية. استمر في إعطاء الزنك حتى بعد توقف الإسهال لمدة أيام لإكمال دورة الإصلاح.",
+            "الزنك لا يُعطى لوحده بدلاً من ORS. ترتيب الأولويات: أولاً أعطِ ORS لمنع الجفاف، ثانياً أضف الزنك لتسريع الشفاء وتقليل مدة المرض. إذا كان عندك أحدهما فقط، فORS هو الأولوية المطلقة لأنه ما يُنقذ الحياة في الأزمات."
+          ]
+        },
+        {
+          "h2": "الرضاعة الطبيعية والتغذية: لا تتوقف عنهما",
+          "paras": [
+            "الخطأ الأكثر شيوعاً الذي يرتكبه الوالدان هو إيقاف الرضاعة الطبيعية أو الإطعام تماماً أثناء الإسهال بحجة أن الطعام سيزيد الإسهال. هذا غير صحيح. الرضاعة الطبيعية يجب أن تستمر بتكرار أعلى من المعتاد أثناء الإسهال. الحليب الأم لا يُسبب الإسهال ولا يُطيله، بل يحتوي على أجسام مضادة واقية وعوامل تُساعد على شفاء الأمعاء.",
+            "الأطفال الذين يتناولون حليب اصطناعي يجب أن يكملوا رضعاتهم بشكل طبيعي مع إضافة ORS بين الرضعات. ليس هناك ما يُثبت أن تخفيف الحليب الاصطناعي أو تغيير نوعه يُساعد في معظم حالات الإسهال الفيروسي الحادة.",
+            "للأطفال الذين يأكلون طعاماً صلباً: أكمل إطعامه طعامه المعتاد بكميات أصغر وأكثر تكراراً. الأرز المطبوخ جيداً والموز والتفاح المطبوخ ومرق الدجاج كلها مفيدة. تجنب الأطعمة الدهنية جداً أو الحلويات الغنية بالسكر خلال الإسهال. لا حاجة لوجبات خاصة معقدة بل للاستمرار في التغذية الطبيعية بشكل أكثر تكراراً."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "warn",
+            "title": "لا تتوقف عن هذه الأشياء أثناء إسهال طفلك",
+            "items": [
+              "الرضاعة الطبيعية: استمر بها بتكرار أعلى وليس أقل",
+              "الإطعام: قدم وجبات أصغر وأكثر تكراراً لا توقف الطعام",
+              "ORS: استمر في تقديمه حتى بعد توقف الإسهال بيوم كامل",
+              "الزنك: أكمل 10 إلى 14 يوماً حتى لو توقف الإسهال مبكراً"
+            ]
+          }
+        },
+        {
+          "h2": "هل يحتاج الطفل مضادات حيوية؟",
+          "paras": [
+            "الغالبية العظمى من حالات الإسهال الحاد عند الأطفال سببها فيروسات كالروتا والنورو فايروس، وهذه لا تستجيب للمضادات الحيوية (Antibiotics) من الأساس لأن المضادات تقتل البكتيريا وليس الفيروسات. إعطاء مضادات حيوية لطفل بإسهال فيروسي لا يُفيده ويُعرض بكتيريا أمعائه الصحية للاضطراب مما قد يُطيل التعافي. هذا بالضبط ما يُعرّضه لنوبة إسهالية ثانية بعد أسبوعين.",
+            "الحالات التي تستدعي فعلاً مضادات حيوية في الإسهال هي: الإسهال الدموي الذي يُشير للعدوى البكتيرية كالشيغيلا أو السالمونيلا، الإسهال المصحوب بحمى عالية لا تتحسن، أو الحالات المؤكدة مخبرياً كالكوليرا. هذه الحالات يجب أن يُقيّمها الطبيب وليس أن تُعالج بمضاد حيوي اشتريته من الصيدلية دون وصفة. في منطقتنا العربية حيث الأمبيسيلين والأموكسيسيلين يُشترى دون وصفة بسهولة، هذه الممارسة لا تُفيد الطفل وتُساهم في انتشار مقاومة المضادات الحيوية.",
+            "الأدوية المسيلة للتبرز مثل لوبيراميد (Loperamide) لا تُعطى مطلقاً للأطفال دون اثنتي عشرة سنة في حالات الإسهال الحاد المصحوب بحمى أو دم، وتستدعي حذراً شديداً حتى عند الأكبر سناً. تُبطئ حركة الأمعاء وهذا قد يحبس السموم البكتيرية داخلها بدلاً من إخراجها. الأفضل دائماً الاعتماد على محاور العلاج الثلاثة المثبتة: ORS لمنع الجفاف، والزنك لتسريع الشفاء، والتغذية المستمرة للحفاظ على قدرة الجسم على التعافي.",
+            "مضادات الإسهال من مشتقات الأعشاب أو الوصفات الشعبية كالكمون والنعناع وغيرها لا دليل علمياً على فعاليتها في علاج الإسهال الحاد المعدي. هي ليست ضارة بالضرورة، لكن الوقت الذي يمضيه الوالدان في البحث عنها وتحضيرها يجب أن يُصرف بدلاً منه في إعطاء ORS بشكل منتظم."
+          ]
+        },
+        {
+          "h2": "متى يجب أخذ الطفل للمستشفى؟",
+          "paras": [
+            "بعض الأطفال يحتاجون سوائل وريدية ورعاية طبية لا يمكن تقديمها في البيت. الذهاب للمستشفى فوراً عند: علامات الجفاف الشديد التي ذكرناها سابقاً (خمول شديد، عيون غائرة جداً، جلد لا يعود)، أو طفل يتقيأ كل ما يشربه بحيث يستحيل إعطاء ORS بالفم، أو إسهال دموي واضح مع حمى، أو طفل أقل من شهرين يُصاب بإسهال.",
+            "أيضاً للمستشفى: إسهال يستمر أكثر من أسبوع دون تحسن، أو أكثر من عشر حركات إسهالية في يوم واحد، أو ظهور أعراض أخرى مقلقة مع الإسهال كالتشنجات أو الوعي المتغير أو طفح جلدي غير مألوف.",
+            "الدليل الإرشادي الصيني عام 2025 الصادر في World Journal of Pediatrics يُؤكد أن معظم حالات الإسهال عند الأطفال يمكن علاجها في المنزل بـORS والزنك والتغذية المستمرة. المستشفى مخصص لحالات الفشل الإدارة المنزلية وللجفاف الشديد الذي يتجاوز قدرة الإماهة الفموية."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "اذهب للمستشفى فوراً عند رؤية هذه العلامات",
+            "items": [
+              "عيون غائرة جداً وجلد لا يعود عند قرصه: جفاف شديد",
+              "طفل خامل لا يستيقظ ولا يستجيب بشكل طبيعي",
+              "إسهال دموي مع حمى عالية",
+              "القيء المستمر الذي يمنع إعطاء ORS بالفم",
+              "طفل أقل من شهرين يُصاب بإسهال حاد",
+              "لا بول منذ أكثر من ثماني ساعات"
+            ]
+          }
+        },
+        {
+          "h2": "الوقاية وصحة المياه والغذاء",
+          "paras": [
+            "الوقاية من الإسهال عند الأطفال تمر عبر ثلاثة محاور أساسية. الرضاعة الطبيعية تُقلل بشكل ملحوظ من خطر الإسهال الفيروسي والبكتيري خلال الأشهر الأولى لأن الحليب الأم يحتوي على أجسام مضادة وعوامل حماية لا يُمكن تصنيعها اصطناعياً. غسل الأيدي بالصابون قبل تحضير الطعام وبعد تغيير الحفاض يُقطع سلسلة العدوى في نقطتها الأهم. تعقيم الأواني والرضاعات والمستلزمات المستخدمة مع الرضيع خاصة في الأجواء الحارة يُمنع تكاثر البكتيريا في المخلفات الغذائية.",
+            "مياه الشرب المشكوك في سلامتها يجب غليها ثلاث دقائق كاملة قبل استخدامها في تحضير طعام الطفل أو محلول ORS. في المخيمات والمناطق النازحة حيث المياه غير مضمونة، استخدام أقراص تنقية المياه بالكلور (Chlorine tablets) المتاحة عادة في توزيعات المنظمات الإنسانية ضروري ومجرب علمياً. تخزين المياه في أوعية مغطاة نظيفة مهم أيضاً لأن إعادة التلوث من الإناء غير النظيف تلغي فائدة الغلي.",
+            "لقاح الروتا (Rotavirus vaccine) الذي ذكرناه في مقال التطعيمات يحمي من أشد مسببات الإسهال الفيروسي الحاد فتكاً عند الرضع. الدراسات الكبيرة تُظهر أن هذا اللقاح يُقلل من حالات الإسهال الشديد المُستوجبة للمستشفى بنسبة 50 إلى 60% وأكثر في البيئات التي ينتشر فيها. إذا كان متاحاً في بلدك الحالي سواء مجاناً أو في القطاع الخاص، فهو من اللقاحات ذات الأولوية بعد استكمال اللقاحات الأساسية.",
+            "الطعام المخصص للطفل يجب تحضيره في نفس وقت تقديمه قدر الإمكان دون تركه لساعات في درجة حرارة الغرفة. فيروسات كالنورو تنتشر عبر الطعام الملوث بسهولة مذهلة، وكميات صغيرة جداً كافية للعدوى. اللحوم والبيض يجب طهيهما جيداً، والفواكه والخضروات غسلها بماء نظيف قبل إعطائها للأطفال."
+          ]
+        }
+      ],
+      "tie": "في تطبيق سهتك يمكنك تتبع عدد الحركات الإسهالية وعلامات الترطيب. إذا كنت تتابع طفلاً مريضاً في المنزل، هذا السجل سيُساعد الطبيب على تقييم حالته.",
+      "faqs": [
+        {
+          "q": "هل يمكن إعطاء الطفل عصير الفواكه أو المشروبات الغازية عوضاً عن ORS؟",
+          "a": "لا. العصائر والمشروبات الغازية تحتوي على نسبة سكر عالية جداً وكمية صوديوم قليلة جداً مقارنة بما يحتاجه الطفل المصاب بالإسهال. هذا التركيز الخاطئ قد يُفاقم الجفاف بدلاً من علاجه. الماء وحده ليس كافياً أيضاً لأنه لا يحتوي على الأملاح اللازمة. ORS هو الخيار الوحيد الصحيح."
+        },
+        {
+          "q": "هل يمكن إعطاء الأطفال مرحبيل (Smecta) أو الفحم النشط؟",
+          "a": "الديوكتاهيدرال سمكتيت (Smecta) مقبول كعلاج مساعد في بعض الإرشادات الطبية وقد يُقلل مدة الإسهال قليلاً. الفحم النشط ليس له دليل كافٍ في الإسهال الحاد عند الأطفال. في كلتا الحالتين لا يُغنيان عن ORS بأي حال."
+        },
+        {
+          "q": "طفلي يرفض محلول ORS بسبب طعمه، ماذا أفعل؟",
+          "a": "يمكن إضافة كمية صغيرة جداً من عصير الليمون أو ماء الورد لتحسين المذاق دون تغيير التركيز بشكل مهم. قدّمه بارداً نسبياً فهو أقبل. استخدم ملعقة صغيرة أو محقناً بلاستيكياً لإعطائه بكميات صغيرة جداً. إذا رفض الطفل تماماً ولم تستطع إعطاءه ما يكفي، هذا مؤشر لزيارة الطبيب."
+        },
+        {
+          "q": "هل الإسهال الخفيف دون أعراض أخرى يحتاج للطبيب؟",
+          "a": "إسهال خفيف أقل من أربع حركات في اليوم دون حمى ودون دم ودون علامات جفاف في طفل أكبر من ستة أشهر يمكن متابعته في المنزل بـORS والزنك والتغذية. إذا استمر أكثر من أسبوعين أو تطور، فحينئذ يجب رؤية الطبيب."
+        },
+        {
+          "q": "هل الإسهال المصاحب لبزل الأسنان طبيعي؟",
+          "a": "الاعتقاد الشائع بأن بزل الأسنان يُسبب إسهالاً غير مثبت علمياً. الأطفال في فترة التسنين يضعون أيديهم وكل شيء في أفواههم مما يُعرضهم لعدوى معوية أكثر من غيرهم. الإسهال في هذه المرحلة يُعالج مثل أي إسهال آخر ولا يُترك بدون علاج بحجة أنه سيزول مع الأسنان."
+        },
+        {
+          "q": "هل أحتاج لفحص براز الطفل في المختبر عند الإسهال؟",
+          "a": "ليس ضرورياً في كل حالة. الإسهال المائي البسيط دون دم ودون حمى عالية يُعالج بـORS دون حاجة لتحليل. الحالات التي تستدعي تحليل البراز: إسهال دموي، إسهال يستمر أكثر من أسبوعين، مخالطة مريض بأمراض إسهالية محددة، أو الإسهال الشديد المتكرر."
+        },
+        {
+          "q": "طفلي رضيع وعنده إسهال أخضر اللون، هل هذا خطير؟",
+          "a": "البراز الأخضر عند الرضيع وحده ليس مؤشراً للخطر بالضرورة. يمكن أن يظهر البراز الأخضر عند بداية الرضاعة الطبيعية أو تغيير النظام الغذائي. ما يهم هو كمية الإسهال ووجود دم أو مخاط وحال الطفل العام. إذا كان الطفل نشيطاً ويُرضع جيداً ودون علامات جفاف، البراز الأخضر وحده ليس مقلقاً."
+        }
+      ]
+    },
+    "en": {
+      "title": "Diarrhoea in children: rehydration that prevents death",
+      "desc": "How to make and use oral rehydration solution at home, spot the signs of dangerous dehydration, use zinc correctly, and know when home treatment is no longer enough.",
+      "keywords": "child diarrhoea treatment, oral rehydration solution ORS, dehydration signs children, zinc for diarrhoea, baby diarrhoea, when to go to hospital with child diarrhoea, home ORS recipe, rehydration salt child",
+      "h1": "Diarrhoea in children: the rehydration that saves lives and how to do it at home",
+      "takeaways": [
+        "Oral rehydration solution (ORS) is the most important treatment for childhood diarrhoea and it genuinely saves lives.",
+        "A home ORS can be made from water, salt and sugar when a ready-made packet is unavailable.",
+        "WHO recommends zinc for all children under five with acute diarrhoea: it shortens the illness and reduces severity.",
+        "Antibiotics do not help in most diarrhoea cases because most are caused by viruses, not bacteria.",
+        "Signs of severe dehydration need hospital treatment immediately and cannot be managed at home."
+      ],
+      "sections": [
+        {
+          "h2": "Why does diarrhoea kill children when the germ itself does not?",
+          "paras": [
+            "Acute diarrhoea does not kill by the power of the virus or bacteria itself in the vast majority of cases. What kills is dehydration, the loss of water and electrolytes faster than the body can replace them. A two-year-old child can lose the equivalent of ten percent of their body weight in fluid within hours during severe diarrhoea if no replacement is given, and that loss is enough to cause circulatory shock. The sodium and potassium that are lost alongside water are not optional extras. They are essential for heart and nerve function.",
+            "The Global Burden of Disease 2023 study, published in The Lancet in 2025, confirmed that diarrhoeal disease remains one of the leading causes of death in children under five in low and middle income countries, particularly in areas with limited access to medical care. Yemen, Sudan and parts of Syria all record regular diarrhoea deaths in children, which are preventable deaths. This is not a fact about poverty alone. It is a fact about knowledge.",
+            "Here is the truth that every parent in this region deserves to know. Oral rehydration solution is one of the greatest medical discoveries of the twentieth century. Researchers have estimated it has saved tens of millions of lives since the 1970s. A child dying of dehydration in a household that can access clean water, salt and sugar is not an inevitable tragedy. It is a preventable one.",
+            "Understanding the biology helps you take it seriously. In viral gastroenteritis caused by rotavirus, the most lethal viral cause of infant diarrhoea, the gut cells that normally absorb fluid are damaged. The gut starts secreting water rather than absorbing it. ORS at its precise sodium-glucose concentration activates a separate transport mechanism in the gut cell wall that remains functional even in acute diarrhoea, allowing fluid to be absorbed by an alternative route. That is why it works even when the gut is severely inflamed."
+          ]
+        },
+        {
+          "h2": "How to make oral rehydration solution at home",
+          "paras": [
+            "Ready-made ORS sachets are available in most pharmacies and are always the first choice because the concentration is precise and guaranteed. But if sachets are not available or you are in a remote area, a home-made version using the WHO formula is a genuinely lifesaving alternative. WHO recommends ORS containing 75 to 90 millimoles of sodium per litre, which is the concentration optimal for uptake through the gut wall.",
+            "The accepted home recipe is: one litre of clean water that has been boiled and cooled, plus one level teaspoon of table salt, plus six level teaspoons of sugar. Stir until completely dissolved. This solution stays safe at room temperature for 24 hours only, after which a fresh batch must be made. In hot climates typical of the Arab summer, bacterial contamination can begin sooner, so maintaining cleanliness in preparation is essential.",
+            "The correct amount to offer: for a child under two years, 50 to 100 ml after each episode of diarrhoea. For a child aged two to ten, 100 to 200 ml after each episode. If the child is vomiting, use a teaspoon or a plastic syringe to give tiny amounts slowly rather than a cup at once. Slow and frequent is far more effective than large amounts that trigger more vomiting."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "Making safe home oral rehydration solution",
+            "items": [
+              "Boil one litre of clean water and leave to cool completely",
+              "Add one level teaspoon of table salt (5 grams)",
+              "Add six level teaspoons of white sugar (30 grams)",
+              "Stir well until both salt and sugar have fully dissolved",
+              "Start giving immediately: around 100 ml after each diarrhoea episode",
+              "Discard and make a fresh batch every 24 hours; keep covered in a clean container"
+            ]
+          }
+        },
+        {
+          "h2": "What are the signs of dehydration you need to know?",
+          "paras": [
+            "A 2024 review in Pediatric Nephrology confirmed that careful clinical assessment remains the primary guide for judging a child's degree of dehydration and deciding whether intravenous fluids are needed. Doctors assess a cluster of signs together, not a single sign in isolation. As a parent you can learn to recognise the same patterns.",
+            "Mild to moderate dehydration looks like: a dry mouth and slightly sticky tongue, reduced or absent tears when crying, eyes that appear slightly more sunken than normal, a child who is less active than usual but still responds when you call their name, and urine that is darker yellow and less frequent than normal. At this level, home treatment with ORS given consistently is usually effective.",
+            "Severe dehydration is a different situation entirely: eyes that are visibly and deeply sunken, skin that stays in a pinched ridge instead of springing back, a child who is very difficult to rouse and unresponsive to normal stimulation, a mouth and lips that are extremely dry, no urine in more than eight hours, and in infants a fontanelle that feels sunken to the touch. These signs mean the child needs intravenous fluids in hospital and ORS alone is no longer sufficient."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Assessing dehydration level in a child",
+            "head": ["Sign", "No dehydration", "Moderate dehydration", "Severe dehydration"],
+            "rows": [
+              ["Child's state", "Alert and normal", "Restless or lethargic", "Very drowsy, hard to rouse"],
+              ["Eyes", "Normal", "Slightly sunken", "Deeply sunken"],
+              ["Tears", "Present", "Reduced", "Absent"],
+              ["Mouth", "Moist", "Dry", "Very dry"],
+              ["Skin pinch", "Returns immediately", "Returns slowly", "Stays tented"]
+            ]
+          }
+        },
+        {
+          "h2": "Why zinc matters and when to use it",
+          "paras": [
+            "WHO recommendations include giving zinc to every child under five years of age with acute diarrhoea, alongside ORS and not instead of it. Zinc is essential for immune function and for the regeneration of gut lining cells after infection. A systematic review published in BMC Public Health in 2011, which examined preventive zinc supplementation across developing countries, found that zinc reduced the severity and duration of diarrhoea episodes and reduced mortality from diarrhoeal disease.",
+            "The recommended dose of zinc in acute diarrhoea is 20 milligrams daily for children over six months, given for 10 to 14 days. For babies between two and six months, the dose is 10 milligrams daily. It comes as dispersible tablets or as syrup and is stocked in most pharmacies across the Arab world. Continue the zinc course after the diarrhoea stops in order to complete the process of gut repair.",
+            "Zinc is not a substitute for ORS. The order of priorities is clear: give ORS first to prevent or treat dehydration, and then add zinc to shorten the illness and reduce the chance of a severe episode. If you can only access one of the two, ORS is the absolute priority because it is what prevents death in a crisis."
+          ]
+        },
+        {
+          "h2": "Breastfeeding and feeding: do not stop",
+          "paras": [
+            "The most common mistake parents make is stopping breastfeeding or all food intake during diarrhoea, on the assumption that food makes the diarrhoea worse. This is not correct. Breastfeeding should continue throughout diarrhoea, at greater frequency than usual. Breast milk does not worsen or prolong diarrhoea. It contains protective antibodies, immune factors and growth factors that help the gut lining heal.",
+            "Formula-fed babies should continue their normal feeds alongside ORS given between feeds. There is no good evidence that diluting formula or switching to a different formula helps in most cases of acute viral diarrhoea. The gut recovers better with continued nutritional support than with restriction.",
+            "For children who are eating solid food: continue offering their normal diet in smaller, more frequent amounts. Well-cooked rice, banana, cooked apple, plain bread and chicken broth are all appropriate. Avoid very fatty foods and foods very high in sugar during the illness. The principle is continuation, not restriction. A child who is eating even a little while receiving ORS is recovering better than one who is receiving fluids alone."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "warn",
+            "title": "Do not stop these during your child's diarrhoea",
+            "items": [
+              "Breastfeeding: continue at higher frequency not lower",
+              "Feeding: offer smaller, more frequent meals rather than stopping food",
+              "ORS: continue for one full day after diarrhoea stops",
+              "Zinc: complete the full 10 to 14 day course even if diarrhoea resolves early"
+            ]
+          }
+        },
+        {
+          "h2": "Does the child need antibiotics?",
+          "paras": [
+            "The large majority of acute diarrhoea episodes in children are caused by viruses such as rotavirus and norovirus. Antibiotics kill bacteria, not viruses, so they have no effect on a viral infection and giving them adds risk without benefit. The disruption to normal gut bacteria that antibiotics cause can actually prolong recovery in viral gastroenteritis and sets up the child for a second diarrhoea episode weeks later as the gut microbiome restores itself.",
+            "Situations where antibiotics are genuinely indicated in childhood diarrhoea: visibly bloody diarrhoea suggesting a bacterial infection such as Shigella or Salmonella, diarrhoea accompanied by high persistent fever, or a laboratory-confirmed bacterial cause such as cholera. These cases need assessment by a doctor and the correct antibiotic chosen based on the organism, not a broad-spectrum antibiotic from a pharmacy without a prescription. In the Arab region where amoxicillin and ampicillin are commonly sold over the counter, this practice does not help the child and contributes to the region's serious antibiotic resistance problem.",
+            "Anti-motility drugs such as loperamide should never be given to children under twelve years of age for acute diarrhoea with fever or blood, and require caution even in older children. Slowing gut movement traps bacterial toxins inside the intestine rather than allowing them to be expelled. The three-part approach that actually works is ORS to prevent dehydration, zinc to shorten the illness, and continued feeding to support recovery. Everything else is secondary to these three and should not delay or replace them.",
+            "Herbal remedies and traditional preparations used in the region for diarrhoea, including cumin water, anise and various plant preparations, are not harmful in most cases but have no reliable evidence for effectiveness in acute infectious diarrhoea. The time spent preparing or searching for them is time that could be spent giving ORS consistently. Do not delay ORS for any alternative treatment."
+          ]
+        },
+        {
+          "h2": "When must the child go to hospital?",
+          "paras": [
+            "Some children need intravenous fluids and medical care that cannot be provided at home. Go to hospital immediately when: you see the signs of severe dehydration described above, particularly a child who cannot be roused and whose skin stays tented, or a child who is vomiting everything they drink making ORS by mouth impossible, or obvious bloody diarrhoea with fever, or a baby younger than two months who develops acute diarrhoea.",
+            "Also go to hospital: diarrhoea persisting for more than a week without improvement, more than ten episodes in a single day, or the appearance of additional worrying symptoms alongside diarrhoea such as seizures, an altered level of consciousness, or an unusual rash.",
+            "The 2025 Chinese clinical practice guideline for acute diarrhoea in children, published in World Journal of Pediatrics, echoes WHO guidance: the majority of childhood diarrhoea cases can be managed safely at home with ORS, zinc and continued feeding. Hospital is for cases where home management has failed and for severe dehydration that is beyond what oral replacement can correct."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "Go to hospital immediately if you see",
+            "items": [
+              "Deeply sunken eyes and skin that stays tented: severe dehydration",
+              "A child too drowsy to rouse or who does not respond normally",
+              "Bloody diarrhoea with high fever",
+              "Persistent vomiting that makes giving ORS by mouth impossible",
+              "A baby younger than two months with acute diarrhoea",
+              "No urine in more than eight hours"
+            ]
+          }
+        },
+        {
+          "h2": "Prevention: water safety and food hygiene",
+          "paras": [
+            "Preventing diarrhoea in children comes down to three practical levers. Breastfeeding substantially reduces the risk of both viral and bacterial diarrhoea through the first months of life. Handwashing with soap, before preparing food and after changing a nappy, interrupts the chain of transmission at the most critical point. Sterilising feeding equipment, especially in hot weather when bacterial growth is faster, is the third line.",
+            "Drinking water of uncertain safety should be boiled for a full three minutes before being used to prepare infant food or ORS solution. In displaced settings and camps where water quality is not guaranteed, water purification tablets distributed by humanitarian organisations are a reliable alternative when boiling is not possible.",
+            "Rotavirus vaccine, mentioned in our childhood vaccination article, protects against the most lethal viral cause of severe infant diarrhoea. If it is available in your current country either free on the government schedule or privately, it is a high-priority vaccine after the core schedule has been completed. The evidence for its impact on reducing severe diarrhoea hospitalisations is strong."
+          ]
+        }
+      ],
+      "tie": "Track how many diarrhoea episodes your child has had, how much ORS they have taken, and whether they are producing urine using the Sihtak app. A clear record helps the doctor assess severity quickly if you need to seek help.",
+      "faqs": [
+        {
+          "q": "Can I give fruit juice or sports drinks instead of ORS?",
+          "a": "No. Fruit juice and fizzy drinks contain far too much sugar and far too little sodium compared to what a child losing fluid through diarrhoea needs. The wrong concentration can worsen dehydration rather than correct it. Plain water alone is also insufficient because it does not replace the electrolytes being lost. ORS is the only correct choice."
+        },
+        {
+          "q": "Can I give Smecta or activated charcoal to my child?",
+          "a": "Dioctahedral smectite (Smecta) is accepted as an adjunct treatment in some guidelines and may modestly reduce the duration of diarrhoea. Activated charcoal does not have adequate evidence in acute childhood diarrhoea. Neither replaces ORS under any circumstances."
+        },
+        {
+          "q": "My child refuses ORS because of the taste. What do I do?",
+          "a": "A very small amount of lemon juice can be added without meaningfully changing the concentration. Serve it slightly chilled as most children find it more acceptable cold. Use a teaspoon or plastic syringe to give tiny amounts at a time. If the child is completely refusing and you cannot get enough fluid in, that is a signal to seek medical advice."
+        },
+        {
+          "q": "Does mild diarrhoea with no other symptoms need a doctor?",
+          "a": "Mild diarrhoea of fewer than four episodes per day with no fever, no blood and no signs of dehydration in a child over six months can be managed at home with ORS, zinc and continued feeding. If it continues beyond two weeks or worsens, the child needs to be seen."
+        },
+        {
+          "q": "Is diarrhoea during teething normal?",
+          "a": "The popular belief that teething causes diarrhoea is not well supported by evidence. Teething infants put their hands and everything else into their mouths and are therefore exposed to more infectious agents than at other times. Diarrhoea during the teething period should be treated the same way as diarrhoea at any other time, with ORS and zinc, not left untreated on the assumption it will pass with the teeth."
+        },
+        {
+          "q": "Should I have stool tested in a lab when my child has diarrhoea?",
+          "a": "Not in every case. Simple watery diarrhoea without blood and without high fever does not require laboratory testing and is managed with ORS. Stool testing is indicated for bloody diarrhoea, diarrhoea lasting more than two weeks, or suspected contact with a specific identified pathogen."
+        },
+        {
+          "q": "My breastfed baby has green diarrhoea. Is this dangerous?",
+          "a": "Green colour in a breastfed infant's stool alone is not necessarily a danger sign. It can appear with a change in feeding pattern or early milk. What matters is the frequency and volume of the diarrhoea, whether blood or mucus is present, and how the baby is generally behaving. A baby who is feeding well, alert, producing wet nappies regularly and without other worrying signs does not need emergency attention for green stool alone."
+        }
+      ]
+    }
+  }
+}

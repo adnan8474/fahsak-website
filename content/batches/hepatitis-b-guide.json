@@ -1,0 +1,367 @@
+{
+  "slug": "hepatitis-b-guide",
+  "category": "infectious-diseases",
+  "chip_ar": "أمراض معدية",
+  "chip_en": "Infectious Diseases",
+  "date_iso": "2026-07-15",
+  "sources": [
+    {
+      "label": "Gasim GI: Hepatitis B virus in the Arab world: where do we stand?, Arab journal of gastroenterology, 2013",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23820498/"
+    },
+    {
+      "label": "Bashour H, Muhjazi G: Hepatitis B and C in the Syrian Arab Republic: a review, Eastern Mediterranean health journal, 2016",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27432409/"
+    },
+    {
+      "label": "Veronese P, Dodi I, Esposito S et al: Prevention of vertical transmission of hepatitis B virus infection, World journal of gastroenterology, 2021",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34326618/"
+    },
+    {
+      "label": "Indolfi G, Easterbrook P, Dusheiko G et al: Hepatitis B virus infection in children and adolescents, The lancet. Gastroenterology and hepatology, 2019",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30982722/"
+    },
+    {
+      "label": "Barqawi HJ, Samara KA, Al Ansari MM et al: Hepatitis B knowledge and stigma in the United Arab Emirates, Scientific reports, 2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40140466/"
+    },
+    {
+      "label": "World Health Organization: Hepatitis B fact sheet, WHO, 2024",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/hepatitis-b"
+    }
+  ],
+  "content": {
+    "ar": {
+      "title": "التهاب الكبد B: فحص المؤشرات والتطعيم والعيش مع المرض",
+      "desc": "دليل شامل لفهم نتائج فحص التهاب الكبد B، ومعنى كل مؤشر في تقرير المختبر، وأهمية التطعيم، ومتى يحتاج المصاب إلى علاج.",
+      "keywords": "التهاب الكبد B, HBsAg, فيروس بي, تليف الكبد, التطعيم, تعقيم عمودي, ناقل صحي, HBeAg, علاج التهاب الكبد, تنوفوفير",
+      "h1": "التهاب الكبد B: كيف تقرأ نتائج الفحص وما يعنيه كل مؤشر",
+      "takeaways": [
+        "التهاب الكبد B (Hepatitis B) شائع في منطقتنا وينتقل عبر الدم والعلاقة الجنسية وأحياناً من الأم للجنين، وليس عبر المصافحة أو تبادل الطعام.",
+        "نتيجة المختبر تتضمن عدة مؤشرات تحتاج تفسيراً دقيقاً: HBsAg, Anti-HBs, HBeAg, Anti-HBc، وكل واحد يُخبرك بمعلومة مختلفة.",
+        "الناقل الصحي للفيروس لا يعاني أعراضاً واضحة لكنه يحتاج متابعة دورية لأن التليف وسرطان الكبد قد يتطوران بصمت.",
+        "التطعيم فعّال بنسبة عالية ويُعطى في الطفولة المبكرة، وإذا لم تتطعّم يمكنك تلقيه الآن.",
+        "العلاج متاح ويُخفّض مستوى الفيروس بشكل كبير، مما يحمي الكبد ويُقلل خطر نقل العدوى لمن حولك."
+      ],
+      "sections": [
+        {
+          "h2": "ما هو التهاب الكبد B وكيف ينتشر في المنطقة؟",
+          "paras": [
+            "التهاب الكبد B مرض يُسببه فيروس من نوع HBV يهاجم خلايا الكبد ويُمكن أن يُسبب التهاباً حاداً يزول من تلقاء نفسه عند معظم البالغين، أو التهاباً مزمناً يستمر لأكثر من ستة أشهر ويحمل خطر التطور نحو التليف أو سرطان الكبد عبر العقود.",
+            "أشار مسح شامل نُشر في المجلة العربية لأمراض الجهاز الهضمي عام 2013 إلى أن نسبة حاملي الفيروس في العالم العربي تتفاوت بشكل كبير بين الدول، مع ارتفاع ملحوظ في مصر والعراق وليبيا والسودان وبعض مناطق الخليج. يُعدّ التطعيم الذي انتشر خلال التسعينيات أحد أسباب تراجع معدلات الإصابة بين الأجيال الأحدث، لكن الأجيال الأكبر سناً التي لم تحظَ بالتطعيم لا تزال تحمل نسبةً أعلى من الإصابة المزمنة.",
+            "ينتقل الفيروس بطرق محددة: ملامسة دم شخص مُصاب عبر أدوات حلاقة مشتركة أو إبر غير معقمة أو وشم وثقب جسم في أماكن غير معتمدة، والاتصال الجنسي، والانتقال من الأم المصابة لمولودها أثناء الولادة. ما لا ينتقل به الفيروس: المصافحة وأدوات الطعام والعطس والعناق والسباحة في المسبح. معرفة هذا الفرق مهمة لأن الخوف المبالغ فيه يؤذي المصابين اجتماعياً دون أي مبرر علمي."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "طرق انتقال فيروس الكبد B",
+            "head": ["ينتقل عبر", "لا ينتقل عبر"],
+            "rows": [
+              ["الدم والمنتجات الدموية غير المُعقّمة", "المصافحة والعناق"],
+              ["الاتصال الجنسي", "أدوات الطعام المشتركة"],
+              ["من الأم للجنين عند الولادة", "العطس والسعال"],
+              ["أدوات ثقب الجسم والوشم غير المعقمة", "السباحة في المسبح"]
+            ]
+          }
+        },
+        {
+          "h2": "ماذا تعني مؤشرات فحص الكبد B في تقريرك؟",
+          "paras": [
+            "تقرير فحص التهاب الكبد B مُربك لكثير من الناس لأنه يتضمن عدة مؤشرات بأسماء مختصرة. كل مؤشر يُجيب على سؤال مختلف، وفهمها معاً يُعطيك صورة واضحة عن وضعك الحالي.",
+            "HBsAg هو المستضد السطحي للفيروس (Hepatitis B surface antigen). إيجابيته تعني أن الفيروس موجود في جسمك الآن، سواء كانت الإصابة حديثة أو مزمنة. إذا بقي إيجابياً لأكثر من ستة أشهر، يُعتبر المريض حاملاً مزمناً. Anti-HBs هو الجسم المضاد الوقائي، وإيجابيته يعني إما أنك تطعّمت أو أنك أصبت سابقاً وشفيت. وجوده بتركيز كافٍ يمنحك حمايةً جيدة.",
+            "Anti-HBc هو جسم مضاد يتكوّن عند الإصابة بالفيروس الحقيقية (ليس التطعيم)، ووجوده يعني تعرضاً سابقاً لأي وقت كان. HBeAg هو مؤشر لنشاط الفيروس وتكاثره: إيجابيته تعني أن الفيروس يتكاثر بنشاط وأن الشخص أكثر قابليةً لنقل العدوى. غيابه مع استمرار وجود HBsAg يشير إلى حالة حاملة صحية نسبياً لكنها لا تزال تحتاج متابعة."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "قراءة مؤشرات فحص التهاب الكبد B",
+            "head": ["المؤشر", "إيجابي يعني", "ملاحظة"],
+            "rows": [
+              ["HBsAg", "الفيروس موجود في الجسم الآن", "إيجابي فوق 6 أشهر = إصابة مزمنة"],
+              ["Anti-HBs", "حماية مناعية (تطعيم أو شفاء)", "تركيز > 10 mIU/mL = محمي"],
+              ["Anti-HBc", "تعرّض سابق للفيروس (ليس التطعيم)", "يبقى مدى الحياة"],
+              ["HBeAg", "الفيروس يتكاثر بنشاط", "الشخص أكثر قدرة على نقل العدوى"],
+              ["HBV DNA", "كمية الفيروس الفعلية في الدم", "أساسي لقرار العلاج"]
+            ]
+          }
+        },
+        {
+          "h2": "ما الفرق بين الحاملين الصحيين والمصابين المزمنين النشطين؟",
+          "paras": [
+            "ليس كل من يحمل HBsAg في حاجة للعلاج الفوري. هناك فرق مهم بين الحاملين الصحيين والمصابين النشطين. الحامل الصحي هو من يحمل الفيروس في جسمه لكن الجهاز المناعي يُسيطر عليه، فلا يُلاحظ إجهاد كبير للكبد ولا تكاثراً نشطاً للفيروس (كمية HBV DNA منخفضة جداً) وإنزيمات الكبد طبيعية. المصاب النشط هو من يتكاثر فيه الفيروس بنشاط مع ارتفاع في إنزيمات الكبد، وهو من يحتاج العلاج بشكل أكبر.",
+            "بين هاتين المرحلتين توجد مرحلة وسيطة يُسميها الأطباء مرحلة المناعة النشطة، يكون فيها الجهاز المناعي في صراع مع الفيروس. هذه المرحلة تحتاج مراقبة دقيقة وأحياناً علاجاً مبكراً لأن الالتهاب المستمر يتلف الكبد تدريجياً. تحديد في أي مرحلة أنت يتطلب نتائج HBV DNA وإنزيمات الكبد والموجات فوق الصوتية معاً.",
+            "المشكلة أن الفرق بين الحالتين قد يتغيّر مع الوقت. الحامل الصحي قد ينتقل إلى مرحلة نشاط بعد سنوات بسبب إجهاد مناعي أو أمراض أخرى أو إيقاف أدوية مثبطة للمناعة. هذا هو السبب الرئيسي وراء الحاجة للمتابعة الدورية حتى عند عدم وجود أعراض، لأن التغير يحدث أحياناً دون أن يشعر به المريض.",
+            "دراسة نشرت في مجلة The Lancet Gastroenterology and Hepatology عام 2019 أكدت أن الأطفال الذين يصابون بالفيروس من أمهاتهم عند الولادة يتحولون إلى حمل مزمن بنسبة تصل إلى 90 بالمئة، بينما ينتهي الأمر بالشفاء الذاتي عند أكثر من 95 بالمئة من البالغين الأصحاء الذين يُصابون بالعدوى للمرة الأولى. هذا الفارق الهائل هو الدليل الأوضح على لماذا يُعدّ تطعيم المولود في أول 12 ساعة من الولادة أحد أهم الإجراءات الوقائية في تاريخ الطب."
+          ]
+        },
+        {
+          "h2": "هل التهاب الكبد B قابل للعلاج؟",
+          "paras": [
+            "لا يوجد حتى الآن علاج يُزيل الفيروس من الجسم تماماً في معظم الحالات، لكن الأدوية الموجودة تُخفّض مستوى الفيروس في الدم (HBV DNA) إلى مستويات منخفضة جداً أو غير قابلة للكشف، مما يُبطئ تلف الكبد بشكل كبير ويُقلل خطر تطور التليف وسرطان الكبد خلال العقود القادمة.",
+            "أكثر الأدوية استخداماً الآن هو تنوفوفير (Tenofovir) بشكليه TDF وTAF وإنتيكافير (Entecavir). يُؤخذ هذا العلاج كحبة واحدة يومياً ويُتحمَّل عموماً بشكل جيد مع آثار جانبية قليلة. قرار البدء بالعلاج يعتمد على عدة معايير: مستوى HBV DNA، وإنزيمات الكبد، ودرجة التليف التي يكشفها الطبيب بالموجات فوق الصوتية أو جهاز فيبروسكان (Fibroscan) أو الخزعة.",
+            "الهدف من العلاج ليس الشفاء الكامل في معظم الأحيان، بل الوقاية من المضاعفات قبل وقوعها. كثير من المصابين المزمنين يعيشون حياةً طبيعيةً تماماً بالتزام المتابعة الدورية. الجدير بالذكر أن بعض المرضى الذين يصلون إلى مرحلة اختفاء HBsAg من الدم أثناء العلاج، وهو هدف نادر لكنه يحدث، يتمكنون من إيقاف العلاج بشكل آمن تحت إشراف طبي.",
+            "الفحص الدوري كل ستة أشهر يشمل إنزيمات الكبد والموجات فوق الصوتية وقياس بروتين ألفا فيتوبروتين (AFP) للكشف المبكر عن سرطان الكبد. بدء العلاج قبل أن يتشكّل التليف الشديد هو ما يُحسّن النتائج على المدى البعيد، لذا فإن الكشف المبكر عن حالتك هو أفضل ما يمكنك فعله لصحة كبدك."
+          ],
+          "visual": {
+            "type": "timeline",
+            "title": "متابعة حامل التهاب الكبد B المزمن",
+            "items": [
+              {"when": "كل 6 أشهر", "what": "إنزيمات الكبد (ALT/AST) وموجات فوق صوتية"},
+              {"when": "كل 6 أشهر", "what": "قياس ألفا فيتوبروتين للكشف المبكر"},
+              {"when": "سنوياً", "what": "قياس HBV DNA إذا كان خارج العلاج"},
+              {"when": "عند الحاجة", "what": "خزعة أو قياس مرونة الكبد (Fibroscan)"}
+            ]
+          }
+        },
+        {
+          "h2": "لماذا التطعيم مهم حتى للبالغين؟",
+          "paras": [
+            "لقاح التهاب الكبد B فعّال بشكل استثنائي ويُعطى في ثلاث جرعات. يُقدّم في الطفولة المبكرة الآن ضمن برامج التطعيم الوطنية في معظم الدول العربية. لكن إذا لم تتطعّم في الطفولة، يمكنك تلقيه في أي عمر لأنه يعمل بنفس الكفاءة عند البالغين.",
+            "كشفت دراسة نشرت في مجلة Scientific Reports عام 2025 وأُجريت في الإمارات أن الوعي بكيفية انتقال التهاب الكبد B ووقايته لا يزال محدوداً في بعض الفئات، مع وجود وصمة اجتماعية تمنع كثيرين من الإفصاح عن إصابتهم. رفع الوعي ضروري لتشجيع التطعيم والكشف المبكر.",
+            "يُوصى بالتطعيم خاصةً لمن لم يتطعّم من قبل، والعاملين في القطاع الطبي، وشركاء الأشخاص المصابين، والمقيمين مع حامل مزمن. إذا سبق وتعرضت لخطر محتمل (إبرة مشبوهة أو اتصال جنسي غير محمي) يجب التوجه للطبيب فوراً إذ يمكن إعطاء جرعة وقائية طارئة (HBIG) مع اللقاح خلال 24 ساعة."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "جدول تطعيم التهاب الكبد B للبالغين",
+            "items": [
+              "الجرعة الأولى في أي وقت تختاره",
+              "الجرعة الثانية بعد شهر من الأولى",
+              "الجرعة الثالثة بعد ستة أشهر من الأولى",
+              "بعد الانتهاء يُجرى فحص Anti-HBs للتأكد من تكوّن المناعة",
+              "إذا كانت المناعة غير كافية، يُعاد اللقاح وفق توجيه الطبيب"
+            ]
+          }
+        },
+        {
+          "h2": "حماية الأسرة والأطفال عند وجود حامل للفيروس في البيت",
+          "paras": [
+            "وجود شخص مصاب في الأسرة لا يعني بالضرورة خطراً على الجميع، لكنه يعني ضرورة التحرك. يُوصى بفحص جميع أفراد الأسرة المقيمين مع الحامل المزمن لمعرفة إذا كانوا قد اكتسبوا مناعة مسبقاً أو يحتاجون للتطعيم. من يتحقق من سلبيته لجميع المؤشرات ينبغي له تلقي اللقاح على الفور.",
+            "وثّقت دراسة عام 2021 في World Journal of Gastroenterology أن الانتقال من الأم للمولود يمكن منعه بنسبة تتجاوز 90 بالمئة عن طريق إعطاء المولود جرعةً من لقاح الكبد B وحقنة HBIG خلال 12 ساعة من الولادة. هذا الإجراء متاح في معظم مستشفيات المنطقة ويجب أن تطلبه الأم الحامل الإيجابية بشكل صريح من فريقها الطبي قبل الوضع، إذ إن تأخير هذه الجرعة إلى ما بعد 24 ساعة يُقلل فاعليتها بشكل ملحوظ.",
+            "المشاركة في أدوات الحلاقة وفرش الأسنان ومقص الأظافر غير مستحسنة مع أي شخص صحي أو مريض على حد سواء، لأن هذه الأدوات قد تحمل دماً غير مرئي بكميات دقيقة كافية لنقل الفيروس. النقطة الأهم هي ألا يُؤذي الخوف العلاقات الأسرية: التعامل الطبيعي اليومي من محادثة وعناق وتناول طعام مشترك واستخدام نفس دورة المياه آمن تماماً ولا يتطلب احتياطات خاصة."
+          ]
+        },
+        {
+          "h2": "علامات التحذير والمضاعفات التي تستدعي تقييماً عاجلاً",
+          "paras": [
+            "معظم حاملي التهاب الكبد B المزمن يشعرون بتعب عام أو لا يشعرون بأي شيء واضح لسنوات طويلة. هذا الصمت السريري هو ما يجعل المتابعة الدورية لا غنى عنها، لأن التلف يتراكم في الخلفية دون أن يُعلن عن نفسه.",
+            "اليرقان، وهو اصفرار الجلد وبياض العينين، يشير إلى أن الكبد عاجز مؤقتاً عن معالجة البيليروبين ويستدعي تقييماً في نفس اليوم. انتفاخ البطن بشكل غير معتاد أو مفاجئ قد يكون علامة على تراكم السوائل (الاستسقاء) الذي يُلازم أحياناً تليف الكبد المتقدم.",
+            "نزيف غير مبرر من اللثة أو الأنف أو ظهور كدمات بسرعة غير معتادة قد يُشير إلى تراجع وظيفة الكبد في إنتاج عوامل التخثر. ارتباك ذهني حاد أو تغيير في نمط النوم (النوم نهاراً والصحيان ليلاً) قد يكون علامة على اعتلال دماغي كبدي يحتاج تدخلاً طبياً عاجلاً."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "راجع الطبيب فوراً عند ظهور",
+            "items": [
+              "اصفرار الجلد أو بياض العينين (يرقان)",
+              "انتفاخ مفاجئ في البطن",
+              "نزيف من اللثة أو الأنف بشكل متكرر وغير مبرر",
+              "الم شديد في الجهة اليمنى العلوية من البطن",
+              "تغيير حاد في الوعي أو الارتباك الذهني"
+            ]
+          }
+        },
+        {
+          "h2": "تتبع حالتك مع تطبيق سهتك",
+          "paras": [
+            "متابعة التهاب الكبد B المزمن تعني زيارات دورية للطبيب كل ستة أشهر وتحاليل دم منتظمة. الكثير من المرضى يجدون صعوبةً في تذكر متى أُجري آخر فحص أو ما كانت نتائج إنزيمات الكبد قبل ستة أشهر. تطبيق سهتك يُتيح لك تسجيل نتائجك ومتابعة اتجاهها بمرور الوقت، مما يُساعدك وطبيبك على رصد أي تغير مبكر.",
+            "حمل تاريخك المرضي الكامل مع كل زيارة للطبيب. إذا غيّرت طبيبك أو مستشفاك في وقت لاحق، وجود سجل واضح لنتائجك السابقة يُوفّر وقتاً وتكلفة ويمنع تكرار الفحوصات غير الضرورية. رؤية الاتجاه عبر عدة سنوات أكثر قيمةً بكثير من نتيجة واحدة معزولة، لأنها تُخبر الطبيب إذا كانت إنزيمات الكبد مستقرة منذ سنوات أو في تصاعد تدريجي يستدعي قرار العلاج.",
+            "تذكّر أن التهاب الكبد B مرض قابل للإدارة بشكل كبير في عصرنا الحالي. الأشخاص الذين يتابعون حالتهم بانتظام ويبدؤون العلاج عند الحاجة يعيشون أعماراً طبيعيةً في معظم الأحيان. الإهمال وتجنب الفحص هو ما يسمح للمرض بالتقدم دون رادع."
+          ]
+        }
+      ],
+      "tie": "تطبيق سهتك يُساعدك على متابعة نتائج فحوصات الكبد بانتظام وتذكر مواعيد زياراتك الدورية، وهو ما تحتاجه كل حامل لفيروس الكبد B.",
+      "faqs": [
+        {
+          "q": "هل التهاب الكبد B ينتقل بالتقبيل؟",
+          "a": "التقبيل العابر في العموم لا ينقل الفيروس لأن تركيزه في اللعاب منخفض جداً. التقبيل العميق مع وجود جروح أو نزيف في الفم يُشكّل نظرياً خطراً أكبر. الطريق الرئيسي للانتقال هو الدم والإفرازات الجنسية."
+        },
+        {
+          "q": "HBsAg إيجابي. هل أنا بالضرورة سأُصاب بتليف الكبد؟",
+          "a": "لا. كثير من الحاملين المزمنين يعيشون عمراً طبيعياً دون تطور تليف الكبد، خاصةً إذا بقي الفيروس في مرحلة الحمل الصحي غير النشط. المتابعة الدورية تكشف أي تغير مبكر ويمكن بدء العلاج قبل وقوع الضرر."
+        },
+        {
+          "q": "هل يمكن لحامل الفيروس ممارسة الرياضة وحياةً طبيعيةً؟",
+          "a": "نعم. الحامل الصحي لا يحتاج قيوداً خاصة في نشاطه اليومي. يُنصح بتجنب الكحول لأنه يُضاعف الضغط على الكبد، وبتجنب بعض الأدوية المؤذية للكبد دون استشارة الطبيب."
+        },
+        {
+          "q": "هل أحتاج إخبار صاحب العمل أو المدرسة بأنني حامل للفيروس؟",
+          "a": "في الغالب لا. التهاب الكبد B لا ينتقل في بيئة العمل الاعتيادية أو في المدارس عبر الاتصال المعتاد. من الناحية الطبية، لا حاجة للإفصاح لأرباب العمل أو المدارس إلا في مهن طبية تنطوي على تعرض للدم، وهنا يوجد توجيه مهني محدد."
+        },
+        {
+          "q": "هل يمكن للمرأة الحامل المصابة أن ترضع طفلها؟",
+          "a": "نعم، وإعطاء المولود اللقاح وHBIG خلال 12 ساعة من الولادة يجعل الرضاعة الطبيعية آمنةً تماماً حتى عند وجود تركيز فيروسي مرتفع لدى الأم. الامتناع عن الرضاعة غير ضروري إذا تم تطعيم المولود في الوقت الصحيح."
+        },
+        {
+          "q": "ما الفرق بين التهاب الكبد A و B و C؟",
+          "a": "الثلاثة أمراض مختلفة رغم التشابه في الاسم. التهاب الكبد A ينتقل عبر الطعام الملوث وعادةً يشفى تلقائياً. التهاب الكبد B ينتقل عبر الدم والاتصال الجنسي ويمكن أن يُصبح مزمناً. التهاب الكبد C ينتقل بصورة رئيسية عبر الدم وهو الآن قابل للشفاء التام بالأدوية الحديثة."
+        },
+        {
+          "q": "هل التطعيم ضد B يحمي من C أيضاً؟",
+          "a": "لا. لقاح التهاب الكبد B لا يوفر أي حماية ضد فيروس C لأنهما فيروسان مختلفان تماماً. لا يوجد لقاح لالتهاب الكبد C حتى اليوم، والحماية منه تعتمد على تجنب التعرض للدم الملوث."
+        }
+      ]
+    },
+    "en": {
+      "title": "Hepatitis B: transmission, testing and living with it",
+      "desc": "Decode the confusing hepatitis B serology panel, understand who needs treatment, and learn how vaccination prevents this preventable infection for life.",
+      "keywords": "hepatitis B, HBsAg, hepatitis B surface antigen, HBeAg, anti-HBs, liver cirrhosis, vaccination, vertical transmission, chronic hepatitis B, tenofovir",
+      "h1": "Hepatitis B: what every marker on your blood test means",
+      "takeaways": [
+        "Hepatitis B is common across the Arab world and spreads through blood, sexual contact and from mother to baby during birth, not through sharing food or shaking hands.",
+        "A hepatitis B blood panel includes several markers (HBsAg, Anti-HBs, HBeAg, Anti-HBc) that each answer a different question. Reading them together tells the full story.",
+        "Healthy carriers have no symptoms but need regular monitoring, because liver damage can progress silently toward cirrhosis or liver cancer over decades.",
+        "Vaccination is highly effective and available to adults who missed it in childhood. A baby born to an infected mother can be protected if vaccine and immunoglobulin are given within twelve hours of birth.",
+        "Effective antiviral treatment can suppress the virus to undetectable levels, protecting the liver and reducing the chance of passing the virus to others."
+      ],
+      "sections": [
+        {
+          "h2": "How common is hepatitis B in the Arab world?",
+          "paras": [
+            "Hepatitis B virus (HBV) infects liver cells and can cause either acute infection, which resolves on its own in most adults, or chronic infection lasting more than six months, which carries long-term risks of cirrhosis and liver cancer. A comprehensive review published in the Arab Journal of Gastroenterology in 2013 found that carrier rates in the Arab world vary widely by country but reach significant levels in parts of Egypt, Iraq, Libya, Sudan and the Gulf. The introduction of childhood vaccination programmes in the 1990s has reduced infection rates substantially in younger generations, but older adults who were never vaccinated carry a higher burden of chronic infection.",
+            "A 2016 review in the Eastern Mediterranean Health Journal examining hepatitis B and C in Syria found that conflict and displacement had disrupted vaccination programmes and blood safety systems, underlining how a preventable infection becomes resurgent when public health infrastructure is weakened. Understanding the regional picture matters because it shapes how seriously you and your doctor should treat an abnormal test result or an exposure event.",
+            "Hepatitis B is not transmitted by casual social contact. You cannot catch it by sharing meals, hugging, shaking hands, coughing, sneezing or swimming in the same pool. The virus spreads through blood-to-blood contact, including unsterile tattooing and piercing equipment, shared razors and needles, unprotected sexual contact, and from an infected mother to her baby during delivery. This distinction is important because stigma and social avoidance harm people with hepatitis B without any medical basis."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "How hepatitis B does and does not spread",
+            "head": ["Does spread through", "Does not spread through"],
+            "rows": [
+              ["Unscreened blood transfusions", "Sharing food or drink"],
+              ["Shared razors, needles, piercing tools", "Handshaking and hugging"],
+              ["Unprotected sexual contact", "Coughing or sneezing"],
+              ["Mother to baby at birth", "Swimming pools or public baths"]
+            ]
+          }
+        },
+        {
+          "h2": "What does each marker on the hepatitis B test mean?",
+          "paras": [
+            "A hepatitis B blood panel is one of the most commonly misread lab results because it uses abbreviations that look similar but mean very different things. Understanding what each marker tells you is the first step toward knowing your status and what to do next.",
+            "HBsAg stands for hepatitis B surface antigen. Its presence in your blood means the virus is currently in your body. If it remains positive for more than six months, you have chronic hepatitis B. A negative HBsAg means the virus is not currently detected. Anti-HBs is the protective antibody. A positive Anti-HBs at a sufficient concentration means you are immune, either from vaccination or from having recovered naturally from a past infection. This is the result you want to see.",
+            "Anti-HBc is the antibody that forms after actual infection (not vaccination). Its presence, especially alongside a negative HBsAg and positive Anti-HBs, usually means a past infection that resolved. HBeAg indicates active viral replication. When it is positive, the virus is multiplying actively and the person is significantly more infectious. When it is absent in someone who is HBsAg positive, the virus is typically less active, though monitoring is still required. HBV DNA measures the actual quantity of virus in the blood. This is the most important number when a doctor is deciding whether to start antiviral treatment."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Reading your hepatitis B test results",
+            "head": ["Marker", "Positive means", "Key note"],
+            "rows": [
+              ["HBsAg", "Virus present in the body now", "Positive more than 6 months = chronic"],
+              ["Anti-HBs", "Immune: from vaccine or recovery", "Level above 10 mIU/mL = protected"],
+              ["Anti-HBc", "Previous real infection (not vaccine)", "Persists for life"],
+              ["HBeAg", "Virus actively replicating", "Higher infectivity to others"],
+              ["HBV DNA", "Actual viral load in blood", "Key to treatment decisions"]
+            ]
+          }
+        },
+        {
+          "h2": "What is the difference between a healthy carrier and active chronic hepatitis B?",
+          "paras": [
+            "Not everyone who tests positive for HBsAg needs immediate drug treatment. There is an important clinical distinction between a healthy carrier, also called the inactive phase, and active chronic hepatitis B. A healthy carrier is someone in whom the immune system is controlling the virus: HBV DNA levels are very low or undetectable, liver enzymes are normal, and there is minimal liver inflammation. People in this phase can live normally for decades without progression to cirrhosis.",
+            "Active chronic hepatitis B is different. HBV DNA is high, liver enzymes are elevated, and there is ongoing inflammation that can steadily damage the liver if left untreated. This is the phase where antiviral treatment substantially reduces the risk of long-term harm. Between these two states there is also a phase called the immune active phase, where the virus and the immune system are in conflict. This phase needs careful monitoring and often treatment.",
+            "A landmark study published in The Lancet Gastroenterology and Hepatology in 2019 documented that infants infected at birth progress to chronic hepatitis B in up to 90 percent of cases, compared with fewer than 5 percent of adults who acquire the infection for the first time. This difference explains why birth-dose vaccination is so critical: an infection caught at the most vulnerable moment becomes a lifelong condition in the vast majority of cases."
+          ]
+        },
+        {
+          "h2": "Can hepatitis B be treated?",
+          "paras": [
+            "A complete cure that eliminates the virus from the body remains beyond current treatment in most cases, but the available antivirals can suppress viral replication to undetectable levels, which effectively stops liver damage and sharply reduces the risk of cirrhosis and liver cancer. The most widely used agents today are tenofovir (in two forms: TDF and TAF) and entecavir. These are taken as a single daily tablet and are generally well tolerated with few side effects.",
+            "The decision to start treatment is based on a combination of HBV DNA level, liver enzyme results, liver stiffness measured by ultrasound or Fibroscan, and the patient's age and family history. Not every person with chronic hepatitis B needs treatment immediately. Those in the healthy carrier phase with consistently normal enzymes and low viral loads are typically monitored every six months rather than treated.",
+            "Treatment, when needed, is often long-term. In some people with a specific pattern of surface antigen loss, it may eventually be possible to stop safely. For most, treatment continues indefinitely. The goal throughout is protecting the liver, which is the organ most at risk from decades of viral activity. Starting treatment before significant fibrosis develops produces the best outcomes."
+          ],
+          "visual": {
+            "type": "timeline",
+            "title": "Monitoring schedule for chronic hepatitis B",
+            "items": [
+              {"when": "Every 6 months", "what": "Liver enzymes (ALT/AST) and liver ultrasound"},
+              {"when": "Every 6 months", "what": "Alpha-fetoprotein (AFP) to screen for liver cancer"},
+              {"when": "Annually", "what": "HBV DNA if not on treatment"},
+              {"when": "As needed", "what": "Fibroscan or liver biopsy to assess fibrosis stage"}
+            ]
+          }
+        },
+        {
+          "h2": "Why vaccination matters even for adults who missed it as children",
+          "paras": [
+            "The hepatitis B vaccine is one of the most effective vaccines ever developed. Three doses given over six months produce protective antibody levels in over 95 percent of healthy adults. The vaccine has been part of childhood immunisation schedules across Arab countries since the late 1990s, meaning most people born after 2000 are likely vaccinated. However, those born before routine vaccination began, and those whose vaccination records are uncertain, may not be protected.",
+            "A 2025 study in Scientific Reports examining hepatitis B knowledge and stigma in the UAE found that awareness of prevention, including vaccination, remained lower than ideal in several population groups. The researchers noted that stigma associated with the diagnosis was a barrier to both testing and vaccination, as people feared being labelled. This is a preventable outcome: vaccination eliminates the risk entirely, and testing without stigma allows early intervention.",
+            "Adults in higher-risk groups should be vaccinated if they have no documented history of vaccination and test negative for all hepatitis B markers. This includes healthcare workers, people sharing living space with a chronic carrier, and those with multiple sexual partners. If you have been exposed to potentially infected blood or body fluids very recently, go to a hospital within 24 hours: an emergency injection of hepatitis B immunoglobulin (HBIG) combined with the first vaccine dose can prevent infection from taking hold."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "Hepatitis B vaccination schedule for adults",
+            "items": [
+              "First dose at any time you choose to start",
+              "Second dose one month after the first",
+              "Third dose six months after the first",
+              "Anti-HBs blood test four to eight weeks after the third dose",
+              "If Anti-HBs is below 10 mIU/mL, your doctor will advise on repeat doses"
+            ]
+          }
+        },
+        {
+          "h2": "Protecting your family when someone at home carries the virus",
+          "paras": [
+            "When a family member has chronic hepatitis B, the practical response is to test all household members and vaccinate those who are not already immune. Routine daily contact, including sharing meals, using the same bathroom and close physical affection, poses no meaningful transmission risk. The virus does not live on surfaces and is not transmitted through air.",
+            "A 2021 review in the World Journal of Gastroenterology confirmed that mother-to-child transmission at birth, which is the most efficient route, can be prevented by giving the newborn both the hepatitis B vaccine and hepatitis B immunoglobulin (HBIG) within twelve hours of delivery. This intervention reduces transmission risk by more than 90 percent even when the mother has a high viral load. Any woman who knows she has hepatitis B should inform her obstetric team well before delivery so the birth-dose plan is in place.",
+            "Sharing razors, nail scissors or toothbrushes with anyone, infected or not, is a poor hygiene habit because these items can carry invisible traces of blood. Avoiding this practice is reasonable regardless of hepatitis B status. Beyond this, daily home life requires no modification. The most harmful consequence of misunderstanding transmission is the social isolation that carriers sometimes experience from their own families."
+          ]
+        },
+        {
+          "h2": "Warning signs that need urgent medical attention",
+          "paras": [
+            "Most people with chronic hepatitis B feel well for years. When the liver begins to struggle, symptoms develop gradually and can be subtle at first. Fatigue that is out of proportion to activity level, a persistent dull ache under the right rib cage, and a feeling of abdominal fullness can all indicate worsening liver function and should prompt a check-up.",
+            "Jaundice, the yellowing of the skin and the whites of the eyes, is a signal that the liver is unable to process bilirubin normally and needs assessment the same day. Abdominal swelling from fluid accumulation (ascites) and unexpected bleeding or bruising indicate that liver function is severely compromised. These are not symptoms to wait and watch."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "See a doctor urgently if you develop",
+            "items": [
+              "Yellow skin or eyes (jaundice)",
+              "Sudden abdominal swelling or bloating",
+              "Unexplained bleeding from gums or nose",
+              "Severe pain under the right rib cage",
+              "Sudden confusion or difficulty thinking clearly"
+            ]
+          }
+        },
+        {
+          "h2": "Using Sihtak to stay on top of your monitoring",
+          "paras": [
+            "Living with chronic hepatitis B means a commitment to every-six-month check-ups for the rest of your life. Many people find it difficult to remember when their last ultrasound was, what their ALT was six months ago, or whether their AFP has been stable or creeping upward. The Sihtak app lets you log each set of results as they come in, plot the trend over time, and carry your history into any new clinic or consultation.",
+            "When results from multiple years are visible side by side, your doctor can make much faster and more confident decisions about whether to start treatment, adjust it, or continue monitoring. That clarity is worth more than any single test result in isolation."
+          ]
+        }
+      ],
+      "tie": "Track your hepatitis B monitoring results and six-monthly check-up dates in Sihtak. A clear trend across your ALT, HBV DNA and AFP results is the most useful information you can bring to any clinical review.",
+      "faqs": [
+        {
+          "q": "Can hepatitis B spread through kissing?",
+          "a": "Casual kissing carries minimal to no risk because saliva contains very low concentrations of virus. Deep kissing where one or both people have bleeding gums or mouth ulcers carries a theoretical higher risk. The main transmission routes are blood-to-blood contact and sexual fluids."
+        },
+        {
+          "q": "I am HBsAg positive. Does that mean I will develop cirrhosis?",
+          "a": "Not necessarily. Many people with chronic hepatitis B, particularly those in the inactive carrier phase with low viral loads and normal enzymes, do not develop cirrhosis during their lifetime. Regular monitoring picks up any transition to a more active phase, and treatment can be started before significant liver damage occurs."
+        },
+        {
+          "q": "Can I drink alcohol if I have hepatitis B?",
+          "a": "Alcohol causes its own independent form of liver damage. Combined with hepatitis B, even moderate alcohol use accelerates the progression toward cirrhosis. Most liver specialists advise complete abstinence in people with chronic hepatitis B. If abstaining is not possible, reducing consumption as much as possible is the next best step."
+        },
+        {
+          "q": "Do I need to tell my employer or my children's school?",
+          "a": "In most cases, no. Hepatitis B does not spread through normal daily social or work contact. In healthcare roles involving procedures with potential blood exposure, there are specific professional guidelines to follow, but these are occupational frameworks, not general disclosure obligations."
+        },
+        {
+          "q": "Can an infected mother breastfeed safely?",
+          "a": "Yes, provided the newborn receives both the hepatitis B vaccine and HBIG within twelve hours of birth. With that protection in place, breastfeeding does not meaningfully increase the baby's infection risk, even if the mother has a high viral load. Withholding breastfeeding is not recommended once the birth-dose protection is given."
+        },
+        {
+          "q": "What is the difference between hepatitis B and hepatitis C?",
+          "a": "They are caused by completely different viruses. Hepatitis B can be prevented by vaccination and is treatable but usually not curable. Hepatitis C has no vaccine but is now curable with a short course of direct-acting antivirals with success rates exceeding 95 percent. Both can cause chronic liver damage if untreated, and both spread through blood contact."
+        },
+        {
+          "q": "If I have recovered from hepatitis B in the past, can I catch it again?",
+          "a": "Recovery from hepatitis B produces long-lasting natural immunity in most people, similar to vaccination. If you have both Anti-HBc and Anti-HBs in your blood, you are almost certainly immune and extremely unlikely to be reinfected. Your doctor can confirm this with a simple antibody test."
+        }
+      ]
+    }
+  }
+}

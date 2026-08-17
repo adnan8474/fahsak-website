@@ -1,0 +1,345 @@
+{
+  "slug": "cousin-marriage-genetic-risk",
+  "category": "genetic-conditions",
+  "chip_ar": "أمراض وراثية",
+  "chip_en": "Genetic conditions",
+  "date_iso": "2026-07-22",
+  "sources": [
+    {
+      "label": "Al-Gazali L, Hamamy H: Consanguinity and dysmorphology in Arabs, Human heredity, 2014",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25060273/"
+    },
+    {
+      "label": "Ben-Omran T, Al Ghanim K, Yavarna T et al: Effects of consanguinity in a cohort of subjects with certain genetic disorders in Qatar, Molecular genetics & genomic medicine, 2020",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31793205/"
+    },
+    {
+      "label": "Bromiker R, Glam-Baruch M, Gofin R et al: Association of parental consanguinity with congenital malformations among Arab newborns in Jerusalem, Clinical genetics, 2004",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15200510/"
+    },
+    {
+      "label": "Hamamy H, Al-Hait S, Alwan A et al: Jordan: communities and community genetics, Community genetics, 2007",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17167252/"
+    },
+    {
+      "label": "Abdu Y, Ahmed K, Ibrahim MIM et al: Perception of consanguineous marriage among the qatari population, Frontiers in public health, 2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37601216/"
+    },
+    {
+      "label": "Hamamy HA, Al-Allawi NA: Epidemiological profile of common haemoglobinopathies in Arab countries, Journal of community genetics, 2013",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23224852/"
+    }
+  ],
+  "content": {
+    "en": {
+      "title": "Cousin marriage and genetic risk: the honest numbers",
+      "desc": "Cousin marriage is common across the Arab world. This page explains the real numbers behind genetic risk, which conditions cluster, and what screening and counselling can do.",
+      "keywords": "cousin marriage genetic risk, consanguinity Arab world, first cousin marriage birth defect, recessive gene risk, genetic counselling before marriage, Arab consanguinity",
+      "h1": "Cousin marriage and genetic risk: understanding the real numbers respectfully",
+      "takeaways": [
+        "Cousin marriage is practised across the Arab world and is socially, legally and religiously accepted; this article is about information, not judgement.",
+        "First cousins share about one eighth of their genes. This raises the chance that both carry the same hidden recessive gene, but the absolute increase in birth defect risk per pregnancy is modest.",
+        "The baseline risk of a serious birth defect or genetic condition in any pregnancy is roughly 2 to 3 percent. For first cousins, published studies suggest an additional risk of roughly 2 to 4 percent, not a doubling of total risk.",
+        "The greatest concern is in families where a specific recessive condition such as thalassemia, sickle cell, or familial Mediterranean fever is already known, because related couples are more likely to both carry that gene.",
+        "Premarital screening, genetic counselling, and keeping a family health history are the practical tools that give couples real information rather than fear."
+      ],
+      "sections": [
+        {
+          "h2": "Why is cousin marriage common in the Arab world?",
+          "paras": [
+            "Marriage between first cousins or other relatives is common across the Arab world, South Asia, parts of Africa and parts of southern Europe. In many Arab societies it has been practised for centuries and is embedded in tribal, family and social structures. It keeps property and alliances within the family, strengthens known relationships, and is considered by many families to be a foundation for a stable marriage. It is permitted in Islamic jurisprudence and in civil law across all Arab countries.",
+            "A 2014 review by Al-Gazali and Hamamy in Human Heredity described consanguinity rates across Arab populations and found that first or second cousin marriages account for a large proportion of all marriages in many countries, often exceeding 30 to 40 percent in rural areas and some Gulf communities. Jordan, Yemen, Iraq and Sudan have particularly high rates by population survey. These are not marginal practices; they are mainstream choices made by many families.",
+            "This page is written for someone who wants honest genetic information, not reassurance and not alarm. The goal is to present the numbers accurately, explain what they mean in practical terms, and describe what testing and counselling can offer. No reproductive decision is made here. That belongs entirely to the couple and their family."
+          ]
+        },
+        {
+          "h2": "What does being related actually mean for your genes?",
+          "paras": [
+            "Every human inherits two copies of every gene, one from each parent. Most harmful genetic variants are recessive: they only cause disease when a person inherits two defective copies, one from each parent. A person who inherits only one defective copy is a carrier and is typically healthy, often entirely unaware they carry the gene at all.",
+            "First cousins share, on average, one eighth of their genetic material. This means that if one cousin carries a recessive variant on a particular gene, there is a one-in-eight chance that the other cousin also carries the same variant, inherited from their common grandparent. For comparison, two unrelated people from the same population share common genes based only on the general population carrier rate for that variant.",
+            "When two first cousins who are both carriers of the same recessive gene have a child, each pregnancy has a one-in-four chance of the child inheriting two copies of the abnormal gene and developing the associated condition. This is the same probability as for any two carriers of the same gene, related or not. The increased risk from consanguinity comes from the higher starting chance that both cousins happen to carry the same variant."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Gene sharing between relatives",
+            "head": ["Relationship", "Proportion of genes shared", "Chance both share the same hidden variant (if one carries it)"],
+            "rows": [
+              ["Identical twins", "100%", "Certain"],
+              ["Parent and child", "50%", "1 in 2"],
+              ["Siblings", "50% (on average)", "1 in 2 (on average)"],
+              ["First cousins", "12.5% (1 in 8)", "1 in 8"],
+              ["Second cousins", "3.1% (1 in 32)", "1 in 32"],
+              ["Unrelated people (same population)", "Varies by population carrier rate", "Depends on how common the variant is"]
+            ]
+          }
+        },
+        {
+          "h2": "What is the actual increase in risk for a first-cousin couple?",
+          "paras": [
+            "This is the most important question, and it is the one most often answered with either dismissal or exaggeration. The honest answer is that the increase is real but modest in absolute terms when no specific family condition is known.",
+            "A study of Arab newborns in Jerusalem published in Clinical Genetics in 2004 by Bromiker and colleagues found a statistically significant increase in congenital malformations in children of consanguineous parents compared with non-consanguineous parents, consistent with the wider literature. The background rate of serious birth defects or genetic conditions in any pregnancy in the general population is roughly 2 to 3 percent. The best estimates from population studies suggest that first-cousin couples face an additional absolute risk of roughly 2 to 4 percentage points on top of that baseline.",
+            "This means that for a first-cousin couple with no known family history of a specific genetic condition, the overall chance that any given pregnancy will result in a serious genetic condition is in the range of 4 to 7 percent rather than 2 to 3 percent. This is a meaningful increase, not a trivial one, but it also means that the large majority of pregnancies from cousin couples result in children without serious genetic conditions. The risk is not equivalent to certainty, and it is not the same as having a known carrier-carrier combination for a specific disease."
+          ]
+        },
+        {
+          "h2": "When does the risk become much higher?",
+          "paras": [
+            "The calculations above describe a couple with no known family history of a specific recessive condition. The picture changes considerably when a particular condition is already present in the family.",
+            "If there is a known case of thalassemia major, sickle cell disease, G6PD deficiency in its severe forms, familial Mediterranean fever, deafness from a recessive gene, or any other autosomal recessive condition in the family, then both cousins may well both be carriers of that specific gene, inherited from the same affected or carrier ancestor. In that situation the one-in-four risk of an affected pregnancy applies, and the relevant test to do first is carrier testing for the specific condition in question, not a general risk calculation.",
+            "The 2020 study by Ben-Omran and colleagues in Qatar, published in Molecular Genetics and Genomic Medicine, reviewed a cohort of patients with confirmed genetic disorders and found that consanguinity was a significant factor in their presentation, particularly for autosomal recessive conditions affecting metabolism, brain development, and haemoglobin. This illustrates that when a specific recessive condition is present in a family, the risk in a cousin marriage is not a general population average but a much higher and more specific figure."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "warn",
+            "title": "When to seek genetic counselling before marriage",
+            "items": [
+              "A family member has a diagnosed recessive genetic condition such as thalassemia major, sickle cell disease, metabolic disorder, or childhood deafness",
+              "A previous child was born with a serious genetic condition that was not explained",
+              "Multiple family members across generations have the same unexplained serious illness",
+              "You or your partner have been told you are a carrier of a specific gene",
+              "You are marrying a close relative and want specific rather than general figures"
+            ]
+          }
+        },
+        {
+          "h2": "Which conditions cluster more with consanguinity?",
+          "paras": [
+            "Any autosomal recessive condition can appear more frequently in consanguineous families, because the mechanism, inheriting two copies of the same abnormal gene, is made more likely when both parents share a common ancestor who carried that gene. In the Arab world, several specific conditions are significantly more common in communities with high rates of consanguineous marriage.",
+            "Haemoglobinopathies, meaning thalassemia and sickle cell disease, are the most numerically significant, as reviewed by Hamamy and Al-Allawi in the Journal of Community Genetics in 2013 covering Arab countries. Inherited deafness, which has a large recessive genetic component, is another, and several studies have documented higher rates in communities with high consanguinity. Metabolic disorders including PKU and various organic acidaemias, certain forms of inherited immune deficiency, and some forms of inherited eye disease also appear at higher rates.",
+            "Conditions that are not recessive are not increased by consanguinity. Down syndrome, for example, which is caused by an extra chromosome rather than a recessive gene, is not more common in cousins' children. Many congenital heart defects have complex or dominant genetic causes that are also not amplified by consanguinity. The increased risk is specific to the autosomal recessive category."
+          ]
+        },
+        {
+          "h2": "What can screening and counselling actually do?",
+          "paras": [
+            "Carrier testing is the most practical tool available. If both partners in a cousin couple agree to be tested for the conditions most prevalent in their community and family, a carrier-carrier result for a specific condition can be identified before pregnancy. At that point, the couple knows the specific one-in-four risk for that condition and can discuss prenatal diagnosis and other options with a genetic counsellor.",
+            "A 2007 analysis of Jordan's community genetics landscape by Hamamy and colleagues described the importance of accessible genetic counselling and carrier testing in populations where consanguineous marriage is common. The analysis noted that without testing, couples have no information specific to their own family, and the general risk estimates are of limited practical use. With testing, a couple can make decisions based on their own carrier status rather than population averages.",
+            "Where carrier testing is not available for a specific condition, a careful family history documented over three generations can identify whether a recessive condition has appeared and help estimate whether both partners are likely to carry the gene. This family history is best compiled with the help of a clinical geneticist, but a carefully drawn family pedigree showing who was affected and at what age can be helpful even before a specialist appointment."
+          ]
+        },
+        {
+          "h2": "How to draw and use a family health history",
+          "paras": [
+            "A family health history, also called a pedigree in genetics, is a map of health conditions across three or more generations. For a cousin couple, this means recording the health of grandparents (who are the shared ancestors), parents, uncles and aunts, and any siblings. The goal is to see whether a specific condition has appeared on both sides of the family, which would suggest both partners may carry the relevant gene.",
+            "Recording the sex of each person, whether they were affected by a condition, the age of onset, and whether they were children of related parents gives a genetics specialist the information needed to estimate carrier probability and recommend specific tests. In many Arab families, significant medical history is known informally but not written down. Asking older relatives before a clinic appointment, and writing it down, can make the appointment far more productive.",
+            "You do not need to know the name of a condition to record it. Writing that a child died at age three with repeated infections, or that a family member had severe anaemia needing transfusions from childhood, gives a specialist enough to work with. Photographs of affected relatives, when they exist and the family is comfortable sharing them, can also help in dysmorphology assessment."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "Building a basic three-generation family health history",
+            "items": [
+              "List both sets of grandparents: note their health, whether they had any serious illness, and at what age they died and why",
+              "List all parents, uncles and aunts: note any serious conditions, age of onset, and whether the condition was diagnosed",
+              "List all siblings and cousins: note any who died in childhood, had serious illness, or were born with abnormalities",
+              "Note any conditions that appear more than once in the family, especially if they affected children",
+              "Note which individuals are known to be children of related parents",
+              "Bring this written record to your genetic counselling or premarital screening appointment"
+            ]
+          }
+        },
+        {
+          "h2": "What options exist if a risk is identified?",
+          "paras": [
+            "Finding a specific risk does not close all doors. Several options exist for couples who are confirmed carriers of the same recessive condition and are planning a pregnancy, and understanding these options is part of what a genetic counselling session provides.",
+            "Prenatal diagnosis by chorionic villus sampling (CVS), done at ten to twelve weeks of pregnancy, tests the genetic material of the developing pregnancy and identifies whether the baby has inherited two copies of the abnormal gene, one, or none. A result takes a few days to a week and gives specific information about that particular pregnancy. This allows the couple to have clear information early enough to make decisions.",
+            "Preimplantation genetic diagnosis (PGD), which involves testing embryos before they are transferred in an in vitro fertilisation cycle, allows the selection of embryos without two copies of the abnormal gene before pregnancy begins. This technology is available in specialist centres in Saudi Arabia, the UAE, Jordan and Lebanon, among others, though cost and access vary. Some couples choose to proceed without testing and accept outcomes as they come; others make that decision after being fully informed about probabilities. Neither choice is made here; the role of this page is to ensure that choice is made with accurate information."
+          ]
+        },
+        {
+          "h2": "Approaching the conversation within the family",
+          "paras": [
+            "Cousin marriages are often arranged within families, and the discussion of genetic risk can feel like it is questioning a family tradition or implying that past decisions were wrong. It is worth being clear that this is not the message. Generations of cousin marriages occurred without any knowledge of genetics, and many families with high rates of consanguinity include many healthy individuals. The science of genetics is new; the tradition is ancient.",
+            "Raising the question of premarital screening or genetic testing before a cousin marriage is not a criticism of the practice. It is an application of currently available information to a specific couple's situation. Many families, once the purpose of the test is explained clearly, are willing to support it. A simple framing is that the tests are done to know where things stand, and that the result may well be reassuring.",
+            "Where the test finds a specific risk, the conversation becomes harder. A clinical geneticist or genetic counsellor is trained to have these conversations in a way that is sensitive to family and cultural context, and involving one is genuinely helpful rather than optional. In countries where this specialty is not available locally, telehealth consultations with specialists in Jordan, Lebanon, the UAE and Saudi Arabia are increasingly possible and can provide guidance remotely."
+          ]
+        }
+      ],
+      "tie": "Keeping a three-generation family health history in Sihtak, including who was affected by what condition, gives any specialist you consult the fastest possible route to accurate advice for your family.",
+      "faqs": [
+        {
+          "q": "Is cousin marriage more common in some Arab countries than others?",
+          "a": "Yes. Rates vary considerably across the Arab world. Countries with higher rates in population surveys include Jordan, Yemen, Iraq and Sudan, where first and second cousin marriages often account for 30 to 50 percent of unions in some communities. Gulf countries and urban populations in Lebanon and Syria tend to have lower but still substantial rates. Rates have been declining across the region in recent decades as urbanisation increases and awareness grows."
+        },
+        {
+          "q": "Does the genetic risk increase further if both parents are themselves children of cousin marriages?",
+          "a": "Yes. Each generation of consanguineous marriage concentrates shared genes further. If two people who are cousins are also both the children of cousin marriages, the proportion of shared genetic material is higher than for a standard first-cousin pair, and the risk of both carrying the same recessive variant is correspondingly higher. A geneticist can calculate this more precisely from the specific pedigree."
+        },
+        {
+          "q": "We have had four healthy children already. Does that mean there is no genetic risk?",
+          "a": "Having healthy children reduces the probability that both parents carry the same high-risk gene pair, but it does not eliminate it. Even if both parents are carriers of a recessive condition, each pregnancy independently has a one-in-four chance of being affected. Four healthy children in a row is entirely possible even for two confirmed carriers, and none of those outcomes reduces the probability for the next pregnancy."
+        },
+        {
+          "q": "Is there a test that can tell us the exact risk for our specific family?",
+          "a": "Exome or genome sequencing can identify recessive variants carried by each partner, giving a much more specific picture than general population risk estimates. This testing is increasingly available in the region, though it remains costly. It is most useful when there is a known family history to guide interpretation. A clinical geneticist can advise on whether this level of testing is warranted for a specific couple."
+        },
+        {
+          "q": "What if the family is opposed to genetic testing on religious or cultural grounds?",
+          "a": "Genetic testing is always voluntary. Some Islamic scholars have issued opinions permitting and even encouraging premarital screening to prevent serious inherited disease in children, viewing the welfare of future children as a religious obligation. Others hold that testing interferes with divine will. A family's position on this is theirs to hold. What can be done without formal genetic testing is compiling a detailed family history and discussing it with a doctor, which provides useful, if less precise, information."
+        },
+        {
+          "q": "Can the risk be reduced without testing?",
+          "a": "Not significantly. General health before pregnancy, folic acid supplementation, and avoiding alcohol and smoking reduce certain types of birth defects but do not reduce the risk from recessive gene inheritance, because that is determined by which genes the parents carry. The only way to get information about carrier status is through genetic testing."
+        },
+        {
+          "q": "We are second cousins, not first. Is the risk still relevant?",
+          "a": "The risk for second cousins is lower than for first cousins. Second cousins share about 3 percent of their genetic material compared with 12.5 percent for first cousins, so the chance that both carry the same hidden variant is proportionally lower. For second cousins with no known family history of a specific recessive condition, the additional genetic risk is very small and may not warrant specific genetic testing beyond a standard premarital screen."
+        }
+      ]
+    },
+    "ar": {
+      "title": "زواج الأقارب والخطر الوراثي: الأرقام الحقيقية",
+      "desc": "زواج الأقارب شائع في العالم العربي. هذه الصفحة تشرح الأرقام الوراثية الحقيقية، وأي الأمراض تتركّز، وما يفعله الفحص والإرشاد الجيني فعلاً.",
+      "keywords": "زواج الأقارب خطر وراثي, القرابة والأمراض الوراثية, ابن عم ابنة عم جين متنحٍّ, فحص جيني قبل الزواج, الأمراض الوراثية عرب",
+      "h1": "زواج الأقارب والخطر الوراثي: فهم الأرقام الحقيقية بإنصاف وبلا إدانة",
+      "takeaways": [
+        "زواج الأقارب متعارف عليه في العالم العربي وله جذور اجتماعية وقانونية ودينية راسخة، وهذا المقال معلومات لا حكم.",
+        "يتشارك ابنا العم نحو ثُمن جيناتهما، ما يرفع احتمال حمل كليهما لجين متنحٍّ مخفي، لكن الزيادة المطلقة في خطر التشوهات الخلقية تظل محدودة.",
+        "الخطر الأساسي لتشوه خلقي خطير في أي حمل هو 2 إلى 3 بالمئة تقريباً. عند ابني العم تُضيف الدراسات نحو 2 إلى 4 بالمئة إضافية، وليس تضاعفاً كاملاً للخطر.",
+        "الأخطر هو وجود مرض متنحٍّ معروف في الأسرة كالثلاسيميا أو فقر الدم المنجلي، لأن كلا الطرفين القريبين قد يكونا حاملَين لنفس الجين المعيب.",
+        "الفحص الجيني قبل الزواج والإرشاد الجيني وتوثيق التاريخ الصحي للأسرة هي الأدوات العملية التي تُعطيك معلومة دقيقة بدل مخاوف مبهمة."
+      ],
+      "sections": [
+        {
+          "h2": "لماذا يشيع زواج الأقارب في العالم العربي؟",
+          "paras": [
+            "زواج ابن العم من بنت عمه أو من أقاربه يُمارَس في العالم العربي وجنوب آسيا وأجزاء من أفريقيا وجنوب أوروبا. في كثير من المجتمعات العربية له تاريخ يمتد لقرون وهو متجذّر في البنى القبلية والأسرية والاجتماعية. ويراه كثير من الأسر أساساً لزواج قائم على الثقة والمعرفة المسبقة، فضلاً عن أنه مباح شرعاً وقانونياً في جميع الدول العربية.",
+            "وصفت مراجعة الغزالي وحمامي عام 2014 في مجلة Human Heredity معدلات القرابة في مجتمعات عربية متعددة، ووجدت أن زيجات الأقارب من الدرجة الأولى أو الثانية تمثل نسبة كبيرة من مجمل الزيجات في دول عدة، وكثيراً ما تتجاوز 30 إلى 40 بالمئة في المناطق الريفية وبعض مجتمعات الخليج. هذه ليست ظاهرة هامشية بل خيار رئيسي تتخذه أسر كثيرة.",
+            "كُتب هذا المقال لمن يريد معلومة وراثية أمينة، لا طمأنينة مصطنعة ولا إنذاراً مبالغاً فيه. الهدف عرض الأرقام بدقة وشرح معناها عملياً وبيان ما يُقدمه الفحص والإرشاد. لا قرار يُتّخذ هنا، ذلك حق الزوجين وأسرتيهما حصراً."
+          ]
+        },
+        {
+          "h2": "ماذا تعني القرابة على مستوى الجينات؟",
+          "paras": [
+            "كل إنسان يرث نسختين من كل جين، واحدة من كل والد. معظم الطفرات الوراثية الضارة متنحية (Recessive): لا تُسبب المرض إلا عند توارث نسختين معيبتين، واحدة من كل والد. من يرث نسخة واحدة فقط يُسمى حاملاً (Carrier) وهو سليم في الغالب ولا يعلم أنه يحمل الجين.",
+            "يتشارك ابنا العم في المتوسط ثُمن جيناتهما (12.5 بالمئة). هذا يعني أنه إذا كان أحدهما يحمل جيناً متنحياً معيناً، فاحتمال أن الآخر يحمله أيضاً ورثاه من الجد المشترك هو واحد في ثمانية. للمقارنة، شخصان غير مترابطَين من نفس المجتمع يتشاركان الجينات فقط بحسب معدل الحاملين العام لذلك الجين في مجتمعهما.",
+            "حين يكون كلا ابني العم حاملَين للجين المعيب ذاته وأنجبا طفلاً، يكون لكل حمل منفصل احتمال ربع أن يرث الطفل النسختين المعيبتين ويُصاب بالمرض. هذا هو نفس احتمال أي زوجين حاملَين للجين ذاته سواء أكانا أقارب أم لا. ما تُضيفه القرابة هو ارتفاع احتمال البداية، أي احتمال أن يكون كلاهما حاملَين أصلاً."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "نسبة الجينات المشتركة حسب درجة القرابة",
+            "head": ["درجة القرابة", "نسبة الجينات المشتركة", "احتمال حمل كليهما لنفس الجين الخفي (إذا حمله أحدهما)"],
+            "rows": [
+              ["توأمان متطابقان", "100%", "مؤكد"],
+              ["والد وولده", "50%", "واحد من اثنين"],
+              ["أخوان", "50% في المتوسط", "واحد من اثنين في المتوسط"],
+              ["ابنا عم من الدرجة الأولى", "12.5% (واحد من ثمانية)", "واحد من ثمانية"],
+              ["ابنا عم من الدرجة الثانية", "3.1% (واحد من اثنين وثلاثين)", "واحد من اثنين وثلاثين"],
+              ["شخصان غير مترابطَين", "يتفاوت بحسب معدل الحاملين في المجتمع", "يعتمد على شيوع الجين المعيب"]
+            ]
+          }
+        },
+        {
+          "h2": "ما الزيادة الفعلية في الخطر عند ابني العم؟",
+          "paras": [
+            "هذا هو السؤال الأهم، وهو الأكثر إجابةً إما بالاستهانة المفرطة أو بالمبالغة. الجواب الأمين: الزيادة حقيقية لكنها محدودة من الناحية المطلقة حين لا يوجد مرض معيّن معروف في الأسرة.",
+            "وجدت دراسة رومير وزملائها المنشورة في مجلة Clinical Genetics عام 2004 على المواليد العرب في القدس ارتفاعاً إحصائياً ذا دلالة في معدل التشوهات الخلقية عند أبناء الأزواج القرابيين مقارنةً بغيرهم. الخطر الأساسي لتشوه خلقي أو حالة وراثية خطيرة في أي حمل في المجتمع العام هو نحو 2 إلى 3 بالمئة. تُشير أفضل التقديرات من الدراسات السكانية إلى أن ابني العم يواجهان زيادة مطلقة تتراوح بين 2 و4 نقاط مئوية إضافية فوق هذا الأساس.",
+            "هذا يعني أن زوجين من ابني العم دون تاريخ أسري لمرض وراثي محدد يواجهان احتمالاً إجمالياً يتراوح بين 4 و7 بالمئة لكل حمل بدلاً من 2 إلى 3 بالمئة. هذه زيادة لها وزنها وليست ضئيلة، لكنها تعني أن الغالبية العظمى من حالات الحمل عند أزواج الأقارب تُسفر عن أطفال أصحّاء. الخطر ليس معادلاً لليقين، وهو لا يُقارن بحالة التأكد من وجود زوجين حاملَين لمرض بعينه."
+          ]
+        },
+        {
+          "h2": "متى يرتفع الخطر بشكل ملحوظ؟",
+          "paras": [
+            "الأرقام المذكورة أعلاه تصف زوجين لا تاريخ أسرياً معروفاً لديهما لمرض متنحٍّ بعينه. الصورة تتغير كثيراً حين يكون مرض محدد موجوداً بالفعل في الأسرة.",
+            "إذا كان في الأسرة حالة موثّقة من الثلاسيميا الكبرى أو فقر الدم المنجلي أو عوز G6PD بأشكاله الشديدة أو حمى البحر المتوسط العائلية أو صمم وراثي متنحٍّ أو أي مرض متنحٍّ آخر، فمن المحتمل جداً أن كلا ابني العم حاملان لهذا الجين المعيب ورثاه من جدٍّ مشترك مصاب أو حامل. في هذه الحالة يسري احتمال الربع على كل حمل لذلك المرض تحديداً.",
+            "أوضحت دراسة بن عمران وزملائه في قطر عام 2020 المنشورة في Molecular Genetics and Genomic Medicine أن القرابة كانت عاملاً مهماً في الحالات الوراثية المُشخَّصة التي شملتها الدراسة، ولا سيما في الأمراض الأيضية واضطرابات النمو العصبي وأمراض الهيموغلوبين. هذا يُوضّح أن وجود مرض متنحٍّ في الأسرة يُحوّل الخطر من متوسط سكاني عام إلى رقم أعلى وأكثر تحديداً."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "warn",
+            "title": "اطلب الإرشاد الجيني قبل الزواج إذا:",
+            "items": [
+              "أُصيب فرد من الأسرة بمرض وراثي متنحٍّ موثّق كالثلاسيميا أو فقر الدم المنجلي أو اضطراب أيضي أو صمم وراثي",
+              "وُلد طفل سابق بحالة وراثية خطيرة لم يُشرح سببها",
+              "ظهر نفس المرض الخطير عند أفراد متعددين في الأسرة",
+              "أُبلغت أنت أو شريكك بأنكم حاملون لجين معيّن",
+              "تتزوجون من قريب وتريدون أرقاماً خاصة بأسرتكم لا متوسطات سكانية عامة"
+            ]
+          }
+        },
+        {
+          "h2": "أي الأمراض تتركّز أكثر مع زيجات الأقارب؟",
+          "paras": [
+            "يمكن لأي مرض متنحٍّ جسمياً أن يظهر بتكرار أعلى في أسر زيجات الأقارب، لأن الآلية هي توارث نسختين من الجين المعيب، وهذا يصبح أرجح حين يتشارك الوالدان جداً مشتركاً كان يحمل ذلك الجين. في العالم العربي تبرز عدة حالات بشكل خاص.",
+            "أمراض الهيموغلوبين، أي الثلاسيميا وفقر الدم المنجلي، هي الأكثر أهمية من الناحية العددية. وثّقت مراجعة حمامي والعلاوي عام 2013 المنشورة في Journal of Community Genetics انتشار هذه الأمراض في الدول العربية وصلتها بمعدلات القرابة. الصمم الوراثي ذو المنشأ المتنحي كذلك شائع أكثر في مجتمعات القرابة العالية. كذلك الاضطرابات الأيضية كبيلة فينيل كيتون (PKU) وبعض الحماض العضوي وأشكال من نقص المناعة الوراثي وبعض أمراض الشبكية الوراثية.",
+            "الأمراض غير المتنحية لا تتأثر بزيجات الأقارب. متلازمة داون مثلاً سببها كروموسوم إضافي لا جين متنحٍّ، لذا لا تزداد نسبتها عند أبناء الأقارب. كثير من عيوب القلب الخلقية لها أسباب معقدة أو سائدة لا تتضخّم بالقرابة. الخطر المرتبط بالقرابة يخص تحديداً فئة الأمراض المتنحية الجسمية."
+          ]
+        },
+        {
+          "h2": "ما الذي يمكن للفحص والإرشاد الجيني أن يُقدّماه فعلاً؟",
+          "paras": [
+            "فحص الحامل هو الأداة الأكثر فائدة. إذا وافق الزوجان من ابني العم على الفحص للأمراض الأكثر انتشاراً في مجتمعهما وأسرتهما، يمكن الكشف عن كونهما حاملَين لجين بعينه قبل الحمل. عندها يعرف الزوجان الخطر المحدد بواحد من أربعة لذلك المرض ويستطيعان مناقشة خيارات التشخيص قبل الولادة مع مرشد جيني متخصص.",
+            "أكّدت دراسة حمامي وزملائه عام 2007 حول مجتمع الوراثة في الأردن أهمية توفر الإرشاد الجيني واختبارات الحامل في المجتمعات ذات معدلات القرابة المرتفعة. وأشار التحليل إلى أن الزوجين بدون فحص ليس لديهما إلا أرقام عامة غير مفيدة عملياً، أما مع الفحص فيستطيعان اتخاذ قراراتهما بناءً على وضعهما الجيني الخاص لا متوسطات المجتمع.",
+            "حيث لا تتوفر اختبارات الحامل لمرض بعينه، يستطيع التاريخ الأسري الموثّق على ثلاثة أجيال أن يُبيّن هل ظهر المرض المتنحٍّ في الأسرة من قبل، وأن يُساعد في تقدير مدى احتمال حمل الطرفين للجين. يُعدّ هذا التاريخ بمساعدة طبيب وراثة أفضل، لكن شجرة الأسرة المرسومة بعناية مع تحديد من أُصيب ومتى تكون مفيدة حتى قبل الحصول على موعد متخصص."
+          ]
+        },
+        {
+          "h2": "كيف تبني التاريخ الصحي لأسرتك وتستخدمه؟",
+          "paras": [
+            "التاريخ الصحي للأسرة هو خريطة الحالات الصحية عبر ثلاثة أجيال أو أكثر. لزوجين من ابني العم يعني ذلك تسجيل صحة الأجداد المشتركين والوالدين والأعمام والعمات وجميع الأبناء. الهدف رؤية ما إذا كان مرض معيّن قد ظهر على كلا جانبَي الأسرة، مما يُشير إلى احتمال حمل الطرفين للجين المعيب ذاته.",
+            "تسجيل جنس كل فرد وما إذا كان مُصاباً بحالة معينة وعمر ظهورها وما إذا كان هو نفسه من أبناء أقارب يُعطي طبيب الوراثة المعلومات اللازمة لتقدير احتمال الحامل والتوصية بفحوصات بعينها. في كثير من الأسر العربية، التاريخ الطبي يُعرَف غير مكتوب. السؤال عنه من كبار السن قبل موعد العيادة، وكتابته، يُضاعف فائدة الاستشارة.",
+            "لا تحتاج إلى معرفة اسم الحالة لتسجيلها. كتابة أن طفلاً توفي في سن الثالثة مع التهابات متكررة، أو أن فرداً في الأسرة عانى من أنيميا حادة تستلزم نقل الدم منذ طفولته، يُعطي الطبيب المتخصص ما يكفي للبدء. الصور القديمة للأفراد المصابين حين تتوفر وتسمح الأسرة بمشاركتها قد تُفيد في التقييم أيضاً."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "بناء التاريخ الصحي الأسري لثلاثة أجيال",
+            "items": [
+              "سجّل الجدَّين لكلا الطرفين: صحتهما وأي مرض خطير أصابهما وسبب وفاتهما",
+              "سجّل جميع الوالدين والأعمام والعمات: أي حالات خطيرة وعمر ظهورها",
+              "سجّل جميع الأخوة والأبناء والأبناء الأقارب: من توفي في الطفولة أو أُصيب بحالة خطيرة أو وُلد بتشوه",
+              "لاحظ الحالات التي ظهرت أكثر من مرة في الأسرة ولا سيما إذا أصابت أطفالاً",
+              "حدد الأفراد الذين هم أنفسهم من أبناء أقارب",
+              "أحضر هذا السجل المكتوب إلى موعد الإرشاد الجيني أو فحص ما قبل الزواج"
+            ]
+          }
+        },
+        {
+          "h2": "ما الخيارات المتاحة عند تحديد خطر بعينه؟",
+          "paras": [
+            "تحديد خطر محدد لا يُغلق جميع الأبواب. ثمة خيارات لكل زوجين مؤكَّد أنهما حاملان لنفس الجين المتنحٍّ ويُخططان لحمل، وفهم هذه الخيارات جزء مما تُقدمه جلسة الإرشاد الجيني.",
+            "التشخيص قبل الولادة بأخذ عينة من الزغابات المشيمية (CVS) بين الأسبوعين العاشر والثاني عشر من الحمل يفحص الحمض النووي للجنين النامي ويكشف ما إذا ورث الطفل نسختين من الجين المعيب أو واحدة أو لا شيء. تظهر النتيجة خلال أيام إلى أسبوع وتُعطي معلومة خاصة بذلك الحمل تحديداً تُتيح اتخاذ قرارات مُبكراً.",
+            "التشخيص الجيني قبل الزرع (PGD) في حالات الأطفال الأنابيب يُتيح فحص الأجنة قبل نقلها واختيار الأجنة التي لم ترث نسختين من الجين المعيب قبل بدء الحمل أصلاً. هذه التقنية متاحة في مراكز متخصصة في السعودية والإمارات والأردن ولبنان وإن تفاوتت التكلفة وإمكانية الوصول. بعض الأزواج يختارون المضيّ دون اختبار ويقبلون ما يأتي؛ وآخرون يتخذون قرارهم بعد الإحاطة الكاملة بالأرقام. لا قرار يُتّخذ هنا."
+          ]
+        },
+        {
+          "h2": "كيف تُدار هذه المحادثة داخل الأسرة؟",
+          "paras": [
+            "كثيراً ما يُرتّب زواج الأقارب داخل الأسرة، وقد يبدو طرح موضوع الخطر الوراثي كأنه تشكيك في تقليد أسري أو إيحاء بأن قرارات الأجداد كانت خاطئة. من المهم توضيح أن هذا ليس المقصود على الإطلاق. أجيال متعاقبة من زيجات الأقارب مضت دون أي معرفة بعلم الوراثة، وتضم أسر كثيرة ذات معدلات قرابة مرتفعة أفراداً أصحّاء كثيرين. علم الوراثة جديد والتقليد قديم.",
+            "طرح سؤال الفحص الجيني أو فحص ما قبل الزواج قبل زواج الأقارب ليس انتقاداً للممارسة، بل هو تطبيق للمعلومات المتاحة اليوم على وضع هذين الزوجين تحديداً. كثير من الأسر حين يُشرح لها الغرض من الفحص بوضوح تكون على استعداد لدعمه. صياغة مقبولة هي: الفحص يُجرى لنعرف أين نحن، والنتيجة قد تكون مطمئنة.",
+            "حين تكشف النتيجة عن خطر محدد يصبح الحوار أصعب. المرشد الجيني المتخصص مُدرَّب على إجراء هذه المحادثات بأسلوب حساس للسياق الأسري والثقافي، والاستعانة به خيار حقيقي لا رفاهية. في الدول التي تشحّ فيها هذه التخصصات يمكن اللجوء إلى استشارات طب عن بُعد مع متخصصين في الأردن ولبنان والإمارات والسعودية وهي متاحة بشكل متزايد."
+          ]
+        }
+      ],
+      "tie": "الاحتفاظ بالتاريخ الصحي لثلاثة أجيال من أسرتك في تطبيق سهتك بما يتضمن من أُصيب بأي حالة، يُوفر لأي متخصص تستشيره أسرع طريق للوصول إلى نصيحة دقيقة خاصة بعائلتك.",
+      "faqs": [
+        {
+          "q": "هل تشيع زيجات الأقارب في بعض الدول العربية أكثر من غيرها؟",
+          "a": "نعم، تتفاوت النسب تفاوتاً ملحوظاً. دول ذات معدلات مرتفعة وفق المسوحات السكانية تشمل الأردن واليمن والعراق والسودان، حيث كثيراً ما تتجاوز زيجات الأقارب من الدرجة الأولى أو الثانية ثلاثين إلى خمسين بالمئة في بعض المجتمعات. دول الخليج والمدن الكبرى في لبنان وسوريا تسجّل معدلات أقل لكن لا تزال ذات أهمية. وتتراجع المعدلات في المنطقة ككل في العقود الأخيرة مع ارتفاع نسب التحضر والوعي."
+        },
+        {
+          "q": "هل يزداد الخطر الوراثي إذا كان كلا الوالدَين هما أنفسهما من أبناء أقارب؟",
+          "a": "نعم. كل جيل من زيجات الأقارب يُركّز الجينات المشتركة أكثر. إذا كان ابنا العم اللذان يريدان الزواج هما أنفسهما أبناء زيجات قرابية أيضاً، فنسبة الجينات المشتركة بينهما أعلى من زوجين عاديين من ابني العم، وباتالي ترتفع احتمالية حمل كليهما للجين المعيب ذاته. يستطيع طبيب الوراثة حساب هذا بدقة من شجرة الأسرة المحددة."
+        },
+        {
+          "q": "أنجبنا أربعة أطفال أصحّاء، هل يعني ذلك غياب الخطر الوراثي؟",
+          "a": "إنجاب أطفال أصحّاء يُقلل احتمال أن يكون كلا الوالدَين حاملَين لنفس الجين المرتفع الخطورة، لكنه لا يُلغيه. حتى إذا كان كلاهما حاملَين لمرض متنحٍّ فلكل حمل باستقلالية تام احتمال ربع أن يكون الطفل مصاباً. إنجاب أربعة أطفال أصحّاء متتاليين وارد تماماً حتى لدى زوجين حاملَين مؤكَّدَين، وهذا لا يُغيّر احتمال الحمل القادم."
+        },
+        {
+          "q": "هل يوجد تحليل يُحدد الخطر الدقيق لأسرتنا تحديداً؟",
+          "a": "فحص الإكسوم أو الجينوم الكامل يستطيع تحديد الجينات المتنحية التي يحملها كل طرف وتُعطي صورة أدق بكثير من تقديرات خطر السكان العامة. هذا الفحص متاح بصورة متزايدة في المنطقة وإن بقيت تكلفته مرتفعة. وهو أنفع حين يوجد تاريخ أسري موجّه يساعد في تفسير النتائج. يستطيع طبيب الوراثة الإجابة على ما إذا كان هذا المستوى من الفحص مناسباً للزوجين المحددَين."
+        },
+        {
+          "q": "نحن ابنا عم من الدرجة الثانية لا الأولى، هل لا يزال الأمر ذا صلة؟",
+          "a": "الخطر عند ابني العم من الدرجة الثانية أقل بكثير من الدرجة الأولى. ابنا العم الثانيان يتشاركان نحو 3 بالمئة من جيناتهما مقارنةً بـ 12.5 بالمئة للدرجة الأولى. بالنسبة لابني العم من الدرجة الثانية دون تاريخ أسري لمرض متنحٍّ بعينه، الخطر الوراثي الإضافي صغير جداً وقد لا يستوجب فحصاً جينياً يتجاوز الفحص الاعتيادي قبل الزواج."
+        },
+        {
+          "q": "هل يمكن تخفيض الخطر الوراثي من الأقارب دون إجراء فحوصات؟",
+          "a": "ليس بشكل يُذكر. الصحة العامة قبل الحمل وحمض الفوليك وتجنب الكحول والتدخين تُخفف بعض أنواع التشوهات لكنها لا تُخفف خطر توارث الجينات المتنحية، لأن ذلك يتحدد بالجينات التي يحملها الوالدان. الطريقة الوحيدة للاطلاع على وضع الحامل هي الفحص الجيني."
+        },
+        {
+          "q": "ما موقف الإرشاد الجيني من الجانب الثقافي في هذه المسألة؟",
+          "a": "المرشد الجيني المتخصص مُدرَّب على التعامل مع السياق الثقافي والأسري بحساسية ودون إصدار أحكام. دوره توفير معلومات دقيقة وعرض الخيارات المتاحة، لا التوجيه في القرار الشخصي. الاستعانة به مفيدة خاصةً حين يجعل وجود مرض في الأسرة القرار أصعب."
+        }
+      ]
+    }
+  }
+}

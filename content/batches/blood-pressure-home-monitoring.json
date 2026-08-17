@@ -1,0 +1,395 @@
+{
+  "slug": "blood-pressure-home-monitoring",
+  "category": "lifestyle",
+  "chip_ar": "نمط الحياة",
+  "chip_en": "Lifestyle",
+  "date_iso": "2026-07-14",
+  "sources": [
+    {
+      "label": "Schutte AE, Kollias A, Stergiou GS et al: Blood pressure and its variability: classic and novel measurement techniques, Nature reviews. Cardiology, 2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35440738/"
+    },
+    {
+      "label": "Mizuno H, Choi E, Kario K et al: Diagnostic Accuracy of Office Blood Pressure Measurement and Home Blood Pressure Monitoring for Hypertension Screening Among Adults: Results From the IDH Study, Journal of the American Heart Association, 2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38084733/"
+    },
+    {
+      "label": "Singh M, Singh N, Pahuja H et al: White Coat Effect: Is It Because of the Hospital Setting, or Is It Physician-Induced?, Cureus, 2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37257162/"
+    },
+    {
+      "label": "Pickering TG, Miller NH, Ogedegbe G et al: Call to action on use and reimbursement for home blood pressure monitoring, Hypertension (Dallas, Tex.: 1979), 2008",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18497370/"
+    },
+    {
+      "label": "O'Brien E, Parati G, Stergiou G et al: European Society of Hypertension position paper on ambulatory blood pressure monitoring, Journal of hypertension, 2013",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24029863/"
+    },
+    {
+      "label": "Byrd JB, Brook RD: Arm position during ambulatory blood pressure monitoring: a review of the evidence and clinical guidelines, Journal of clinical hypertension (Greenwich, Conn.), 2014",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24467382/"
+    }
+  ],
+  "content": {
+    "ar": {
+      "title": "قياس ضغط الدم في المنزل: الطريقة الصحيحة",
+      "desc": "كيف تقيس ضغط الدم في المنزل بدقة: حجم الكفة، وضع الذراع، التوقيت، وسجل المتابعة. أخطاء شائعة تجعل القراءة مضللة.",
+      "keywords": "قياس ضغط الدم في المنزل, جهاز ضغط الدم, الضغط الطبيعي, كيفية قياس ضغط الدم, ضغط الدم المرتفع, متابعة الضغط, قراءة ضغط الدم, الكفة الصحيحة",
+      "h1": "كيف تقيس ضغط الدم في المنزل بشكل صحيح؟",
+      "takeaways": [
+        "معظم الناس يقيسون ضغطهم بطريقة خاطئة تجعل الرقم مضللا، وأبسط الأخطاء هو التحدث أو التحرك أثناء القياس.",
+        "الجلوس لخمس دقائق كاملة قبل القياس يُفرق فارقا حقيقيا في الرقم الذي تحصل عليه.",
+        "قياس يديك معا في البداية يكشف إن كانت هناك فجوة تحتاج إلى انتباه طبيب.",
+        "الأرقام التي تقيسها في البيت أهم طبيا من قراءة العيادة الواحدة، لأنها تعكس ضغطك الحقيقي.",
+        "لا تضبط دواءك وحدك بناء على قراءة واحدة، بل سجل أرقامك لعدة أيام وأحضرها لطبيبك."
+      ],
+      "sections": [
+        {
+          "h2": "لماذا تعتمد فقط على قراءة العيادة قد يكون مشكلة؟",
+          "paras": [
+            "عندما يذهب كثير من الناس إلى العيادة ويجدون أن ضغطهم مرتفع، يظنون أنهم يعانون من ارتفاع الضغط. لكن الواقع أن قراءة العيادة الواحدة تتأثر بعوامل كثيرة: التوتر من الانتظار، السرعة في الوصول، أو مجرد وجود طبيب أو ممرضة في الغرفة. هذه الظاهرة تُسمى ضغط المعطف الأبيض (White Coat Hypertension).",
+            "دراسة نشرت عام 2023 في مجلة الجمعية الأمريكية للقلب وجدت أن قياس الضغط في المنزل أدق بكثير من قراءة العيادة في تشخيص ارتفاع الضغط الحقيقي. وقياس المنزل يكشف أيضا ظاهرة مقلوبة تُسمى ضغط القناع (Masked Hypertension)، وهي ارتفاع ضغط حقيقي يظهر فقط خارج العيادة بينما تبدو قراءة العيادة طبيعية.",
+            "في بلدان مثل سوريا والعراق ومصر، حيث يصعب أحيانا الحصول على موعد طبي منتظم، يصبح قياس الضغط في المنزل أداة ضرورية لا رفاهية. لكن ليست المشكلة في عدم القياس، بل في القياس بطريقة خاطئة تعطي أرقاما لا يعتد بها."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "warn",
+            "title": "ضغط المعطف الأبيض: حين يرتفع الرقم في العيادة فقط",
+            "items": [
+              "الضغط يرتفع لدى كثيرين حين يرون طبيبا أو ممرضة، ويعود لطبيعته في المنزل",
+              "هذا لا يعني أن ضغطك طبيعي دائما، بل يعني أن قراءة العيادة وحدها غير كافية",
+              "قياس منتظم في المنزل هو الطريقة الوحيدة لمعرفة ضغطك الحقيقي"
+            ]
+          }
+        },
+        {
+          "h2": "كيف تختار الجهاز والكفة المناسبين؟",
+          "paras": [
+            "الجهاز الأفضل للاستخدام المنزلي هو جهاز الكفة التي تُوضع على الذراع العليا (فوق الكوع)، وليس جهاز المعصم. أجهزة المعصم أقل دقة لأن الموضع الصغير يتأثر بشكل كبير بأي حركة أو انحراف في الزاوية. اختر جهازا يحمل شهادة التحقق من الدقة من هيئة معترفة مثل British Hypertension Society.",
+            "حجم الكفة (Cuff Size) هو أهم قرار تتخذه عند شراء الجهاز، وهو السبب الأكثر شيوعا للحصول على قراءات مضللة. الكفة الصغيرة على ذراع كبير ترفع الرقم، والكبيرة على ذراع نحيل تخفضه. قِس محيط ذراعك بمنتصف الطريق بين كتفك ومرفقك. المحيط 22 إلى 32 سم يحتاج كفة صغيرة إلى متوسطة، و32 إلى 42 سم يحتاج كفة متوسطة إلى كبيرة، وما فوق 42 سم يحتاج كفة كبيرة جدا.",
+            "كثير من الأجهزة المتوفرة في الصيدليات المحلية في منطقتنا لا تحمل شهادات اعتماد دقة. إذا اشتريت جهازا محليا، يمكنك التحقق من دقته بأخذه معك إلى العيادة وقياس ضغطك بالجهازين متتاليين لمعرفة الفارق."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "اختيار حجم الكفة حسب محيط الذراع",
+            "head": ["محيط الذراع", "حجم الكفة المناسب", "ملاحظة"],
+            "rows": [
+              ["22 - 32 سم", "صغيرة", "مناسبة لكثير من النساء"],
+              ["32 - 42 سم", "متوسطة", "الحجم القياسي الأكثر شيوعا"],
+              ["42 - 50 سم", "كبيرة", "يجب التأكد من توفرها"],
+              ["فوق 50 سم", "كبيرة جدا", "اسأل الطبيب عن البديل"]
+            ]
+          }
+        },
+        {
+          "h2": "الطريقة الصحيحة خطوة بخطوة",
+          "paras": [
+            "قبل أي شيء آخر: اجلس هادئا لخمس دقائق كاملة قبل القياس. لا هاتف، لا حديث، لا صعود درج. الحركة البسيطة ترفع الضغط مؤقتا، والتوتر يفعل ذلك أيضا. هذه الخمس دقائق ليست اختيارية، هي شرط للحصول على قراءة موثوقة. كثيرون يتجاوزون هذه الخطوة لأنهم يستعجلون أو يظنون أن الجهاز يعوضها، لكن لا يوجد جهاز يُصحح خطأ عدم الراحة قبل القياس.",
+            "اجلس على كرسي مريح مع ظهرك مسنودا وقدماك مستويتان على الأرض. لا تجلس بساقين متقاطعتين لأن هذا يرفع الضغط. ضع ذراعك على الطاولة بحيث يكون مستوى الكفة قريبا من مستوى قلبك. الذراع المرفوع فوق مستوى القلب يُعطي قراءة أقل من الحقيقية، والمُنخفض يُعطي قراءة أعلى. هذا خطأ شائع جدا وله تأثير حقيقي موثق في الأبحاث، وتشير دراسة عام 2014 إلى أن وضع الذراع المُعلق يمكن أن يرفع القراءة بما يصل إلى 10 ملم زئبقي.",
+            "ضع الكفة على الذراع العليا مباشرة على الجلد، لا فوق الملابس. يجب أن تكون الحافة السفلية للكفة بمسافة اثنتين إلى ثلاثة سنتيمترات فوق ثنية الكوع. الكفة يجب أن تكون محكمة بما يكفي لإدخال إصبعين فقط تحتها. لا تتحدث ولا تتحرك ولا تضغط على الذراع خلال القياس. إذا كان الجهاز يأخذ قراءتين تلقائيا بفاصل دقيقة، خذ متوسط الاثنتين وسجّله."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "الطريقة الصحيحة لقياس ضغط الدم في المنزل",
+            "items": [
+              "امتنع عن الكافيين والتدخين لمدة 30 دقيقة قبل القياس",
+              "اجلس هادئا على كرسي مريح لمدة 5 دقائق كاملة قبل البدء",
+              "ضع ذراعك على الطاولة بحيث تكون الكفة في مستوى قلبك",
+              "ضع الكفة على الجلد مباشرة، لا فوق الملابس، 2 إلى 3 سم فوق الكوع",
+              "اضغط زر البدء ولا تتحدث ولا تتحرك حتى تنتهي الكفة",
+              "سجل القراءتين (الضغط الانقباضي والانبساطي) مع الوقت والتاريخ",
+              "كرر القياس مرة ثانية بعد دقيقة وخذ متوسط القراءتين"
+            ]
+          }
+        },
+        {
+          "h2": "متى تقيس وكم مرة؟",
+          "paras": [
+            "الوقت المثالي للقياس هو مرة في الصباح بعد الاستيقاظ وقبل تناول أي دواء أو طعام أو قهوة، ومرة في المساء قبل النوم. القياس في الصباح يكشف ضغطك الأساسي، والمساء يُظهر تأثير نشاطاتك اليومية. كلا الوقتين معا يعطيك صورة أكثر اكتمالا من قياس واحد منفرد.",
+            "إذا كان الطبيب يتابع ضغطك أو قد غير دواءك مؤخرا، فأفضل نظام هو قياس يومي لمدة أسبوع كامل، مرتين في الصباح ومرتين في المساء مع دقيقة فاصلة بين كل قراءتين، ثم تسليم السجل للطبيب. هذا يعطيه صورة أشمل من أي قراءة مكتبية واحدة. أوصت الجمعية الأمريكية للقلب عام 2008 بهذا النظام المنظم كمعيار أساسي لاتخاذ القرارات العلاجية.",
+            "إذا كان ضغطك مستقرا ولا يوجد تغيير في علاجك، قياس مرتين إلى ثلاث مرات في الأسبوع يكفي للمتابعة. التهوس بالقياس المتكرر طوال اليوم يُسبب قلقا غير ضروري لأن الضغط يتغير بشكل طبيعي بين اللحظات، والقلق نفسه يرفع الضغط، فتقع في دائرة مفرغة. حدد موعد قياس ثابت والتزم به."
+          ]
+        },
+        {
+          "h2": "هل تقيس الذراع اليمنى أم اليسرى؟",
+          "paras": [
+            "في أول مرة تقيس ضغطك في المنزل، قِس الذراعين معا في نفس الجلسة. إذا كان الفرق بين الذراعين 10 ملليمتر زئبقي أو أقل، فهذا طبيعي وتستخدم الذراع التي تعطي رقما أعلى بعد ذلك باستمرار لأن هذا يعكس ضغطك بشكل أدق. إذا كان الفرق أكثر من 10 إلى 15 ملليمتر زئبقي، أخبر طبيبك لأن فجوة كبيرة بين الذراعين قد تشير أحيانا إلى مشكلة في الدورة الدموية تستحق تقييما.",
+            "يميل معظم الناس إلى رفع ذراعهم بزاوية أو وضعها على ركبتهم بدلا من الطاولة، خاصة عند الجلوس على أريكة منخفضة. ورد في الأبحاث أن وضع الذراع المُعلق بدلا من المسنود على الطاولة يمكن أن يرفع قراءة الضغط بمقدار يصل إلى 10 ملم زئبقي. هذا خطأ يبدو بسيطا لكن تأثيره على القرار الطبي كبير، إذ قد يُفضي إلى تشخيص ارتفاع ضغط وهمي أو رفع جرعة دواء لا تحتاجها.",
+            "بعض الصيدليات في المنطقة توفر خدمة قياس الضغط على جهاز ثابت. هذه الأجهزة مفيدة لكنها تخضع لنفس قواعد الخطأ: إذا وضعت ذراعك بزاوية أو لم تجلس 5 دقائق قبلها، أو تحدثت مع الصيدلاني خلال القياس، ستحصل على رقم غير موثوق. استخدمها للاسترشاد لا للتشخيص."
+          ]
+        },
+        {
+          "h2": "كيف تفسر الأرقام التي تحصل عليها؟",
+          "paras": [
+            "قراءة ضغط الدم تتكون من رقمين: الضغط الانقباضي (Systolic) وهو الرقم الأعلى ويمثل الضغط حين ينقبض القلب، والضغط الانبساطي (Diastolic) وهو الرقم الأسفل ويمثل الضغط حين يرتاح القلب بين الضربات. تُكتب هكذا: 120/80 ملم زئبقي.",
+            "للبالغين في المنزل، الأرقام المرجعية تختلف قليلا عن قراءة العيادة. في المنزل، الضغط الطبيعي يعتبر أقل من 135/85. قراءة 135/85 أو أعلى باستمرار على مدة أيام يستحق مراجعة الطبيب. لا تستنتج شيئا من قراءة واحدة مرتفعة، لأن الضغط يرتفع مؤقتا بسبب الجهد أو التوتر أو حتى البرودة.",
+            "قراءة منخفضة بشكل غير معتاد مثل 90/60 أو أقل قد تشير إلى انخفاض الضغط وتسبب دوارا أو إغماء خاصة عند الوقوف المفاجئ. هذا يستحق ذكره للطبيب أيضا. لا تتخذ قرار تغيير الدواء أو جرعته بنفسك بناء على أرقام المنزل، بل سجّلها وأحضرها للطبيب في موعدك القادم."
+          ],
+          "visual": {
+            "type": "range-scale",
+            "title": "تصنيف قراءة ضغط الدم في المنزل (الضغط الانقباضي)",
+            "label": "الضغط الانقباضي",
+            "unit": "ملم زئبقي",
+            "min": 80,
+            "max": 180,
+            "zones": [
+              {"to": 100, "tone": "warn", "label": "منخفض"},
+              {"to": 135, "tone": "good", "label": "طبيعي"},
+              {"to": 150, "tone": "warn", "label": "مرتفع قليلا"},
+              {"to": 180, "tone": "bad", "label": "مرتفع"}
+            ],
+            "source": "European Society of Hypertension position paper on ambulatory blood pressure monitoring, 2013",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/24029863/"
+          }
+        },
+        {
+          "h2": "الأخطاء الأكثر شيوعا عند القياس في المنزل",
+          "paras": [
+            "القياس مباشرة بعد الاستيقاظ أو بعد المشي أو بعد تناول القهوة يعطي رقما مرتفعا لا يعكس ضغطك الحقيقي. التدخين وشرب الكافيين يرفعان الضغط لفترة وجيزة، لذا انتظر نصف ساعة على الأقل بعدهما. والتحدث أثناء القياس واضح في الأبحاث أنه يرفع القراءة.",
+            "كثيرون يضعون الكفة فوق كم القميص أو الكنزة. النسيج يضيف ضغطا يؤثر على القراءة. الحل بسيط: اكشف ذراعك أو ضع الكفة مباشرة تحت الكم الرفيع. ارتداء ملابس ضيقة يضغط الذراع ويؤثر بشكل مماثل.",
+            "عدم حفظ السجل مشكلة شائعة. كثيرون يقيسون ويرسلون الرقم بالواتساب أو ينسونه سريعا. إبقاء دفتر بسيط بجانب الجهاز أو استخدام تطبيق صحي يُبقيك أنت وطبيبك على نفس الصفحة، لأن الطبيب يحتاج إلى متوسط أرقام على مدة أيام لاتخاذ قرار علاجي مدروس."
+          ]
+        },
+        {
+          "h2": "متى تتصل بالطبيب فورا؟",
+          "paras": [
+            "قراءة واحدة مرتفعة جدا ليست سببا للذعر بالضرورة، لكنها تستحق إعادة القياس بعد عشر دقائق بعد الراحة التامة. إذا ظلت القراءة مرتفعة جدا مع أي من الأعراض الخطيرة، فهذا يتطلب طلب المساعدة الطبية فورا.",
+            "الضغط المرتفع جدا في غياب الأعراض أيضا يستحق تقييما طبيا في نفس اليوم أو اليوم التالي وليس الانتظار. أخبر طبيبك دائما إذا بدأت قراءاتك ترتفع تدريجيا على مدى أيام حتى مع غياب أي عرض.",
+            "إذا كنت تتناول دواء لضغط الدم ووجدت أن القراءات في المنزل مرتفعة باستمرار رغم الالتزام بالدواء، هذا يعني أن الجرعة أو نوع الدواء قد يحتاج إلى مراجعة، وليس أنك تتناول الدواء بشكل خاطئ. سجل القراءات وأحضرها للطبيب."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "اطلب المساعدة الطبية الفورية إذا كانت القراءة مرتفعة جدا مع أي من التالي",
+            "items": [
+              "صداع شديد مفاجئ لم تعرفه من قبل",
+              "تشوش في الرؤية أو رؤية بقع ضوئية",
+              "ألم في الصدر أو ضيق في التنفس",
+              "تنميل أو ضعف مفاجئ في وجه أو ذراع أو ساق",
+              "صعوبة في الكلام أو فهم الكلام"
+            ]
+          }
+        },
+        {
+          "h2": "سجل المتابعة: لماذا هو مهم وكيف تحتفظ به؟",
+          "paras": [
+            "الطبيب الذي يرى جدولا من 14 قراءة موثقة على مدة أسبوع في ظروف قياس سليمة يملك معلومات أفضل بكثير مما يراه في قراءة عيادة واحدة محاطة بتوتر الانتظار. هذا ليس رأيا، بل ما توصي به إرشادات الجمعية الأوروبية لارتفاع ضغط الدم في ورقتها الموضعية المنشورة عام 2013، التي نصّت على أن قياس المنزل المنظم هو المعيار المرجعي لتوجيه العلاج.",
+            "السجل البسيط يشمل: التاريخ، الوقت، القراءة الأولى والثانية (مع دقيقة بينهما)، وأي ملاحظة مهمة مثل يوم نسيت فيه الدواء أو يوم كنت متوترا بشكل غير عادي أو مريضا. لا تحذف القراءات المرتفعة من السجل لأنها تزعجك، فهي جزء من الصورة الكاملة، وإخفاؤها قد يؤدي إلى ارتفاع ضغط غير مُعالج بشكل كافٍ.",
+            "إذا كنت تستخدم تطبيق صحي يحفظ قراءاتك ويعرض متوسطها ويرسم منحنى تطورها مع الوقت، فهذا يوفر لك ولطبيبك رؤية واضحة لاتجاه ضغطك. يمكنك تصدير هذه البيانات أو أخذ لقطة شاشة للموعد الطبي القادم. متوسط الأسبوع الذي يراه الطبيب أكثر قيمة من رقم مفرد أجريته قبل الموعد بعشر دقائق في قلب ازدحام العيادة."
+          ]
+        }
+      ],
+      "tie": "مع تطبيق صحتك يمكنك تسجيل قراءات ضغط دمك اليومية وتتبع متوسطها الأسبوعي وعرضها في رسم بياني واضح. المساعد الذكي يساعدك على تفسير ما تراه، ويذكرك بمواعيد القياس المنتظمة. سجل قراءتك اليوم وابدأ بناء الصورة الكاملة التي يحتاجها طبيبك.",
+      "faqs": [
+        {
+          "q": "هل الجهاز الرقمي في المنزل دقيق مثل جهاز العيادة؟",
+          "a": "الأجهزة المنزلية المعتمدة دقيقة وموثوقة متى كانت تحمل شهادة التحقق من منظمة معترفة. المشكلة الرئيسية ليست في الجهاز، بل في طريقة استخدامه. الجلوس غير السليم أو الكفة غير المناسبة يُفسد القراءة حتى مع أفضل الأجهزة."
+        },
+        {
+          "q": "لماذا تختلف قراءتا الصباح والمساء؟",
+          "a": "الضغط يتغير بشكل طبيعي طوال اليوم. يكون أعلى قليلا في الصباح عند الاستيقاظ ويرتفع مع النشاط والتوتر وينخفض مع الراحة والنوم. هذا التذبذب طبيعي تماما. ما يهم هو المتوسط على مدى أيام وليس رقما واحدا مفردا."
+        },
+        {
+          "q": "هل يمكنني قياس الضغط مرات كثيرة في اليوم؟",
+          "a": "قياس مرتين أو ثلاث يوميا يكفي وأفضل من القياس المتكرر. التهوس بالأرقام يسبب قلقا يرفع الضغط بحد ذاته. إذا كنت تتابع علاجا جديدا، اتفق مع طبيبك على نظام قياس محدد."
+        },
+        {
+          "q": "ما الفرق بين الرقمين في القراءة، مثل 120/80؟",
+          "a": "الرقم الأعلى هو الضغط الانقباضي (Systolic) ويقيس قوة القلب حين ينقبض ويضخ الدم. الرقم الأسفل هو الانبساطي (Diastolic) ويقيس الضغط حين يرتاح القلب بين الضربات. كلاهما مهم ويجب على طبيبك تقييمهما معا."
+        },
+        {
+          "q": "هل أحتاج جهاز قياس ضغط لو ضغطي طبيعي؟",
+          "a": "القياس الدوري مفيد حتى لمن ليس لديه ارتفاع ضغط، لأن ارتفاع الضغط غالبا لا يُسبب أعراضا في بدايته. وجود سجل قياسات يساعد طبيبك على اكتشاف أي تغير مبكرا. القياس مرة كل عدة أشهر يكفي للشخص السليم."
+        },
+        {
+          "q": "هل جهاز المعصم أقل دقة من جهاز الذراع؟",
+          "a": "نعم بشكل عام. أجهزة المعصم أكثر حساسية للموضع والحركة وقد تعطي قراءات أعلى أو أقل بشكل ملحوظ إذا لم يكن المعصم في مستوى القلب بالضبط. أجهزة الذراع العليا أكثر موثوقية للاستخدام اليومي."
+        },
+        {
+          "q": "هل يمكنني تغيير جرعة دواء الضغط بناء على قراءات المنزل؟",
+          "a": "لا. تعديل الدواء قرار طبي يعتمد على تقييم كامل لا على أرقام المنزل وحدها. ما تفعله هو تسجيل القراءات وإحضارها للطبيب. لا تزيد الجرعة ولا تخفضها ولا توقف الدواء من تلقاء نفسك."
+        }
+      ]
+    },
+    "en": {
+      "title": "How to Measure Blood Pressure at Home Correctly",
+      "desc": "Most home blood pressure readings are taken wrong, making them useless or misleading. Learn the right technique, cuff size, timing, and how to keep a log your doctor can use.",
+      "keywords": "home blood pressure monitoring, blood pressure machine, correct technique, cuff size, white coat hypertension, blood pressure log, systolic diastolic, hypertension home reading",
+      "h1": "Home Blood Pressure Monitoring: How to Get Readings You Can Actually Trust",
+      "takeaways": [
+        "Most home readings contain avoidable errors, and the most common one is not sitting quietly for five minutes before measuring.",
+        "Cuff size is the biggest single source of error: a cuff too small for your arm gives a falsely high reading.",
+        "Measuring both arms once at the start tells you whether there is a difference worth reporting to your doctor.",
+        "Home readings taken correctly are more clinically useful than a single clinic reading, because they reflect your true daily blood pressure.",
+        "Never adjust your medication based on home readings alone. Record them and bring them to your appointment."
+      ],
+      "sections": [
+        {
+          "h2": "Why a single clinic reading may not tell you the truth",
+          "paras": [
+            "Many people leave a clinic with a high blood pressure reading and assume they have hypertension. But a single clinic measurement is affected by many things: the stress of waiting, rushing to get there, or simply the presence of a doctor or nurse in the room. This phenomenon is well documented and is called white coat hypertension.",
+            "A 2023 study published in the Journal of the American Heart Association found that home blood pressure monitoring was significantly more accurate than clinic readings for diagnosing true hypertension. Home readings also reveal the opposite problem called masked hypertension, which is a genuinely high blood pressure that appears normal in the clinic but is elevated at home.",
+            "In countries like Egypt, Syria, Jordan and Iraq, where access to regular medical appointments can be difficult, home monitoring becomes an essential tool rather than an optional extra. The problem is not that people do not measure at home. The problem is that most of them measure incorrectly and the number they record cannot be trusted."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "warn",
+            "title": "White coat hypertension: when your number rises only in the clinic",
+            "items": [
+              "Many people's blood pressure rises when they see a doctor or nurse, and returns to normal at home",
+              "This does not mean your blood pressure is always fine, it means a single clinic reading is not enough",
+              "Regular correct home monitoring is the only way to know your true baseline"
+            ]
+          }
+        },
+        {
+          "h2": "Choosing the right device and cuff size",
+          "paras": [
+            "The most reliable device for home use is an upper-arm cuff monitor, not a wrist device. Wrist monitors are more sensitive to position and movement and consistently perform less well in clinical validation studies. Choose a device that has been validated by a recognised body such as the British Hypertension Society or the European Society of Hypertension.",
+            "Cuff size is the most important decision you will make when buying a monitor, and wrong cuff size is the most common reason for misleading readings. A cuff that is too small for a large arm gives a falsely high reading, and one that is too large for a thin arm gives a falsely low reading. Measure the circumference of your upper arm halfway between your shoulder and your elbow. A circumference of 22 to 32 cm needs a small-to-medium cuff, 32 to 42 cm needs a medium-to-large cuff, and above 42 cm needs a large cuff.",
+            "Many devices sold in local pharmacies across the region are not clinically validated. If you buy a local device, you can check its accuracy by taking it to a clinic appointment and measuring on both devices in sequence. A consistent difference of more than 5 mmHg suggests the home device needs replacing."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Choosing cuff size by upper arm circumference",
+            "head": ["Arm circumference", "Cuff size needed", "Note"],
+            "rows": [
+              ["22 - 32 cm", "Small", "Fits many women and lighter builds"],
+              ["32 - 42 cm", "Medium (standard)", "The most widely available size"],
+              ["42 - 50 cm", "Large", "Confirm availability before buying"],
+              ["Above 50 cm", "Extra large", "Ask your doctor about alternatives"]
+            ]
+          }
+        },
+        {
+          "h2": "The correct technique, step by step",
+          "paras": [
+            "Before anything else: sit quietly for a full five minutes before you measure. No phone, no conversation, no walking up stairs just before. Physical movement and mental stress both raise blood pressure temporarily, and that temporary rise will be what your device records if you skip this step. The five minutes are not optional, they are a clinical requirement for a reliable reading.",
+            "Sit in a supportive chair with your back rested and both feet flat on the floor, not crossed. Place your arm on a table so that the cuff sits at roughly the same height as your heart. Research has shown that a dangling, unsupported arm can raise a reading by as much as 10 mmHg compared with a properly supported one. This is one of the most commonly ignored instructions in home monitoring.",
+            "Place the cuff on bare skin, not over clothing. Position the bottom edge of the cuff two to three centimetres above the crease of the elbow. The cuff should be snug but you should be able to slide two fingers underneath it. Do not talk or move during the measurement. If your device makes two automatic readings a minute apart, use the average of the two."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "Correct home blood pressure measurement, step by step",
+            "items": [
+              "Avoid caffeine and smoking for at least 30 minutes before measuring",
+              "Sit in a supported chair and rest quietly for 5 full minutes",
+              "Place your arm on a table so the cuff is at heart level",
+              "Apply the cuff to bare skin, 2 to 3 cm above the elbow crease",
+              "Press start and stay still and silent until the reading is complete",
+              "Record both numbers (systolic and diastolic) with the date and time",
+              "Repeat after one minute and take the average of the two readings"
+            ]
+          }
+        },
+        {
+          "h2": "When to measure and how often",
+          "paras": [
+            "The most useful times to measure are once in the morning before taking any medication, eating, or drinking coffee, and once in the evening before bed. Morning readings reflect your resting baseline. Evening readings show how your day's activity has affected your pressure.",
+            "If your doctor has recently changed your medication, the best approach is daily measurement for a full week, with two readings in the morning and two in the evening each day, then handing the logbook to your doctor at the next appointment. A 2008 American Heart Association joint statement specifically recommended structured home monitoring as the standard for guiding treatment decisions.",
+            "If your blood pressure is stable and your treatment has not changed, measuring two or three times a week is enough to stay on top of it. Measuring repeatedly throughout the day out of anxiety is counterproductive: it raises stress, and stress raises blood pressure. Choose a schedule and stick to it."
+          ]
+        },
+        {
+          "h2": "Which arm should you use?",
+          "paras": [
+            "When you first start home monitoring, measure both arms on the same occasion. A difference of 10 mmHg or less between arms is normal. Use the arm with the higher reading consistently from then on. If the difference is more than 10 to 15 mmHg, mention it to your doctor because a consistent large difference between arms can sometimes indicate a circulation issue worth investigating.",
+            "A 2014 review in the Journal of Clinical Hypertension confirmed that arm position is one of the most underappreciated sources of error in blood pressure measurement. The arm needs to be supported, not held up by muscle tension or resting on the knee, because a dangling or tensed arm produces readings that are meaningfully different from a supported one.",
+            "Pharmacy devices, where you sit at a machine and press a button, are subject to exactly the same rules. If you did not sit quietly for five minutes first, if your arm is angled downward in the device, or if you are talking to the pharmacist during the reading, the number you get tells you very little."
+          ]
+        },
+        {
+          "h2": "How to read and understand your numbers",
+          "paras": [
+            "A blood pressure reading has two numbers. The higher number is the systolic pressure (Systolic), which measures the pressure as the heart contracts and pushes blood out. The lower number is the diastolic pressure (Diastolic), which measures the pressure as the heart rests between beats. They are written as 120/80 mmHg.",
+            "For adults at home, the reference values differ slightly from clinic thresholds. A home reading consistently below 135/85 mmHg is considered normal. A home reading of 135/85 or above on repeated measurements over several days warrants a conversation with your doctor. Do not draw conclusions from a single elevated reading, because blood pressure rises naturally with exertion, stress, cold temperatures, and a full bladder.",
+            "A consistently low reading, around 90/60 mmHg or below, can also be significant. Low blood pressure may cause dizziness particularly on standing up suddenly, or fainting. If you notice this pattern, mention it to your doctor. As with high readings, do not adjust any medication yourself based on home numbers alone."
+          ],
+          "visual": {
+            "type": "range-scale",
+            "title": "Home blood pressure classification (systolic reading)",
+            "label": "Systolic BP",
+            "unit": "mmHg",
+            "min": 80,
+            "max": 180,
+            "zones": [
+              {"to": 100, "tone": "warn", "label": "Low"},
+              {"to": 135, "tone": "good", "label": "Normal"},
+              {"to": 150, "tone": "warn", "label": "Elevated"},
+              {"to": 180, "tone": "bad", "label": "High"}
+            ],
+            "source": "European Society of Hypertension position paper on ambulatory blood pressure monitoring, 2013",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/24029863/"
+          }
+        },
+        {
+          "h2": "The most common mistakes and how to avoid them",
+          "paras": [
+            "Measuring immediately after waking up, after walking, or after drinking coffee produces a temporarily elevated reading that does not reflect your true pressure. Caffeine and smoking raise blood pressure for around 30 minutes, so wait before measuring. Talking during the measurement is a well-documented error that inflates the reading measurably.",
+            "Placing the cuff over a thick sleeve is another very common mistake. Fabric adds pressure on the arm and changes the reading in an unpredictable direction. The fix is simple: roll up the sleeve or place the cuff under thin clothing. Tight clothing that compresses the arm above the cuff has a similar distorting effect.",
+            "Failing to keep a log is perhaps the most consequential error of all. Many people measure, glance at the number, and forget it within hours. A simple notebook kept next to the device, or a health app that records and charts readings, gives you and your doctor the averaged picture needed to make sound treatment decisions. Your doctor needs a trend, not a single data point."
+          ]
+        },
+        {
+          "h2": "When to call your doctor urgently",
+          "paras": [
+            "A single very high reading is not automatically an emergency if you feel completely well, but it does warrant re-measuring after ten minutes of complete rest. If the reading remains very high alongside any of the warning signs below, seek medical help immediately rather than waiting.",
+            "A blood pressure reading above 180/120 mmHg even without symptoms should prompt a same-day or next-day medical evaluation rather than watchful waiting at home. If your readings have been climbing gradually over several days even without reaching that level, that pattern is also worth reporting to your doctor promptly.",
+            "If you are on blood pressure medication and your home readings are consistently high despite taking your tablets as prescribed, this is a signal that the dose or type of medication may need reviewing, not that you are taking it wrongly. Record the readings systematically and bring the log to your appointment."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "Call for urgent medical help if a very high reading comes with any of these",
+            "items": [
+              "A sudden severe headache unlike any you have had before",
+              "Blurred vision or flashing lights",
+              "Chest pain or difficulty breathing",
+              "Sudden weakness or numbness in a face, arm, or leg",
+              "Difficulty speaking or understanding speech"
+            ]
+          }
+        },
+        {
+          "h2": "Keeping a log your doctor can use",
+          "paras": [
+            "A doctor who sees a table of 14 properly recorded home readings taken over a week under correct conditions has far better clinical information than they get from a single clinic measurement surrounded by waiting-room stress. The European Society of Hypertension's 2013 position paper on blood pressure monitoring made this point clearly, recommending structured home monitoring as the reference standard for guiding treatment.",
+            "A useful log includes the date, time, both readings, and a brief note for anything unusual, such as a day you forgot your medication, a stressful event, or a period of illness. Do not delete the high readings because they worry you. They are part of the picture, and hiding them from your doctor can lead to undertreated hypertension.",
+            "If you use a health app that stores your readings, calculates a weekly average, and displays a trend line, you can share that chart directly with your doctor. A visual trend over time tells a much clearer story than a list of numbers and makes clinic time considerably more productive."
+          ]
+        }
+      ],
+      "tie": "Sihtak lets you log your blood pressure readings each day, see your weekly average at a glance, and track how your numbers change over time. The AI assistant can help you understand what a reading means in plain language, and you can set reminders for your morning and evening measurements. Start your log today and build the picture your doctor needs.",
+      "faqs": [
+        {
+          "q": "Is a home digital monitor as accurate as the clinic machine?",
+          "a": "A clinically validated home monitor is accurate and reliable when used correctly. The main source of error is not the machine but the technique. Incorrect posture, wrong cuff size, or not resting beforehand can skew a reading even with the best device on the market."
+        },
+        {
+          "q": "Why do my morning and evening readings differ?",
+          "a": "Blood pressure varies naturally across the day and is generally higher in the morning, rises with activity and stress, and falls with rest and sleep. This variation is normal and expected. What matters clinically is the average trend across multiple days, not any single reading."
+        },
+        {
+          "q": "Can I measure more than twice a day?",
+          "a": "Two or three readings a day is enough for most people. Measuring repeatedly throughout the day out of anxiety is counterproductive because the anxiety itself raises blood pressure. If your doctor has asked for a specific monitoring schedule, follow that."
+        },
+        {
+          "q": "What is the difference between the two numbers in a reading?",
+          "a": "The top number is the systolic pressure, measuring the force when the heart beats. The bottom number is the diastolic pressure, measuring the force when the heart rests between beats. Both numbers matter, and your doctor interprets them together rather than in isolation."
+        },
+        {
+          "q": "Do I need a blood pressure monitor if my readings are always normal?",
+          "a": "Periodic checking is worthwhile even without known hypertension, because high blood pressure usually causes no symptoms in its early stages. Having a baseline record helps your doctor notice a change before it becomes a problem. Checking every few months is reasonable for someone with no risk factors."
+        },
+        {
+          "q": "Is a wrist monitor less accurate than an upper-arm device?",
+          "a": "Yes, generally. Wrist monitors are more sensitive to position and any slight angle difference between the wrist and the heart significantly affects the reading. Upper-arm devices are more forgiving and produce more consistent results in daily use."
+        },
+        {
+          "q": "Can I change my blood pressure medication dose based on home readings?",
+          "a": "No. Adjusting medication is a medical decision that requires a full clinical assessment, not home numbers alone. Your role is to record readings accurately and bring them to your appointment. Never increase, decrease, or stop a prescribed medication without speaking to your doctor first."
+        }
+      ]
+    }
+  }
+}

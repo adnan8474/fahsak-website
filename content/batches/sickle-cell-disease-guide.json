@@ -1,0 +1,335 @@
+{
+  "slug": "sickle-cell-disease-guide",
+  "category": "genetic-conditions",
+  "chip_ar": "أمراض وراثية",
+  "chip_en": "Genetic conditions",
+  "date_iso": "2026-07-24",
+  "sources": [
+    {"label": "Memish ZA, Owaidah TM, Saeedi MY et al: Marked regional variations in the prevalence of sickle cell disease and beta-thalassemia in Saudi Arabia: findings from the premarital screening and genetic counseling program, Journal of epidemiology and global health, 2011", "url": "https://pubmed.ncbi.nlm.nih.gov/23856375/"},
+    {"label": "Memish ZA, Saeedi MY: Six-year outcome of the national premarital screening and genetic counseling program for sickle cell disease and beta-thalassemia in Saudi Arabia, Annals of Saudi medicine, 2011", "url": "https://pubmed.ncbi.nlm.nih.gov/21623050/"},
+    {"label": "Darbari DS, Sheehan VA, Ballas SK et al: The vaso-occlusive pain crisis in sickle cell disease: Definition, pathophysiology, and management, European journal of haematology, 2020", "url": "https://pubmed.ncbi.nlm.nih.gov/32301178/"},
+    {"label": "Yawn BP, Buchanan GR, Afenyi-Annan AN et al: Management of sickle cell disease: summary of the 2014 evidence-based report by expert panel members, JAMA, 2014", "url": "https://pubmed.ncbi.nlm.nih.gov/25203083/"},
+    {"label": "Riley C, Kraft WK, Miller R et al: Hydroxyurea in the sickle cell disease modern era, Expert review of clinical pharmacology, 2024", "url": "https://pubmed.ncbi.nlm.nih.gov/39135533/"},
+    {"label": "Inusa BPD, Hsu LL, Kohli N et al: Sickle Cell Disease-Genetics, Pathophysiology, Clinical Presentation and Treatment, International journal of neonatal screening, 2019", "url": "https://pubmed.ncbi.nlm.nih.gov/33072979/"},
+    {"label": "World Health Organization: Sickle cell disease fact sheet", "url": "https://www.who.int/news-room/fact-sheets/detail/sickle-cell-disease"}
+  ],
+  "content": {
+    "ar": {
+      "title": "مرض الخلايا المنجلية: الأزمات والرعاية والكشف عن الحاملين",
+      "desc": "دليل شامل عن مرض الخلايا المنجلية في السعودية والخليج: أسباب أزمات الألم ومحفزاتها، وعلاج الهيدروكسيوريا، وأهمية فحص الكشف قبل الزواج.",
+      "keywords": "مرض الخلايا المنجلية، الأنيميا المنجلية، أزمة المنجلية، الهيدروكسيوريا، الخلايا المنجلية السعودية، حامل الخلايا المنجلية، فحص الخلايا المنجلية",
+      "h1": "مرض الخلايا المنجلية: فهم الأزمات والرعاية وخيارات الكشف المبكر",
+      "takeaways": [
+        "مرض الخلايا المنجلية مرض وراثي ينتج عن تغيّر في شكل كريات الدم الحمراء مما يعيق تدفق الدم في الأوعية الدقيقة ويسبب نوبات ألم شديدة.",
+        "أزمات الألم تحركها عوامل يمكن تجنب بعضها: الجفاف والبرد الشديد والمجهود البدني الزائد والعدوى والتوتر النفسي.",
+        "الهيدروكسيوريا (Hydroxyurea) دواء موثوق يقلل تكرار الأزمات ويحسن جودة الحياة بشكل ملموس عند الغالبية.",
+        "حامل الصفة المنجلية (Sickle Cell Trait) لا يعاني من المرض في الغالب، لكن إذا تزوج من حامل آخر فاحتمال إصابة أطفالهم بالمرض الكامل هو 25%.",
+        "الكشف المبكر عند الولادة يسمح ببدء الرعاية الوقائية قبل ظهور المضاعفات."
+      ],
+      "sections": [
+        {
+          "h2": "ما هو مرض الخلايا المنجلية؟",
+          "paras": [
+            "مرض الخلايا المنجلية (Sickle Cell Disease) اضطراب وراثي يمس الهيموغلوبين (Hemoglobin)، وهو البروتين في كريات الدم الحمراء المسؤول عن نقل الأكسجين. الخلل يجعل جزيء الهيموغلوبين غير مستقر عند انخفاض الأكسجين، فتتشوه كريات الدم الحمراء وتأخذ شكل المنجل أو الهلال بدلاً من شكلها الكروي المرن الطبيعي. المرض يُورَث بنمط صبغي جسمي متنحٍّ، أي يحتاج إلى نسختين معيبتين من الجين ليظهر المرض الكامل.",
+            "الكريات المشوهة صلبة وهشة وتعيش أسابيع بدلاً من أشهر الطبيعية البالغة مئة وعشرين يوماً، مما يسبب فقر الدم المزمن. لكن مشكلتها الأكبر أنها تعلق في الأوعية الدموية الدقيقة وتسد مجرى الدم، فيُحرَم النسيج من الأكسجين ويحدث ما يسمى الأزمة الانسدادية (Vaso-occlusive Crisis) وهي مصدر الألم الشديد الذي يميز هذا المرض.",
+            "المرض ينتشر بشكل ملحوظ في المناطق التي عرفت تاريخياً تفشياً للملاريا، لأن الصفة المنجلية توفر حماية نسبية من الملاريا الحادة. في منطقة الخليج العربي، وخاصة المنطقة الشرقية من السعودية والبحرين وعُمان وأجزاء من الكويت واليمن، تُعدّ نسبة الحاملين للصفة المنجلية من بين الأعلى في العالم.",
+            "هناك أكثر من شكل لمرض الخلايا المنجلية. الشكل الأكثر شيوعاً وشدة هو HbSS حيث يرث الشخص نسختين منجليتين. لكن هناك أيضاً HbSC وHbS-بيتا ثلاسيميا وغيرها، وكلها تسبب أعراضاً تتفاوت في شدتها. التحليل الجيني الدقيق يُحدد النوع وبالتالي توقعات مسار المرض."
+          ],
+          "visual": {
+            "type": "stats",
+            "items": [
+              {"value": "25%", "label": "احتمال إصابة الطفل بالمرض الكامل إذا كان كلا والديه حاملاً", "tone": "bad"},
+              {"value": "50%", "label": "احتمال أن يكون الطفل حاملاً للصفة فقط في نفس الوضع", "tone": "warn"},
+              {"value": "25%", "label": "احتمال أن يكون الطفل سليماً تماماً", "tone": "good"}
+            ]
+          }
+        },
+        {
+          "h2": "الانتشار في المنطقة العربية: المنطقة الشرقية والخليج",
+          "paras": [
+            "نشر باحثون سعوديون عام 2011 في مجلة Journal of Epidemiology and Global Health تحليلاً لنتائج برنامج الفحص قبل الزواج في المملكة، وأظهرت البيانات تفاوتاً صارخاً بين المناطق. المنطقة الشرقية سجّلت أعلى معدلات حاملي الصفة المنجلية، حيث تجاوزت النسبة في بعض المجموعات السكانية في المنطقة 30%. في المقابل، كانت النسب أقل بكثير في منطقة نجد والمنطقة الشمالية.",
+            "على مستوى الخليج، تُعاني البحرين وعُمان أيضاً من نسب مرتفعة مقارنة بالمتوسط العالمي. في الجزء الجنوبي من الجزيرة العربية وفي اليمن، المرض موجود بصورة ملموسة لكن البيانات الدقيقة أقل توفراً. أما في بلاد الشام كسوريا والأردن ولبنان فالمرض موجود لكن بنسب أقل مما في الخليج.",
+            "أسفر برنامج الفحص قبل الزواج السعودي الذي بدأ عام 2004 عن نتائج مهمة جُمعت في دراسة ثانية للباحثين ذاتهم نشرت في مجلة Annals of Saudi Medicine عام 2011، إذ تبيّن أن البرنامج نجح في تقليل ولادات الأطفال المصابين بالمرض الكامل بصورة ملموسة على مدى ستة أعوام.",
+            "هذا النجاح لم يأتِ بمجرد الفحص، بل باقترانه بالاستشارة الوراثية التي تُوضح للزوجين المحتملين حجم الخطر الفعلي وخياراتهم. الفحص دون استشارة وراثية معلومة ناقصة قد تُحدث قلقاً دون توجيه حقيقي."
+          ]
+        },
+        {
+          "h2": "كيف تحدث أزمة الألم وما محفزاتها؟",
+          "paras": [
+            "أزمة الألم هي السبب الأول لدخول مرضى الخلايا المنجلية إلى المستشفى، وهي تحدث حين تتجمع الكريات المنجلية الصلبة في الأوعية الدموية الدقيقة فتسدها وتمنع وصول الأكسجين للعضو الذي تغذيه. الألم يكون نابضاً أو حارقاً ويمكن أن يصيب العظام والمفاصل والصدر والبطن. في الأطفال الصغار يكون أول تجليات المرض أحياناً ورم مؤلم في اليدين والقدمين يسمى متلازمة يد-قدم.",
+            "بعض المحفزات يمكن تجنبها بوعي وتخطيط. الجفاف يزيد لزوجة الدم ويرفع خطر الانسداد، لهذا شرب الماء بكميات كافية طوال اليوم أمر غير قابل للتفاوض للمريض المنجلي. البرد الشديد يسبب انقباض الأوعية الدموية مما يتيح فرصة أكبر للانسداد. المجهود البدني المفرط وارتفاع الطقس في الصيف وقلة الأكسجين على الارتفاعات العالية كلها محفزات موثقة.",
+            "العدوى البكتيرية من أخطر المحفزات وأشدها شيوعاً. المرضى المنجليون معرضون بشكل خاص لعدوى الكائنات المكوّنة للكبسولة كالمكورة الرئوية (Streptococcus pneumoniae)، وهذا هو السبب في أن التطعيم ضد المكورة الرئوية والنزلة الشتوية والتهاب السحايا ضروري وليس اختيارياً لهؤلاء المرضى. البنسلين الوقائي يُعطى للأطفال الصغار المصابين لحمايتهم من هذه العدوى."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "محفزات أزمة الألم وكيفية تجنبها",
+            "head": ["المحفّز", "لماذا يُحرّك الأزمة", "الاحتياط العملي"],
+            "rows": [
+              ["الجفاف", "يزيد لزوجة الدم", "اشرب الماء بانتظام حتى في غياب العطش"],
+              ["البرد الشديد", "يُضيّق الأوعية الدموية", "التدفئة المناسبة والتحرك من الأماكن الباردة"],
+              ["العدوى", "تحفز تشوه الكريات", "مواعيد التطعيم والمعالجة الفورية للحمى"],
+              ["المجهود الشديد", "ينخفض الأكسجين في العضلات", "الرياضة المعتدلة مع الإماهة الجيدة"],
+              ["التوتر النفسي", "يؤثر على الأوعية الدموية", "تقنيات الاسترخاء والدعم النفسي"]
+            ]
+          }
+        },
+        {
+          "h2": "مضاعفات بعيدة المدى تستحق الانتباه",
+          "paras": [
+            "بجانب أزمات الألم، يعاني بعض مرضى الخلايا المنجلية من مضاعفات تصيب أعضاء متعددة على مدار السنوات. السكتة الدماغية (Stroke) تصيب ما يقارب 11% من المرضى قبل سن العشرين إذا لم يُعالجوا بشكل كافٍ، وهي مضاعفة خطيرة لأنها تترك عجزاً دائماً. الكشف المبكر عبر قياس سرعة تدفق الدم في الدماغ بالأمواج فوق الصوتية (Transcranial Doppler) يسمح بالتدخل قبل حدوث السكتة.",
+            "الرئة المنجلية الحادة (Acute Chest Syndrome) هي حالة طارئة تشبه الالتهاب الرئوي وتتطلب عناية فورية. تظهر بألم في الصدر وحمى وصعوبة في التنفس، وهي مسؤولة عن نسبة كبيرة من الوفيات المرتبطة بالمرض. التعرف عليها والتعامل معها كحالة طارئة حقيقية أمر بالغ الأهمية.",
+            "الكلى والعيون والمفاصل والجهاز التناسلي عند الذكور كلها قد تتأثر على المدى البعيد. التقييم الدوري لهذه الأعضاء بانتظام جزء لا يتجزأ من متابعة المريض المنجلي مع الفريق الطبي المتخصص."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "توجّه إلى غرفة الطوارئ فوراً إذا",
+            "items": [
+              "ارتفعت الحرارة فوق 38.5 درجة مئوية لدى مريض منجلي معروف",
+              "ظهرت أعراض سكتة دماغية: ضعف مفاجئ في وجه أو يد أو ساق، اضطراب الكلام، انحراف الفم",
+              "حدث ألم شديد في الصدر مع ضيق التنفس أو تراجع درجة الأكسجين",
+              "أُصيب طفل منجلي رضيع بحمى مهما كان مستواها",
+              "امتد الألم للبطن مع صلابة البطن أو الإغماء"
+            ]
+          }
+        },
+        {
+          "h2": "دور الهيدروكسيوريا في تقليل الأزمات",
+          "paras": [
+            "الهيدروكسيوريا (Hydroxyurea) هو الدواء الأكثر استخداماً في علاج مرض الخلايا المنجلية منذ عقود. آلية عمله الرئيسية هي تحفيز الجسم على إنتاج الهيموغلوبين الجنيني (Hemoglobin F)، وهو نوع من الهيموغلوبين يُقلل تشوه الكريات ويخفف الانسداد. النتيجة العملية هي تقليل عدد أزمات الألم في السنة وتراجع الحاجة إلى نقل الدم وانخفاض حوادث الرئة المنجلية الحادة.",
+            "مراجعة علمية نشرت في مجلة Expert Review of Clinical Pharmacology عام 2024 وصفت الهيدروكسيوريا بأنه حجر الأساس في علاج الخلايا المنجلية في العصر الحديث، مع أدلة على تحسين جودة الحياة وتقليل الوفيات المبكرة. لكن الدواء يحتاج وقتاً للعمل، ونتائجه تظهر عادة بعد ثلاثة إلى ستة أشهر من الاستخدام المنتظم. من المهم التعامل مع هذه الفترة بصبر وعدم الحكم على الدواء قبل أن تمر ستة أشهر.",
+            "الهيدروكسيوريا يُؤثر على إنتاج الخلايا الدموية عموماً، لذا يحتاج المريض متابعة دورية لصورة الدم الكاملة (CBC) للتأكد من بقاء الكريات البيض وصفائح الدم ضمن حدود آمنة. لا تتوقف عن أخذ الدواء دون استشارة طبيبك حتى لو شعرت بتحسن، لأن الانقطاع المفاجئ قد يُعيد الأزمات بسرعة.",
+            "تتوفر أيضاً علاجات أحدث مُعتمدة للبالغين الذين لم يستجيبوا بشكل كافٍ للهيدروكسيوريا. دور الطبيب المتخصص بأمراض الدم هو مراجعة هذه الخيارات مع كل مريض بحسب استجابته للعلاج الحالي ومدى توفر هذه الأدوية في منطقته."
+          ]
+        },
+        {
+          "h2": "الفرق بين حامل الصفة المنجلية والمريض",
+          "paras": [
+            "حامل الصفة المنجلية (Sickle Cell Trait) هو شخص ورث نسخة من الجين المنجلي من أحد والديه فقط، وهو في الغالب بصحة جيدة ولا يعاني من أزمات ألم ولا من فقر الدم المزمن. الجسم يُنتج كمية كافية من الهيموغلوبين الطبيعي تُعوّض الكمية المنجلية.",
+            "لكن هناك حالات نادرة يُشعر فيها حامل الصفة بأعراض في ظروف قصوى: ارتفاعات شديدة حيث ينخفض الأكسجين، أو جفاف شديد، أو مجهود بدني قصوى مكثف. هذه أعراض طارئة لا تعني أن الشخص مريض منجلي كامل، لكنها تستحق الانتباه.",
+            "الأهمية الكبرى لمعرفة حالة الحامل تأتي عند التخطيط للزواج. إذا كان الشريكان كلاهما حاملاً للصفة، فإن احتمال إصابة كل طفل بالمرض الكامل هو 25%، واحتمال أن يكون حاملاً مثل والديه 50%، واحتمال السلامة التامة 25%. هذه الأرقام هي ما يقدمه الاستشاري الوراثي قبل القرار."
+          ],
+          "visual": {
+            "type": "timeline",
+            "title": "الفحوص الموصى بها لمريض الخلايا المنجلية",
+            "items": [
+              {"when": "عند الولادة", "what": "فحص نوع الهيموغلوبين من دم الكعب (Heel Prick)"},
+              {"when": "أول سنتين", "what": "بنسلين وقائي يومياً للحماية من عدوى المكورات"},
+              {"when": "كل 3-6 أشهر", "what": "صورة دم كاملة ومتابعة مع المختص"},
+              {"when": "سنوياً", "what": "Transcranial Doppler لقياس تدفق الدم الدماغي عند الأطفال حتى عمر 16"},
+              {"when": "سنوياً", "what": "تقييم وظائف الكلى والكبد والعين"},
+              {"when": "قبل الزواج", "what": "فحص الشريك للصفة المنجلية واستشارة وراثية"}
+            ]
+          }
+        },
+        {
+          "h2": "إدارة الألم في المنزل وما يستدعي المستشفى",
+          "paras": [
+            "ليست كل أزمة ألم تستلزم دخول المستشفى. الأزمة الخفيفة إلى المتوسطة يمكن إدارتها في المنزل بشرب السوائل بكثرة، والراحة، ومسكنات الألم المناسبة التي يحددها الطبيب. الجفاف في حد ذاته يطيل الأزمة، لذا يجب الاستمرار في شرب الماء حتى خلال الأزمة. الدراسات تُظهر أن المرضى الذين يشربون ما يعادل ثلاثة لترات يومياً يمرون بأزمات أقل عدداً وأخف وطأة.",
+            "ما يستدعي التوجه للمستشفى هو الحمى، أو ألم لا يُعالجه ما لديك من مسكنات في المنزل خلال ساعتين، أو أي من الأعراض الخطرة المذكورة أعلاه. الحمى عند مريض الخلايا المنجلية حالة طارئة تُعامَل كما لو كانت عدوى بكتيرية خطيرة حتى يُثبَت العكس، لأن هؤلاء المرضى معرضون للعدوى الإنتانية بصورة أكبر من عامة الناس. يُنصح المرضى بالتوجه للطوارئ في ظرف ساعة من بدء الحمى وعدم الانتظار.",
+            "تجنب الحرارة الشديدة والتغيرات المفاجئة في درجة الحرارة في الصيف الخليجي. السباحة في مياه باردة جداً ثم الخروج لحر شديد تغيير مفاجئ قد يُحرك أزمة. التنقل بالسيارة المكيفة مع إبقاء درجة الحرارة معتدلة أفضل من التعرض للتطرفات.",
+            "وجود خطة مكتوبة للألم موقّعة من الطبيب المعالج تُحدد الأدوية المسموح بها في المنزل ومتى تتوجه للمستشفى تُسهّل الأمور كثيراً، لك وللطاقم الطبي في الطوارئ الذي قد لا يعرف تاريخك المرضي. بعض المرضى يحملون بطاقة طبية ملخصة تُسرّع تلقي العلاج المناسب عند الحاجة."
+          ]
+        },
+        {
+          "h2": "الكشف المبكر والتخطيط قبل الزواج",
+          "paras": [
+            "الفحص المبكر عند الولادة يُحدث فارقاً حقيقياً في مآل المرض. الأطفال الذين يُكتشف مرضهم في الأيام الأولى ويبدأون بالرعاية الوقائية مبكراً يعيشون حياة أطول وأفضل بكثير ممن لا يُشخَّصون إلا بعد أول أزمة حادة. برنامج الفحص المبكر يشمل إعطاء البنسلين الوقائي اليومي للرضيع وتحديث جميع التطعيمات المطلوبة.",
+            "برامج الفحص قبل الزواج في السعودية والإمارات والبحرين وغيرها من دول الخليج تُلزم أو توصي بالكشف عن حاملي الصفة المنجلية. هذا الفحص لا يمنع الزواج بل يُزوّد الزوجين بمعلومات دقيقة عن المخاطر الوراثية الفعلية ويُتيح اتخاذ قرارات مدروسة بعيدة عن الغموض والخوف من المجهول.",
+            "الاستشارة الوراثية بعد الفحص لا تهدف إلى إخبارك بما يجب فعله، بل إلى تفسير النتائج بدقة وشرح الاحتمالات الحسابية وتقديم خيارات الكشف قبل الولادة إن رُغب في ذلك. المعلومة الصحيحة أداة تمكين لا مصدر خوف.",
+            "كشف ما قبل الزواج ليس حكماً على المستقبل. كثير من الأزواج الذين كلاهما حامل للصفة يتخذون قرار الزواج بعد فهم حجم الخطر الحقيقي والخيارات المتاحة لمتابعة الحمل. الهدف من الفحص هو التخطيط الواعي، لا الإقصاء."
+          ]
+        }
+      ],
+      "tie": "إذا كنت مصاباً بمرض الخلايا المنجلية أو حاملاً للصفة، يُساعدك تطبيق صحتك على تتبع أعراضك ومواعيد أزماتك والأدوية التي تأخذها، مما يُعطي طبيبك صورة أوضح عند كل زيارة.",
+      "faqs": [
+        {
+          "q": "هل حامل الصفة المنجلية بحاجة لعلاج؟",
+          "a": "في الحالة الطبيعية لا يحتاج حامل الصفة إلى أي علاج. هو بصحة جيدة ويعيش حياة طبيعية. ما يحتاجه هو معرفة حالته قبل الزواج لأخذ قرار مستنير، وإبلاغ الطبيب بوضعه قبل أي تخدير عام أو في الظروف التي قد تُسبب جفافاً شديداً."
+        },
+        {
+          "q": "هل يُشفى من مرض الخلايا المنجلية؟",
+          "a": "زرع نخاع العظم (Bone Marrow Transplant) هو الخيار الوحيد حالياً الذي يُعتبر علاجاً شافياً، لكنه إجراء معقد لا يصلح لكل المرضى ويتطلب توفر متبرع مناسب. أما الهيدروكسيوريا والرعاية المنتظمة فهي تُحسّن الحياة بشكل كبير لكنها ليست شفاءً. البحث جارٍ في العلاج الجيني كخيار مستقبلي."
+        },
+        {
+          "q": "هل يستطيع مريض الخلايا المنجلية ممارسة الرياضة؟",
+          "a": "الرياضة المعتدلة مفيدة ومسموحة مع الانتباه للإماهة الكافية وتجنب الإجهاد المفرط. لا يُنصح بالرياضة الشديدة في الحر أو على ارتفاعات عالية. يتحدد النشاط المناسب بالتشاور مع الطبيب المعالج بحسب حالة كل مريض."
+        },
+        {
+          "q": "ما الفرق بين الخلايا المنجلية والثلاسيميا؟",
+          "a": "كلاهما اضطراب وراثي يمس الهيموغلوبين وينتشر في المنطقة، لكنهما مختلفان. الخلايا المنجلية تسبب تشوهاً في شكل كريات الدم ونوبات ألم انسدادية. الثلاسيميا تسبب نقصاً في إنتاج الهيموغلوبين وتُعالج بنقل الدم المنتظم. الفحص الجيني يُميّز بينهما بدقة."
+        },
+        {
+          "q": "هل الهيدروكسيوريا آمن للأطفال؟",
+          "a": "نعم، الهيدروكسيوريا مُعتمد للأطفال المنجليين ويُنصح به من عمر سنة في كثير من الإرشادات العالمية. آثاره الجانبية قابلة للمراقبة بصورة دم دورية. قرار البدء به وجرعته يُحددهما الطبيب المتخصص."
+        },
+        {
+          "q": "هل الحامل المصابة بالخلايا المنجلية في خطر أكبر؟",
+          "a": "الحمل في مرض الخلايا المنجلية يزيد خطر أزمات الألم وفقر الدم ومضاعفات أخرى. متابعة الحمل يجب أن تكون مع فريق متخصص يضم طبيب دم وطبيب نساء وولادة. الإماهة الجيدة والمتابعة المنتظمة والتطعيمات الضرورية تُقلل المخاطر بشكل ملموس."
+        },
+        {
+          "q": "ما أهمية تحليل HbS وHbA في نتيجة الفحص؟",
+          "a": "HbA هو الهيموغلوبين الطبيعي، وHbS هو الهيموغلوبين المنجلي. الشخص السليم لديه HbA فقط. الحامل للصفة لديه HbA وHbS معاً (حوالي 60% HbA و40% HbS). المريض بالمرض الكامل (HbSS) لديه HbS فقط أو HbS مع نوع آخر غير طبيعي. الطبيب أو المستشار الوراثي يفسر هذه النسب بالتفصيل."
+        }
+      ]
+    },
+    "en": {
+      "title": "Sickle cell disease: crises, care and carrier status",
+      "desc": "Sickle cell disease in the Gulf: pain crisis triggers, hydroxyurea treatment, and what carrier status means for marriage planning.",
+      "keywords": "sickle cell disease, sickle cell crisis, hydroxyurea sickle cell, sickle cell Saudi Arabia, sickle cell trait, sickle cell carrier, vaso-occlusive crisis, sickle cell treatment",
+      "h1": "Sickle cell disease: understanding crises, treatment and what carrier status means",
+      "takeaways": [
+        "Sickle cell disease is a genetic disorder that makes red blood cells rigid and misshapen, blocking tiny blood vessels and causing episodes of severe pain.",
+        "Pain crises are triggered by factors you can partly control: dehydration, cold, overexertion, infection and emotional stress.",
+        "Hydroxyurea reduces the frequency and severity of crises in most patients and is the most widely used long-term treatment.",
+        "Sickle cell trait carriers are usually healthy, but if two carriers have children together, each child has a 25 percent chance of having the full disease.",
+        "Newborn screening allows preventive care to begin before complications arise."
+      ],
+      "sections": [
+        {
+          "h2": "What is sickle cell disease?",
+          "paras": [
+            "Sickle cell disease is a genetic disorder affecting haemoglobin (Hemoglobin), the protein inside red blood cells that carries oxygen. The defect makes the haemoglobin molecule unstable when oxygen levels fall, causing red blood cells to distort into a rigid, crescent or sickle shape instead of their normal flexible disc. The disease follows an autosomal recessive inheritance pattern, meaning a person needs two defective copies of the gene to have the full disease.",
+            "These misshapen cells are fragile and short-lived, surviving weeks rather than the normal 120 days, which causes chronic anaemia. Their more immediately dangerous property is that they jam in small blood vessels, cutting off oxygen to the tissue beyond. This blockage is called a vaso-occlusive crisis and is the source of the severe pain that defines the disease.",
+            "The disease is most common in populations historically exposed to malaria, because the sickle trait offers partial protection against severe malaria. In the Arabian Gulf, particularly the Eastern Province of Saudi Arabia, Bahrain, Oman, parts of Kuwait and Yemen, the frequency of sickle trait carriers is among the highest in the world.",
+            "There is more than one form of sickle cell disease. The most common and severe is HbSS, where a person inherits two sickle copies. Other forms include HbSC and HbS-beta-thalassemia, all of which cause sickle-related symptoms with varying severity. Genetic testing identifies the precise form and informs what to expect over time."
+          ],
+          "visual": {
+            "type": "stats",
+            "items": [
+              {"value": "25%", "label": "chance each child has the full disease if both parents are carriers", "tone": "bad"},
+              {"value": "50%", "label": "chance each child is a carrier like the parents", "tone": "warn"},
+              {"value": "25%", "label": "chance each child is completely unaffected", "tone": "good"}
+            ]
+          }
+        },
+        {
+          "h2": "Prevalence in Saudi Arabia and the wider Gulf",
+          "paras": [
+            "A 2011 study published in the Journal of Epidemiology and Global Health by Memish and colleagues analysed the results of Saudi Arabia's premarital screening programme and found striking regional variation. The Eastern Province had the highest rates of sickle trait carriers, with some communities exceeding 30%. By contrast, the Najd and Northern regions showed much lower rates.",
+            "At the Gulf level, Bahrain and Oman also show elevated frequencies compared with the global average. In Yemen and the southern Arabian Peninsula the disease is present but precise data are scarcer. In the Levant, Syria, Jordan and Lebanon have meaningful carrier frequencies but generally lower than the Gulf.",
+            "Saudi Arabia's premarital screening programme, which began in 2004, was evaluated in a follow-up study by the same researchers published in Annals of Saudi Medicine in 2011, which found measurable reductions in births of children with full sickle cell disease over six years of the programme."
+          ]
+        },
+        {
+          "h2": "What triggers a pain crisis?",
+          "paras": [
+            "A pain crisis occurs when rigid sickle cells cluster in small blood vessels, blocking them and starving the tissue they supply of oxygen. The pain is typically throbbing or burning and can affect bones, joints, the chest and the abdomen. In very young children the first sign is often a painful swelling of the hands and feet called hand-foot syndrome.",
+            "Some triggers can be reduced with awareness and planning. Dehydration thickens the blood and sharply raises the risk of sickling, so adequate fluid intake throughout the day is non-negotiable for someone with sickle cell disease. Cold causes blood vessels to constrict, creating more opportunity for obstruction. Heavy exertion, extreme heat, high altitude and emotional stress are all documented triggers.",
+            "Infection is one of the most dangerous triggers. Sickle cell patients are particularly vulnerable to encapsulated bacteria such as Streptococcus pneumoniae, which is why vaccination against pneumococcal disease, influenza and meningitis is essential rather than optional. Young children with sickle cell disease routinely receive daily prophylactic penicillin for the first several years of life to reduce the risk of overwhelming bacterial infection."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Pain crisis triggers and how to reduce them",
+            "head": ["Trigger", "Why it causes sickling", "Practical precaution"],
+            "rows": [
+              ["Dehydration", "Thickens blood, promotes cell sticking", "Drink water consistently, especially in Gulf summers"],
+              ["Cold temperatures", "Constricts blood vessels", "Keep warm, avoid sudden cold exposure"],
+              ["Infection", "Triggers widespread sickling", "Stay current on vaccines, treat fever promptly"],
+              ["Overexertion", "Lowers local oxygen levels", "Moderate exercise with good hydration"],
+              ["Psychological stress", "Affects vascular tone", "Relaxation techniques and psychosocial support"]
+            ]
+          }
+        },
+        {
+          "h2": "Longer-term complications to watch for",
+          "paras": [
+            "Beyond pain crises, sickle cell disease can damage multiple organs over time. Stroke affects roughly 11 percent of children with the disease before the age of 20 without adequate treatment, leaving lasting disability. Transcranial Doppler ultrasound, which measures blood flow velocity in the brain, identifies children at elevated risk before a stroke occurs, allowing preventive transfusion therapy to begin.",
+            "Acute chest syndrome is a medical emergency that resembles severe pneumonia. It presents with chest pain, fever and falling oxygen levels and is one of the leading causes of death in sickle cell disease. Recognising it as an emergency and not a passing episode is essential.",
+            "The kidneys, eyes, joints, liver and, in men, the reproductive system can all be affected over years. Regular review of these organ systems is part of ongoing specialist care, not an optional extra."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "Go to the emergency department immediately if",
+            "items": [
+              "Temperature rises above 38.5 degrees Celsius in a person with known sickle cell disease",
+              "Stroke symptoms appear: sudden weakness of face, arm or leg, speech difficulty or confusion",
+              "Severe chest pain develops with breathlessness or falling oxygen saturation",
+              "An infant with sickle cell disease develops any fever at all",
+              "Severe abdominal pain occurs with a rigid abdomen or loss of consciousness"
+            ]
+          }
+        },
+        {
+          "h2": "Hydroxyurea: how it reduces crises",
+          "paras": [
+            "Hydroxyurea is the most widely used long-term treatment for sickle cell disease. Its main mechanism is stimulating the body to produce fetal haemoglobin (HbF), a form of haemoglobin that does not sickle and dilutes the abnormal HbS. The practical result is fewer pain crises per year, less need for blood transfusion and lower rates of acute chest syndrome.",
+            "A 2024 review in Expert Review of Clinical Pharmacology described hydroxyurea as the cornerstone of sickle cell management in the modern era, with evidence of reduced early mortality and improved quality of life. The drug takes time to show its full effect, typically three to six months of consistent use, and benefits accumulate over years. It is important to persist through this initial period and not judge the drug's effect too early.",
+            "Because hydroxyurea suppresses overall blood cell production, patients need regular full blood counts (CBC) to ensure white blood cells and platelets stay within safe limits. Never stop taking hydroxyurea without your doctor's guidance, even if you feel well, because abrupt discontinuation can bring crises back quickly.",
+            "Newer approved treatments exist for patients who do not respond adequately to hydroxyurea. A haematologist reviews these options individually, factoring in each patient's response to current treatment and the availability of newer agents in their region. The field is moving quickly and options are expanding."
+          ]
+        },
+        {
+          "h2": "Carrier status and what it means for family planning",
+          "paras": [
+            "A sickle cell trait carrier has inherited one copy of the sickle gene from one parent and one normal copy from the other. They are generally healthy, do not experience pain crises and do not have chronic anaemia. The body produces enough normal haemoglobin to compensate for the abnormal fraction.",
+            "In rare circumstances carriers may experience symptoms under extreme conditions: very high altitude, severe dehydration or extreme sustained physical exertion. These are uncommon and do not mean the person has the full disease, but awareness is useful in relevant occupational or sporting contexts.",
+            "The greatest importance of knowing your carrier status comes when planning a family. If both partners carry the sickle trait, each pregnancy has a 25 percent chance of producing a child with full sickle cell disease, a 50 percent chance of a carrier like the parents, and a 25 percent chance of an unaffected child. These are the figures a genetic counsellor works through with a couple before they make decisions."
+          ],
+          "visual": {
+            "type": "timeline",
+            "title": "Recommended monitoring for a person with sickle cell disease",
+            "items": [
+              {"when": "At birth", "what": "Haemoglobin type test from heel prick blood sample"},
+              {"when": "First 2 years", "what": "Daily prophylactic penicillin to prevent serious bacterial infection"},
+              {"when": "Every 3-6 months", "what": "Full blood count and specialist clinic review"},
+              {"when": "Annually to age 16", "what": "Transcranial Doppler to measure brain blood flow velocity"},
+              {"when": "Annually", "what": "Kidney function, liver, eye examination"},
+              {"when": "Before marriage", "what": "Partner screening for sickle trait and genetic counselling"}
+            ]
+          }
+        },
+        {
+          "h2": "Managing pain at home and knowing when to go to hospital",
+          "paras": [
+            "Not every pain crisis requires hospital admission. A mild to moderate crisis can often be managed at home with aggressive oral hydration, rest and pain relief prescribed by your doctor. Dehydration prolongs a crisis, so drinking fluids consistently even during pain is important. Evidence suggests patients who maintain an intake of around three litres of water daily experience fewer and less severe crises.",
+            "What requires going to hospital is fever, pain that does not respond to your home medicines within two hours, or any of the danger signs listed above. Fever in a sickle cell patient is treated as a potential serious bacterial infection until proven otherwise, because these patients have a markedly higher risk of sepsis than the general population. Aim to reach the emergency department within an hour of fever onset rather than waiting to see whether it settles.",
+            "In the Gulf summer, avoid prolonged exposure to extreme heat and sudden shifts in temperature. Swimming in very cold water and then stepping into intense heat is a recognised crisis trigger. Travelling in air-conditioned cars at a moderate temperature setting is safer than experiencing temperature extremes.",
+            "Having a written pain plan from your specialist that specifies which medicines are safe at home and exactly when to go to hospital simplifies decisions for you and for the emergency team who may not know your history. Many patients carry a brief medical summary card that speeds appropriate treatment when they arrive."
+          ]
+        },
+        {
+          "h2": "Newborn screening and why early diagnosis matters",
+          "paras": [
+            "Newborn screening changes the trajectory of this disease. Children identified at birth and started on preventive care, including prophylactic penicillin and comprehensive vaccination, live significantly longer and with fewer serious complications than those diagnosed only after their first severe crisis. Early identification also allows families to learn about triggers and warning signs before an emergency occurs.",
+            "Premarital screening programmes across Saudi Arabia, the UAE, Bahrain and other Gulf states test couples for sickle trait and thalassemia before marriage. The screening does not prohibit marriage but gives both partners accurate information about the specific genetic risk to their future children, allowing informed decisions and access to genetic counselling.",
+            "Prenatal diagnosis is also available for couples where both are carriers and who want to know the genetic status of a pregnancy before birth. This is a personal decision that genetic counsellors support without directing, providing accurate information and options rather than a predetermined conclusion.",
+            "Screening before marriage is not a verdict on the future. Many couples in which both partners are carriers choose to marry after understanding the true level of risk and the options available for monitoring a pregnancy. The goal of screening is informed planning, not exclusion."
+          ]
+        }
+      ],
+      "tie": "If you or a family member has sickle cell disease or has been identified as a carrier, Sihtak can help you track symptoms, crisis episodes, medication schedules and appointment dates, giving your care team a clearer picture at every visit.",
+      "faqs": [
+        {
+          "q": "Does a sickle cell carrier need treatment?",
+          "a": "No, a carrier is generally healthy and needs no treatment. What matters is knowing the status before family planning, informing any anaesthetist before general anaesthesia, and staying well hydrated in situations involving extreme exertion or high altitude."
+        },
+        {
+          "q": "Can sickle cell disease be cured?",
+          "a": "Bone marrow transplantation is currently the only available cure, but it requires a compatible donor and carries significant risks, so it is not suitable for all patients. Hydroxyurea and regular monitoring greatly improve life expectancy and quality without being a cure. Gene therapy is in clinical trials and may become an option in coming years."
+        },
+        {
+          "q": "Can someone with sickle cell disease exercise?",
+          "a": "Moderate, consistent exercise is beneficial and encouraged, provided fluid intake is adequate and extreme exertion is avoided. High-altitude activities and intense exercise in very hot conditions carry extra risk. Your specialist can advise on what is safe based on your individual disease pattern."
+        },
+        {
+          "q": "What is the difference between sickle cell disease and thalassemia?",
+          "a": "Both are inherited haemoglobin disorders common in the region but they are distinct. Sickle cell disease distorts the shape of red cells and causes vaso-occlusive pain crises. Thalassemia causes insufficient haemoglobin production and is typically managed with regular blood transfusions. Genetic testing distinguishes them clearly."
+        },
+        {
+          "q": "Is hydroxyurea safe for children?",
+          "a": "Yes, hydroxyurea is recommended for children with sickle cell disease from as young as nine months in current international guidelines. Its side effects are manageable with regular blood count monitoring. The starting dose and schedule are determined by a specialist."
+        },
+        {
+          "q": "Is pregnancy safe with sickle cell disease?",
+          "a": "Pregnancy in sickle cell disease carries higher risks including more frequent pain crises, severe anaemia and complications for the baby. It requires care from a team that includes a haematologist and an obstetrician. Good hydration, regular monitoring, appropriate vaccinations and careful medication management reduce these risks meaningfully."
+        },
+        {
+          "q": "What does HbSS versus HbAS mean on a test result?",
+          "a": "HbAS means one normal gene and one sickle gene: this is the carrier or trait status, usually healthy. HbSS means two sickle genes: this is the full disease, also called sickle cell anaemia. Other combinations such as HbSC or HbS-beta-thalassemia also cause sickle cell disease with varying severity. A haematologist or genetic counsellor interprets which type applies and what it means."
+        }
+      ]
+    }
+  }
+}

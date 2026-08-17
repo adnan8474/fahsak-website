@@ -1,0 +1,310 @@
+{
+  "slug": "stroke-warning-signs",
+  "category": "chronic-conditions",
+  "chip_ar": "الجهاز العصبي",
+  "chip_en": "Neurology",
+  "date_iso": "2026-08-03",
+  "sources": [
+    {
+      "label": "Hilkens NA, Casolla B, Leung TW et al: Stroke, Lancet (London, England), 2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38759664/"
+    },
+    {
+      "label": "GBD 2021 Stroke Risk Factor Collaborators: Global, regional, and national burden of stroke and its risk factors, 1990-2021, The Lancet. Neurology, 2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39304265/"
+    },
+    {
+      "label": "Ho JP, Powers WJ: Contemporary Management of Acute Ischemic Stroke, Annual review of medicine, 2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39496213/"
+    },
+    {
+      "label": "O'Donnell MJ, Chin SL, Rangarajan S et al: Global and regional effects of potentially modifiable risk factors associated with acute stroke in 32 countries (INTERSTROKE): a case-control study, Lancet (London, England), 2016",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27431356/"
+    },
+    {
+      "label": "Mensah GA, Fuster V, Murray CJL et al: Global Burden of Cardiovascular Diseases and Risks, 1990-2022, Journal of the American College of Cardiology, 2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38092509/"
+    }
+  ],
+  "content": {
+    "ar": {
+      "title": "الجلطة الدماغية: التعرف عليها في دقائق والتصرف الصحيح",
+      "desc": "دليل عاجل للجلطة الدماغية: اختبار FAST بالعربية، نافذة العلاج التي تنقذ الحياة، لماذا الانتظار يقتل، وكيف تتصرف بينما تنتظر الإسعاف.",
+      "keywords": "الجلطة الدماغية, علامات الجلطة, اختبار FAST, جلطة الدماغ, ضعف الوجه, تعذر الكلام, علاج الجلطة, الإسعاف وقت الجلطة, الوقاية من الجلطة",
+      "h1": "الجلطة الدماغية: كيف تتعرف عليها في دقيقتين وتتصرف بسرعة",
+      "takeaways": [
+        "الجلطة الدماغية طارئة طبية تعتمد بشكل حاسم على الوقت: كل دقيقة تأخير تعني ملايين الخلايا العصبية الميتة ومزيداً من الإعاقة الدائمة.",
+        "اختبار FAST يلخص العلامات: الوجه (انحراف) والذراع (ضعف) والكلام (تعذر) والوقت (اتصل بالإسعاف فوراً).",
+        "نافذة علاج الجلطة الإقفارية بدواء تحليل الخثرة تصل إلى 4.5 ساعات من بداية الأعراض. لهذا يجب الذهاب إلى المستشفى فوراً وليس الانتظار.",
+        "التريث في الاتصال بالإسعاف أو استشارة أحد الأقارب أولاً هو الخطأ الذي يحول الجلطة القابلة للعلاج إلى إعاقة دائمة."
+      ],
+      "sections": [
+        {
+          "h2": "لماذا الجلطة الدماغية طارئة تتعلق بالدقائق؟",
+          "paras": [
+            "الجلطة الدماغية (Stroke) تحدث حين ينقطع تدفق الدم عن جزء من الدماغ، إما بسبب جلطة تسد شرياناً دماغياً (الجلطة الإقفارية وهي الأكثر شيوعاً بنسبة 87%)، أو بسبب تمزق وعاء دموي وتدفق الدم داخل أنسجة الدماغ (الجلطة النزفية). في كلتا الحالتين، خلايا الدماغ التي كانت تعتمد على ذلك الشريان تبدأ بالموت خلال دقائق.",
+            "الأرقام هنا صادمة. تقدر الدراسات أن الجلطة الإقفارية غير المعالجة تُفسد نحو 1.9 مليون خلية عصبية في كل دقيقة. بعد ثلاث ساعات بدون علاج، يكون الضرر في الغالب لا رجعة فيه. هذا هو السبب في أن العبارة الأشهر في طوارئ الجلطة الدماغية هي: الوقت يساوي الدماغ (Time is Brain).",
+            "تحليل نشرته مجلة The Lancet Neurology عام 2024 وتناول العبء العالمي للجلطة الدماغية أظهر أن الجلطة هي السبب الثاني للوفاة عالمياً والسبب الأول لاكتساب إعاقات دائمة. في منطقتنا، ارتفاع ضغط الدم الذي لا يخضع لعلاج كافٍ هو العامل المسبب الأول للجلطة الدماغية بفارق كبير.",
+            "دراسة INTERSTROKE الكبيرة التي نشرتها The Lancet عام 2016 وشملت 32 دولة بينها دول من منطقتنا وجدت أن عشرة عوامل خطر قابلة للتعديل تفسر أكثر من 90% من حالات الجلطة الدماغية. ارتفاع ضغط الدم وحده يفسر أكثر من 47% منها. هذا يعني أن غالبية الجلطات قابلة للوقاية."
+          ]
+        },
+        {
+          "h2": "اختبار FAST: تذكره وعلمه لكل من تحب",
+          "paras": [
+            "اختبار FAST هو أداة التعرف الأسرع والأكثر موثوقية على علامات الجلطة الدماغية. الأحرف الأربعة تمثل أربع علامات تحدث معاً أو منفردةً في الجلطة، وتستطيع تطبيقه في دقيقة واحدة دون أي تدريب طبي.",
+            "الوجه (F للـFace): اطلب من الشخص أن يبتسم. هل ينحرف أحد جانبي فمه للأسفل؟ هل تبدو إحدى جانبي وجهه متدلية أو مختلفة عن الأخرى؟ حتى تدلٍّ بسيط لزاوية الفم يستحق الاهتمام الفوري. الذراع (A للـArm): اطلب منه أن يمد ذراعيه أمامه بكلتيهما وراحتا اليدين للأعلى. هل تنزل إحداهما بشكل لا إرادي خلال ثلاثين ثانية؟ هل يعجز عن رفع إحدى يديه؟ الكلام (S للـSpeech): اطلب منه أن يقول جملة بسيطة مثل اسمه وعنوانه. هل كلامه متعثر أو غير مفهوم أو يعجز عن الكلام تماماً؟ هل يبدو مرتبكاً ولا يفهم ما تقوله له؟ الوقت (T للـTime): إذا لاحظت أياً من هذه العلامات فاتصل بالإسعاف فوراً دون تردد.",
+            "من المهم معرفة أن هذه العلامات تظهر بشكل مفاجئ لا تدريجي. الشخص الذي يبتسم بشكل طبيعي ثم بعد ثلاثين دقيقة لا يستطيع رفع ذراعه اليسرى قد يكون يعاني من جلطة. المفاجأة والانتباه للتغيير هما السمة الأهم. الجلطة لا تعلن عن نفسها بألم شديد في الغالب، بل بفقدان مفاجئ لوظيفة.",
+            "علّم اختبار FAST لأسرتك وأصدقائك وأخبرهم بأرقام الإسعاف في بلدك. كثير من الجلطات تحدث في المنزل وتُكتشف من أحد أفراد الأسرة. الشخص المصاب بالجلطة لا يستطيع في الغالب تقييم حالته بنفسه لأن دماغه هو المتضرر. من رأى العلامات هو من يحتاج إلى التصرف."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "اختبار FAST: علامات الجلطة الدماغية",
+            "head": ["الحرف", "ما يعنيه", "كيف تفحصه"],
+            "rows": [
+              ["F - الوجه", "انحراف أو تدلٍّ في الوجه", "اطلب ابتسامة وانظر هل أحد الجانبين متدلٍّ"],
+              ["A - الذراع", "ضعف أو شلل في الذراع", "اطلب مد الذراعين وانظر هل تنزل إحداهما"],
+              ["S - الكلام", "تعذر في الكلام أو كلام غير مفهوم", "اطلب جملة بسيطة وانصت لوضوحها"],
+              ["T - الوقت", "اتصل بالإسعاف فوراً", "كل دقيقة تأخير تساوي ملايين خلايا عصبية"]
+            ]
+          }
+        },
+        {
+          "h2": "علامات أخرى قد تشير إلى الجلطة الدماغية",
+          "paras": [
+            "إلى جانب علامات FAST هناك أعراض أخرى تشير إلى الجلطة الدماغية وينبغي التعامل معها بنفس الجدية والإلحاح. صداع مفاجئ شديد جداً لم تعرفه من قبل ويوصفه المريض أحياناً بأنه أسوأ صداع في حياته وكأنه رُكلة في الرأس أو ضربة مباغتة هو علامة تحذيرية خطيرة قد تكون على نزيف حول الدماغ. فقدان مفاجئ للرؤية في عين واحدة أو في نصف المجال البصري من كلتا العينين هو أيضاً علامة إنذار تستحق الطوارئ وليس مجرد انتظار فحص عيون.",
+            "الدوخة الشديدة المفاجئة المصاحبة لتعذر التوازن عند المشي وسقوط مفاجئ دون سبب واضح قد تعكس جلطة في المخيخ الذي يتحكم في التوازن. صعوبة البلع المفاجئة كأن يعجز الشخص عن ابتلاع ريقه فجأة، أو تنميل ووخز مفاجئ في كامل أحد جانبي الجسم من الوجه للقدم دون سبب هي أعراض تستحق الإبلاغ عنها فوراً. هذه الأعراض قد تختفي خلال دقائق إلى ساعة، لكن هذا الاختفاء لا يعني أن الخطر زال.",
+            "ما يختفي خلال دقائق إلى ساعة يسميه الأطباء النوبة الإقفارية العابرة (TIA) أو الجلطة الصغيرة. هي ليست مجرد نوبة غريبة عابرة، بل رسالة تحذيرية صريحة من جسمك بأن جلطة أكبر محتملة في الأيام أو الأسابيع القادمة. خطر الجلطة التالية يكون أعلى ما يكون في الأيام الأولى بعد النوبة العابرة. شخص شعر بضعف مفاجئ في يده لمدة عشر دقائق ثم عادت يده للطبيعي تماماً يجب أن يذهب إلى الطوارئ في اليوم نفسه وليس في نهاية الأسبوع."
+          ]
+        },
+        {
+          "h2": "لماذا يتأخر الناس في طلب المساعدة؟",
+          "paras": [
+            "الخطأ الأكثر شيوعاً في الجلطة الدماغية ليس جهل الأعراض، بل التردد في التصرف حتى بعد رؤيتها. في كثير من ثقافات منطقتنا هناك نمط شائع: حين تظهر أعراض الجلطة يُعاد الاتصال بأفراد الأسرة أولاً، ثم يبحثون عن شخص يوصل المريض بالسيارة، ثم يتوقفون عند أقرب عيادة غير مجهزة. في كل هذا الوقت تموت الخلايا العصبية.",
+            "التوجه مباشرةً إلى مستشفى يملك وحدة طوارئ جيدة هو الصواب. الإسعاف أفضل من السيارة الخاصة لأن الفريق الطبي يمكنه البدء في التقييم خلال الطريق وإخطار المستشفى مسبقاً. في حالات الجلطة، الدقائق التي تقضيها في انتظار أن يأتي فلان بسيارته أو أن تنتهي من استشارة هاتفية هي دقائق تخسر فيها قدرتك على الكلام أو الحركة إلى الأبد.",
+            "أسرع وقت يصل فيه مريض الجلطة إلى إبرة تحليل الخثرة يعني أكبر قدر من الدماغ ينجو. أبطأ وقت وصوله يعني أقل قدر من الوظائف تعود إليه بعد العلاج. الوقت هو الدواء الحقيقي في الجلطة الدماغية."
+          ]
+        },
+        {
+          "h2": "ماذا يحدث في المستشفى؟ نافذة العلاج",
+          "paras": [
+            "حين يصل مريض الجلطة إلى الطوارئ تبدأ سلسلة إجراءات فورية. التصوير المقطعي للدماغ (CT Scan) يميز بين الجلطة الإقفارية والنزيف لأن العلاج يختلف اختلافاً جذرياً. في الجلطة الإقفارية ودون موانع تحليل الخثرة الوريدية (tPA أو Alteplase) تُعطى خلال 4.5 ساعات من بداية الأعراض وتحسن النتائج بشكل ملموس.",
+            "مراجعة شاملة نشرتها مجلة Annual Review of Medicine عام 2025 أوضحت أن الجراحة الداخلية للشرايين الدماغية لاستخراج الخثرة (Mechanical Thrombectomy) أتاحت نافذة علاج أوسع تصل إلى 24 ساعة في حالات مختارة بدقة، بشرط أن يكون الدماغ المحاط بالمنطقة المتضررة لا يزال حياً. هذا الإجراء يتطلب مركزاً متخصصاً متاحاً في المدن الكبرى.",
+            "النافذة العلاجية تبدأ من اللحظة التي ظهرت فيها الأعراض وليس من اللحظة التي وصل فيها المريض للمستشفى. الشخص الذي يستيقظ ويجد نفسه يعاني من أعراض الجلطة يحسب وقت النوبة من آخر مرة كان فيها سليماً وهو آخر مرة شاهده أحدهم بخير قبل النوم."
+          ],
+          "visual": {
+            "type": "timeline",
+            "title": "نافذة علاج الجلطة الدماغية الإقفارية",
+            "items": [
+              {"when": "0 دقيقة", "what": "تظهر أعراض الجلطة فجأة: انحراف الوجه، ضعف الذراع، تعذر الكلام"},
+              {"when": "أقل من 10 دقائق", "what": "اتصل بالإسعاف فوراً ولا تقود بنفسك"},
+              {"when": "1 ساعة أو أقل", "what": "الوصول المبكر إلى المستشفى يزيد فرص التعافي الكامل"},
+              {"when": "4.5 ساعات", "what": "آخر موعد لإعطاء تحليل الخثرة الوريدي عند الجلطة الإقفارية"},
+              {"when": "24 ساعة", "what": "آخر نافذة لإجراء استخراج الخثرة الجراحي في حالات مختارة"}
+            ]
+          }
+        },
+        {
+          "h2": "ماذا تفعل بينما تنتظر الإسعاف؟",
+          "paras": [
+            "أجلس المريض أو ضعه في وضع مريح ومستلق جزئياً بحيث يكون رأسه مرفوعاً قليلاً. لا تعطِه أي طعام أو شراب أو دواء عن طريق الفم لأن عضلات البلع قد تكون متأثرة ويمكن أن يدخل الطعام إلى الرئتين مما يشكل خطراً إضافياً. لا تعطِه أسبرين على الفور قبل التشخيص لأن الجلطة النزفية ستزداد سوءاً بالأسبرين الذي يمنع تجلط الدم.",
+            "راقب تنفسه وأبقه دافئاً. إذا توقف عن التنفس وكنت مدرباً على الإسعاف الأولي ابدأ الإنعاش القلبي الرئوي فوراً. إذا فقد وعيه بالكامل لكنه لا يزال يتنفس ضعه على جانبه لمنع الاختناق بإفرازات الفم. ابقَ معه وتحدث إليه بهدوء وطمأنه أن المساعدة في الطريق، حتى لو لم يستطع الرد فهو في الغالب يسمعك ويدرك ما يدور. صوتك الهادئ يقلل من ذعره.",
+            "سجّل بدقة الوقت الذي لاحظت فيه الأعراض أول مرة. اكتبه على ورقة أو في هاتفك بعبارة واضحة مثل: لاحظت الأعراض الساعة التاسعة وعشر دقائق صباحاً. هذه المعلومة بالغة الأهمية للفريق الطبي في الطوارئ لأنها تحدد ما إذا كانت نافذة تحليل الخثرة لا تزال مفتوحة أم لا. إذا كان الشخص نائماً واكتُشفت الأعراض عند استيقاظه، احسب الوقت من آخر مرة كان فيها بصحة واضحة قبل النوم.",
+            "أخبر فريق الإسعاف بوصف الأعراض وتوقيتها وتاريخه الطبي وقائمة أدويته إذا كانت متاحة. إذا كان يتناول مضادات التخثر كالوارفارين أو أحد أدوية DOACs أخبرهم فوراً لأن ذلك يؤثر على قرارات العلاج في الطوارئ."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "اتصل بالإسعاف فوراً إذا لاحظت أياً من هذه",
+            "items": [
+              "انحراف أو تدلٍّ مفاجئ في أحد جانبي الوجه",
+              "ضعف أو شلل مفاجئ في الذراع أو الساق خاصةً في جانب واحد من الجسم",
+              "تعذر مفاجئ في الكلام أو فهم الكلام أو كلام غير مفهوم",
+              "فقدان مفاجئ للرؤية في عين واحدة أو ازدواجية الرؤية",
+              "صداع شديد مفاجئ مختلف عن أي صداع سبق",
+              "لا تنتظر لترى هل تتحسن الأعراض بنفسها"
+            ]
+          }
+        },
+        {
+          "h2": "الوقاية: العوامل التي يمكنك التحكم فيها",
+          "paras": [
+            "دراسة INTERSTROKE الكبيرة التي شملت 32 دولة وجدت أن السيطرة على ارتفاع ضغط الدم وحدها يمكنها تجنب نصف جلطات الدماغ تقريباً. هذا يعني أن قياس ضغطك بانتظام والتزام علاجه إذا كان مرتفعاً هو الفعل الواحد الأكثر تأثيراً في وقاية نفسك من الجلطة. في منطقة تنتشر فيها ارتفاع ضغط الدم بكثافة وكثير من المرضى لا يعلمون أنهم مصابون به، الفحص الدوري هو الخط الدفاعي الأول.",
+            "عوامل خطر أخرى قابلة للتعديل تشمل الرجفان الأذيني (Atrial Fibrillation) وهو اضطراب إيقاع القلب الذي يزيد خطر الجلطة خمسة أضعاف ويحتاج علاجاً بمضادات التخثر. داء السكري وارتفاع الكوليسترول وكلاهما شائعان جداً في منطقتنا ويضران جدران الأوعية الدموية بصمت على مدى سنوات. التدخين يضاعف خطر الجلطة مباشرةً بسبب تأثيره على الأوعية وكريات الدم. السمنة وقلة الحركة الجسدية يزيدان الخطر أيضاً.",
+            "الشخص الذي عانى من نوبة إقفارية عابرة (TIA) أو جلطة صغيرة سابقة لديه خطر مرتفع جداً لجلطة أكبر خلال الأيام والأسابيع التالية. تلك الحالة طارئة وتستحق تقييماً في الطوارئ في نفس اليوم ليس لأن الأعراض مؤلمة بل لأن نافذة الوقاية من الجلطة التالية قصيرة جداً. علاج مضادات الصفيحات وضبط الضغط بسرعة يمكنه تقليل خطر الجلطة التالية بشكل كبير في الأيام الأولى.",
+            "الحفاظ على وزن صحي والتحرك يومياً بما يناسب قدرتك، وتناول طعام صحي قليل الملح والدهون المشبعة، والإقلاع عن التدخين إذا كنت مدخناً، كلها تراكمات صغيرة تبني جداراً واقياً على مدى سنوات. لا تحتاج إلى قرار واحد كبير بل إلى عادات صحيحة منتظمة."
+          ]
+        }
+      ],
+      "tie": "سجّل قراءات ضغط دمك ومواعيد أدويتك وأي أعراض عصبية مؤقتة في تطبيق سهتك. هذه المعلومات تساعد طبيبك على تقييم خطر الجلطة وتعديل خطة الوقاية بشكل مناسب.",
+      "faqs": [
+        {
+          "q": "هل يمكن أن يتعافى الشخص تماماً من الجلطة الدماغية؟",
+          "a": "يعتمد ذلك على حجم الجلطة وموقعها وسرعة العلاج. جلطات صغيرة تُعالج بسرعة قد لا تترك أي أثر دائم. جلطات أكبر تُفضي إلى إعاقات تتحسن جزئياً مع إعادة التأهيل على مدى أشهر. الدماغ لديه قدرة محدودة على إعادة التوصيل، ولذلك إعادة التأهيل المبكر والمكثف مهم."
+        },
+        {
+          "q": "هل الجلطة الدماغية مؤلمة؟",
+          "a": "في الغالب لا. الجلطة الإقفارية لا تسبب ألماً حاداً في الغالب، مما يجعل الشخص المصاب أو المحيطين به لا يدركون خطورة الموقف. الجلطة النزفية قد تسبب صداعاً شديداً مفاجئاً. غياب الألم لا يعني غياب الخطر."
+        },
+        {
+          "q": "ما الفرق بين الجلطة الدماغية والجلطة القلبية؟",
+          "a": "الجلطة القلبية (النوبة القلبية) تحدث في شرايين القلب وتضر بعضلة القلب. الجلطة الدماغية تحدث في أوعية الدماغ وتضر بخلايا الدماغ. كلتاهما حالة طارئة تتطلب إسعافاً فورياً، وكلتاهما ترتبطان بنفس عوامل الخطر مثل ارتفاع ضغط الدم والسكري والتدخين."
+        },
+        {
+          "q": "هل الأسبرين يساعد في الجلطة الدماغية؟",
+          "a": "لا تعطِ الأسبرين قبل الوصول إلى المستشفى وتأكيد نوع الجلطة. الأسبرين مفيد في الجلطة الإقفارية لكنه ضار ومشكلة في الجلطة النزفية حيث يزيد النزيف. فقط بعد أن يُشخص الطبيب النوع يُعطى الأسبرين أو غيره."
+        },
+        {
+          "q": "هل الشخص الذي أصيب بجلطة مرة سيصاب مرة ثانية؟",
+          "a": "الخطر حقيقي لكنه قابل للتخفيض بشكل كبير. من عانى من جلطة دماغية يحصل على أدوية وإجراءات وقائية تقلل هذا الخطر. السيطرة الجيدة على ضغط الدم والكوليسترول والسكري والإقلاع عن التدخين هي أهم الخطوات التي تحميه."
+        },
+        {
+          "q": "هل ضغط الدم العالي يسبب الجلطة الدماغية دائماً؟",
+          "a": "ليس بصورة حتمية، لكنه يزيد الخطر بشكل كبير ومتراكم مع الوقت. ارتفاع الضغط المزمن يُتلف الشرايين الدماغية الصغيرة ويجعلها أكثر عرضة للانسداد أو التمزق. كثيرون يعيشون مع ضغط مرتفع لسنوات دون جلطة، لكن خطرهم أعلى بكثير ممن يضبطون ضغطهم."
+        },
+        {
+          "q": "ما الذي يحدث في إعادة التأهيل بعد الجلطة؟",
+          "a": "إعادة التأهيل تبدأ في أقرب وقت ممكن بعد استقرار الحالة، وقد يكون ذلك خلال الأيام الأولى في المستشفى. تشمل علاج النطق لاسترداد الكلام، والعلاج الوظيفي لاسترداد القدرة على الأنشطة اليومية، والعلاج الطبيعي لاسترداد القوة والتوازن. المنزل والعائلة جزء أساسي من بيئة التعافي."
+        }
+      ]
+    },
+    "en": {
+      "title": "Stroke: recognising it in minutes and what to do",
+      "desc": "Stroke is a time-critical emergency. The FAST test, the treatment window, why calling relatives first costs you brain, and what to do while the ambulance comes.",
+      "keywords": "stroke symptoms, FAST test, stroke warning signs, stroke treatment, tPA thrombolysis, transient ischaemic attack, stroke prevention, face drooping arm weakness speech",
+      "h1": "Stroke: recognise it in two minutes and act immediately",
+      "takeaways": [
+        "Stroke cuts off blood to part of the brain. Every minute without treatment, nearly two million brain cells die. Time is the most important medicine.",
+        "The FAST test covers the main signs: Face drooping, Arm weakness, Speech difficulty, Time to call emergency services immediately.",
+        "The window for clot-dissolving treatment in an ischaemic stroke is 4.5 hours from the moment symptoms started. Going to hospital immediately is not optional.",
+        "Waiting to see if symptoms improve, or calling relatives before calling an ambulance, is the most common reason a treatable stroke becomes a permanent disability."
+      ],
+      "sections": [
+        {
+          "h2": "Why stroke is measured in minutes, not days",
+          "paras": [
+            "A stroke occurs when blood supply to part of the brain is cut off, either by a clot blocking an artery (ischaemic stroke, around 87% of cases) or by a blood vessel rupturing and bleeding into brain tissue (haemorrhagic stroke). In both cases, the brain cells that depended on that blood supply begin to die within minutes of the disruption.",
+            "The scale of the damage is enormous. Studies estimate that an untreated ischaemic stroke destroys approximately 1.9 million brain cells per minute. After three hours without treatment, the damage is in most cases irreversible. This is why the defining phrase in stroke medicine is: time is brain.",
+            "A 2024 analysis in The Lancet Neurology examining the global burden of stroke and its risk factors found that stroke is the second leading cause of death worldwide and the leading cause of acquired disability. High blood pressure that is not adequately controlled remains by far the largest single modifiable risk factor, accounting for nearly half of all stroke cases in large international studies. This matters in the Arab world because hypertension is extremely common and often undertreated.",
+            "The INTERSTROKE study, published in The Lancet in 2016 and covering 32 countries including countries in the region, found that ten modifiable risk factors together explain more than 90% of stroke cases globally. This means the vast majority of strokes are preventable with sustained management of treatable conditions."
+          ]
+        },
+        {
+          "h2": "The FAST test: the four signs to know by heart",
+          "paras": [
+            "The FAST test was developed to give anyone, not just medical professionals, a reliable framework for recognising stroke. Each letter corresponds to a sign that can appear in a stroke, either together or alone. You can run the whole test in under a minute with no equipment.",
+            "Face: Ask the person to smile. Does one side of the face droop or fail to move? Does the corner of the mouth hang lower on one side? Even a slight asymmetry in the smile deserves immediate attention. Arm: Ask them to hold both arms straight out in front of them with palms facing up. Does one arm drift downward involuntarily within 30 seconds? Do they struggle to raise one arm at all? Speech: Ask them to repeat a simple sentence such as their name and address. Is their speech slurred, garbled or entirely absent? Do they seem unable to understand what you are saying to them? Time: If any of these signs are present, call emergency services immediately without hesitation or delay.",
+            "The crucial characteristic of stroke symptoms is that they appear suddenly rather than gradually. A person who was speaking normally ten minutes ago and is now unable to form a sentence is a stroke emergency. The abruptness of onset is the most important clue, and it distinguishes stroke from conditions like a fainting episode or a severe migraine attack.",
+            "Teach the FAST test to your family, particularly to anyone who lives with or cares for a person with high blood pressure, diabetes or a history of heart disease. Most strokes happen at home and are first witnessed by a family member. The person having the stroke usually cannot accurately assess their own condition because it is their brain that is affected. The person who sees the signs is the one who needs to act."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "The FAST stroke test",
+            "head": ["Letter", "What it means", "How to check"],
+            "rows": [
+              ["F - Face", "Facial drooping on one side", "Ask for a smile and watch for one-sided droop"],
+              ["A - Arm", "Arm weakness on one side", "Ask them to hold both arms out; watch for one drifting down"],
+              ["S - Speech", "Slurred or lost speech", "Ask a simple sentence and listen for clarity"],
+              ["T - Time", "Call emergency services now", "Every minute without treatment costs brain cells"]
+            ]
+          }
+        },
+        {
+          "h2": "Other warning signs beyond FAST",
+          "paras": [
+            "FAST covers the most common symptoms, but several others should be treated with equal urgency. A sudden severe headache that the person describes as the worst of their life, with no obvious cause, is a classic warning sign of a subarachnoid haemorrhage, a bleed around the surface of the brain. This headache typically reaches maximum intensity within seconds.",
+            "Sudden loss of vision in one eye or loss of half the visual field in both eyes can be a stroke affecting the blood supply to the visual cortex or the optic artery. Sudden severe dizziness with loss of balance and difficulty walking, when it appears abruptly and is different from any previous dizziness, may indicate a stroke affecting the cerebellum. Sudden numbness or tingling on one entire side of the body is another warning sign.",
+            "Any of these symptoms, even if they completely resolve within minutes to an hour, must be evaluated urgently at a hospital the same day. What resolves quickly is called a transient ischaemic attack, or TIA, and it is not a near-miss to be relieved about. A TIA is the clearest warning the body can give that a larger stroke may follow within hours, days or weeks. The risk of a major stroke in the days immediately following a TIA is substantial, and urgent evaluation and treatment can prevent it."
+          ]
+        },
+        {
+          "h2": "Why people wait, and why that costs them so much",
+          "paras": [
+            "The most common preventable harm in stroke is not lack of treatment but delay in seeking it. Across the region, a recognisable pattern emerges: when stroke symptoms appear, the first action is often to call a family member, then to wait for someone to arrive with a car, then to drive to the nearest clinic rather than the nearest hospital with stroke facilities. In each step, irreplaceable brain tissue is being lost.",
+            "Several factors drive this delay. Many people do not recognise the symptoms as urgent. In conditions like facial drooping or slurred speech, people sometimes assume the person is confused or drunk. Some worry about the cost of an emergency department visit. Others feel it is disrespectful to call an ambulance before consulting an elder. Understanding that none of these considerations matter against the minutes counting down is the message this article exists to carry.",
+            "Calling an ambulance is better than driving to hospital yourself for two reasons. The ambulance crew can begin assessment immediately, alert the receiving hospital to prepare the stroke team, and potentially begin some interventions on the way. And driving a person who may deteriorate rapidly in a private car means the driver is managing a medical emergency at the wheel. Neither is safe or fast enough."
+          ]
+        },
+        {
+          "h2": "What happens at hospital: the treatment window",
+          "paras": [
+            "When a stroke patient arrives at an emergency department equipped for stroke care, a CT scan of the brain is the first priority. It distinguishes an ischaemic stroke from a haemorrhagic one, because the treatment for each is completely different. Thrombolysis, intravenous administration of a clot-dissolving drug called alteplase, is the primary treatment for ischaemic stroke and must be given within 4.5 hours of symptom onset.",
+            "A 2025 review in Annual Review of Medicine described how mechanical thrombectomy, a catheter procedure that physically retrieves the clot from inside the brain artery, has extended the treatment window to up to 24 hours in carefully selected patients with evidence of salvageable brain tissue on advanced imaging. This procedure is available in major stroke centres in Saudi Arabia, Egypt, Jordan and the UAE, though access varies considerably across the region.",
+            "The clock starts from the moment symptoms were first noticed, not from the moment of hospital arrival. A person who wakes up with stroke symptoms must be treated as if the clock started at the last time they were seen well, typically the night before. This is especially important because many strokes occur during sleep."
+          ],
+          "visual": {
+            "type": "timeline",
+            "title": "The stroke treatment window for ischaemic stroke",
+            "items": [
+              {"when": "0 minutes", "what": "Symptoms begin suddenly: facial droop, arm weakness, speech difficulty"},
+              {"when": "Under 10 minutes", "what": "Call emergency services immediately, note the exact time"},
+              {"when": "Under 60 minutes", "what": "Arriving early maximises chances of full recovery"},
+              {"when": "4.5 hours", "what": "Last window for intravenous thrombolysis in ischaemic stroke"},
+              {"when": "Up to 24 hours", "what": "Mechanical thrombectomy possible in selected cases at specialist centres"}
+            ]
+          }
+        },
+        {
+          "h2": "What to do while waiting for the ambulance",
+          "paras": [
+            "Keep the person calm and seated or lying with their head and shoulders slightly elevated. Do not give them anything to eat or drink, because swallowing is frequently impaired after stroke and food or liquid can enter the lungs. Do not give aspirin before a doctor has confirmed the type of stroke: aspirin is appropriate for ischaemic stroke but dangerous in haemorrhagic stroke, where it would worsen the bleeding.",
+            "Stay with the person and talk to them in a calm, reassuring way. Even if they cannot respond, they are often aware and frightened. If they lose consciousness and stop breathing and you are trained in CPR, begin resuscitation. If they lose consciousness but are still breathing, place them in the recovery position on their side to protect the airway.",
+            "Record the exact time when you first noticed the symptoms. Write it down, photograph it, do whatever helps you remember accurately. When you arrive at the emergency department, this single piece of information is one of the first things the stroke team will ask for, because it determines whether the thrombolysis window is still open."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "Call emergency services immediately for any of these",
+            "items": [
+              "Sudden drooping or numbness on one side of the face",
+              "Sudden weakness or inability to move the arm or leg on one side",
+              "Sudden difficulty speaking, slurred speech or not understanding what is said",
+              "Sudden loss of vision in one eye or half the visual field",
+              "Sudden severe headache unlike any previous headache with no obvious cause",
+              "Do not wait to see if symptoms improve on their own"
+            ]
+          }
+        },
+        {
+          "h2": "Prevention: the risk factors you can control",
+          "paras": [
+            "High blood pressure is the single most important modifiable stroke risk factor. Controlling it consistently reduces stroke risk by roughly 35 to 40%. This means checking your blood pressure regularly, taking prescribed medicines reliably every day, and targeting a reading below 130/80 mmHg if your doctor has recommended that. In a region where hypertension is extremely common and often remains undiagnosed or untreated until a complication occurs, regular blood pressure screening is genuinely life-saving. A blood pressure check takes less than two minutes and can be done at most pharmacies.",
+            "Atrial fibrillation, an irregular heart rhythm, increases stroke risk by roughly five times because it allows clots to form in the heart and travel to the brain. Many people with atrial fibrillation have no symptoms and do not know they have it. A routine pulse check or ECG can detect it. If you have been told you have an irregular heartbeat, talk urgently to your doctor about anticoagulation treatment, because this is one of the most effective stroke-prevention interventions available.",
+            "Diabetes and high cholesterol each damage artery walls over years in ways that greatly increase stroke risk. Both are very prevalent across the Arab world and are often uncontrolled. Smoking doubles stroke risk directly through its effects on blood vessel walls and clotting. Physical inactivity and obesity contribute independently. Addressing any combination of these through sustained lifestyle changes and appropriate medication produces compounding benefits over time.",
+            "After a TIA or a first stroke, the risk of a second stroke is highest in the days and weeks immediately following. This is not the time to wait for a routine appointment. Urgent assessment, antiplatelet medicines, blood pressure control and statin treatment started within days can reduce the risk of early recurrence substantially. The person who has just had a TIA and feels completely normal again is in a high-risk window that requires urgent medical attention, not reassurance that everything is fine."
+          ]
+        }
+      ],
+      "tie": "Track your blood pressure readings, medication schedule and any brief neurological symptoms in the Sihtak app. This information helps your doctor assess your stroke risk and adjust prevention strategies at each visit.",
+      "faqs": [
+        {
+          "q": "Can someone fully recover from a stroke?",
+          "a": "Full recovery is possible, particularly for small strokes treated quickly. The extent of recovery depends on the size of the affected area, its location in the brain, and how fast treatment was received. Many people recover substantially with intensive rehabilitation over months. The brain has some capacity to reroute functions around damaged areas, which is why early and consistent rehabilitation matters."
+        },
+        {
+          "q": "Is stroke painful?",
+          "a": "Ischaemic stroke usually causes no pain, which is part of why it is often not recognised immediately. The person may feel their arm is simply weak or that they are confused, not that something catastrophic is happening. Haemorrhagic stroke can cause a sudden severe headache. The absence of pain in the most common form of stroke makes learning the FAST signs especially important."
+        },
+        {
+          "q": "What is the difference between a stroke and a heart attack?",
+          "a": "A heart attack occurs when a coronary artery supplying the heart muscle is blocked. A stroke occurs when an artery supplying the brain is blocked or bleeds. Both are emergencies with overlapping risk factors. A heart attack causes chest pain and shortness of breath. A stroke causes neurological symptoms: face drooping, arm weakness, speech problems. Both require immediate emergency care."
+        },
+        {
+          "q": "Should I give aspirin to someone having a stroke?",
+          "a": "No, not before they reach hospital. Aspirin is beneficial in ischaemic stroke but would worsen a haemorrhagic stroke. Since you cannot tell which type someone is having without a brain scan, giving aspirin at home carries real risk. The right action is to call emergency services immediately and let the hospital team make the treatment decisions once the scan is done."
+        },
+        {
+          "q": "Does a TIA mean I will definitely have a real stroke?",
+          "a": "Not definitely, but it means you are at substantially elevated risk and need urgent evaluation and treatment. The days immediately after a TIA carry the highest stroke risk. With prompt medical attention, the right medicines and risk factor control started immediately, the risk can be reduced dramatically. A TIA is not something to watch and wait on."
+        },
+        {
+          "q": "Does high blood pressure always cause stroke?",
+          "a": "Not inevitably, but it is the strongest single modifiable risk factor. Chronically high blood pressure damages the walls of arteries in the brain over years, making them more likely to block or rupture. Many people live with high blood pressure for years without having a stroke, but their lifetime risk is substantially higher than someone with controlled pressure, and each passing year increases the cumulative damage."
+        },
+        {
+          "q": "What happens in stroke rehabilitation?",
+          "a": "Rehabilitation starts as soon as the person is medically stable, sometimes within the first day or two in hospital. It includes speech and language therapy to recover communication, occupational therapy to regain the ability to perform daily activities, and physiotherapy to recover strength, balance and mobility. The process can continue for months after leaving hospital, and progress is often achievable well into the first year."
+        }
+      ]
+    }
+  }
+}

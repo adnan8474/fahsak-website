@@ -1,0 +1,317 @@
+{
+  "slug": "diabetic-retinopathy-eyes",
+  "category": "chronic-conditions",
+  "chip_ar": "الأمراض المزمنة",
+  "chip_en": "Chronic Conditions",
+  "date_iso": "2026-07-30",
+  "sources": [
+    {"label": "Yau JW, Rogers SL, Kawasaki R et al: Global prevalence and major risk factors of diabetic retinopathy, Diabetes care, 2012", "url": "https://pubmed.ncbi.nlm.nih.gov/22301125/"},
+    {"label": "Al-Maskari F, El-Sadig M: Prevalence of diabetic retinopathy in the United Arab Emirates: a cross-sectional survey, BMC ophthalmology, 2007", "url": "https://pubmed.ncbi.nlm.nih.gov/17572909/"},
+    {"label": "Vujosevic S, Aldington SJ, Silva P et al: Screening for diabetic retinopathy: new perspectives and challenges, The Lancet Diabetes and Endocrinology, 2020", "url": "https://pubmed.ncbi.nlm.nih.gov/32113513/"},
+    {"label": "Alsolami AS, Alqarni TM: Prevalence, causes, and barriers of severe visual impairment and blindness in Arab countries, Research in developmental disabilities, 2025", "url": "https://pubmed.ncbi.nlm.nih.gov/40633432/"},
+    {"label": "Faselis C, Katsimardou A, Imprialos K et al: Microvascular Complications of Type 2 Diabetes Mellitus, Current vascular pharmacology, 2020", "url": "https://pubmed.ncbi.nlm.nih.gov/31057114/"},
+    {"label": "Samy El Gendy NM, Abdel-Kader AA: Prevalence of Selected Eye Diseases in Middle Eastern and North African Subjects, Journal of ophthalmology, 2018", "url": "https://pubmed.ncbi.nlm.nih.gov/29686888/"},
+    {"label": "World Health Organization: Blindness and vision impairment fact sheet, 2023", "url": "https://www.who.int/news-room/fact-sheets/detail/blindness-and-visual-impairment"}
+  ],
+  "content": {
+    "ar": {
+      "title": "اعتلال الشبكية السكري: كيف تحمي بصرك قبل فوات الأوان",
+      "desc": "اعتلال الشبكية السكري يسرق البصر بصمت لسنوات. اعرف متى تبدأ فحوصات العين وما الذي يحدث فعلاً داخل العين ومتى يصبح الأمر طارئاً.",
+      "keywords": "اعتلال الشبكية السكري, السكري والعين, فقدان البصر والسكري, فحص العين للسكري, اعتلال شبكية, العمى السكري, الشبكية والسكري, مضاعفات العين للسكري",
+      "h1": "السكري وعينيك: اكتشاف اعتلال الشبكية قبل أن يسرق بصرك",
+      "takeaways": [
+        "اعتلال الشبكية السكري لا يُسبب ألماً ولا يُغيّر الرؤية في مراحله الأولى، لذا يُكتشف فقط بالفحص الدوري.",
+        "ثلث مرضى السكري تقريباً يُصابون باعتلال شبكية في مرحلة ما، وفق دراسات دولية كبرى.",
+        "ضبط السكر وضغط الدم هما أقوى وسيلتين للوقاية والتباطؤ في تطور المرض.",
+        "ابدأ فحص قاع العين فور تشخيص السكري من النوع الثاني، وكررّه سنوياً على الأقل.",
+        "أي تغيّر مفاجئ في الرؤية لدى مريض السكري هو طارئ يستوجب زيارة العيادة في اليوم ذاته."
+      ],
+      "sections": [
+        {
+          "h2": "ماذا يحدث داخل العين عند الإصابة بالسكري؟",
+          "paras": [
+            "الشبكية (Retina) هي الطبقة الحساسة للضوء في مؤخرة العين، وتتغذى على شبكة دقيقة من الأوعية الدموية الصغيرة جداً. ارتفاع السكر المزمن يُضعف جدران هذه الأوعية تدريجياً، فتبدأ بالتسرّب أو الانتفاخ أو النزيف داخل الشبكية. هذا ما يُسمى اعتلال الشبكية السكري (Diabetic Retinopathy).",
+            "المرحلة الأولى تُسمى اعتلال الشبكية غير التكاثري (Non-Proliferative Diabetic Retinopathy)، وتتميز بانتفاخات صغيرة في الأوعية الدموية تُسمى مايكروأنيوريزم، وقد تترافق مع تسريبات شحمية أو نزيف صغير. المريض عادةً لا يشعر بأي شيء في هذه المرحلة.",
+            "إذا لم يُعالَج المرض أو لم يُضبط السكر، قد يتطور إلى المرحلة التكاثرية (Proliferative Diabetic Retinopathy) حيث تنمو أوعية دموية جديدة هشّة وغير طبيعية على سطح الشبكية. هذه الأوعية تنزف بسهولة وقد تُسبب انفصال الشبكية وفقدان البصر الجسيم."
+          ]
+        },
+        {
+          "h2": "هل يمكن أن تفقد بصرك دون أن تشعر بأي تحذير؟",
+          "paras": [
+            "نعم، وهذا هو الجانب الأكثر خطورة في هذا المرض. الشبكية لا تؤلم عند تضررها، ومراكز الرؤية الطرفية تتضرر قبل المركزية، لذا قد يمضي المريض سنوات وهو يرى جيداً بينما يتآكل جزء كبير من شبكيته. حين يبدأ المريض بملاحظة تغيير في رؤيته، قد يكون المرض قد تقدم بشكل كبير.",
+            "كثير من مرضى السكري يُخطئون في اعتقادهم أن حدة رؤيتهم الجيدة دليل على سلامة عيونهم. لكن الشبكية الطرفية التي تُغطي الجزء الأكبر من الحقل البصري يمكن أن تتضرر بشكل واسع قبل أن يؤثر ذلك على الرؤية المركزية التي نستخدمها في القراءة والتعرف على الوجوه. الفحص الوحيد الذي يكشف الحقيقة هو التصوير المباشر للشبكية.",
+            "دراسة نشرتها Diabetes Care عام 2012 على مستوى عالمي وجدت أن نحو 34.6% من مرضى السكري يعانون من درجة ما من اعتلال الشبكية، وأن طول مدة الإصابة بالسكري وارتفاع HbA1c وارتفاع ضغط الدم هي العوامل الأكثر ارتباطاً بالإصابة. هذا يُظهر أن الخطر حقيقي وواسع الانتشار. كل عشر سنوات إضافية من الإصابة بالسكري تزيد من احتمال وجود اعتلال شبكية، لذا لا يمكن الاطمئنان بمجرد أن الرؤية تبدو جيدة حالياً.",
+            "دراسة من الإمارات العربية المتحدة نُشرت في BMC Ophthalmology عام 2007 فحصت مرضى سكري وجدت معدلات اعتلال شبكية تدل على أن المرض منتشر في المنطقة وكثيراً ما يُكتشف متأخراً. كما كشفت مراجعة نُشرت عام 2025 عن أن الكُمه والإعاقة البصرية الشديدة في الدول العربية مرتبطة بشكل ملحوظ بمضاعفات السكري غير المُعالجة."
+          ]
+        },
+        {
+          "h2": "متى تبدأ فحوصات العين وكيف تتم؟",
+          "paras": [
+            "لمريض السكري من النوع الثاني: ابدأ فحص قاع العين فور تشخيص المرض، لأن كثيراً من هؤلاء المرضى يكونون قد عاشوا مع السكري لسنوات قبل اكتشافه وقد تطورت التغييرات بالفعل. لمريض السكري من النوع الأول: يُنصح ببدء فحص الشبكية بعد 5 سنوات من التشخيص. للحوامل المصابات بالسكري: الفحص يكون في بداية الحمل وبعدها بشكل أكثر تكراراً.",
+            "الفحص الأساسي هو تصوير قاع العين بعد توسيع حدقة العين بقطرة خاصة، وهو إجراء غير مؤلم يُتيح للطبيب رؤية شاملة لكامل الشبكية. يستغرق الفحص كاملاً عادةً 20 إلى 30 دقيقة، ولا تستطيع القيادة بعده لساعات قليلة بسبب القطرة. يوجد كذلك تصوير الشبكية بالكاميرا المتخصصة دون توسيع الحدقة، وهو أسرع وأوسع انتشاراً الآن.",
+            "مراجعة شاملة نُشرت في The Lancet Diabetes and Endocrinology عام 2020 أكدت أن برامج الفحص الدوري المنظّمة تُنقذ البصر بشكل موثّق، وأن التوسع في التصوير الرقمي للشبكية حتى في المناطق النائية أصبح ممكناً تقنياً. هذا يعني أن الفحص لم يعد حكراً على المراكز التخصصية الكبيرة.",
+            "في حالة عدم وجود عيادة متخصصة قريبة منك، اسأل طبيبك عن إمكانية التصوير الرقمي للشبكية في المركز الصحي الأولي، فبعض المراكز بدأت تُدمج هذه التقنية في رعاية السكري الروتينية. بعض الدول العربية شرعت في برامج فحص منظّمة لمرضى السكري، ومن المهم أن تسأل عنها في منطقتك بدلاً من الانتظار حتى تظهر أعراض."
+          ],
+          "visual": {
+            "type": "timeline",
+            "title": "جدول فحوصات العين الموصى به لمريض السكري",
+            "items": [
+              {"when": "عند التشخيص (النوع الثاني)", "what": "فحص قاع العين الأول فور التشخيص"},
+              {"when": "سنوياً", "what": "فحص دوري للشبكية إذا كانت النتائج طبيعية"},
+              {"when": "كل 6 أشهر", "what": "إذا وُجد اعتلال شبكية خفيف أو معتدل"},
+              {"when": "كل 3 أشهر أو حسب الطبيب", "what": "إذا وُجد اعتلال شبكية متقدم أو وذمة بقعية"},
+              {"when": "في بداية الحمل", "what": "للمريضات بالسكري قبل الحمل: فحص عند الاكتشاف وكل ثلاثة أشهر"}
+            ]
+          }
+        },
+        {
+          "h2": "درجات اعتلال الشبكية وما تعنيه لصحتك",
+          "paras": [
+            "اعتلال الشبكية لا يُصنَّف كحالة واحدة بل كطيف متدرج. المرحلة الخفيفة تعني وجود تغييرات طفيفة في الأوعية دون تأثير مهم على الرؤية، وغالباً تكفي السيطرة المحسّنة على السكر وضغط الدم لإبطاء تطورها. المرحلة المعتدلة تعني تمدداً في الأوعية وبداية تدهور في الأنسجة المحيطة.",
+            "الوذمة البقعية السكرية (Diabetic Macular Edema) هي تراكم السوائل في منطقة البقعة (Macula)، وهي مركز الرؤية الحادة في الشبكية. هذه الحالة تُسبب ضبابية أو تشوه في الرؤية المركزية حتى في مرحلة اعتلال الشبكية غير التكاثري، وهي من الأسباب الرئيسية لضعف البصر لدى مرضى السكري في سن العمل.",
+            "المرحلة التكاثرية المتقدمة تُشير إلى نمو أوعية دموية جديدة شاذة. هذه الأوعية تنزف بسهولة، وقد يُفضي النزيف إلى ظهور بقع داكنة أو خيوط في مجال الرؤية فجأة. انفصال الشبكية الناتج عن نمو هذه الأوعية هو طارئ طبي يستوجب تدخلاً جراحياً عاجلاً."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "درجات اعتلال الشبكية السكري",
+            "head": ["الدرجة", "ما يحدث في الشبكية", "خطوات الإدارة"],
+            "rows": [
+              ["خفيف", "انتفاخات دقيقة في الأوعية فقط", "ضبط السكر وضغط الدم، فحص سنوي"],
+              ["معتدل", "تسريبات وبداية نزيف دقيق", "فحص كل 6 أشهر، تحسين الضبط"],
+              ["شديد غير تكاثري", "انسداد واسع في الأوعية الشبكية", "فحص كل 3 أشهر، قد يلزم ليزر"],
+              ["تكاثري", "نمو أوعية جديدة شاذة، خطر نزيف", "تدخل بليزر أو حقن، متابعة مكثفة"],
+              ["وذمة بقعية", "سوائل في مركز الشبكية", "حقن داخل العين أو ليزر، أولوية عالية"]
+            ]
+          }
+        },
+        {
+          "h2": "كيف يُعالَج اعتلال الشبكية؟",
+          "paras": [
+            "العلاج يعتمد على الدرجة. في المراحل الأولى الهدف هو ضبط السكر وضغط الدم بشكل أفضل، وهذا وحده يُبطئ التقدم بشكل ملموس. لا يوجد دواء يُعكس الاعتلال في مراحله المبكرة لكن الضبط الجيد يحمي من التقدم.",
+            "عند المراحل المتقدمة، الخيار الرئيسي تاريخياً هو الليزر الحراري الذي يُوقف نمو الأوعية الشاذة. حقن الدواء داخل العين (Anti-VEGF injections) أصبحت خياراً رئيسياً لعلاج الوذمة البقعية وبعض حالات الاعتلال التكاثري، وقد أثبتت فعالية عالية في الحفاظ على الرؤية. هذه الحقن لا تُوجع لأن العين تُخدَّر بقطرة قبلها.",
+            "الجراحة (Vitrectomy) تُلجأ إليها في حالات النزيف الزجاجي الكثيف أو انفصال الشبكية. هذه عملية متخصصة تتطلب جراح شبكية ذا خبرة. توفرها يتفاوت بين المستشفيات في المنطقة، لذا من الضروري معرفة أقرب مركز يُقدمها مسبقاً.",
+            "لا يزال البعض يتردد في إجراء الحقن داخل العين خشية الألم أو الخطر. الواقع أن هذا الإجراء أصبح متطوراً جداً ويُجرى في ظروف معقّمة تامة بتخدير موضعي. الخطر الحقيقي هو تركه دون علاج حين يكون الوذمة البقعية أو الاعتلال التكاثري حاضراً.",
+            "عدد الجلسات ومواعيدها يحددها طبيب الشبكية بناءً على استجابة العين للعلاج. بعض المرضى يحتاجون جلسات شهرية في البداية ثم تتباعد المواعيد مع تحسّن الحالة. الانتظام في هذه الجلسات مهم للغاية لأن توقفها قد يُعيد نشاط الوذمة أو نمو الأوعية الشاذة."
+          ]
+        },
+        {
+          "h2": "ضبط السكر وضغط الدم: الوقاية الأقوى",
+          "paras": [
+            "الأبحاث الكبرى تُثبت أن الضبط الجيد للسكر يُقلل من خطر الإصابة بالاعتلال ومن سرعة تطوره بشكل جوهري. دراسة DCCT الشهيرة لمرضى السكري من النوع الأول ودراسة UKPDS لمرضى النوع الثاني كلتاهما أظهرتا أن خفض HbA1c بمقدار نقطة مئوية يُقلل خطر الاعتلال بنسب مهمة. هذا الدليل يُبرر الجهد المبذول في إدارة السكري يومياً لأنه يُحدث فارقاً حقيقياً في سلامة العين على المدى البعيد.",
+            "ضغط الدم مستقل تماماً كعامل خطر. ارتفاع ضغط الدم يُضر بالأوعية الشبكية الدقيقة حتى بغض النظر عن السكر. إذا كان لديك سكري وضغط دم، فالهدف الموصى به عادةً للضغط هو أقل من 130/80 ملم زئبق، وقد يوصي طبيبك بمثبطات الإنزيم القالب للأنجيوتنسين (ACE inhibitors) أو مجموعة ARBs لأنها تُفيد الكلى والعين معاً.",
+            "الدهنيات في الدم مرتبطة أيضاً بالوذمة البقعية. ارتفاع الكوليسترول يُسهم في ترسّب المواد الشحمية في الشبكية. لذا فإن إدارة الدهنيات جزء لا يتجزأ من الحماية الشاملة للعين.",
+            "التدخين يُضاعف خطر تطور اعتلال الشبكية ويُسرّع تطوره لدى من أصيبوا به فعلاً. إذا كنت مدخناً ومصاباً بالسكري، فالإقلاع عن التدخين هو أحد أكثر الإجراءات الواقية للعين والكلى والقلب في وقت واحد. لا يوجد مستوى آمن من التدخين لمريض السكري."
+          ]
+        },
+        {
+          "h2": "أعراض تستوجب زيارة طبيب العيون فوراً",
+          "paras": [
+            "أي تغيّر مفاجئ في الرؤية لمريض السكري يُعامَل كطارئ حتى يُثبت العكس. لا تنتظر موعداً عادياً. اتصل بعيادة طبيب العيون أو توجّه إلى أقرب طوارئ في اليوم ذاته. السبب أن بعض هذه الحالات مثل انفصال الشبكية أو النزيف الزجاجي تتدهور خلال ساعات، والتأخير يُغيّر ما يمكن إنقاذه.",
+            "ظهور نقاط أو ذباب طائر (Floaters) فجأة وبكميات كبيرة في مجال الرؤية قد يُشير إلى نزيف داخل السائل الزجاجي للعين. ومضات من الضوء قد تُشير إلى شد في الشبكية. هذه أعراض تستوجب الفحص في نفس اليوم.",
+            "تشوّه الأشياء المستقيمة كالحواف والخطوط أو ظهور منطقة داكنة في مركز الرؤية قد يُشير إلى وذمة بقعية أو نزيف في منطقة البقعة. التصرف المبكر في هذه الحالة يُحدث فارقاً كبيراً في نتيجة العلاج.",
+            "اختبر بسيط يمكنك فعله في المنزل: أغمض عيناً واحدة وانظر إلى خط مستقيم كجانب النافذة أو حرف في كتاب. إذا بدا الخط مموّجاً أو مكسوراً في عين واحدة دون الأخرى، فهذا مؤشر يستوجب فحص العين سريعاً. هذا الاختبار البسيط المُستوحى من شبكة آمسلر (Amsler Grid) يمكن أن يكتشف الوذمة البقعية في مراحلها الأولى."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "اتصل بطبيب العيون في اليوم ذاته إذا لاحظت",
+            "items": [
+              "ظهور مفاجئ لنقاط أو خيوط أو ضباب في مجال الرؤية",
+              "ومضات من الضوء تتكرر في عين واحدة",
+              "تشوّه أو ضبابية في مركز الرؤية",
+              "انخفاض مفاجئ في حدة الرؤية في أي عين",
+              "ظهور ستارة أو ظل يُحجب جزءاً من مجال الرؤية"
+            ]
+          }
+        },
+        {
+          "h2": "الفحص الدوري: أسئلة تطرحها عند طبيب العيون",
+          "paras": [
+            "في زيارة فحص قاع العين، اسأل طبيبك: ما درجة اعتلال الشبكية الحالية إن وُجد؟ هل يوجد وذمة بقعية؟ ما التوقيت المناسب لزيارتي التالية؟ هل أحتاج إلى أي علاج الآن أم نكتفي بالمتابعة؟ هذه الأسئلة تُحوّلك من متلقٍّ سلبي إلى شريك فعّال في قراراتك الصحية.",
+            "إذا شُخّص لديك اعتلال شبكية في مرحلة ما، شارك هذا مع طبيب السكري لأنه قد يُعدّل أهداف علاجك. كثيراً ما يتحسن تنسيق الرعاية حين يعلم طبيب السكري بالنتائج العينية وبالعكس.",
+            "تطبيق سهيك يمكنه أن يساعدك على تسجيل مواعيد فحوصات العين ونتائجها وتاريخ آخر فحص، حتى لا تفوتك دورة المتابعة المهمة لحماية بصرك.",
+            "أخيراً، لا تتردد في طلب رأي ثانٍ إذا شُخّص لك اعتلال شبكية متقدم واقترح عليك طبيبك خياراً علاجياً. حقن Anti-VEGF والليزر والجراحة قرارات مهمة، وأطباء الشبكية المتمرسون يُقدّمون تقييمات دقيقة تُعينك على اتخاذ القرار الأنسب."
+          ]
+        }
+      ],
+      "tie": "سجّل مواعيد فحوصات عينيك ونتائجها في تطبيق سهيك جنباً إلى جنب مع قراءات السكر، حتى تُدير صحتك بشكل متكامل وتصل إلى كل زيارة طبية مُجهَّزاً.",
+      "faqs": [
+        {
+          "q": "هل يمكن أن أكون مصاباً باعتلال الشبكية دون أن أشعر بأي شيء؟",
+          "a": "نعم تماماً، وهذا هو السبب الرئيسي الذي يجعل الفحص الدوري ضرورياً لكل مريض سكري. المراحل الأولى والمتوسطة من الاعتلال لا تُسبب ألماً ولا تُغيّر الرؤية بشكل ملحوظ. التغييرات تكتشف فقط بفحص قاع العين أو تصوير الشبكية."
+        },
+        {
+          "q": "هل عدم تغيّر رؤيتي يعني أن شبكيتي بخير؟",
+          "a": "لا، بالعكس تماماً. الشبكية لا تُعطي إشارة ألم واضحة، وكثير من مرضى السكري يُفقدون مناطق واسعة من شبكيتهم دون أن يلاحظوا تغيراً في الرؤية المركزية. الرؤية تتأثر بشكل ملحوظ في مراحل متأخرة. لذا فقط الفحص يُخبرك بالحالة الحقيقية."
+        },
+        {
+          "q": "هل ضبط السكر وحده يكفي للحفاظ على سلامة الشبكية؟",
+          "a": "ضبط السكر هو العامل الأكثر أهمية، لكن ضغط الدم ومستويات الدهنيات مهمة أيضاً بشكل مستقل. كذلك فإن المدة الزمنية للإصابة بالسكري عامل مؤثر، وحتى مع الضبط الجيد يزداد الخطر مع السنوات. لهذا يبقى الفحص الدوري ضرورياً حتى عند من يضبطون السكر جيداً."
+        },
+        {
+          "q": "هل علاج الليزر مؤلم وهل يُعيد الرؤية الضائعة؟",
+          "a": "علاج الليزر غير مؤلم إلى حد بعيد مع التخدير الموضعي بالقطرة، وقد يُصاحبه انزعاج بسيط بعد الجلسة. الهدف الرئيسي منه هو إيقاف تطور المرض والحفاظ على الرؤية الموجودة، وليس استعادة الرؤية التي فُقدت. لذا التدخل المبكر حين تكون الرؤية لا تزال جيدة هو الأمثل."
+        },
+        {
+          "q": "هل يُصاب الأطفال والشباب المصابون بالسكري باعتلال الشبكية؟",
+          "a": "نعم، خاصة مرضى السكري من النوع الأول الذين أُصيبوا في سن صغيرة. كلما طالت مدة الإصابة زاد الخطر. لهذا يُنصح بفحص الشبكية بعد 5 سنوات من التشخيص لمريض النوع الأول، أو عند البلوغ أيهما أبكر."
+        },
+        {
+          "q": "هل يمكن للحوامل المصابات بالسكري أن يُصبن باعتلال الشبكية خلال الحمل؟",
+          "a": "نعم، الحمل يُمكنه تسريع تطور اعتلال الشبكية الموجود مسبقاً. لهذا يُوصى بفحص الشبكية في بداية الحمل ومرات متعددة خلاله، خاصة للنساء اللواتي كان لديهن اعتلال قبل الحمل. سكري الحمل الذي يظهر لأول مرة أثناء الحمل أقل ارتباطاً بهذه المضاعفة."
+        },
+        {
+          "q": "هل توجد في المنطقة العربية مراكز متخصصة في علاج الشبكية السكرية؟",
+          "a": "نعم، المدن الرئيسية في السعودية والإمارات ومصر والأردن تضم مراكز متخصصة في أمراض الشبكية تقدم الليزر وحقن Anti-VEGF والجراحة. في المدن الأصغر والمناطق الريفية قد تحتاج إلى تحويل إلى أقرب مدينة كبيرة، وهذا يستحق البحث المسبق قبل أن تكون في حاجة طارئة."
+        }
+      ]
+    },
+    "en": {
+      "title": "Diabetes and your eyes: catching retinopathy before it blinds",
+      "desc": "Diabetic retinopathy steals sight silently. Learn when to screen, what the grades mean, which symptoms are emergencies, and how blood sugar control protects your vision.",
+      "keywords": "diabetic retinopathy, diabetes eye disease, retinopathy screening, diabetic blindness prevention, macular edema, eye exam diabetes, vision loss diabetes, retina check",
+      "h1": "Diabetes and your eyes: catching retinopathy before it blinds",
+      "takeaways": [
+        "Diabetic retinopathy causes no pain and no early vision change, so it is only found by routine eye examination.",
+        "Roughly one in three people with diabetes develops some degree of retinopathy over time, according to large international studies.",
+        "Blood sugar and blood pressure control are the two most powerful tools for slowing or preventing its progression.",
+        "Start retinal screening at diagnosis for type 2 diabetes, and repeat it at least annually.",
+        "Any sudden change in vision in a person with diabetes is an emergency that warrants same-day assessment."
+      ],
+      "sections": [
+        {
+          "h2": "What actually happens inside the eye with diabetes?",
+          "paras": [
+            "The retina is the light-sensitive layer at the back of the eye, nourished by a network of tiny blood vessels. Chronically elevated blood glucose progressively weakens the walls of these vessels, causing them to leak, swell, or bleed inside the retina. This is diabetic retinopathy.",
+            "The early stage is called non-proliferative diabetic retinopathy. It is characterised by small bulges in vessel walls called microaneurysms, and may include small haemorrhages or fatty deposits called hard exudates. At this stage the person usually notices nothing different about their vision, which is why the condition is so easily missed without formal screening.",
+            "If blood sugar and blood pressure remain uncontrolled, the disease can progress to proliferative diabetic retinopathy, where the retina responds to oxygen deprivation by growing new, fragile, abnormal blood vessels across its surface. These new vessels bleed easily and can cause vitreous haemorrhage or traction retinal detachment, both of which can result in sudden severe vision loss."
+          ]
+        },
+        {
+          "h2": "Can you lose sight without any warning?",
+          "paras": [
+            "Yes, and this is what makes retinopathy uniquely dangerous. The retina does not feel pain when it is damaged, and the peripheral areas are affected before the centre, so many people maintain apparently normal vision while significant damage accumulates. By the time a person notices a change in their eyesight, the disease may have been progressing silently for years.",
+            "A landmark 2012 systematic review in Diabetes Care found that approximately 34.6 percent of people with diabetes have some degree of retinopathy, and that duration of diabetes, high HbA1c, and raised blood pressure are the strongest predictors. This tells us that the risk is widespread and often underestimated by people who feel well.",
+            "A cross-sectional study of diabetic patients in the United Arab Emirates, published in BMC Ophthalmology in 2007, found that retinopathy rates in the region are significant and that many cases were detected late. A 2025 systematic review found that diabetic retinopathy is among the leading causes of severe visual impairment and blindness across Arab countries. These findings confirm that for people in this region, the threat is real and the consequences of missed screening are serious."
+          ]
+        },
+        {
+          "h2": "When to start eye examinations and how they work",
+          "paras": [
+            "For type 2 diabetes: start retinal screening at the time of diagnosis. Many people with type 2 diabetes have had elevated blood sugar for years before it is discovered, and changes may have already developed. For type 1 diabetes: the standard recommendation is to begin retinal screening five years after diagnosis. For pregnant women with pre-existing diabetes: an eye examination at the start of pregnancy and at intervals through it is recommended, as pregnancy can accelerate existing retinopathy.",
+            "The standard examination involves dilating the pupil with eye drops and photographing the retina, or examining it directly with a slit lamp. This is painless, though your vision will be blurred for a few hours afterwards, so you should not drive. Retinal photography without dilation is now widely available and is the backbone of community screening programmes in many countries.",
+            "A comprehensive 2020 review in the Lancet Diabetes and Endocrinology confirmed that structured retinal screening programmes demonstrably save sight, and that expanding digital retinal photography into community and primary care settings, including areas without specialist eye units, is now technically achievable. If your clinic offers photograph-based screening, use it.",
+            "If no specialist centre is nearby, ask your doctor whether digital retinal photography is available at your primary care facility. Some programmes across the region have integrated this into routine diabetes follow-up. If that is not yet available where you are, ask for a referral to the nearest centre that does provide it, and budget for an annual visit even if it requires travel."
+          ],
+          "visual": {
+            "type": "timeline",
+            "title": "Recommended eye examination schedule for people with diabetes",
+            "items": [
+              {"when": "At diagnosis (type 2)", "what": "First retinal examination at the time of diagnosis"},
+              {"when": "Annually", "what": "Routine retinal check if previous results were normal"},
+              {"when": "Every 6 months", "what": "If mild or moderate non-proliferative retinopathy is found"},
+              {"when": "Every 3 months or per specialist", "what": "If advanced or proliferative retinopathy, or macular oedema"},
+              {"when": "Start of pregnancy", "what": "For women with pre-existing diabetes: check at booking and every trimester"}
+            ]
+          }
+        },
+        {
+          "h2": "The grades of retinopathy and what they mean",
+          "paras": [
+            "Retinopathy is not a single condition but a spectrum. Mild non-proliferative disease means small vascular changes with no impact on useful vision. Improved blood sugar and blood pressure control at this stage can slow or arrest progression. Moderate non-proliferative disease involves more widespread vascular changes and some tissue damage, and monitoring becomes more frequent.",
+            "Diabetic macular oedema (DMO) deserves particular attention because it can occur at any stage, including in mild non-proliferative disease. It involves fluid accumulating in the macula, which is the central part of the retina responsible for sharp, detailed vision. A person with DMO may notice distortion or blurring of central vision while reading or looking at faces, even when their retinopathy is otherwise still at an early grade. This is a priority for treatment.",
+            "Proliferative diabetic retinopathy is the advanced stage where new abnormal vessels grow across the retinal surface and into the vitreous gel. These vessels are fragile, and when they bleed the person may suddenly see dark spots, threads, or a red haze across their vision. This is a medical emergency. Retinal detachment from the tractional pull of these vessels is also possible and requires urgent surgical intervention."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Grades of diabetic retinopathy at a glance",
+            "head": ["Grade", "What is happening", "Management approach"],
+            "rows": [
+              ["Mild non-proliferative", "Microaneurysms only", "Better glucose and BP control, annual check"],
+              ["Moderate non-proliferative", "Haemorrhages and exudates", "6-monthly review, tighten control"],
+              ["Severe non-proliferative", "Widespread vessel closure", "3-monthly review, laser may be needed"],
+              ["Proliferative", "Abnormal new vessel growth", "Laser or injections, close follow-up"],
+              ["Macular oedema", "Fluid at centre of retina", "Anti-VEGF injections, high priority"]
+            ]
+          }
+        },
+        {
+          "h2": "How retinopathy is treated",
+          "paras": [
+            "Treatment depends on the grade. In early stages, the primary intervention is improving blood sugar and blood pressure control. Research consistently shows that this alone measurably slows the disease even when retinopathy is already present. There is no medication that reverses existing retinal damage, but good metabolic control substantially reduces the risk of worsening.",
+            "For more advanced disease, laser photocoagulation has been the standard treatment for decades. It seals leaking vessels and destroys ischaemic retinal tissue that drives the growth of abnormal vessels. Anti-VEGF injections directly into the eye, drugs that block the abnormal vessel growth signal, have become the primary treatment for macular oedema and are also used in proliferative retinopathy. They are administered with anaesthetic drops and cause minimal discomfort.",
+            "Vitrectomy surgery is required when vitreous haemorrhage is dense or when retinal detachment occurs. This is a specialist procedure performed by a vitreoretinal surgeon and requires referral to a centre with the appropriate expertise. In the event your vision changes suddenly, ask whether the nearest emergency eye unit has vitreoretinal surgical cover, as time to surgery matters in these situations."
+          ]
+        },
+        {
+          "h2": "Blood sugar and blood pressure: the core prevention",
+          "paras": [
+            "The large clinical trials are unambiguous: tighter blood sugar control measurably reduces both the incidence and the rate of progression of diabetic retinopathy. The Diabetes Control and Complications Trial in type 1 diabetes and the UK Prospective Diabetes Study in type 2 both showed that reducing HbA1c by one percentage point produces significant reductions in microvascular complications including retinopathy. This evidence directly justifies the effort of managing diabetes carefully.",
+            "Blood pressure is an independent factor. Raised blood pressure damages the delicate retinal vessels regardless of glucose level. The target blood pressure in diabetes is generally below 130/80 mmHg. ACE inhibitors and angiotensin receptor blockers (ARBs) are often the preferred antihypertensive agents in diabetes because they also protect the kidneys, and some evidence suggests additional retinal benefit.",
+            "Blood lipid levels, particularly raised triglycerides and LDL cholesterol, are associated with the severity of hard exudates in the retina and with macular oedema. Managing lipids through diet, exercise, and medication when indicated is part of a complete eye protection strategy, not just cardiovascular prevention.",
+            "Smoking is an independent risk factor for diabetic retinopathy and accelerates its progression in people who already have it. If you smoke and have diabetes, stopping smoking is one of the most protective actions you can take for your eyes, kidneys, and cardiovascular system simultaneously. There is no safe level of smoking for someone with diabetes."
+          ]
+        },
+        {
+          "h2": "Warning signs that need same-day assessment",
+          "paras": [
+            "Any sudden change in vision in a person with diabetes should be treated as an emergency until proven otherwise. Do not wait for a routine appointment. Contact your eye clinic directly or go to the nearest emergency eye service the same day.",
+            "Sudden floaters, which are small dark spots, threads, or cobwebs appearing in the visual field, or flashes of light in one eye, may indicate vitreous haemorrhage or retinal traction. These symptoms in a person with diabetes justify urgent assessment even if vision seems only mildly affected at the time, because the situation can worsen rapidly.",
+            "Distortion of straight lines, a dark patch at the centre of vision, or a sudden drop in the sharpness of your central vision may indicate macular oedema or haemorrhage at the macula. Acting quickly at this stage makes a substantial difference to what can be preserved. A curtain or shadow blocking part of the visual field suggests retinal detachment, which is a surgical emergency."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "Call your eye clinic today if you notice",
+            "items": [
+              "Sudden new floaters, dark spots, or cobwebs in your vision",
+              "Repeated flashes of light in one eye",
+              "Distortion or blurring in the centre of your vision",
+              "Sudden drop in sharpness in either eye",
+              "A shadow or curtain blocking part of your visual field"
+            ]
+          }
+        },
+        {
+          "h2": "Questions to ask at your retinal screening appointment",
+          "paras": [
+            "At each retinal check, ask your screener or ophthalmologist: what grade of retinopathy, if any, do I have? Is there any macular oedema? When should I return for my next check? Is there anything I should do differently to protect my eyes before then? These questions turn a passive appointment into a useful conversation and ensure you leave with an accurate understanding of where you stand.",
+            "Share the retinal screening result with your diabetes doctor if they are not the same person. The finding of even mild retinopathy may prompt a review of your HbA1c target, blood pressure management, or lipid levels. Coordinated care between the eye team and the diabetes team produces better outcomes than each working in isolation.",
+            "If you live far from a specialist eye centre, discuss with your diabetes doctor or general practitioner what the pathway is if you need urgent eye assessment. Knowing the answer before an emergency arises, including which hospital to go to and how to present as an urgent case, removes delay at a time when delay matters most."
+          ]
+        }
+      ],
+      "tie": "Log your retinal screening dates and results in the Sihtak app alongside your blood sugar readings, so you arrive at every appointment with a complete picture and never miss a scheduled check.",
+      "faqs": [
+        {
+          "q": "Can I have retinopathy without noticing any change in my vision?",
+          "a": "Yes, and this is the central reason why regular eye examinations are essential for everyone with diabetes. Early and moderate grades of retinopathy produce no pain and no obvious vision change. The damage becomes visible to the ophthalmologist on the retinal photograph long before the person notices anything themselves."
+        },
+        {
+          "q": "Does normal vision mean my retina is healthy?",
+          "a": "Not necessarily. The retina has no pain receptors and peripheral vision is affected before central vision, so many people with significant retinal damage still feel they see normally. Only a retinal examination or photograph reveals the true state of the retina."
+        },
+        {
+          "q": "Is good blood sugar control enough to protect my retina?",
+          "a": "It is the single most important factor, but blood pressure and lipids also matter independently. Duration of diabetes is a cumulative risk: even with good control, the risk rises over years. This is why annual screening remains necessary even for people with excellent blood sugar management."
+        },
+        {
+          "q": "Does laser treatment hurt, and can it restore lost vision?",
+          "a": "Laser treatment is performed with anaesthetic eye drops and is not painful, though there may be mild discomfort after the session. Its goal is to halt progression and preserve the vision that remains, not to restore what has already been lost. This is precisely why acting early, while vision is still good, gives the best outcome."
+        },
+        {
+          "q": "Can children and young people with diabetes develop retinopathy?",
+          "a": "Yes, especially those with type 1 diabetes diagnosed in childhood. Duration of disease is the main cumulative risk factor. Screening from five years after diagnosis, or at puberty if earlier, is the standard recommendation for type 1 diabetes regardless of age."
+        },
+        {
+          "q": "Can pregnancy worsen diabetic retinopathy?",
+          "a": "Yes, pregnancy can accelerate existing retinopathy, which is why eye examination at the start of pregnancy and at intervals through it is recommended for women with pre-existing diabetes. Gestational diabetes that develops during pregnancy for the first time is not associated with the same risk."
+        },
+        {
+          "q": "Are specialist retinal services available across the Arab world?",
+          "a": "Major cities in Saudi Arabia, the UAE, Egypt, and Jordan have retinal specialist centres offering laser treatment, anti-VEGF injections, and vitreoretinal surgery. Availability is much more limited in smaller towns and rural areas. It is worth asking your diabetes doctor now, before a problem develops, which facility you would be referred to for urgent eye care."
+        }
+      ]
+    }
+  }
+}

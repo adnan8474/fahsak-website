@@ -1,0 +1,420 @@
+{
+  "slug": "rickets-vitamin-d-children",
+  "category": "child-health",
+  "chip_ar": "صحة الطفل",
+  "chip_en": "Child Health",
+  "date_iso": "2026-08-03",
+  "sources": [
+    {
+      "label": "Chakhtoura M, Rahme M, Chamoun N et al: Vitamin D in the Middle East and North Africa, Bone reports, 2018",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29955632/"
+    },
+    {
+      "label": "Abuhamad AY, Almasri N, Al Karaghouli Y et al: Vitamin D deficiency and associated demographic risk factors in children at a tertiary hospital in Abu Dhabi, Paediatrics and international child health, 2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39246017/"
+    },
+    {
+      "label": "Tan ML, Abrams SA, Osborn DA et al: Vitamin D supplementation for term breastfed infants to prevent vitamin D deficiency and improve bone health, The Cochrane database of systematic reviews, 2020",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33305822/"
+    },
+    {
+      "label": "Carpenter TO, Shaw NJ, Portale AA et al: Rickets, Nature reviews. Disease primers, 2017",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29265106/"
+    },
+    {
+      "label": "Rajah J, Jubeh JA, Haq A et al: Nutritional rickets and z scores for height in the United Arab Emirates: to D or not to D?, Pediatrics international, 2008",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18937749/"
+    },
+    {
+      "label": "Dawodu A, Agarwal M, Sankarankutty M et al: Higher prevalence of vitamin D deficiency in mothers of rachitic than nonrachitic children, The Journal of pediatrics, 2005",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16027707/"
+    },
+    {
+      "label": "Wacker M, Holick MF: Sunlight and Vitamin D: A global perspective for health, Dermato-endocrinology, 2013",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24494042/"
+    }
+  ],
+  "content": {
+    "ar": {
+      "title": "الكساح ونقص فيتامين د عند الأطفال",
+      "desc": "الكساح يعود للظهور في منطقتنا رغم الشمس الوفيرة. تعرف على أسبابه عند الأطفال والجرعات الوقائية لكل مرحلة عمرية وعلامات التحذير.",
+      "keywords": "كساح الأطفال, نقص فيتامين د أطفال, فيتامين د للرضع, عظام الأطفال, مكمل فيتامين د, تشوهات العظام طفل, نقص فيتامين د رضيع",
+      "h1": "الكساح ونقص فيتامين د عند الأطفال: لماذا يعود رغم شمسنا؟",
+      "takeaways": [
+        "الكساح يعود للظهور في دول منطقة الشرق الأوسط رغم توفر الشمس، والسبب ليس الشمس نفسها بل قلة التعرض لها.",
+        "الرضيع الذي يرضع رضاعة طبيعية كاملة يحتاج مكمل فيتامين د من الأسابيع الأولى لأن حليب الأم يحتوي على كميات قليلة جداً.",
+        "الأم التي تلبس لباساً محتشماً أو تقضي وقتاً طويلاً في الداخل قد تكون هي نفسها ناقصة فيتامين د، مما ينعكس على الرضيع.",
+        "معظم حالات الكساح الغذائي تتحسن بالمكملات تحت إشراف الطبيب، لكن التشوهات الهيكلية الشديدة قد تحتاج لسنوات للتصحيح.",
+        "الوقاية أسهل بكثير من العلاج: مكمل منتظم في العمر المناسب يمنع غالبية الحالات."
+      ],
+      "sections": [
+        {
+          "h2": "ما هو الكساح ولماذا يحدث في دول شمسها وفيرة؟",
+          "paras": [
+            "الكساح (Rickets) هو مرض يصيب عظام الأطفال في مرحلة النمو ويُسبب ليونتها وتشوهها بدلاً من أن تكون صلبة ومستقيمة. الكساح الغذائي، وهو أكثر الأنواع شيوعاً في منطقتنا، ينتج عن نقص فيتامين د الذي يؤدي إلى انخفاض الكالسيوم المُمتص من الطعام إلى مستويات لا تكفي لبناء العظام بشكل سليم. العظم الناعم ينحني تحت ثقل الجسم ويأخذ أشكالاً مشوهة لا يسهل تصحيحها لاحقاً.",
+            "الغريب أن الكساح يظهر في دول كالإمارات والكويت والسعودية التي تتمتع بشمس قوية طوال السنة تقريباً. التناقض ظاهري فقط. فيتامين د يُصنعه الجلد عند التعرض للأشعة فوق البنفسجية من الشمس، لكن معظم الأطفال في المنطقة يقضون غالبية وقتهم في الداخل أو يتحركون من سيارة مكيفة إلى مبنى مكيف. وحتى في الهواء الطلق، تغطية الجلد باللباس أو تطبيق واقي الشمس تُعيق إنتاج الفيتامين.",
+            "دراسة أجريت في الإمارات ونُشرت في مجلة Pediatrics International عام 2008 وجدت أن الكساح الغذائي لا يزال يُسجَّل في دول الخليج العربي بمعدلات قابلة للقياس، وأن نقص فيتامين د يعكس في الغالب قلة التعرض للشمس الفعلي وليس غياب الشمس. هذا يجعل المكملات الغذائية ضرورة وقائية وليست رفاهية."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "warn",
+            "title": "لماذا تنقص فيتامين د رغم الشمس؟",
+            "items": [
+              "الأطفال يقضون معظم وقتهم في الداخل أو في السيارات",
+              "اللباس المحتشم يُغطي الجلد ويُعيق إنتاج الفيتامين",
+              "زجاج النوافذ لا يسمح بمرور الأشعة فوق البنفسجية",
+              "واقيات الشمس المستخدمة في الخارج تُقلل الإنتاج بشكل كبير",
+              "لون البشرة الداكن يحتاج وقتاً أطول في الشمس لإنتاج نفس الكمية"
+            ]
+          }
+        },
+        {
+          "h2": "الأم وفيتامين د: الصلة التي كثيراً ما تُغفَل",
+          "paras": [
+            "دراسة نُشرت في مجلة Journal of Pediatrics عام 2005 قارنت مستويات فيتامين د في أمهات الأطفال المصابين بالكساح مقارنةً بأمهات أطفال أصحاء في الإمارات، ووجدت أن الأمهات اللواتي انتهى بهن الأمر بأطفال مصابين بالكساح كانت مستويات فيتامين د لديهن أقل بشكل ملحوظ. هذا يعني أن نقص الأم ينتقل مباشرةً لطفلها.",
+            "الرضيع الذي يرضع رضاعة طبيعية يعتمد اعتماداً شبه كامل على ما تتناوله الأم أو ما اختزنته في جسمها خلال الحمل لتأمين فيتامين د عبر الحليب. المشكلة أن حليب الأم يحتوي على كميات ضئيلة جداً من فيتامين د حتى عندما تكون الأم سليمة من النقص. مراجعة منهجية شاملة نُشرت في قاعدة كوكران عام 2020 أكدت أن الرضاعة الطبيعية وحدها لا تُؤمّن احتياج الرضيع من فيتامين د وأن المكمل الإضافي ضروري.",
+            "مراجعة شاملة نُشرت في مجلة Bone Reports عام 2018 تناولت وضع فيتامين د في منطقة الشرق الأوسط وشمال أفريقيا ووثّقت انتشاراً واسعاً لنقص فيتامين د بين النساء في سن الإنجاب في المنطقة، وهو ما يجعل الرضع المولودين لهؤلاء الأمهات معرضين لخطر أعلى من نقص الفيتامين في الأشهر الأولى من حياتهم."
+          ],
+          "visual": {
+            "type": "donut",
+            "value": 80,
+            "label": "من حالات الكساح الغذائي قابلة للوقاية بمكملات بسيطة",
+            "tone": "info"
+          }
+        },
+        {
+          "h2": "علامات الكساح: ما الذي يجب أن تبحث عنه؟",
+          "paras": [
+            "الكساح في بداياته صامت. لا ألم واضح، ولا تشوه مرئي في الغالب. أول الأعراض التي قد يلاحظها الوالدان هي تأخر في الجلوس أو الوقوف أو المشي بالمقارنة مع الأطفال الآخرين في نفس العمر، وضعف عام في عضلات الطفل، أو تعرق مفرط في الرأس خلال الرضاعة. هذه أعراض غير نوعية يشتركها الكساح مع حالات أخرى، وتستحق عرضها على الطبيب.",
+            "مع تقدم المرض تظهر علامات أوضح: تضخم ملحوظ في مفاصل المعصمين والكاحلين، وانحناء في عظام الساقين (سواء للداخل وهو ما يُسمى ساق الفرسان O-shaped legs، أو للخارج X-shaped legs)، وبروز في القفص الصدري عند مكان اتصال الأضلاع بالغضاريف يُسمى مسبحة الكساح (rachitic rosary). عند الرضع الصغار قد يظهر تأخر في إغلاق اليافوخ (Fontanelle) أعلى الرأس.",
+            "من الأعراض التي تُقلق كثيراً من الأهالي وتأتي بهم للطبيب: تشوه الرأس ليصبح مسطحاً من الخلف (مؤخرة الرأس) أو تأخر ظهور الأسنان. الكساح يؤثر أيضاً على عظام الحوض عند الفتيات مما قد يُسبب مشاكل لاحقاً في سن البلوغ أو خلال الولادة. كل هذه الأعراض يمكن تجنبها بالكامل بالوقاية المناسبة."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "راجع الطبيب فوراً إذا لاحظت",
+            "items": [
+              "انحناء واضح في ساقي الطفل بعد سن السنة والنصف",
+              "تأخر ملحوظ في المشي أو الجلوس المستقل",
+              "تضخم في مفاصل المعصم أو الكاحل",
+              "يافوخ لا يزال مفتوحاً جداً بعد عمر 18 شهراً",
+              "تقلصات عضلية أو رعشة بدون سبب واضح"
+            ]
+          }
+        },
+        {
+          "h2": "من هم الأطفال الأكثر عرضة لنقص فيتامين د؟",
+          "paras": [
+            "الرضع الذين يرضعون رضاعة طبيعية دون مكمل فيتامين د هم في القمة من حيث الخطر. دراسة نُشرت في مجلة Paediatrics and International Child Health عام 2024 من أبو ظبي تناولت عوامل الخطر لنقص فيتامين د عند الأطفال في مستشفى ثالثي المستوى، ووجدت أن الرضاعة الطبيعية المفردة دون مكمل كانت من أبرز العوامل المرتبطة بالنقص. الأطفال الذين تُلبس لهم ملابس تُغطي معظم جلدهم ويقضون وقتاً محدوداً في الخارج هم الفئة الثانية.",
+            "الأطفال ذوو البشرة الداكنة بطبيعتهم يحتاجون وقتاً أطول في الشمس لإنتاج نفس كمية فيتامين د مقارنةً بالأطفال الأفتح بشرةً. هذا لأن الميلانين (Melanin) الذي يمنح البشرة لونها الداكن يُخفف من كفاءة تحويل الأشعة فوق البنفسجية إلى فيتامين د. في السياق الإقليمي حيث كثير من الأطفال يتمتعون ببشرة داكنة ويقضون وقتاً محدوداً في الخارج، يتضاعف الخطر.",
+            "الأطفال المولودون قبل أوانهم لديهم مخازن أقل من فيتامين د عند الولادة لأن الجنين يكتسب غالبية احتياطياته من الأم في الثلث الأخير من الحمل. الطفل المولود في الأسبوع الثلاثين لا يزال في مرحلة التخزين التي انتُزعت منه بتبكير الولادة، وهذا يجعله يحتاج مكملات مبكرة ومراقبة دقيقة."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "الأطفال الأكثر عرضة لنقص فيتامين د",
+            "head": ["الفئة", "السبب"],
+            "rows": [
+              ["رضع يرضعون طبيعياً دون مكمل", "حليب الأم فقير بفيتامين د"],
+              ["أطفال يقضون وقتاً قليلاً في الخارج", "لا إنتاج كافٍ من الشمس"],
+              ["أطفال ذوو بشرة داكنة", "الميلانين يُقلل كفاءة إنتاج الفيتامين"],
+              ["خدج وصغار الوزن عند الولادة", "مخازن أقل بسبب قِصَر الحمل"],
+              ["أطفال أمهات ناقصات فيتامين د", "النقص ينتقل من الأم للرضيع"]
+            ]
+          }
+        },
+        {
+          "h2": "كيف يُشخَّص نقص فيتامين د والكساح؟",
+          "paras": [
+            "تشخيص نقص فيتامين د يبدأ بقياس مستوى 25-هيدروكسي فيتامين د (25-OH Vitamin D) في الدم. هذا هو الشكل الذي يُخزنه الجسم ويمكن قياسه بدقة، بخلاف الشكل النشط الذي يتقلب بسرعة. المستوى الطبيعي بحسب معظم المراجع هو 50 نانومول/لتر أو أعلى (أي 20 نانوغرام/مل أو أعلى). بين 30 و50 نانومول/لتر يُعد نقصاً نسبياً (Insufficiency)، وتحت 30 نانومول/لتر نقصاً حاداً (Deficiency).",
+            "عندما يشتبه الطبيب بالكساح بناءً على الأعراض السريرية، يُضيف إلى التحليل قياس الكالسيوم (Calcium) والفوسفور (Phosphorus) في الدم والبول، وإنزيم الفوسفاتاز القلوي (Alkaline Phosphatase) الذي يرتفع بشكل ملحوظ في الكساح النشط. أشعة سينية للمعصم أو الركبة تُظهر التغيرات المميزة للكساح في نهايات العظام النامية قبل أن تظهر التشوهات الواضحة للعين.",
+            "في كثير من المختبرات الصغيرة في المنطقة لا يتوفر قياس فيتامين د بسهولة أو قد يكون مكلفاً. في هذه الحالات يعتمد الطبيب على الصورة السريرية والقياسات الأخرى لاتخاذ قرار علاجي تجريبي، وهو نهج مقبول بالنظر للتكلفة المنخفضة للمكمل مقارنةً بالتحليل."
+          ],
+          "visual": {
+            "type": "range-scale",
+            "title": "مستوى 25-OH فيتامين د في الدم عند الأطفال",
+            "label": "25-OH Vitamin D",
+            "unit": "nmol/L",
+            "min": 0,
+            "max": 150,
+            "zones": [
+              {"to": 30, "tone": "bad", "label": "نقص حاد"},
+              {"to": 50, "tone": "warn", "label": "نقص نسبي"},
+              {"to": 150, "tone": "good", "label": "طبيعي"}
+            ],
+            "marker": {"value": 22, "label": "مثال على نتيجة ناقصة"},
+            "source": "Carpenter TO et al: Rickets, Nature Reviews Disease Primers, 2017",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/29265106/"
+          }
+        },
+        {
+          "h2": "الجرعات الوقائية لكل مرحلة عمرية",
+          "paras": [
+            "للوقاية لا للعلاج: جميع الرضع الذين يرضعون رضاعة طبيعية يحتاجون 400 وحدة دولية (IU) يومياً من فيتامين د ابتداءً من الأسابيع الأولى بعد الولادة، وتستمر الجرعة حتى يتنوع طعامهم ويشمل مصادر كافية للفيتامين. هذه الجرعة مدعومة بمراجعات منهجية متعددة وهي آمنة تماماً للرضيع.",
+            "الأطفال الذين يتناولون حليباً اصطناعياً مدعماً بفيتامين د عادةً ما يحتاجون مكملاً إضافياً فقط إذا كانت الكمية اليومية التي يشربونها أقل من 500-600 مل، لأن الحليب الاصطناعي يحتوي على 40-50 وحدة دولية لكل 100 مل، مما يعني أن الكمية الكافية ترفع المجموع لـ 400 وحدة يومياً. الحسابات الدقيقة يتحقق منها الطبيب أو طبيب الأطفال.",
+            "الأطفال الأكبر سناً من سنة إلى 18 سنة يحتاجون عادةً 600 وحدة دولية يومياً إذا كان تعرضهم للشمس محدوداً. في مناطق منطقتنا حيث التعرض الفعلي للشمس ضعيف رغم توفرها، يميل كثير من أطباء الأطفال إلى توصية مكمل منتظم طوال السنة وليس في الشتاء فقط كما يُنصح به في أوروبا."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "الجرعات الوقائية الموصى بها لفيتامين د",
+            "head": ["العمر", "الجرعة اليومية الوقائية", "ملاحظة"],
+            "rows": [
+              ["0-12 شهراً رضاعة طبيعية", "400 وحدة دولية (IU)", "ابدأ من الأسابيع الأولى"],
+              ["0-12 شهراً حليب اصطناعي", "400 IU إذا كان الحليب أقل من 500 مل/يوم", "احسب مع الطبيب"],
+              ["1-18 سنة", "600 IU يومياً", "أكثر إذا كان التعرض للشمس ضعيفاً"],
+              ["طفل خديج", "حسب وزن ولادته وتوجيه الطبيب", "قد يحتاج 400-1000 IU"]
+            ]
+          }
+        },
+        {
+          "h2": "علاج الكساح الموجود: ما يمكن توقعه",
+          "paras": [
+            "لا تُعطِ طفلك جرعات علاجية عالية من فيتامين د دون وصفة طبيب. فيتامين د من الفيتامينات التي تتراكم في الدهون ويمكن أن تصل إلى مستويات سامة إذا تجاوزت الحد. التسمم بفيتامين د يُسبب ارتفاع الكالسيوم في الدم وهو حالة خطيرة. الجرعات العلاجية الصحيحة يحددها الطبيب بناءً على مستوى الفيتامين في الدم وعمر الطفل.",
+            "بعد بدء العلاج بالجرعة الصحيحة، تتحسن مستويات الكالسيوم والفوسفور خلال أسابيع قليلة. العلامات السريرية كالتضخم في المعصم وضعف العضلات تتراجع تدريجياً خلال أشهر. أما التشوهات العظمية كانحناء الساقين، فتحتاج وقتاً أطول: حالات التشوه الخفيف تتحسن بشكل ملحوظ مع العلاج وإعادة النمو، لكن التشوهات الشديدة قد تبقى وتحتاج في بعض الأحيان لتدخل جراحي.",
+            "مصادر الغذاء الغنية بفيتامين د محدودة نسبياً لكنها تساهم في مجملها: الأسماك الدهنية كالسلمون والسردين والتونة مصدر ممتاز. صفار البيض والكبدة يحتويان على كميات معتدلة. في بعض الدول يُضاف فيتامين د إلى الحليب والزيوت والعصائر، وهو ما يُسمى التحصين الغذائي (Fortification). تحقق من تفاصيل المنتجات المتاحة في منطقتك."
+          ],
+          "visual": {
+            "type": "timeline",
+            "title": "ماذا يحدث بعد بدء علاج الكساح؟",
+            "items": [
+              {"when": "الأسبوع 2-4", "what": "يتحسن الكالسيوم والفوسفور في الدم"},
+              {"when": "الشهر 1-3", "what": "تراجع التضخم في المعصم وتحسن قوة العضلات"},
+              {"when": "الشهر 3-6", "what": "تحسن ملحوظ في الأشعة السينية للعظام"},
+              {"when": "السنة الأولى", "what": "تصحيح معظم التشوهات الخفيفة مع النمو"},
+              {"when": "بعد السنة الأولى", "what": "التشوهات الشديدة قد تحتاج تقييماً جراحياً"}
+            ]
+          }
+        },
+        {
+          "h2": "الوقاية: خطوات عملية في واقع منطقتنا",
+          "paras": [
+            "الوقاية تبدأ قبل الولادة. الأم التي تعرف أنها ناقصة فيتامين د أثناء الحمل ينبغي أن تناقش مع طبيبها تناول مكمل مناسب، وهو ما أكدت عليه المراجعات الطبية الحديثة كحيلة لتحصين الرضيع من الداخل منذ اللحظة الأولى. فيتامين د يعبر المشيمة ويُخزّن في الجنين استعداداً لأشهر الرضاعة الأولى.",
+            "التعرض المنتظم للشمس ممكن حتى في مجتمعاتنا، والمقصود ليس الجلوس تحت شمس منتصف النهار. نصف ساعة في الصباح الباكر أو قبل الغروب بساعة مع كشف الساعدين والوجه على الأقل يكفي لأن ينتج الجلد كميات جيدة من الفيتامين. المشكلة الحقيقية هي أن هذا النمط ليس جزءاً من الحياة اليومية في كثير من المدن، وهنا يصبح المكمل الخيار الأكثر واقعية.",
+            "شراء مكمل فيتامين د للرضع لا يتطلب وصفة طبية في معظم دول المنطقة وهو متاح بأسعار معقولة. قطرات فيتامين د للأطفال الرضع متوفرة في الصيدليات وسهلة الإعطاء مع الرضعة أو بعدها مباشرةً. الاستمرارية هي مفتاح النجاح: قطرة يومية منتظمة لسنوات أفضل بكثير من جرعات متقطعة أو رمية.",
+            "فكرة عملية تساعد الكثيرين: ضع زجاجة القطرات بجانب غرض تستخدمه يومياً كعلبة الحفاضات أو قرب طاولة الإطعام. هذا الربط البصري يذكرك يومياً ويُقلل احتمال النسيان. التسجيل في تطبيق الهاتف أو الرزنامة خيار جيد آخر لمن يفضل التتبع الرقمي."
+          ]
+        }
+      ],
+      "tie": "إذا كان طفلك يتناول مكمل فيتامين د، سجّل الجرعة والتاريخ في تطبيق سهتك. التوثيق البسيط يُساعدك على معرفة ما إذا كان استخدامه منتظماً وتشارك هذه المعلومات مع طبيب الأطفال في الزيارات الدورية.",
+      "faqs": [
+        {
+          "q": "هل يحتاج كل رضيع مكمل فيتامين د؟",
+          "a": "نعم إذا كان يرضع رضاعة طبيعية. حليب الأم يحتوي على كميات قليلة جداً من فيتامين د لا تكفي احتياج الرضيع. التوصية الموحدة من معظم جمعيات طب الأطفال حول العالم هي إعطاء 400 وحدة دولية يومياً من فيتامين د ابتداءً من الأسابيع الأولى. الأطفال على حليب اصطناعي قد لا يحتاجون إضافياً إذا كانت الكمية اليومية كافية لتأمين الجرعة."
+        },
+        {
+          "q": "هل التعرض للشمس عبر النافذة يكفي؟",
+          "a": "لا. زجاج النوافذ يحجب الأشعة فوق البنفسجية الضرورية لإنتاج فيتامين د في الجلد. الطفل الجالس قرب نافذة مشمسة لا ينتج فيتامين د من هذا التعرض. يجب أن يكون الطفل في الهواء الطلق المفتوح مع كشف جزء من الجلد وعدم تطبيق واقي شمس في تلك الفترة الوقائية القصيرة."
+        },
+        {
+          "q": "ما الأشعة السينية التي تُشير إلى الكساح؟",
+          "a": "في الأشعة السينية للمعصم أو الركبة يظهر الكساح كتوسع وتغيم في نهايات العظام النامية مع ما يُسمى تكوين الكأس (cupping) أو تعشيش (fraying) في حواف العظم. يلاحظ الأشعة طبيب الأطفال أو طبيب العظام والتفسير يحتاج خبرة سريرية. الأشعة وحدها لا تكفي للتشخيص بل تُكمل صورة الحالة."
+        },
+        {
+          "q": "هل يمكن أن يتصحح انحناء الساقين وحده دون علاج؟",
+          "a": "الانحناء الفسيولوجي الطفيف للساقين طبيعي عند الأطفال حتى عمر سنتين ويتصحح وحده. لكن الانحناء الناجم عن الكساح لا يتصحح وحده ويتفاقم إذا لم يُعالج. الفرق يميزه الطبيب بالفحص السريري والأشعة والتحاليل. لا تنتظر لمعرفة أيهما بمجرد المشاهدة إذا كان الانحناء واضحاً."
+        },
+        {
+          "q": "هل يكفي منح الطفل تعرضاً منتظماً للشمس بدلاً من المكمل؟",
+          "a": "نظرياً نعم، لكن عملياً يصعب ضمانه بشكل منتظم وآمن. الأشعة فوق البنفسجية التي تُنتج فيتامين د هي أيضاً مسؤولة عن حروق الشمس وتلف الجلد على المدى البعيد. للرضع الصغار جداً تحت 6 أشهر لا يُنصح بالتعرض المباشر لأشعة الشمس أصلاً. المكمل لهذه الفئة هو الحل الوحيد الآمن."
+        },
+        {
+          "q": "هل فيتامين د يمكن أن يكون ساماً؟",
+          "a": "نعم إذا أُخذ بجرعات عالية جداً لفترات طويلة. التسمم بفيتامين د يُسبب ارتفاع الكالسيوم في الدم وأعراضه: الغثيان والقيء والإمساك وزيادة التبول والتعب الشديد. الجرعات الوقائية الموصى بها (400-600 وحدة دولية يومياً) آمنة تماماً. خطر التسمم يظهر عادةً عند الجرعات العلاجية العالية جداً التي لا تُعطى إلا تحت إشراف طبي."
+        },
+        {
+          "q": "هل الكساح موجود في السعودية والإمارات رغم الشمس؟",
+          "a": "نعم وهو موثق في الأبحاث. الشمس موجودة لكن التعرض الفعلي للجلد محدود جداً بسبب اللباس وأسلوب الحياة الداخلي وواقيات الشمس. دراسات أجريت في الإمارات وجدت حالات كساح غذائي نشط، ومستويات نقص فيتامين د مرتفعة بين الأطفال حتى في هذه الدول الشمسية. المكمل اليومي هو الحل العملي."
+        }
+      ]
+    },
+    "en": {
+      "title": "Rickets and vitamin D in children",
+      "desc": "Rickets is returning in sun-rich Arab countries because children spend little time outdoors. Learn the signs, which children need supplements and what doses are safe.",
+      "keywords": "rickets children, vitamin D deficiency children, vitamin D supplement infant, bone deformity child, rickets prevention, breastfed baby vitamin D, vitamin D dose children",
+      "h1": "Rickets and vitamin D in children: why it is returning and what to do about it",
+      "takeaways": [
+        "Rickets is re-emerging across the Middle East despite abundant sunshine because children rarely get direct sun exposure on uncovered skin.",
+        "Breastfed infants need a vitamin D supplement from the first weeks of life because breast milk contains very little of it.",
+        "A mother who is herself vitamin D deficient passes that deficiency directly to her breastfed baby.",
+        "Most cases of nutritional rickets recover well with supplements, but severe bone deformity may take years to correct.",
+        "Prevention with a daily supplement is straightforward, inexpensive and far easier than treating established rickets."
+      ],
+      "sections": [
+        {
+          "h2": "What is rickets and why does it appear in sunny countries?",
+          "paras": [
+            "Rickets is a disease of growing bone. When vitamin D levels are too low, the gut absorbs far less calcium from food than the body needs, and the bones that are actively forming during childhood cannot mineralise properly. Instead of hard, straight bone, the growing skeleton produces soft, pliable tissue that bends under the child's own weight and takes on characteristic deformed shapes. The bones most visibly affected are the legs, the wrists, the ribs and the skull, because these are the sites of most active growth.",
+            "The paradox of rickets in countries like the UAE, Saudi Arabia, Kuwait and Jordan, where the sun is strong for most of the year, resolves when you look at how people actually live. Vitamin D is produced in the skin only when ultraviolet B radiation from the sun hits uncovered skin directly. Most children in the region spend the bulk of their waking hours indoors in air-conditioned buildings or cars. When they do go outside, clothing covers most of the skin, and sunscreen blocks the UV radiation that is left. A 2008 study of nutritional rickets in the UAE published in Pediatrics International found that active rickets was still being diagnosed in a country with year-round sun, and that the mechanism was inadequate actual skin exposure rather than inadequate sunshine.",
+            "A comprehensive 2018 review in Bone Reports of vitamin D status across the Middle East and North Africa documented widespread vitamin D deficiency among women of childbearing age and children across the region, making clear that geography and sun strength are far less important than behaviour and lifestyle when it comes to predicting who will and will not become deficient."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "warn",
+            "title": "Why vitamin D is low despite the sun",
+            "items": [
+              "Children spend most of their time indoors or in cars",
+              "Modest clothing covers most skin when outside",
+              "Window glass blocks UV-B radiation entirely",
+              "Sunscreen applied outdoors blocks UV production",
+              "Darker skin needs more sun time to produce the same amount"
+            ]
+          }
+        },
+        {
+          "h2": "The mother's vitamin D: the connection that is often missed",
+          "paras": [
+            "A 2005 study published in the Journal of Pediatrics compared vitamin D levels in mothers of rachitic children against mothers of non-rachitic children in the UAE, and found that mothers whose children had developed rickets had significantly lower vitamin D levels themselves. This direct link means that a mother's deficiency is not her problem alone: it becomes her infant's problem through the same breastfeeding relationship that is otherwise so valuable.",
+            "A breastfed infant depends almost entirely on what the mother has stored during pregnancy and what passes into breast milk to meet their vitamin D needs. Breast milk contains very little vitamin D even when the mother is replete, and the amounts are insufficient to prevent deficiency in the infant without supplementation. A 2020 Cochrane systematic review on vitamin D supplementation for breastfed infants confirmed this clearly: breastfeeding alone is not protective against vitamin D deficiency, and daily supplementation of the infant is necessary from early in life.",
+            "This means the protective chain works best when both links are addressed: the mother's vitamin D status during pregnancy matters for the stores the newborn inherits, and the infant's supplement matters for the months that follow. A woman planning a pregnancy in this region, where deficiency is common, has good reason to have her vitamin D checked and discuss supplementation with her doctor well before delivery."
+          ],
+          "visual": {
+            "type": "donut",
+            "value": 80,
+            "label": "of nutritional rickets cases are preventable with simple supplements",
+            "tone": "info"
+          }
+        },
+        {
+          "h2": "Signs of rickets: what to look for",
+          "paras": [
+            "Early rickets is largely silent. There is no obvious pain and no visible deformity in most cases at the outset. The first signs parents notice are often non-specific: delayed motor milestones such as being slow to sit, stand or walk compared to other children the same age, generalised muscle weakness, excessive sweating of the head during feeding in infants, and unusual irritability. These signs overlap with many other conditions but all of them warrant a visit to the paediatrician.",
+            "As rickets progresses, the bony changes become visible. Swelling of the wrists and ankles at the growth plates is an early skeletal sign. The legs may bow outward at the knees, producing the classic O-shaped (genu varum) or X-shaped (genu valgum) appearance, depending on where the softened bone bends. In the chest, swelling at the junction between the ribs and the cartilage produces a string of bead-like protrusions called the rachitic rosary. In young infants, the fontanelle (the soft spot on the top of the skull) may remain open longer than expected, and the skull itself may become softened (craniotabes).",
+            "Two signs that frequently bring children to the doctor and may indicate rickets are delayed tooth eruption and a flattening of the back of the skull from lying down. In girls, rickets affecting the pelvis can create narrowing that causes problems much later during childbirth. All of these consequences are avoidable with timely prevention. Carpenter and colleagues in their 2017 review of rickets in Nature Reviews Disease Primers describe the full clinical spectrum and emphasise that none of the typical presentations need to be seen if prevention is applied from infancy."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "See a doctor today if you notice",
+            "items": [
+              "Visible bowing of the legs after 18 months of age",
+              "Noticeably delayed walking or independent sitting",
+              "Swelling at the wrists or ankles",
+              "Fontanelle still wide open after 18 months",
+              "Muscle spasms or twitching without obvious cause"
+            ]
+          }
+        },
+        {
+          "h2": "Which children are at highest risk of vitamin D deficiency?",
+          "paras": [
+            "Breastfed infants without a vitamin D supplement sit at the top of the risk hierarchy. A 2024 study of children at a tertiary hospital in Abu Dhabi published in Paediatrics and International Child Health found that exclusive breastfeeding without supplementation was one of the strongest factors associated with vitamin D deficiency in the study population. This is not a reason to discourage breastfeeding, which remains the ideal infant nutrition. It is a reason to routinely supplement every breastfed infant from the first weeks of life.",
+            "Children with darker skin need more sun exposure to produce the same amount of vitamin D as lighter-skinned children, because melanin (Melanin), the pigment that gives skin its colour, competes with vitamin D production for the same UV radiation. In a region where many children have naturally darker skin and also spend limited time with uncovered skin outdoors, these two factors combine to increase risk substantially. A paper by Wacker and Holick in Dermato-endocrinology (2013) examining the global relationship between sunlight and vitamin D status documented how skin pigmentation meaningfully affects synthesis rates and why supplementation is more important for darker-skinned populations living at any latitude.",
+            "Premature infants carry smaller reserves of vitamin D at birth because the fetus builds most of its stores from the mother during the last trimester. A baby born at 30 weeks has missed the final accumulation phase entirely. Preterm infants typically need supplements from as early as one month of age, at doses that the neonatal team will specify based on birth weight and gestational age."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Children at highest risk of vitamin D deficiency",
+            "head": ["Group", "Reason"],
+            "rows": [
+              ["Breastfed infants without supplement", "Breast milk is low in vitamin D"],
+              ["Children with little outdoor time", "No UV production from skin"],
+              ["Darker-skinned children", "Melanin slows UV-to-vitamin D conversion"],
+              ["Premature and low birth weight babies", "Smaller stores from shortened pregnancy"],
+              ["Infants of vitamin D deficient mothers", "Deficiency passes from mother to baby"]
+            ]
+          }
+        },
+        {
+          "h2": "How are vitamin D deficiency and rickets diagnosed?",
+          "paras": [
+            "The standard blood test is 25-hydroxy vitamin D (25-OH Vitamin D), which measures the body's stored form of the vitamin rather than the active form, which fluctuates too rapidly to be useful. Most guidelines define sufficiency as 50 nmol/L or above (equivalent to 20 ng/mL or above). Values between 30 and 50 nmol/L indicate insufficiency, and values below 30 nmol/L indicate frank deficiency. Some paediatric guidelines use 50 nmol/L as the lower limit of sufficiency and set a higher target of 75 nmol/L for at-risk groups.",
+            "When rickets is clinically suspected, the doctor will usually add measurement of calcium (Calcium) and phosphorus (Phosphorus) in blood and urine, and alkaline phosphatase (Alkaline Phosphatase), an enzyme that rises sharply in active rickets as bone formation struggles. X-rays of the wrist or knee show the characteristic changes at the growth plates, including widening, haziness and the cupping and fraying of the bone ends, which can appear before skeletal deformity is visible on external examination.",
+            "In smaller clinics across the region where vitamin D testing is not routinely available or is expensive, doctors sometimes make an empirical clinical diagnosis based on the age, feeding history, visible signs and elevated alkaline phosphatase, and start treatment without the full panel. This is a reasonable approach given the low cost of the supplement and the clear clinical picture in many cases. If you live in an area where testing is available, it is worth having a level checked before starting high-dose treatment, because it confirms the diagnosis and guides the dose."
+          ],
+          "visual": {
+            "type": "range-scale",
+            "title": "25-OH Vitamin D blood level in children",
+            "label": "25-OH Vitamin D",
+            "unit": "nmol/L",
+            "min": 0,
+            "max": 150,
+            "zones": [
+              {"to": 30, "tone": "bad", "label": "Deficient"},
+              {"to": 50, "tone": "warn", "label": "Insufficient"},
+              {"to": 150, "tone": "good", "label": "Sufficient"}
+            ],
+            "marker": {"value": 22, "label": "Example deficient result"},
+            "source": "Carpenter TO et al: Rickets, Nature Reviews Disease Primers, 2017",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/29265106/"
+          }
+        },
+        {
+          "h2": "Prevention doses by age",
+          "paras": [
+            "For prevention, not treatment: all breastfed infants need 400 international units (IU) of vitamin D per day, started within the first few weeks after birth and continued until diet is diverse enough to include adequate dietary sources. This recommendation is endorsed by multiple systematic reviews and paediatric societies worldwide, and is safe at this dose with no risk of toxicity. The Cochrane review of 2020 on vitamin D for breastfed infants confirmed its effectiveness for preventing deficiency and supporting bone health.",
+            "Infants on formula milk usually do not need an additional supplement if they are consuming 500 ml or more per day, because formula is fortified with around 40 to 50 IU per 100 ml. A child consuming less than that amount, or a child being partially breastfed, should receive a supplement to reach the 400 IU daily target. Your paediatrician can calculate this precisely based on the child's actual daily intake.",
+            "Children aged one to 18 years need around 600 IU daily when sun exposure is limited. In this region, where actual direct skin exposure to sunlight is low despite abundant sunshine, many paediatric specialists recommend year-round supplementation rather than the seasonal approach used in northern Europe, where winter sun is genuinely insufficient. A supplement taken daily through the year is simpler to maintain as a habit and prevents the dip in levels that occurs when families stop for the summer, reasoning incorrectly that the outdoor sun will cover the gap."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Recommended preventive vitamin D doses",
+            "head": ["Age and feeding", "Daily dose", "Note"],
+            "rows": [
+              ["0 to 12 months, breastfed", "400 IU per day", "Start in the first weeks"],
+              ["0 to 12 months, formula fed", "400 IU if formula less than 500 ml/day", "Calculate with your doctor"],
+              ["1 to 18 years", "600 IU per day", "More if sun exposure is very low"],
+              ["Premature infant", "400 to 1000 IU based on birth weight", "Doctor specifies dose"]
+            ]
+          }
+        },
+        {
+          "h2": "Treatment of established rickets: what to expect",
+          "paras": [
+            "Do not give your child high-dose vitamin D without a doctor's guidance. Vitamin D is fat-soluble and accumulates in the body. At doses far above the preventive range, it causes vitamin D toxicity (hypervitaminosis D), which raises blood calcium to dangerous levels, producing vomiting, abdominal pain, excessive thirst and in severe cases kidney damage. Treatment doses for confirmed rickets are many times higher than preventive doses and must be prescribed and monitored by a doctor.",
+            "Once the right treatment dose is given, calcium and phosphorus levels in the blood typically normalise within two to four weeks. Clinical signs such as wrist swelling and muscle weakness improve over the following months. X-ray evidence of healing at the growth plates appears by three to six months. Leg bowing in mild cases often improves substantially as the child grows and the bones remodel, but severe deformities that have been present for a long time may persist and occasionally require surgical correction.",
+            "Dietary sources of vitamin D are limited but worth including. Oily fish such as salmon, sardines and tuna provide meaningful amounts. Egg yolk and liver contain moderate quantities. In countries where food fortification programmes exist, vitamin D is added to milk, margarine and some juices. Check the labels of products available locally. Diet alone is unlikely to prevent deficiency in a breastfed infant or a child with very low sun exposure, but it adds a useful layer on top of a supplement."
+          ],
+          "visual": {
+            "type": "timeline",
+            "title": "What happens after rickets treatment begins",
+            "items": [
+              {"when": "Week 2 to 4", "what": "Blood calcium and phosphorus normalise"},
+              {"when": "Month 1 to 3", "what": "Wrist swelling reduces and muscle strength improves"},
+              {"when": "Month 3 to 6", "what": "X-ray shows healing at growth plates"},
+              {"when": "Year 1", "what": "Most mild leg bowing corrects as the child grows"},
+              {"when": "After year 1", "what": "Severe deformity may need orthopaedic assessment"}
+            ]
+          }
+        },
+        {
+          "h2": "Practical prevention in everyday regional life",
+          "paras": [
+            "Prevention starts before birth. A mother who is vitamin D deficient during pregnancy will deliver a baby with lower stores at birth, making supplementation even more important in the first months. Women planning a pregnancy have good reason to ask their doctor to check their vitamin D level and discuss supplementation. This is not an unusual request, and in this region given the documented prevalence of deficiency, it is a sensible precaution.",
+            "Sensible sun exposure is achievable within the constraints of regional life and cultural norms. The goal is not midday sun on fully uncovered skin. Thirty minutes in the early morning or an hour before sunset, with the forearms and face exposed without sunscreen during that specific window, allows the skin to produce meaningful amounts of vitamin D. The practical difficulty is that this level of regular outdoor time is simply not a feature of daily life for many urban families in the region, which is precisely why the supplement exists as the reliable fallback.",
+            "Vitamin D drops for infants are widely available at pharmacies across the region without a prescription, and the cost of a month's supply is low. The drops are given directly into the infant's mouth or on to the nipple before feeding. Starting them in the first weeks and continuing consistently through the first year and beyond is the most effective single action a parent can take to prevent rickets. Consistency matters: a daily drop given every day is far more effective than a larger dose given sporadically."
+          ]
+        }
+      ],
+      "tie": "If your child is taking a vitamin D supplement, log the dose and dates in the Sihtak app. That record helps you track consistency and gives your paediatrician a clear picture of how long supplementation has been in place when they review your child.",
+      "faqs": [
+        {
+          "q": "Does every breastfed baby need a vitamin D supplement?",
+          "a": "Yes, according to current guidance from paediatric societies worldwide. Breast milk contains very little vitamin D, regardless of the mother's intake or sun exposure, and the amounts are not sufficient to prevent deficiency in a growing infant. The recommended dose is 400 IU per day, started in the first weeks of life and continued until the diet provides adequate amounts. This applies in sunny climates just as much as in northern ones."
+        },
+        {
+          "q": "Does sitting near a sunny window count as sun exposure for vitamin D?",
+          "a": "No. Window glass filters out the UV-B radiation that the skin uses to produce vitamin D. A baby sitting near a bright window gets warmth and light but no vitamin D synthesis. Direct outdoor exposure with uncovered skin and without sunscreen is the only way the skin produces the vitamin. For infants under six months, direct sun exposure is not recommended at all, making the supplement the only safe route."
+        },
+        {
+          "q": "Can leg bowing straighten on its own without treatment?",
+          "a": "Mild physiological bowing of the legs is normal in toddlers up to about two years and does correct spontaneously. Bowing caused by rickets does not straighten on its own and worsens if left untreated. The difference is identified by the doctor through examination, X-ray and blood tests. Do not wait to observe which type it is if the bowing is prominent or worsening."
+        },
+        {
+          "q": "Is vitamin D toxic if too much is given?",
+          "a": "Yes, at doses far above the preventive range. Vitamin D is fat-soluble and accumulates in body fat. Toxicity causes high blood calcium, leading to nausea, vomiting, constipation, excessive thirst and, in severe cases, kidney injury. Preventive doses of 400 to 600 IU per day carry no risk of toxicity. High-dose treatment regimens are prescribed by doctors based on measured blood levels and should not be self-administered."
+        },
+        {
+          "q": "What foods are rich in vitamin D?",
+          "a": "The richest natural sources are oily fish: salmon, sardines, mackerel and tuna all provide meaningful amounts. Egg yolk and liver contain moderate quantities. Some countries fortify foods such as milk, infant formula and margarine with vitamin D. Diet alone is generally not sufficient to prevent deficiency in a breastfed infant or a child with very limited sun exposure, so supplements remain the primary preventive tool."
+        },
+        {
+          "q": "How is vitamin D deficiency different from rickets?",
+          "a": "Vitamin D deficiency means blood levels are below the adequate range. Rickets is the bone disease that develops when deficiency is severe enough and prolonged enough to prevent normal bone mineralisation. Not every deficient child develops rickets, but all children with active nutritional rickets are vitamin D deficient. Deficiency without rickets is the earlier stage and is easier to treat and fully reverse."
+        },
+        {
+          "q": "Are rickets cases really still happening in the Gulf?",
+          "a": "Yes, they are documented in peer-reviewed research. A 2008 study in the UAE found active rickets in children despite the country's abundant sunshine, and a 2024 study from Abu Dhabi identified vitamin D deficiency as common among hospitalised children even in a high-income sun-rich setting. The combination of indoor lifestyle, modest clothing and no routine supplementation explains why the condition persists despite geography."
+        }
+      ]
+    }
+  }
+}

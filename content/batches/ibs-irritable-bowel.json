@@ -1,0 +1,376 @@
+{
+  "slug": "ibs-irritable-bowel",
+  "category": "chronic-conditions",
+  "chip_ar": "أمراض مزمنة",
+  "chip_en": "Chronic Conditions",
+  "date_iso": "2026-07-10",
+  "sources": [
+    {
+      "label": "Almansour O: Prevalence of Irritable Bowel Syndrome (IBS) in the Arab World: A Systematic Review, Cureus, 2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39184662/"
+    },
+    {
+      "label": "Alavinejad P, Mousavi Ghanavati P, Alboraie M et al: Irritable Bowel Syndrome Demographics: A Middle Eastern Multinational Cross-sectional Study, Middle East journal of digestive diseases, 2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36619142/"
+    },
+    {
+      "label": "Camilleri M: Irritable Bowel Syndrome: Straightening the road from the Rome criteria, Neurogastroenterology and motility, 2020",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32808411/"
+    },
+    {
+      "label": "Black CJ, Staudacher HM, Ford AC et al: Efficacy of a low FODMAP diet in irritable bowel syndrome: systematic review and network meta-analysis, Gut, 2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34376515/"
+    },
+    {
+      "label": "Saha L: Irritable bowel syndrome: pathogenesis, diagnosis, treatment, and evidence-based medicine, World journal of gastroenterology, 2014",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24944467/"
+    },
+    {
+      "label": "Arif TB, Ali SH, Bhojwani KD et al: Global prevalence and risk factors of irritable bowel syndrome from 2006 to 2024 using the Rome III and IV criteria: a meta-analysis, European journal of gastroenterology and hepatology, 2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40359286/"
+    }
+  ],
+  "content": {
+    "ar": {
+      "title": "القولون العصبي: التشخيص والعيش معه",
+      "desc": "دليل شامل لمتلازمة القولون العصبي (IBS): معايير روما للتشخيص، والفرق عن الأمراض الأخرى، والنظام الغذائي منخفض FODMAP، وخطوات السيطرة على الأعراض.",
+      "keywords": "القولون العصبي, متلازمة القولون العصبي, IBS, أعراض القولون, علاج القولون, نظام غذائي قولون عصبي, تشخيص القولون, ألم البطن, الإمساك والإسهال",
+      "h1": "القولون العصبي (IBS): كيف يُشخَّص وكيف تعيش معه",
+      "takeaways": [
+        "القولون العصبي ليس مرضاً عضوياً بل اضطراب وظيفي في الأمعاء، ويُشخَّص بمعايير روما بعد استبعاد الأمراض الأخرى.",
+        "قبل تشخيصه في منطقتنا يجب استبعاد الطفيليات المعوية والداء البطني (Coeliac disease)، لأن أعراضها متشابهة.",
+        "نظام FODMAP الغذائي يخفف الأعراض لدى كثيرين لكنه يحتاج إلى تطبيق منهجي وليس مجرد تجنب بعض الأطعمة.",
+        "الإجهاد النفسي يؤثر مباشرة على القولون عبر محور الأمعاء والدماغ، وإدارته جزء أساسي من العلاج.",
+        "القولون العصبي مزعج لكنه لا يتحول إلى سرطان ولا يسبب تلفاً دائماً في الأمعاء."
+      ],
+      "sections": [
+        {
+          "h2": "ما هو القولون العصبي وكيف يختلف عن غيره؟",
+          "paras": [
+            "القولون العصبي، أو متلازمة الأمعاء المتهيجة (Irritable Bowel Syndrome - IBS)، اضطراب وظيفي في الجهاز الهضمي يسبب ألماً متكرراً في البطن مع تغير في نمط التبرز، إما إسهال أو إمساك أو كليهما بالتناوب. ما يميزه عن الأمراض العضوية هو غياب أي تلف أو التهاب مرئي عند إجراء منظار الأمعاء أو التحاليل الروتينية.",
+            "الشعور بالانتفاخ والغازات والحاجة الملحة للذهاب إلى الحمام تُضاف في الغالب إلى هذه الأعراض. وتتفاوت حدة الأعراض من يوم لآخر، وكثيراً ما تتحسن بعد التبرز. وبحسب مراجعة منهجية نُشرت في مجلة Cureus عام 2024، يعاني ما بين 10 و30 بالمئة من سكان بعض دول العالم العربي من أعراض تتوافق مع القولون العصبي، وهي نسبة أعلى مما كان يُعتقد.",
+            "المشكلة أن هذه الأعراض مشتركة مع حالات أخرى تحتاج علاجاً مختلفاً تماماً، مثل عدوى الجيارديا (Giardia) والأميبا، والتهاب الأمعاء المزمن (Inflammatory Bowel Disease)، والداء البطني. لذلك فإن الوصول إلى تشخيص القولون العصبي يستلزم عملية استبعاد منهجية وليس مجرد انطباع سريري."
+          ],
+          "visual": {
+            "type": "stats",
+            "items": [
+              {"value": "10-30%", "label": "من البالغين في بعض الدول العربية تظهر عليهم أعراض IBS", "tone": "warn"},
+              {"value": "2:1", "label": "نسبة النساء إلى الرجال بين المصابين", "tone": "info"}
+            ]
+          }
+        },
+        {
+          "h2": "كيف يُشخَّص القولون العصبي: معايير روما بكلام بسيط",
+          "paras": [
+            "لا يوجد تحليل دم أو منظار يثبت وجود القولون العصبي بشكل قاطع. التشخيص يعتمد على معايير روما (Rome Criteria)، وهي مجموعة من المعايير الدولية وضعها متخصصو الجهاز الهضمي لتوحيد التشخيص. وفق معايير روما IV الحالية، يُشخَّص القولون العصبي إذا كان الشخص يعاني من ألم متكرر في البطن لمدة لا تقل عن يوم واحد في الأسبوع خلال الأشهر الثلاثة الماضية، مرتبطاً بتغير في التبرز أو في مظهر البراز.",
+            "يُصنَّف القولون العصبي إلى ثلاثة أنواع رئيسية: نوع الإسهال الغالب (IBS-D)، ونوع الإمساك الغالب (IBS-C)، والنوع المختلط الذي يتأرجح بين الاثنين (IBS-M). هذا التصنيف مهم لأن النظام الغذائي والدواء المناسب يختلفان بحسب النوع.",
+            "الجانب الذي يغيب عن كثير من المعالجين في منطقتنا هو ضرورة استبعاد الطفيليات قبل الحكم على الأمر. فالجيارديا والأميبا المعوية تسبب أعراضاً متطابقة تقريباً مع القولون العصبي، وفحص البراز بسيط ورخيص ويجب أن يُجرى دائماً كخطوة أولى."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "أنواع القولون العصبي",
+            "head": ["النوع", "الاختصار", "الصفة الغالبة"],
+            "rows": [
+              ["إسهال غالب", "IBS-D", "براز رخو أو إسهال متكرر"],
+              ["إمساك غالب", "IBS-C", "براز صلب ومجهود في التبرز"],
+              ["مختلط", "IBS-M", "تناوب بين الإسهال والإمساك"]
+            ]
+          }
+        },
+        {
+          "h2": "ما الذي يجب استبعاده قبل قبول تشخيص القولون العصبي؟",
+          "paras": [
+            "في منطقة الشرق الأوسط وشمال أفريقيا، يوجد عبء مرتفع من الطفيليات المعوية والأمراض الالتهابية التي تشبه القولون العصبي في مظهرها. لذلك يجب أن تشمل الفحوصات الأولية على الأقل: تحليل براز كامل يشمل البحث عن الطفيليات وبيوضها، وتحليل الدم الكامل للبحث عن الأنيميا والالتهاب، وقياس مستوى الغلوتين الهضمي إذا كان الإسهال سائداً.",
+            "الداء البطني (Coeliac disease)، وهو حساسية الغلوتين الدائمة، يسبب إسهالاً وانتفاخاً وألم بطن وهو أكثر شيوعاً مما تُشير إليه الأرقام في المنطقة نظراً لنقص الإدراك به. يكشف عنه تحليل دم بسيط يقيس الأجسام المضادة IgA anti-tissue transglutaminase.",
+            "أما علامات الخطر التي تستوجب الإحالة الفورية لمنظار القولون فهي: نزيف مع البراز، فقدان الوزن غير المبرر، بدء الأعراض بعد سن الخمسين، أو وجود تاريخ عائلي لسرطان القولون. هذه الأعراض تستدعي استبعاد الأمراض العضوية الخطيرة."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "مراجعة الطبيب فوراً إذا ظهرت",
+            "items": [
+              "دم أحمر أو داكن مع البراز",
+              "فقدان وزن غير مبرر خلال أسابيع قليلة",
+              "صحوت ليلاً بسبب ألم البطن أو الإسهال",
+              "بدء الأعراض لأول مرة بعد سن الخمسين",
+              "تاريخ عائلي لسرطان القولون أو التهاب الأمعاء المزمن"
+            ]
+          }
+        },
+        {
+          "h2": "لماذا يتفاقم القولون العصبي مع الإجهاد؟",
+          "paras": [
+            "العلاقة بين الدماغ والأمعاء ليست مجازاً بل هي حقيقة تشريحية. يمتلك الجهاز الهضمي أكثر من مئة مليون خلية عصبية، لدرجة أن العلماء يسمونه أحياناً الدماغ الثاني. وعند التعرض للإجهاد النفسي، يُفرز الجسم هرمونات تؤثر مباشرة على حركة الأمعاء وحساسيتها.",
+            "لهذا السبب كثيراً ما يُلاحظ المصابون بالقولون العصبي أن الأعراض تشتد في مواسم الضغط، كأوقات الامتحانات أو النزاعات العائلية أو الضغط المهني. وهذا لا يعني أن الأعراض وهمية، بل يعني أن النظام العصبي يُضخم الإشارات الطبيعية القادمة من الأمعاء.",
+            "دراسة نُشرت في مجلة Middle East Journal of Digestive Diseases عام 2022 وشملت مرضى من دول عربية متعددة وجدت ارتباطاً واضحاً بين القلق والاكتئاب وشدة أعراض القولون العصبي. وهذا يعني أن إدارة الجانب النفسي ليست ترفاً إضافياً في العلاج بل جزء جوهري منه.",
+            "من الأدوات التي أثبتت فاعلية في هذا الجانب العلاج المعرفي السلوكي (Cognitive Behavioural Therapy)، الذي يُعلّمك كيف تُغير استجابة جهازك العصبي للإشارات القادمة من الأمعاء. وقد أجرت دراسات متعددة تجارب على هذا العلاج لمرضى القولون العصبي ووجدت تحسناً ملموساً في الأعراض مستقلاً عن أي تغيير غذائي. التأمل الذهني وتمارين التنفس العميق تُقدم مساعدة أخف وزناً لكنها متاحة بشكل أوسع ويمكن تطبيقها يومياً في المنزل.",
+            "كثيرون في منطقتنا يُقلل من شأن العلاج النفسي بسبب الوصمة الاجتماعية المرتبطة به، ظناً منهم أن الاعتراف بالقلق يعني أن مشكلتهم الجسدية وهمية. الحقيقة عكس ذلك تماماً: الاعتراف بدور الجهاز العصبي في الأعراض هو الخطوة الأولى نحو السيطرة عليها. المشكلة حقيقية والألم حقيقي، والعلاج النفسي يعمل على جزء حقيقي من الآلية."
+          ]
+        },
+        {
+          "h2": "نظام FODMAP: هل هو الحل الغذائي؟",
+          "paras": [
+            "نظام FODMAP الغذائي هو مجموعة من السكريات والألياف القابلة للتخمر التي تُمتص ببطء في الأمعاء الدقيقة وتُخمَّر بسرعة من قِبل بكتيريا القولون، مما يسبب غازات وانتفاخاً. الاسم اختصار للمصطلح الإنجليزي للسكريات المعقدة قصيرة السلسلة (Fermentable Oligosaccharides, Disaccharides, Monosaccharides And Polyols).",
+            "مراجعة منهجية نُشرت في مجلة Gut عام 2022 وشملت نتائج عشرات التجارب السريرية وجدت أن نظام FODMAP منخفض الكربوهيدرات يُخفف الأعراض بشكل أفضل من الأنظمة الغذائية الأخرى لدى المصابين بالقولون العصبي. لكن التطبيق الصحيح يمر بثلاث مراحل: مرحلة الاستبعاد لمدة أربعة إلى ستة أسابيع، ثم مرحلة إعادة الإدخال التدريجي، ثم التخصيص الفردي.",
+            "من أبرز الأطعمة التي تحتوي على FODMAP مرتفع في النظام الغذائي العربي: القمح والشعير، والبصل والثوم، والبقوليات بأنواعها، والتفاح والمانجو والتين الطازج، ومنتجات الألبان الغنية باللاكتوز. لكن الأهم أن النظام ليس قائمة محظورات دائمة، بل هو أداة لتحديد ما يناسبك أنت تحديداً، لأن حدة الاستجابة تتفاوت من شخص لآخر."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "أطعمة شائعة في المنطقة وعلاقتها بـ FODMAP",
+            "head": ["الطعام", "مستوى FODMAP", "بديل مناسب"],
+            "rows": [
+              ["البصل والثوم", "مرتفع جداً", "زيت الثوم، البصل الأخضر (الجزء الأخضر فقط)"],
+              ["العدس والحمص", "مرتفع", "كميات صغيرة معلبة ومشطوفة جيداً"],
+              ["الخبز العادي (قمح)", "مرتفع", "خبز العجين المخمر من دقيق القمح الكامل"],
+              ["اللبن والأجبان الطازجة", "مرتفع (لاكتوز)", "الأجبان القاسية، اللبن الخالي من اللاكتوز"],
+              ["التفاح والكمثرى", "مرتفع", "العنب، الكيوي، الفراولة"]
+            ]
+          }
+        },
+        {
+          "h2": "الأدوية المتاحة: متى تُستخدم وماذا تتوقع؟",
+          "paras": [
+            "لا يوجد دواء واحد يشفي القولون العصبي، لكن الأدوية تُستخدم لإدارة الأعراض الأكثر إزعاجاً. في حالات الإسهال المسيطر، تُستخدم مضادات التشنج مثل هيوسين (Hyoscine) أو ميبيفيرين (Mebeverine) لتخفيف التقلصات، وأحياناً يُضاف لوبيراميد (Loperamide) للسيطرة على الإسهال الحاد. في حالات الإمساك المسيطر، قد يصف الطبيب مسهلات تحتوي على ألياف ذائبة أو مواد مُرطبة.",
+            "المضادات الحيوية غير المُمتصة مثل ريفاكسيمين (Rifaximin) أثبتت فاعلية في بعض الدراسات لنوع الإسهال الغالب، وهي تعمل محلياً في الأمعاء دون امتصاص في الدم. أما مضادات الاكتئاب بجرعات منخفضة، وخاصة مجموعة ثلاثية الحلقات (Tricyclics)، فتُستخدم ليس لعلاج الاكتئاب بل لتثبيط الإشارات المؤلمة من الأمعاء إلى الدماغ، وهذا استخدام طبي معتمد منفصل عن تأثيرها النفسي.",
+            "المهم ألا تشتري هذه الأدوية بنفسك من الصيدلية دون وصفة طبية، خاصة المضادات الحيوية. الاستخدام العشوائي للمضادات الحيوية يُخل بتوازن البكتيريا المفيدة في الأمعاء ويمكن أن يفاقم الحالة بدلاً من تحسينها.",
+            "بعض مضادات الاكتئاب ثلاثية الحلقات كأميتريبتيلين تُستخدم بجرعات منخفضة جداً لتثبيط الإشارات المؤلمة القادمة من الأمعاء إلى الدماغ، وهذا استخدام طبي معتمد لا علاقة له بعلاج الاكتئاب. إذا كانت أعراض الألم شديدة لديك، ناقش هذا الخيار مع طبيبك بشكل صريح، لأنه يبدو غريباً في البداية لكنه ذو أساس علمي ثابت."
+          ]
+        },
+        {
+          "h2": "دور البروبيوتيك والألياف في تخفيف الأعراض",
+          "paras": [
+            "البروبيوتيك هي بكتيريا مفيدة حية تُضاف لتحسين توازن الجراثيم في القولون. الأدلة العلمية لصالحها في القولون العصبي موجودة لكنها ليست قاطعة، ويختلف التأثير بحسب نوع البكتيريا المستخدمة. النوع الذي له أقوى دليل هو Lactobacillus plantarum، وقد أظهرت بعض التجارب تحسناً في الانتفاخ وأعراض البطن.",
+            "أما الألياف القابلة للذوبان، كتلك الموجودة في قشر الأسفل (Psyllium husk)، فلها دور ثابت في تحسين قوام البراز في كلا نوعي القولون العصبي، ولا تُسبب التأثير التخمري للألياف غير الذائبة. لكن زيادة الألياف يجب أن تكون تدريجية وتُرافقها كميات كافية من الماء.",
+            "الماء نفسه عنصر يُهمله كثير من المصابين بالإمساك. شرب ما لا يقل عن ثمانية أكواب يومياً، مع تحريك الجسم ولو بالمشي اليومي، يُحسن حركة الأمعاء بشكل ملحوظ ودون أي أعراض جانبية.",
+            "النشاط البدني المنتظم له تأثير مزدوج في القولون العصبي: من جهة يُحفز حركة الأمعاء الطبيعية، ومن جهة أخرى يُخفف الإجهاد النفسي الذي يُغذي الأعراض. المشي لمدة ثلاثين دقيقة يومياً يكفي، ولا يوجد دليل على أن الرياضة الشديدة تُضيف فائدة إضافية."
+          ]
+        },
+        {
+          "h2": "كيف تُدير القولون العصبي على المدى البعيد؟",
+          "paras": [
+            "القولون العصبي حالة مزمنة لكنها متذبذبة، أي أنها تمر بفترات هدوء وفترات تفاقم. الهدف ليس الشفاء التام بل تحقيق سيطرة جيدة على الأعراض بحيث لا تُقيد حياتك اليومية من العمل والعلاقات والتنقل. كثير من المرضى يصلون إلى هذا المستوى بتغيير نمط الحياة وحده.",
+            "الاحتفاظ بمذكرة غذائية لمدة أسبوعين أو ثلاثة يساعد على تحديد محرضات الأعراض الخاصة بك، لأن ما يُسبب المشكلة لشخص ما قد لا يُزعج شخصاً آخر. وعند الضغط الشديد، قد يفيد التحدث مع أخصائي نفسي أو ممارسة تقنيات الاسترخاء كالتنفس العميق والتأمل.",
+            "يُستحسن أن تكون صريحاً مع طبيبك عن تأثير الأعراض على جودة حياتك بشكل كامل، بما في ذلك التأثير على العمل والعلاقات والنشاط الاجتماعي. هذا يساعده على اختيار النهج الأنسب لك، سواء كان غذائياً أو دوائياً أو نفسياً أو مزيجاً من الثلاثة.",
+            "تجنب التصنيف الذاتي السريع. بعض الأشخاص يُشخصون أنفسهم بالقولون العصبي بناء على مقاطع في وسائل التواصل الاجتماعي أو تجارب أقاربهم، ويبدؤون في تقييد طعامهم تقييداً مفرطاً دون تشخيص حقيقي. هذا قد يُفضي إلى نقص غذائي حقيقي، خاصة في حالات اتباع نظام FODMAP دون توجيه مختص، إذ قد ينتهي الأمر بالشخص وهو يتجنب طعاماً مفيداً دون أي سبب طبي."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "خطوات للسيطرة على أعراض القولون العصبي",
+            "items": [
+              "استبعد الطفيليات والداء البطني أولاً قبل قبول تشخيص القولون العصبي",
+              "احتفظ بمذكرة غذائية لأسبوعين لتحديد محرضاتك الشخصية",
+              "جرب نظام FODMAP المنخفض تحت إشراف لمدة أربعة إلى ستة أسابيع",
+              "أضف قشر الأسفل (Psyllium) تدريجياً مع شرب الماء الكافي",
+              "مارس النشاط البدني المنتظم ولو مشياً يومياً لمدة ثلاثين دقيقة",
+              "تحدث مع طبيبك إذا فشلت التدابير الغذائية في تخفيف الأعراض خلال ثلاثة أشهر"
+            ]
+          }
+        }
+      ],
+      "tie": "مع تطبيق سهتاك يمكنك تسجيل أعراضك اليومية ووجباتك ومستوى إجهادك في مكان واحد، مما يُسهل عليك ملاحظة الأنماط والتحدث مع طبيبك بمعلومات دقيقة بدلاً من الاعتماد على الذاكرة.",
+      "faqs": [
+        {
+          "q": "هل القولون العصبي يتحول إلى سرطان؟",
+          "a": "لا، القولون العصبي اضطراب وظيفي وليس مرضاً التهابياً أو خلوياً، ولم يثبت علمياً أنه يزيد خطر الإصابة بسرطان القولون. لكن إذا ظهرت أعراض جديدة كالنزيف أو فقدان الوزن، فيجب مراجعة الطبيب لاستبعاد أسباب أخرى."
+        },
+        {
+          "q": "هل يمكن أن تكون أعراضي طفيليات وليس قولوناً عصبياً؟",
+          "a": "نعم، خاصة في منطقتنا حيث تنتشر الجيارديا والأميبا المعوية. أعراض الانتفاخ والإسهال والغازات مشتركة بينهما وبين القولون العصبي. فحص البراز الكامل يُحسم هذا السؤال وهو فحص بسيط يجب أن يُجرى قبل أي تشخيص آخر."
+        },
+        {
+          "q": "كم يستغرق نظام FODMAP حتى أرى نتيجة؟",
+          "a": "يحتاج كثيرون من ثلاثة إلى ستة أسابيع لملاحظة تحسن واضح. المرحلة الأولى تتضمن تخفيض جميع أطعمة FODMAP المرتفعة، وبعدها يُعاد إدخالها فئة فئة لتحديد ما يُثير أعراضك تحديداً."
+        },
+        {
+          "q": "هل الصيام في رمضان يؤثر على القولون العصبي؟",
+          "a": "يتفاوت التأثير من شخص لآخر. بعض المرضى يُلاحظون تحسناً لأن وجباتهم تقل وتنتظم، بينما يُعاني آخرون من تفاقم الأعراض خاصة إذا أكلوا بسرعة عند الإفطار أو تناولوا كميات كبيرة. الأكل ببطء وتجنب الإفراط في الدهون والبقوليات يُساعد."
+        },
+        {
+          "q": "هل البروبيوتيك مفيد فعلاً للقولون العصبي؟",
+          "a": "الأدلة مشجعة لكنها غير حاسمة. بعض السلالات البكتيرية مثل Lactobacillus plantarum أظهرت نتائج إيجابية في التجارب السريرية. التأثير يتفاوت بين الأشخاص، وقد يستغرق شهراً أو أكثر لرؤية النتيجة."
+        },
+        {
+          "q": "لماذا تشتد الأعراض عند الضغط النفسي؟",
+          "a": "الأمعاء تحتوي على جهاز عصبي خاص مرتبط ارتباطاً وثيقاً بالدماغ. الإجهاد والقلق يُطلقان هرمونات تؤثر على حركة الأمعاء وتزيد من حساسيتها للألم. لهذا يُعتبر العلاج النفسي المعرفي السلوكي أحد الخيارات الفعالة في علاج القولون العصبي."
+        },
+        {
+          "q": "هل يمكنني أخذ مضادات التشنج من الصيدلية بدون وصفة؟",
+          "a": "بعض مضادات التشنج الخفيفة متاحة بدون وصفة في كثير من الدول العربية، لكن من الأفضل مراجعة الطبيب لتأكيد التشخيص أولاً. استخدام الأدوية بدون تشخيص دقيق قد يُعالج الأعراض ويُخفي مشكلة أكبر تحتاج علاجاً مختلفاً."
+        },
+        {
+          "q": "هل القولون العصبي يشفى تماماً؟",
+          "a": "كثير من المصابين يصلون إلى فترات طويلة من الهدوء الكامل، خاصة مع التحكم في الغذاء والإجهاد. الحالة تتذبذب وليست ثابتة، وقسم كبير من المرضى يُلاحظون تراجع الأعراض مع التقدم في السن."
+        }
+      ]
+    },
+    "en": {
+      "title": "IBS: diagnosis by exclusion and living with it",
+      "desc": "IBS explained: Rome criteria, why parasites and coeliac must be excluded first, the FODMAP diet, and practical steps to manage symptoms long term.",
+      "keywords": "irritable bowel syndrome, IBS, IBS symptoms, FODMAP diet, Rome criteria, IBS treatment, bowel pain, bloating, diarrhoea constipation",
+      "h1": "Irritable Bowel Syndrome: How It Is Diagnosed and How to Manage It",
+      "takeaways": [
+        "IBS is a functional bowel disorder diagnosed using the Rome criteria, only after ruling out other conditions that cause the same symptoms.",
+        "In the Middle East and North Africa, intestinal parasites and coeliac disease must be excluded first because they are common and mimic IBS closely.",
+        "The low-FODMAP diet reduces symptoms significantly for many people, but requires a structured three-phase approach, not just cutting out a few foods.",
+        "Stress affects the gut directly through the gut-brain axis, so managing psychological pressure is a core part of treatment, not optional.",
+        "IBS does not become cancer, does not cause permanent bowel damage, and can go into long remissions with the right management."
+      ],
+      "sections": [
+        {
+          "h2": "What is IBS and how does it differ from other bowel conditions?",
+          "paras": [
+            "Irritable bowel syndrome (IBS) is a functional gut disorder causing recurrent abdominal pain together with a change in bowel habit, either diarrhoea, constipation, or both alternating. The defining feature that separates it from organic disease is the absence of visible damage or inflammation when the bowel is examined by colonoscopy or imaging. The bowel looks normal, but it does not behave normally.",
+            "Bloating, gas, urgency to reach the toilet, and a feeling that the bowel has not emptied fully are common alongside the pain. Symptoms typically improve after a bowel movement and vary from day to day. A 2024 systematic review published in Cureus found that IBS symptoms affect between ten and thirty percent of adults in some Arab countries, a prevalence higher than previously estimated.",
+            "The difficulty is that these symptoms overlap substantially with conditions that need a completely different treatment: giardia infection, intestinal amoeba, inflammatory bowel disease (IBD), and coeliac disease all present with similar complaints. Arriving at a confident IBS diagnosis means working through a systematic exclusion process, not simply accepting the label when tests come back unremarkable."
+          ],
+          "visual": {
+            "type": "stats",
+            "items": [
+              {"value": "10-30%", "label": "of adults in some Arab countries have IBS-compatible symptoms", "tone": "warn"},
+              {"value": "2:1", "label": "female to male ratio among diagnosed cases", "tone": "info"}
+            ]
+          }
+        },
+        {
+          "h2": "How IBS is diagnosed: the Rome criteria explained",
+          "paras": [
+            "There is no blood test or colonoscopy result that confirms IBS directly. The diagnosis relies on the Rome criteria, an internationally agreed set of symptom-based definitions developed by gastroenterology specialists to standardise IBS diagnosis worldwide. Under the current Rome IV criteria, IBS is diagnosed when someone has experienced recurrent abdominal pain on at least one day per week in the past three months, related to a change in the frequency or appearance of stools.",
+            "IBS is classified into three main subtypes: diarrhoea-predominant (IBS-D), constipation-predominant (IBS-C), and mixed type (IBS-M), where both alternate. This classification matters because the dietary approach and medication choices differ depending on which pattern dominates.",
+            "A 2020 review by Camilleri in Neurogastroenterology and Motility noted that the Rome criteria perform well when the exclusion workup is done properly but can be unreliable when it is skipped. In practical terms for the region, this means a stool analysis looking for ova, cysts and parasites should always come before the IBS label is applied."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "IBS subtypes at a glance",
+            "head": ["Subtype", "Code", "Dominant pattern"],
+            "rows": [
+              ["Diarrhoea-predominant", "IBS-D", "Loose or frequent stools"],
+              ["Constipation-predominant", "IBS-C", "Hard stools, straining, infrequent"],
+              ["Mixed", "IBS-M", "Alternating diarrhoea and constipation"]
+            ]
+          }
+        },
+        {
+          "h2": "What must be ruled out before accepting an IBS diagnosis?",
+          "paras": [
+            "In the Middle East and North Africa, the burden of intestinal parasites and inflammatory bowel conditions is high enough that several investigations should precede any IBS diagnosis. At minimum, a complete stool analysis including ova-and-parasite examination, a full blood count checking for anaemia and raised inflammatory markers, and a coeliac antibody test (IgA anti-tissue transglutaminase) if diarrhoea is the dominant symptom.",
+            "Coeliac disease is a permanent autoimmune intolerance to gluten that causes diarrhoea, bloating, and abdominal pain. It is more common in the region than awareness suggests, and a single blood test identifies it. Continuing to eat wheat on a diet assumed to be IBS-friendly when the real problem is coeliac leads to years of unnecessary symptoms and gut damage.",
+            "A 2025 global meta-analysis in the European Journal of Gastroenterology and Hepatology confirmed that the Rome IV criteria have a good positive predictive value, but only when red-flag symptoms are actively screened for and excluded. If you notice blood in your stool, unexplained weight loss, night-time symptoms that wake you from sleep, or you are over fifty and experiencing bowel symptoms for the first time, your doctor needs to investigate further before any functional label is applied."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "See a doctor urgently if you have",
+            "items": [
+              "Red or dark blood mixed with your stool",
+              "Unexplained weight loss over a few weeks",
+              "Pain or diarrhoea that wakes you from sleep",
+              "First onset of bowel symptoms after age 50",
+              "Family history of bowel cancer or inflammatory bowel disease"
+            ]
+          }
+        },
+        {
+          "h2": "Why does stress make IBS worse?",
+          "paras": [
+            "The connection between the brain and the gut is not metaphorical. The gut contains more than 100 million nerve cells, forming what scientists call the enteric nervous system. This system communicates continuously with the brain in both directions along a pathway called the gut-brain axis. When psychological stress activates the body's threat response, it releases hormones and nerve signals that alter bowel motility and lower the pain threshold in the intestinal wall.",
+            "This is why people with IBS consistently notice that symptoms worsen during examinations, family conflicts, bereavement, or sustained work pressure. The pain and urgency are real and measurable. What differs from organic bowel disease is the mechanism: the bowel wall is hypersensitive to normal amounts of gas and stool rather than damaged or inflamed.",
+            "A 2022 multinational study in the Middle East Journal of Digestive Diseases that recruited patients across several Arab countries found a clear association between anxiety, depression, and IBS symptom severity. This evidence supports including psychological management as a core part of treatment, not as a way of dismissing the physical symptoms but as a direct intervention in a pathway that genuinely drives them."
+          ]
+        },
+        {
+          "h2": "The FODMAP diet: what it is and how to follow it properly",
+          "paras": [
+            "FODMAPs are a group of short-chain carbohydrates (Fermentable Oligosaccharides, Disaccharides, Monosaccharides And Polyols) that are poorly absorbed in the small intestine and rapidly fermented by colonic bacteria, producing gas, bloating, and altered bowel habit. The low-FODMAP approach temporarily restricts high-FODMAP foods to reduce this fermentation.",
+            "A 2022 systematic review and network meta-analysis published in Gut found that the low-FODMAP diet was superior to other dietary interventions for reducing overall IBS symptoms. But the evidence is for the full structured protocol, not for individual food avoidance. The protocol runs in three phases: elimination of all high-FODMAP foods for four to six weeks, followed by systematic reintroduction of individual FODMAP categories to identify personal triggers, then a long-term personalised diet based on what you can and cannot tolerate.",
+            "Common high-FODMAP foods in regional diets include wheat bread, onion, garlic, most legumes, apples, mangoes, and dairy products containing significant lactose. None of these need to be permanently banned. The elimination phase establishes a symptom baseline, the reintroduction phase determines your actual personal threshold for each group. Many people find they can tolerate some high-FODMAP foods in moderate quantities once they know their limits."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Common regional foods and their FODMAP level",
+            "head": ["Food", "FODMAP level", "Practical alternative"],
+            "rows": [
+              ["Onion and garlic", "Very high", "Garlic-infused oil, green tops of spring onion"],
+              ["Lentils and chickpeas", "High", "Small portions of canned, well-rinsed legumes"],
+              ["Regular wheat bread", "High", "Sourdough wheat or bread made from spelt"],
+              ["Fresh yogurt and soft cheese", "High (lactose)", "Hard cheeses, lactose-free dairy"],
+              ["Apple and pear", "High", "Grapes, kiwi, strawberry"]
+            ]
+          }
+        },
+        {
+          "h2": "Medicines for IBS: what helps and when",
+          "paras": [
+            "No single medicine cures IBS, but several help manage its most disruptive symptoms. For diarrhoea-predominant IBS, antispasmodics such as hyoscine or mebeverine reduce bowel spasms, and loperamide can be added for acute episodes of diarrhoea. For constipation-predominant IBS, soluble fibre supplements such as psyllium husk are a first step, alongside osmotic laxatives if needed.",
+            "The non-absorbable antibiotic rifaximin has shown benefit in some studies for IBS-D, acting locally in the gut without significant systemic absorption. Low-dose tricyclic antidepressants, prescribed at a fraction of the dose used for depression, are used for their direct effect on gut pain signals rather than for mood. This is a recognised medical use separate from their psychiatric application.",
+            "It is worth noting that self-prescribing antibiotics for gut symptoms is particularly counterproductive in IBS. Repeated antibiotic courses disrupt the gut microbiome and can worsen symptoms in the longer term. Any medication beyond simple antispasmodics should be discussed with a doctor who has confirmed the diagnosis."
+          ]
+        },
+        {
+          "h2": "Probiotics, fibre and fluids: what the evidence supports",
+          "paras": [
+            "Probiotics are live bacteria taken to improve the gut microbiome balance. Evidence for their use in IBS is encouraging but not definitive. The bacterial strain with the strongest evidence is Lactobacillus plantarum, which has shown improvements in bloating and abdominal pain in controlled trials. Effect size is moderate and takes four to eight weeks to become apparent.",
+            "Soluble fibre, particularly psyllium husk, has consistent evidence for improving stool consistency in both IBS-D and IBS-C without the fermentable gas production associated with insoluble fibre. It should be introduced gradually and always taken with a full glass of water to avoid making constipation worse. Wheat bran, by contrast, can worsen IBS symptoms despite being fibre-rich, because it contains high-FODMAP components.",
+            "Adequate hydration is often overlooked. In a hot climate where dehydration is common, low fluid intake worsens constipation-predominant IBS significantly. Aiming for at least eight glasses of water daily, spread through the day rather than consumed in large amounts at once, benefits bowel regularity without any side effects.",
+            "Physical activity has a dual benefit in IBS: it stimulates normal bowel motility directly and it reduces the psychological stress that drives symptom flares. Thirty minutes of walking daily appears sufficient based on available evidence. There is no convincing evidence that intense exercise provides additional bowel benefit, and strenuous activity in high temperatures in the Middle East carries its own risk of dehydration, which worsens symptoms."
+          ]
+        },
+        {
+          "h2": "Living well with IBS over the long term",
+          "paras": [
+            "IBS is a chronic but fluctuating condition. It passes through periods of remission and flare. The goal of management is not a permanent cure but enough symptom control that the condition stops limiting daily life, and many people reach this through diet and lifestyle adjustments alone.",
+            "Keeping a two-week food and symptom diary is one of the most productive things you can do at the start of management. It reveals personal patterns that no standard advice can predict, because what triggers symptoms in one person may be well tolerated by another. The diary also gives your doctor objective information to work with.",
+            "Cognitive behavioural therapy (CBT) has been shown in multiple trials to reduce IBS severity independent of dietary changes, by retraining how the nervous system processes gut signals. It is not widely available in the region but is increasingly delivered online. Regular physical activity, even thirty minutes of walking daily, independently improves bowel motility and reduces the psychological burden that amplifies IBS symptoms.",
+            "Self-diagnosis from social media or family experience often leads to excessive food restriction without a proper medical workup. Some people end up avoiding large categories of nutritious food based on an IBS label that was never properly established, missing a treatable parasite infection or coeliac disease in the process. A few targeted investigations at the start save months or years of unnecessary dietary restriction and symptom uncertainty."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "A practical starting plan for IBS",
+            "items": [
+              "First: request a stool analysis for parasites and a coeliac blood test before accepting the IBS label",
+              "Keep a food and symptom diary for two weeks to spot your personal triggers",
+              "Try a structured low-FODMAP elimination diet for four to six weeks under guidance",
+              "Add psyllium husk fibre gradually with adequate water",
+              "Aim for thirty minutes of physical activity daily, even walking",
+              "Discuss antispasmodics or a low-dose tricyclic with your doctor if diet changes alone are insufficient after three months"
+            ]
+          }
+        }
+      ],
+      "tie": "The Sihtak app lets you log your symptoms, meals, and stress levels in one place, making it straightforward to spot the patterns that trigger your IBS and to share accurate information with your doctor rather than relying on memory.",
+      "faqs": [
+        {
+          "q": "Does IBS turn into cancer or inflammatory bowel disease?",
+          "a": "No. IBS is a functional disorder and does not cause structural damage to the bowel wall, nor does it increase the risk of colorectal cancer. However, if new symptoms appear such as bleeding, weight loss, or anaemia, these need fresh investigation to rule out a different diagnosis."
+        },
+        {
+          "q": "Could my symptoms be parasites rather than IBS?",
+          "a": "Yes, especially in the Middle East and North Africa where giardia and intestinal amoeba are common. Both produce bloating, diarrhoea, and abdominal cramps that are clinically indistinguishable from IBS. A stool analysis with ova-and-parasite examination costs little and should always come first."
+        },
+        {
+          "q": "How long before I see results from the FODMAP diet?",
+          "a": "Most people notice a meaningful improvement within three to six weeks of the elimination phase. The next step is systematic reintroduction, one FODMAP category at a time, to identify which foods you personally cannot tolerate rather than avoiding everything indefinitely."
+        },
+        {
+          "q": "Does fasting in Ramadan affect IBS?",
+          "a": "The effect varies. Some people find symptoms improve during Ramadan because meals become less frequent and more regular. Others experience worsening around Iftar if they eat quickly or in large quantities. Eating slowly, avoiding excessive fat and legumes at Iftar, and drinking fluids steadily through the night helps."
+        },
+        {
+          "q": "Are probiotics worth taking for IBS?",
+          "a": "Evidence is moderately positive, particularly for Lactobacillus plantarum strains. Improvement in bloating and pain has been seen in trials, but the effect is not universal. Allow four to eight weeks before judging whether a probiotic is helping you."
+        },
+        {
+          "q": "Why does IBS flare with stress even when I have not eaten anything different?",
+          "a": "Stress hormones alter the speed at which food moves through the gut and lower the pain threshold of the intestinal wall. The gut responds to psychological threat as reliably as it responds to food, because the enteric nervous system is directly wired to the brain's threat-response pathways."
+        },
+        {
+          "q": "Can I buy antispasmodics from the pharmacy without a prescription?",
+          "a": "Some antispasmodics are available over the counter in many Arab countries, but it is worth having the diagnosis confirmed first. Using antispasmodics to suppress symptoms of parasitic infection or inflammatory bowel disease delays the correct treatment and can lead to complications."
+        },
+        {
+          "q": "Can IBS go away on its own?",
+          "a": "Many people experience long periods of remission, especially when triggers are identified and managed. Some studies suggest symptoms diminish with age. The condition rarely disappears entirely, but a significant proportion of people with IBS achieve symptom-free periods that last months or years."
+        }
+      ]
+    }
+  }
+}

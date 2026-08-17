@@ -1,0 +1,375 @@
+{
+  "slug": "down-syndrome-screening",
+  "category": "genetic-conditions",
+  "chip_ar": "الأمراض الوراثية",
+  "chip_en": "Genetic Conditions",
+  "date_iso": "2026-07-28",
+  "sources": [
+    {
+      "label": "Sebire E, Rodrigo CH, Bhattacharya S et al: The implementation and impact of non-invasive prenatal testing (NIPT) for Down's syndrome into antenatal screening programmes: A systematic review and meta-analysis, PloS one, 2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38753891/"
+    },
+    {
+      "label": "Jayashankar SS, Nasaruddin ML, Hassan MF et al: Non-Invasive Prenatal Testing (NIPT): Reliability, Challenges, and Future Directions, Diagnostics (Basel, Switzerland), 2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37568933/"
+    },
+    {
+      "label": "Salomon LJ, Sotiriadis A, Wulff CB et al: Risk of miscarriage following amniocentesis or chorionic villus sampling: systematic review of literature and updated meta-analysis, Ultrasound in obstetrics and gynecology, 2019",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31124209/"
+    },
+    {
+      "label": "Coppede F: Risk factors for Down syndrome, Archives of toxicology, 2016",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27600794/"
+    },
+    {
+      "label": "Corder JP, Al Ahbabi FJS, Al Dhaheri HS et al: Demographics and co-occurring conditions in a clinic-based cohort with Down syndrome in the United Arab Emirates, American journal of medical genetics, 2017",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28686324/"
+    },
+    {
+      "label": "Snijders RJ, Sundberg K, Holzgreve W et al: Maternal age- and gestation-specific risk for trisomy 21, Ultrasound in obstetrics and gynecology, 1999",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10204206/"
+    },
+    {
+      "label": "World Health Organization: Congenital anomalies fact sheet",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/congenital-anomalies"
+    }
+  ],
+  "content": {
+    "ar": {
+      "title": "فحص متلازمة داون في الحمل: ماذا تعني نتيجتك؟",
+      "desc": "شرح مبسط لفرق بين الفحص التنبؤي والتشخيص الحاسم لمتلازمة داون في الحمل، وما يعنيه مؤشر الخطر الذي تحمله ورقة التحليل.",
+      "keywords": "متلازمة داون, فحص الحمل, NIPT, بزل السائل الأمنيوسي, تثلث الصبغي 21, فحص الثلث الأول, الحمل الجيني",
+      "h1": "متلازمة داون: الفرق بين الفحص والتشخيص وكيف تقرأ نتيجتك",
+      "takeaways": [
+        "الفحص التنبؤي يعطيك نسبة احتمال، لا إجابة قاطعة. نتيجة إيجابية لا تعني بالضرورة أن طفلك مصاب.",
+        "التشخيص الحاسم يتطلب فحصاً جينياً من السائل الأمنيوسي أو المشيمة، وهو الوحيد الذي يعطي إجابة 100%.",
+        "فحص الدم الحر للجنين (NIPT) دقيق جداً لكنه لا يزال فحصاً لا تشخيصاً، ومتوفر في بعض دول المنطقة.",
+        "الفحوصات تطرح خيارات لا قرارات، والقرار دائماً للأسرة بعد استشارة طبية متخصصة."
+      ],
+      "sections": [
+        {
+          "h2": "ما هي متلازمة داون؟",
+          "paras": [
+            "متلازمة داون (Down syndrome) أو تثلث الصبغي 21 (Trisomy 21) هي حالة جينية تنشأ عندما يحمل كل خلية في الجسم نسخة إضافية ثالثة من الكروموسوم رقم 21 بدلاً من النسختين المعتادتين. هذه النسخة الإضافية تؤثر على نمو الجسم والدماغ وتسبب درجات متفاوتة من صعوبات التعلم وبعض السمات الجسمية المميزة مثل ملامح الوجه الخاصة وصغر حجم الجسم.",
+            "تحدث المتلازمة عادةً نتيجة خطأ عشوائي في انقسام الخلية أثناء تكوين البويضة أو الحيوان المنوي، وهو خطأ لا يمكن منعه ولا يرتبط في أغلب الحالات بسلوك الأبوين أو صحتهما أو أي شيء فعلاه أثناء الحمل. ليست وراثة بالمعنى التقليدي في أكثر من 95% من الحالات، بل خطأ عرضي في إعادة توزيع الكروموسومات في لحظة محددة.",
+            "يصاحب متلازمة داون في كثير من الأحيان بعض المشاكل الصحية المرتبطة مثل أمراض القلب الخلقية التي تتطلب متابعة مبكرة، ومشاكل في الغدة الدرقية، وضعف في الجهاز المناعي. هذه المشاكل قابلة للعلاج والمتابعة وكثير منها لا يمنع حياة طبيعية عند التشخيص والعلاج المبكر.",
+            "الأشخاص المصابون بمتلازمة داون لديهم طيف واسع من القدرات وإمكانات حياتية مختلفة تبعاً لعوامل عديدة منها التدخل المبكر وجودة التعليم والدعم الأسري. مع الدعم المناسب، يتعلم كثيرون القراءة والكتابة ويعيشون حياة اجتماعية نشطة ويعملون. لهذا فإن الفحص المبكر يفتح الباب لتحضير الأسرة وتوفير الدعم الصحيح منذ البداية."
+          ]
+        },
+        {
+          "h2": "كيف يرتبط عمر الأم بالخطر؟",
+          "paras": [
+            "عمر الأم هو أقوى عامل خطر معروف لمتلازمة داون. مع تقدم المرأة في السن، تزداد احتمالية الخطأ في توزيع الكروموسومات. دراسة كلاسيكية لسنيجدرز وزملائه نشرت في مجلة Ultrasound in Obstetrics and Gynecology قدرت الخطر بدقة بحسب عمر الأم ومرحلة الحمل.",
+            "في الفئة العمرية 25 سنة، يبلغ الخطر الأساسي نحو 1 في كل 1200 حمل. في سن 35 يرتفع إلى نحو 1 في 350، وفي سن 40 إلى نحو 1 في 100. هذه أرقام إحصائية تعني أن معظم النساء في كل هذه الأعمار ينجبن أطفالاً سليمين.",
+            "لكن المتلازمة لا تقتصر على الأمهات الأكبر سناً. نحو 80% من الأطفال المصابين بمتلازمة داون يولدون لأمهات دون سن 35، ببساطة لأن نساء هذه الفئة العمرية أكثر في الحمل. عمر الأب له أثر أقل بكثير ولكنه قد يكون له دور في حالات نادرة.",
+            "في منطقة الشرق الأوسط، تلعب القرابة بين الزوجين دوراً في زيادة بعض الأمراض الجينية الموروثة بشكل متنحٍ، لكنها لا تزيد مباشرة من خطر متلازمة داون التي ترجع في الغالب إلى خطأ عشوائي في انقسام الخلية."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "الخطر التقريبي لمتلازمة داون بحسب عمر الأم",
+            "head": ["عمر الأم", "الخطر التقريبي عند الولادة", "المعنى العملي"],
+            "rows": [
+              ["25 سنة", "1 في 1200", "99.9% من الحوامل بهذا العمر لن يتأثرن"],
+              ["30 سنة", "1 في 900", "غالبية ساحقة من الحوامل لن يتأثرن"],
+              ["35 سنة", "1 في 350", "الخطر أعلى، الفحص أكثر أهمية"],
+              ["40 سنة", "1 في 100", "الفحص الدقيق موصى به بشدة"],
+              ["45 سنة", "1 في 30", "الفحص الجيني التشخيصي للنقاش الجدي"]
+            ],
+            "source": "Snijders RJ et al: Maternal age- and gestation-specific risk for trisomy 21, 1999",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/10204206/"
+          }
+        },
+        {
+          "h2": "الفرق الجوهري: الفحص التنبؤي مقابل التشخيص الحاسم",
+          "paras": [
+            "هذا هو المفهوم الأساسي الذي يجب فهمه قبل أي شيء آخر. الفحوصات التنبؤية (Screening tests) تعطيك احتمالاً رياضياً، لا حكماً قاطعاً. مثلاً: نتيجة تقول إن خطرك 1 في 50 تعني أن هناك احتمالاً بنسبة 2% أن يكون الجنين مصاباً بمتلازمة داون، واحتمالاً بنسبة 98% ألا يكون مصاباً. هذه أرقام لا أحكام.",
+            "التشخيص الحاسم (Diagnostic test) يستخدم خلايا من الجنين نفسه لفحص كروموسوماته مباشرة، وإجابته إما نعم أو لا. لكن الحصول على هذه الخلايا يتطلب إجراءً طبياً يحمل مخاطر طفيفة لكن حقيقية على الحمل. هنا يكمن التوازن الذي يجب أن تفهمه كل حامل قبل أن تقرر ما تريد.",
+            "كثيرات من الأمهات يقرأن نتيجة الفحص التنبؤي التي تصف خطراً مرتفعاً ويعتقدن أن طفلهن مؤكد الإصابة. هذا خطأ يسبب ضيقاً غير ضروري وقد يؤدي إلى قرارات متسرعة. حتى مع خطر وصف بأنه مرتفع بنسبة 1 في 10، فإن 9 من كل 10 أجنة في هذه المجموعة ستكون سليمة جينياً. النتيجة المرتفعة تعني فقط أن الفحص التشخيصي الحاسم أصبح مبرراً الآن.",
+            "العتبة التي تفصل بين الخطر المرتفع والمنخفض ليست حقيقة طبيعية بل هي قرار تقني يختلف من برنامج فحص لآخر. بعض المراكز تعتبر 1 في 250 حداً فاصلاً وبعضها تعتمد 1 في 300 أو 1 في 150. هذا يعني أن امرأة بخطر 1 في 260 قد تصنفها مختبر دون العتبة وآخر فوقها، بينما خطرها الحقيقي واحد في الحالتين."
+          ]
+        },
+        {
+          "h2": "فحوصات الثلث الأول من الحمل",
+          "paras": [
+            "الفحص الأكثر استخداماً في الثلث الأول هو الفحص المدمج: سحب دم للأم بين الأسبوع 10 والأسبوع 14 لقياس هرمونين (PAPP-A وhCG الحر) يُدمج مع قياس سمك الجلد في مؤخرة رقبة الجنين عبر الموجات الصوتية وهو ما يسمى قياس الشفافية القفوية (Nuchal Translucency). ثم يُحسب رقم الخطر المدمج بمعادلة تأخذ عمر الأم بعين الاعتبار.",
+            "هذا الفحص المدمج يكتشف نحو 85% إلى 90% من حالات متلازمة داون الحقيقية، مع نسبة نتائج إيجابية كاذبة تتراوح بين 3% و5%. أي أن امرأتين إلى خمس من كل 100 امرأة تخضعن لهذا الفحص ستُصنَّفن ضمن المجموعة عالية الخطر رغم أن أجنتهن سليمة.",
+            "الفحص بالموجات الصوتية وحده أقل دقة من الفحص المدمج. بعض المراكز في المنطقة لا تتوفر فيها إمكانية قياس الشفافية القفوية بدقة، لأنها تتطلب تدريباً خاصاً وجهازاً متطوراً. إذا كان المركز غير متأكد من الجودة، يُفضل طلب إحالة إلى مركز أكثر تخصصاً."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "كيف يُحسب رقم خطر الثلث الأول",
+            "items": [
+              "تحديد خطر الأم الأساسي بناء على عمرها وعمر الحمل",
+              "قياس الشفافية القفوية للجنين بالموجات الصوتية (الأسبوع 11-14)",
+              "تحليل دم الأم: هرمون PAPP-A وهرمون hCG الحر",
+              "دمج الأرقام الثلاثة في معادلة حاسوبية تعطي نسبة الخطر النهائية"
+            ]
+          }
+        },
+        {
+          "h2": "فحص NIPT: الدم الحر للجنين",
+          "paras": [
+            "NIPT اختصار لفحص DNA الجنين الحر في دم الأم (Non-Invasive Prenatal Testing). يعتمد على أن قطعاً صغيرة من الحمض النووي للجنين تنتقل إلى الدورة الدموية للأم ابتداءً من الأسبوع العاشر تقريباً. تحليل هذه الأجزاء يسمح بقياس كمية الكروموسوم الحادي والعشرين بدقة عالية جداً.",
+            "دقة NIPT في اكتشاف متلازمة داون تبلغ أكثر من 99%، مع نسبة نتائج إيجابية كاذبة أقل من 0.1%. هذا يجعله أدق الفحوصات التنبؤية المتاحة حتى الآن. مراجعة منهجية نُشرت في مجلة PloS one عام 2024 أكدت أن تبنيه في برامج الفحص يرفع معدل الاكتشاف بشكل ملحوظ.",
+            "رغم هذه الدقة العالية، NIPT لا يزال فحصاً لا تشخيصاً. نسبة نجاح الفحص تعتمد على كمية الحمض النووي الجنيني في دم الأم (Fetal Fraction) وهي تكون منخفضة في الوزن الزائد ومبكراً في الحمل. نتيجة إيجابية من NIPT تستلزم تأكيداً بفحص تشخيصي حاسم قبل أي قرار.",
+            "توفر NIPT في منطقة الشرق الأوسط يتفاوت. في الإمارات والسعودية والكويت وبعض مراكز مصر والأردن، يمكن إجراؤه محلياً بتكلفة تتراوح بين 300 و800 دولار. في مناطق أخرى قد يحتاج إرسال عينة إلى الخارج مما يزيد الوقت والتكلفة."
+          ]
+        },
+        {
+          "h2": "الفحص التشخيصي الحاسم: خيارات التأكيد",
+          "paras": [
+            "إذا كانت الفحوصات التنبؤية تشير إلى خطر مرتفع، أو إذا كانت الأم تريد الجزم دون احتمالات، تكون الخيارات التشخيصية هي بزل السائل الأمنيوسي (Amniocentesis) أو أخذ عينة من المشيمة (Chorionic Villus Sampling أو CVS).",
+            "بزل السائل الأمنيوسي يُجرى عادةً بعد الأسبوع الخامس عشر. يدخل الطبيب إبرة رفيعة بتوجيه الموجات الصوتية ويسحب كمية صغيرة من السائل المحيط بالجنين. خلايا الجنين في هذا السائل تُفحص لعدد الكروموسومات. أما عينة المشيمة، فتُجرى في الثلث الأول بعد الأسبوع العاشر.",
+            "مراجعة منهجية نُشرت في مجلة Ultrasound in Obstetrics and Gynecology عام 2019 وجدت أن خطر الإجهاض المرتبط ببزل السائل الأمنيوسي يبلغ نحو 0.5%، وبعينة المشيمة نحو 0.7%. هذه أرقام حقيقية وليست صفرية، وهي جزء من الحوار الذي تجريه المرأة مع طبيبها عند اتخاذ قرار إجراء الفحص التشخيصي.",
+            "النتائج تستغرق عادةً من يومين إلى أسبوعين حسب نوع التحليل والمختبر. نتيجة التشخيص إجابتها قاطعة: إما أن عدد الكروموسومات طبيعي وإما أن هناك تثلث الصبغي 21. في حالات نادرة قد تظهر نتائج تحتاج تفسيراً إضافياً مع طبيب الجينات.",
+            "المرأة التي تختار عدم إجراء الفحص التشخيصي بسبب خطره، لها الحق الكامل في ذلك. الفحوصات ليست إلزامية في معظم دول المنطقة، وبعض الأسر تختار تقبل الحمل بصرف النظر عن النتيجة. المهم أن يكون الاختيار مبنياً على فهم حقيقي للخيارات."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "مقارنة بين خيارات الفحص والتشخيص",
+            "head": ["الفحص", "التوقيت", "الدقة", "الخطر على الحمل"],
+            "rows": [
+              ["الفحص المدمج للثلث الأول", "أسبوع 11-14", "85-90% اكتشاف", "لا يوجد"],
+              ["NIPT (DNA حر)", "من أسبوع 10", "99%+ اكتشاف", "لا يوجد"],
+              ["بزل السائل الأمنيوسي", "من أسبوع 15", "تشخيص 100%", "0.5% إجهاض"],
+              ["عينة المشيمة (CVS)", "أسبوع 10-13", "تشخيص 100%", "0.7% إجهاض"]
+            ],
+            "source": "Salomon LJ et al: Risk of miscarriage following amniocentesis or CVS, 2019",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/31124209/"
+          }
+        },
+        {
+          "h2": "ماذا تعني نتيجة عالية الخطر فعلاً؟",
+          "paras": [
+            "النتيجة التي تصف خطرك بأنه مرتفع (High risk) أو إيجابية في فحص تنبؤي لا تعني أن طفلك مصاب بمتلازمة داون. تعني أن الاحتمال الرياضي أعلى من عتبة معينة حددها البرنامج، وعادة ما تكون هذه العتبة 1 في 250 أو 1 في 300.",
+            "تخيلي نتيجة تقول خطرك 1 في 50. هذا يعني 2% احتمال بأن الجنين مصاب، و98% احتمال بأنه سليم. الاثنان والأربعون امرأة من كل مئة في هذه المجموعة ستنجبن أطفالاً ليس لديهم متلازمة داون. هذا السياق ضروري لاتخاذ قرار هادئ.",
+            "بعض الأسر تختار إجراء الفحص التشخيصي حتى مع خطر منخفض لأن الطمأنينة القاطعة تستحق ذلك بالنسبة لهم. وبعضهم يختار القبول بأي نتيجة دينياً وثقافياً ولا يجري أي فحص إضافي. كلا الاختيارين مشروع ومحترم، والدور الطبي هو تقديم المعلومات لا الضغط باتجاه معين.",
+            "إذا تلقيت نتيجة إيجابية من NIPT، لا تتخذي قراراً نهائياً بشأن الحمل قبل الفحص التشخيصي. دراسات أكدت أن نسبة من النتائج الإيجابية من NIPT لا يتأكد منها بالفحص التشخيصي، وهي ما يسمى الإيجابية الكاذبة."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "warn",
+            "title": "قبل اتخاذ أي قرار بعد نتيجة إيجابية",
+            "items": [
+              "نتيجة الفحص التنبؤي ليست تشخيصاً، وهي قد تكون إيجابية كاذبة",
+              "اطلبي موعداً مع طبيب متخصص في طب الجنين أو وراثة طبية لمناقشة الخيارات",
+              "أي قرار بشأن الحمل يجب أن يبنى على نتيجة تشخيصية حاسمة لا على فحص تنبؤي",
+              "التوقيت مهم: الفحص التشخيصي متاح في نوافذ زمنية محددة من الحمل"
+            ]
+          }
+        },
+        {
+          "h2": "الاستشارة الجينية: ضرورة لا خيار",
+          "paras": [
+            "الاستشارة الجينية (Genetic counselling) هي لقاء مع متخصص مدرب على شرح نتائج الفحوصات الجينية واحتمالاتها وتداعياتها. ليست ترفاً أو خدمة مقتصرة على المرضى الذين تلقوا أخباراً سيئة، بل هي أداة ضرورية لكل من تلقى نتيجة تنبؤية غير طبيعية ويحتاج إلى فهم خياراته قبل اتخاذ أي قرار.",
+            "في حالة متلازمة داون، المستشار الجيني يشرح ما تعنيه الأرقام ومدى دقة كل فحص وما الخيارات المتاحة بعد كل نتيجة. يساعد الأسرة على فهم ما تعنيه تربية طفل بمتلازمة داون في الواقع، بالاستناد إلى تجارب حقيقية، والموارد المتاحة في بلدها، ويحترم اختياراتها دون توجيه باتجاه معين.",
+            "في دول الخليج والأردن ومصر وبعض الدول العربية الأخرى، تتوفر عيادات الاستشارة الجينية في المستشفيات التعليمية الكبرى. في مناطق أخرى قد تكون الخدمة نادرة، وفي هذه الحالة يمكن الاستعانة باستشارة عن بُعد عبر مراكز متخصصة في لبنان أو الأردن أو خارج المنطقة.",
+            "قبل الفحص التشخيصي أيضاً، يجب أن تكون هناك جلسة توعوية مع الطبيب أو المستشار. الفحص ينطوي على مخاطر طفيفة للحمل، ومن غير المقبول أن تخضع المرأة له دون أن تكون قد فهمت هذه المخاطر ووافقت على الإجراء بشكل واضح. في كثير من مراكز المنطقة يُعطى الموافقة خطياً (Informed Consent) قبل أي إجراء تشخيصي."
+          ]
+        }
+      ],
+      "tie": "إذا كنت تخضعين لفحوصات الحمل، يساعدك تطبيق صحتك على تسجيل مواعيد الفحوصات ونتائجها ومتابعة خطة الرعاية مع طبيبك، خاصة في مراحل الحمل الحساسة.",
+      "faqs": [
+        {
+          "q": "هل الفحص التنبؤي يمكن أن يكون مخطئاً؟",
+          "a": "نعم، وهذا جوهري. الفحص التنبؤي يعطي احتمالاً لا حكماً قاطعاً. النتائج الإيجابية الكاذبة شائعة: قد تُصنَّف الحامل ضمن المجموعة عالية الخطر وطفلها سليم تماماً. لهذا السبب يستلزم أي قرار فحصاً تشخيصياً حاسماً أولاً."
+        },
+        {
+          "q": "هل يمكن إجراء NIPT في كل دول المنطقة؟",
+          "a": "لا. متوفر بسهولة في الإمارات والسعودية والكويت وبعض مراكز مصر والأردن. في مناطق أخرى قد يستلزم إرسال العينة إلى مختبر خارجي، مما يزيد الوقت والتكلفة. اسألي طبيبك عن أقرب مركز متاح."
+        },
+        {
+          "q": "ما هو الفرق بين بزل السائل الأمنيوسي وعينة المشيمة؟",
+          "a": "كلاهما فحص تشخيصي حاسم يأخذ خلايا جينية من الجنين مباشرة. بزل السائل يجرى بعد الأسبوع 15 ويأخذ عينة من السائل المحيط بالجنين. عينة المشيمة تجرى في الثلث الأول بين الأسبوع 10 و13 وتأخذ نسيجاً من المشيمة. كلاهما يحمل خطراً طفيفاً على الحمل يناهز 0.5-0.7%."
+        },
+        {
+          "q": "هل متلازمة داون تورث للأبناء اللاحقين؟",
+          "a": "في معظم الحالات (أكثر من 95%) متلازمة داون ناجمة عن خطأ عشوائي في انقسام الخلية لا يورث. في نسبة صغيرة من الحالات الناجمة عن ما يسمى الانتقال الروبرتسوني، قد يكون الأبوان ناقلين وخطر التكرار أعلى. الفحص الجيني يحدد ذلك."
+        },
+        {
+          "q": "هل عمر الأب يؤثر على الخطر؟",
+          "a": "تأثير عمر الأب على خطر متلازمة داون ضعيف جداً مقارنة بعمر الأم. الأبحاث تشير إلى أن الأب قد يكون مصدر النسخة الكروموسومية الإضافية في نحو 10% من الحالات، لكن عمره لا يُستخدم في حسابات الخطر الروتينية."
+        },
+        {
+          "q": "ما الذي يمكن للأسرة توقعه إذا تأكد التشخيص؟",
+          "a": "متلازمة داون تعني طيفاً من القدرات لا صورة نمطية واحدة. كثير من المصابين يتعلمون ويعملون ويعيشون حياة مستقلة جزئياً أو كاملاً مع الدعم المناسب. التدخل المبكر في السنوات الأولى من العمر يحدث فارقاً كبيراً في النتائج التنموية."
+        },
+        {
+          "q": "متى يجب إجراء الفحوصات في الحمل؟",
+          "a": "الفحص المدمج للثلث الأول يُجرى بين الأسبوع 11 والأسبوع 14. NIPT يمكن إجراؤه من الأسبوع العاشر فصاعداً. عينة المشيمة بين الأسبوع 10 والأسبوع 13. بزل السائل الأمنيوسي بعد الأسبوع 15. هذه النوافذ الزمنية ضيقة لذا من المهم التخطيط مبكراً مع طبيب الولادة."
+        },
+        {
+          "q": "هل الفحص إلزامي في دول المنطقة؟",
+          "a": "في معظم دول المنطقة الفحص طوعي وليس إلزامياً. بعض برامج الرعاية الصحية تقدمه تلقائياً كجزء من رعاية الحمل، وبعضها يتطلب طلبه بشكل صريح. اسألي طبيبك ماذا يشمل البروتوكول في مكانك."
+        }
+      ]
+    },
+    "en": {
+      "title": "Down syndrome screening in pregnancy: what results mean",
+      "desc": "Screening versus diagnosis for Down syndrome: what a risk ratio really means, NIPT accuracy, and when to seek genetic counselling.",
+      "keywords": "Down syndrome, prenatal screening, NIPT, amniocentesis, trisomy 21, first trimester screening, nuchal translucency, pregnancy genetics",
+      "h1": "Down syndrome screening: understanding the difference between a risk result and a diagnosis",
+      "takeaways": [
+        "Screening tests give you a probability, not a definitive answer. A high-risk result does not mean your baby has Down syndrome.",
+        "A confirmed diagnosis requires a genetic test from the amniotic fluid or placenta. That is the only test that gives a yes or no answer.",
+        "NIPT (cell-free fetal DNA) is very accurate but still a screening test, not a diagnosis. A positive NIPT must be confirmed before any decision.",
+        "These tests open options, not decisions. The choice of what to do next always belongs to the family, informed by accurate counselling."
+      ],
+      "sections": [
+        {
+          "h2": "What is Down syndrome?",
+          "paras": [
+            "Down syndrome, also called trisomy 21, occurs when every cell in the body carries an extra copy of chromosome 21. Instead of the usual two copies, there are three. This additional genetic material affects how the brain and body develop, producing characteristic physical features and varying degrees of intellectual disability.",
+            "In over 95 percent of cases, Down syndrome arises from a random error in cell division when the egg or sperm is forming. It is not inherited in the conventional sense and is not caused by anything the parents did or did not do. The error redistributes chromosomes incorrectly, and it cannot be prevented.",
+            "People with Down syndrome have a wide range of abilities. With appropriate support, early intervention and good education, many learn to read and write, form relationships, hold employment and live semi-independently. Prenatal screening, when used, opens the possibility of preparing that support structure rather than only enabling decisions about the pregnancy itself."
+          ]
+        },
+        {
+          "h2": "How maternal age affects the risk",
+          "paras": [
+            "Maternal age is the strongest known risk factor for Down syndrome. As women age, the risk of a chromosomal non-disjunction error rises. Research published by Snijders and colleagues in Ultrasound in Obstetrics and Gynecology calculated trimester-specific risks by maternal age, providing the benchmark still used in clinical practice.",
+            "At age 25 the background risk is approximately 1 in 1200. At 35 it rises to roughly 1 in 350, and at 40 to approximately 1 in 100. These are population probabilities, not individual certainties. The great majority of women at every age deliver chromosomally normal babies.",
+            "Importantly, most children with Down syndrome are born to mothers under 35, simply because that age group accounts for the majority of all pregnancies. Age raises individual risk, but younger mothers contribute the larger share of cases by volume. Paternal age has a much smaller influence.",
+            "In the Middle East, high rates of consanguineous marriage contribute to increased prevalence of recessively inherited conditions, but consanguinity does not directly increase the risk of Down syndrome, which arises from a random chromosomal error rather than inherited gene variants."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Approximate Down syndrome risk by maternal age",
+            "head": ["Maternal age", "Approximate risk at birth", "In practical terms"],
+            "rows": [
+              ["25 years", "1 in 1200", "99.9% of pregnancies unaffected"],
+              ["30 years", "1 in 900", "Vast majority unaffected"],
+              ["35 years", "1 in 350", "Higher risk; screening strongly advised"],
+              ["40 years", "1 in 100", "Detailed discussion of all options warranted"],
+              ["45 years", "1 in 30", "Diagnostic testing warrants serious consideration"]
+            ],
+            "source": "Snijders RJ et al: Maternal age- and gestation-specific risk for trisomy 21, 1999",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/10204206/"
+          }
+        },
+        {
+          "h2": "Screening versus diagnosis: the essential distinction",
+          "paras": [
+            "This is the most important concept to understand before anything else. Screening tests tell you the probability that a condition is present. They do not confirm it. A result described as high risk or screen positive means the statistical likelihood has crossed a threshold, not that the diagnosis is made. A result of 1 in 50 means a 2 percent chance of Down syndrome and a 98 percent chance the baby does not have it.",
+            "A diagnostic test examines the baby's own chromosomes directly and gives a definitive yes or no answer. To obtain those cells requires an invasive procedure, which carries a small but real risk to the pregnancy. That trade-off is at the centre of the decision-making process.",
+            "Many parents receive a high-risk screening result and assume the diagnosis is confirmed. This misunderstanding causes enormous distress and sometimes leads to irreversible decisions made on incomplete information. Understanding from the outset that screening and diagnosis are categorically different protects against this."
+          ]
+        },
+        {
+          "h2": "First-trimester combined screening",
+          "paras": [
+            "The most widely used screening test in the first trimester combines a blood draw from the mother (measuring two proteins: PAPP-A and free beta-hCG) with an ultrasound measurement of the fluid at the back of the baby's neck, called the nuchal translucency (NT). These are fed into a computer algorithm alongside maternal age to produce a risk figure.",
+            "This combined test detects approximately 85 to 90 percent of Down syndrome cases with a false positive rate of around 3 to 5 percent. The false positive rate means that between 3 and 5 women out of every 100 screened will receive a high-risk result even though their baby does not have Down syndrome. They will then need to decide whether to proceed to a diagnostic test.",
+            "Nuchal translucency measurement requires specific training and calibrated equipment to be accurate. In settings where the operator has limited experience or the equipment is not properly maintained, the measurement can be unreliable and the risk calculation based on it misleading. If you have any doubt about the quality of the scan, requesting a referral to a specialist fetal medicine centre is appropriate.",
+            "A fetal anatomy scan done at around 18 to 20 weeks is not a trisomy 21 screening test in itself, but it can detect structural features associated with Down syndrome such as certain heart defects, a thick nuchal fold, or shortened long bones. These findings increase suspicion and may prompt discussion of further testing."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "How the first-trimester combined risk figure is calculated",
+            "items": [
+              "Establish the mother's background risk based on her age and gestation",
+              "Measure nuchal translucency by ultrasound between weeks 11 and 14",
+              "Draw maternal blood: measure PAPP-A and free beta-hCG levels",
+              "Combine all three factors in a validated algorithm to produce the final risk ratio"
+            ]
+          }
+        },
+        {
+          "h2": "NIPT: cell-free fetal DNA testing",
+          "paras": [
+            "Non-invasive prenatal testing (NIPT) analyses small fragments of the baby's DNA that circulate in the mother's blood from around 10 weeks of pregnancy. By counting the relative amounts of chromosome 21 DNA, it can detect trisomy 21 with a sensitivity exceeding 99 percent and a false positive rate below 0.1 percent. A 2024 systematic review in PloS one confirmed that incorporating NIPT into antenatal screening programmes substantially improves detection rates.",
+            "Despite this high accuracy, NIPT is still a screening test, not a diagnosis. A positive NIPT result has not examined the baby's chromosomes directly. It must be confirmed by an invasive diagnostic test before any irreversible decision is made. Studies have documented that a measurable proportion of positive NIPT results are false positives, particularly for rarer chromosomal conditions.",
+            "The test requires a minimum proportion of fetal DNA in the blood sample, called the fetal fraction. This can be low in early pregnancy or in women with higher body weight, leading to inconclusive results that require a repeat draw. When fetal fraction is insufficient for analysis, the result is simply reported as no result rather than negative.",
+            "In the Middle East, NIPT is available in hospital laboratories in the UAE, Saudi Arabia, Kuwait and at select centres in Egypt and Jordan. In other countries the sample may need to be sent abroad, adding time and cost. When local access is unavailable, asking for a referral through a specialist obstetrician is the most reliable path."
+          ]
+        },
+        {
+          "h2": "Diagnostic confirmation: amniocentesis and CVS",
+          "paras": [
+            "If screening suggests a high risk, or if a family wants a definitive answer regardless of screening result, the options are amniocentesis and chorionic villus sampling (CVS). Both examine the baby's actual chromosomes and give a clear answer.",
+            "Amniocentesis is performed from week 15 onwards. The doctor uses ultrasound to guide a fine needle through the abdominal wall into the amniotic sac and withdraws a small amount of fluid. Fetal cells floating in that fluid are cultured and their chromosomes counted. The result takes one to two weeks for full karyotyping, though rapid FISH testing can give a preliminary result in 24 to 48 hours.",
+            "CVS is done earlier, between weeks 10 and 13, and takes a small sample of placental tissue through either the cervix or the abdomen. Because the placenta and baby share the same genetic origin, its chromosomes reflect the baby's. A systematic review by Salomon and colleagues published in 2019 found the procedure-related miscarriage risk to be approximately 0.5 percent for amniocentesis and 0.7 percent for CVS. These are real numbers that belong in any informed discussion.",
+            "A negative diagnostic result is definitive. A positive result confirms trisomy 21. In very rare cases the laboratory may find an ambiguous result, such as confined placental mosaicism, that requires additional specialist interpretation. The couple should be counselled before the procedure that such findings, though uncommon, are possible.",
+            "Women who choose not to undergo diagnostic testing because the risk to the pregnancy is not acceptable to them have every right to that decision. Equally, women who want certainty and are willing to accept the procedural risk have every right to proceed. The role of the clinical team is to provide accurate information, not to steer either way."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Comparing screening and diagnostic options",
+            "head": ["Test", "Timing", "Accuracy", "Pregnancy risk"],
+            "rows": [
+              ["First-trimester combined screening", "Weeks 11-14", "85-90% detection", "None"],
+              ["NIPT (cell-free DNA)", "From week 10", "99%+ detection", "None"],
+              ["Amniocentesis", "From week 15", "100% diagnostic", "~0.5% miscarriage"],
+              ["Chorionic villus sampling (CVS)", "Weeks 10-13", "100% diagnostic", "~0.7% miscarriage"]
+            ],
+            "source": "Salomon LJ et al: Risk of miscarriage following amniocentesis or CVS, 2019",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/31124209/"
+          }
+        },
+        {
+          "h2": "What a high-risk result actually means",
+          "paras": [
+            "When a screening result describes your risk as high or screen positive, the most important thing to understand is the actual number. A result of 1 in 50 means there is a 2 percent probability that the baby has Down syndrome and a 98 percent probability that it does not. Both parts of that statement are equally real.",
+            "Some families choose to proceed immediately to diagnostic testing. Others choose to wait and monitor, or to proceed with the pregnancy without further testing and prepare regardless of the outcome. All of these are legitimate responses, and a competent counsellor will present all options without preference.",
+            "The threshold that defines high risk is not biologically determined. Different screening programmes use different cut-offs: 1 in 250, 1 in 300, or 1 in 150. A woman just above the cut-off and a woman just below it have almost identical risk profiles, but one receives a high-risk letter and the other does not. Understanding that the threshold is a clinical decision boundary, not a medical verdict, is part of interpreting the result correctly.",
+            "After a positive NIPT result, the temptation to act immediately is understandable. But the evidence clearly shows that a proportion of positive NIPT results, particularly for conditions other than trisomy 21, do not confirm on diagnostic testing. Waiting for diagnostic confirmation before making any irreversible decision is the guidance all major obstetric organisations agree on."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "warn",
+            "title": "Before making any decision after a positive screening result",
+            "items": [
+              "A positive screening result is not a diagnosis. It may be a false positive.",
+              "Request a consultation with a fetal medicine specialist or genetic counsellor.",
+              "Any decision about the pregnancy should be based on a confirmatory diagnostic test, not a screening result alone.",
+              "Timing matters: diagnostic testing is available only within specific gestational windows."
+            ]
+          }
+        },
+        {
+          "h2": "Genetic counselling: why it matters",
+          "paras": [
+            "Genetic counselling is a consultation with a trained professional who explains what chromosomal test results mean in practical and statistical terms. It is not reserved for people who have received bad news. It helps any family with a high-risk screening result make an informed choice about the next step.",
+            "A genetic counsellor explains the actual probability behind a number, the implications of each test option including its procedural risks, what a confirmed diagnosis of Down syndrome would mean for the child's development and the family's life, and what resources and support services exist locally. The counsellor presents information without pushing a particular outcome.",
+            "In the Middle East, genetic counselling is available at teaching hospitals in Saudi Arabia, UAE, Jordan, Lebanon and Egypt. In countries with fewer specialist services, video consultations with centres in Beirut, Amman or abroad are an increasingly practical option. A referral from the treating obstetrician is usually the starting point."
+          ]
+        }
+      ],
+      "tie": "Use Sihtak to keep a clear record of your prenatal test dates, results and follow-up appointments, so nothing gets lost in the busy weeks of pregnancy. Having your results in one place makes consultations with your doctor quicker and more useful.",
+      "faqs": [
+        {
+          "q": "Does a high-risk screening result mean my baby has Down syndrome?",
+          "a": "No. A high-risk result means the probability has crossed a threshold, not that the diagnosis is confirmed. Even a result described as 1 in 10 means that 9 out of 10 pregnancies with that result will not have Down syndrome. A definitive answer requires a diagnostic test examining the baby's chromosomes directly."
+        },
+        {
+          "q": "Is NIPT available across the Middle East?",
+          "a": "It is readily available in the UAE, Saudi Arabia and Kuwait, and at specialist centres in Egypt and Jordan. In other countries the sample may need to be sent to an external laboratory, which adds time and cost. Ask your obstetrician what is available locally or whether a referral is possible."
+        },
+        {
+          "q": "What is the difference between amniocentesis and CVS?",
+          "a": "Both are diagnostic tests that examine the baby's chromosomes directly and give a definitive answer. Amniocentesis takes fluid from around the baby after week 15. CVS takes a small sample of placental tissue between weeks 10 and 13, making it available earlier. Both carry a small risk of miscarriage in the range of 0.5 to 0.7 percent."
+        },
+        {
+          "q": "Does Down syndrome run in families?",
+          "a": "In most cases it does not. The majority of Down syndrome cases arise from a random error in cell division that is not inherited. In a small minority of cases caused by a chromosomal rearrangement called a Robertsonian translocation, one parent may be a carrier and the recurrence risk is higher. A diagnostic test will identify which type is present."
+        },
+        {
+          "q": "Does the father's age affect Down syndrome risk?",
+          "a": "Only marginally. Maternal age is the dominant factor. Research suggests paternal origin accounts for roughly 10 percent of cases, but paternal age is not included in standard clinical risk calculations because its contribution is small compared to maternal age."
+        },
+        {
+          "q": "What should a family expect if the diagnosis is confirmed?",
+          "a": "Down syndrome produces a wide range of abilities, not a single fixed outcome. Many people with Down syndrome learn to read and write, form close relationships, work and live with varying degrees of independence. Early intervention programmes, speech therapy and appropriate schooling make a substantial difference. A genetic counsellor can connect families with local support networks."
+        },
+        {
+          "q": "When in pregnancy should screening be done?",
+          "a": "The first-trimester combined test is done between weeks 11 and 14. NIPT can be done from week 10. CVS is performed between weeks 10 and 13. Amniocentesis from week 15. These windows are specific, so planning the screening timeline early in pregnancy with your obstetrician matters."
+        },
+        {
+          "q": "Is screening compulsory in Arab countries?",
+          "a": "In most of the region prenatal screening is offered but not compulsory. Some antenatal care protocols include it routinely; others require the patient to request it. Some families decline for religious or personal reasons. Whatever your choice, it should be made with accurate information about what each test can and cannot tell you."
+        }
+      ]
+    }
+  }
+}

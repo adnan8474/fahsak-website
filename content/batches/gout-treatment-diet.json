@@ -1,0 +1,358 @@
+{
+  "slug": "gout-treatment-diet",
+  "category": "chronic-conditions",
+  "chip_ar": "أمراض مزمنة",
+  "chip_en": "Chronic Conditions",
+  "date_iso": "2026-07-22",
+  "sources": [
+    {"label": "Dalbeth N, Gosling AL, Gaffo A et al: Gout, Lancet, 2021", "url": "https://pubmed.ncbi.nlm.nih.gov/33798500/"},
+    {"label": "FitzGerald JD, Dalbeth N, Mikuls T et al: 2020 American College of Rheumatology Guideline for the Management of Gout, Arthritis care and research, 2020", "url": "https://pubmed.ncbi.nlm.nih.gov/32391934/"},
+    {"label": "Richette P, Doherty M, Pascual E et al: 2016 updated EULAR evidence-based recommendations for the management of gout, Annals of the rheumatic diseases, 2017", "url": "https://pubmed.ncbi.nlm.nih.gov/27457514/"},
+    {"label": "Dalbeth N, Choi HK, Joosten LAB et al: Gout, Nature reviews. Disease primers, 2019", "url": "https://pubmed.ncbi.nlm.nih.gov/31558729/"},
+    {"label": "Kedar E, Simkin PA: A perspective on diet and gout, Advances in chronic kidney disease, 2012", "url": "https://pubmed.ncbi.nlm.nih.gov/23089274/"},
+    {"label": "Vargas-Santos AB, Neogi T: Management of Gout and Hyperuricemia in CKD, American journal of kidney diseases, 2017", "url": "https://pubmed.ncbi.nlm.nih.gov/28456346/"},
+    {"label": "Shubietah A, Awashra A, Milhem F et al: Hyperuricemia and Cardiovascular Risk: Insights and Implications, Critical pathways in cardiology, 2025", "url": "https://pubmed.ncbi.nlm.nih.gov/40062919/"}
+  ],
+  "content": {
+    "ar": {
+      "title": "النقرس: وقف النوبات ومنع التالي",
+      "desc": "تعرف على أسباب النقرس وحمض البوليك وكيف تعالج النوبة الحادة والأهم كيف توقف النوبات المستقبلية بالدواء والغذاء الصحيح في بيئتنا.",
+      "keywords": "النقرس, حمض اليوريك, حمض البوليك, الألوبيورينول, نوبة النقرس, النقرس والغذاء, النقرس في الخليج, uric acid, علاج النقرس, النقرس والكلى, النقرس والكحول, النقرس والأكل",
+      "h1": "النقرس: وقف النوبات الحادة ومنع العودة بالدواء والغذاء الصحيح",
+      "takeaways": [
+        "النقرس يحدث حين يترسب حمض البوليك (Uric acid) على شكل بلورات في المفاصل، وأكثرها شيوعاً مفصل إبهام القدم.",
+        "الخطأ الأكثر شيوعاً هو إيقاف الألوبيورينول أثناء نوبة النقرس: هذا يُطيل المعاناة ولا يوقفها.",
+        "قياس حمض البوليك أثناء النوبة الحادة قد يكون طبيعياً وهذا لا ينفي تشخيص النقرس.",
+        "المشروبات السكرية والمشروبات المحلاة بالفركتوز ترفع حمض البوليك بقدر مماثل للكحول أو أشد.",
+        "الهدف من العلاج الطويل المدى هو إبقاء حمض البوليك أقل من 6 ملغ/ديسيلتر للحفاظ على إذابة البلورات."
+      ],
+      "sections": [
+        {
+          "h2": "ما هو النقرس وكيف يحدث هذا الألم الشديد؟",
+          "paras": [
+            "النقرس (Gout) مرض مفصلي التهابي يحدث حين يتجاوز تركيز حمض البوليك (Uric acid) في الدم حد الذوبان، فيترسب على شكل بلورات إبرية حادة تُسمى أحادي يورات الصوديوم (Monosodium urate) داخل تجويف المفاصل وما حولها. هذه البلورات تُحفّز الجهاز المناعي فيهجم عليها بالتهاب شديد.",
+            "النوبة الحادة مؤلمة بشكل استثنائي وغير متوقع. تبدأ في الغالب بشكل مفاجئ في الليل أو الفجر بألم شديد في مفصل إبهام القدم الذي يُعدّ الموضع الأكثر إصابة، لكن يمكن أن تُصيب أيضاً الكاحل والركبة والرسغ ومفاصل أخرى. المفصل يصبح أحمر منتفخاً دافئاً ومؤلماً لمجرد ملامسة ثوب النوم أو غطاء السرير.",
+            "حمض البوليك هو ناتج تحلل مادة البيورين (Purine) الموجودة في الطعام وفي خلايا الجسم نفسها. حين يُنتَج أكثر مما تطرحه الكلى يتراكم في الدم. كثيرون يعانون من ارتفاع حمض البوليك (Hyperuricemia) دون أن تحدث لهم نوبة نقرس قط، فالبلورات لا تتكون عند الجميع بنفس الظروف.",
+            "النقرس مرض قديم يُعرف منذ آلاف السنين وكان يُسمى مرض الملوك نسبة لارتباطه بالوفرة الغذائية. لكنه في عصرنا لم يعد حكراً على أحد بفضل انتشار المشروبات السكرية والأطعمة المصنعة والمشروبات الغازية التي تُعادل في تأثيرها الكحول أو تتجاوزه في رفع حمض البوليك."
+          ],
+          "visual": {
+            "type": "range-scale",
+            "title": "حمض البوليك في الدم: أين أنت؟",
+            "label": "حمض البوليك (Uric acid)",
+            "unit": "ملغ/ديسيلتر",
+            "min": 0,
+            "max": 12,
+            "zones": [
+              {"to": 6, "tone": "good", "label": "الهدف العلاجي"},
+              {"to": 7, "tone": "warn", "label": "حدّ التشبع"},
+              {"to": 12, "tone": "bad", "label": "مرتفع، خطر التبلور"}
+            ],
+            "source": "Dalbeth N et al: Gout, Lancet, 2021",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/33798500/"
+          }
+        },
+        {
+          "h2": "من هو الأكثر عرضة للنقرس في منطقتنا؟",
+          "paras": [
+            "النقرس يُصيب الرجال أكثر من النساء بمعدل 3 إلى 4 أضعاف، وعادة يُصيب الرجال في سن الثلاثينيات والأربعينيات. النساء يتمتعن بحماية نسبية من هرمون الإستروجين الذي يُساعد الكلى على طرح حمض البوليك بكفاءة أعلى، لذا يظهر النقرس لديهن في الغالب بعد انقطاع الطمث حين تختفي هذه الحماية.",
+            "عوامل الخطر الرئيسية تشمل: ارتفاع ضغط الدم، والسمنة وخاصة سمنة البطن، ومرض السكري من النوع الثاني، والفشل الكلوي المزمن الذي يُضعف قدرة الكلى على طرح حمض البوليك في البول. الاستخدام المزمن لأدوية مدرات البول وخاصة من عائلة الثيازيد يرفع حمض البوليك كأثر جانبي معروف. التاريخ العائلي يلعب دوراً جينياً لا يُستهان به.",
+            "في منطقة الشرق الأوسط تُسهم عادات غذائية معينة بشكل خاص: الإفراط في اللحوم الحمراء والكبدة والكلاوي والأحشاء والمخ التي تعلو جداً في البيورين وهي من مكونات الوجبات التقليدية المحبوبة في كثير من بلدان المنطقة. كذلك الإفراط في المشروبات الغازية والعصائر المحلاة بالفركتوز التي ترفع حمض البوليك بطريقة مستقلة عن مسار البيورين مباشرة.",
+            "دراسة نُشرت في مجلة Critical Pathways in Cardiology عام 2025 ربطت ارتفاع حمض البوليك بزيادة ملحوظة في خطر أمراض القلب والأوعية الدموية، مما يجعل السيطرة على حمض البوليك مهمة صحية أشمل من مجرد منع ألم المفاصل. في سياق منطقتنا حيث تتشابك أمراض السكري والضغط والسمنة والنقرس لدى شخص واحد كثيراً، يستوجب الأمر استراتيجية علاجية شاملة وليس معالجة كل مرض بمعزل عن الآخر."
+          ]
+        },
+        {
+          "h2": "هل قياس حمض البوليك أثناء النوبة يُشخّص النقرس؟",
+          "paras": [
+            "هذه نقطة تُربك كثيراً من الأطباء والمرضى في منطقتنا: حمض البوليك قد يكون طبيعياً أو حتى منخفضاً أثناء النوبة الحادة، وهذا لا يعني أن التشخيص خاطئ أو أن النقرس ليس السبب.",
+            "التفسير المنطقي هو أن النوبة نفسها تُحفّز التهاباً عاماً يُسبّب إعادة توزيع حمض البوليك في الجسم وانخفاضه مؤقتاً في الدم بينما البلورات مستقرة في المفصل. لهذا يُفضّل قياس حمض البوليك بعد أسبوعين إلى أربعة أسابيع من هدوء النوبة للحصول على القيمة الحقيقية.",
+            "معيار التشخيص الذهبي هو سحب سائل من المفصل المُلتهب بإبرة دقيقة وفحصه تحت المجهر للكشف عن بلورات أحادي يورات الصوديوم. هذا يُؤكد التشخيص بيقين، لكنه غير ضروري في كل الحالات خاصة إذا كانت الصورة السريرية كلاسيكية جداً.",
+            "التصوير المقطعي ثنائي الطاقة (Dual-energy CT) تقنية حديثة تستطيع الكشف عن ترسبات اليورات في المفاصل بدقة عالية وهي خيار متاح في المراكز الكبرى لمن يصعب تشخيصه بالطرق التقليدية."
+          ]
+        },
+        {
+          "h2": "كيف تُعالَج نوبة النقرس الحادة؟",
+          "paras": [
+            "الهدف الأول في علاج النوبة الحادة هو إطفاء الالتهاب بأسرع وقت ممكن. الأدوية الثلاثة المعتمدة لذلك هي: مضادات الالتهاب غير الستيرويدية (NSAIDs) كالإيندوميتاسين أو النابروكسين، والكولشيسين (Colchicine)، والكورتيكوستيرويدات (الكورتيزون). اختيار الطبيب بين هذه الأدوية يعتمد على وظائف الكلى وحالة المعدة والحالة الصحية العامة.",
+            "الكولشيسين فعّال جداً إذا بُدئ به خلال الساعات الأولى من النوبة. يُعطى بجرعات منخفضة حديثاً بدلاً من الجرعات المرتفعة القديمة التي كانت تُسبّب إسهالاً شديداً. لا يُناسب من يعانون من فشل كلوي شديد وقد يتعارض مع أدوية أخرى.",
+            "الراحة ورفع القدم المُصابة، وتطبيق الثلج بقطعة قماش لمدة عشرين دقيقة عدة مرات في اليوم، وشرب كميات وفيرة من الماء كلها إجراءات مساندة تُخفف الانتفاخ والألم. تجنّب الضغط على المفصل وارتداء الأحذية الضيقة أثناء النوبة.",
+            "من المهم جداً فهم ما يُحرّك النوبة: المشروبات الكحولية خاصة البيرة وكثرة اللحوم الحمراء والمحار والكبدة والجفاف والمرض وجراحة أو صدمة والبدء بأدوية تُغير مستوى حمض البوليك فجأة كلها محرضات معروفة للنوبة."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "علامات نوبة النقرس الحادة تستدعي تقييم طبي",
+            "items": [
+              "ألم شديد ومفاجئ في مفصل لم تُصَب به من قبل",
+              "احمرار وانتفاخ ودفء في المفصل مع ألم لمجرد اللمس",
+              "ألم مصحوب بحمى: يجب استبعاد التهاب المفصل الجرثومي",
+              "نوبة تستمر أكثر من أسبوعين دون تحسن رغم العلاج",
+              "حصوات متكررة في الكلى مع ارتفاع حمض البوليك"
+            ]
+          }
+        },
+        {
+          "h2": "الخطأ الأكبر: إيقاف الألوبيورينول أثناء النوبة",
+          "paras": [
+            "الألوبيورينول (Allopurinol) هو العلاج الأكثر استخداماً لخفض حمض البوليك على المدى الطويل، وهو دواء يُثبط إنزيم زانثين أوكسيداز المسؤول عن تكوين حمض البوليك. يُؤخذ بصفة يومية مستمرة وهدفه ليس علاج النوبة بل منع تكوّنها.",
+            "الخطأ الشائع جداً في مجتمعاتنا وبين بعض الأطباء هو إيقاف الألوبيورينول أثناء النوبة الحادة على الاعتقاد بأنه سببها أو يُفاقمها. هذا خاطئ علمياً: التوقف عن الألوبيورينول أثناء النوبة يُطيل مدتها ويزيد من احتمال حدوث نوبة جديدة عند استئنافه لاحقاً.",
+            "إرشادات الجمعية الأمريكية لأمراض الروماتيزم عام 2020 والمجموعة الأوروبية EULAR كلتاهما توصيان بالاستمرار في الألوبيورينول أثناء النوبة الحادة وعلاجها بأدوية مخصصة للالتهاب وليس بإيقاف خافض البوليك. هذه التوصية تُحسّن المسار بشكل ملحوظ.",
+            "السبب الحقيقي لنوبة النقرس عند البدء بالألوبيورينول أو رفع جرعته هو التغيير المفاجئ في تركيز حمض البوليك الذي يُحرّك البلورات. لهذا يُبدأ الألوبيورينول بجرعة منخفضة ويُرفع تدريجياً، وكثيراً ما يُعطى الكولشيسين وقائياً في الأشهر الستة الأولى من العلاج."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "كيف يُستخدم الألوبيورينول بصحيح؟",
+            "items": [
+              "يُبدأ بجرعة منخفضة (100 ملغ) وتُرفع تدريجياً كل 2 إلى 4 أسابيع",
+              "الهدف هو إبقاء حمض البوليك أقل من 6 ملغ/ديسيلتر وليس مجرد خفضه",
+              "لا تُوقفه أثناء نوبة النقرس، بل استمر فيه وعالج الالتهاب بمضاد التهاب منفصل",
+              "يُعطى الكولشيسين بجرعة وقائية منخفضة لأشهر أثناء ضبط الجرعة",
+              "يُخفَّف في حالة الفشل الكلوي بتعليمات الطبيب"
+            ]
+          }
+        },
+        {
+          "h2": "الغذاء والنقرس: الحقيقة وما هو أسطورة",
+          "paras": [
+            "مراجعة علمية نُشرت في مجلة Advances in Chronic Kidney Disease تُوضّح أن التغييرات الغذائية وحدها تخفض حمض البوليك بنحو 1 إلى 1.5 ملغ/ديسيلتر فقط في المتوسط، وهو تأثير أقل مما يظن كثيرون. لكن هذا لا يعني أن الغذاء غير مهم، بل يعني أن الأدوية ضرورية عادة للوصول إلى الهدف وأن الغذاء يُكمّل الدواء.",
+            "ما ثبت فعلياً أنه يرفع حمض البوليك: اللحوم العضوية (الكبدة والكلوي والدماغ والمخ) التي تعلو جداً في البيورين، والمحار والأسماك الدهنية كالسردين والإنشوفة، والمشروبات الغازية والعصائر المحلاة بشربات الذرة الغنية بالفركتوز (HFCS)، والكحول وخاصة البيرة.",
+            "ما يُحمَّل المسؤولية زوراً في الموروث الشعبي: الطماطم والسبانخ والفطر والقرنبيط مثيرة للقلق رغم احتوائها على البيورين، لكن الأدلة تُشير إلى أن البيورين النباتي لا يُحوَّل إلى حمض البوليك بنفس كفاءة بيورين اللحوم. الحليب ومنتجاته بالمقابل تُقلل من حمض البوليك فعلياً وهي مفيدة.",
+            "أهم نصيحة غذائية عملية في سياقنا الإقليمي: قلل المشروبات السكرية والمحلاة بشكل جذري، قلل اللحوم العضوية والأحشاء التي هي من مكونات الوجبات الشعبية في كثير من بلدان المنطقة، وزِد شرب الماء لأن الترطيب الجيد يُساعد الكلى على طرح حمض البوليك."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "تأثير الأطعمة والمشروبات على حمض البوليك",
+            "head": ["الصنف", "التأثير على حمض البوليك", "توصية"],
+            "rows": [
+              ["الكبدة والكلوي والدماغ", "رفع قوي جداً", "تجنّب أو قلّص بشدة"],
+              ["المشروبات السكرية والغازية", "رفع قوي عبر الفركتوز", "تجنّب أو قلّص بشدة"],
+              ["اللحوم الحمراء الزائدة", "رفع معتدل إلى كبير", "اعتدال لا حظر كامل"],
+              ["الأسماك الدهنية (سردين، إنشوفة)", "رفع معتدل", "اعتدال"],
+              ["الخضار العالية البيورين (سبانخ)", "تأثير خفيف فعلياً", "لا داعي للقلق"],
+              ["منتجات الألبان منخفضة الدسم", "تخفيض خفيف", "مفيدة ويُشجَّع عليها"],
+              ["الماء والترطيب الجيد", "يُساعد على طرح البوليك", "ضروري، 2 لتر أو أكثر"]
+            ]
+          }
+        },
+        {
+          "h2": "النقرس المتكرر والتوفي: ما يحدث حين لا يُعالَج؟",
+          "paras": [
+            "النقرس الذي لا يُعالج بشكل صحيح ينتهي به الأمر إلى مرحلة تُسمى النقرس المزمن المُرسَّب (Chronic tophaceous gout)، وفيها تتراكم البلورات في الأنسجة الرخوة على مدى سنوات وتُكوّن كتلاً بيضاء صلبة تُسمى التوفي (Tophi) تظهر في الأذنين وظهر اليدين وعلى جوانب المرفقين والأوتار.",
+            "هذه التوفي مؤلمة بحد ذاتها وقد تتقرح وتُفرز مادة جيرية بيضاء وتُفسد المظهر الخارجي وتُعيق حركة المفاصل بشكل دائم. والأخطر من ذلك أن ترسبات اليورات قد تستقر في الأنابيب الكلوية وتُسبّب حصوات متكررة وتُسرّع الفشل الكلوي في حلقة مفرغة مع ارتفاع حمض البوليك.",
+            "النقرس المتكرر المصاحب لارتفاع ضغط الدم والسمنة والسكري يُضاعف من خطر أمراض القلب والأوعية الدموية، وهذا ما كشفته دراسة 2025 في مجلة Critical Pathways in Cardiology. إدارة النقرس الجيدة لا تقتصر على منع الألم فقط بل تنعكس إيجاباً على الصحة القلبية الوعائية وصحة الكلى على المدى الطويل.",
+            "هدف خفض حمض البوليك إلى ما دون 6 ملغ/ديسيلتر ليس رقماً عشوائياً بل هو العتبة الفيزيائية لإذابة البلورات: عند هذا المستوى تبدأ بلورات يورات الصوديوم المترسبة في المفاصل بالذوبان تدريجياً، مما يُقلّل النوبات على المدى الطويل ويوقف تكوّن توفي جديد. لهذا السبب يُقيس الطبيب حمض البوليك بانتظام ولا يكتفي بالاطمئنان لغياب النوبات."
+          ]
+        },
+        {
+          "h2": "النقرس والكلى: علاقة ثنائية تتطلب انتباهاً",
+          "paras": [
+            "النقرس والفشل الكلوي يُغذّي كل منهما الآخر. الفشل الكلوي يُضعف قدرة الكلى على طرح حمض البوليك فيرتفع مستواه في الدم. في المقابل، ترسبات اليورات في الكلى تُضر بالأنابيب الكلوية وتُسرّع تدهورها.",
+            "الألوبيورينول يحتاج إلى تخفيض جرعته في حالات الفشل الكلوي تجنباً للتراكم. الفيبيوكسوستات (Febuxostat) خيار آخر لخفض البوليك قد يناسب بعض حالات الفشل الكلوي، لكنه يحتاج إلى حذر في حالات القلب.",
+            "الكولشيسين أيضاً يُخفّف جرعته في الفشل الكلوي، والمضادات غير الستيرويدية لعلاج النوبة الحادة خطرة على الكلى وتُتجنب أو تُستخدم بحذر شديد في من لديهم فشل كلوي. لهذا فإن مريض النقرس المصاب بفشل كلوي يحتاج إلى متابعة متخصصة وليس إلى نفس العلاج المعطى لمريض كلاه سليمتان.",
+            "الرسالة العملية: إذا كنت مصاباً بالنقرس وبالفشل الكلوي في آن واحد، فأخبر طبيب الكلى بكل أدويتك بما فيها ما تأخذه للنقرس وادع كلا الاختصاصيين يتشاوران في خطتك العلاجية."
+          ]
+        }
+      ],
+      "tie": "في تطبيق صحتك يمكنك تتبع مستوى حمض البوليك على مر الوقت عبر مسح التحاليل، وتسجيل النوبات ومحرضاتها لمشاركتها مع طبيبك، واستخدام المساعد الذكي لفهم نتائجك. أداة مساعدة إلى جانب العلاج لا بديل عنه.",
+      "faqs": [
+        {
+          "q": "هل حمض البوليك الطبيعي يستبعد النقرس؟",
+          "a": "لا. قد يكون حمض البوليك طبيعياً أثناء النوبة الحادة لأن الالتهاب يُغيّر توزيعه مؤقتاً. الطبيب يقيسه بعد أسبوعين إلى أربعة أسابيع من هدوء النوبة للحصول على القيمة الحقيقية."
+        },
+        {
+          "q": "هل يجب إيقاف الألوبيورينول أثناء نوبة النقرس؟",
+          "a": "لا على الإطلاق. إيقاف الألوبيورينول أثناء النوبة يُطيل مدتها ويزيد خطر نوبة جديدة عند استئنافه. الإرشادات العلمية توصي بالاستمرار فيه وعلاج الالتهاب الحاد بدواء مخصص كالكولشيسين أو الكورتيزون."
+        },
+        {
+          "q": "هل يُشفى النقرس بالحمية الغذائية وحدها؟",
+          "a": "الحمية تُساعد وتُكمّل الدواء لكنها لا تكفي عادة لإيصال حمض البوليك إلى الهدف دون أدوية. التغييرات الغذائية تُخفّض حمض البوليك بنحو 1 إلى 1.5 ملغ/ديسيلتر فقط في المتوسط، وكثيراً ما يلزم انخفاض أكبر من ذلك."
+        },
+        {
+          "q": "هل السبانخ والطماطم يرفعان حمض البوليك؟",
+          "a": "هذا قلق مُبالَغ فيه. رغم أن بعض الخضار تحتوي على البيورين إلا أن البيورين النباتي يُحوَّل إلى حمض البوليك بكفاءة أقل بكثير من بيورين اللحوم. لا داعي للابتعاد عن الخضار للسيطرة على النقرس."
+        },
+        {
+          "q": "هل المشروبات الغازية والعصائر ترفع حمض البوليك؟",
+          "a": "نعم وبشكل ملحوظ. الفركتوز الموجود فيها يرفع حمض البوليك بمسار مستقل عن مسار البيورين الغذائي، ودراسات عديدة أثبتت ارتباطه برفع خطر النقرس حتى عند من لا يتناولون الكحول. الماء هو البديل الأفضل."
+        },
+        {
+          "q": "هل النقرس يُصيب النساء؟",
+          "a": "يُصيب النساء أيضاً لكن بعد انقطاع الطمث عادة حين ينتهي تأثير الإستروجين الحامي. النساء المصابات بفشل كلوي أو آخذات لمدرات البول معرضات أكثر للإصابة في أي سن."
+        },
+        {
+          "q": "كم من الوقت يستغرق الألوبيورينول ليُخفّض حمض البوليك؟",
+          "a": "قد تمر أسابيع إلى أشهر قبل أن يصل حمض البوليك إلى الهدف المطلوب مع ضبط الجرعة تدريجياً. النوبات قد تستمر أو تزداد في الأشهر الأولى لأسباب مرتبطة بحركة البلورات، وهذا لا يعني أن الدواء فاشل."
+        }
+      ]
+    },
+    "en": {
+      "title": "Gout: stopping the attacks and preventing the next one",
+      "desc": "Acute gout attacks, the uric acid target, why stopping allopurinol during a flare is the biggest mistake, and which foods in the regional diet genuinely matter.",
+      "keywords": "gout treatment, gout diet, uric acid, allopurinol, gout flare, gout Middle East, hyperuricemia, colchicine, gout kidney, gout food, urate lowering, gout attack",
+      "h1": "Gout: stopping the acute attack and preventing the next one",
+      "takeaways": [
+        "Gout occurs when uric acid crystallises inside joints. The big toe is the most common site, but ankles, knees, and wrists are also frequently affected.",
+        "The most common mistake is stopping allopurinol during a flare. Guidelines say to continue it and treat the inflammation separately.",
+        "Measuring uric acid during an acute attack may give a normal reading, which does not rule out gout.",
+        "Sugary drinks and fructose-sweetened beverages raise uric acid as much as, or more than, alcohol for most people who do not drink.",
+        "The long-term uric acid target below 6 mg/dL is not arbitrary: it is the level at which existing crystals begin to dissolve."
+      ],
+      "sections": [
+        {
+          "h2": "What is gout and why does it hurt so much?",
+          "paras": [
+            "Gout is an inflammatory joint disease caused by the crystallisation of uric acid. When uric acid concentration in the blood exceeds the saturation point, it precipitates as needle-shaped monosodium urate crystals inside joint cavities and surrounding tissues. The immune system treats these crystals as foreign invaders and mounts an intense inflammatory response.",
+            "The acute attack is famously painful and arrives without warning, most commonly at night or in the early hours of the morning. The classic site is the big toe joint, which becomes swollen, red, warm, and so tender that even the touch of a bedsheet is unbearable. Attacks can also affect the ankle, knee, wrist, and fingers.",
+            "Uric acid is a breakdown product of purines, chemical compounds found in food and in the body's own cells as they die and are recycled. When the body produces more uric acid than the kidneys can excrete, it accumulates in the blood. Many people have elevated uric acid, a state called hyperuricemia, without ever developing gout: crystals do not form under every set of conditions and there appears to be an individual threshold.",
+            "Gout was historically known as the disease of kings because of its association with rich food and alcohol. Today it is no longer a disease of privilege: the spread of sugary drinks and fructose-sweetened beverages has extended the risk to a much wider population, and in the regional diet these drinks can drive uric acid as much as or more than alcohol."
+          ],
+          "visual": {
+            "type": "range-scale",
+            "title": "Where your uric acid sits",
+            "label": "Uric acid",
+            "unit": "mg/dL",
+            "min": 0,
+            "max": 12,
+            "zones": [
+              {"to": 6, "tone": "good", "label": "Treatment target"},
+              {"to": 7, "tone": "warn", "label": "Saturation threshold"},
+              {"to": 12, "tone": "bad", "label": "High, crystallisation risk"}
+            ],
+            "source": "Dalbeth N et al: Gout, Lancet, 2021",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/33798500/"
+          }
+        },
+        {
+          "h2": "Who is most at risk in the regional context?",
+          "paras": [
+            "Gout affects men three to four times more often than women, typically in their thirties and forties. Women are largely protected by oestrogen, which helps the kidneys excrete uric acid, until menopause removes that protection. Women who develop gout after menopause or who take diuretic medications are at similar risk to men.",
+            "The main risk factors include high blood pressure, obesity, type 2 diabetes, chronic kidney disease which impairs uric acid excretion, and long-term use of thiazide diuretics, which are a common class of blood pressure medication that raises uric acid as a side effect. A family history also plays a genetic role.",
+            "In the Middle East and Gulf region, specific dietary patterns contribute significantly. Organ meats including liver, kidney, brain, and offal are high in purines and are traditional components of many regional cuisines. The very high consumption of sugary drinks and fruit-flavoured beverages sweetened with high-fructose corn syrup raises uric acid through a separate mechanism independent of purine content.",
+            "A 2025 review in Critical Pathways in Cardiology linked elevated uric acid to an increased risk of cardiovascular disease, making gout management a broader health priority beyond just joint pain relief."
+          ]
+        },
+        {
+          "h2": "Does a normal uric acid level rule out gout?",
+          "paras": [
+            "This question confuses many doctors and patients. Uric acid can be normal or even below the normal range during an acute attack, and this does not mean the diagnosis is wrong or that gout is not the cause.",
+            "The explanation is that the acute attack itself triggers systemic inflammation which causes a temporary redistribution of uric acid from the blood into tissues, while the crystals remain locked in the joint. This is why the American College of Rheumatology and EULAR guidelines recommend measuring uric acid two to four weeks after the flare has settled to get the true resting value.",
+            "The gold standard for diagnosis is joint aspiration: a doctor withdraws a small amount of fluid from the inflamed joint with a fine needle and examines it under a polarising light microscope to look for characteristic needle-shaped monosodium urate crystals. This confirms the diagnosis with certainty and, importantly, also rules out septic arthritis, which is a serious bacterial joint infection that can look similar.",
+            "Dual-energy CT scanning is a newer imaging technology that can detect urate deposits in joints with high accuracy without aspiration and is available in larger regional centres for cases that are difficult to diagnose conventionally."
+          ]
+        },
+        {
+          "h2": "How is an acute gout attack treated?",
+          "paras": [
+            "The immediate goal in an acute flare is to extinguish the inflammation as quickly as possible. The three established treatment options are non-steroidal anti-inflammatory drugs (NSAIDs) such as indomethacin or naproxen, colchicine, and corticosteroids. The doctor's choice depends on kidney function, stomach health, and other conditions.",
+            "Colchicine is highly effective when started within the first few hours of a flare. Modern dosing uses lower doses than were historically given, which avoids the severe diarrhoea that used to limit its use. It is not suitable for people with severe kidney failure and may interact with certain other medications, so check with your doctor.",
+            "Supporting measures help alongside medication: rest and elevation of the affected limb, ice packs wrapped in a cloth applied for twenty minutes several times a day, and drinking plenty of water. Avoid tight footwear or any pressure on the swollen joint during the attack.",
+            "Understanding what triggers flares is important for prevention. Known triggers include alcohol particularly beer, a large meal high in organ meats or shellfish, dehydration, illness or surgery, and abrupt changes in uric acid level from starting or stopping urate-lowering medicines. Recognising your personal triggers helps you anticipate and sometimes prevent attacks."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "Seek medical assessment for these features",
+            "items": [
+              "Severe sudden pain in a joint you have not had gout in before",
+              "A joint that is red, swollen, warm, and extremely tender to the lightest touch",
+              "Pain accompanied by fever: septic arthritis must be excluded urgently",
+              "An attack that lasts more than two weeks despite treatment",
+              "Repeated kidney stones alongside elevated uric acid"
+            ]
+          }
+        },
+        {
+          "h2": "The biggest mistake: stopping allopurinol during a flare",
+          "paras": [
+            "Allopurinol is the most widely used long-term urate-lowering therapy. It works by inhibiting xanthine oxidase, the enzyme that produces uric acid, and is taken daily as a preventive rather than as an anti-inflammatory for the acute attack itself.",
+            "The very common mistake, shared by many patients and unfortunately some practitioners in the region, is stopping allopurinol when a flare begins, on the belief that it caused or is worsening the attack. This is scientifically incorrect: stopping allopurinol mid-flare prolongs the flare and substantially increases the risk of a new flare when the drug is restarted, because of the uric acid level shift this creates.",
+            "Both the 2020 American College of Rheumatology guideline and the EULAR recommendations explicitly state to continue urate-lowering therapy during an acute flare and to treat the inflammation separately with colchicine, NSAIDs, or corticosteroids. Following this approach leads to significantly better outcomes.",
+            "The reason flares sometimes occur when starting allopurinol or increasing its dose is the sudden shift in uric acid concentration, which destabilises existing crystals and can trigger their movement into the joint space. This is why allopurinol is always started at a low dose and titrated upward slowly, and why colchicine at a low prophylactic dose is often given for the first six months of urate-lowering therapy."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "How to use allopurinol correctly",
+            "items": [
+              "Start at a low dose (100 mg) and increase gradually every 2 to 4 weeks",
+              "The goal is uric acid below 6 mg/dL, not just any reduction",
+              "Do not stop it during a flare: treat the inflammation separately",
+              "Take colchicine at a low prophylactic dose during the dose adjustment period",
+              "Reduce the dose in kidney disease as directed by your doctor"
+            ]
+          }
+        },
+        {
+          "h2": "Food and gout: what actually matters and what is myth",
+          "paras": [
+            "A review published in Advances in Chronic Kidney Disease found that dietary changes alone reduce uric acid by only about 1 to 1.5 mg/dL on average. This is less than most people expect and less than medication achieves. Diet matters but it supplements medication rather than replacing it for most people who need urate-lowering therapy.",
+            "What is genuinely established to raise uric acid: organ meats including liver, kidney, and brain are very high in purines; oily fish such as sardines and anchovies have a moderate effect; sugary drinks and juices sweetened with high-fructose corn syrup raise uric acid through a fructose-specific metabolic pathway independent of purine content; and alcohol, especially beer, has a double effect through both purine content and competing with uric acid for renal excretion.",
+            "What is unfairly blamed in popular belief: vegetables that contain purines, such as spinach, asparagus, mushrooms, and cauliflower, carry a much weaker real-world risk than their purine content suggests, because plant purines are converted to uric acid with much lower efficiency than animal purines. People do not need to avoid these vegetables to manage gout.",
+            "The most practical regional dietary advice: cut sugary drinks and sweetened juices dramatically, reduce organ meats and offal which are common in many traditional dishes across the region, and drink enough water daily to keep the kidneys flushing uric acid effectively. Low-fat dairy products actually reduce uric acid slightly and should be encouraged."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Effect of foods and drinks on uric acid",
+            "head": ["Food or drink", "Effect on uric acid", "Practical guidance"],
+            "rows": [
+              ["Liver, kidney, brain and offal", "Strong increase", "Avoid or sharply reduce"],
+              ["Sugary drinks and sweetened juices", "Strong increase via fructose", "Avoid or sharply reduce"],
+              ["Red meat in excess", "Moderate to large increase", "Moderation, not complete avoidance"],
+              ["Oily fish (sardines, anchovies)", "Moderate increase", "Moderation"],
+              ["High-purine vegetables (spinach)", "Minimal real-world effect", "No need to restrict"],
+              ["Low-fat dairy products", "Mild reduction", "Beneficial, to be encouraged"],
+              ["Water and good hydration", "Supports uric acid excretion", "Essential, aim for 2 litres or more daily"]
+            ]
+          }
+        },
+        {
+          "h2": "What happens if gout is left untreated: tophi and joint damage",
+          "paras": [
+            "Gout that is poorly controlled over years progresses to a form called chronic tophaceous gout, in which crystal deposits accumulate in soft tissues and form firm whitish nodules called tophi (singular: tophus). Tophi appear most often on the outer ear, the back of the hands, around the elbows, and on tendons.",
+            "Tophi are painful, can ulcerate and discharge a chalky white substance, impair movement, and cause permanent joint deformity. Urate deposits can also settle in the kidneys, causing recurrent kidney stones and accelerating kidney damage, which in turn makes uric acid harder to excrete and worsens the gout, creating a self-reinforcing cycle.",
+            "Recurrent gout alongside hypertension, obesity, and diabetes significantly raises cardiovascular risk, as highlighted by the 2025 review in Critical Pathways in Cardiology. Managing gout is therefore not only about pain relief but about protecting the heart and kidneys over the longer term.",
+            "The uric acid target below 6 mg/dL is not a number chosen arbitrarily. At this level, the blood is below the saturation point for monosodium urate, which means existing crystals in the joints begin to dissolve gradually. This is why sustained target achievement, measured by regular blood tests, is the only way to truly reduce flare frequency over time."
+          ]
+        },
+        {
+          "h2": "Gout and kidney disease: a two-way relationship",
+          "paras": [
+            "Gout and chronic kidney disease feed each other in a cycle. Impaired kidney function reduces the excretion of uric acid, raising its blood level. In turn, urate deposits in the kidney tubules damage them and accelerate further decline. People with both conditions need careful specialist management.",
+            "Allopurinol must be dose-reduced in kidney disease to prevent accumulation and toxicity. Febuxostat is an alternative urate-lowering drug that may suit some patients with kidney impairment, but requires caution in those with cardiac disease. Both drugs are dose-adjusted based on kidney function rather than used at standard doses.",
+            "Colchicine also requires dose reduction in kidney disease. NSAIDs for the acute flare are potentially harmful to the kidneys and should be avoided or used with extreme caution in anyone with CKD. This means a patient with both gout and kidney disease needs a treatment plan that is specifically tailored rather than the standard protocol applied to someone with healthy kidneys.",
+            "The practical message: if you have both gout and kidney disease, make sure your nephrologist and your rheumatologist are both aware of all the medicines you are taking for each condition. Treating one without the other knowing what is prescribed risks interactions and inappropriate dosing that can harm the very organs you are trying to protect."
+          ]
+        }
+      ],
+      "tie": "In the Sihtak app you can track your uric acid level over time by scanning your blood results, log the dates and possible triggers of your flares to share with your doctor, and ask the AI assistant to explain your result. A practical companion alongside your treatment, not a replacement for it.",
+      "faqs": [
+        {
+          "q": "Does a normal uric acid level mean I do not have gout?",
+          "a": "No. Uric acid can fall to normal during an acute attack because of the inflammatory response. A doctor should measure it two to four weeks after the flare has settled to get an accurate resting level. A normal result during the attack does not exclude the diagnosis."
+        },
+        {
+          "q": "Should I stop allopurinol during a gout attack?",
+          "a": "No. International guidelines from both the ACR and EULAR say to continue allopurinol and treat the acute inflammation separately with colchicine, an NSAID, or a corticosteroid. Stopping allopurinol prolongs the flare and increases the risk of a rebound flare when it is restarted."
+        },
+        {
+          "q": "Can gout be cured by diet alone?",
+          "a": "Diet helps and reduces uric acid by around 1 to 1.5 mg/dL on average, but this is usually not enough to reach the target below 6 mg/dL on its own. Medication is typically needed alongside dietary changes to achieve and maintain the target."
+        },
+        {
+          "q": "Do tomatoes and spinach cause gout?",
+          "a": "This concern is overstated. Although some vegetables contain purines, plant-based purines are converted to uric acid with much lower efficiency than animal purines. There is no need to avoid vegetables as part of gout management."
+        },
+        {
+          "q": "Do sugary drinks raise uric acid?",
+          "a": "Yes, and significantly. Fructose in sugary drinks and sweetened juices raises uric acid through a metabolic pathway independent of dietary purines, and several studies have linked high sugary drink consumption to increased gout risk even in people who do not drink alcohol. Water is the best replacement."
+        },
+        {
+          "q": "Does gout affect women?",
+          "a": "Yes, though less commonly before menopause because oestrogen helps the kidneys excrete uric acid. After menopause, or in women with kidney disease or taking diuretics, the risk rises substantially and can equal that in men."
+        },
+        {
+          "q": "How long does allopurinol take to work?",
+          "a": "It takes weeks to months to reach the target uric acid level as the dose is adjusted gradually. Flares may initially continue or even increase during the first few months as crystals are destabilised. This is an expected part of starting therapy, not a sign that the medicine is failing."
+        }
+      ]
+    }
+  }
+}

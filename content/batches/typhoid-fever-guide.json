@@ -1,0 +1,341 @@
+{
+  "slug": "typhoid-fever-guide",
+  "category": "infectious-diseases",
+  "chip_ar": "أمراض معدية",
+  "chip_en": "Infectious Diseases",
+  "date_iso": "2026-07-25",
+  "sources": [
+    {"label": "Wijedoru L, Mallett S, Parry CM et al: Rapid diagnostic tests for typhoid and paratyphoid (enteric) fever, The Cochrane database of systematic reviews, 2017", "url": "https://pubmed.ncbi.nlm.nih.gov/28545155/"},
+    {"label": "Swinkels HM, Jenks JD, DeVos E et al: Typhoid Fever, 2026", "url": "https://pubmed.ncbi.nlm.nih.gov/32491445/"},
+    {"label": "Patel PD, Liang Y, Meiring JE et al: Efficacy of typhoid conjugate vaccine: final analysis of a 4-year, phase 3, randomised controlled trial in Malawian children, Lancet (London, England), 2024", "url": "https://pubmed.ncbi.nlm.nih.gov/38281499/"},
+    {"label": "Bhutta ZA, Gaffey MF, Crump JA et al: Typhoid Fever: Way Forward, The American journal of tropical medicine and hygiene, 2018", "url": "https://pubmed.ncbi.nlm.nih.gov/30047361/"},
+    {"label": "Zaki SA, Karande S: Multidrug-resistant typhoid fever: a review, Journal of infection in developing countries, 2011", "url": "https://pubmed.ncbi.nlm.nih.gov/21628808/"},
+    {"label": "Imad Z, Malik MFK, Kalol MMA et al: Clinical Audit of Enteric Fever Diagnostic Practices at Kosti Teaching Hospital: A Retrospective Evaluation, Cureus, 2026", "url": "https://pubmed.ncbi.nlm.nih.gov/41755920/"}
+  ],
+  "content": {
+    "ar": {
+      "title": "حمى التيفوئيد: الماء والغذاء والحمى التي ترتفع تدريجياً",
+      "desc": "دليل كامل عن حمى التيفوئيد: كيف تنتقل عبر الماء والطعام الملوث، ولماذا اختبار ويدال غير موثوق في تشخيصها، وكيف تُعالَج وتُوقى منها.",
+      "keywords": "حمى التيفوئيد, أعراض التيفوئيد, اختبار ويدال, الحمى الراجعة, حمى الماء الملوث, علاج التيفوئيد, لقاح التيفوئيد, السالمونيلا, تشخيص التيفوئيد, الوقاية من التيفوئيد",
+      "h1": "حمى التيفوئيد: من الماء الملوث إلى الحمى التي ترتفع يومياً وكيف تتعامل معها",
+      "takeaways": [
+        "حمى التيفوئيد تنتقل عبر الماء والطعام الملوث ببراز المريض، وليس عبر الهواء.",
+        "الحمى الكلاسيكية ترتفع تدريجياً على مدى أسبوع ثم تُقيم مرتفعة، مصحوبة بصداع وألم بطني وإمساك أو إسهال.",
+        "اختبار ويدال (Widal test) لا يزال يُستخدم في المنطقة لكنه كثير التشخيص الخاطئ في المناطق التي انتشر فيها المرض من قبل.",
+        "المضادات الحيوية مؤثرة لكن المقاومة تتزايد، وزرع الدم هو الطريقة الذهبية لتأكيد التشخيص.",
+        "اللقاح المتاح متعدد الوحدات يوفر حماية معقولة للمسافرين والأطفال في المناطق الموبوءة."
+      ],
+      "sections": [
+        {
+          "h2": "ما هي حمى التيفوئيد وكيف تنتقل؟",
+          "paras": [
+            "حمى التيفوئيد (Typhoid Fever) مرض جرثومي تسببه بكتيريا تُعرف بـ Salmonella Typhi. تدخل هذه البكتيريا الجسم عن طريق الفم عبر تناول ماء أو طعام ملوّث ببراز شخص مصاب. تُصنّف بين الأمراض المرتبطة بالمياه والصرف الصحي، وتنتشر بشكل أكبر في المجتمعات التي يعاني فيها توزيع المياه أو معالجتها من قصور.",
+            "الطريق الأشيع للعدوى هو شرب ماء الصنبور غير المُعالَج بكفاءة، أو تناول خضراوات وفواكه رُوِّيت بمياه غير نظيفة، أو أطعمة أعدّها شخص مصاب لم يغسل يديه. الأسماك والمأكولات البحرية المأخوذة من مياه ملوثة قد تحمل الجرثومة أيضاً. المرض لا ينتقل بالتنفس أو المصافحة العادية.",
+            "يبقى بعض الأشخاص بعد الشفاء من التيفوئيد حاملين للجرثومة في المرارة دون أن يشعروا بأي أعراض، ويطرحونها في برازهم ويصبحون مصدر عدوى خفياً. هذه الحالة التي تُعرف بالحامل الصحي لها أثر بالغ في استمرار انتشار المرض في المجتمعات ذات الشبكات المائية الضعيفة."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "كيف تصل البكتيريا من مصدر ملوث إلى جسمك",
+            "items": [
+              "تلوث الماء أو التربة بمخلفات شخص مصاب أو حامل للجرثومة",
+              "ري المزروعات بماء ملوث أو طهو الطعام دون غسل كافٍ لليدين",
+              "تناول الطعام أو الشرب من مصدر ملوث",
+              "وصول البكتيريا إلى الأمعاء ثم اختراقها للجدار المعوي",
+              "انتشارها عبر الدم وظهور الأعراض خلال 6 إلى 30 يوماً من التعرض"
+            ]
+          }
+        },
+        {
+          "h2": "ما أعراض التيفوئيد وكيف تتطور؟",
+          "paras": [
+            "ما يميز حمى التيفوئيد هو تدرّج ارتفاع الحمى على مدى أسبوع كامل، بدلاً من الارتفاع المفاجئ. في الأيام الأولى يشعر المريض بصداع خفيف وإرهاق وفقدان شهية وآلام عضلية عامة، مع حمى لا تتجاوز 38 إلى 38.5 درجة. في الأسبوع الثاني ترتفع الحمى إلى 39 أو 40 درجة وتظل عالية، ويزداد الشعور بالإرهاق الشديد.",
+            "في المرحلة الأولى يُعاني كثير من المرضى من إمساك لا إسهال، وهذا يخالف توقعات كثيرين. الإسهال أكثر شيوعاً عند الأطفال. كما قد يلاحظ المريض ألماً في منتصف البطن أو أسفله يزداد عند الضغط عليه، وأحياناً تنتفخ الطحال والكبد قليلاً.",
+            "في المرضى ذوي البشرة الفاتحة قد تظهر على الجذع بقع وردية صغيرة تُسمى rose spots لكنها نادرة التشخيص ممن لا يبحثون عنها. الصداع متواصل وقد يكون شديداً. الأسبوع الثالث هو الأخطر إذ تظهر فيه المضاعفات المحتملة.",
+            "التمييز بين التيفوئيد والأمراض الأخرى كالملاريا أو التهاب الكبد الفيروسي أو الأمراض الفيروسية المشابهة مهمة يصعب على غير المتخصص إنجازها وحده. الأعراض المتداخلة في مناطقنا الموبوءة بأمراض متعددة تُضاعف الحاجة لفحص دموي دقيق بدلاً من الاكتفاء بالتقييم السريري."
+          ],
+          "visual": {
+            "type": "timeline",
+            "title": "كيف تتطور أعراض التيفوئيد أسبوعاً بأسبوع",
+            "items": [
+              {"when": "الأسبوع الأول", "what": "حمى تدريجية، صداع، تعب، فقدان الشهية، إمساك أحياناً"},
+              {"when": "الأسبوع الثاني", "what": "حمى تبلغ 39-40 درجة، ألم بطني، طحال منتفخ، إرهاق شديد"},
+              {"when": "الأسبوع الثالث", "what": "خطر المضاعفات: نزيف أو ثقب الأمعاء أو انتشار العدوى"},
+              {"when": "الأسبوع الرابع", "what": "تراجع تدريجي مع العلاج الصحيح، أو تفاقم بدونه"}
+            ]
+          }
+        },
+        {
+          "h2": "ما مضاعفات التيفوئيد الخطيرة؟",
+          "paras": [
+            "المضاعفة الأخطر هي ثقب الأمعاء، وتحدث في نحو 1 إلى 3 بالمئة من الحالات غير المعالجة أو المتأخر في علاجها. تنقلب حالة المريض من مرض مزمن إلى بطن حاد مع ألم شديد وصلابة البطن والحمى المرتفعة فجأة. هذه حالة طارئة جراحية تستوجب التدخل الفوري.",
+            "النزيف المعوي مضاعفة أخرى تتجلى بمرور دم في البراز أو قيء دموي. التهاب الكبد وضعف القلب وخلل التخثر مضاعفات أقل شيوعاً لكن ممكنة خاصة عند ضعاف المناعة وكبار السن. دراسة نشرتها مجلة Cureus عام 2026 من السودان وثّقت مدى الاعتماد على الوسائل السريرية وحدها في كثير من مستشفيات المنطقة، مما يُؤخر أحياناً اكتشاف هذه المضاعفات.",
+            "الحالات التي لا تُعالَج بمضادات حيوية مناسبة تمتد لأسابيع طويلة وقد تُودي بحياة المريض. مع العلاج الصحيح والمبكر تنخفض معدلات الوفاة لأقل من 1 بالمئة، مقارنة بنسب أعلى بكثير في غياب العلاج.",
+            "من الأهمية بمكان أن كل مريض بحمى تيفوئيد يُشكّل بؤرة محتملة لانتشار العدوى في محيطه. تسجيل الحالة لدى الجهات الصحية المحلية يُمكّن المختصين من تتبع مصدر الإصابة والتحقق من سلامة الماء والمطاعم المحيطة. في بيئات انعدمت فيها هذه الأنظمة بسبب الأزمات، يتكاثف دور الأسرة في الحماية الذاتية."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "اطلب الإسعاف فوراً إذا ظهر",
+            "items": [
+              "ألم بطني حاد مفاجئ مع صلابة في البطن (احتمال ثقب معوي)",
+              "دم في البراز أو قيء دموي",
+              "ارتفاع حاد في الحمى مع هبوط في الضغط أو فقدان الوعي",
+              "اصفرار الجلد والعينين مع حمى مستمرة"
+            ]
+          }
+        },
+        {
+          "h2": "هل اختبار ويدال موثوق في تشخيص التيفوئيد؟",
+          "paras": [
+            "اختبار ويدال (Widal test) هو فحص دموي يقيس الأجسام المضادة ضد السالمونيلا. ظل لعقود طويلة الاختبار الأوسع استخداماً في المنطقة بسبب سهولته ورخص ثمنه. غير أن مراجعة كوكرانية شاملة نُشرت عام 2017 خلصت إلى أن قيمته التشخيصية تبقى غير كافية لتأكيد التيفوئيد أو نفيه بمفرده. وبسبب هذه المحدودية يُفرط كثير من الأطباء في تشخيص التيفوئيد في مناطقنا، مما يُفضي إلى علاج غير ضروري بمضادات حيوية ومن ثم مساهمة في تصاعد المقاومة.",
+            "المشكلة الجوهرية أن هذا الاختبار يُعطي نتائج إيجابية كاذبة في المناطق التي سبق أن انتشر فيها التيفوئيد، لأن أجسام المناعة قد تبقى في الدم من إصابات أو تطعيمات سابقة. كما أن السالمونيلا لها أنواع أخرى تتشابه مع S. Typhi مما يزيد من الالتباس. نتيجة إيجابية واحدة لا تعني بالضرورة إصابة نشطة.",
+            "المعيار الذهبي للتشخيص هو زرع الدم (Blood Culture)، حيث تُكشف البكتيريا مباشرة في الدم خلال الأسبوع الأول من المرض. تراجع الحساسية في الأسابيع التالية وارتفعت حساسية زرع البراز والبول. في مناطق لا يتوفر فيها الزرع، يبقى ويدال أداةً إضافية وليس دليلاً قاطعاً."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "مقارنة طرق تشخيص التيفوئيد",
+            "head": ["طريقة التشخيص", "الدقة", "التوفر في المنطقة"],
+            "rows": [
+              ["زرع الدم (Blood Culture)", "عالية في الأسبوع الأول", "محدود في المناطق الفقيرة"],
+              ["اختبار ويدال (Widal)", "منخفضة في المناطق الموبوءة", "شائع وغير مكلف"],
+              ["اختبارات الكشف السريع (RDTs)", "متوسطة إلى جيدة", "تتوسع تدريجياً"],
+              ["زرع البراز", "جيدة في الأسبوع الثاني", "متاح في بعض المختبرات"]
+            ]
+          }
+        },
+        {
+          "h2": "كيف يُعالَج التيفوئيد والمقاومة للمضادات الحيوية؟",
+          "paras": [
+            "يُعالَج التيفوئيد بالمضادات الحيوية، وأكثرها استخداماً حالياً السيفترياكسون (Ceftriaxone) وريثر اعتمده كثير من الأطباء لفعاليته ضد السلالات المقاومة، إلى جانب الأزيثروميسين (Azithromycin) الذي يُعطى فموياً. مدة العلاج عادةً من سبعة إلى أربعة عشر يوماً حسب شدة الحالة.",
+            "مراجعة نُشرت عام 2011 في مجلة الأمراض المعدية في البلدان النامية وثّقت تصاعد السلالات المقاومة لمضادات الجيل الأول كالأمبيسيلين والكلورامفينيكول، مما دفع نحو تحديث البروتوكولات. التيفوئيد شديد المقاومة (XDR Typhoid) الذي لا يستجيب إلا للأزيثروميسين وعدد محدود من الأدوية ظهر في باكستان وانتشر في بلدان عدة.",
+            "لا تتناول مضادات حيوية من الصيدلية دون وصفة حين تشتبه بالتيفوئيد. الاختيار الخاطئ للمضاد يُسرّع المقاومة دون أن يُعالج المرض. إذا كانت حالتك خفيفة وتُعالَج بالمنزل، اشرب كميات كافية من الماء والمحاليل، وعزل نفسك عن مشاركة إعداد الطعام لبقية الأسرة حتى تُؤكد التعافي.",
+            "في سياق الأزمات ونقص الأدوية الذي تعانيه بعض مناطق المنطقة العربية، يُمنع الاستعاضة عن المضاد الحيوي المناسب بآخر غير مناسب أو بجرعة ناقصة. التيفوئيد المعالَج بجرعات ناقصة من المضادات يعود بأشكال أشد مقاومة وأصعب معالجة. تواصل مع برامج الدعم الصحي الدولية أو المحلية إذا واجهت صعوبة في الحصول على الدواء."
+          ]
+        },
+        {
+          "h2": "هل يوجد لقاح للتيفوئيد وما فعاليته؟",
+          "paras": [
+            "نعم، يتوفر لقاح التيفوئيد بأشكال مختلفة. أحدثها وأكثرها فعالية هو لقاح التيفوئيد المترافق (Typhoid Conjugate Vaccine, TCV) الذي أوصت به منظمة الصحة العالمية للأطفال من عمر ستة أشهر فصاعداً. دراسة نُشرت في مجلة لانسيت عام 2024 أثبتت أن هذا اللقاح يمنع التيفوئيد بنسبة تجاوزت 80 بالمئة على مدى أربع سنوات.",
+            "اللقاح القديم المتعدد السكاريد (Vi polysaccharide) لا يزال يُستخدم لحماية المسافرين إلى المناطق الموبوءة، ويُعطى كجرعة واحدة ويُجدَّد كل ثلاث سنوات. فعاليته أقل من TCV خاصة عند الأطفال الصغار. اللقاح الفموي (Ty21a) متاح في بعض البلدان كخيار بديل.",
+            "اللقاح لا يُغني عن الاحتياطات الأساسية. الشخص الملقَّح يظل قادراً نظرياً على الإصابة إذا تناول كميات كبيرة من البكتيريا. لهذا تبقى نظافة الماء والطعام والأيدي الخط الدفاعي الأول.",
+            "إذا كنت تعيش في دولة تُدرِج لقاح TCV في برنامجها الوطني أو كان طفلك دون سنتين، اسأل الطبيب أو مركز الصحة عنه. اللقاح القديم متعدد السكاريد يُناسب أيضاً المسافرين للعمل أو الحج والعمرة نحو مناطق الانتشار، ويُعطى جرعة واحدة قبل السفر بأسبوعين على الأقل."
+          ]
+        },
+        {
+          "h2": "كيف تقي نفسك وعائلتك من التيفوئيد في المنزل؟",
+          "paras": [
+            "في المناطق التي يُشكّ في نقاء مياهها، اغلِ الماء لدقيقة كاملة قبل شربه أو استخدام فلاتر محقّقة أو ماء معبأ من مصدر موثوق. تذكر أن كثيراً من الحالات تأتي من ثلج مصنوع من ماء ملوث أو مشروبات مُثلّجة في المطاعم.",
+            "اغسل يديك بالماء والصابون قبل إعداد الطعام وبعد استخدام المرحاض. غسل اليدين الجيد لعشرين ثانية على الأقل يُزيل جزءاً كبيراً من الجراثيم. الخضراوات والفواكه التي تُؤكل نيّئة يجب غسلها جيداً بماء نظيف أو تقشيرها.",
+            "إذا كان أحد أفراد الأسرة مصاباً بالتيفوئيد، لا يجوز له إعداد الطعام للآخرين ويجب تخصيص أدوات نظيفة له. المراحيض يجب تنظيفها بمعقّمات بانتظام خلال فترة المرض. المريض قد يظل يطرح البكتيريا في برازه أسابيع بعد الشفاء السريري، لذا تستمر احتياطات النظافة حتى تأكيد التعافي المختبري.",
+            "في المناطق التي يشحّ فيها الماء النظيف أو تنقطع شبكاته بسبب النزاعات أو الأزمات، تصبح المياه المعبأة أو المغلية ضرورة لا رفاهية. توزيع ثقافة غسل اليدين داخل الأسرة خاصة قبل الطعام وبعد الحمام من أبسط الخطوات وأكثرها أثراً في خفض انتشار التيفوئيد داخل المنزل الواحد."
+          ]
+        },
+        {
+          "h2": "متى تلجأ إلى الطبيب ومتى تذهب للطوارئ؟",
+          "paras": [
+            "أي حمى تمتد لأكثر من خمسة أيام، خاصة مع صداع وألم بطني، تستوجب تقييماً طبياً. لا تنتظر حتى تتفاقم الأعراض أو تُجرب علاجاً منزلياً لأسابيع. التشخيص المبكر والعلاج الصحيح يُقلصان مدة المرض بشكل كبير.",
+            "في الطوارئ يُقيَّم المريض كلياً، وتُؤخذ منه عينة دم للزرع وعينة بول وبراز ويُبدأ العلاج التجريبي إذا كانت الشكوى متوافقة مع التيفوئيد حتى صدور نتائج الزرع. في الحالات الشديدة يُحتاج إلى دخول المستشفى لتلقي المضادات الحيوية وريدياً والمراقبة.",
+            "ما يُعقّد الوضع في كثير من مناطقنا هو أن الحمى والإجهاد وألم البطن كثيراً ما تُعزى إلى أسباب أخرى قبل التفكير في التيفوئيد. إذا كنت في منطقة موبوءة أو عُدت من سفر لمنطقة فيها خطر، أخبر الطبيب بذلك صراحة حتى يُدرجه ضمن التشخيصات المحتملة.",
+            "التيفوئيد مشكلة عامة لا فردية. إذا أُكِّد تشخيصك، تواصل مع الجهات الصحية المحلية إن كانت متاحة لأن تسجيل الحالة يُمكّن السلطات من تتبّع مصدر العدوى، خاصة إذا تبيّن أنك تناولت من طعام أو ماء مشترك مع آخرين. اكتشاف مصدر التلوث يحمي عشرات الأسر التي قد لا تعلم بتعرّضها بعد."
+          ]
+        }
+      ],
+      "tie": "تطبيق صحتك يُتيح لك تسجيل الحمى اليومية ومتابعة مسارها ساعة بساعة، مما يُساعدك على تقديم صورة دقيقة للطبيب بدلاً من الاعتماد على الذاكرة. ويشرح المساعد الذكي معنى نتيجة اختبار ويدال أو زرع الدم ويذكّرك بعلامات التدهور التي تستوجب العودة للمستشفى. متتبع الأدوية يضمن إتمام الجرعة الكاملة للمضادات الحيوية.",
+      "faqs": [
+        {
+          "q": "هل التيفوئيد ينتقل من شخص لآخر مباشرة؟",
+          "a": "ينتقل بصورة غير مباشرة في الغالب عبر الطعام أو الماء الملوث. التعامل المباشر مع مريض دون غسل اليدين ثم لمس الطعام أو الفم ينقل العدوى، لكن التنفس بجانبه أو المصافحة وحدها لا تكفي لنقل الجرثومة."
+        },
+        {
+          "q": "هل يمكن أن أُصاب بالتيفوئيد مرة ثانية؟",
+          "a": "نعم. التيفوئيد يمكن أن يعود مرة أخرى لأن المناعة المكتسبة بعد الإصابة ليست دائمة، وقد تضعف مع الوقت. اللقاح ونظافة المياه والغذاء يبقيان الوقاية الأساسية حتى لمن أصيب من قبل."
+        },
+        {
+          "q": "هل اختبار ويدال وحده كافٍ لتشخيص التيفوئيد؟",
+          "a": "لا. ويدال يُعطي نتائج إيجابية كاذبة في المناطق التي انتشر فيها المرض سابقاً. المعيار الذهبي هو زرع الدم خلال الأسبوع الأول. إذا لم يتوفر الزرع، يستخدم الطبيب ويدال ضمن سياق الأعراض السريرية لا كدليل وحيد."
+        },
+        {
+          "q": "كم تمتد فترة العلاج؟",
+          "a": "عادةً من سبعة إلى أربعة عشر يوماً بالمضادات الحيوية حسب الحالة ونوع الدواء المستخدم. لا تتوقف عن الدواء بمجرد انخفاض الحمى، فالتوقف المبكر قد يُسبب عودة المرض والنكس."
+        },
+        {
+          "q": "هل الحامل معرضة لخطر أكبر؟",
+          "a": "نعم. التيفوئيد أثناء الحمل مرتبط بخطر أعلى من الإجهاض والولادة المبكرة. بعض المضادات الحيوية المستخدمة قد تحتاج تعديلاً للحامل، لذا التشخيص والعلاج الفوري تحت إشراف طبي أمر ضروري."
+        },
+        {
+          "q": "هل أحتاج اللقاح قبل السفر إلى مناطق موبوءة؟",
+          "a": "نعم يُنصح به. اللقاح يُعطى قبل الرحلة بأسبوعين على الأقل. ويبقى الاحتياط في اختيار الماء والطعام ضرورياً حتى بعد التطعيم لأن اللقاح لا يوفر حماية مطلقة."
+        },
+        {
+          "q": "هل الحامل للجرثومة بعد الشفاء معدٍ؟",
+          "a": "نعم. بعض المتعافين يبقون حاملين للبكتيريا في المرارة ويطرحونها في البراز أشهراً أو سنوات. هذا الحامل الصحي يحتاج متابعة مختبرية وأحياناً علاجاً إضافياً تحت إشراف طبي."
+        },
+        {
+          "q": "هل يمكن علاج التيفوئيد في المنزل؟",
+          "a": "الحالات الخفيفة عند الشباب الأصحاء يمكن علاجها خارج المستشفى بمضادات حيوية فموية، شريطة متابعة طبية وترطيب جيد. الحالات الشديدة أو من تظهر عليهم علامات تدهور أو من يعانون أمراضاً مزمنة يحتاجون دخول المستشفى."
+        }
+      ]
+    },
+    "en": {
+      "title": "Typhoid Fever: Water, Food and the Fever That Climbs",
+      "desc": "A complete guide to typhoid fever: how it spreads through contaminated water, why the Widal test misleads in endemic regions, and how it is treated and prevented.",
+      "keywords": "typhoid fever symptoms, typhoid treatment, Widal test reliability, enteric fever, typhoid water food, typhoid antibiotic resistance, typhoid vaccine, Salmonella Typhi, typhoid diagnosis, typhoid prevention",
+      "h1": "Typhoid Fever: From Contaminated Water to a Climbing Fever and How to Handle It",
+      "takeaways": [
+        "Typhoid spreads through water and food contaminated with an infected person's faeces, not through the air.",
+        "The classic fever rises gradually over a week then stays high, accompanied by headache, abdominal pain, constipation or diarrhoea.",
+        "The Widal test remains widely used in the region but gives too many false positives in areas where typhoid has circulated before.",
+        "Antibiotics are effective but resistance is growing, and blood culture is the gold standard for confirming the diagnosis.",
+        "The typhoid conjugate vaccine offers reliable protection for children and travellers in endemic areas."
+      ],
+      "sections": [
+        {
+          "h2": "What is typhoid fever and how does it spread?",
+          "paras": [
+            "Typhoid fever is a bacterial disease caused by Salmonella Typhi. The bacteria enter the body by mouth through contaminated water or food that has been exposed to the faeces of an infected person. It is classified as a water and sanitation-related disease, and it thrives where drinking water treatment or distribution infrastructure is inadequate.",
+            "The most common routes of infection are drinking tap water that has not been adequately treated, eating vegetables or fruit irrigated with contaminated water, and food handled by an infected person who did not wash their hands. Shellfish and seafood taken from polluted waters can also carry the organism. Typhoid does not spread through breathing the same air or ordinary handshaking.",
+            "Some people, after recovering from typhoid, continue to carry the bacteria silently in their gallbladder and shed it in their stool without any symptoms. These healthy carriers are a hidden reservoir that sustains transmission in communities with weak water networks, and they may be unaware of their status for years."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "How the bacteria travel from a contaminated source to your body",
+            "items": [
+              "Water or soil contaminated by the faeces of an infected person or carrier",
+              "Crops irrigated with contaminated water, or food prepared without proper handwashing",
+              "Consuming the contaminated water or food",
+              "Bacteria reach the gut and penetrate the intestinal wall",
+              "Spread through the bloodstream, with symptoms appearing 6 to 30 days after exposure"
+            ]
+          }
+        },
+        {
+          "h2": "What are the symptoms and how do they develop?",
+          "paras": [
+            "What distinguishes typhoid is the way the fever climbs gradually over a full week rather than spiking suddenly. In the first few days the person notices mild headache, fatigue, loss of appetite and generalised muscle aching, with a temperature that may only reach 38 to 38.5 degrees Celsius. By the second week the fever rises to 39 or 40 degrees and stays there, and the feeling of exhaustion intensifies markedly.",
+            "In the early stage many patients have constipation rather than diarrhoea, which often surprises people expecting a gastroenteritis-type illness. Diarrhoea is more common in children. The person may also notice a dull pain in the mid or lower abdomen that worsens with pressure, and the spleen and liver sometimes enlarge slightly.",
+            "In light-skinned patients, small rose-coloured spots may appear on the trunk, known as rose spots, but they are rarely noticed unless specifically looked for. The headache is persistent and can be severe. The third week carries the highest risk of serious complications, and this is when the outlook without appropriate treatment deteriorates most sharply."
+          ],
+          "visual": {
+            "type": "timeline",
+            "title": "How typhoid symptoms develop week by week",
+            "items": [
+              {"when": "Week 1", "what": "Gradually rising fever, headache, fatigue, poor appetite, sometimes constipation"},
+              {"when": "Week 2", "what": "High fever 39-40C, abdominal pain, enlarged spleen, severe exhaustion"},
+              {"when": "Week 3", "what": "Risk of complications: intestinal perforation or haemorrhage, spread of infection"},
+              {"when": "Week 4", "what": "Gradual improvement with correct treatment, or deterioration without it"}
+            ]
+          }
+        },
+        {
+          "h2": "What are the serious complications to know about?",
+          "paras": [
+            "The most dangerous complication is intestinal perforation, occurring in roughly 1 to 3 percent of untreated or late-treated cases. The patient's presentation changes abruptly from a prolonged fever to an acute abdomen with severe pain, board-like rigidity and a sudden spike in temperature. This is a surgical emergency requiring immediate intervention.",
+            "Intestinal haemorrhage is another recognised complication and presents with blood in the stool or blood in the vomit. Hepatitis, mild cardiac involvement and clotting disturbances are less common but possible, particularly in immunocompromised patients and the elderly. A 2026 study from Sudan published in Cureus documented the continuing reliance on clinical signs alone in many regional hospitals, which can delay recognition of these complications.",
+            "Cases that do not receive appropriate antibiotic treatment can drag on for many weeks and may be fatal. With early and correct treatment, the fatality rate falls to below 1 percent, compared with significantly higher figures in the absence of treatment."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "Call for emergency help immediately if you notice",
+            "items": [
+              "Sudden severe abdominal pain with board-like rigidity (possible intestinal perforation)",
+              "Blood in the stool or blood in vomit",
+              "High fever with a sudden drop in blood pressure or loss of consciousness",
+              "Yellowing of the skin and eyes with ongoing fever"
+            ]
+          }
+        },
+        {
+          "h2": "Is the Widal test reliable for diagnosing typhoid?",
+          "paras": [
+            "The Widal test is a blood test that measures antibodies against Salmonella. For decades it has been the most widely used diagnostic test in the region because of its low cost and simplicity. However, a comprehensive Cochrane review published in 2017 concluded that its diagnostic accuracy is insufficient to confirm or rule out typhoid on its own.",
+            "The core problem is that this test gives false-positive results in areas where typhoid has previously circulated, because antibodies from previous infections or vaccinations can persist in the blood for years. Other Salmonella species that cross-react with S. Typhi antigens add further confusion. A single positive Widal result does not mean you have active typhoid.",
+            "The gold standard is blood culture, where the bacteria are directly detected in the blood during the first week of illness. Sensitivity falls in subsequent weeks while stool and urine cultures become more useful. In areas where culture is not available, the Widal test is used as a supplementary tool alongside clinical findings rather than as definitive proof."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Comparing typhoid diagnostic methods",
+            "head": ["Method", "Accuracy", "Availability in region"],
+            "rows": [
+              ["Blood culture", "High in week 1", "Limited in resource-poor areas"],
+              ["Widal test", "Low in endemic areas", "Widely available, cheap"],
+              ["Rapid diagnostic tests (RDTs)", "Moderate to good", "Expanding gradually"],
+              ["Stool culture", "Good in week 2 onward", "Available in some laboratories"]
+            ]
+          }
+        },
+        {
+          "h2": "How is typhoid treated, and what about antibiotic resistance?",
+          "paras": [
+            "Typhoid is treated with antibiotics. The most commonly used regimens now include ceftriaxone (Ceftriaxone), which many doctors prefer for its effectiveness against resistant strains, and azithromycin (Azithromycin) as an oral option. The course typically runs from seven to fourteen days depending on severity and the drug used.",
+            "A review published in 2011 in the Journal of Infection in Developing Countries documented the rise of strains resistant to first-generation drugs including ampicillin and chloramphenicol, driving updates to treatment guidelines. Extensively drug-resistant typhoid (XDR typhoid), which responds only to azithromycin and a small number of other drugs, emerged in Pakistan and has since spread to several countries.",
+            "Do not buy antibiotics from a pharmacy and self-treat on the basis of a positive Widal test alone. Choosing the wrong antibiotic accelerates resistance without curing the disease. If you are managing a mild case at home under medical supervision, drink plenty of fluids and oral rehydration salts, and keep yourself away from preparing food for others until your recovery is confirmed.",
+            "In settings affected by medicine shortages, whether because of conflict, supply disruption or poverty, using a partial course or the wrong drug is common. Typhoid treated with inadequate doses tends to return in a more resistant form that is harder and more expensive to cure. Contact any international or local health programme operating in your area if you face difficulty obtaining the correct treatment."
+          ]
+        },
+        {
+          "h2": "Is there a vaccine and how effective is it?",
+          "paras": [
+            "Yes, typhoid vaccines are available in several forms. The most effective and newest is the typhoid conjugate vaccine (TCV), recommended by the World Health Organization for children from six months of age. A study published in The Lancet in 2024 confirmed this vaccine prevented typhoid in more than 80 percent of recipients over a four-year follow-up period.",
+            "The older Vi polysaccharide vaccine is still used to protect travellers to endemic regions and is given as a single dose renewed every three years. It is less effective than TCV especially in young children. An oral live-attenuated vaccine (Ty21a) is available in some countries as an alternative for older children and adults.",
+            "The vaccine does not replace food and water precautions. A vaccinated person can still theoretically become infected after ingesting a large dose of the bacteria. Safe water, careful food handling and handwashing remain the first line of defence regardless of vaccination status.",
+            "If you live in a country that has introduced TCV into its national programme, or if you have a child under two, ask your doctor or health centre about availability. The older Vi polysaccharide vaccine is also appropriate for adults travelling to endemic regions for work, pilgrimage to Mecca or other purposes, and should be given at least two weeks before departure to allow immunity to develop."
+          ]
+        },
+        {
+          "h2": "How do you protect yourself and your household?",
+          "paras": [
+            "In areas where the safety of the water supply is uncertain, boil water for a full minute before drinking or use a verified filter or bottled water from a reliable source. Remember that many cases come from ice made with contaminated water or chilled drinks served in restaurants that use unboiled tap water.",
+            "Wash your hands with soap and water before preparing food and after using the toilet. Twenty seconds of thorough washing removes a large proportion of organisms from the skin. Vegetables and fruits eaten raw should be washed carefully in clean water or peeled before eating.",
+            "If a member of the household has typhoid, they should not prepare food for others, and dedicated clean utensils should be used. Toilets should be disinfected regularly during the illness. The patient may continue to shed bacteria in the stool for weeks after clinical recovery, so hygiene precautions should continue until laboratory clearance is confirmed by a doctor.",
+            "In settings where clean water is scarce or infrastructure has been disrupted by conflict, access to boiled or bottled water becomes a medical necessity rather than a preference. Spreading basic handwashing habits within the household, especially before eating and after using the toilet, is one of the lowest-cost and highest-impact steps a family can take to reduce the risk of typhoid circulating among its members."
+          ]
+        },
+        {
+          "h2": "When should you see a doctor and when is it an emergency?",
+          "paras": [
+            "Any fever lasting more than five days, especially with headache and abdominal discomfort, warrants medical assessment. Do not wait for symptoms to worsen or try home remedies for weeks. Early diagnosis and correct treatment substantially shorten the illness and prevent complications.",
+            "At the clinic or hospital you will have blood drawn for culture and a physical examination. Empirical treatment may be started if the clinical picture fits typhoid while culture results are awaited. Severe cases or those with signs of deterioration need hospital admission for intravenous antibiotics and monitoring.",
+            "A complication particular to our region is that fever and abdominal symptoms are frequently attributed to other common causes before typhoid is considered. If you are in an endemic area or have recently returned from travel to such a region, tell your doctor explicitly, so typhoid is included in the differential diagnosis from the start.",
+            "Typhoid is a notifiable disease in many countries, meaning that confirmed cases should be reported to the public health authorities. If your diagnosis is confirmed, ask the health centre whether reporting is standard practice locally. Tracking the source of an outbreak protects the community: if you and others consumed water or food from a shared source, identifying and removing that source can prevent dozens of further cases."
+          ]
+        }
+      ],
+      "tie": "The Sihtak app lets you log your temperature every few hours and track the pattern of a fever over days, giving you a clear record to show the doctor rather than relying on memory. The AI assistant can help you understand what a Widal result or blood culture report says. The medication tracker ensures you complete the full antibiotic course, which matters as much in typhoid as in any other bacterial infection.",
+      "faqs": [
+        {
+          "q": "Does typhoid spread directly from person to person?",
+          "a": "Mostly indirectly through contaminated food or water. Touching a contaminated surface then touching your mouth, or eating food prepared by an infected person who did not wash their hands, can transmit the bacteria. Simply breathing near an infected person or shaking hands alone is not a significant route of transmission."
+        },
+        {
+          "q": "Can I catch typhoid twice?",
+          "a": "Yes. Immunity after infection is not permanent and may wane over time, so reinfection is possible. Vaccination and continued attention to water and food hygiene remain important even for people who have had typhoid before."
+        },
+        {
+          "q": "Is the Widal test alone enough to diagnose typhoid?",
+          "a": "No. In endemic areas the Widal test gives too many false positives from past infections or vaccinations. The gold standard is blood culture in the first week. Where culture is unavailable, the Widal result is used alongside the full clinical picture rather than as a standalone diagnosis."
+        },
+        {
+          "q": "How long does the antibiotic course last?",
+          "a": "Usually seven to fourteen days depending on the case and the antibiotic used. Do not stop taking the medication just because the fever has settled: stopping early risks a relapse, and the bacteria may become more difficult to treat."
+        },
+        {
+          "q": "Are pregnant women at higher risk?",
+          "a": "Yes. Typhoid in pregnancy carries an elevated risk of miscarriage and preterm birth. Some of the antibiotics used may need adjustment for pregnancy, which is why prompt diagnosis and treatment under medical supervision is essential."
+        },
+        {
+          "q": "Do I need the vaccine before travelling to an endemic area?",
+          "a": "It is recommended. The vaccine should be given at least two weeks before departure to allow full protection to develop. You still need to observe water and food precautions during the trip, since the vaccine does not provide absolute protection."
+        },
+        {
+          "q": "Can someone remain contagious after recovering from typhoid?",
+          "a": "Yes. Some people become chronic carriers, shedding bacteria in their stool for months or years after recovery without feeling unwell. A carrier needs laboratory follow-up and sometimes additional treatment under medical supervision."
+        },
+        {
+          "q": "Can typhoid be treated at home?",
+          "a": "Mild cases in otherwise healthy adults can often be managed outside hospital with oral antibiotics under medical supervision, provided the person stays well hydrated. Severe cases, or anyone who develops signs of deterioration or has underlying health conditions, needs hospital admission for intravenous antibiotics and close monitoring."
+        }
+      ]
+    }
+  }
+}

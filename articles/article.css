@@ -230,3 +230,661 @@
   .art-cta { flex-direction: column; align-items: flex-start; }
   .art-nav-link { display: none; }
 }
+
+/* ==========================================================================
+   Hub: search, topic tiles
+   ========================================================================== */
+.art-hub-body { max-width: 1000px; margin: 0 auto; padding: 0 24px 80px; }
+.art-hub-count {
+  margin-top: 14px;
+  font-size: 13px;
+  color: var(--text-d);
+  letter-spacing: 0.02em;
+}
+.art-search {
+  position: relative;
+  max-width: 560px;
+  margin: 0 auto 36px;
+}
+.art-search-icon {
+  position: absolute;
+  inset-inline-start: 16px;
+  top: 50%;
+  transform: translateY(-50%);
+  color: var(--text-d);
+  pointer-events: none;
+}
+.art-search input {
+  width: 100%;
+  padding: 14px 18px;
+  padding-inline-start: 46px;
+  font: inherit;
+  font-size: 15px;
+  color: var(--text);
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  outline: none;
+  transition: border-color 0.15s, box-shadow 0.15s;
+}
+.art-search input::placeholder { color: var(--text-d); }
+.art-search input:focus {
+  border-color: var(--teal);
+  box-shadow: 0 0 0 3px var(--teal-dim);
+}
+.art-search input::-webkit-search-cancel-button { cursor: pointer; }
+.art-search-none {
+  text-align: center;
+  color: var(--text-m);
+  font-size: 15px;
+  padding: 40px 0 60px;
+}
+
+.cat-strip { margin: 8px 0 44px; }
+.cat-strip-h {
+  font-size: 15px;
+  color: var(--text-m);
+  font-weight: 600;
+  margin-bottom: 16px;
+}
+.cat-tiles {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(190px, 1fr));
+  gap: 10px;
+}
+.cat-tile {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 13px 15px;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--r-sm);
+  text-decoration: none;
+  transition: background 0.15s, border-color 0.15s, transform 0.15s;
+}
+.cat-tile:hover {
+  background: var(--bg-card-h);
+  border-color: var(--border-h);
+  transform: translateY(-2px);
+}
+.cat-tile--active {
+  border-color: var(--teal);
+  background: var(--teal-dim);
+}
+.cat-tile-icon {
+  flex: 0 0 20px;
+  color: var(--teal);
+  display: grid;
+  place-items: center;
+}
+.cat-tile-name {
+  flex: 1;
+  min-width: 0;
+  font-size: 13.5px;
+  font-weight: 600;
+  color: var(--text);
+  line-height: 1.4;
+}
+.cat-tile-count {
+  font-size: 11.5px;
+  color: var(--text-d);
+  background: var(--bg-subtle);
+  border-radius: 999px;
+  padding: 2px 8px;
+  font-variant-numeric: tabular-nums;
+}
+.art-related--hub { padding-inline: 0; }
+
+/* the hub grid is rendered by JS on search, so cards must not start hidden */
+#artResults .art-card { opacity: 1; transform: none; }
+
+/* ==========================================================================
+   Breadcrumbs
+   ========================================================================== */
+.art-crumbs {
+  max-width: 760px;
+  margin: 0 auto 14px;
+  padding: 0 24px;
+  font-size: 13px;
+  color: var(--text-d);
+  position: relative;
+}
+.art-crumbs ol {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 6px;
+  margin: 0;
+  padding: 0;
+}
+.art-crumbs li { display: flex; align-items: center; gap: 6px; }
+.art-crumbs li + li::before {
+  content: "/";
+  color: var(--text-d);
+  opacity: 0.55;
+}
+.art-crumbs a { color: var(--text-m); text-decoration: none; }
+.art-crumbs a:hover { color: var(--teal); }
+.art-crumbs [aria-current="page"] {
+  color: var(--text-d);
+  max-width: 42ch;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+/* ==========================================================================
+   Author / E-E-A-T block
+   ========================================================================== */
+.art-author {
+  display: flex;
+  gap: 16px;
+  align-items: flex-start;
+  padding: 20px;
+  margin: 36px 0 8px;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--r);
+}
+.art-author-avatar {
+  flex: 0 0 52px;
+  width: 52px;
+  height: 52px;
+  border-radius: 50%;
+  background: var(--teal-dim);
+  border: 1px solid var(--border);
+  display: grid;
+  place-items: center;
+  color: var(--teal);
+  font-weight: 800;
+  font-size: 18px;
+  overflow: hidden;
+}
+.art-author-avatar img { width: 100%; height: 100%; object-fit: cover; }
+.art-author-body { flex: 1; min-width: 0; }
+.art-author-body h3 { font-size: 15.5px; color: var(--text); margin: 0 0 2px; }
+.art-author-body h3 a { color: inherit; text-decoration: none; }
+.art-author-body h3 a:hover { color: var(--teal); }
+.art-author-role {
+  font-size: 12.5px;
+  color: var(--teal);
+  font-weight: 600;
+  margin: 0 0 8px;
+}
+.art-author-bio {
+  font-size: 14px;
+  line-height: 1.8;
+  color: var(--text-m);
+  margin: 0;
+}
+.art-reviewed {
+  font-size: 12.5px;
+  color: var(--text-d);
+  margin: 10px 0 0;
+  padding-top: 10px;
+  border-top: 1px solid var(--border);
+}
+
+/* ==========================================================================
+   Table of contents
+   ========================================================================== */
+.art-toc {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--r);
+  padding: 18px 22px;
+  margin-bottom: 32px;
+}
+.art-toc summary {
+  cursor: pointer;
+  font-weight: 700;
+  color: var(--text);
+  font-size: 15px;
+  list-style: none;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.art-toc summary::-webkit-details-marker { display: none; }
+.art-toc summary::after {
+  content: "+";
+  color: var(--teal);
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 1;
+}
+.art-toc[open] summary::after { content: "\2212"; }
+.art-toc ol {
+  margin: 14px 0 0;
+  padding-inline-start: 20px;
+}
+.art-toc li { margin-bottom: 7px; }
+.art-toc a {
+  color: var(--text-m);
+  text-decoration: none;
+  font-size: 14.5px;
+  line-height: 1.7;
+}
+.art-toc a:hover { color: var(--teal); }
+.art-toc li::marker { color: var(--teal); font-size: 13px; }
+
+/* anchor offset so the sticky nav does not cover headings */
+.art-body h2[id] { scroll-margin-top: 84px; }
+
+/* ==========================================================================
+   Visual system
+   ========================================================================== */
+
+/* .reveal starts at opacity 0 and waits for an IntersectionObserver. For a
+   chart that is the whole point of the section, a JS failure would mean an
+   invisible figure, so the fade-in is opted into only once the theme script
+   has confirmed JS is alive by putting .js on <html>. */
+html:not(.js) .viz,
+html:not(.js) .viz-callout,
+html:not(.js) .art-lead { opacity: 1; transform: none; }
+
+.viz {
+  margin: 26px 0;
+  padding: 22px;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--r);
+}
+.viz-title {
+  font-size: 15.5px;
+  color: var(--text);
+  margin: 0 0 16px;
+  font-weight: 700;
+  line-height: 1.5;
+}
+.viz-caption {
+  font-size: 13.5px;
+  color: var(--text-m);
+  line-height: 1.75;
+  margin: 14px 0 0;
+}
+.viz-source, .viz-credit {
+  font-size: 12px;
+  color: var(--text-d);
+  margin: 10px 0 0;
+}
+.viz-source a, .viz-credit a { color: var(--text-m); }
+.viz-source a:hover, .viz-credit a:hover { color: var(--teal); }
+
+/* --- range scale --- */
+.viz-range-head {
+  display: flex;
+  align-items: baseline;
+  gap: 8px;
+  /* the marker flag floats 46px above the track, so anything less than that
+     here and the flag prints on top of the analyte name */
+  margin-bottom: 54px;
+}
+.viz-range-label { font-size: 14.5px; font-weight: 700; color: var(--text); }
+.viz-unit { font-size: 12.5px; color: var(--text-d); }
+.viz-range-track {
+  position: relative;
+  display: flex;
+  height: 42px;
+  border-radius: 8px;
+  overflow: visible;
+}
+.viz-zone {
+  display: grid;
+  place-items: center;
+  min-width: 0;
+  position: relative;
+  border-inline-end: 2px solid var(--bg);
+}
+.viz-zone:first-child { border-start-start-radius: 8px; border-end-start-radius: 8px; }
+.viz-zone:last-child { border-inline-end: none; border-start-end-radius: 8px; border-end-end-radius: 8px; }
+.viz-zone-label {
+  font-size: 11.5px;
+  font-weight: 700;
+  padding: 0 6px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 100%;
+}
+.viz-zone--good { background: var(--teal-dim); color: var(--teal); box-shadow: inset 0 0 0 1px var(--teal-dim); }
+.viz-zone--warn { background: var(--amber-dim); color: var(--amber); }
+.viz-zone--bad  { background: var(--rose-dim);  color: var(--rose); }
+.viz-zone--info { background: var(--blue-dim);  color: var(--blue); }
+.viz-zone--neutral { background: var(--purple-dim); color: var(--purple); }
+.viz-range-axis {
+  position: relative;
+  height: 20px;
+  margin-top: 7px;
+}
+.viz-tick {
+  position: absolute;
+  transform: translateX(-50%);
+  font-size: 11.5px;
+  color: var(--text-d);
+  font-variant-numeric: tabular-nums;
+}
+html[dir="rtl"] .viz-tick { transform: translateX(50%); }
+.viz-tick--start { inset-inline-start: 0; transform: none; }
+.viz-tick--end { inset-inline-end: 0; inset-inline-start: auto; transform: none; }
+.viz-marker {
+  position: absolute;
+  top: -26px;
+  bottom: -6px;
+  width: 2px;
+  background: var(--text);
+  /* a halo so the line reads as passing over a zone label rather than
+     slicing through the letters */
+  box-shadow: 0 0 0 2px var(--bg-card);
+  transform: translateX(-50%);
+  z-index: 2;
+}
+html[dir="rtl"] .viz-marker { transform: translateX(50%); }
+.viz-marker-flag {
+  position: absolute;
+  top: -20px;
+  inset-inline-start: 50%;
+  transform: translateX(-50%);
+  background: var(--text);
+  color: var(--bg);
+  font-size: 11px;
+  font-weight: 700;
+  padding: 3px 8px;
+  border-radius: 20px;
+  white-space: nowrap;
+}
+html[dir="rtl"] .viz-marker-flag { transform: translateX(50%); }
+/* Near either end of the scale a centred flag overflows the figure, so it
+   hangs inward from the marker line. Both rules are written with logical
+   properties, so Arabic mirrors them without a separate RTL case. */
+.viz-marker--start .viz-marker-flag,
+html[dir="rtl"] .viz-marker--start .viz-marker-flag {
+  inset-inline-start: 0;
+  transform: none;
+}
+.viz-marker--end .viz-marker-flag,
+html[dir="rtl"] .viz-marker--end .viz-marker-flag {
+  inset-inline-start: auto;
+  inset-inline-end: 0;
+  transform: none;
+}
+
+/* --- bars --- */
+.viz-bars { display: flex; flex-direction: column; gap: 11px; }
+.viz-bar-row {
+  display: grid;
+  grid-template-columns: minmax(88px, 30%) 1fr auto;
+  align-items: center;
+  gap: 12px;
+}
+.viz-bar-label {
+  font-size: 13.5px;
+  color: var(--text-m);
+  line-height: 1.4;
+}
+.viz-bar-row--hl .viz-bar-label { color: var(--text); font-weight: 700; }
+.viz-bar-track {
+  height: 22px;
+  background: var(--bg-subtle);
+  border-radius: 6px;
+  overflow: hidden;
+  display: block;
+}
+.viz-bar-fill {
+  display: block;
+  height: 100%;
+  border-radius: 6px;
+  min-width: 3px;
+}
+.viz-bar-fill--good { background: linear-gradient(90deg, var(--teal-dark), var(--teal)); }
+.viz-bar-fill--warn { background: var(--amber); }
+.viz-bar-fill--bad  { background: var(--rose); }
+.viz-bar-fill--info { background: var(--blue); }
+.viz-bar-fill--neutral { background: var(--purple); }
+html[dir="rtl"] .viz-bar-fill--good { background: linear-gradient(270deg, var(--teal-dark), var(--teal)); }
+.viz-bar-value {
+  font-size: 13.5px;
+  font-weight: 700;
+  color: var(--text);
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+}
+
+/* --- donut --- */
+.viz-donut {
+  position: relative;
+  width: 128px;
+  height: 128px;
+  margin: 0 auto;
+}
+.viz-donut-bg { stroke: var(--bg-subtle); }
+.viz-donut-fg--good { stroke: var(--teal); }
+.viz-donut-fg--warn { stroke: var(--amber); }
+.viz-donut-fg--bad  { stroke: var(--rose); }
+.viz-donut-fg--info { stroke: var(--blue); }
+.viz-donut-fg--neutral { stroke: var(--purple); }
+.viz-donut-text {
+  position: absolute;
+  inset: 0;
+  display: grid;
+  place-content: center;
+  text-align: center;
+  gap: 2px;
+}
+.viz-donut-text strong { font-size: 26px; color: var(--text); font-weight: 800; }
+.viz-donut-cap {
+  margin: 12px auto 0;
+  max-width: 34ch;
+  text-align: center;
+  font-size: 13.5px;
+  line-height: 1.5;
+  color: var(--text-m);
+}
+
+/* --- stats --- */
+.viz-stats {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(130px, 1fr));
+  gap: 14px;
+}
+.viz-stat {
+  padding: 16px 14px;
+  border-radius: var(--r-sm);
+  background: var(--bg-subtle);
+  border-inline-start: 3px solid var(--teal);
+  text-align: start;
+}
+.viz-stat--warn { border-inline-start-color: var(--amber); }
+.viz-stat--bad  { border-inline-start-color: var(--rose); }
+.viz-stat--info { border-inline-start-color: var(--blue); }
+.viz-stat--neutral { border-inline-start-color: var(--purple); }
+.viz-stat strong {
+  display: block;
+  font-size: 24px;
+  font-weight: 800;
+  color: var(--text);
+  line-height: 1.2;
+  margin-bottom: 5px;
+}
+.viz-stat span { font-size: 12.5px; color: var(--text-m); line-height: 1.6; }
+
+/* --- timeline --- */
+.viz-timeline { list-style: none; margin: 0; padding: 0; position: relative; }
+.viz-timeline::before {
+  content: "";
+  position: absolute;
+  inset-inline-start: 7px;
+  top: 6px;
+  bottom: 6px;
+  width: 2px;
+  background: var(--border);
+}
+.viz-tl-item {
+  position: relative;
+  padding-inline-start: 28px;
+  padding-bottom: 18px;
+}
+.viz-tl-item:last-child { padding-bottom: 0; }
+.viz-tl-item::before {
+  content: "";
+  position: absolute;
+  inset-inline-start: 2px;
+  top: 5px;
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background: var(--teal);
+  box-shadow: 0 0 0 3px var(--bg-card);
+}
+.viz-tl-item--warn::before { background: var(--amber); }
+.viz-tl-item--bad::before  { background: var(--rose); }
+.viz-tl-item--info::before { background: var(--blue); }
+.viz-tl-item--neutral::before { background: var(--purple); }
+.viz-tl-when {
+  display: block;
+  font-size: 12.5px;
+  font-weight: 700;
+  color: var(--teal);
+  margin-bottom: 3px;
+}
+.viz-tl-what { display: block; font-size: 14.5px; color: var(--text-m); line-height: 1.75; }
+
+/* --- steps --- */
+.viz-steps { list-style: none; margin: 0; padding: 0; counter-reset: none; }
+.viz-steps li {
+  display: flex;
+  gap: 13px;
+  align-items: flex-start;
+  padding-bottom: 15px;
+}
+.viz-steps li:last-child { padding-bottom: 0; }
+.viz-step-n {
+  flex: 0 0 26px;
+  width: 26px;
+  height: 26px;
+  border-radius: 50%;
+  background: var(--teal-dim);
+  color: var(--teal);
+  display: grid;
+  place-items: center;
+  font-size: 13px;
+  font-weight: 800;
+}
+.viz-step-t { font-size: 14.5px; color: var(--text-m); line-height: 1.8; padding-top: 2px; }
+
+/* --- table --- */
+.viz-table-wrap { overflow-x: auto; -webkit-overflow-scrolling: touch; }
+.viz-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 14px;
+}
+.viz-table th, .viz-table td {
+  padding: 11px 13px;
+  text-align: start;
+  border-bottom: 1px solid var(--border);
+  vertical-align: top;
+  line-height: 1.65;
+}
+.viz-table thead th {
+  color: var(--teal);
+  font-weight: 700;
+  font-size: 12.5px;
+  text-transform: none;
+  border-bottom: 1px solid var(--border-h);
+  white-space: nowrap;
+}
+.viz-table tbody th { color: var(--text); font-weight: 600; }
+.viz-table td { color: var(--text-m); }
+.viz-table tbody tr:last-child th, .viz-table tbody tr:last-child td { border-bottom: none; }
+
+/* --- callout --- */
+.viz-callout {
+  display: flex;
+  gap: 14px;
+  align-items: flex-start;
+  padding: 18px 20px;
+  margin: 26px 0;
+  border-radius: var(--r);
+  border: 1px solid var(--border);
+  border-inline-start: 3px solid var(--teal);
+  background: var(--teal-dim);
+}
+.viz-callout--bad  { border-inline-start-color: var(--rose);  background: var(--rose-dim); }
+.viz-callout--warn { border-inline-start-color: var(--amber); background: var(--amber-dim); }
+.viz-callout--info { border-inline-start-color: var(--blue);  background: var(--blue-dim); }
+.viz-callout--neutral { border-inline-start-color: var(--purple); background: var(--purple-dim); }
+.viz-callout-icon { flex: 0 0 20px; padding-top: 2px; color: var(--teal); }
+.viz-callout--bad  .viz-callout-icon { color: var(--rose); }
+.viz-callout--warn .viz-callout-icon { color: var(--amber); }
+.viz-callout--info .viz-callout-icon { color: var(--blue); }
+.viz-callout--neutral .viz-callout-icon { color: var(--purple); }
+.viz-callout-body { flex: 1; min-width: 0; }
+.viz-callout-body h3 {
+  font-size: 15px;
+  color: var(--text);
+  margin: 0 0 8px;
+  font-weight: 700;
+}
+.viz-callout-body p { font-size: 14.5px; color: var(--text-m); line-height: 1.8; margin: 0; }
+.viz-callout-body ul { margin: 0; padding-inline-start: 20px; }
+.viz-callout-body li { font-size: 14.5px; color: var(--text-m); line-height: 1.85; margin-bottom: 5px; }
+.viz-callout-body li:last-child { margin-bottom: 0; }
+.viz-callout-body li::marker { color: currentColor; }
+
+/* --- figure --- */
+.viz--figure { padding: 0; overflow: hidden; }
+.viz--figure .viz-title { padding: 20px 20px 0; margin-bottom: 12px; }
+.viz-img { display: block; width: 100%; height: auto; }
+.viz--figure .viz-caption,
+.viz--figure .viz-credit,
+.viz--figure .viz-source { padding-inline: 20px; }
+.viz--figure .viz-caption { padding-top: 16px; }
+.viz--figure > :last-child { padding-bottom: 18px; }
+
+/* --- article hero image --- */
+.art-lead {
+  max-width: 900px;
+  margin: 0 auto 8px;
+  padding: 0 24px;
+}
+.art-lead img {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+  border-radius: var(--r-lg);
+  border: 1px solid var(--border);
+}
+
+@media (max-width: 640px) {
+  .viz { padding: 18px 16px; }
+  .viz-bar-row { grid-template-columns: 1fr; gap: 5px; }
+  .viz-bar-row .viz-bar-value { justify-self: end; margin-top: -24px; padding-inline-end: 8px; }
+  .viz-zone-label { font-size: 10px; }
+  .art-crumbs { padding: 0 18px; }
+  .art-lead { padding: 0 18px; }
+  .art-author { flex-direction: column; gap: 12px; }
+
+  /* stack the table into labelled rows rather than forcing a sideways scroll */
+  .viz-table thead { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); }
+  .viz-table, .viz-table tbody, .viz-table tr, .viz-table th, .viz-table td { display: block; width: 100%; }
+  .viz-table tr {
+    border: 1px solid var(--border);
+    border-radius: var(--r-sm);
+    margin-bottom: 12px;
+    padding: 6px 0;
+  }
+  .viz-table th, .viz-table td { border-bottom: none; padding: 7px 14px; }
+  .viz-table tbody th { font-size: 15px; color: var(--teal); padding-bottom: 2px; }
+  .viz-table td::before {
+    content: attr(data-label);
+    display: block;
+    font-size: 11.5px;
+    color: var(--text-d);
+    margin-bottom: 2px;
+  }
+}

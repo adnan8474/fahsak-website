@@ -1,0 +1,340 @@
+{
+  "slug": "gerd-acid-reflux",
+  "category": "chronic-conditions",
+  "chip_ar": "أمراض مزمنة",
+  "chip_en": "Chronic conditions",
+  "date_iso": "2026-08-01",
+  "sources": [
+    {
+      "label": "Alqassab DF, Hasan MJ, AlSaadoon AM et al: Prevalence and risk factors of gastroesophageal reflux disease among adults attending primary healthcare in Bahrain, Journal of family medicine and primary care, 2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39790811/"
+    },
+    {
+      "label": "Al-Marhabi A, Hashem A, Zuberi BF et al: The views of African and Middle Eastern Gastroenterologists on the management of mild-to-moderate, non-erosive gastro-esophageal reflux disease (GERD), Expert review of gastroenterology and hepatology, 2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35184616/"
+    },
+    {
+      "label": "Delavari A, Moradi G, Birjandi F et al: The Prevalence of Gastroesophageal Reflux Disease (GERD) in the Islamic Republic of Iran: A Systematic Review, Middle East journal of digestive diseases, 2012",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24829629/"
+    },
+    {
+      "label": "Dunbar KB: Gastroesophageal Reflux Disease, Annals of internal medicine, 2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39133924/"
+    },
+    {
+      "label": "Sawaid IO, Din Z, Golan E et al: Association between proton pump inhibitor use and upper gastrointestinal cancer: A matched case-control study, PLoS medicine, 2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41493925/"
+    },
+    {
+      "label": "American College of Gastroenterology: ACG Clinical Guideline for the Diagnosis and Management of Gastroesophageal Reflux Disease, 2022"
+    }
+  ],
+  "content": {
+    "ar": {
+      "title": "الحموضة وارتجاع المريء: الأسباب والعلاج ومتى تقلق",
+      "desc": "دليل شامل للحموضة وارتجاع المريء: الأعراض التحذيرية، دور العادات الغذائية في منطقتنا، الأدوية المثبطة للحمض ومتى يلزم التنظير.",
+      "keywords": "حموضة المعدة، ارتجاع المريء، GERD، حرقان الصدر، مثبطات مضخة البروتون، وجبات دسمة، أعراض تحذيرية، تنظير المريء، علاج ارتجاع المريء، ألم الصدر",
+      "h1": "الحموضة وارتجاع المريء: ما الذي يسبب الحرقان ومتى تحتاج لأكثر من دواء؟",
+      "takeaways": [
+        "الارتجاع المعدي المريئي (GERD) يحدث حين يصعد حمض المعدة للمريء بشكل متكرر، ويُسبب حرقاناً ومضاعفات إن تُرك دون علاج.",
+        "الوجبات الكبيرة في ساعات متأخرة من الليل، وهي عادة شائعة في منطقتنا، من أبرز العوامل التي تُفاقم الارتجاع.",
+        "أدوية مثبطات مضخة البروتون (PPI) فعالة جداً لكنها تُستخدم أحياناً لفترات أطول مما يلزم، وهناك مخاوف من الاستخدام المطوّل.",
+        "بعض الأعراض مثل صعوبة البلع وفقدان الوزن والقيء المتكرر تعني أن التنظير الهضمي ضروري وليس اختيارياً.",
+        "التغييرات في نمط الحياة تحل كثيراً من حالات الارتجاع الخفيف دون الحاجة لدواء دائم."
+      ],
+      "sections": [
+        {
+          "h2": "ما الفرق بين الحموضة العرضية وارتجاع المريء المزمن؟",
+          "paras": [
+            "الارتجاع المعدي المريئي (Gastroesophageal Reflux Disease) يُعرَّف بأنه صعود محتوى المعدة الحمضي إلى المريء بشكل متكرر ومؤذٍ. المعدة مبطّنة بجدار يحميها من الحمض الذي تُفرزه، لكن المريء لا يملك هذه الحماية، وعند ضعف العضلة الحلقية بين المعدة والمريء (الصمام السفلي للمريء) يتسرب الحمض للأعلى ويُحرق جدار المريء.",
+            "كثير من الناس يُعانون من الحرقان أحياناً بعد وجبة دسمة أو سهرة طويلة، وهذا طبيعي ولا يُمثّل مرضاً. الحدّ الفاصل يكون حين تحدث هذه الأعراض مرتين أسبوعياً أو أكثر، أو حين تُسبب مضاعفات كالتهاب جدار المريء أو صعوبة البلع أو السعال المزمن. عند ذلك تصبح حالة طبية تستحق التشخيص والعلاج.",
+            "تُشير دراسة نشرتها Journal of Family Medicine and Primary Care عام 2024 حول البحرين إلى أن ارتجاع المريء منتشر على نطاق واسع في منطقة الخليج، وأن عوامل مثل الوزن الزائد، والتدخين، والأكل المتأخر، والأدوية المُلينة للعضلة الحلقية، كلها تُسهم في ارتفاع معدلاته."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "مراجع طبيبك فوراً إذا ظهرت هذه الأعراض",
+            "items": [
+              "صعوبة في البلع أو الشعور بأن الطعام يعلق في المريء",
+              "فقدان الوزن غير المقصود مع الحرقان أو صعوبة البلع",
+              "قيء متكرر، خاصة إذا كان يحتوي على دم أو يشبه القهوة",
+              "ألم شديد في الصدر لم يتحسن مع مضادات الحموضة، تأكد أولاً أنه ليس قلبياً",
+              "حرقان مستمر رغم الالتزام بالعلاج لأربعة أسابيع"
+            ]
+          }
+        },
+        {
+          "h2": "لماذا تنتشر الحموضة بكثرة في منطقتنا؟",
+          "paras": [
+            "الوجبات الكبيرة في ساعات متأخرة من الليل ظاهرة شائعة جداً في المنطقة، سواء في رمضان أو في الحياة الاجتماعية اليومية. حين تكون المعدة ممتلئة في وضع الاستلقاء يكون الضغط على الصمام السفلي للمريء أعلى بكثير مما يكون في وضع الجلوس أو الوقوف، وهذا يُسهّل تسرّب الحمض للأعلى. مجرد رفع رأس السرير بضع سنتيمترات أو الانتظار ثلاث ساعات بعد الأكل قبل الاستلقاء يُقلل الأعراض بشكل لافت.",
+            "السمنة التي ترتفع معدلاتها في دول الخليج ومصر تُضاعف خطر ارتجاع المريء لأن الدهون في البطن تُضغط على المعدة وترفع ضغطها الداخلي. وقد أثبتت الأبحاث أن فقدان 10 بالمئة من وزن الجسم يُحسّن الأعراض بشكل ملحوظ لدى كثير من المصابين بالارتجاع.",
+            "التدخين والشيشة يُرخيان الصمام السفلي للمريء ويُقللان إنتاج اللعاب الذي يساعد على تعادل الحمض. القهوة والشاي وعصير الليمون والبهارات الحارة، وإن كانت تُفاقم الأعراض لدى بعض الناس، ليست عوامل خطر عامة بقدر ما هي مُحرّضات فردية يختلف تأثيرها من شخص لآخر."
+          ]
+        },
+        {
+          "h2": "الأدوية الشائعة للارتجاع: مضادات الحموضة ومثبطات مضخة البروتون",
+          "paras": [
+            "مضادات الحموضة (Antacids) كتلك التي تحتوي على هيدروكسيد الألومنيوم أو المغنيسيوم تعمل بسرعة لتعادل الحمض الموجود بالفعل في المعدة، لكنها لا تمنع إفراز الحمض من الأساس ويدوم أثرها ساعتين إلى ثلاث فقط. مناسبة جداً للأعراض العرضية بعد الأكل.",
+            "مثبطات مضخة البروتون (PPI) مثل أوميبرازول (Omeprazole) وبانتوبرازول (Pantoprazole) هي الأقوى والأوسع استخداماً، وتعمل على تثبيط إنتاج الحمض في المعدة لمدة 24 ساعة. تؤخذ قبل الوجبة الأولى بنصف ساعة لتحقيق أقصى تأثير. عادةً تُوصَف لمدة 4 إلى 8 أسابيع لعلاج الارتجاع المؤكد.",
+            "المشكلة أن PPIs باتت تُستخدم لأشهر وسنوات بدون مراجعة دورية، وهذا يطرح تساؤلات. أظهرت أبحاث حديثة منشورة في PLoS Medicine عام 2026 ضرورة إعادة تقييم مدة الاستخدام بانتظام. الاستخدام المطوّل يُقلل من امتصاص المغنيسيوم وفيتامين B12، وقد يرفع خطر الإصابة ببعض عدوى الجهاز الهضمي. هذا لا يعني التوقف دون استشارة الطبيب، بل يعني مراجعة الجرعة والمدة بانتظام."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "مقارنة أدوية ارتجاع المريء",
+            "head": ["الدواء", "كيف يعمل", "متى يُستخدم"],
+            "rows": [
+              ["مضادات الحموضة", "يُعادل الحمض الموجود", "أعراض عرضية سريعة"],
+              ["حاصرات H2 (رانيتيدين بديل)", "يُقلل إنتاج الحمض جزئياً", "أعراض متوسطة متكررة"],
+              ["مثبطات مضخة البروتون PPI", "يُثبط إنتاج الحمض قوياً", "التهاب المريء والارتجاع المتكرر"],
+              ["عوامل حركية المعدة", "يُسرّع إفراغ المعدة", "مع التأخر في إفراغ المعدة"]
+            ]
+          }
+        },
+        {
+          "h2": "تغييرات نمط الحياة: ما الذي يفيد فعلاً وما الذي هو مجرد نصيحة عامة؟",
+          "paras": [
+            "الأكثر فائدة بإجماع الأدلة هو: الانتظار 2 إلى 3 ساعات بعد الأكل قبل الاستلقاء، وتخفيف الوزن إذا كنت تعاني من زيادته، ورفع رأس السرير بزاوية 30 درجة (وضع وسادة إضافية لا يكفي). كذلك تناول وجبات صغيرة متعددة بدلاً من وجبتين أو ثلاث كبيرة يُقلل الضغط على المعدة.",
+            "تجنب الاستلقاء على الجانب الأيمن بعد الأكل مفيد لأن المعدة تُفرغ محتواها أبطأ في هذه الوضعية، والنوم على الجانب الأيسر يُسهّل الإفراغ ويُقلل الارتجاع. هذه نصائح بسيطة لكنها أثبتت جدواها بشكل موثوق.",
+            "أما تجنب الطماطم والحمضيات والشوكولاتة والمنثول فهي توصيات شائعة لكن الدليل عليها أضعف مما يُعتقد. كثير من الناس لا يُعانون من هذه المحرّضات، والأفضل أن تجرّب بنفسك وتُلاحظ ما يُؤلمك بالفعل بدلاً من تجنب كل شيء وإفقار نظامك الغذائي دون مبرر."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "تغييرات نمط الحياة الأكثر فائدة في الارتجاع",
+            "items": [
+              "انتظر 2 إلى 3 ساعات بعد آخر وجبة قبل أن تستلقي",
+              "ارفع رأس سريرك 15 إلى 20 سنتيمتراً بوضع شيء تحت قوائمه لا بإضافة وسادة فقط",
+              "ناول وجبات أصغر وأكثر تكراراً بدلاً من الوجبات الكبيرة",
+              "فكّر في إنقاص الوزن إذا كان مؤشر كتلة الجسم أعلى من الطبيعي",
+              "توقف عن التدخين والشيشة لأنهما يُرخيان الصمام الواقي",
+              "سجّل الأطعمة التي تُحرّض أعراضك بالفعل وتجنبها بشكل انتقائي"
+            ]
+          }
+        },
+        {
+          "h2": "متى يكون التنظير الهضمي ضرورياً؟",
+          "paras": [
+            "التنظير (Endoscopy) هو إدخال كاميرا دقيقة لفحص جدار المريء والمعدة من الداخل. ليس كل من يُعاني من الحرقان يحتاج إليه، لكن توجد حالات يكون فيها إلزامياً. هذه الحالات تشمل: صعوبة البلع أو ألمه، فقدان الوزن غير المبرر، فقر الدم المصاحب للأعراض، القيء الدموي أو البراز الأسود القطراني، والأعراض المستمرة رغم العلاج الكافي.",
+            "أحد المضاعفات المهمة التي يكشف عنها التنظير هو مريء باريت (Barrett's Esophagus)، وهو تحول في نوع الخلايا المبطّنة للمريء نتيجة الارتجاع المزمن. مريء باريت لا يُسبب أعراضاً إضافية بحد ذاته، لكنه يرفع قليلاً من خطر سرطان المريء ويستوجب متابعة دورية بالتنظير.",
+            "قرار إجراء التنظير يعتمد على عمرك وطبيعة أعراضك ومدتها. الشخص فوق الخمسين الذي تبدأ عنده أعراض جديدة يحتاج تقييماً مختلفاً عن شاب في الثلاثين لديه حرقان متقطع."
+          ]
+        },
+        {
+          "h2": "الارتجاع بدون حرقان: الأشكال غير الكلاسيكية",
+          "paras": [
+            "ليس كل ارتجاع يُسبب حرقاناً في الصدر. كثير من الناس يُعانون من ما يُسمى الارتجاع غير التآكلي (NERD) أو الارتجاع خارج المريء (Extraesophageal GERD)، وتظهر أعراضه بصورة مختلفة تماماً: سعال مزمن لا يُفسَّر بأمراض رئوية، أو بحة في الصوت مستمرة خاصة في الصباح، أو التهاب متكرر في الحلق دون وجود عدوى، أو شعور بوجود كتلة في الحلق.",
+            "هذه الأعراض كثيراً ما تقود المريض إلى طبيب الأنف والأذن والحنجرة أو طبيب الرئة قبل أن يُكتشف الارتجاع سببها. إذا عولجت من سعال مزمن أو التهاب حلق متكرر بمضادات حيوية ولم تستجب، فمن الجدير إخبار طبيبك بأعراض الحموضة حتى الخفيفة منها لاستبعاد الارتجاع.",
+            "الارتجاع الصامت لدى الرضع يُظهر نفسه بالبكاء بعد الرضاعة والقيء الجزئي والرفض للأكل. معظم الأطفال يتحسنون مع النمو، لكن الحالات الشديدة تحتاج تدخلاً طبياً."
+          ]
+        },
+        {
+          "h2": "الأغذية المُهدِّئة للحرقان: ما الذي يساعد فعلاً في مطبخنا؟",
+          "paras": [
+            "الهريسة التي نأكلها في الإفطار والخبز الحامض من المُحرّضات الشائعة، لكن لا داعي لتجنبها جملةً واحدة. القاعدة الأفضل هي أن تُلاحظ ما يُحرّض أعراضك أنت بالذات في «مذكرة الطعام» لأسبوعين.",
+            "ما يُساعد كثيرين: اليانسون والشمر كمشروب دافئ بعد الأكل يُساعدان على تهدئة التقلصات وقد يُقللان الانتفاخ، والزبادي الطبيعي يساعد على تحسين البيئة الهضمية لدى بعض الناس. الموز وخبز الشعير يستجيب لهما كثيرون بإيجابية، في حين أن الشوفان الدافئ يُطبّط الحمض ويُبطئ إفراغ المعدة بشكل معتدل.",
+            "ما يُفاقم الأعراض عادةً: الشاي بكميات كبيرة خاصة على معدة فارغة، والقهوة وعصير الحمضيات صباحاً قبل الأكل، والوجبات الدسمة ذات الدهون العالية التي تُبطئ إفراغ المعدة وتُبقي الحمض طويلاً."
+          ]
+        },
+        {
+          "h2": "الارتجاع في رمضان وعلاقته بالصيام",
+          "paras": [
+            "رمضان يُمثّل تحدياً خاصاً لمرضى الارتجاع. الإفطار الكبير على معدة فارغة تماماً بعد ساعات طويلة، ثم وجبة السحور في منتصف الليل والنوم بعدها مباشرة، هو النمط الأمثل لتحريض الارتجاع. وعلى الرغم من ذلك، لاحظ بعض المرضى تحسناً في أعراضهم في رمضان، خاصة إذا قلّلوا من الوجبات الدسمة وتجنبوا السهر الطويل.",
+            "إذا كنت تتناول PPI، يمكن تعديل موعد جرعته في رمضان: خذها قبل الإفطار بنصف ساعة أو قبل السحور بنصف ساعة حسب الوقت الذي تشعر فيه بأشد الأعراض. استشر طبيبك لأن التوقيت يختلف حسب نوع الدواء المحدد الذي تتناوله.",
+            "المشروبات الغازية المُستهلكة بكثرة على مائدة الإفطار تُضيف عبئاً على المعدة وتُفاقم الانتفاخ والارتجاع. استبدالها بعصير مخفف أو ماء مع نعناع خيار أفضل."
+          ]
+        },
+        {
+          "h2": "ما الذي يميز الحرقان عن ألم القلب؟",
+          "paras": [
+            "الحرقان وراء عظمة القص يُشبه أحياناً ألم الذبحة الصدرية بشكل كبير، وهذا يُسبب قلقاً حقيقياً. في الغالب، الحرقان المعدي يأتي بعد الأكل بنصف ساعة إلى ساعة، ويتحسن مع مضادات الحموضة، ولا يصاحبه ضيق تنفس أو تعرق أو ألم يمتد للذراع الأيسر أو الكتف.",
+            "ألم القلب في المقابل يظهر في الغالب عند المجهود أو التوتر الشديد، ولا يتأثر كثيراً بالأكل أو الوضعية، وقد يصاحبه ضيق في التنفس أو خفقان أو شعور بثقل في الصدر. في حالة الشك تماماً، الحل هو الفحص الطبي وليس التخمين.",
+            "كثير من الناس يُصابون باضطراب «تشنج المريء» الذي يُسبب ألماً صدرياً حاداً يُشبه القلبي تماماً لكنه مريئي المنشأ. التمييز الدقيق يحتاج أحياناً لاختبارات متخصصة كتخطيط ضغط المريء."
+          ]
+        }
+      ],
+      "tie": "سجّل في تطبيق سهتاك الأطعمة التي تُحرّض الحرقان وأوقات الأعراض وموعد آخر وجبة قبل النوم. النمط الذي ستراه خلال أسبوعين يُساعدك أنت وطبيبك على تحديد المُحرّضات الفعلية.",
+      "faqs": [
+        {
+          "q": "هل ارتجاع المريء يُسبب السرطان؟",
+          "a": "ارتجاع المريء المزمن غير المُعالج قد يُؤدي إلى مريء باريت، الذي يرفع قليلاً من خطر سرطان المريء. لكن معظم مرضى الارتجاع لا يُصابون بهذا التحول، خاصة إذا عولج الارتجاع بشكل مناسب ومتابعة منتظمة."
+        },
+        {
+          "q": "هل يمكنني أخذ مثبطات مضخة البروتون لفترة طويلة؟",
+          "a": "تُستخدم لفترات طويلة لحالات معينة كالتهاب المريء أو مريء باريت، لكن في حالات أخرى قد تكون مدة 4 إلى 8 أسابيع كافية. يجب مراجعة الطبيب بانتظام لتحديد ما إذا كان الاستمرار ضرورياً وتجنب الاستخدام المفتوح بدون رقابة."
+        },
+        {
+          "q": "هل الحموضة تعني أن معدتي تُنتج حمضاً زائداً؟",
+          "a": "ليس بالضرورة. في كثير من الحالات، المشكلة ليست في كمية الحمض بل في ضعف الصمام الواقي بين المعدة والمريء الذي يسمح للحمض الطبيعي بالصعود. لهذا تعمل مثبطات مضخة البروتون على تقليل الحمض لجعله أقل إيذاءً."
+        },
+        {
+          "q": "هل الضغط النفسي يُؤثر على الحموضة؟",
+          "a": "نعم. التوتر يُحفّز الجهاز العصبي اللاإرادي على رفع إفراز الحمض وتبطئة إفراغ المعدة. كثير من مرضى الارتجاع يُلاحظون تفاقم أعراضهم في أوقات التوتر الشديد. إدارة التوتر جزء من خطة العلاج الشاملة."
+        },
+        {
+          "q": "هل يمكن علاج الارتجاع جراحياً؟",
+          "a": "نعم، العملية الأشيع هي عملية تثنية قاع المعدة (Fundoplication) بالمنظار، وتُقوّي الصمام السفلي للمريء. تُناسب من يرفضون الأدوية مدى الحياة أو من لم يستجيبوا للعلاج الدوائي. القرار يتطلب تقييماً دقيقاً وهو ليس الخيار الأول."
+        },
+        {
+          "q": "هل الشاي بالنعناع يُهدّئ الحموضة؟",
+          "a": "النعناع يُخفف التشنج المعوي وقد يُساعد في الانتفاخ، لكنه يُرخّي الصمام السفلي للمريء وقد يُفاقم الارتجاع عند بعض الناس. إذا كنت تُعاني من حرقان متكرر، جرّب بدونه لأسبوع وانظر الفرق."
+        },
+        {
+          "q": "هل الحمل يُفاقم الارتجاع؟",
+          "a": "نعم، الارتجاع شائع جداً في الثلثين الثاني والثالث من الحمل بسبب ضغط الرحم المتنامي على المعدة ارتفاع هرمون البروجستيرون الذي يُرخّي الصمام. مضادات الحموضة العادية آمنة في الحمل، لكن قبل استخدام PPI استشيري طبيبتك."
+        }
+      ]
+    },
+    "en": {
+      "title": "Acid reflux and GERD: causes, treatment and when to worry",
+      "desc": "What causes acid reflux to become GERD, how late heavy meals worsen it regionally, when PPIs are overused, and the alarm symptoms that need an endoscopy.",
+      "keywords": "GERD, acid reflux, heartburn, proton pump inhibitor, PPI, endoscopy, Barrett's oesophagus, reflux treatment, late meals reflux, Middle East GERD",
+      "h1": "Acid reflux and GERD: what causes the burning and when does it need more than antacids",
+      "takeaways": [
+        "GERD is defined by acid reflux that is frequent enough to cause symptoms or complications, not just occasional heartburn after a heavy meal.",
+        "Late large meals, which are common across the region, are among the most significant lifestyle drivers of GERD.",
+        "Proton pump inhibitors are very effective but are often continued far longer than the evidence supports, and periodic review of need is important.",
+        "Alarm symptoms including difficulty swallowing, unexplained weight loss, and blood in vomit mean an endoscopy is necessary, not optional.",
+        "Lifestyle changes alone resolve mild reflux in many people without the need for long-term medication."
+      ],
+      "sections": [
+        {
+          "h2": "What is GERD and how is it different from ordinary heartburn?",
+          "paras": [
+            "Gastroesophageal reflux disease, GERD, is defined by the repeated backflow of stomach acid into the oesophagus in a way that causes troublesome symptoms or complications. The stomach lining is protected from its own acid by a thick mucus layer, but the oesophagus has no such protection. When the lower oesophageal sphincter, the muscle valve between the stomach and oesophagus, weakens or relaxes at the wrong moment, acid can splash upward and damage the oesophageal lining.",
+            "Occasional heartburn after a large meal or a night of rich food is experienced by most people at some point and does not constitute a disease. The threshold for GERD is symptoms occurring two or more times a week, or symptoms causing complications such as oesophageal inflammation, difficulty swallowing, or chronic cough. At that frequency and severity, the condition warrants a medical assessment rather than self-managed antacids.",
+            "A 2024 study published in the Journal of Family Medicine and Primary Care found high rates of GERD among adults attending primary care in Bahrain, with obesity, smoking, late eating habits, and certain medications among the most significant associated factors. A 2022 survey of gastroenterologists across Africa and the Middle East published in Expert Review of Gastroenterology confirmed that GERD is a highly prevalent and often undertreated condition across the region."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "See a doctor urgently if you have",
+            "items": [
+              "Difficulty swallowing or the sensation that food sticks in your oesophagus",
+              "Unexplained weight loss alongside heartburn or swallowing difficulty",
+              "Vomiting that is frequent, or that contains blood or dark material resembling coffee grounds",
+              "Severe chest pain that does not improve with antacids (rule out cardiac cause first)",
+              "Persistent symptoms despite four weeks of full-dose treatment"
+            ]
+          }
+        },
+        {
+          "h2": "Why is reflux so common in the Middle East and Gulf?",
+          "paras": [
+            "Late large meals, a social and religious norm across much of the region, are one of the most important contributors to GERD. A full stomach pressed against the lower oesophageal sphincter while lying down exerts far more pressure than in an upright position. Simply waiting two to three hours after eating before lying down, or raising the head of the bed by 15 centimetres, can produce a dramatic improvement in symptoms for many people.",
+            "Obesity, whose rates in Gulf countries and Egypt are among the highest in the world, significantly increases reflux risk. Abdominal fat compresses the stomach and raises intragastric pressure. Research consistently shows that losing 10 percent of body weight produces clinically meaningful improvement in reflux symptoms. This is one of the most evidence-based lifestyle recommendations in gastroenterology.",
+            "Tobacco and shisha use relax the lower oesophageal sphincter and reduce saliva production. Saliva is bicarbonate-rich and helps neutralise acid that reaches the oesophagus, so reducing it means less natural protection. Coffee, citrus and spicy food are frequently cited by patients as triggers, but the evidence for universal avoidance is weaker than commonly believed. Individual variation is substantial, and an elimination approach guided by a personal food diary is more useful than blanket restriction."
+          ]
+        },
+        {
+          "h2": "Antacids and proton pump inhibitors: what each drug does",
+          "paras": [
+            "Antacids, such as preparations containing aluminium hydroxide or magnesium carbonate, neutralise the acid already in the stomach and provide relief within minutes. Their effect lasts two to three hours and they do not affect acid production. They are appropriate for occasional symptoms and are safe for use in pregnancy under guidance.",
+            "Proton pump inhibitors (PPIs), including omeprazole, pantoprazole and esomeprazole, are the most potent acid-suppressing medications and the first-line drug treatment for confirmed GERD. They work by blocking the enzyme responsible for acid production rather than neutralising acid after the fact. They should be taken 30 minutes before the first meal of the day for maximum effect. Standard treatment courses are four to eight weeks.",
+            "The problem is that PPIs are frequently continued for months and years beyond the initial indication without reassessment. A 2026 study in PLoS Medicine highlighted the importance of periodically reassessing PPI use. Long-term use reduces magnesium and vitamin B12 absorption, may increase the risk of certain enteric infections, and has been associated with other effects whose clinical significance is still being studied. The answer is not abrupt discontinuation, which can cause rebound acid hypersecretion, but periodic review with your doctor to confirm continued need."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Reflux medications compared",
+            "head": ["Drug type", "How it works", "Best suited for"],
+            "rows": [
+              ["Antacids", "Neutralises acid already present", "Occasional heartburn, fast relief"],
+              ["H2 blockers", "Partially reduces acid production", "Moderate, frequent symptoms"],
+              ["PPIs (omeprazole etc)", "Strongly suppresses acid production", "Erosive oesophagitis, frequent GERD"],
+              ["Prokinetics", "Speeds stomach emptying", "Reflux with delayed gastric emptying"]
+            ]
+          }
+        },
+        {
+          "h2": "Lifestyle changes that actually work",
+          "paras": [
+            "The changes supported by the strongest evidence are: waiting two to three hours after eating before lying down, achieving even modest weight loss if overweight, and elevating the head of the bed by 15 to 20 centimetres by placing something under the bed frame, not just adding extra pillows. These three together account for a substantial proportion of GERD symptoms in people who implement them consistently.",
+            "Sleeping on the left side is better for reflux than the right side because of the anatomy of the stomach outlet. Right-side sleeping slows gastric emptying and increases the contact time between refluxed acid and the oesophageal lining. Eating smaller, more frequent meals rather than two or three large ones reduces intragastric pressure throughout the day.",
+            "Individual trigger foods vary considerably. Rather than avoiding everything conventionally listed, keep a food and symptom diary for two weeks and identify your actual triggers. Many people with GERD tolerate tomatoes, citrus, coffee and spice perfectly well, while others find specific triggers that are not on the standard list. The diary approach is more precise and less likely to unnecessarily impoverish your diet."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "The most evidence-based lifestyle changes for GERD",
+            "items": [
+              "Wait 2 to 3 hours after your last meal before lying down or going to sleep",
+              "Raise the head of the bed 15 to 20 cm by placing blocks or a wedge under the bed frame",
+              "Eat smaller portions more frequently rather than two or three large meals",
+              "Work towards losing weight if your BMI is above the healthy range",
+              "Stop tobacco use, which relaxes the valve protecting the oesophagus",
+              "Keep a two-week food diary to identify your own specific trigger foods"
+            ]
+          }
+        },
+        {
+          "h2": "When is an endoscopy necessary?",
+          "paras": [
+            "Endoscopy involves passing a thin flexible camera through the mouth to examine the lining of the oesophagus, stomach and upper small intestine. It is not a test that everyone with heartburn needs. However, it is essential, not optional, when certain alarm features are present, because these can indicate serious pathology including oesophageal cancer.",
+            "The alarm features that require endoscopy are: difficulty swallowing or pain on swallowing, unexplained weight loss, anaemia without another explanation, vomiting blood or material resembling coffee grounds, and black tarry stools. Additionally, anyone over the age of 50 with new onset of symptoms warrants endoscopic evaluation rather than empirical treatment.",
+            "One important finding at endoscopy is Barrett's oesophagus, a change in the type of cells lining the lower oesophagus caused by chronic acid exposure. Barrett's oesophagus does not cause additional symptoms, but it carries a modestly increased risk of oesophageal adenocarcinoma, which is why those diagnosed with it undergo regular surveillance endoscopy. A 2024 review in Annals of Internal Medicine outlines current evidence on GERD management including the role of surveillance in Barrett's disease."
+          ]
+        },
+        {
+          "h2": "Reflux without heartburn: the atypical presentations",
+          "paras": [
+            "A significant proportion of GERD cases present without the classic burning sensation behind the breastbone. Extraoesophageal reflux can manifest as a chronic unexplained cough, particularly worse when lying down at night, persistent hoarseness especially in the mornings, recurrent throat clearing, or the sensation of a lump in the throat that does not resolve.",
+            "These presentations frequently lead patients to ENT specialists or respiratory physicians before reflux is identified as the cause. If you have been treated repeatedly for throat infection or chronic cough without improvement, it is worth mentioning any degree of heartburn or sour taste to your doctor so that reflux can be considered in the investigation.",
+            "In infants, silent reflux presents as crying after feeds, partial vomiting, feeding refusal, and poor weight gain. Most infants improve as the lower oesophageal sphincter matures. Severe cases may require investigation and treatment, but routine pharmacological treatment is not recommended for all infants with reflux."
+          ]
+        },
+        {
+          "h2": "Reflux during Ramadan: a specific regional challenge",
+          "paras": [
+            "Ramadan creates a specific pattern that is favourable for GERD symptoms. Iftar is often a large meal on a completely empty stomach after a long fast, followed by socialising, tea and dessert. Suhoor is eaten in the middle of the night and sleep follows immediately afterward. Both eating patterns directly reproduce the conditions that worsen reflux.",
+            "Despite this, some patients notice improved symptoms during Ramadan if they avoid excessively fatty foods and do not oversleep after Suhoor. The key adjustments are the same as for any GERD management: eat moderately at Iftar, wait before lying down, and avoid carbonated drinks which are heavily consumed at Iftar tables and increase gastric distension.",
+            "If you take a PPI, the timing can be adjusted for Ramadan. Take it 30 minutes before Iftar, or before Suhoor, depending on which meal is larger and when symptoms are worst. Your doctor can advise on the specific drug and dose you are using."
+          ]
+        },
+        {
+          "h2": "Foods that help or worsen reflux in a regional diet",
+          "paras": [
+            "The conventional list of foods to avoid for reflux (tomatoes, citrus, coffee, chocolate, mint, fatty food) is often presented as universal, but research shows individual variation is large. Rather than adopting the entire list, a two-week food diary identifying your personal triggers is more useful and less likely to unnecessarily restrict your eating. A 2024 clinical review in Annals of Internal Medicine notes that evidence for dietary restriction beyond overall meal size and timing is limited.",
+            "Foods that many regional GERD patients find soothing include warm aniseed or fennel tea after meals, plain yoghurt, and oatmeal, which coats the oesophagus and has a mild buffering effect. Bananas and bread are generally well tolerated. By contrast, tea drunk in large quantities on an empty stomach, strong coffee before breakfast, and very spicy dishes eaten late at night are frequent triggers worth testing individually.",
+            "Carbonated drinks deserve particular mention because they are consumed heavily at iftar and at social gatherings. The carbon dioxide dissolved in these drinks expands in the stomach, increasing intragastric pressure and driving acid upward. Replacing them with still water, diluted juice, or herbal tea is one of the more impactful single changes a person with reflux can make at mealtimes."
+          ]
+        },
+        {
+          "h2": "Distinguishing heartburn from cardiac chest pain",
+          "paras": [
+            "Oesophageal pain and cardiac chest pain can be remarkably similar and the distinction genuinely matters. Heartburn typically occurs 30 to 60 minutes after eating, is burning in character, is relieved by antacids, and is positional, worse when lying flat. It does not usually radiate to the jaw or left arm and is not accompanied by breathlessness or sweating.",
+            "Cardiac chest pain more often occurs with exertion or strong emotion, is described as pressure, tightness or heaviness rather than burning, may radiate to the left arm, jaw or back, and is accompanied by breathlessness, sweating, or palpitations in more severe cases. It is not reliably related to meals and is not relieved by antacids.",
+            "When there is any doubt, the correct action is medical assessment, not self-diagnosis. Both cardiac disease and GERD are common in the regional adult population, and presenting with chest pain warrants evaluation for both. Oesophageal spasm, a less common but real condition, produces chest pain indistinguishable from cardiac pain and requires specialised testing to identify."
+          ]
+        }
+      ],
+      "tie": "Use Sihtak to log when symptoms occur, what you ate, and how long before bedtime the meal was. Two weeks of entries will show you and your doctor a clear pattern of what triggers your reflux and whether timing changes are helping.",
+      "faqs": [
+        {
+          "q": "Does GERD cause oesophageal cancer?",
+          "a": "Chronic, untreated GERD can lead to Barrett's oesophagus, which modestly raises the risk of one type of oesophageal cancer over many years. However, the absolute risk remains low and regular surveillance endoscopy for those with Barrett's allows any changes to be detected and treated early."
+        },
+        {
+          "q": "Can I take PPIs long term?",
+          "a": "Long-term PPI use is appropriate for specific conditions such as erosive oesophagitis and Barrett's oesophagus. For straightforward GERD, the goal is usually the lowest effective dose taken for the minimum necessary duration, with periodic attempts to step down. If you have been taking a PPI for more than eight weeks, discuss with your doctor whether continued treatment is still indicated."
+        },
+        {
+          "q": "Does acid reflux mean I produce too much acid?",
+          "a": "Not necessarily. In many cases the problem is not acid overproduction but a weakened or inappropriately relaxing lower oesophageal sphincter that allows normal amounts of acid to reach the oesophagus. PPIs reduce the acid to make reflux less damaging; they do not address the sphincter weakness."
+        },
+        {
+          "q": "Does stress cause heartburn?",
+          "a": "Yes, through several mechanisms. The autonomic nervous system under stress increases acid secretion and slows gastric emptying. Many people with GERD notice that their symptoms worsen during periods of significant stress. Stress management is therefore part of a complete reflux management plan, not an alternative to medical treatment."
+        },
+        {
+          "q": "Is surgery an option for GERD?",
+          "a": "Laparoscopic fundoplication, which reinforces the lower oesophageal sphincter, is an established surgical option for people who prefer not to take long-term medication or who do not respond adequately to it. The decision requires careful specialist assessment because not all GERD is suitable for surgical correction."
+        },
+        {
+          "q": "Does peppermint tea help heartburn?",
+          "a": "Peppermint relaxes intestinal smooth muscle and may help with cramping and bloating, but it also relaxes the lower oesophageal sphincter, potentially worsening reflux in susceptible people. If you have frequent heartburn, try avoiding it for a week to see whether symptoms improve."
+        },
+        {
+          "q": "Is GERD worse during pregnancy?",
+          "a": "Yes, heartburn is very common in the second and third trimesters because the growing uterus puts upward pressure on the stomach and progesterone relaxes the lower oesophageal sphincter. Standard antacids are safe in pregnancy. Consult your doctor before taking PPIs during pregnancy."
+        }
+      ]
+    }
+  }
+}

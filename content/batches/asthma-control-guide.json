@@ -1,0 +1,376 @@
+{
+  "slug": "asthma-control-guide",
+  "category": "chronic-conditions",
+  "chip_ar": "أمراض مزمنة",
+  "chip_en": "Chronic conditions",
+  "date_iso": "2026-07-22",
+  "sources": [
+    {
+      "label": "Yitshak-Sade M, Novack V, Katra I et al: Non-anthropogenic dust exposure and asthma medication purchase in children, The European respiratory journal, 2015",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25323244/"
+    },
+    {
+      "label": "Hamidian M, Jor A, Keikhaie KR et al: Dust air pollution and hospital visits for respiratory, cardiovascular, and eye diseases in Eastern Iran, Scientific reports, 2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41274933/"
+    },
+    {
+      "label": "Geravandi S, Sicard P, Khaniabadi YO et al: A comparative study of hospital admissions for respiratory diseases during normal and dusty days in Iran, Environmental science and pollution research international, 2017",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28631126/"
+    },
+    {
+      "label": "Nelson HS: Inhalation devices, delivery systems, and patient technique, Annals of allergy, asthma and immunology, 2016",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27979017/"
+    },
+    {
+      "label": "Celebi Sozener Z, Aydin O, Celik GE et al: Effect of adherence on asthma control: more patient knowledge, more adherence, more control, Internal medicine journal, 2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40590159/"
+    },
+    {
+      "label": "Alsharairi NA: Diet and Food Allergy as Risk Factors for Asthma in the Arabian Gulf Region: Current Evidence and Future Research Needs, International journal of environmental research and public health, 2019",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31614710/"
+    },
+    {
+      "label": "Global Initiative for Asthma (GINA): Global Strategy for Asthma Management and Prevention, 2024"
+    }
+  ],
+  "content": {
+    "ar": {
+      "title": "الربو: السيطرة الحقيقية على المرض لا مجرد تجنب النوبات",
+      "desc": "دليل شامل للربو: الفرق بين بخاخ الإغاثة والبخاخ الواقي، تأثير العواصف الرملية والهواء الملوث، والعلامات الخطيرة التي تستدعي الطوارئ.",
+      "keywords": "الربو، بخاخ الربو، السيطرة على الربو، نوبة الربو، العواصف الرملية والتنفس، بخاخ الإغاثة، بخاخ الوقاية، ضيق التنفس، الصفير، الربو عند الأطفال",
+      "h1": "الربو: كيف تُسيطر على المرض حقاً وليس فقط حين تشعر بالأزمة",
+      "takeaways": [
+        "الربو مرض مزمن يمكن السيطرة عليه بشكل كبير، وليس حالة طارئة تُعالج وقتياً فحسب.",
+        "الخطأ الأشيع أن يُستخدم بخاخ الإغاثة السريعة يومياً بدلاً من البخاخ الواقي اليومي، وهذا يترك الالتهاب قائماً في الشعب الهوائية.",
+        "العواصف الرملية وتلوث الهواء في منطقتنا يُعدّان من أبرز مُحرّضات نوبات الربو وتشديدها.",
+        "معظم حالات الربو لا تُسيطر عليها بشكل كافٍ ليس لأن العلاج ضعيف، بل لأن أسلوب استخدام البخاخ خاطئ.",
+        "الربو الشديد غير المُعالج حالة طارئة، وأي نوبة لا تستجيب للبخاخ في عشر دقائق تستدعي الذهاب فوراً للطوارئ."
+      ],
+      "sections": [
+        {
+          "h2": "ما هو الربو وماذا يحدث في الشعب الهوائية أثناء النوبة؟",
+          "paras": [
+            "الربو (Asthma) مرض مزمن يُصيب الشعب الهوائية التي تنقل الهواء إلى الرئتين وخارجها. في حالة الربو تكون جدران هذه الشعب ملتهبة باستمرار حتى في غياب الأعراض، وحين يتعرض المريض لمُحرّض معين سواء أكان غباراً أم دخاناً أم برداً أم مجهوداً بدنياً، تنتفخ جدران الشعب وتُنتج مخاطاً زائداً وتتقلص العضلات حولها فيضيق المجرى الهوائي.",
+            "الصفير الذي تسمعه أثناء نوبة الربو هو صوت الهواء وهو يُحاول المرور عبر شعب هوائية مُضيَّقة. الشعور بضيق الصدر والسعال الجاف الليلي وصعوبة الزفير هي الأعراض المميزة. لاحظ أن صعوبة الزفير أكثر وضوحاً من صعوبة الشهيق، وهو ما يُفسر شعور المريض بأن الهواء حبيس في صدره.",
+            "الربو ليس متشابهاً عند الجميع. بعضهم يُعاني فقط عند المجهود الرياضي، وآخرون تتحرك نوباتهم مع نزلات البرد، وغيرهم تضعف أعراضهم في المواسم الجافة وتشتد في أوقات العواصف الرملية. معرفة مُحرّضاتك الخاصة هي الخطوة الأولى نحو السيطرة الحقيقية على المرض."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "اذهب لطوارئ المستشفى فوراً إذا",
+            "items": [
+              "لم يتحسن ضيق التنفس بعد 4 نفثات من البخاخ السريع وانتظار 10 دقائق",
+              "شاهدت تقعّراً ملحوظاً في الجلد بين الأضلاع أو أعلى الصدر عند التنفس",
+              "الشفتان أو الأظافر بدأت تميل للزرقة أو الشحوب",
+              "المريض عاجز عن إتمام جملة كاملة بسبب ضيق التنفس",
+              "الصفير توقف فجأة دون تحسن في الحالة (قد يعني إرهاق الشعب الهوائية)"
+            ]
+          }
+        },
+        {
+          "h2": "العواصف الرملية وتلوث الهواء: لماذا تزداد نوبات الربو في منطقتنا؟",
+          "paras": [
+            "العواصف الرملية تحمل جسيمات دقيقة جداً تخترق حتى الجزء العميق من الرئة وتُثير استجابة التهابية حادة عند مرضى الربو. وتُشير دراسة نشرتها مجلة Scientific Reports عام 2025 حول إيران إلى ارتباط وثيق بين أيام الغبار الشديد وارتفاع مراجعات المستشفيات بسبب أمراض الجهاز التنفسي. ونتيجة مماثلة خلصت إليها دراسة نشرتها مجلة European Respiratory Journal عام 2015، وجدت فيها أن تعرض الأطفال للغبار الطبيعي يرفع بشكل ملموس شراءهم لأدوية الربو.",
+            "لكن ليس الغبار وحده المشكلة. دخان الشيشة، وهو شائع الاستخدام في بيئات ترفيهية مُغلقة في أرجاء المنطقة، يُمثّل مُحرّضاً قوياً جداً لنوبات الربو. وعوادم المركبات في المدن المزدحمة، وحرق القمامة في المناطق التي تفتقر لخدمات النفايات المنتظمة، تُضاف إلى هذا العبء.",
+            "على الصعيد العملي، راقب توقعات جودة الهواء ومؤشر الغبار قبل الخروج في أوقات العواصف الرملية. البقاء داخل المنزل مع إغلاق النوافذ، واستخدام كمامة N95 إذا اضطررت للخروج، من الإجراءات التي تُقلل التعرض للجسيمات الضارة. ومريض الربو الذي يعمل في الهواء الطلق يحتاج لخطة خاصة مع طبيبه لأيام الغبار الشديد."
+          ]
+        },
+        {
+          "h2": "الفرق بين بخاخ الإغاثة والبخاخ الواقي: الخطأ الأكثر انتشاراً",
+          "paras": [
+            "هذا هو السبب الأول لعدم السيطرة على الربو: كثير من المرضى يستخدمون بخاخ الإغاثة السريعة (Reliever) مثل السالبوتامول (Salbutamol/Ventolin) كل يوم ويعتقدون أن ذلك يعني أن مرضهم مُسيطر عليه. الحقيقة هي العكس: الحاجة لبخاخ الإغاثة أكثر من مرتين في الأسبوع هي علامة على أن الربو غير مُسيطر عليه.",
+            "بخاخ الإغاثة يوسّع الشعب الهوائية لساعات قليلة لكنه لا يُعالج الالتهاب المزمن المستمر في جدران الشعب. هذا الالتهاب هو الجذر الحقيقي للمرض، ولا يُعالجه إلا البخاخ الواقي اليومي (Preventer/Controller) الذي يحتوي عادةً على الكورتيزون المستنشق (Inhaled Corticosteroids). هذا الكورتيزون يختلف كلياً عن الكورتيزون الفموي أو الحقني الذي يُخشى منه، إذ لا يصل إلا لكميات ضئيلة جداً للدم.",
+            "البخاخ الواقي لا يُحسّ المريض بأثره الفوري لأنه يعمل تدريجياً على تهدئة الالتهاب على مدى أيام وأسابيع. هذا يجعل كثيرين يتوقفون عنه ظناً أنه لا يفيد، وهو خطأ شائع يُديم الحلقة المفرغة. أظهرت دراسة نشرتها Internal Medicine Journal عام 2025 أن زيادة معرفة المريض بمرضه ترتبط ارتباطاً وثيقاً بزيادة الالتزام بالعلاج الواقي وتحسين السيطرة على الأعراض."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "بخاخ الإغاثة مقابل البخاخ الواقي: ما الفرق؟",
+            "head": ["المعيار", "بخاخ الإغاثة السريعة", "البخاخ الواقي اليومي"],
+            "rows": [
+              ["متى يُستخدم؟", "عند النوبة فقط", "يومياً حتى في غياب الأعراض"],
+              ["الأثر الرئيسي", "توسيع الشعب فوراً", "تهدئة الالتهاب المزمن"],
+              ["يبدأ الأثر بعد؟", "دقائق قليلة", "أيام إلى أسابيع"],
+              ["هل يُعالج الالتهاب؟", "لا", "نعم، هذا هو هدفه"],
+              ["مثال شائع", "سالبوتامول (Ventolin)", "بيكلوميثازون، فلوتيكازون"]
+            ]
+          }
+        },
+        {
+          "h2": "كيف تستخدم بخاخ MDI بشكل صحيح؟",
+          "paras": [
+            "أظهرت أبحاث عديدة أن نسبة كبيرة من مرضى الربو لا يستخدمون البخاخ بشكل صحيح، مما يعني أن جزءاً كبيراً من الدواء يستقر في الفم والحلق ولا يصل للرئتين. أشارت مراجعة نشرتها Annals of Allergy and Asthma عام 2016 إلى أن أخطاء أسلوب الاستخدام شائعة جداً وتؤثر مباشرة على فعالية العلاج.",
+            "الخطأ الأكثر شيوعاً هو الشهيق السريع جداً: يجب أن يكون الشهيق بطيئاً ومستمراً على مدى 3 إلى 5 ثوان. خطأ آخر هو وضع البخاخ بين الأسنان بدلاً من الوضع الصحيح على الشفاه. وكثيرون لا يحبسون أنفاسهم لعشر ثوان بعد الشهيق، وهي الخطوة التي تتيح للجسيمات الاستقرار في الشعب الهوائية.",
+            "استخدام الحجرة الفاصلة (Spacer) يحل كثيراً من هذه المشكلات، ولهذا يُنصح بها بشكل خاص للأطفال ولمن يجد صعوبة في التنسيق بين الضغط على البخاخ والشهيق. الطبيب أو الصيدلاني يمكنه مراجعة أسلوبك واكتشاف الأخطاء."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "الطريقة الصحيحة لاستخدام بخاخ MDI",
+            "items": [
+              "ارفع غطاء البخاخ وهزّه بشكل جيد لمدة 5 ثوان",
+              "أخرج هواء رئتيك بالكامل ببطء",
+              "ضع فوهة البخاخ بشكل صحيح على شفتيك وأغلق عليها",
+              "ابدأ الشهيق ببطء، ثم اضغط على البخاخ مرة واحدة في الثانية الأولى",
+              "واصل الشهيق البطيء حتى تمتلئ رئتاك (3 إلى 5 ثوان)",
+              "احبس نفسك 10 ثوان ثم أخرج الهواء ببطء",
+              "إذا احتجت جرعة ثانية، انتظر دقيقة قبل تكرار الخطوات"
+            ]
+          }
+        },
+        {
+          "h2": "درجات شدة الربو وما الذي يُحدد خطة العلاج؟",
+          "paras": [
+            "الربو ليس درجة واحدة: هناك الربو المتقطع الخفيف الذي تكون فيه الأعراض أقل من مرتين أسبوعياً وتستجيب لبخاخ الإغاثة وحده، والربو الخفيف المستمر الذي يحتاج لبخاخ واقٍ بجرعة منخفضة، ثم الربو المتوسط والشديد اللذان يحتاجان لمزيج من الكورتيزون المستنشق بجرعات متزايدة مع موسّع شعبي طويل الأمد.",
+            "خطة العلاج تُراجع باستمرار وتصعيداً وتنازلاً وفق مستوى السيطرة. الهدف هو الوصول لأدنى جرعة دواء تُحقق غياب الأعراض الليلية، والقدرة على النشاط البدني الطبيعي، والحاجة لبخاخ الإغاثة مرتين أو أقل في الأسبوع.",
+            "إذا حدثت نوبة حادة استدعت العلاج بالكورتيزون الفموي أو دخولاً للمستشفى، فهذا يعني أن الخطة الحالية غير كافية وتحتاج لمراجعة جذرية مع الطبيب. قد يحتاج بعض المرضى لإضافة أدوية جديدة من فئة LABA أو في حالات نادرة لعلاجات بيولوجية."
+          ]
+        },
+        {
+          "h2": "المُحرّضات الشائعة: ما الذي يُشعل نوبة الربو؟",
+          "paras": [
+            "كل مريض ربو له مُحرّضاته الخاصة، لكن ثمة مُحرّضات شائعة في بيئتنا تستحق الانتباه. حبوب اللقاح موسمية وترتفع في فصل الربيع، والعفن يتكاثر في الحمامات ومناطق الرطوبة، ووبر الحيوانات الأليفة كالقطط شائع ومُهمَل كثيراً. العطور القوية وروائح المنظفات من المُحرّضات التي يصعب تجنبها في التجمعات.",
+            "التمرين الرياضي مُحرّض عند نسبة من المرضى، لكن هذا لا يعني التوقف عنه. تناول جرعة من بخاخ الإغاثة قبل 15 دقيقة من التمرين، والإحماء التدريجي، يُساعدان على تجنب النوبة. السيطرة الجيدة بالبخاخ الواقي تُقلل من حدة الربو الناجمة عن التمرين بشكل ملحوظ.",
+            "بعض الأدوية قد تُحرّض نوبات الربو، أبرزها الأسبرين ومضادات الالتهاب غير الستيرويدية مثل الإيبوبروفين لدى حصة من المرضى، وكذلك بعض أدوية ضغط الدم من نوع حاصرات بيتا. أخبر طبيبك دائماً أنك مصاب بالربو قبل وصف أي دواء جديد."
+          ]
+        },
+        {
+          "h2": "الربو والحمل ورمضان: أسئلة شائعة في سياقنا",
+          "paras": [
+            "الربو أثناء الحمل يحتاج تتبعاً دقيقاً لأن الأعراض تتغير في نحو ثلث النساء الحوامل: تتحسن لدى بعضهن وتسوء لدى أخريات. والأهم أن بخاخات الكورتيزون المستنشق آمنة في الحمل وفق الإرشادات الدولية، والخطر الحقيقي يكمن في الربو غير المُسيطر عليه لا في الدواء.",
+            "في رمضان، كثير من مرضى الربو يتوقفون عن البخاخ الواقي ظناً أن الاستنشاق يُفطر. رأي الفقهاء في هذه المسألة متباين، لكن البخاخات الاستنشاقية الجافة وبعض الهيئات الدينية تعتبرها لا تُفطر لأن الكمية المبتلعة ضئيلة. استشر طبيبك وعالمك الديني الخاص. في كل الأحوال، التوقف عن البخاخ الواقي في رمضان يُعرّضك لنوبات أشد خطورة.",
+            "الأطفال المصابون بالربو يحتاجون لأسلوب توعية مختلف. شرح طبيعة المرض للطفل وللمدرسة، ووضع خطة تصرف مكتوبة واضحة للمدرسة، والتأكد من توفر بخاخ إغاثة في حقيبة الطفل، خطوات تُقلل من النوبات الحادة في المدرسة."
+          ]
+        },
+        {
+          "h2": "قياس ضيق التنفس في المنزل: جهاز قياس ذروة التدفق",
+          "paras": [
+            "جهاز ذروة التدفق (Peak Flow Meter) جهاز بسيط ورخيص يقيس كمية الهواء التي يمكنك إخراجها بسرعة. يعطيك رقماً يُقارن بأفضل قيمة لديك في أوقات هدوء المرض. إذا انخفضت القراءة إلى 80 بالمئة من قيمتك المرجعية فهذا تحذير مبكر، وإذا نزلت تحت 50 بالمئة فهذه نوبة حادة تستدعي التدخل الفوري.",
+            "بعض الأطباء يُوصون به للمرضى الذين يجدون صعوبة في تحديد متى تكون أعراضهم حقيقية ومتى تكون قلقاً فقط، أو لمن يُعانون من ربو حاد يصعب فيه الاعتماد على الأعراض وحدها. القراءات اليومية تُساعد الطبيب على ضبط خطة العلاج.",
+            "في المنطقة قد لا يتوفر هذا الجهاز بسهولة في بعض الصيدليات الصغيرة. يُمكن طلبه من صيدليات المستشفيات الكبرى أو المراكز الطبية المتخصصة."
+          ],
+          "visual": {
+            "type": "range-scale",
+            "title": "ماذا تعني قراءة جهاز ذروة التدفق؟",
+            "label": "نسبة من أفضل قيمتك",
+            "unit": "%",
+            "min": 0,
+            "max": 100,
+            "zones": [
+              {"to": 50, "tone": "bad", "label": "نوبة حادة"},
+              {"to": 80, "tone": "warn", "label": "تحذير"},
+              {"to": 100, "tone": "good", "label": "آمن"}
+            ],
+            "source": "Global Initiative for Asthma (GINA): Global Strategy for Asthma Management and Prevention, 2024"
+          }
+        },
+        {
+          "h2": "متى تراجع طبيبك بشأن الربو؟",
+          "paras": [
+            "الربو المُسيطر عليه لا يحتاج مراجعات متكررة، لكن هناك مناسبات يجب فيها زيارة الطبيب حتى لو كنت تشعر بتحسن. إذا استخدمت بخاخ الإغاثة أكثر من مرتين في الأسبوع لأسبوعين متتاليين، أو إذا استيقظت ليلاً بسبب الأعراض، أو إذا أجريت تعديلاً على دوائك بنفسك، كلها مناسبات تستوجب مراجعة.",
+            "كذلك يجب مراجعة الطبيب قبل بدء ممارسة رياضة جديدة، وقبل السفر لأوقات الحج والعمرة التي تُعرّضك لتغيرات بيئية واحتشاد، وعند أي تغير في البيئة المعيشية مثل الانتقال لمنزل جديد أو بدء عمل جديد.",
+            "وصف بعض أطباء الربو خطة تصرف مكتوبة تُعطيك توجيهات واضحة: ماذا تفعل حين تكون الأعراض خفيفة، وماذا حين تزداد، ومتى تتصل بالطبيب مباشرة، ومتى تذهب للطوارئ. إذا لم يكن لديك خطة مكتوبة فاطلب من طبيبك إعدادها معك."
+          ]
+        }
+      ],
+      "tie": "سجّل أعراضك اليومية وعدد مرات استخدام بخاخ الإغاثة في تطبيق سهتاك. النمط الذي ستراه عبر الأسابيع سيُساعدك ويساعد طبيبك على معرفة ما إذا كان الربو مُسيطراً عليه حقاً.",
+      "faqs": [
+        {
+          "q": "هل الربو مرض مدى الحياة؟",
+          "a": "الربو مرض مزمن في معظم الحالات، لكن شدته تتغير كثيراً مع الوقت. بعض الأطفال المصابين به تتراجع أعراضهم بشكل كبير في مرحلة البلوغ، والسيطرة الجيدة بالعلاج تُتيح لمعظم المرضى حياة طبيعية كاملة."
+        },
+        {
+          "q": "هل الكورتيزون المستنشق يُضعف مناعتي؟",
+          "a": "الكورتيزون المستنشق في الربو يعمل محلياً على الشعب الهوائية وتكون الكميات التي تصل للدم ضئيلة جداً. هو لا يُضعف المناعة كما يفعل الكورتيزون الفموي أو الحقني، وهو آمن للاستخدام المديد عند الجرعات المناسبة لحالتك. المشكلة الوحيدة الشائعة هي التهاب الفم بالفطريات ويُمنع بالمضمضة بالماء بعد الاستخدام."
+        },
+        {
+          "q": "هل يمكنني ممارسة الرياضة وأنا مصاب بالربو؟",
+          "a": "نعم، ويُنصح بها. الرياضة المنتظمة تُحسّن كفاءة الرئة وتقلل من شدة أعراض الربو على المدى البعيد. إذا كانت التمارين تُحرّض عندك نوبات، فحدث طبيبك: هناك بروتوكول بسيط لتناول بخاخ الإغاثة قبل 15 دقيقة من التمرين."
+        },
+        {
+          "q": "هل الربو يُسبب ضرراً دائماً في الرئة؟",
+          "a": "الربو غير المُعالج وغير المُسيطر عليه لفترات طويلة قد يُسبب ما يُعرف بإعادة تشكيل الشعب الهوائية، وهو تغيير بنيوي يجعل الشعب أقل مرونة. السيطرة المبكرة والمستمرة بالعلاج الواقي تُقلل بشكل كبير من احتمال حدوث هذا التغيير."
+        },
+        {
+          "q": "هل الربو يمنع من السفر؟",
+          "a": "الربو المُسيطر عليه لا يمنع السفر. عليك حمل كمية كافية من أدويتك تفوق مدة الرحلة، وإبقاء البخاخات في حقيبة اليد لا في الأمتعة المُسجَّلة، والاطلاع على جودة الهواء في وجهتك. خطة التصرف المكتوبة مفيدة جداً في الخارج حيث لا تعرف الطبيب."
+        },
+        {
+          "q": "هل العسل أو الثوم أو الزنجبيل يُعالج الربو؟",
+          "a": "لا يوجد دليل علمي كافٍ على أن هذه المواد تُعالج الربو أو تحل محل الأدوية الموصوفة. بعضها قد يُريح تهيج الحلق أو السعال مؤقتاً، لكن استخدامها بديلاً عن البخاخات يُعرّضك لنوبات أشد خطورة."
+        },
+        {
+          "q": "هل جهاز الاستنشاق بالبخار (نيبيولايزر) أفضل من البخاخ؟",
+          "a": "البحوث تُشير إلى أن البخاخ المُستخدم بشكل صحيح مع الحجرة الفاصلة فعّال بنفس القدر أو أكثر من جهاز البخار في معظم الحالات. جهاز البخار مفيد للرضع وصغار الأطفال والنوبات الحادة الشديدة، لكن ليس ضرورياً لكل مريض ربو."
+        }
+      ]
+    },
+    "en": {
+      "title": "Asthma: getting real control, not just surviving attacks",
+      "desc": "Controller vs reliever inhalers, dust storms as triggers, correct inhaler technique, and the red flags that mean a severe asthma attack needs emergency care.",
+      "keywords": "asthma control, reliever inhaler, preventer inhaler, asthma attack, dust storms asthma, inhaler technique, asthma Middle East, wheezing, breathlessness, asthma triggers",
+      "h1": "Asthma: the difference between controlling the disease and managing the symptoms",
+      "takeaways": [
+        "Asthma is a chronic disease that can be well controlled with the right treatment, not a series of crises to survive.",
+        "The most common reason asthma is poorly controlled is using the reliever inhaler daily instead of taking a controller inhaler every day as prescribed.",
+        "Dust storms and regional air quality are significant asthma triggers that require a specific management plan.",
+        "Most inhaler medication never reaches the lungs because of incorrect technique, and correcting this alone can transform asthma control.",
+        "A severe attack that does not improve with four puffs of reliever inhaler and 10 minutes of waiting is a medical emergency."
+      ],
+      "sections": [
+        {
+          "h2": "What happens in the airways during an asthma attack?",
+          "paras": [
+            "Asthma is a chronic inflammatory disease of the airways, the tubes that carry air in and out of the lungs. In someone with asthma, the airway walls are persistently inflamed even when there are no symptoms. When a trigger is encountered, such as dust, cold air, smoke, or physical exertion, the inflamed walls swell further, the muscles around the airway contract, and the lining produces excess mucus. All three changes narrow the tube and make breathing difficult.",
+            "The wheeze that accompanies an attack is the sound of air being forced through a narrowed tube. The sensation of tightness in the chest and the characteristic difficulty breathing out (rather than in) are the result of this narrowing. A dry cough, especially at night, is another common feature because the airway becomes more reactive when lying down.",
+            "Asthma varies enormously between individuals. Some people are triggered mainly by exercise, others by respiratory infections, others by allergens. Understanding your specific triggers is the foundation of good asthma management, because avoiding what starts a reaction is as important as treating the underlying inflammation."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "Go to the emergency department immediately if",
+            "items": [
+              "Breathing does not improve after 4 puffs of reliever inhaler and a 10-minute wait",
+              "You see the skin pulling in between the ribs or at the base of the throat with every breath",
+              "The lips or fingernails are turning blue or grey",
+              "You cannot complete a full sentence due to breathlessness",
+              "Wheezing stops suddenly without any improvement in breathing, which may mean the airways are exhausted"
+            ]
+          }
+        },
+        {
+          "h2": "Dust storms and air pollution: why asthma is harder to control regionally",
+          "paras": [
+            "Dust storms carry fine particulate matter that penetrates deep into the lungs and triggers an acute inflammatory response, particularly in people with asthma. A 2025 study published in Scientific Reports found a clear association between high-dust days and increased hospital visits for respiratory illness. A 2015 study in the European Respiratory Journal found that children's exposure to natural dust events was associated with measurably increased asthma medication purchases.",
+            "Beyond dust storms, shisha smoke is a potent airway irritant that is common in indoor social settings across the region, and it affects people nearby as well as those smoking. Vehicle exhaust in dense urban traffic, and waste burning in areas without reliable waste collection services, add to the cumulative burden on airways that are already more reactive.",
+            "Practically: check air quality and dust forecasts before outdoor activities. On heavy dust days, staying indoors with windows closed is the most effective single measure. An N95 mask offers meaningful protection if you must go outside. If you work outdoors, discuss a specific action plan for dust days with your doctor, including whether to take a preventive dose of reliever inhaler before shifts."
+          ]
+        },
+        {
+          "h2": "Reliever versus controller inhaler: the most common mistake in asthma",
+          "paras": [
+            "This single misunderstanding is behind more poorly controlled asthma than any other factor. Many patients use their reliever inhaler, typically salbutamol (Ventolin), daily and consider this normal. In fact, needing a reliever inhaler more than twice a week is a recognised signal that asthma is not controlled, and should prompt a review rather than continued use.",
+            "The reliever inhaler works within minutes by relaxing the muscle around the airway, but it does nothing to treat the underlying inflammation that makes the airway hypersensitive in the first place. The controller inhaler, which contains inhaled corticosteroid, addresses that inflammation. It must be taken daily, even when there are no symptoms, because its benefit builds over days and weeks. A 2025 study in Internal Medicine Journal confirmed that better patient understanding of this distinction correlates directly with better treatment adherence and improved asthma control.",
+            "The inhaled corticosteroid in a controller inhaler is fundamentally different from oral or injected steroids. The amount reaching the bloodstream is tiny, and the risks associated with long-term oral steroids (such as adrenal suppression, bone loss or weight gain) are not a meaningful concern at standard inhaled doses. The one real precaution is rinsing the mouth after each use to prevent oral thrush."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Reliever vs controller inhaler at a glance",
+            "head": ["Feature", "Reliever (blue cap)", "Controller (brown or orange cap)"],
+            "rows": [
+              ["When to use", "During symptoms only", "Every day, regardless of symptoms"],
+              ["Main action", "Opens the airway rapidly", "Reduces airway inflammation"],
+              ["Onset of benefit", "Within minutes", "Days to weeks"],
+              ["Treats inflammation?", "No", "Yes, that is its purpose"],
+              ["Common example", "Salbutamol (Ventolin)", "Beclomethasone, fluticasone"]
+            ]
+          }
+        },
+        {
+          "h2": "How to use a pressurised MDI inhaler correctly",
+          "paras": [
+            "A large proportion of inhaler users make technique errors that result in most of the medication depositing in the mouth and throat rather than reaching the lungs. A review published in Annals of Allergy and Asthma in 2016 found that inhaler technique errors are extremely common and directly reduce medication effectiveness. Correcting technique is often the single highest-yield intervention before escalating treatment.",
+            "The most common errors are inhaling too fast, which causes most of the particles to impact the back of the throat, and poor coordination between pressing the inhaler and starting to breathe in. Both problems are substantially solved by using a spacer device, which holds the aerosol in a chamber allowing a slower, more controlled breath. Spacers are recommended for all patients and are essential for children and older adults.",
+            "Even with correct technique, remember to shake the inhaler for five seconds before each use, and to check the dose counter if your inhaler has one. An empty inhaler can still produce a puff that feels real but contains no medication."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "Correct MDI inhaler technique",
+            "items": [
+              "Remove the cap and shake the inhaler firmly for 5 seconds",
+              "Breathe out fully and gently, emptying your lungs",
+              "Place the mouthpiece between your lips and close them around it",
+              "Start to breathe in slowly and press the canister once in the first second",
+              "Continue breathing in slowly over 3 to 5 seconds until your lungs are full",
+              "Hold your breath for 10 seconds, then breathe out slowly",
+              "If a second dose is needed, wait at least 60 seconds before repeating"
+            ]
+          }
+        },
+        {
+          "h2": "Common triggers and how to manage them in a regional setting",
+          "paras": [
+            "Every person with asthma has their own trigger profile. House dust mites are particularly problematic in warm humid environments. Pollen levels peak in spring across the Levant and parts of the Gulf. Mould grows in bathrooms and kitchens with poor ventilation, which is common in older housing stock. Pet dander from cats, which is an extremely common household pet across the region, is frequently overlooked as a trigger.",
+            "Exercise is a trigger for a significant minority of patients, but this is not a reason to avoid activity. Taking two puffs of reliever inhaler 15 minutes before exercise, warming up gradually rather than starting intensely, and breathing through the nose during moderate activity all reduce exercise-induced symptoms. Good baseline control with a controller inhaler reduces exercise-induced bronchoconstriction substantially.",
+            "Some medications can trigger asthma attacks in susceptible individuals. Aspirin and non-steroidal anti-inflammatory drugs such as ibuprofen affect approximately 10 to 20 percent of adults with asthma. Beta-blocker medications, used for blood pressure and heart conditions, can also worsen asthma. Always tell any healthcare provider that you have asthma before starting a new medication."
+          ]
+        },
+        {
+          "h2": "Peak flow monitoring: tracking your asthma at home",
+          "paras": [
+            "A peak flow meter is a simple, inexpensive device that measures how fast you can push air out of your lungs. You blow into it as hard and fast as possible, and it gives a reading in litres per minute. Your personal best, measured over two weeks when your asthma is well controlled, becomes your reference. Readings above 80 percent of your personal best are in the green zone (safe), between 50 and 80 percent signal a yellow zone warning requiring additional medication, and below 50 percent is a red zone requiring urgent medical attention.",
+            "Peak flow monitoring is most valuable for people who have difficulty sensing when their asthma is worsening, or those with severe asthma in whom symptoms alone do not reliably indicate severity. Daily readings create a trend that allows your doctor to adjust your treatment before a crisis develops.",
+            "In parts of the region, peak flow meters may not be available in small pharmacies. Hospital pharmacies and specialist respiratory clinics are more reliable sources. If unavailable locally, the principles of recognising worsening asthma (increasing reliever use, night waking, reduced exercise tolerance) remain valid guides even without the device."
+          ],
+          "visual": {
+            "type": "range-scale",
+            "title": "What your peak flow reading means",
+            "label": "Percentage of personal best",
+            "unit": "%",
+            "min": 0,
+            "max": 100,
+            "zones": [
+              {"to": 50, "tone": "bad", "label": "Red zone"},
+              {"to": 80, "tone": "warn", "label": "Yellow zone"},
+              {"to": 100, "tone": "good", "label": "Green zone"}
+            ],
+            "source": "Global Initiative for Asthma (GINA): Global Strategy for Asthma Management and Prevention, 2024"
+          }
+        },
+        {
+          "h2": "Asthma during Ramadan and Hajj: specific challenges",
+          "paras": [
+            "During Ramadan, some patients stop their controller inhaler in the mistaken belief that inhaling medication breaks the fast. Scholarly opinion on this varies, and dry powder inhalers in particular are considered permissible by many Islamic scholars because the amount swallowed is negligible. Discuss both the religious and medical aspects with your own religious authority and your doctor. Stopping a controller inhaler during Ramadan significantly increases the risk of attacks.",
+            "Hajj and Umrah present a specific combination of challenges: extreme heat, vast crowds, respiratory infections circulating among pilgrims, incense smoke in some areas, and the physical exertion of walking long distances. The meningococcal vaccine is compulsory, but you should also ensure your asthma is in the best possible control before travel, carry sufficient medication for the full trip plus a reserve, and have a written action plan that you can show to a medical team if needed.",
+            "Pregnancy does not change the fundamental treatment approach. Inhaled corticosteroids are considered safe in pregnancy by all major guidelines. The risk of uncontrolled asthma to both mother and fetus is significantly greater than any risk from standard inhaled treatment. If you are pregnant and have asthma, maintain your controller treatment and attend all scheduled reviews."
+          ]
+        },
+        {
+          "h2": "Asthma severity and stepping up treatment",
+          "paras": [
+            "Asthma is classified by severity, and treatment is matched to that severity and adjusted over time. Mild intermittent asthma, meaning symptoms less than twice a week with no night waking, can often be managed with a reliever inhaler alone. Mild persistent asthma, where symptoms are more frequent, requires a low-dose inhaled corticosteroid taken daily. More severe or frequent symptoms call for higher doses and combination inhalers that include both a corticosteroid and a long-acting bronchodilator in a single device.",
+            "The Global Initiative for Asthma (GINA) guidelines recommend a stepwise approach: start with the treatment appropriate to the current severity and step up if control is poor after four to eight weeks. Crucially, the guidelines also recommend stepping down once good control has been maintained for three months, to find the minimum effective dose.",
+            "Biological therapies targeting specific allergy or inflammatory pathways are now available for severe uncontrolled asthma and are offered in specialist centres in Saudi Arabia, UAE and Egypt. If your asthma remains poorly controlled despite optimal inhaled therapy and confirmed good technique, ask for a referral to a respiratory specialist for assessment."
+          ]
+        },
+        {
+          "h2": "When to see your doctor about asthma control",
+          "paras": [
+            "Well-controlled asthma does not require frequent urgent visits, but there are specific situations that warrant a review appointment rather than waiting. If you have been using your reliever inhaler more than twice a week for two or more consecutive weeks, if symptoms are waking you at night, if you have had to change your normal activities because of asthma, or if you have used a course of oral steroids, these are all signals that your current regimen needs adjustment.",
+            "A written asthma action plan prepared with your doctor tells you precisely what to do at each level of symptom severity: what to take, how much, and when to call for help or go to hospital. If you do not have a written plan, ask your doctor to prepare one with you at the next appointment. This plan is especially important in the regional context where reaching specialist care may take time.",
+            "Asthma that is difficult to control despite good technique and adherence to treatment deserves specialist evaluation. Uncontrolled severe asthma now has additional treatment options including biological agents targeting specific inflammatory pathways. These are available in several regional hospital centres and your doctor can refer you if standard treatment is insufficient."
+          ]
+        }
+      ],
+      "tie": "Log your daily symptom score and how many times you used your reliever inhaler in Sihtak. A pattern emerging over weeks tells you and your doctor whether asthma is truly controlled or silently building.",
+      "faqs": [
+        {
+          "q": "Is asthma lifelong?",
+          "a": "Asthma is a long-term condition for most people, but its severity changes substantially over time. Some children see symptoms improve significantly in adulthood. With good treatment, the majority of people with asthma can live and exercise normally with no significant limitations."
+        },
+        {
+          "q": "Will the inhaled steroid damage my bones or immune system?",
+          "a": "At standard therapeutic doses, inhaled corticosteroids reach the bloodstream in tiny amounts and do not cause the bone loss, immune suppression, or weight gain associated with oral steroids. The only common local side effect is oral thrush, which is prevented by rinsing the mouth with water after each use."
+        },
+        {
+          "q": "Can I exercise with asthma?",
+          "a": "Yes, and exercise is actively beneficial for asthma management. If exertion triggers your symptoms, there is a straightforward protocol: two puffs of reliever inhaler 15 minutes before exercise, a gradual warmup, and good baseline control with a controller inhaler. Tell your doctor if exercise continues to trigger symptoms despite these measures."
+        },
+        {
+          "q": "Does asthma cause permanent lung damage?",
+          "a": "Poorly controlled asthma over years can lead to airway remodelling, a structural change that reduces elasticity. This makes early and consistent treatment with controller medication important. Asthma that is well controlled from diagnosis carries a much lower risk of permanent airway changes."
+        },
+        {
+          "q": "Is a nebuliser better than an inhaler?",
+          "a": "Research consistently shows that a standard MDI inhaler used correctly with a spacer delivers medication at least as effectively as a nebuliser for most patients. Nebulisers are useful for infants who cannot cooperate with any inhaler device, and for acute severe attacks in clinical settings. They are not necessary for routine asthma management."
+        },
+        {
+          "q": "Do honey, black seed or steam inhalation help asthma?",
+          "a": "None of these have sufficient evidence to replace prescribed inhaler therapy. Some may provide temporary symptomatic relief from throat irritation, but using them instead of a controller inhaler leaves the underlying airway inflammation untreated. Discontinuing prescribed treatment in favour of these remedies significantly increases the risk of severe attacks."
+        },
+        {
+          "q": "How do I know if my inhaler is empty?",
+          "a": "Many modern inhalers have a dose counter. If yours does not, do not rely on the floating in water test, which is unreliable for many inhaler types. The most reliable approach is to track the number of doses used against the stated dose count on the packaging, and replace the inhaler before it runs out."
+        }
+      ]
+    }
+  }
+}

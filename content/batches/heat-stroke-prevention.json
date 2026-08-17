@@ -1,0 +1,360 @@
+{
+  "slug": "heat-stroke-prevention",
+  "category": "lifestyle",
+  "chip_ar": "نمط الحياة",
+  "chip_en": "Lifestyle",
+  "date_iso": "2026-07-22",
+  "sources": [
+    {
+      "label": "Garcia CK, Renteria LI, Leite-Santos G et al: Exertional heat stroke: pathophysiology and risk factors, BMJ medicine, 2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36936589/"
+    },
+    {
+      "label": "Laitano O, Leon LR, Roberts WO et al: Controversies in exertional heat stroke diagnosis, prevention, and treatment, Journal of applied physiology (Bethesda, Md. : 1985), 2019",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31545156/"
+    },
+    {
+      "label": "Al Mahri S, Bouchama A: Heatstroke, Handbook of clinical neurology, 2018",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30459024/"
+    },
+    {
+      "label": "Knapik JJ, Epstein Y: Exertional Heat Stroke: Pathophysiology, Epidemiology, Diagnosis, Treatment, and Prevention, Journal of special operations medicine : a peer reviewed journal for SOF medical professionals, 2019",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31201762/"
+    },
+    {
+      "label": "Casa DJ, DeMartini JK, Bergeron MF et al: National Athletic Trainers' Association Position Statement: Exertional Heat Illnesses, Journal of athletic training, 2015",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26381473/"
+    },
+    {
+      "label": "Navarro CS, Casa DJ, Belval LN et al: Exertional Heat Stroke, Current sports medicine reports, 2017",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28902747/"
+    }
+  ],
+  "content": {
+    "ar": {
+      "title": "ضربة الشمس والإجهاد الحراري: الوقاية والإسعاف",
+      "desc": "تعرف على الفرق بين الإجهاد الحراري وضربة الشمس وكيف تبرد شخصا مصابا بسرعة ومتى تذهب للطوارئ فورا لإنقاذ حياته.",
+      "keywords": "ضربة الشمس, الإجهاد الحراري, الحرارة الشديدة, الوقاية من ضربة الشمس, إسعاف ضربة الشمس, ضربة الحر, عمال خارجيون, حر الصيف",
+      "h1": "ضربة الشمس والإجهاد الحراري: كيف تميز بينهما وماذا تفعل",
+      "takeaways": [
+        "الإجهاد الحراري حالة يمكن إدارتها بالراحة والتبريد والسوائل، أما ضربة الشمس فطارئة طبية تهدد الحياة.",
+        "ضربة الشمس تعني درجة حرارة جسم فوق 40 درجة مئوية مع اضطراب في الوعي أو السلوك.",
+        "التبريد السريع بالثلج أو الماء البارد هو العلاج الأول وأهم خطوة قبل وصول الإسعاف.",
+        "العمال في الهواء الطلق وكبار السن والأطفال وأصحاب الأمراض المزمنة الأكثر عرضة.",
+        "العطش علامة تأخر، ابدأ الشرب قبل أن تشعر بالعطش إذا كنت في جو حار."
+      ],
+      "sections": [
+        {
+          "h2": "ما الفرق بين الإجهاد الحراري وضربة الشمس؟",
+          "paras": [
+            "كلا الحالتين تنتجان عن ارتفاع درجة حرارة الجسم، لكنهما تختلفان اختلافا جوهريا في الخطورة. الإجهاد الحراري يحدث حين يفقد الجسم سوائل وأملاحا أكثر مما يعوضه، فيشعر الشخص بالتعب والدوخة والغثيان والصداع، لكن دماغه يعمل بصورة طبيعية وهو يعرف ما حوله. هذه مرحلة خطيرة تحتاج تدخلا لكن يمكن إدارتها في المنزل إذا بدأت فورا.",
+            "ضربة الشمس تعني أن الجسم فقد قدرته على تنظيم حرارته الداخلية. درجة الحرارة الجوهرية ترتفع فوق 40 درجة مئوية وتبدأ أعضاء الجسم في التضرر بسرعة. الحرارة العالية تتلف البروتينات داخل الخلايا وتسبب الالتهاب في الأنسجة. العلامة الأهم التي تميزها هي الاضطراب في الوعي أو السلوك: الشخص قد يتصرف بشكل غريب أو يتوه أو يفقد وعيه كليا.",
+            "الخطأ الأكثر شيوعا هو انتظار تطور الأعراض لمعرفة أيهما يعاني الشخص. القاعدة الآمنة هي معاملة أي شخص يعاني من ارتفاع الحرارة مع اضطراب في السلوك أو الوعي كحالة طارئة حتى يثبت العكس. التأخر دقائق في هذه المرحلة قد يعني فرقا في النتيجة النهائية.",
+            "الإجهاد الحراري قد يتطور إلى ضربة شمس إذا لم يتلق المصاب تدخلا سريعا. لهذا التعرف المبكر على الإجهاد الحراري والتعامل معه فورا هو الطريقة الأفضل لمنع الوصول إلى مرحلة الخطر الكامل."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "الإجهاد الحراري مقابل ضربة الشمس",
+            "head": ["الخاصية", "الإجهاد الحراري", "ضربة الشمس"],
+            "rows": [
+              ["درجة الحرارة", "مرتفعة لكن أقل من 40 درجة", "فوق 40 درجة مئوية"],
+              ["الوعي", "طبيعي", "مضطرب أو فاقد الوعي"],
+              ["الجلد", "شاحب ورطب وعرق", "قد يكون جافا وساخنا أو رطبا"],
+              ["الخطورة", "خطيرة تحتاج تدخلا", "طارئة طبية تهدد الحياة"],
+              ["العلاج الأول", "راحة وتبريد وسوائل", "إسعاف فوري وتبريد عاجل"]
+            ]
+          }
+        },
+        {
+          "h2": "من الأكثر عرضة لضربة الشمس؟",
+          "paras": [
+            "مراجعة نشرتها مجلة BMJ Medicine عام 2022 حددت عوامل الخطر الرئيسية لضربة الشمس. العمال في الهواء الطلق في درجات حرارة شديدة هم في القمة، خاصة عمال البناء والزراعة والنظافة في دول الخليج. الرياضيون والحجاج الذين يمارسون نشاطا بدنيا مكثفا في الحر أيضا في مجموعة خطر عالية.",
+            "كبار السن أكثر عرضة لأن قدرتهم على الإحساس بالحرارة وتحريك السوائل في الجسم تضعف مع العمر. الأطفال في أقل من 4 سنوات خطرون لأن جسمهم الصغير يفقد الماء بسرعة أكبر نسبيا. من يتناول أدوية معينة مثل مدرات البول ومضادات الكولين وبعض أدوية الضغط يفقد هذه الأدوية قدرته على التكيف مع الحرارة.",
+            "داء السكري وأمراض القلب والسمنة المفرطة والكحول كلها تزيد من الخطر. من بدأ حديثا في العمل في الجو الحار دون أن يعطي جسمه وقتا للتأقلم معرض أكثر ممن تعود على الحرارة تدريجيا. الجسم يحتاج بين 10 و14 يوما للتأقلم مع الجو الحار عند الانتقال من مناخ أبرد."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "warn",
+            "title": "أصحاب خطر مرتفع",
+            "items": [
+              "عمال البناء والزراعة والنظافة في الهواء الطلق.",
+              "الحجاج وزوار العمرة خاصة في أشهر الصيف.",
+              "كبار السن والأطفال دون 4 سنوات.",
+              "من يتناولون مدرات البول أو أدوية الضغط أو أدوية نفسية.",
+              "من انتقلوا حديثا إلى مناخ حار ولم يتأقلموا بعد."
+            ]
+          }
+        },
+        {
+          "h2": "كيف تعرف أن شخصا ما أصابته ضربة الشمس؟",
+          "paras": [
+            "العلامة الأساسية التي تفرق ضربة الشمس عن مجرد الإجهاد هي تغير في الحالة الذهنية. الشخص قد يبدو مرتبكا أو يتكلم بطريقة غير منطقية أو يتصرف بعدوانية غير مبررة أو يفقد التوازن عند المشي. هذه الأعراض العقلية هي الإنذار الأهم ولا ينبغي تجاهلها أو نسبها للتعب فحسب.",
+            "درجة الحرارة العالية جدا، وهي عادة فوق 40 درجة مئوية، ضرورية للتشخيص. لكن في بيئة الإسعاف الميدانية لا تتأخر في البحث عن ميزان حرارة. إذا كان الشخص مرتبكا في جو حار بعد نشاط أو تعرض مطول للشمس، تصرف على أنها ضربة شمس ولا تنتظر أن تثبت نفسها.",
+            "أعراض أخرى مصاحبة تشمل توقف العرق فجأة أو على العكس العرق المفرط المستمر، الجلد الأحمر الساخن، الغثيان والقيء، نبض سريع وضعيف، وفي الحالات الشديدة النوبات التشنجية. من المهم أن تعرف أن بعض المصابين بضربة الشمس يعرقون بغزارة وليس كلهم لديهم جلد جاف. لا تنتظر حتى تكتمل الأعراض، ابدأ التبريد واستدع الإسعاف في نفس الوقت.",
+            "خطأ شائع آخر هو إعطاء الشخص المصاب مشروبا وانتظار أن يتحسن. إذا كان مرتبكا أو يفقد وعيه، لا تعطه شيئا عبر الفم لأن ذلك قد يدخل السائل إلى رئتيه. التبريد الخارجي هو كل ما تستطيع فعله في انتظار الإسعاف."
+          ]
+        },
+        {
+          "h2": "الإسعاف الأولي: كيف تبرد شخصا بسرعة؟",
+          "paras": [
+            "أهم خطوة في علاج ضربة الشمس هي التبريد السريع. الدراسات تثبت أن كل دقيقة تأخير في التبريد تزيد من ضرر الأعضاء الداخلية. مراجعة نشرتها مجلة Current Sports Medicine Reports عام 2017 أكدت أن التبريد بالغمر في ماء بارد أو الثلج هو أفضل وأسرع طريقة لخفض درجة الحرارة.",
+            "في الواقع العملي، لا تنتظر وصول الإسعاف لتبدأ التبريد. انقل الشخص فورا إلى مكان مظلل أو مكيف. خلع الملابس الزائدة. ضع ثلجا أو قماشا مبللا بماء بارد على الرقبة والإبطين والفخذين، لأن هذه المناطق تحتوي على أوعية دموية كبيرة قريبة من الجلد.",
+            "إذا كان الشخص واعيا ويستطيع البلع، أعطه ماء باردا أو مشروب إماهة. لا تعطه سوائل إذا كان يفقد وعيه أو لا يستطيع البلع بأمان. في كلتا الحالتين الإسعاف الطارئ ضرورة لا خيار."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "الإسعاف الأولي لضربة الشمس",
+            "items": [
+              "اتصل بالإسعاف فورا أو اطلب من شخص آخر الاتصال بينما تبدأ التبريد.",
+              "انقل الشخص إلى الظل أو مكان مكيف مباشرة.",
+              "خلع الملابس الخارجية والزائدة بلطف.",
+              "ضع ثلجا أو قماشا مبللا بماء بارد على الرقبة والإبطين والفخذين.",
+              "إذا كان واعيا تماما أعطه ماء باردا بكميات صغيرة.",
+              "لا تتركه وحده وراقب تنفسه حتى وصول الإسعاف."
+            ]
+          }
+        },
+        {
+          "h2": "الوقاية: كيف تحمي نفسك في جو حار؟",
+          "paras": [
+            "الوقاية أفضل بكثير من العلاج. في أيام الحر الشديد، جدول نشاطك البدني في الساعات الأبرد وهي عادة قبل العاشرة صباحا أو بعد الرابعة عصرا. في دول الخليج حيث تتجاوز درجات الحرارة 45 درجة في الذروة، حتى هذه الأوقات قد تكون خطيرة للعمل المكثف بسبب الرطوبة العالية التي تمنع العرق من التبخر وبالتالي تعطل آلية التبريد الطبيعية.",
+            "الترطيب المنتظم حتى قبل الشعور بالعطش أساسي. العطش علامة تأخر تعني أن الجسم بدأ فعلا في الجفاف. راقب لون بولك فهو مؤشر بسيط وفعال: اللون الفاتح يعني ترطيبا جيدا، واللون الداكن يعني أنك تحتاج لشرب المزيد. ارتدِ ملابس فاتحة اللون ومصنوعة من قماش خفيف وفضفاض يسمح للهواء بالمرور.",
+            "إذا كنت تعمل في الهواء الطلق، أخذ استراحات في الظل كل ساعة على الأقل ليس رفاهية بل ضرورة وقائية. صدرت في دول الخليج أنظمة تحظر العمل في الهواء الطلق في الساعات الأشد حرارة خلال أشهر الصيف حماية للعمال. إذا كان صاحب العمل لا يلتزم بذلك، فهو يعرضك لخطر حقيقي.",
+            "تذكر أن الجسم يحتاج بين 10 و14 يوما للتأقلم عند الانتقال إلى مناخ حار. في هذه الفترة الأولى تكون أكثر عرضة من الشخص المعتاد على الحر. خفف النشاط تدريجيا وأعط جسمك وقتا ليتكيف."
+          ]
+        },
+        {
+          "h2": "الحماية الخاصة للأطفال وكبار السن",
+          "paras": [
+            "الأطفال الصغار لا يشكون من الحرارة بوضوح قبل أن تصبح خطيرة، وأجسامهم تفقد الماء بنسبة أعلى نسبيا من الأجسام الكبيرة. لا تترك أطفالا أبدا في سيارة مغلقة حتى لو كانت الدقائق قليلة. درجة الحرارة داخل سيارة مركونة في الشمس ترتفع بمعدل درجتين أو ثلاث درجات كل دقيقة، وتصل إلى مستويات قاتلة في أقل من 20 دقيقة حتى عند درجات حرارة خارجية معتدلة.",
+            "كبار السن يواجهون مشكلة مزدوجة: أجسامهم أبطأ في اكتشاف الحرارة المرتفعة وفي الاستجابة لها بالتعرق الكافي. كثير منهم أيضا يتناولون أدوية تؤثر على تنظيم الحرارة كمدرات البول وبعض أدوية القلب والأدوية النفسية. كل هذه العوامل مجتمعة تجعل الشخص كبير السن غير قادر على إدراك الخطر حتى تتفاقم الحال.",
+            "في الأيام شديدة الحرارة، احتفظ بالتواصل مع أقاربك كبار السن الذين يعيشون وحدهم. تفقدهم مرتين في اليوم على الأقل سواء بزيارة أو باتصال هاتفي. زيارة قصيرة يمكن أن تنقذ حياة. إذا لم يكن في البيت تكييف، دار المجتمع أو المسجد أو مركز الصحة أماكن مكيفة بديلة يمكنهم قضاء ساعات الذروة فيها.",
+            "الاهتمام بالشخص الذي يعيش في مسكن غير مكيف أهم من الاهتمام بمن يملك تكييفا. في بعض المناطق المكتظة أو الفقيرة في المنطقة العربية، الاعتماد على المراوح فحسب لا يكفي حين تتجاوز الحرارة 40 درجة لأن الهواء الساخن لا يبرد الجسم مهما كانت سرعة المروحة."
+          ]
+        },
+        {
+          "h2": "ماذا يحدث في المستشفى بعد ضربة الشمس؟",
+          "paras": [
+            "في المستشفى يواصل الأطباء التبريد بطرق أكثر كفاءة، تشمل السوائل الوريدية الباردة وبطاطين التبريد وحمامات الثلج الكاملة. مراجعة الباحث Bouchama وهو من أبرز الباحثين العالميين في ضربة الشمس، وثقت أن التبريد الفوري يرتبط بانخفاض واضح في الوفيات والمضاعفات الدائمة.",
+            "أعضاء الجسم الأكثر عرضة للضرر هي الكلى والكبد والدماغ وعضلة القلب. الحرارة العالية تتلف البروتينات داخل الخلايا مما يؤدي إلى موتها. الدم يصبح سميكا عند الجفاف الشديد مما يزيد من خطر الجلطات الدموية. تحاليل الدم والبول في المستشفى تتابع وظائف هذه الأعضاء طوال فترة العلاج.",
+            "معظم المرضى الذين يصلون للمستشفى مبكرا ويتلقون التبريد السريع يتعافون دون مضاعفات دائمة. لكن التأخر في التبريد يمكن أن يترك ضررا دائما في الكلى أو الكبد أو وظائف المخ. هذا هو السبب الجوهري لأن الإسعاف الأولي بالتبريد يبدأ في مكان الحادثة وليس في انتظار المستشفى.",
+            "بعد الخروج من المستشفى يحتاج المريض عادة إلى فترة راحة وتجنب الحر لأسابيع. الجسم الذي مر بضربة شمس يبقى حساسا للحرارة لفترة أطول، ومن تعرضوا لها يستحقون متابعة طبية منتظمة لتقييم وظائف الكلى والكبد."
+          ]
+        },
+        {
+          "h2": "متى تذهب للطوارئ فورا؟",
+          "paras": [
+            "أي شخص تجاوز الخط الفاصل بين الإجهاد الحراري وضربة الشمس يحتاج طوارئ ولا يمكن إدارته في المنزل. العلامات الفاصلة هي الارتباك وعدم الاستجابة المنطقية أو فقدان الوعي. هذه حالة طارئة حقيقية وليس وقتا للتردد أو الانتظار لرأي آخر.",
+            "حتى من يبدو أنه تعافى بعد إجهاد حراري يجب أن يبقى في مراقبة لعدة ساعات لأن الأعراض يمكن أن تتدهور فجأة. إذا تحسن الشخص بسرعة كبيرة بعد تبريد وراحة لكن ثم عاد الارتباك أو ارتفعت الحرارة مجددا، فهذا يستوجب الطوارئ فورا.",
+            "الشخص الذي تعرض لضربة شمس من قبل يبقى أكثر عرضة للإصابة بها مرة أخرى في المواسم التالية. هذا يعني أن خطة وقائية واضحة في الصيف القادم ضرورة وليست مجرد توصية. معرفة الأعراض المبكرة والتصرف قبل تطورها هي الفارق بين حالة تُدار بسهولة وأخرى تصبح طارئة."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "اتصل بالإسعاف فورا إذا",
+            "items": [
+              "الشخص مرتبك أو يتصرف بشكل غير طبيعي أو لا يستجيب.",
+              "فقدان الوعي ولو لثوان.",
+              "درجة الحرارة فوق 40 درجة مئوية.",
+              "نوبة تشنجية أي رجفة لا إرادية في الجسم.",
+              "توقف العرق مع الجلد الأحمر الساخن في جو شديد الحرارة."
+            ]
+          }
+        }
+      ],
+      "tie": "استخدم تطبيق صحتك لتسجيل أي أعراض حرارية تعانيها أنت أو أحد أفراد عائلتك خلال أشهر الصيف. التوثيق يساعدك على تتبع التكرار ومعرفة ما إذا كانت هناك حاجة لمراجعة الطبيب.",
+      "faqs": [
+        {
+          "q": "ما الفرق الرئيسي بين الإجهاد الحراري وضربة الشمس؟",
+          "a": "الفارق الجوهري هو الحالة الذهنية. في الإجهاد الحراري الشخص واعٍ ومتعب ومتعرق. في ضربة الشمس يصبح مرتبكا أو يفقد وعيه وهي طارئة طبية تحتاج إسعافا فوريا."
+        },
+        {
+          "q": "هل يمكن أن تحدث ضربة الشمس في الظل؟",
+          "a": "نعم. الحرارة الشديدة نفسها كافية لتسبب ضربة الشمس حتى دون تعرض مباشر لأشعة الشمس. العمال في بيئات حارة مغلقة كالمطابخ ومواقع البناء الداخلية معرضون بنفس الدرجة."
+        },
+        {
+          "q": "كم مقدار الماء الذي يحتاجه الشخص في الحر الشديد؟",
+          "a": "في درجات حرارة تتجاوز 40 درجة مع نشاط بدني قد يحتاج الجسم إلى أكثر من لتر ونصف في الساعة. لكن الكميات الكبيرة جدا من الماء النقي دون أملاح أيضا ضارة. الماء المعدني أو إضافة قليل من الملح وعصير ليمون للماء يساعد على التعويض الصحيح."
+        },
+        {
+          "q": "هل الخمور والقهوة تزيد من خطر الإصابة بضربة الشمس؟",
+          "a": "الخمور تسبب جفافا وتضعف قدرة الجسم على تنظيم الحرارة. القهوة بكميات معتدلة لا تسبب جفافا واضحا لكن الكميات الكبيرة منها مدر للبول. في الأيام الحارة الماء هو الخيار الأفضل."
+        },
+        {
+          "q": "هل التبريد بالماء البارد آمن عند ضربة الشمس؟",
+          "a": "نعم وهو مستحسن. المخاوف القديمة من أن الماء البارد يسبب تشنج الأوعية دحضتها الدراسات الحديثة. التبريد بالغمر في ماء بارد أو وضع الثلج على مناطق الأوعية الكبيرة هو العلاج الأكثر فعالية."
+        },
+        {
+          "q": "كيف أعرف أن الشخص تعافى كفاية من الإجهاد الحراري؟",
+          "a": "تعافٍ جيد يعني أن الشخص يشعر بالتحسن الواضح بعد 30 دقيقة من الراحة والتبريد والشرب، ودرجة حرارته عادت لطبيعتها، وهو واعٍ تماما. أي تراجع في الوعي أو ارتفاع متجدد للحرارة يعني أنه يحتاج الطوارئ."
+        },
+        {
+          "q": "هل يمكن للشخص الذي أصيب بضربة شمس العودة للعمل في اليوم التالي؟",
+          "a": "عادة لا. بعد ضربة الشمس يحتاج الجسم أياما للتعافي الكامل، وهذا يختلف عن مجرد الإجهاد الحراري. العودة المبكرة جدا للحر قبل اكتمال التعافي تزيد بشكل كبير من خطر إصابة ثانية."
+        }
+      ]
+    },
+    "en": {
+      "title": "Heat exhaustion and heat stroke: prevention and first aid",
+      "desc": "How to tell heat exhaustion from heat stroke in minutes, the cooling first aid that saves lives, and who is most at risk in Gulf summers and outdoor work.",
+      "keywords": "heat stroke symptoms, heat exhaustion treatment, how to cool heat stroke, heat stroke first aid, outdoor worker heat risk, Gulf summer heat, heatstroke prevention",
+      "h1": "Heat exhaustion and heat stroke: what to do and when it is a medical emergency",
+      "takeaways": [
+        "Heat exhaustion is serious but manageable with rest, cooling and fluids. Heat stroke is a life-threatening emergency.",
+        "Heat stroke means a core body temperature above 40 degrees Celsius with a change in mental state or consciousness.",
+        "Rapid cooling with ice or cold water is the most important intervention and should begin before the ambulance arrives.",
+        "Outdoor workers, the elderly, young children, and people on certain medicines carry the highest risk.",
+        "Thirst is a late signal. Drink water before you feel thirsty when working or being outside in heat."
+      ],
+      "sections": [
+        {
+          "h2": "What is the difference between heat exhaustion and heat stroke?",
+          "paras": [
+            "Both conditions arise from the body overheating, but they differ fundamentally in severity and what needs to happen next. Heat exhaustion occurs when the body loses more fluid and salt than it replaces, leaving the person feeling weak, dizzy, nauseous and headachy. Their thinking is clear and they know where they are.",
+            "Heat stroke means the body has lost its ability to regulate its core temperature. Internal temperature climbs above 40 degrees Celsius and organs begin to sustain damage. The defining feature that separates it from heat exhaustion is a change in mental state: confusion, irrational behaviour, aggression without cause, loss of coordination, or loss of consciousness.",
+            "The most common mistake is waiting to see how symptoms develop before acting. The safe approach is to treat any person who shows confusion or altered behaviour in a hot environment as a heat stroke case until proven otherwise. The cost of treating heat exhaustion as aggressively as heat stroke is low. The cost of treating heat stroke as heat exhaustion can be permanent organ damage or death."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Heat exhaustion versus heat stroke",
+            "head": ["Feature", "Heat exhaustion", "Heat stroke"],
+            "rows": [
+              ["Core temperature", "Elevated but usually below 40 C", "Above 40 degrees Celsius"],
+              ["Mental state", "Normal, person is alert", "Confused, irrational or unconscious"],
+              ["Skin", "Pale, wet, sweating", "May be dry and hot or wet"],
+              ["Severity", "Serious, needs intervention", "Life-threatening emergency"],
+              ["First action", "Rest, cool, rehydrate", "Emergency services and immediate cooling"]
+            ]
+          }
+        },
+        {
+          "h2": "Who is most at risk?",
+          "paras": [
+            "A 2022 review published in BMJ Medicine identified the main risk factors for exertional heat stroke. Outdoor workers in extreme heat are at the top, particularly in construction, agriculture and sanitation roles in the Gulf states where ambient temperatures regularly exceed 45 degrees Celsius and high humidity reduces the body's ability to cool itself through sweating. Athletes and pilgrims undertaking intense physical activity in heat also face high risk.",
+            "Older adults are more vulnerable because their ability to detect rising body temperature and produce adequate sweat diminishes with age. Children under four years lose water at a higher rate relative to their body size and do not reliably complain about heat before it becomes dangerous. People taking certain medications, including diuretics, anticholinergic drugs and some blood pressure medicines, lose the physiological capacity to adapt to heat.",
+            "Diabetes, heart disease, severe obesity and alcohol use all increase risk independently. Someone who has recently moved from a cooler climate to a hot one and has not had time to acclimatise is significantly more vulnerable than someone whose body has adjusted gradually. Acclimatisation takes 10 to 14 days and produces genuine physiological changes that reduce heat strain: increased plasma volume, earlier onset of sweating and more efficient distribution of blood to the skin.",
+            "One of the most underappreciated risk situations in the region is being left in or near a parked car. Vehicle interiors reach lethal temperatures within ten to fifteen minutes on a sunny day even when the outside temperature seems moderate, and children who cannot exit themselves are particularly at risk. This scenario is entirely preventable with awareness."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "warn",
+            "title": "Groups at highest risk",
+            "items": [
+              "Construction, agriculture and outdoor sanitation workers in summer.",
+              "Hajj and Umrah pilgrims, especially in July and August.",
+              "Adults over 65 and children under 4 years old.",
+              "People taking diuretics, blood pressure medicines or psychiatric drugs.",
+              "Anyone who has recently arrived in a hot climate and has not yet acclimatised."
+            ]
+          }
+        },
+        {
+          "h2": "How do you recognise heat stroke?",
+          "paras": [
+            "The central sign that distinguishes heat stroke from lesser heat illness is a change in mental state. The person may appear confused, speak incoherently, show uncharacteristic aggression, lose balance when walking or become unresponsive. These mental signs are the most important warning flag and should trigger an emergency call immediately.",
+            "A very high core body temperature, usually above 40 degrees Celsius, is necessary for the diagnosis. But in a field setting, do not delay treatment while searching for a thermometer. If a person is confused in a hot environment after prolonged exertion or sun exposure, treat it as heat stroke.",
+            "Other accompanying signs include cessation of sweating or profuse sweating, flushed and hot skin, nausea and vomiting, a rapid and weak pulse, and in severe cases seizures. Do not wait for all of these to be present. Begin cooling and call emergency services at the same time."
+          ]
+        },
+        {
+          "h2": "First aid: how to cool someone rapidly",
+          "paras": [
+            "The most important intervention in heat stroke is rapid cooling. The research is clear that every minute of delay in cooling increases organ damage. A 2017 review in Current Sports Medicine Reports confirmed that immersion in cold water is the fastest and most effective method of lowering core body temperature in heat stroke.",
+            "In practical settings, do not wait for an ambulance to start cooling. Move the person immediately to shade or an air-conditioned space. Remove excess clothing. Apply ice packs or cold wet cloths to the neck, armpits and groin, because large blood vessels run close to the skin surface at these points and cooling them lowers core temperature quickly.",
+            "If the person is fully conscious and able to swallow safely, give cold water or a rehydration drink. Do not give fluids to someone who is confused or whose consciousness is impaired, as there is a risk of inhaling the fluid into the lungs. In either case, emergency services are not optional: they need to come."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "First aid for heat stroke",
+            "items": [
+              "Call emergency services immediately, or have someone else call while you start cooling.",
+              "Move the person to shade or an air-conditioned space without delay.",
+              "Remove outer and excess clothing gently.",
+              "Apply ice or cold wet cloths to the neck, armpits and groin.",
+              "If fully conscious and able to swallow, give cold water in small amounts.",
+              "Do not leave the person alone. Monitor their breathing until help arrives."
+            ]
+          }
+        },
+        {
+          "h2": "Prevention: protecting yourself in extreme heat",
+          "paras": [
+            "Prevention is far less costly than treatment. On extremely hot days, schedule any physical activity in the cooler hours, which are generally before 10 in the morning or after 4 in the afternoon. In Gulf states where peak temperatures exceed 45 degrees Celsius, even these windows can be dangerous for intensive outdoor work, particularly when high humidity prevents sweat from evaporating and cooling the body.",
+            "Regular hydration before thirst appears is essential. Thirst is a late signal that means the body has already started to dehydrate. Monitor your urine colour as a simple guide: pale and straw-coloured means good hydration, dark yellow or amber means you need more fluid. In extreme heat the body needs substantially more water than in temperate conditions.",
+            "Wear light-coloured, loose-fitting clothing made of breathable fabric that allows air movement across the skin. A broad-brimmed hat reduces direct sun load on the head, which matters because the head has a high density of blood vessels close to the surface.",
+            "If you work outdoors, taking rest breaks in the shade or a cool space every hour is not optional comfort, it is a physiological necessity. Gulf states have introduced formal midday break regulations for outdoor workers during summer months because the science supports this firmly. If your workplace does not enforce these breaks, that is a safety issue worth raising.",
+            "Acclimatisation matters more than many people realise. If you are moving from a cooler country or returning after a period away, plan for 10 to 14 days of gradually increasing exposure before working full hours in peak heat."
+          ]
+        },
+        {
+          "h2": "Protecting children and older adults",
+          "paras": [
+            "Young children do not reliably complain about heat before it becomes dangerous, and their small bodies lose water at a relatively higher rate than larger ones. Never leave a child in a closed car, even for a few minutes. Car interiors reach lethal temperatures within ten to fifteen minutes on a sunny day, even when the outside temperature seems manageable.",
+            "Older adults face a double problem. Their bodies are slower to detect rising heat and slower to produce adequate sweat in response. Many also take medications that affect heat regulation, including diuretics, cardiac drugs and psychiatric medications. Check in on elderly relatives and neighbours during peak heat periods, particularly those who live alone.",
+            "On days of extreme heat, help older relatives identify an air-conditioned place they can go to if their home is not cooled, such as a community centre, mosque or health clinic. A short visit or phone call can genuinely save a life."
+          ]
+        },
+        {
+          "h2": "What happens in hospital after heat stroke?",
+          "paras": [
+            "In hospital, doctors continue and accelerate the cooling using cold intravenous fluids, cooling blankets and in severe cases full ice bath immersion. A review by Dr Al Mahri and Bouchama, leading researchers in heat stroke, documented that prompt and effective cooling is associated with a clear reduction in deaths and long-term complications. The target is to reduce core temperature to below 39 degrees Celsius within 30 minutes of reaching the emergency department.",
+            "The organs most vulnerable to heat-related damage are the kidneys, liver, brain and heart muscle. Extreme heat damages proteins inside cells directly, and the resulting tissue injury triggers a systemic inflammatory response. Blood thickens with severe dehydration, raising the risk of clotting in blood vessels. Blood and urine tests monitor these organs continuously throughout treatment, and abnormal results may require specific interventions beyond cooling.",
+            "The majority of patients who reach hospital early and receive prompt cooling recover without permanent damage. But delay in cooling can leave lasting harm in the kidneys or liver or affect neurological function. This is the fundamental reason that first aid cooling begins at the scene and not in the waiting room.",
+            "After discharge, the body remains more sensitive to heat for weeks. Monitoring kidney function with a blood test in the weeks following a significant heat stroke episode is appropriate, and any return to outdoor work in heat should be gradual."
+          ]
+        },
+        {
+          "h2": "When to call emergency services without delay",
+          "paras": [
+            "Any person who has crossed from heat exhaustion into heat stroke needs emergency services and cannot be managed safely at home. The defining signs are confusion, failure to respond logically, or loss of consciousness. These are a genuine medical emergency and there is no reason to hesitate about calling. The cost of calling unnecessarily is minimal. The cost of not calling when needed can be a life.",
+            "Even someone who appears to recover from heat exhaustion should be watched for several hours, because symptoms can deteriorate suddenly. If the person improves clearly within 30 minutes of rest, cooling and hydration but then confusion or rising temperature returns, that is a signal for emergency services regardless of how well they seemed initially.",
+            "A person who has had heat stroke before is more vulnerable to future episodes and should be more careful during subsequent hot seasons. This means a proactive prevention plan each summer, earlier recognition of warning signs and a lower threshold for stopping activity and seeking shade or cooling."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "Call emergency services immediately if",
+            "items": [
+              "The person is confused, speaking incoherently or not responding normally.",
+              "Loss of consciousness, even briefly.",
+              "Body temperature above 40 degrees Celsius.",
+              "A seizure: involuntary shaking or convulsions.",
+              "Sweating has stopped and skin is hot and red in extreme heat."
+            ]
+          }
+        }
+      ],
+      "tie": "Use Sihtak to log any heat-related symptoms you or a family member experience during summer months. If symptoms recur on hot days, a record of when and under what conditions they happen helps your doctor identify whether there is an underlying vulnerability that needs attention.",
+      "faqs": [
+        {
+          "q": "What is the key difference between heat exhaustion and heat stroke?",
+          "a": "The decisive difference is mental state. In heat exhaustion the person is tired and may feel sick but their thinking is clear. In heat stroke they become confused, irrational or unconscious. Heat stroke is a medical emergency requiring an ambulance. Heat exhaustion needs rest, cooling and fluids but can usually be managed without hospital care if the person responds quickly."
+        },
+        {
+          "q": "Can heat stroke happen in the shade?",
+          "a": "Yes. The extreme ambient temperature itself is enough to cause heat stroke without direct sun exposure. Workers in hot enclosed environments such as commercial kitchens, boiler rooms or indoor construction sites face the same risk as those working in direct sunlight."
+        },
+        {
+          "q": "How much water should I drink in extreme heat?",
+          "a": "In temperatures above 40 degrees Celsius with physical activity, the body may need more than a litre of water per hour. However, drinking very large amounts of plain water without any salt replacement can also cause problems. Water with a small amount of added salt or an oral rehydration solution is better for prolonged exposure than plain water alone."
+        },
+        {
+          "q": "Is cooling with cold water safe for someone with heat stroke?",
+          "a": "Yes and it is recommended. Earlier concerns that cold water would cause blood vessel spasm have been refuted by current research. Immersion in cold water or applying ice to the neck, armpits and groin is the most effective available cooling method before hospital treatment begins."
+        },
+        {
+          "q": "Does coffee or tea increase the risk in heat?",
+          "a": "Moderate amounts of coffee and tea do not cause meaningful dehydration. Very large amounts have a mild diuretic effect. In extreme heat, water is the safest drink for hydration. Avoid alcohol during hot weather as it impairs the body's ability to regulate temperature."
+        },
+        {
+          "q": "How long does recovery from heat stroke take?",
+          "a": "Recovery varies with severity. Mild heat exhaustion may resolve in a few hours with rest and fluids. Full heat stroke often requires hospital observation for a day or more. Returning to outdoor work or exertion in the heat before full recovery significantly increases the risk of a second episode."
+        },
+        {
+          "q": "Can someone who has had heat stroke before do outdoor work again?",
+          "a": "Yes, but with extra caution. A history of heat stroke is a risk factor for future episodes. Gradual acclimatisation, strict hydration, shorter work periods in peak heat and early recognition of warning signs all help reduce this recurrence risk."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,336 @@
+{
+  "slug": "counterfeit-medicines-arab",
+  "category": "medicines",
+  "chip_ar": "الأدوية",
+  "chip_en": "Medicines",
+  "date_iso": "2026-07-22",
+  "sources": [
+    {
+      "label": "Falah MM, Daar E, Zahra D et al: Prevalence, experience and awareness of substandard and falsified medicines among the public and healthcare professionals in Jordan, BMJ global health, 2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40412817/"
+    },
+    {
+      "label": "Gnegel G, Hofele-Abah C, Neci R et al: Surveillance for substandard and falsified medicines by local faith-based organizations in 13 low- and middle-income countries using the GPHF Minilab, Scientific reports, 2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35908047/"
+    },
+    {
+      "label": "Wilbur K: Pharmacovigilance in the Middle East: a survey of 13 arabic-speaking countries, Drug safety, 2013",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23315293/"
+    },
+    {
+      "label": "Khan MH, Akazawa M, Dararath E et al: Perceptions and practices of pharmaceutical wholesalers surrounding counterfeit medicines in a developing country: a baseline survey, BMC health services research, 2011",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22074046/"
+    },
+    {
+      "label": "Hauk C, Hagen N, Heide L et al: Identification of Substandard and Falsified Medicines: Influence of Different Tolerance Limits and Use of Authenticity Inquiries, The American journal of tropical medicine and hygiene, 2021",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33788775/"
+    },
+    {
+      "label": "World Health Organization: Substandard and falsified medical products. WHO Fact Sheet, 2023",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/substandard-and-falsified-medical-products"
+    }
+  ],
+  "content": {
+    "ar": {
+      "title": "الأدوية المغشوشة في الدول العربية: كيف تكشفها",
+      "desc": "كيف تتعرف على الأدوية المزيفة أو الرديئة قبل أن تضر بك؟ دليل عملي يشمل فحص العبوة وعلامات التحذير وكيفية الإبلاغ في المنطقة العربية.",
+      "keywords": "أدوية مغشوشة, أدوية مزيفة, أدوية رديئة الجودة, التحقق من الدواء, صيدلية موثوقة, WHO أدوية, الإبلاغ عن دواء مزيف, سلامة الدواء",
+      "h1": "الأدوية المغشوشة في العالم العربي: كيف تكشف المزيف وتحمي نفسك",
+      "takeaways": [
+        "الأدوية الرديئة والمزيفة مشكلة حقيقية في المنطقة العربية، وتتصاعد في مناطق ضعف سلاسل التوريد والصراعات.",
+        "الدواء المغشوش قد يحتوي على جرعة أقل مما هو مكتوب، أو على مواد لا صلة لها بالعلاج، أو على ملوثات ضارة.",
+        "شراء الدواء من صيدلية مرخصة موثوقة هو أهم خطوة وقائية يمكنك اتخاذها.",
+        "فحص العبوة والنشرة الداخلية والرقم التسلسلي وتاريخ الصلاحية يساعدك في اكتشاف كثير من المنتجات المشبوهة.",
+        "الإنترنت مصدر خطير جدا للشراء: كثير من الأدوية المباعة عبر الإنترنت في منطقتنا مزيفة أو غير مسجلة."
+      ],
+      "sections": [
+        {
+          "h2": "ما هي الأدوية الرديئة والمزيفة، وما الفرق بينهما؟",
+          "paras": [
+            "منظمة الصحة العالمية تميز بين نوعين من المنتجات الطبية الإشكالية: الأدوية دون المستوى (Substandard)، وهي منتجات يصنعها مرخصون لكنها تفشل في الوفاء بمعايير الجودة، مثل حبة مضاد حيوي تحتوي على 60 بالمئة فقط من المادة الفعالة المُعلنة. والأدوية المزيفة أو المزورة (Falsified)، وهي منتجات تُقدَّم على أنها دواء معروف لكنها مُصنَّعة من أطراف غير مرخصة بقصد التضليل.",
+            "كلا النوعين خطير، لكن لأسباب مختلفة. الدواء دون المستوى قد يُخفق في علاج المرض لأن تركيزه الفعال منخفض، وهو ما يشجع في بعض الأحيان على ظهور مقاومة للمضادات الحيوية. أما الدواء المزيف فقد يحتوي على مواد لا صلة لها بالعلاج، أو على ملوثات كيميائية أو ميكروبية ضارة.",
+            "دراسة نشرتها مجلة BMJ Global Health عام 2025 وشملت مرضى ومختصين صحيين في الأردن وجدت أن نسبة معقولة من المشاركين أفادوا بتجربة شخصية مع دواء يشتبه في عدم أصالته، مما يدل على أن هذه المشكلة ليست نظرية بل تمس الناس يوميا في دول مجاورة لنا.",
+            "في مناطق الصراع وضعف الرقابة مثل أجزاء من سوريا واليمن وليبيا، تتصاعد المشكلة بشكل حاد لأن سلاسل التوريد الرسمية تنهار ويدخل السوق موردون غير نظاميين."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "الفرق بين الأدوية الرديئة والمزيفة",
+            "head": ["النوع", "التعريف", "الخطر الرئيسي"],
+            "rows": [
+              ["دون المستوى (Substandard)", "مصنوعة من شركة مرخصة لكن تفشل في معايير الجودة", "جرعة منخفضة، فشل العلاج، مقاومة للمضادات الحيوية"],
+              ["مزيفة (Falsified)", "تُقدَّم على أنها دواء معروف لكن مصنوعة بقصد التضليل", "مواد غريبة أو ملوثات قد تسبب ضررا مباشرا"],
+              ["غير مسجلة (Unregistered)", "لم تخضع لمراجعة تنظيمية في البلد", "لا ضمان لسلامتها أو فعاليتها"]
+            ]
+          }
+        },
+        {
+          "h2": "لماذا المنطقة العربية أكثر عرضة لهذه المشكلة؟",
+          "paras": [
+            "دراسة نشرتها مجلة Drug Safety عام 2013 ومسحت واقع مراقبة الأدوية في 13 دولة عربية وجدت قصورا واضحا في أنظمة الإبلاغ ورصد الأدوية في غالبيتها، مما يعني أن كثيرا من الأدوية الرديئة لا يُكتشف أمرها ولا يُبلَّغ عنها. الفراغ الرقابي هو البيئة المثلى لتكاثر المنتجات الرديئة.",
+            "عوامل تزيد الخطر في منطقتنا: ضعف قدرات هيئات ضبط الجودة الدوائية في بعض الدول، ووجود حدود مفتوحة أو غير مراقبة تسهل دخول البضائع المهرَّبة، وارتفاع أسعار الأدوية الأصلية مما يدفع شريحة من الناس إلى البحث عن بدائل أرخص من مصادر مشبوهة.",
+            "كذلك تلعب الصيدليات غير الرسمية التي تبيع الأدوية دون وصفة طبية دورا في تسهيل وصول الأدوية المجهولة المصدر إلى المستهلك. عند شراء دواء بدون وصفة من مكان غير مرخص، لا توجد أي ضمانة على أصالة المنتج.",
+            "تجدر الإشارة إلى أن مشكلة الأدوية الرديئة ليست حكرا على الدول الأفقر. دول ذات منظومات صحية أفضل في المنطقة العربية تواجه التحدي أيضا، إذ تدخل المنتجات عبر منافذ إلكترونية وغير رسمية تتجاوز الرقابة الرسمية. الوعي الشخصي بعلامات التحذير يظل درعا أساسيا للمستهلك في كل الأحوال."
+          ]
+        },
+        {
+          "h2": "كيف تفحص عبوة الدواء قبل الاستخدام؟",
+          "paras": [
+            "الفحص الدقيق للعبوة لا يضمن اكتشاف كل دواء مزيف، لكنه يساعد كثيرا في اكتشاف المنتجات الأكثر إهمالا في التزوير. ابدأ بالنظر في طباعة العبوة: هل هي واضحة وحادة المعالم؟ الأدوية الأصلية تطبع بجودة عالية لا تحتوي على أخطاء إملائية أو ألوانا باهتة أو خطوطا ضبابية.",
+            "تحقق من تاريخ الصلاحية وتاريخ التصنيع: هل هما مطبوعان بشكل واضح وغير قابل للمحو بسهولة؟ وهل هما متسقان مع بعضهما؟ دواء صلاحيته 5 سنوات ولكن تاريخ تصنيعه وصلاحيته بعيدان بمسافة غير منطقية قد يكون علامة تحذير. انتبه أيضا إلى الرقم التسلسلي للدُّفعة (Batch number): يجب أن يظهر على العبوة الخارجية والداخلية.",
+            "الحبوب والكبسولات نفسها: هل تبدو متجانسة في الحجم واللون والشكل؟ هل بعضها مكسور أو متفاوت في الحجم؟ الدواء الأصلي يُنتج بضوابط صارمة جدا تجعل كل وحدة متطابقة تقريبا مع الأخرى. رائحة غريبة أو طعم مختلف عن المعتاد لدواء تأخذه منذ فترة هو مؤشر يستدعي التوقف والسؤال.",
+            "دراسة نشرتها مجلة American Journal of Tropical Medicine and Hygiene عام 2021 اختبرت طرقا ميدانية لتمييز الأدوية الرديئة والمزيفة ووجدت أن الفحص البصري المنهجي للعبوة يرصد كثيرا من الحالات التي تستدعي تحليلا مختبريا إضافيا. ما تفعله بعيونك المجردة قد يكون خط الدفاع الأول الأكثر قيمة."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "فحص الدواء قبل الاستخدام: خطوات عملية",
+            "items": [
+              "افحص طباعة العبوة: يجب أن تكون واضحة وخالية من الأخطاء الإملائية",
+              "تحقق من تاريخ الصلاحية: يجب أن يكون مطبوعا وليس مختوما يدويا",
+              "تأكد من وجود الرقم التسلسلي (Batch number) على العبوة والعلبة الداخلية",
+              "انظر إلى الحبوب أو الكبسولات: يجب أن تكون متجانسة تماما في الحجم واللون",
+              "اقرأ النشرة الداخلية: يجب أن تكون بلغة مفهومة ومعلومات كاملة",
+              "اسأل نفسك: هل السعر أرخص بكثير مما هو معتاد؟"
+            ]
+          }
+        },
+        {
+          "h2": "قنوات الشراء الآمنة والخطرة",
+          "paras": [
+            "الصيدلية المرخصة والمسجلة هي المكان الأكثر أمانا لشراء دوائك. الصيدلية المرخصة تستورد من موردين معتمدين، وتخضع لتفتيش دوري من هيئات الرقابة الصحية، وتحتفظ بسجلات مصادر البضاعة. رغم أن هذا لا يلغي خطر الدواء الرديء كليا في كل منطقة، إلا أنه يقلله بشكل كبير.",
+            "الأسواق الشعبية وبائعو الجملة غير الرسميين والمتاجر غير المتخصصة لا تخضع لهذه الرقابة. شراء الدواء من محل بقالة أو عبر وسيط غير رسمي يزيد خطر الحصول على منتج مجهول المصدر.",
+            "الشراء عبر الإنترنت هو القناة الأعلى خطرا بفارق كبير. مراجعة منشورة في مجلة Scientific Reports عام 2022 وشملت مسحا لجودة الأدوية في 13 دولة منخفضة ومتوسطة الدخل وجدت أن نسبة كبيرة من المنتجات المشتراة من مصادر غير رسمية كانت رديئة أو مزيفة. الإعلانات على وسائل التواصل الاجتماعي والروابط غير المعروفة لبيع أدوية تخسيس أو أدوية لتعزيز الأداء أو مكملات صحية هي مصادر خطر عالٍ.",
+            "من أسهل الطرق للتحقق من صيدلية إلكترونية هو البحث عن ترخيصها على موقع هيئة الغذاء والدواء في بلدك. في المملكة العربية السعودية مثلا تنشر هيئة SFDA قوائم الصيدليات الإلكترونية المرخصة. الصيدلية التي لا يمكنك التحقق من ترخيصها خلال دقيقتين لا يستحق الأمر المخاطرة بصحتك من أجل توفير بضعة دراهم أو جنيهات."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "توقف وتحقق إذا لاحظت",
+            "items": [
+              "سعر أرخص بكثير من المعتاد دون تفسير منطقي",
+              "الدواء يباع بدون علبة أصلية أو نشرة داخلية",
+              "الشراء عبر إعلان على وسائل التواصل أو متجر إنترنت مجهول",
+              "اختلاف في شكل الحبوب أو لونها عن نفس الدواء الذي اعتدت عليه",
+              "العبوة تبدو مفتوحة أو أعيد تغليفها",
+              "لا يوجد رقم تسجيل دواء في الدولة على العبوة"
+            ]
+          }
+        },
+        {
+          "h2": "الأدوية الأكثر عرضة للتزوير في منطقتنا",
+          "paras": [
+            "ليست كل الأدوية تستهدفها عمليات التزوير بالتساوي. الأكثر استهدافا هي الأدوية ذات الطلب الواسع والسعر المرتفع. في المنطقة العربية، تتصدر القائمة: مضادات الملاريا وأدوية السل في المناطق الموبوءة، والمضادات الحيوية الأكثر استهلاكا، وأدوية ضغط الدم والقلب، وأدوية تنظيم الغدة الدرقية، وأدوية الضعف الجنسي.",
+            "أدوية إنقاص الوزن والمكملات العشبية وأدوية تنشيط الجهاز المناعي التي تُباع كثيرا خارج إطار الرقابة الصيدلانية تمثل فئة أخرى ذات خطر عالٍ. كثير منها لم يُثبَت أصلا فعاليته في التجارب السريرية، وبعضها يُسوَّق بادعاءات طبية لا أساس لها.",
+            "الأدوية البيولوجية كالأنسولين وأدوية الروماتيزم وعلاجات الأمراض المزمنة المكلفة تزداد استهدافا مع ارتفاع أسعارها. المريض الذي يبحث عن بديل أرخص لدواء مكلف هو الأكثر عرضة للوقوع في هذا الفخ.",
+            "نقطة مهمة للمرضى الذين يسافرون: شراء أدوية من دول أخرى لم تخضع لنفس الرقابة التنظيمية في بلدك ينطوي على مخاطر إضافية. الدواء المرخص في سوريا أو لبنان قد لا يكون مسجلا في الأردن بنفس الشروط، والعكس صحيح. أخبر طبيبك دائما بكل الأدوية والمكملات التي تتناولها بغض النظر عن مصدرها."
+          ]
+        },
+        {
+          "h2": "ماذا تفعل إذا اشتبهت في دواء؟",
+          "paras": [
+            "أول خطوة: لا تستخدم الدواء إذا كنت تشك فيه. خطر الدواء المزيف أكبر من خطر التأخر في العلاج بضعة أيام في معظم الحالات. احتفظ بالعبوة ولا ترمها، لأنها دليل مهم عند الإبلاغ.",
+            "تحدث مع صيدلانيك أو طبيبك مباشرة وأخبرهم بما لاحظته. هم قادرون على مساعدتك في تقييم المنتج والحصول على بديل موثوق. في بعض الدول العربية توجد أرقام خطوط ساخنة تابعة لوزارة الصحة لتلقي البلاغات عن الأدوية المشبوهة، وهذه البلاغات مهمة لأنها تساعد السلطات في رصد الأنماط واتخاذ الإجراءات.",
+            "منظمة الصحة العالمية لديها نظام إبلاغ عالمي للأدوية الرديئة والمزيفة يسمى RAS-SF، وتستقبل البلاغات الواردة عبر مكاتبها الإقليمية. إبلاغك ليس مجرد حماية لك، بل مساهمة في حماية مجتمعك.",
+            "أحيانا تكون الأعراض الجانبية غير المعتادة هي أول ما ينبه المريض. إذا تناولت دواء اعتدت عليه وظهرت لديك أعراض جانبية جديدة لم تكن تعانيها سابقا، أو إذا وجدت أن الدواء أصبح أقل فعالية من المعتاد في السيطرة على أعراضك، فهذا مؤشر يستحق أن تذكره لطبيبك بالتفصيل ليقيّم ما إذا كانت جودة الدواء جزءا من الصورة."
+          ]
+        },
+        {
+          "h2": "الأدوية عبر الإنترنت: خطر بالغ يستحق مقالا وحده",
+          "paras": [
+            "الصيدليات الإلكترونية انتشرت كثيرا في السنوات الأخيرة في المنطقة العربية، وبعضها مرخص وموثوق لكن كثيرا منها يعمل خارج أي إطار قانوني. الإعلان عن دواء على منصة تواصل اجتماعي بسعر مغرٍ لا يعني أبدا أنه حقيقي أو آمن.",
+            "مراجعة نشرتها مجلة BMC Health Services Research عام 2011 وتناولت ممارسات موردي الأدوية بالجملة في دول نامية وجدت أن الوعي بمخاطر الأدوية المزيفة كان متدنيا حتى بين المختصين في سلسلة التوريد، مما يعني أن المستهلك العادي أمام خطر أكبر بكثير.",
+            "القاعدة العملية: إذا لم تكن متأكدا أن الصيدلية الإلكترونية مرخصة من الجهة الصحية في بلدك، لا تشترِ منها. الدواء الذي لا تعرف مصدره يمكن أن يضرك أكثر مما ينفعك. أما للمواد المتاحة دون وصفة كالمكملات الغذائية وأدوية البرد والمسكنات، فاقتنِ فقط من الصيدليات المعروفة."
+          ]
+        },
+        {
+          "h2": "كيف تختار صيدلية موثوقة؟",
+          "paras": [
+            "الصيدلية الموثوقة لها صيدلاني مؤهل حاضر يمكنك سؤاله، وتُظهر ترخيصها بشكل واضح، وتبيع أدوية في عبوات أصلية مغلقة، ولا تتردد في إعطائك الوصفة الطبية وإعادتها إليك. إذا طُلب منك شراء دواء مقسّم أو بدون علبة في الصيدلية، هذا مؤشر سلبي.",
+            "بناء علاقة مع صيدلاني تعرفه وتثق به مفيد على المدى البعيد. الصيدلاني المعروف يعرف تاريخك الدوائي، ويمكنه تنبيهك إذا بدا دواء ما مختلفا عن الدُّفعات السابقة. هذه النوع من المتابعة المستمرة تحمي من أخطاء كثيرة.",
+            "إذا انتقلت إلى منطقة جديدة أو بلد جديد، خصص وقتا للتعرف على الصيدليات المرخصة في محيطك قبل أن تحتاج إليها في حالة طوارئ. الاستعداد المسبق أسهل بكثير من البحث تحت ضغط الحاجة.",
+            "ملاحظة لمن يعيشون في مناطق الأزمات: إذا كنت في منطقة انهارت فيها سلاسل التوريد الرسمية، تواصل مع المنظمات الصحية الدولية العاملة هناك مثل منظمة الصحة العالمية أو أطباء بلا حدود للحصول على توجيه حول مصادر الأدوية الموثوقة. هذه المنظمات تشغّل مستودعات موثوقة وتستطيع الإرشاد إليها."
+          ]
+        }
+      ],
+      "tie": "مع تطبيق صحتك يمكنك تسجيل أسماء أدويتك وصيدلياتك المعتمدة في مكان واحد سهل الوصول، مما يساعدك على الشراء من مصادر موثوقة دائما وتجنب قرارات الشراء العشوائية في اللحظات العاجلة. يبقى التطبيق أداة تنظيمية مساعدة، وليس بديلا عن الصيدلاني والطبيب في تقييم أي منتج طبي.",
+      "faqs": [
+        {
+          "q": "كيف أعرف إذا كان الدواء الذي اشتريته مزيفا؟",
+          "a": "لا توجد طريقة مضمونة 100 بالمئة للتمييز بالعين المجردة، لكن العلامات التحذيرية تشمل: طباعة العبوة الرديئة، أخطاء إملائية، تفاوت في شكل الحبوب أو لونها، سعر أرخص بكثير من المعتاد، أو شعور بعدم الفعالية المعتادة. إذا اشتبهت، لا تكملوا الاستخدام وتحدث مع صيدلانيك."
+        },
+        {
+          "q": "هل الأدوية الجنيسة (Generic) أكثر عرضة للتزوير من الأصلية؟",
+          "a": "ليس بالضرورة. التزوير يطال الأدوية الأصلية والجنيسة على حد سواء. الدواء الجنيسي (Generic) المُنتج من شركة مرخصة وخاضع لمعايير الجودة آمن ومعادل علاجيا للأصلي. الفيصل هو الشركة المُنتجة والصيدلية التي تشتري منها، وليس كونه أصليا أو جنيسيا."
+        },
+        {
+          "q": "هل الأدوية المستوردة بالتهريب دائما مزيفة؟",
+          "a": "ليست دائما مزيفة، لكنها مجهولة المصدر ومجهولة التخزين ومجهولة سلسلة النقل. دواء أصلي تعرض لحرارة شديدة أثناء التهريب أو حُفظ في مستودع غير مناسب قد يكون تالفا وغير فعال، حتى لو بدا في مظهره سليما. المخاطرة غير محسوبة."
+        },
+        {
+          "q": "هل المكملات الغذائية العشبية آمنة لأنها طبيعية؟",
+          "a": "لا يكفي كون المنتج طبيعيا ضمانا لسلامته. كثير من المكملات المباعة في المنطقة لم تخضع لتجارب سريرية، وبعضها يحتوي على مواد غير مُعلنة مثل أدوية مضافة أو ملوثات. اشترِ المكملات فقط من صيدليات مرخصة وتحدث مع طبيبك إذا كنت تأخذها مع أدوية أخرى."
+        },
+        {
+          "q": "كيف أُبلِّغ عن دواء مشبوه في بلدي؟",
+          "a": "تواصل مع وزارة الصحة في بلدك مباشرة أو عبر خط الشكاوى الدوائية إن وجد. في الأردن مثلا تتولى هيئة الغذاء والدواء (JFDA) هذه البلاغات. في مصر مسؤوليتها للهيئة المصرية للدواء. احتفظ بالعبوة ورقم الدفعة وتفاصيل الشراء وكلها أدلة مهمة."
+        },
+        {
+          "q": "هل الشراء عبر تطبيقات توصيل الصيدليات آمن؟",
+          "a": "يعتمد الأمر على ما إذا كانت الصيدلية الشريكة مرخصة ومعروفة. تطبيقات التوصيل التي تعمل مع صيدليات مرخصة محددة وتبيع أدوية في عبواتها الأصلية عموما آمنة. لكن تطبيقات أو مواقع تبيع أدوية بأسعار مبهمة دون تحديد الصيدلية الشريكة تستوجب الحذر الشديد."
+        },
+        {
+          "q": "هل يمكنني التحقق من تسجيل الدواء قبل شرائه؟",
+          "a": "في بعض الدول العربية نعم، عبر مواقع الهيئات الدوائية الوطنية. في الأردن يمكن البحث في قاعدة بيانات JFDA، وفي السعودية عبر موقع الهيئة السعودية للغذاء والدواء (SFDA). في الدول ذات الأنظمة الأضعف، هذه القاعدة غير دائما محدثة، لكن التحقق يبقى خطوة مفيدة."
+        }
+      ]
+    },
+    "en": {
+      "title": "Counterfeit and Substandard Medicines: How to Spot Them",
+      "desc": "How to identify fake or poor-quality medicines before they harm you, with practical packaging checks, safe buying rules and how to report a suspect product in the Arab world.",
+      "keywords": "counterfeit medicines, substandard medicines, fake drugs, medicine packaging check, safe pharmacy, WHO medicines, falsified medicines Middle East, reporting fake drugs",
+      "h1": "Counterfeit and Substandard Medicines in the Arab World: What to Check and How to Stay Safe",
+      "takeaways": [
+        "Substandard and falsified medicines are a real and documented problem across the Arab world, and worsen wherever supply chains have broken down.",
+        "A counterfeit medicine may contain too little active ingredient, the wrong ingredient, or a harmful contaminant.",
+        "Buying from a licensed, named pharmacy is the single most effective protective step you can take.",
+        "Checking packaging, batch numbers, expiry dates and the appearance of the tablets or capsules catches many suspect products.",
+        "Online and informal-market purchases carry the highest risk, particularly for weight-loss products, supplements, and high-cost medicines."
+      ],
+      "sections": [
+        {
+          "h2": "What are substandard and falsified medicines, and why do they differ?",
+          "paras": [
+            "The World Health Organization draws a clear line between two types of problem medical product. Substandard medicines are manufactured by a licensed producer but fail to meet the quality specifications they are supposed to meet, for example an antibiotic tablet that contains only 60 percent of the stated active ingredient. Falsified medicines are presented as a known product but are manufactured by an unlicensed party with deliberate intent to deceive.",
+            "Both types are dangerous, but for different reasons. A substandard medicine may fail to treat the infection or condition because its effective dose is too low, which in the case of antibiotics can actively promote antimicrobial resistance, a serious regional and global problem. A falsified medicine may contain entirely unrelated substances, chemical contaminants, or biological material that causes direct harm.",
+            "A 2025 study in BMJ Global Health covering patients and health professionals in Jordan found that a meaningful proportion of respondents reported personal experience with a medicine they suspected was not authentic. The study confirms that this is not a theoretical concern but one that affects real people in countries close to us.",
+            "In areas affected by conflict or where formal regulatory systems have weakened, such as parts of Syria, Yemen and Libya, the risk increases sharply as normal supply chains collapse and informal suppliers fill the gap. But it is worth noting that online channels and informal social-media sales mean that even countries with stronger regulatory systems face exposure to poor-quality products from outside their borders. Personal vigilance matters regardless of where you live."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "The difference between substandard and falsified medicines",
+            "head": ["Type", "Definition", "Main risk"],
+            "rows": [
+              ["Substandard", "Made by a licensed manufacturer but fails quality standards", "Low dose, treatment failure, antibiotic resistance"],
+              ["Falsified", "Presented as a known medicine but made to deceive", "Wrong or harmful ingredients"],
+              ["Unregistered", "Has not passed regulatory review in the country", "No guarantee of safety or effectiveness"]
+            ]
+          }
+        },
+        {
+          "h2": "Why is the Arab region more exposed to this problem?",
+          "paras": [
+            "A 2013 survey of pharmacovigilance systems across 13 Arabic-speaking countries published in Drug Safety found significant gaps in adverse event reporting and medicine surveillance in most of them. These gaps mean that many substandard products are never discovered or reported, allowing them to circulate undetected. A weak regulatory environment is the ideal setting for poor-quality products to thrive.",
+            "Several factors increase the risk in this region: limited capacity in national drug regulatory authorities in some countries, porous or poorly monitored borders that allow smuggled goods to enter, and the high cost of original branded medicines which pushes some buyers toward cheaper sources of uncertain origin.",
+            "Informal pharmacies that sell medicines without a prescription also play a role, because they often source outside the regulated supply chain. When you buy a medicine from an unlicensed seller, there is no chain of custody and no guarantee of product integrity."
+          ]
+        },
+        {
+          "h2": "How to check a medicine's packaging before you use it",
+          "paras": [
+            "Careful inspection of packaging will not catch every falsified product, but it catches many of the less sophisticated ones. Start with the print quality on the box: is it sharp, clear and free of spelling mistakes? Original medicines are printed to a high industrial standard, and fakes often have blurred fonts, off-register colours or misaligned text.",
+            "Check the expiry date and manufacturing date: are they printed clearly and in a way that cannot be easily rubbed off? Are they consistent with each other and with the expected shelf life of the product? Also check the batch number (Lot number): it should appear on both the outer box and the inner packaging, and they should match.",
+            "Look at the tablets or capsules themselves: are they uniform in size, shape and colour? Any variation within a single blister pack is unusual and worth questioning. An unfamiliar smell, or a different taste in a medicine you have taken for a long time, are also signals to stop and ask before continuing.",
+            "A 2021 study in the American Journal of Tropical Medicine and Hygiene evaluated systematic visual inspection as a field method for identifying suspect medicines and found that a structured visual check of packaging is a meaningful first filter that can flag products requiring further laboratory analysis. What you can detect with your own eyes is a genuinely useful first line of defence."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "Checking your medicine before use: practical steps",
+            "items": [
+              "Examine box printing: clear, sharp and free of spelling errors",
+              "Check expiry and manufacture dates: clearly printed, not handwritten",
+              "Verify the batch number appears on both outer box and inner packaging",
+              "Inspect tablets or capsules: uniform size, shape and colour throughout",
+              "Read the package leaflet: must be present, legible and in a language you understand",
+              "Ask yourself: is the price significantly lower than you would normally expect?"
+            ]
+          }
+        },
+        {
+          "h2": "Safe and risky ways to buy medicines",
+          "paras": [
+            "A licensed, registered pharmacy is the safest place to buy your medicines. A licensed pharmacy sources from approved distributors, is subject to periodic inspection by health authorities, and keeps records of its supply chain. While this does not eliminate all risk in every country, it reduces it dramatically.",
+            "Street markets, informal wholesalers and general convenience stores have none of this oversight. Buying medicine from a grocer or an informal trader increases the risk of receiving a product of unknown origin.",
+            "Online purchasing carries by far the highest risk. A 2022 surveillance study published in Scientific Reports covering 13 low- and middle-income countries found that a significant proportion of medicines purchased from informal non-pharmacy sources were substandard or falsified. Social media advertisements and unfamiliar websites selling weight-loss drugs, performance enhancers or health supplements represent very high-risk channels, and the WHO has flagged these categories as consistently problematic globally."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "Stop and check if you notice",
+            "items": [
+              "A price much lower than you would normally pay without explanation",
+              "Medicine sold loose, without original packaging or a leaflet",
+              "A product advertised on social media or by an unknown website",
+              "Tablets or capsules that look different from the same medicine you have used before",
+              "Packaging that appears to have been opened and resealed",
+              "No registration or licence number on the box"
+            ]
+          }
+        },
+        {
+          "h2": "Which medicines are most commonly falsified in this region?",
+          "paras": [
+            "Not all medicines are targeted equally. The most commonly falsified products are those with high demand, high price, or both. In the Arab world, the most commonly targeted categories include antimalarials and tuberculosis treatments in affected areas, widely used antibiotics, cardiovascular medicines including antihypertensives, thyroid hormone replacement, and medicines for erectile dysfunction.",
+            "Weight-loss products, herbal supplements and immune-boosting preparations sold outside formal pharmacy channels represent another high-risk category. Many of these were never tested in clinical trials, some carry unproven or outright false medical claims, and regulatory oversight of this segment is weak in many countries.",
+            "Biological medicines including insulin, rheumatology biologics and expensive treatments for chronic diseases are increasingly targeted as their prices rise. A patient searching for a cheaper alternative to a costly medicine is the profile most likely to encounter a falsified product, and the one whose health is most at risk from receiving a compromised version."
+          ]
+        },
+        {
+          "h2": "What to do if you suspect a medicine is fake",
+          "paras": [
+            "First step: do not use the medicine if you have serious doubts about it. The risk of a falsified product almost always outweighs the risk of a short delay in starting treatment. Keep the packaging intact, including all the packaging and the batch number, because this is evidence when you report.",
+            "Speak to your pharmacist or doctor directly and describe what you noticed. They are equipped to assess the product and help you obtain a verified alternative. In several Arab countries, the national food and drug authority operates a reporting hotline for suspect medicines. These reports are not just paperwork: they help authorities identify patterns and take action against suppliers.",
+            "The World Health Organization operates a global reporting system for substandard and falsified products called RAS-SF, which receives reports via its regional offices. Reporting is not only protecting yourself; it is a contribution to the safety of everyone around you who might encounter the same batch.",
+            "Unusual side effects that you have not experienced before on the same medicine, or a sense that the medicine is controlling your symptoms less well than it used to, are worth mentioning to your doctor as a possible signal of quality change. Doctors in the region are more aware of this issue than is often assumed, and naming it directly as a possibility will help your doctor investigate properly."
+          ]
+        },
+        {
+          "h2": "Buying medicines online: a risk that deserves its own heading",
+          "paras": [
+            "Online pharmacies have expanded rapidly across the Arab world in recent years, and some are licensed and reliable. However, a significant proportion operate outside any regulatory framework. An advertisement for a medicine on a social media platform at an attractive price is not any kind of guarantee that the product is genuine or safe.",
+            "A 2011 survey of pharmaceutical wholesalers in developing countries published in BMC Health Services Research found that awareness of counterfeit medicine risks was low even among supply-chain professionals, suggesting that the ordinary consumer faces a significantly higher risk than commonly understood. If even trained wholesalers could be deceived, the unaided consumer buying online is more vulnerable still.",
+            "The practical rule: if you are not certain that an online pharmacy is licensed by your country's health authority, do not buy from it. A medicine of unknown origin and unknown storage history can harm you more than it helps. For over-the-counter items such as cold remedies, supplements and painkillers, purchase only from known, named pharmacies.",
+            "A quick practical check: most national drug authorities in the Arab world publish lists of licensed online pharmacies on their websites. In Saudi Arabia, SFDA maintains a searchable register. If a site selling medicines cannot be verified against such a register in two minutes, that is reason enough not to buy from it."
+          ]
+        },
+        {
+          "h2": "How to choose a trustworthy pharmacy",
+          "paras": [
+            "A trustworthy pharmacy has a qualified pharmacist present who you can ask questions of, displays its licence visibly, sells medicines in sealed original packaging, and will hand you your prescription and return it to you rather than keeping it. If a pharmacy sells you a medicine that has been split from its original packaging, or refuses to name its supplier, these are negative signs worth taking seriously.",
+            "Building a relationship with a pharmacist you know by name is genuinely protective over the long term. A familiar pharmacist knows your medication history and can flag it if a particular batch of a medicine looks different from previous ones. That kind of ongoing familiarity catches problems that a one-off inspection of the box never could.",
+            "If you have moved to a new neighbourhood or country, take the time to identify licensed pharmacies near you before you need one urgently. Finding a good pharmacy when you are healthy and can ask careful questions is far easier than searching under the pressure of illness."
+          ]
+        }
+      ],
+      "tie": "The Sihtak app lets you keep a record of your regular medicines, their correct names and the pharmacies where you buy them, so you always have a reference to check against when a purchase looks different from what you expect. The app is an organisational tool and does not replace a pharmacist's assessment of any specific product.",
+      "faqs": [
+        {
+          "q": "How can I tell if a medicine I bought is fake?",
+          "a": "There is no foolproof method with the naked eye, but warning signs include poor print quality on the box, spelling mistakes, variation in the size or colour of tablets, a price far below what you normally pay, and a sense that the medicine is less effective than usual. If you have any concern, stop using it and speak to your pharmacist before continuing."
+        },
+        {
+          "q": "Are generic medicines more likely to be falsified than branded ones?",
+          "a": "No. Falsification targets both branded and generic medicines. A generic medicine produced by a licensed manufacturer to quality standards is safe and therapeutically equivalent to the original. The key variable is the manufacturer and the pharmacy you buy from, not whether the medicine is branded or generic."
+        },
+        {
+          "q": "Are smuggled medicines always counterfeit?",
+          "a": "Not always fake, but always unknown. A genuine medicine that travelled through an uncontrolled supply chain may have been exposed to heat, humidity or contamination that rendered it ineffective or harmful, even if it appears normal. The risk is unquantifiable, which is itself the problem."
+        },
+        {
+          "q": "Are herbal supplements safe because they are natural?",
+          "a": "Being natural is not a safety guarantee. Many supplements sold in the region have never been tested in clinical trials, and some contain undisclosed pharmaceutical ingredients or contaminants. Buy supplements only from licensed pharmacies, and tell your doctor if you are taking them alongside prescribed medicines, because interactions are possible."
+        },
+        {
+          "q": "How do I report a suspect medicine in my country?",
+          "a": "Contact your national food and drug authority directly. In Jordan this is JFDA, in Saudi Arabia it is SFDA, and most Arab countries have an equivalent body. Keep the packaging, batch number, and purchase details as evidence. Your report can trigger an investigation that protects many others from the same batch."
+        },
+        {
+          "q": "Is buying via pharmacy delivery apps safe?",
+          "a": "It depends on whether the partner pharmacy is licensed and named. Apps that work with specific licensed pharmacies and deliver medicines in sealed original packaging are generally safe. Apps or websites that offer medicines at opaque prices without identifying the partner pharmacy require significant caution."
+        },
+        {
+          "q": "Can I check whether a medicine is registered before I buy it?",
+          "a": "In some Arab countries yes, through the website of the national regulatory authority. Jordan's JFDA and Saudi Arabia's SFDA both maintain searchable online registers. In countries where the database is not consistently updated, the register is less reliable, but checking it is still a worthwhile step before buying an unfamiliar product."
+        }
+      ]
+    }
+  }
+}

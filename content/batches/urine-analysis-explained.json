@@ -1,0 +1,369 @@
+{
+  "slug": "urine-analysis-explained",
+  "category": "lab-tests",
+  "chip_ar": "فهم التحاليل",
+  "chip_en": "Understanding Lab Tests",
+  "date_iso": "2026-07-22",
+  "sources": [
+    {
+      "label": "Hitzeman N, Greer D MD, MPH, Carpio E et al: Office-Based Urinalysis: A Comprehensive Review, American family physician, 2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35839369/"
+    },
+    {
+      "label": "Chu CM, Lowder JL: Diagnosis and treatment of urinary tract infections across age groups, American journal of obstetrics and gynecology, 2018",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29305250/"
+    },
+    {
+      "label": "Nadkarni GN, Coca SG, Meisner A et al: Urinalysis findings and urinary kidney injury biomarker concentrations, BMC nephrology, 2017",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28683730/"
+    },
+    {
+      "label": "Hatamleh R, Al-Trad A, Abuhammad S et al: Urinary tract infection among pregnant Jordanian women: role of hygiene and sexual practices, BMC pregnancy and childbirth, 2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39443883/"
+    },
+    {
+      "label": "Alhaj SS, Allami S, Mohamadiyeh A et al: Knowledge, attitudes, and practices regarding urinary tract infections among women in the United Arab Emirates, PloS one, 2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39792816/"
+    },
+    {
+      "label": "Thipsawat S: Early detection of diabetic nephropathy in patient with type 2 diabetes mellitus: A review of the literature, Diabetes and vascular disease research, 2021",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34791910/"
+    }
+  ],
+  "content": {
+    "ar": {
+      "title": "تحليل البول: معنى البروتين والدم وخلايا الدم البيضاء",
+      "desc": "دليل تفصيلي لقراءة نتيجة تحليل البول العام سطراً بسطر: البروتين والجلوكوز والكيتونات والنيتريت وخلايا الدم البيضاء والدم والرواسب، وكيفية أخذ عينة نظيفة.",
+      "keywords": "تحليل البول, تحليل البول العام, البروتين في البول, الدم في البول, خلايا الدم البيضاء في البول, نيتريت البول, جلوكوز البول, التهاب المسالك البولية, تحليل الرواسب البولية, كيفية أخذ عينة البول",
+      "h1": "تحليل البول العام: كيف تقرأ كل سطر في نتيجتك",
+      "takeaways": [
+        "تحليل البول العام يشمل شريط الاختبار (Dipstick) والفحص المجهري للرواسب، وكل منهما يعطي معلومات مختلفة عن صحة الكلى والمسالك البولية.",
+        "عينة البول المأخوذة بشكل غير صحيح هي السبب الأول لنتائج مضللة، ولهذا طريقة الأوسط الصحيحة (Midstream Clean Catch) ضرورية.",
+        "البروتين في البول المتكرر يستحق دائماً تقييماً طبياً لأنه قد يكون أول إشارة لمشكلة في الكلى.",
+        "وجود النيتريت مع خلايا الدم البيضاء في نفس الوقت يشير بقوة إلى التهاب بكتيري في المسالك البولية.",
+        "نتيجة واحدة غير طبيعية لا تكفي لتشخيص أي مرض، الطبيب يقيّم النتيجة مع الأعراض والتاريخ الطبي معاً."
+      ],
+      "sections": [
+        {
+          "h2": "ما الذي يقيسه تحليل البول العام بالضبط؟",
+          "paras": [
+            "تحليل البول العام (Urinalysis) يشمل في معظم المختبرات ثلاثة أجزاء متكاملة. الجزء الأول هو الفحص البصري: لون البول وشفافيته، لأن لون البول الداكن أو العكر يعطي أدلة أولية مهمة. الجزء الثاني هو شريط الاختبار الكيميائي (Dipstick)، وهو الشريط الكيميائي الذي يكشف عن 10 إلى 12 مادة مختلفة خلال دقائق. الجزء الثالث هو الفحص المجهري للرواسب، ويكشف عن الخلايا والبكتيريا والأسطوانات البولية والبلورات التي لا يراها الشريط.",
+            "كل جزء من هذه الأجزاء يخبرك بشيء مختلف. الشريط ممتاز للكشف السريع عن الالتهابات والدم والبروتين والسكر، لكنه قد يعطي نتائج إيجابية كاذبة أو سلبية كاذبة في بعض الحالات. الفحص المجهري أدق لكنه يعتمد على دقة جمع العينة والتحليل السريع.",
+            "يكتب المختبر النتيجة كأرقام أو درجات مثل سلبي، أو آثار، أو 1+، أو 2+، أو 3+. هذه الدرجات تعكس كمية المادة الموجودة، وليس كل ارتفاع فيها يعني مشكلة طبية بالضرورة. السياق هو كل شيء."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "مكونات تحليل البول العام وما تعنيه",
+            "head": ["المكوّن", "النتيجة الطبيعية", "إذا كان غير طبيعي"],
+            "rows": [
+              ["البروتين (Protein)", "سلبي أو آثار فقط", "التهاب كلوي, مرض مناعي, داء السكري, جهد عضلي شديد"],
+              ["الجلوكوز (Glucose)", "سلبي", "السكري غير المضبوط, أسباب أخرى نادرة"],
+              ["الكيتونات (Ketones)", "سلبي", "الجوع الشديد, الحمية الكيتونية, الحموضة السكرية"],
+              ["الدم (Blood)", "سلبي", "حصوات الكلى, التهاب, أورام, جهد شديد"],
+              ["النيتريت (Nitrite)", "سلبي", "عدوى بكتيرية في المسالك البولية"],
+              ["خلايا الدم البيضاء (Leukocytes)", "سلبي أو بضع خلايا", "التهاب أو عدوى في المسالك البولية"],
+              ["الكثافة (Specific Gravity)", "1.005 - 1.030", "منخفضة: إفراط في الماء أو مرض كلوي؛ مرتفعة: جفاف"]
+            ]
+          }
+        },
+        {
+          "h2": "كيف تأخذ عينة بول نظيفة وصحيحة؟",
+          "paras": [
+            "العينة الملوثة هي السبب الأكبر للنتائج المضللة في تحليل البول. خلية جلدية واحدة أو بكتيريا من الجلد المحيط قادرة على تغيير النتيجة بشكل جذري وتوجيه الطبيب نحو تشخيص خاطئ. الطريقة الصحيحة هي أخذ عينة الأوسط (Midstream Clean Catch).",
+            "ابدأ بغسل اليدين جيداً. للمرأة: انشري الشفرتين بأصابعك وامسحي من الأمام إلى الخلف بمناديل معقمة، ثم ابدئي التبوّل في المرحاض أولاً، وبعد أن يبدأ التدفق أمسكي الحاوية واملئيها من منتصف التدفق. للرجل: اسحب الجلد المحيط للخلف إن لزم، انطلق في التبوّل في المرحاض أولاً ثم اجمع من المنتصف. في الحالتين، لا تلمسي الحافة الداخلية للحاوية.",
+            "وصّل العينة إلى المختبر خلال ساعة من الجمع في درجة حرارة الغرفة، أو خزّنها في الثلاجة لأقصى 4 ساعات إذا تأخرت. البول المخزون لوقت طويل في درجة حرارة الغرفة يتحلل وتنمو فيه البكتيريا مما يجعل نتيجته غير موثوقة."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "خطوات أخذ عينة البول بشكل صحيح",
+            "items": [
+              "اغسل يديك جيداً بالماء والصابون",
+              "للمرأة: امسحي من الأمام إلى الخلف بمناديل معقمة ثلاث مرات",
+              "ابدأ التبوّل في المرحاض وانتظر ثانيتين أو ثلاثاً",
+              "امسك الحاوية تحت التدفق واملأها من منتصف التبوّل",
+              "أغلق الحاوية دون لمس الحافة الداخلية",
+              "وصّلها للمختبر خلال ساعة من الجمع"
+            ]
+          }
+        },
+        {
+          "h2": "البروتين في البول: متى يكون خطيراً؟",
+          "paras": [
+            "وجود آثار صغيرة من البروتين في البول بعد مجهود بدني شديد أو في فترة مرض حاد أو بعد يوم طويل من الوقوف ليس بالضرورة مقلقاً، وكثيراً ما يختفي من تلقاء نفسه. لكن البروتين المتكرر في تحليلات متعددة على فترات مختلفة هو علامة تستحق تقييماً طبياً جدياً.",
+            "الكلية الصحية تحتجز البروتينات الكبيرة ولا تسمح لها بتسرب إلى البول. عندما تُصاب الكلية بالتهاب أو تلف، تبدأ البروتينات بالتسرب. البروتين الأكثر أهمية هو الألبومين (Albumin). دراسة نُشرت في Diabetes and Vascular Disease Research عام 2021 أكدت أن كشف بروتين الألبومين الزهيد في البول (Microalbuminuria) هو أحد أبكر إشارات اعتلال الكلية السكري قبل حدوث أي تدهور واضح في وظائف الكلى.",
+            "الكميات الكبيرة من البروتين فوق 3+ قد تشير إلى متلازمة الكلى (Nephrotic Syndrome) التي تسبب انتفاخ القدمين والبطن وتراكم السوائل في الجسم. أي بروتين مستمر يستحق تكرار التحليل بعد أسبوعين وإجراء تحليل نسبة الألبومين إلى الكرياتينين في البول."
+          ]
+        },
+        {
+          "h2": "الدم في البول: ما الذي يخبرك به؟",
+          "paras": [
+            "الشريط الكيميائي يكشف عن الدم في البول حتى لو كانت الكمية أقل بكثير مما يمكن رؤيته بالعين. الدم المرئي الذي يلون البول بالوردي أو الأحمر أو البني الداكن يسمى هيماتوريا إجمالية (Gross Hematuria)، أما الدم الذي يكشفه الشريط فقط دون أن تراه بعينك فهو هيماتوريا مجهرية (Microscopic Hematuria).",
+            "أسباب الدم في البول متعددة جداً وتتراوح بين الحميدة تماماً والتي تستحق المتابعة. من الأسباب الشائعة: التهاب المسالك البولية، وحصوات الكلى أو الحالب التي تسبب ألماً شديداً في الظهر والخاصرة مع الدم، وصدمة بسيطة للكلية، وعدوى الجهاز البولي العلوي. عند النساء في سن الإنجاب، الدورة الشهرية أو الإفرازات المهبلية قد تلوث العينة وتعطي نتيجة إيجابية كاذبة.",
+            "الدم في البول عند شخص فوق الأربعين دون ألم واضح، وخاصة الذكور والمدخنون، يستدعي تقييماً للاستبعاد أمراض خطيرة. لا تُهمل هذا الاكتشاف ظناً أنه من التهاب عابر."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "اطلب تقييماً طبياً عاجلاً عند",
+            "items": [
+              "دم واضح في البول (لون وردي أو أحمر أو بني) مع أو بدون ألم",
+              "دم في البول مع ألم شديد في الظهر أو الخاصرة يشع نحو الفخذ",
+              "دم في البول مع حمى وقشعريرة وآلام الجسم",
+              "أي دم في البول عند شخص فوق 40 سنة وخاصة المدخن"
+            ]
+          }
+        },
+        {
+          "h2": "خلايا الدم البيضاء والنيتريت: كيف تعرف أن عندك التهاباً؟",
+          "paras": [
+            "خلايا الدم البيضاء (Leukocytes) في البول تشير إلى أن الجهاز المناعي يحارب شيئاً ما في مكان ما من المسالك البولية. وجود عدد صغير من خلايا الدم البيضاء لا يعني بالضرورة التهاباً بكتيرياً، فالتهيج أو التلوث البسيط يمكن أن ينتج نتيجة مشابهة. لكن ارتفاع واضح فوق 10 خلايا في المجال المجهري يستحق انتباهاً.",
+            "النيتريت (Nitrite) مؤشر أكثر تحديداً للعدوى البكتيرية. البكتيريا المسببة لمعظم التهابات المسالك البولية كالإشريكية القولونية (E. coli) تحول النترات الموجودة في البول إلى نيتريت. عندما يكون النيتريت موجوداً مع ارتفاع في خلايا الدم البيضاء في نفس الوقت، يكون ذلك دليلاً قوياً جداً على التهاب بكتيري في المسالك. مراجعة نُشرت في American Family Physician عام 2022 أكدت أن الجمع بين النيتريت وخلايا الدم البيضاء له قيمة تنبؤية عالية لتأكيد الالتهاب.",
+            "ملاحظة مهمة: بعض البكتيريا لا تنتج نيتريت، لذا سلبية النيتريت لا تستبعد التهاب المسالك البولية بشكل قاطع. زرع البول (Urine Culture) هو الذهب المعياري للتأكيد وتحديد نوع البكتيريا وحساسيتها للمضادات الحيوية."
+          ]
+        },
+        {
+          "h2": "الجلوكوز والكيتونات: ماذا تكشفان عن سكر الدم؟",
+          "paras": [
+            "الجلوكوز لا يُفرز في البول في الأحوال الطبيعية. الكلية لديها عتبة لإعادة امتصاص الجلوكوز من البول تقع حوالي 180 ملغ/ديسيليتر في الدم. عندما تتجاوز نسبة السكر في الدم هذه العتبة، يبدأ الجلوكوز بالظهور في البول. وجود الجلوكوز في البول عند شخص لم يُشخّص بالسكري يستحق التقييم الفوري لفحص مستوى السكر في الدم.",
+            "عند المصاب بالسكري، وجود الجلوكوز في البول يدل عادةً على أن السكر لم يُضبط جيداً. لكن تجدر الملاحظة أن بعض الأشخاص لديهم عتبة كلوية منخفضة بشكل طبيعي ويفرزون جلوكوزاً في البول حتى مع مستويات سكر طبيعية في الدم، وهذه الحالة تسمى الجلوكوز البولي الكلوي وهي حميدة.",
+            "الكيتونات (Ketones) تظهر في البول عند حرق الجسم للدهون بدلاً من السكريات كمصدر رئيسي للطاقة. هذا يحدث أثناء الصيام أو الحمية الكيتونية أو أثناء مرض مع قلة الأكل. لكن وجود كيتونات مع جلوكوز مرتفع في البول معاً عند مريض السكري يكون إنذاراً خطيراً قد يشير إلى الحماض السكري الكيتوني (DKA)، وهو طارئ طبي يحتاج مستشفى."
+          ]
+        },
+        {
+          "h2": "الرواسب البولية: الأسطوانات والبلورات والخلايا",
+          "paras": [
+            "الفحص المجهري للرواسب يعطي معلومات لا يستطيع الشريط تقديمها. الأسطوانات البولية (Casts) هي تكوينات تتشكل داخل الأنابيب الكلوية. أسطوانات الخلايا الحمراء تشير بقوة إلى التهاب داخل الكلية نفسها (Glomerulonephritis)، وهذه نتيجة مهمة جداً. أسطوانات الخلايا البيضاء تشير إلى التهاب في أنسجة الكلية (Interstitial Nephritis). الأسطوانات الشمعية أو الحبيبية الخشنة قد تدل على مرض كلوي مزمن.",
+            "البلورات (Crystals) شائعة في البول ولا تعني دائماً مشكلة. بلورات أكسالات الكالسيوم وبلورات حمض اليوريك موجودة عند كثير من الأصحاء. لكن الكميات الكبيرة من البلورات، خاصة عند شخص لديه تاريخ مع حصوات الكلى أو ألم في الخاصرة، تستحق تقييماً لتحديد نوع الحصوات ووضع خطة للوقاية من تكررها.",
+            "الخلايا الظهارية (Epithelial Cells) في البول في أعداد صغيرة طبيعية تماماً وتأتي من بطانة المسالك. لكن وجود خلايا ظهارية من الجهاز التناسلي بأعداد كبيرة يدل على تلوث العينة وليس على مشكلة طبية، وهو سبب آخر يجعل طريقة جمع العينة مهمة جداً."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "ما تعنيه الرواسب البولية في الفحص المجهري",
+            "head": ["الرسوبة", "المعنى المحتمل", "الإجراء"],
+            "rows": [
+              ["أسطوانات خلايا حمراء", "التهاب كلوي (Glomerulonephritis)", "تقييم طبي عاجل مطلوب"],
+              ["أسطوانات خلايا بيضاء", "التهاب نسيج الكلية أو التهاب حاد", "تقييم طبي مطلوب"],
+              ["بلورات أكسالات", "شائعة, قد ترتبط بحصوات الكلى", "زيادة السوائل, تقييم عند تكرار"],
+              ["بكتيريا كثيرة", "عدوى بكتيرية أو تلوث العينة", "زرع البول للتأكيد"],
+              ["خلايا ظهارية كثيرة", "تلوث العينة غالباً", "إعادة جمع العينة بطريقة صحيحة"]
+            ]
+          }
+        },
+        {
+          "h2": "الكثافة النوعية والحموضة: ماذا تعنيان؟",
+          "paras": [
+            "الكثافة النوعية (Specific Gravity) تقيس تركيز البول، أي كمية المواد المذابة فيه نسبة إلى الماء. البول الطبيعي يتراوح بين 1.005 و1.030. الكثافة المنخفضة قريباً من 1.001 تعني بولاً مخففاً جداً، وهذا طبيعي عند الشرب الكثير لكن قد يشير إلى مشكلة في قدرة الكلية على التركيز في بعض الحالات. الكثافة المرتفعة فوق 1.025 تشير إلى جفاف أو شرب قليل للسوائل أو ارتفاع في السكر.",
+            "حموضة البول (pH) تتراوح عادة بين 4.5 و8. البول الحمضي (pH منخفض) يرتبط بالحمية الغنية باللحوم أو الجفاف أو بعض حصوات الكلى. البول القلوي (pH مرتفع) يرتبط بالنظام النباتي أو العدوى البكتيرية ببعض الأنواع مثل البروتيوس. وحده لا يعطي تشخيصاً لكنه يساعد الطبيب على تفسير باقي النتائج.",
+            "اللون والرائحة أيضاً يعطيان معلومات. البول الأصفر الداكن يدل غالباً على جفاف. البول الوردي أو الأحمر قد يكون من الدم أو من بعض الأطعمة كالشمندر. الرائحة الحلوة أو الفاكهية قد تشير إلى الكيتونات. الرائحة الكريهة النفاذة قد تكون من عدوى بكتيرية."
+          ]
+        },
+        {
+          "h2": "التهاب المسالك البولية عند النساء في المنطقة",
+          "paras": [
+            "التهاب المسالك البولية هو أكثر العدوى البكتيرية شيوعاً عند النساء على مستوى العالم، والمنطقة العربية ليست استثناءً. دراسة أجريت في الأردن عام 2024 ونُشرت في BMC Pregnancy and Childbirth وجدت أن التهاب المسالك البولية يصيب نسبة ملحوظة من النساء الحوامل الأردنيات، ويرتبط بممارسات النظافة والسلوك الجنسي. أما في الإمارات، فدراسة نُشرت عام 2025 في مجلة PLOS ONE أظهرت ثغرات في الوعي بعوامل الخطر والوقاية بين النساء هناك.",
+            "التهاب المثانة البسيط يسبب حرقة عند التبوّل وحاجة متكررة وملحّة لدخول الحمام مع كميات قليلة من البول في كل مرة. هذا التهاب في الجزء السفلي ويستجيب عادةً للمضادات الحيوية المناسبة خلال 3 إلى 7 أيام. لكن التهاب الحويضة والكلية (Pyelonephritis)، وهو التهاب الجزء العلوي، خطير أكثر ويسبب حمى وآلام الظهر والقشعريرة.",
+            "تكرار التهابات المسالك البولية عند المرأة أكثر من مرتين في السنة يستحق تقييماً أعمق لاستبعاد أسباب تشريحية أو هرمونية أو ضعف في المناعة. والأهم من العلاج هو الوقاية: شرب كميات كافية من الماء، والتبوّل بعد الجماع، والمسح من الأمام إلى الخلف، وتغيير الملابس الداخلية المبللة."
+          ]
+        }
+      ],
+      "tie": "تطبيق صحتك يتيح لك تسجيل نتائج تحليل البول بمرور الوقت ومتابعة أي تغيير في النتائج من زيارة لأخرى. إذا تكرر البروتين في البول أو الدم، يمكنك رؤية النمط بوضوح وعرضه على طبيبك. المساعد الذكي في التطبيق يشرح لك معنى كل مصطلح في نتيجة التحليل بلغة بسيطة دون أن يحل محل التشخيص الطبي.",
+      "faqs": [
+        {
+          "q": "هل يجب الصيام قبل تحليل البول؟",
+          "a": "لا يشترط الصيام لتحليل البول العام في معظم الحالات. لكن يُفضّل أن تكون العينة من أول بول الصباح لأنه أكثر تركيزاً ويعطي نتائج أدق. إذا كان الطبيب يريد قياس نسبة الألبومين في البول بدقة، قد يطلب عينة البول الأولى صباحاً تحديداً."
+        },
+        {
+          "q": "ما الفرق بين التهاب المثانة والتهاب الكلية؟",
+          "a": "التهاب المثانة يصيب الجزء السفلي من المسالك البولية ويسبب حرقة وتكرار التبوّل دون حمى عالية في الغالب. التهاب الكلية (Pyelonephritis) يصيب الكلية نفسها ويسبب حمى مرتفعة وآلاماً في الظهر والخاصرة وقد يكون خطيراً. الأول يُعالج بالمضادات الفموية عادةً، والثاني قد يحتاج مستشفى."
+        },
+        {
+          "q": "هل البروتين في البول خطير دائماً؟",
+          "a": "ليس دائماً. آثار صغيرة من البروتين بعد مجهود شديد أو مرض حاد عابرة وتزول. لكن البروتين المتكرر في تحليلات متعددة يستحق تقييماً طبياً لأنه قد يكون أول علامة على مشكلة في الكلى تحتاج تشخيصاً مبكراً."
+        },
+        {
+          "q": "هل الدم في البول دائماً من مشكلة خطيرة؟",
+          "a": "ليس بالضرورة. أسبابه متنوعة من التهاب بسيط وحصوات كلوية إلى أسباب تستحق تقييماً. عند النساء في سن الإنجاب، قد يكون تلوثاً من الدورة. لكن دم في البول بدون ألم عند شخص فوق 40 أو مدخن يستحق تقييماً سريعاً."
+        },
+        {
+          "q": "لماذا يُطلب زرع البول بعد تحليل البول العام؟",
+          "a": "تحليل البول العام يكشف أن هناك التهاباً محتملاً لكن لا يحدد نوع البكتيريا ولا المضاد الحيوي الأنسب لها. زرع البول (Culture) يزرع البكتيريا الموجودة ويختبر حساسيتها للمضادات، مما يضمن العلاج الصحيح وتجنب المقاومة."
+        },
+        {
+          "q": "ما هو البول الطبيعي الذي يجب أن يكون عليه؟",
+          "a": "البول الطبيعي أصفر شاحب وشفاف ولا رائحة نفاذة له. كل المواد في الشريط الكيميائي يجب أن تكون سلبية أو في آثار فقط عدا pH والكثافة. وجود خلايا حمراء أو بيضاء أو بروتين أو جلوكوز يستحق مناقشة مع الطبيب."
+        },
+        {
+          "q": "كيف أعرف أن التهاب المسالك البولي عندي وصل للكلية؟",
+          "a": "الحمى المرتفعة فوق 38.5 درجة مئوية مع الرجفة وألم حاد في الظهر أو الجانب هي إشارات أن الالتهاب وصل للكلية. هذا يستدعي تقييماً طبياً عاجلاً ولا يُعالج في المنزل. التهاب المثانة البسيط عادةً لا يسبب حمى عالية."
+        }
+      ]
+    },
+    "en": {
+      "title": "Urine analysis: what protein, blood and leukocytes mean",
+      "desc": "A line-by-line guide to reading a urine dipstick report: protein, glucose, ketones, nitrites, leukocytes, blood, casts and crystals, and how to collect a clean sample.",
+      "keywords": "urine analysis, urinalysis, protein in urine, blood in urine, leukocytes urine, nitrite urine, glucose urine, urinary tract infection test, urine dipstick, urine microscopy, urine casts, midstream clean catch",
+      "h1": "Urine analysis: a line-by-line guide to reading your result",
+      "takeaways": [
+        "A full urinalysis combines a chemical dipstick with microscopic examination of the sediment. Each part gives different information about the kidneys and urinary tract.",
+        "A contaminated sample is the single most common reason for misleading urine results. The midstream clean-catch technique is essential, not optional.",
+        "Protein in urine on repeated tests always deserves medical review, as it may be the first sign of kidney disease.",
+        "Nitrite and leukocyte esterase together on a dipstick is strong evidence of a bacterial urinary tract infection.",
+        "One abnormal result does not diagnose any disease. Your doctor interprets the result alongside your symptoms and medical history."
+      ],
+      "sections": [
+        {
+          "h2": "What does a full urine analysis actually measure?",
+          "paras": [
+            "A standard urinalysis (urine analysis) has three parts in most laboratories. The first is a visual inspection of the colour and clarity of the urine, since dark or cloudy urine provides early clues that shape interpretation of everything that follows. The second part is the chemical dipstick, a strip impregnated with reagent pads that changes colour on contact with specific substances, detecting 10 to 12 different components within a few minutes. The third is microscopic examination of the spun sediment, which reveals cells, bacteria, urinary casts and crystals that the dipstick cannot detect.",
+            "Each part adds something different. The dipstick is excellent for rapid screening of infection, blood, protein and glucose, but it produces false positives and false negatives in some situations. Microscopy is more precise but depends on how quickly the sample is processed and how well it was collected. A 2022 review in American Family Physician summarised the diagnostic value and limitations of each component and emphasised that results must be read alongside clinical context.",
+            "The laboratory writes results as numbers or as grades such as negative, trace, 1+, 2+ or 3+. These grades reflect quantity. Not every abnormal grade is a medical problem. A trace of protein after intense exercise is not the same thing as 3+ protein in a person with swollen ankles and fatigue."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "What each dipstick finding suggests",
+            "head": ["Component", "Normal result", "If abnormal"],
+            "rows": [
+              ["Protein", "Negative or trace only", "Kidney disease, immune condition, diabetes, heavy exertion"],
+              ["Glucose", "Negative", "Uncontrolled diabetes, rarely renal glycosuria"],
+              ["Ketones", "Negative", "Fasting, ketogenic diet, diabetic ketoacidosis"],
+              ["Blood", "Negative", "Kidney stones, infection, tumours, heavy exercise"],
+              ["Nitrite", "Negative", "Bacterial urinary tract infection"],
+              ["Leukocyte esterase", "Negative or few cells", "Infection or inflammation in the urinary tract"],
+              ["Specific gravity", "1.005 - 1.030", "Low: excess fluid or kidney concentrating defect; High: dehydration"]
+            ]
+          }
+        },
+        {
+          "h2": "How to collect a clean urine sample",
+          "paras": [
+            "A contaminated sample is the leading cause of misleading urine results. A single skin cell or bacterium from the surrounding skin can change the result dramatically and lead a doctor toward a wrong diagnosis or an unnecessary course of antibiotics. The correct method is the midstream clean-catch technique, and it is worth doing carefully.",
+            "Start by washing your hands thoroughly. For women: spread the labia with your fingers and wipe from front to back three times with a clean swab or gauze, then begin urinating into the toilet, wait two or three seconds for the initial flow to wash the urethra, then hold the container under the stream and collect from the middle of the flow. For men: retract the foreskin if present, begin urinating into the toilet, then collect from the midstream. In both cases, do not touch the inner rim of the container with your fingers or skin.",
+            "Deliver the sample to the laboratory within one hour at room temperature, or store it in a refrigerator for up to four hours if there is a delay. Urine left at room temperature for longer decomposes and bacteria multiply, making the result unreliable. Most laboratories will tell you if a sample has been rejected for this reason."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "Collecting a midstream clean-catch sample",
+            "items": [
+              "Wash your hands thoroughly with soap and water",
+              "Women: wipe front to back three times with a clean swab",
+              "Begin urinating into the toilet and wait two to three seconds",
+              "Hold the container under the flow and collect from the middle stream",
+              "Close the container without touching the inner rim",
+              "Deliver to the laboratory within one hour"
+            ]
+          }
+        },
+        {
+          "h2": "Protein in urine: when is it a problem?",
+          "paras": [
+            "Small traces of protein in urine after intense physical exercise, during an acute illness, or at the end of a long day spent standing are not necessarily worrying and often disappear when the test is repeated at rest. Repeated protein on multiple tests taken on separate occasions is a different matter and always deserves medical evaluation.",
+            "A healthy kidney retains large proteins and does not allow them to leak into the urine. When the kidney is inflamed or damaged, proteins begin to escape. The most important protein to look for is albumin. A 2021 literature review in Diabetes and Vascular Disease Research confirmed that measuring very small amounts of albumin in urine (microalbuminuria) is one of the earliest detectable signs of diabetic kidney disease, appearing years before any decline in kidney function shows up on a creatinine or eGFR test.",
+            "Large amounts of protein at the 3+ level can indicate nephrotic syndrome, a kidney condition causing swelling of the ankles and abdomen as protein leaks out and reduces the oncotic pressure that keeps fluid in the vessels. Any persistent protein warrants repeating the test in two weeks and measuring the albumin to creatinine ratio on a morning sample, which gives a more accurate and reproducible quantification."
+          ]
+        },
+        {
+          "h2": "Blood in urine: what is it telling you?",
+          "paras": [
+            "The dipstick detects blood in urine in amounts far too small to see with the naked eye. Blood visible to the eye, turning the urine pink, red or dark brown, is called gross haematuria. Blood detectable only by the dipstick or microscope, invisible to the eye, is microscopic haematuria. Both deserve investigation, though the clinical urgency differs.",
+            "The causes of blood in urine range from entirely benign to conditions requiring prompt workup. Common causes include urinary tract infection, kidney or ureteric stones producing severe loin-to-groin pain alongside the blood, minor trauma to the kidney from contact sport, and upper urinary tract infection. In women of reproductive age, contamination from menstrual blood or vaginal secretions can produce a false positive on the dipstick, which is one more reason why sample collection technique matters.",
+            "Blood in urine in a person over 40, particularly a smoker, without obvious infection or recent strenuous exercise deserves prompt evaluation. In this context, it can be the only early symptom of bladder or kidney cancer, and delay in investigation worsens outcomes. Do not assume every finding of blood in urine is a urinary infection without confirmation."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "Seek urgent medical assessment if you have",
+            "items": [
+              "Visible blood in urine (pink, red or dark brown) with or without pain",
+              "Blood in urine with severe pain in the back or loin radiating toward the groin",
+              "Blood in urine with fever, chills and body aches",
+              "Any blood in urine in a person over 40, especially if a smoker"
+            ]
+          }
+        },
+        {
+          "h2": "Leukocytes and nitrite: how to tell if you have an infection",
+          "paras": [
+            "Leukocyte esterase on the dipstick indicates that white blood cells are present in the urine, signalling that the immune system is fighting something somewhere along the urinary tract. A small number of white blood cells does not necessarily mean bacterial infection. Irritation, contamination or sterile inflammation can produce a similar finding. A clear elevation above 10 cells per high-power field on microscopy is more significant.",
+            "Nitrite is a more specific marker of bacterial infection. The bacteria that cause most urinary tract infections, chiefly Escherichia coli and related gram-negative organisms, convert nitrate naturally present in urine into nitrite. When nitrite is positive alongside elevated leukocyte esterase, that combination is strong evidence of a bacterial infection. A comprehensive review in American Family Physician in 2022 confirmed that the combination of the two findings has high predictive value for a true infection.",
+            "An important caveat: some bacteria, including Enterococcus and Staphylococcus, do not produce nitrite, so a negative nitrite result does not rule out a urinary tract infection. A urine culture remains the gold standard, growing the bacteria present and testing antibiotic sensitivity, which ensures the right antibiotic is chosen and helps combat the growing problem of resistance in the region."
+          ]
+        },
+        {
+          "h2": "Glucose and ketones: what do they reveal about blood sugar?",
+          "paras": [
+            "Glucose does not normally appear in urine. The kidney reabsorbs all glucose filtered at the glomerulus until blood glucose exceeds roughly 180 mg/dL, the so-called renal threshold. When blood sugar rises above this threshold, glucose spills into the urine. Finding glucose in urine in someone who has not been diagnosed with diabetes is a prompt to test blood glucose without delay.",
+            "In a person already known to have diabetes, glucose in urine usually indicates that blood sugar has not been well controlled. It is worth noting that a small number of people have a naturally low renal threshold and spill glucose into urine even with entirely normal blood glucose levels, a harmless condition called renal glycosuria. Your doctor can distinguish this from true hyperglycaemia with a blood test.",
+            "Ketones in urine appear when the body switches to burning fat for energy instead of carbohydrates. This happens during prolonged fasting, very low-carbohydrate diets, or during illness when food intake falls sharply. Ketones alone, in a fasting person who feels well, are not alarming. Ketones combined with high glucose in a person with type 1 or insulin-dependent type 2 diabetes are a medical emergency pointing to diabetic ketoacidosis (DKA), a life-threatening condition requiring immediate hospital treatment."
+          ]
+        },
+        {
+          "h2": "Urinary casts, crystals and cells under the microscope",
+          "paras": [
+            "Microscopic examination of the spun urine sediment reveals structures that the dipstick cannot detect. Urinary casts form in the tubules of the kidney and are therefore direct evidence of kidney-level events rather than just urinary tract events. Red blood cell casts are a particularly important finding: they indicate inflammation or bleeding from within the kidney itself (glomerulonephritis) and require urgent specialist review. White blood cell casts suggest inflammation in the kidney tissue (interstitial nephritis). Waxy or coarsely granular casts can point to chronic kidney disease.",
+            "Crystals in urine are common and do not always signal a problem. Calcium oxalate and uric acid crystals are found in healthy people regularly, particularly in concentrated morning urine. Large numbers of crystals, especially in someone with a history of kidney stones or recurrent loin pain, are worth discussing with a doctor to identify the stone type and plan prevention, since the dietary adjustments differ depending on whether the stones are calcium, uric acid or struvite.",
+            "Epithelial cells in small numbers are normal and come from the lining of the urinary tract. Large numbers of squamous epithelial cells, which originate from the skin and genital tract rather than the urinary tract, indicate sample contamination rather than a medical condition. This is one of the clearest signs that the midstream clean-catch technique was not followed properly and the test should be repeated."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "What urine microscopy findings suggest",
+            "head": ["Finding", "Likely meaning", "Next step"],
+            "rows": [
+              ["Red blood cell casts", "Kidney inflammation (glomerulonephritis)", "Urgent specialist referral"],
+              ["White blood cell casts", "Kidney tissue inflammation", "Medical assessment required"],
+              ["Calcium oxalate crystals", "Common, may relate to kidney stones", "Increase fluids, review if recurrent"],
+              ["Heavy bacteria", "Infection or sample contamination", "Urine culture to confirm"],
+              ["Many squamous cells", "Sample contamination most likely", "Repeat with correct technique"]
+            ]
+          }
+        },
+        {
+          "h2": "Specific gravity and pH: concentration and acidity of urine",
+          "paras": [
+            "Specific gravity measures how concentrated the urine is relative to water. The normal range is 1.005 to 1.030. Urine approaching 1.001 is very dilute, which is normal when someone drinks large amounts of fluid but can indicate a kidney concentrating defect in some circumstances. Specific gravity above 1.025 suggests dehydration or inadequate fluid intake, something particularly relevant in hot climates where losing fluid through sweating is constant and can happen without the person feeling obviously thirsty.",
+            "Urine pH normally ranges from 4.5 to 8.0. Acidic urine with a low pH is associated with meat-heavy diets, dehydration and certain types of kidney stones. Alkaline urine with a high pH is associated with predominantly vegetarian diets or infection with urease-producing bacteria such as Proteus, which can make struvite stones in the kidney. pH alone does not diagnose anything but helps your doctor interpret the rest of the result.",
+            "Colour and smell carry information too. Dark yellow urine usually reflects dehydration. Pink or red urine may come from blood or from foods such as beetroot. A sweet or fruity smell can indicate ketones. A sharp, offensive smell is more consistent with a bacterial infection than with normal urine chemistry. These observations take seconds and cost nothing, but they give context before any laboratory result is available."
+          ]
+        },
+        {
+          "h2": "Urinary tract infections in women across the region",
+          "paras": [
+            "Urinary tract infection is the most common bacterial infection in women worldwide, and women in the Arab world are not exempt. A 2024 study from Jordan published in BMC Pregnancy and Childbirth found that a significant proportion of pregnant Jordanian women developed urinary tract infections, with associations to hygiene practices and sexual behaviour. A 2025 study from the UAE published in PLOS ONE identified persistent gaps in awareness of risk factors and prevention strategies among women.",
+            "Simple cystitis affecting the lower urinary tract causes a burning sensation on urination, frequent urgent trips to the bathroom producing small volumes each time, and sometimes a feeling of incomplete emptying. It responds to appropriate antibiotics usually within three to seven days. Pyelonephritis, infection that has ascended to the kidney itself, is more serious and causes high fever, rigors and pain in the flank or back.",
+            "Recurring infections, defined as more than two episodes in twelve months, deserve a deeper evaluation to rule out anatomical, hormonal or immune factors that predispose to them. Beyond treatment, prevention matters: drinking adequate water, urinating after intercourse, wiping front to back, and avoiding unnecessary antibiotics that select for resistant organisms are all straightforward and effective steps."
+          ]
+        }
+      ],
+      "tie": "The Sihtak app lets you log urine analysis results over time so you can see whether protein or blood is appearing repeatedly or was just a one-off finding. If a pattern emerges, you have a clear record to bring to your doctor. The AI assistant explains the meaning of every term on your result sheet in plain language.",
+      "faqs": [
+        {
+          "q": "Do I need to fast before a urine test?",
+          "a": "Fasting is not required for a standard urine analysis. First morning urine is generally preferred because it is more concentrated and gives more reliable results for protein and specific gravity. If your doctor specifically wants a random or timed sample, they will give you instructions."
+        },
+        {
+          "q": "What is the difference between cystitis and pyelonephritis?",
+          "a": "Cystitis is infection of the lower urinary tract, causing burning on urination and frequency without a high fever in most cases. Pyelonephritis is infection that has reached the kidney itself, causing high fever, chills and flank pain. Cystitis is usually treated with oral antibiotics at home. Pyelonephritis may require hospital care and intravenous antibiotics."
+        },
+        {
+          "q": "Is protein in urine always a sign of kidney disease?",
+          "a": "Not always. Transient protein after intense exercise, fever or prolonged standing often disappears on repeat testing and does not indicate disease. Repeated protein on multiple tests taken at rest does deserve evaluation, as it may be an early sign of kidney damage from diabetes, blood pressure or immune disease."
+        },
+        {
+          "q": "Why does my doctor order a urine culture after the dipstick?",
+          "a": "The dipstick shows that an infection is likely but cannot identify which bacteria are responsible or which antibiotic will work against them. A urine culture grows the bacteria present over 24 to 48 hours and tests antibiotic sensitivity, ensuring the right drug is prescribed and helping to avoid treatment failure and resistance."
+        },
+        {
+          "q": "Can I have a urinary tract infection with a normal urine test?",
+          "a": "It is possible, particularly if the bacteria causing the infection are species that do not produce nitrite, or if the sample was dilute or contaminated. If symptoms strongly suggest an infection but the dipstick is equivocal, a urine culture is the definitive test. Symptoms and clinical judgment matter as much as the dipstick result."
+        },
+        {
+          "q": "How do I know if my urine infection has spread to the kidney?",
+          "a": "High fever above 38.5 degrees Celsius with shaking chills and pain in the back or side are the key signs that the infection has ascended to the kidney. This requires prompt medical assessment and cannot safely be managed at home with leftover antibiotics. Simple cystitis does not usually cause a high fever."
+        },
+        {
+          "q": "What does a normal urine result look like?",
+          "a": "Normal urine is pale yellow and clear. All chemical components on the dipstick should be negative or trace only, except for pH and specific gravity which are reported as numbers rather than positive or negative. Any blood, protein, glucose, nitrite or significant leukocyte esterase reading that is not explained by known circumstances is worth discussing with a doctor."
+        }
+      ]
+    }
+  }
+}

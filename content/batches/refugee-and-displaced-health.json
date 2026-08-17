@@ -1,0 +1,384 @@
+{
+  "slug": "refugee-and-displaced-health",
+  "category": "regional-health",
+  "chip_ar": "صحة المهجّرين",
+  "chip_en": "Displaced Health",
+  "date_iso": "2026-07-04",
+  "sources": [
+    {
+      "label": "Doocy et al., Prevalence and care-seeking for chronic diseases among Syrian refugees in Jordan, BMC Public Health, 2015",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26521231/"
+    },
+    {
+      "label": "Akik et al., Host country responses to non-communicable diseases amongst Syrian refugees: a review, Conflict and Health, 2019",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30949232/"
+    },
+    {
+      "label": "Akik et al., Healthcare system responses to NCDs among Syrian refugees: Jordan and Lebanon, Journal of Migration and Health, 2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36148323/"
+    },
+    {
+      "label": "World Health Organization: Refugee and migrant health",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/refugee-and-migrant-health"
+    },
+    {
+      "label": "UNHCR: Accessing healthcare in displacement situations",
+      "url": "https://www.unhcr.org/what-we-do/build-better-futures/health"
+    },
+    {
+      "label": "Mental health outcomes in Syrian refugees: a systematic review, PubMed, 2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35657322/"
+    }
+  ],
+  "content": {
+    "ar": {
+      "title": "الرعاية الصحية للمهجّرين واللاجئين",
+      "desc": "إذا كنت مهجّرا أو لاجئا، تعرّف على كيفية الحصول على رعايتك الصحية وإدارة أمراضك المزمنة والحفاظ على سجلاتك الطبية في أي مكان.",
+      "keywords": "صحة اللاجئين, الرعاية الصحية للمهجرين, الأمراض المزمنة للاجئين, السجل الطبي الشخصي, صحة نفسية في التهجير, تطعيمات اللاجئين, الرعاية الصحية سوريا, النزوح والصحة",
+      "h1": "الرعاية الصحية للمهجّرين واللاجئين: دليل عملي للحصول على ما تحتاجه",
+      "takeaways": [
+        "احتفظ دائما بنسخة ورقية من سجلك الطبي وقائمة أدويتك، فهي بوابتك لاستمرار العلاج في أي مكان تنتقل إليه.",
+        "تتوفر في معظم مناطق تجمع اللاجئين خدمات صحية مجانية أو منخفضة التكلفة تقدمها منظمات كالمفوضية السامية للأمم المتحدة لشؤون اللاجئين والمنظمة الدولية للهجرة وأطباء بلا حدود.",
+        "الأمراض المزمنة كالسكري وضغط الدم تستمر معك أينما ذهبت وتحتاج إلى متابعة مستمرة دون انقطاع.",
+        "الاضطرابات النفسية شائعة بعد التهجير وهي حالات طبية تستحق العلاج مثلها مثل أي مرض جسدي.",
+        "اللقاحات الفائتة يمكن تعويضها في أي عمر، ولا يوجد عمر لا ينفع فيه التطعيم."
+      ],
+      "sections": [
+        {
+          "h2": "ما التحديات الصحية الأكثر شيوعا عند المهجّرين؟",
+          "paras": [
+            "يواجه المهجّرون واللاجئون تحديات صحية تختلف نوعيا عن تلك التي تواجه من يعيشون في بيئة مستقرة. فقدان الوثائق والسجلات الطبية، وانقطاع سلسلة العلاج، وتغير المناخ والغذاء والمياه، كلها عوامل تتراكم لتؤثر على الصحة بطرق قد لا تظهر فورا.",
+            "أظهرت دراسة نشرتها مجلة BMC Public Health عام 2015 وشملت أكثر من 1500 لاجئ سوري في الأردن أن ما يزيد على 29% منهم يعانون من مرض مزمن واحد على الأقل، وأن الوصول المنتظم إلى الرعاية كان معدوما لدى شريحة كبيرة منهم. الضغط والسكري والأمراض الرئوية تصدّرت قائمة الحالات الأكثر شيوعا.",
+            "تشمل الأعباء الصحية الأكثر تكرارا: أمراض الجهاز التنفسي الناجمة عن ضعف التهوية في مخيمات الإيواء، والتهابات الجلد والعيون، والإسهال من مصادر المياه غير الآمنة، فضلا عن الأمراض المزمنة التي كانت موجودة قبل التهجير.",
+            "مراجعة نشرتها مجلة Journal of Migration and Health عام 2022 وتناولت وضع اللاجئين في الأردن ولبنان على مدى سنوات أكدت أن هذا النمط يستمر طالما استمر النزوح. المشكلة لا تنحصر في غياب الخدمات، بل في صعوبة الوصول إليها وعدم معرفة مكانها. التعرف على الجهات المقدمة للخدمات في منطقتك بمجرد وصولك هو الخطوة الأولى والأكثر أهمية."
+          ],
+          "visual": {
+            "type": "stats",
+            "items": [
+              {"value": "29%+", "label": "من اللاجئين السوريين في الأردن يعانون من مرض مزمن واحد على الأقل", "tone": "warn"},
+              {"value": "3", "label": "أمراض مزمنة هي الأكثر شيوعا: الضغط والسكري وأمراض الرئة", "tone": "info"}
+            ],
+            "source": "Doocy et al., BMC Public Health, 2015",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/26521231/"
+          }
+        },
+        {
+          "h2": "كيف تجد الرعاية الصحية في منطقة نزوحك؟",
+          "paras": [
+            "الخطوة الأولى هي معرفة الجهات المقدِّمة للخدمات في منطقتك. المفوضية السامية للأمم المتحدة لشؤون اللاجئين (UNHCR) تشغّل أو تموّل عيادات في معظم دول العبور الكبرى كالأردن ولبنان وتركيا والعراق ومصر. المنظمة الدولية للهجرة (IOM) تقدم فحوصات طبية عند الوصول ولقاحات واستشارات. أطباء بلا حدود تعمل في مناطق النزاع والحدود وتقدم رعاية طارئة مجانية.",
+            "في حال الإقامة في مدينة لا في مخيم، ابحث عن العيادات المجتمعية التي تتعاون مع المنظمات غير الحكومية. كثير منها يقدم الخدمة دون اشتراط وثيقة هوية في حالات الطوارئ. اسأل في أي صيدلية أو مدرسة في الحي عن أقرب عيادة مدعومة، لأن الصيادلة في الغالب على دراية بهذه الموارد.",
+            "إذا كنت في بلد لديه نظام صحي حكومي، فكثير من الدول تتيح للأجانب حق الطوارئ في المستشفيات الحكومية حتى بدون تأمين. تعرف على حقوقك القانونية في البلد الذي تقيم فيه، فبعض الدول كالأردن تلتزم رسميا بتقديم الرعاية للاجئين المسجلين.",
+            "في المدن الكبيرة، كثيرا ما تكون الصيدلية هي أسهل نقطة وصول أولية إلى الرعاية الصحية. الصيدلاني يستطيع توجيهك إلى أقرب عيادة مجانية، وصرف أدوية للحالات الحادة البسيطة دون وصفة طبية بتكلفة أقل من العيادة الخاصة. لا تستهن بالصيدلية كنقطة انطلاق لمعرفة الخدمات المتاحة في منطقتك."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "الجهات الرئيسية لتقديم الرعاية الصحية للمهجّرين",
+            "head": ["الجهة", "نوع الخدمة", "كيفية التواصل"],
+            "rows": [
+              ["UNHCR", "عيادات الرعاية الأولية والإحالة", "unhcr.org أو المكتب المحلي"],
+              ["IOM", "فحوصات الوصول واللقاحات", "iom.int أو نقاط الحدود"],
+              ["أطباء بلا حدود", "رعاية طارئة في مناطق النزاع", "msf.org"],
+              ["العيادات الحكومية", "خدمات الطوارئ والرعاية الأولية", "أقرب مستشفى حكومي"]
+            ]
+          }
+        },
+        {
+          "h2": "إدارة الأمراض المزمنة بدون طبيبك المعتاد",
+          "paras": [
+            "التحدي الأكبر للمهجّرين المصابين بأمراض مزمنة هو انقطاع العلاج. المرض المزمن لا يتوقف لأنك تنقلت، وانقطاع أدوية مثل الأنسولين أو أدوية ضغط الدم لأيام قليلة قد يُفضي إلى أزمات خطيرة. لهذا، الخطوة الأولى عند الوصول إلى أي مكان هي إبلاغ أي مقدم رعاية صحية بأمراضك المزمنة وأسماء أدويتك.",
+            "مراجعة نشرت في مجلة Conflict and Health عام 2019 وغطّت عدة دول مضيفة للاجئين السوريين وجدت أن انقطاع العلاج عن الأمراض المزمنة كان السبب الرئيسي لحالات الطوارئ القابلة للوقاية في مراكز الصحة. المرضى الذين توقفوا عن أدوية ضغط الدم بسبب عدم توافرها واجهوا معدلات أعلى من السكتة الدماغية.",
+            "اطلب دائما وصفة بالاسم العلمي للدواء (International Non-Proprietary Name) لا الاسم التجاري، لأن نفس الدواء قد يُباع تحت اسم تجاري مختلف في كل بلد. اسأل الصيدلاني عن البديل المتاح وقارن المادة الفعالة. في حالات الضرورة، تستطيع معظم الصيدليات المساعدة في إيجاد البديل إذا حملت الوصفة بالاسم العلمي.",
+            "إذا لم تتمكن من الوصول إلى طبيب متخصص لحالتك المزمنة، اطلب من أي طبيب عام أو عيادة ميدانية صرف أدويتك الحالية كإجراء مؤقت. معظم الأطباء العاملين في خدمات اللاجئين يستطيعون الحفاظ على العلاجات الموجودة لحالات مزمنة مستقرة حتى لو لم يكن بإمكانهم إدارة الحالة كاملا. هذا الجسر العلاجي يحميك من الانقطاع ريثما تحصل على رعاية متخصصة."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "لا تتوقف عن هذه الأدوية فجأة دون استشارة طبية",
+            "items": [
+              "أدوية ضغط الدم: قد يرتفع الضغط بشكل خطير خلال 24 إلى 48 ساعة",
+              "الأنسولين: توقفه يسبب ارتفاعا حادا في السكر قد يؤدي إلى غيبوبة",
+              "أدوية الصرع: التوقف المفاجئ يزيد خطر النوبات الشديدة",
+              "أدوية الاكتئاب والقلق: التوقف المفاجئ يسبب أعراض انسحاب صعبة",
+              "الكورتيزون لفترات طويلة: يحتاج تخفيضا تدريجيا وليس توقفا مفاجئا"
+            ]
+          }
+        },
+        {
+          "h2": "كيف تبني سجلا طبيا شخصيا يسافر معك",
+          "paras": [
+            "السجل الطبي الشخصي هو أهم وثيقة صحية تمتلكها عند التنقل. أي طبيب جديد تزوره يحتاج إلى معرفة تاريخك الطبي ليقدم لك رعاية آمنة. افتح ملفا ورقيا بسيطا أو تطبيقا على هاتفك واكتب فيه: قائمة أمراضك المزمنة، أسماء الأدوية وجرعاتها وأوقاتها، تاريخ آخر فحص مهم أجريته، وأي حساسية من أدوية.",
+            "أضف إلى سجلك نتائج آخر فحوصات الدم التي أجريتها إن توفرت، ورقم فصيلة دمك (Blood Group)، وتاريخ آخر تطعيم حصلت عليه. هذه المعلومات تختصر الوقت عند الوصول إلى أي منشأة صحية وتحمي من الأخطاء الطبية كالحصول على دواء أو علاج لديك حساسية منه.",
+            "إذا كان لديك أطفال، افتح لكل طفل سجلا خاصا به يتضمن بالإضافة إلى ما سبق: وزنه ومنحنى نمو مبسط، وقائمة اللقاحات التي حصل عليها مع تاريخها. في مراكز اللاجئين، تُعطى الأولوية للأطفال ذوي سجلات التطعيم الموثقة في برامج اللقاحات.",
+            "خصص في السجل مكانا لتدوين أي طبيب أو مرفق صحي أجريت فيه أي فحص أو علاج، بما في ذلك تاريخ الزيارة والتشخيص. هذه السجلات تُبنى تدريجيا وتصبح بالغة الأهمية إذا احتجت يوما إلى إثبات حالة طبية لجهة حكومية أو شركة تأمين أو برنامج دعم طبي."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "كيف تبني سجلك الطبي الشخصي في 6 خطوات",
+            "items": [
+              "اكتب اسمك الكامل وتاريخ ميلادك وفصيلة دمك",
+              "أدرج قائمة أمراضك المزمنة بأسمائها الطبية",
+              "اكتب كل دواء تأخذه باسمه العلمي والجرعة ووقت الأخذ",
+              "دوّن أي حساسية لديك من أدوية أو مواد",
+              "احتفظ بصورة من آخر نتائج تحاليلك إن وجدت",
+              "اكتب أسماء اللقاحات التي حصلت عليها وتاريخها"
+            ]
+          }
+        },
+        {
+          "h2": "اللقاحات الفائتة وكيفية تعويضها",
+          "paras": [
+            "التهجير يعني في كثير من الأحيان انقطاع برامج التطعيم، وهذا ينطبق على الأطفال والبالغين على حد سواء. الخبر الجيد هو أن اللقاحات الفائتة يمكن تعويضها في أي وقت، وغالبا ما تقدمها مراكز اللاجئين والعيادات المجتمعية مجانا.",
+            "اللقاحات الأكثر أهمية للأشخاص النازحين تشمل: الحصبة والنكاف والحصبة الألمانية (MMR) التي تنتشر بسرعة في التجمعات المكتظة، وشلل الأطفال الذي لا يزال مصدر قلق في بعض مناطق الصراع، وكوليرا الكوليرا في المناطق المعرضة لتلوث المياه، والتيتانوس المهم بعد الجروح والإصابات.",
+            "للبالغين الذين لا يعرفون تاريخ تطعيمهم، يمكن عادة إعطاء لقاح MMR والتيتانوس بأمان دون الحاجة إلى فحص دم مسبق. اسأل في أي مركز صحي عن جدول التطعيم اللحاق بالركب (Catch-up Schedule) المناسب لعمرك.",
+            "في بيئات النزوح المكتظة، الحصبة هي الأكثر قدرة على الانتشار بين الأمراض القابلة للوقاية باللقاحات، إذ يصيب فيروسها كل شخص غير محصّن في المحيط تقريبا. جرعة واحدة من لقاح الحصبة تحمي بنسبة تتجاوز 90%، وجرعتان تحققان حماية شبه كاملة. لا تؤجل هذا اللقاح إذا لم تتذكر تلقيه أو تلقي أطفالك له."
+          ]
+        },
+        {
+          "h2": "الصحة النفسية بعد التهجير: متى تطلب المساعدة",
+          "paras": [
+            "التهجير تجربة مروّعة تترك أثرا عميقا على الصحة النفسية. دراسة منهجية شاملة نشرت عام 2022 وراجعت عشرات الدراسات على اللاجئين السوريين وجدت أن معدلات اضطراب ما بعد الصدمة (PTSD) وصلت إلى أكثر من 30%، وأن الاكتئاب والقلق شائعان بدرجة مماثلة. هذه ليست ضعفا شخصيا بل استجابة طبيعية لظروف استثنائية قاسية.",
+            "علامات تستدعي طلب المساعدة النفسية: صعوبة النوم أو كوابيس متكررة تتعلق بما مررت به، تجنب الأماكن أو المواقف التي تذكّرك بما حدث، الشعور بالخدر العاطفي أو الانفصال عن الواقع، نوبات بكاء أو غضب لا تشرحها أسباب واضحة، وأفكار سلبية متكررة عن المستقبل أو عن قيمتك كشخص.",
+            "المساعدة النفسية ليست ترفا في ظروف النزوح، بل ضرورة تؤثر على قدرتك على رعاية نفسك وعائلتك. ابحث عن الخدمات النفسية الاجتماعية التي تقدمها المنظمات العاملة في منطقتك. كثير منها يقدم جلسات دعم نفسي جماعية أو فردية بالعربية ومجانا.",
+            "مجموعات الدعم المجتمعي التي يلتقي فيها أشخاص يتشاركون تجارب مشتركة ثبتت فائدتها في تخفيف العزلة وتحسين المرونة النفسية حتى حين لا تتوفر الجلسات الفردية. اسأل في أي مكتب لمنظمة غير حكومية عن وجود مثل هذه المجموعات. للأطفال تحديدا، استعادة الروتين اليومي عبر المدرسة أو أنشطة اللعب من أقوى التدخلات المتاحة."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "warn",
+            "title": "اطلب مساعدة نفسية عاجلة إذا",
+            "items": [
+              "راودتك أفكار لإيذاء نفسك أو الرغبة في الموت",
+              "فقدت القدرة على رعاية نفسك أو أطفالك لأيام متتالية",
+              "أصبحت تعتمد على الكحول أو أي مادة لتهدئة مشاعرك",
+              "توقفت عن الأكل أو النوم لأكثر من يومين"
+            ]
+          }
+        },
+        {
+          "h2": "صحة المرأة والطفل في ظروف النزوح",
+          "paras": [
+            "النساء الحوامل واللواتي يُرضعن يحتجن إلى اهتمام خاص في ظروف النزوح. الولادة في بيئة غير آمنة أو دون رعاية مختصة تشكّل خطرا جسيما. في أقرب وقت ممكن بعد التهجير، أبلغي أي مركز صحي بحملك حتى تُوضع في أولوية الرعاية. معظم المنظمات الصحية تعطي الأولوية للحوامل في برامجها.",
+            "الأطفال أكثر عرضة للإصابة بالأمراض في بيئات النزوح بسبب ضعف المناعة وانعدام التغذية الكافية. راقب وزن طفلك بانتظام، وانتبه لعلامات سوء التغذية مثل النحافة الشديدة أو انتفاخ البطن أو الشعر الضعيف والمتكسر. أشرك الطفل في أي برنامج للتغذية التكميلية متاح في منطقتك.",
+            "التطعيم ضد التهاب الكبد الوبائي والحصبة مهم بشكل خاص للأطفال في مخيمات اللاجئين حيث تزداد الكثافة السكانية. اسأل عن جداول التطعيم المتاحة فور الوصول.",
+            "لا تنسي أن صحة الأم النفسية لها أثر مباشر على صحة الطفل. الأم التي تعاني من اكتئاب ما بعد الولادة أو من ضائقة نفسية شديدة قد تجد صعوبة في الرضاعة الطبيعية أو في قراءة احتياجات طفلها. الاهتمام بصحتك النفسية ليس أنانية بل هو جزء من الاهتمام بصحة أطفالك."
+          ]
+        },
+        {
+          "h2": "كيف يمكن لتطبيق سهلتك مساعدتك",
+          "paras": [
+            "يوفر تطبيق سهلتك مساحة آمنة وخاصة لتسجيل تاريخك الصحي الشخصي وتاريخ عائلتك. يمكنك حفظ نتائج تحاليلك وقائمة أدويتك وتواريخ تطعيماتك في مكان واحد يسهل الوصول إليه من هاتفك في أي وقت ومن أي مكان.",
+            "عند انتقالك إلى طبيب أو مركز صحي جديد، يمكنك مشاركة سجلك مباشرة بدلا من الاعتماد على الذاكرة أو انتظار نقل الملفات من مكان إلى آخر. في ظروف النزوح، هذه القدرة على حمل سجلك الطبي الرقمي معك قد تُحدث فرقا حقيقيا في جودة الرعاية التي تتلقاها."
+          ]
+        }
+      ],
+      "tie": "سهلتك تساعدك على تسجيل نتائج تحاليلك وأدويتك وتواريخ تطعيمات عائلتك في مكان واحد آمن. في ظروف النزوح أو عند الانتقال إلى طبيب جديد، يصبح سجلك الطبي الرقمي هذا أحد أثمن ما تحمل معك.",
+      "faqs": [
+        {
+          "q": "هل يمكنني الحصول على رعاية صحية مجانية كلاجئ؟",
+          "a": "نعم في معظم الحالات. المفوضية السامية للأمم المتحدة لشؤون اللاجئين والمنظمات الشريكة معها تشغّل عيادات مجانية أو مدعومة في دول كالأردن ولبنان وتركيا والعراق ومصر. حتى في المدن التي لا توجد فيها مخيمات، توجد في الغالب عيادات مجتمعية غير حكومية تقدم خدمات بتكلفة منخفضة أو معدومة. ابدأ بالتسجيل في أقرب مكتب للمفوضية السامية للأمم المتحدة لشؤون اللاجئين."
+        },
+        {
+          "q": "ما الذي يجب أن أحمله معي من وثائق طبية عند التنقل؟",
+          "a": "احرص على حمل: قائمة أدويتك بالأسماء العلمية والجرعات، فصيلة دمك، أي وثيقة تثبت أمراضك المزمنة (تشخيص طبي سابق)، وسجل تطعيمات أطفالك. إذا لم يتوفر لديك شيء مكتوب، اكتب هذه المعلومات بنفسك على ورقة واحتفظ بها آمنة. التطبيقات الصحية الرقمية خيار ممتاز لحفظ هذه المعلومات."
+        },
+        {
+          "q": "ماذا أفعل إذا انتهت أدويتي ولم أجد بديلا؟",
+          "a": "أولا: لا تتوقف فجأة عن أدوية القلب أو ضغط الدم أو الأعصاب. اذهب فورا إلى أقرب مركز صحي أو صيدلية واشرح وضعك. اطلب أي دواء يحتوي على نفس المادة الفعالة حتى لو كان اسمه مختلفا. منظمة أطباء بلا حدود وعيادات المفوضية تحتفظ في الغالب باحتياطي من الأدوية الأساسية للحالات الطارئة."
+        },
+        {
+          "q": "كيف أجد طبيبا يتكلم العربية في بلد جديد؟",
+          "a": "تواصل مع مكتب المفوضية السامية للأمم المتحدة لشؤون اللاجئين المحلي أولا، إذ تحتفظ هذه المكاتب في الغالب بقوائم مقدمي الرعاية الصحية العرب أو الناطقين بالعربية. الجاليات العربية المحلية ومجموعات واتساب المجتمعية مصدر ممتاز آخر. كما تعمل بعض المستشفيات التعليمية الكبرى على توفير مترجمين في حالات الطوارئ."
+        },
+        {
+          "q": "هل يمكن لأطفالي الحصول على لقاحاتهم الفائتة في دولة اللجوء؟",
+          "a": "نعم بالتأكيد. جداول تعويض اللقاحات (Catch-up Schedules) متاحة في معظم دول العالم ولا توجد لقاحات يمنع إعطاؤها بسبب الفوات. اذهب إلى أي مركز صحية أو عيادة تتعامل مع اللاجئين وأخبرهم بعمر طفلك وما تتذكره من لقاحاته السابقة. سيحددون الجدول المناسب لإتمام التطعيم."
+        },
+        {
+          "q": "هل الضغط النفسي الشديد بعد التهجير طبيعي؟",
+          "a": "الاضطراب العاطفي والقلق الشديد والكوابيس ومشاعر الحزن بعد التهجير هي استجابة إنسانية طبيعية لتجربة صعبة. لكن إذا استمرت هذه المشاعر أسابيع وبدأت تؤثر على قدرتك على العمل أو رعاية نفسك، فهذا يستحق التقييم من متخصص. طلب المساعدة النفسية في هذه الحالة ليس ضعفا، بل هو الخطوة العملية الصحيحة."
+        },
+        {
+          "q": "كيف أتعامل مع طفل يظهر علامات الصدمة النفسية؟",
+          "a": "الأطفال يعبّرون عن الصدمة بطرق مختلفة: التبوّل اللاإرادي بعد سن السيطرة عليه، والتراجع في الكلام، والخوف من الظلام أو الأصوات العالية، والانسحاب الاجتماعي. الإجراء الأول هو الاستقرار وإبقاء الروتين اليومي قدر الإمكان. إذا استمرت الأعراض أو تفاقمت، اطلب المساعدة من أخصائي نفسي متخصص في صحة الأطفال."
+        },
+        {
+          "q": "هل أحتاج إلى هوية أو وثيقة للوصول إلى الطوارئ الطبية؟",
+          "a": "قانونيا، قسم الطوارئ في أي مستشفى حكومي في معظم دول العالم ملزم بتقديم الإسعاف الأولي بصرف النظر عن وضع التأشيرة أو الهوية. الرعاية المنقذة للحياة لا تُرفض في الطوارئ. بعد استقرار الحالة قد تُطرح أسئلة عن الهوية، لكن لا أحد يُرفض في الطوارئ الحقيقية بسبب غياب الوثائق."
+        }
+      ]
+    },
+    "en": {
+      "title": "Health care when you are displaced: a practical guide",
+      "desc": "Access care, manage chronic conditions, catch up vaccinations, and keep a health record that travels with you. A practical guide for refugees and displaced people.",
+      "keywords": "refugee health, displaced person healthcare, chronic disease displacement, personal health record, mental health displacement, refugee vaccination, Syria refugee health, camp health services",
+      "h1": "Health care when you are displaced: getting what you need, wherever you are",
+      "takeaways": [
+        "Keep a paper copy of your medication list and medical history. It is your entry point to continued treatment wherever you go.",
+        "Free or low-cost health services exist in most major displacement settings through UNHCR, IOM and organisations such as Medecins Sans Frontieres.",
+        "Chronic conditions like diabetes and high blood pressure do not pause when you move. Continuity of treatment matters as much in displacement as it does at home.",
+        "Psychological distress after displacement is a medical issue, not a personal failing, and it is treatable.",
+        "Missed vaccinations can be caught up at any age. No vaccination is permanently lost because of late delivery."
+      ],
+      "sections": [
+        {
+          "h2": "What health problems are most common among displaced people?",
+          "paras": [
+            "Displaced populations face a distinct combination of health challenges. Lost medical records, interrupted treatment chains, unfamiliar water and food sources, and crowded living conditions compound over time in ways that are not always immediately visible.",
+            "A 2015 study published in BMC Public Health, which surveyed more than 1,500 Syrian refugees in Jordan, found that over 29% had at least one chronic condition, and a large proportion had no regular access to care. Hypertension, diabetes and chronic respiratory disease were the most commonly documented illnesses in that population.",
+            "The most frequently encountered health problems include acute respiratory infections from poor ventilation in shelters, skin and eye infections, diarrhoeal illness from unsafe water, and the worsening of pre-existing chronic conditions that were already being managed before displacement occurred.",
+            "A follow-up review published in the Journal of Migration and Health in 2022, looking at Jordan and Lebanon, confirmed that this pattern persists over years of displacement. Access to care improved when host countries formally integrated refugee health services into national primary care networks, but large gaps remain for specialised conditions, mental health and dental care. Understanding which services exist in your specific area is the single most useful first step."
+          ],
+          "visual": {
+            "type": "stats",
+            "items": [
+              {"value": "29%+", "label": "of Syrian refugees in Jordan had at least one chronic disease", "tone": "warn"},
+              {"value": "3", "label": "commonest conditions: hypertension, diabetes, and chronic lung disease", "tone": "info"}
+            ],
+            "source": "Doocy et al., BMC Public Health, 2015",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/26521231/"
+          }
+        },
+        {
+          "h2": "How to find health services in your current location",
+          "paras": [
+            "The first step is knowing who provides services in your area. UNHCR operates or funds clinics in most major host countries including Jordan, Lebanon, Turkey, Iraq and Egypt. IOM provides health assessments on arrival and vaccination. Medecins Sans Frontieres works in conflict zones and border areas and provides emergency care at no cost.",
+            "If you are living in a city rather than a camp, look for community health clinics working with non-governmental organisations. Many provide care without requiring identity documents in emergencies. Ask at any pharmacy or local school about the nearest subsidised clinic. Pharmacists are often well informed about available community resources.",
+            "If you are in a country with a functioning public health system, many countries offer emergency hospital access to all persons regardless of visa or insurance status. Find out what your legal rights are in your current country. Jordan, for example, formally commits to providing refugee care to registered individuals, while Turkey offers services through its Migrant Health Centres.",
+            "In larger cities, pharmacies are often the most accessible first point of contact. A pharmacist can advise on basic treatments, point you to the nearest free clinic, and sometimes provide medications for acute conditions without a prescription at lower cost than a private clinic. Do not underestimate the pharmacy as a starting point, particularly for common infections, wound care and pain management while you are arranging longer-term care."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Key organisations providing health care to displaced people",
+            "head": ["Organisation", "Type of service", "How to reach them"],
+            "rows": [
+              ["UNHCR", "Primary care clinics and referral", "unhcr.org or local office"],
+              ["IOM", "Arrival health checks and vaccination", "iom.int or border entry points"],
+              ["MSF", "Emergency care in conflict areas", "msf.org"],
+              ["Public hospitals", "Emergency and primary care", "Nearest government hospital"]
+            ]
+          }
+        },
+        {
+          "h2": "Managing a chronic condition without your usual doctor",
+          "paras": [
+            "The biggest challenge for displaced people with chronic illness is treatment interruption. A chronic condition does not stop because you have moved. Stopping medicines such as insulin or blood pressure medication for even a few days can trigger serious crises. The first step on arriving anywhere new is to tell any available health provider about your chronic conditions and the names of your medicines.",
+            "A review published in Conflict and Health in 2019, which covered several host countries for Syrian refugees, found that treatment interruption for chronic diseases was the leading cause of preventable emergency presentations at health centres. Patients who stopped blood pressure medication because it was unavailable faced higher rates of stroke and hypertensive emergency.",
+            "Always ask for prescriptions written in the generic, or International Non-Proprietary Name, of a drug rather than the brand name. The same molecule may be sold under a completely different brand in your new country. Show the generic name at any pharmacy and ask whether a local equivalent is available. In a genuine emergency, most pharmacies can help identify an equivalent if you carry the generic name.",
+            "If you cannot find a specialist for a chronic condition, ask for interim prescriptions from a general practitioner or the clinic on site. Most general doctors can maintain existing treatments for stable chronic conditions even if they cannot initiate new specialist-level management. This bridge approach keeps you from going without treatment while you wait for specialist access, which can take weeks in a new system."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "Never stop these medicines suddenly without medical advice",
+            "items": [
+              "Blood pressure drugs: pressure can rise dangerously within 24 to 48 hours of stopping",
+              "Insulin: stopping causes acute blood sugar rise that can lead to diabetic coma",
+              "Anti-epileptic drugs: abrupt stop increases the risk of severe seizures",
+              "Antidepressants and anti-anxiety drugs: sudden stopping causes difficult withdrawal symptoms",
+              "Long-term corticosteroids: these need gradual tapering, not sudden stopping"
+            ]
+          }
+        },
+        {
+          "h2": "Building a personal health record that travels with you",
+          "paras": [
+            "A personal health record is the most important medical document you can carry in displacement. Any new doctor or nurse needs your medical history to provide safe care. Open a simple paper folder or a health app on your phone and record: your list of chronic conditions, the names and doses of all your medicines, the timing of your last key test, and any known drug allergies.",
+            "Add to your record the results of your most recent blood tests if you have them, your blood group, and the dates of your last vaccinations. This information saves time at any health facility and protects you from medical errors such as receiving a treatment you are allergic to.",
+            "If you have children, keep a separate record for each child. Include weight, a simplified growth record, and the vaccinations each child has received with dates. In refugee settings, children with documented vaccination histories are often prioritised in catch-up immunisation programmes, which is the fastest way to close any gaps.",
+            "Reserve space in your record for noting every health facility you have visited, the date, the diagnosis given and any treatment received. These records build over time and can become critically important if you ever need to demonstrate a medical condition to a government authority, an insurance provider or a medical support programme."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "How to build your personal health record in 6 steps",
+            "items": [
+              "Write your full name, date of birth and blood group",
+              "List your chronic conditions by their medical names",
+              "Write every medicine you take with its generic name, dose and timing",
+              "Note any drug or substance allergies",
+              "Keep a copy or photograph of your most recent test results",
+              "Record the vaccinations you have received with their dates"
+            ]
+          }
+        },
+        {
+          "h2": "Missed vaccinations: how to catch up",
+          "paras": [
+            "Displacement frequently breaks vaccination schedules, for children and adults alike. The good news is that missed vaccinations can be given at any age, and in most displacement health programmes they are provided free of charge.",
+            "The vaccines of highest priority in displacement settings are measles, mumps and rubella (MMR), which spread rapidly in crowded conditions; oral polio vaccine in areas where polio remains a risk; hepatitis A where water and food safety are uncertain; and tetanus, which becomes especially important after any wound or injury in unsanitary conditions.",
+            "For adults who do not know their vaccination history, MMR and tetanus vaccines can generally be given safely without prior blood testing. Ask at any health centre about the catch-up schedule appropriate to your age. Most international health programmes in displacement settings use the same WHO-recommended schedules.",
+            "In crowded displacement settings, measles is the most transmissible of all vaccine-preventable diseases. A single dose of measles vaccine provides over 90% protection, and two doses bring protection close to complete. If you are unsure whether you or your children received measles vaccination, do not delay asking. Outbreaks in camps spread rapidly and the consequences for young children can be severe."
+          ]
+        },
+        {
+          "h2": "Mental health after displacement: when to ask for help",
+          "paras": [
+            "Displacement is a traumatic experience that leaves a lasting mark on mental health. A systematic review published in 2022 that examined dozens of studies on Syrian refugees found rates of post-traumatic stress disorder (PTSD) exceeding 30%, with depression and anxiety similarly prevalent. These are not personal weaknesses. They are predictable medical responses to extreme circumstances.",
+            "Signs that warrant seeking mental health support include: difficulty sleeping or repeated nightmares linked to what you experienced; avoiding places or situations that remind you of what happened; emotional numbness or a sense of disconnection from daily life; episodes of crying or anger that have no clear external cause; and repeated negative thoughts about the future or your own worth as a person.",
+            "Mental health support is not a luxury in displacement. It affects your ability to care for yourself and your family. Look for psychosocial support services run by organisations in your area. Many offer group or individual sessions in Arabic at no cost. The barrier to asking is the hardest part. The services themselves are usually accessible once you take the first step.",
+            "Community support groups, where people with shared experiences meet regularly, have been shown to reduce isolation and improve coping even when formal therapy is unavailable. Ask at any NGO office whether such groups exist. For children especially, re-establishing structured routines through school, play activities or community programmes is one of the most effective interventions available."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "warn",
+            "title": "Seek urgent mental health support if",
+            "items": [
+              "You are having thoughts of harming yourself or wishing to die",
+              "You have lost the ability to care for yourself or your children for several days",
+              "You are relying on alcohol or any substance to manage your feelings",
+              "You have stopped eating or sleeping for more than two days"
+            ]
+          }
+        },
+        {
+          "h2": "Women's and children's health in displacement",
+          "paras": [
+            "Pregnant and breastfeeding women need special attention in displacement settings. Giving birth without trained attendants in an unsafe environment carries serious risk. As soon as possible after arriving anywhere, inform any health provider of your pregnancy so you are prioritised within available care programmes. Most international health organisations prioritise pregnant women in their services.",
+            "Children are more vulnerable to illness in displacement environments because of weakened immunity and inadequate nutrition. Monitor your child's weight regularly and watch for signs of malnutrition such as extreme thinness, swollen abdomen, or thin and brittle hair. Enrol the child in any supplementary feeding programme available in your area.",
+            "Vaccination against hepatitis A, measles and rotavirus is particularly important for young children in crowded refugee settings where transmission is easiest. Ask about available vaccination schedules as soon as you arrive at any settlement."
+          ]
+        },
+        {
+          "h2": "How the Sihtak app can help you",
+          "paras": [
+            "The Sihtak app provides a private, secure space to record your personal and family health history. You can save test results, medication lists, vaccination dates and notes about your conditions in one place that you can access from your phone at any time and from any location.",
+            "When you move to a new doctor or health centre, you can share your record directly rather than relying on memory or waiting for files to be transferred between locations. In displacement, the ability to carry your medical record with you digitally can make a real and immediate difference to the quality of care you receive."
+          ]
+        }
+      ],
+      "tie": "The Sihtak app lets you record your test results, medications and family vaccination history in one secure place. In displacement or when moving to a new provider, your digital health record becomes one of the most practical things you carry.",
+      "faqs": [
+        {
+          "q": "Can I get free health care as a refugee?",
+          "a": "Yes, in most situations. UNHCR and its partner organisations operate free or subsidised clinics in host countries including Jordan, Lebanon, Turkey, Iraq and Egypt. Even in cities without camps, there are usually community clinics run by NGOs that provide services at low or no cost. Start by registering with the nearest UNHCR office, as this opens access to a wider network of services."
+        },
+        {
+          "q": "What medical documents should I carry when moving?",
+          "a": "Carry your medication list with generic names and doses, your blood group, any documentation of your chronic conditions, and your children's vaccination records. If you have nothing written down, write this information yourself on a single sheet of paper and keep it safe. Digital health apps are an excellent option for storing this information securely."
+        },
+        {
+          "q": "What do I do if my medicine runs out and I cannot find a replacement?",
+          "a": "First, do not stop heart, blood pressure or nerve medicines abruptly. Go immediately to the nearest health centre or pharmacy and explain your situation. Ask for any medicine containing the same active ingredient even if the brand name is different. MSF clinics and UNHCR health facilities typically hold reserves of essential medicines for urgent situations."
+        },
+        {
+          "q": "How do I find an Arabic-speaking doctor in a new country?",
+          "a": "Contact the local UNHCR office first, as these offices usually maintain lists of Arabic-speaking or Arabic-aware health providers. Local Arab community groups and community messaging platforms are another reliable source. Some large teaching hospitals also provide interpretation services in emergencies."
+        },
+        {
+          "q": "Can my children get their missed vaccinations in the host country?",
+          "a": "Yes, absolutely. Catch-up vaccination schedules are available in most countries, and there is no vaccine that becomes permanently unavailable just because it was given late. Go to any health centre working with refugees, tell them your child's age and what you remember of previous vaccinations, and they will determine the appropriate schedule to complete immunisation."
+        },
+        {
+          "q": "Is severe psychological distress after displacement normal?",
+          "a": "Emotional disturbance, intense anxiety, nightmares and profound sadness after displacement are normal human responses to an extreme experience. If these feelings persist for weeks and begin to affect your ability to function or care for yourself, they deserve professional evaluation. Seeking psychological help at that point is the practical and correct step."
+        },
+        {
+          "q": "Do I need identification to access emergency medical care?",
+          "a": "Legally, an emergency department in any government hospital in most countries is required to provide life-saving treatment regardless of visa or identity status. Care that saves a life is not withheld in genuine emergencies because documents are missing. Questions about identity may come after the acute situation is stabilised, but no one is denied emergency treatment for lacking papers."
+        },
+        {
+          "q": "How do I handle a child showing signs of psychological trauma?",
+          "a": "Children express trauma differently from adults. Signs include bedwetting after previously achieving bladder control, regression in speech, fear of darkness or loud noises, and social withdrawal. The first priority is stability: maintaining a daily routine as much as possible is protective. If symptoms persist or worsen, seek support from a psychologist or social worker who specialises in children's mental health."
+        }
+      ]
+    }
+  }
+}

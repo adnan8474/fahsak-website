@@ -1,0 +1,412 @@
+{
+  "slug": "pregnancy-tests-schedule",
+  "category": "womens-health",
+  "chip_ar": "صحة المراة",
+  "chip_en": "Women's Health",
+  "date_iso": "2026-07-14",
+  "sources": [
+    {
+      "label": "Poon LC, Shennan A, Hyett JA et al: The International Federation of Gynecology and Obstetrics (FIGO) initiative on pre-eclampsia: A pragmatic guide for first-trimester screening and prevention, International journal of gynaecology and obstetrics, 2019",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31111484/"
+    },
+    {
+      "label": "Suciu I, Galeva S, Abdel Azim S et al: First-trimester screening-biomarkers and cell-free DNA, The journal of maternal-fetal and neonatal medicine, 2021",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31766927/"
+    },
+    {
+      "label": "Paquet C, Yudin MH, Society of Obstetricians and Gynaecologists of Canada et al: Toxoplasmosis in pregnancy: prevention, screening, and treatment, Journal of obstetrics and gynaecology Canada, 2013",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23343802/"
+    },
+    {
+      "label": "World Health Organization: WHO recommendations on antenatal care for a positive pregnancy experience",
+      "url": "https://www.who.int/publications/i/item/9789241549912"
+    },
+    {
+      "label": "Al-Rifai RH, Aziz F: Prevalence of type 2 diabetes, prediabetes, and gestational diabetes mellitus in women of childbearing age in Middle East and North Africa, 2000-2017: protocol for two systematic reviews and meta-analyses, Systematic reviews, 2018",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30021654/"
+    },
+    {
+      "label": "Matarrelli B, Khalil A, Bernassola M et al: Outcome of fetuses with early increased nuchal translucency: systematic review and meta-analysis, Ultrasound in obstetrics and gynecology, 2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40519157/"
+    }
+  ],
+  "content": {
+    "ar": {
+      "title": "فحوصات الحمل: الجدول الكامل من الأسبوع الأول",
+      "desc": "دليل شامل يأخذك فحصاً فحصاً وسونار سونار عبر مراحل الحمل الثلاث، مع توضيح الهدف من كل اختبار، وما تعنيه نتائجه، والنوافذ الزمنية التي لا يمكن تعويضها.",
+      "keywords": "فحوصات الحمل, تحاليل الحمل, متابعة الحمل, سونار الحمل, فحص الثلث الأول, تحليل دم الحامل, فحص السكر للحامل, التشوهات الجنينية",
+      "h1": "فحوصات الحمل: الجدول الكامل بمراحله الثلاث",
+      "takeaways": [
+        "فحوصات الحمل لا تكتشف المشاكل فحسب، بل تتيح معالجتها قبل أن تصبح خطرة على الأم أو الجنين.",
+        "الثلث الأول (حتى الأسبوع 13) هو الأكثر كثافة في الفحوصات لأن كثيرا من الأمور الحرجة تُقيَّم فيه.",
+        "بعض الفحوصات مثل السونار التشريحي وفحص السكر مُحددة الأسابيع ولا يمكن تعويضها لاحقاً.",
+        "في كثير من بلدان المنطقة توجد فجوة بين ما تنصح به منظمة الصحة العالمية وما هو متاح فعلياً في العيادات.",
+        "سجّلي نتائج كل فحص بنفسك حتى لا يضيع السجل إذا غيّرت الطبيب أو المستشفى."
+      ],
+      "sections": [
+        {
+          "h2": "لماذا هذه الفحوصات ضرورية وليست مجرد روتين؟",
+          "paras": [
+            "الحمل عملية فسيولوجية طبيعية لكنه يضع الجسم تحت ضغط استثنائي، وكثير من الحالات الخطرة تبدأ بدون أعراض. ضغط الدم المرتفع في الحمل (تسمم الحمل) يصيب ما بين 5% و10% من الحوامل عالمياً لكنه غالباً لا يُسبب ألماً قبل أن يصبح خطيراً. الفحص المبكر هو الطريق الوحيد للكشف عنه في وقت يمكن فيه التدخل.",
+            "فحوصات الحمل تنقسم إلى نوعين: فحوصات تحليل الدم التي تقيس مؤشرات الأم، وفحوصات التصوير بالموجات فوق الصوتية (السونار) التي تراقب الجنين. كلا النوعين يكمل الآخر ولا يغني أحدهما عن الآخر.",
+            "توصي منظمة الصحة العالمية بثماني زيارات رعاية ما قبل الولادة كحد أدنى، أربع منها في الأشهر الأولى. في واقع المنطقة العربية، خاصة في المناطق الريفية أو البلدان التي تعاني أنظمتها الصحية من ضغوط، قد لا يتحقق هذا الرقم. ما يمكنك فعله هو معرفة الفحوصات الأساسية والمطالبة بها."
+          ],
+          "visual": {
+            "type": "stats",
+            "items": [
+              {"value": "8", "label": "زيارات رعاية ما قبل الولادة تنصح بها منظمة الصحة العالمية كحد أدنى", "tone": "info"},
+              {"value": "5-10%", "label": "من الحوامل عالمياً يصبن بتسمم الحمل", "tone": "warn"}
+            ]
+          }
+        },
+        {
+          "h2": "فحوصات الثلث الأول: من الأسبوع الأول حتى الأسبوع الثالث عشر",
+          "paras": [
+            "أول شيء تحتاجين إليه هو تحليل الحمل بالدم (Beta-hCG)، وهو أدق من اختبار البول المنزلي خاصة في المراحل المبكرة جداً. هذا التحليل يؤكد الحمل ويساعد على تحديد العمر الافتراضي. في حالات خاصة مثل الشك في حمل خارج الرحم، يكرَّر لمراقبة ارتفاع قيمته.",
+            "في الأسبوع السادس تقريباً يُجرى أول سونار للحمل للتحقق من وجود الجنين داخل الرحم وسماع أو رؤية نبضات القلب. هذا مهم بشكل خاص إذا كنت تعانين من آلام البطن أو نزيف خفيف.",
+            "بين الأسبوعين 11 و13 يأتي سونار الثلث الأول (سونار قياس ثخانة عظمة الرقبة، Nuchal Translucency). هذا التصوير يقيس سماكة السائل خلف رقبة الجنين، وعندما يُضاف إلى تحليلي PAPP-A وhCG في الدم، يُعطي احتمالية وجود تشوهات كروموسومية مثل متلازمة داون. كشفت دراسة منهجية نُشرت عام 2025 أن زيادة سماكة هذا القياس ترتبط بمجموعة واسعة من النتائج الجنينية غير الطبيعية.",
+            "في الثلث الأول تُجرى أيضاً مجموعة من تحاليل الدم الأساسية: فصيلة الدم وعامل ريزوس (RH) لأن الأم السالبة (RH-) تحتاج إبرة وقائية خاصة، وتعداد الدم الكامل (CBC) لكشف الأنيميا المبكرة، وفحص سكر الدم الصائم، وتحاليل وظائف الكلى والكبد، وفحص أمراض الغدة الدرقية (TSH)، وتحاليل الأمراض المعدية التي تنتقل في الحمل مثل التوكسوبلازما والحصبة الألمانية والتهاب الكبد B والزهري والإيدز."
+          ],
+          "visual": {
+            "type": "timeline",
+            "title": "التسلسل الزمني لفحوصات الثلث الأول",
+            "items": [
+              {"when": "الأسبوع 1-5", "what": "تحليل Beta-hCG لتأكيد الحمل وتحديد عمره"},
+              {"when": "الأسبوع 6-8", "what": "أول سونار للتأكد من وجود الجنين داخل الرحم ونبضات قلبه"},
+              {"when": "الأسبوع 9-11", "what": "تحاليل الدم الشاملة: فصيلة الدم، CBC، سكر، كبد، كلى، TSH، أمراض معدية"},
+              {"when": "الأسبوع 11-13", "what": "سونار قياس ثخانة عظمة الرقبة (NT) مع تحاليل PAPP-A وhCG لتقدير خطر التشوهات الكروموسومية"}
+            ]
+          }
+        },
+        {
+          "h2": "ماذا تعني نتائج فحص الثلث الأول للتشوهات الكروموسومية؟",
+          "paras": [
+            "نتيجة فحص الثلث الأول ليست تشخيصاً، بل احتمالية. تقول لك مثلاً إن خطر متلازمة داون عند طفلك هو 1:200 (أي واحد من كل 200 حمل بهذا الاحتمال). لا يعني ذلك أن طفلك مصاب، بل أن هناك احتمالاً يستدعي مزيداً من الفحص إن كانت النسبة مرتفعة. معظم الأمهات اللواتي يحصلن على نتيجة عالية الخطورة يُنجبن أطفالاً سليمين تماماً.",
+            "إذا كانت الاحتمالية مرتفعة (تختلف حدود القطع من مستشفى لآخر، لكن غالباً 1:250 أو أقل)، يُعرض عليك فحص الحمض النووي الحر في دم الأم (NIPT). هذا الفحص دقيق جداً في الكشف عن ثلاثيات الكروموسوم الشائعة (21 و18 و13) لكنه لا يتوفر في جميع مستشفيات المنطقة وتكلفته تتراوح بين 300 و600 دولار في أغلب الدول. البديل القاطع هو أخذ عينة من المشيمة (خزعة زغابات المشيمة، CVS) في الثلث الأول أو من السائل الأمنيوسي (بزل السلى) في الثلث الثاني، وكلاهما ينطوي على خطر إجهاض صغير يجب مناقشته مع الطبيب.",
+            "المهم أن تعرفي أن الفحص الطبيعي لا يضمن صحة الجنين بنسبة 100%، إذ يغطي فحص الثلث الأول عدداً محدوداً من الحالات الكروموسومية. والفحص الذي يُظهر احتمالية مرتفعة لا يعني بالضرورة إصابة الجنين. ناقشي النتائج بتمهل مع طبيبك واطلبي شرحاً واضحاً لما تعنيه الأرقام قبل اتخاذ أي قرار. التسرع في هذه المرحلة يسبب قلقاً غير مبرر أو قرارات غير مبنية على أساس صحيح."
+          ]
+        },
+        {
+          "h2": "فحوصات الثلث الثاني: من الأسبوع 14 حتى الأسبوع 27",
+          "paras": [
+            "أهم فحص في هذه المرحلة هو السونار التشريحي (Anomaly Scan)، ويُجرى بين الأسبوعين 18 و22. هذا السونار يفحص تشريح الجنين بشكل مفصل: القلب والدماغ والعمود الفقري والكلى والأطراف والمشيمة وكمية السائل الأمنيوسي. تأخيره عن الأسبوع 24 يقلل دقته لأن الجنين يكبر ويصبح أصعب في التصوير الكامل.",
+            "بين الأسبوعين 24 و28 يأتي فحص السكر في الحمل (اختبار تحمل الغلوكوز الفموي، OGTT). هذا الفحص مهم بشكل خاص في المنطقة العربية حيث تُشير بيانات منظمة الصحة العالمية إلى أن سكري الحمل في منطقة الشرق الأوسط وشمال أفريقيا يقع ضمن أعلى معدلات الانتشار في العالم. ستجدين تفاصيله في مقال مخصص.",
+            "في هذه المرحلة أيضاً يُراقَب ضغط الدم في كل زيارة، وقد يُعاد فحص CBC إذا كانت الأنيميا موجودة في الثلث الأول. في بعض حالات الخطر المرتفع يُجرى سونار دوبلر (Doppler) لتقييم تدفق الدم في حبل السرة والمشيمة."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "الفحوصات الرئيسية بحسب الثلث",
+            "head": ["الثلث", "الفحص", "الهدف الرئيسي"],
+            "rows": [
+              ["الأول (1-13)", "Beta-hCG، سونار مبكر، NT، تحاليل شاملة", "تأكيد الحمل وتقدير خطر التشوهات الكروموسومية"],
+              ["الثاني (14-27)", "سونار تشريحي، OGTT، مراقبة ضغط الدم", "فحص تشريح الجنين والكشف عن سكري الحمل"],
+              ["الثالث (28-40)", "سونار النمو، عامل Rh للسالبات، فحص GBS، مراقبة ضغط الدم", "تقييم نمو الجنين ووضعه والتحضير للولادة"]
+            ]
+          }
+        },
+        {
+          "h2": "فحوصات الثلث الثالث: من الأسبوع 28 حتى الولادة",
+          "paras": [
+            "في الأسبوع 28 تقريباً تحتاج كل أم سالبة ريزوس (RH-) إلى حقنة Anti-D إذا كان الجنين محتملاً أن يكون موجباً. هذه الحقنة تمنع تحسس جهاز المناعة ضد خلايا الدم الريزوسية، وهو التحسس الذي إذا حدث قد يضر الحمل التالي ضرراً شديداً لأن جهاز المناعة يتذكره. توفر هذه الحقنة يتباين بين المستشفيات في المنطقة لذا اسألي عنها مسبقاً في أول زيارة.",
+            "بين الأسبوعين 35 و37 يُجرى فحص المكورات العقدية من المجموعة B (GBS)، وهو مسحة من المهبل والشرج. هذه البكتيريا تستوطن ما يقارب 20% من النساء دون أن تسبب لهن أي أعراض، لكنها قد تسبب عدوى خطيرة عند المولود أثناء مروره في قناة الولادة. الاختبار الإيجابي يعني إعطاء المضاد الحيوي عبر الوريد أثناء الوضع لا قبله، وهو إجراء فعّال جداً في الوقاية من عدوى المولود.",
+            "في الأسابيع الأخيرة تُكرَّر سونارات النمو كل 3 إلى 4 أسابيع لمراقبة وزن الجنين المقدر ووضعه ومستوى السائل الأمنيوسي. يُستكمل فحص CBC للتأكد من أن مستوى الهيموغلوبين مناسب للولادة. مراقبة نبضات قلب الجنين بالـCTG (Cardiotocography) تبدأ عادة من الأسبوع 36 إذا كانت هناك عوامل خطر مثل تأخر النمو أو ارتفاع ضغط الدم.",
+            "في المناطق التي تشيع فيها التوكسوبلازما مثل بعض مناطق المشرق وشمال أفريقيا، حيث يشيع أكل اللحم غير المطبوخ جيداً أو التعامل مع القطط، قد يُعاد فحص الأجسام المضادة للتوكسوبلازما في الثلث الثالث إذا كان الفحص الأول سلبياً. دراسة كندية نُشرت عام 2013 أكدت أهمية المراقبة المستمرة للمصابات الجديدة أثناء الحمل لأن العلاج المبكر يقلل من خطر انتقال العدوى للجنين."
+          ]
+        },
+        {
+          "h2": "كيف تقرئين نتيجة صورة الدم الكاملة في الحمل؟",
+          "paras": [
+            "الأنيميا هي أكثر نتائج تحاليل الحمل شيوعاً في المنطقة. منظمة الصحة العالمية تعرّف الأنيميا في الحمل بأنها هيموغلوبين (Hgb) أقل من 11 غ/ديسيليتر في الثلث الأول والثالث، وأقل من 10.5 في الثلث الثاني. أنيميا الحديد هي الأكثر شيوعاً وتظهر كذلك في انخفاض الحديد المصلي والفيريتين مع ارتفاع TIBC.",
+            "فحص CBC يُظهر أيضاً مستوى الصفائح الدموية (Platelets). انخفاضها الحاد في الحمل قد يكون علامة لحالات خطيرة مثل تسمم الحمل الشديد أو متلازمة HELLP. إذا كان عدد الصفائح أقل من 100,000 في المكعب الملليمتري في الثلث الثالث فأبلغي طبيبك فوراً.",
+            "فحص وظائف الكبد يُطلب أحياناً بشكل منفصل. ارتفاع إنزيمات الكبد مع انخفاض الصفائح وارتفاع ضغط الدم يشكّل ثلاثي الخطر الذي يسمى متلازمة HELLP، وهو حالة طارئة تستدعي الولادة الفورية."
+          ],
+          "visual": {
+            "type": "range-scale",
+            "title": "الهيموغلوبين الطبيعي في الحمل",
+            "label": "Hgb",
+            "unit": "غ/ديسيليتر",
+            "min": 7,
+            "max": 14,
+            "zones": [
+              {"to": 10.5, "tone": "bad", "label": "أنيميا تحتاج علاجاً"},
+              {"to": 11, "tone": "warn", "label": "حد الثلث الثاني"},
+              {"to": 14, "tone": "good", "label": "طبيعي"}
+            ],
+            "source": "منظمة الصحة العالمية: الأنيميا في الحمل"
+          }
+        },
+        {
+          "h2": "فحوصات قد لا تجدينها في كل مكان: ماذا تفعلين؟",
+          "paras": [
+            "بعض الفحوصات المعيارية في أوروبا وأمريكا الشمالية غير متوفرة في كثير من مستشفيات المنطقة أو تكلفتها مرتفعة جداً. NIPT مثلاً قد يكلف ما بين 300 و600 دولار أو أكثر في بعض الدول، وقد لا يُغطيه التأمين.",
+            "في هذه الحالة ناقشي مع طبيبك البديل المتاح. السونار التشريحي الجيد يمكنه اكتشاف كثير من التشوهات الهيكلية حتى إن لم يتوفر NIPT. أفضل الخيارات المتاحة أفضل من الإحجام عن الفحص كلياً.",
+            "إذا كان الوصول إلى مستشفى متخصص صعباً، استوعبي الفحوصات التي لها نافذة زمنية محددة لا يمكن تعويضها: السونار بين الأسبوعين 11 و13 للـNT، والسونار التشريحي بين الأسبوعين 18 و22، وفحص OGTT بين الأسبوعين 24 و28. إذا تجاوزت هذه النوافذ فات الأوان لإجراء بعضها."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "warn",
+            "title": "نوافذ الفحص التي لا تنتظر",
+            "items": [
+              "السونار الكروموسومي (NT): لا بد من إجرائه قبل الأسبوع 13+6",
+              "السونار التشريحي الكامل: بين الأسبوعين 18 و22 فقط",
+              "فحص السكر التحملي (OGTT): بين الأسبوعين 24 و28",
+              "إبرة Anti-D للسالبة ريزوس: في الأسبوع 28 وبعد كل نزيف أو صدمة"
+            ]
+          }
+        },
+        {
+          "h2": "نصائح عملية لتتبع فحوصاتك في المنطقة",
+          "paras": [
+            "احتفظي بنسخة ورقية أو رقمية من كل نتيجة فحص. في كثير من مستشفيات المنطقة لا يوجد سجل إلكتروني موحد، وإذا غيّرت الطبيب أو انتقلت إلى مدينة أخرى أو أُحيلت إلى متخصص قد تجدين أنك تبدئين من الصفر. دفتر صغير مخصص للحمل أو تطبيق على الهاتف يكفي لحفظ هذه المعلومات.",
+            "اكتبي مع كل نتيجة: التاريخ، اسم الفحص، القيمة، والنطاق الطبيعي الذي يطبعه المختبر. هذا الأخير مهم لأن نفس التحليل قد تختلف قيمه المرجعية بين مختبر وآخر، ومعرفة رقمك الحقيقي تمكنك من طرح أسئلة ذكية على طبيبك بدلاً من الاكتفاء بسماع 'طبيعي' أو 'غير طبيعي'.",
+            "إذا كان لديك عوامل خطر مثل السكري المسبق أو ضغط الدم أو الحمل المتعدد أو تاريخ فقدان حمل سابق أو سوابق عائلية لأمراض وراثية، ستحتاجين فحوصات إضافية ومتابعة أكثر تكراراً مما هو مذكور هنا. هذا الجدول يصف الحمل منخفض الخطر الذي لا تعاني فيه الأم من أمراض مزمنة سابقة."
+          ]
+        },
+        {
+          "h2": "متى تتصلين بالطبيب فوراً؟",
+          "paras": [
+            "بعض الأعراض لا تنتظر موعداً مجدولاً. إذا ظهرت هذه العلامات في أي وقت أثناء الحمل، اتصلي بطبيبك أو اذهبي لأقرب طوارئ دون تأخير. العلاج المبكر في هذه الحالات يصنع الفارق بين نتيجة جيدة وأخرى خطيرة.",
+            "الصداع الشديد غير المعتاد وخاصة إذا اقترن بضبابية في الرؤية أو نقاط ضوئية، أو إذا رافقه ألم في أعلى البطن تحت الضلوع اليمنى، قد يكون علامة تسمم حمل شديد. هذه الحالة تستدعي قياس ضغط الدم فوراً.",
+            "الألم الحاد المستمر في البطن مع نزيف أو بدونه، توقف حركة الجنين أو تراجعها الملحوظ، والحمى مع آلام في الجسم جميعها تستدعي تقييماً عاجلاً."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "اذهبي للطوارئ فوراً إذا لاحظت",
+            "items": [
+              "صداع شديد مع ضبابية الرؤية أو نقاط ضوئية",
+              "ألم حاد في أعلى البطن تحت الضلوع",
+              "ورم مفاجئ في اليدين أو الوجه أو العينين",
+              "نزيف مهبلي في أي أسبوع من الحمل",
+              "توقف حركة الجنين أو تراجعها بشكل واضح",
+              "حمى مرتفعة مع قشعريرة"
+            ]
+          }
+        }
+      ],
+      "tie": "تطبيق سهتاك يتيح لك تسجيل نتائج كل فحص مع تاريخه وتفسيره، حتى تحملي سجلاً كاملاً معك في كل زيارة أينما كنت.",
+      "faqs": [
+        {
+          "q": "ما أول فحص يجب أن أجريه بعد ظهور خط الحمل؟",
+          "a": "تحليل Beta-hCG في الدم لتأكيد الحمل وتقدير عمره. إذا كان هناك ألم في البطن أو نزيف يُضاف إليه سونار مبكر للتأكد من أن الحمل داخل الرحم وليس خارجه. بعدها يمكن تحديد موعد الزيارة الأولى مع طبيب متابعة الحمل."
+        },
+        {
+          "q": "هل السونار في الحمل آمن على الجنين؟",
+          "a": "نعم، السونار التشخيصي يستخدم الموجات فوق الصوتية وليس الإشعاع، وأثبتت عقود من الاستخدام الواسع أنه آمن على الأم والجنين. الدراسات التي تغطي ملايين الحالات لم تظهر أي ضرر للموجات الصوتية على مستويات الطاقة المستخدمة في السونار الطبي."
+        },
+        {
+          "q": "ما معنى أن أكون سالبة ريزوس (RH-)؟ هل هذا خطير؟",
+          "a": "ليس خطيراً في حد ذاته إذا اتُّخذت الاحتياطات. إذا كان جنينك موجباً ريزوس وتسربت بعض خلايا دمه إلى دمك (كما قد يحدث في أي نزيف أو رضة أو عند الولادة)، يمكن أن يبني جسمك أجساماً مضادة. في الحمل الأول قد لا يحدث شيء، لكن في الحمل التالي هذه الأجسام قد تهاجم دم الجنين. إبرة Anti-D تمنع هذا التحسس تماماً."
+        },
+        {
+          "q": "هل أحتاج سونار كل شهر؟",
+          "a": "في الحمل منخفض الخطر، ثلاثة سونارات رئيسية كافية: الأول في الأسبوع 6-8 لتأكيد الحمل، الثاني بين الأسبوعين 11 و13 لقياس NT، والثالث بين الأسبوعين 18 و22 للفحص التشريحي. سونارات إضافية تُطلب عند وجود مشاكل أو عوامل خطر. بعض الأطباء يطلبها أكثر مما تستدعيه الحاجة، وبعضها الآخر قد يقلل. اسأل دائماً عن سبب كل سونار إضافي."
+        },
+        {
+          "q": "هل أنيميا الحمل خطيرة؟",
+          "a": "الأنيميا الخفيفة شائعة في الحمل وتُعالج بسهولة بمكملات الحديد. الأنيميا الشديدة (هيموغلوبين أقل من 7 غ/ديسيليتر) أكثر خطورة لأنها تقلل الأكسجين الواصل للجنين وتزيد خطر الولادة المبكرة وتجعل النزيف أثناء الولادة أشد خطورة. خذي مكملات الحديد كما يوصي الطبيب ولا تنتظري ظهور الأعراض."
+        },
+        {
+          "q": "ما الفرق بين فحص التشوهات الكروموسومية وفحص التشوهات الهيكلية؟",
+          "a": "فحص التشوهات الكروموسومية مثل ثلاثية الكروموسوم 21 (متلازمة داون) يُجرى بالتحاليل والسونار في الثلث الأول، وهو فحص احتمالي وليس قاطعاً. فحص التشوهات الهيكلية يُجرى بالسونار التشريحي بين الأسبوعين 18 و22، ويبحث عن عيوب في بناء الأعضاء مثل القلب أو الدماغ. كلاهما مهم ولا يغني أحدهما عن الآخر."
+        },
+        {
+          "q": "هل يمكنني تأجيل فحص السكر في الحمل؟",
+          "a": "لا يُنصح بذلك. نافذة الفحص بين الأسبوعين 24 و28 محددة لأسباب فسيولوجية، حيث تظهر مقاومة الأنسولين في ذروتها في هذا الوقت. التأخير يعني فقدان جزء من الوقت الذي يمكن فيه ضبط السكر بالنظام الغذائي قبل أن يؤثر على نمو الجنين."
+        },
+        {
+          "q": "هل الفحوصات المذكورة مطلوبة في كل دول المنطقة؟",
+          "a": "تتباين البروتوكولات بين الدول. في السعودية والإمارات وقطر والكويت تتوفر معظم هذه الفحوصات في المستشفيات الكبرى. في سوريا واليمن ولبنان والسودان قد يكون الوصول إلى بعضها محدوداً بسبب الظروف. تعرفي على ما هو متاح في منطقتك ورتّبي الأولويات: السونار التشريحي وفحص السكر والهيموغلوبين هي الأهم."
+        }
+      ]
+    },
+    "en": {
+      "title": "Pregnancy tests and scans: the full schedule",
+      "desc": "A trimester-by-trimester guide to every blood test and scan you need in pregnancy, what each one is looking for, and realistic notes on availability across the Arab world.",
+      "keywords": "pregnancy tests schedule, antenatal blood tests, pregnancy ultrasound, nuchal translucency, OGTT pregnancy, pregnancy scans trimester, gestational diabetes test timing, anomaly scan",
+      "h1": "Pregnancy tests and scans: the full trimester-by-trimester schedule",
+      "takeaways": [
+        "Prenatal tests exist to find problems early, when they are still treatable, not simply to fill paperwork.",
+        "The first trimester (up to week 13) is the most test-intensive period because several critical windows close after that.",
+        "The anatomy scan and glucose tolerance test have fixed timing windows that cannot be recovered if missed.",
+        "Across much of the Arab world, access to every test varies significantly between large cities and rural or conflict-affected areas.",
+        "Keep a personal copy of every result with its date and reference range, because electronic records rarely follow you between hospitals."
+      ],
+      "sections": [
+        {
+          "h2": "Why these tests matter beyond routine check-boxes",
+          "paras": [
+            "Pregnancy is a normal physiological process, but it places the body under exceptional demands, and several of the most dangerous complications begin with no symptoms at all. Preeclampsia, for example, affects between 5% and 10% of pregnancies worldwide and is a leading cause of maternal death in low- and middle-income countries, yet it often causes no pain until it becomes severe. Routine blood pressure measurement and urine protein testing are the only way to catch it early.",
+            "Prenatal investigations divide into two categories: blood tests that measure markers in the mother, and ultrasound scans that monitor the baby directly. Both are necessary. A perfect scan does not replace a blood panel, and a normal blood panel does not tell you whether the baby's heart has formed correctly.",
+            "The World Health Organization recommends a minimum of eight antenatal care contacts during pregnancy, with four of them in the first half. In practice across the Arab world, particularly in rural areas, active conflict zones, or countries with overstretched health systems, this is not always achieved. Knowing which tests matter most, and when their windows close, puts you in a better position to advocate for yourself."
+          ],
+          "visual": {
+            "type": "stats",
+            "items": [
+              {"value": "8", "label": "minimum antenatal contacts recommended by WHO", "tone": "info"},
+              {"value": "5-10%", "label": "of pregnancies worldwide develop preeclampsia", "tone": "warn"}
+            ]
+          }
+        },
+        {
+          "h2": "First trimester tests: weeks 1 to 13",
+          "paras": [
+            "The first test most women need is a blood Beta-hCG measurement to confirm pregnancy and give an accurate gestational age, which is more precise than a home urine test in the very early weeks. If you have abdominal pain alongside a positive test, this same measurement may be repeated to check whether the value is rising normally, because an ectopic pregnancy often produces a slowly rising or plateauing hCG rather than the expected doubling every 48 to 72 hours.",
+            "Around week six a first dating ultrasound confirms the pregnancy is inside the uterus, identifies a heartbeat, and establishes the due date. This scan is especially important if you have any pelvic pain or light bleeding, since those symptoms can signal an ectopic implantation which is a medical emergency.",
+            "Between weeks 11 and 13, the combined first-trimester screening takes place. This pairs a nuchal translucency (NT) ultrasound measurement (the fluid thickness behind the baby's neck) with two blood markers: PAPP-A and free Beta-hCG. Together they produce a probability estimate for chromosomal conditions including Down syndrome. A 2025 systematic review and meta-analysis confirmed that increased NT thickness is associated with a wide range of adverse fetal outcomes beyond trisomy 21, reinforcing the value of this measurement even when chromosome results are normal.",
+            "The first trimester also carries a full blood panel. Blood group and Rhesus factor matter because a Rhesus-negative mother carrying a Rhesus-positive baby needs a protective Anti-D injection at specific points. A full blood count (CBC) screens for early anaemia, which is very common regionally. Fasting blood glucose, thyroid function (TSH), liver and kidney markers, and infectious disease serology (hepatitis B surface antigen, rubella IgG, syphilis, HIV, and often toxoplasmosis) are tested at this first visit."
+          ],
+          "visual": {
+            "type": "timeline",
+            "title": "First-trimester testing sequence",
+            "items": [
+              {"when": "Weeks 1-5", "what": "Blood Beta-hCG to confirm pregnancy and estimate gestational age"},
+              {"when": "Weeks 6-8", "what": "Dating ultrasound to confirm intrauterine location and fetal heartbeat"},
+              {"when": "Weeks 9-11", "what": "Full blood panel: blood group, CBC, glucose, TSH, liver, kidneys, infectious disease serology"},
+              {"when": "Weeks 11-13", "what": "Nuchal translucency ultrasound plus PAPP-A and hCG blood markers for chromosomal risk assessment"}
+            ]
+          }
+        },
+        {
+          "h2": "What a first-trimester chromosomal screening result actually means",
+          "paras": [
+            "A first-trimester screening result is a probability estimate, not a diagnosis. It might say your risk of Down syndrome is 1 in 200. That does not mean your baby has Down syndrome. It means that among pregnancies with the same combination of measurements, approximately one in 200 would be affected. The result tells you whether further testing is warranted, not whether there is a problem.",
+            "If the probability is above the threshold your hospital uses (commonly around 1:150 or 1:250, though this varies), you will be offered cell-free fetal DNA testing, known as NIPT. This is a blood test from the mother that analyses fragments of the baby's DNA circulating in her blood. It has high sensitivity and specificity for the common chromosomal trisomies, but it is not available in all hospitals across the region and carries a significant out-of-pocket cost in most countries. The definitive diagnostic alternatives are chorionic villus sampling (CVS) in the first trimester or amniocentesis in the second, both of which carry a small procedural risk.",
+            "A normal first-trimester screening result does not guarantee that the baby is unaffected. It significantly lowers the probability of the screened conditions, but it does not screen for every possible chromosome or structural problem. The anatomy scan in the second trimester completes a different part of the picture."
+          ]
+        },
+        {
+          "h2": "Second trimester tests: weeks 14 to 27",
+          "paras": [
+            "The anatomy scan, sometimes called the anomaly scan or morphology scan, is the most detailed structural examination of the pregnancy. Performed between weeks 18 and 22, it examines the baby's brain, face, spine, heart, abdominal organs, limbs, and placental position, as well as amniotic fluid volume. This window matters: after week 24 the baby's size makes complete imaging significantly harder, and the scan loses some of its diagnostic reach. The FIGO 2019 initiative on first-trimester screening specifically underscores how timing of detailed fetal assessment affects detection rates.",
+            "Between weeks 24 and 28, every pregnant woman should have an oral glucose tolerance test (OGTT) to screen for gestational diabetes. This test is particularly important in the Arab world. A 2021 systematic review and meta-analysis covering the Middle East and North Africa found that gestational diabetes prevalence in the region is among the highest globally, driven by high rates of obesity, older maternal age at pregnancy, and underlying insulin resistance. A separate 2022 UAE cohort study applying multiple diagnostic criteria found substantial variation in gestational diabetes rates depending on which threshold is used, highlighting the importance of understanding which criteria your hospital follows.",
+            "Throughout the second trimester, blood pressure is measured at every visit and urinalysis checks for protein. If anaemia was found in the first trimester, a repeat CBC confirms whether iron supplementation has worked. In higher-risk pregnancies, a Doppler ultrasound assessing blood flow through the umbilical cord and the uterine arteries may be added from around week 20."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Key tests by trimester",
+            "head": ["Trimester", "Main tests", "Primary purpose"],
+            "rows": [
+              ["First (1-13)", "Beta-hCG, dating scan, NT scan, full blood panel", "Confirm pregnancy, assess chromosomal risk, baseline maternal health"],
+              ["Second (14-27)", "Anatomy scan, OGTT, blood pressure monitoring, repeat CBC if needed", "Structural survey of baby, gestational diabetes screening"],
+              ["Third (28-40)", "Growth scans, Anti-D if Rhesus-negative, GBS swab, CTG monitoring", "Monitor growth and presentation, prepare for delivery"]
+            ]
+          }
+        },
+        {
+          "h2": "Third trimester tests: week 28 to delivery",
+          "paras": [
+            "At week 28, every Rhesus-negative woman carrying a baby who may be Rhesus-positive receives an Anti-D injection. This immunoglobulin prevents sensitisation if fetal blood cells have crossed into the maternal circulation, which can happen even without visible bleeding. Sensitisation matters because in a subsequent Rhesus-positive pregnancy, the antibodies already formed can cross the placenta and attack the baby's red blood cells. Anti-D availability is uneven across the region, so ask about it proactively at your first antenatal visit.",
+            "Between weeks 35 and 37, a Group B Streptococcus (GBS) swab is taken from the vagina and rectum. This bacterium colonises around 20% of women without causing any symptoms in the mother, but it can cause serious infection in a newborn during delivery. A positive result means intravenous antibiotics during labour, which is very effective at preventing neonatal infection. The swab is routinely offered in most Gulf country hospitals but less consistently in other parts of the region.",
+            "Growth scans every three to four weeks from around week 28 onwards track the baby's estimated weight and amniotic fluid levels. A repeat full blood count confirms your haemoglobin before delivery. Cardiotocography (CTG), continuous or intermittent monitoring of the fetal heart rate, is added when risk factors are present. In areas where toxoplasmosis is common, such as parts of the Levant and North Africa where raw or undercooked meat is consumed and cat contact is frequent, antibody testing may be repeated in the third trimester if the first-trimester result was negative."
+          ]
+        },
+        {
+          "h2": "Reading your full blood count results in pregnancy",
+          "paras": [
+            "Anaemia is the most common abnormal blood result in pregnancy across the Arab world. The WHO defines anaemia in pregnancy as haemoglobin below 11 g/dL in the first and third trimesters, and below 10.5 g/dL in the second. Iron deficiency is by far the most common cause, and it shows up as low serum iron and ferritin alongside high TIBC (total iron binding capacity). The haemoglobin alone can appear borderline while ferritin is very low, which is why ferritin is worth checking separately.",
+            "Your platelet count in the CBC is also watched carefully. A sharp drop in platelets during pregnancy can signal dangerous conditions including severe preeclampsia or HELLP syndrome (haemolysis, elevated liver enzymes, and low platelet count). If your platelet count drops below 100,000 per cubic millimetre in the third trimester, your doctor needs to know immediately.",
+            "Liver enzyme results, when added to the panel, complete the picture for HELLP syndrome. Rising ALT and AST alongside falling platelets and rising blood pressure form a triad that makes HELLP the most likely explanation. This is a true obstetric emergency that requires delivery, regardless of gestational age."
+          ],
+          "visual": {
+            "type": "range-scale",
+            "title": "Haemoglobin reference range in pregnancy",
+            "label": "Hgb",
+            "unit": "g/dL",
+            "min": 7,
+            "max": 14,
+            "zones": [
+              {"to": 10.5, "tone": "bad", "label": "Anaemia, needs treatment"},
+              {"to": 11, "tone": "warn", "label": "Second-trimester threshold"},
+              {"to": 14, "tone": "good", "label": "Normal"}
+            ],
+            "source": "WHO: Haemoglobin concentrations for the diagnosis of anaemia in pregnancy"
+          }
+        },
+        {
+          "h2": "When tests are not available: how to prioritise",
+          "paras": [
+            "Several tests that are standard in Europe and North America are unavailable in parts of the Arab world, or carry significant out-of-pocket costs. NIPT, for example, costs between 300 and 600 dollars or more in most regional private facilities and is rarely covered by public insurance. A thorough anatomy scan performed by an experienced sonographer can still detect many structural abnormalities even when NIPT is unavailable.",
+            "If full access to every test listed here is not realistic in your setting, the following three have fixed windows that make them highest priority: the nuchal translucency scan between weeks 11 and 13, the anatomy scan between weeks 18 and 22, and the glucose tolerance test between weeks 24 and 28. Missing these windows means the specific diagnostic value of those tests is lost.",
+            "Where continuous specialist care is difficult to access, knowing which symptoms require urgent evaluation rather than a scheduled appointment is equally important. This is not a substitute for regular antenatal visits, but it is a meaningful safety layer."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "warn",
+            "title": "Testing windows that cannot be recovered",
+            "items": [
+              "Nuchal translucency (NT) scan: must be done before week 13 plus 6 days",
+              "Anatomy scan: between weeks 18 and 22 only",
+              "Oral glucose tolerance test (OGTT): between weeks 24 and 28",
+              "Anti-D injection for Rhesus-negative mothers: at week 28 and after any bleeding or trauma"
+            ]
+          }
+        },
+        {
+          "h2": "Practical tips for keeping track of your results",
+          "paras": [
+            "Keep a personal copy of every test result. In most hospitals across the Arab world there is no unified electronic record that follows you between facilities. If you change your doctor, move to another city, or are referred to a specialist, you may find yourself starting from scratch. A small notebook dedicated to the pregnancy, or a notes app on your phone, is enough. Write down the date, the test name, the value, and the reference range given by the lab.",
+            "This matters more than it may seem. Two different labs may use slightly different reference ranges for the same test, so knowing your actual number allows you to ask meaningful questions rather than simply being told normal or abnormal. A haemoglobin of 10.8 g/dL is below the first-trimester WHO threshold but above some local lab thresholds, and the difference in how it is communicated to you depends on which reference range the lab prints.",
+            "If you have risk factors, including pre-existing diabetes, high blood pressure, a previous pregnancy loss, twins, or a family history of genetic conditions, your schedule will differ from the standard low-risk one described here. The tests listed in this article represent the baseline for a straightforward single pregnancy. Ask your doctor at the first visit whether additional tests apply to your situation."
+          ]
+        },
+        {
+          "h2": "When to seek urgent assessment outside a scheduled visit",
+          "paras": [
+            "Some symptoms during pregnancy require immediate evaluation rather than waiting for a scheduled appointment. Knowing these signs in advance, before a problem develops, is part of safe antenatal care. The earlier a dangerous complication is identified, the wider the range of interventions available.",
+            "A severe headache that is unusual for you, particularly if accompanied by visual disturbance such as blurring or flashing lights, or by right upper abdominal pain, may indicate severe preeclampsia or early HELLP syndrome. Blood pressure measurement in any clinic or pharmacy is enough to determine whether urgent hospital assessment is needed.",
+            "Sudden swelling of the hands, face, or eyes (as opposed to the gradual ankle swelling that is common in late pregnancy), any vaginal bleeding at any stage of pregnancy, a marked reduction in fetal movements compared with your normal pattern, and a fever with body aches all warrant same-day evaluation rather than waiting."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "Go to emergency assessment immediately if you notice",
+            "items": [
+              "Severe or unusual headache with visual disturbance or flashing lights",
+              "Sudden pain in the upper right abdomen under the ribs",
+              "Sudden swelling of the hands, face, or around the eyes",
+              "Any vaginal bleeding at any point in pregnancy",
+              "Noticeable reduction or cessation of fetal movement",
+              "High fever with chills or body aches"
+            ]
+          }
+        }
+      ],
+      "tie": "Sihtak lets you log every test result alongside its reference range and date, building a portable pregnancy record that travels with you between clinics and across borders.",
+      "faqs": [
+        {
+          "q": "What is the very first test I need after a positive home pregnancy test?",
+          "a": "A blood Beta-hCG test confirms the pregnancy and helps establish the gestational age more precisely than a urine test. If you also have abdominal pain, a first ultrasound should be added to confirm that the pregnancy is inside the uterus, since ectopic pregnancies can initially produce a positive home test. Once these are done, a first antenatal appointment with a doctor or midwife can be scheduled."
+        },
+        {
+          "q": "Is ultrasound safe for the baby throughout pregnancy?",
+          "a": "Yes. Diagnostic ultrasound uses sound waves, not ionising radiation, and decades of use covering millions of pregnancies have not identified any harm at the power levels used in medical scanning. It is safe at all gestational ages and can be repeated as clinically indicated without risk."
+        },
+        {
+          "q": "What does Rhesus-negative mean, and is it dangerous?",
+          "a": "Being Rhesus-negative means your red blood cells lack the Rh(D) antigen. If your baby is Rhesus-positive (inherited from the father) and small amounts of fetal blood enter your circulation, your immune system may produce antibodies against Rh(D). In the current pregnancy this rarely causes a problem, but in a subsequent Rhesus-positive pregnancy those antibodies can cross the placenta and damage the baby's blood. Anti-D injections at 28 weeks and after any sensitising event fully prevent this. The condition is manageable with timely treatment."
+        },
+        {
+          "q": "Do I need an ultrasound every month?",
+          "a": "In a low-risk pregnancy, three principal scans are standard: a dating scan around weeks 6 to 8, a nuchal translucency scan between weeks 11 and 13, and an anatomy scan between weeks 18 and 22. Additional growth scans from week 28 are added in most protocols, and more frequent scanning is used when there are risk factors such as twins, placenta position concerns, or growth restriction. If your doctor requests additional scans, it is reasonable to ask what they are looking for."
+        },
+        {
+          "q": "Is anaemia during pregnancy serious?",
+          "a": "Mild anaemia is very common in pregnancy and responds well to iron supplements. Severe anaemia (haemoglobin below 7 g/dL) reduces the oxygen delivered to the baby, increases the risk of preterm birth, and makes any bleeding during delivery considerably more dangerous. Iron supplementation prescribed by your doctor should be taken as directed, not stopped when symptoms improve, since iron stores take weeks to rebuild."
+        },
+        {
+          "q": "What is the difference between chromosomal screening and the anatomy scan?",
+          "a": "Chromosomal screening in the first trimester estimates the probability of conditions like Down syndrome using blood markers and the nuchal translucency measurement. It gives a probability, not a definitive answer, and requires diagnostic testing to confirm a problem. The anatomy scan in the second trimester looks at the physical structure of the baby's organs and cannot detect most chromosomal conditions. Both are necessary and serve different purposes."
+        },
+        {
+          "q": "Can I delay the glucose tolerance test?",
+          "a": "It is best not to. The window between weeks 24 and 28 reflects the period when placental hormones cause insulin resistance to peak in the mother, making gestational diabetes most detectable at that point. Delaying the test shortens the time available to manage blood sugar through diet before it can affect the baby's growth and the delivery outcome."
+        },
+        {
+          "q": "Are all these tests available in every Arab country?",
+          "a": "Availability varies considerably. Saudi Arabia, the UAE, Qatar, and Kuwait offer most of these tests in large public and private hospitals. Access is more limited in Syria, Yemen, Sudan, and Lebanon due to infrastructure constraints. In areas with limited access, the anatomy scan, glucose tolerance test, and haemoglobin measurement are the three highest-priority tests to obtain. Knowing what is available locally before you need it avoids last-minute gaps."
+        }
+      ]
+    }
+  }
+}

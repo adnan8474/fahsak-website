@@ -1,0 +1,347 @@
+{
+  "slug": "depression-symptoms-treatment",
+  "category": "mental-health",
+  "chip_ar": "الصحة النفسية",
+  "chip_en": "Mental health",
+  "date_iso": "2026-07-14",
+  "sources": [
+    {
+      "label": "GBD 2023 Mental Disorder Collaborators: Updated trends in the global prevalence and burden of mental disorders, 1990-2023: a systematic analysis for the Global Burden of Disease Study 2023, Lancet (London, England), 2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42167272/"
+    },
+    {
+      "label": "Al-Amer R, Alshawish E, Soudah O et al: Prevalence of depression among medical students across the Arab region: a scoping review, BMC medical education, 2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41039330/"
+    },
+    {
+      "label": "Dardas LA, Bailey DE Jr, Simmons LA et al: Adolescent Depression in the Arab Region: A Systematic Literature Review, Issues in mental health nursing, 2016",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27168124/"
+    },
+    {
+      "label": "Cuijpers P, Berking M, Andersson G et al: A meta-analysis of cognitive-behavioural therapy for adult depression, alone and in comparison with other treatments, Canadian journal of psychiatry. Revue canadienne de psychiatrie, 2013",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23870719/"
+    },
+    {
+      "label": "Dimidjian S, Hollon SD, Dobson KS et al: Randomized trial of behavioral activation, cognitive therapy, and antidepressant medication in the acute treatment of adults with major depression, Journal of consulting and clinical psychology, 2006",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16881773/"
+    },
+    {
+      "label": "World Health Organization: Depression fact sheet",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/depression"
+    }
+  ],
+  "content": {
+    "ar": {
+      "title": "الاكتئاب: الأعراض، والعلاج، وكيف تطلب المساعدة",
+      "desc": "دليل واضح للاكتئاب يشرح الأعراض والفرق بين الحزن العادي والمرض، وخيارات العلاج المتاحة، ومتى تطلب المساعدة فورا.",
+      "keywords": "الاكتئاب, أعراض الاكتئاب, علاج الاكتئاب, الاكتئاب الشديد, الحزن والاكتئاب, العلاج النفسي, مضادات الاكتئاب, الصحة النفسية",
+      "h1": "الاكتئاب: كيف تعرفه وكيف تتعامل معه",
+      "takeaways": [
+        "الاكتئاب مرض حقيقي يؤثر على الدماغ والجسم معا، وليس ضعفا في الشخصية ولا اختيارا.",
+        "الفرق الجوهري بين الاكتئاب والحزن الطبيعي هو المدة والتأثير على الوظائف اليومية.",
+        "الاكتئاب قابل للعلاج في معظم الحالات بالعلاج النفسي أو الدواء أو كليهما معا.",
+        "أفكار إيذاء النفس تستدعي مساعدة فورية، وليس لاحقا.",
+        "التعافي يستغرق وقتا، ومطالبة شخص مريض بالاكتئاب أن يتجاوزه بالإرادة مثل مطالبته بتخفيض ضغط دمه بالتفكير."
+      ],
+      "sections": [
+        {
+          "h2": "ما الفرق بين الحزن العادي والاكتئاب؟",
+          "paras": [
+            "الحزن استجابة طبيعية للخسارة والضغوط، يأتي بسبب حدث محدد ويتلاشى تدريجيا مع الوقت. الاكتئاب شيء مختلف: هو حالة طبية تستمر لأسابيع أو أشهر، وتؤثر على النوم والشهية والتفكير والقدرة على العمل، وقد لا يكون لها سبب واضح.",
+            "المعيار الذي يستخدمه الأطباء هو أن يستمر الشعور بالحزن أو الفراغ أو فقدان الاهتمام بما كان يُسعدك لمدة أسبوعين على الأقل، مع تأثير واضح على حياتك اليومية. إذا توقفت عن الاستمتاع بأشياء كنت تحبها، وشعرت بالإرهاق رغم الراحة، ووجدت صعوبة في التركيز أو اتخاذ القرارات، فهذه إشارات تستحق الانتباه.",
+            "كثيرون في منطقتنا يصفون الاكتئاب بمصطلحات جسدية: ثقل في الصدر، وإرهاق لا سبب له، وآلام متفرقة. هذا ليس تمثيلا، بل هو الطريقة التي يعبر بها الدماغ عن الاضطراب في الناقلات العصبية. الاعتراف بالأعراض خطوة أولى ضرورية."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "الحزن الطبيعي مقابل الاكتئاب",
+            "head": ["الحزن الطبيعي", "الاكتئاب"],
+            "rows": [
+              ["له سبب واضح في الغالب", "قد لا يكون له سبب واضح"],
+              ["يتحسن مع الوقت والدعم", "يستمر أسبوعين أو أكثر دون تحسن"],
+              ["يمكنك الاستمتاع ببعض الأوقات", "فقدان الاهتمام بكل شيء كان يُسعدك"],
+              ["لا يؤثر كثيرا على العمل والعلاقات", "يعطل الوظائف اليومية بوضوح"]
+            ]
+          }
+        },
+        {
+          "h2": "ما هي أعراض الاكتئاب التي يجب أن تعرفها؟",
+          "paras": [
+            "الاكتئاب لا يظهر بنفس الشكل عند الجميع. المزاج المنخفض وفقدان المتعة هما المحوران، لكن يمكن أن يصاحبهما: تغير في النوم سواء زيادة أو نقصانا، تغير واضح في الشهية والوزن، بطء في التفكير والحركة أو على النقيض قلق وتوتر دائمان لا يهدآن، شعور متكرر بعدم الجدارة أو الذنب غير المبرر على أحداث قديمة، وصعوبة حقيقية في التركيز واتخاذ أبسط القرارات اليومية كالاختيار بين طبقين على المائدة.",
+            "عند الرجال في البلدان العربية يظهر الاكتئاب أحيانا على شكل عصبية مزمنة وإرهاق دائم وعزلة اختيارية عن الأسرة والأصدقاء، لأن التعبير عن الحزن لا يزال في كثير من السياقات مرتبطا بالضعف وليس بالشجاعة. عند بعض كبار السن يكون الاكتئاب مخفيا خلف شكاوى جسدية متعددة من آلام متنقلة وتعب وصداع دون علة عضوية واضحة تُفسرها فحوصات المختبر.",
+            "دراسة مراجعية نشرت عام 2016 في مجلة Issues in Mental Health Nursing تناولت أبعادا خاصة بالاكتئاب عند المراهقين في المنطقة العربية، وأشارت إلى أن الصمت والانسحاب الاجتماعي غالبا ما يُحمل على الكسل أو التمرد بدلا من أن يُعالَج كأعراض صحية تحتاج إلى تدخل. هذه الفجوة في الوعي تُؤخر الوصول إلى المساعدة بسنوات أحيانا، وهي الفجوة التي يُمكن لأي شخص مقرب أن يُقلصها بمجرد أن يُفكر في العَرَض بدل الحكم على صاحبه."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "اطلب مساعدة فورية إذا",
+            "items": [
+              "راودتك أفكار بإيذاء نفسك أو الانتهاء من حياتك",
+              "شعرت أن الآخرين سيكونون بخير بدونك",
+              "توقفت عن تناول الطعام أو الشراب لأيام",
+              "عجزت تماما عن الاعتناء بأطفالك أو بنفسك",
+              "اعتمدت على الكحول أو المخدرات للنوم أو للتحمل"
+            ]
+          }
+        },
+        {
+          "h2": "لماذا يحدث الاكتئاب؟ ما الذي نعرفه فعلا",
+          "paras": [
+            "الاكتئاب ليس نتيجة حادثة واحدة ولا ضعف إرادة. أقرب تفسير علمي متاح يشير إلى تفاعل بين عوامل جينية وبيولوجية ونفسية وبيئية تُؤثر على بعضها في حلقات مترابطة. تغيرات في الناقلات العصبية، خاصة السيروتونين والنورأدرينالين، تلعب دورا مثبتا في آلية المرض، لكنها ليست القصة كاملة وليست وحدها ما يُحدد استجابة الشخص للعلاج.",
+            "الصدمة المبكرة في الطفولة، والضغوط المزمنة المتراكمة، والأمراض الجسدية المزمنة كالسكري وأمراض القلب، وبعض الأدوية كالكورتيزون عند الاستخدام المطول، وعوامل هرمونية مثل ما بعد الولادة أو مرحلة انقطاع الطمث، كل هذه قد تفتح الباب لنوبة اكتئاب عند من لديهم استعداد وراثي أو نفسي. في منطقتنا تضاف عوامل خاصة لها ثقل كبير: النزوح القسري وفقدان البيت، وفقدان الوظيفة في سياقات اقتصادية صعبة، والحرب وما تُخلفه من خسائر بشرية متراكمة، والعزلة الاجتماعية حين تتفكك الشبكات الأسرية التقليدية التي كانت تُوفر دعما طبيعيا.",
+            "أظهرت دراسة عبء الأمراض العالمية لعام 2023، المنشورة في مجلة The Lancet عام 2026، أن الاكتئاب يمثل أحد أكثر أسباب العجز عبئا على مستوى العالم، وأن معدلاته ارتفعت ارتفاعا ملحوظا منذ عام 1990. هذا مرض شائع يصيب ملايين في منطقتنا، وليس حالة نادرة أو بعيدة، وتسميته بالاسم الصحيح هي الخطوة الأولى نحو علاجه."
+          ]
+        },
+        {
+          "h2": "هل الاكتئاب يُعالج؟ وما خيارات العلاج؟",
+          "paras": [
+            "نعم، الاكتئاب قابل للعلاج في معظم الحالات، والتعافي الكامل ممكن. الخطوة الأولى هي التشخيص الصحيح، لأن الاكتئاب يشترك في أعراض مع حالات أخرى منها قصور الغدة الدرقية وفقر الدم ومتلازمة التعب المزمن. الطبيب يسأل أسئلة منظمة ويستبعد العلل الجسدية بتحاليل بسيطة قبل أن يُشخص الاكتئاب، وهذا ليس تشكيكا في المعاناة بل هو حرص على دقة العلاج.",
+            "العلاج النفسي، وتحديدا العلاج المعرفي السلوكي (CBT)، مدعوم بأدلة علمية قوية لا تتزعزع. مراجعة شاملة نشرت عام 2013 في مجلة Canadian Journal of Psychiatry تناولت أكثر من 100 تجربة سريرية عشوائية وأكدت فاعلية CBT مقارنة بعلاجات أخرى وبالعلاج الدوائي. يهدف هذا العلاج إلى تغيير أنماط التفكير السلبية التلقائية التي تُغذي الاكتئاب وتُديمه. مشكلة هذا الخيار في كثير من بلدان المنطقة هي محدودية عدد المختصين المدربين المتاحين، خاصة في المناطق خارج العواصم والمدن الكبرى، وتكلفة الجلسات التي قد تكون مرتفعة.",
+            "الأدوية المضادة للاكتئاب، وخاصة مثبطات استرداد السيروتونين الانتقائية (SSRIs)، تُحسن الأعراض في معظم الحالات عند الالتزام بها لما لا يقل عن أربعة إلى ستة أسابيع دون توقع نتائج فورية. وهي لا تعني إدمانا ولا تغيرا دائما في الشخصية. القرار بشأن البدء بالدواء يتخذه الطبيب وليس الصيدلاني أو القريب المتخصص، حتى وإن كانت بعض هذه الأدوية تُصرف في دول المنطقة بدون وصفة طبية رسمية.",
+            "في حالات الاكتئاب المتوسط إلى الشديد، الجمع بين العلاجين معا أثبت فاعلية أعلى من كل منهما وحده. تجربة عشوائية محكومة نُشرت عام 2006 في Journal of Consulting and Clinical Psychology شملت مرضى بالغين وقارنت بين الدواء وحده والعلاج النفسي وحده والجمع بينهما، وخلصت إلى أن التدخل المبكر وبخاصة المركب يُقلل من المدة الإجمالية للنوبة ويُحسن من جودة التعافي."
+          ],
+          "visual": {
+            "type": "timeline",
+            "title": "ماذا يحدث عند البدء بعلاج الاكتئاب",
+            "items": [
+              {"when": "الأسبوع 1 إلى 2", "what": "بداية الدواء أو الجلسات، قد لا يظهر فرق فوري"},
+              {"when": "الأسبوع 3 إلى 4", "what": "تحسن النوم والطاقة غالبا يسبق تحسن المزاج"},
+              {"when": "الأسبوع 6 إلى 8", "what": "تقييم الاستجابة وتعديل الجرعة أو النهج إذا لزم"},
+              {"when": "الشهر 3 إلى 6", "what": "استمرار العلاج بعد التحسن لتفادي الانتكاسة"},
+              {"when": "بعد 6 أشهر", "what": "مناقشة التوقف التدريجي مع الطبيب فقط عند الاستقرار"}
+            ]
+          }
+        },
+        {
+          "h2": "ما دور الأسرة في علاج الاكتئاب؟",
+          "paras": [
+            "الدعم الأسري قيمة حقيقية، لكنه يكون ضارا حين يأخذ شكل النصيحة بالتجاوز أو المقارنة بمن عانوا أكثر. الشخص المصاب بالاكتئاب يعلم أن هناك من يعانون أكثر، وهذا لا يخفف ألمه.",
+            "أفيد ما يمكنك فعله لأحد أفراد عائلتك هو أن تسأل مباشرة: كيف حالك فعلا؟ وأن تستمع دون أن تحاول إصلاح كل شيء. حضورك وترتيب موعد طبي معه أكثر قيمة من أي نصيحة.",
+            "في سياقات يغيب فيها الدعم النفسي المتخصص، كما هو الحال في مناطق النزوح أو بعض المناطق الريفية، تصبح الشبكة الاجتماعية المقربة والتواصل مع مراكز دعم المنظمات الدولية غير الحكومية خطا احتياطيا لا يجب الاستهانة به."
+          ]
+        },
+        {
+          "h2": "ماذا تفعل إذا لم يتوفر مختص نفسي بالقرب منك؟",
+          "paras": [
+            "هذا واقع يعيشه كثيرون في سوريا واليمن والسودان والمناطق المتضررة من النزاع. الخطوة الأولى دائما هي طبيب الرعاية الأولية أو أقرب عيادة لمنظمة صحية موجودة في المنطقة. كثير من الحالات متوسطة الشدة يمكن متابعتها من طبيب عام مدرب على التعرف على الاكتئاب وإدارته الأولية مع التوجيه الصحيح، وهذه رعاية حقيقية وليست مجرد بديل منقوص.",
+            "منظمات مثل منظمة أطباء بلا حدود، وبرنامج الفجوة في الصحة النفسية التابع لمنظمة الصحة العالمية (mhGAP)، وعدد من المنظمات الإقليمية والمحلية، توفر خدمات دعم نفسي مجانية في مناطق الأزمات. هذه الخدمات غير معلنة في أغلب الأحيان، ولا يصل إليها من يحتاجها لأنه لا يعلم بوجودها. السؤال في أي مرفق صحي متاح عن وجود مُحيل نفسي أو جلسات دعم يستحق الجهد دائما.",
+            "الاستشارة عن بعد عبر الاتصال المرئي بدأت تتوسع تدريجيا في الأردن ومصر والإمارات وبعض دول الخليج. هي ليست بديلا كاملا عن الرعاية الشاملة وجها لوجه، لكنها قد تكون الخيار الوحيد المتاح لمن يعيش في منطقة نائية أو مخيم أو ظرف لا يسمح بالسفر، وهي في هذه الحالة أفضل بكثير من الصمت والانتظار."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "خطوات عملية للحصول على مساعدة",
+            "items": [
+              "تحدث مع شخص تثق به، ولو لمجرد قول إنك لست بخير",
+              "توجه إلى أقرب طبيب رعاية أولية أو عيادة صحية وأخبره بأعراضك",
+              "اسأل في أي مرفق طبي عن خدمات الدعم النفسي أو المحيل النفسي",
+              "إذا لم يتوفر مختص، اسأل عن برامج المنظمات غير الحكومية في المنطقة",
+              "في حالة الأفكار المؤلمة، تواصل فورا مع خط دعم أو طوارئ بدلا من الانتظار"
+            ]
+          }
+        },
+        {
+          "h2": "كيف يختلف الاكتئاب عند النساء عنه عند الرجال؟",
+          "paras": [
+            "النساء يُشخَّصن بالاكتئاب بمعدل ضعف الرجال تقريبا في معظم دراسات المنطقة، والتفسيرات تشمل العوامل الهرمونية وضغوطا اجتماعية مضاعفة تتعلق بالأدوار والتوقعات. لكن هذا الفارق لا يعني أن الرجال لا يُصابون بالاكتئاب، بل يعني في الغالب أنهم يبحثون عنه بتسميات مختلفة كالإرهاق والتوتر، أو لا يبحثون عنه أصلا لأن الثقافة لا تُشجع الرجل على وصف ضعفه بوضوح.",
+            "عند النساء في منطقتنا ترتبط نوبات الاكتئاب في أحيان كثيرة بمراحل هرمونية حاسمة: أسابيع ما قبل الدورة الشهرية، والأسابيع الأولى والأشهر الستة التالية للولادة، ومرحلة انقطاع الطمث وما يسبقها. الاكتئاب ما بعد الولادة خاصة قد يُخلط مع التعب الطبيعي ويُتجاهل في بيئات اجتماعية تضغط على الأم أن تكون فرحة بطفلها بصرف النظر عما تشعر به حقا في الداخل. المرأة التي تبدو وظيفية لكنها تُعاني في صمت قد تنتظر سنوات قبل أن يُسمى ما بها باسمه.",
+            "عند الرجال في السياق العربي يظهر الاكتئاب كثيرا على هيئة تهيج مستمر وعصبية مفرطة وانسحاب عن الأسرة وزيادة في ساعات العمل أو اللجوء إلى مسكنات مختلفة. الوصمة الاجتماعية القوية المرتبطة بطلب المساعدة النفسية تجعل الرجال يتأخرون في التشخيص أكثر من النساء، مما يُطيل مسار المرض ويُعقد العلاج حين يبدأ أخيرا."
+          ]
+        },
+        {
+          "h2": "هل يمكن الوقاية من الاكتئاب أو التخفيف منه؟",
+          "paras": [
+            "الوقاية الكاملة ليست مضمونة لكل الناس، لكن ثمة ما يُخفف من خطر الإصابة ويُسرع التعافي. النشاط البدني المنتظم أثبتت الدراسات العلمية أنه يُنتج تأثيرا مضادا للاكتئاب عبر آليات بيولوجية محددة تشمل رفع مستوى الناقلات العصبية، وليس فقط لأنه يُشغل الوقت أو يُصرف الذهن عن الهموم.",
+            "الحفاظ على روابط اجتماعية حقيقية، بمعنى التواصل الإنساني الفعلي وليس مجرد التواجد على وسائل التواصل الاجتماعي، عامل حماية مثبت علميا. النوم المنتظم وإدارة الضغوط بأساليب فعالة يُخففان من تراكم الأثر المزمن على الجهاز العصبي على مدى أشهر وسنوات. هذه ليست نصيحة مثالية للأشخاص الذين يعيشون في ظروف استثنائية، لكنها الأدوات الأقل تكلفة والأكثر توفرا.",
+            "من مروا بنوبة اكتئاب سابقة معرضون لنوبات لاحقة، خاصة في أوقات الضغط الحاد. التعرف المبكر على إشارات التراجع الشخصية، كتغير النوم فجأة أو الانسحاب التدريجي من الأشخاص، يُتيح التدخل قبل أن تصبح النوبة شديدة. متابعة دورية مع الطبيب حتى بعد التحسن التام هي الاستثمار الأكثر فائدة لمن لديهم تاريخ مع الاكتئاب."
+          ]
+        }
+      ],
+      "tie": "سيهتك تساعدك على متابعة مزاجك يوميا وتسجيل الأنماط التي قد تكشف نوبات مبكرة لطبيبك. التوثيق الدقيق يختصر الوقت بينك وبين العلاج الصحيح.",
+      "faqs": [
+        {
+          "q": "هل الاكتئاب مرض أم ضعف شخصية؟",
+          "a": "الاكتئاب مرض حقيقي له أساس بيولوجي وعصبي موثق، وليس اختيارا ولا ضعفا. مطالبة المريض بأن يتجاوزه بالإرادة مثل مطالبة مريض السكري بتخفيض سكره بدون علاج."
+        },
+        {
+          "q": "هل مضادات الاكتئاب تُدمن أو تغير الشخصية؟",
+          "a": "لا. مضادات الاكتئاب من فئة SSRIs لا تُسبب إدمانا بالمعنى العلمي للكلمة. قد يحتاج إيقافها إلى تخفيض تدريجي تحت إشراف طبي، لكنها لا تُغير الشخصية ولا تجعل المريض معتمدا عليها بشكل نفسي."
+        },
+        {
+          "q": "كم من الوقت يستغرق العلاج حتى يؤتي ثماره؟",
+          "a": "الأدوية تحتاج عادة من أربعة إلى ستة أسابيع حتى تبدأ الفاعلية الكاملة، والعلاج النفسي يحتاج في الغالب عدة أشهر من الجلسات المنتظمة. التحسن التدريجي هو القاعدة، والتعافي الفوري هو الاستثناء."
+        },
+        {
+          "q": "هل أستطيع معالجة الاكتئاب دون دواء؟",
+          "a": "في الاكتئاب الخفيف قد يكفي العلاج النفسي والتغييرات في أسلوب الحياة. في الاكتئاب المتوسط إلى الشديد، الأدلة تدعم إضافة الدواء لزيادة الفاعلية. هذا قرار يجب اتخاذه مع طبيب وليس وحدك."
+        },
+        {
+          "q": "ماذا أفعل إذا فكرت في إيذاء نفسي؟",
+          "a": "هذه أفكار تستدعي مساعدة فورية وليس لاحقة. أخبر شخصا موثوقا فورا، أو توجه إلى أقرب طوارئ. لا تنتظر الفرصة المناسبة للحديث، الآن هو الوقت."
+        },
+        {
+          "q": "هل الصلاة والإيمان يشفيان من الاكتئاب؟",
+          "a": "الإيمان والممارسة الروحية مصدر دعم ومعنى حقيقي لكثيرين، وقد أظهرت دراسات ارتباطا بين التدين ومرونة أعلى في مواجهة الضغوط. لكن هذا لا يعني أن الاكتئاب الذي له أساس بيولوجي يُعالج بالدعاء وحده، تماما كما أن الداء السكري يحتاج إنسولين إلى جانب الإيمان."
+        },
+        {
+          "q": "كيف أساعد قريبا يرفض الاعتراف بأنه مكتئب؟",
+          "a": "لا تجادله في التشخيص. ابدأ بالسؤال عن أعراض محددة بدلا من التسمية. اعرض مرافقته لطبيب عام لفحص روتيني وليس لطبيب نفسي مباشرة، هذا أقل تهديدا وأكثر قبولا في كثير من السياقات العربية."
+        }
+      ]
+    },
+    "en": {
+      "title": "Depression: recognising the symptoms and finding treatment",
+      "desc": "Clear guide to depression covering symptoms, how it differs from sadness, treatment options available in the region, and when to seek urgent help.",
+      "keywords": "depression symptoms, depression treatment, major depressive disorder, antidepressants, CBT for depression, mental health Arab world, depression diagnosis, help for depression",
+      "h1": "Depression: how to recognise it and what treatment can do",
+      "takeaways": [
+        "Depression is a real medical condition affecting brain chemistry, not a sign of weakness or a choice.",
+        "The key difference from ordinary sadness is duration and impact: two or more weeks of persistent low mood affecting daily life.",
+        "Effective treatments exist, including talking therapies and medication, and combining both is often more effective than either alone.",
+        "Thoughts of self-harm require immediate help, not a later appointment.",
+        "Telling someone with depression to simply cheer up is as unhelpful as telling a diabetic to think their blood sugar down."
+      ],
+      "sections": [
+        {
+          "h2": "How is depression different from normal sadness?",
+          "paras": [
+            "Sadness is a natural response to loss and difficulty. It usually has a clear cause, fades gradually with time and support, and does not stop you from functioning. Depression is something else: a medical condition that persists for weeks or months, disrupts sleep, appetite, concentration and the ability to work or care for others, and may have no obvious trigger at all.",
+            "The clinical marker doctors use is at least two weeks of persistent low mood or loss of interest in things you previously enjoyed, with clear impact on daily life. If you have stopped finding pleasure in almost everything, feel exhausted despite adequate rest, and struggle to make even simple decisions, these are signals worth taking seriously.",
+            "In Middle Eastern and North African countries, people often describe depression in physical terms: heaviness in the chest, unexplained fatigue, scattered pain that moves from one place to another. This is not dramatisation or exaggeration. It reflects how the brain expresses a disruption in neurotransmitter function, and it is a well-recognised clinical pattern called somatic presentation of depression. Patients with this presentation often see several specialists for the physical complaints and receive normal investigation results before anyone considers a mental health explanation. Recognising that pattern, in yourself or in someone you care for, is the first step toward getting the right help rather than more unhelpful tests."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Normal sadness versus depression",
+            "head": ["Sadness", "Depression"],
+            "rows": [
+              ["Usually has a clear cause", "May have no obvious cause"],
+              ["Improves with time and support", "Persists two weeks or longer without improvement"],
+              ["Can still enjoy some moments", "Loss of interest in almost everything"],
+              ["Does not prevent daily functioning", "Clearly disrupts work, relationships and self-care"]
+            ]
+          }
+        },
+        {
+          "h2": "What are the symptoms of depression?",
+          "paras": [
+            "Depression does not look the same in everyone. Low mood and loss of interest are its core features, but they are commonly accompanied by: changes in sleep, whether too much or too little; changes in appetite and weight; slowed thinking and movement, or conversely persistent restlessness and agitation; feelings of worthlessness or guilt that seem disproportionate; and difficulty concentrating or making decisions that were previously easy.",
+            "A systematic review published in Issues in Mental Health Nursing in 2016 found that adolescent depression across the Arab region was frequently missed because withdrawal and silence were interpreted as laziness or rebellion rather than as symptoms. This same pattern applies to adults. Depression in men in the region often presents as irritability, exhaustion and social withdrawal rather than expressed sadness, because expressing emotional pain remains culturally stigmatised.",
+            "In older adults, depression often hides behind multiple physical complaints without a clear medical cause. Patients attend clinics for fatigue, pain or dizziness and are investigated repeatedly without finding an answer. This pattern is worth raising with any doctor who has been unable to explain persistent physical symptoms."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "Seek help immediately if you experience",
+            "items": [
+              "Thoughts of harming yourself or ending your life",
+              "A feeling that others would be better off without you",
+              "Inability to eat or drink for days",
+              "Complete inability to care for yourself or your children",
+              "Relying on alcohol or other substances just to sleep or get through the day"
+            ]
+          }
+        },
+        {
+          "h2": "Why does depression happen?",
+          "paras": [
+            "Depression is not caused by a single event or a weak will. The most accurate explanation available is an interaction between genetic, biological, psychological and social factors. Changes in neurotransmitter activity, particularly serotonin and noradrenaline, play a documented role, but they are part of a broader picture rather than the complete explanation.",
+            "Early trauma, chronic stress, physical illness, certain medications, and hormonal shifts such as those following childbirth or during menopause can all open the door to a depressive episode in people with an underlying predisposition. In the Arab world, specific additional stressors matter: displacement, unemployment, war and the breakdown of traditional family support networks when communities are scattered by conflict.",
+            "The Global Burden of Disease Study 2023, published in The Lancet in 2026, identified depression as one of the leading causes of disability worldwide, with rates rising significantly since 1990. This is a common condition, not a rare one, and recognising it as such is part of what makes seeking treatment a reasonable and normal act."
+          ]
+        },
+        {
+          "h2": "Can depression be treated? What are the options?",
+          "paras": [
+            "Yes, depression is treatable in the majority of cases. The first step is accurate diagnosis, because depression shares symptoms with other conditions including underactive thyroid and anaemia. A doctor will ask structured questions and rule out physical causes before making a diagnosis.",
+            "Talking therapy, and specifically cognitive behavioural therapy (CBT), is supported by strong evidence. A meta-analysis published in the Canadian Journal of Psychiatry in 2013 covering over 100 clinical trials confirmed its effectiveness compared with other treatments. The practical challenge in much of the region is the limited number of trained therapists outside major cities, and cost where services are private.",
+            "Antidepressant medications, particularly selective serotonin reuptake inhibitors (SSRIs), improve symptoms in most people when taken consistently for at least four to six weeks. They do not cause addiction in the clinical sense, and they do not change who you are. The decision to start medication belongs with a doctor, not a pharmacist, even though some of these drugs can be bought without a prescription in parts of the region.",
+            "A randomised trial published in the Journal of Consulting and Clinical Psychology in 2006 compared antidepressants, CBT and behavioural activation in adults with major depression and found that combining psychological and pharmacological treatment outperformed either alone, particularly in more severe presentations."
+          ],
+          "visual": {
+            "type": "timeline",
+            "title": "What to expect when treatment starts",
+            "items": [
+              {"when": "Weeks 1 to 2", "what": "Starting medication or sessions; little change is common and expected"},
+              {"when": "Weeks 3 to 4", "what": "Sleep and energy often improve before mood lifts"},
+              {"when": "Weeks 6 to 8", "what": "Doctor reviews response and adjusts dose or approach if needed"},
+              {"when": "Months 3 to 6", "what": "Continuing treatment after feeling better is essential to prevent relapse"},
+              {"when": "After 6 months", "what": "Gradual tapering discussed with your doctor only when you are stable"}
+            ]
+          }
+        },
+        {
+          "h2": "What to do when specialist help is not nearby",
+          "paras": [
+            "This is the reality for many people in Syria, Yemen, Sudan and displaced communities. The first step is always the nearest primary care doctor or health clinic. Many moderate cases can be managed by a general practitioner with appropriate guidance, and that is not a compromise, it is good medicine.",
+            "Organisations including Medecins Sans Frontieres, the WHO Mental Health Gap Action Programme and several regional NGOs provide free mental health support in crisis zones. These services are often not advertised, and people who need them most do not always know they exist. It is worth asking at any health facility, because the answer may surprise you.",
+            "Remote consultation via video call is growing in Jordan, Egypt, the UAE and a few other countries. It is not a complete substitute for in-person care, but for someone in a rural area or a displacement camp with a phone connection, it may be the only accessible option and far better than going without."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "Practical steps toward getting help",
+            "items": [
+              "Tell someone you trust, even if only to say you are not doing well",
+              "Go to the nearest primary care clinic and describe your symptoms honestly",
+              "Ask whether the facility has a mental health referral pathway or a counsellor",
+              "If no specialist is available, ask about NGO mental health programmes in your area",
+              "If you are having thoughts of self-harm, go to a hospital emergency department now rather than waiting"
+            ]
+          }
+        },
+        {
+          "h2": "How does depression look different in women and men?",
+          "paras": [
+            "Women are diagnosed with depression at roughly twice the rate of men. Hormonal factors and additional social pressures both contribute, but this gap also reflects the fact that men in many Arab cultural contexts are less likely to seek help or use emotional language to describe their state.",
+            "In women, depressive episodes often cluster around hormonal transitions: the premenstrual phase, the weeks following childbirth, and the perimenopause years. Postpartum depression in particular is frequently dismissed as normal new-mother tiredness, in social environments where new mothers are expected to appear joyful and grateful regardless of how they actually feel. A woman who appears functional but is inwardly struggling may wait years before anyone uses the word depression, because the expectation of happiness in motherhood is so strong.",
+            "In men across the Arab world, depression often surfaces as persistent irritability, social withdrawal, overworking to avoid being at home, or increased use of substances to numb a state they cannot name. These presentations are less likely to bring a man into a mental health consultation because they do not look like the commonly imagined picture of depression. Recognising them as potential symptoms rather than personal failings is part of what makes it possible to reach the people who most resist asking for help."
+          ]
+        },
+        {
+          "h2": "Does depression come back? What reduces the risk?",
+          "paras": [
+            "About half of people who have one depressive episode will have another at some point. This risk rises with each subsequent episode. Continuing treatment for at least six months after symptoms resolve, even when you feel well, significantly reduces relapse rates. This is one of the most important things your doctor will tell you, and one of the things most often ignored.",
+            "Regular physical activity has a documented antidepressant effect through biological pathways, not just through distraction or time-filling. Maintaining real social connection, getting consistent sleep and learning to recognise early warning signs of a returning episode all reduce both severity and duration when depression does recur.",
+            "People in situations of ongoing stress such as displacement, poverty or chronic conflict face a harder challenge. Addressing the medical condition and acknowledging the impossible conditions coexist. A person can need treatment for depression and also be in a situation that would make anyone struggle. Both are true."
+          ]
+        },
+        {
+          "h2": "Can depression be prevented?",
+          "paras": [
+            "Complete prevention is not guaranteed for everyone, but there is good evidence for factors that reduce risk and speed recovery. Physical activity, consistent sleep, strong social ties and developing skills to manage stress all lower the cumulative burden on the nervous system. None of these are a cure, and none of them will reliably prevent a severe depressive episode in someone with a strong predisposition, but they reduce frequency and severity in people who are vulnerable.",
+            "People who have already had one episode benefit most from ongoing low-level monitoring. Recognising the personal early warning signs, which vary between individuals, allows intervention before the episode becomes severe. Some people notice sleep disturbance first; for others it is increased irritability or withdrawing from phone calls. Knowing your own pattern and sharing it with someone you trust creates an early warning system that costs nothing.",
+            "For those living in communities affected by conflict, economic collapse or displacement, the honest answer is that the risk environment cannot always be changed. In those circumstances, the goal shifts from prevention to earlier recognition, better coping and faster access to whatever care is available. Supporting community-level mental health resources and reducing stigma around using them makes a measurable difference at the population level."
+          ]
+        }
+      ],
+      "tie": "Sihtak lets you log your mood daily alongside sleep and energy, which helps you and your doctor spot patterns early. Bringing a documented picture of your last two weeks to any appointment makes diagnosis faster and more accurate.",
+      "faqs": [
+        {
+          "q": "Is depression a real illness or a sign of weakness?",
+          "a": "Depression is a documented medical condition with a biological basis. Asking someone with depression to overcome it through willpower is equivalent to asking a person with a broken leg to walk it off. The brain is an organ, and it can become unwell like any other."
+        },
+        {
+          "q": "Do antidepressants cause addiction or change your personality?",
+          "a": "SSRIs, the most commonly prescribed antidepressants, do not cause addiction in the clinical sense. Stopping them abruptly after long use can cause discontinuation symptoms, which is why a gradual taper under medical supervision is recommended. They do not change your personality; most people say they feel more like themselves when the depression lifts."
+        },
+        {
+          "q": "How long before treatment starts working?",
+          "a": "Antidepressants typically take four to six weeks to reach full effect. Sleep and energy often improve before mood does. Talking therapies usually require several months of consistent sessions. Gradual improvement is the norm; sudden complete recovery is unusual."
+        },
+        {
+          "q": "Can depression be treated without medication?",
+          "a": "In mild depression, psychological therapy and lifestyle changes are often sufficient. In moderate to severe depression, evidence supports adding medication to increase the chances of full recovery. This is a clinical decision to make with a doctor, not a self-treatment choice."
+        },
+        {
+          "q": "What should I do if I am having thoughts of harming myself?",
+          "a": "These thoughts require immediate attention, not a scheduled appointment next week. Tell someone you trust right now, or go to the nearest hospital emergency department. There is no version of this where waiting is the right decision."
+        },
+        {
+          "q": "Can prayer and faith help with depression?",
+          "a": "Spiritual practice and religious faith are a genuine source of meaning and resilience for many people, and research has associated religiosity with better psychological outcomes in some contexts. Faith and medical treatment are not alternatives. Just as a diabetic prays and also takes insulin, a person with depression can seek spiritual support and also receive appropriate medical care."
+        },
+        {
+          "q": "How do I help a family member who refuses to admit they are depressed?",
+          "a": "Avoid arguing about the diagnosis. Instead, ask about specific symptoms: are you sleeping? Are you eating? When did you last enjoy something? Offer to accompany them to a general practitioner for a health check-up rather than directly suggesting a psychiatrist, as that feels less threatening in many family contexts."
+        }
+      ]
+    }
+  }
+}

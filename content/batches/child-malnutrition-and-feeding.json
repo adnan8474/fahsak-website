@@ -1,0 +1,375 @@
+{
+  "slug": "child-malnutrition-and-feeding",
+  "category": "child-health",
+  "chip_ar": "صحة الطفل",
+  "chip_en": "Child Health",
+  "date_iso": "2026-07-14",
+  "sources": [
+    {"label": "Majiwa PR, Chopera P, Matsungo TM et al: Family-led mid-upper arm circumference (FL-MUAC) approach and the screening of acute malnutrition in children aged 6 to 59 months in Africa: a scoping review, The Pan African medical journal, 2024", "url": "https://pubmed.ncbi.nlm.nih.gov/39886109/"},
+    {"label": "Memon AS, Rafique M, Lail A et al: Refeeding Syndrome in Children Aged 6 to 59 Months with Severe Acute Malnutrition, Journal of the College of Physicians and Surgeons--Pakistan : JCPSP, 2025", "url": "https://pubmed.ncbi.nlm.nih.gov/40605213/"},
+    {"label": "Carroll GJ, Lama SD, Martinez-Brockman JL et al: Evaluation of Nutrition Interventions in Children in Conflict Zones: A Narrative Review, Advances in nutrition (Bethesda, Md.), 2017", "url": "https://pubmed.ncbi.nlm.nih.gov/28916577/"},
+    {"label": "Guesdon B, Faruqi MI, Siddiqui MI et al: Mid-upper arm circumference only protocol in Pakistan: missed opportunities for children suffering from severe acute malnutrition? A mixed-methods observational study, Public health nutrition, 2024", "url": "https://pubmed.ncbi.nlm.nih.gov/38197153/"},
+    {"label": "World Health Organization: Management of severe acute malnutrition in infants and children, WHO guidelines", "url": "https://www.who.int/publications/i/item/9789241506328"},
+    {"label": "UNICEF: The State of the World's Children 2023 report on child nutrition"}
+  ],
+  "content": {
+    "ar": {
+      "title": "سوء تغذية الأطفال: كيف تتعرف عليه وتُطعم بأمان",
+      "desc": "دليل عملي للأمهات في اليمن وسوريا وغزة والسودان لتمييز الهزال عن التقزم وقياس MUAC وتجنب متلازمة إعادة التغذية الخطيرة.",
+      "keywords": "سوء تغذية الأطفال, الهزال, التقزم, MUAC, قياس محيط الذراع, إعادة التغذية, الغذاء العلاجي, سوء التغذية الحاد, اليمن, غزة, برامج التغذية",
+      "h1": "سوء تغذية الأطفال: كيف تتعرف عليه وكيف تُطعم طفلك بأمان",
+      "takeaways": [
+        "يُعدّ قياس محيط الذراع (MUAC) أبسط أدوات الكشف المبكر في المنزل: ما دون 11.5 سم للأطفال من 6 أشهر إلى 5 سنوات يعني سوء تغذية حاداً شديداً.",
+        "الهزال يعني نقص الوزن مقارنةً بالطول، والتقزم يعني قِصَر القامة مقارنةً بالعمر، وهما مشكلتان مختلفتان لهما أسباب وعلاج مختلفان.",
+        "إعادة التغذية بسرعة كبيرة بعد جوع طويل قد تقتل طفلاً كان بصحة جيدة قبل أيام، لذا تتم العملية دائماً على مراحل تحت إشراف صحي.",
+        "برامج التغذية العلاجية الجاهزة (RUTF) متاحة في مراكز الرعاية الصحية وبرامج الأمم المتحدة في مناطق الأزمات.",
+        "إذا لاحظت انتفاخاً في قدمَي طفلك أو وجهه مع هزال واضح، توجه إلى أقرب مركز صحي فوراً لأن هذا يعني سوء التغذية من نوع الكواشيوركور."
+      ],
+      "sections": [
+        {
+          "h2": "ما الفرق بين الهزال والتقزم؟",
+          "paras": [
+            "يتحدث الناس عن سوء تغذية الأطفال كأنه مشكلة واحدة، لكنه في الواقع ينقسم إلى أنواع مختلفة لكل منها أسباب وخطورة وطريقة تعامل. فهم هذا الفرق يساعدك على اتخاذ الإجراء الصحيح بدلاً من الانتظار حتى تتفاقم الحال.",
+            "الهزال (Wasting) هو نقص الوزن الحاد مقارنةً بالطول، ويعني أن طفلك يفقد عضلاته ودهون جسمه بسرعة بسبب قلة الطعام أو مرض حاد. هو طارئ يحتاج تدخلاً سريعاً لأن جسم الطفل يستهلك نفسه للبقاء. الهزال الشديد قاتل إذا لم يُعالج.",
+            "التقزم (Stunting) هو قِصَر القامة الناتج عن سوء تغذية مزمن خلال أشهر أو سنوات، غالباً يبدأ قبل الولادة أو في السنتين الأوليين من عمر الطفل. الطفل المتقزم قد يبدو بوزن مناسب لطوله لكن طوله أقل مما يجب لعمره، وهذا يؤثر على نمو دماغه وقدراته التعليمية مستقبلاً."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "مقارنة بين الهزال والتقزم",
+            "head": ["المعيار", "الهزال (Wasting)", "التقزم (Stunting)"],
+            "rows": [
+              ["طبيعة المشكلة", "نقص وزن حاد مقارنة بالطول", "قِصَر قامة مزمن مقارنة بالعمر"],
+              ["سرعة الحدوث", "أسابيع إلى أشهر", "أشهر إلى سنوات"],
+              ["الخطورة الفورية", "عالية جداً وقد تكون قاتلة", "أقل حدة لكن تأثيرها طويل الأمد"],
+              ["السنوات الحرجة", "أي عمر", "السنوات الثلاث الأولى من العمر"],
+              ["الكشف", "الوزن ومحيط الذراع MUAC", "الطول مقارنة بجداول العمر"]
+            ]
+          }
+        },
+        {
+          "h2": "كيف تقيس محيط ذراع طفلك في المنزل",
+          "paras": [
+            "قياس محيط الذراع (MUAC) هو الأداة الأكثر استخداماً عالمياً للكشف السريع عن سوء التغذية الحاد في الأطفال من 6 أشهر إلى 5 سنوات، ولا يحتاج إلا لشريط قياس بسيط. راجعت دراسة نشرت في مجلة بانافريكان ميديكال جورنال عام 2024 عشرات الدراسات وأكدت أن الأمهات أنفسهن يستطعن تعلم هذا القياس وتطبيقه بدقة.",
+            "لإجراء القياس، مد ذراع طفلك بشكل طبيعي دون شد أو ارتخاء، واقسم المسافة بين الكتف والكوع إلى نصفين، ثم ضع الشريط حول المنتصف دون ضغط. اقرأ الرقم وقارنه: 12.5 سم وما فوق يعني وضعاً مقبولاً، بين 11.5 و12.5 سم يعني سوء تغذية حاداً معتدلاً، وما دون 11.5 سم يعني سوء تغذية حاداً شديداً يستدعي تدخلاً طبياً فورياً.",
+            "هذا القياس لا يعطيك الصورة الكاملة وحده، فالطفل الذي يعاني من انتفاخ في القدمين أو الوجه مع أي درجة من الهزال يحتاج إلى تقييم طبي حتى لو كان MUAC مقبولاً، لأن الانتفاخ قد يخفي نقصاً شديداً في البروتين.",
+            "الأشرطة اللونية المخصصة لقياس MUAC متاحة عند عاملات الصحة المجتمعية في مناطق عديدة. اللون الأحمر يعني حالة شديدة، الأصفر يعني حالة معتدلة تحتاج متابعة، والأخضر يعني أن الوضع مقبول. إذا لم تجدي الشريط الملون، استخدمي أي شريط قياس بالسنتيمتر وقارني النتيجة بالأرقام المذكورة. هذا القياس البسيط قد يكون أهم إجراء تتخذينه اليوم."
+          ],
+          "visual": {
+            "type": "range-scale",
+            "title": "قراءة محيط الذراع (MUAC) للأطفال من 6 أشهر إلى 5 سنوات",
+            "label": "MUAC",
+            "unit": "سم",
+            "min": 9,
+            "max": 15,
+            "zones": [
+              {"to": 11.5, "tone": "bad", "label": "شديد"},
+              {"to": 12.5, "tone": "warn", "label": "معتدل"},
+              {"to": 15, "tone": "good", "label": "طبيعي"}
+            ],
+            "source": "منظمة الصحة العالمية: معايير قياس MUAC"
+          }
+        },
+        {
+          "h2": "علامات التحذير التي تستوجب التوجه فوراً للمستشفى",
+          "paras": [
+            "بعض العلامات تعني أن طفلك في خطر فوري ولا مجال للانتظار أو تجربة حلول منزلية. الطفل المصاب بسوء تغذية شديد له جهاز مناعي ضعيف جداً وقدرة محدودة على تعويض الفاقد، والساعات الأولى حاسمة.",
+            "من العلامات الخطيرة: رفض الرضاعة أو الأكل تماماً لأكثر من يوم كامل، انتفاخ القدمين أو الوجه أو البطن مع ضعف عام، عيون غائرة جداً مع جفاف، فقدان الوعي أو الاستجابة حتى لصوتك، تغير لون الجلد أو ظهور تقرحات أو تقشر واسع."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "اطلب المساعدة الطبية فوراً إذا لاحظت",
+            "items": [
+              "انتفاخ في القدمين أو الوجه مع هزال واضح",
+              "رفض الأكل والشرب تماماً مع تراخٍ شديد",
+              "فقدان الوعي أو صعوبة في الاستيقاظ",
+              "تنفس سريع أو صعب مع الهزال",
+              "MUAC أقل من 11.5 سم"
+            ]
+          }
+        },
+        {
+          "h2": "خطر متلازمة إعادة التغذية: لماذا الإسراع في الإطعام خطير",
+          "paras": [
+            "تُمثل متلازمة إعادة التغذية (Refeeding Syndrome) أحد أكثر المخاطر خفاءً في معالجة سوء التغذية. حين يجوع الجسم طويلاً، يتكيف مع مستويات منخفضة جداً من البوتاسيوم والفوسفور والمغنيسيوم. حين يُطعَم الطفل بكميات كبيرة فجأة، تنخفض هذه المعادن في الدم بشكل حاد مما يسبب اضطراباً في القلب والعضلات والجهاز العصبي وقد يؤدي إلى الوفاة.",
+            "نشرت دراسة باكستانية في عام 2025 في مجلة الجمعية الباكستانية للأطباء والجراحين أن متلازمة إعادة التغذية تحدث عند عدد غير قليل من أطفال ما دون الخمس سنوات المصابين بسوء تغذية حاد حين يُطعمون دون بروتوكول طبي منظم. الدراسة شددت على ضرورة البدء بكميات صغيرة جداً والزيادة التدريجية تحت مراقبة.",
+            "الحل العملي هو ألا تحاول إطعام طفل مصاب بسوء تغذية شديد بكميات كبيرة من تلقاء نفسك وأن تنتظر التوجيه الطبي. مراكز علاج سوء التغذية تبدأ عادةً بمرحلة استقرار تدوم أياماً قبل بدء التغذية الكاملة.",
+            "الأعراض التي تشير إلى متلازمة إعادة التغذية تشمل ضعفاً مفاجئاً في عضلات الطفل أو صعوبة في التنفس أو تغيراً في مستوى وعيه بعد بدء الإطعام. إذا لاحظت أي من هذه الأعراض أثناء تغذية طفل بعد فترة جوع طويلة، أوقف الإطعام مؤقتاً وأسرع للحصول على مساعدة طبية."
+          ]
+        },
+        {
+          "h2": "الغذاء العلاجي الجاهز: ما هو وأين تجده",
+          "paras": [
+            "الغذاء العلاجي الجاهز للاستخدام (RUTF) هو عجينة أو بسكويت مدعم بالبروتين والدهون والفيتامينات والمعادن، مصمم لعلاج سوء التغذية الحاد عند الأطفال الذين لا يعانون من مضاعفات خطيرة. يشبه كثيراً كريمة الفول السوداني ويمكن تناوله بدون مياه وبدون طهي، وهذا يجعله مثالياً في ظروف الطوارئ.",
+            "يوزع برنامج الغذاء العالمي ومنظمة اليونيسف RUTF في مراكز الرعاية الصحية الأولية ومخيمات النازحين في اليمن وسوريا وغزة والسودان. إذا أخبرك أحد المسؤولين الصحيين أن طفلك مؤهل للعلاج المجتمعي، فهذا يعني أنه سيتلقى RUTF في المنزل مع زيارات متابعة دورية.",
+            "مراجعة نشرها مجلة Advances in Nutrition عام 2017 استعرضت برامج التغذية في مناطق النزاع وخلصت إلى أن التوزيع المجتمعي للغذاء العلاجي فعّال حين يقترن بمتابعة منتظمة وتدريب الأمهات على علامات تدهور الحالة."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "كيف يجري علاج سوء التغذية الحاد في المجتمع",
+            "items": [
+              "التقييم الأولي: قياس MUAC والفحص للكشف عن مضاعفات",
+              "مرحلة الاستقرار: بدء التغذية بكميات صغيرة جداً مع مراقبة",
+              "مرحلة العلاج: توزيع RUTF مع متابعة أسبوعية",
+              "مرحلة التعافي: الانتقال التدريجي لنظام غذائي متنوع",
+              "المتابعة: زيارات شهرية لمدة ستة أشهر لضمان عدم الانتكاسة"
+            ]
+          }
+        },
+        {
+          "h2": "الكواشيوركور والمراسموس: نوعان من سوء التغذية الشديد",
+          "paras": [
+            "يُطلق الأطباء على سوء التغذية الشديد اسمين رئيسيين: المراسموس (Marasmus) والكواشيوركور (Kwashiorkor). المراسموس هو الأكثر شيوعاً وهو ناتج عن نقص حاد في السعرات الحرارية والبروتين معاً، ويظهر على شكل هزال شديد ووجه مجعد وبشرة معلقة كأن الطفل كبير في صغره.",
+            "الكواشيوركور أكثر خداعاً لأنه يحدث حين يأكل الطفل ما يكفيه من السعرات الحرارية لكنه يعاني من نقص حاد في البروتين. الجسم يحتجز السوائل تعويضاً، فتنتفخ القدمان والبطن والوجه ويبدو الطفل بوزن طبيعي أو حتى ثقيلاً بينما هو في خطر حقيقي. يفقد الشعر لمعانه وقد يتغير لونه إلى البني أو الأصفر.",
+            "كلا النوعين طارئ يستلزم علاجاً متخصصاً. الخلط بينهما أو بين الكواشيوركور والسمنة أو الحساسية يؤخر العلاج ويزيد الخطر. في مناطق عدة من اليمن والسودان وغزة، شهد الأطباء الميدانيون حالات وصلت إليهم متأخرة جداً لأن الأسرة اعتقدت أن الطفل المنتفخ بخير أو أنه يعاني من حساسية غذائية، وهذا الاعتقاد كلف أرواحاً."
+          ]
+        },
+        {
+          "h2": "الوقاية: التغذية في الألف يوم الأولى",
+          "paras": [
+            "يُثبت العلم أن أهم نافذة للوقاية من سوء التغذية هي الفترة الممتدة من الحمل حتى عيد ميلاد الطفل الثاني، وتُسمى الألف يوم الأولى. ما يتلقاه الطفل من تغذية وعناية في هذه الفترة يُحدد إلى حد كبير نمو دماغه وطوله ومناعته للسنوات القادمة.",
+            "الرضاعة الطبيعية الحصرية حتى الشهر السادس تُعدّ الحماية الأولى والأفضل للرضيع، فحليب الأم يحتوي على كل ما يحتاجه الطفل ويحميه من الإسهال والالتهابات التي تُعجّل بسوء التغذية. بعد الشهر السادس، يجب البدء بتنويع الغذاء التكميلي بينما تستمر الرضاعة.",
+            "في ظروف الأزمات والنزوح، يصعب الحفاظ على هذا النظام المثالي، لكن تجنب إعطاء الرضيع حليب البقر أو الشاي أو السكر في الأشهر الأولى أمر مهم جداً. البدائل الغذائية المنتشرة في مناطق الأزمات، كسوائل المنزل المخففة، لا توفر الاحتياجات الغذائية وتزيد من خطر الإسهال.",
+            "حين يشح الطعام عند الأسرة بأكملها، تأكد من أن الطفل الصغير والأم المرضعة يحصلان على الأولوية في البيض والبقوليات كالعدس والفول والحمص والخضراوات الورقية الداكنة. هذه الأطعمة رخيصة نسبياً ومتاحة في معظم مناطق المنطقة وتوفر بروتيناً وحديداً وفيتامينات لا يمكن الاستغناء عنها في هذا العمر."
+          ],
+          "visual": {
+            "type": "timeline",
+            "title": "الألف يوم الأولى: الحماية من سوء التغذية",
+            "items": [
+              {"when": "أثناء الحمل", "what": "تغذية الأم الكافية وتناول حمض الفوليك والحديد"},
+              {"when": "الولادة حتى 6 أشهر", "what": "رضاعة طبيعية حصرية، لا حاجة لأي إضافات"},
+              {"when": "6 إلى 12 شهراً", "what": "بدء غذاء تكميلي متنوع مع استمرار الرضاعة"},
+              {"when": "12 إلى 24 شهراً", "what": "تنويع الوجبات وإدراج البقوليات والحبوب والبيض"}
+            ]
+          }
+        },
+        {
+          "h2": "متى تطلب المساعدة من مراكز التغذية",
+          "paras": [
+            "ليس عليك أن تتعامل مع هذه الحالة وحدك. في مناطق الأزمات كاليمن وسوريا وغزة والسودان، تعمل برامج تغذية مجتمعية تابعة لمنظمة الصحة العالمية ومنظمة أطباء بلا حدود والأنروا واليونيسف توفر التقييم والعلاج والمتابعة مجاناً.",
+            "اطلب المساعدة إذا لاحظت أن طفلك لم يزداد وزناً لأكثر من شهر رغم الرضاعة الجيدة، أو إذا كان MUAC أقل من 12.5 سم، أو إذا بدا عليه تعب أو لامبالاة غير معتادة. حتى لو لم تكن واثقاً، التقييم المبكر لا يكلف شيئاً وقد يُنقذ حياة.",
+            "احرص على تسجيل وزن طفلك كل شهر أو شهرين في بطاقة متابعة النمو إن توفرت، لأن توقف زيادة الوزن علامة تحذير مبكرة قبل أن يظهر الهزال للعين. المتابعة المنتظمة تجعل التدخل المبكر ممكناً قبل وصول الحالة إلى مرحلة خطيرة.",
+            "إذا كنت في منطقة بها انتشار واسع لسوء التغذية، تحقق من وجود برامج الفحص الجماعي المتنقلة التي تزور المجتمعات بانتظام. هذه الفرق توفر أجهزة قياس وعلاجاً في الموقع دون الحاجة إلى السفر لمسافات طويلة. وجود عاملة صحية مجتمعية في منطقتك يمكنها توجيهك للمراكز الأقرب وتعليمك طريقة القياس الصحيحة وعلامات الخطر التي تستدعي الإحالة الفورية."
+          ]
+        },
+        {
+          "h2": "سوء تغذية الأطفال في سياق الأزمات الإقليمية",
+          "paras": [
+            "يرتبط سوء التغذية الحاد عند الأطفال ارتباطاً وثيقاً بالنزاعات المسلحة وانهيار الخدمات الصحية، وهي واقع يعيشه ملايين الأطفال في اليمن وغزة والسودان وسوريا. حين تنقطع سلاسل إمداد الغذاء وتتوقف عيادات الرعاية الأولية وتُهجَّر الأسر بشكل متكرر، يتراكم العجز الغذائي بصمت عند الأطفال الأصغر سناً الذين هم الأكثر ضعفاً.",
+            "المشكلة لا تقتصر على شُح الطعام وحده. الإسهال المتكرر بسبب ملوثات المياه، والالتهابات التنفسية المتكررة، والإجهاد النفسي الناتج عن النزوح، كلها تزيد من استهلاك الجسم للمغذيات وتقلل من امتصاصها. طفل يعاني من نوبات متكررة من الإسهال لا يستطيع امتصاص ما يأكله بشكل كافٍ حتى لو كان الغذاء متاحاً.",
+            "في هذا السياق، الأمهات اللواتي يفهمن كيفية قياس MUAC وكيفية التعرف على العلامات التحذيرية يستطعن إنقاذ حياة أطفالهن بالوصول المبكر للعلاج. الفارق بين الكشف في مرحلة الهزال المعتدل والكشف في مرحلة الهزال الشديد ضخم جداً من حيث سهولة العلاج والنتائج."
+          ]
+        }
+      ],
+      "tie": "يمكن لتطبيق صحتك مساعدتك على تسجيل وزن طفلك ومحيط ذراعه كل شهر ومتابعة منحنى النمو مع التنبيه عند وجود توقف أو تراجع.",
+      "faqs": [
+        {
+          "q": "كيف أعرف إذا كان طفلي يعاني من سوء التغذية؟",
+          "a": "أبسط طريقة هي قياس محيط الذراع (MUAC) بشريط قياس بسيط. لو كان أقل من 12.5 سم للأطفال من 6 أشهر إلى 5 سنوات فهذه علامة تحتاج تقييماً طبياً. انتفاخ القدمين أو البطن أو الوجه مع ضعف عام علامة خطيرة تستوجب الذهاب لأقرب مستشفى فوراً."
+        },
+        {
+          "q": "هل يمكنني علاج سوء التغذية في المنزل؟",
+          "a": "سوء التغذية الخفيف إلى المعتدل يمكن علاجه مجتمعياً بالغذاء العلاجي الجاهز RUTF تحت إشراف صحي. لكن الحالات الشديدة مع مضاعفات كالانتفاخ أو رفض الأكل أو فقدان الوعي تحتاج إلى مستشفى. لا تحاول إطعام طفل مصاب بسوء تغذية شديد بكميات كبيرة فجأة دون توجيه طبي."
+        },
+        {
+          "q": "ما الفرق بين الغذاء العلاجي والتكميلي؟",
+          "a": "الغذاء العلاجي (RUTF) هو دواء غذائي مخصص لعلاج سوء التغذية الحاد، يحتوي على تركيزات عالية جداً من البروتين والدهون والفيتامينات والمعادن. الغذاء التكميلي هو ما يُضاف لحليب الأم بعد الشهر السادس من وجبات عادية متنوعة ومناسبة للعمر."
+        },
+        {
+          "q": "هل التقزم يمكن علاجه؟",
+          "a": "التقزم الذي يحدث في السنتين الأوليين من العمر له تأثير طويل الأمد يصعب عكسه بالكامل بعد مرور هذه الفترة. لهذا الوقاية أهم بكثير من العلاج. التحسن الغذائي في سن مبكر يُقلل من الأثر لكنه لا يُلغيه تماماً. تدخل الاختصاصيين في أقرب وقت يُفيد دائماً."
+        },
+        {
+          "q": "ما معنى الكواشيوركور ولماذا يبدو الطفل منتفخاً؟",
+          "a": "الكواشيوركور هو نوع من سوء التغذية ناتج عن نقص حاد في البروتين. حين تنخفض البروتينات في الدم، لا تستطيع جدران الأوعية الدموية إمساك السوائل، فتتسرب إلى الأنسجة مسببةً الانتفاخ في القدمين والبطن والوجه. يبدو الطفل ثقيلاً بينما هو في حالة خطيرة تتطلب علاجاً متخصصاً."
+        },
+        {
+          "q": "هل الرضاعة الطبيعية تحمي من سوء التغذية؟",
+          "a": "نعم بشكل كبير، خاصة في الأشهر الستة الأولى. حليب الأم يوفر كل الطاقة والبروتين والفيتامينات التي يحتاجها الرضيع، ويحميه من الإسهال والالتهابات التي تستنزف مخزون جسمه. لكن بعد الشهر السادس يجب إضافة وجبات متنوعة مع الاستمرار في الرضاعة."
+        },
+        {
+          "q": "أين أجد برامج التغذية العلاجية في مناطق الأزمات؟",
+          "a": "تعمل برامج التغذية المجتمعية في عيادات الرعاية الأولية ومراكز اليونيسف والأنروا ومنظمة أطباء بلا حدود في اليمن وسوريا وغزة والسودان. اسأل في أقرب مركز صحي أو نقطة توزيع مساعدات عن برنامج إدارة سوء التغذية الحاد المجتمعي."
+        }
+      ]
+    },
+    "en": {
+      "title": "Child Malnutrition: Recognising It and Refeeding Safely",
+      "desc": "A practical guide for parents in Yemen, Sudan, Gaza and Syria on measuring MUAC, distinguishing wasting from stunting, and avoiding dangerous refeeding syndrome.",
+      "keywords": "child malnutrition, wasting, stunting, MUAC measurement, refeeding syndrome, RUTF therapeutic food, severe acute malnutrition, Yemen, Gaza, nutrition programmes",
+      "h1": "Child Malnutrition: How to Recognise It and Feed Your Child Back to Safety",
+      "takeaways": [
+        "Mid-upper arm circumference (MUAC) below 11.5 cm in a child aged 6 months to 5 years signals severe acute malnutrition and requires immediate medical attention.",
+        "Wasting means low weight for height and is an acute emergency. Stunting means low height for age and reflects months of chronic undernutrition. They need different responses.",
+        "Refeeding a severely malnourished child too quickly can cause fatal electrolyte shifts. Restart feeding slowly and under medical guidance.",
+        "Ready-to-use therapeutic food (RUTF) is available free of charge through UNICEF and WHO nutrition programmes in crisis areas and treats most uncomplicated cases at home.",
+        "Swollen feet or face alongside visible thinness means kwashiorkor: go to a health centre the same day."
+      ],
+      "sections": [
+        {
+          "h2": "What is the difference between wasting and stunting?",
+          "paras": [
+            "Malnutrition in children is not a single condition. It comes in forms that look different, progress at different speeds, and need different responses. Understanding the difference shapes what you do next.",
+            "Wasting is low weight for height. It means a child is losing muscle and fat rapidly, usually because of too little food over weeks or an acute illness that prevents eating and absorption. Wasting is an emergency: a child with severe wasting can die within days if nothing changes. The body is consuming itself to stay alive.",
+            "Stunting is low height for age. It reflects months or years of insufficient nutrition, usually beginning in pregnancy or in the first two years of life. A stunted child may look well proportioned for their current height, but they are shorter than they should be for their age, and this carries long-term consequences for brain development, school performance, and earning capacity. Stunting cannot be reversed quickly; the most powerful time to prevent it is before it happens."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Wasting versus stunting at a glance",
+            "head": ["Feature", "Wasting", "Stunting"],
+            "rows": [
+              ["What is low", "Weight for height", "Height for age"],
+              ["Time to develop", "Weeks to months", "Months to years"],
+              ["Immediate danger", "Very high, can be fatal", "Lower urgency but lasting harm"],
+              ["Critical window", "Any age", "First 1,000 days of life"],
+              ["Detected by", "MUAC and weight-for-height charts", "Height measured against age charts"]
+            ]
+          }
+        },
+        {
+          "h2": "How to measure your child's MUAC at home",
+          "paras": [
+            "The mid-upper arm circumference (MUAC) is the most widely used field tool for screening acute malnutrition in children aged 6 months to 5 years. It requires nothing more than a simple tape measure. A 2024 scoping review in the Pan African Medical Journal confirmed that mothers themselves can learn and apply MUAC screening accurately, making it viable even where health workers are scarce.",
+            "To measure, let your child's arm hang relaxed at their side. Find the midpoint between the shoulder tip and the tip of the elbow. Wrap the tape around that midpoint snugly but without pressing into the skin. A reading of 12.5 cm or above is generally acceptable. Between 11.5 and 12.5 cm indicates moderate acute malnutrition. Below 11.5 cm indicates severe acute malnutrition requiring immediate medical care.",
+            "MUAC alone does not tell the whole story. A child with swollen feet, legs or face alongside any degree of thinness needs a medical assessment even if the MUAC reads in the moderate range, because oedema can mask an underlying severe protein deficiency called kwashiorkor."
+          ],
+          "visual": {
+            "type": "range-scale",
+            "title": "MUAC reading for children aged 6 months to 5 years",
+            "label": "MUAC",
+            "unit": "cm",
+            "min": 9,
+            "max": 15,
+            "zones": [
+              {"to": 11.5, "tone": "bad", "label": "Severe"},
+              {"to": 12.5, "tone": "warn", "label": "Moderate"},
+              {"to": 15, "tone": "good", "label": "Normal"}
+            ],
+            "source": "WHO guidelines on the management of severe acute malnutrition",
+            "source_url": "https://www.who.int/publications/i/item/9789241506328"
+          }
+        },
+        {
+          "h2": "Warning signs that need the same-day hospital visit",
+          "paras": [
+            "Some signs tell you that a child needs a health facility today, not tomorrow. A severely malnourished child has a weakened immune system, fragile circulation, and almost no reserve to draw on. The first hours of the right treatment are far more effective than the same treatment started days later.",
+            "Watch for any of the following and go to the nearest health centre or hospital immediately: the child refuses to eat or drink anything for a full day; the feet, legs, hands or face are swollen; the child is limp and does not respond normally to your voice or touch; breathing is unusually fast or laboured; or MUAC falls below 11.5 cm."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "Go to a health centre immediately if you see",
+            "items": [
+              "Swelling of the feet, legs or face alongside thinness",
+              "Complete refusal to eat or drink for more than one day",
+              "Limpness or difficulty waking the child",
+              "Fast or difficult breathing",
+              "MUAC below 11.5 cm"
+            ]
+          }
+        },
+        {
+          "h2": "Refeeding syndrome: why feeding too fast can be fatal",
+          "paras": [
+            "Refeeding syndrome is one of the most dangerous and least known risks in the treatment of severe malnutrition. When a body has been starved for a long time, it adapts to extremely low levels of potassium, phosphorus and magnesium. When food is suddenly reintroduced in large amounts, these minerals fall sharply in the blood as cells rush to absorb them. This sudden shift disrupts heart rhythm, muscle function and nerve conduction, and can cause cardiac arrest.",
+            "A 2025 study published in the Journal of the College of Physicians and Surgeons Pakistan examined children aged 6 to 59 months with severe acute malnutrition and found that refeeding syndrome was a real and dangerous complication when structured protocols were not followed. The study emphasised starting with very small amounts of food and increasing gradually under observation.",
+            "The practical message for parents is this: if a child has been severely underfed for weeks, do not try to make up the deficit quickly with large meals or formula top-ups at home without medical guidance. Nutrition centres begin with a stabilisation phase lasting several days before gradually increasing intake. This protects the child while their body readjusts."
+          ]
+        },
+        {
+          "h2": "Ready-to-use therapeutic food: what it is and where to find it",
+          "paras": [
+            "Ready-to-use therapeutic food (RUTF) is a calorie-dense, nutrient-fortified paste, most commonly resembling peanut butter, designed to treat acute malnutrition in children without medical complications. It needs no water, no cooking, and no refrigeration, which makes it well suited to crisis conditions. One sachet per day alongside continued breastfeeding covers the full treatment requirement for most children with moderate to severe wasting.",
+            "UNICEF and the World Food Programme distribute RUTF through primary healthcare centres, nutrition stabilisation units and community distribution points in Yemen, Syria, Gaza and Sudan. If a health worker tells you that your child qualifies for community-based management, this typically means taking home a weekly supply of RUTF with scheduled follow-up visits.",
+            "A 2017 review in the journal Advances in Nutrition examined nutrition interventions across multiple conflict-affected settings and found that community-based distribution of therapeutic food was effective when combined with regular monitoring and caregiver education. Programmes that train mothers to identify deterioration early and bring children back promptly had significantly better outcomes than distribution alone."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "How community-based treatment of acute malnutrition works",
+            "items": [
+              "Initial assessment: MUAC measured and complications screened for",
+              "Stabilisation phase: very small amounts of food with close monitoring",
+              "Treatment phase: RUTF distributed with weekly follow-up visits",
+              "Recovery phase: gradual transition to a varied family diet",
+              "Follow-up: monthly visits for six months to prevent relapse"
+            ]
+          }
+        },
+        {
+          "h2": "Kwashiorkor and marasmus: two faces of severe malnutrition",
+          "paras": [
+            "Doctors use two terms for the severe forms: marasmus and kwashiorkor. Marasmus is the more common form and results from severe deficiency of both calories and protein. A child with marasmus looks visibly thin and wasted, with loose skin, prominent bones and a face that looks aged beyond their years. The body has consumed its fat and muscle reserves to survive.",
+            "Kwashiorkor is more deceptive. It occurs when calorie intake is roughly adequate but protein is severely deficient. The body cannot maintain fluid balance without protein, so fluid leaks into the tissues, causing swelling of the feet, legs, belly and sometimes the face. A child with kwashiorkor may look almost normal in weight, or even heavy, while actually being in a life-threatening nutritional crisis. The hair often becomes sparse and may turn reddish-brown or yellow.",
+            "Both conditions are medical emergencies. Kwashiorkor is sometimes mistaken for good health, for allergic swelling, or even for obesity, and this delay costs lives. If you see a child with puffy feet or legs and a distended belly alongside weakness or hair changes, the right response is a health centre visit, not watchful waiting."
+          ]
+        },
+        {
+          "h2": "Prevention: nutrition in the first 1,000 days",
+          "paras": [
+            "The period from conception to the second birthday, roughly 1,000 days, is the window where nutrition has the greatest and most lasting influence on a child's brain, height and immunity. What happens in these days cannot be fully made up for later. This is not a reason for despair in difficult circumstances; it is the strongest argument for prioritising the pregnant woman and the young child when food is scarce.",
+            "Exclusive breastfeeding for the first six months gives the infant everything they need and protects against the diarrhoea and infections that accelerate malnutrition. After six months, complementary feeding should begin with soft, nutrient-rich foods while breastfeeding continues. In crisis settings, giving a young infant sweetened tea, animal milk, or thin porridge before six months provides almost no nutrition and raises the infection risk substantially.",
+            "When food is scarce for the whole family, prioritising egg, legumes such as lentils and chickpeas, and dark green leaves for the young child and the breastfeeding mother can make a significant difference within a very limited budget. These foods are also more available and affordable than formula across most of the region."
+          ],
+          "visual": {
+            "type": "timeline",
+            "title": "The first 1,000 days: what matters when",
+            "items": [
+              {"when": "Pregnancy", "what": "Adequate maternal nutrition, iron and folic acid supplementation"},
+              {"when": "Birth to 6 months", "what": "Exclusive breastfeeding, no water, no formula, no other food"},
+              {"when": "6 to 12 months", "what": "Complementary feeding introduced alongside continued breastfeeding"},
+              {"when": "12 to 24 months", "what": "Varied family foods including legumes, egg and dark vegetables"}
+            ]
+          }
+        },
+        {
+          "h2": "When and how to access nutrition programmes",
+          "paras": [
+            "You do not have to manage this alone. In Yemen, Syria, Gaza and Sudan, community nutrition programmes run through WHO, UNICEF, MSF (Doctors Without Borders) and UNRWA provide free assessment, therapeutic food, and follow-up. These services exist specifically for crisis settings where the regular healthcare system cannot meet the need.",
+            "Seek out a nutrition centre if your child has not gained weight for more than one month despite adequate feeding, if MUAC falls below 12.5 cm, or if the child seems unusually lethargic or disinterested in eating. Early assessment costs nothing and makes a substantial difference to outcome.",
+            "If you can access a growth chart, recording your child's weight every one to two months gives you the most useful early warning available. A child who stops gaining weight for two or three months, even before visible wasting appears, is signalling that something needs to change. Early intervention at this stage avoids the emergency later.",
+            "In areas with mobile outreach teams, these teams visit communities regularly with measuring equipment and RUTF, removing the need to travel to a fixed centre. A community health worker, where one exists, can teach you how to measure MUAC correctly, identify danger signs, and refer the child for in-patient care when home-based management is no longer safe."
+          ]
+        },
+        {
+          "h2": "Malnutrition in the context of conflict and displacement",
+          "paras": [
+            "Severe acute malnutrition in young children is closely tied to armed conflict, collapsed health systems and repeated displacement, all of which are the daily reality for millions of families in Yemen, Gaza, Sudan and Syria. When food supply chains break down, primary care stops functioning, and families are forced to move repeatedly, nutritional deficits accumulate silently in the youngest and most vulnerable children.",
+            "The problem is not only food scarcity. Repeated bouts of diarrhoea from contaminated water, frequent respiratory infections, and the physiological stress of displacement all increase the body's nutritional demands while reducing absorption. A child with frequent diarrhoea cannot absorb what they eat adequately even when food is technically available. Treating infection and ensuring safe water alongside improving food intake is therefore essential to recovery.",
+            "Caregivers who understand how to measure MUAC and recognise early warning signs can save a child's life by accessing treatment while it is still straightforward. The difference between identifying moderate wasting and waiting until wasting is severe is enormous in terms of ease of treatment, risk of complications, and likelihood of full recovery. If this article has given you one practical tool to use today, measure that arm circumference."
+          ]
+        }
+      ],
+      "tie": "The Sihtak app lets you log your child's weight and MUAC each month, track their growth curve over time, and receive an alert if their weight plateaus or drops.",
+      "faqs": [
+        {
+          "q": "How do I know if my child has malnutrition?",
+          "a": "The simplest home check is a MUAC measurement with a tape measure. Below 12.5 cm in children aged 6 months to 5 years means your child needs a medical assessment. Swollen feet or face alongside visible thinness, or a child who is unusually limp or unresponsive, means going to a health centre the same day."
+        },
+        {
+          "q": "Can I treat malnutrition at home?",
+          "a": "Moderate acute malnutrition without complications can often be treated at home using RUTF distributed through community nutrition programmes, with regular follow-up. Severe cases with swelling, refusal to eat, or altered consciousness need in-patient care. Never try to compensate for weeks of underfeeding with large meals in a short time: this refeeding approach is dangerous."
+        },
+        {
+          "q": "What is RUTF and how do I get it?",
+          "a": "Ready-to-use therapeutic food is a peanut-based, vitamin-fortified paste used to treat acute malnutrition in children. It needs no preparation and no refrigeration. In crisis areas it is distributed free through UNICEF nutrition centres, health posts and NGO distribution sites. Ask at your nearest health centre or humanitarian aid point about the community management of acute malnutrition programme."
+        },
+        {
+          "q": "Why is refeeding dangerous after starvation?",
+          "a": "After prolonged underfeeding, the body adapts to low levels of key minerals including phosphorus, potassium and magnesium. When a large amount of food is introduced suddenly, cells absorb these minerals quickly and blood levels can drop to dangerous levels. This can cause heart rhythm problems and muscle failure. The solution is to restart feeding in very small amounts and increase gradually over days under medical supervision."
+        },
+        {
+          "q": "My child looks swollen, could they still be malnourished?",
+          "a": "Yes. Swelling of the feet, legs or face in a child who is not eating well is a classic sign of kwashiorkor, a form of severe malnutrition caused by protein deficiency. The swelling occurs because protein is needed to keep fluid inside blood vessels. Without enough protein, fluid leaks into the tissues. Do not be reassured by the weight or the swollen appearance: this child needs medical assessment today."
+        },
+        {
+          "q": "Can stunting be reversed?",
+          "a": "Stunting that develops in the first two years of life leaves lasting effects that are difficult to fully reverse after that window closes. This is why prevention in pregnancy and early childhood matters far more than catch-up. Improving nutrition after age two still has real benefits for health and development, but it rarely restores lost height fully. Early intervention is always worthwhile."
+        },
+        {
+          "q": "Does breastfeeding protect against malnutrition?",
+          "a": "Exclusive breastfeeding for the first six months provides complete nutrition for the infant and significantly reduces the diarrhoea and infections that accelerate malnutrition. After six months, diverse complementary foods must be added while breastfeeding continues. Breastfeeding is protective even in food-insecure settings because breast milk quality is maintained at the expense of the mother's own reserves."
+        }
+      ]
+    }
+  }
+}

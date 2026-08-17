@@ -1,0 +1,359 @@
+{
+  "slug": "urinary-tract-infection-uti",
+  "category": "infectious-diseases",
+  "chip_ar": "أمراض معدية",
+  "chip_en": "Infectious Diseases",
+  "date_iso": "2026-07-04",
+  "sources": [
+    {
+      "label": "Hatamleh R, Al-Trad A, Abuhammad S et al: Urinary tract infection among pregnant Jordanian women: role of hygiene and sexual practices, BMC pregnancy and childbirth, 2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39443883/"
+    },
+    {
+      "label": "Alhaj SS, Allami S, Mohamadiyeh A et al: Knowledge, attitudes, and practices regarding urinary tract infections among women in the United Arab Emirates, PloS one, 2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39792816/"
+    },
+    {
+      "label": "Kranz J, Bartoletti R, Bruyere F et al: European Association of Urology Guidelines on Urological Infections: Summary of the 2024 Guidelines, European urology, 2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38714379/"
+    },
+    {
+      "label": "Al Lawati H, Blair BM, Larnard J et al: Urinary Tract Infections: Core Curriculum 2024, American journal of kidney diseases, 2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37906240/"
+    },
+    {
+      "label": "Behzad D, Hakimeh A, Hossein R et al: A middle east systematic review and meta-analysis of bacterial urinary tract infection among renal transplant recipients; Causative microorganisms, Microbial pathogenesis, 2020",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32835776/"
+    },
+    {
+      "label": "Nicolle LE, Gupta K, Bradley SF et al: Clinical Practice Guideline for the Management of Asymptomatic Bacteriuria: 2019 Update by the Infectious Diseases Society of America, Clinical infectious diseases, 2019",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30895288/"
+    }
+  ],
+  "content": {
+    "ar": {
+      "title": "التهاب المسالك البولية: الأعراض والفحوصات والعلاج",
+      "desc": "دليل شامل للتهاب المسالك البولية عند النساء والرجال: الفرق بين التهاب المثانة والكلى، متى تحتاج لزراعة البول، وخطر مقاومة المضادات من العلاج الذاتي.",
+      "keywords": "التهاب المسالك البولية, التهاب المثانة, التهاب الكلى, حرقة البول, بكتيريا في البول, زراعة البول, مضادات حيوية للمسالك البولية",
+      "h1": "التهاب المسالك البولية: كيف تعرف الخطير من العادي وما الذي يجب أن تفعله",
+      "takeaways": [
+        "التهاب المثانة (UTI السفلي) يسبب الحرقة وكثرة التبول ويُعالج بمضادات حيوية قصيرة المدة في معظم الحالات.",
+        "التهاب الحويضة والكلية (UTI العلوي) يتضمن الحمى والقشعريرة وألم الظهر ويستلزم تقييم طبي عاجلاً.",
+        "زراعة البول (urine culture) ضرورية عند تكرار الالتهاب أو عدم تحسنه لأنها تكشف البكتيريا المقاومة.",
+        "العلاج الذاتي بالمضادات الحيوية دون فحص أنتج بكتيريا مقاومة في المنطقة، مما يجعل بعض الالتهابات أصعب في العلاج.",
+        "شرب كميات كافية من الماء وإفراغ المثانة بانتظام من أهم طرق الوقاية."
+      ],
+      "sections": [
+        {
+          "h2": "ما هو التهاب المسالك البولية وأين يحدث؟",
+          "paras": [
+            "التهاب المسالك البولية (Urinary Tract Infection) هو نمو للبكتيريا داخل الجهاز البولي الذي يشمل الكليتين والحالبين والمثانة والإحليل. البكتيريا الأكثر شيوعاً هي الإشريكية القولونية (Escherichia coli) التي تنتقل من الجهاز الهضمي وتدخل عبر فتحة الإحليل، وتسبب أكثر من ثمانين بالمئة من حالات الالتهاب عند النساء.",
+            "النساء أكثر عرضة للإصابة بسبب قصر طول الإحليل عندهن مقارنة بالرجل، مما يجعل وصول البكتيريا إلى المثانة أسهل. تشير الدراسات إلى أن نصف النساء على الأقل يصبن بالتهاب مسالك بولية واحد في حياتهن، وكثير منهن يعانين من التكرار. أما الرجال فيصابون أيضاً لكن بصورة أقل تكراراً، وعند إصابتهم يستدعي ذلك في الغالب تقييماً إضافياً للبروستاتا أو تضيق الإحليل.",
+            "ينقسم الالتهاب حسب الموضع إلى نوعين رئيسيين: التهاب المثانة (cystitis) الذي يؤثر على الجهاز السفلي ويكون أقل خطورة، والتهاب الحويضة والكلية (pyelonephritis) الذي يصل إلى الكليتين وقد يكون خطيراً إن لم يُعالج بسرعة."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "التهاب المثانة مقابل التهاب الحويضة والكلية",
+            "head": ["الخاصية", "التهاب المثانة (السفلي)", "التهاب الحويضة والكلية (العلوي)"],
+            "rows": [
+              ["الموضع", "المثانة والإحليل", "الكليتان"],
+              ["الحمى", "غائبة أو خفيفة", "موجودة غالباً، قد تكون مرتفعة"],
+              ["ألم الظهر", "غائب عادة", "موجود في الجانب أو أسفل الظهر"],
+              ["خطورة الحالة", "منخفضة إذا عولجت", "تستلزم تقييم طبي عاجل"],
+              ["مدة العلاج المعتادة", "3 إلى 7 أيام", "7 إلى 14 يوم أو أطول"]
+            ]
+          }
+        },
+        {
+          "h2": "ما الأعراض التي يجب أن تنتبه إليها؟",
+          "paras": [
+            "أعراض التهاب المثانة تبدأ عادة بحرقة أو ألم عند التبول، وكثرة الرغبة في التبول مع خروج كميات قليلة في كل مرة، وقد يكون البول معكراً أو ذا رائحة نفاذة أو ممزوجاً بدم. يشعر بعض المرضى بثقل أو ضغط في أسفل البطن. هذه الأعراض مزعجة لكنها لا تنذر بخطر داهم عند البالغين الأصحاء في الغالب.",
+            "التهاب الحويضة والكلية له صورة مختلفة: ترتفع درجة الحرارة عادة فوق 38.5 درجة، ويصاحبها قشعريرة وغثيان وأحياناً قيء، وألم في أحد الجانبين أو كليهما في منطقة الخاصرة أسفل القفص الصدري. هذا النمط من الأعراض يعني وصول العدوى إلى الكلى ويستلزم مراجعة طبية في نفس اليوم.",
+            "عند الأطفال الصغار وكبار السن، قد تكون الأعراض غير نمطية تماماً. الطفل قد يصاب بحمى دون أعراض بولية واضحة، وكبير السن قد يعاني من تشوش ذهني أو هذيان دون ألم بولي. إذا كان لديك مريض مسن مع تغير مفاجئ في الحالة الذهنية، يستحق الأمر فحص البول."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "اذهب إلى الطبير فوراً إذا لاحظت",
+            "items": [
+              "حمى مع ألم في الظهر أو الجانب",
+              "قشعريرة وارتجاف مع أعراض بولية",
+              "دم واضح كثير في البول مع ألم حاد",
+              "أعراض تهاب المسالك عند طفل دون سنتين",
+              "عدم تحسن بعد يومين من بدء العلاج"
+            ]
+          }
+        },
+        {
+          "h2": "كيف يُشخَّص الالتهاب: ما الفرق بين الشريط الاختباري وزراعة البول؟",
+          "paras": [
+            "الشريط الاختباري (dipstick urine test) هو فحص سريع يغمر في البول ويكشف علامات الالتهاب مثل وجود كريات الدم البيضاء ونتريت البكتيريا. نتيجة إيجابية في شخص لديه أعراض واضحة تكفي للبدء في العلاج في كثير من الحالات. لكن الشريط ليس دقيقاً مئة بالمئة ويمكن أن يخطئ سواء بالإيجابية الكاذبة أو السلبية الكاذبة.",
+            "زراعة البول (urine culture) هي الاختبار الذي يُحدد البكتيريا بالضبط ويعرف المضادات الحيوية التي تقاومها. تأخذ نتيجتها من يوم إلى ثلاثة أيام، لكنها ضرورية في عدة حالات: عند تكرار الالتهاب أكثر من مرتين في السنة، وعند الحامل، وعند الرجال، وعند من لم يتحسنوا على العلاج الأول، وعند كبار السن ومن يعانون من أمراض مزمنة.",
+            "طريقة أخذ العينة مهمة جداً للحصول على نتيجة صحيحة. يجب أن تكون العينة من منتصف تدفق البول (midstream) بعد تنظيف المنطقة جيداً، وليس من البداية أو النهاية. العينة الملوثة تعطي نتائج مضللة وقد تؤدي إلى علاج غير ضروري. إذا كان لديك شك في نظافة العينة، اطلب من الممرضة أو الطبيب أن يوضح لك الطريقة الصحيحة."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "كيف تأخذ عينة بول نظيفة للفحص",
+            "items": [
+              "اغسل يديك جيداً بالصابون قبل البدء",
+              "نظف المنطقة التناسلية بمنديل مبلل من الأمام إلى الخلف",
+              "ابدأ بالتبول في المرحاض لمدة ثانيتين ثم أوقف",
+              "ضع الكأس تحت تدفق البول واملأها بالكمية المطلوبة",
+              "أكمل التبول في المرحاض وأغلق الكأس فوراً",
+              "سلم العينة للمختبر خلال ساعة أو اتبع تعليمات الحفظ في الثلاجة"
+            ]
+          }
+        },
+        {
+          "h2": "كيف يُعالج التهاب المسالك البولية؟",
+          "paras": [
+            "المضادات الحيوية هي العلاج الأساسي، لكن المضاد المناسب يختلف حسب نوع البكتيريا وحساسيتها. في حالة التهاب المثانة البسيط عند المرأة الشابة غير الحامل، يصف الطبيب في العادة دورة قصيرة من ثلاثة إلى سبعة أيام. أما التهاب الحويضة والكلية فيستلزم مدة أطول تتراوح بين أسبوع وأسبوعين، وقد يحتاج المريض الشديد الأعراض إلى مضادات وريدية في المستشفى.",
+            "خلال فترة العلاج، من المهم إنهاء الدورة كاملة حتى لو تحسنت الأعراض مبكراً. التوقف المبكر يترك بعض البكتيريا حية وقد تطور مقاومة للمضاد. في الوقت نفسه، شرب كميات كافية من الماء يساعد على طرد البكتيريا وتسريع التعافي.",
+            "بعض المرضى يحتاجون أيضاً إلى دواء لتخفيف الألم والحرقة بصورة منفصلة عن المضاد الحيوي. هناك أدوية مثل فيناز وباراسيتامول يمكن أن تخفف الأعراض خلال ساعات من البدء. لكن مسكنات الألم وحدها لا تعالج العدوى، وبعض الناس يخطئون بالاكتفاء بها ظناً منهم أن الشفاء قد حدث.",
+            "اختيار المضاد الحيوي الصحيح يعتمد في المقام الأول على نتائج زراعة البول حين تتوفر. توصي إرشادات الجمعية الأوروبية لأمراض المسالك البولية الصادرة عام 2024 بالاعتماد على نتائج الحساسية المحلية قبل وصف أي مضاد، إذ إن المضادات التقليدية كالأموكسيسيلين وكوتريموكسازول بدأت تفقد فعاليتها في أجزاء كثيرة من منطقتنا بسبب انتشار الأنماط المقاومة."
+          ]
+        },
+        {
+          "h2": "لماذا يجب ألا تعالج نفسك دون وصفة طبية؟",
+          "paras": [
+            "في كثير من بلدان المنطقة، تُباع المضادات الحيوية في الصيدليات بدون وصفة طبية، وكثير من النساء يعتمدن على تجربتهن السابقة ويطلبن المضاد الحيوي نفسه في كل مرة. هذا النمط خطير لسببين: أولاً، الأعراض البولية لا تعني دائماً التهاباً بكتيرياً، وثانياً، تكرار استخدام المضادات الحيوية نفسها يطور مقاومة جرثومية تجعل العلاج أصعب في المستقبل.",
+            "دراسة أجريت في الإمارات عام 2025 ونشرت في مجلة PloS One وجدت ثغرات واسعة في معرفة النساء بطرق الوقاية والعلاج الصحيح من التهاب المسالك البولية، مع انتشار مرتفع للعلاج الذاتي. الوضع مشابه في معظم دول المنطقة حيث إمكانية الوصول إلى الطبيب قد تكون محدودة. ومع ذلك، فإن الفحص ولو عبر الشريط الاختباري الذي يُجريه الصيدلاني في بعض الأماكن أفضل من العلاج الأعمى.",
+            "المقاومة البكتيرية في المنطقة في ارتفاع، وبعض بكتيريا الإشريكية القولونية باتت مقاومة للمضادات التقليدية مثل الأموكسيسيلين ومضادات الكوتريموكسازول. هذا يعني أن الطبيب أحياناً يحتاج إلى نتيجة زراعة البول قبل أن يختار المضاد الحيوي الصحيح، لأن الخيار الخاطئ لن يفيد في شيء."
+          ]
+        },
+        {
+          "h2": "من هم الأكثر عرضة للخطر؟",
+          "paras": [
+            "الحامل في وضع خاص: الالتهاب البولي الصامت الذي لا يسبب أعراضاً (asymptomatic bacteriuria) يُعالج أثناء الحمل على خلاف ما يحدث في غير الحامل، لأنه قد يسبب ولادة مبكرة والتهاب الكلى. دراسة على النساء الحوامل الأردنيات نشرت عام 2024 في مجلة BMC وجدت ارتباطاً واضحاً بين بعض العادات الصحية وارتفاع معدل الإصابة، مما يؤكد أهمية الفحص الدوري خلال الحمل.",
+            "مرضى السكري أكثر عرضة للإصابة بسبب ارتفاع سكر البول الذي يوفر بيئة مثالية لنمو البكتيريا، ولأن ضعف المناعة المرتبط بالسكري يجعل الالتهاب أشد وأصعب علاجاً. كذلك المرضى الذين يستخدمون قسطرة بولية، وأصحاب الأمراض الكلوية، والذين يعانون من تضخم البروستاتا.",
+            "الأطفال الصغار تحت سنتين مجموعة حساسة، وعند إصابتهم بحمى غير مفسرة يجب التفكير في احتمال التهاب المسالك البولية وإجراء تحليل بول. تكرار الالتهاب عند الأطفال قد يكشف عن مشكلة في بنية الجهاز البولي تستدعي التحقيق."
+          ],
+          "visual": {
+            "type": "stats",
+            "items": [
+              {"value": "50%+", "label": "من النساء يصبن بالتهاب مسالك مرة في حياتهن", "tone": "warn"},
+              {"value": "20-30%", "label": "من النساء المصابات يعانين من تكرار الالتهاب", "tone": "warn"}
+            ]
+          }
+        },
+        {
+          "h2": "كيف تقي نفسك من التهاب المسالك البولية؟",
+          "paras": [
+            "الوقاية تبدأ بشرب كميات كافية من الماء يومياً، مما يضمن تخفيف تركيز البكتيريا في المثانة وطردها بانتظام. الأطباء يوصون بإفراغ المثانة بعد العلاقة الزوجية مباشرة، وعدم تأجيل التبول لفترات طويلة، لأن ركود البول يوفر بيئة مناسبة لتكاثر البكتيريا.",
+            "النساء يجب أن يمسحن دائماً من الأمام إلى الخلف بعد استخدام الحمام، لمنع انتقال بكتيريا الأمعاء إلى فتحة الإحليل. الملابس الداخلية القطنية أفضل من الصناعية التي تحبس الرطوبة. تجنب المنتجات المعطرة والصابون القوي في منطقة التناسل لأنها تؤثر على البكتيريا النافعة التي تحمي المنطقة.",
+            "عصير التوت البري (cranberry) يُذكر كثيراً لمنع التهاب المسالك البولية، والدراسات تشير إلى أنه قد يقلل من معدل الإصابة المتكررة عند بعض النساء لكن تأثيره محدود وليس علاجاً. إذا كنت تعانين من التهابات متكررة أكثر من مرتين في السنة، ناقشي مع طبيبك إمكانية وقاية بجرعة منخفضة طويلة المدى من المضاد الحيوي.",
+            "تجدر الإشارة إلى أن التدابير الوقائية تختلف في فعاليتها من امرأة إلى أخرى. بعض النساء يجدن أن تغيير وسيلة منع الحمل أو الاهتمام أكثر بطريقة التنظيف يُحدث فارقاً واضحاً، بينما تحتاج أخريات إلى مقاربة وقائية دوائية تحت إشراف الطبيب. الأهم هو توثيق كل نوبة التهاب مع التفاصيل لتمكين الطبيب من تحديد النمط وتقديم الحل المناسب."
+          ]
+        },
+        {
+          "h2": "متى تحتاج إلى تحويل إلى اختصاصي؟",
+          "paras": [
+            "معظم حالات التهاب المسالك البولية البسيط تُعالج في العيادة العامة أو مع الطبيب العام. لكن هناك حالات تستوجب إحالة إلى طبيب المسالك البولية (urologist): عند التكرار المتكثف أكثر من مرتين في ستة أشهر، وعند الرجال الذين تعاد إصابتهم، وعند الأطفال الذين يصابون بالالتهاب مرات متعددة، وعند الشك في وجود حصوات أو تشوهات بنيوية.",
+            "التصوير بالموجات فوق الصوتية للكليتين والمثانة أو الأشعة المقطعية أحياناً ضرورية لاستبعاد حصوات تعيق التدفق وتكون مخبأً للبكتيريا. الحويضة المتمددة أو وجود بقايا بول بعد التبول تعني وجود عائق ميكانيكي يجب معالجته جراحياً.",
+            "مرضى التهاب الحويضة والكلية الذين يتقيؤون ولا يستطيعون شرب الأدوية عن طريق الفم، أو الذين لا تتحسن حالتهم خلال 48 ساعة من المضادات الفموية، يحتاجون في الغالب إلى دخول المستشفى للعلاج بالمضادات الوريدية."
+          ]
+        },
+        {
+          "h2": "التهاب المسالك البولية والتهاب المثانة الخلالي: لا تخلط بينهما",
+          "paras": [
+            "بعض النساء يعانين من أعراض مشابهة لالتهاب المسالك البولية مزمنة مع فحوص سلبية تماماً. هذه الحالة تسمى التهاب المثانة الخلالي (interstitial cystitis) أو متلازمة ألم المثانة، وهي ليست عدوى بل حالة التهابية مزمنة. علاجها مختلف تماماً عن مضادات الجراثيم، وتكرار المضادات دون تشخيص صحيح يضر أكثر مما ينفع.",
+            "إذا كانت تحاليل البول تعود سلبية في كل مرة رغم الأعراض، أو إذا كان الألم مستمراً بين نوبات التبول وليس فقط عنده، فأخبر الطبيب بهذا التفصيل لأنه يغير مسار التشخيص تماماً.",
+            "التشخيص الدقيق يحمي من علاج غير ضروري وهذا يصب في مصلحتك على المدى البعيد، لأن الحفاظ على فعالية المضادات الحيوية التي ستحتاجها يوماً ما هو جزء أساسي من الرعاية الصحية الذكية."
+          ]
+        }
+      ],
+      "tie": "يساعدك تطبيق صحتك على تسجيل نتائج فحوص البول ومتابعة سجل الالتهابات المتكررة، مما يمكّن طبيبك من رؤية النمط الكامل واتخاذ القرار العلاجي الأنسب لك.",
+      "faqs": [
+        {
+          "q": "هل يمكن أن يختفي التهاب المسالك البولية دون مضادات حيوية؟",
+          "a": "التهاب المثانة البسيط عند النساء الشابات أحياناً يتحسن تلقائياً في غضون أيام مع كثرة شرب الماء، لكن هذا ليس القاعدة ولا يُنصح به لأن الانتظار قد يسمح بوصول العدوى إلى الكلى. الأطفال والحوامل وكل من لديه حمى يجب أن يبدأوا العلاج بمضادات حيوية بدون تأخير."
+        },
+        {
+          "q": "كم يستغرق الشفاء من التهاب المثانة؟",
+          "a": "معظم المرضى يلاحظون تحسناً في الأعراض خلال 24 إلى 48 ساعة من بدء المضادات الحيوية. لكن يجب إكمال الدورة كاملة حتى لو شعرت بأنك تعافيت تماماً. التوقف المبكر يزيد خطر العودة وتطور المقاومة."
+        },
+        {
+          "q": "ما الذي يسبب تكرار التهاب المسالك البولية؟",
+          "a": "أسباب التكرار متعددة: طريقة المسح غير الصحيحة، قلة شرب الماء، تأجيل التبول باستمرار، تغيرات هرمونية بعد انقطاع الطمث، استخدام بعض وسائل منع الحمل، أو مشكلة بنيوية في الجهاز البولي. طبيبك يحتاج إلى معرفة التفاصيل ليحدد السبب الحقيقي ويوصي بالوقاية المناسبة."
+        },
+        {
+          "q": "هل عصير التوت البري (كرانبيري) يعالج التهاب المسالك البولية؟",
+          "a": "عصير التوت البري لا يعالج التهاباً قائماً. الدراسات تشير إلى أنه قد يقلل من احتمالية الإصابة المتكررة عند بعض النساء، لكن لا يغني عن المضادات الحيوية عند وجود التهاب فعلي."
+        },
+        {
+          "q": "هل التهاب المسالك البولية معدٍ بين الشركاء؟",
+          "a": "التهاب المسالك البولية ليس مرضاً جنسياً معدياً بمعنى الكلمة، لكن الجماع الجنسي يمكن أن يساعد البكتيريا على الانتقال إلى فتحة الإحليل. لهذا يُنصح بالتبول بعد الجماع مباشرة لطرد أي بكتيريا قد تكون دخلت."
+        },
+        {
+          "q": "لماذا يحتاج الرجال إلى فحص إضافي عند إصابتهم بالتهاب المسالك البولية؟",
+          "a": "لأن التهاب المسالك البولية عند الرجل نادر نسبياً بسبب طول الإحليل عندهم، فوجوده يستدعي البحث عن سبب مثل تضخم البروستاتا أو حصوات المسالك أو تضيق الإحليل. الالتهاب الأول عند رجل شاب قد لا يتطلب تحقيقاً معمقاً، لكن التكرار يستوجب تحويل إلى طبيب مسالك بولية."
+        },
+        {
+          "q": "هل يجب تغيير النظام الغذائي لمنع التهاب المسالك البولية؟",
+          "a": "لا توجد حمية غذائية محددة ثبتت فعاليتها في منع الالتهاب، لكن شرب ما يكفي من الماء يومياً مهم جداً. تجنب الكافيين الزائد وبعض المشروبات الكحولية قد يقلل من تهيج المثانة، لكن الماء العادي يبقى الأهم."
+        }
+      ]
+    },
+    "en": {
+      "title": "Urinary Tract Infection: Symptoms, Testing and Treatment",
+      "desc": "Cystitis versus kidney infection, when a urine culture is essential, and why self-medicating with antibiotics is driving resistance across the region.",
+      "keywords": "urinary tract infection, UTI, cystitis, pyelonephritis, urine culture, antibiotic resistance, burning urination, UTI women",
+      "h1": "Urinary Tract Infection: How to Tell the Serious from the Simple and What to Do",
+      "takeaways": [
+        "Cystitis (lower UTI) causes burning and frequent urination and usually resolves with a short antibiotic course.",
+        "Pyelonephritis (upper UTI) involves fever, rigors and flank pain and needs urgent medical assessment.",
+        "A urine culture is essential when the infection recurs or does not respond, because it identifies resistant bacteria.",
+        "Self-medicating with antibiotics without a test is driving resistance in the region, making some infections genuinely harder to treat.",
+        "Staying well hydrated and urinating regularly are the most reliable prevention strategies."
+      ],
+      "sections": [
+        {
+          "h2": "What is a urinary tract infection and where does it happen?",
+          "paras": [
+            "A urinary tract infection (UTI) is a bacterial infection anywhere in the urinary system, which includes the kidneys, ureters, bladder and urethra. The most common culprit is Escherichia coli, a bacterium that normally lives in the gut and travels to the urethra from the surrounding area. It is responsible for more than eighty percent of UTIs in women.",
+            "Women are far more susceptible than men because their urethra is much shorter, giving bacteria a shorter route to the bladder. At least half of all women will have at least one UTI in their lifetime, and a significant proportion will have repeated infections. Men do get UTIs, but less commonly, and when they do it usually warrants additional investigation for an underlying cause such as prostate enlargement or urethral stricture.",
+            "The infection is classified by where it sits: cystitis affects the lower tract (bladder and urethra) and is the more common and less dangerous form, while pyelonephritis reaches the kidneys and can become serious if not treated promptly."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Cystitis versus pyelonephritis at a glance",
+            "head": ["Feature", "Cystitis (lower UTI)", "Pyelonephritis (upper UTI)"],
+            "rows": [
+              ["Site", "Bladder and urethra", "Kidneys"],
+              ["Fever", "Absent or low grade", "Usually present, can be high"],
+              ["Flank or back pain", "Usually absent", "Present, one or both sides"],
+              ["Urgency", "High", "Moderate to high"],
+              ["Typical treatment", "3 to 7 days oral antibiotics", "7 to 14 days, sometimes IV"]
+            ]
+          }
+        },
+        {
+          "h2": "What symptoms should you watch for?",
+          "paras": [
+            "Cystitis presents with burning or pain on urination, a frequent and urgent need to urinate with only small amounts passed each time, and urine that is cloudy, smells strongly, or contains traces of blood. Many women also feel a dull pressure or heaviness in the lower abdomen. In otherwise healthy adults, these symptoms are uncomfortable but not dangerous, and most people recover well with a short antibiotic course.",
+            "Pyelonephritis looks different. Fever above 38.5 degrees Celsius comes on, accompanied by chills, nausea and sometimes vomiting, and a distinct pain in one or both flanks just below the rib cage. This pattern means the infection has climbed to the kidneys and requires a medical assessment on the same day. Waiting for an appointment in two days is not appropriate.",
+            "In children under two and in elderly people, symptoms can be entirely atypical. A young child may have a fever with no urinary complaints at all. An older person may present with confusion or sudden behavioural change rather than pain. If an elderly patient develops unexplained acute confusion, checking a urine sample is a standard early step."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "Seek urgent care if you develop",
+            "items": [
+              "Fever combined with flank or back pain",
+              "Shaking chills alongside urinary symptoms",
+              "Visibly heavy blood in the urine with sharp pain",
+              "Urinary symptoms in a child under two years",
+              "No improvement after 48 hours on antibiotics"
+            ]
+          }
+        },
+        {
+          "h2": "How is it diagnosed: dipstick versus urine culture?",
+          "paras": [
+            "A urine dipstick is a quick bedside test that detects signs of infection: white blood cells (leukocyte esterase) and the nitrites that gram-negative bacteria such as E. coli produce. A positive dipstick in someone with clear symptoms is enough to start treatment in many straightforward cases. The test takes two minutes and is available in most pharmacies and clinics.",
+            "A urine culture (urine culture and sensitivity) goes further: it identifies the exact bacterium and tests it against a panel of antibiotics to show which ones will and which ones will not work. Results take one to three days. The 2024 European Association of Urology guidelines specify that a culture is essential for pregnant women, men, children, anyone with recurrent infections, and anyone who does not improve on their first antibiotic course. This is particularly important in the region because resistance rates are rising and the default antibiotic a pharmacist might hand over may no longer be effective against the specific strain involved.",
+            "How the urine sample is collected matters enormously for an accurate result. The sample must come from the midstream of urination, meaning you start urinating into the toilet for a couple of seconds, then catch the middle portion in the sample cup, then finish into the toilet. A sample collected carelessly, especially in women, can become contaminated with skin bacteria and produce a false positive or mislead the laboratory about which organism is truly causing the infection."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "How to collect a clean midstream urine sample",
+            "items": [
+              "Wash your hands thoroughly with soap before you begin",
+              "Clean the area around the urethra with a wet wipe, moving front to back",
+              "Begin urinating into the toilet for two seconds then pause",
+              "Hold the collection cup in the stream and collect the required volume",
+              "Finish urinating into the toilet, then close the cup immediately",
+              "Deliver to the laboratory within one hour or keep refrigerated if longer"
+            ]
+          }
+        },
+        {
+          "h2": "How is a UTI treated?",
+          "paras": [
+            "Antibiotics are the definitive treatment. Which antibiotic and for how long depends on the infection location, the patient's circumstances, and the local resistance pattern. For straightforward cystitis in a young non-pregnant woman, a three to seven day oral course is standard. Pyelonephritis needs a longer course of seven to fourteen days, and patients who are vomiting and cannot keep medication down, or who are very unwell, will need hospital admission for intravenous antibiotics.",
+            "Finishing the full prescribed course is important even when symptoms resolve in the first day or two. Stopping early leaves a small surviving population of bacteria that may have slightly more resistance, and these can multiply and cause a relapse that is harder to treat. This is not the same as taking antibiotics for longer than necessary, which carries its own risks.",
+            "Pain relief alongside antibiotics helps in the first day or two. Paracetamol is effective and safe for most people. Increasing fluid intake helps flush bacteria from the bladder and reduces the concentration of urine, which in itself reduces irritation. There are also urinary anaesthetic preparations that reduce the burning sensation while antibiotics take effect."
+          ]
+        },
+        {
+          "h2": "Why self-medicating without a test is causing a real problem",
+          "paras": [
+            "In many countries across the region, antibiotics are dispensed by pharmacists without a prescription. Women who recognise the familiar burning sensation often ask for the same antibiotic they used last time and self-treat without a urine test. This pattern creates two problems: first, not every episode of urinary burning is a bacterial UTI, and unnecessary antibiotics cause harm without benefit; second, repeated use of the same antibiotic selects for resistant bacteria.",
+            "A 2025 study published in PloS One examining women in the UAE found widespread self-medication and gaps in accurate knowledge about prevention and appropriate treatment. Similar patterns have been reported across Jordan, Egypt and other countries in the region. The practical consequence is that resistance rates to the antibiotics most commonly dispensed over the counter, particularly ampicillin and co-trimoxazole, have risen substantially in regional E. coli isolates.",
+            "A urine dipstick test, which takes minutes and costs very little, should ideally come before any antibiotic. Some pharmacies in the region are able to perform this. If you genuinely cannot access any test, a short course of an antibiotic recommended by a knowledgeable pharmacist is a pragmatic choice for a first episode of classic symptoms, but if the symptoms do not clear or return within a month, a urine culture before the next antibiotic course is not optional."
+          ]
+        },
+        {
+          "h2": "Who is at higher risk and why?",
+          "paras": [
+            "Pregnant women are a special group: asymptomatic bacteriuria, which is bacteria in the urine with no symptoms whatsoever, is routinely screened for and treated in pregnancy because it carries a real risk of progressing to pyelonephritis and triggering preterm labour. A 2024 study of pregnant Jordanian women published in BMC Pregnancy and Childbirth confirmed significant associations between hygiene practices and UTI rates, reinforcing the importance of routine urine screening at antenatal visits.",
+            "People with diabetes are substantially more vulnerable. High glucose in the urine creates an ideal medium for bacterial growth, and the immune impairment that accompanies poorly controlled diabetes makes infections more severe and harder to clear. People with urinary catheters, kidney stones, or structural abnormalities of the urinary tract also have consistently higher rates.",
+            "Children under two years with unexplained fever should always have a urine sample checked, because UTI is a common cause and can be missed when there are no obvious urinary symptoms. Repeated UTIs in a child warrant imaging of the urinary tract to look for reflux, where urine flows backwards from the bladder toward the kidney."
+          ],
+          "visual": {
+            "type": "stats",
+            "items": [
+              {"value": "50%+", "label": "of women have at least one UTI in their lifetime", "tone": "warn"},
+              {"value": "20-30%", "label": "of affected women experience recurrent infections", "tone": "warn"}
+            ]
+          }
+        },
+        {
+          "h2": "How to prevent urinary tract infections",
+          "paras": [
+            "Adequate fluid intake is the single most reliably effective preventive measure. Keeping well hydrated dilutes the bacterial concentration in the bladder and increases the frequency of urination, which mechanically clears bacteria before they can establish themselves. Avoiding holding urine for long periods, particularly common during long work shifts or when clean toilets are not available, reduces bacterial dwell time in the bladder.",
+            "Women should always wipe front to back after using the bathroom, which prevents faecal bacteria from reaching the urethral opening. Urinating shortly after sexual intercourse reduces the chance of any bacteria that entered the urethra during intercourse from reaching the bladder. Cotton underwear is preferable to synthetic fabrics that retain moisture, and heavily scented soaps or genital hygiene products can disturb the protective bacterial flora of the area.",
+            "Cranberry products, widely sold as UTI prevention, have some evidence in women who experience recurrent infections but the effect is modest and they do not treat an active infection. Women with more than two UTIs in six months should have a conversation with a doctor about whether a low-dose antibiotic taken preventively after intercourse, or continuously for a defined period, is appropriate."
+          ]
+        },
+        {
+          "h2": "When do you need a specialist?",
+          "paras": [
+            "Most straightforward UTIs are handled well in primary care. Referral to a urologist becomes appropriate for recurrent infections with no clear preventable cause, for any UTI in a man, for UTIs in children that recur, and when imaging is needed to exclude stones or structural problems. A plain ultrasound of the kidneys and bladder is a reasonable first-line imaging test that is widely available in the region and does not involve radiation.",
+            "A post-void residual measurement, checking how much urine remains in the bladder after urination, is a simple way to screen for incomplete bladder emptying, which can be caused by prostate enlargement in men or pelvic floor dysfunction in women. Residual urine sitting in the bladder provides bacteria with a stable environment to grow and explains why some people keep getting infections despite treatment.",
+            "If a patient with pyelonephritis cannot tolerate oral antibiotics due to vomiting, or does not improve clinically within 48 hours of starting oral treatment, hospital admission for intravenous antibiotics is the appropriate step rather than switching to a different oral antibiotic and waiting longer."
+          ]
+        },
+        {
+          "h2": "Bladder pain that is not an infection: a common source of confusion",
+          "paras": [
+            "Some women experience burning, urgency and pelvic pressure that feels identical to a UTI, yet repeated urine tests come back completely clear. This condition is called interstitial cystitis or bladder pain syndrome, and it is a chronic inflammatory condition unrelated to bacterial infection. Repeated antibiotic courses for this problem bring no benefit and worsen overall antibiotic resistance.",
+            "The distinguishing features are that the pain often persists between urinations and is not just triggered by urination itself, symptoms have been present for months with multiple negative cultures, and sometimes certain foods or stress worsen it. If this pattern fits your experience, it is worth describing it explicitly to your doctor, because the diagnosis will change the direction of management entirely.",
+            "Correct diagnosis, even when it means sitting with the uncertainty of a non-bacterial cause, protects you from unnecessary medication exposure and preserves the effectiveness of the antibiotics you may genuinely need in the future."
+          ]
+        }
+      ],
+      "tie": "Sihtak lets you log urine test results and track the pattern of recurrent infections over time, giving your doctor a complete picture to identify the underlying cause and choose the most targeted treatment.",
+      "faqs": [
+        {
+          "q": "Can a UTI go away without antibiotics?",
+          "a": "Simple cystitis in a young healthy woman occasionally resolves on its own within several days of high fluid intake, but this is not reliable and waiting allows the infection time to ascend to the kidneys. Children, pregnant women, men, and anyone with fever or back pain should not wait and experiment. Starting antibiotics based on a positive dipstick is the right call in these groups."
+        },
+        {
+          "q": "How quickly does a UTI improve on antibiotics?",
+          "a": "Most people feel substantially better within 24 to 48 hours of starting the correct antibiotic. If you have not improved at all after 48 hours, contact your doctor rather than waiting out the course, because the antibiotic may not be working against the organism causing your infection."
+        },
+        {
+          "q": "Why do some women keep getting UTIs?",
+          "a": "Recurrent infections can stem from hygiene habits, inadequate fluid intake, incomplete bladder emptying, post-menopausal hormonal changes, certain contraceptive methods, or an anatomical issue in the urinary tract. A urine culture each time, rather than empirical treatment, allows the pattern of bacteria and resistance to be mapped and the right preventive strategy chosen."
+        },
+        {
+          "q": "Is cranberry juice effective against UTIs?",
+          "a": "Cranberry products cannot treat an active infection and should not replace antibiotics when infection is present. Some evidence suggests they reduce recurrence frequency in women prone to repeat infections, likely by preventing bacteria from adhering to the bladder wall, but the effect is modest and not universal."
+        },
+        {
+          "q": "Can a UTI spread to a sexual partner?",
+          "a": "UTIs are not sexually transmitted infections in the usual sense. The bacteria that cause them normally live in the gut and reach the urethra through self-transfer. However, sexual intercourse does promote bacterial entry into the urethra, which is why urinating after intercourse is a simple and effective preventive step."
+        },
+        {
+          "q": "Why does a male UTI need more investigation?",
+          "a": "Because the male urethra is long, bacteria rarely reach the bladder without a predisposing cause. A UTI in a man younger than fifty warrants a urine culture to identify the organism, and if infections recur, imaging and urological assessment to look for prostate disease, stricture or a stone acting as a bacterial reservoir are appropriate."
+        },
+        {
+          "q": "Is it safe to take antibiotics for a UTI during pregnancy?",
+          "a": "Yes, but the choice of antibiotic matters because some classes are contraindicated in pregnancy. Your doctor or pharmacist will prescribe one that is both effective and safe for the stage of pregnancy. Do not self-medicate with antibiotics you have at home during pregnancy, because the wrong choice can cause harm."
+        }
+      ]
+    }
+  }
+}

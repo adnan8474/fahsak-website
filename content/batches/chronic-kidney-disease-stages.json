@@ -1,0 +1,362 @@
+{
+  "slug": "chronic-kidney-disease-stages",
+  "category": "chronic-conditions",
+  "chip_ar": "أمراض مزمنة",
+  "chip_en": "Chronic Conditions",
+  "date_iso": "2026-07-14",
+  "sources": [
+    {"label": "GBD 2023 Chronic Kidney Disease Collaborators: Global, regional, and national burden of chronic kidney disease in adults, 1990-2023, and its attributable risk factors: a systematic analysis for the Global Burden of Disease Study 2023, Lancet, 2025", "url": "https://pubmed.ncbi.nlm.nih.gov/41213283/"},
+    {"label": "Vaidya SR, Aeddula NR: Chronic Kidney Disease, StatPearls, 2026", "url": "https://pubmed.ncbi.nlm.nih.gov/30571025/"},
+    {"label": "Inker LA, Astor BC, Fox CH et al: KDOQI US commentary on the 2012 KDIGO clinical practice guideline for the evaluation and management of CKD, American journal of kidney diseases, 2014", "url": "https://pubmed.ncbi.nlm.nih.gov/24647050/"},
+    {"label": "Baker M, Perazella MA: NSAIDs in CKD: Are They Safe?, American journal of kidney diseases, 2020", "url": "https://pubmed.ncbi.nlm.nih.gov/32479922/"},
+    {"label": "Klomjit N, Ungprasert P: Acute kidney injury associated with non-steroidal anti-inflammatory drugs, European journal of internal medicine, 2022", "url": "https://pubmed.ncbi.nlm.nih.gov/35534373/"},
+    {"label": "Khalaf RR, Abouzeinab NS, Khalil MI et al: Effects of Lebanese Folk Herbs on Adult Male Rats: Hepatic and Renal Toxicity, Histological, and Biochemical Studies, Nutrients, 2025", "url": "https://pubmed.ncbi.nlm.nih.gov/40077745/"},
+    {"label": "Lu S, Robyak K, Zhu Y et al: The CKD-EPI 2021 Equation and Other Creatinine-Based Race-Independent eGFR Equations in Chronic Kidney Disease Diagnosis and Staging, The journal of applied laboratory medicine, 2023", "url": "https://pubmed.ncbi.nlm.nih.gov/37534520/"}
+  ],
+  "content": {
+    "ar": {
+      "title": "مراحل الفشل الكلوي المزمن: من الأولى إلى الخامسة",
+      "desc": "اكتشف المراحل الخمس للفشل الكلوي المزمن بناء على eGFR، وأسبابه الرئيسية في منطقتنا، ولماذا المسكنات والأعشاب خطيرة على الكلى، ومتى يلزم الغسيل الكلوي.",
+      "keywords": "الفشل الكلوي المزمن, مراحل الفشل الكلوي, eGFR, الكرياتينين, الغسيل الكلوي, السكري والكلى, الضغط والكلى, أدوية الكلى, الكلوي المزمن CKD, مضاعفات الكلى, صحة الكلى",
+      "h1": "مراحل الفشل الكلوي المزمن الخمس وكيف تحمي كليتيك",
+      "takeaways": [
+        "الفشل الكلوي المزمن ينتشر في منطقتنا بسبب السكري وارتفاع الضغط، وكلاهما من أشيع الأمراض في الشرق الأوسط.",
+        "الكرياتينين وحده لا يكفي لتقييم الكلى، وما يهم هو معدل الترشيح الكبيبي eGFR الذي يحسبه الطبيب.",
+        "المراحل الأولى والثانية والثالثة لا تسبب أعراضاً واضحة في أغلب الأحيان، وهذا ما يجعل التشخيص المبكر أمراً بالغ الأهمية.",
+        "المسكنات كالإيبوبروفين والديكلوفيناك والأعشاب غير المعروفة من أبرز أسباب إتلاف الكلى في المنطقة، وكثيراً ما تُباع بلا وصفة.",
+        "الجفاف في المناخ الحار يُحاكي الفشل الكلوي مؤقتاً برفع الكرياتينين، ويجب التمييز بينهما قبل إطلاق التشخيص."
+      ],
+      "sections": [
+        {
+          "h2": "ما هو الفشل الكلوي المزمن وكيف تعمل الكلى أصلاً؟",
+          "paras": [
+            "الكليتان عضوان بحجم القبضة في الجانبين السفليين من الظهر، وعملهما الرئيسي تصفية الدم من الفضلات والسموم وتنظيم ضغط الدم والسوائل والأملاح وإنتاج هرمون يُحفّز إنتاج خلايا الدم الحمراء. كل كلية تحتوي على نحو مليون وحدة تصفية صغيرة تُسمى الكبيبة (Glomerulus).",
+            "الفشل الكلوي المزمن (CKD) يعني أن وظيفة الكلى تراجعت بشكل دائم ومستمر لأكثر من ثلاثة أشهر، وهو مختلف تماماً عن الفشل الكلوي الحاد المؤقت الذي قد تسببه الجفاف أو الأدوية وغيرها. التراجع المزمن تدريجي وغالباً لا يُشعر به حتى يكون قد تقدم.",
+            "معدل الترشيح الكبيبي (eGFR) هو المقياس الرئيسي لتقييم كفاءة الكلى. يُحسب من قيمة الكرياتينين في الدم مع العمر والجنس وأحياناً عوامل أخرى، ويُعبّر عنه بمليلتر في الدقيقة لكل 1.73 متر مربع. الشخص الصحي لديه eGFR فوق 90 في العادة.",
+            "الكرياتينين وحده لا يكفي لأنه يتأثر بكتلة العضلات بشكل كبير: الشخص النحيل والمسن قد يكون كرياتينينه طبيعياً الأرقام ومع ذلك يعاني من فشل كلوي مبكر، بينما الرياضي ذو الكتلة العضلية الكبيرة قد يبدو كرياتينينه مرتفعاً وكلاه سليمتان تماماً. لهذا يُعدّ eGFR مؤشراً أدق وأكثر واقعية."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "المراحل الخمس للفشل الكلوي المزمن وفق KDIGO",
+            "head": ["المرحلة", "eGFR (مل/دقيقة/1.73م²)", "وصف الوظيفة"],
+            "rows": [
+              ["المرحلة 1", "90 أو أعلى", "وظيفة طبيعية مع دليل على تلف (مثل بروتين في البول)"],
+              ["المرحلة 2", "60 إلى 89", "تراجع خفيف مع دليل على تلف"],
+              ["المرحلة 3 أ", "45 إلى 59", "تراجع خفيف إلى معتدل"],
+              ["المرحلة 3 ب", "30 إلى 44", "تراجع معتدل إلى شديد"],
+              ["المرحلة 4", "15 إلى 29", "تراجع شديد، التحضير للغسيل"],
+              ["المرحلة 5", "أقل من 15", "فشل كلوي يستوجب الغسيل أو الزراعة"]
+            ]
+          }
+        },
+        {
+          "h2": "لماذا الفشل الكلوي المزمن شائع جداً في المنطقة؟",
+          "paras": [
+            "دراسة صدرت عام 2025 ضمن مشروع العبء العالمي للمرض أوضحت أن الفشل الكلوي المزمن يُصيب ما بين 10 و15 بالمئة من البالغين حول العالم، وأن السبب الرئيسي هو السكري من النوع الثاني وارتفاع ضغط الدم، وكلاهما منتشران بشكل وبائي في منطقة الشرق الأوسط وشمال أفريقيا.",
+            "في المملكة العربية السعودية والكويت والإمارات وسائر دول الخليج تُسجّل بعض الدراسات معدلات سكري تتجاوز 20 بالمئة من البالغين، وهذا يعني جيشاً ضخماً من الكلى المعرضة للتلف التدريجي. السكري يُتلف الأوعية الدموية الصغيرة داخل الكبيبات ويُفقدها قدرتها على الترشيح تدريجياً.",
+            "ارتفاع ضغط الدم من جهته يُكبّل الشرايين التي تُغذّي الكلى بضغط مرتفع ومستمر، فيُدمّر الأوعية الكبيبية من الخارج. حين يجتمع السكري مع الضغط تتضاعف الخطورة بشكل كبير.",
+            "عامل غير متوقع هو انتشار الجفاف المزمن في بلدان الخليج والعراق والأردن وسائر المناطق الحارة الجافة، خاصة لدى العمال الخارجيين والذين لا يشربون كميات كافية من الماء في بيئة حارة. الجفاف المتكرر يُجهد الكلى ويُعجّل تراجعها حتى في غياب مرض كلوي أصيل."
+          ]
+        },
+        {
+          "h2": "كيف يؤثر الجفاف في المناخ الحار على قراءة الكرياتينين؟",
+          "paras": [
+            "من الأخطاء الشائعة جداً في المنطقة تفسير ارتفاع الكرياتينين مباشرة على أنه فشل كلوي مزمن. الواقع أن الجفاف يُضيّق حجم الدم المُرسَل إلى الكلى فتتراجع كفاءة الترشيح مؤقتاً ويرتفع الكرياتينين. حين يعود الترطيب الكافي يعود الكرياتينين لمستواه الطبيعي.",
+            "لذا يُعدّ التمييز بين الفشل الكلوي الحاد التالي للجفاف والفشل الكلوي المزمن أمراً حاسماً. الطبيب يُعيد تحليل الكرياتينين بعد ترطيب الجسم. إذا عادت القيم للطبيعي خلال أيام فالأرجح أنه فشل حاد قابل للتعافي وليس مزمناً.",
+            "المرضى الذين يعملون في الخارج في الأجواء الحارة، كعمال البناء والزراعة، معرضون لنوبات جفاف متكررة قد تُسبّب أذى كلوياً تراكمياً على المدى الطويل حتى في غياب سكري أو ضغط. الحرارة الشديدة والعمل البدني الشاق يتطلبان تعويضاً مائياً أكثر بكثير من المعتاد.",
+            "النصيحة العملية: إذا ظهر كرياتينين مرتفع في تحليل روتيني لشخص سليم ظاهرياً، فاطلب إعادة التحليل بعد شرب كميات وفيرة من الماء لأيام قبل إطلاق أي تشخيص. هذه الخطوة البسيطة تُجنّب كثيراً من الفزع غير المبرر."
+          ],
+          "visual": {
+            "type": "range-scale",
+            "title": "قراءة eGFR: أين تقع وظيفة كلاك؟",
+            "label": "eGFR",
+            "unit": "مل/دقيقة/1.73م²",
+            "min": 0,
+            "max": 120,
+            "zones": [
+              {"to": 15, "tone": "bad", "label": "فشل"},
+              {"to": 30, "tone": "bad", "label": "شديد"},
+              {"to": 60, "tone": "warn", "label": "معتدل"},
+              {"to": 90, "tone": "warn", "label": "خفيف"},
+              {"to": 120, "tone": "good", "label": "طبيعي"}
+            ],
+            "source": "KDIGO 2012 Clinical Practice Guideline for CKD"
+          }
+        },
+        {
+          "h2": "هل يسبب الفشل الكلوي المزمن أعراضاً يمكن ملاحظتها؟",
+          "paras": [
+            "في المراحل الأولى والثانية والثالثة لا تظهر في الغالب أي أعراض ملحوظة، وهذا ما يجعل اكتشاف الفشل الكلوي المزمن مبكراً صعباً دون تحاليل دم وبول دورية. الكلى تملك قدرة احتياطية ضخمة وتعوّض التراجع بصمت لفترة طويلة.",
+            "مع التراجع نحو المرحلة الرابعة والخامسة تبدأ أعراض تراكم الفضلات: تعب شديد وإعياء مستمر، وقلة التبول أو كثرته، وتورم في الكاحلين والقدمين والوجه بسبب احتباس السوائل، وضيق في التنفس، وغثيان وقلة الشهية، وحكّة في الجلد، وشحوب الجلد بسبب فقر الدم الناجم عن نقص هرمون الإريثروبويتين (EPO) الذي تصنعه الكلى.",
+            "ارتفاع ضغط الدم الصعب التحكم به هو من أبرز العلامات التي تشير أحياناً إلى أن الكلى متأثرة، حتى قبل ظهور بقية الأعراض. كذلك وجود الزبد أو الرغوة في البول (بروتينية) هو علامة مبكرة مهمة يصفها المريض أحياناً ولا ينتبه إليها.",
+            "ألم في أسفل الظهر ليس من الأعراض المعتادة للفشل الكلوي المزمن على عكس ما يعتقد كثيرون. ألم الكلى الحقيقي ينشأ عادة من حصوات الكلى أو الالتهابات وليس من الفشل الكلوي المزمن الذي عادة لا يؤلم."
+          ]
+        },
+        {
+          "h2": "المسكنات والأعشاب: أسباب مُتجاهَلة تُتلف الكلى",
+          "paras": [
+            "مسكنات الألم من عائلة المضادات غير الستيرويدية كالإيبوبروفين والديكلوفيناك والنابروكسين تُضيّق الأوعية الدموية الصغيرة التي تُغذّي الكبيبات في الكلى. دراسة نُشرت في مجلة American Journal of Kidney Diseases عام 2020 أكدت أن استخدام هذه المسكنات بصفة منتظمة لدى من يعانون من ضغط دم مرتفع أو فشل كلوي مبكر أو من يشربون كميات قليلة من الماء يزيد من خطر تراجع الكلى.",
+            "المشكلة الإقليمية أن هذه المسكنات تُباع بحرية بلا وصفة طبية في كثير من دول المنطقة، وكثير من الناس يتناولونها بصفة يومية أو شبه يومية لآلام الظهر والمفاصل والصداع دون أن يدركوا التراكم التدريجي في الضرر الكلوي. حتى استخدام يوم أو يومين قد يضر بمن لديه كلى معرضة للخطر.",
+            "الأعشاب التقليدية وبعض الوصفات الشعبية تشكّل خطراً موازياً. عشبة الأريستولوكيا المعروفة في بعض البلدان العربية بأسماء مختلفة ثبت علمياً أنها تُسبّب اعتلالاً كلوياً شديداً حتى بكميات صغيرة. بعض الوصفات الشعبية المستخدمة لـ\"تنظيف الكلى\" أو التخسيس تحتوي على مكونات غير معروفة قد تضم مواد سامة للكلى.",
+            "دراسة نُشرت في مجلة Nutrients عام 2025 درست أعشاب شعبية لبنانية وعربية وجدت أن بعضها يُسبّب تأثيرات سمية على الكلى والكبد في النماذج الحيوانية. القاعدة العملية: قبل تناول أي عشبة أو مكمل طبيعي لديك مرض كلوي أو ضغط أو سكري، استشر طبيبك لأن \"طبيعي\" لا يعني آمن."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "احذر هذه المواد إذا كانت لديك مشكلة في الكلى",
+            "items": [
+              "الإيبوبروفين والديكلوفيناك والنابروكسين وسائر المضادات غير الستيرويدية (تُباع بلا وصفة وتضر الكلى)",
+              "الأعشاب غير المعروفة المدّعى أنها تنظف الكلى",
+              "مكملات البروتين عالية التركيز دون استشارة طبيب",
+              "الصبار وبعض مستخلصات النباتات بجرعات عالية",
+              "الصبغات والمستحضرات الشعبية المجهولة المصدر"
+            ]
+          }
+        },
+        {
+          "h2": "كيف يتابع الطبيب وظائف الكلى؟",
+          "paras": [
+            "المتابعة الدورية ركيزة أساسية في إدارة الفشل الكلوي المزمن. التحاليل الروتينية تشمل: الكرياتينين وeGFR المُحسَب منه، والبوتاسيوم (لأنه يرتفع حين تضعف الكلى وقد يُسبّب اضطراباً في ضربات القلب)، والصوديوم، والبيكربونات (للحموضة)، والفوسفور والكالسيوم، وهرمون الغدة جارة الدرقية (PTH)، وصورة الدم الكاملة لتقييم فقر الدم.",
+            "تحليل البول مهم بشكل مستقل: وجود الألبومين في البول (Albuminuria) هو من أبكر العلامات على تلف الكبيبات ومن أهم المؤشرات على خطر التقدم. الطبيب يقيس نسبة الألبومين إلى الكرياتينين في عينة بول صباحية (ACR) وليس في البول العشوائي.",
+            "تصوير الكلى بالموجات فوق الصوتية يُعطي معلومات عن حجم الكليتين وشكلهما وحجم القشرة الكلوية وأي حصوات أو انسداد. الكلى المزمنة الضامرة الصغيرة علامة على تلف قديم ومزمن، بينما الكلية الكبيرة الجديدة في فشل حاد تصلح للتعافي أفضل.",
+            "التكرار: في المراحل 1 و2 يكفي تقييم سنوي. في المرحلة 3 كل 6 أشهر. في المرحلتين 4 و5 يحتاج المريض إلى متابعة أكثر تكراراً مع طبيب أمراض الكلى المتخصص."
+          ]
+        },
+        {
+          "h2": "ما الذي يمكنك فعله لإبطاء تقدم الفشل الكلوي؟",
+          "paras": [
+            "الهدف الأساسي في إدارة الفشل الكلوي المزمن ليس الشفاء الكامل في معظم الحالات بل إبطاء التقدم نحو المراحل المتأخرة إلى أطول فترة ممكنة. السيطرة الجيدة على السكري وارتفاع الضغط هما ركيزتا هذا الإبطاء، إذ ثبت أن إبقاء HbA1c دون 7 بالمئة وضغط الدم دون 130/80 ملم زئبق يُبطّئ تراجع وظائف الكلى بشكل ملحوظ.",
+            "أدوية من فئة حاصرات مستقبل الأنجيوتنسين (ARBs) أو مثبطات الإنزيم المحول للأنجيوتنسين (ACE inhibitors) تحمي الكبيبات بتأثير مستقل عن خفض الضغط وهي أدوية موصى بها بقوة في المراحل الأولى خاصة مع وجود بروتينية. لا توقف هذه الأدوية من تلقاء نفسك حتى لو شعرت بخفض مؤقت في وظائف الكلى فذلك متوقع في البداية.",
+            "النظام الغذائي يلعب دوراً مهماً: تقليل الصوديوم يُساعد في ضبط الضغط والسوائل، وتقليل البروتين الزائد يُخفف العبء على الكبيبات التالفة. في المراحل المتقدمة يُطلب تقليل البوتاسيوم والفوسفور. لا تأخذ قرارات غذائية من تلقاء نفسك بل بالتنسيق مع طبيبك واختصاصي التغذية.",
+            "الإقلاع عن التدخين مهم جداً لأن التدخين يُسرّع تلف الأوعية الكلوية. الحفاظ على وزن صحي يُقلّل الضغط الأيضي على الكلى. شرب كميات كافية من الماء يومياً في المناخ الحار يمنع نوبات الفشل الحاد المتكررة التي تُسرّع التلف التراكمي."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "إبطاء تقدم الفشل الكلوي: خطوات عملية",
+            "items": [
+              "تحكم في سكر الدم واجعل HbA1c أقل من 7 بالمئة إذا كنت مصاباً بالسكري",
+              "اضبط ضغط الدم ليكون أقل من 130/80 ملم زئبق",
+              "التزم بأدوية حماية الكلى التي يصفها الطبيب ولا توقفها بنفسك",
+              "تجنب المسكنات غير الستيرويدية كالإيبوبروفين والديكلوفيناك",
+              "قلل الملح وتجنب الأطعمة المعلبة المالحة",
+              "اشرب كميات وفيرة من الماء خاصة في الحرارة الشديدة",
+              "اترك التدخين فوراً وتابع وزنك"
+            ]
+          }
+        },
+        {
+          "h2": "متى يصبح الغسيل الكلوي ضرورياً وما البدائل؟",
+          "paras": [
+            "حين يصل eGFR إلى ما دون 15 ويرفق ذلك بأعراض فشل كلوي مثل الغثيان الشديد وتراكم السوائل وارتفاع البوتاسيوم الخطير وصعوبة التنفس، يصبح استبدال الوظيفة الكلوية ضرورياً. هناك ثلاثة خيارات: غسيل الكلى الدموي (Hemodialysis) وغسيل الكلى البريتوني (Peritoneal Dialysis) وزراعة الكلى.",
+            "غسيل الكلى الدموي هو الأكثر شيوعاً في المنطقة ويتم في مراكز متخصصة ثلاث مرات أسبوعياً لأربع ساعات في كل جلسة. يحتاج المريض إلى وصلة وريدية تُعبّأ في الذراع (الناسور الوريدي) قبل البدء بأشهر. الجلسات تطول حياة المريض ولكنها مرهقة لوجستياً.",
+            "غسيل الكلى البريتوني يُجرى في المنزل بتكرار يومي ويناسب من يصعب عليهم التنقل أو من لديهم ظروف خاصة. يحتاج إلى قسطرة تُزرع في البطن ويُجريه المريض بنفسه بعد تدريب كافٍ.",
+            "زراعة الكلى هي الخيار الأفضل من حيث جودة الحياة ومدتها لمن يستطيع الحصول عليها. في بلدان المنطقة تتفاوت إمكانية الوصول إليها، وفي بعض الدول كالسعودية والأردن ومصر ببرامج راسخة، بينما في بلدان أخرى كاليمن وسوريا في ظروف النزاع يكون الوصول إلى غسيل الكلى نفسه تحدياً حقيقياً."
+          ]
+        }
+      ],
+      "tie": "في تطبيق صحتك يمكنك تسجيل نتائج الكرياتينين وeGFR وبروتين البول مع مرور الوقت لرصد التغير، واستخدام المساعد الذكي لتفسير النتائج، وضبط تذكيرات لمواعيد تحاليل الكلى الدورية. أداة تُعينك على المتابعة لا تُغني عن طبيبك.",
+      "faqs": [
+        {
+          "q": "هل الكرياتينين المرتفع يعني حتماً مشكلة في الكلى؟",
+          "a": "ليس بالضرورة. الكرياتينين يتأثر بكتلة العضلات والجفاف والأدوية. الطبيب يحسب eGFR مع العمر والجنس للحصول على تقييم أدق، ويُعيد التحليل بعد ترطيب الجسم للتأكد قبل إطلاق التشخيص."
+        },
+        {
+          "q": "هل يمكن تناول الإيبوبروفين بأمان إذا كانت لدي مشكلة في الكلى؟",
+          "a": "لا. المضادات غير الستيرويدية كالإيبوبروفين والديكلوفيناك ضارة بالكلى خاصة في المراحل المتقدمة من الفشل الكلوي أو لمن لديهم ضغط أو سكري. الباراسيتامول (أسيتامينوفين) بجرعاته الصحيحة هو البديل الأكثر أماناً لأغلب حالات الألم."
+        },
+        {
+          "q": "هل الأعشاب الطبيعية آمنة مع الفشل الكلوي المزمن؟",
+          "a": "ليس بالضرورة. عدد من الأعشاب المشهورة في المنطقة تحتوي على مركبات تضر الكلى، وبعضها قد يتعارض مع الأدوية الموصوفة. استشر طبيبك قبل تناول أي عشبة أو مكمل وأخبره بكل شيء تتناوله."
+        },
+        {
+          "q": "هل الشخص المصاب بالفشل الكلوي المزمن يشعر بأعراض في البداية؟",
+          "a": "عادة لا. المراحل الأولى حتى الثالثة تمضي في الغالب بلا أعراض مزعجة، وهذا يجعل تحاليل الدم والبول الدورية الطريق الوحيد للاكتشاف المبكر. الأعراض تبدأ في الظهور بشكل ملحوظ في المرحلة الرابعة والخامسة."
+        },
+        {
+          "q": "هل ممارسة الرياضة آمنة مع الفشل الكلوي المزمن؟",
+          "a": "النشاط البدني المعتدل آمن ومفيد في المراحل الأولى حتى الثالثة وحتى الرابعة في كثير من الحالات. الرياضة تُحسّن ضغط الدم وتُساعد على السيطرة على الوزن والسكر. تحدث مع طبيبك عن النوع المناسب والمكثافة الموصى بها بحسب حالتك."
+        },
+        {
+          "q": "هل الفشل الكلوي المزمن يُشفى؟",
+          "a": "في الغالب لا يُشفى بالكامل لأن الكبيبات التالفة لا تتجدد مثل بعض أعضاء الجسم الأخرى. لكن الهدف الواقعي والقابل للتحقيق هو إبطاء التقدم وتأخير الوصول إلى الغسيل الكلوي لأطول فترة ممكنة، وهذا يتحقق بالسيطرة الجيدة على الأسباب والمتابعة الدورية."
+        },
+        {
+          "q": "هل مريض الكلى يحتاج إلى نظام غذائي خاص؟",
+          "a": "نعم، خاصة في المراحل المتقدمة. في المراحل الأولى يكفي تقليل الملح وتجنب الإفراط في البروتين. في المراحل الثالثة والرابعة والخامسة يُضاف إليها تنظيم البوتاسيوم والفوسفور. اختصاصي التغذية المتخصص في أمراض الكلى هو المرجع الأساسي لهذه التعليمات."
+        }
+      ]
+    },
+    "en": {
+      "title": "Chronic kidney disease: the five stages explained",
+      "desc": "The five CKD stages by eGFR, why diabetes and hypertension drive the regional burden, how painkillers harm kidneys, and when dialysis becomes necessary.",
+      "keywords": "chronic kidney disease, CKD stages, eGFR, creatinine, dialysis, diabetes kidneys, blood pressure kidneys, kidney function, CKD Middle East, kidney failure stages, kidney health",
+      "h1": "Chronic kidney disease: understanding the five stages and protecting your kidneys",
+      "takeaways": [
+        "Chronic kidney disease is common across the Middle East because diabetes and high blood pressure, the two leading causes, are both at epidemic levels in the region.",
+        "Creatinine alone is not enough to assess kidney function. The eGFR calculated from it is what actually tells you how well your kidneys are working.",
+        "Stages 1 through 3 usually cause no noticeable symptoms, which is why early detection through regular blood and urine tests matters enormously.",
+        "Ibuprofen, diclofenac, and other over-the-counter painkillers are among the most common causes of kidney damage in the region and are often sold without a prescription.",
+        "Dehydration in a hot climate can temporarily raise creatinine and mimic kidney disease, and a doctor should retest after proper hydration before making a diagnosis."
+      ],
+      "sections": [
+        {
+          "h2": "What are the kidneys and what does eGFR actually measure?",
+          "paras": [
+            "The two kidneys sit on either side of the lower back, each roughly the size of a fist. Their main jobs are filtering waste products and excess fluid from the blood, regulating blood pressure and the balance of salts and minerals, and producing a hormone that stimulates the production of red blood cells. Each kidney contains about one million tiny filtering units called glomeruli.",
+            "Chronic kidney disease, or CKD, means that kidney function has declined permanently for more than three months. This is quite different from acute kidney injury, which is a short-term fall in kidney function caused by dehydration, a medication, or a brief illness and which can fully recover. The decline in CKD is gradual and is usually silent for years.",
+            "The estimated glomerular filtration rate, or eGFR, is the main measure of how well the kidneys filter the blood. It is calculated from the creatinine level in the blood, adjusted for age and sex, and expressed as millilitres per minute per 1.73 square metres of body surface area. A healthy young adult typically has an eGFR above 90.",
+            "Creatinine alone is an imperfect guide because it depends heavily on muscle mass. A thin elderly person may have a creatinine in the normal range while already having significantly reduced kidney function, whereas a heavily muscled young person may have a mildly raised creatinine with perfectly normal kidneys. The eGFR adjustment corrects for much of this, making it a more reliable indicator."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "The five CKD stages by eGFR (KDIGO classification)",
+            "head": ["Stage", "eGFR (mL/min/1.73m²)", "Kidney function"],
+            "rows": [
+              ["Stage 1", "90 or above", "Normal or high with evidence of kidney damage (e.g. protein in urine)"],
+              ["Stage 2", "60 to 89", "Mildly reduced with evidence of kidney damage"],
+              ["Stage 3a", "45 to 59", "Mild to moderate reduction"],
+              ["Stage 3b", "30 to 44", "Moderate to severe reduction"],
+              ["Stage 4", "15 to 29", "Severely reduced; preparing for kidney replacement"],
+              ["Stage 5", "Below 15", "Kidney failure requiring dialysis or transplantation"]
+            ]
+          }
+        },
+        {
+          "h2": "Why is CKD so common across the Middle East?",
+          "paras": [
+            "A 2025 analysis from the Global Burden of Disease study found that CKD affects between 10 and 15 percent of adults worldwide, with type 2 diabetes and high blood pressure accounting for the largest share of cases. Both conditions are at epidemic levels across the Middle East and North Africa, making the region one of the highest-burden areas for kidney disease globally.",
+            "In Saudi Arabia, Kuwait, the UAE and other Gulf states, some surveys record diabetes prevalence above 20 percent of adults. This means a very large population of kidneys exposed to progressive glomerular damage, because poorly controlled diabetes gradually destroys the small blood vessels inside the filtering units.",
+            "High blood pressure causes harm by a different mechanism, exerting continuous high-pressure stress on the vessels that supply the glomeruli from the outside. When diabetes and hypertension coexist in the same person, which is common, the combined damage is substantially greater than either condition alone.",
+            "An underappreciated regional factor is chronic dehydration. In Gulf countries, Iraq, Jordan, and other hot and arid areas, outdoor workers and people who do not drink enough in extreme heat face repeated episodes of reduced kidney blood flow. Recurrent heat-related dehydration over years can cause cumulative kidney harm even in the absence of diabetes or hypertension."
+          ]
+        },
+        {
+          "h2": "How does heat and dehydration affect creatinine and eGFR readings?",
+          "paras": [
+            "A very common clinical mistake in the region is interpreting a raised creatinine immediately as chronic kidney disease. Dehydration reduces the volume of blood reaching the kidneys so filtration slows temporarily, creatinine rises, and eGFR falls. When normal hydration is restored, the creatinine returns to baseline.",
+            "Distinguishing acute dehydration-related kidney impairment from true CKD is therefore critical. A doctor should retest creatinine after ensuring the patient has been properly hydrated for several days. If values normalise within a few days, the problem was acute and reversible rather than a permanent chronic process.",
+            "Outdoor workers in construction, agriculture, and similar roles are particularly vulnerable to repeated dehydration episodes that can cause cumulative kidney harm over years, even without an underlying kidney disease. In extreme heat with heavy physical labour, fluid needs are far higher than the standard two litres a day that most people think of.",
+            "The practical advice: if a raised creatinine appears unexpectedly on a routine test in someone who feels otherwise well, ask for the test to be repeated after several days of good fluid intake before any diagnosis is made. This simple step prevents a great deal of unnecessary alarm."
+          ],
+          "visual": {
+            "type": "range-scale",
+            "title": "Where does your eGFR sit?",
+            "label": "eGFR",
+            "unit": "mL/min/1.73m²",
+            "min": 0,
+            "max": 120,
+            "zones": [
+              {"to": 15, "tone": "bad", "label": "Failure"},
+              {"to": 30, "tone": "bad", "label": "Severe"},
+              {"to": 60, "tone": "warn", "label": "Moderate"},
+              {"to": 90, "tone": "warn", "label": "Mild"},
+              {"to": 120, "tone": "good", "label": "Normal"}
+            ],
+            "source": "KDIGO 2012 Clinical Practice Guideline for CKD"
+          }
+        },
+        {
+          "h2": "Does CKD cause symptoms you can notice?",
+          "paras": [
+            "In stages 1, 2, and 3 there are usually no noticeable symptoms at all. The kidneys have a large functional reserve and compensate for the declining capacity silently for a long time. This is what makes early detection without testing nearly impossible, and why regular screening matters for anyone with diabetes, hypertension, or a family history of kidney disease.",
+            "As function falls toward stages 4 and 5, symptoms of waste accumulation begin to appear: deep and persistent fatigue, changes in urine output, swelling in the ankles, feet and face from fluid retention, shortness of breath, nausea, poor appetite, skin itching, and pallor from the anaemia that develops when the kidneys can no longer make adequate erythropoietin.",
+            "High blood pressure that is becoming increasingly difficult to control can be an early sign that the kidneys are involved, even before other symptoms appear. Frothy or foamy urine, which indicates protein leaking through damaged filters, is another early sign that patients sometimes notice and mention but may not connect to kidney health.",
+            "Back pain is a common misconception: it is not a symptom of CKD and the kidneys do not hurt in chronic disease. Kidney pain typically comes from stones or infection. Assuming that back pain means kidney trouble leads people to investigate the wrong thing."
+          ]
+        },
+        {
+          "h2": "Painkillers and herbal remedies: overlooked causes of kidney damage",
+          "paras": [
+            "Non-steroidal anti-inflammatory drugs, the NSAIDs, including ibuprofen, diclofenac, and naproxen, reduce blood flow to the glomeruli by constricting the small vessels that maintain filtration pressure. A 2020 review in the American Journal of Kidney Diseases confirmed that regular NSAID use significantly increases the risk of kidney deterioration in people with high blood pressure, pre-existing CKD, or low fluid intake.",
+            "The regional problem is that these painkillers are sold freely without a prescription across much of the Middle East. Many people take them daily or near-daily for back pain, joint pain, or headaches without realising that even short courses can harm a kidney that is already under metabolic stress. The risk is not theoretical: NSAID-related kidney injury is a well-documented contributor to CKD progression in the region.",
+            "Traditional herbal remedies represent a parallel risk. Aristolochic acid, present in some plants used in folk medicine across Arab countries under various local names, has been scientifically established as a cause of severe and permanent kidney damage even in small quantities. Some slimming preparations and herbal formulas marketed for kidney cleansing contain compounds that have not been adequately tested and may be nephrotoxic.",
+            "A 2025 study in Nutrients testing Lebanese and regional folk herbs found hepatic and renal toxicity signals in animal models for several commonly used plants. The practical rule is straightforward: if you have CKD, hypertension, or diabetes, do not take any herbal preparation or supplement without telling your doctor, because natural does not mean safe for a damaged kidney."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "Avoid these if you have any kidney problem",
+            "items": [
+              "Ibuprofen, diclofenac, naproxen and other NSAIDs sold over the counter",
+              "Unknown herbal preparations claimed to cleanse or treat the kidneys",
+              "High-dose protein supplements without medical guidance",
+              "High-dose aloe vera and certain plant extracts",
+              "Unknown or unlabelled traditional preparations"
+            ]
+          }
+        },
+        {
+          "h2": "How does a doctor monitor kidney function over time?",
+          "paras": [
+            "Regular monitoring is a cornerstone of CKD management. The routine blood panel includes creatinine and the eGFR calculated from it, potassium (which rises as the kidneys weaken and can cause dangerous cardiac arrhythmias), sodium, bicarbonate to measure acid balance, phosphorus and calcium, parathyroid hormone (PTH), and a full blood count to assess for anaemia.",
+            "Urine testing is equally important and should not be overlooked. The presence of albumin in the urine, known as albuminuria or proteinuria, is one of the earliest signs of glomerular damage and one of the strongest predictors of progression. The doctor measures the albumin-to-creatinine ratio in an early morning urine sample, which is a more accurate approach than a random spot test.",
+            "Kidney ultrasound gives information about the size, shape, and cortex thickness of both kidneys, and can detect stones, cysts, or obstruction. Shrunken kidneys with a thinned cortex suggest long-standing chronic damage, while a kidney that is swollen in an acute setting may still have good recovery potential.",
+            "The frequency of monitoring depends on the stage: annual checks are usually enough in stages 1 and 2, every six months in stage 3, and more frequently in stages 4 and 5 under the care of a specialist nephrologist who can plan the timing of kidney replacement therapy."
+          ]
+        },
+        {
+          "h2": "What can you do to slow the progression of CKD?",
+          "paras": [
+            "The primary goal in CKD management in most cases is not complete cure but slowing progression as long as possible. The two most powerful tools are tight control of blood sugar and blood pressure. Keeping HbA1c below 7 percent and blood pressure consistently below 130 over 80 millimetres of mercury have been shown in multiple trials to substantially slow the decline in eGFR.",
+            "Drugs from the ACE inhibitor or angiotensin receptor blocker (ARB) classes protect the glomeruli through a mechanism beyond blood pressure lowering and are strongly recommended in the early stages of CKD, particularly when proteinuria is present. Do not stop these medications on your own even if you notice a temporary small dip in kidney function at the start of treatment, as this is an expected effect and does not mean harm.",
+            "Diet plays a real role: reducing sodium intake helps control blood pressure and fluid retention, and limiting excessive protein reduces the filtration burden on damaged glomeruli. In stages 3 and beyond, potassium and phosphorus also need to be managed carefully. Work with a renal dietitian rather than following generic online advice, because the right restrictions depend entirely on your individual blood results.",
+            "Stopping smoking is important because smoking accelerates vascular damage including the small vessels in the kidney. Maintaining a healthy weight reduces metabolic pressure on the kidneys. Drinking enough water in a hot climate, enough to keep urine light yellow rather than dark, prevents repeated episodes of dehydration-related kidney stress that can cause cumulative harm over time."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "Practical steps to slow CKD progression",
+            "items": [
+              "Keep HbA1c below 7 percent if you have diabetes",
+              "Control blood pressure to below 130 over 80 mmHg",
+              "Take your kidney-protecting medicines consistently and do not stop them yourself",
+              "Avoid ibuprofen, diclofenac and other NSAIDs",
+              "Reduce salt and avoid heavily salted processed and canned foods",
+              "Drink enough water to keep urine light, especially in hot weather",
+              "Stop smoking and maintain a healthy weight"
+            ]
+          }
+        },
+        {
+          "h2": "When does dialysis become necessary, and what are the options?",
+          "paras": [
+            "When eGFR falls below 15 and is accompanied by symptoms of kidney failure such as severe nausea, dangerous fluid accumulation, rising potassium threatening cardiac rhythm, or breathlessness, kidney replacement therapy becomes necessary. The three options are haemodialysis, peritoneal dialysis, and kidney transplantation.",
+            "Haemodialysis is the most common form of kidney replacement in the region. It is performed in specialist centres three times a week for sessions of around four hours each. Preparation requires creating a vascular access point, usually an arteriovenous fistula in the arm, which is formed surgically weeks to months before dialysis begins. Haemodialysis extends life but requires regular travel to a centre and considerable time commitment.",
+            "Peritoneal dialysis uses the lining of the abdomen as a natural filter and is performed daily at home using fluid exchanges through a surgically placed catheter in the abdominal wall. It suits people who cannot travel easily to a centre or who prefer greater independence. It requires training but allows more flexibility in daily life.",
+            "Kidney transplantation offers the best quality of life and survival when it is accessible. Access varies considerably across the region: Saudi Arabia, Jordan, and Egypt have established transplant programmes, while in countries affected by conflict such as Yemen and Syria, even access to regular dialysis can be a serious practical challenge. If transplantation is a possibility for you, a specialist can begin the assessment process well before dialysis becomes urgent."
+          ]
+        }
+      ],
+      "tie": "In the Sihtak app you can log your creatinine, eGFR, and urine protein results over time to spot trends, ask the AI assistant to explain what a result means, and set reminders for your next kidney test appointment. A practical tool to help you stay on top of your monitoring, alongside your doctor's care.",
+      "faqs": [
+        {
+          "q": "Does a raised creatinine always mean I have kidney disease?",
+          "a": "Not necessarily. Creatinine is affected by muscle mass, dehydration, and some medications. A doctor calculates your eGFR from the creatinine and repeats the test after proper hydration before drawing any conclusion. A one-off raised creatinine in an otherwise well person often turns out to be dehydration."
+        },
+        {
+          "q": "Is it safe to take ibuprofen if I have a kidney problem?",
+          "a": "No. NSAIDs including ibuprofen and diclofenac are harmful to the kidneys, especially in people with CKD, hypertension, or diabetes. Paracetamol (acetaminophen) at correct doses is the safer alternative for most types of pain, but discuss this with your doctor."
+        },
+        {
+          "q": "Are herbal remedies safe to use with CKD?",
+          "a": "Not automatically. Several herbs commonly used across the region contain compounds that are toxic to the kidneys, and some interact with prescribed medicines. Tell your doctor everything you take and ask before starting anything new, because natural does not mean safe for a kidney that is already under stress."
+        },
+        {
+          "q": "Will I always need dialysis if I have CKD?",
+          "a": "Not necessarily. Many people live for decades with stable CKD stages 1 through 3 and never reach dialysis, particularly if blood pressure, blood sugar, and risk factors are well controlled. The goal of management is to keep eGFR stable for as long as possible, and this is genuinely achievable in many cases."
+        },
+        {
+          "q": "Is exercise safe with chronic kidney disease?",
+          "a": "Moderate physical activity is safe and beneficial in stages 1 through 4 in most cases. It helps control blood pressure, body weight, and blood sugar, all of which slow CKD progression. Discuss with your doctor the appropriate type and intensity for your current stage."
+        },
+        {
+          "q": "Does CKD cause back pain?",
+          "a": "No. Chronic kidney disease does not typically cause back pain. Kidney pain comes from kidney stones or infection, not from CKD. If you have back pain and CKD, the two are usually unrelated and the back pain should be investigated on its own merits."
+        },
+        {
+          "q": "Do I need a special diet with CKD?",
+          "a": "Yes, particularly in the more advanced stages. In stages 1 and 2 the main advice is reducing sodium and avoiding excessive protein. From stage 3 onward, potassium and phosphorus also need to be watched. A renal dietitian can create a plan based on your specific blood results rather than a generic one-size-fits-all approach."
+        }
+      ]
+    }
+  }
+}

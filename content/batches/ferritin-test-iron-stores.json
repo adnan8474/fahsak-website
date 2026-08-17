@@ -1,0 +1,388 @@
+{
+  "slug": "ferritin-test-iron-stores",
+  "category": "lab-tests",
+  "chip_ar": "فهم التحاليل",
+  "chip_en": "Understanding Lab Tests",
+  "date_iso": "2026-07-14",
+  "sources": [
+    {
+      "label": "Namaste SM, Rohner F, Huang J et al: Adjusting ferritin concentrations for inflammation: Biomarkers Reflecting Inflammation and Nutritional Determinants of Anemia (BRINDA) project, The American journal of clinical nutrition, 2017",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28615259/"
+    },
+    {
+      "label": "Suchdev PS, Williams AM, Mei Z et al: Assessment of iron status in settings of inflammation: challenges and potential approaches, The American journal of clinical nutrition, 2017",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29070567/"
+    },
+    {
+      "label": "Al-Jawaldeh A, Taktouk M, Doggui R et al: Are Countries of the Eastern Mediterranean Region on Track towards Meeting the World Health Assembly Target for Anemia? A Review of Evidence, International journal of environmental research and public health, 2021",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33801513/"
+    },
+    {
+      "label": "Eltayeb R, Alsaif G, Qanash H et al: A silent crisis: two decades of anaemia trends among women in the Eastern Mediterranean Region (2000-2019), Archives of medical science : AMS, 2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41676416/"
+    },
+    {
+      "label": "Beard JL, Murray-Kolb LE, Rosales FJ et al: Interpretation of serum ferritin concentrations as indicators of total-body iron stores in survey populations: the role of biomarkers for the acute phase response, The American journal of clinical nutrition, 2006",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17158435/"
+    },
+    {
+      "label": "World Health Organization: Serum ferritin concentrations for the assessment of iron status and iron deficiency in populations, WHO/NMH/NHD/EPG/12.4, Geneva, 2011"
+    }
+  ],
+  "content": {
+    "ar": {
+      "title": "تحليل الفيريتين: قراءة مخزون الحديد بشكل صحيح",
+      "desc": "دليل مفصل لتحليل الفيريتين (Ferritin) في الدم، كيف تقرأ نتيجتك، لماذا يرتفع الفيريتين رغم نقص الحديد، ومتى تحتاج فحص إضافي.",
+      "keywords": "تحليل الفيريتين, مخزون الحديد, فقر الدم بنقص الحديد, الفيريتين المرتفع, الفيريتين المنخفض, CRP والفيريتين, نقص الحديد عند النساء, تحليل الحديد, فيريتين الدم, فقر الدم, تحليل الدم",
+      "h1": "تحليل الفيريتين: كيف تعرف حقيقة مخزون الحديد في جسمك",
+      "takeaways": [
+        "الفيريتين (Ferritin) هو البروتين الذي يخزن الحديد في الجسم، وتحليله يعكس احتياطي الحديد لديك بدقة أكبر من تحليل الحديد المباشر.",
+        "المشكلة الأكثر شيوعاً هي أن الفيريتين يرتفع مع أي التهاب في الجسم، فقد تحصل على نتيجة طبيعية وأنت تعاني نقص حديد حقيقياً.",
+        "إذا كان الفيريتين طبيعياً لكن CRP مرتفع، يجب إعادة تقييم نتيجة الفيريتين لأن الالتهاب يرفعه بشكل مصطنع.",
+        "نقص الحديد شائع جداً بين النساء في منطقة الشرق الأوسط وشمال أفريقيا، وتحليل الفيريتين هو الأداة الأمثل لاكتشافه مبكراً.",
+        "لا تأخذ مكملات الحديد اعتماداً على تحليل واحد فقط، بل استشر طبيبك الذي سيطلب تحاليل إضافية إذا لزم الأمر."
+      ],
+      "sections": [
+        {
+          "h2": "ما هو الفيريتين ولماذا هو أهم من تحليل الحديد العادي؟",
+          "paras": [
+            "الفيريتين (Ferritin) بروتين يوجد داخل خلايا الجسم، وتحديداً في الكبد والطحال ونخاع العظام، وعمله هو تخزين الحديد والإفراج عنه عند الحاجة. الكمية القليلة من الفيريتين التي تتسرب إلى الدم تعكس بدقة حجم مخزون الحديد في الجسم كله، وليس فقط ما يعوم في مجرى الدم في تلك اللحظة.",
+            "تحليل الحديد في الدم المعتاد يقيس فقط الحديد العائم في مجرى الدم في تلك اللحظة، وهذا الرقم يتأثر بما أكلته اليوم ويتذبذب كثيراً من يوم ليوم. الفيريتين في المقابل يعطيك صورة أشمل وأكثر استقراراً، لأنه يعكس الاحتياطي الفعلي المخزون في الأنسجة على مدى أسابيع وأشهر طويلة.",
+            "لهذا السبب، يعتمد الأطباء اليوم على الفيريتين لتشخيص نقص الحديد قبل أن يتحول إلى فقر دم واضح. المريض قد يحمل مخزوناً منهكاً من الحديد ويشعر بالتعب والدوخة وتساقط الشعر، بينما تبدو خلاياه الحمراء ونسبة هيموغلوبينه طبيعية حتى الآن. في هذه المرحلة، الفيريتين وحده هو الذي يكشف الحقيقة."
+          ],
+          "visual": {
+            "type": "range-scale",
+            "title": "مستويات الفيريتين في الدم",
+            "label": "Ferritin",
+            "unit": "ng/mL",
+            "min": 0,
+            "max": 200,
+            "zones": [
+              {"to": 12, "tone": "bad", "label": "منخفض"},
+              {"to": 30, "tone": "warn", "label": "حدّي"},
+              {"to": 150, "tone": "good", "label": "طبيعي"},
+              {"to": 200, "tone": "warn", "label": "مرتفع"}
+            ],
+            "marker": {"value": 8, "label": "مثال: نتيجة منخفضة"},
+            "source": "World Health Organization: Serum ferritin concentrations for the assessment of iron status, WHO 2011"
+          }
+        },
+        {
+          "h2": "كيف تقرأ نتيجة الفيريتين؟",
+          "paras": [
+            "المعدل الطبيعي للفيريتين يختلف بين المختبرات، لكن المرجع الأكثر شيوعاً للبالغين هو من 12 إلى 150 نانوغرام لكل مليليتر (ng/mL) للنساء، ومن 12 إلى 300 ng/mL للرجال. بعض المختبرات تستخدم وحدة مختلفة هي ميكروغرام لكل لتر (mcg/L)، والرقمان متساويان تماماً. انظر دائماً إلى المرجع المطبوع على ورقة نتائجك وليس أرقاماً قرأتها في مكان آخر.",
+            "مستوى الفيريتين دون 12 ng/mL يشير بوضوح إلى مخزون الحديد المستنفد. أما المستوى بين 12 و30 ng/mL فهو في المنطقة الحدية التي يعتبرها كثير من الأطباء غير كافية، خاصة عند المرأة الحامل أو المرضعة أو التي تشكو من أعراض مثل التعب المزمن وتساقط الشعر. في هذه الحالات، كثير من الأطباء يبدأون العلاج حتى مع فيريتين حدي لأن الأعراض والسياق أهم من الرقم وحده.",
+            "في الطرف الآخر، الفيريتين المرتفع جداً فوق 300 ng/mL قد يشير إلى التهاب مزمن أو مرض في الكبد أو حالات نادرة مثل داء ترسب الأصبغة الدموية (Hemochromatosis)، وهو تراكم مرضي للحديد في الجسم. لا تتجاهل ارتفاع الفيريتين الشديد لأنه ليس دائماً خبراً جيداً، وتحدث مع طبيبك لفهم السبب."
+          ]
+        },
+        {
+          "h2": "المصيدة الكبرى: الالتهاب يرفع الفيريتين ويخفي نقص الحديد",
+          "paras": [
+            "هذه هي النقطة التي يخطئ فيها كثيرون، وهي السبب الرئيسي في أن تحليل الفيريتين وحده غير كافٍ في بعض الحالات. الفيريتين بروتين يرتفع في الدم ليس فقط عندما تكون مخازن الحديد ممتلئة، بل في أي وقت يوجد فيه التهاب في الجسم، سواء كان عدوى بكتيرية أو فيروسية أو مرضاً مناعياً مزمناً مثل التهاب المفاصل الرثياني أو التهاب الكبد أو أي حالة التهابية أخرى.",
+            "ما يحدث عملياً هو أن شخصاً يعاني نقصاً حقيقياً في الحديد قد يحصل على نتيجة فيريتين طبيعية أو حتى مرتفعة، لأن الالتهاب الموجود في جسمه يضخ الفيريتين في الدم بغض النظر عن مخزون الحديد الفعلي. دراسة نُشرت في American Journal of Clinical Nutrition عام 2017 ضمن مشروع BRINDA الدولي أظهرت أن هذا التأثير قوي بما يكفي لإخفاء نقص الحديد في مجموعات سكانية كاملة عندما يُعتمد على الفيريتين دون مؤشر التهاب مرافق.",
+            "الحل العملي هو أن يطلب الطبيب تحليل CRP (بروتين سي التفاعلي) أو ESR (سرعة ترسب الكريات) إلى جانب الفيريتين. إذا كان CRP مرتفعاً، يصبح تفسير نتيجة الفيريتين أصعب بكثير ويحتاج إلى تقييم أشمل يشمل تحاليل إضافية مثل الحديد المرتبط بالترانسفيرين (Transferrin Saturation) ومستوى الهيموغلوبين. لا تقرر بمفردك أن مخزون الحديد جيد لأن الفيريتين طبيعي، اسأل طبيبك عن مستوى الالتهاب في نفس الوقت."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "warn",
+            "title": "احذر: فيريتين طبيعي لا يعني بالضرورة حديداً كافياً",
+            "items": [
+              "إذا كان CRP مرتفعاً في نفس وقت نتيجة الفيريتين، فالالتهاب قد يرفع الفيريتين بشكل مصطنع",
+              "الأعراض مثل التعب وتساقط الشعر والدوخة تستحق التقييم حتى لو كان الفيريتين في النطاق الطبيعي",
+              "اطلب من طبيبك تحليل CRP مع الفيريتين إذا كنت تشكو من أعراض نقص الحديد مع نتيجة طبيعية"
+            ]
+          }
+        },
+        {
+          "h2": "لماذا نقص الحديد شائع جداً في منطقتنا؟",
+          "paras": [
+            "تشير دراسات متعددة إلى أن فقر الدم، وهو المرحلة المتقدمة من نقص الحديد، يصيب نسبة كبيرة من نساء منطقة شرق المتوسط. مراجعة نُشرت في International Journal of Environmental Research and Public Health عام 2021 وشملت دول المنطقة أظهرت أن فقر الدم لا يزال مشكلة صحية واسعة لم تُحل، خاصة بين النساء في سن الإنجاب والأطفال في السنوات الأولى. وفي عام 2025 كشف تحليل يغطي عقدين من البيانات في منطقة شرق المتوسط أن الوضع لم يتحسن بالقدر المأمول.",
+            "العوامل المحلية التي تزيد الخطر تشمل الدورات الشهرية الغزيرة، والحمل والرضاعة المتكررة التي تستنزف الحديد المخزون، والنظام الغذائي الغني بالشاي والقهوة اللذين تحتويان على مواد تعيق امتصاص الحديد، وقلة تناول اللحوم الحمراء في بعض الفئات، والاعتماد الكبير على الخبز والبقوليات كمصدر رئيسي للحديد النباتي الذي يمتصه الجسم بصعوبة أكبر من الحديد الموجود في اللحوم.",
+            "الحالة تصبح أكثر تعقيداً في بلدان تعاني اضطرابات في الخدمات الصحية أو الأمن الغذائي، حيث تنتشر عدوى الطفيليات المعوية التي تسبب نزيفاً خفياً مستمراً أو تنافس الجسم على امتصاص العناصر الغذائية. نقص الحديد في هذه الحالات قد يكون متعدد الأسباب ويحتاج إلى معالجة السبب الجذري لا الاكتفاء بمكملات الحديد."
+          ]
+        },
+        {
+          "h2": "أعراض نقص مخزون الحديد قبل ظهور فقر الدم",
+          "paras": [
+            "نقص الحديد يمر بمراحل متتالية. في المرحلة الأولى تنضب المخازن دون أن يتأثر الهيموغلوبين بعد. في هذه المرحلة قد تشعر بتعب غير مبرر يختلف عن الإرهاق العادي، وضعف في التركيز والذاكرة، وتساقط ملحوظ في الشعر أكثر من المعتاد، وهشاشة في الأظافر أو تشققها، وأحياناً رغبة غريبة في مضغ الثلج أو الطين أو مواد غير غذائية، وهو ما يسمى طبياً Pica وهو علامة معروفة لنقص الحديد.",
+            "في المرحلة التالية ينخفض الهيموغلوبين ويظهر فقر الدم الحقيقي بأعراضه المعروفة من شحوب في الوجه والأغشية المخاطية، وتعب شديد حتى مع مجهود بسيط، وخفقان في القلب، وضيق في التنفس عند صعود الدرج أو المشي السريع. كثير من النساء يتعودن هذه الأعراض ويعزينها لضغط الحياة أو إرهاق الأمومة دون أن يبحثن عن سبب طبي يمكن علاجه.",
+            "تحليل الفيريتين يكشف نقص المخزون في المرحلة الأولى قبل ظهور فقر الدم، وهذا هو سبب أهميته الحقيقية. علاج نقص الحديد في هذه المرحلة المبكرة أسهل وأسرع مفعولاً من علاجه بعد تطور فقر الدم الكامل الذي يحتاج شهوراً أطول."
+          ],
+          "visual": {
+            "type": "timeline",
+            "title": "مراحل نقص الحديد في الجسم",
+            "items": [
+              {"when": "المرحلة 1", "what": "الفيريتين ينخفض: المخازن تبدأ بالنضوب والهيموغلوبين لا يزال طبيعياً"},
+              {"when": "المرحلة 2", "what": "الحديد المرتبط بالترانسفيرين ينخفض: إنتاج خلايا الدم الحمراء يتأثر"},
+              {"when": "المرحلة 3", "what": "ينخفض الهيموغلوبين: فقر الدم بنقص الحديد الكامل مع أعراض واضحة"},
+              {"when": "العلاج", "what": "مكملات الحديد تستغرق 3 إلى 6 أشهر لإعادة بناء المخازن بالكامل"}
+            ]
+          }
+        },
+        {
+          "h2": "متى تحتاج فحوصات إضافية إلى جانب الفيريتين؟",
+          "paras": [
+            "الفيريتين وحده لا يكفي في بعض الحالات لتحديد الصورة الكاملة. إذا كانت نتيجتك منخفضة، قد يطلب طبيبك تحاليل تكميلية لتأكيد التشخيص وتحديد سبب النقص ودرجة خطورته. هذه التحاليل تشمل عادة الصورة الدموية الكاملة (CBC)، ومستوى الحديد في الدم (Serum Iron)، وقدرة الدم على ربط الحديد (TIBC)، ونسبة التشبع بالحديد (Transferrin Saturation). الجمع بين هذه التحاليل يعطي تشخيصاً أدق بكثير من أي تحليل منفرد.",
+            "إذا كانت نتيجة الفيريتين مرتفعة جداً دون سبب واضح، يتحقق الطبيب من وظائف الكبد، ومستوى الحديد والترانسفيرين، وأحياناً الفحص الجيني للاستبعاد داء ترسب الأصبغة الدموية الوراثي. هذه الحالة النادرة تسبب تراكم الحديد في الكبد والقلب والمفاصل وتؤدي إلى أضرار خطيرة إذا لم تُعالج، لكنها قابلة للعلاج تماماً بإزالة كميات منتظمة من الدم إذا اكتُشفت مبكراً.",
+            "الحالة الخاصة التي تستحق اهتماماً هي المرأة الحامل. تنخفض قيم الفيريتين بشكل طبيعي خلال الحمل بسبب زيادة حجم الدم الذي يخفف التركيز في الدم. كثير من أطباء الأمومة يوصون بفحص الفيريتين في بداية الحمل وفي الثلث الثالث على الأقل، لأن نقص الحديد في الحمل المتأخر يؤثر على نمو الجنين وتطور دماغه ويزيد خطر الولادة المبكرة."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "التحاليل المكملة لتقييم الحديد",
+            "head": ["التحليل", "ما يقيسه", "المرجع الطبيعي"],
+            "rows": [
+              ["Ferritin", "مخزون الحديد في الأنسجة", "12 - 150 ng/mL للنساء"],
+              ["Serum Iron", "الحديد العائم في الدم", "60 - 170 mcg/dL"],
+              ["TIBC", "قدرة الدم على ربط الحديد", "250 - 370 mcg/dL"],
+              ["Transferrin Saturation", "نسبة امتلاء الترانسفيرين بالحديد", "20 - 50%"],
+              ["CRP", "مؤشر الالتهاب", "أقل من 5 mg/L"]
+            ]
+          }
+        },
+        {
+          "h2": "كيف يعالج الطبيب نقص الحديد؟",
+          "paras": [
+            "علاج نقص مخزون الحديد يعتمد على شدته وسببه الجذري. في الحالات الخفيفة والمتوسطة، تنجح مكملات الحديد الفموية في معظم الحالات إذا أُخذت بالطريقة الصحيحة. خذها على معدة فارغة إن أمكن أو مع عصير برتقال، لأن فيتامين ج يعزز الامتصاص بشكل ملحوظ. وتجنب تناولها مع الشاي أو القهوة أو الحليب أو مكملات الكالسيوم في نفس الوقت، لأن هذه المواد تتعارض مع امتصاص الحديد.",
+            "يجب الاستمرار على المكملات لمدة 3 إلى 6 أشهر بعد تطبيع الهيموغلوبين، لأن إعادة بناء مخازن الفيريتين في الأنسجة تستغرق وقتاً أطول بكثير من تطبيع نسبة الهيموغلوبين في الدم. التوقف المبكر بمجرد الشعور بتحسن هو أكثر الأخطاء شيوعاً، وهو السبب الرئيسي في عودة نقص الحديد خلال أشهر.",
+            "في الحالات الشديدة أو عندما يتعذر الامتصاص الفموي بسبب مشاكل في الجهاز الهضمي، تُعطى حقنة الحديد الوريدية في المستشفى أو العيادة وهي فعالة جداً وسريعة المفعول مقارنة بالفموي. لكن القرار يعود للطبيب بناءً على مستوى الهيموغلوبين وأعراضك وسبب النقص. لا تبدأ أي مكملات حديد دون استشارة طبيبك، لأن الحديد الزائد في الجسم قد يكون ضاراً."
+          ]
+        },
+        {
+          "h2": "الأطعمة الغنية بالحديد في مطبخنا",
+          "paras": [
+            "الحديد في الطعام يأتي بشكلين مختلفين جداً في كفاءة الامتصاص. حديد الهيم (Heme Iron) الموجود في اللحوم الحمراء والدجاج والأسماك، ويمتصه الجسم بسهولة كبيرة تصل إلى 15 إلى 35 بالمئة. وحديد اللاهيم (Non-heme Iron) الموجود في البقوليات كالعدس والحمص والفاصولياء، والخضار الورقية الداكنة، والسمسم والطحينة، وامتصاصه أقل كفاءة يتراوح بين 2 إلى 10 بالمئة في الظروف العادية.",
+            "الخبر السار أن مطبخنا العربي غني بمصادر الحديد المتنوعة. الكبدة والطحال من أغنى المصادر الحيوانية وأسهلها تحضيراً. العدس والفول والحمص مصادر نباتية جيدة يأكلها معظم الناس يومياً. السمسم والطحينة والبقدونس الطازج والمشمش المجفف تضيف حديداً ملحوظاً. مشكلتنا ليست في الطعام بل في العادة المنتشرة جداً وهي شرب الشاي مباشرة مع الوجبة أو بعدها بدقائق، إذ يحتوي الشاي على تانينات وبوليفينولات تثبط امتصاص الحديد النباتي بشكل كبير.",
+            "إذا كنت تعتمد على مصادر الحديد النباتية، أضف مصدراً لفيتامين ج إلى وجبتك كعصير الليمون أو الطماطم الطازجة أو الفلفل الأحمر، لأن ذلك يضاعف امتصاص الحديد النباتي. وأخّر كوب الشاي ساعة على الأقل بعد الأكل. هذه التعديلات البسيطة في العادات اليومية يمكن أن تحسن الحديد الذي يصل فعلاً إلى الجسم دون تغيير ما تأكله."
+          ]
+        },
+        {
+          "h2": "متى تذهب للطبيب بسبب نتيجة الفيريتين؟",
+          "paras": [
+            "لا تؤجل زيارة الطبيب إذا كانت نتيجة الفيريتين منخفضة جداً دون 12 ng/mL، أو إذا جاءت نتيجتك الحدية بين 12 و30 وكنت تعاني أعراضاً مثل التعب الشديد غير المبرر أو تساقط الشعر الواضح أو الدوخة أو ضيق التنفس عند المجهود البسيط. مجموع الأعراض مع الرقم الحدي يستدعي تقييماً طبياً وليس انتظاراً.",
+            "الفيريتين المرتفع بشكل غير متوقع فوق 300 دون سبب واضح مثل عدوى حديثة أو التهاب معروف، يستحق أيضاً موعداً طبياً لفهم السبب. بعض أسباب ارتفاع الفيريتين مثل مشاكل الكبد تحتاج تشخيصاً دقيقاً ومتابعة منتظمة.",
+            "المرأة التي تخطط للحمل، والحامل، والمرضع، وأي شخص يعاني من نزيف مزمن سواء من الجهاز الهضمي أو الدورة الشهرية الغزيرة جداً، كلهم يستفيدون من فحص الفيريتين دورياً وليس فقط عند ظهور الأعراض. الكشف المبكر في هذه الفئات يوفر علاجاً بسيطاً بدلاً من التعامل مع فقر دم متطور لاحقاً."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "اطلب تقييماً طبياً عاجلاً إذا كان معك",
+            "items": [
+              "فيريتين أقل من 12 مع ضيق في التنفس أو خفقان شديد",
+              "شحوب واضح في الوجه والأغشية المخاطية مع إرهاق شديد",
+              "فيريتين مرتفع جداً فوق 500 ng/mL دون سبب واضح",
+              "نزيف مزمن من الجهاز الهضمي أو دورة شهرية غزيرة جداً تملأ أكثر من فوطة في الساعة"
+            ]
+          }
+        }
+      ],
+      "tie": "تطبيق صحتك يساعدك على تتبع نتائج تحاليل الدم بمرور الوقت. يمكنك تسجيل نتائج الفيريتين والهيموغلوبين والحديد من كل زيارة للمختبر، ومتابعة التغيرات في رسم بياني واضح تعرضه لطبيبك. وإذا حصلت على نتيجة لا تفهمها، يشرح لك المساعد الذكي معناها بلغة بسيطة ويساعدك على صياغة أسئلتك الصحيحة للطبيب في الزيارة القادمة.",
+      "faqs": [
+        {
+          "q": "ما الفرق بين تحليل الحديد وتحليل الفيريتين؟",
+          "a": "تحليل الحديد يقيس الحديد العائم في الدم في لحظة معينة، وهو يتذبذب مع ما أكلته اليوم. الفيريتين يعكس المخزون الكلي للحديد في الجسم على مدى أسابيع وأشهر، وهو أدق للكشف المبكر عن نقص الحديد قبل ظهور فقر الدم. معظم الأطباء يطلبون كليهما معاً مع الصورة الدموية الكاملة."
+        },
+        {
+          "q": "هل يمكن أن يكون الفيريتين طبيعياً ومع ذلك أعاني نقص حديد؟",
+          "a": "نعم. إذا كان لديك التهاب في الجسم وCRP مرتفع، فقد يرتفع الفيريتين بشكل مصطنع ويخفي نقص الحديد الحقيقي. لهذا يطلب الطبيب أحياناً تحاليل إضافية مثل Transferrin Saturation للحصول على صورة أدق."
+        },
+        {
+          "q": "هل يجب الصيام قبل تحليل الفيريتين؟",
+          "a": "الفيريتين لا يحتاج عادةً إلى صيام مسبق، بخلاف تحليل الحديد المباشر الذي يتأثر بالوجبة. لكن إذا كنت ستجري تحاليل متعددة في نفس الوقت كصورة الدهون أو السكر، اتبع تعليمات المختبر وصم للفترة المحددة."
+        },
+        {
+          "q": "لماذا ترتفع قيمة الفيريتين عند الإصابة بعدوى؟",
+          "a": "الفيريتين من بروتينات المرحلة الحادة، أي أن الجسم يرفعه كرد فعل دفاعي عند أي التهاب أو إصابة. قد يبقى مرتفعاً أسابيع بعد الشفاء. لهذا يفضل إجراء تحليل الفيريتين بعد انتهاء أي عدوى وليس خلالها للحصول على صورة دقيقة."
+        },
+        {
+          "q": "كم يستغرق علاج نقص الحديد؟",
+          "a": "الهيموغلوبين يبدأ بالتحسن خلال 4 إلى 6 أسابيع من بدء مكملات الحديد. لكن إعادة بناء مخزون الفيريتين بشكل كامل يستغرق 3 إلى 6 أشهر. التوقف المبكر عن المكملات قبل اكتمال علاج المخازن هو أكثر الأخطاء شيوعاً."
+        },
+        {
+          "q": "ما الفيريتين الطبيعي للمرأة الحامل؟",
+          "a": "تنخفض قيم الفيريتين بشكل طبيعي خلال الحمل بسبب زيادة حجم الدم. كثير من الأطباء يعتبرون الفيريتين أقل من 30 ng/mL خلال الحمل يستحق المعالجة حتى في غياب فقر الدم الصريح، لأن احتياج الجنين من الحديد يكون مرتفعاً جداً في الثلث الثالث."
+        },
+        {
+          "q": "هل ارتفاع الفيريتين خطير؟",
+          "a": "الارتفاع الطفيف عادةً يعكس التهاباً عابراً. لكن الارتفاع الشديد فوق 500 ng/mL يستحق تقييماً طبياً لاستبعاد أمراض الكبد وداء ترسب الأصبغة الدموية، وهو حالة وراثية نادرة تتراكم فيها الحديد في الأعضاء وتسبب أضراراً خطيرة إذا لم تُعالج مبكراً."
+        }
+      ]
+    },
+    "en": {
+      "title": "Ferritin test: reading your iron stores correctly",
+      "desc": "A complete guide to the ferritin blood test: what it measures, how to read your result, why a normal ferritin can still hide iron deficiency, and when to ask for more tests.",
+      "keywords": "ferritin test, iron stores, iron deficiency anemia, low ferritin, high ferritin, CRP and ferritin, ferritin normal range, iron deficiency symptoms, ferritin blood test, serum ferritin, anemia diagnosis",
+      "h1": "Ferritin test: what it tells you about your iron stores, and what it misses",
+      "takeaways": [
+        "Ferritin is the protein that stores iron inside cells. A ferritin blood test reflects your total iron reserves far more reliably than a simple iron test.",
+        "The key trap: ferritin rises with any inflammation in the body, so you can have a normal or high ferritin result while being genuinely iron deficient.",
+        "If your CRP (an inflammation marker) is high at the same time as your ferritin result, ask your doctor to interpret both together before concluding your iron stores are fine.",
+        "Iron deficiency is very common among women in the Middle East and North Africa, and ferritin is the best single tool for catching it before it becomes anaemia.",
+        "Do not start iron supplements based on one result alone. Your doctor will check additional tests and look for the cause before recommending treatment."
+      ],
+      "sections": [
+        {
+          "h2": "What is ferritin and why does it matter more than a direct iron test?",
+          "paras": [
+            "Ferritin is a protein found mainly inside the cells of the liver, spleen and bone marrow. Its job is to store iron safely and release it when the body needs it. A small amount of ferritin leaks into the bloodstream at all times, and the level of that circulating ferritin is a reliable window onto your total iron reserves across all the body's tissues, not just what is floating in the blood right now.",
+            "A standard iron blood test measures only the iron circulating freely in your blood at that moment. That number is heavily influenced by what you ate earlier in the day and can swing widely from one sample to the next, making it an unreliable guide to your actual stores. Ferritin, by contrast, reflects weeks and months of iron storage in the tissues, making it a much more stable and meaningful measurement.",
+            "This is why doctors now use ferritin to diagnose iron depletion before it ever shows up as frank anaemia. A person can have empty stores, feel exhausted and notice their hair falling out, while their red blood cells and haemoglobin still look entirely normal on a standard blood count. At that early stage, ferritin is the only test that reveals what is actually happening."
+          ],
+          "visual": {
+            "type": "range-scale",
+            "title": "Where your ferritin result sits",
+            "label": "Ferritin",
+            "unit": "ng/mL",
+            "min": 0,
+            "max": 200,
+            "zones": [
+              {"to": 12, "tone": "bad", "label": "Low"},
+              {"to": 30, "tone": "warn", "label": "Borderline"},
+              {"to": 150, "tone": "good", "label": "Normal"},
+              {"to": 200, "tone": "warn", "label": "High"}
+            ],
+            "marker": {"value": 8, "label": "Example low result"},
+            "source": "World Health Organization: Serum ferritin concentrations for the assessment of iron status, WHO 2011"
+          }
+        },
+        {
+          "h2": "How to read your ferritin result",
+          "paras": [
+            "The normal range quoted by most laboratories is roughly 12 to 150 ng/mL for women and 12 to 300 ng/mL for men, though different laboratories may use slightly different cut-offs. Some labs report in mcg/L, which is the same number. Always check the reference range printed on your own result sheet alongside the value, rather than comparing your number to a range you read somewhere else.",
+            "A ferritin below 12 ng/mL signals clearly depleted iron stores. A result between 12 and 30 ng/mL sits in a borderline zone that many doctors treat as insufficient, particularly in women who are pregnant, breastfeeding, or experiencing symptoms such as persistent fatigue or noticeable hair loss. In these circumstances, the symptoms and the clinical picture matter as much as where exactly the number falls.",
+            "At the upper end, a ferritin above 300 ng/mL can indicate chronic inflammation, liver disease, or, rarely, hereditary haemochromatosis, a condition in which the body absorbs and accumulates too much iron over years. A markedly raised ferritin should not be ignored, and your doctor will want to understand what is driving it rather than simply reassuring you that your iron is adequate."
+          ]
+        },
+        {
+          "h2": "The big trap: inflammation raises ferritin and hides iron deficiency",
+          "paras": [
+            "This is the point that misleads many people, and it is the main reason a ferritin result cannot always be read in isolation. Ferritin is not only raised when iron stores are full. It is also raised whenever there is active inflammation anywhere in the body: a bacterial or viral infection, a chronic autoimmune condition such as rheumatoid arthritis, liver disease, or any other ongoing inflammatory process.",
+            "In practice, a person with genuine iron deficiency can obtain a normal or even raised ferritin result if inflammation is present at the same time, because the inflamed tissue is secreting ferritin regardless of the actual iron stores. A 2017 paper in the American Journal of Clinical Nutrition, part of the international BRINDA project, demonstrated that this effect is large enough to mask iron deficiency across entire population groups when ferritin is used without an inflammation marker alongside it.",
+            "The practical solution is straightforward: ask your doctor to run a CRP (C-reactive protein) test alongside the ferritin. If CRP is elevated, the ferritin result becomes difficult to interpret on its own, and additional tests such as transferrin saturation and haemoglobin are needed to build a complete and accurate picture. Do not accept a normal ferritin as definitive proof of adequate iron if you still have symptoms."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "warn",
+            "title": "A normal ferritin does not always mean adequate iron",
+            "items": [
+              "If your CRP is raised at the same time, inflammation may be artificially pushing your ferritin up",
+              "Symptoms such as fatigue, hair loss and dizziness deserve investigation even if ferritin is in the normal range",
+              "Ask your doctor for a CRP result alongside ferritin if you have symptoms but a normal ferritin"
+            ]
+          }
+        },
+        {
+          "h2": "Why iron deficiency is so common in this region",
+          "paras": [
+            "A 2021 review published in the International Journal of Environmental Research and Public Health, covering countries of the Eastern Mediterranean, found that anaemia remains a significant and persistent public health problem, particularly among women of reproductive age and children under five. A 2025 analysis tracking two decades of trends in the same region confirmed the burden has not declined as hoped despite multiple national programmes.",
+            "The local drivers are several and often act together. Heavy or prolonged menstrual periods, closely spaced pregnancies and extended breastfeeding all draw heavily on iron reserves. Diets rich in tea and coffee consumed with or immediately after meals contain tannins and polyphenols that substantially reduce iron absorption from plant sources. Where diets rely mainly on bread, legumes and vegetables, the iron present is mostly non-haem iron, which the body absorbs far less efficiently than the haem iron in red meat.",
+            "In countries affected by conflict or disrupted health systems, intestinal parasites also contribute by causing chronic low-grade blood loss or competing for nutrients in the gut. In these settings, iron deficiency may have several simultaneous causes, and supplementation alone will not resolve the problem without addressing the underlying driver. A careful history and sometimes stool examination are part of the workup."
+          ]
+        },
+        {
+          "h2": "Signs of low iron stores before anaemia appears",
+          "paras": [
+            "Iron depletion moves through stages. In the first stage, stores fall but haemoglobin stays normal. At this point you might notice unexplained tiredness that is different from ordinary fatigue, poor concentration and working memory, increased hair shedding beyond what you consider normal, brittle or ridged nails, or occasionally an odd craving to chew ice, chalk or non-food substances. This last symptom, called pica, is a well-recognised marker of iron deficiency.",
+            "In the second stage, haemoglobin begins to fall and frank anaemia develops, with pallor, pronounced fatigue, palpitations and breathlessness on mild exertion such as climbing stairs or walking briskly. Many women reach this stage without ever connecting their symptoms to a nutritional deficiency, attributing them instead to the demands of daily life, early waking with young children, or ageing.",
+            "Ferritin catches the problem at stage one, before any drop in haemoglobin is visible on a standard blood count. Treating iron depletion at this early stage is faster and easier than correcting established anaemia, and it avoids the months of impaired concentration, reduced work capacity and heavy fatigue that accompany the more advanced stage."
+          ],
+          "visual": {
+            "type": "timeline",
+            "title": "The stages of iron depletion",
+            "items": [
+              {"when": "Stage 1", "what": "Ferritin falls: stores deplete, haemoglobin still normal, early symptoms may appear"},
+              {"when": "Stage 2", "what": "Transferrin saturation falls: red blood cell production starts to be affected"},
+              {"when": "Stage 3", "what": "Haemoglobin falls: full iron deficiency anaemia with clear symptoms"},
+              {"when": "Treatment", "what": "Iron supplements take 3 to 6 months to fully restore ferritin stores after haemoglobin normalises"}
+            ]
+          }
+        },
+        {
+          "h2": "What other tests does your doctor need alongside ferritin?",
+          "paras": [
+            "Ferritin alone is not always sufficient for a complete picture, particularly when inflammation may be distorting the result. If your ferritin is low, your doctor will usually request a full blood count (CBC), a serum iron level, total iron binding capacity (TIBC) and transferrin saturation to confirm the diagnosis and gauge how advanced the deficiency is. These four tests together give a consistent and reliable signal that ferritin alone cannot provide when CRP is elevated.",
+            "If ferritin is unexpectedly high above 300 ng/mL with no obvious recent illness or known inflammatory condition, your doctor may want liver function tests, serum iron and transferrin measurements, and occasionally a genetic test to exclude hereditary haemochromatosis. This inherited condition causes gradual iron overload that damages the liver, heart and joints over decades, but it responds well to regular therapeutic venesection if caught before organ damage has occurred.",
+            "Pregnancy deserves a special mention. Ferritin naturally falls during pregnancy because blood volume expands rapidly, diluting the concentration in the blood even when iron stores are not truly depleted. Most obstetricians check ferritin in the first trimester and again in the third, because iron deficiency in late pregnancy is linked to preterm birth, low birth weight and impaired fetal brain development in the critical last weeks before delivery."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Tests used together to assess iron status",
+            "head": ["Test", "What it measures", "Normal range"],
+            "rows": [
+              ["Ferritin", "Iron stored in tissues", "12 - 150 ng/mL (women)"],
+              ["Serum Iron", "Iron circulating in blood", "60 - 170 mcg/dL"],
+              ["TIBC", "Capacity of blood to bind iron", "250 - 370 mcg/dL"],
+              ["Transferrin Saturation", "Proportion of binding sites occupied by iron", "20 - 50%"],
+              ["CRP", "Inflammation marker", "Below 5 mg/L"]
+            ]
+          }
+        },
+        {
+          "h2": "How iron deficiency is treated",
+          "paras": [
+            "For mild to moderate deficiency, oral iron supplements are effective in most cases when taken correctly. Take them on an empty stomach if you can tolerate it, or with a glass of orange juice, since vitamin C significantly enhances the absorption of non-haem iron. Avoid taking iron at the same time as tea, coffee, milk, calcium supplements or antacids, all of which substantially reduce absorption by chelating the iron in the gut before it reaches the intestinal wall.",
+            "Continue iron supplements for three to six months after your haemoglobin returns to normal. This is longer than most people expect, because replenishing ferritin stores in the tissues takes considerably longer than raising haemoglobin in the blood. Stopping treatment as soon as you feel better, before stores are fully rebuilt, is the most common reason iron deficiency returns within months of completing a course.",
+            "For severe deficiency, when oral supplements are not absorbed due to gut disease, or when haemoglobin is critically low and recovery needs to be faster, intravenous iron is given in a clinic or hospital. Your doctor makes this call based on your haemoglobin level, your symptoms and the underlying cause. Do not start iron supplements without medical advice, because the symptoms of iron deficiency overlap with several other conditions that need different treatment, and because excess iron accumulation is itself toxic."
+          ]
+        },
+        {
+          "h2": "Iron-rich foods in the regional diet",
+          "paras": [
+            "Dietary iron comes in two forms with very different absorption rates. Haem iron, found in red meat, poultry and fish, is absorbed at around 15 to 35 percent of the amount present, regardless of what else you eat with it. Non-haem iron, found in lentils, chickpeas, beans, dark leafy vegetables and sesame, is absorbed at only 2 to 10 percent under ordinary conditions, though pairing it with vitamin C-rich foods brings that figure up considerably.",
+            "The regional kitchen is genuinely well-stocked with iron sources. Liver and kidney are among the most concentrated animal sources available anywhere and are widely eaten in the region. Lentils, fava beans and chickpeas eaten daily provide meaningful amounts of plant iron. Parsley, tahini, dried apricots and sesame seeds contribute further. The problem is not a shortage of iron in the food but the widespread habit of drinking tea with a meal or within minutes of finishing it, a pattern that can cut iron absorption from plant foods by more than half.",
+            "If your diet relies mainly on plant iron sources, try adding lemon juice, fresh tomatoes or green pepper to your meals, and delay your tea by at least an hour after eating. These small and realistic adjustments to daily habits can meaningfully improve the iron your body actually absorbs from the food you are already preparing, without requiring any expensive supplements."
+          ]
+        },
+        {
+          "h2": "When to see a doctor about your ferritin result",
+          "paras": [
+            "Do not wait if your ferritin comes back below 12 ng/mL, or if it sits in the borderline range of 12 to 30 ng/mL and you are experiencing symptoms such as severe unexplained tiredness, marked hair loss, dizziness, or breathlessness with light effort. The combination of a borderline result and active symptoms deserves investigation rather than a wait-and-see approach.",
+            "An unexpectedly high ferritin above 300 ng/mL, in the absence of a recent infection or known inflammatory condition, also warrants a follow-up appointment to understand the cause rather than simply reassure yourself that your iron is plentiful.",
+            "Women planning a pregnancy, those who are already pregnant or breastfeeding, and anyone with a history of heavy menstrual periods or chronic gastrointestinal blood loss should have their ferritin checked as a matter of routine, before symptoms appear, rather than waiting until fatigue or pallor forces the issue. Early detection in these groups leads to simple treatment rather than managing a far more difficult advanced anaemia."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "Seek medical review promptly if you have",
+            "items": [
+              "Ferritin below 12 with breathlessness or palpitations",
+              "Obvious pallor and severe fatigue with any ferritin result",
+              "Ferritin above 500 ng/mL without a clear explanation",
+              "Chronic blood loss from the gut or very heavy menstrual periods"
+            ]
+          }
+        }
+      ],
+      "tie": "The Sihtak app lets you log your ferritin, haemoglobin and iron results from every lab visit and watch them as a trend over time. If your next result looks different from your last, you can see immediately whether it is moving in the right direction. The AI assistant explains what the numbers mean in plain language and helps you frame questions to bring to your next doctor appointment.",
+      "faqs": [
+        {
+          "q": "What is the difference between a ferritin test and an iron test?",
+          "a": "A serum iron test measures the iron circulating freely in your blood at a single moment, and that number shifts with your last meal. Ferritin reflects the iron stored in your tissues over weeks and months, making it far more useful for detecting iron depletion before anaemia develops. Most doctors order both together with a full blood count."
+        },
+        {
+          "q": "Can my ferritin be normal and I still have iron deficiency?",
+          "a": "Yes. If you have active inflammation and a raised CRP at the same time, ferritin can be pushed into the normal range or above even when your iron stores are genuinely low. This is why doctors check both together and may order transferrin saturation to build a more accurate picture."
+        },
+        {
+          "q": "Do I need to fast before a ferritin test?",
+          "a": "Ferritin itself does not require fasting and is not meaningfully affected by a recent meal. If you are having multiple tests done at the same time, such as a lipid panel or fasting glucose, follow the instructions given for the most restrictive test on the list."
+        },
+        {
+          "q": "Why does ferritin rise during an infection?",
+          "a": "Ferritin is an acute phase protein, meaning the body produces more of it during any inflammatory response as a protective mechanism. It can remain elevated for several weeks after an infection has cleared. For this reason, ferritin is most accurately interpreted when you are well, not in the middle of or immediately after an illness."
+        },
+        {
+          "q": "How long does it take to treat iron deficiency?",
+          "a": "Haemoglobin typically starts rising within four to six weeks of starting iron supplements. Fully restoring ferritin stores takes three to six months. Stopping supplements as soon as you feel better, before stores are rebuilt, is the most common reason deficiency returns quickly after treatment."
+        },
+        {
+          "q": "What is the normal ferritin for a pregnant woman?",
+          "a": "Ferritin values fall naturally during pregnancy as blood volume expands and dilutes the concentration. Many obstetricians treat ferritin below 30 ng/mL during pregnancy as worth correcting even without overt anaemia, because the fetal demand for iron is highest in the third trimester and iron deficiency at that stage affects fetal brain development."
+        },
+        {
+          "q": "Is a high ferritin dangerous?",
+          "a": "A mildly raised ferritin usually reflects a temporary inflammatory state and is not itself harmful. A markedly raised ferritin above 500 ng/mL, without an obvious cause such as a recent infection, warrants investigation to rule out liver disease and hereditary haemochromatosis, a treatable but serious condition if missed until organ damage has occurred."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,437 @@
+{
+  "slug": "esr-test-explained",
+  "category": "lab-tests",
+  "chip_ar": "فهم التحاليل",
+  "chip_en": "Understanding Lab Tests",
+  "date_iso": "2026-07-28",
+  "sources": [
+    {
+      "label": "Brigden ML: Clinical utility of the erythrocyte sedimentation rate, American family physician, 1999",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10524488/"
+    },
+    {
+      "label": "Osei-Bimpong A, Meek JH, Lewis SM et al: ESR or CRP? A comparison of their clinical utility, Hematology (Amsterdam, Netherlands), 2007",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17654065/"
+    },
+    {
+      "label": "Schmidt J, Warrington KJ: Polymyalgia rheumatica and giant cell arteritis in older patients: diagnosis and pharmacological management, Drugs and aging, 2011",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21812500/"
+    },
+    {
+      "label": "Hameed MA et al: ESR and CRP in connective tissue diseases, Damascus University Medical Journal, 2017"
+    },
+    {
+      "label": "WHO: Global tuberculosis report 2023, World Health Organization"
+    },
+    {
+      "label": "Pepys MB, Hirschfield GM: C-reactive protein: a critical update, Journal of Clinical Investigation, 2003",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12813013/"
+    }
+  ],
+  "content": {
+    "ar": {
+      "title": "تحليل ESR: لماذا يرتفع ترسب كريات الدم وماذا بعد؟",
+      "desc": "شرح تحليل سرعة ترسيب كريات الدم الحمراء (ESR): طريقة ويسترغرن، الأسباب الشائعة للارتفاع في المنطقة كالسل والبروسيلا، والفرق بينه وبين CRP.",
+      "keywords": "تحليل ESR, سرعة ترسيب كريات الدم, ESR مرتفع, فرق ESR وCRP, تحليل الالتهاب, ESR طبيعي, ESR والسل, ESR والروماتيزم, تحليل ويسترغرن, ESR اسباب الارتفاع",
+      "h1": "تحليل ESR: ما الذي يُخبرك به ترسب كريات الدم ولماذا يختلف عن CRP؟",
+      "takeaways": [
+        "ESR يقيس سرعة ترسب كريات الدم الحمراء في أنبوب الاختبار خلال ساعة واحدة، وهو مؤشر غير مباشر للالتهاب في الجسم.",
+        "يختلف ESR عن CRP في أنه أبطأ في الارتفاع والانخفاض، مما يجعله أكثر فائدة في الالتهابات المزمنة والأمراض الطويلة الأمد.",
+        "ارتفاع ESR في منطقتنا يستدعي استبعاد السل والبروسيلا والأمراض الروماتيزمية قبل الانتقال إلى أسباب أخرى.",
+        "ESR وحده لا يُشخّص شيئاً، لكن ارتفاعه الشديد فوق 100 mm/h يستحق تحقيقاً طبياً جاداً وسريعاً.",
+        "عند استخدامهما معاً، يُعطي ESR وCRP معاً صورة أشمل عن طبيعة الالتهاب ومساره زمنياً."
+      ],
+      "sections": [
+        {
+          "h2": "ما هو تحليل ESR وكيف يُقاس؟",
+          "paras": [
+            "ESR يرمز إلى Erythrocyte Sedimentation Rate، وبالعربية سرعة ترسيب كريات الدم الحمراء. المبدأ بسيط: تُوضع عينة من دمك في أنبوب زجاجي رفيع طويل ويُترك منتصباً لمدة ساعة. خلال هذه الساعة تترسب كريات الدم الحمراء نحو قاع الأنبوب بفعل الجاذبية، ويُقاس بعدها بالمليمتر كم انخفضت. كلما كانت السرعة أعلى، كان الرقم أكبر.",
+            "الطريقة المرجعية المعتمدة دولياً هي طريقة ويسترغرن (Westergren method)، وتُستخدم في معظم مختبرات المنطقة. عملياً، ارتفاع ESR يحدث لأن بعض البروتينات التي تُنتجها الكبد أثناء الالتهاب، مثل الفيبرينوجين والغلوبولين، تجعل كريات الدم الحمراء تتكتل معاً وتترسب بسرعة أكبر من المعتاد.",
+            "هذا التحليل موجود منذ أكثر من مئة عام وهو أحد أقدم اختبارات الالتهاب في الطب الحديث. بساطته وانخفاض تكلفته جعلاه يستمر في الاستخدام رغم ظهور تحاليل أحدث وأكثر دقة. أشار Dr Brigden في مراجعته الكلاسيكية المنشورة في American Family Physician عام 1999 إلى أن ESR ظل مفيداً رغم قدمه لأنه رخيص التكلفة ومتاح في كل المختبرات.",
+            "في المنطقة العربية، يُطلب هذا التحليل كثيراً لأن كثيراً من الأمراض التي تنتشر فيها مثل البروسيلا والسل والروماتويد تُعطي ESR مرتفعاً وتحتاج إلى متابعة طويلة الأمد، وهو ما يُتقنه ESR أكثر من أي تحليل آخر."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "كيف يُجرى تحليل ESR (طريقة ويسترغرن)",
+            "items": [
+              "تُسحب عينة دم من وريد الذراع وتُخلط مع مادة تمنع التخثر",
+              "تُوضع العينة في أنبوب زجاجي طويل ورفيع في وضع عمودي تماماً",
+              "تُترك العينة ساعة كاملة في درجة حرارة الغرفة دون تحريك",
+              "يُقاس بعدها المسافة التي نزلت إليها كريات الدم الحمراء بالمليمتر",
+              "هذا الرقم بالمليمتر في الساعة هو قيمة ESR المُبلَّغ عنها"
+            ]
+          }
+        },
+        {
+          "h2": "ما المعدل الطبيعي لـ ESR؟",
+          "paras": [
+            "تختلف القيم الطبيعية لـ ESR بحسب العمر والجنس، وهذا شيء كثيراً ما يُسبب لبساً عند قراءة النتيجة. قيمة ESR ترتفع بشكل طبيعي مع التقدم في السن حتى عند الأصحاء، لذلك ما يُعتبر طبيعياً عند الشاب ليس بالضرورة طبيعياً عند الشيخ وبالعكس.",
+            "القاعدة التقريبية المعتمدة لحساب الحد الأعلى الطبيعي هي: للرجال العمر مقسوماً على اثنين، وللنساء العمر زائد عشرة مقسوماً على اثنين. فمثلاً، رجل عمره 50 سنة، حده الأعلى الطبيعي هو 25 mm/h. امرأة عمرها 50 سنة، حدها الأعلى الطبيعي هو 30 mm/h. هذه قاعدة توجيهية، وورقة نتيجتك تذكر النطاق المرجعي المحسوب بدقة.",
+            "ESR يرتفع أيضاً بشكل طبيعي خلال الحمل والحيض وعند الأشخاص الذين يعانون من السمنة المفرطة. الطبيب يأخذ هذه العوامل في الاعتبار عند تفسير النتيجة.",
+            "من الضروري أن تعرف أن النطاق المرجعي المطبوع على ورقة نتيجتك هو الأدق لحالتك، لأن المختبرات الجيدة تُحسب نطاقاتها بناءً على عمرك وجنسك. لا تقارن نتيجتك بالأرقام التي تجدها في الإنترنت دون الأخذ في الاعتبار هذه الاختلافات."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "القيم الطبيعية التقريبية لـ ESR بالمليمتر في الساعة",
+            "head": ["الفئة", "الحد الأعلى الطبيعي التقريبي"],
+            "rows": [
+              ["رجل أقل من 50 سنة", "أقل من 15 mm/h"],
+              ["رجل فوق 50 سنة", "أقل من 20 mm/h"],
+              ["امرأة أقل من 50 سنة", "أقل من 20 mm/h"],
+              ["امرأة فوق 50 سنة", "أقل من 30 mm/h"],
+              ["أثناء الحمل", "يرتفع بشكل طبيعي ويتضاعف في الثلث الثالث"]
+            ],
+            "source": "Brigden ML: Clinical utility of the erythrocyte sedimentation rate, American Family Physician, 1999",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/10524488/"
+          }
+        },
+        {
+          "h2": "هل ESR مرتفع أم طبيعي؟",
+          "paras": [
+            "بعد معرفة النطاق المرجعي المناسب لعمرك وجنسك، يُمكنك مقارنة نتيجتك. لكن المهم ليس فقط ما إذا كانت النتيجة فوق الطبيعي، بل بكم تتجاوزه. ارتفاع طفيف بـ 5 أو 10 mm/h فوق الحد الطبيعي يختلف كلياً عن ارتفاع شديد إلى 80 أو 100 mm/h.",
+            "ارتفاع ESR إلى ما فوق 100 mm/h نادراً ما يكون بدون سبب حقيقي يستحق التحقيق. الأسباب الأكثر شيوعاً لهذا المستوى من الارتفاع تشمل الأمراض الروماتيزمية الحادة، والأمراض الخبيثة، والعدوى الشديدة بما فيها السل.",
+            "نتيجة ESR الحدية، أي قيمة قريبة من الحد الأعلى الطبيعي بـ 5 إلى 10 mm/h، لا تستدعي ذعراً في الغالب خاصةً إذا كنت تشعر بصحة جيدة. الطبيب قد يكتفي بإعادة التحليل بعد شهر أو يطلب CRP للمقارنة."
+          ],
+          "visual": {
+            "type": "range-scale",
+            "title": "مستوى ESR عند الرجال دون الخمسين",
+            "label": "ESR",
+            "unit": "mm/h",
+            "min": 0,
+            "max": 120,
+            "zones": [
+              {"to": 15, "tone": "good", "label": "طبيعي"},
+              {"to": 40, "tone": "warn", "label": "ارتفاع خفيف"},
+              {"to": 100, "tone": "bad", "label": "ارتفاع معتدل"},
+              {"to": 120, "tone": "bad", "label": "ارتفاع شديد"}
+            ],
+            "source": "Brigden ML: Clinical utility of the ESR, American Family Physician, 1999",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/10524488/"
+          }
+        },
+        {
+          "h2": "الأسباب الشائعة لارتفاع ESR في المنطقة العربية",
+          "paras": [
+            "السبب الأهم الذي يجب استبعاده في كل حالة ارتفاع ESR في المنطقة هو السل (Tuberculosis). تقرير منظمة الصحة العالمية للسل عام 2023 يُشير إلى أن دولاً عدة في المنطقة لا تزال تحمل عبئاً متوسطاً من السل، وهو يُعطي ESR مرتفعاً مستمراً، غالباً مع فقدان وزن وسعال مزمن وتعرق ليلي وحمى منخفضة الدرجة. إذا كانت هذه الأعراض مصاحبة لـ ESR مرتفع، فالتحقيق للسل ضروري حتى قبل البحث عن أسباب أخرى.",
+            "البروسيلا (Brucellosis) أو الحمى المالطية هي عدوى شائعة في المنطقة، خاصةً في المناطق الريفية التي تُربّى فيها الأبقار والأغنام وتُستهلك فيها منتجات الألبان غير المبسترة. تُعطي البروسيلا ESR مرتفعاً مع حمى متذبذبة وآلام مفصلية وإرهاق شديد. يُشبه تقديمها السل في بعض الحالات. الشراب الذي يُصنع من اللبن الخام والجبن القروي المحلي غير المبستر هو مصدر العدوى الأكثر شيوعاً في المنطقة.",
+            "الأمراض الروماتيزمية مثل الروماتويد (Rheumatoid Arthritis) والذئبة الحمراء (Lupus) والتهاب الشرايين ذو الخلايا العملاقة تُعطي ESR مرتفعاً مستمراً في الغالب. التهاب الشرايين ذو الخلايا العملاقة خاصةً يُعطي ESR مرتفعاً جداً فوق 50 mm/h ويُصيب عادةً كبار السن فوق الستين. أشار Schmidt وWarrington في مراجعتهما المنشورة في مجلة Drugs and Aging عام 2011 إلى أن ESR المرتفع جداً هو من أبرز المعايير التشخيصية لهذه الحالة."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "أسباب مهمة لارتفاع ESR في المنطقة",
+            "head": ["السبب", "مستوى ESR المتوقع", "أعراض مصاحبة مهمة"],
+            "rows": [
+              ["السل", "60 - 100+ mm/h", "سعال مزمن، تعرق ليلي، فقدان وزن، حمى"],
+              ["البروسيلا (الحمى المالطية)", "40 - 80 mm/h", "حمى متذبذبة، ألم مفاصل، تعرق مفرط"],
+              ["الروماتويد", "30 - 80 mm/h", "انتفاخ وتصلب المفاصل، خاصة الصباح"],
+              ["الذئبة الحمراء (Lupus)", "40 - 100 mm/h", "طفح وجه، ألم مفاصل، تعب شديد"],
+              ["الأورام والأمراض الخبيثة", "فوق 100 mm/h في الغالب", "فقدان وزن غير مفسر، ضعف عام"]
+            ]
+          }
+        },
+        {
+          "h2": "ESR مقابل CRP: ما الفرق واستخدام كل منهما؟",
+          "paras": [
+            "الطبيب يطلب أحياناً ESR وCRP معاً، وهذا ليس تكراراً بل لأن كل منهما يُكمل الآخر. الفرق الجوهري بينهما هو التوقيت الزمني للاستجابة لأحداث الالتهاب.",
+            "CRP يرتفع وينخفض بسرعة: يبدأ الارتفاع في 6 ساعات ويبلغ ذروته في يوم أو يومين، ثم ينخفض بمجرد زوال السبب. ESR أبطأ بكثير: يأخذ أياماً للارتفاع ثم يبقى مرتفعاً لأسابيع حتى بعد شفاء العدوى. هذا يجعل CRP أفضل لتشخيص العدوى الحادة ومتابعة العلاج على المدى القصير، بينما يُفيد ESR أكثر في الأمراض المزمنة والمتابعة طويلة الأمد.",
+            "دراسة Osei-Bimpong وزملائه المنشورة في مجلة Hematology عام 2007 خلصت إلى أن CRP أكثر حساسية وتحديداً لتشخيص العدوى الحادة مقارنةً بـ ESR، لكن ESR يبقى مفيداً في رصد الأمراض المزمنة الطويلة مثل الروماتويد وفي سياقات معينة حيث يكون CRP طبيعياً رغم الالتهاب المزمن الخفيف."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "مقارنة بين ESR وCRP",
+            "head": ["الخاصية", "ESR", "CRP"],
+            "rows": [
+              ["سرعة الارتفاع عند الالتهاب", "أيام", "ساعات (6-24 ساعة)"],
+              ["سرعة الانخفاض عند الشفاء", "أسابيع", "أيام"],
+              ["الأفضل في التشخيص الحاد", "لا", "نعم"],
+              ["الأفضل في المتابعة المزمنة", "نعم", "نعم لكن يُكمّله ESR"],
+              ["تأثير العمر والجنس على الطبيعي", "نعم، يرتفع مع العمر", "لا تأثير كبير"],
+              ["التكلفة والتوفر", "رخيص ومتاح في كل مختبر", "رخيص ومتاح في كل مختبر"]
+            ]
+          }
+        },
+        {
+          "h2": "متى يكون ESR مرتفعاً دون مرض خطير؟",
+          "paras": [
+            "ليس كل ارتفاع في ESR مؤشراً على مرض خطير. يرتفع ESR بشكل خفيف في حالات كثيرة طبيعية أو بسيطة: الحمل، السمنة، فقر الدم، الشيخوخة، بعض الأدوية كالكورتيزون. كذلك يرتفع بعد عدوى فيروسية بسيطة ويستمر مرتفعاً لأسابيع حتى بعد الشفاء التام، وهذا أمر طبيعي بسبب تأخر استجابته.",
+            "بعض الأشخاص لديهم ESR مرتفع خفيف بشكل دائم دون أي سبب واضح، ويُسمى هذا الارتفاع مجهول السبب. إذا فُحص الشخص بالكامل ولم يُعثر على سبب، يُتابع الطبيب الحالة دورياً دون قلق زائد. وجود CRP طبيعي مع ESR مرتفع خفيف في شخص يشعر بصحة جيدة هو دليل مطمئن على أن الارتفاع غير إشكالي.",
+            "الأهم دائماً هو النظر إلى ESR كأداة تدل على وجود شيء يستحق البحث، وليس كحكم نهائي بحد ذاتها. ارتفاع خفيف في ESR عند شخص يشعر بصحة جيدة قد لا يستدعي أكثر من متابعة بعد أشهر."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "warn",
+            "title": "أسباب ارتفاع ESR دون مرض خطير",
+            "items": [
+              "الحمل، خاصةً في الثلثين الثاني والثالث",
+              "فقر الدم من أي نوع يُسرّع الترسيب",
+              "السمنة المفرطة وزيادة الوزن",
+              "الشيخوخة والتقدم في السن",
+              "بقايا عدوى فيروسية حتى بعد الشفاء بأسابيع"
+            ]
+          }
+        },
+        {
+          "h2": "ماذا يحدث بعد اكتشاف ESR مرتفع؟",
+          "paras": [
+            "حين يجد الطبيب ESR مرتفعاً يبدأ بربطه بالصورة الكاملة: ما أعراضك؟ منذ متى؟ ما تاريخك الطبي والعائلي؟ هل فقدت وزناً؟ هل هناك حمى؟ هل تعرضت لأغذية ريفية أو حيوانات؟ هل تتلقى أدوية تُؤثر على ESR؟ الأسئلة هذه توجّه التحقيق أكثر مما تفعل قيمة الرقم وحدها.",
+            "التحاليل الإضافية التي يطلبها الطبيب عادةً تشمل: CRP للمقارنة مع ESR، صورة دم كاملة CBC للبحث عن فقر الدم وعلامات العدوى، تحاليل الكبد والكلى للكشف عن أمراض عضوية، وتحاليل محددة للسل كاختبار IGRA أو تحليل البلغم إذا اشتُبه بالسل. في بعض الحالات تُطلب الأشعة السينية للصدر.",
+            "ارتفاع ESR لوحده دون أعراض مصاحبة في شخص شاب وصحيح بشكل عام قد يُتابَع فقط بإعادة التحليل بعد شهر أو شهرين. لكن ارتفاعاً شديداً فوق 50 mm/h مع أعراض يستوجب تحقيقاً أسرع.",
+            "تذكر أن ESR مؤشر وليس تشخيصاً. كثير من الناس يقلقون من هذا التحليل لأنه يُعطي رقماً يصعب تفسيره بدون سياق. لكن المنطق بسيط: ارتفاع ESR يقول لطبيبك أن جسمك في حالة استجابة التهابية ما، ومهمته الآن أن يجد السبب."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "توجه للطبيب بسرعة إذا صاحب ESR المرتفع",
+            "items": [
+              "حمى مستمرة أو متكررة لأكثر من أسبوعين",
+              "فقدان وزن غير مقصود بأكثر من 5% من وزنك خلال شهرين",
+              "سعال دام لأكثر من ثلاثة أسابيع خاصةً مع تعرق ليلي",
+              "آلام مفاصل متورمة أو صداع شديد عند التمبار فوق الخمسين",
+              "ESR فوق 100 mm/h في أي شخص بأي عمر"
+            ]
+          }
+        },
+        {
+          "h2": "كم يكلف التحليل وأين يُجرى؟",
+          "paras": [
+            "ESR من أرخص التحاليل المتاحة في المنطقة. في سوريا والعراق ومصر والأردن يُجرى في معظم المختبرات الخاصة والحكومية بتكلفة رمزية، وغالباً تظهر النتيجة في نفس اليوم أو خلال ساعات. لا يحتاج طاقم متخصص ولا أجهزة معقدة، مما يجعله متاحاً حتى في المراكز الريفية الصغيرة.",
+            "بسبب بساطته يُطلب غالباً ضمن حزمة تحاليل شاملة مع CBC وCRP والتحاليل الكيميائية الأساسية. إذا كانت ميزانيتك محدودة وطلب منك الطبيب ESR وCRP معاً، اعلم أن كلا التحليلين رخيصان نسبياً وإجراؤهما معاً يوفر معلومات مهمة لا يمكن لأحدهما منفرداً تقديمها.",
+            "في حالات المتابعة الطويلة مثل الروماتويد أو علاج السل، يُجرى ESR بانتظام كل شهر أو كل ثلاثة أشهر. احتفظ بنسخ من نتائجك السابقة لأن الطبيب يحتاج رؤية الاتجاه عبر الزمن أكثر من الرقم الواحد المعزول."
+          ]
+        }
+      ],
+      "tie": "تطبيق صحتك يُتيح حفظ قيم ESR مع التواريخ لمتابعة الاتجاه عبر الوقت، وهو مفيد خاصةً في الأمراض المزمنة كالروماتويد حيث يُساعد ارتفاع أو انخفاض ESR في تقييم نشاط المرض بين الزيارات الطبية.",
+      "faqs": [
+        {
+          "q": "ما الفرق بين ESR وCRP وأيهما أفضل؟",
+          "a": "لكل منهما استخدامه: CRP أسرع في الارتفاع والانخفاض وأفضل لتشخيص العدوى الحادة ومتابعة العلاج على المدى القصير. ESR أبطأ ومفيد في الأمراض المزمنة والمتابعة طويلة الأمد. كثيراً ما يُطلب الاثنان معاً لأنهما يُكملان بعضهما."
+        },
+        {
+          "q": "ESR طبيعي عندي لكن أشعر بآلام مستمرة، هل يعني ذلك أنني بخير؟",
+          "a": "ESR الطبيعي لا يستبعد كل الأمراض. بعض الأمراض الروماتيزمية المبكرة وبعض أنواع التهاب المفاصل تُعطي ESR طبيعياً. الأعراض التي تشعر بها مهمة جداً وتستحق تقييماً طبياً مستقلاً عن الرقم."
+        },
+        {
+          "q": "لماذا ESR يبقى مرتفعاً حتى بعد شفائي من المرض؟",
+          "a": "هذا طبيعي لأن ESR أبطأ في الانخفاض من CRP. بعد عدوى مثلاً، يمكن أن يبقى ESR مرتفعاً لأسابيع رغم شفائك التام. طبيبك يأخذ هذا في الاعتبار ويُفسّر النتيجة في سياق حالتك الإجمالية وليس كدليل على استمرار المرض بالضرورة."
+        },
+        {
+          "q": "هل يحتاج تحليل ESR إلى صيام مسبق؟",
+          "a": "لا، ESR لا يحتاج إلى صيام مسبق ويُمكن إجراؤه في أي وقت من اليوم. الأكل والشرب لا يُؤثران على نتيجة ESR."
+        },
+        {
+          "q": "ESR 70 mm/h عندي وأنا حامل، هل هذا خطير؟",
+          "a": "ESR يرتفع بشكل طبيعي خلال الحمل ويمكن أن يبلغ 70 أو أكثر في الثلث الثالث دون وجود أي مرض. الطبيب يُفسّر هذه النتيجة في سياق أعراضك وتاريخ حملك وليس بمقارنتها بالقيم المرجعية خارج الحمل."
+        },
+        {
+          "q": "ما الأدوية التي تُؤثر على ESR؟",
+          "a": "الكورتيزون ومشتقاته تُخفض ESR. الأسبرين والإيبوبروفين يُمكن أن يُخفضاه أيضاً. بعض الأدوية المُستخدمة في الروماتويد كالميثوتريكسيت يُمكن أن تُؤثر عليه. أخبر طبيبك بجميع الأدوية التي تتناولها عند طلبه التحليل."
+        },
+        {
+          "q": "هل ESR مرتفع يعني السل؟",
+          "a": "لا، ESR المرتفع يعني فقط أن هناك التهاباً ما، وأسبابه كثيرة. السل سبب مهم يجب استبعاده في منطقتنا، خاصةً إذا كانت هناك أعراض كالسعال المزمن والتعرق الليلي وفقدان الوزن، لكن ESR المرتفع وحده لا يكفي لتشخيص السل."
+        }
+      ]
+    },
+    "en": {
+      "title": "ESR Blood Test: Why It Is High and What Happens Next",
+      "desc": "ESR explained: the Westergren method, normal ranges by age and sex, why ESR lags behind CRP, and the key regional causes including tuberculosis and brucellosis.",
+      "keywords": "ESR blood test, erythrocyte sedimentation rate, high ESR, ESR vs CRP, inflammation test, normal ESR, ESR tuberculosis, ESR rheumatoid, Westergren method, causes of high ESR",
+      "h1": "ESR Blood Test: What Your Sedimentation Rate Means and What Comes Next",
+      "takeaways": [
+        "ESR measures how quickly red blood cells settle in a test tube in one hour, serving as an indirect marker of inflammation in the body.",
+        "ESR differs from CRP in that it is slower to rise and slower to fall, making it more useful for chronic inflammatory conditions than for acute infection.",
+        "In this region, a raised ESR should prompt consideration of tuberculosis and brucellosis alongside rheumatic disease before less common causes.",
+        "ESR alone does not diagnose anything, but a value above 100 mm/h deserves prompt and thorough medical investigation.",
+        "Used together, ESR and CRP give a broader picture of inflammation, its likely cause and its time course."
+      ],
+      "sections": [
+        {
+          "h2": "What is the ESR test and how is it measured?",
+          "paras": [
+            "ESR stands for erythrocyte sedimentation rate. The principle is straightforward: a sample of your blood is placed in a tall narrow glass tube and left upright for one hour. During that hour, the red blood cells settle toward the bottom under gravity, and the distance they have fallen in millimetres is the result. The faster they fall, the higher the number.",
+            "The internationally accepted reference method is the Westergren method, which is used in most laboratories across the region. A raised ESR happens because certain proteins produced by the liver during inflammation, particularly fibrinogen and immunoglobulins, cause the red blood cells to clump together into stacks called rouleaux, which fall faster than individual cells.",
+            "The ESR has been in clinical use for over a hundred years, making it one of the oldest inflammation tests in medicine. Brigden, writing in the American Family Physician in 1999, noted that ESR has remained in everyday use despite its age precisely because it is inexpensive and available in every laboratory. Its low cost and simplicity have kept it in everyday use even as newer, more specific markers have been developed.",
+            "In the Arab world specifically, ESR is frequently requested because the diseases most prevalent in the region, including brucellosis, tuberculosis and rheumatoid arthritis, all produce a raised ESR and require long-term monitoring, which is something ESR handles better than almost any other inflammation test."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "How the ESR is performed (Westergren method)",
+            "items": [
+              "Blood is drawn from a vein in the arm and mixed with an anti-clotting agent",
+              "The sample is placed in a long narrow tube held perfectly vertical",
+              "The tube is left undisturbed for exactly one hour at room temperature",
+              "The distance the red cells have fallen is measured in millimetres",
+              "This measurement in millimetres per hour is the reported ESR value"
+            ]
+          }
+        },
+        {
+          "h2": "What is a normal ESR?",
+          "paras": [
+            "The normal range for ESR depends on age and sex, which is one of the most common sources of confusion when reading a result. ESR rises naturally with age even in healthy individuals, so what is normal for a young adult is different from what is normal for an older person.",
+            "A widely used approximation for the upper limit of normal is: for men, divide their age by two; for women, add ten to their age and divide by two. A 50-year-old man therefore has an upper normal of about 25 mm/h, while a 50-year-old woman's upper normal is about 30 mm/h. This is an approximation, and the reference range printed on your report is the more precise guide.",
+            "ESR also rises normally during pregnancy, during menstruation, and in people who are obese. Your doctor takes all these factors into account before interpreting the result. A borderline result, one that sits five to ten points above the reference upper limit in a person who feels well, does not usually require urgent investigation and may be managed with a repeat test in a few weeks."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Approximate normal upper limits for ESR in mm/h",
+            "head": ["Group", "Approximate upper normal limit"],
+            "rows": [
+              ["Men under 50", "Below 15 mm/h"],
+              ["Men over 50", "Below 20 mm/h"],
+              ["Women under 50", "Below 20 mm/h"],
+              ["Women over 50", "Below 30 mm/h"],
+              ["During pregnancy", "Rises normally and may double in the third trimester"]
+            ],
+            "source": "Brigden ML: Clinical utility of the erythrocyte sedimentation rate, American Family Physician, 1999",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/10524488/"
+          }
+        },
+        {
+          "h2": "Where does your ESR sit?",
+          "paras": [
+            "Once you know the normal range for your age and sex, you can compare your result. What matters is not just whether the result is above normal, but by how much. A result mildly above the reference range by five or ten points is a very different clinical situation from a result of 80 or 100 mm/h.",
+            "A dramatically elevated ESR above 100 mm/h is almost always caused by something that warrants investigation. The most common causes at this level are severe rheumatic disease, malignancy and serious infection including tuberculosis. A result this high without a known cause should prompt the doctor to investigate without delay.",
+            "A borderline result, meaning a value just above the upper limit of normal, in a person who feels well and has no other concerning symptoms, may need only a repeat test in four to six weeks, combined with a CRP to see whether any active inflammation is detectable by a faster marker."
+          ],
+          "visual": {
+            "type": "range-scale",
+            "title": "ESR level in men under 50",
+            "label": "ESR",
+            "unit": "mm/h",
+            "min": 0,
+            "max": 120,
+            "zones": [
+              {"to": 15, "tone": "good", "label": "Normal"},
+              {"to": 40, "tone": "warn", "label": "Mild elevation"},
+              {"to": 100, "tone": "bad", "label": "Moderate elevation"},
+              {"to": 120, "tone": "bad", "label": "High elevation"}
+            ],
+            "source": "Brigden ML: Clinical utility of the ESR, American Family Physician, 1999",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/10524488/"
+          }
+        },
+        {
+          "h2": "Common causes of a raised ESR in this region",
+          "paras": [
+            "Tuberculosis is the single most important cause to exclude when ESR is raised in this part of the world. The WHO Global Tuberculosis Report 2023 notes that several countries in the region continue to carry a moderate to significant TB burden. Pulmonary tuberculosis produces a persistently raised ESR, typically accompanied by a chronic cough lasting more than three weeks, night sweats, weight loss and a low-grade fever. These symptoms alongside a raised ESR make TB investigation a priority before moving to other causes.",
+            "Brucellosis, known as Malta fever or undulant fever, is a bacterial infection common across the region, particularly in rural areas where cattle and sheep are kept and unpasteurised dairy products are consumed. Fresh local cheese and raw milk are the most frequent sources of infection in this setting. Brucellosis raises the ESR significantly and presents with a distinctive swinging fever, joint pains and profound fatigue. It can closely resemble tuberculosis in its early presentation.",
+            "Rheumatic diseases including rheumatoid arthritis, lupus and giant-cell arteritis produce a persistently raised ESR. Schmidt and Warrington, writing in Drugs and Aging in 2011, highlighted that a markedly elevated ESR is one of the key diagnostic criteria for giant-cell arteritis, which typically affects adults over 60 and can cause permanent vision loss if untreated. Any older adult with a new severe headache and ESR above 50 mm/h should be assessed urgently."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Important causes of raised ESR in the region",
+            "head": ["Cause", "Typical ESR level", "Key accompanying symptoms"],
+            "rows": [
+              ["Tuberculosis", "60 - 100+ mm/h", "Chronic cough, night sweats, weight loss, low fever"],
+              ["Brucellosis (Malta fever)", "40 - 80 mm/h", "Swinging fever, joint pain, heavy sweating"],
+              ["Rheumatoid arthritis", "30 - 80 mm/h", "Swollen, stiff joints, worst in the morning"],
+              ["Lupus", "40 - 100 mm/h", "Facial rash, joint pain, severe fatigue"],
+              ["Malignancy", "Often above 100 mm/h", "Unexplained weight loss, general weakness"]
+            ]
+          }
+        },
+        {
+          "h2": "ESR versus CRP: what is the difference and when is each used?",
+          "paras": [
+            "Doctors sometimes order ESR and CRP together, which is not redundant. Each test has a different time profile that makes it useful in different circumstances.",
+            "CRP rises fast, starting within six hours of the start of inflammation, and it falls quickly, within days of the cause resolving. ESR is much slower: it takes days to rise and can remain elevated for weeks even after the infection has cleared. This makes CRP better for diagnosing acute infections and monitoring short-term treatment response, while ESR is more useful in chronic inflammatory diseases and long-term monitoring.",
+            "A study by Osei-Bimpong and colleagues published in Hematology in 2007 concluded that CRP is more sensitive and specific for diagnosing acute infection than ESR, but that ESR remains useful in chronic disease monitoring and in situations where CRP is normal despite ongoing low-level inflammation."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "ESR versus CRP: a comparison",
+            "head": ["Feature", "ESR", "CRP"],
+            "rows": [
+              ["Speed of rise with inflammation", "Days", "Hours (6-24 hours)"],
+              ["Speed of fall when inflammation resolves", "Weeks", "Days"],
+              ["Better for acute infection diagnosis", "No", "Yes"],
+              ["Better for chronic disease monitoring", "Yes", "Yes, but ESR complements it"],
+              ["Affected by age and sex", "Yes, rises with age", "Minimal effect"],
+              ["Cost and availability", "Inexpensive, widely available", "Inexpensive, widely available"]
+            ]
+          }
+        },
+        {
+          "h2": "When is a raised ESR not a sign of serious disease?",
+          "paras": [
+            "Not every elevated ESR signals a dangerous condition. It rises mildly in many benign situations: pregnancy, obesity, anaemia of any cause, older age and certain medications such as corticosteroids. It also remains elevated for weeks after a simple viral infection has fully resolved, which is a normal consequence of the test's slow time course.",
+            "Some people have a mildly elevated ESR chronically without any identifiable cause, which is described as unexplained elevation. If a thorough assessment finds nothing, the doctor typically monitors the situation periodically rather than investigating further. A reassuring sign in this situation is a normal CRP: a persistently normal CRP alongside a mildly raised ESR in a person who feels well suggests that no major active inflammation is present.",
+            "ESR is most useful as a pointer that something may be worth investigating, not as a verdict in itself. The clinical picture, symptoms and other tests always carry more weight than the number alone."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "warn",
+            "title": "Causes of a mildly raised ESR that are not dangerous",
+            "items": [
+              "Pregnancy, especially in the second and third trimesters",
+              "Anaemia of any cause accelerates sedimentation",
+              "Obesity and excess body weight",
+              "Normal ageing in people over fifty",
+              "Residual elevation for weeks after a viral illness"
+            ]
+          }
+        },
+        {
+          "h2": "What happens after a raised ESR is found?",
+          "paras": [
+            "When a doctor finds a raised ESR, they connect it to the full clinical picture: what are your symptoms, how long have they lasted, what is your medical and family history, have you lost weight, do you have a fever, have you been exposed to unpasteurised food or animals, and are you taking any medication that affects the result? These questions direct the investigation far more than the number alone.",
+            "Additional tests typically requested alongside a raised ESR include CRP for comparison, a full blood count to look for anaemia and signs of infection, liver and kidney function tests, and specific tests for tuberculosis such as an IGRA test or sputum microscopy if TB is suspected. A chest X-ray is often requested at the same time.",
+            "A mildly raised ESR without symptoms in an otherwise healthy young adult may be managed with a repeat test in one to two months. A value above 50 mm/h with accompanying symptoms warrants faster investigation."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "See your doctor promptly if a raised ESR comes with",
+            "items": [
+              "Persistent or recurring fever lasting more than two weeks",
+              "Unintentional weight loss of more than 5 percent over two months",
+              "A cough lasting more than three weeks, especially with night sweats",
+              "Swollen joints or a new severe headache in someone over sixty",
+              "ESR above 100 mm/h at any age"
+            ]
+          }
+        },
+        {
+          "h2": "How much does the ESR test cost and where is it available?",
+          "paras": [
+            "ESR is one of the least expensive tests available in the region. In Syria, Iraq, Egypt, Jordan and Saudi Arabia it is performed at virtually every private and public laboratory at a low fixed cost, and results are typically available within hours on the same day. The test requires no specialist equipment, which means it is accessible even in small district hospitals and rural clinics.",
+            "Because of its simplicity it is often requested as part of a standard panel alongside CBC, CRP and basic chemistry tests. If your budget is limited and your doctor has requested both ESR and CRP, know that both are inexpensive by regional standards, and running them together provides information that neither test alone can supply.",
+            "For long-term monitoring in conditions such as rheumatoid arthritis or during TB treatment, ESR is usually repeated every one to three months. Keeping copies of your past results is important because your doctor needs to see the trend over time rather than a single isolated number. A falling ESR is usually the clearest sign that treatment is working."
+          ]
+        }
+      ],
+      "tie": "The Sihtak app lets you store ESR results with dates and track whether the value is falling over time, which is particularly useful in chronic conditions such as rheumatoid arthritis where ESR helps gauge disease activity between medical appointments.",
+      "faqs": [
+        {
+          "q": "What is the difference between ESR and CRP, and which is better?",
+          "a": "Each has its role. CRP rises and falls quickly and is better for diagnosing acute infections and monitoring short-term treatment. ESR is slower and more useful for chronic inflammatory diseases and long-term follow-up. Doctors often order both because they complement each other."
+        },
+        {
+          "q": "My ESR is normal but I have ongoing pain. Does that mean I am well?",
+          "a": "A normal ESR does not rule out all diseases. Some early rheumatic conditions and certain types of inflammatory arthritis can produce a normal ESR. Your symptoms matter independently of the number, and they deserve a clinical assessment in their own right."
+        },
+        {
+          "q": "Why does my ESR stay raised even after I have recovered?",
+          "a": "This is normal. ESR is much slower to fall than CRP. After an infection, ESR can remain elevated for several weeks even after you have fully recovered. Your doctor accounts for this when interpreting results and does not automatically treat a persistently elevated ESR after illness as a sign that the infection is continuing."
+        },
+        {
+          "q": "Do I need to fast before an ESR test?",
+          "a": "No, ESR does not require fasting and can be done at any time of day. Eating and drinking do not affect the result."
+        },
+        {
+          "q": "My ESR is 70 mm/h and I am pregnant. Is that dangerous?",
+          "a": "ESR rises naturally during pregnancy and can reach 70 mm/h or higher in the third trimester with no disease present. Your doctor will interpret this result in the context of your symptoms and the stage of your pregnancy, not by comparing it to normal ranges for non-pregnant women."
+        },
+        {
+          "q": "Which medications affect ESR?",
+          "a": "Corticosteroids lower ESR. Aspirin and ibuprofen can also reduce it. Some disease-modifying drugs used in rheumatoid arthritis such as methotrexate may affect the result. Always tell your doctor about all medications you are taking when the test is ordered."
+        },
+        {
+          "q": "Does a high ESR mean I have tuberculosis?",
+          "a": "No, a raised ESR means there is inflammation somewhere, and its causes are numerous. Tuberculosis is an important cause to exclude in this region, especially if you have a chronic cough, night sweats and weight loss, but a raised ESR alone is not sufficient to diagnose TB. Your doctor will use specific tests including an IGRA blood test or a chest X-ray to investigate."
+        }
+      ]
+    }
+  }
+}

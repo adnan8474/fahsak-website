@@ -1,0 +1,365 @@
+{
+  "slug": "traditional-bone-setting-risks",
+  "category": "traditional-medicine",
+  "chip_ar": "الطب التقليدي",
+  "chip_en": "Traditional Medicine",
+  "date_iso": "2026-07-14",
+  "sources": [
+    {
+      "label": "Garikapati V, Konadu-Yeboah D, Mengesha MG et al: Systematic review of complications associated with treatment by traditional bone setters for musculoskeletal injury, Tropical doctor, 2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36062723/"
+    },
+    {
+      "label": "Odatuwa-Omagbemi DO, Adiki TO, Elachi CI et al: Complications of traditional bone setters (TBS) treatment of musculoskeletal injuries: experience in a private setting in Warri, South-South Nigeria, The Pan African medical journal, 2018",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30455818/"
+    },
+    {
+      "label": "Dada A, Giwa SO, Yinusa W et al: Complications of treatment of musculoskeletal injuries by bone setters, West African journal of medicine, 2009",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19662745/"
+    },
+    {
+      "label": "Bickler SW, Sanno-Duanda B: Bone setter's gangrene, Journal of pediatric surgery, 2000",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11051143/"
+    },
+    {
+      "label": "Machaku D, Lodhia J, Nangole A et al: Loss of a limb: A consequence of traditional bone setting, International journal of surgery case reports, 2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40168878/"
+    },
+    {
+      "label": "Eze KC: Complications and co-morbidities in radiographs of patients in traditional bone setters' homes in Ogwa, Edo State, Nigeria: a community-based study, European journal of radiology, 2012",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21733651/"
+    }
+  ],
+  "content": {
+    "ar": {
+      "title": "مجبّر العظام التقليدي: مخاطر تستحق المعرفة",
+      "desc": "ما الذي يحدث فعلاً حين تذهب إلى مجبّر تقليدي بعد كسر أو التواء؟ مضاعفات موثّقة، وعلامات تحذيرية يجب ألا تتجاهلها، ومتى تتوجه فوراً إلى الطوارئ.",
+      "keywords": "مجبّر العظام, تجبير تقليدي, مضاعفات الكسر, غرغرينا, متلازمة المقصورة, سوء التئام العظام, كسور الأطراف, العلاج التقليدي, علاج الكسور",
+      "h1": "مجبّر العظام التقليدي: ما قد يحدث لعظامك وكيف تحمي نفسك",
+      "takeaways": [
+        "التجبير التقليدي قد يُخفّف الألم في البداية لكنه لا يُصحح الكسر، وبعض حالاته تنتهي بالبتر أو إعاقة دائمة.",
+        "أخطر ما يسببه التجبير الضيق هو متلازمة المقصورة (compartment syndrome)، وهي حالة طوارئ تستوجب الجراحة خلال ساعات.",
+        "الالتواء قد يكون كسراً غير مكتمل في الواقع، والإطار الجبسي التقليدي لن يكشف ذلك كما تفعل الأشعة السينية.",
+        "إذا شعرت بألم شديد ينبض، أو تنميل، أو تغيّر لون الطرف بعد أي تجبير، سواء تقليدي أو طبي، فهذه طوارئ.",
+        "اللجوء إلى المجبّر غالباً ما يعني تأخير العلاج الصحيح، وكل يوم تأخير قد يُضيّف مضاعفة جديدة."
+      ],
+      "sections": [
+        {
+          "h2": "لماذا يلجأ الناس إلى المجبّر؟",
+          "paras": [
+            "في كثير من المناطق العربية والأفريقية والآسيوية، يُعدّ المجبّر التقليدي الخيار الأول بعد كسر أو التواء. الأسباب مفهومة ومتعددة: التكلفة المنخفضة مقارنة بالمستشفى، القرب الجغرافي في الريف والمناطق النائية، الثقة التي تراكمت عبر أجيال في شخصية المجبّر الذي ربما عالج أفراداً من العائلة من قبل، والاعتقاد بأن الألم سيزول بعد التجبير مباشرة. في بعض أرياف سوريا والعراق واليمن والمناطق المتضررة من النزاعات المسلحة، قد لا يكون المستشفى القريب متاحاً أصلاً أو تكون التكلفة خارج حدود ما يستطيع الناس تحمله.",
+            "هذا السياق حقيقي ومهم وينبغي أن يُراعى. المجبّرون التقليديون نجحوا في حالات بسيطة عبر سنوات طويلة، وبنوا سمعتهم على تلك الحالات التي رجع أصحابها يمشون بأقدامهم. المشكلة الجوهرية أن الكسر البسيط الذي يلتئم بشكل ذاتي يبدو مطابقاً من الخارج للكسر المعقد الذي يحتاج تحديداً دقيقاً للوضع ومراقبة الأوعية والأعصاب والتحقق الإشعاعي، ولا توجد أشعة سينية تكشف الفرق على الإطلاق.",
+            "الغاية من هذا المقال ليست إدانة ممارسة متجذّرة في المجتمعات العربية بل تسليط الضوء على المضاعفات الموثّقة طبياً في أدبيات عالمية محكّمة، كي تعرف متى يكون التجبير التقليدي محفوفاً بخطر حقيقي ومتى تتخذ قرار البحث عن بديل، قبل أن تظهر المضاعفة لا بعدها."
+          ]
+        },
+        {
+          "h2": "ما الذي يفعله المجبّر بالفعل؟",
+          "paras": [
+            "يعتمد معظم المجبّرين التقليديين على ثلاث خطوات: الجسّ بالأيدي لتحديد موضع الكسر، ثم إعادة المحاذاة بالضغط والسحب، ثم التثبيت بقطع خشبية أو جرائد أو قماش أو جبس منزلي محاط بضمادات. الفرق الجوهري عن العلاج الطبي هو غياب الأشعة السينية قبل التجبير وبعده، وغياب مراقبة الدورة الدموية في الطرف المصاب.",
+            "التجبير الضيق هو أكثر أسباب المضاعفات شيوعاً. حين يتورم الطرف داخل جبيرة لا تتمدد، يرتفع الضغط على الأوعية والأعصاب. إذا استمر هذا الضغط لساعات دون تدخل، يبدأ الأنسجة بالموت. هذه هي متلازمة المقصورة (compartment syndrome)، وهي حالة جراحية طارئة.",
+            "إضافة إلى ذلك، قد يُثبَّت الكسر في وضع خاطئ من البداية. الجبس المنزلي الصلب يُبقي العظم في الوضع غير الصحيح طوال فترة الالتئام، فينتج عنه التئام سيء (malunion) يُقصّر الطرف أو يُعوّجه ويحتاج إلى جراحة تصحيحية."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "ما يحدث حين يُضغط الجبس على طرف متورم",
+            "items": [
+              "تتورم الأنسجة بعد الإصابة داخل الجبيرة الضيقة",
+              "يرتفع الضغط على الأعصاب والأوعية الدموية",
+              "تضعف الدورة الدموية في أطراف الأصابع",
+              "يبدأ الألم الشديد والتنميل وتغيّر اللون",
+              "إذا لم يُفتح الجبس خلال ساعات: موت الأنسجة أو غرغرينا"
+            ]
+          }
+        },
+        {
+          "h2": "المضاعفات الموثّقة طبياً",
+          "paras": [
+            "المراجعة المنهجية التي نشرتها مجلة Tropical Doctor عام 2023 وشملت دراسات من دول نامية متعددة، وجدت أن التجبير التقليدي مسؤول عن حالات غرغرينا، وقطع الأطراف، والتئام سيء للعظام، وتضيّق الأوعية، وعدوى عميقة. دراسة عام 2018 في نيجيريا وثّقت أن حوالي ثلثي حالات المضاعفات التي يصلها المستشفى كانت آتية من مجبّرين تقليديين.",
+            "الغرغرينا (gangrene) هي الصورة الأشد قسوة. تنتج عن انقطاع الدم عن الأنسجة إما بسبب ضغط الجبس الضيق أو بسبب تمزّق أو ضغط على وعاء دموي رئيسي أُهمل. حين تصل الحالة إلى الغرغرينا، يصبح البتر في أحيان كثيرة هو الخيار الوحيد لإنقاذ الحياة. دراسة نشرها مجلة Journal of Pediatric Surgery عام 2000 وصفت حالات أطفال فقدوا أطرافهم بعد تجبير تقليدي.",
+            "أما الالتئام السيء (malunion)، فقد يبدو في البداية وكأن العظم شُفي، لكنه شُفي في وضع مائل أو قصير. التشوّه قد يكون مخفياً في البداية ثم يظهر عند محاولة استخدام الطرف بشكل كامل. تصحيحه لاحقاً يستلزم كسر العظم مرة ثانية جراحياً وإعادة محاذاته، وهي عملية أصعب بكثير مما لو عولج الكسر الأصلي صحيحاً."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "أبرز مضاعفات التجبير التقليدي",
+            "head": ["المضاعفة", "السبب المباشر", "النتيجة المحتملة"],
+            "rows": [
+              ["متلازمة المقصورة", "جبس ضيق على طرف متورم", "موت الأنسجة، حاجة لفتح جراحي عاجل"],
+              ["غرغرينا", "انقطاع الدم عن الطرف", "بتر الطرف في حالات متقدمة"],
+              ["التئام سيء", "تثبيت العظم في وضع خاطئ", "تشوه دائم، ضعف وظيفي في الطرف"],
+              ["عدوى عميقة", "جروح مفتوحة أو عظام مكشوفة", "التهاب العظم (osteomyelitis)"],
+              ["تأخر اكتشاف الكسور المعقدة", "غياب الأشعة", "الحاجة إلى جراحة لم تكن ضرورية مبكراً"]
+            ]
+          }
+        },
+        {
+          "h2": "متلازمة المقصورة: الطوارئ التي لا تنتظر",
+          "paras": [
+            "متلازمة المقصورة (compartment syndrome) تستحق فقرة خاصة لأنها الأكثر مفاجأة والأشد خطورة. الأنسجة الرخوة في الجسم منظّمة في أقسام تسمى المقصورات (compartments)، تحيط بها أغشية صلبة. حين يتورم العضل أو يتجمع فيه الدم بسبب كسر أو رض، يرتفع الضغط داخل هذا القسم المغلق.",
+            "إذا تجاوز الضغط معيّناً، توقف الأوعية الصغيرة عن ضخ الدم إلى الأعصاب والعضلات. خلال أربع إلى ست ساعات تبدأ الأنسجة بالموت بشكل لا رجعة فيه. العلاج الوحيد هو شق جراحي طارئ يُسمى بضع اللفافة (fasciotomy) يُخفّف الضغط فوراً.",
+            "التجبير الضيق يزيد خطر هذه المتلازمة بشكل كبير. الطرف يتورم بشكل طبيعي بعد الكسر، فإذا وجد مقاومة من الخارج (جبس أو ضمادات شديدة الإحكام)، تضاعف الضغط. الخطر أن الألم الذي تشعر به قد يُفسَّر خطأً على أنه ألم الكسر العادي."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "إذا ظهرت هذه العلامات بعد أي تجبير، فهذه طوارئ",
+            "items": [
+              "ألم شديد جداً لا يخف حتى مع مسكّنات، ويزداد مع تحريك الأصابع",
+              "تنميل أو وخز أو فقدان الإحساس في أطراف الأصابع",
+              "تغيّر لون الأصابع إلى شحوب شديد أو لون مزرق",
+              "برودة الأصابع مقارنة بالطرف السليم",
+              "توقف النبض في رأس الطرف عند الجس",
+              "انتفاخ متصاعد وتوتر شديد في المنطقة المُجبَّسة"
+            ]
+          }
+        },
+        {
+          "h2": "الحالات التي يُفاقمها التجبير التقليدي بالذات",
+          "paras": [
+            "ليس كل إصابة يساوي خطرها عند التجبير التقليدي. الكسور المفتوحة، حيث يخترق العظم الجلد أو توجد جروح قريبة منه، تحتاج إلى تنظيف جراحي دقيق لمنع التهاب العظم (osteomyelitis)، وأي تغطية غير معقمة تُحبس بداخلها البكتيريا وتُشكّل بيئة مثالية للعدوى. التجبير التقليدي في هذه الحالة بالذات يُحوّل كسراً معالجاً في المستشفى في أربع وعشرين ساعة إلى عدوى عظمية مستعصية تحتاج أشهراً من المضادات الحيوية وأحياناً تدخلات جراحية متكررة.",
+            "كذلك الكسور القريبة من المفاصل، وخاصة في منطقة الكاحل والرسغ والكوع، تنطوي في كثير من الأحيان على تلف في الأربطة الداعمة للمفصل أو في الغضروف يحتاج تقييماً دقيقاً. التثبيت في وضع خاطئ يمنع المفصل لاحقاً من التحرك بشكل كامل ويتسبب في صلابة مزمنة، ومن لا يستطيع أن يثني كوعه بشكل كامل بعد كسر فيه يعرف أي ثمن يدفع لسنوات.",
+            "الأطفال فئة خاصة، لأن عظامهم لا تزال في طور النمو، وتحتوي على مناطق نمو نشطة في نهايات العظام. كسر في لوحة النمو (growth plate) إذا لم يُعالَج بالدقة المطلوبة قد يُوقف نمو العظم من ذلك الجانب ويتسبب في تشوّه تدريجي أو فارق في طول الطرفين مع الوقت، وهو ما يتطلب جراحة تصحيحية معقدة لاحقاً."
+          ]
+        },
+        {
+          "h2": "لماذا لا تكفي حدّة الألم مؤشراً للخطر؟",
+          "paras": [
+            "قد يبدأ بعض المرضى بشعور بالارتياح بعد التجبير التقليدي، وهذا لا يعني أن كل شيء على ما يرام. الألم الأولي قد يخفّ بسبب الضغط ذاته أو بسبب أن الوضع المائل للعظم لا يشدّ الأعصاب مؤقتاً. بعد ساعات، حين يزداد التورم أو يبدأ ضغط المقصورة، يعود الألم بشكل مختلف، أشد ونابض وغير استجابة للمسكنات.",
+            "العكس أيضاً صحيح: بعض كسور لوحة النمو عند الأطفال لا تسبب ألماً شديداً لأن الطرف لا يزال مرناً. الطفل قد يكون قادراً على تحريك يده مع كسر فيها. الشخص البالغ المصاب بكسر في الكاحل قد يتمكن من الوقوف لحظات مع الكسر نفسه. وهنا يأتي خطر الاعتماد على الألم وحده كمؤشر للخطر من عدمه.",
+            "الأشعة السينية ليست ترفاً. هي الطريقة الوحيدة الموثوقة لمعرفة طبيعة الكسر وموضعه واتجاهه ودرجة إزاحته قبل اتخاذ أي قرار علاجي. التشخيص الخاطئ لا يقي من المضاعفة، بل يحمي وهم الأمان فقط."
+          ]
+        },
+        {
+          "h2": "ماذا تفعل إذا لجأت أو لجأ أحد أفراد عائلتك إلى المجبّر؟",
+          "paras": [
+            "إذا جرى التجبير بالفعل، فلا تنتظر حتى الغد. اطلب الذهاب إلى أقرب مستشفى أو مركز صحي للحصول على أشعة سينية تُؤكد أن الوضع مقبول. هذه لحظة لا حرج فيها في التراجع، والطبيب لن يُعاتبك على أنك ذهبت أولاً للمجبّر. ما يهمه هو حالتك الآن.",
+            "في الطريق إلى المستشفى أو في انتظار الوصول، راقب باستمرار لون الأصابع ودرجة حرارتها وإحساسها. اطلب من المريض أن يحرّك أصابعه بلطف كل بضع دقائق إذا استطاع ولم يكن ذلك مؤلماً جداً. إذا ظهر تنميل أو تغيّر في اللون، فهذا توجيه فوري للطوارئ وليس إلى العيادة.",
+            "إذا كان التجبير التقليدي قد جرى منذ أيام ولا يظهر تحسن واضح أو يبدو الطرف في وضع غير طبيعي، فاستشر طبيباً في أسرع وقت. كلما طال الوقت على التئام سيء، كلما صعب تصحيحه. الفرصة المثلى للتصحيح في الأسابيع الأولى قبل أن يكتمل الالتئام ويصلب العظم في مكانه الخاطئ."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "ما تفعله فور الخروج من عند المجبّر",
+            "items": [
+              "تأكد أن الجبس أو الضمادات لا تضغط بقوة على الطرف",
+              "راقب لون ودفء أصابع الطرف المصاب كل ساعة",
+              "إذا كان المريض طفلاً، ابحث عن أشعة سينية في أقرب وقت",
+              "لا تُحكم الضمادات أكثر إذا ازداد الألم، افككها قليلاً",
+              "إذا ظهرت أي علامة تحذيرية (انظر أعلاه)، توجّه للطوارئ فوراً"
+            ]
+          }
+        },
+        {
+          "h2": "ما الذي يقدمه المستشفى وهل يستحق الجهد؟",
+          "paras": [
+            "العلاج الطبي لكسر العظام يبدأ بالأشعة السينية لتحديد نوع الكسر ومكانه ودرجة إزاحته. بناء على ذلك، قد يكفي جبس طبي مُنقّح يُتيح تمدد الطرف حال تورمه ثم يُشقّ من الجانب إذا لزم الأمر، أو قد يحتاج الكسر إلى تثبيت بشرائح معدنية إذا كان في مكان حساس أو مُزاح. في كلتا الحالتين، تُراقَب الأوعية والأعصاب بعد التثبيت مباشرة.",
+            "في حالات الالتواء، تُستخدم الأشعة للتفريق بين التواء بسيط وكسر دقيق. كثير مما يبدو التواءً عادياً هو في الواقع كسر في رأس العظم أو قرب المفصل لا يُرى بالعين المجردة ويُكشف بالأشعة. كسر كاحل صغير إذا أُهمل تحوّل إلى التهاب مفصل مزمن بعد سنوات.",
+            "الجهد يستحق دائماً حين يكون الطرف المصاب هو الذي تعمل به أو يمشي عليه أحد أفراد عائلتك. الكسر الذي يلتئم جيداً يُعيد الحياة إلى ما كانت عليه بعد أسابيع معدودة. الكسر الذي يلتئم بشكل سيء يُصاحب الإنسان لعقود بألم مزمن أو تشوه أو ضعف وظيفي."
+          ]
+        },
+        {
+          "h2": "العلامات التحذيرية في الأيام التالية للتجبير",
+          "paras": [
+            "سواء كان التجبير تقليدياً أو طبياً، هناك علامات يجب الانتباه لها في الأيام الأولى. الألم الذي يزداد بدلاً من أن يتحسن تدريجياً إشارة تحذير. الحرارة أو الحمرة المتمددة خارج منطقة الإصابة قد تعني عدوى. الحمى مع ألم شديد في الطرف تستوجب التقييم الطبي السريع، خاصة إذا كانت الإصابة في منطقة مفصل كبير.",
+            "الرائحة النتنة من تحت الجبس أو أي إفراز يظهر من أطرافه يعني على الأرجح بداية عدوى. في هذه الحالة لا تنتظر موعداً، اذهب للطوارئ مباشرة. حتى جبس طبي يصير مشكلة إذا ابتلّ أو تشقق أو أصبح فضفاضاً وفقد وظيفته في التثبيت، ويحتاج إلى استبدال لا مجرد ترقيع.",
+            "المبدأ الذي يظل ثابتاً في كل هذه الحالات هو أن كسراً عولج بشكل صحيح يُعيد الشخص إلى حياته الكاملة. وكسر عولج بشكل سيء يُلازمه قصوراً لعقود. الوقت الذي يُستثمر في أشعة واحدة وجبس صحيح يستحق دائماً كل ما يتطلبه من جهد ومال وتنقل."
+          ]
+        }
+      ],
+      "tie": "تطبيق صحتك يساعدك على تتبع مواعيد مراجعة الطرف المصاب وتسجيل الأعراض يوماً بيوم، حتى تُقدّم لطبيبك صورة واضحة عن مسار التعافي ولا تُفوّت أي تحوّل يستدعي التقييم.",
+      "faqs": [
+        {
+          "q": "هل الالتواء يحتاج أشعة سينية أم يكفي الراحة؟",
+          "a": "كثير من الالتواءات البسيطة تُحسمها الراحة وثلج مُغلّف. لكن إذا كان الألم شديداً أو كنت غير قادر على حمل وزنك على الطرف أو ظهر تورم سريع وكبير، فالأشعة السينية مهمة لاستبعاد كسر دقيق قد يبدو التواءً. القاعدة التي يستخدمها الأطباء هي أنك إن لم تستطع أن تمشي أربع خطوات مباشرة بعد الإصابة، فالأشعة واجبة."
+        },
+        {
+          "q": "ماذا أفعل إذا كانت المنطقة النائية ولا يوجد مستشفى قريب؟",
+          "a": "في حالة الضرورة القصوى، يُمكن تثبيت الطرف بضمادة ناعمة ومنع الحمل عليه حتى يُمكن الوصول لمرفق طبي. الأهم هو مراقبة لون الأصابع ودفئها وإحساسها كل ساعة. أي تدهور في هذه العلامات يوجب المحاولة بكل الوسائل للوصول للرعاية الطبية، لأن تأخير ست ساعات قد يُحوّل الحالة من قابلة للعلاج إلى بتر."
+        },
+        {
+          "q": "هل يمكن تصحيح كسر الذي التأم بشكل سيء؟",
+          "a": "نعم، لكن الوقت عامل حاسم. في الأسابيع الأولى لا يزال الكسر في طور الالتئام وقد يمكن إعادة توجيهه. بعد أشهر قليلة، يصبح التصحيح أصعب ويحتاج في الغالب جراحة لكسر العظم ثانية وتثبيته بشرائح. بعد اكتمال الالتئام الكامل، قد تكون الجراحة التصحيحية معقدة جداً."
+        },
+        {
+          "q": "هل هناك حالات يمكن للمجبّر فيها أن يُفيد؟",
+          "a": "يُقرّ بعض الباحثين بأن المجبّرين ذوي الخبرة قد يُديرون بعض الحالات البسيطة من دون مضاعفات في مجتمعات بعيدة عن الرعاية الطبية. لكن المشكلة الأساسية تبقى: بدون أشعة سينية لا يوجد ضمان بأن ما يبدو بسيطاً هو فعلاً كذلك، وبدون مراقبة موضوعية للأوعية والأعصاب لا يوجد إنذار مبكر قبل المضاعفة."
+        },
+        {
+          "q": "ما فترة الإدخال الطبي الطبيعية لكسر في الساق أو الذراع؟",
+          "a": "الكسور البسيطة في عظام الساق أو الساعد لا تستدعي دخول المستشفى في الغالب، وتُعالَج في الطوارئ ثم تُتابع في العيادة. الكسور المعقدة أو التي تحتاج جراحة تستلزم أياماً معدودة. المتابعة بالأشعة تحدث عادة بعد أسبوعين وأسبوعين ثانيين وأربعة أسابيع للتأكد من صحة الالتئام."
+        },
+        {
+          "q": "هل الجبس الطبي دائماً أفضل من التجبير التقليدي؟",
+          "a": "الجبس الطبي يتميز بالتصنيع المعياري وإمكانية التعديل وتوافر الأشعة قبله وبعده ومراقبة الطرف الدورية. التجبير التقليدي يفتقر لكل هذه العناصر. الفارق الجوهري ليس المادة بل البيئة التشخيصية والمراقبة المحيطة به."
+        },
+        {
+          "q": "هل يمكن أن يصاب الطفل الصغير بمتلازمة المقصورة؟",
+          "a": "نعم، والأطفال عرضة لها كالبالغين. الأطفال قد لا يستطيعون وصف الألم بدقة أو يخافون من إزعاج ذويهم. راقب البكاء الشديد غير الاعتيادي، ورفض تحريك الطرف، وتغيّر لون الأطراف. أي شك يوجب الذهاب فوراً للطوارئ."
+        }
+      ]
+    },
+    "en": {
+      "title": "Traditional bone setting: injuries it causes",
+      "desc": "What really happens when a fracture is treated by a traditional bone setter? Documented complications, warning signs to watch for, and when to go straight to hospital.",
+      "keywords": "traditional bone setter, bone setting complications, compartment syndrome, malunion, gangrene, fracture treatment, traditional medicine risks, bone setter gangrene",
+      "h1": "Traditional bone setting: the injuries it causes and when to seek hospital care",
+      "takeaways": [
+        "Traditional bone setting may relieve pain initially but cannot correct a fracture properly, and some cases end in amputation or permanent disability.",
+        "The most dangerous complication of tight splinting is compartment syndrome, a surgical emergency requiring treatment within hours.",
+        "A sprain may actually be an incomplete fracture, which no traditional splint can detect without an X-ray.",
+        "Pain, numbness, or colour change in a limb after any splinting, traditional or medical, means go to emergency immediately.",
+        "Delays caused by traditional treatment make eventual surgical correction harder and riskier."
+      ],
+      "sections": [
+        {
+          "h2": "Why people choose traditional bone setters",
+          "paras": [
+            "Across many parts of the Arab world, sub-Saharan Africa, and South Asia, the traditional bone setter is often the first person a family turns to after a fracture or a sprain. The reasons are real: lower cost, closer proximity, decades of accumulated community trust, and the belief that pain will ease once the bone is held in place. In rural parts of Syria, Iraq, Yemen, and areas affected by conflict, a functioning hospital may simply not be reachable.",
+            "This context matters. Bone setters have managed straightforward cases without visible harm, and that track record is the source of their reputation. The core problem is that a simple fracture that heals on its own looks identical to a complex one that needs precise reduction and monitoring of blood vessels and nerves. Without an X-ray, there is no way to tell.",
+            "This article is not a condemnation of a deeply rooted practice. It is an account of the documented medical complications, so that you know when traditional splinting carries real danger and when the safer path is elsewhere."
+          ]
+        },
+        {
+          "h2": "What a bone setter actually does",
+          "paras": [
+            "Most traditional bone setters follow three steps: palpating the limb to find the break, applying traction and pressure to realign it, and then fixing it in place with wooden sticks, rolled newspaper, cloth, or homemade plaster wrapped in bandaging. The critical difference from medical treatment is the absence of X-rays before and after, and the absence of any objective monitoring of circulation in the injured limb.",
+            "Tight splinting is the most common source of complications. When a limb swells inside an inelastic cast, pressure rises against the blood vessels and nerves inside. If that pressure persists for hours without relief, tissue begins to die. This is compartment syndrome, a condition that requires emergency surgery to resolve.",
+            "Beyond that, the bone may be fixed in the wrong position from the start. A rigid homemade cast keeps the fracture in that incorrect alignment throughout healing, producing malunion. The limb may appear healed but be shortened, angulated, or both. Correcting it later means breaking it again surgically under general anaesthetic, a harder operation than treating the original fracture correctly."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "What happens when a tight cast meets a swelling limb",
+            "items": [
+              "Tissue swells naturally after a fracture, inside a cast that cannot expand",
+              "Pressure rises against nerves and blood vessels",
+              "Blood flow to the fingers or toes weakens",
+              "Severe pain, tingling, and colour change begin",
+              "Without release within hours: tissue death or gangrene"
+            ]
+          }
+        },
+        {
+          "h2": "Documented medical complications",
+          "paras": [
+            "A 2023 systematic review published in Tropical Doctor, covering studies from multiple low- and middle-income countries, found that traditional bone setting is associated with gangrene, limb amputation, malunion, vascular compromise, and deep infection. A 2018 study from Nigeria found that roughly two thirds of the complication cases arriving at hospital had come from traditional bone setters.",
+            "Gangrene is the most severe outcome. It results from complete loss of blood supply to tissue, caused either by a tight cast or by an unrecognised vascular injury. By the time gangrene is established, amputation is often the only life-saving option. A paper published in the Journal of Pediatric Surgery in 2000 documented children who lost limbs following traditional splinting.",
+            "Malunion can be deceptive. The limb feels better, swelling settles, and the patient returns to daily life, then notices that the arm or leg does not straighten fully, or that one is shorter than the other. By that point the bone has solidified in the wrong shape. Corrective surgery is substantially more complex than treatment of the original fracture would have been."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Main complications of traditional bone setting",
+            "head": ["Complication", "Direct cause", "Possible outcome"],
+            "rows": [
+              ["Compartment syndrome", "Tight splint on a swelling limb", "Tissue death, emergency surgical release needed"],
+              ["Gangrene", "Loss of blood supply to the limb", "Amputation in advanced cases"],
+              ["Malunion", "Bone fixed in wrong alignment", "Permanent deformity, loss of function"],
+              ["Deep infection", "Open wounds or exposed bone", "Osteomyelitis, prolonged treatment"],
+              ["Missed complex fractures", "No X-ray taken", "Surgery that could have been avoided early on"]
+            ]
+          }
+        },
+        {
+          "h2": "Compartment syndrome: the emergency that cannot wait",
+          "paras": [
+            "Compartment syndrome deserves its own section because it is both the most unexpected and the most dangerous complication. The soft tissues of the body are organised into enclosed compartments surrounded by tough fibrous sheaths. When a muscle swells or bleeds after a fracture, pressure builds inside that closed space.",
+            "When pressure exceeds a threshold, the small vessels that supply nerves and muscles shut down. Within four to six hours, tissue begins to die irreversibly. The only treatment is an emergency surgical incision called a fasciotomy, which instantly releases the pressure. Every hour of delay narrows the window for a full recovery.",
+            "Tight splinting substantially increases the risk of this syndrome. A limb that swells normally after fracture, finding resistance from an unyielding cast, will build higher compartment pressures than one that is free to expand. The difficulty is that the pain may initially be interpreted as expected fracture pain, delaying recognition."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "Go to emergency immediately if any of these appear after splinting",
+            "items": [
+              "Pain that is severe and worsening, not easing, and made worse by moving the fingers or toes",
+              "Numbness, tingling, or loss of feeling in the fingers or toes",
+              "Fingers or toes turning pale, blue, or dusky",
+              "Fingers or toes feeling cold compared with the unaffected limb",
+              "Pulse absent or weak at the tip of the limb",
+              "Tight, hard swelling spreading beyond the splinted area"
+            ]
+          }
+        },
+        {
+          "h2": "Injuries that traditional setting makes significantly worse",
+          "paras": [
+            "Not every fracture carries equal risk under traditional management. Open fractures, where bone breaks through skin or deep wounds are present near the fracture, require thorough surgical cleaning to prevent osteomyelitis. Any non-sterile covering traps bacteria. A bone setter handling an open fracture converts a treatable injury into a potentially life-altering infection.",
+            "Fractures near joints, particularly the ankle, wrist, and elbow, frequently involve ligament damage or articular cartilage injury that requires precise assessment. Immobilising the joint in a poor position leads to stiffness or instability that restricts function for years.",
+            "Children are a specific risk group. Their bones are still growing, and fractures through growth plates need careful anatomical reduction. An improperly treated growth plate injury may cause one side of the bone to stop growing, leading to progressive deformity or a limb length difference as the child develops."
+          ]
+        },
+        {
+          "h2": "Why pain level alone is not a reliable guide to severity",
+          "paras": [
+            "Some patients feel genuine relief after traditional splinting. This is not confirmation that all is well. The initial pain may reduce because compression temporarily immobilises the site, or because the malpositioned bone happens not to stretch a nerve in that particular position. Hours later, as swelling builds or compartment pressure rises, the pain returns differently.",
+            "The reverse is also true. Growth plate fractures in children often produce surprisingly little pain because the bone is flexible. A child may be able to move an injured hand despite a fracture in the wrist. Pain is a poor diagnostic tool in this setting, which is exactly why clinicians use X-rays rather than pain scores to classify fractures.",
+            "An X-ray is not a luxury. It is the only reliable way to know the type, site, and direction of a fracture before deciding on treatment. Treating without one is making a clinical decision with the most critical information missing."
+          ]
+        },
+        {
+          "h2": "What to do if traditional setting has already happened",
+          "paras": [
+            "If splinting has already taken place, do not wait until the next day. Seek an X-ray at the nearest clinic or emergency department to confirm the position is acceptable. There is no embarrassment in reversing the decision. A doctor will not judge you for it.",
+            "On the way to hospital or while waiting, check the colour, warmth, and sensation of the fingers or toes every few minutes. Ask the patient to gently move their fingertips if they are able. Any deterioration means hurrying.",
+            "If traditional splinting happened days ago and there is no improvement, or if the limb looks deformed, see a doctor as soon as possible. The window for the easiest correction is the first few weeks, before consolidation is complete. Beyond that, surgical correction becomes progressively more complex."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "Steps to take immediately after leaving a bone setter",
+            "items": [
+              "Check that the splint or bandage is not pressing tightly into the limb",
+              "Monitor colour, warmth, and sensation of the fingers or toes every hour",
+              "If the patient is a child, arrange an X-ray as soon as possible",
+              "Do not tighten the wrapping further if pain increases; loosen it slightly",
+              "If any warning sign appears (see above), go straight to emergency"
+            ]
+          }
+        },
+        {
+          "h2": "Warning signs in the days following any splinting",
+          "paras": [
+            "Whether splinting was traditional or medical, certain signs in the first days warrant attention. Pain that increases rather than gradually easing is a warning. Heat or redness spreading beyond the injury site may mean infection. Fever with severe limb pain needs prompt medical assessment, particularly if the fracture is near a large joint.",
+            "Any smell from under the cast, or any discharge appearing at the edges, suggests infection developing. Do not wait for an appointment; go directly to an emergency department. Even medical plaster becomes a problem if it becomes wet or cracked, or if it loosens and loses its function as a support. A wet cast needs replacement, not patching.",
+            "The principle throughout is the same: a fracture managed well returns a person to full function within weeks. A fracture managed badly leaves a limitation that follows them for decades, whether that is a shortened limb, a stiff joint, or persistent pain with cold weather. The time and cost invested in one X-ray and a proper cast is always worth it, and it is almost always less than the eventual cost of correcting what went wrong."
+          ]
+        },
+        {
+          "h2": "What medical fracture care actually looks like",
+          "paras": [
+            "Medical treatment of a fracture begins with X-rays to classify the break by its type, site, and degree of displacement. Based on that, a decision is made: a well-padded fibreglass or plaster cast that can be split or bivalved if swelling increases, or surgical fixation with plates and screws for fractures that are displaced or unstable. In both cases, blood supply to the limb is checked before and after, and follow-up imaging confirms that alignment has not shifted in the first two weeks.",
+            "Where swelling is expected to be significant, emergency departments often apply a backslab rather than a full circumferential cast in the first days. This is a half-cast held by bandaging that allows the limb to swell freely, after which a full cast is applied once swelling has peaked. This step alone eliminates most of the compartment syndrome risk from the treatment itself. A traditional rigid cast applied at the time of maximum swelling does the opposite.",
+            "This process sounds elaborate, but for most fractures in a functional health system it means one emergency visit, one cast, and two or three outpatient appointments over six weeks. The cost and time involved is modest compared with the cost of treating a malunion or a compartment syndrome later. Where health systems are strained, even partial versions of this pathway, an X-ray and a proper cast, provide substantially better outcomes than no imaging at all."
+          ]
+        }
+      ],
+      "tie": "The Sihtak app lets you log your recovery day by day, set reminders for follow-up X-rays, and keep a record of symptoms to share with your doctor at each review appointment.",
+      "faqs": [
+        {
+          "q": "Does a sprain need an X-ray or is rest enough?",
+          "a": "Most mild sprains resolve with rest, ice, and elevation. However, if pain is severe, you cannot bear weight on the limb, or swelling is rapid and significant, an X-ray matters because many apparent sprains are undisplaced fractures. The Ottawa rules, used by emergency physicians, say that if you cannot take four steps immediately after the injury, imaging is indicated."
+        },
+        {
+          "q": "What should I do if there is no hospital nearby?",
+          "a": "In genuine emergencies with no access to care, soft padding and prevention of weight bearing is safer than tight rigid splinting. The critical rule is to monitor finger or toe colour, warmth, and sensation every hour. Any deterioration means making every effort to reach medical care, because a six-hour delay can turn a treatable problem into an amputation."
+        },
+        {
+          "q": "Can malunion be corrected later?",
+          "a": "Yes, but timing matters. In the first weeks while the fracture is consolidating, correction may be possible without surgery. After a few months, correction usually requires surgically re-breaking the bone and fixing it with plates. After full consolidation, corrective osteotomy is a major operation with its own risks, longer recovery, and no guarantee of a perfect result."
+        },
+        {
+          "q": "Are there any fractures a bone setter can manage without serious risk?",
+          "a": "Some researchers acknowledge that experienced bone setters manage certain simple closed fractures without observable complication in communities remote from medical care. The fundamental problem remains: without an X-ray, there is no certainty that a fracture is simple rather than complex, and without objective circulatory monitoring, there is no early warning before a complication develops."
+        },
+        {
+          "q": "How long does a straightforward fracture take to heal?",
+          "a": "A simple closed fracture of a forearm bone typically consolidates in four to six weeks in an adult. Leg bones may take six to twelve weeks depending on the bone and its location. Growth plate fractures in children often heal faster. Healing is confirmed by X-ray, not by the absence of pain, because bone pain from fracture can ease before the bone is strong enough to bear load."
+        },
+        {
+          "q": "Can a child get compartment syndrome from traditional splinting?",
+          "a": "Yes, and children may not be able to describe their pain precisely or may be reluctant to complain. Watch for abnormal, inconsolable crying, refusal to move the limb at all, and any colour change in the fingers or toes. If you suspect it, go to emergency immediately rather than waiting to see whether it improves overnight."
+        },
+        {
+          "q": "If traditional splinting has already been done, is it safe to remove it at home?",
+          "a": "Removing a soft bandage splint at home is reasonable if you are concerned about tightness, and then replacing it loosely until you can get an X-ray. Removing a hardened plaster or rigid cast at home is more difficult and risks disturbing the bone position. If you are worried about circulation, loosening the outer wrap enough to reduce pressure is a reasonable interim measure on the way to hospital."
+        }
+      ]
+    }
+  }
+}

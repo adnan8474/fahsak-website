@@ -1,0 +1,376 @@
+{
+  "slug": "sugar-in-arabic-sweets",
+  "category": "nutrition",
+  "chip_ar": "التغذية",
+  "chip_en": "Nutrition",
+  "date_iso": "2026-08-04",
+  "sources": [
+    {
+      "label": "Malik VS, Hu FB: The role of sugar-sweetened beverages in the global epidemics of obesity and chronic diseases, Nature reviews. Endocrinology, 2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35064240/"
+    },
+    {
+      "label": "Al-Jawaldeh A, Perucic AM, Hammerich A et al: A review of sugar-sweetened beverages taxation in Saudi Arabia and United Arab Emirates, Eastern Mediterranean health journal, 2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39722633/"
+    },
+    {
+      "label": "Alfawaz H, Khan N, Alqahtani S et al: Difference on the prevalence, patterns and awareness of soft drink consumption among male and female Arab students, Journal of public health (Oxford, England), 2021",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33097929/"
+    },
+    {
+      "label": "Khawaja AH, Qassim S, Hassan NA et al: Added sugar: Nutritional knowledge and consumption pattern of a principal driver of obesity and diabetes among undergraduates in UAE, Diabetes & metabolic syndrome, 2019",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31405679/"
+    },
+    {
+      "label": "Qin P, Li Q, Zhao Y et al: Sugar and artificially sweetened beverages and risk of obesity, type 2 diabetes mellitus, hypertension, and all-cause mortality: a dose-response meta-analysis, European journal of epidemiology, 2020",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32529512/"
+    },
+    {
+      "label": "World Health Organization: Guideline: sugars intake for adults and children",
+      "url": "https://www.who.int/publications/i/item/9789241549028"
+    }
+  ],
+  "content": {
+    "ar": {
+      "title": "السكر في الحلويات والمشروبات العربية: الأرقام الحقيقية",
+      "desc": "تعرف على كمية السكر الفعلية في الكنافة والبقلاوة والمشروبات الغازية والشاي المحلى، وكيف تؤثر على خطر الإصابة بالسكري، مع نصائح عملية غير مبنية على الإدانة.",
+      "keywords": "السكر في الحلويات العربية, السكر والسكري, كنافة سكر, بقلاوة, مشروبات غازية عربية, تقليل السكر, السكر اليومي",
+      "h1": "كم سكرا يحتوي ما تأكله فعلا؟ الأرقام التي تفاجئك",
+      "takeaways": [
+        "منظمة الصحة العالمية توصي بألا يتجاوز السكر المضاف 25 غراما يوميا للبالغين، أي نحو 6 ملاعق صغيرة فقط.",
+        "علبة مشروب غازي واحدة قد تحتوي على أكثر من 35 غراما من السكر، وهو ما يتجاوز الحد اليومي الموصى به وحدها.",
+        "الحلويات العربية كالكنافة والبقلاوة غنية بالسكر، لكن حجم الحصة هو الفارق الأساسي.",
+        "السكر المضاف في المشروبات أخطر من السكر في الحلويات لأن السائل لا يحفز إحساس الشبع كما يفعله الطعام الصلب.",
+        "الهدف ليس الحرمان من المناسبات والكرم بل ضبط الحصص في الحياة اليومية."
+      ],
+      "sections": [
+        {
+          "h2": "لماذا يهمنا السكر المضاف تحديدا؟",
+          "paras": [
+            "ليس كل سكر متشابها. السكر الموجود في الفاكهة يأتي مع الألياف والماء والمغذيات التي تبطئ امتصاصه وتمد الجسم بفوائد أخرى. السكر المضاف هو السكر الذي يُضاف صناعيا لتحلية الأطعمة والمشروبات، وهو لا يأتي مع أي مغذيات مفيدة، بل يرفع السعرات الحرارية مباشرة.",
+            "مراجعة علمية شاملة نشرتها مجلة Nature Reviews Endocrinology عام 2022 خلصت إلى أن استهلاك المشروبات المحلاة بالسكر يرتبط ارتباطا مباشرا بارتفاع معدلات السمنة والسكري من النوع الثاني وأمراض القلب في جميع أنحاء العالم. الصلة ليست عشوائية بل هي سببية في معظمها وفق الأدلة المتراكمة على مدى عقود.",
+            "توصي منظمة الصحة العالمية بألا تتجاوز السعرات الحرارية من السكريات المضافة 10 بالمئة من إجمالي السعرات اليومية، وأن الخفض إلى 5 بالمئة يمنح فائدة إضافية. بالنسبة لشخص يستهلك 2000 سعرة يوميا، يعني ذلك 25 غراما تقريبا، أي نحو 6 ملاعق صغيرة فقط لليوم كله."
+          ],
+          "visual": {
+            "type": "stats",
+            "items": [
+              {"value": "25 غ", "label": "الحد الأقصى للسكر المضاف يوميا (منظمة الصحة العالمية)", "tone": "info"},
+              {"value": "35 - 40 غ", "label": "سكر علبة مشروب غازي واحدة", "tone": "bad"},
+              {"value": "2 ضعف", "label": "ارتفاع خطر السكري مع كل حصة يومية إضافية من المشروبات السكرية", "tone": "warn"}
+            ]
+          }
+        },
+        {
+          "h2": "كم سكرا في الحلويات العربية الأكثر شيوعا؟",
+          "paras": [
+            "قطعة الكنافة بالجبن المتوسطة الحجم تحتوي على ما بين 35 و50 غراما من السكر، وهذا يعتمد على كمية القطر المستخدمة ودرجة سكر العجينة نفسها. الكنافة بالمكسرات تميل لأن تكون أعلى سكرا. قطعة البقلاوة الواحدة الصغيرة تحتوي عادة على 15 إلى 25 غراما من السكر، والمشكلة أنها صغيرة الحجم فيأكل منها الواحد ثلاثا أو أربعا دون أن يشعر بالشبع.",
+            "قطعة أم علي أو المهلبية أو الرز بالحليب تحتوي على 20 إلى 30 غراما من السكر لكل حصة متوسطة. المعمول والبسبوسة قد تحتوي على 20 إلى 35 غراما حسب الطريقة. حلاوة الجبن الشامية والمبرومة والقطايف المقلية المحشوة بالقطر تتراوح بين 30 و50 غراما لكل حصة.",
+            "هذه الأرقام لا تعني أن الحلويات العربية شيء يجب تجنبه كليا. هي جزء لا يتجزأ من ثقافة الضيافة والمناسبات السعيدة. لكن معرفة ما فيها تساعدك على اتخاذ قرارات أكثر وعيا: حصة أصغر، مرة أو مرتين في الأسبوع بدلا من كل يوم، وتجنب الجمع بينها وبين المشروبات الغازية في نفس الجلسة.",
+            "من الأنماط الشائعة أن يقرن الناس الحلوى بالمشروب الغازي في مناسبة واحدة، وهذا يضاعف كمية السكر التي تدخل الجسم في وقت قصير. علبة غازي واحدة مع قطعة كنافة تعطي ما بين 72 و90 غراما من السكر في جلسة واحدة، أي ثلاثة أضعاف الحد اليومي الموصى به. مجرد استبدال المشروب الغازي بماء في تلك الجلسة يخفض الرقم بشكل كبير."
+          ],
+          "visual": {
+            "type": "bar",
+            "title": "تقدير السكر في حصص من الحلويات والمشروبات العربية",
+            "unit": "غرام سكر",
+            "items": [
+              {"label": "مشروب غازي (330 مل)", "value": 37, "tone": "bad", "highlight": true},
+              {"label": "كنافة بالجبن (قطعة متوسطة)", "value": 42, "tone": "bad"},
+              {"label": "بقلاوة (3 قطع)", "value": 45, "tone": "bad"},
+              {"label": "قطايف مقلية (3 قطع)", "value": 38, "tone": "bad"},
+              {"label": "رز بالحليب (كوب)", "value": 25, "tone": "warn"},
+              {"label": "شاي بثلاث ملاعق سكر", "value": 18, "tone": "warn"},
+              {"label": "عصير برتقال معبأ (330 مل)", "value": 30, "tone": "warn"}
+            ]
+          }
+        },
+        {
+          "h2": "الشاي والقهوة المحلاة: السكر الخفي في كوبك اليومي",
+          "paras": [
+            "الشاي المحلى هو أحد أكبر مصادر السكر المضاف في حياة الكثير من العرب، ببساطة لأنه يُشرب عدة مرات في اليوم وغالبا بثلاث ملاعق سكر أو أكثر في الكوب الواحد. ثلاث ملاعق سكر في كوب الشاي تساوي نحو 15 إلى 18 غراما، وحين تشرب ثلاثة أكواب يوميا فأنت قد تجاوزت الحد اليومي الموصى به من السكر فقط من الشاي.",
+            "دراسة على الطلاب الجامعيين في الإمارات نشرت في مجلة Diabetes & Metabolic Syndrome عام 2019 وجدت أن نسبة كبيرة منهم لا تدرك ارتفاع كمية السكر المضاف في مشروباتهم اليومية، رغم وجود وعي نظري بضرر السكر. الفجوة بين المعرفة والسلوك الفعلي واسعة، وهذه الدراسة تذكير بأن المعلومة وحدها لا تكفي.",
+            "القهوة العربية التقليدية بالهيل لا تحتوي على سكر في الغالب، وهي خيار مبهج صحيا. لكن القهوة بالحليب المحلى أو القهوة التركية المحلاة بملعقتين تضيف نحو 10 إلى 15 غراما من السكر لكل كوب. المشروبات الطازجة من ليمون بالنعناع أو كركديه غير محلى خيارات ممتازة يمكن تحليتها بكمية أقل بكثير."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "السكر في مشروبات شائعة",
+            "head": ["المشروب", "الحجم", "السكر المقدر (غ)"],
+            "rows": [
+              ["مشروب غازي", "علبة 330 مل", "35 - 40"],
+              ["عصير فاكهة معبأ", "علبة 330 مل", "28 - 35"],
+              ["شاي بـ 3 ملاعق سكر", "كوب 200 مل", "15 - 18"],
+              ["شاي بملعقة سكر واحدة", "كوب 200 مل", "5 - 6"],
+              ["قهوة عربية بالهيل", "فنجان", "0 - 2"],
+              ["كركديه محلى بملعقة", "كوب", "5 - 6"],
+              ["ماء فوار بالفاكهة", "علبة 330 مل", "0 - 3"]
+            ]
+          }
+        },
+        {
+          "h2": "كيف يرفع السكر المضاف خطر الإصابة بالسكري؟",
+          "paras": [
+            "السكر المضاف لا يسبب السكري مباشرة كما يعتقد البعض، لكنه يرفع الخطر بطرق متعددة. أولا، السعرات الحرارية الزائدة من السكر تؤدي لزيادة الوزن خاصة في منطقة البطن، وهذا بدوره يزيد مقاومة الأنسولين. ثانيا، المشروبات الغازية والعصائر تدخل الجسم بسرعة دون إشباع حقيقي مما يدفع لاستهلاك سعرات أكثر في المجمل.",
+            "تحليل إحصائي لعشرين دراسة نشر في مجلة European Journal of Epidemiology عام 2020 على أكثر من مليون شخص وجد أن كل حصة يومية إضافية من المشروبات المحلاة بالسكر ترفع خطر الإصابة بالسكري من النوع الثاني بنسبة تتراوح بين 13 و18 بالمئة. المنطقة العربية ذات معدلات سكري من بين الأعلى في العالم، والنمط الغذائي المرتفع بالسكر أحد العوامل الرئيسية لهذا الواقع.",
+            "مراجعة نشرتها المجلة الصحية لشرق المتوسط عام 2024 حول ضرائب المشروبات في السعودية والإمارات أظهرت أن استهلاك المشروبات المحلاة بالسكر ظل مرتفعا في المنطقة رغم فرض الضرائب، وهو ما يعكس مدى عمق هذه العادة الاستهلاكية. الوعي الفردي بما في الكوب والعلبة من سكر هو الخطوة الأولى نحو التغيير.",
+            "السكر في المشروبات أشد وطأة على الجسم من السكر في الطعام الصلب وإن تساوت الكميات. السبب أن الجسم لا يسجل السعرات السائلة بنفس الطريقة التي يسجل بها الطعام الصلب، فلا يقلل شهيتك للطعام التالي. هذا يعني أنك تضيف سكر المشروب فوق ما ستأكله أصلا دون أن تشعر بالشبع منه، وهذا ما يجعله مساهما كبيرا في زيادة الوزن على المدى الطويل."
+          ]
+        },
+        {
+          "h2": "السكر في المناسبات والضيافة: كيف تتعامل بذكاء؟",
+          "paras": [
+            "الحلويات العربية ليست مجرد طعام بل هي تعبير عن الكرم والفرح والانتماء الثقافي. حضور مجلس دون أن تتناول القهوة بالتمر والحلوى قد يُشعرك بالإحراج أو يُشعر المضيف بالرفض. هذه الحقيقة الاجتماعية حقيقية وينبغي أخذها بجدية عند التفكير في أي نصيحة غذائية.",
+            "الموازنة الذكية هي ألا تجعل من الحلويات عادة يومية وأن تحافظ على لحظات المناسبة خاصة وجميلة. حين تأكل في مناسبة، استمتع بما تأكله دون ذنب، لكن في الأيام العادية اجعل الخيارات الافتراضية خيارات أقل سكرا. كوب شاي بملعقة واحدة بدلا من ثلاث، ماء بعد الغداء بدلا من عصير معبأ، تمرة بدلا من بسكويت.",
+            "دراسة على الطلاب السعوديين نشرت عام 2021 في مجلة Journal of Public Health وجدت فروقا بين الذكور والإناث في معدل استهلاك المشروبات الغازية، وكلا الجنسين كان استهلاكهما مرتفعا بشكل يستدعي الانتباه. الأهم من الأرقام المجردة هو ترسيخ عادات بديلة: الماء هو مشروب المائدة الأساسي وليس الغازي، وهذا التحول وحده يقلل السكر اليومي بشكل ملحوظ."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "warn",
+            "title": "خيارات أقل سكرا في المناسبات",
+            "items": [
+              "اختر قطعة صغيرة واحدة بدلا من كوم من البقلاوة",
+              "اشرب الشاي بملعقة سكر بدلا من ثلاث",
+              "اطلب ماء بدلا من مشروب غازي على المائدة",
+              "التمر ثلاث حبات بديل ممتاز عن الحلويات المصنعة"
+            ]
+          }
+        },
+        {
+          "h2": "هل بدائل السكر حل آمن؟",
+          "paras": [
+            "بدائل السكر الصناعية كالأسبارتام والستيفيا والسكرالوز تعطي طعما حلوا دون سعرات حرارية تذكر. الاتحاد الأوروبي والجهات التنظيمية الدولية تعتبر الأنواع المعتمدة آمنة عند الاستهلاك ضمن الحدود المسموحة. بعض الدراسات تقترح أنها قد تؤثر على تركيبة بكتيريا الأمعاء لكن الأدلة لا تزال غير حاسمة.",
+            "خطأ شائع هو أن منتجا يحمل عبارة خالٍ من السكر يصبح غير محدود التناول. هذه المنتجات قد لا تزال تحتوي على دهون أو سعرات حرارية من مصادر أخرى. فضلا عن ذلك، بعض الناس يعوضون السعرات التي وفروها بتناول كميات أكبر من طعام آخر.",
+            "الاستيفيا نبات طبيعي المصدر وهو خيار شائع في منطقتنا. إضافة نصف ملعقة صغيرة من الاستيفيا إلى الشاي بدلا من ثلاث ملاعق سكر تعطي حلاوة مماثلة مع تقليل السكر إلى الصفر. تعويد الذوق تدريجيا على الحلاوة الأقل هو الحل الأكثر استدامة على المدى البعيد."
+          ]
+        },
+        {
+          "h2": "خطوات عملية لتقليل السكر اليومي",
+          "paras": [
+            "التغيير الأكبر تأثيرا هو الانتقال من المشروبات المحلاة إلى الماء والمشروبات غير المحلاة. هذا التغيير وحده يمكن أن يحذف 40 إلى 80 غراما من السكر يوميا لمن يشرب مشروبات غازية أو عصائر بانتظام. الماء المنكّه بشرائح الليمون أو النعناع أو قشر البرتقال خيار لذيذ وسهل التحضير.",
+            "تقليل السكر في الشاي تدريجيا على مدى أسبوعين يعوّد الذوق دون إحساس حاد بالفرق. ابدأ بتقليل نصف ملعقة، ثم كررها بعد أسبوع، وهكذا. كثير من الناس يصلون لشرب الشاي بملعقة واحدة أو حتى بدون سكر بعد شهر ويجدونه مقبولا تماما.",
+            "حين تشتري مستلزمات المنزل تجنب تخزين المشروبات الغازية والعصائر المعلبة بشكل اعتيادي. ما هو غير موجود في الثلاجة لن تتناوله في لحظة التعب أو الرغبة. في المقابل وجود فاكهة طازجة وماء بارد متاح بسهولة يجعل الخيار الصحي هو الخيار الافتراضي."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "كيف تقلل السكر هذا الأسبوع",
+            "items": [
+              "اشرب الماء أو الكركديه غير المحلى مع وجبة الغداء اليوم",
+              "قلل سكر الشاي بنصف ملعقة عن المعتاد لمدة أسبوع",
+              "توقف عن شراء المشروبات الغازية كمخزون منزلي",
+              "اختر تمرتين أو ثلاثا بعد الوجبة بدلا من الحلوى المصنعة",
+              "احتفظ بالكنافة والبقلاوة للمناسبات لا للأيام العادية",
+              "اقرأ ملصق العصائر المعبأة وستفاجأ بما فيها من سكر"
+            ]
+          }
+        },
+        {
+          "h2": "مرضى السكري والحلويات: ما الممكن وما الممنوع؟",
+          "paras": [
+            "مرضى السكري لا يجب أن يُحرموا من الحلويات كليا، لكنهم بحاجة لفهم تأثير ما يأكلونه على مستوى السكر في الدم. الحلويات العربية عالية المؤشر الغلايسيمي (Glycaemic Index) بشكل عام، أي أنها ترفع مستوى السكر بسرعة نسبية. تناولها بكميات صغيرة وضمن وجبة لا على معدة فارغة يقلل من حدة هذا الارتفاع.",
+            "الكنافة والبقلاوة والمعمول بالمكسرات أفضل من الحلويات المبنية على السكر وحده كالمهلبية المحلاة جدا، لأن الدهون والبروتين والألياف في المكسرات تبطئ امتصاص السكر. لكن الحصة لا تزال يجب أن تكون صغيرة ومحسوبة ضمن خطة الوجبات مع الطبيب أو أخصائي التغذية.",
+            "قياس السكر بعد ساعتين من تناول الحلوى هو الطريقة الأدق لمعرفة تأثيرها على جسمك تحديدا، لأن الاستجابة تختلف بين الأفراد. ما يرفع سكر شخص ما بشدة قد يكون أكثر رحمة مع شخص آخر. هذا التتبع الشخصي هو أداة قيمة يتيحها التطبيق لمساعدتك على فهم جسمك بشكل أعمق.",
+            "لمرضى السكري الذين يشعرون بأنهم محاصرون بين توصيات الطبيب والضغط الاجتماعي، يستحق الموضوع نقاشا صريحا مع الطبيب أو أخصائي التغذية. كثير من أخصائيي التغذية المتخصصين في السكري يبنون خططا تشمل حصصا صغيرة من الحلويات المفضلة في مناسبات محددة، وهذا أفضل صحيا ونفسيا من خطة مثالية على الورق لكن لا يستطيع أحد الالتزام بها على أرض الواقع."
+          ]
+        }
+      ],
+      "tie": "يمكنك في تطبيق سهاتك تتبع ما تأكله وقياس تأثيره على مستوى سكر الدم، مما يساعدك على فهم الحلويات والمشروبات التي تناسب جسمك دون حرمان.",
+      "faqs": [
+        {
+          "q": "هل السكر الطبيعي في الفاكهة ضار مثل السكر المضاف؟",
+          "a": "لا. سكر الفاكهة يأتي مع الألياف والماء والفيتامينات التي تبطئ امتصاصه وتزيد الشعور بالشبع. الأبحاث لا تربط تناول الفاكهة الكاملة بمخاطر السكري على عكس المشروبات المحلاة. لكن العصائر المعصورة من الفاكهة تفقد معظم الألياف وتصبح مشابهة للسكر المضاف بدرجة كبيرة."
+        },
+        {
+          "q": "هل العسل أو التمر أفضل من السكر العادي؟",
+          "a": "العسل والتمر يحتويان على كميات صغيرة من المغذيات الإضافية، لكنهما لا يزالان يرفعان مستوى السكر في الدم بطريقة مشابهة للسكر العادي. مرضى السكري يجب أن يتعاملوا مع العسل والتمر بالحذر نفسه الذي يتعاملون به مع السكر. من لا يعاني من السكري يمكنه تفضيل التمر لقيمته الغذائية الإضافية لكن ضمن كميات معقولة."
+        },
+        {
+          "q": "هل الكنافة كل يوم ضارة فعلا؟",
+          "a": "تناول قطعة كنافة متوسطة يوميا يضيف 35 إلى 50 غراما من السكر فوق ما تتناوله من مصادر أخرى، وهذا يتجاوز الحد اليومي الموصى به بسهولة. على المدى الطويل يرتبط ذلك بزيادة الوزن وارتفاع خطر السكري. جعلها مناسباتية أو مرة أسبوعيا بدلا من يومية هو الفارق الكبير."
+        },
+        {
+          "q": "ما هو أثر المشروبات الغازية تحديدا على الجسم؟",
+          "a": "المشروب الغازي يحتوي على 35 إلى 40 غراما من السكر يدخل الدم سريعا لغياب الألياف. هذا يسبب ارتفاعا حادا في السكر يعقبه انخفاض سريع يُحفز الرغبة في تناول المزيد. يرتبط الاستهلاك المنتظم بزيادة الوزن وارتفاع الدهون الثلاثية وتراجع حساسية الأنسولين."
+        },
+        {
+          "q": "هل المشروبات الغازية الدايت آمنة؟",
+          "a": "لا تحتوي على سكر، لكن الأدلة حول تأثيرها على بكتيريا الأمعاء لا تزال غير حاسمة. بعض الدراسات ربطتها بزيادة الرغبة في الحلو. هي أفضل من المشروبات الغازية العادية للسيطرة على السكر، لكن الماء والمشروبات غير المحلاة تبقى الخيار الأفضل."
+        },
+        {
+          "q": "كيف أقلل السكر في حياتي دون أن أشعر بالحرمان؟",
+          "a": "ابدأ بتقليل السكر في الشاي تدريجيا، وانتقل من الغازي إلى الماء، واحتفظ بالحلويات للمناسبات. هذه التغييرات الثلاث وحدها تقلل السكر اليومي بشكل كبير دون الحاجة لحذف أي طعام كليا. الهدف تغيير الإيقاع اليومي لا إلغاء الفرح من الطعام."
+        },
+        {
+          "q": "هل التمر بديل صحي للحلويات؟",
+          "a": "التمر غني بالألياف والبوتاسيوم والمغنيسيوم والكربوهيدرات الطبيعية، وهو أفضل بكثير من الحلويات المصنعة كبديل. ثلاث تمرات توفر حلاوة مشبعة مع مغذيات فعلية. لكن لمرضى السكري حتى التمر يجب حسابه ضمن خطة الوجبات، لأنه يرفع مستوى السكر أيضا."
+        }
+      ]
+    },
+    "en": {
+      "title": "Sugar in Arabic sweets and drinks: the real numbers",
+      "desc": "The real sugar counts in knafeh, baklava and daily drinks, what they mean for diabetes risk, and practical steps that keep hospitality intact.",
+      "keywords": "sugar Arabic sweets, knafeh sugar content, baklava calories, soft drinks sugar, diabetes risk diet, reduce sugar Arab diet, added sugar WHO limit",
+      "h1": "How much sugar is in what you are eating? The numbers that surprise people",
+      "takeaways": [
+        "The World Health Organization recommends no more than 25 grams of added sugar per day for adults, which is about 6 level teaspoons.",
+        "One can of fizzy drink can contain more than 35 grams of sugar, exceeding the entire daily recommended limit on its own.",
+        "Arabic sweets like knafeh and baklava are high in sugar, but portion size is the key variable.",
+        "Sugar in drinks is more harmful than sugar in solid food because liquid does not trigger the feeling of fullness that solid food does.",
+        "The goal is not to avoid hospitality or celebrations but to make lower-sugar choices the everyday default."
+      ],
+      "sections": [
+        {
+          "h2": "Why does added sugar specifically matter?",
+          "paras": [
+            "Not all sugar is the same. Sugar in whole fruit comes packaged with fibre, water and micronutrients that slow its absorption and bring genuine nutritional benefit. Added sugar is sugar that manufacturers put into food and drinks to make them sweeter. It delivers no useful nutrients beyond calories, which makes it a pure driver of energy surplus.",
+            "A comprehensive review published in Nature Reviews Endocrinology in 2022 concluded that consumption of sugar-sweetened beverages is directly linked to rising rates of obesity, type 2 diabetes and heart disease globally. The relationship is not merely associative but increasingly understood as causal, supported by decades of longitudinal evidence and biological mechanism data.",
+            "The World Health Organization recommends that added sugars provide no more than ten percent of total daily calories, and that reducing to five percent provides additional health benefit. For someone consuming 2,000 calories a day, this works out to about 25 grams, which is roughly six level teaspoons for the entire day."
+          ],
+          "visual": {
+            "type": "stats",
+            "items": [
+              {"value": "25 g", "label": "WHO recommended daily maximum for added sugar", "tone": "info"},
+              {"value": "35 - 40 g", "label": "sugar in a single can of fizzy drink", "tone": "bad"},
+              {"value": "13 - 18%", "label": "higher diabetes risk with each additional daily serving of sugary drinks", "tone": "warn"}
+            ]
+          }
+        },
+        {
+          "h2": "How much sugar is in the most common Arabic sweets?",
+          "paras": [
+            "A medium-sized portion of cheese knafeh contains roughly 35 to 50 grams of sugar, depending on how much syrup was used and whether the pastry itself was pre-sweetened. Nut-filled knafeh tends to run higher because nut pastes are often mixed with sugar syrup. A single piece of baklava is typically 15 to 25 grams of sugar, but the problem is its small size: it is easy to eat three or four pieces without feeling full, delivering 50 to 80 grams of sugar in what feels like a light snack.",
+            "A serving of om ali, milk pudding or rice with milk contains 20 to 30 grams of sugar per bowl. Maamoul and basbousa sit in the range of 20 to 35 grams depending on the recipe. Levantine halawet el jeben, qatayef fried with syrup and the rolled mubruma range from 30 to 50 grams per portion. These are generous desserts by any nutritional standard.",
+            "These numbers do not mean Arabic sweets should be avoided entirely. They are integral to hospitality, celebrations and cultural identity, and removing joy from food is not the point of nutrition education. Knowing the numbers helps you make more conscious decisions: a smaller piece, once or twice a week rather than daily, and not combining a sweet with a sugary drink in the same sitting."
+          ],
+          "visual": {
+            "type": "bar",
+            "title": "Estimated sugar in typical portions of Arabic sweets and drinks",
+            "unit": "grams of sugar",
+            "items": [
+              {"label": "Fizzy drink can (330 ml)", "value": 37, "tone": "bad", "highlight": true},
+              {"label": "Cheese knafeh (medium slice)", "value": 42, "tone": "bad"},
+              {"label": "Baklava (3 pieces)", "value": 45, "tone": "bad"},
+              {"label": "Fried qatayef (3 pieces)", "value": 38, "tone": "bad"},
+              {"label": "Rice pudding (1 cup)", "value": 25, "tone": "warn"},
+              {"label": "Tea with 3 teaspoons sugar", "value": 18, "tone": "warn"},
+              {"label": "Packaged orange juice (330 ml)", "value": 30, "tone": "warn"}
+            ]
+          }
+        },
+        {
+          "h2": "Sweetened tea and coffee: the hidden sugar in your daily cup",
+          "paras": [
+            "Sweetened tea is one of the largest sources of added sugar in many Arabs' daily lives, simply because it is drunk multiple times a day and usually with two to four teaspoons of sugar per cup. Three teaspoons of sugar in a cup equals about 15 to 18 grams. Drink three cups a day and you have exceeded the entire WHO daily recommended limit from tea alone, before any food is considered.",
+            "A study of university students in the UAE published in Diabetes and Metabolic Syndrome in 2019 found that a substantial proportion had poor awareness of how much added sugar was in their daily drinks, despite knowing conceptually that sugar is harmful. The gap between abstract knowledge and actual intake is wide, and this study underlines that awareness of specific quantities, not just general warnings, is what changes behaviour.",
+            "Traditional Arabic coffee with cardamom is typically unsweetened and is genuinely a healthy choice. Coffee with sweetened condensed milk or Turkish coffee with two spoonfuls of sugar adds 10 to 15 grams per cup. Fresh mint lemonade, unsweetened hibiscus and plain water with sliced citrus are all excellent alternatives that can be sweetened with a fraction of the sugar used in tea."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Sugar in common drinks",
+            "head": ["Drink", "Volume", "Estimated sugar (g)"],
+            "rows": [
+              ["Fizzy drink", "330 ml can", "35 - 40"],
+              ["Packaged fruit juice", "330 ml carton", "28 - 35"],
+              ["Tea with 3 teaspoons sugar", "200 ml cup", "15 - 18"],
+              ["Tea with 1 teaspoon sugar", "200 ml cup", "5 - 6"],
+              ["Arabic coffee (cardamom)", "Small cup", "0 - 2"],
+              ["Hibiscus with 1 spoon sugar", "Cup", "5 - 6"],
+              ["Sparkling water with fruit", "330 ml", "0 - 3"]
+            ]
+          }
+        },
+        {
+          "h2": "How does added sugar raise the risk of diabetes?",
+          "paras": [
+            "Added sugar does not cause diabetes directly, but it raises the risk through several linked pathways. First, excess calories from sugar promote weight gain, particularly abdominal fat, which is the type most strongly associated with insulin resistance. Second, sugary drinks are absorbed rapidly because they contain no fibre, producing a sharp blood sugar spike followed by a quick fall that stimulates appetite and drives further intake.",
+            "A meta-analysis published in the European Journal of Epidemiology in 2020, covering more than one million participants across 20 studies, found that each additional daily serving of sugar-sweetened beverages was associated with a 13 to 18 percent higher risk of developing type 2 diabetes. The Arab region already has some of the highest diabetes prevalence in the world, and high added sugar intake is consistently identified as a contributing dietary factor.",
+            "A review of sugar-sweetened beverage taxation in Saudi Arabia and the UAE, published in the Eastern Mediterranean Health Journal in 2024, showed that consumption remained high despite the introduction of excise taxes, reflecting how deeply embedded these habits are. Individual awareness of specific sugar quantities, the 35 grams in a single can for example, is the starting point for change that policy alone cannot deliver."
+          ]
+        },
+        {
+          "h2": "Sugar at social occasions: how to handle it without offending anyone",
+          "paras": [
+            "Arabic sweets are not simply food. They are expressions of generosity, celebration and belonging. Visiting a home or a gathering and declining the coffee, the dates and the sweets entirely is socially awkward in most regional settings, and an approach to nutrition that ignores this social reality will not work in practice. This is worth acknowledging honestly rather than pretending the cultural context does not exist.",
+            "The practical balance is to treat occasions as occasions and not to replicate occasion-level intake every day. When you are at a celebration or a family gathering, enjoy what you eat without guilt and without calculating grams. On the other days, make the lower-sugar default automatic. One teaspoon of sugar in tea rather than three, water rather than juice with lunch, fresh fruit rather than packaged biscuits in the evening.",
+            "A study of soft drink consumption among Arab students published in the Journal of Public Health in 2021 found that daily consumption remained common across both male and female students, with awareness of the risks not translating into behaviour change. The pattern this suggests is that general health messaging about sugar needs to be paired with specific, concrete, alternative choices rather than abstract warnings."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "warn",
+            "title": "Lower-sugar choices at social occasions",
+            "items": [
+              "Take a small single piece rather than a full plate of baklava",
+              "Ask for tea with one teaspoon of sugar rather than three",
+              "Choose water or unsweetened coffee over a fizzy drink",
+              "Enjoy three dates as a sweet course rather than a processed sweet"
+            ]
+          }
+        },
+        {
+          "h2": "Are sugar substitutes a safe solution?",
+          "paras": [
+            "Artificial sweeteners including aspartame, sucralose and stevia provide sweetness with negligible calories. International food safety authorities including the European Food Safety Authority consider approved sweeteners safe at recommended intake levels. Some studies suggest they may influence gut bacteria composition, but the evidence is not conclusive enough to make them harmful by established standards.",
+            "A common mistake is treating a product labelled sugar-free as unlimited. These products may still contain significant fat or other calorie sources. Some people also unconsciously compensate for saved calories by eating more of something else. The practical benefit of sweeteners depends on how they are used in context.",
+            "Stevia, which comes from a plant, is widely available in Arab pharmacies and supermarkets. Half a teaspoon of stevia in tea provides sweetness comparable to three teaspoons of sugar, with no sugar at all. Gradually training your palate to accept less sweetness is the most sustainable long-term strategy, because the preference for high sweetness diminishes with consistent lower exposure over four to eight weeks."
+          ]
+        },
+        {
+          "h2": "Practical steps to cut your daily sugar intake",
+          "paras": [
+            "The single highest-impact change is replacing sweetened drinks with water and unsweetened alternatives. For someone who drinks one to two cans of fizzy drink per day, this change alone removes 35 to 80 grams of added sugar from the daily total, which is more than the entire WHO recommended limit. Sparkling water with a slice of lemon or a few mint leaves is a satisfying substitute for many people.",
+            "Reducing the sugar in tea gradually works. Cut half a teaspoon per week rather than suddenly. Most people who try this find that after two to three weeks the lower sweetness becomes normal and they no longer miss the extra sugar. Some reach the point of drinking tea without any sugar added, which would have seemed unthinkable a month earlier.",
+            "At the household shopping level, not keeping fizzy drinks and packaged juices as a regular stock item removes them from easy reach in moments of thirst or habit. What is not in the refrigerator cannot be reached automatically. Keeping chilled water and fresh fruit accessible instead makes the lower-sugar choice the path of least resistance, which is the single most effective principle in dietary behaviour change."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "Cutting your sugar this week",
+            "items": [
+              "Drink water or unsweetened hibiscus with lunch today instead of juice or fizzy drink",
+              "Reduce the sugar in your tea by half a teaspoon starting tomorrow",
+              "Stop buying fizzy drinks as regular household stock",
+              "Choose two or three dates as your sweet course after dinner rather than a packaged sweet",
+              "Keep baklava and knafeh for special occasions rather than everyday eating",
+              "Read the sugar content on packaged juice labels and you will be surprised"
+            ]
+          }
+        },
+        {
+          "h2": "For people with diabetes: what is possible and what needs care?",
+          "paras": [
+            "People with diabetes do not have to avoid sweets entirely, but they need to understand what a food does to their blood sugar. Arabic sweets are generally high on the glycaemic index (GI), meaning they raise blood glucose relatively quickly. Eating a small amount as part of a larger meal rather than on an empty stomach moderates this rise. The fat and protein in nut-filled sweets like maamoul or nut baklava slows absorption compared to a plain syrup-soaked sweet.",
+            "Measuring blood glucose two hours after eating a portion of a specific sweet is the most accurate way to know its effect on your own body, because individual glucose responses vary substantially. What spikes one person's reading sharply may be more moderate for another, depending on insulin sensitivity, the rest of the meal, physical activity, and timing.",
+            "Portion control and meal planning rather than complete restriction is the approach most diabetes dietitians recommend. A small piece of knafeh at a family gathering, factored into the day's carbohydrate total, is a very different situation from eating it daily. Working with a dietitian who understands both diabetes and regional cuisine is the best way to build a plan that is medically sound and socially realistic."
+          ]
+        }
+      ],
+      "tie": "The Sihtak app lets you log what you eat and track your blood glucose readings, which makes it easier to see exactly how different sweets and drinks affect your body and to plan accordingly.",
+      "faqs": [
+        {
+          "q": "Is the natural sugar in fruit as harmful as added sugar?",
+          "a": "No. Fruit sugar comes with fibre, water and vitamins that slow absorption and increase fullness. Research does not link whole fruit consumption to diabetes risk the way it does sugary drinks. However, freshly squeezed juice loses most of its fibre and behaves much more like added sugar, so it should be treated with the same caution."
+        },
+        {
+          "q": "Is honey or dates better than white sugar?",
+          "a": "Honey and dates contain small amounts of additional nutrients, but both still raise blood glucose in a way that is broadly similar to white sugar. People with diabetes should treat honey and dates with the same caution as sugar. For those without diabetes, dates are a preferable choice because of their fibre and minerals, but they should still be eaten in reasonable quantities."
+        },
+        {
+          "q": "Is knafeh every day really harmful?",
+          "a": "A medium slice of knafeh daily adds 35 to 50 grams of sugar on top of whatever else you consume, reliably exceeding the WHO daily limit. Over months and years this contributes to weight gain and a meaningfully higher risk of type 2 diabetes. Making it a weekly or occasional treat rather than a daily item is the most practical change to make."
+        },
+        {
+          "q": "What specifically does fizzy drink do to the body?",
+          "a": "A can of fizzy drink delivers 35 to 40 grams of sugar rapidly into the bloodstream with no fibre to slow it. This causes a sharp glucose spike followed by a fast fall that increases hunger and craving. Regular intake is consistently linked to weight gain, higher triglycerides and reduced insulin sensitivity across population studies."
+        },
+        {
+          "q": "Are diet fizzy drinks safe?",
+          "a": "They contain no sugar and do not raise blood glucose directly, but evidence about their effects on gut bacteria is inconclusive. Some research suggests they may increase sweet cravings in certain people. They are a better choice than regular fizzy drinks for blood sugar control, but water and unsweetened drinks remain the best option."
+        },
+        {
+          "q": "How can I reduce sugar without feeling deprived?",
+          "a": "Start with the three highest-volume sources: sweetened tea, fizzy drinks and daily sweets. Reducing tea sugar gradually, replacing fizzy drinks with water, and keeping sweets for occasions rather than every day cuts daily added sugar substantially without removing any food entirely. The goal is shifting the default, not eliminating enjoyment."
+        },
+        {
+          "q": "Are dates a healthy substitute for sweets?",
+          "a": "Dates are nutritionally much better than processed sweets, containing fibre, potassium, magnesium and natural sugars. Three dates as a sweet course provide genuine satisfaction with added nutritional value. For people with diabetes, even dates need to be factored into the daily carbohydrate plan, because they do raise blood glucose."
+        }
+      ]
+    }
+  }
+}

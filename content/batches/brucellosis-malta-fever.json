@@ -1,0 +1,382 @@
+{
+  "slug": "brucellosis-malta-fever",
+  "category": "infectious-diseases",
+  "chip_ar": "أمراض معدية",
+  "chip_en": "Infectious Diseases",
+  "date_iso": "2026-07-08",
+  "sources": [
+    {
+      "label": "Qureshi KA, Parvez A, Fahmy NA et al: Brucellosis: epidemiology, pathogenesis, diagnosis and treatment-a comprehensive review, Annals of medicine, 2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38165919/"
+    },
+    {
+      "label": "Holloway P, Gibson M, Holloway T et al: Camel milk is a neglected source of brucellosis among rural Arab communities, Nature communications, 2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39833143/"
+    },
+    {
+      "label": "Al-Tawfiq JA, Memish ZA: Antibiotic susceptibility and treatment of brucellosis, Recent patents on anti-infective drug discovery, 2013",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22812615/"
+    },
+    {
+      "label": "Bahabri I, Hakeem A, Alturki MS et al: Brucellosis relapse: Rate, patient characteristics, and clinical outcomes in an endemic region, PLoS neglected tropical diseases, 2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40623038/"
+    },
+    {
+      "label": "Andriopoulos P, Kalogerakou A, Rebelou D et al: Prevalence of Brucella antibodies on a previously acute brucellosis infected population, Infection, 2015",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25724798/"
+    },
+    {
+      "label": "World Health Organization: Brucellosis fact sheet, WHO EMRO",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/brucellosis"
+    }
+  ],
+  "content": {
+    "ar": {
+      "title": "الحمى المالطية (البروسيلا): عدوى الحليب غير المبستر",
+      "desc": "الحمى المالطية مرض يصيب الإنسان عبر الحليب النيء والجبن البلدي ولحوم الحيوانات. تعرف على أعراضه، وتشخيصه، ولماذا يجب إكمال العلاج كاملاً.",
+      "keywords": "الحمى المالطية, البروسيلا, حمى متموجة, حليب غير مبستر, جبن بلدي, مرض مشترك, أعراض البروسيلا, علاج البروسيلا, دوكسيسيكلين, التشخيص المبكر",
+      "h1": "الحمى المالطية: ما تحتاج معرفته إذا شربت حليباً نيئاً أو أكلت جبناً بلدياً",
+      "takeaways": [
+        "الحمى المالطية (البروسيلا) تصيب الإنسان عادةً عبر الحليب النيء أو الجبن البلدي غير المبستر، وهي شائعة جداً في سوريا والأردن والعراق والخليج.",
+        "الحمى المتموجة التي ترتفع مساءً وتنخفض صباحاً، مصحوبةً بالتعرق الليلي وآلام المفاصل، هي أبرز علامات المرض.",
+        "التشخيص يتطلب فحص دم خاصاً (اختبار رايت أو Rose Bengal)، وليس مجرد فحص الدم الاعتيادي.",
+        "يحتاج العلاج إلى مضادين حيويين معاً لمدة ستة أسابيع على الأقل، وإيقافه مبكراً هو السبب الأول للانتكاس.",
+        "الوقاية الأساسية هي تجنب الحليب غير المبستر وكل مشتقاته من الجبن والقشطة والزبدة البلدية."
+      ],
+      "sections": [
+        {
+          "h2": "ما هي الحمى المالطية وكيف تصيب الإنسان؟",
+          "paras": [
+            "الحمى المالطية مرض تسببه بكتيريا البروسيلا (Brucella)، وهي عدوى مشتركة بين الحيوان والإنسان. تعيش هذه البكتيريا بشكل طبيعي في الأبقار والأغنام والماعز والإبل، وتنتقل إلى الإنسان بعدة طرق أهمها تناول الحليب النيء أو منتجاته من الجبن البلدي والقشطة والزبدة غير المعالجة.",
+            "كشفت دراسة نشرت في مجلة Nature Communications عام 2025 أن حليب الإبل مصدر مغفول تماماً للعدوى في المجتمعات العربية الريفية، إذ تظهر فيه معدلات إصابة بالبروسيلا أعلى مما كان يُعتقد. بالإضافة إلى الحليب، يمكن أن تنتقل العدوى عبر استنشاق جزيئات من الحظائر أو ملامسة أنسجة الحيوانات عند الذبح، ولهذا يُعد المزارعون والبيطريون والجزارون الأكثر عرضة للخطر.",
+            "تنتشر الحمى المالطية في جميع أنحاء الشرق الأوسط وشمال أفريقيا، وتُعدّ سوريا والأردن والعراق والمملكة العربية السعودية ضمن البلدان الأعلى إصابةً في العالم. تحدث كثير من الحالات في الريف وبين العائلات التي تربي مواشيها وتعتمد على منتجاتها مباشرةً دون بسترة."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "warn",
+            "title": "أطعمة تحمل خطر الإصابة",
+            "items": [
+              "الحليب النيء من البقر أو الأغنام أو الماعز أو الإبل",
+              "الجبن البلدي الطازج غير المصنّع صناعياً",
+              "القشطة والزبدة المحلية غير المعالجة",
+              "الكبد والرئة والأعضاء الداخلية غير المطهوة جيداً"
+            ]
+          }
+        },
+        {
+          "h2": "كيف تبدو أعراض الحمى المالطية؟",
+          "paras": [
+            "يمر بين التعرض للعدوى وظهور الأعراض ما بين أسبوع وشهرين في الغالب. الحمى المتموجة هي العلامة المميزة للمرض: ترتفع الحرارة في فترة المساء وتصل أحياناً إلى 39 أو 40 درجة، ثم تنخفض تدريجياً في الصباح، مصحوبةً بتعرق غزير وشعور مؤقت بالتحسن يعود بعده الارتفاع. هذا النمط هو ما منح المرض اسمه القديم الحمى المتموجة.",
+            "تشمل الأعراض الأخرى الشائعة آلاماً في المفاصل والعضلات، وخاصةً في الركبتين والوركين والعمود الفقري، إلى جانب الصداع وفقدان الشهية والإرهاق الشديد. قد تتضخم الطحال والكبد في بعض الحالات، ويلاحظ المريض ذلك أحياناً كثقل أو ألم في البطن.",
+            "ما يُربك التشخيص هو أن هذه الأعراض تشبه إلى حد بعيد الإنفلونزا أو التيفود أو الحمى الأخرى. كثير من المرضى يتناولون خافضات الحرارة ويعتقدون أن أمرهم عابر، فيضيعون أسابيع قبل أن يُشخَّص المرض بشكل صحيح. الخبر الجيد أن الفحص المخبري محدد نسبياً إذا طُلب."
+          ],
+          "visual": {
+            "type": "timeline",
+            "title": "تطور أعراض الحمى المالطية",
+            "items": [
+              {"when": "أسبوع 1", "what": "حمى خفيفة، إرهاق، صداع"},
+              {"when": "أسبوع 2-3", "what": "حمى متموجة مسائية مع تعرق ليلي غزير"},
+              {"when": "أسبوع 3-6", "what": "آلام مفاصل وعضلات، تضخم الطحال أحياناً"},
+              {"when": "دون علاج", "what": "المرض يمتد لأشهر ويصبح مزمناً"}
+            ]
+          }
+        },
+        {
+          "h2": "ما الفحوصات المطلوبة لتشخيص البروسيلا؟",
+          "paras": [
+            "لا يكفي فحص الدم الاعتيادي (CBC) لتشخيص الحمى المالطية. فحص الدم الشامل قد يُظهر انخفاضاً طفيفاً في عدد كريات الدم البيضاء أحياناً، لكن هذا لا يُميّز البروسيلا عن أي عدوى بكتيرية أو فيروسية أخرى. الفحص التشخيصي الأساسي هو اختبار رايت (Wright agglutination test) أو اختبار Rose Bengal، وكلاهما يكشفان الأجسام المضادة التي يُنتجها الجسم ضد البروسيلا.",
+            "تُعتبر نتيجة رايت إيجابية عند عيار يساوي أو يزيد عن 1:160 في المناطق الموبوءة، وإن كانت القيم المرجعية تختلف قليلاً بين المختبرات. في الأسبوع الأول من المرض، قد تكون نتيجة الأجسام المضادة سلبية لأن الجسم لم ينتجها بعد بكميات كافية. إذا بقي الاشتباه قوياً كلينيكياً، يُعاد الفحص بعد أسبوع إلى أسبوعين.",
+            "عند التوجه للمختبر، صرّح بوضوح أنك تشتبه بالبروسيلا. كثيراً ما تحتوي استمارة طلب تحليل الدم المعتادة على خانات عامة لا تُذكّر تلقائياً بهذه الاختبارات المحددة. يُذكر أن زراعة الدم (blood culture) تُثبّت التشخيص بيقين أكبر لكنها تحتاج أسبوعين إلى أربعة أسابيع وتتطلب مختبراً متخصصاً. أشارت دراسة نشرت في مجلة Infection عام 2015 إلى أن اختبار رايت يحتفظ بأجسام مضادة قابلة للقياس لسنوات بعد الشفاء، مما يعني أن إيجابيته لا تعني دائماً إصابة نشطة، ويجب تفسيرها في ضوء الأعراض والتاريخ المرضي الكامل."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "فحوصات تشخيص البروسيلا",
+            "head": ["الفحص", "ما يكشفه", "ملاحظة"],
+            "rows": [
+              ["Rose Bengal", "أجسام مضادة سريعة", "فحص غربلة أولي"],
+              ["Wright / SAT", "مستوى الأجسام المضادة بدقة", "إيجابي عند 1:160 أو أعلى في الغالب"],
+              ["زراعة الدم", "البكتيريا مباشرةً", "تأكيد قاطع، يحتاج مختبراً متخصصاً"],
+              ["PCR", "الحمض النووي للبكتيريا", "دقيق لكن غير متاح في كل مكان"]
+            ]
+          }
+        },
+        {
+          "h2": "ما العلاج وكم مدته؟",
+          "paras": [
+            "المبدأ الأساسي في علاج البروسيلا هو استخدام مضادين حيويين معاً لا واحد فقط، لأن البكتيريا تعيش داخل خلايا الجسم وتنجو من مضاد حيوي وحيد في كثير من الأحيان. الخيار الأول الموصى به دولياً هو دوكسيسيكلين (Doxycycline) لمدة ستة أسابيع مع ريفامبيسين (Rifampicin) أو مع حقن الستربتومايسين في الأسابيع الأولى.",
+            "أشار مراجعة شاملة نشرت عام 2013 في مجلة Recent patents on anti-infective drug discovery إلى أن الجمع بين دوكسيسيكلين وريفامبيسين يُعطى عادةً لمدة ستة أسابيع في الحالات غير المعقدة، بينما قد تمتد المدة إلى ثلاثة أشهر أو أكثر عند إصابة العمود الفقري أو القلب أو الجهاز العصبي. الاعتدال في الجرعة وتوقيت البدء مبكراً يُقللان معدل الانتكاس.",
+            "إيقاف العلاج مبكراً هو السبب الأول للانتكاس. وثّقت دراسة سعودية حديثة نُشرت عام 2025 في PLoS Neglected Tropical Diseases أن الانتكاس يحدث في نسبة معتدّ بها من المرضى، وأن العاملين في تربية الحيوانات والمرضى الذين لا يُكملون العلاج هم الأكثر عرضة. ربما تشعر بتحسن كبير في الأسبوع الثاني من العلاج، لكن هذا لا يعني اختفاء البكتيريا."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "مبادئ علاج الحمى المالطية",
+            "items": [
+              "لا تتوقف عن العلاج مبكراً حتى عند تحسن الأعراض",
+              "خذ الدوكسيسيكلين مع الطعام أو الحليب لتجنب حرقة المعدة",
+              "الريفامبيسين يُغيّر لون البول والعرق إلى البرتقالي، وهذا طبيعي",
+              "أبلغ طبيبك فوراً إذا عاد الحمى بعد انتهاء العلاج",
+              "لا تتناول الدواء الذي وُصف لشخص آخر، الجرعات تختلف"
+            ]
+          }
+        },
+        {
+          "h2": "متى تكون الحالة خطيرة وتحتاج عناية عاجلة؟",
+          "paras": [
+            "معظم حالات البروسيلا قابلة للعلاج بالمضادات الحيوية خارج المستشفى، لكن ثمة مضاعفات خطيرة تستدعي التدخل الطبي العاجل. إصابة العمود الفقري (التهاب الفقار البروسيلي) تُسبب آلاماً شديدة في الظهر تزداد تدريجياً وقد تُفضي إلى ضعف في الساقين أو اضطراب في التبول. تُشكّل هذه الإصابة عشرة إلى ثلاثين بالمئة من مضاعفات البروسيلا المزمنة.",
+            "التهاب الشغاف (endocarditis) أو إصابة صمامات القلب نادر لكنه الأكثر خطورةً على الحياة ويحتاج علاجاً طويلاً وربما تدخلاً جراحياً. كذلك يمكن أن تُصيب البروسيلا الجهاز العصبي وتُسبب التهاب السحايا أو اعتلال الأعصاب."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "توجه للطبيب فوراً إذا كان لديك",
+            "items": [
+              "ألم شديد في الظهر مع تنميل أو ضعف في الساقين",
+              "ضيق في التنفس أو خفقان قلب غير معتاد",
+              "صداع شديد مع تيبس الرقبة أو اضطراب في الوعي",
+              "انتفاخ مؤلم في الخصيتين عند الرجال",
+              "عودة الحمى بعد انتهاء دورة العلاج"
+            ]
+          }
+        },
+        {
+          "h2": "هل يمكن الوقاية من الحمى المالطية؟",
+          "paras": [
+            "الوقاية الفردية تعتمد أساساً على تجنب المصادر الغذائية الخطرة. البسترة تقتل البروسيلا بالكامل، لذا فإن الحليب الصناعي المباع في المحلات في عبوات مغلقة آمن عموماً. المشكلة تكمن في الحليب الذي يُشترى مباشرةً من المزارع أو الجبن الطازج البيتي، وخاصةً جبن الحلوم والبيضاء غير المملحة التي تُباع في المناطق الريفية وأسواق القرى بدون أي معالجة حرارية.",
+            "الطهو الجيد يحمي من العدوى عبر اللحوم. الأعضاء الداخلية كالكبد والرئة تحتاج طهواً كاملاً حتى لا يبقى أي احمرار في الداخل. أما الجزارون والمزارعون والبيطريون، فيُنصحون بارتداء القفازات المطاطية عند التعامل مع الحيوانات وخاصةً وقت الولادة، لأن المشيمة وسوائل الولادة تحمل تركيزات عالية جداً من البكتيريا وتُعدّ المصدر الأخطر للعدوى المهنية.",
+            "التثقيف الصحي في المجتمعات الريفية هو مفتاح الوقاية. كثير من العائلات التي تربي الماعز أو الأغنام تنظر إلى الحليب الطازج على أنه أكثر صحةً ونظافةً من الحليب المعبأ، وهذا معتقد منتشر يحتاج تصحيحاً. الحليب النيء قد يبدو نظيفاً ويكون محملاً بالبكتيريا في الوقت نفسه.",
+            "لا يوجد حتى الآن لقاح معتمد للبشر ضد البروسيلا، وإن كانت اللقاحات البيطرية التي تُعطى للحيوانات تُقلل من حجم المشكلة عند تطبيقها بانتظام. الإبلاغ الفوري عن الحالات في المزارع إلى الجهات البيطرية أمر حيوي للحد من انتشار العدوى في القطعان وبالتالي حماية السكان المحيطين."
+          ]
+        },
+        {
+          "h2": "كيف يؤثر المرض على الحياة اليومية أثناء العلاج؟",
+          "paras": [
+            "الإرهاق من أكثر الأعراض إزعاجاً وأطولها عمراً. حتى بعد بداية العلاج الصحيح، قد يستمر التعب الشديد لأسابيع. هذا ليس فشلاً في العلاج، بل استجابة طبيعية للجسم وهو يتعافى من عدوى داخلية عميقة. لا تجبر نفسك على العودة للعمل الشاق في وقت مبكر جداً.",
+            "الدوكسيسيكلين يجعل الجلد أكثر حساسية للشمس، مما يستدعي الاحتراز في فصل الصيف وارتداء ملابس واقية أو استخدام كريم الحماية من الأشعة. تناوله دائماً مع وجبة خفيفة أو كوب حليب لتجنب حرقة المعدة التي يشكو منها بعض المرضى في الأيام الأولى. لا تكسر الكبسولة أو تُهرّس القرص، بل ابتلعه كاملاً مع كوب ماء كافٍ.",
+            "الريفامبيسين يُقلل من فاعلية حبوب منع الحمل الهرمونية، لذا إن كنت امرأة وتتناولين وسيلة منع حمل هرمونية أثناء العلاج، تحدثي مع طبيبك عن وسيلة إضافية خلال هذه الفترة. يُغيّر الريفامبيسين لون البول والعرق والدموع إلى اللون البرتقالي المائل للأحمر، وهذا تأثير طبيعي تماماً لا داعي للقلق منه.",
+            "بعض المرضى يظنون أن شعورهم بالتحسن في منتصف الكورس يعني أن المضادات الحيوية أتمت مهمتها. البكتيريا في حالة الحمى المالطية تختبئ داخل خلايا الجهاز المناعي نفسه وتصمد فترة أطول مما تتوقعه. الالتزام الكامل بالجرعات حتى آخر يوم في الوصفة هو الفرق الوحيد بين شفاء حقيقي وانتكاس محتمل."
+          ]
+        },
+        {
+          "h2": "البروسيلا والحمل: هل هناك خطر خاص؟",
+          "paras": [
+            "الحمى المالطية خلال الحمل تزيد من خطر الإجهاض ووفاة الجنين داخل الرحم، وخاصةً في الثلث الأول والثاني من الحمل. هذا يجعل التشخيص المبكر أكثر أهمية للمرأة الحامل التي تعيش في منطقة موبوءة أو تعرضت لمصدر احتمالي للعدوى.",
+            "الخيارات العلاجية محدودة في الحمل لأن الدوكسيسيكلين ممنوع بسبب تأثيره على تطور عظام الجنين وأسنانه. يلجأ الأطباء عادةً إلى الريفامبيسين وحده أو مع كوتريموكسازول للحالات غير الشديدة، ويكون ذلك قراراً يأخذ في الحسبان عمر الحمل وشدة المرض ووجود أي مضاعفات.",
+            "إذا كنت حاملاً وتشككين في الإصابة بالبروسيلا، لا تؤخري مراجعة الطبيب. أبلغيه بشكل صريح إن تناولتِ حليباً نيئاً أو جبناً بلدياً مؤخراً، لأن هذه المعلومة تُسرّع من اتخاذ قرار طلب الفحص. أفراد الأسرة الذين تناولوا الطعام نفسه ينبغي فحصهم أيضاً حتى لو لم تظهر عليهم أعراض واضحة."
+          ]
+        },
+        {
+          "h2": "تتبع أعراضك وتشجيع الاستمرار في العلاج",
+          "paras": [
+            "علاج الحمى المالطية يمتد ستة أسابيع أو أكثر، وهي مدة يصعب على كثيرين الالتزام بها كاملةً خاصةً عند تحسن الأعراض في الأسبوع الثاني أو الثالث. تطبيق سهتك يتيح لك تسجيل درجة حرارتك اليومية ومتابعة تحسن الأعراض بمرور الوقت، مما يُذكّرك بجدول الدواء ويُساعدك على إظهار سجل واضح لطبيبك في المتابعة.",
+            "وثّق أيضاً أي أعراض جديدة أو عودة للحمى أثناء العلاج، فهذا قد يشير إلى مضاعفة أو حاجة لتعديل الخطة العلاجية. الطبيب الذي يراك في الزيارة الأولى يحتاج إلى رؤية نمط حرارتك اليومية لمدة أسبوع على الأقل كي يحكم إذا كان العلاج يعمل، وتوثيق الأرقام بنفسك أدق بكثير من الاعتماد على الذاكرة.",
+            "الاستمرار في العلاج حتى اليوم الأخير هو أهم شيء يمكنك فعله لتجنب الانتكاس وضمان الشفاء الكامل. إذا نسيت جرعة، تناولها فور تذكّرك ما لم يكن الموعد التالي قريباً جداً، ولا تضاعف الجرعة لتعويض ما فاتك."
+          ]
+        }
+      ],
+      "tie": "تطبيق سهتك يُساعدك على تسجيل درجة حرارتك اليومية وأعراضك خلال فترة علاج الحمى المالطية الطويلة، وتتبع تقدمك نحو الشفاء الكامل.",
+      "faqs": [
+        {
+          "q": "هل الحمى المالطية معدية من شخص لآخر؟",
+          "a": "في الحالات الطبيعية لا تنتقل من إنسان لإنسان عبر التلامس اليومي. الانتقال يتم تقريباً دائماً من الحيوانات أو منتجاتها للإنسان. التمريض والعناية بالمريض آمنان بشكل عام ولا يحتاجان احتياطات خاصة."
+        },
+        {
+          "q": "هل الطهو الكافي للجبن أو اللحم يقضي على البروسيلا؟",
+          "a": "نعم، الحرارة تقتل بكتيريا البروسيلا. البسترة المعيارية للحليب كافية، وكذلك طهو اللحوم حتى تختفي أي احمرار داخلي. المشكلة أن الجبن الطازج لا يُطهى في الغالب قبل الأكل."
+        },
+        {
+          "q": "هل يمكن أن تكون نتيجة رايت إيجابية دون وجود مرض نشط؟",
+          "a": "نعم. الأجسام المضادة ضد البروسيلا تبقى في الدم لسنوات بعد الشفاء الكامل. لهذا يجب تفسير نتيجة رايت دائماً مع الأعراض والتاريخ المرضي، وليس وحدها. إيجابية بدون أعراض لا تعني بالضرورة مرضاً نشطاً."
+        },
+        {
+          "q": "كم مدة العلاج وهل أحتاج تحاليل بعده؟",
+          "a": "الحالات غير المعقدة تحتاج ستة أسابيع من المضادات الحيوية المزدوجة. الحالات التي تُصيب العمود الفقري أو القلب قد تحتاج ثلاثة أشهر أو أكثر. بعد انتهاء العلاج، يُجري الطبيب عادةً متابعة بفحص دم بعد ثلاثة وستة أشهر للتأكد من عدم الانتكاس."
+        },
+        {
+          "q": "هل هناك لقاح للوقاية من الحمى المالطية للبشر؟",
+          "a": "لا يوجد حتى الآن لقاح معتمد للبشر. الوقاية تعتمد على تجنب مصادر العدوى وخاصةً الحليب غير المبستر، والتطعيم البيطري للحيوانات للتقليل من انتشار البكتيريا في القطعان."
+        },
+        {
+          "q": "ماذا يحدث إذا توقفت عن العلاج مبكراً لأنني تحسنت؟",
+          "a": "البكتيريا قد تبقى في الجسم بأعداد منخفضة لا تُسبب أعراضاً فورية، ثم تعود للنشاط بعد أسابيع أو أشهر مُسببةً انتكاساً. الانتكاس يحتاج جولةً علاجية جديدة وأحياناً أطول من الأولى. أكمل الكورس الكامل."
+        },
+        {
+          "q": "هل يمكنني العمل في المزرعة أو اصطحاب أطفالي إلى المزارع مع وجود بروسيلا في القطيع؟",
+          "a": "ينبغي الحذر الشديد. ارتدِ قفازات عند ملامسة الحيوانات أو فضلاتها، وتجنب التواجد قرب الولادات. الأطفال أقل عرضةً للإصابة من البالغين العاملين مباشرةً، لكن يجب تجنيبهم شرب أي حليب نيء من المزرعة."
+        }
+      ]
+    },
+    "en": {
+      "title": "Brucellosis (Malta fever): the raw milk infection",
+      "desc": "Brucellosis spreads through raw milk and fresh cheese. Recognise the undulant fever, get the right blood test, and understand why a full six-week course prevents relapse.",
+      "keywords": "brucellosis, Malta fever, undulant fever, raw milk, unpasteurised, Brucella, doxycycline treatment, Middle East, Rose Bengal test, Wright test",
+      "h1": "Brucellosis: what you need to know if you drink raw milk or eat homemade cheese",
+      "takeaways": [
+        "Brucellosis is caught mainly from unpasteurised milk, fresh homemade cheese, or contact with livestock, and is one of the most common bacterial infections in Syria, Jordan, Iraq and Saudi Arabia.",
+        "The hallmark is undulant fever: temperature rises each evening, drenches you with sweat by morning, then settles briefly before rising again.",
+        "Diagnosis requires specific blood tests (Rose Bengal or Wright agglutination), not a routine blood count.",
+        "Treatment uses two antibiotics together for at least six weeks. Stopping early is the most common reason for relapse.",
+        "Pasteurised dairy is safe. The risk comes from raw milk and fresh uncooked cheeses sold directly from farms."
+      ],
+      "sections": [
+        {
+          "h2": "What is brucellosis and how do people catch it?",
+          "paras": [
+            "Brucellosis is caused by Brucella bacteria, which live naturally in cattle, sheep, goats and camels. People become infected mainly by consuming unpasteurised milk or products made from it, including fresh homemade cheese, cream and unprocessed butter. A 2025 study in Nature Communications found that camel milk is a significantly underappreciated source of brucellosis in Arab rural communities, with infection rates higher than previously recognised.",
+            "Infection can also spread through inhaling contaminated particles near animal pens, or by handling animal tissue during slaughter or birth. Farmers, veterinarians, abattoir workers and shepherds are at higher occupational risk than the general population. Transmission from person to person is extremely rare.",
+            "Across the Middle East and North Africa, brucellosis causes more human illness than almost any other bacterial zoonosis. Syria, Jordan, Iraq and Saudi Arabia report among the highest rates in the world, driven by the cultural practice of making and sharing fresh dairy products within households and communities."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "warn",
+            "title": "Foods that carry the highest risk",
+            "items": [
+              "Raw milk from cows, sheep, goats or camels",
+              "Fresh homemade white cheese (baladi, halloumi, jibneh)",
+              "Unprocessed local cream and butter",
+              "Undercooked organ meats, particularly liver and lung"
+            ]
+          }
+        },
+        {
+          "h2": "What does brucellosis feel like?",
+          "paras": [
+            "The time between exposure and symptoms ranges from one to eight weeks. The defining feature is the undulant fever: temperature climbs in the late afternoon or evening to 39 or 40 degrees Celsius, accompanied by drenching sweating, then falls gradually by morning leaving a fleeting sensation of improvement before the cycle repeats. This wave pattern gave the disease its older name, undulant fever.",
+            "Joint and muscle pain is almost universal, particularly affecting the knees, hips and lower back. Fatigue, headache and loss of appetite are consistent. The spleen and liver may enlarge, which can feel like a heaviness or discomfort in the upper abdomen.",
+            "The clinical picture looks strikingly like influenza, typhoid or other febrile illnesses, which is why diagnosis is frequently delayed by weeks. Many patients treat themselves with paracetamol or assume a viral illness will resolve. The key differentiator is the evening fever pattern combined with a dietary or occupational exposure history."
+          ],
+          "visual": {
+            "type": "timeline",
+            "title": "The typical course of brucellosis",
+            "items": [
+              {"when": "Week 1", "what": "Mild fever, fatigue, headache"},
+              {"when": "Week 2-3", "what": "Undulant evening fever with drenching night sweats"},
+              {"when": "Week 3-6", "what": "Joint and muscle pain, possible spleen enlargement"},
+              {"when": "Without treatment", "what": "Illness persists for months and becomes chronic"}
+            ]
+          }
+        },
+        {
+          "h2": "Which tests diagnose brucellosis?",
+          "paras": [
+            "A standard blood count (CBC) will not diagnose brucellosis. The primary diagnostic test is the Rose Bengal test for rapid screening, confirmed by the Wright serum agglutination test (SAT). The Wright test is considered positive when the titre reaches 1:160 or above in endemic regions, though laboratory reference ranges vary. A 2015 study in the journal Infection noted that detectable antibody titres can persist for years after successful treatment, which means a positive result must always be interpreted alongside symptoms and exposure history.",
+            "Timing matters. During the first week of illness, antibody tests may be falsely negative because the immune response is still building. If clinical suspicion remains strong, repeat testing after one to two weeks is appropriate. Blood culture is the most specific confirmatory method, but takes two to four weeks and requires a specialised laboratory, which limits its practicality in many regional settings.",
+            "PCR-based testing offers faster results and high specificity where available. When you go for testing, tell the laboratory technician clearly that brucellosis is suspected. The standard blood request form often does not prompt for these specific tests automatically."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Diagnostic tests for brucellosis",
+            "head": ["Test", "What it detects", "Practical note"],
+            "rows": [
+              ["Rose Bengal", "Antibodies (rapid screen)", "First-line; guides further testing"],
+              ["Wright SAT", "Antibody titre", "Positive at 1:160 or above in endemic areas"],
+              ["Blood culture", "Live bacteria", "Definitive; takes 2 to 4 weeks"],
+              ["PCR", "Bacterial DNA", "Accurate and fast; not available everywhere"]
+            ]
+          }
+        },
+        {
+          "h2": "How is brucellosis treated, and for how long?",
+          "paras": [
+            "Because Brucella bacteria survive inside human cells, a single antibiotic rarely achieves cure. The internationally recommended approach combines two drugs. The most widely used regimen pairs doxycycline for six weeks with rifampicin for six weeks, or with intramuscular streptomycin for the first two to three weeks. Al-Tawfiq and Memish, reviewing treatment evidence in 2013, confirmed that combination therapy significantly reduces relapse rates compared with monotherapy.",
+            "Uncomplicated brucellosis is treated for six weeks. Complications involving the spine, heart valves, or nervous system may require three months or longer, with the specific regimen chosen according to the site and severity of infection. Starting treatment promptly after diagnosis reduces the risk of the infection becoming established in joints or the spine.",
+            "A 2025 study published in PLoS Neglected Tropical Diseases, conducted in an endemic region in Saudi Arabia, documented relapse in a meaningful proportion of patients and found that incomplete treatment courses were among the strongest predictors. The practical message is consistent: take both drugs for the full prescribed duration even when you feel well by week two or three."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "Staying safe during brucellosis treatment",
+            "items": [
+              "Take both antibiotics together for the full course, usually six weeks",
+              "Take doxycycline with food or milk to reduce stomach irritation",
+              "Rifampicin turns urine, sweat and tears orange-red. This is expected and harmless",
+              "Tell your doctor immediately if fever returns after completing treatment",
+              "Women on hormonal contraception should ask about additional protection, as rifampicin reduces its effectiveness"
+            ]
+          }
+        },
+        {
+          "h2": "When does brucellosis become an emergency?",
+          "paras": [
+            "Most cases are managed safely as outpatients with oral antibiotics. However, several complications require urgent medical attention. Spinal brucellosis (spondylitis) causes escalating back pain and can progress to weakness in the legs or difficulty passing urine. It accounts for ten to thirty percent of complications in chronic cases and needs imaging and a prolonged antibiotic course.",
+            "Endocarditis, or infection of the heart valves, is rare but the most life-threatening complication. It may require surgery in addition to months of antibiotics. Neurobrucellosis, involving the brain and meninges, presents with severe headache, stiff neck, and confusion and is a medical emergency."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "Seek medical care urgently if you develop",
+            "items": [
+              "Severe back pain with leg weakness or numbness",
+              "Shortness of breath or palpitations",
+              "Severe headache with neck stiffness or confusion",
+              "Painful swelling of a testicle (orchitis)",
+              "Fever returning after completing a full treatment course"
+            ]
+          }
+        },
+        {
+          "h2": "How can brucellosis be prevented?",
+          "paras": [
+            "Pasteurisation destroys Brucella completely. Commercially produced milk sold in sealed containers from reputable dairies is safe. The risk lies almost entirely in raw milk purchased directly from farms, and in fresh cheeses made without pasteurisation. The longer a fresh cheese is salted and left to drain, the greater the reduction in bacterial load, but salting and aging alone do not reliably eliminate Brucella and cannot be relied upon as a safety measure.",
+            "The cultural value placed on fresh local dairy in many parts of the Middle East is understandable, and the advice to avoid it is often unwelcome. A practical middle ground for households that keep their own animals is to heat raw milk to a rolling boil for two minutes before consuming it or using it to make cheese. This is not perfect pasteurisation but substantially reduces the bacterial load.",
+            "Thorough cooking protects against meat-borne transmission. Organ meats such as liver and lung need to be cooked through with no remaining pink. For farmers, shepherds and abattoir workers, wearing rubber gloves during animal deliveries and when handling placental tissue is the most important single protective measure, as birth fluids carry the highest bacterial concentrations encountered in any occupational setting.",
+            "There is currently no approved human vaccine against brucellosis. Animal vaccination programmes, when applied consistently to national herds, reduce the reservoir of infection and protect the human population indirectly. In regions where animal vaccination is inconsistent or interrupted by conflict or supply disruption, the burden of prevention falls more heavily on individual dietary choices and occupational precautions."
+          ]
+        },
+        {
+          "h2": "Brucellosis in pregnancy",
+          "paras": [
+            "Brucellosis during pregnancy is associated with an increased risk of miscarriage and foetal death, particularly in the first and second trimesters. This makes early diagnosis especially important for pregnant women living in endemic areas or with a clear dietary exposure.",
+            "Treatment options are limited in pregnancy because doxycycline is contraindicated. Doctors must use alternative combinations such as rifampicin with co-trimoxazole, or rifampicin alone for milder cases, weighing the risks to the foetus against the consequences of untreated infection. Any pregnant woman who suspects brucellosis should discuss it with her doctor without delay.",
+            "Family members who shared the same food source should also be tested. A single meal of contaminated raw cheese can infect multiple people in a household at the same time, and some may have mild or atypical symptoms that are easy to dismiss."
+          ]
+        },
+        {
+          "h2": "Life during and after treatment",
+          "paras": [
+            "Fatigue is the most persistent and disabling symptom, often continuing for weeks after the fever resolves and antibiotics are working correctly. This is not a sign of treatment failure. The body is recovering from a deep intracellular infection, and rest is a legitimate part of that process. Returning to heavy physical work too early prolongs recovery and may cause a premature sense that the treatment is failing.",
+            "Doxycycline increases sun sensitivity considerably. In a climate where summer temperatures regularly exceed forty degrees and outdoor exposure is unavoidable, this side effect is practically significant. Wear protective clothing or apply sunscreen rated SPF 30 or above during treatment, particularly between April and October. Take doxycycline with a small meal or glass of milk to reduce the stomach irritation that leads some patients to skip doses.",
+            "Follow-up blood tests at three and six months after completing treatment are standard practice to check for relapse. Even with a successful course, antibody titres may remain mildly positive for a year or more because the immune system retains a memory of the infection. The follow-up interpretation should be done by the same physician who managed the initial episode, since interpreting a titre in isolation, without knowing the pre-treatment level, can lead to unnecessary concern or a second unnecessary course of treatment.",
+            "Rifampicin turns urine, sweat, tears and contact lenses orange-red. This is entirely expected and causes no harm, but patients who are not warned in advance sometimes stop taking the drug thinking something has gone wrong. Rifampicin also reduces the effectiveness of hormonal contraceptives, so women using the pill or patch should use additional contraception for the duration of treatment and for a further four weeks afterwards."
+          ]
+        },
+        {
+          "h2": "Tracking your recovery with Sihtak",
+          "paras": [
+            "Six weeks of twice-daily antibiotics is a long commitment, and it is easy to lose track of symptoms or forget whether you took today's dose. The Sihtak app lets you log your temperature each day, record how your joint pain and energy are progressing, and keep a medication diary to share with your doctor at the follow-up visit.",
+            "Documenting the pattern of your fever over several days, rather than relying on memory, makes it much easier for your doctor to judge whether the treatment is working and when it is safe to stop."
+          ]
+        }
+      ],
+      "tie": "Use Sihtak to log your daily temperature and symptoms throughout the six-week treatment course for brucellosis. A clear record helps your doctor track your progress and spot any sign of relapse early.",
+      "faqs": [
+        {
+          "q": "Can brucellosis spread from one person to another?",
+          "a": "Person-to-person transmission is extremely rare in ordinary household or social contact. The bacteria spread almost entirely from infected animals or their products to humans. Caring for someone with brucellosis does not require special precautions beyond normal hygiene."
+        },
+        {
+          "q": "Does cooking kill Brucella in cheese or meat?",
+          "a": "Yes. Standard pasteurisation temperatures eliminate Brucella from milk. Thorough cooking of meat and organ meats is protective. The problem is that fresh white cheese is typically eaten raw, so cooking is not part of the equation for this high-risk food."
+        },
+        {
+          "q": "My Rose Bengal test is positive but I feel fine. What does that mean?",
+          "a": "Antibodies against Brucella can remain detectable for years after a previous infection that was fully treated. A positive test without current symptoms may reflect old exposure rather than active disease. Your doctor will interpret it alongside your history and may request a Wright titre or follow-up testing before deciding whether treatment is needed."
+        },
+        {
+          "q": "How long is the treatment and will I need follow-up tests?",
+          "a": "Uncomplicated cases require six weeks of two antibiotics taken together. Spine or heart involvement may need three to six months. After completing treatment, follow-up blood tests at three and six months are standard to confirm there is no relapse."
+        },
+        {
+          "q": "Is there a vaccine to prevent brucellosis in humans?",
+          "a": "No approved human vaccine exists at present. Prevention relies on avoiding raw dairy products and using protective equipment around livestock. Veterinary vaccines given to animals reduce the reservoir of infection and indirectly protect people."
+        },
+        {
+          "q": "I felt much better after two weeks and stopped the antibiotics. Was that a mistake?",
+          "a": "Yes, stopping early is the leading cause of relapse. The bacteria can persist at low levels in cells without causing obvious symptoms, then re-emerge weeks or months later causing a second illness that is often harder to treat than the first. If you stopped early, let your doctor know so they can assess whether you need to restart."
+        },
+        {
+          "q": "Should everyone in my household be tested if I have brucellosis?",
+          "a": "Any family member who ate from the same suspected food source, particularly raw milk or homemade cheese, should be tested even without symptoms. Brucellosis can cause very mild or non-specific illness, and some people carry a meaningful infection without realising it."
+        }
+      ]
+    }
+  }
+}

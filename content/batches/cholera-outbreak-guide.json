@@ -1,0 +1,355 @@
+{
+  "slug": "cholera-outbreak-guide",
+  "category": "infectious-diseases",
+  "chip_ar": "أمراض معدية",
+  "chip_en": "Infectious Diseases",
+  "date_iso": "2026-08-05",
+  "sources": [
+    {
+      "label": "Chowdhury F, Ross AG, Islam MT et al: Diagnosis, Management, and Future Control of Cholera, Clinical microbiology reviews, 2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35726607/"
+    },
+    {
+      "label": "Harris JB, LaRocque RC, Qadri F et al: Cholera, Lancet, 2012",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22748592/"
+    },
+    {
+      "label": "Nasr H, Al-Zumair M, Al-Mahbashi T et al: Factors associated with the cholera outbreak in Al-Mahweet-Yemen: Analytic Study, Journal of infection in developing countries, 2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38377087/"
+    },
+    {
+      "label": "Ng QX, De Deyn MLZQ, Loke W et al: Yemen's Cholera Epidemic Is a One Health Issue, Journal of preventive medicine and public health, 2020",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32752599/"
+    },
+    {
+      "label": "Ahmed AK, Sijercic VC, Akhtar MS et al: Cholera rages in Africa and the Middle East: A narrative review on challenges and solutions, Health science reports, 2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38742091/"
+    },
+    {
+      "label": "Guerrant RL, Carneiro-Filho BA, Dillingham RA et al: Cholera, diarrhea, and oral rehydration therapy: triumph and indictment, Clinical infectious diseases, 2003",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12884165/"
+    },
+    {
+      "label": "World Health Organization: Cholera fact sheet",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/cholera"
+    }
+  ],
+  "content": {
+    "ar": {
+      "title": "الكوليرا: كيف تعرفها وكيف تمنع الوفاة من الجفاف",
+      "desc": "وباء الكوليرا (Cholera) ضرب اليمن وسوريا والسودان. تعرف على أعراض الجفاف الشديد وكيفية تحضير محلول الإماهة الفموي في المنزل.",
+      "keywords": "الكوليرا, cholera, وباء اليمن, إسهال مائي, محلول الإماهة الفموي, جفاف حاد, تنقية الماء, الكوليرا سوريا",
+      "h1": "الكوليرا: التعرف على الجفاف القاتل والخطوات التي تنقذ الحياة",
+      "takeaways": [
+        "الكوليرا تسبب إسهالا مائيا شديدا يُفضي إلى الموت في ساعات إذا لم يُعالج الجفاف فورا.",
+        "محلول الإماهة الفموية (ORS) هو العلاج الأساسي وهو ما ينقذ 90 بالمئة من الحالات غير الشديدة دون الحاجة للمستشفى.",
+        "الماء غير المعالج والطعام الملوث هما المصدر الرئيسي للعدوى في مناطق الأوبئة.",
+        "اليمن وسوريا والسودان شهدت بعض أسوأ أوبئة الكوليرا في العقد الأخير وفق منظمة الصحة العالمية.",
+        "يجب الإسراع للمستشفى عند ظهور علامات الجفاف الشديد كالعيون الغائرة وضعف التبول وانعدام الدموع."
+      ],
+      "sections": [
+        {
+          "h2": "ما هي الكوليرا وكيف تنتشر في مناطق النزاع والكوارث؟",
+          "paras": [
+            "الكوليرا مرض إسهالي حاد تُسببه بكتيريا تُسمى ضمة الكوليرا (Vibrio cholerae). هذه البكتيريا تُفرز سما قويا يجعل جدار الأمعاء الدقيقة يُفرز كميات هائلة من السوائل والأملاح، فينتج إسهال مائي يشبه ماء الأرز في لونه وقوامه، وقد يصل حجمه إلى عشرين لترا في اليوم في الحالات الشديدة. هذا الفقدان الهائل للسوائل هو ما يقتل المريض إذا لم يُعوض بسرعة.",
+            "تنتقل الكوليرا بشكل رئيسي عبر شرب مياه ملوثة بالبكتيريا أو أكل طعام أُعد بمياه ملوثة. ينتشر المرض بسرعة في البيئات التي يختلط فيها الصرف الصحي بمصادر المياه النظيفة، وهذا بالضبط ما يحدث في مخيمات النازحين وأحياء المدن المكتظة التي دمرت الحروب بنيتها التحتية. لا تنتقل الكوليرا باللمس المباشر مع المريض في معظم الأحيان، لكن البراز غير المعالج للمصابين يُلوث المحيط بشكل خطير.",
+            "اليمن شهد واحدة من أسوأ أوبئة الكوليرا في التاريخ الحديث منذ عام 2016 حتى اليوم، وقد وثقت الأبحاث المنشورة في مجلة صحة الوقاية والصحة العامة عام 2020 ارتباط الوباء اليمني بانهيار نظام المياه والصرف الصحي وضعف النظام الصحي المحاصر. سوريا والسودان شهدتا موجات كوليرا متعاقبة أيضا في السنوات الأخيرة وفق منظمة الصحة العالمية وتقارير إقليمية متعددة."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "warn",
+            "title": "من الأكثر عرضة للإصابة؟",
+            "items": [
+              "ساكنو مخيمات اللجوء والنزوح الداخلي حيث قد يكون الماء ملوثا",
+              "من يشربون مياها من أنهار أو آبار غير معالجة خلال موجات الأوبئة",
+              "من يأكلون طعاما طازجا أو مأكولات بحرية غير مطهوة في مناطق الوباء",
+              "الأطفال والمسنون ومن يعانون من سوء التغذية أو ضعف المناعة"
+            ]
+          }
+        },
+        {
+          "h2": "كيف تعرف إذا كانت هذه كوليرا؟",
+          "paras": [
+            "الكوليرا كلاسيكيا تبدأ فجأة وبشكل صاعق: إسهال مائي غزير لا يُصاحبه عادة ألم في البطن أو حمى في البداية، وقيء. ما يُميز الكوليرا هو سرعة فقدان السوائل المرعبة. شخص صحيح تماما قد يُصبح في خطر الوفاة خلال ساعات إذا لم يُعالج. يوصف إسهال الكوليرا أحيانا بأنه يشبه ماء أرز غسيل، مائل للبياض وبدون دم عادة.",
+            "لكن ليست جميع حالات الكوليرا كلاسيكية بهذا الوضوح. دراسة شاملة نُشرت في مجلة Clinical Microbiology Reviews عام 2022 أشارت إلى أن أكثر من 80 بالمئة من حالات العدوى بضمة الكوليرا تكون إما بدون أعراض تماما أو خفيفة تشبه إسهالا اعتياديا. هذا يعني أن الحالات الخفيفة تُضاعف انتشار البكتيريا في البيئة من خلال أشخاص لا يعرفون أنهم مصابون.",
+            "في سياق وباء قائم، أي إسهال مائي سريع الوتيرة يجب أن يُعامل كحالة كوليرا محتملة حتى يثبت العكس، وتبدأ إجراءات الإماهة فورا بغض النظر عن التشخيص النهائي. انتظار نتائج المختبر لبدء الإماهة قد يُهدد الحياة في الحالات الشديدة."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "تقييم شدة الجفاف في الكوليرا",
+            "head": ["العلامة", "جفاف خفيف", "جفاف شديد"],
+            "rows": [
+              ["حالة المريض العامة", "نشط قادر على الشرب", "خمول أو فقدان وعي"],
+              ["العيون", "طبيعية", "غائرة بشكل واضح"],
+              ["الدموع عند البكاء", "موجودة", "منعدمة"],
+              ["الفم والشفتان", "جافتان قليلا", "جافتان جدا"],
+              ["التبول", "انخفض", "انعدم أو قل جدا"],
+              ["ثنية جلد البطن", "تعود في ثانية", "تعود ببطء شديد أو تبقى"]
+            ]
+          }
+        },
+        {
+          "h2": "كيف تُحضر محلول الإماهة الفموية في المنزل؟",
+          "paras": [
+            "محلول الإماهة الفموية (Oral Rehydration Solution أو ORS) هو الاكتشاف الذي حوّل الكوليرا من قاتل شبه مؤكد إلى حالة قابلة للعلاج في معظمها. أثبتت دراسات عديدة أن الإماهة الفموية تُخفض وفيات الكوليرا من أكثر من 50 بالمئة في الحالات غير المعالجة إلى أقل من 1 بالمئة. المبدأ بسيط: الجسم يفقد الماء والأملاح المعدنية معا، ومحلول ORS يُعيد كليهما في آن واحد بنسب تجعل الأمعاء تمتصهما بكفاءة أعلى من الماء وحده.",
+            "حزم ORS الجاهزة متوفرة في مراكز الصحة والصيدليات ومستودعات منظمات الإغاثة في مناطق الأوبئة. لكن إذا لم تجدها، يمكن تحضير محلول أساسي في المنزل يحمي من الجفاف القاتل.",
+            "تذكر دائما أن المحلول المُحضر في المنزل لا يكفي في الحالات الشديدة. إذا كان المريض يفقد السوائل بسرعة أكثر مما يستطيع شربه، أو كان يتقيأ كل ما يشربه، أو ظهرت عليه علامات الجفاف الشديدة، فالمحلول الوريدي في المستشفى هو الحل الوحيد."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "كيف تُحضر محلول الإماهة الفموية في المنزل",
+            "items": [
+              "اغلي لترا من الماء لمدة دقيقة كاملة ودعه يبرد",
+              "أضف ملعقة صغيرة مستوية من الملح (6 غرامات)",
+              "أضف ست ملاعق صغيرة مستوية من السكر (30 غراما)",
+              "حرك جيدا حتى يذوب الملح والسكر تماما",
+              "أعطِ المريض رشفة كل دقيقتين إذا كان يتقيأ، وكميات أكبر إذا كان يتحملها",
+              "استخدم المحلول خلال 8 ساعات فقط في الجو الحار وأعد تحضيره بعدها"
+            ]
+          }
+        },
+        {
+          "h2": "كميات المحلول التي يحتاجها المريض ومتابعة الإماهة",
+          "paras": [
+            "القاعدة العامة هي أن يشرب المريض محلول ORS مقابل كل ما يفقده من سوائل. للبالغ الذي يُعاني إسهالا متوسطا يُنصح بشرب ما بين لترين وثلاثة لترات في الساعات الست إلى الثماني الأولى. الطفل دون سن الخامسة يحتاج إلى 75 ملليلترا لكل كيلوغرام من وزنه في الساعات الأولى.",
+            "إذا كان المريض يتقيأ، لا تتوقف عن إعطائه المحلول لكن قلل الكمية وكررها كل دقيقتين. الجهاز الهضمي يمتص كميات صغيرة حتى في حضور القيء. الأطفال الرضع يمكن إعطاؤهم المحلول بملعقة صغيرة كل دقيقة. توقف عن إعطاء الحليب الصناعي أو الطعام الصلب حتى ينتهي الإسهال الشديد.",
+            "مؤشر أن الإماهة تعمل هو أن يبدأ المريض في التبول ثانية خلال ساعات، وأن يُصبح أكثر نشاطا وانتباها. إذا لم يتحسن المريض أو زادت الحالة سوءا بعد ساعتين إلى ثلاث ساعات من الإماهة المنزلية، أو ظهرت علامات الجفاف الشديد، فالاتجاه للمستشفى ضروري وعاجل."
+          ]
+        },
+        {
+          "h2": "متى تذهب للمستشفى فورا؟",
+          "paras": [
+            "بعض حالات الكوليرا تستوجب السوائل الوريدية (Intravenous fluids) لأن الجسم يفقد السوائل بسرعة أكبر مما يمكن تعويضه بالشرب. هذه الحالات تحتاج رعاية طارئة فورية. التأخر في حالات الجفاف الشديد يمكن أن يُسبب الوفاة خلال ساعات حتى عند بالغين كانوا أصحاء تماما قبل ذلك بيوم.",
+            "المضادات الحيوية تُستخدم أحيانا في الحالات الشديدة لتقليل مدة الإسهال وحجم السوائل المفقودة، لكنها ليست بديلا عن الإماهة وليست ضرورة في الحالات الخفيفة. قرار إعطائها يتخذه الطبيب بعد التقييم. الأطفال دون سن السنتين والمسنون والحوامل والمصابون بسوء التغذية الشديد يجب أن يُقيَّموا في مرفق صحي في وقت مبكر حتى لو بدت الحالة خفيفة.",
+            "لقاحات الكوليرا الفموية متوفرة وتُوزعها منظمات الصحة الدولية في مناطق الأوبئة. اللقاح الفموي يُعطي حماية جيدة لمدة سنتين تقريبا لكنه لا يُلغي الحاجة لاحتياطات سلامة المياه والغذاء."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "اذهب للمستشفى فورا إذا",
+            "items": [
+              "المريض لا يستطيع الشرب بسبب كثرة القيء",
+              "المريض فاقد الوعي أو في حالة وعي مضطربة",
+              "ظهرت عيون غائرة جدا وجلد لا يعود لوضعه بعد الضغط",
+              "المريض لم يتبول منذ أكثر من ست ساعات",
+              "الإسهال شديد جدا كأكثر من عشر مرات في ساعة"
+            ]
+          }
+        },
+        {
+          "h2": "كيف تحمي بيتك وجيرانك من الكوليرا؟",
+          "paras": [
+            "تنقية مياه الشرب هي الخطوة الأهم في مناطق الوباء. الماء يجب إما غليه لمدة دقيقة كاملة ثم تخزينه في إناء مغطى نظيف، أو معالجته بالكلور السائل المناسب للشرب وفق التركيزات الموصى بها من منظمة الصحة العالمية. أقراص التعقيم المخصصة للماء تُوزع في مناطق الكوارث من قِبل منظمات الإغاثة وهي فعالة وسهلة الاستخدام وتُجهز لترا من الماء في دقائق معدودة. الماء المُعالج يُخزن في إناء نظيف مغطى ولا يُمس داخله بيد أو أداة غير نظيفة.",
+            "غسل اليدين بالصابون قبل تناول الطعام وإعداده، وبعد استخدام الحمام وتغيير حفاضات الأطفال وبعد التعامل مع المريض، يُقلل انتقال البكتيريا بشكل كبير جدا. في حال غياب الصابون يمكن استخدام رماد الخشب الأبيض كبديل طارئ مع كميات وفيرة من الماء، وهو أفضل من غسل اليدين بالماء وحده. من المهم تجفيف اليدين بعد الغسل على قطعة قماش نظيفة لأن اليدين الرطبتين تنقلان البكتيريا بسهولة أكبر.",
+            "الطعام يجب طهيه جيدا حتى درجة الغليان وتناوله ساخنا. الأسماك والمأكولات البحرية الخام أو نصف المطبوخة خطيرة جدا في مناطق الوباء وتُعد من أكثر مصادر العدوى انتشارا. الفواكه والخضروات التي تُؤكل بقشرتها نيئة يجب غسلها بماء معقم لا بماء الصنبور غير المعالج. النفايات البشرية يجب دفنها بعيدا عن مصادر المياه ومناطق إعداد الطعام، وبراز الأطفال الصغار خاصة يجب التخلص منه بعناية لأنه يحتوي على كميات كبيرة من البكتيريا التي يُسهل على الأطفال الآخرين ابتلاعها عند اللعب."
+          ]
+        },
+        {
+          "h2": "التغذية بعد الشفاء من الكوليرا",
+          "paras": [
+            "التغذية السليمة بعد نوبة الكوليرا مهمة لاستعادة القوة وتجنب الانتكاسة. الاعتقاد الشائع بأن المريض يجب أن يصوم عن الطعام حتى يتوقف الإسهال خاطئ ومضر تماما. الطعام يُساعد على تسريع تعافي خلايا بطانة الأمعاء، وحرمان الجسم منه يُطيل فترة الإسهال ويزيد الضعف والخطر من سوء التغذية الحاد.",
+            "ابدأ بأطعمة سهلة الهضم فور تحسن قدرة المريض على الأكل: الأرز المطبوخ جيدا، والبطاطا المسلوقة، والموز، وعصيدة القمح أو الشوفان بدون إضافات دهنية. هذه الأطعمة تُعطي طاقة وسهلة الهضم. الأطعمة الدهنية والحارة والحليب ومنتجاته الكاملة الدسم تُؤجل حتى التعافي الكامل لأنها قد تُهيج الأمعاء المتعافية. الرضاعة الطبيعية للرضع تستمر دون انقطاع طوال فترة المرض والتعافي ولا ينبغي وقفها أبدا.",
+            "الزنك مهم بشكل خاص للأطفال دون سن الخامسة بعد نوبة إسهال حادة. تُوصي منظمة الصحة العالمية بإعطاء مكمل الزنك بجرعة 20 ملليغراما يوميا لمدة عشرة إلى أربعة عشر يوما للأطفال فوق ستة أشهر، وعشرة ملليغرامات يوميا للرضع دون ستة أشهر. يُقلل الزنك شدة الإسهال ومدته ويُقلل خطر الإصابة بنوبة إسهال أخرى في الأسابيع التالية، وهو أمر مهم جدا في البيئات التي يظل فيها التعرض للعدوى ممكنا."
+          ]
+        },
+        {
+          "h2": "الكوليرا في منطقتنا: لماذا تستمر الأوبئة؟",
+          "paras": [
+            "الكوليرا مرض يتوقف على ثلاثة عوامل: وجود البكتيريا في البيئة، وتلوث مصادر المياه، وضعف النظام الصحي. في اليمن وسوريا والسودان توافرت هذه العوامل الثلاثة معا بفعل سنوات من النزاع والحصار وانهيار البنية التحتية. دراسة نُشرت في مجلة الأمراض المعدية في الدول النامية عام 2024 حللت تفشي الكوليرا في اليمن ووجدت أن الأحياء التي تعاني من انقطاع المياه ومشاكل الصرف الصحي كانت الأكثر تضررا بفارق كبير. مراجعة شاملة نُشرت في Health Science Reports عام 2024 عن الكوليرا في أفريقيا والشرق الأوسط أكدت أن معدلات الوفاة تنخفض بشكل حاد حين تتوفر محاليل ORS والمعلومات الأساسية عن علامات الجفاف الشديد في المجتمعات المعرضة للخطر.",
+            "المشكلة الأساسية ليست نقص دواء شحيح أو غالي الثمن. ORS رخيص جدا ويمكن تحضيره في المنزل من مواد متوفرة في كل مطبخ. المشكلة الحقيقية هي أن معرفة متى يجب الذهاب للمستشفى ومتى يكفي محلول ORS المنزلي تنقص كثيرا من الأسر المعرضة للخطر في مناطق النزاع. هذه الفجوة في المعرفة هي ما يُحول حالات قابلة للعلاج بسهولة إلى وفيات يمكن تفاديها.",
+            "منظمة الصحة العالمية ومنظمات الإغاثة الدولية تُنشئ نقاط علاج الكوليرا (Cholera Treatment Centers) في مناطق الأوبئة وتُوزع مستلزمات ORS وأقراص تنقية المياه. إذا كنت في منطقة بها تفشٍ معلن، اسأل في مركز الصحة الأقرب أو لدى عمال منظمات الإغاثة عن أقرب نقطة علاج وعن طريقة الحصول على مستلزمات الوقاية. لا تنتظر أن يشتد المرض قبل أن تسعى للمعلومة أو الدعم."
+          ]
+        }
+      ],
+      "tie": "في أوقات الأوبئة والأزمات، يمكنك استخدام سهتك لتتبع أعراضك وأعراض أفراد أسرتك يوما بيوما وتسجيل الأدوية التي تُعطى لكل شخص، مما يُساعد على التنبه لأي تدهور سريع يستوجب مراجعة مركز صحي.",
+      "faqs": [
+        {
+          "q": "هل الكوليرا تنتقل من شخص لآخر بالتلامس المباشر؟",
+          "a": "لا تنتقل الكوليرا عادة بالتلامس المباشر مع المريض. المصدر الرئيسي للعدوى هو الماء أو الطعام الملوث ببراز المصابين. لكن إذا اعتنيت بمريض كوليرا يجب غسل يديك بالصابون بعد ملامسة برازه أو قيئه لأن البكتيريا موجودة فيهما."
+        },
+        {
+          "q": "هل الكوليرا يمكن علاجها في المنزل دون الذهاب للمستشفى؟",
+          "a": "الحالات الخفيفة إلى المتوسطة تُعالج في المنزل بمحلول ORS بنجاح كبير. الحالات الشديدة التي يفقد فيها المريض السوائل بسرعة كبيرة أو يتقيأ كل ما يشربه أو تظهر عليه علامات الجفاف الشديد تحتاج إلى سوائل وريدية في مرفق صحي ولا يُمكن علاجها في المنزل."
+        },
+        {
+          "q": "هل محلول ORS ينفع للإسهال العادي أيضا؟",
+          "a": "نعم، محلول ORS مفيد لأي إسهال حاد يُهدد بالجفاف، ليس فقط الكوليرا. هو العلاج الأساسي الموصى به من منظمة الصحة العالمية لجميع أنواع الإسهال الحاد في الأطفال والبالغين، وهو يُنقذ أرواحا أكثر من أي دواء آخر في هذه الحالات."
+        },
+        {
+          "q": "هل هناك لقاح ضد الكوليرا؟",
+          "a": "نعم، توجد لقاحات فموية ضد الكوليرا تُوزع في مناطق الأوبئة. تُعطي حماية جيدة لسنتين تقريبا لكنها لا تُغني عن الحذر مع المياه والطعام. اسأل في المركز الصحي الأقرب إذا كنت في منطقة بها تفشٍ معلن."
+        },
+        {
+          "q": "هل الكوليرا موجودة في كل مياه الأنهار والآبار في المنطقة؟",
+          "a": "لا، الكوليرا ليست موجودة في كل مكان. تظهر في مناطق بعينها وفي أوقات تفشٍ محددة، غالبا بعد كوارث أو في مناطق تعاني من انهيار منظومة الصرف الصحي. في غير أوقات الأوبئة، الماء النظيف المعالج آمن."
+        },
+        {
+          "q": "كيف أعقم الماء إذا لم يتوفر لي الكلور أو أقراص التعقيم؟",
+          "a": "الغليان هو الطريقة الأكثر موثوقية وهي متاحة دون أي معدات خاصة. اغلِ الماء لمدة دقيقة كاملة (دقيقتان إذا كنت فوق 2000 متر ارتفاعا)، ثم دعه يبرد في إناء مغطى نظيف ولا تضع فيه يدك أو أي أداة غير نظيفة."
+        },
+        {
+          "q": "هل السكر ضروري في محلول ORS أم يمكن الاستغناء عنه؟",
+          "a": "السكر ضروري ولا يمكن الاستغناء عنه. الجلوكوز يُساعد الأمعاء على امتصاص الملح والماء بكفاءة أعلى من الملح وحده، وهذا هو المبدأ العلمي الذي يجعل ORS أفضل من الماء البسيط. الماء المغلي وحده لا يكفي لعلاج الجفاف الناجم عن الكوليرا. لا تُضف كمية سكر أكبر من الموصوفة لأن الكمية الزائدة تُسوء الإسهال."
+        }
+      ]
+    },
+    "en": {
+      "title": "Cholera: Recognising It and Preventing Death from Dehydration",
+      "desc": "Cholera outbreaks in Yemen, Syria and Sudan make this urgently regional. Learn dehydration signs, how to make oral rehydration solution at home, and when to go to hospital.",
+      "keywords": "cholera symptoms treatment, oral rehydration solution recipe, cholera dehydration, cholera Yemen Syria, ORS home recipe, cholera outbreak prevention, water purification cholera",
+      "h1": "Cholera: How to Recognise It, Treat Dehydration at Home, and Know When to Go to Hospital",
+      "takeaways": [
+        "Cholera causes profuse watery diarrhoea that can kill through dehydration within hours if fluids are not replaced immediately.",
+        "Oral rehydration solution (ORS) is the primary treatment and saves more than 90 percent of mild to moderate cases without hospital admission.",
+        "Contaminated water and food are the main sources of infection in outbreak areas.",
+        "Yemen, Syria and Sudan have experienced some of the worst cholera outbreaks of the last decade.",
+        "Go to hospital immediately for signs of severe dehydration: sunken eyes, no urination for six hours, inability to drink, or loss of consciousness."
+      ],
+      "sections": [
+        {
+          "h2": "What is cholera and why does it spread so fast?",
+          "paras": [
+            "Cholera is an acute diarrhoeal disease caused by the bacterium Vibrio cholerae. The bacterium produces a toxin that causes the lining of the small intestine to secrete enormous amounts of fluid and salts into the bowel, resulting in profuse watery diarrhoea that resembles water left after rinsing rice. In severe cases this fluid loss can reach 20 litres in a day. It is this rapid loss of fluid and electrolytes, not the bacterium itself, that kills.",
+            "Cholera spreads primarily through drinking water contaminated with the bacterium or eating food prepared with contaminated water. It spreads explosively in environments where sewage mixes with drinking water supplies, which is exactly what happens in refugee camps, overcrowded urban neighbourhoods with broken sanitation infrastructure, and areas where conflict has destroyed water treatment systems. It does not typically spread through casual contact with a sick person, but uncontained faeces from infected individuals contaminate the surrounding environment rapidly.",
+            "Yemen has experienced one of the largest cholera outbreaks in recorded history since 2016, driven by the collapse of water infrastructure and health system disruption documented in research published in the Journal of Preventive Medicine and Public Health. A 2024 study published in the Journal of Infection in Developing Countries analysed the specific outbreak in Al-Mahweet, Yemen and found that areas with water supply interruptions and poor sanitation had significantly higher case rates. Syria and Sudan have seen multiple cholera waves in recent years, and the WHO and regional health journals track these as ongoing emergencies."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "warn",
+            "title": "Who is most at risk during an outbreak?",
+            "items": [
+              "Residents of displacement camps or areas with compromised water and sanitation systems",
+              "Anyone drinking from rivers, open canals or unprotected wells during an outbreak",
+              "People eating raw or undercooked seafood and freshwater fish in affected areas",
+              "Children under five, older adults, malnourished individuals, and people with weakened immune systems"
+            ]
+          }
+        },
+        {
+          "h2": "How do you recognise cholera?",
+          "paras": [
+            "Classic cholera is dramatic in onset: sudden, profuse, watery diarrhoea that typically has no blood and no abdominal cramps in the early stage, accompanied by vomiting. The characteristic description is diarrhoea that looks like rice-water because it is pale and watery rather than brown. A person who was entirely healthy can be in danger of death within hours if fluids are not replaced. This speed is what makes cholera fundamentally different from ordinary gastroenteritis.",
+            "However, not all cholera infections are classic. A comprehensive review published in Clinical Microbiology Reviews in 2022 found that more than 80 percent of cholera infections cause either no symptoms at all or only mild diarrhoea indistinguishable from other causes. These mild and asymptomatic cases silently amplify the bacteria in the environment through unseen faecal contamination of water and surfaces.",
+            "During an active outbreak, any sudden profuse watery diarrhoea should be treated as probable cholera and oral rehydration started immediately, regardless of whether laboratory confirmation is available. Waiting for test results before starting rehydration in a severe case can be fatal."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Assessing dehydration severity in cholera",
+            "head": ["Sign", "Mild dehydration", "Severe dehydration"],
+            "rows": [
+              ["General condition", "Alert, able to drink", "Drowsy, confused or unconscious"],
+              ["Eyes", "Normal", "Sunken noticeably"],
+              ["Tears when crying", "Present", "Absent"],
+              ["Mouth and lips", "Slightly dry", "Very dry"],
+              ["Urine output", "Reduced", "Absent or very little for 6+ hours"],
+              ["Skin pinch test", "Returns in under 2 seconds", "Returns very slowly or stays folded"]
+            ]
+          }
+        },
+        {
+          "h2": "How to make and use oral rehydration solution at home",
+          "paras": [
+            "Oral rehydration solution (ORS) is one of the most important medical discoveries of the twentieth century. A landmark review published in Clinical Infectious Diseases showed that ORS reduces cholera mortality from more than 50 percent in untreated cases to less than 1 percent in those treated correctly. The principle is straightforward: the body loses both water and minerals together, and ORS replaces both simultaneously in proportions that allow the gut to absorb them far more efficiently than water alone.",
+            "Pre-packaged ORS sachets are available from health centres, pharmacies and relief organisation supply points in outbreak areas and should be the first choice whenever available. If sachets are not accessible, a home preparation can be made that provides meaningful protection against fatal dehydration until professional care can be reached.",
+            "The home solution is not identical to a medical-grade ORS, and it is not sufficient for severe dehydration. If the patient is losing fluid faster than they can drink, vomiting everything they swallow, or showing signs of severe dehydration, intravenous fluids in a health facility are the only safe option."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "How to prepare oral rehydration solution at home",
+            "items": [
+              "Boil one litre of water for a full minute and allow it to cool",
+              "Add one level teaspoon of salt (about 6 grams)",
+              "Add six level teaspoons of sugar (about 30 grams)",
+              "Stir thoroughly until both salt and sugar are fully dissolved",
+              "Give small sips every one to two minutes if the patient is vomiting, or larger amounts if they are tolerating fluids",
+              "Discard and make a fresh batch after 8 hours in warm weather"
+            ]
+          }
+        },
+        {
+          "h2": "How much ORS does a patient need and how do you know it is working?",
+          "paras": [
+            "The general guideline is to replace what is lost: for an adult with moderate diarrhoea, aim for two to three litres of ORS in the first six to eight hours and continue replacing each loose stool with approximately 200 millilitres of solution. For a child under five years, the WHO recommends 75 millilitres per kilogram of body weight given over three to four hours for mild to moderate dehydration.",
+            "If the patient is vomiting, give very small amounts continuously, such as a teaspoon every one to two minutes for a small child. Even a vomiting gut absorbs small quantities. Breastfeeding infants should continue to breastfeed throughout their illness in addition to receiving ORS. Do not stop feeding in older children and adults because food helps the gut lining repair itself and prolonged fasting makes diarrhoea worse.",
+            "Signs that rehydration is working include the patient becoming more alert, urination resuming within three to four hours, eyes becoming less sunken, and the skin regaining its normal elasticity. If the patient is not improving after two to three hours of home treatment, or is deteriorating, seek a health facility without delay."
+          ]
+        },
+        {
+          "h2": "When must you go to hospital immediately?",
+          "paras": [
+            "Severe cholera requires intravenous fluids because the rate of fluid loss outpaces what can be replaced by drinking. The WHO standard treatment for severe dehydration is rapid intravenous rehydration with 100 millilitres per kilogram of Ringer's lactate solution given over three hours in adults, followed by ORS once the patient can drink. This can only be provided in a health facility.",
+            "Antibiotics are sometimes used in severe cases to reduce the duration and volume of diarrhoea, but they are not a replacement for rehydration and are not necessary in mild cases. Azithromycin is the antibiotic most commonly recommended by the WHO for cholera when antibiotic treatment is indicated. The decision to use antibiotics belongs to the treating doctor or health worker, not the patient.",
+            "Oral cholera vaccines are available and are distributed by international health organisations in outbreak areas. They offer good protection for approximately two years but do not eliminate the need for safe water and food hygiene measures. If you are in an area with a declared outbreak, ask at the nearest health centre whether vaccine is available and how to access it."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "Go to hospital immediately if",
+            "items": [
+              "The patient cannot drink because of continuous vomiting",
+              "The patient is drowsy, confused or has lost consciousness",
+              "Eyes are very sunken and the skin stays folded after pinching",
+              "The patient has not urinated for six hours or more",
+              "Diarrhoea is extremely frequent, more than ten times in one hour"
+            ]
+          }
+        },
+        {
+          "h2": "How to protect your household during an outbreak",
+          "paras": [
+            "Safe water is the foundation of cholera prevention. During an outbreak, all drinking and cooking water must be treated. Boiling for a full minute is the most reliably effective method and requires no special equipment. Chemical treatment with household bleach or dedicated water purification tablets distributed by relief organisations is the practical alternative when fuel is scarce. A systematic review published in PloS One found that water treatment and hygiene interventions reduce cholera transmission significantly when implemented consistently.",
+            "Handwashing with soap and water before preparing or eating food and after using the toilet or handling a sick person's waste is the primary behavioural barrier against transmission. In situations where soap is unavailable, wood ash and water provides meaningful protection. Wet hands that are not dried properly can still transfer bacteria, so drying on a clean cloth or air matters.",
+            "Food must be cooked thoroughly and eaten while hot. Raw or partially cooked fish and shellfish are high risk during outbreaks. Raw fruits and vegetables that will be eaten unpeeled should be washed with treated water. Human waste must be buried away from water sources and food preparation areas, and children's faeces managed carefully because they are a major source of environmental contamination."
+          ]
+        },
+        {
+          "h2": "Feeding and nutrition after cholera",
+          "paras": [
+            "There is a widespread and harmful belief that patients should fast until the diarrhoea stops. This is wrong. Food helps the lining of the intestine heal, and withholding it prolongs diarrhoea and worsens weakness. As soon as the patient can eat, begin with easy-to-digest foods: boiled rice, boiled potato, banana, or plain porridge. Continue breastfeeding throughout illness without interruption for infants.",
+            "Avoid fatty foods, spicy foods and full-fat dairy products until recovery is complete, as these can irritate the recovering intestine. Gradually return to a normal diet over three to four days as the diarrhoea subsides. Maintaining adequate nutrition during and after acute illness is especially important for children, whose development can be set back by severe diarrhoeal episodes.",
+            "For children under five years, zinc supplementation is recommended during and for two weeks after any acute diarrhoeal episode, including cholera. The WHO recommends 20 milligrams of zinc daily for children over six months for ten to fourteen days. Zinc reduces the severity and duration of diarrhoea and decreases the likelihood of a recurrent episode in the following weeks, which is important in contexts where re-exposure is likely."
+          ]
+        },
+        {
+          "h2": "Why cholera keeps returning to the region and what changes it",
+          "paras": [
+            "Cholera persists where three conditions exist together: a bacterial reservoir in the environment, contaminated water reaching people, and a health system too weak to catch and contain cases early. In Yemen, Syria and Sudan, conflict has created all three simultaneously for years. The bacteria do not disappear between outbreaks, they persist in aquatic environments and re-emerge when water treatment systems fail or population displacement creates new sanitation gaps.",
+            "The solution is not a drug or a vaccine alone. It requires sustained investment in water and sanitation infrastructure, which is exactly what war destroys first. In the short term, the most effective interventions are mass distribution of water purification tablets and ORS sachets in at-risk communities, paired with community education on when to seek care. A 2024 review of cholera in Africa and the Middle East published in Health Science Reports highlighted that case fatality rates fall sharply when communities have access to ORS and basic information about severe dehydration signs.",
+            "The knowledge gap is often the difference between a death and a recovery. A family that knows how to make ORS, recognises when the situation has moved beyond home treatment, and knows where to go can save a life with materials costing almost nothing. Use Sihtak to record your family members' symptoms during an illness episode, track whether dehydration signs are improving or worsening with each hour, and keep a note of the nearest health facility in your area so you do not lose time searching when urgency matters most."
+          ]
+        }
+      ],
+      "tie": "During an outbreak, use Sihtak to track each family member's symptoms and fluid intake hour by hour, and note the nearest cholera treatment point in your area, so you can act quickly if someone's condition deteriorates.",
+      "faqs": [
+        {
+          "q": "Does cholera spread through direct contact with a sick person?",
+          "a": "Cholera does not typically spread through casual contact such as being near or touching someone who is sick. The route of infection is almost always contaminated water or food. However, when caring for a cholera patient, wash your hands carefully with soap and water after handling their faeces or vomit, because these contain bacteria that can contaminate surfaces and water."
+        },
+        {
+          "q": "Can cholera be treated at home without going to hospital?",
+          "a": "Mild to moderate cases can be managed at home successfully with ORS, and this approach saves the majority of cholera cases. Severe cases where the patient is losing fluids faster than they can drink, cannot keep anything down, or shows signs of severe dehydration need intravenous fluids in a health facility and cannot be safely managed at home."
+        },
+        {
+          "q": "Does ORS work for ordinary diarrhoea too?",
+          "a": "Yes. ORS is the WHO-recommended treatment for dehydration from acute diarrhoea of any cause, not only cholera. It has saved millions of children from diarrhoeal deaths worldwide and is the single most effective intervention for diarrhoeal disease across all settings."
+        },
+        {
+          "q": "Is there a cholera vaccine and where can I get it?",
+          "a": "Oral cholera vaccines exist and are distributed by international health organisations during declared outbreaks. They provide good protection for roughly two years. Ask at your nearest health centre or with a relief organisation working in your area during an outbreak. Vaccination does not remove the need to treat water and handle food safely."
+        },
+        {
+          "q": "How do I purify water if I have no chlorine tablets or bleach?",
+          "a": "Boiling is the most reliable and universally available method. Bring water to a rolling boil for one full minute, then let it cool in a clean covered container without putting your hand or an unclean utensil into it. At altitudes above 2000 metres, boil for two minutes. Boiled water stored in a clean covered container is safe to drink."
+        },
+        {
+          "q": "Is the sugar in the ORS recipe harmful for diabetic patients?",
+          "a": "The small amount of sugar in ORS is necessary to make the solution work: glucose drives the absorption of sodium and water by the gut lining. For a diabetic patient with severe dehydration, replacing the fluid loss takes priority over glycaemic control, and the sugar in ORS is a small fraction of what would be harmful. Blood sugar can be managed after the dehydration crisis is resolved. If possible, consult a health worker for guidance on monitoring blood glucose during an acute illness."
+        },
+        {
+          "q": "How long does cholera diarrhoea last if treated correctly?",
+          "a": "With adequate rehydration, most cases of cholera improve substantially within one to three days. Severe cases treated with both intravenous fluids and antibiotics typically see diarrhoea volume and frequency reduce within 24 to 48 hours. Full recovery of normal bowel function usually takes three to five days. Weakness and reduced appetite may persist for a week or more, especially in children and malnourished individuals."
+        }
+      ]
+    }
+  }
+}

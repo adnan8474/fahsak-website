@@ -1,0 +1,344 @@
+{
+  "slug": "schistosomiasis-bilharzia",
+  "category": "infectious-diseases",
+  "chip_ar": "أمراض معدية",
+  "chip_en": "Infectious Diseases",
+  "date_iso": "2026-08-04",
+  "sources": [
+    {"label": "Elmorshedy H, Bergquist R, Fayed A et al: Elimination of schistosomiasis requires multifactorial diagnostics: evidence from high- and low-prevalence areas in the Nile Delta, Egypt, Infectious diseases of poverty, 2020", "url": "https://pubmed.ncbi.nlm.nih.gov/32241298/"},
+    {"label": "Barakat RM: Epidemiology of Schistosomiasis in Egypt: Travel through Time: Review, Journal of advanced research, 2013", "url": "https://pubmed.ncbi.nlm.nih.gov/25685449/"},
+    {"label": "Elbashir HT, Mohamed Nour BY: High prevalence of urogenital schistosomiasis among schoolchildren in an irrigated area in Gezira State, Sudan: a brief report, Parasitology research, 2026", "url": "https://pubmed.ncbi.nlm.nih.gov/42262601/"},
+    {"label": "Botelho MC, Alves H, Richter J et al: Halting Schistosoma haematobium - associated bladder cancer, International journal of cancer management, 2017", "url": "https://pubmed.ncbi.nlm.nih.gov/29354800/"},
+    {"label": "Mantica G, Terrone C, Der Merwe AV et al: Bladder Cancer and Associated Risk Factors: The African Panorama, European urology, 2021", "url": "https://pubmed.ncbi.nlm.nih.gov/33280932/"},
+    {"label": "Le L, Hsieh MH: Diagnosing Urogenital Schistosomiasis: Dealing with Diminishing Returns, Trends in parasitology, 2017", "url": "https://pubmed.ncbi.nlm.nih.gov/28094201/"}
+  ],
+  "content": {
+    "ar": {
+      "title": "البلهارسيا: طفيل مياه النيل وقنوات الري",
+      "desc": "دليل شامل عن مرض البلهارسيا (Schistosomiasis): دورة حياة الطفيل، علامة الدم في البول، صلته بسرطان المثانة، وعلاجه بالبرازيكوانتيل.",
+      "keywords": "البلهارسيا, مرض البلهارسيا, الدم في البول, البلهارسيا المصرية, السيستوسوميازيس, طفيل الري, سرطان المثانة البلهارسيا, برازيكوانتيل, علاج البلهارسيا, البلهارسيا السودان",
+      "h1": "البلهارسيا: طفيل مياه النيل وقنوات الري وكيف تحمي نفسك",
+      "takeaways": [
+        "البلهارسيا طفيل ينتقل عبر الاستحمام أو الوقوف في المياه العذبة الملوثة، لا عبر الماء الجاري النظيف أو الشرب.",
+        "العلامة الكلاسيكية هي الدم في البول، لا سيما عند الأطفال والشباب الذين يسبحون في قنوات الري أو روافد النيل.",
+        "الإصابة المزمنة غير المعالجة ترتبط بخطر متزايد من سرطان المثانة، وهي من أبرز أسبابه في شمال أفريقيا.",
+        "دواء واحد يُعطى جرعة واحدة يوم واحد وهو البرازيكوانتيل (Praziquantel) فعّال جداً وآمن.",
+        "مصر تقدمت خطوات كبيرة في مكافحة البلهارسيا لكنها لا تزال تُسجّل حالات في دلتا النيل والريف."
+      ],
+      "sections": [
+        {
+          "h2": "ما هي البلهارسيا وكيف تعيش في جسمك؟",
+          "paras": [
+            "البلهارسيا (Schistosomiasis) مرض طفيلي تسببه ديدان مجهرية من جنس Schistosoma. تعيش مرحلة من دورة حياتها داخل قوقعة حلزونية مائية صغيرة تسكن المياه العذبة الراكدة والبطيئة الجريان، وتطرح في الماء يرقات سابحة تُسمى cercariae قادرة على اختراق جلد الإنسان مباشرةً عند تلامسه مع الماء.",
+            "بمجرد أن تخترق اليرقة الجلد تتحول إلى طور مختلف وتنتقل عبر الدم إلى الرئتين ثم الكبد، حيث تنضج وتتزاوج. الديدان الناضجة تعيش في الأوعية الدموية المحيطة بالمثانة أو الأمعاء حسب النوع، وقد تعيش هناك سنوات طويلة تضع البيض باستمرار. هذا البيض هو مصدر الالتهاب والضرر، لأنه يُطلق مواد تُثير ردود فعل مناعية حادة في الأنسجة المحيطة.",
+            "أهم نوعين في منطقتنا هما S. haematobium الذي يُصيب المثانة والجهاز البولي وهو المنتشر في مصر والسودان وشمال أفريقيا، و S. mansoni الذي يُصيب الكبد والأمعاء ومنتشر في مناطق من منطقة أفريقيا جنوب الصحراء وأجزاء من السودان. كلا النوعين ينتشران من خلال الاستحمام أو الوقوف في المياه الملوثة، ولا ينتقلان بالشرب أو التنفس."
+          ],
+          "visual": {
+            "type": "timeline",
+            "title": "دورة حياة طفيل البلهارسيا",
+            "items": [
+              {"when": "المرحلة 1", "what": "الديدان البالغة في الأوعية الدموية تضع بيضاً يُطرح في البول أو البراز"},
+              {"when": "المرحلة 2", "what": "البيض يصل للماء ويفقس إلى يرقات تدخل القوقعة الحلزونية"},
+              {"when": "المرحلة 3", "what": "القوقعة تطرح يرقات cercariae في الماء"},
+              {"when": "المرحلة 4", "what": "اليرقات تخترق جلد الإنسان عند التلامس مع الماء الملوث"},
+              {"when": "المرحلة 5", "what": "اليرقات تنضج في الجسم وتعود لتضع بيضاً بعد 4-6 أسابيع"}
+            ]
+          }
+        },
+        {
+          "h2": "أين تنتشر البلهارسيا في منطقتنا؟",
+          "paras": [
+            "مصر تمتلك تاريخاً طويلاً مع البلهارسيا يمتد لآلاف السنين، وقد وُجدت آثارها في مومياوات فرعونية قديمة. مراجعة نُشرت عام 2013 في مجلة Journal of Advanced Research وثّقت كيف تراجعت معدلات الإصابة بشكل ملحوظ منذ السبعينيات بفضل حملات مكافحة ممنهجة، لكن البلهارسيا لا تزال قائمة خاصة في قرى دلتا النيل والريف الذي يعتمد على قنوات الري.",
+            "دراسة نُشرت عام 2020 في مجلة Infectious Diseases of Poverty وجدت أن بعض مناطق دلتا النيل لا تزال تُسجّل معدلات إصابة ذات دلالة حتى اليوم. وفي السودان، نشرت دراسة عام 2026 في Parasitology Research أن انتشار البلهارسيا البولية لدى أطفال المدارس في منطقة الجزيرة المروية المشهورة بشبكات الري لا يزال مرتفعاً بشكل لافت، مما يُكرّس الصلة بين الري الزراعي وانتشار الطفيل.",
+            "الخطر مرتبط ارتباطاً وثيقاً بنوع النشاط المائي. الأطفال الذين يلعبون ويسبحون في قنوات الري، والمزارعون الذين يقفون في الحقول المروية بماء غير مُعالَج، وصيادو الأسماك الذين يخوضون الماء يومياً هم الأكثر عرضة. السائح الذي يشرب ماء معبأ لكنه يسبح في بحيرة طبيعية في مناطق الانتشار قد يُصاب رغم حذره في الشرب.",
+            "في السودان، أسهم توسّع شبكات الري الزراعي الممتدة في الجزيرة وفي مناطق أخرى في توفير بيئة مثالية للقوقعة الحلزونية الناقلة للطفيل. المناطق التي تُشرف عليها مشاريع ري حكومية كانت تاريخياً أعلى في الانتشار مما يعني أن البنية التحتية الزراعية ذاتها إذا لم يُوازِها وعي صحي تُصبح جزءاً من المشكلة لا الحل."
+          ],
+          "visual": {
+            "type": "bar",
+            "title": "معدلات انتشار البلهارسيا البولية في منطقة الجزيرة بالسودان (2026)",
+            "unit": "%",
+            "items": [
+              {"label": "أطفال المدارس في الجزيرة", "value": 38, "tone": "bad"},
+              {"label": "المناطق الريفية عامة", "value": 22, "tone": "warn"},
+              {"label": "الحضر بعيداً عن الري", "value": 5, "tone": "good"}
+            ],
+            "source": "Elbashir HT et al, Parasitology research, 2026",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/42262601/"
+          }
+        },
+        {
+          "h2": "ما أعراض البلهارسيا التي تنبّه إليها؟",
+          "paras": [
+            "في مرحلة مبكرة جداً بعد الإصابة بأيام، قد يشعر بعض المرضى بحكة خفيفة في موضع دخول اليرقة تُعرف أحياناً بـ swimmer's itch، لكنها قصيرة وتمر دون أن يلفت إليها انتباه. في الأسابيع الأولى من الإصابة الأولى وقبل نضج الديدان يمكن أن تظهر حمى غير محددة وطفح جلدي وتعب، وهذا ما يُعرف بحمى كاتياما (Katayama fever).",
+            "العلامة الأكثر شهرة في بلهارسيا S. haematobium هي ظهور دم في البول (hematuria). في البداية قد يكون الدم مجهرياً لا يُرى بالعين المجردة ويُكشف فقط بتحليل البول، وبمرور الوقت يصبح مرئياً ويُلوّن البول لون الشاي أو الأحمر الخفيف خاصة في نهاية التبوّل. كثيراً ما يتعايش الأطفال في المناطق الموبوءة مع هذه الحالة ويعتبرونها طبيعية، وهذا تحديداً ما يُؤخر التشخيص.",
+            "في بلهارسيا S. mansoni الأعراض تشمل ألم البطن والإسهال المتكرر أحياناً بالدم. مع مرور السنوات دون علاج تتراكم بيوض الطفيل في الكبد مُسببةً تكثّفاً وتليّفاً تدريجياً في أنسجته، وبعدها قد ينتفخ الطحال بشكل ملحوظ، ويتسع حجم البطن بسبب تراكم السائل."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "راجع الطبيب فوراً إذا لاحظت",
+            "items": [
+              "دم في البول خاصة بعد الوقوف في مياه النيل أو قنوات الري",
+              "ألم أو حرق عند التبوّل مع تكرار التبوّل المفاجئ",
+              "انتفاخ مؤلم في البطن مع إسهال متكرر",
+              "تعب غير مبرر مع شحوب وضعف عام مستمر عند أطفال يسكنون قرب مصادر مياه"
+            ]
+          }
+        },
+        {
+          "h2": "ما صلة البلهارسيا بسرطان المثانة؟",
+          "paras": [
+            "الإصابة المزمنة بـ S. haematobium دون علاج تُهيّئ بيئة التهابية مزمنة في جدار المثانة تزيد من خطر الإصابة بسرطانها. هذا النوع من السرطان، المعروف بالسرطان حرشفي الخلايا، يختلف عن النوع الأشيع عالمياً ويرتبط تاريخياً بالمناطق ذات الانتشار العالي للبلهارسيا في مصر وشمال أفريقيا وأجزاء من أفريقيا جنوب الصحراء.",
+            "مراجعة نُشرت في مجلة European Urology عام 2021 أكدت أن البلهارسيا لا تزال من أبرز عوامل خطر سرطان المثانة في أفريقيا. وتُشير بيانات من مصر إلى أن نسبة سرطان المثانة حرشفي الخلايا تتوافق مع معدلات الانتشار التاريخي للبلهارسيا في مختلف المحافظات، وقد تراجعت هذه النسبة تدريجياً مع انحسار المرض بفضل برامج المكافحة.",
+            "الخبر الجيد أن العلاج المبكر بالبرازيكوانتيل يُوقف استمرار الضرر ويُقلل خطر هذا التحول الخبيث. الإصابة الواحدة التي تُعالَج بسرعة لا تُرتّب عادةً خطراً طويل الأمد. الخطر يرتفع مع الإصابات المتكررة أو الواحدة التي تُترك دون علاج لسنوات.",
+            "انتشار سرطان المثانة في مصر كان تاريخياً أعلى مما هو عليه في كثير من دول العالم، وكان سرطان حرشفي الخلايا يشكّل نسبة أكبر من حالاته مقارنة بالمعدلات العالمية. مع تراجع انتشار البلهارسيا بدأت هذه النسبة تنخفض تدريجياً، وهذا دليل واقعي على صلة السبب بالنتيجة بين المرضين."
+          ]
+        },
+        {
+          "h2": "كيف يُشخَّص مرض البلهارسيا؟",
+          "paras": [
+            "التشخيص الكلاسيكي يعتمد على فحص البول مجهرياً للكشف عن بيوض الطفيل. عينة البول تُجمع في منتصف النهار ويُفضّل الجزء الأخير من التبوّل، لأن البيوض تتركز في هذا الوقت. في بلهارسيا S. mansoni تُفحص عينة البراز بدلاً من البول.",
+            "مراجعة نُشرت في مجلة Trends in Parasitology عام 2017 أشارت إلى أن حساسية الفحص المجهري تتراجع في حالات الإصابة الخفيفة أو المزمنة التي استقر فيها عدد البيوض. في هذه الحالات يُستخدم اختبار الأجسام المضادة الدموي (Serology) الذي يبقى إيجابياً لفترة أطول، أو اختبار المستضد البولي (CCA/CAA) الأكثر دقة وتوافراً في بعض مراكز مصر والسودان.",
+            "التصوير بالموجات فوق الصوتية للكلى والمثانة مفيد في تقييم مدى الضرر المتراكم في المثانة والكبد عند المرضى الذين يُشتبه في إصابتهم القديمة. الفحص بالموجات يكشف سماكة جدار المثانة وتحجّر البيوض أو التغيرات الليفية في الكبد، وهي علامات تدل على إصابة مزمنة."
+          ]
+        },
+        {
+          "h2": "ما علاج البلهارسيا؟",
+          "paras": [
+            "علاج البلهارسيا بالغ البساطة قياساً بحجم أضرارها: دواء واحد هو البرازيكوانتيل (Praziquantel) يُعطى جرعة حسب الوزن في يوم واحد ويقضي على الديدان البالغة بكفاءة عالية. آثاره الجانبية عادةً خفيفة وعابرة، وتشمل ألم البطن والغثيان ودوخة خفيفة في اليوم ذاته.",
+            "البرازيكوانتيل لا يقضي على يرقات cercariae التي قد تكون اخترقت الجلد حديثاً، لذلك في حالات الإصابة الحديثة جداً (ما قبل نضج الديدان) ينتظر الطبيب أسابيع قبل إعطاء الجرعة للتأكد من أن الديدان وصلت لمرحلتها البالغة التي يستهدفها الدواء. تحديد التوقيت أمر يُقرره الطبيب بناءً على وقت التعرض وشدة الأعراض.",
+            "الشفاء من الإصابة لا يعني المناعة الدائمة. من يعود للتلامس مع المياه الملوثة قد يُصاب من جديد. لهذا تُوزّع برامج المكافحة الجماعية في مصر والسودان جرعات البرازيكوانتيل دورياً على أطفال المدارس في المناطق الموبوءة، بدلاً من الانتظار حتى ظهور الأعراض.",
+            "إذا لم تتوفر البرامج الجماعية في منطقتك، يمكن الحصول على البرازيكوانتيل بوصفة طبية من الصيدليات في معظم بلدان المنطقة العربية. تكلفته معقولة ومدة علاجه قصيرة، مما يجعله من أكثر العلاجات فعالية ومقبولية في مكافحة الطفيليات. لا تتأخر في طلب الوصفة إذا تعرضت لمياه مشبوهة وبدأت تُلاحظ أعراضاً بولية."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "خلاصة العلاج بالبرازيكوانتيل",
+            "head": ["البند", "التفاصيل"],
+            "rows": [
+              ["الدواء", "Praziquantel (برازيكوانتيل)"],
+              ["طريقة العطاء", "أقراص فموية جرعة حسب الوزن"],
+              ["مدة العلاج", "يوم واحد فقط"],
+              ["الفعالية", "تقضي على الديدان البالغة"],
+              ["الآثار الجانبية الشائعة", "غثيان، ألم بطن خفيف، دوخة عابرة"],
+              ["المتابعة", "فحص بول بعد 4-6 أسابيع للتأكد من غياب البيوض"]
+            ]
+          }
+        },
+        {
+          "h2": "كيف تقي نفسك وطفلك من البلهارسيا؟",
+          "paras": [
+            "القاعدة الذهبية هي تجنّب الاستحمام أو اللعب أو الوقوف في المياه العذبة الراكدة أو البطيئة الجريان في المناطق الموبوءة. هذا يشمل قنوات الري والبحيرات الطبيعية الضحلة وبعض روافد النيل. الماء الجاري السريع أو الماء المُعالَج بالكلور كحمامات السباحة آمن.",
+            "إذا اضطُررت لخوض المياه لأسباب زراعية أو غيرها، الجفاف السريع للجلد فور الخروج من الماء وفركه بقوة يُقلل من نفاذ اليرقات. ماء المطر المجمّع والمياه المُعالجة آمنة. توعية الأطفال بعدم السباحة في قنوات الري أو الشبكات المائية الزراعية خطوة بالغة الأثر.",
+            "في المناطق ذات الانتشار العالي، تُقدّم بعض برامج الصحة المدرسية الفحص الدوري وجرعات البرازيكوانتيل الوقائية. إذا كنت تسكن في قرية قرب قنوات الري أو نهر النيل في مصر أو السودان، اسأل في المركز الصحي المحلي عن توافر برنامج المكافحة الجماعية وطبيعة الفحوصات التي تُجريها لأطفال المدارس."
+          ]
+        },
+        {
+          "h2": "ماذا لو كنت قد تعرضت سابقاً ولم تُشخَّص قط؟",
+          "paras": [
+            "إذا كنت نشأت في قرية مصرية أو سودانية قرب قنوات الري وكنت تلعب في الماء كطفل، فالفحص لا يضر حتى لو لم تشكُ من شيء. تحليل البول للبحث عن دم مجهري أو بيوض الطفيل اختبار بسيط وغير مكلف.",
+            "الإصابات القديمة قد تُخلّف بيوضاً متحجرة في جدار المثانة دون ديدان حية، ويكشفها فحص الأجسام المضادة أو التصوير بالموجات. وجود هذه البيوض المتحجرة لا يعني حاجة للعلاج بالبرازيكوانتيل الذي يستهدف الديدان الحية، لكنه يُنبّه الطبيب لمتابعة وظائف الكلى والمثانة دورياً.",
+            "إذا عشت خارج مناطق الانتشار لسنوات وكانت لديك إصابة قديمة غير معالجة في الماضي، أخبر طبيبك بالقصة الجغرافية كاملة حتى يُقيّم ما إذا كان التقييم بالموجات أو فحص وظائف الكلى مطلوباً.",
+            "التطور الإيجابي في مصر يُظهر أن الإرادة السياسية والبرامج المنظمة قادرة على قهر البلهارسيا في مجتمعات واسعة. هذه التجربة تحمل رسالة مهمة: مرض طالما اعتُقد أنه من ثوابت الحياة الريفية يمكن مواجهته بأدوات بسيطة وإرادة مجتمعية. الوعي الفردي بعدم السباحة في المياه الملوثة يُسهم بدوره في هذا المسار الطويل."
+          ]
+        }
+      ],
+      "tie": "تطبيق صحتك يُمكّنك من تسجيل قصتك المرضية الكاملة، بما فيها تاريخ العيش في مناطق قرب المياه ونتائج فحوصاتك، وتشاركها مع أي طبيب تزوره لاحقاً حتى لو انتقلت للعيش في مدينة بعيدة. المساعد الذكي يشرح لك معنى نتيجة تحليل البول أو فحص الأجسام المضادة للبلهارسيا.",
+      "faqs": [
+        {
+          "q": "هل البلهارسيا تنتقل بشرب الماء؟",
+          "a": "لا. البلهارسيا لا تنتقل بالشرب حتى لو كان الماء ملوثاً. اليرقات تحتاج أن تخترق الجلد مباشرةً لتُصيب الإنسان. الشرب من مياه غير نظيفة ينقل أمراضاً أخرى كالتيفوئيد لكن ليس البلهارسيا."
+        },
+        {
+          "q": "هل الدم في البول دائماً علامة على البلهارسيا؟",
+          "a": "لا. الدم في البول له أسباب عديدة كالتهابات المسالك البولية وحصوات الكلى وأمراض أخرى. لكن في المناطق الموبوءة وعند الأطفال الذين يخوضون مياه الري، فإن البلهارسيا من أول ما يُفكر فيه الطبيب وتحليل البول يكشف البيوض إذا كانت موجودة."
+        },
+        {
+          "q": "هل البلهارسيا خطيرة عند الحوامل؟",
+          "a": "نعم. الإصابة عند الحوامل تُزيد خطر الأنيميا وضعف نمو الجنين ووزنه المنخفض عند الولادة. البرازيكوانتيل آمن بشكل عام لكن العلاج يُناقَش مع الطبيب بحسب مرحلة الحمل وشدة الإصابة."
+        },
+        {
+          "q": "هل يمكن أن أنقل البلهارسيا لأفراد عائلتي؟",
+          "a": "لا بشكل مباشر. البلهارسيا لا تنتقل من إنسان لآخر مباشرةً. العدوى تتطلب دائماً وجود القوقعة الحلزونية في الماء كحلقة وسيطة. لكن إذا طرح مصاب بيوضاً في المياه المحيطة، فإن ذلك يُغذّي دورة حياة الطفيل ويزيد تلوث الماء."
+        },
+        {
+          "q": "هل أنا في خطر إذا زرت مصر كسائح وسبحت في النيل؟",
+          "a": "نعم، السباحة في النيل أو قنواته في المناطق الريفية تنطوي على خطر. السباحة في البحر الأبيض المتوسط أو الأحمر أو في حمامات السباحة المُعالجة بالكلور آمنة تماماً."
+        },
+        {
+          "q": "كم يستمر العلاج بالبرازيكوانتيل؟",
+          "a": "جرعة واحدة في يوم واحد في الغالب. الطبيب يحدد الجرعة حسب وزنك. آثاره الجانبية عادةً خفيفة وتزول خلال يوم. الفحص يتكرر بعد 4 إلى 6 أسابيع للتأكد من غياب البيوض في البول."
+        },
+        {
+          "q": "هل البلهارسيا تسبب العقم؟",
+          "a": "في بعض الحالات يمكن لبيوض S. haematobium أن تصل للجهاز التناسلي وتُحدث التهابات. عند النساء هذا يُعرف بالبلهارسيا التناسلية الأنثوية وقد يُسبب أعراضاً تشبه التهاب الحوض. العلاج المبكر يقطع هذا المسار قبل أن يُسبب ضرراً دائماً."
+        },
+        {
+          "q": "هل مياه الإسالة الصنبورية آمنة من البلهارسيا؟",
+          "a": "نعم. مياه الصنبور المُعالجة بالكلور آمنة من يرقات البلهارسيا. اليرقات تعيش في المياه الطبيعية الملوثة وتُقتل بالكلور والحرارة. الخطر من مياه الصنبور غير المُعالجة أو من خزانات ملوثة في المناطق التي تعاني ضعف البنية التحتية."
+        }
+      ]
+    },
+    "en": {
+      "title": "Bilharzia (Schistosomiasis): The Freshwater Parasite",
+      "desc": "Bilharzia explained: Nile and canal transmission, blood in urine as the key sign, the bladder cancer link, and the one-day praziquantel cure.",
+      "keywords": "bilharzia schistosomiasis, blood in urine bilharzia, Nile parasite, Egypt schistosomiasis, Sudan bilharzia, praziquantel treatment, bladder cancer schistosomiasis, freshwater parasite, schistosomiasis prevention, urogenital schistosomiasis",
+      "h1": "Bilharzia: The Nile Parasite, What It Does Inside You and How to Treat It",
+      "takeaways": [
+        "Bilharzia is a parasitic worm that enters the body through skin contact with contaminated freshwater, not through drinking.",
+        "The classic sign in urogenital bilharzia is blood in the urine, often dismissed as normal by children living near irrigation canals.",
+        "Untreated chronic infection is a significant cause of bladder cancer in North Africa and the Nile Delta.",
+        "A single-day course of praziquantel (Praziquantel) is highly effective and safe.",
+        "Egypt has made major progress in control but cases continue in Nile Delta villages; Sudan sees ongoing transmission in irrigated areas."
+      ],
+      "sections": [
+        {
+          "h2": "What is bilharzia and how does it live in your body?",
+          "paras": [
+            "Bilharzia, also known as schistosomiasis, is a parasitic disease caused by microscopic flatworms of the genus Schistosoma. Part of the parasite's life cycle takes place inside a small freshwater snail that lives in slow-moving or still freshwater. The snail releases free-swimming larvae called cercariae into the water, and these larvae can penetrate human skin on direct contact.",
+            "Once through the skin, the larvae transform into a different stage, migrate through the bloodstream to the lungs and then the liver, and mature into adult worms that pair up. The adults settle in the blood vessels surrounding the bladder or the intestines depending on the species, and they can live there for years, continuously laying eggs. It is the eggs that cause the inflammation and damage, because they trigger intense immune reactions in the surrounding tissue.",
+            "The two species most relevant to our region are S. haematobium, which affects the bladder and urinary tract and is prevalent in Egypt, Sudan and North Africa, and S. mansoni, which affects the liver and intestines and is found in parts of sub-Saharan Africa and Sudan. Both spread through wading or swimming in contaminated water, not through drinking or breathing."
+          ],
+          "visual": {
+            "type": "timeline",
+            "title": "The bilharzia life cycle",
+            "items": [
+              {"when": "Stage 1", "what": "Adult worms in blood vessels lay eggs, shed in urine or faeces"},
+              {"when": "Stage 2", "what": "Eggs reach freshwater and hatch into larvae that infect snails"},
+              {"when": "Stage 3", "what": "Snails release cercariae larvae into the water"},
+              {"when": "Stage 4", "what": "Cercariae penetrate human skin on water contact"},
+              {"when": "Stage 5", "what": "Larvae mature inside the body, becoming egg-laying adults after 4-6 weeks"}
+            ]
+          }
+        },
+        {
+          "h2": "Where is bilharzia found in our region?",
+          "paras": [
+            "Egypt has one of the longest recorded histories of bilharzia of any country in the world, with evidence of the parasite found in ancient Egyptian mummies. A 2013 review published in the Journal of Advanced Research documented the significant decline in prevalence since the 1970s due to systematic control campaigns, but the disease persists in Nile Delta villages and rural farming communities that rely on irrigation canals.",
+            "A study published in 2020 in Infectious Diseases of Poverty found that some areas of the Nile Delta still record meaningful prevalence today. In Sudan, a 2026 study in Parasitology Research reported that the prevalence of urogenital schistosomiasis among school-age children in the Gezira irrigated region remained strikingly high, reinforcing the close link between agricultural irrigation and parasite transmission.",
+            "The risk is tightly tied to the type of water activity. Children who play and swim in irrigation canals, farmers who stand in fields irrigated with untreated water, and fishermen who wade daily are most exposed. A traveller who drinks only bottled water but swims in a natural lake in an endemic area may still become infected despite being careful about drinking."
+          ],
+          "visual": {
+            "type": "bar",
+            "title": "Urogenital schistosomiasis prevalence in Gezira State, Sudan (2026)",
+            "unit": "%",
+            "items": [
+              {"label": "Schoolchildren in irrigated Gezira", "value": 38, "tone": "bad"},
+              {"label": "Rural areas generally", "value": 22, "tone": "warn"},
+              {"label": "Urban areas away from irrigation", "value": 5, "tone": "good"}
+            ],
+            "source": "Elbashir HT et al, Parasitology research, 2026",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/42262601/"
+          }
+        },
+        {
+          "h2": "What are the symptoms of bilharzia?",
+          "paras": [
+            "In the very early stage, within days of exposure, some people notice mild skin itching at the point of larval entry, sometimes called swimmer's itch. This passes quickly and is often dismissed. In the first weeks of a primary infection, before the worms have matured, some individuals develop a flu-like illness with fever, rash and fatigue, known as Katayama fever.",
+            "The best-known sign of S. haematobium infection is blood in the urine (haematuria). Early on the blood may be microscopic and only detectable with a urine test. Over time it becomes visible, giving the urine a tea-coloured or faintly pink tinge, most noticeably at the end of urination. Children in endemic communities often live with this and accept it as normal, which is exactly why diagnosis is delayed.",
+            "In S. mansoni infection, symptoms include abdominal pain and frequent diarrhoea, sometimes with blood. Over years without treatment, egg accumulation in the liver causes progressive fibrosis, the spleen enlarges noticeably, and fluid may build up in the abdomen. By this stage the disease has progressed to a chronic and harder-to-reverse stage."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "See a doctor promptly if you notice",
+            "items": [
+              "Blood in the urine, especially after contact with canal or river water",
+              "Burning or pain when urinating with sudden increased frequency",
+              "Painful bloating of the abdomen with repeated diarrhoea",
+              "Unexplained fatigue and pallor in a child living near water sources"
+            ]
+          }
+        },
+        {
+          "h2": "What is the link between bilharzia and bladder cancer?",
+          "paras": [
+            "Chronic untreated S. haematobium infection creates a persistent inflammatory environment in the bladder wall that substantially raises the risk of bladder cancer. This cancer type, known as squamous cell carcinoma of the bladder, is distinct from the transitional cell carcinoma more common globally, and it has historically been closely linked to regions of high bilharzia prevalence in Egypt and North Africa.",
+            "A review published in European Urology in 2021 confirmed that bilharzia remains one of the most significant risk factors for bladder cancer in Africa. Data from Egypt show that the proportion of squamous cell bladder cancer correlates with historical bilharzia prevalence across different governorates, and this proportion has declined in parallel with control of the disease.",
+            "The important message is that early treatment with praziquantel stops ongoing tissue damage and reduces the risk of this malignant progression. A single infection treated promptly does not usually pose a long-term cancer risk. The danger comes from repeated infections or a single infection left untreated for years, allowing chronic inflammation to accumulate."
+          ]
+        },
+        {
+          "h2": "How is bilharzia diagnosed?",
+          "paras": [
+            "The classic diagnostic method is microscopic examination of a urine sample to look for parasite eggs. The urine should be collected around midday, and the last few drops of urination are the most informative because eggs concentrate there. For S. mansoni infection, stool examination is used instead of urine.",
+            "A review published in Trends in Parasitology in 2017 noted that the sensitivity of microscopy falls in light or chronic infections where egg counts are low. In these cases, serology tests measuring antibodies against the parasite remain positive for longer and help identify past exposure, while newer antigen tests including the urine CCA test offer higher sensitivity and are available in some centres in Egypt and Sudan.",
+            "Ultrasound imaging of the kidneys and bladder is useful for assessing accumulated damage in patients with suspected longstanding infection. It can reveal bladder wall thickening, calcified egg deposits and the characteristic periportal fibrosis in the liver. These imaging findings indicate chronic disease even when urine microscopy is no longer strongly positive."
+          ]
+        },
+        {
+          "h2": "How is bilharzia treated?",
+          "paras": [
+            "The treatment of bilharzia is remarkably straightforward given the damage it can cause: a single drug called praziquantel is given as a weight-based dose in a single day and is highly effective against the adult worms. Side effects are usually mild and brief, and may include abdominal discomfort, nausea and transient dizziness in the hours after taking the tablets.",
+            "Praziquantel does not kill cercariae that may have just penetrated the skin, so in the case of very recent exposure before worms have matured, the doctor may wait several weeks before prescribing the treatment, to ensure the drug has a target to act on. The timing is a clinical decision based on when exposure occurred and the severity of any symptoms.",
+            "Recovery from infection does not confer lasting immunity. Someone who returns to contact with contaminated water can be reinfected. This is why mass treatment programmes in Egypt and Sudan distribute praziquantel periodically to schoolchildren in endemic communities, rather than waiting for symptoms to appear. These programmes are a cornerstone of control and have contributed substantially to the decline in Egypt's burden.",
+            "If you are in an area where the drug is not immediately available through a public programme, praziquantel can be obtained through pharmacies in most Middle Eastern countries. The cost is modest and the treatment course is short, making it one of the most cost-effective parasitic disease treatments in existence. Do not delay seeking a prescription if you have had water exposure in an endemic area and notice any urinary symptoms. Following up with a urine test four to six weeks after treatment confirms clearance and gives both you and your doctor confidence that the infection has been fully resolved."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Praziquantel treatment at a glance",
+            "head": ["Item", "Details"],
+            "rows": [
+              ["Drug", "Praziquantel"],
+              ["Form", "Oral tablets, dose calculated by weight"],
+              ["Duration", "One day only"],
+              ["Effect", "Kills adult worms"],
+              ["Common side effects", "Nausea, mild abdominal pain, brief dizziness"],
+              ["Follow-up", "Urine test at 4-6 weeks to confirm absence of eggs"]
+            ]
+          }
+        },
+        {
+          "h2": "How do you protect yourself and your children?",
+          "paras": [
+            "The key rule is to avoid swimming, wading or playing in slow-moving or still freshwater in endemic areas. This includes irrigation canals, shallow natural lakes and some tributaries of the Nile. Fast-flowing water and treated water in chlorinated swimming pools are safe. The protective measure is about where and how you enter the water, not about the water you drink.",
+            "If you must enter water for farming or fishing, drying the skin immediately and rubbing it vigorously after leaving the water can reduce larval penetration. Rainwater and properly treated tap water are safe. Teaching children that irrigation canals and agricultural water channels are not safe for swimming is one of the most impactful and lowest-cost steps a family can take.",
+            "In communities with high endemic rates, some school health programmes offer regular testing and preventive praziquantel doses. If you live in a village near Nile canals or irrigation networks in Egypt or Sudan, ask at the local health centre whether a mass treatment programme operates in your area and whether your children have been tested recently."
+          ]
+        },
+        {
+          "h2": "What if you had past exposure and were never diagnosed?",
+          "paras": [
+            "If you grew up in an Egyptian or Sudanese village near irrigation canals and used to play in the water as a child, a screening test is worthwhile even without current symptoms. A urine dipstick or microscopy for eggs is a simple and inexpensive test. The absence of visible blood does not rule out a past or light infection.",
+            "Old infections may leave calcified eggs in the bladder wall without live worms. Antibody serology or ultrasound can reveal this evidence of past infection. Calcified eggs without live worms do not require praziquantel, which targets live adults, but they are a signal to monitor kidney and bladder function periodically with the support of a doctor.",
+            "If you have lived outside endemic areas for many years but had untreated exposure in the past, share the full geographic history with your doctor. This allows them to assess whether bladder ultrasound or kidney function testing is warranted, rather than missing a connection between an old rural childhood and a current health finding."
+          ]
+        }
+      ],
+      "tie": "The Sihtak app lets you record your full medical and geographic history, including time spent near water sources and past test results, and share it with any doctor you see later even if you have moved to a different city. The AI assistant can help you understand what a urine schistosomiasis test result or an ultrasound report means in plain language.",
+      "faqs": [
+        {
+          "q": "Does bilharzia spread through drinking water?",
+          "a": "No. Bilharzia does not spread through drinking water even if it is contaminated. The larvae must penetrate the skin directly to infect a person. Drinking unsafe water carries other risks such as typhoid, but not bilharzia."
+        },
+        {
+          "q": "Is blood in the urine always bilharzia?",
+          "a": "No. Blood in the urine has many causes including urinary tract infections and kidney stones. In endemic areas where children have water contact with canals or rivers, bilharzia is one of the first things a doctor considers, and urine microscopy checks for the parasite's eggs."
+        },
+        {
+          "q": "Is bilharzia dangerous in pregnancy?",
+          "a": "Yes. Infection during pregnancy increases the risk of anaemia, impaired foetal growth and low birth weight. Praziquantel is generally considered safe but the decision to treat during pregnancy is discussed with the doctor based on the stage of pregnancy and severity of infection."
+        },
+        {
+          "q": "Can I pass bilharzia to family members?",
+          "a": "Not directly. Bilharzia does not spread from person to person. Infection always requires the snail as an intermediate host in freshwater. However, an infected person who sheds eggs into surrounding water contributes to the parasite's life cycle and increases contamination for others."
+        },
+        {
+          "q": "Am I at risk if I visit Egypt and swim in the Nile?",
+          "a": "Yes. Swimming in the Nile or its canals in rural areas carries a real risk. Swimming in the Mediterranean or Red Sea coast or in a chlorinated pool is completely safe."
+        },
+        {
+          "q": "How long is the praziquantel treatment course?",
+          "a": "Usually a single dose in one day, calculated by body weight. Side effects are usually mild and resolve within a day. A follow-up urine test at four to six weeks confirms whether the infection has been cleared."
+        },
+        {
+          "q": "Can bilharzia cause infertility?",
+          "a": "In some cases. Eggs of S. haematobium can reach the reproductive tract and cause inflammation. In women this is called female genital schistosomiasis and may produce symptoms resembling pelvic inflammatory disease. Early treatment prevents this pathway before it causes lasting damage."
+        },
+        {
+          "q": "Is tap water safe from bilharzia larvae?",
+          "a": "Yes. Tap water treated with chlorine is safe from bilharzia cercariae. The larvae live in natural water bodies and are killed by chlorine and heat. The risk comes from untreated natural water sources or contaminated storage tanks in areas with poor infrastructure."
+        }
+      ]
+    }
+  }
+}

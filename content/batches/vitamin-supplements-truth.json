@@ -1,0 +1,359 @@
+{
+  "slug": "vitamin-supplements-truth",
+  "category": "nutrition",
+  "chip_ar": "تغذية",
+  "chip_en": "Nutrition",
+  "date_iso": "2026-07-22",
+  "sources": [
+    {
+      "label": "Chakhtoura M, Rahme M, Chamoun N et al: Vitamin D in the Middle East and North Africa, Bone reports, 2018",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29955632/"
+    },
+    {
+      "label": "Pludowski P, Holick MF, Grant WB et al: Vitamin D supplementation guidelines, The Journal of steroid biochemistry and molecular biology, 2018",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28216084/"
+    },
+    {
+      "label": "Daley SF, Goyal A: Vitamin A Toxicity, 2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30422511/"
+    },
+    {
+      "label": "Padmakar S: Clinical Spectrum and Management of Hypervitaminosis A: A Systematic Review of Case-Based Evidence, Clinica chimica acta; international journal of clinical chemistry, 2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42176931/"
+    },
+    {
+      "label": "Al-Musharaf S, Fouda MA, Turkestani IZ et al: Vitamin D Deficiency Prevalence and Predictors in Early Pregnancy among Arab Women, Nutrients, 2018",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29662044/"
+    },
+    {
+      "label": "Jaber L, Karim IA, Jawdat AM et al: Awareness of folic acid for prevention of neural tube defects in a community with high prevalence of consanguineous marriages, Annales de genetique, 2004",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15050876/"
+    },
+    {
+      "label": "Wessels I, Maywald M, Rink L et al: Zinc as a Gatekeeper of Immune Function, Nutrients, 2017",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29186856/"
+    }
+  ],
+  "content": {
+    "en": {
+      "title": "Vitamin supplements: which ones are actually worth taking",
+      "desc": "Most supplements do nothing for healthy adults. A few are genuinely important. Find out who needs what and what can cause real harm.",
+      "keywords": "vitamin supplements worth taking, vitamin D deficiency Arab, folic acid pregnancy, zinc immune system, vitamin A overdose, supplements Middle East, do vitamins work, iron supplement",
+      "h1": "Vitamin supplements: which ones work, which ones waste money, and which can cause harm",
+      "takeaways": [
+        "Most healthy adults eating a varied diet do not benefit from a daily multivitamin, and several large trials have confirmed this.",
+        "Vitamin D deficiency is genuinely common across the Middle East and North Africa despite high sun exposure, and supplementation is often appropriate.",
+        "Folic acid before and during early pregnancy is one of the most evidence-backed supplements in medicine and prevents serious birth defects.",
+        "Excess vitamin A and vitamin D from supplements can cause real harm, and high-dose supplements of both are sold widely in pharmacies without prescription.",
+        "If you are unsure what you need, a simple blood test is more useful than a pharmacy recommendation."
+      ],
+      "sections": [
+        {
+          "h2": "Do supplements work for most people?",
+          "paras": [
+            "The honest answer for healthy adults eating a varied diet is: usually not. Multiple large randomised controlled trials, including studies involving tens of thousands of participants followed for years, have consistently found that daily multivitamins do not reduce the risk of cardiovascular disease, cancer, cognitive decline or early death in people who are not deficient in anything. The supplement industry is large and profitable, and the marketing is persuasive, but the evidence base for routine supplementation in healthy people is weak.",
+            "What does work is targeted supplementation for people who have a demonstrated deficiency or a well-defined increased need. Pregnant women need folic acid. People with limited sun exposure or who wear full covering in hot countries often need vitamin D. People who have had certain surgeries, who follow a strict vegan diet, or who have malabsorption conditions may genuinely need B12, iron or other specific nutrients. The question is always whether you are in a group that needs something, not whether the supplement is marketed to you.",
+            "This matters particularly in the Arab world, where self-prescribing is common, pharmacy access is easy and supplements are sold at relatively low cost compared to a doctor visit. It is easy to spend money on things that do not help, and it is possible, with some vitamins, to take enough to cause harm."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Common supplements: who genuinely needs them and who does not",
+            "head": ["Supplement", "Strong evidence for", "Little evidence for"],
+            "rows": [
+              ["Vitamin D", "People with low blood levels, limited sun exposure, covered dress", "Healthy adults with normal levels"],
+              ["Folic acid", "Women planning pregnancy or in first trimester", "Healthy non-pregnant adults"],
+              ["Iron", "Confirmed iron deficiency anaemia", "Routine supplementation without a blood test"],
+              ["Vitamin B12", "Vegans, people over 60, metformin users", "Meat-eaters with normal levels"],
+              ["Zinc", "Confirmed deficiency, some infections", "General immune boost in people with normal levels"],
+              ["Vitamin A", "Deficiency in specific settings (rural, very poor diet)", "Most adults; excess is harmful"],
+              ["Omega-3", "High-dose for raised triglycerides (medical prescription)", "General heart health in low-risk people"]
+            ]
+          }
+        },
+        {
+          "h2": "Why is vitamin D deficiency so common in sunny countries?",
+          "paras": [
+            "This surprises many people, and it is worth explaining carefully. Vitamin D is synthesised in the skin when ultraviolet B radiation from sunlight hits it. The Middle East and North Africa receive enormous amounts of sunlight. And yet a 2018 review published in Bone Reports, covering studies across the region, found vitamin D deficiency rates of 30 to 90 percent in various populations, with women, older adults and people who cover their skin for religious or cultural reasons at highest risk.",
+            "There are several reasons for this apparent paradox. Extreme summer heat keeps people indoors during the hours when UVB radiation is strongest, typically 10am to 3pm. When people do go outside, they often use high-factor sun protection, which blocks UVB effectively. Dark skin requires more sun exposure to produce the same amount of vitamin D as lighter skin, and many Arab and South Asian populations in the region have darker skin. In addition, traditional covering garments, worn by a significant proportion of women across the region, block most skin from the sun entirely.",
+            "A 2018 study specifically looking at Arab women in early pregnancy found deficiency rates that were alarming, and this matters because vitamin D plays a role in bone development in the growing baby, immune function and several other processes. Deficiency during pregnancy has been associated with a higher risk of pre-eclampsia and low birth weight. Supplementation during pregnancy is recommended in international guidelines and is safe when kept within normal therapeutic doses."
+          ],
+          "visual": {
+            "type": "range-scale",
+            "title": "Vitamin D blood level: where your result sits",
+            "label": "25-OH Vitamin D",
+            "unit": "nmol/L",
+            "min": 0,
+            "max": 250,
+            "zones": [
+              {"to": 30, "tone": "bad", "label": "Deficient"},
+              {"to": 50, "tone": "warn", "label": "Insufficient"},
+              {"to": 125, "tone": "good", "label": "Adequate"},
+              {"to": 250, "tone": "bad", "label": "Excess"}
+            ],
+            "source": "Pludowski P et al, Journal of Steroid Biochemistry and Molecular Biology, 2018",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/28216084/"
+          }
+        },
+        {
+          "h2": "Folic acid in pregnancy: the one supplement with the clearest evidence",
+          "paras": [
+            "Folic acid (vitamin B9) before and in the first weeks of pregnancy is not optional: it is the single best-evidenced supplement in obstetric medicine. Neural tube defects, which affect the brain and spinal cord of the developing baby, occur in the first four weeks after conception, often before a woman even knows she is pregnant. Adequate folic acid in the months before conception and through the first trimester reduces the risk of these defects by around 70 percent.",
+            "Awareness of this is lower than it should be in parts of the Arab world. A study published in Annales de Genetique looked at folic acid awareness in an Arab community with a high rate of consanguineous marriage (marriage between relatives), which itself raises the risk of certain genetic conditions, and found that knowledge of folic acid supplementation before pregnancy was poor. This is a solvable problem: the supplement is cheap, the evidence is overwhelming, and the benefit is concentrated in the weeks when it is hardest to intervene after the fact.",
+            "The standard recommendation is 400 micrograms per day, ideally starting one to three months before trying to conceive and continuing through the first twelve weeks. Women who have previously had a baby with a neural tube defect, or who are taking certain anti-epileptic medicines, need a higher dose and should take this under medical advice. Folic acid at standard doses has no known harmful effects."
+          ]
+        },
+        {
+          "h2": "When vitamin A becomes dangerous",
+          "paras": [
+            "Vitamin A is essential. It plays a critical role in vision, immune function and the growth of cells throughout the body. True vitamin A deficiency, which is rare in urban populations with access to a varied diet, causes night blindness and serious immune problems. Where it does occur, in some rural or food-insecure settings, supplementation is an important public health intervention.",
+            "The danger that most urban Arab consumers face is the opposite: too much vitamin A from supplements. Unlike water-soluble vitamins such as C and the B vitamins, vitamin A is fat-soluble and accumulates in the body. High doses taken over weeks or months cause a condition called hypervitaminosis A (vitamin A excess), the symptoms of which include severe headache, nausea, liver damage, bone pain, and dry and peeling skin. A 2026 systematic review in Clinica Chimica Acta examined the clinical spectrum of vitamin A toxicity and found that it is frequently misdiagnosed because the symptoms mimic several other conditions.",
+            "The critical safety point is that vitamin A is often present in multivitamins, in cod liver oil, and in skin supplements sold in pharmacies. Taking several products simultaneously can push total daily intake well above the safe upper limit. Pregnant women are at particular risk: doses above 3,000 micrograms (10,000 IU) per day can cause fetal malformations. Pregnant women should avoid high-dose vitamin A supplements entirely and should check whether any multivitamin they take contains retinol."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "Stop high-dose vitamin A and see a doctor if you develop",
+            "items": [
+              "Persistent headache that does not respond to pain relief",
+              "Nausea, vomiting or loss of appetite that lasts more than a few days",
+              "Bone or joint pain without injury",
+              "Skin that is unusually dry, flaky or peeling",
+              "Blurred or double vision"
+            ]
+          }
+        },
+        {
+          "h2": "Vitamin D: too much is also a problem",
+          "paras": [
+            "Vitamin D deficiency is common and worth treating, but the solution is not to take the largest dose available. Vitamin D toxicity (hypervitaminosis D) is real, though less common than vitamin A toxicity, and it happens when people take very high doses, typically above 4,000 IU per day over extended periods, without monitoring their blood levels. The problem is that many high-dose vitamin D preparations are sold in pharmacies throughout the Gulf and the Levant at strengths of 50,000 IU per capsule, which are genuinely medical doses intended to be taken weekly or monthly under supervision, not daily.",
+            "Vitamin D toxicity causes hypercalcaemia (high calcium in the blood), the symptoms of which are nausea, excessive thirst and urination, confusion, kidney pain and, in severe cases, kidney stones. The treatment involves stopping supplementation and, in serious cases, hospitalisation. The point here is not to discourage supplementation but to say that the dose matters, and that someone who takes a 50,000 IU capsule every day because more seems better is taking a dangerous amount.",
+            "The right approach is to check your blood level first. The test is a simple and inexpensive blood draw for 25-hydroxy vitamin D. If you are deficient, a doctor or pharmacist can recommend an appropriate replacement dose. If you are not, you may not need to supplement at all, or a low maintenance dose may be appropriate. Treating a number you actually know is almost always better than supplementing based on a guess."
+          ]
+        },
+        {
+          "h2": "Iron: only supplement if you actually have deficiency",
+          "paras": [
+            "Iron deficiency anaemia is extremely common among women in the Arab world, particularly in women of reproductive age who menstruate heavily, and in pregnant women. The appropriate response to confirmed iron deficiency is supplementation, and iron supplements are effective. The problem arises when people take iron supplements without a confirmed diagnosis.",
+            "Iron is not harmless in excess. Taking iron supplements when you do not need them can cause constipation, nausea and stomach pain in the short term, and long-term high iron intake has been associated with oxidative stress and, in people with a genetic condition called haemochromatosis, serious liver damage. Men and post-menopausal women rarely need iron supplements and should not take them without a blood test showing iron or ferritin levels are low.",
+            "If you are a woman who feels chronically tired, pale or breathless, ask for a full blood count and a ferritin level before buying iron supplements. Low ferritin with a normal haemoglobin is called iron deficiency without anaemia and still benefits from supplementation. A normal ferritin means iron is probably not your problem, and investigating other causes, including thyroid function and vitamin D, will be more productive."
+          ]
+        },
+        {
+          "h2": "Zinc, omega-3 and supplements for immunity",
+          "paras": [
+            "Zinc does have a genuine role in immune function. A 2017 paper in the journal Nutrients reviewed the biochemistry in detail and confirmed that zinc is essential for the development and function of immune cells. Zinc deficiency impairs immunity and increases susceptibility to infection. The question is whether people without deficiency benefit from supplementation, and the answer is generally no. Zinc supplements at moderate doses are safe, but very high zinc intake suppresses copper absorption and can itself cause immune problems.",
+            "Omega-3 fatty acids, found naturally in oily fish, walnuts and flaxseed, have strong evidence for specific uses: high-dose prescription omega-3 (icosapentaenoic acid and docosahexaenoic acid at doses of 2 to 4 grams per day) reduces triglycerides in people with hypertriglyceridaemia. The evidence for lower-dose over-the-counter fish oil for general heart health in low-risk people is much weaker than the marketing suggests.",
+            "The honest summary for most supplements marketed as immunity boosters is that they will not prevent you catching a cold if you are not deficient in anything, and the immune system does not benefit from megadoses of micronutrients. A varied diet containing fish, pulses, nuts, vegetables and fermented dairy provides the micronutrient base that the immune system actually needs. Supplements fill gaps; they do not build on top of an already replete system."
+          ],
+          "visual": {
+            "type": "stats",
+            "items": [
+              {"value": "30-90%", "label": "of adults in MENA region are vitamin D deficient or insufficient", "tone": "warn"},
+              {"value": "70%", "label": "reduction in neural tube defect risk with adequate folic acid before conception", "tone": "good"},
+              {"value": "10,000 IU", "label": "daily vitamin A dose above which fetal harm risk rises in pregnancy", "tone": "bad"}
+            ]
+          }
+        },
+        {
+          "h2": "How to decide what you actually need",
+          "paras": [
+            "The most rational starting point is not a pharmacy shelf but a blood test. A basic panel covering 25-hydroxy vitamin D, a full blood count, ferritin, and B12 if you eat little or no meat will tell you whether you have any actual deficiencies. If you do, supplementation is warranted and targeted. If you do not, a multivitamin is unlikely to benefit you and may, with some nutrients, cause harm if doses are high.",
+            "Some people have clear indications regardless of a blood test: women planning pregnancy should take folic acid, women who are veiled or spend little time in the sun should strongly consider vitamin D, vegans and strict vegetarians should take B12 regularly. Beyond these clear cases, the decision is best made with a doctor or qualified dietitian rather than based on marketing or social media recommendations.",
+            "In Arab countries, pharmacists are often the first point of health contact and are frequently knowledgeable. A good pharmacist will ask about your diet, your situation and any medicines you take before recommending a supplement. If you are offered a recommendation without those questions, it is worth seeking a second opinion from a doctor before spending money."
+          ]
+        }
+      ],
+      "tie": "If you have had a vitamin D or iron test recently, you can log the result in Sihtak and see it alongside your symptoms and any other readings you track, so that your next consultation is better informed.",
+      "faqs": [
+        {
+          "q": "Is a daily multivitamin harmful?",
+          "a": "For most healthy adults, a standard multivitamin is unlikely to be harmful at the doses commonly sold, but it is also unlikely to be beneficial. The main exception is if it contains very high doses of fat-soluble vitamins A, D, E or K, or high-dose iron. Check the label. A multivitamin containing no more than 100 percent of the recommended daily amount of any nutrient is generally safe for most adults."
+        },
+        {
+          "q": "How much vitamin D should I take?",
+          "a": "This depends on your blood level, your weight, your sun exposure and other factors. For adults with confirmed deficiency, doses of 1,000 to 4,000 IU per day are commonly used for correction, with monitoring. For general maintenance in people who get little sun, 800 to 1,000 IU per day is a reasonable and safe amount for most adults. Doses above 4,000 IU per day should be taken under medical supervision."
+        },
+        {
+          "q": "Does vitamin C prevent or cure colds?",
+          "a": "Large trials show that vitamin C does not prevent colds in the general population. In people under significant physical stress, such as marathon runners or soldiers in extreme cold, it may reduce duration slightly. For most people, taking high-dose vitamin C during a cold provides no meaningful benefit and may cause diarrhoea at very high doses."
+        },
+        {
+          "q": "I feel tired all the time. Should I take iron?",
+          "a": "Not without a blood test first. Fatigue has many causes: iron deficiency anaemia, vitamin D deficiency, hypothyroidism, poor sleep, depression, coeliac disease and diabetes are all common. Taking iron when your iron is normal will not help and can cause side effects. Ask for a full blood count and ferritin at minimum, and ideally also vitamin D and thyroid function."
+        },
+        {
+          "q": "Are supplements safe in pregnancy?",
+          "a": "Folic acid is essential and safe at the recommended dose. Vitamin D at 800 to 1,000 IU per day is safe and usually recommended. Iron should be taken if your blood count shows you need it. Vitamin A (retinol) above 3,000 micrograms per day is harmful and should be avoided. Many general multivitamins contain retinol, so check the label carefully, or use a supplement specifically formulated for pregnancy."
+        },
+        {
+          "q": "Can I get enough vitamin D from sun exposure in the Gulf?",
+          "a": "In principle yes, but in practice many people cannot, for reasons including heat keeping people indoors during peak UVB hours, full-body covering garments, high-factor sunscreen use, and darker skin requiring longer exposure. If you work indoors all day and cover your skin when outside, you are almost certainly not making enough vitamin D from the sun and should consider a supplement or at least a blood test."
+        },
+        {
+          "q": "What is the best evidence-based supplement for general health?",
+          "a": "The honest answer is: there is no single supplement that benefits everyone. Vitamin D if you are deficient, folic acid if you are or may become pregnant, and B12 if you eat no animal products are the strongest general cases. Beyond those specific indications, the evidence consistently points back to diet rather than supplementation: varied whole foods, including fish, pulses, nuts, vegetables and fermented dairy, deliver a better micronutrient profile than any capsule."
+        }
+      ]
+    },
+    "ar": {
+      "title": "مكمّلات الفيتامينات: أيّها يستحق الاهتمام فعلاً",
+      "desc": "معظم المكمّلات لا تفيد البالغين الأصحاء. بعضها ضروري حقاً. هذا الدليل يقطع عبر التسويق ليريك من يحتاج ماذا، وما الذي قد يُسبّب ضرراً فعلياً.",
+      "keywords": "مكملات الفيتامينات, نقص فيتامين د العرب, حمض الفوليك الحمل, الزنك مناعة, تسمم فيتامين أ, مكملات الشرق الأوسط, هل الفيتامينات مفيدة, مكمل الحديد",
+      "h1": "مكمّلات الفيتامينات: أيّها مفيد وأيّها مضيعة للمال وأيّها قد يُضرّ",
+      "takeaways": [
+        "معظم البالغين الأصحاء الذين يتناولون غذاءً متنوعاً لا يستفيدون من الفيتامينات اليومية المتعددة، وأثبتت تجارب سريرية كبيرة هذا الأمر.",
+        "نقص فيتامين D شائع فعلاً في الشرق الأوسط وشمال أفريقيا رغم وفرة الشمس، والتكميل عادة مناسب.",
+        "حمض الفوليك قبل الحمل وفي بدايته من أقوى المكمّلات الغذائية من حيث الإثبات العلمي ويمنع تشوّهات خطيرة.",
+        "الإفراط في تناول فيتامين A وفيتامين D يُسبّب أضراراً حقيقية، وجرعاتهما العالية تُباع في صيدليات المنطقة دون وصفة.",
+        "فحص الدم البسيط أكثر فائدة من توصيات الصيدلية إذا كنت غير متأكد مما تحتاجه."
+      ],
+      "sections": [
+        {
+          "h2": "هل تُجدي المكمّلات الغذائية لمعظم الناس؟",
+          "paras": [
+            "الإجابة الصادقة بالنسبة للبالغين الأصحاء الذين يتناولون غذاءً متنوعاً هي: في الغالب لا. تجارب سريرية عشوائية كبيرة، شملت عشرات الآلاف من المشاركين تمت متابعتهم لسنوات، وجدت باستمرار أن الفيتامينات المتعددة اليومية (Multivitamins) لا تُخفّض خطر أمراض القلب والأوعية أو السرطان أو التدهور المعرفي أو الوفاة المبكرة لدى الأشخاص الذين لا يعانون من أي نقص. صناعة المكمّلات ضخمة ومربحة والتسويق مقنع، لكن الأساس العلمي للتكميل الروتيني لدى الصحيح ضعيف.",
+            "ما يُجدي فعلاً هو التكميل الموجَّه لمن لديه نقص مُثبَت أو حاجة متزايدة محدودة الأسباب. المرأة الحامل تحتاج حمض الفوليك. من يقلّ تعرضه للشمس أو يرتدي الزي الساتر في الدول الحارة يحتاج في الغالب فيتامين D. من أجرى جراحات معينة أو يتبع نظاماً نباتياً صارماً أو يعاني من اضطراب في الامتصاص قد يحتاج فعلاً إلى B12 أو الحديد أو غيرهما. السؤال دائماً هو: هل أنت في مجموعة تحتاج هذا الشيء، لا هل يُسوَّق لك؟",
+            "هذا مهم بشكل خاص في العالم العربي حيث الوصفة الذاتية شائعة والصيدليات سهلة الوصول والمكمّلات متاحة بأسعار معقولة مقارنة بزيارة الطبيب. من السهل إنفاق المال على ما لا يفيد، ومع بعض الفيتامينات تحديداً، من الممكن تناول كميات كافية لتُحدث ضرراً."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "مكمّلات شائعة: من يحتاجها فعلاً ومن لا يحتاجها",
+            "head": ["المكمّل", "إثبات علمي قوي لـ", "إثبات ضعيف لـ"],
+            "rows": [
+              ["فيتامين D", "من لديه مستويات منخفضة، قليل التعرض للشمس، مرتدي الأزياء الساترة", "البالغون الأصحاء بمستويات طبيعية"],
+              ["حمض الفوليك", "المرأة التي تخطط للحمل أو في الثلث الأول", "البالغون الأصحاء غير الحوامل"],
+              ["الحديد", "فقر الدم بنقص الحديد المؤكد", "التكميل الروتيني دون تحليل دم"],
+              ["فيتامين B12", "النباتيون الصارمون ومن هم فوق 60 عاماً ومستخدمو ميتفورمين", "آكلو اللحوم بمستويات طبيعية"],
+              ["الزنك", "النقص المؤكد وبعض أنواع العدوى", "تعزيز المناعة العام لذوي المستويات الطبيعية"],
+              ["فيتامين A", "النقص في بيئات محددة (ريفية، نظام غذائي فقير جداً)", "معظم البالغين؛ الزيادة ضارة"],
+              ["أوميغا-3", "جرعات عالية لارتفاع الدهون الثلاثية (بوصفة طبية)", "صحة القلب العامة للأشخاص منخفضي الخطر"]
+            ]
+          }
+        },
+        {
+          "h2": "لماذا نقص فيتامين D شائع في الدول المشمسة؟",
+          "paras": [
+            "يُفاجئ هذا كثيرين، وهو يستحق تفسيراً دقيقاً. فيتامين D يُصنَّع في الجلد عندما تُصيبه الأشعة فوق البنفسجية B (UVB) من ضوء الشمس. الشرق الأوسط وشمال أفريقيا يحظيان بكميات هائلة من الشمس. ومع ذلك، كشفت مراجعة نُشرت في مجلة Bone Reports عام 2018، غطّت دراسات من مختلف أنحاء المنطقة، عن معدلات نقص فيتامين D تتراوح بين 30 و90 بالمئة في مجموعات سكانية مختلفة، مع ارتفاع الخطر بشكل خاص لدى النساء وكبار السن ومن يُغطّون جلدهم لأسباب دينية أو ثقافية.",
+            "ثمة أسباب عدة لهذا التناقض الظاهر. الحرارة الشديدة في الصيف تُبقي الناس في الداخل خلال ساعات ذروة UVB، عادة من العاشرة صباحاً حتى الثالثة مساءً. حين يخرج الناس يستخدمون واقيات شمس عالية الحماية تحجب UVB بفاعلية. البشرة الداكنة تحتاج إلى تعرض أطول للشمس لإنتاج الكمية ذاتها من الفيتامين مقارنة بالبشرة الفاتحة. فضلاً عن ذلك، الأزياء الساترة التقليدية التي ترتديها نسبة كبيرة من النساء في المنطقة تحجب معظم الجلد عن الشمس كلياً.",
+            "دراسة عام 2018 التي نظرت تحديداً في النساء العربيات في بداية الحمل وجدت معدلات نقص مقلقة، وهذا مهم لأن فيتامين D يؤدي دوراً في تطور عظام الجنين والوظيفة المناعية وعمليات أخرى عديدة. ارتبط النقص خلال الحمل بارتفاع خطر تسمم الحمل ومحدودية الوزن عند الولادة، ويُوصى بالتكميل في الإرشادات الدولية ويُعدّ آمناً ضمن الجرعات العلاجية الاعتيادية."
+          ],
+          "visual": {
+            "type": "range-scale",
+            "title": "مستوى فيتامين D في الدم: أين تقع نتيجتك؟",
+            "label": "25-OH Vitamin D",
+            "unit": "nmol/L",
+            "min": 0,
+            "max": 250,
+            "zones": [
+              {"to": 30, "tone": "bad", "label": "نقص حاد"},
+              {"to": 50, "tone": "warn", "label": "غير كافٍ"},
+              {"to": 125, "tone": "good", "label": "مستوى جيد"},
+              {"to": 250, "tone": "bad", "label": "زيادة"}
+            ],
+            "source": "Pludowski P et al, Journal of Steroid Biochemistry and Molecular Biology, 2018",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/28216084/"
+          }
+        },
+        {
+          "h2": "حمض الفوليك في الحمل: المكمّل ذو الإثبات الأقوى",
+          "paras": [
+            "حمض الفوليك (فيتامين B9) قبل الحمل وفي أسابيعه الأولى ليس خياراً؛ بل هو المكمّل الأقوى إثباتاً في الطب التوليدي. تشوّهات الأنبوب العصبي (Neural tube defects)، التي تُصيب دماغ الجنين والنخاع الشوكي، تحدث في الأسابيع الأربعة الأولى بعد الإخصاب، غالباً قبل أن تعرف المرأة أصلاً أنها حامل. توفّر حمض الفوليك الكافي في الأشهر التي تسبق الحمل وطوال الثلث الأول يُقلّل خطر هذه التشوّهات بحوالي 70 بالمئة.",
+            "الوعي بهذا أقل مما ينبغي في أجزاء من العالم العربي. دراسة نُشرت في مجلة Annales de Genetique فحصت الوعي بحمض الفوليك في مجتمع عربي بنسبة زواج أقارب مرتفعة، وهو ما يرفع أصلاً خطر بعض الحالات الوراثية، ووجدت أن المعرفة بالتكميل بحمض الفوليك قبل الحمل كانت متدنية. هذه مشكلة قابلة للحل: المكمّل رخيص والإثبات ساحق والفائدة تتركّز في أسابيع يصعب التدخل فيها بعد الحقيقة.",
+            "التوصية المعتمدة هي 400 ميكروغرام يومياً، يُفضَّل البدء قبل الحمل بشهر إلى ثلاثة أشهر والاستمرار حتى الأسبوع الثاني عشر. النساء اللواتي سبق أن أنجبن طفلاً مُصاباً بتشوّه الأنبوب العصبي، أو اللواتي يتناولن بعض أدوية الصرع، يحتجن إلى جرعة أعلى وينبغي أخذها بتوجيه طبي. حمض الفوليك بالجرعات المعتادة لا آثار جانبية ضارة معروفة له."
+          ]
+        },
+        {
+          "h2": "حين يتحوّل فيتامين A إلى خطر",
+          "paras": [
+            "فيتامين A ضروري. يؤدي دوراً أساسياً في الرؤية والوظيفة المناعية ونمو الخلايا في مختلف أنحاء الجسم. النقص الحقيقي في فيتامين A، وهو نادر لدى سكان المدن الذين يتناولون غذاءً متنوعاً، يُسبّب العشى الليلي ومشاكل مناعية خطيرة. حيث يحدث فعلاً، في بعض البيئات الريفية أو تلك التي تعاني من انعدام الأمن الغذائي، يُعدّ التكميل تدخلاً صحياً مهماً.",
+            "الخطر الذي يواجهه معظم المستهلكين العرب في المدن هو العكس: فائض فيتامين A من المكمّلات. على عكس الفيتامينات الذوّابة في الماء كفيتامين C وفيتامينات B، فيتامين A ذوّاب في الدهون ويتراكم في الجسم. جرعاته العالية على مدى أسابيع أو أشهر تُسبّب حالة تُعرف بفرط فيتامين A (Hypervitaminosis A)، أعراضها صداع شديد وغثيان وتلف كبدي وألم في العظام وجفاف حاد في الجلد وتقشّره. استعراض منهجي نُشر عام 2026 في مجلة Clinica Chimica Acta درس الصورة السريرية الكاملة لتسمّم فيتامين A ووجد أنه كثيراً ما يُشخَّص بشكل خاطئ لأن أعراضه تُشبه حالات أخرى عديدة.",
+            "النقطة الجوهرية للسلامة هي أن فيتامين A موجود في الفيتامينات المتعددة، وفي زيت كبد الحوت، وفي مكمّلات البشرة المباعة في الصيدليات. تناول عدة منتجات في آنٍ واحد قد يدفع الجرعة اليومية الإجمالية فوق الحد الآمن بكثير. المرأة الحامل في خطر خاص: جرعات تتجاوز 3,000 ميكروغرام (10,000 وحدة دولية) يومياً قد تُسبّب تشوّهات جنينية. ينبغي على المرأة الحامل تجنّب مكمّلات فيتامين A العالية الجرعة كلياً والتحقق مما إذا كانت أي فيتامينات متعددة تتناولها تحتوي على ريتينول."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "أوقف فيتامين A عالي الجرعة واستشر طبيبك إذا ظهرت عليك",
+            "items": [
+              "صداع مستمر لا يستجيب لمسكّنات الألم",
+              "غثيان أو إقياء أو فقدان شهية يمتد أكثر من بضعة أيام",
+              "ألم في العظام أو المفاصل دون إصابة",
+              "جلد شديد الجفاف أو التقشّر",
+              "ازدواجية في الرؤية أو ضبابيتها"
+            ]
+          }
+        },
+        {
+          "h2": "فيتامين D: الزيادة أيضاً مشكلة",
+          "paras": [
+            "نقص فيتامين D شائع ويستحق العلاج، لكن الحل ليس تناول أعلى جرعة متاحة. تسمّم فيتامين D (Hypervitaminosis D) حقيقي وإن كان أقل شيوعاً من تسمّم فيتامين A، ويحدث حين يتناول الناس جرعات مرتفعة جداً، تتجاوز عادة 4,000 وحدة دولية يومياً لفترات مطوّلة دون مراقبة مستوى الدم. المشكلة أن كثيراً من تحضيرات فيتامين D عالية الجرعة تُباع في صيدليات الخليج والمشرق بقوى 50,000 وحدة دولية للكبسولة الواحدة، وهذه جرعات طبية حقيقية تُؤخذ أسبوعياً أو شهرياً تحت إشراف، لا يومياً.",
+            "تسمّم فيتامين D يُسبّب ارتفاع الكالسيوم في الدم (Hypercalcaemia)، أعراضه غثيان وعطش مفرط وكثرة التبوّل وتشوّش ذهني وألم في الكلى وفي الحالات الشديدة حصى الكلى. العلاج يبدأ بوقف المكمّل وفي الحالات الخطيرة يحتاج إلى دخول المستشفى. النقطة ليست ثنيك عن التكميل بل التأكيد على أن الجرعة مهمة.",
+            "النهج السليم هو فحص مستوى الدم أولاً، وهو تحليل بسيط وغير مكلف. إن كنت تعاني من نقص فيمكن لطبيبك أو صيدلانيك التوصية بجرعة تصحيح مناسبة. إن لم يكن كذلك فقد لا تحتاج إلى تكميل أصلاً، أو جرعة صيانة منخفضة قد تكون كافية. علاج رقم تعرفه بالفعل أفضل دائماً من التكميل قائماً على تخمين."
+          ]
+        },
+        {
+          "h2": "الحديد: كمّل فقط إذا كان لديك نقص مؤكد",
+          "paras": [
+            "فقر الدم بنقص الحديد شائع جداً بين النساء في العالم العربي، لا سيما النساء في سن الإنجاب اللواتي تكثر لديهن الدورات الشهرية الغزيرة والحوامل. الاستجابة المناسبة لنقص الحديد المؤكد هي التكميل، ومكمّلات الحديد فعّالة. المشكلة تبرز حين يتناول الناس مكمّلات الحديد دون تشخيص مؤكد.",
+            "الحديد ليس بلا أضرار في حال الزيادة. تناول مكمّلات الحديد حين لا تحتاجها يُسبّب إمساكاً وغثياناً وآلاماً في المعدة على المدى القصير. كما يرتبط الإفراط في تناول الحديد على المدى البعيد بالإجهاد التأكسدي، وعند الأشخاص المصابين بحالة وراثية تُسمى الترسّب الحديدي (Haemochromatosis) قد يُسبّب تلفاً كبدياً خطيراً. الرجال والنساء بعد سنّ اليأس نادراً ما يحتاجون مكمّلات الحديد وينبغي ألا يتناولوها دون تحليل يُثبت انخفاض الحديد أو الفيريتين.",
+            "إذا كنتِ امرأة تشعرين بالتعب المزمن والشحوب وضيق التنفس، اطلبي صورة دم كاملة وتحليل فيريتين قبل شراء مكمّل الحديد. انخفاض الفيريتين مع خضاب دم طبيعي يُسمى نقص الحديد دون فقر دم ويستفيد من التكميل. فيريتين طبيعي يعني أن الحديد على الأرجح ليس مشكلتك."
+          ]
+        },
+        {
+          "h2": "الزنك وأوميغا-3 ومكمّلات المناعة",
+          "paras": [
+            "للزنك دور حقيقي في الوظيفة المناعية. بحث نُشر عام 2017 في مجلة Nutrients استعرض الآليات الكيميائية الحيوية بتفصيل وأكد أن الزنك ضروري لتطور الخلايا المناعية وعملها. نقص الزنك يُضعف المناعة ويرفع القابلية للإصابة بالعدوى. السؤال هو ما إذا كان من لا يعاني من نقص يستفيد من التكميل، والإجابة في الغالب لا. مكمّلات الزنك بجرعات معتدلة آمنة، لكن تناول الزنك بكميات كبيرة يُثبّط امتصاص النحاس وقد يُسبّب بدوره مشاكل مناعية.",
+            "أحماض أوميغا-3 الدهنية (Omega-3)، الموجودة طبيعياً في الأسماك الدهنية والجوز وبذور الكتّان، لها إثبات قوي لاستخدامات محددة: جرعات عالية موصوفة طبياً من أوميغا-3 تُخفّض الدهون الثلاثية المرتفعة عند من يعانون من ارتفاعها. الإثبات على فوائد زيت السمك بالجرعات المنخفضة المباعة دون وصفة لصحة القلب العامة لدى الأشخاص منخفضي الخطر أضعف بكثير مما يوحي به التسويق.",
+            "الملخص الأمين لمعظم مكمّلات تعزيز المناعة المُسوَّقة هو أنها لن تمنعك من الإصابة بنزلات البرد إذا لم تكن تعاني من نقص في شيء، والجهاز المناعي لا يستفيد من جرعات زائدة من المعادن الدقيقة. نظام غذائي متنوع يحوي السمك والبقوليات والمكسرات والخضروات ومنتجات الألبان المخمّرة يوفّر القاعدة الغذائية الدقيقة التي يحتاجها الجهاز المناعي فعلاً."
+          ],
+          "visual": {
+            "type": "stats",
+            "items": [
+              {"value": "30-90%", "label": "من البالغين في منطقة الشرق الأوسط وشمال أفريقيا يعانون من نقص أو قصور في فيتامين D", "tone": "warn"},
+              {"value": "70%", "label": "انخفاض في خطر تشوّهات الأنبوب العصبي بحمض الفوليك الكافي قبل الحمل", "tone": "good"},
+              {"value": "3000 mcg", "label": "هي الجرعة اليومية من فيتامين A التي يرتفع عندها خطر تشوّه الجنين في الحمل", "tone": "bad"}
+            ]
+          }
+        },
+        {
+          "h2": "كيف تقرر ما تحتاجه فعلاً",
+          "paras": [
+            "أعقل نقطة بداية ليست رفّ الصيدلية بل تحليل دم. لوحة أساسية تشمل 25-hydroxy vitamin D وصورة دم كاملة وفيريتين وB12 إن كنت تتناول كميات قليلة من اللحوم ستُخبرك هل لديك أي نقص فعلي. إن وُجد فالتكميل مُبرَّر وموجَّه. إن لم يكن، فالفيتامينات المتعددة على الأرجح لن تفيدك وقد تُلحق الضرر ببعض العناصر إذا كانت الجرعات مرتفعة.",
+            "بعض الناس لديهم مؤشرات واضحة بصرف النظر عن تحليل الدم: المرأة التي تخطط للحمل يجب أن تتناول حمض الفوليك، من تُغطّي وجهها أو تقضي وقتاً قليلاً في الشمس ينبغي أن تفكّر جدياً في فيتامين D، النباتيون الصارمون يحتاجون B12 بانتظام. خارج هذه الحالات الواضحة، يظل القرار أفضل حين يتخذ بمشاركة طبيب أو أخصائي تغذية معتمد لا بناءً على توصيات التسويق أو وسائل التواصل الاجتماعي.",
+            "في الدول العربية، الصيدلاني كثيراً ما يكون أول نقطة اتصال صحي وهو في الغالب على دراية جيدة. الصيدلاني الجيد سيسألك عن نظامك الغذائي ووضعك الصحي وأي أدوية تتناولها قبل توصية بمكمّل. إن قُدّمت لك توصية دون هذه الأسئلة، فمن الحكمة طلب رأي ثانٍ من طبيب قبل الإنفاق."
+          ]
+        }
+      ],
+      "tie": "إذا أجريت مؤخراً تحليل فيتامين D أو حديد، يمكنك تسجيل النتيجة في تطبيق صحتك ومتابعتها إلى جانب أعراضك وقراءاتك الأخرى، حتى تكون استشارتك القادمة أكثر فائدة.",
+      "faqs": [
+        {
+          "q": "هل الفيتامينات المتعددة اليومية ضارة؟",
+          "a": "لمعظم البالغين الأصحاء، الفيتامينات المتعددة المعتادة ليست ضارة بالجرعات المباعة عادة، لكنها كذلك ليست مفيدة. الاستثناء الرئيسي هو إذا احتوت على جرعات عالية من الفيتامينات الدهنية A أو D أو E أو K أو جرعات عالية من الحديد. تحقق من الملصق. فيتامين متعدد يحتوي على ما لا يزيد عن 100 بالمئة من الكمية اليومية الموصى بها لأي عنصر آمن في الغالب."
+        },
+        {
+          "q": "كم يجب أن أتناول من فيتامين D؟",
+          "a": "يعتمد ذلك على مستوى الدم لديك ووزنك وتعرضك للشمس وعوامل أخرى. للبالغين ذوي النقص المؤكد، كثيراً ما تُستخدم جرعات 1,000 إلى 4,000 وحدة دولية يومياً مع المراقبة. للصيانة العامة لمن لا يحصل على شمس كافية، 800 إلى 1,000 وحدة دولية يومياً كمية معقولة وآمنة لمعظم البالغين. الجرعات فوق 4,000 وحدة دولية يومياً ينبغي أخذها تحت إشراف طبي."
+        },
+        {
+          "q": "هل فيتامين C يمنع نزلات البرد أو يشفيها؟",
+          "a": "التجارب الكبيرة تُظهر أن فيتامين C لا يمنع نزلات البرد في عامة الناس. لدى الأشخاص الخاضعين لإجهاد بدني شديد كالعدّائين في الماراثون أو الجنود في البرد القارس قد يُقلّل مدتها قليلاً. لمعظم الناس، تناول فيتامين C بجرعات عالية خلال نزلة البرد لا يُقدّم فائدة تُذكر وقد يُسبّب إسهالاً بجرعات مرتفعة جداً."
+        },
+        {
+          "q": "أشعر بتعب مستمر. هل أتناول مكمّل الحديد؟",
+          "a": "لا، ليس قبل إجراء تحليل دم أولاً. التعب له أسباب كثيرة: فقر دم بنقص الحديد، نقص فيتامين D، قصور الغدة الدرقية، اضطراب النوم، الاكتئاب، الداء الزلاقي والسكري من بينها. تناول الحديد حين مستوياتك طبيعية لن يفيدك وقد يُسبّب أعراضاً جانبية. اطلب صورة دم كاملة وفيريتين كحد أدنى، ومن الأفضل إضافة فيتامين D ووظيفة الغدة الدرقية."
+        },
+        {
+          "q": "هل المكمّلات آمنة أثناء الحمل؟",
+          "a": "حمض الفوليك ضروري وآمن بالجرعة الموصى بها. فيتامين D بـ800 إلى 1,000 وحدة دولية يومياً آمن ويُوصى به في الغالب. الحديد يُؤخذ إذا أظهر تحليل الدم الحاجة إليه. فيتامين A (ريتينول) فوق 3,000 ميكروغرام يومياً ضارّ ويجب تجنّبه. كثير من الفيتامينات المتعددة تحتوي على ريتينول، فتحققي من الملصق بعناية أو استخدمي مكمّلاً مُصمَّماً خصيصاً للحمل."
+        },
+        {
+          "q": "هل يمكنني الحصول على كمية كافية من فيتامين D من الشمس في منطقتنا؟",
+          "a": "من حيث المبدأ نعم، لكن في الواقع كثيرون لا يستطيعون، لأسباب منها بقاؤهم في الداخل خلال ذروة UVB بسبب الحرارة، وارتداء الملابس الساترة، واستخدام واقيات شمس عالية الحماية، والبشرة الداكنة التي تحتاج تعرضاً أطول. إذا كنت تعمل في الداخل طوال النهار وتُغطّي جلدك خارجه، فعلى الأرجح لا تُنتج كمية كافية من فيتامين D وينبغي أن تفكّر في مكمّل أو على الأقل في إجراء تحليل."
+        },
+        {
+          "q": "ما أفضل مكمّل بإثبات علمي للصحة العامة؟",
+          "a": "الإجابة الصادقة هي: لا يوجد مكمّل واحد يفيد الجميع. فيتامين D عند النقص، وحمض الفوليك للمرأة الحامل أو التي تعتزم الحمل، وB12 لمن لا يتناول منتجات حيوانية؛ هذه هي الحالات الأقوى إثباتاً. خارج هذه المؤشرات المحددة، تعود الأبحاث دائماً إلى الغذاء المتنوع لا المكمّلات: الأسماك والبقوليات والمكسرات والخضروات ومنتجات الألبان المخمّرة تمنح ملفّاً من المغذيات الدقيقة لا يعادله أي كبسولة."
+        }
+      ]
+    }
+  }
+}

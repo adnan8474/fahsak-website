@@ -1,0 +1,383 @@
+{
+  "slug": "hypothyroidism-underactive-thyroid",
+  "category": "chronic-conditions",
+  "chip_ar": "أمراض مزمنة",
+  "chip_en": "Chronic Conditions",
+  "date_iso": "2026-08-04",
+  "sources": [
+    {
+      "label": "Wilson SA, Stem LA, Bruehlman RD et al: Hypothyroidism: Diagnosis and Treatment, American family physician, 2021",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33983002/"
+    },
+    {
+      "label": "Chaker L, Papaleontiou M: Hypothyroidism: A Review, JAMA, 2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40900603/"
+    },
+    {
+      "label": "Klubo-Gwiezdzinska J, Wartofsky L: Hashimoto thyroiditis: an evidence-based guide to etiology, diagnosis and treatment, Polish archives of internal medicine, 2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35243857/"
+    },
+    {
+      "label": "Mana DL, Rizzo LFL: Challenges in the treatment of hypothyroidism: malabsorption and pseudo-malabsorption of levothyroxine, Medicina, 2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41109285/"
+    },
+    {
+      "label": "Yassa L, Marqusee E, Fawcett R et al: Thyroid hormone early adjustment in pregnancy (the THERAPY) trial, The Journal of clinical endocrinology and metabolism, 2010",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20463094/"
+    },
+    {
+      "label": "Caturegli P, De Remigis A, Rose NR et al: Hashimoto thyroiditis: clinical and diagnostic criteria, Autoimmunity reviews, 2014",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24434360/"
+    }
+  ],
+  "content": {
+    "ar": {
+      "title": "قصور الغدة الدرقية: الأعراض والعلاج والمتابعة",
+      "desc": "دليل شامل لقصور الغدة الدرقية: أعراضه الشائعة، كيفية أخذ ليفوثيروكسين بالطريقة الصحيحة، والتداخلات مع القهوة والحديد، وجداول إعادة الفحص.",
+      "keywords": "قصور الغدة الدرقية, كسل الغدة الدرقية, ليفوثيروكسين, علاج الغدة الدرقية, TSH, هاشيموتو, أعراض قصور الغدة, فحص الغدة الدرقية",
+      "h1": "قصور الغدة الدرقية: الأعراض والعلاج والمتابعة الصحيحة",
+      "takeaways": [
+        "قصور الغدة الدرقية شائع جداً خاصة عند النساء، وتُشخَّص أغلب الحالات بتحليل TSH وحده في المرحلة الأولى.",
+        "ليفوثيروكسين دواء فعال جداً لكن طريقة أخذه تحدد مدى نجاح العلاج: المعدة الفارغة صباحاً والانتظار نصف ساعة قبل القهوة شرطان جوهريان.",
+        "الحديد والكالسيوم وبعض أدوية الحموضة تمنع امتصاص ليفوثيروكسين إذا أُخذت معه في وقت واحد.",
+        "يحتاج الحامل بقصور الغدة الدرقية إلى زيادة الجرعة في الأسابيع الأولى من الحمل ومتابعة أكثر تكراراً.",
+        "قصور الغدة الدرقية يُعالَج بشكل كامل بالدواء، لكنه يستلزم متابعة دورية مدى الحياة."
+      ],
+      "sections": [
+        {
+          "h2": "ما هو قصور الغدة الدرقية وكيف يحدث؟",
+          "paras": [
+            "قصور الغدة الدرقية (Hypothyroidism) يعني أن الغدة الدرقية لا تُنتج كمية كافية من هرموناتها T4 و T3، مما يُبطئ عمليات الأيض في الجسم كله. والسبب الأكثر شيوعاً لهذا القصور في العالم هو مرض هاشيموتو (Hashimoto's thyroiditis)، وهو حالة مناعة ذاتية يُهاجم فيها جهاز المناعة الغدة الدرقية بالخطأ ويُدمر خلاياها تدريجياً على مدار سنوات.",
+            "مراجعة شاملة نُشرت في مجلة JAMA عام 2025 أوضحت أن قصور الغدة الدرقية يُصيب ما بين اثنين وخمسة بالمئة من البالغين في معظم المجتمعات، مع نسبة أعلى بكثير عند النساء مقارنة بالرجال، بما يُقارب سبع مرات. يُلاحظ أيضاً ارتفاع حدوثه مع التقدم في السن.",
+            "أسباب أخرى تشمل: نقص اليود في الغذاء وإن كان نادراً في معظم الدول العربية حالياً بسبب إضافته للملح، وإزالة الغدة الدرقية جراحياً أو معالجتها باليود المشع لأسباب أخرى، وبعض الأدوية كالأميودارون المُستخدم لأمراض القلب وليثيوم العلاج النفسي. في جميع هذه الحالات، النتيجة واحدة: نقص هرمونات الغدة الدرقية."
+          ],
+          "visual": {
+            "type": "stats",
+            "items": [
+              {"value": "2-5%", "label": "من البالغين يعانون من قصور الغدة الدرقية", "tone": "info"},
+              {"value": "7x", "label": "أكثر شيوعاً عند النساء مقارنة بالرجال", "tone": "warn"}
+            ]
+          }
+        },
+        {
+          "h2": "أعراض قصور الغدة الدرقية: لماذا تتشابه مع أمراض أخرى؟",
+          "paras": [
+            "أعراض قصور الغدة الدرقية خادعة لأنها تظهر ببطء شديد، وكثيراً ما يُعزوها الشخص إلى الإجهاد أو العمر أو ضغط الحياة. التعب المزمن الذي لا يتحسن بالراحة، والشعور بالبرد في درجات حرارة يتحملها الآخرون بشكل عادي، وبطء ضربات القلب وبطء التفكير والإمساك المزمن، كلها تدل على أن عمليات الجسم تعمل بإيقاع أبطأ من المعتاد.",
+            "الأعراض الأخرى تشمل جفاف الجلد وتساقط الشعر، خاصة من الحواجب في حالات التسمم بالغدة الدرقية التي تمتد لفترة طويلة، والتورم حول العينين والوجه والأطراف بسبب تراكم المواد الهلامية في الأنسجة تحت الجلد. الاكتئاب والنسيان أكثر شيوعاً لدى المصابين بقصور الغدة الدرقية مقارنة بعامة السكان، ويتحسنان في الغالب مع علاج القصور.",
+            "الأعراض قد تكون طفيفة جداً في مراحل مبكرة، خاصة في القصور تحت السريري (Subclinical Hypothyroidism) حيث يرتفع TSH بينما تبقى هرمونات T4 و T3 ضمن المعدل الطبيعي. هذا الشكل شائع وقد يُسبب أعراضاً خفية، لكن قرار علاجه بالدواء يعتمد على مستوى TSH وعوامل أخرى كالحمل وخطر أمراض القلب."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "أعراض قصور الغدة الدرقية الشائعة",
+            "head": ["الجهاز المصاب", "الأعراض المحتملة"],
+            "rows": [
+              ["الطاقة والتمثيل الغذائي", "تعب مزمن، زيادة وزن بدون سبب واضح، عدم تحمل البرد"],
+              ["القلب والأوعية", "بطء ضربات القلب، ارتفاع الكوليسترول"],
+              ["الجلد والشعر", "جفاف الجلد، تساقط الشعر، تساقط الحواجب"],
+              ["الجهاز الهضمي", "إمساك مزمن، بطء الهضم"],
+              ["الصحة النفسية والعقلية", "اكتئاب، نسيان، بطء في التفكير"],
+              ["الجهاز التناسلي عند النساء", "اضطراب الدورة الشهرية، صعوبة الحمل"]
+            ]
+          }
+        },
+        {
+          "h2": "كيف يُشخَّص قصور الغدة الدرقية؟",
+          "paras": [
+            "التشخيص يبدأ بتحليل TSH في الدم، وهو الاختبار الأحساس والأوفر تكلفة. عندما تضعف الغدة الدرقية، ترفع الغدة النخامية إفراز TSH لتحفيزها على الإنتاج، لذلك ارتفاع TSH فوق الحد الطبيعي هو أول علامة على قصور الغدة. الحد الطبيعي المتعارف عليه عموماً هو بين 0.4 و 4.0 mIU/L، لكنه قد يختلف قليلاً بين المختبرات.",
+            "إذا ارتفع TSH، يُضاف تحليل هرمون T4 الحر (Free T4) لتحديد ما إذا كان القصور صريحاً أم تحت سريري. في القصور التحت السريري يرتفع TSH لكن T4 يبقى طبيعياً، بينما في القصور الصريح ينخفض T4 أيضاً ويستوجب العلاج الدوائي دائماً. يُضاف إلى ذلك تحليل الأجسام المضادة للغدة، وخاصة anti-TPO لكشف هاشيموتو إذا كانت مطلوبة.",
+            "في مناطقنا حيث قد لا تُوجد أجهزة قياس دقيقة في كل مختبر، يجب ملاحظة أن نتيجة TSH الواحدة يمكن أن تتفاوت بين مختبرين بسبب اختلاف الكيماويات المستخدمة والمعايرة. إذا كانت النتيجة على حدود الطبيعي وكانت الأعراض موجودة، يستحق إعادة التحليل في مختبر موثوق."
+          ],
+          "visual": {
+            "type": "range-scale",
+            "title": "أين يقع قيمة TSH",
+            "label": "TSH",
+            "unit": "mIU/L",
+            "min": 0,
+            "max": 10,
+            "zones": [
+              {"to": 0.4, "tone": "warn", "label": "منخفض"},
+              {"to": 4.0, "tone": "good", "label": "طبيعي"},
+              {"to": 10, "tone": "bad", "label": "مرتفع"}
+            ],
+            "source": "Wilson SA et al: Hypothyroidism: Diagnosis and Treatment, American family physician, 2021",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/33983002/"
+          }
+        },
+        {
+          "h2": "كيف تأخذ ليفوثيروكسين بالطريقة الصحيحة التي تُحدث الفارق؟",
+          "paras": [
+            "ليفوثيروكسين (Levothyroxine) هو شكل صناعي من هرمون T4 يُعوّض ما تعجز الغدة عن إنتاجه. هو علاج آمن وفعال جداً عند أخذه بشكل صحيح، لكن طريقة أخذه تُحدد مدى فاعليته. دراسة نُشرت في مجلة Medicina عام 2025 أكدت أن الامتصاص السيئ هو من أبرز أسباب عدم الاستجابة للعلاج لدى المرضى المُلتزمين بأخذ أدويتهم.",
+            "القاعدة الأساسية هي أخذه على معدة فارغة، بمعنى ثلاثين إلى ستين دقيقة قبل أي طعام أو شراب آخر. القهوة، حتى السوداء دون سكر أو حليب، تُقلل امتصاصه بشكل ملموس. في منطقتنا حيث كثيرون يبدؤون يومهم بالقهوة أو الشاي مباشرة بعد الاستيقاظ، هذه النقطة تُفسر سبب عدم وصول TSH للمستوى المطلوب رغم الانتظام على الدواء. الحل العملي هو وضع الحبة بجانب سرير النوم مع كوب ماء لأخذها فور الاستيقاظ، وبعد نصف ساعة تكون القهوة جاهزة.",
+            "الجرعة المثلى تُحدد بناء على وزن الجسم ونتيجة TSH، وتُضبط بشكل تدريجي على مدار أسابيع. ليس المطلوب وصول TSH إلى صفر بل تثبيته ضمن النطاق الطبيعي. وصف علاج مرتفع الجرعة لتسريع الوصول يُمكن أن يُسبب أعراض فرط نشاط الغدة من خفقان وتوتر وقلة نوم، لذلك الأفضل البدء بجرعة حذرة وزيادتها تدريجياً."
+          ]
+        },
+        {
+          "h2": "ما الذي يتداخل مع امتصاص ليفوثيروكسين؟",
+          "paras": [
+            "ليفوثيروكسين يتأثر امتصاصه بعدد كبير من الأطعمة والأدوية الشائعة في المنطقة. الحديد الفموي، الذي تأخذه كثيرات من النساء لعلاج فقر الدم، يرتبط بليفوثيروكسين في الأمعاء ويُقلل امتصاصه بشكل كبير. الحل هو الفصل بينهما بأربع ساعات على الأقل، ويُفضل أن يُؤخذ ليفوثيروكسين صباحاً والحديد مساءً.",
+            "الكالسيوم بأشكاله المختلفة، سواء أملاح الكالسيوم كمكملات العظام أو مضادات الحموضة التي تحتوي على هيدروكسيد الألومنيوم والمغنيسيوم، كلها تُعيق امتصاص ليفوثيروكسين. فيتامين D وحده لا يُعيق الامتصاص، لكن مستحضرات الكالسيوم-فيتامين D المشتركة الشائعة كثيراً في المنطقة تُسبب المشكلة بسبب جزء الكالسيوم.",
+            "بعض أطعمة الصويا بكميات كبيرة قد تُقلل الامتصاص أيضاً. والأشخاص الذين يعانون من سوء الامتصاص المعوي لأي سبب، مثل الداء البطني أو التهاب المعدة الضموري، يحتاجون إلى جرعات أعلى لتعويض الامتصاص المنقوص. هذا سبب مهم لعدم مقارنة جرعتك بجرعة قريب يأخذ نفس الدواء.",
+            "الفصل الزمني بين ليفوثيروكسين وهذه المواد لا يعني بالضرورة أن تأخذها في أوقات متباعدة بشكل كبير. الفارق الأساسي أن يكون المعدة فارغة عند أخذ الليفوثيروكسين، وبعد ساعة إلى ساعتين يمكن تناول الفطور مع الحديد أو الكالسيوم. هذا الترتيب يحل المشكلة عملياً دون أن يُقلب جدول يومك."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "ما الذي يُعيق امتصاص ليفوثيروكسين",
+            "head": ["المادة", "التوصية"],
+            "rows": [
+              ["القهوة والشاي", "انتظر 30 إلى 60 دقيقة بعد الدواء قبل شربها"],
+              ["مكملات الحديد", "افصل بينهما بأربع ساعات على الأقل"],
+              ["مكملات الكالسيوم", "افصل بينهما بأربع ساعات على الأقل"],
+              ["مضادات الحموضة", "انتظر ساعتين على الأقل بعد ليفوثيروكسين"],
+              ["فيتامين D مع الكالسيوم", "خذه في وقت مختلف، الكالسيوم هو المشكلة"]
+            ]
+          }
+        },
+        {
+          "h2": "كم مرة يجب إعادة تحليل TSH وجدول المتابعة؟",
+          "paras": [
+            "بعد بدء العلاج أو تغيير الجرعة، يُعاد تحليل TSH بعد ستة إلى ثمانية أسابيع. السبب في هذه المدة هو أن TSH يحتاج إلى أسابيع للاستقرار عند مستواه الجديد بعد تغيير الجرعة. تحليل TSH بعد أسبوعين فقط من تغيير الجرعة سيُعطي نتيجة مضللة لا تعكس الوضع الحقيقي.",
+            "بمجرد تثبيت الجرعة ووصول TSH للنطاق الطبيعي، يكفي تحليل سنوي لمعظم المرضى. لكن ثمة حالات تستوجب متابعة أكثر تكراراً: الحمل يُستوجب تحليل TSH كل أربعة أسابيع خلال النصف الأول من الحمل ومرة على الأقل في النصف الثاني. التغيير في الوزن بمقدار خمسة كيلوغرامات فأكثر، وإضافة أو إيقاف أدوية تتداخل مع الامتصاص، كلها مؤشرات للتحليل المبكر.",
+            "من المهم إعادة التحليل في نفس المختبر وفي نفس الظروف قدر الإمكان، خاصة في نفس وقت اليوم وبنفس وضع أخذ الدواء. القيم الطبيعية تتفاوت قليلاً بين المختبرات، والمقارنة بين مختبرات مختلفة قد تُعطي انطباعاً خاطئاً بتغير الحالة.",
+            "تجنب إجراء تحليل TSH في نفس صباح أخذ الدواء قبله مباشرة. إذا أخذت ليفوثيروكسين قبل ساعة من التحليل، يرتفع T4 في الدم مؤقتاً مما يُخفض TSH بشكل مؤقت ويعطي انطباعاً بأن الجرعة أعلى مما هي عليه فعلاً. يُفضل أخذ الدواء بعد انتهاء سحب الدم."
+          ],
+          "visual": {
+            "type": "timeline",
+            "title": "جدول متابعة ليفوثيروكسين",
+            "items": [
+              {"when": "اليوم الأول", "what": "بدء الجرعة الأولى صباحاً على معدة فارغة"},
+              {"when": "الأسبوع 6-8", "what": "إعادة تحليل TSH لتقييم مستوى الاستجابة للجرعة"},
+              {"when": "الأسبوع 12-16", "what": "تحليل TSH إذا جرى تعديل الجرعة في الزيارة السابقة"},
+              {"when": "بعد الاستقرار", "what": "تحليل سنوي لمعظم المرضى البالغين"},
+              {"when": "خلال الحمل", "what": "تحليل TSH كل أربعة أسابيع في النصف الأول"}
+            ]
+          }
+        },
+        {
+          "h2": "قصور الغدة الدرقية والحمل: لماذا تتغير الجرعة؟",
+          "paras": [
+            "الحمل يُغير متطلبات هرمونات الغدة الدرقية بشكل كبير. الجنين في الأشهر الأولى يعتمد بالكامل على هرمونات الغدة الدرقية للأم لأن غدته الدرقية لا تعمل بعد. لهذا تُزاد الجرعة في المرأة المصابة بقصور الغدة الدرقية عادةً بنسبة 25 إلى 30 بالمئة فور اكتشاف الحمل.",
+            "تجربة THERAPY المنشورة في مجلة Journal of Clinical Endocrinology and Metabolism عام 2010 أثبتت أن زيادة الجرعة بشكل استباقي فور تأكيد الحمل تُحسن نتائج الحمل مقارنة بانتظار نتائج TSH. لذلك التوصية في الغالب هي إبلاغ الطبيب فور اختبار الحمل الإيجابي، قبل حتى إجراء أي تحليل.",
+            "بعد الولادة، تعود الاحتياجات إلى ما كانت عليه قبل الحمل في الغالب، وتُراجع الجرعة بتحليل TSH بعد ستة أسابيع من الوضع. النساء اللواتي لم يكن مشخصات قبل الحمل ورأى طبيب التوليد ارتفاعاً في TSH أثناء الفحوصات الروتينية يحتجن إلى تقييم دقيق لتحديد ما إذا كان العلاج ضرورياً.",
+            "التهاب الغدة الدرقية بعد الولادة حالة منفصلة تُصيب بعض النساء خلال السنة الأولى بعد الوضع، وتمر بمرحلة نشاط مؤقت ثم قصور مؤقت في الغالب. كثيرات منهن يُشفين تلقائياً لكن نسبة تصل إلى ثلاثين بالمئة تُصاب بقصور دائم لاحقاً، لذلك المتابعة السنوية بعد نهاية الحلقة ضرورية."
+          ]
+        },
+        {
+          "h2": "هاشيموتو: متى يكون قصور الغدة الدرقية مناعياً؟",
+          "paras": [
+            "مرض هاشيموتو هو الأكثر شيوعاً من بين أسباب قصور الغدة الدرقية في المناطق التي لا تعاني من نقص اليود. دراسة كاتوريغي وزملائه المنشورة في Autoimmunity Reviews عام 2014 وضّحت أن هاشيموتو يُشخَّص بارتفاع الأجسام المضادة anti-TPO في الدم مع صورة مميزة في الموجات فوق الصوتية للغدة تُظهر نسيجاً غير متجانس.",
+            "وجود هاشيموتو لا يعني بالضرورة قصور الغدة الدرقية في اللحظة ذاتها. بعض المرضى لديهم أجسام مضادة مرتفعة مع TSH طبيعي لسنوات قبل أن تبدأ الغدة في الفشل. الفائدة من معرفة وجود هاشيموتو هي مراقبة TSH سنوياً للكشف المبكر عن القصور حين يبدأ.",
+            "لا يوجد حتى الآن علاج يُوقف تطور هاشيموتو أو يُعالجه في جوهره. تناول اليود بمستويات مرتفعة قد يُفاقم الحالة في بعض الأشخاص، لذلك لا يُنصح بمكملات اليود الزائدة دون تقييم طبي. الحمية الغذائية الخاصة التي يُروَّج لها على الإنترنت لهاشيموتو لا تحظى بإثبات علمي قوٍّ يدعم معظمها.",
+            "ما يستحق الاهتمام هو أن وجود هاشيموتو يزيد احتمال الإصابة بأمراض مناعية أخرى كمرض السكري النوع الأول والداء البطني. إذا تشخّصتَ بهاشيموتو، فالفحص الدوري لا يقتصر على TSH وحده بل يشمل أحياناً مؤشرات لحالات مناعية مرتبطة حسب الأعراض. هذه المعلومة تُساعدك على أن تكون أكثر يقظة بشأن أعراض قد لا تبدو مرتبطة بالغدة."
+          ]
+        }
+      ],
+      "tie": "تطبيق سهتاك يُساعدك على تتبع مواعيد أخذ دوائك وتسجيل نتائج تحاليل TSH مع مرور الوقت، مما يُتيح لك ولطبيبك مراقبة الاستجابة للعلاج وتحديد وقت تعديل الجرعة بدقة.",
+      "faqs": [
+        {
+          "q": "هل قصور الغدة الدرقية يُسبب زيادة الوزن الكبيرة؟",
+          "a": "قصور الغدة الدرقية يُسبب زيادة طفيفة في الوزن في الغالب، نادراً ما تتجاوز خمسة كيلوغرامات. معظم هذه الزيادة يعود إلى احتباس الماء في الأنسجة لا إلى تراكم الدهون. بعد علاج القصور بشكل صحيح تتحسن عمليات الأيض لكن التخلص من الوزن الزائد يتطلب جهداً غذائياً إضافياً."
+        },
+        {
+          "q": "هل يمكن التوقف عن ليفوثيروكسين إذا تحسنت الأعراض؟",
+          "a": "في حالات القصور الصريح الناجم عن هاشيموتو أو جراحة الغدة، العلاج غالباً مدى الحياة لأن السبب لا يزول. إيقاف الدواء بشكل مفاجئ يُسبب عودة الأعراض. أما في القصور التحت السريري الخفيف فقد يُقرر الطبيب التوقف التجريبي مع متابعة TSH. لا تتوقف عن الدواء بدون مشورة طبيبك."
+        },
+        {
+          "q": "هل TSH الطبيعي يعني أن الأعراض ستختفي تماماً؟",
+          "a": "ليس دائماً. بعض المرضى يبقون مع أعراض خفيفة رغم TSH طبيعي، وقد يكون ذلك لأسباب غير مرتبطة بالغدة كفقر الدم أو نقص فيتامين D أو الاكتئاب. إذا كانت الأعراض مستمرة رغم TSH طبيعي، يستحق الأمر مناقشة مع الطبيب لاستبعاد أسباب مشتركة."
+        },
+        {
+          "q": "هل قصور الغدة الدرقية وراثي؟",
+          "a": "هاشيموتو الذي هو أكثر أسباب القصور شيوعاً له مكون وراثي واضح. وجود أفراد في العائلة مصابين بهاشيموتو أو قصور الغدة الدرقية يزيد خطر الإصابة. لكن الخطر يظل نسبياً وليس حتمياً، والفحص المبكر للأشخاص ذوي التاريخ العائلي ينصح به."
+        },
+        {
+          "q": "هل يمكن أخذ ليفوثيروكسين مع وجبة الإفطار في رمضان؟",
+          "a": "لا يُنصح بذلك لأن الطعام يُقلل امتصاصه. أفضل الخيارات هي أخذه عند السحور قبل الإمساك بثلاثين دقيقة، أو مناقشة الأمر مع الطبيب لاختيار توقيت يُحقق أفضل امتصاص وفق الجدول الرمضاني."
+        },
+        {
+          "q": "هل الشعر المتساقط بسبب الغدة يعود بعد العلاج؟",
+          "a": "نعم في الغالب. تساقط الشعر الناجم عن قصور الغدة الدرقية يتحسن بعد ضبط TSH للمستوى الطبيعي، لكن قد يستغرق من ثلاثة إلى ستة أشهر قبل أن يلاحظ المريض فارقاً واضحاً. التساقط في مراحل التعويض عن القصور يمكن أن يزداد مؤقتاً أحياناً قبل أن يتحسن."
+        },
+        {
+          "q": "هل قصور الغدة الدرقية يُسبب العقم؟",
+          "a": "القصور غير المعالج يُمكن أن يُؤثر على الدورة الشهرية والإباضة ويُقلل فرص الحمل. بعد علاجه وضبط TSH للنطاق الطبيعي أو المستهدف للخصوبة وهو دون 2.5 mIU/L في كثير من البروتوكولات، تتحسن فرص الحمل لدى كثيرات. إذا كنت تحاولين الإنجاب مع قصور الغدة الدرقية، ناقشي هذا الهدف مع طبيبك."
+        },
+        {
+          "q": "هل يختلف ليفوثيروكسين الجنيس عن الماركات؟",
+          "a": "من الناحية النظرية يحتوي كلاهما على نفس الجزيء الفعال. لكن بعض المرضى يُلاحظون اختلافاً في أعراضهم عند التحويل من ماركة لأخرى. إذا بدّلت العلامة التجارية أو المورد، أعد تحليل TSH بعد ستة أسابيع للتحقق من أن مستوى الامتصاص مماثل."
+        }
+      ]
+    },
+    "en": {
+      "title": "Underactive thyroid: symptoms, treatment and monitoring",
+      "desc": "A complete guide to hypothyroidism: recognising symptoms, taking levothyroxine correctly, understanding what interferes with absorption, and when to retest TSH.",
+      "keywords": "hypothyroidism, underactive thyroid, levothyroxine, TSH test, Hashimoto thyroiditis, thyroid treatment, thyroid monitoring, hypothyroid symptoms",
+      "h1": "Underactive Thyroid: Symptoms, Levothyroxine Timing, and Monitoring",
+      "takeaways": [
+        "Hypothyroidism is very common, particularly in women, and is most often caused by Hashimoto thyroiditis, an autoimmune condition that destroys the gland gradually.",
+        "Levothyroxine works very well but only if taken correctly: on an empty stomach, at least 30 to 60 minutes before coffee, iron supplements, or calcium.",
+        "TSH should be retested 6 to 8 weeks after any dose change, not before, because TSH takes weeks to stabilise at a new level.",
+        "Pregnancy changes thyroid hormone requirements immediately: dose usually needs increasing as soon as pregnancy is confirmed.",
+        "Hypothyroidism is a permanent but fully manageable condition requiring lifelong medication in most cases and regular monitoring."
+      ],
+      "sections": [
+        {
+          "h2": "What is hypothyroidism and why does it develop?",
+          "paras": [
+            "Hypothyroidism means the thyroid gland does not produce enough of its hormones T4 and T3, slowing metabolism throughout the body. The most common cause worldwide is Hashimoto thyroiditis, an autoimmune condition in which the immune system mistakenly attacks and progressively destroys thyroid tissue over months to years. A comprehensive review published in JAMA in 2025 estimated that two to five percent of the general adult population in most societies is affected, with women developing it seven times more frequently than men.",
+            "Other causes include surgical removal of the thyroid gland for cancer or other thyroid disease, radioactive iodine treatment for an overactive thyroid, and medication effects from drugs including amiodarone (used for heart rhythm disorders) and lithium (used in bipolar disorder). Iodine deficiency remains a global cause but is much less common in most Arab countries now that iodine is routinely added to table salt.",
+            "Hashimoto thyroiditis deserves specific mention because it is responsible for the great majority of hypothyroid cases in countries without iodine deficiency. A landmark clinical review by Caturegli and colleagues in Autoimmunity Reviews in 2014 described the combination of raised anti-TPO antibodies and a characteristic ultrasound pattern that together characterise the condition. Understanding the autoimmune basis explains why there is no treatment that stops the underlying process: only thyroid hormone replacement manages the consequences."
+          ],
+          "visual": {
+            "type": "stats",
+            "items": [
+              {"value": "2-5%", "label": "of adults are affected by hypothyroidism", "tone": "info"},
+              {"value": "7x", "label": "more common in women than men", "tone": "warn"}
+            ]
+          }
+        },
+        {
+          "h2": "What does hypothyroidism feel like? Why is it so often missed?",
+          "paras": [
+            "Hypothyroid symptoms develop so gradually that they are frequently attributed to ageing, overwork, or stress rather than a treatable medical condition. Persistent fatigue that does not improve with rest, unexplained weight gain despite unchanged diet, cold intolerance that others in the same room do not share, and constipation that appears without any change in diet are the central symptoms. A slow heart rate and rising cholesterol are often the findings that prompt initial investigation.",
+            "Skin and hair changes are characteristic. Dry, coarse skin, hair that becomes brittle and falls more than usual, and thinning of the outer third of the eyebrows are specific signs of prolonged untreated hypothyroidism. Swelling around the eyes and face from accumulation of water-retaining substances in the subcutaneous tissue is another classical finding. Depression and impaired concentration improve significantly in most people once TSH is normalised, which suggests the brain is directly affected by thyroid hormone deficiency.",
+            "Subclinical hypothyroidism, where TSH is elevated but free T4 remains within the normal range, is even more frequently missed because symptoms are minimal or absent. This is a common finding on routine blood testing and the decision to treat it with medication depends on the TSH level, the presence of symptoms, the patient's age, cardiovascular risk, and pregnancy planning. It should not be dismissed without a conversation about the specific circumstances."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Common hypothyroid symptoms by body system",
+            "head": ["System", "Symptoms"],
+            "rows": [
+              ["Energy and metabolism", "Persistent fatigue, unexplained weight gain, cold intolerance"],
+              ["Heart and circulation", "Slow heart rate, raised cholesterol"],
+              ["Skin and hair", "Dry skin, hair loss, thinning eyebrows"],
+              ["Digestion", "Constipation, slow bowel movements"],
+              ["Mental function", "Depression, forgetfulness, slow thinking"],
+              ["Reproductive (women)", "Irregular or heavy periods, reduced fertility"]
+            ]
+          }
+        },
+        {
+          "h2": "How is hypothyroidism diagnosed?",
+          "paras": [
+            "Diagnosis begins with a TSH blood test. When the thyroid gland is underperforming, the pituitary gland raises TSH output to try to stimulate more hormone production. A raised TSH is therefore the earliest and most sensitive sign of hypothyroidism, appearing before T4 levels fall out of range. The generally accepted normal range is 0.4 to 4.0 mIU/L, though laboratories use slightly different reference intervals depending on the assay and population they are calibrated against.",
+            "When TSH is elevated, a free T4 measurement is added to determine whether the hypothyroidism is overt (high TSH with low free T4, always requiring treatment) or subclinical (high TSH with normal free T4, where the treatment decision is individualised). Anti-TPO antibody testing is done when Hashimoto thyroiditis is suspected, and a raised titre confirms the autoimmune basis and signals an increased risk of progressing to overt hypothyroidism over time.",
+            "A practical point relevant to the region: TSH results from different laboratories can vary modestly because of differences in assay calibration. If your result sits at the borderline of normal with symptoms present, repeating the test in an accredited laboratory is worthwhile before making treatment decisions. A single result is less informative than a trend observed across two to three measurements over weeks."
+          ],
+          "visual": {
+            "type": "range-scale",
+            "title": "Where your TSH result sits",
+            "label": "TSH",
+            "unit": "mIU/L",
+            "min": 0,
+            "max": 10,
+            "zones": [
+              {"to": 0.4, "tone": "warn", "label": "Low"},
+              {"to": 4.0, "tone": "good", "label": "Normal"},
+              {"to": 10, "tone": "bad", "label": "High"}
+            ],
+            "source": "Wilson SA et al: Hypothyroidism: Diagnosis and Treatment, American family physician, 2021",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/33983002/"
+          }
+        },
+        {
+          "h2": "How to take levothyroxine in the way that makes treatment work",
+          "paras": [
+            "Levothyroxine is a synthetic form of T4 that replaces what the failing thyroid cannot produce. It is the standard treatment for hypothyroidism worldwide and is very effective when absorbed properly. A 2025 paper in Medicina specifically addressing levothyroxine malabsorption identified suboptimal intake timing as one of the most common causes of persistently high TSH in patients who report taking their medication correctly.",
+            "The rule is to take levothyroxine on an empty stomach, meaning at least 30 to 60 minutes before eating or drinking anything other than water. Coffee, even black without milk or sugar, significantly reduces absorption. In a region where coffee and tea are the first thing many people reach for in the morning, this point explains why TSH fails to reach target despite apparent adherence. Taking the tablet when waking and waiting before the morning drink is the simplest reliable way to apply this consistently.",
+            "The dose is set based on body weight and response, and adjusted gradually over weeks. The goal is to bring TSH into the normal range, not to suppress it to zero. Starting at too high a dose to accelerate response causes symptoms of thyroid overactivity, including palpitations, anxiety, and poor sleep, and increases bone loss over time. A gradual titration to the correct dose is always better than starting high."
+          ]
+        },
+        {
+          "h2": "What interferes with levothyroxine absorption?",
+          "paras": [
+            "Several common supplements and medications interfere with levothyroxine absorption in the gut. Oral iron supplements, commonly taken by many women in the region for anaemia, bind to levothyroxine in the intestine and reduce its absorption substantially. The solution is a minimum four-hour separation, taking levothyroxine in the morning and iron in the evening, or vice versa as long as the gap is maintained.",
+            "Calcium supplements, whether taken as bone protection or in antacids, interfere similarly. This includes combination calcium-vitamin D preparations which are widely used in the region. Vitamin D alone does not interfere, but the calcium component in combination products does. Aluminium- and magnesium-containing antacids also reduce absorption. The practical recommendation is to separate all of these from levothyroxine by at least four hours.",
+            "People with conditions that reduce gastrointestinal absorption in general, including coeliac disease, atrophic gastritis, and after certain bariatric surgeries, often need higher levothyroxine doses than their body weight would predict. This is why comparing your dose to that of a family member taking the same medication is rarely informative: absorption efficiency varies significantly between individuals based on the condition of their gut."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "What interferes with levothyroxine absorption",
+            "head": ["Substance", "Recommendation"],
+            "rows": [
+              ["Coffee and tea", "Wait 30 to 60 minutes after taking the tablet"],
+              ["Iron supplements", "Separate by at least four hours"],
+              ["Calcium supplements", "Separate by at least four hours"],
+              ["Antacids (aluminium or magnesium)", "Wait at least two hours after levothyroxine"],
+              ["Calcium plus vitamin D combined", "Take at a different time: the calcium component is the problem"]
+            ]
+          }
+        },
+        {
+          "h2": "How often should TSH be checked? A monitoring schedule",
+          "paras": [
+            "TSH should be rechecked 6 to 8 weeks after starting levothyroxine or after any dose change. The reason for this interval is that TSH takes weeks to reach its new steady state after a dose adjustment. Checking TSH two weeks after a dose change gives a result that does not yet reflect the true equilibrium and will mislead the decision about whether to adjust further.",
+            "Once the dose is stable and TSH is in the target range, annual testing is appropriate for most adults. Situations that require earlier retesting include pregnancy, a weight change of five kilograms or more, adding or stopping any medication known to interfere with absorption, and any significant change in symptoms. When symptoms return or new ones appear, do not wait for the annual check.",
+            "For consistency, try to have TSH measured at the same laboratory and under the same conditions each time. If you normally take levothyroxine in the morning and the test is done that day, take the tablet after the blood draw rather than before, to avoid a transient elevation in T4 that can temporarily suppress TSH and make the result unrepresentative."
+          ],
+          "visual": {
+            "type": "timeline",
+            "title": "Levothyroxine monitoring schedule",
+            "items": [
+              {"when": "Day 1", "what": "Start the prescribed dose on an empty stomach each morning"},
+              {"when": "Weeks 6-8", "what": "Recheck TSH to assess whether dose is correct"},
+              {"when": "Weeks 12-16", "what": "Repeat TSH if dose was adjusted at the previous visit"},
+              {"when": "Stable phase", "what": "Annual TSH for most adults once dose is settled"},
+              {"when": "During pregnancy", "what": "TSH every four weeks in the first half of pregnancy"}
+            ]
+          }
+        },
+        {
+          "h2": "Hypothyroidism and pregnancy: why the dose changes immediately",
+          "paras": [
+            "Pregnancy significantly increases thyroid hormone requirements, because the developing fetus depends entirely on maternal thyroid hormones in the first trimester before its own thyroid begins functioning. Women with known hypothyroidism typically need a 25 to 30 percent increase in their levothyroxine dose from the moment pregnancy is confirmed.",
+            "The THERAPY trial published in the Journal of Clinical Endocrinology and Metabolism in 2010 demonstrated that proactive dose increase at the time of a positive pregnancy test, before waiting for TSH results, leads to better thyroid control and pregnancy outcomes than waiting to retest. This is why current guidance in most countries advises women with hypothyroidism to contact their doctor as soon as they see a positive home pregnancy test, not at the first antenatal visit weeks later.",
+            "After delivery, requirements return to pre-pregnancy levels in most women, and the pre-pregnancy dose is typically resumed. A TSH check at six weeks postpartum confirms this. Women diagnosed with hypothyroidism for the first time during pregnancy, which is detected on routine antenatal screening, require careful evaluation postpartum to determine whether lifelong treatment is needed or whether the condition was transient."
+          ]
+        },
+        {
+          "h2": "Living with hypothyroidism: what to expect long term",
+          "paras": [
+            "Most people with well-treated hypothyroidism live entirely normally without restriction. The medication itself carries no serious long-term risks at the doses used to normalise thyroid function. The principal inconvenience is remembering to take the tablet correctly every morning and organising the timing around coffee and supplements. After these habits are established, the condition requires little active management beyond the annual blood test.",
+            "Hair loss often worries people newly diagnosed with hypothyroidism. It typically improves substantially within three to six months of TSH normalisation, though it can temporarily worsen during the initial treatment phase before improving. Skin dryness and cold intolerance usually resolve more quickly, within the first few weeks of effective treatment, as metabolism begins to normalise.",
+            "If symptoms persist despite a TSH in the normal range, other causes should be considered. Anaemia, vitamin D deficiency, coeliac disease, depression, and sleep apnoea all cause overlapping symptoms and are more common in people with autoimmune thyroid disease than in the general population. Normalising TSH is the starting point, but it should not be the end of the investigation if significant symptoms remain."
+          ]
+        }
+      ],
+      "tie": "The Sihtak app helps you track your levothyroxine timing and log your TSH results over time, giving both you and your doctor a clear view of how your thyroid control is changing with each dose adjustment.",
+      "faqs": [
+        {
+          "q": "Does hypothyroidism cause significant weight gain?",
+          "a": "Hypothyroidism typically causes modest weight gain, rarely more than three to five kilograms, most of which is fluid retained in tissues rather than fat accumulation. Effective treatment normalises metabolism but does not automatically reverse weight gained for other reasons. Expecting to lose large amounts of weight from thyroid treatment alone is usually unrealistic."
+        },
+        {
+          "q": "Can I stop levothyroxine once I feel better?",
+          "a": "In overt hypothyroidism caused by Hashimoto disease or after thyroid surgery, treatment is lifelong because the cause does not resolve. Stopping the medication allows TSH to rise and symptoms to return over weeks. In mild subclinical hypothyroidism, a supervised trial off medication with close TSH monitoring is sometimes attempted, but only under medical guidance."
+        },
+        {
+          "q": "Why does my doctor target a TSH lower than the normal range during pregnancy?",
+          "a": "During pregnancy, most guidelines recommend a TSH target of 0.1 to 2.5 mIU/L in the first trimester, lower than the general adult reference range of 0.4 to 4.0. This more stringent target reflects the critical importance of adequate thyroid hormone for fetal brain development in the weeks when the fetus has no thyroid function of its own."
+        },
+        {
+          "q": "Is Hashimoto thyroiditis hereditary?",
+          "a": "Yes, there is a clear genetic component. First-degree relatives of people with Hashimoto disease have a significantly elevated risk of developing autoimmune thyroid conditions. Annual TSH monitoring is reasonable for people with an affected parent or sibling, particularly women, even if they currently have no symptoms."
+        },
+        {
+          "q": "Can I take levothyroxine during Ramadan fasting?",
+          "a": "The most practical option is to take it at Suhoor, at least 30 minutes before any food or drink, which preserves the empty-stomach absorption requirement. If Suhoor is skipped, discuss the timing with your doctor, as some formulations taken with food show less absorption impairment than the standard tablet. Do not take it with Iftar food."
+        },
+        {
+          "q": "Will my hair grow back after thyroid treatment?",
+          "a": "Hair loss caused by hypothyroidism typically improves three to six months after TSH normalisation. It can temporarily worsen during the early treatment phase before recovering. If hair loss continues beyond six months of well-controlled TSH, other causes such as iron deficiency or alopecia areata should be considered."
+        },
+        {
+          "q": "Does brand matter, or is generic levothyroxine equivalent?",
+          "a": "All formulations contain the same active molecule, and most patients do well on either brand-name or generic products. Some people notice differences when switching between products. If you change from one manufacturer to another, recheck TSH after six weeks to confirm the dose is still achieving the same effect."
+        },
+        {
+          "q": "Is a TSH of 3.5 normal or should it be lower?",
+          "a": "A TSH of 3.5 mIU/L falls within the standard adult reference range of 0.4 to 4.0, so it is technically normal. However, some people with TSH in the upper part of the normal range and symptoms of hypothyroidism benefit from treatment or from a lower target. This is a clinical judgement made with your doctor based on your symptoms, the trend of your TSH over time, and other factors."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,345 @@
+{
+  "slug": "anxiety-disorders-guide",
+  "category": "mental-health",
+  "chip_ar": "الصحة النفسية",
+  "chip_en": "Mental health",
+  "date_iso": "2026-07-28",
+  "sources": [
+    {
+      "label": "Szuhany KL, Simon NM: Anxiety Disorders: A Review, JAMA, 2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36573969/"
+    },
+    {
+      "label": "Aletaha R, Kolahi AA, Mousavi Z et al: Anxiety disorders in the Middle East and North Africa region; 1990 to 2021, Acta neuropsychiatrica, 2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40583346/"
+    },
+    {
+      "label": "Bhattacharya S, Goicoechea C, Heshmati S et al: Efficacy of Cognitive Behavioral Therapy for Anxiety-Related Disorders: A Meta-Analysis of Recent Literature, Current psychiatry reports, 2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36534317/"
+    },
+    {
+      "label": "Bandelow B, Michaelis S, Wedekind D et al: Treatment of anxiety disorders, Dialogues in clinical neuroscience, 2017",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28867934/"
+    },
+    {
+      "label": "Fleet RP, Dupuis G, Marchand A et al: Panic disorder in emergency department chest pain patients: prevalence, comorbidity, suicidal ideation, and physician recognition, The American journal of medicine, 1996",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8873507/"
+    },
+    {
+      "label": "Eid M, Abi Kheir V, Bizri M et al: Somatic symptom and related disorders in the Arab world: a narrative review of clinical features and care implications, Frontiers in psychiatry, 2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41458018/"
+    }
+  ],
+  "content": {
+    "ar": {
+      "title": "القلق: متى يصبح مرضا وكيف تتعامل معه؟",
+      "desc": "دليل عملي لاضطرابات القلق يشرح الفرق بين القلق الطبيعي والمرضي، والأعراض الجسدية المُحيِّرة، وخيارات العلاج المتاحة في المنطقة.",
+      "keywords": "اضطراب القلق, القلق المزمن, أعراض القلق, علاج القلق, نوبات الهلع, القلق والقلب, الوسواس القهري, الصحة النفسية",
+      "h1": "القلق: حين يتحول الخوف الطبيعي إلى مرض يعطل حياتك",
+      "takeaways": [
+        "القلق الطبيعي استجابة مفيدة، لكنه يصبح اضطرابا حين يستمر دون سبب حقيقي ويعطل وظائفك اليومية.",
+        "أعراض القلق الجسدية كخفقان القلب والتنفس السريع وألم الصدر قد تُوهم صاحبها بأنه مريض قلب قبل أن يصل إلى التشخيص الصحيح.",
+        "القلق قابل للعلاج بفاعلية عالية بالعلاج النفسي وحده أو مع الدواء.",
+        "الهروب مما يُخيفك يُغذي القلق ولا يُعالجه، وهو أكثر خطأ شائع في التعامل مع الاضطراب.",
+        "التشخيص المبكر يُقصر مسار المرض ويمنع التطور إلى اكتئاب أو عجز مزمن."
+      ],
+      "sections": [
+        {
+          "h2": "ما الفرق بين القلق الطبيعي واضطراب القلق؟",
+          "paras": [
+            "القلق الطبيعي استجابة بيولوجية قديمة ومفيدة: يُنبهك للخطر، يُحفزك قبل امتحان مهم، ويجعلك حذرا في مواقف المخاطرة. هذا النوع من القلق مؤقت وله سبب واضح وينتهي حين ينتهي الموقف المُسبب له. اضطراب القلق شيء مختلف كليا: قلق مفرط ومستمر حتى دون مسبب حقيقي، لا يستجيب للطمأنة ولا يتوقف عند زوال الخطر، ويعطل العمل والعلاقات والنوم بشكل واضح.",
+            "المعيار الطبي المستخدم في التشخيص هو أن يستمر القلق المفرط لستة أشهر أو أكثر بصعوبة في السيطرة عليه، مع توفر أعراض مصاحبة كالتوتر الجسدي وصعوبة التركيز والتهيج واضطراب النوم. هذا ليس كثرة تفكير أو دلعا أو ضعف إيمان، بل هو حالة مرضية لها أساس عصبي موثق.",
+            "دراسة نُشرت عام 2025 في مجلة Acta Neuropsychiatrica تناولت اتجاهات انتشار اضطرابات القلق في منطقة الشرق الأوسط وشمال أفريقيا من 1990 إلى 2021، وأظهرت ارتفاعا ملحوظا في المعدلات مع إشارة إلى أن العبء الحقيقي يبقى مُقللا منه بسبب الوصمة الاجتماعية وشُح خدمات الصحة النفسية في كثير من دول المنطقة."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "القلق الطبيعي مقابل اضطراب القلق",
+            "head": ["القلق الطبيعي", "اضطراب القلق"],
+            "rows": [
+              ["له مسبب واضح", "يستمر دون مسبب حقيقي أو يفوق المسبب بكثير"],
+              ["ينتهي مع انتهاء الموقف", "مستمر لأسابيع أو أشهر"],
+              ["لا يعيق الحياة اليومية", "يعطل العمل والعلاقات والنوم"],
+              ["يستجيب للطمأنة", "لا يتوقف رغم تأكيد الآخرين بالسلامة"]
+            ]
+          }
+        },
+        {
+          "h2": "لماذا يذهب كثيرون إلى طبيب القلب قبل الطبيب النفسي؟",
+          "paras": [
+            "من أبرز ما يُميز اضطراب القلق هو أعراضه الجسدية القوية التي تُشبه كثيرا أعراض أمراض قلبية أو جسدية أخرى. خفقان القلب والتسارع في ضرباته، وضيق في التنفس وشعور بأن الصدر مُضغوط، وتنميل في الأطراف أو الوجه، ودوار ودوخة، وتعرق مفاجئ دون سبب، كل هذه أعراض شائعة في اضطراب القلق وفي نوبات الهلع تحديدا.",
+            "دراسة نشرت عام 1996 في مجلة The American Journal of Medicine وجدت أن ما بين 25 و30 بالمئة من المرضى الذين يُراجعون أقسام الطوارئ بشكوى ألم الصدر غير القلبي يستوفون معايير اضطراب الهلع، وأن الأطباء لا يتعرفون على الحالة في نسبة كبيرة منهم. في منطقتنا يزيد من هذه المشكلة أن المريض نفسه لا يُفكر في التفسير النفسي ويُلح على الفحوصات القلبية.",
+            "مراجعة نشرت عام 2025 في مجلة Frontiers in Psychiatry تناولت الأعراض الجسدية لاضطرابات الصحة النفسية في العالم العربي، وأكدت أن التظاهر الجسدي هو الطريقة السائدة لعرض الضائقة النفسية في ثقافتنا، مما يُؤخر الوصول إلى التشخيص والعلاج الصحيح في أغلب الأحيان. فهم هذه الظاهرة يُساعد المريض والطبيب معا على عدم الاستسلام لسلسلة لا تنتهي من الفحوصات الجسدية."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "warn",
+            "title": "أعراض قد تكون قلقا لا مرض قلب",
+            "items": [
+              "خفقان مفاجئ أو تسارع في ضربات القلب مع تحاليل قلبية طبيعية",
+              "ضيق في التنفس يأتي في مواقف محددة أو دون سبب واضح",
+              "تنميل أو وخز في اليدين أو الوجه مع الإرهاق",
+              "دوار أو شعور بالإغماء في الأماكن الزحمة أو المغلقة",
+              "إسهال أو ألم في البطن يتكرر قبل المواقف المُقلقة"
+            ]
+          }
+        },
+        {
+          "h2": "ما أنواع اضطرابات القلق التي يجب أن تعرفها؟",
+          "paras": [
+            "اضطراب القلق العام (GAD) هو الأكثر شيوعا: قلق مستمر ومفرط يتنقل بين مخاوف مختلفة ولا يستقر على موضوع واحد، مع صعوبة حقيقية في إيقاف التفكير المُقلق حتى حين يُدرك الشخص أنه يُبالغ. المصاب بهذا الاضطراب يجد نفسه قلقا دائما على صحته وصحة أبنائه، وعلى مستقبل عمله، وعلى مواعيد يومية عادية، وعلى أشياء صغيرة قد لا يُعطيها الآخرون أي اهتمام. يصاحب هذا القلق توتر عضلي مزمن وإرهاق وصعوبة في النوم وتهيج سريع وصعوبة في التركيز.",
+            "اضطراب الهلع هو نوبات مفاجئة من الخوف الشديد تبلغ ذروتها في دقائق قليلة، مصحوبة بأعراض جسدية قوية جدا: خفقان شديد في القلب، وشعور بالاختناق وضيق في الصدر، وتنميل في الأطراف، وخوف حقيقي من الموت أو فقدان العقل. النوبة تنتهي عادة في عشرين إلى ثلاثين دقيقة لكنها مُرعبة بشكل يصفه كثيرون بأنه من أشد التجارب التي مروا بها. ما يُديم هذا الاضطراب ويُفاقمه هو الخوف من النوبة التالية وتجنب الأماكن أو المواقف التي حدثت فيها النوبات السابقة، مما يُضيق دائرة حياة الشخص تدريجيا.",
+            "الرهاب الاجتماعي والرهابات المحددة من أشياء بعينها كالأماكن المرتفعة أو الحيوانات أو الدم، والوسواس القهري (OCD)، كلها ضمن طيف اضطرابات القلق وإن كان OCD يُصنف أحيانا في فئة منفصلة. ما تشترك فيه هذه الاضطرابات جميعا هو خوف مفرط يتجاوز الخطر الحقيقي، وسلوكيات يتبعها المريض لتجنب هذا الخوف أو التحكم فيه، وهي سلوكيات تُخفف الأعراض على المدى القصير لكنها تُرسخ الاضطراب وتُصعب التعافي منه."
+          ]
+        },
+        {
+          "h2": "لماذا يُصاب الناس باضطرابات القلق؟",
+          "paras": [
+            "مزيج من العوامل الجينية والبيولوجية والنفسية والبيئية هو التفسير الأدق لأسباب اضطرابات القلق. استعداد وراثي يرفع حساسية الجهاز العصبي للتهديد، ونمط تفكيري يُبالغ في تقدير الخطر ويُقلل من قدرة الشخص على التكيف معه، وخبرات ضغوط مبكرة في الطفولة، وتجارب صادمة في أي مرحلة من الحياة، كل هذه عوامل تُرفع من احتمالية الإصابة. الجهاز العصبي اللاإرادي يبقى في حالة تأهب مزمن، كأن جسمك يُعالج كل موقف يومي عادي على أنه خطر داهم لا يحتمل الانتظار.",
+            "في سياق الشرق الأوسط، سنوات من عدم الاستقرار والحرب والنزوح القسري والضغط الاقتصادي المزمن تُشكل أرضا خصبة لاضطرابات القلق. هذا لا يعني أن القلق في هذه الحالات غير حقيقي أو مجرد مبالغة، بل يعني أن البيئة القاسية أجهدت الجهاز العصبي لدرجة لم يعد قادرا معها على العودة إلى خط الأساس حتى حين ينتهي الخطر الفعلي. هذا جهاز عصبي أُفرط في استخدامه لزمن طويل، لا جهاز عصبي معطوب بطبيعته.",
+            "بعض الحالات الطبية تُقلد اضطراب القلق أو تُفاقم أعراضه: فرط نشاط الغدة الدرقية الذي يُسبب خفقانا وتوترا، واضطرابات إيقاع القلب، وبعض الأدوية كالكافيين الزائد في الشاي والقهوة والمشروبات الطاقوية، والكورتيزون عند الاستخدام المطول، والأدوية المحتوية على إفدرين الموجود في بعض أدوية البرد. لهذا السبب يستحق التشخيص الدقيق وقته، وتشمل مرحلة الاستبعاد تحاليل بسيطة تُريح المريض قبل البدء في علاج القلق."
+          ]
+        },
+        {
+          "h2": "ما أفضل علاج متاح لاضطرابات القلق؟",
+          "paras": [
+            "العلاج المعرفي السلوكي (CBT) هو العلاج النفسي الأكثر دعما بالأدلة في اضطرابات القلق. تحليل شامل نشر عام 2023 في مجلة Current Psychiatry Reports غطى عشرات التجارب السريرية وأكد فاعليته العالية مقارنة بقوائم الانتظار وعلاجات أخرى. جوهر هذا العلاج هو تحدي الأفكار الكارثية وإعادة تقييم التهديد، ثم التعرض التدريجي لما يُخيف بدل الهروب منه.",
+            "الأدوية المستخدمة في القلق، وخاصة مثبطات استرداد السيروتونين (SSRIs) ومثبطات استرداد السيروتونين والنورأدرينالين (SNRIs)، أثبتت فاعلية جيدة وهي آمنة عند الاستخدام بإشراف طبي. مراجعة نشرت عام 2017 في مجلة Dialogues in Clinical Neuroscience أكدت أن الجمع بين العلاج النفسي والدواء يُعطي أفضل نتائج في الحالات المتوسطة إلى الشديدة. يجب الحذر من المهدئات والبنزوديازيبينات كالديازيبام التي كثيرا ما تُصرف بدون وصفة في بلدان المنطقة، لأنها تُخفف الأعراض على المدى القصير لكنها تُديم الاضطراب وتُسبب الإدمان.",
+            "مراجعة شاملة نشرتها مجلة JAMA عام 2022 لاضطرابات القلق أكدت أن العلاج المبكر يُقلل بشكل كبير من خطر التطور إلى اكتئاب مصاحب أو عجز مزمن. كلما أُخر العلاج، كلما ترسخ الاضطراب وأصبح أصعب في المعالجة. هذا سبب قوي لعدم الانتظار حتى تُصبح الأعراض لا تُحتمل."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "خطوات التعامل مع نوبة هلع",
+            "items": [
+              "ذكّر نفسك: هذه نوبة قلق وليست نوبة قلبية، ستنتهي خلال دقائق",
+              "ابق في مكانك بدل الهروب، الهروب يُقوي الهلع في المرات القادمة",
+              "تنفس ببطء: 4 ثوانٍ شهيقا، 4 ثوانٍ حبسا، 6 ثوانٍ زفيرا",
+              "ركز على شيء ملموس تراه أو تلمسه في محيطك الآن",
+              "راجع طبيبك بعدها وصف ما حدث بدقة لتُحدد الخطوة التالية"
+            ]
+          }
+        },
+        {
+          "h2": "هل الهروب من مصادر القلق يساعد؟",
+          "paras": [
+            "لا، والإجابة القاطعة هذه من أهم ما يجب فهمه في اضطرابات القلق. الهروب من الموقف المُقلق يُريح فورا لكنه يُعزز في الدماغ رسالة مفادها أن ذلك الموقف خطير حقا وأنك لم تكن قادرا على تحمله. في المرة القادمة يكون القلق أشد، ويصبح نطاق ما تتجنبه أوسع.",
+            "العلاج الفعال يعتمد على التعرض التدريجي المُدار: مواجهة ما يُخيفك بخطوات تدريجية مُحسوبة حتى يتعلم الجهاز العصبي أن الموقف آمن فعلا. هذا غير مريح في البداية ويحتاج توجيها من مختص، لكنه التعديل الدائم الوحيد في آلية القلق.",
+            "بعض أشكال الهروب غير واضحة: قراءة كل ما يتعلق بمرض تخشاه، والبحث المتكرر عن طمأنة من الأهل والأطباء، وحمل الدواء المهدئ دائما دون استخدامه. كل هذه سلوكيات تجنب تُديم القلق. إدراكها خطوة مهمة في العلاج."
+          ]
+        },
+        {
+          "h2": "ماذا تفعل إذا لم يكن هناك مختص نفسي متاح؟",
+          "paras": [
+            "الرعاية الأولية هي البداية الصحيحة في أي حالة وفي أي ظرف. طبيب الرعاية الأولية يمكنه تشخيص اضطراب القلق في كثير من الحالات، وبدء علاج دوائي إذا لزم الأمر، وتوجيهك نحو أي مصادر متاحة في منطقتك. لا تنتظر حتى تُقنع نفسك بأنك مريض بما يكفي لتستحق المساعدة. الشخص الذي يُعاني من قلق معيق يستحق المساعدة بصرف النظر عن كيفية حكمه على حجم معاناته مقارنة بالآخرين.",
+            "المواد التعليمية المبنية على مبادئ العلاج المعرفي السلوكي والمتاحة عبر الإنترنت بالعربية أو الإنجليزية، وإن كانت لا تُغني عن المختص المدرب، إلا أنها أدوات فعلية حقيقية تُساعد على فهم آلية القلق والبدء في تحدي الأفكار الكارثية بنفسك. دراسة عشوائية منشورة عام 2020 في مجلة Depression and Anxiety أثبتت فاعلية العلاج المعرفي السلوكي الرقمي لدى أشخاص مصابين بقلق عام متوسط إلى شديد.",
+            "في مناطق الأزمات والنزاح، برنامج الفجوة في الصحة النفسية التابع لمنظمة الصحة العالمية (mhGAP) يُدرب العاملين الصحيين من غير المتخصصين على الكشف المبكر عن اضطرابات القلق وإدارتها الأولية في البيئات التي يشح فيها المختصون. إذا كنت في منطقة تعمل فيها منظمات إنسانية أو منظمات صحية دولية، فاسأل عن برنامج mhGAP أو أي برنامج مماثل بالاسم، لأنه قد يكون متاحا دون أن يعلم به كثيرون."
+          ]
+        },
+        {
+          "h2": "متى يستدعي القلق رؤية طبيب فورا؟",
+          "paras": [
+            "اذهب إلى طوارئ أو طبيب فورا إذا كان لديك ألم في الصدر لأول مرة لم يُشخَّص سابقا، لأن الفصل بين نوبة الهلع وأمراض القلب يحتاج فحصا طبيا وليس تخمينا. لا تفترض أن ألم صدرك قلق لمجرد أنك شخص قلق في العادة.",
+            "راجع طبيبا في أقرب فرصة إذا كان القلق يمنعك من العمل أو الخروج من البيت أو العناية بأسرتك، أو إذا بدأت تتجنب مناطق أو مواقف بسبب الخوف بما يُضيق دائرة حياتك تدريجيا. هذا ليس صعوبة شخصية تتجاوزها وحدك، بل هو اضطراب معروف له علاج.",
+            "إذا صاحب القلق أفكار بإيذاء النفس، أو استخدام للمواد المخدرة أو الكحول للتحكم في القلق، أو انسحاب كامل من الحياة الاجتماعية، فهذه أعراض تستدعي تقييما متخصصا في أقرب وقت ممكن."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "اطلب مساعدة فورية إذا",
+            "items": [
+              "ظهر ألم في الصدر لم يُفحص أو يُشخص من قبل",
+              "أصبحت لا تستطيع الخروج من بيتك أو أداء عمل بسبب القلق",
+              "لجأت إلى الكحول أو أدوية مهدئة بدون وصفة للسيطرة على القلق",
+              "راودتك أفكار بإيذاء نفسك"
+            ]
+          }
+        }
+      ],
+      "tie": "سيهتك تساعدك على تتبع مستوى قلقك يوميا وتحديد المواقف التي تُفاقمه، وهو ما يُسرع كثيرا من تشخيص المختص ويُساعد في تخطيط العلاج.",
+      "faqs": [
+        {
+          "q": "هل القلق يمكن أن يُسبب ألما جسديا حقيقيا؟",
+          "a": "نعم تماما. القلق يُنشط الجهاز العصبي اللاإرادي مما يُسبب خفقان القلب وضيق الصدر وتشنج العضلات وآلام البطن. الألم حقيقي وليس وهما، لكن مصدره نفسي وليس عضويا، وعلاج القلق يُريح هذه الأعراض."
+        },
+        {
+          "q": "ما الفرق بين نوبة الهلع ونوبة القلب؟",
+          "a": "التمييز الطبي يحتاج فحصا ولا يُمكن الاعتماد على الأعراض وحها. لكن نوبة الهلع تميل إلى الذروة السريعة والتراجع في عشرين دقيقة، وتحدث في مواقف محددة أو دون سبب، بينما أعراض القلب تبقى أو تتفاقم وكثيرا ما يصاحبها ألم ينتشر نحو الذراع أو الفك. إذا لم تُشخَّص من قبل، توجه للطوارئ."
+        },
+        {
+          "q": "هل الديازيبام والمهدئات مناسبة لعلاج القلق؟",
+          "a": "المهدئات من فئة البنزوديازيبينات تُريح نوبة القلق بسرعة لكنها لا تُعالج الاضطراب وتُسبب إدمانا عند الاستخدام المزمن. توجيه الأطباء عالميا هو استخدامها للمدة القصيرة جدا فقط، وليس كعلاج طويل الأمد للقلق."
+        },
+        {
+          "q": "هل يمكنني علاج القلق بدون دواء؟",
+          "a": "في القلق الخفيف إلى المتوسط يُعطي العلاج المعرفي السلوكي وحده نتائج قوية ومتوازنة مع الدواء في المدى البعيد. في الحالات الشديدة يُوصى بالجمع بين الدواء والعلاج النفسي. القرار يتخذه الطبيب مع المريض بعد تقييم الحالة."
+        },
+        {
+          "q": "هل القلق يعني أنني ضعيف نفسيا؟",
+          "a": "لا. اضطراب القلق حالة طبية لها أساس عصبي وبيولوجي موثق، تصيب أشخاصا من مختلف المستويات التعليمية والمهنية والاجتماعية. الأشخاص الذين يبدون أقوى غالبا هم من يخفون أعراضهم بشكل أفضل."
+        },
+        {
+          "q": "هل الأطفال يصابون باضطرابات القلق؟",
+          "a": "نعم، واضطرابات القلق هي من أكثر الاضطرابات النفسية شيوعا في مرحلة الطفولة والمراهقة. غالبا تظهر على شكل شكاوى جسدية وخوف من المدرسة وتعلق مفرط. التشخيص المبكر يُغير مسار حياة الطفل."
+        },
+        {
+          "q": "كم يستغرق علاج اضطراب القلق؟",
+          "a": "يعتمد على نوع الاضطراب وشدته. العلاج المعرفي السلوكي يتراوح عادة بين 12 و20 جلسة. تحسن ملحوظ يظهر كثيرا في الأسابيع الأولى، والأدوية تحتاج 4 إلى 6 أسابيع للفاعلية الكاملة. الاستمرار بعد التحسن يمنع الانتكاس."
+        }
+      ]
+    },
+    "en": {
+      "title": "Anxiety disorders: when worry becomes a medical problem",
+      "desc": "Practical guide to anxiety disorders covering the physical symptoms that confuse cardiologists, the types of anxiety, effective treatments, and when to seek help.",
+      "keywords": "anxiety disorder, generalized anxiety, panic disorder, anxiety symptoms, anxiety treatment, CBT anxiety, physical symptoms of anxiety, mental health Arab world",
+      "h1": "Anxiety disorders: what they are, why they cause physical symptoms, and how they are treated",
+      "takeaways": [
+        "Normal anxiety is useful and temporary. An anxiety disorder is excessive, persistent worry that continues without a clear threat and disrupts daily life.",
+        "Anxiety causes real physical symptoms including chest pain, palpitations and dizziness that frequently send people to cardiologists before a psychiatric cause is considered.",
+        "Cognitive behavioural therapy is the most evidence-based treatment and produces lasting change. Medication helps too and is often combined.",
+        "Avoiding what frightens you feeds the disorder rather than resolving it. This is the most common and costly mistake.",
+        "Early treatment significantly reduces the risk of depression developing alongside anxiety and prevents long-term disability."
+      ],
+      "sections": [
+        {
+          "h2": "What is the difference between normal worry and an anxiety disorder?",
+          "paras": [
+            "Worry is a normal, biologically useful response. It sharpens attention before a difficult task, alerts you to genuine danger and motivates protective action. This kind of anxiety is proportionate, temporary and ends when the situation ends. An anxiety disorder is different in three specific ways: the worry is excessive relative to any real threat, it is difficult to control even when you recognise it is disproportionate, and it persists for weeks or months rather than resolving with the situation.",
+            "The clinical benchmark for generalised anxiety disorder is six or more months of excessive worry about multiple areas of life, with associated symptoms such as muscle tension, sleep disturbance, difficulty concentrating, irritability and a persistent sense of dread. This is not overthinking or soft character or a failure of faith. It is a medical condition with a documented neurobiological basis involving sustained overactivity of the threat-detection circuits in the brain.",
+            "A study published in Acta Neuropsychiatrica in 2025 tracking anxiety disorder trends across the Middle East and North Africa from 1990 to 2021 found a significant rise in prevalence over that period, with the true burden likely underestimated because of social stigma and the scarcity of mental health services in many countries in the region. Anxiety disorders are common and they are getting more common, not rarer."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Normal worry versus anxiety disorder",
+            "head": ["Normal worry", "Anxiety disorder"],
+            "rows": [
+              ["Has a clear cause", "Persists without a real threat or far exceeds it"],
+              ["Ends when the situation ends", "Continues for weeks or months"],
+              ["Does not prevent daily functioning", "Disrupts work, relationships and sleep"],
+              ["Responds to reassurance", "Continues despite repeated reassurance"]
+            ]
+          }
+        },
+        {
+          "h2": "Why do so many anxiety patients see a cardiologist first?",
+          "paras": [
+            "Anxiety disorders produce strong, real physical symptoms that closely mimic heart disease and other physical conditions. Palpitations and rapid heart rate, a sensation of pressure or tightness in the chest, shortness of breath, tingling or numbness in the hands or face, sudden sweating and dizziness are all standard features of anxiety disorder and especially of panic disorder. These are not imagined symptoms, they are physiological responses driven by sustained sympathetic nervous system activation.",
+            "A study published in The American Journal of Medicine found that between 25 and 30 percent of patients presenting to emergency departments with non-cardiac chest pain met the criteria for panic disorder, and that physicians failed to recognise the diagnosis in the majority of cases. In the Arab world this pattern is reinforced by a cultural tendency to present psychological distress in physical terms, meaning patients themselves often insist on cardiac investigations and resist a mental health explanation even when the physical workup is repeatedly normal.",
+            "A narrative review of somatic symptom presentations in the Arab world published in Frontiers in Psychiatry in 2025 confirmed that expressing emotional distress through physical complaints is the dominant pattern in the region, and that this significantly delays accurate diagnosis and appropriate treatment. Understanding this pattern helps both patients and clinicians avoid the trap of endless physical investigation for symptoms that will respond to psychological treatment."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "warn",
+            "title": "Physical symptoms that may be anxiety rather than heart disease",
+            "items": [
+              "Palpitations or fast heartbeat with normal cardiac investigations",
+              "Shortness of breath that comes in specific situations or without clear cause",
+              "Tingling or numbness in hands or face during stressful moments",
+              "Dizziness in crowded or enclosed spaces",
+              "Stomach cramps or diarrhoea before situations you dread"
+            ]
+          }
+        },
+        {
+          "h2": "What types of anxiety disorder are there?",
+          "paras": [
+            "Generalised anxiety disorder (GAD) is the most common: excessive, hard-to-control worry that moves between different concerns, work, health, family, minor daily decisions, without settling anywhere. The person with GAD rarely has a period of calm, even when nothing is actually wrong. Associated physical symptoms of muscle tension, poor sleep, difficulty concentrating and fatigue are part of the diagnosis and often the symptoms that finally bring someone to a clinic.",
+            "Panic disorder is characterised by recurrent, unexpected panic attacks: sudden surges of intense fear peaking within minutes, accompanied by strong physical symptoms that closely resemble a heart attack. Most attacks resolve within 20 to 30 minutes. What sustains the disorder is the fear of the next attack and the progressive avoidance of places or situations associated with previous episodes, which can eventually make it difficult to leave home.",
+            "Social anxiety disorder, specific phobias and obsessive compulsive disorder all sit within the broader anxiety spectrum, with OCD sometimes classified separately in newer diagnostic systems. What these conditions share is a fear response that is disproportionate to any realistic threat, maintained by avoidance behaviours that provide short-term relief while keeping the underlying fear intact. A comprehensive review published in JAMA in 2022 covered all major anxiety disorder types and noted that effective treatment exists for all of them."
+          ]
+        },
+        {
+          "h2": "What causes anxiety disorders?",
+          "paras": [
+            "A combination of genetic predisposition, neurobiological factors, cognitive patterns and environmental experience is the most accurate answer. Someone whose nervous system is wired to overestimate threat and underestimate their own capacity to cope is at higher risk. Early trauma and prolonged stressful experiences can sensitise the threat-response system so that it activates more readily and is harder to calm.",
+            "In the Middle East and North Africa, years of political instability, conflict, displacement and economic pressure have created conditions where anxiety disorders are unsurprising. A nervous system that has been under sustained threat for years does not easily return to a calm baseline. This does not make the anxiety less treatable, but it does mean that treatment needs to acknowledge the real pressures of the person's life rather than treating the disorder as if it exists in a vacuum.",
+            "Several medical conditions can produce symptoms that mimic anxiety or worsen existing anxiety: overactive thyroid, heart rhythm disorders, caffeine excess and certain medications including steroids. This is why a basic medical assessment is appropriate before attributing physical symptoms to anxiety alone, particularly when the pattern is new or atypical."
+          ]
+        },
+        {
+          "h2": "What treatments work for anxiety disorders?",
+          "paras": [
+            "Cognitive behavioural therapy (CBT) is the most evidence-based psychological treatment for anxiety disorders. A meta-analysis published in Current Psychiatry Reports in 2023 confirmed its strong effectiveness across all major anxiety disorder types compared with waiting list controls and other treatments. The core of CBT for anxiety involves challenging overestimated threat appraisals and then practising gradual, planned exposure to feared situations rather than continuing to avoid them.",
+            "Medications, particularly SSRIs and SNRIs, are effective for anxiety disorders and are the pharmacological treatments recommended in most clinical guidelines. A comprehensive review published in Dialogues in Clinical Neuroscience in 2017 confirmed that combining medication with CBT produces better outcomes than either treatment alone in moderate to severe cases. Benzodiazepines such as diazepam provide fast symptom relief but do not address the underlying disorder, create dependence with regular use and are not recommended as a long-term treatment for anxiety. They are widely sold without prescription in parts of the region, which is a significant problem.",
+            "Lifestyle factors that are genuinely helpful include regular physical activity, reducing caffeine, consistent sleep and building gradual tolerance to uncertainty rather than seeking constant reassurance. These are supportive measures and not alternatives to treatment in moderate or severe anxiety, but they reduce the overall load on a nervous system that is already working too hard."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "Managing a panic attack in the moment",
+            "items": [
+              "Remind yourself: this is a panic attack and not a heart attack. It will peak and pass within minutes",
+              "Stay where you are rather than leaving. Leaving reinforces the fear for next time",
+              "Breathe slowly: inhale for 4 counts, hold for 4, exhale for 6",
+              "Focus attention on something you can see or touch in your immediate surroundings",
+              "Describe what happened to your doctor afterwards so you can plan the next step together"
+            ]
+          }
+        },
+        {
+          "h2": "Why does avoidance make anxiety worse, not better?",
+          "paras": [
+            "Avoiding what frightens you produces immediate relief, and that relief is real. The problem is what it teaches the brain: that the avoided situation was genuinely dangerous and that you could not have handled it. This confirmation makes the fear stronger and the range of avoided situations wider. Over months and years, avoidance progressively narrows the life of someone with untreated anxiety.",
+            "Effective treatment does the opposite. Gradual, planned exposure to feared situations, managed carefully so that the person stays in the situation long enough for the anxiety to reduce on its own, teaches the nervous system that the threat was overestimated and the fear tolerable. This is uncomfortable to do and should be guided by a trained therapist, but it produces the lasting change in the anxiety mechanism that avoidance never will.",
+            "Some avoidance behaviours are less obvious: looking up symptoms repeatedly to check for a feared illness, seeking constant reassurance from family or doctors, or always carrying a benzodiazepine and checking it is there even without taking it. These are called safety behaviours and they maintain anxiety by preventing the learning that comes from tolerating uncertainty. Recognising them is part of the CBT process."
+          ]
+        },
+        {
+          "h2": "What if no specialist is nearby?",
+          "paras": [
+            "Primary care is always the right starting point. A well-informed general practitioner can diagnose anxiety disorders, initiate appropriate medication if indicated, and provide basic psychoeducation about how anxiety works. Simply understanding that the physical symptoms have an anxiety basis and that avoidance maintains the problem is itself therapeutic and changes how people respond to their symptoms.",
+            "Digital CBT delivered through structured online programmes or apps has a growing evidence base. A randomised controlled trial published in Depression and Anxiety in 2020 confirmed the effectiveness of digital CBT for moderate to severe generalised anxiety disorder. For someone in a rural area, a displacement context or a country where mental health services are minimal, a structured digital programme is meaningfully better than nothing.",
+            "The WHO mental health Gap Action Programme (mhGAP) trains primary care and general health workers in the detection and basic management of anxiety disorders specifically for low and middle income settings. If you are in an area served by international health NGOs, it is worth asking whether this programme or an equivalent is available, because it has been implemented across conflict-affected parts of the Arab world."
+          ]
+        },
+        {
+          "h2": "When does anxiety need emergency attention?",
+          "paras": [
+            "Go to an emergency department immediately if you have new, undiagnosed chest pain, even if you think it might be anxiety. Ruling out a cardiac cause requires investigation, not a best guess. Never assume chest pain is anxiety just because you have an anxiety history.",
+            "See a doctor urgently if anxiety is preventing you from working, leaving home or caring for dependants, or if you are increasingly avoiding situations in a way that is progressively narrowing your life. This is not a personality difficulty to push through alone. It is a treatable disorder, and earlier treatment produces faster and more complete recovery.",
+            "Seek immediate help if anxiety is accompanied by thoughts of self-harm, or if you are using alcohol or unprescribed sedatives to manage anxiety symptoms. These are signs that the condition has escalated beyond what self-management can address."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "Seek immediate help if you experience",
+            "items": [
+              "New, previously unexamined chest pain",
+              "Complete inability to leave home or work because of fear",
+              "Use of alcohol or unprescribed medications to control anxiety",
+              "Thoughts of harming yourself"
+            ]
+          }
+        }
+      ],
+      "tie": "Sihtak lets you log anxiety levels alongside sleep and physical symptoms daily. A two-week log showing which situations spike your anxiety gives any doctor or therapist a much clearer starting point than a verbal description from memory.",
+      "faqs": [
+        {
+          "q": "Can anxiety actually cause physical pain?",
+          "a": "Yes. Anxiety activates the sympathetic nervous system, producing real physiological changes including rapid heart rate, muscle tension, chest tightness and gastrointestinal disturbance. The pain is not imagined. The cause is psychological rather than structural, and treating the anxiety resolves the physical symptoms in most cases."
+        },
+        {
+          "q": "How do I know whether chest pain is a panic attack or a heart attack?",
+          "a": "You cannot reliably distinguish them based on symptoms alone, and you should not try if the chest pain is new and has not been previously investigated. Go to an emergency department. A panic attack typically peaks rapidly and resolves within 20 to 30 minutes; heart attack pain tends to persist or worsen. But this distinction should be made by a doctor with an ECG, not by the patient during the episode."
+        },
+        {
+          "q": "Are sedatives and sleeping pills a good treatment for anxiety?",
+          "a": "Benzodiazepines reduce acute anxiety quickly but do not treat the underlying disorder. Regular use causes dependence and withdrawal, and stopping them can temporarily worsen anxiety. Clinical guidelines recommend them only for short-term use in very specific situations, not as ongoing treatment for an anxiety disorder."
+        },
+        {
+          "q": "Can anxiety be treated without medication?",
+          "a": "For mild to moderate anxiety, CBT alone often produces outcomes equivalent to medication over the long term, with more durable results because it teaches skills rather than suppressing symptoms chemically. For moderate to severe anxiety, combining both tends to produce the best outcomes. This is a decision to make with a doctor rather than independently."
+        },
+        {
+          "q": "Does anxiety mean I am weak or lacking in faith?",
+          "a": "No. Anxiety disorders have a documented neurobiological basis and affect people across all religious, educational and professional backgrounds. Many highly functioning people manage significant anxiety in silence precisely because of this misconception. Recognising it as a medical condition is what makes treatment possible."
+        },
+        {
+          "q": "Can children develop anxiety disorders?",
+          "a": "Yes. Anxiety disorders are among the most common mental health conditions in children and adolescents. They often present as physical complaints, school refusal or excessive clinginess rather than stated worry. Early recognition and treatment significantly improves outcomes and reduces the risk of anxiety persisting into adulthood."
+        },
+        {
+          "q": "How long does treatment take?",
+          "a": "CBT for anxiety typically involves 12 to 20 structured sessions, with meaningful improvement often visible within the first month. Medication takes four to six weeks to reach full effect. Continuing treatment after improvement reduces the risk of relapse. Many people see substantial change within three to four months of starting."
+        }
+      ]
+    }
+  }
+}

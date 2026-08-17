@@ -1,0 +1,354 @@
+{
+  "slug": "uterine-fibroids-guide",
+  "category": "womens-health",
+  "chip_ar": "صحة المرأة",
+  "chip_en": "Women's Health",
+  "date_iso": "2026-08-04",
+  "sources": [
+    {
+      "label": "Marsh EE, Wegienka G, Williams DR et al: Uterine Fibroids, JAMA, 2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38598205/"
+    },
+    {
+      "label": "Giuliani E, As-Sanie S, Marsh EE et al: Epidemiology and management of uterine fibroids, International journal of gynaecology and obstetrics, 2020",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31960950/"
+    },
+    {
+      "label": "Vannuccini S, Petraglia F, Carmona F et al: The modern management of uterine fibroids-related abnormal uterine bleeding, Fertility and sterility, 2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38723935/"
+    },
+    {
+      "label": "De La Cruz MS, Buchanan EM: Uterine Fibroids: Diagnosis and Treatment, American family physician, 2017",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28084714/"
+    },
+    {
+      "label": "Petraglia F, Dolmans MM: Iron deficiency anemia: Impact on women's reproductive health, Fertility and sterility, 2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36182259/"
+    },
+    {
+      "label": "Bulun SE, Yin P, Wei J et al: UTERINE FIBROIDS, Physiological reviews, 2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40214304/"
+    }
+  ],
+  "content": {
+    "ar": {
+      "title": "الورم العضلي الليفي بالرحم: الأعراض والتشخيص والعلاج",
+      "desc": "دليل شامل عن الأورام الليفية الرحمية (Uterine Fibroids): أسبابها وأعراضها وعلاقتها بفقر الدم والحمل، وكيف تختاري العلاج المناسب من دواء أو جراحة.",
+      "keywords": "الأورام الليفية, الورم العضلي الرحمي, fibroids, نزيف الدورة الشهرية الغزير, فقر الدم نساء, ألم الحوض, استئصال الورم الليفي, استئصال الرحم",
+      "h1": "الأورام الليفية الرحمية: دليلك الكامل من الأعراض إلى العلاج",
+      "takeaways": [
+        "الأورام الليفية الرحمية أورام حميدة شائعة جدا، تصيب ما بين 20-80% من النساء قبل بلوغ الخمسين.",
+        "كثيرات لا يعرفن بوجودها لأنها لا تسبب أي أعراض، لكن بعضها يسبب نزيفا غزيرا يؤدي إلى فقر الدم.",
+        "الموجات فوق الصوتية هي الفحص الأول والأسهل للتشخيص.",
+        "خيارات العلاج متدرجة من الأدوية إلى الجراحة، والرحم لا يحتاج للاستئصال في معظم الحالات.",
+        "انقطاع الطمث يوقف نمو الأورام وكثيرا ما يقلصها بشكل طبيعي."
+      ],
+      "sections": [
+        {
+          "h2": "ما هي الأورام الليفية الرحمية؟",
+          "paras": [
+            "الأورام الليفية الرحمية (Uterine Fibroids) أو الورم العضلي الأملس (Leiomyoma) أورام حميدة تنشأ من الأنسجة العضلية للرحم. كلمة 'ورم' تُخيف كثيرات لكن الأورام الليفية ليست سرطانية على الإطلاق ونادرا ما تتحول إليه. التحول لأورام خبيثة يحدث في أقل من واحدة من كل ألف حالة.",
+            "حجمها يتراوح من بضعة ملليمترات إلى أحجام كبيرة تعادل حجم الرحم في مرحلة متقدمة من الحمل. قد تكون واحدة أو أكثر في نفس الوقت. مراجعة شاملة نشرت في مجلة JAMA عام 2024 أكدت أنها من أكثر الأورام شيوعا في النساء، إذ تصيب ما بين 20% و80% من النساء في سن الإنجاب بحلول سن الخمسين.",
+            "هذا الرقم الكبير لا يعني أن كل هؤلاء النساء يعانين من مشاكل. كثير من الأورام الليفية صغيرة وصامتة تماما وتُكتشف صدفة أثناء موجات فوق الصوتية لسبب آخر. لكن جزءا منهن يعانين من أعراض تؤثر على جودة حياتهن بشكل ملحوظ.",
+            "العلاقة بين الأورام الليفية والهرمونات واضحة: تنمو بتحفيز الاستروجين والبروجيسترون، لذلك تكبر خلال سنوات الخصوبة وتتقلص بعد انقطاع الطمث تلقائيا. ورقة بحثية نشرت في Physiological Reviews عام 2025 رسمت خارطة تفصيلية للآليات الجزيئية التي تحرك نمو هذه الأورام، مما يفتح آفاقا لعلاجات أكثر استهدافا في المستقبل."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "أنواع الأورام الليفية حسب موقعها",
+            "head": ["النوع", "الموقع", "الأعراض الأكثر شيوعا"],
+            "rows": [
+              ["تحت المخاطية (Submucosal)", "داخل تجويف الرحم", "نزيف غزير جدا وقد يعيق الحمل"],
+              ["داخل الجدار (Intramural)", "داخل جدار الرحم", "نزيف وألم حوضي وضغط"],
+              ["تحت المصلية (Subserosal)", "على السطح الخارجي للرحم", "ضغط على الأعضاء المجاورة وألم"]
+            ]
+          }
+        },
+        {
+          "h2": "أعراض الأورام الليفية الرحمية",
+          "paras": [
+            "أكثر أعراض الأورام الليفية شيوعا هو نزيف الدورة الشهرية الغزير والمطول. تصف كثيرات من المصابات أنهن يستخدمن كميات كبيرة جدا من الحيض ويحتجن لتغييرها بشكل متكرر، وقد يمتد النزيف لأسابيع بدلا من أيام. هذا النزيف المزمن يقود مباشرة إلى فقر الدم بسبب نقص الحديد.",
+            "دراسة نشرت في مجلة Fertility and Sterility عام 2022 أكدت الارتباط الوثيق بين النزيف الرحمي الغزير المزمن وفقر الدم الحديدي لدى النساء في سن الإنجاب. فقر الدم لا يظهر فقط كشحوب بل كإرهاق مزمن وضيق تنفس عند المجهود وخفقان وصعوبة تركيز. إذا كنت تعانين من هذه الأعراض مع دورة غزيرة، فحص الهيموغلوبين والحديد ضروري.",
+            "الأعراض الأخرى تشمل ضغطا أو ثقلا في أسفل البطن والحوض، وتكرارا في التبول إذا كانت الأورام تضغط على المثانة، وصعوبة في الإخراج إذا ضغطت على المستقيم. الآلام أثناء الدورة أو أثناء الجماع شائعة أيضا مع بعض أنواع الأورام.",
+            "الأورام الكبيرة قد تؤدي إلى تضخم ملحوظ في البطن يشبه شكل الحمل المبكر. هذا التضخم ليس خطيرا في حد ذاته لكنه يؤثر على الشكل وقد يسبب ضيقا نفسيا واجتماعيا يستحق المعالجة."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "راجعي طبيبك فورا إذا لاحظت",
+            "items": [
+              "نزيفا شديدا جدا يستنزف أكثر من فوطة صحية كل ساعة لعدة ساعات متواصلة",
+              "دوارا أو إغماء مع النزيف الغزير",
+              "تعبا شديدا وضيق تنفس مع نزيف مزمن غزير يشير لفقر دم حاد",
+              "ألما حوضيا مفاجئا وشديدا قد يشير لانفتال الورم"
+            ]
+          }
+        },
+        {
+          "h2": "كيف تُشخَّص الأورام الليفية؟",
+          "paras": [
+            "الموجات فوق الصوتية على البطن أو المهبلية هي الفحص الأول والأكثر شيوعا، وتعطي صورة واضحة عن حجم الأورام وعددها وموضعها في معظم الحالات. فحص بسيط لا يؤلم ولا يتطلب تحضيرا خاصا في الغالب، ومتاح في معظم المراكز الصحية في المنطقة بتكلفة معقولة.",
+            "إذا احتاج الطبيب لتفاصيل أكثر دقة، خاصة قبل التخطيط للجراحة، يطلب تصوير بالرنين المغناطيسي. هذا يعطي صورة ثلاثية الأبعاد دقيقة لكل ورم وعلاقته بتجويف الرحم والأعضاء المجاورة، ويساعد الجراح على تخطيط التدخل بدقة. أحيانا يُجرى تنظير داخلي للرحم (Hysteroscopy) لرؤية الأورام التي تنبثق داخل تجويف الرحم مباشرة وتقييم مدى تأثيرها على الحمل.",
+            "تحاليل الدم ضرورية كذلك لقياس الهيموغلوبين والحديد لتقييم درجة فقر الدم الناتج عن النزيف المزمن. قد تُطلب أيضا هرمونات الغدة الدرقية لاستبعاد قصور الغدة الذي قد يسبب هو الآخر نزيفا غزيرا، وكذلك فحوص التخثر إذا كانت قصة النزيف قديمة ومتعددة."
+          ]
+        },
+        {
+          "h2": "علاج الأورام الليفية: من الدواء إلى الجراحة",
+          "paras": [
+            "قرار العلاج يعتمد على عدة عوامل: حجم الأورام وعددها، وشدة الأعراض، وعمرك وقرب انقطاع الطمث، ورغبتك في الحمل مستقبلا. مراجعة شاملة نشرت في مجلة Fertility and Sterility عام 2024 رسمت خارطة طريق واضحة للإدارة الحديثة للنزيف المرتبط بالأورام الليفية.",
+            "العلاج الدوائي هو الخط الأول. أدوية الهرمونات الحيضية مثل حبوب منع الحمل المركبة أو اللولب الهرموني تقلل من النزيف بشكل ملحوظ عند كثير من النساء. هناك أيضا عقاقير جديدة نسبيا تسمى مضادات مستقبلات البروجسترون (مثل ألاسبريك) حُسمت فعاليتها في دراسات حديثة في تقليص الأورام والنزيف قبل الجراحة أو كبديل لها.",
+            "عقاقير GnRH التي توقف المبيضين مؤقتا تقلص الأورام بشكل ملحوظ وتوقف النزيف، لكنها تستخدم لفترات محدودة لا تزيد عادة على ستة أشهر بسبب تأثيرها على كثافة العظام. تستخدم غالبا كتحضير قبل الجراحة لتقليص حجم الأورام وتسهيل استئصالها.",
+            "الجراحة لها خياران رئيسيان: استئصال الأورام فقط مع الحفاظ على الرحم (Myomectomy)، وهو الخيار المناسب للنساء اللواتي يرغبن في الحمل مستقبلا أو اللواتي يفضلن الحفاظ على رحمهن. الخيار الثاني استئصال الرحم كاملا (Hysterectomy)، وهو العلاج الشافي الدائم لكنه يمنع الحمل بالطبع ولا ينبغي اتخاذه دون دراسة متأنية."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "سلم علاج الأورام الليفية من الأقل لتدخلا للأعلى",
+            "items": [
+              "المراقبة دون علاج: للأورام الصغيرة بلا أعراض",
+              "الأدوية الهرمونية: حبوب أو لولب لتقليل النزيف",
+              "عقاقير GnRH أو مضادات البروجسترون: لتقليص الأورام",
+              "استئصال الأورام بالمنظار أو الجراحة المفتوحة مع الحفاظ على الرحم",
+              "انصمام الشريان الرحمي (UAE): إجراء غير جراحي يوقف تدفق الدم للأورام",
+              "استئصال الرحم: العلاج الشافي النهائي إذا رفضت المرأة الحمل مستقبلا"
+            ]
+          }
+        },
+        {
+          "h2": "الأورام الليفية والحمل",
+          "paras": [
+            "معظم النساء المصابات بأورام ليفية يحملن وينجبن بشكل طبيعي دون أي تدخل. الأورام الليفية الأكثر تأثيرا على الحمل هي تلك التي تنبثق داخل تجويف الرحم (تحت المخاطية)، إذ قد تعوق التصاق البويضة المخصبة أو تزيد من احتمال الإجهاض المتكرر. استئصالها قبل محاولة الحمل يحسن النتائج بشكل واضح في هذه الحالات المحددة.",
+            "أثناء الحمل قد تنمو الأورام الليفية بسبب ارتفاع هرمونات الحمل، وأحيانا تسبب ألما حوضيا مزعجا خاصة إذا كانت كبيرة وبدأت تفقد تغذيتها. خطر الإجهاض والولادة المبكرة ووضعيات غير الطبيعية للجنين أعلى قليلا عند الأورام الكبيرة المتعددة، لكن معظم حالات الحمل مع الأورام الليفية تمر بشكل طبيعي وتنتهي بولادة سليمة.",
+            "إذا كنت تخططين للحمل وعندك أورام ليفية مشخصة، ناقشي الأمر مع طبيبك لتحديد ما إذا كان من الأفضل استئصال الأورام أولا أم المضي في محاولة الحمل مباشرة. هذا القرار يعتمد على حجم الأورام وموضعها ومدى نبوثها في التجويف الرحمي وعمرك وتاريخك الولادي السابق.",
+            "بعد استئصال الأورام بالجراحة يُنصح عادة بالانتظار ستة أشهر حتى سنة قبل محاولة الحمل لإعطاء الرحم وقتا كافيا للشفاء التام وتقليل خطر تمزق الجدار الرحمي أثناء الحمل، خاصة إذا كانت الجراحة أزالت أورامًا كبيرة أو متعددة."
+          ]
+        },
+        {
+          "h2": "الأورام الليفية والتدخلات غير الجراحية",
+          "paras": [
+            "انصمام الشريان الرحمي (Uterine Artery Embolization أو UAE) إجراء يقوم به طبيب الأشعة التدخلية ويعمل على إيقاف تدفق الدم للأورام الليفية عبر الشرايين الرحمية دون جراحة مفتوحة. الأورام تفقد تدريجيا تغذيتها الدموية فتتقلص وتموت. فعاليته في تخفيف النزيف والألم مثبتة وهو بديل حقيقي للجراحة عند النساء اللواتي لا يرغبن في العملية أو لديهن موانع لها.",
+            "الحرق بالموجات الصوتية المركزة المُوجَّهة بالرنين المغناطيسي (MRI-guided Focused Ultrasound) تقنية حديثة تستهدف الأورام بالحرارة دون شق جراحي. متوفرة في مراكز متخصصة وليست منتشرة في معظم دول المنطقة بعد، لكنها خيار للمستقبل.",
+            "الاستئصال بالطاقة الراديوية (Radiofrequency Ablation) تقنية أحدث تدخلية لكن أقل من الجراحة التقليدية، يمكن إجراؤها عبر المنظار الرحمي أو البطني. أظهرت نتائج واعدة في تقليص الأورام الليفية مع حفاظ جيد على الرحم."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "info",
+            "title": "ماذا يحدث للأورام الليفية بعد انقطاع الطمث؟",
+            "items": [
+              "انخفاض مستوى الاستروجين يوقف نمو الأورام الليفية",
+              "كثير من الأورام تتقلص تلقائيا خلال سنوات ما بعد انقطاع الطمث",
+              "الأعراض مثل النزيف وضغط الحوض تتحسن أو تختفي في معظم الحالات",
+              "ليست هناك حاجة للعلاج إذا لم تكن هناك أعراض مزعجة"
+            ]
+          }
+        },
+        {
+          "h2": "التعامل مع فقر الدم المرتبط بالنزيف",
+          "paras": [
+            "فقر الدم الناتج عن نزيف الأورام الليفية المزمن من أكثر الأمور التي تؤثر على جودة الحياة. الإرهاق الشديد وصعوبة التركيز وضيق التنفس ليست مجرد توعك عابر بل هي أعراض حمل انخفاض الهيموغلوبين على الجسم كله. دراسة نشرت في Fertility and Sterility أكدت الارتباط المباشر بين النزيف الرحمي الغزير المزمن وفقر الدم الحديدي وأثره على الصحة الإنجابية والإنتاجية.",
+            "علاج فقر الدم يسير جنبا إلى جنب مع علاج الأورام الليفية نفسها. الحديد الفموي مفيد لكن امتصاصه يكون أفضل إذا أخذ بمعدة فارغة بجانب فيتامين ج وابتعد عن الشاي والقهوة قرب وقت تناوله. عادة في المنطقة يُشرب الشاي مع وجبات الطعام وهذه عادة تقلل امتصاص الحديد بنسبة تصل إلى 60%، لذا فاصل بين الحديد والشاي بساعتين على الأقل.",
+            "في الحالات الشديدة حيث الهيموغلوبين منخفض جدا يكون حقن الحديد وريديا أسرع وأكثر فعالية من الفموي وكثيرا ما يُستخدم قبل الجراحة لتقليل الحاجة لنقل الدم. نقل الدم محجوز للحالات الطارئة حيث الهيموغلوبين خطير جدا أو المريضة على وشك جراحة فورية.",
+            "تحسن الهيموغلوبين يستغرق في الغالب ثلاثة أشهر من بدء العلاج الدقيق. لا تتوقفي عن أخذ الحديد بمجرد تحسن الشعور لأن مخازن الجسم تحتاج وقتا أطول لإعادة الامتلاء الكامل. إذا لم يتحسن الهيموغلوبين رغم أخذ الحديد ووقف النزيف، ناقشي طبيبك لأن هناك أسبابا أخرى محتملة مثل النقص في فيتامين ب12 أو أمراض مزمنة مصاحبة."
+          ]
+        },
+        {
+          "h2": "متى يجب زيارة الطبيب؟",
+          "paras": [
+            "زوري طبيبة النسائية إذا لاحظت أن دورتك الشهرية أصبحت أغزر بشكل واضح مما كانت عليه، أو امتدت لأكثر من سبعة أيام بشكل متكرر، أو إذا كنت تعانين من إرهاق مزمن مع دورة غزيرة لأن هذا يشير للحاجة لفحص الهيموغلوبين. هذه أعراض تستحق التقييم ولا ينبغي تجاهلها.",
+            "زوري طبيبك كذلك إذا شعرت بضغط أو ثقل مزمن في أسفل البطن أو الحوض، أو إذا لاحظت تكرارا في التبول أكثر من المعتاد بشكل لافت دون إصابة بالتهاب في المسالك البولية. كذلك إذا كنت تحاولين الحمل دون نجاح لأكثر من سنة أو ستة أشهر إذا كنت فوق الخامسة والثلاثين، فقد يكون للأورام الليفية دور يستحق التقييم.",
+            "لا يُقلل هذا المقال من أهمية التقييم الفردي: ليس كل نزيف غزير سببه الأورام الليفية، وليست كل أورام ليفية تحتاج علاجا. الطبيب هو من يفصّل العلاقة بين الأعراض والتشخيص ويضع الخطة المناسبة لحالتك بالذات.",
+            "في حالة النزيف الشديد جدا المصحوب بدوار أو إغماء اطلبي الرعاية الطبية الفورية دون تأخير. كذلك الألم الحوضي المفاجئ الشديد يستحق تقييما عاجلا لأن بعض الأورام قد تنفتل أو تنخر مما يسبب ألما حادا يشبه ألم التهاب الزائدة ويتطلب تدخلا سريعا."
+          ]
+        }
+      ],
+      "tie": "في تطبيق صحتك يمكنك تتبع غزارة دورتك الشهرية وعدد أيامها شهرا بشهر، وحفظ نتائج فحوص الدم لمتابعة مستوى الهيموغلوبين والحديد، وحفظ صور تقارير الموجات فوق الصوتية لمقارنتها عبر الزمن. هذه البيانات تساعد طبيبك على تقييم تطور حالتك واتخاذ قرارات علاجية مدروسة. التطبيق أداة مساعدة ولا يغني عن الاستشارة الطبية.",
+      "faqs": [
+        {
+          "q": "هل الأورام الليفية يمكن أن تتحول إلى سرطان؟",
+          "a": "التحول للسرطان نادر جدا يحدث في أقل من واحدة من كل ألف حالة. الأورام الليفية الرحمية حميدة بطبيعتها ولا تزيد من خطر سرطان الرحم. إذا كان الطبيب يشتبه في أي شيء غير طبيعي، سيطلب فحوصا إضافية."
+        },
+        {
+          "q": "هل أحتاج إلى استئصال رحمي بسبب الأورام الليفية؟",
+          "a": "لا، معظم النساء المصابات بأورام ليفية لا يحتجن لاستئصال الرحم. خيارات العلاج متعددة تبدأ بالأدوية وتشمل استئصال الأورام مع الحفاظ على الرحم وإجراءات غير جراحية. استئصال الرحم يُطرح فقط إذا فشلت الخيارات الأخرى أو رفضت المرأة الحمل مستقبلا وكانت الأعراض شديدة."
+        },
+        {
+          "q": "هل الأورام الليفية تمنع الحمل؟",
+          "a": "معظم النساء المصابات بأورام ليفية يحملن بشكل طبيعي. الأورام التي تنتشر داخل تجويف الرحم قد تعوق الحمل أو تزيد من خطر الإجهاض، واستئصالها يحسن فرص الحمل في هذه الحالات. التقييم الفردي مع طبيب خصوبة متخصص يحدد الخيار الأمثل."
+        },
+        {
+          "q": "هل تختفي الأورام الليفية من تلقاء نفسها؟",
+          "a": "الأورام الليفية لا تختفي تلقائيا في سن الإنجاب، لكنها تتوقف عن النمو وكثيرا ما تتقلص بعد انقطاع الطمث بسبب انخفاض الاستروجين. الأورام الصغيرة بلا أعراض يمكن متابعتها دون علاج."
+        },
+        {
+          "q": "هل العلاج الهرموني يزيل الأورام الليفية؟",
+          "a": "العلاج الهرموني مثل عقاقير GnRH يقلص الأورام ويوقف النزيف مؤقتا، لكن الأورام تعود للنمو عادة بعد التوقف عن الدواء. لذلك يستخدم غالبا كتحضير قبل الجراحة وليس كعلاج دائم."
+        },
+        {
+          "q": "كيف أعرف إذا كانت دورتي الشهرية غزيرة بشكل غير طبيعي؟",
+          "a": "الدورة الشهرية الغزيرة طبيا تعني فقد أكثر من 80 مليلتر من الدم في كل دورة. عمليا، إذا كنت تغيرين أكثر من فوطة صحية كبيرة كل ساعة لعدة ساعات، أو ظهرت جلطات كبيرة، أو امتدت الدورة لأكثر من سبعة أيام، فهذا يستحق تقييما طبيا."
+        },
+        {
+          "q": "هل يمكن إجراء استئصال الورم بالمنظار الجراحي دون فتح البطن؟",
+          "a": "نعم، كثير من أورام ليفية يمكن استئصالها بالمنظار الجراحي أو عبر المنظار الرحمي دون فتح البطن، وهذا يعني تعافيا أسرع وآلاما أقل بعد العملية. الجراحة المفتوحة تحتاجها الأورام الكبيرة جدا أو المتعددة. قرار نوع الجراحة يعتمد على حجم الأورام وموضعها وخبرة الجراح."
+        }
+      ]
+    },
+    "en": {
+      "title": "Uterine fibroids: symptoms, testing and treatment choices",
+      "desc": "Uterine fibroids explained: heavy bleeding, anaemia, diagnosis by ultrasound, and a full treatment ladder from medicines to surgery and when each applies.",
+      "keywords": "uterine fibroids, fibroid symptoms, heavy periods fibroids, fibroid treatment, myomectomy, fibroid and pregnancy, uterine fibroid diagnosis, fibroid anaemia",
+      "h1": "Uterine fibroids: understanding your options from diagnosis to treatment",
+      "takeaways": [
+        "Uterine fibroids are benign growths that affect between 20 and 80 percent of women by age 50.",
+        "Many women have fibroids with no symptoms at all; others have heavy bleeding that causes iron-deficiency anaemia.",
+        "Ultrasound is the standard first test and gives a clear picture of fibroid number, size and location.",
+        "Most women do not need a hysterectomy; the treatment ladder starts with medicines and includes several less radical options.",
+        "Fibroids usually stop growing and often shrink naturally after menopause."
+      ],
+      "sections": [
+        {
+          "h2": "What are uterine fibroids?",
+          "paras": [
+            "Uterine fibroids, also called leiomyomas or myomas, are benign growths that arise from the muscular tissue of the uterus. The word tumour understandably alarms women, but fibroids are not cancerous and almost never become so. Transformation to malignancy occurs in fewer than one in a thousand cases.",
+            "Their size ranges from a few millimetres to masses as large as an advanced pregnancy. A woman may have a single fibroid or many simultaneously. A comprehensive review published in JAMA in 2024 confirmed that fibroids are among the most common tumours in women, affecting between 20 and 80 percent of women in their reproductive years by age 50.",
+            "That large range reflects the fact that many fibroids are small and completely silent, discovered incidentally on an ultrasound done for another reason. A meaningful proportion of women with fibroids, however, have symptoms that significantly affect their quality of life and warrant active treatment.",
+            "The hormonal connection is clear: fibroids grow under the stimulation of oestrogen and progesterone, which is why they expand during the reproductive years and shrink naturally after menopause. A 2025 paper in Physiological Reviews provided a detailed molecular map of the mechanisms driving fibroid growth, which is opening paths for more targeted treatments in the coming years."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Types of fibroids by location",
+            "head": ["Type", "Location", "Most common symptoms"],
+            "rows": [
+              ["Submucosal", "Protruding into the uterine cavity", "Heavy bleeding, may impair implantation"],
+              ["Intramural", "Within the uterine wall", "Heavy bleeding, pelvic pain and pressure"],
+              ["Subserosal", "On the outer surface of the uterus", "Pressure on adjacent organs, pelvic pain"]
+            ]
+          }
+        },
+        {
+          "h2": "Symptoms of uterine fibroids",
+          "paras": [
+            "Heavy and prolonged menstrual bleeding is the most common symptom. Women describe using large quantities of sanitary products, changing them very frequently, passing clots, and periods that extend far beyond the usual number of days. This chronic blood loss leads directly to iron-deficiency anaemia.",
+            "A paper published in Fertility and Sterility in 2022 confirmed the close connection between chronic heavy uterine bleeding and iron-deficiency anaemia in women of reproductive age. Anaemia does not present only as pallor: severe fatigue, shortness of breath on exertion, palpitations and difficulty concentrating are often its most disabling manifestations. If these symptoms accompany heavy periods, haemoglobin and iron studies are essential.",
+            "Other symptoms include a sense of pressure or heaviness in the lower abdomen and pelvis, urinary frequency if fibroids press on the bladder, and constipation if they press on the rectum. Pain during periods or during sex is also common with certain fibroid types and locations.",
+            "Large fibroids can cause visible abdominal enlargement that resembles early pregnancy. This is not dangerous in itself but affects appearance and may cause psychological and social distress that is legitimate and worth addressing alongside the physical symptoms."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "Seek urgent medical care if you experience",
+            "items": [
+              "Bleeding so heavy that you are soaking through a large pad every hour for several hours",
+              "Dizziness or fainting alongside heavy bleeding",
+              "Severe fatigue and breathlessness with chronic heavy bleeding suggesting acute anaemia",
+              "Sudden severe pelvic pain, which can indicate a fibroid twisting on its stalk"
+            ]
+          }
+        },
+        {
+          "h2": "How are fibroids diagnosed?",
+          "paras": [
+            "Pelvic ultrasound, either abdominal or transvaginal, is the first and most accessible investigation. It gives a clear picture of fibroid number, size and location in most cases. It is a painless test that usually requires no special preparation. A good ultrasound report tells you how many fibroids are present, where they sit relative to the uterine cavity, and their approximate dimensions.",
+            "If the doctor needs more detail before planning surgery, MRI provides a three-dimensional map of each fibroid and its relationship to the uterine cavity and surrounding structures. Hysteroscopy, passing a small camera into the uterine cavity, gives a direct view of submucosal fibroids that bulge inward.",
+            "Blood tests are always needed to measure haemoglobin and iron, because the degree of anaemia from chronic bleeding determines the urgency of treatment and sometimes the sequence of interventions. Thyroid function tests and clotting studies may also be requested to exclude other causes of heavy bleeding before attributing it entirely to fibroids."
+          ]
+        },
+        {
+          "h2": "Treatment from medicines to surgery",
+          "paras": [
+            "The treatment decision depends on several factors: the size and number of fibroids, the severity of your symptoms, your age and proximity to menopause, and whether future pregnancy is important to you. A 2024 review in Fertility and Sterility mapped modern approaches to managing fibroid-related abnormal uterine bleeding comprehensively.",
+            "Medical treatment is first-line. Hormonal methods including the combined pill, the progestogen-only pill or the hormonal IUD reduce bleeding significantly in many women without directly shrinking the fibroids. Newer medicines called selective progesterone receptor modulators have been shown in trials to shrink fibroids and reduce bleeding as a bridge to surgery or in some cases as an alternative.",
+            "GnRH agonists temporarily switch off the ovaries, causing fibroids to shrink and bleeding to stop. They are limited to around six months of use because of their effect on bone density. They are used most often as pre-surgical preparation to reduce fibroid volume and control anaemia before a planned procedure.",
+            "Surgical options divide into two: myomectomy, which removes the fibroids while preserving the uterus, and hysterectomy, which removes the uterus entirely. Myomectomy is the appropriate choice for women who want future pregnancy or who wish to keep their uterus. Hysterectomy is the definitive cure but permanently prevents pregnancy and should be considered only after other options have been fully explored."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "The fibroid treatment ladder from least to most invasive",
+            "items": [
+              "Watchful waiting: for small fibroids with no symptoms",
+              "Hormonal medicines: pill, injection or hormonal IUD to reduce bleeding",
+              "GnRH agonists or selective progesterone receptor modulators: to shrink fibroids",
+              "Myomectomy via hysteroscopy, laparoscopy or open surgery: removes fibroids, preserves uterus",
+              "Uterine artery embolisation: blocks blood supply to fibroids without surgery",
+              "Hysterectomy: definitive cure, only when other options have been considered"
+            ]
+          }
+        },
+        {
+          "h2": "Fibroids and pregnancy",
+          "paras": [
+            "Most women with fibroids conceive and deliver normally without intervention. The fibroids most likely to cause problems are submucosal ones that protrude into the uterine cavity, because they can disrupt implantation or raise the miscarriage rate. Hysteroscopic removal of these specific fibroids before attempting conception improves outcomes in this group.",
+            "During pregnancy, fibroids may grow somewhat under the influence of pregnancy hormones and occasionally cause pelvic pain when they outgrow their blood supply, a process called red degeneration. The risk of miscarriage, preterm birth and abnormal foetal lie is modestly elevated with large or numerous fibroids, but the majority of pregnancies proceed normally and result in healthy deliveries.",
+            "If you have fibroids and are planning a pregnancy, discuss the specifics with your doctor. The decision about whether to remove fibroids before trying to conceive depends on their size, location, the degree to which they encroach on the uterine cavity, your age and your obstetric history. There is no universal right answer.",
+            "After myomectomy, most specialists recommend waiting six months to a year before attempting pregnancy, allowing the uterine wall to heal fully and reducing the small risk of uterine rupture during labour, particularly when large or multiple fibroids have been removed. Your surgeon will give specific advice based on what was done."
+          ]
+        },
+        {
+          "h2": "Non-surgical intervention options",
+          "paras": [
+            "Uterine artery embolisation (UAE) is performed by an interventional radiologist without open surgery. Tiny particles are injected through a catheter in the groin artery into the uterine arteries that feed the fibroids. The fibroids gradually lose their blood supply, shrink and die. Evidence shows good effectiveness for reducing bleeding and pelvic pressure, and it represents a genuine alternative to surgery for women who want to avoid an operation.",
+            "MRI-guided focused ultrasound uses precisely targeted sound waves to heat and destroy fibroid tissue without any incision. It is available in specialised centres and is not yet widely accessible across the Arab world, but it represents an important future option for eligible candidates.",
+            "Radiofrequency ablation is a newer technique that destroys fibroid tissue using heat delivered through a small probe inserted via laparoscopy or hysteroscopy. Studies show good short-term fibroid volume reduction with faster recovery than open surgery, and it preserves the uterus."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "info",
+            "title": "What happens to fibroids after menopause",
+            "items": [
+              "Falling oestrogen levels stop fibroid growth",
+              "Many fibroids shrink naturally over the years after menopause",
+              "Symptoms such as bleeding and pelvic pressure improve or resolve in most cases",
+              "No treatment is needed for asymptomatic fibroids in postmenopausal women"
+            ]
+          }
+        },
+        {
+          "h2": "Managing anaemia alongside fibroid treatment",
+          "paras": [
+            "Anaemia from chronic fibroid-related bleeding is one of the most disabling aspects of the condition. Persistent fatigue, difficulty concentrating, shortness of breath on mild exertion and palpitations are not vague complaints but measurable consequences of low haemoglobin affecting every organ system. A 2022 paper in Fertility and Sterility quantified the impact of iron deficiency anaemia on women's reproductive health and underscored the importance of treating it actively alongside the fibroids themselves.",
+            "Oral iron is effective but its absorption depends on how it is taken. It is absorbed best on an empty stomach with a vitamin C source such as a glass of orange juice, and absorption falls considerably when taken alongside tea, coffee or calcium-rich foods. In the Arab world, drinking tea with meals is almost universal, and this habit cuts iron absorption by up to 60 percent. Separating the iron tablet from any tea by at least two hours makes a real practical difference.",
+            "In women with very low haemoglobin, intravenous iron infusion replenishes stores far faster than oral supplementation and is increasingly used before planned surgery to reduce the risk of needing blood transfusion. Blood transfusion is reserved for emergencies or when haemoglobin is dangerously low and surgery cannot wait.",
+            "Haemoglobin recovery takes around three months of consistent supplementation even after bleeding is controlled, because iron stores replenish more slowly than the haemoglobin level itself. Do not stop iron supplementation as soon as you feel better. If haemoglobin does not rise despite supplementation and controlled bleeding, other causes such as vitamin B12 deficiency or concurrent chronic disease should be investigated."
+          ]
+        },
+        {
+          "h2": "When to see a doctor",
+          "paras": [
+            "See a gynaecologist if your periods have become noticeably heavier than before, extend beyond seven days, or are accompanied by the kind of chronic fatigue that suggests anaemia. These are symptoms that deserve investigation rather than normalisation.",
+            "Also consult a doctor if you notice persistent pressure or heaviness in the lower abdomen, increased urinary frequency without a urinary infection, or if you have been trying to conceive for more than a year without success, or six months if you are over 35. Fibroids are a common finding in fertility investigations and deserve assessment.",
+            "For very heavy bleeding with dizziness or near-fainting, seek urgent care rather than waiting for a routine appointment. Sudden severe pelvic pain also needs prompt evaluation because fibroid torsion, when a fibroid twists on its stalk, is a surgical urgency."
+          ]
+        }
+      ],
+      "tie": "The Sihtak app lets you log period heaviness and duration month by month, track haemoglobin and iron results over time, and store ultrasound reports to compare fibroid size at different visits. These records help your doctor assess whether the condition is stable, worsening or responding to treatment. It is a support tool and does not replace specialist gynaecological care.",
+      "faqs": [
+        {
+          "q": "Can fibroids turn into cancer?",
+          "a": "Transformation to cancer is very rare, occurring in fewer than one in a thousand cases. Uterine fibroids are benign by nature and do not increase the risk of uterine cancer. If a doctor suspects anything atypical based on ultrasound or the speed of growth, additional tests will be arranged."
+        },
+        {
+          "q": "Do I need a hysterectomy because of fibroids?",
+          "a": "Most women with fibroids do not need a hysterectomy. The treatment options are broad, starting with medicines and including fibroid removal while preserving the uterus, as well as non-surgical procedures. Hysterectomy is considered only when other options have been tried and failed, or when the woman does not want future pregnancy and has severe symptoms."
+        },
+        {
+          "q": "Do fibroids prevent pregnancy?",
+          "a": "Most women with fibroids conceive naturally without intervention. Fibroids that protrude into the uterine cavity can impair implantation or raise the miscarriage risk, and removing these improves fertility. An individualised assessment with a gynaecologist or fertility specialist determines the right course of action."
+        },
+        {
+          "q": "Do fibroids disappear on their own?",
+          "a": "Fibroids do not disappear spontaneously during the reproductive years, but they stop growing and often shrink naturally after menopause as oestrogen levels fall. Small fibroids without symptoms can be monitored without treatment and often cause no problems as menopause approaches."
+        },
+        {
+          "q": "Does hormonal treatment remove fibroids permanently?",
+          "a": "Hormonal treatments such as GnRH agonists shrink fibroids and stop bleeding while in use, but fibroids typically regrow after stopping the medicine. These treatments are therefore used mainly as preparation for surgery or to manage symptoms in the run-up to menopause, not as a permanent solution."
+        },
+        {
+          "q": "How do I know if my period is abnormally heavy?",
+          "a": "Medically, heavy menstrual bleeding means losing more than 80 millilitres per cycle. Practically, if you are soaking through a large pad or tampon every hour for several consecutive hours, passing clots larger than a 50-piastre coin, or your period extends beyond seven days regularly, that warrants medical assessment."
+        },
+        {
+          "q": "Can fibroids be removed without open surgery?",
+          "a": "Yes, many fibroids can be removed via laparoscopy, which uses small incisions and a camera, or via hysteroscopy for fibroids inside the uterine cavity, without any abdominal opening. Recovery from these approaches is much faster than from open surgery. Open surgery is still needed for very large or numerous fibroids. The surgical approach depends on fibroid size, location and the surgeon's expertise."
+        }
+      ]
+    }
+  }
+}

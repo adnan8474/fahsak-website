@@ -1,0 +1,373 @@
+{
+  "slug": "adhd-in-children",
+  "category": "child-health",
+  "chip_ar": "صحة الطفل",
+  "chip_en": "Child Health",
+  "date_iso": "2026-07-22",
+  "sources": [
+    {
+      "label": "Alhraiwil NJ, Ali A, Househ MS et al: Systematic review of the epidemiology of attention deficit hyperactivity disorder in Arab countries, Neurosciences (Riyadh, Saudi Arabia), 2015",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25864066/"
+    },
+    {
+      "label": "Almahmoud OH, Abdallah HS, Ahmad AA et al: Assessment of attention-deficit / hyperactivity disorder signs among Palestinian school-age children, Journal of pediatric nursing, 2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39241272/"
+    },
+    {
+      "label": "Alyahri A, Goodman R: The prevalence of DSM-IV psychiatric disorders among 7-10 year old Yemeni schoolchildren, Social psychiatry and psychiatric epidemiology, 2008",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18040589/"
+    },
+    {
+      "label": ": A 14-month randomized clinical trial of treatment strategies for attention-deficit/hyperactivity disorder. The MTA Cooperative Group. Multimodal Treatment Study of Children with ADHD, Archives of general psychiatry, 1999",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10591283/"
+    },
+    {
+      "label": "Dang C, Zhu Y, Luo X et al: The promoting effects of digital targeted cognitive training in medication treatment for children with ADHD: a randomized controlled trial, BMC medicine, 2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40598377/"
+    },
+    {
+      "label": "Eapen V, Al-Sabosy M, Saeed M et al: Child psychiatric disorders in a primary care Arab population, International journal of psychiatry in medicine, 2004",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15242141/"
+    }
+  ],
+  "content": {
+    "en": {
+      "title": "ADHD in children: recognising it and getting help",
+      "desc": "ADHD is often mislabelled as bad behaviour in Arab countries. Learn the real diagnostic criteria, school strategies, and what treatment involves.",
+      "keywords": "ADHD children symptoms, attention deficit hyperactivity disorder Arab countries, ADHD diagnosis child, ADHD treatment kids, hyperactive child school, ADHD mislabelled behaviour",
+      "h1": "ADHD in children: what it really is and how to get the right support",
+      "takeaways": [
+        "ADHD is not bad behaviour or poor parenting. It is a brain-based difference in attention, impulse control, and activity level.",
+        "A systematic review found ADHD rates in Arab countries range from 2 to 16 percent, with many children never assessed or treated.",
+        "The most underdiagnosed type is inattentive ADHD, which looks like daydreaming or laziness, not hyperactivity.",
+        "Treatment works best when it combines structured support at school, behavioural strategies at home, and, when appropriate, medication.",
+        "Every child with ADHD is different. A plan that works is built around that specific child, not a generic template."
+      ],
+      "sections": [
+        {
+          "h2": "What is ADHD and why is it so often missed in Arab children?",
+          "paras": [
+            "Attention deficit hyperactivity disorder (ADHD) is a neurodevelopmental condition affecting how the brain manages attention, impulses, and activity. It is one of the most common childhood conditions globally, affecting roughly 5 to 10 percent of school-age children, but recognition and treatment rates vary enormously across the world.",
+            "A systematic review published in 2015 in Neurosciences, covering studies from across Arab countries, found ADHD prevalence estimates ranging from 2 to 16 percent depending on the country and the method used. The review also noted that services for assessment and treatment were limited, and that cultural factors affected whether families sought help. A 2008 study of Yemeni schoolchildren found rates of ADHD comparable to global figures, suggesting the condition is present at similar frequencies but reaching clinicians far less often.",
+            "The gap between how many children have ADHD and how many receive support is wide in the region. Two things drive it. First, the hyperactive, disruptive child is usually seen as a discipline problem, and families are advised to be stricter. Second, the quieter child who daydreams and forgets is often seen as lazy or slow. Neither is taken to a clinician because neither is understood as a medical issue.",
+            "Recognising ADHD for what it is, a difference in how the brain regulates attention and behaviour, rather than a character failing, is the starting point for getting effective help."
+          ],
+          "visual": {
+            "type": "stats",
+            "items": [
+              {"value": "5-10%", "label": "of school-age children affected globally", "tone": "info"},
+              {"value": "2-16%", "label": "estimated range in Arab country studies (2015 review)", "tone": "neutral"}
+            ]
+          }
+        },
+        {
+          "h2": "What does ADHD actually look like in a child?",
+          "paras": [
+            "ADHD has three main presentations, and they look quite different from one another. The first is the predominantly inattentive type, where the child has great difficulty sustaining attention, organising tasks, following instructions through to the end, and keeping track of belongings. This child is often described as forgetful, distractible, or a daydreamer. They may be quiet in class, not disruptive at all, but they are not absorbing much of what is taught because their attention keeps drifting.",
+            "The second is the predominantly hyperactive-impulsive type. This child is in near-constant motion, talks excessively, struggles to wait their turn, interrupts others, and acts before thinking. In a classroom setting this child is disruptive and immediately visible to teachers. This is the profile most people picture when they hear the word ADHD.",
+            "The third is the combined type, where features of both are present. This is the most common presentation overall. A child with combined ADHD is both distractible and impulsive, making sustained learning very difficult.",
+            "It is worth noting that all children are sometimes inattentive, restless, or impulsive. ADHD is diagnosed when these behaviours are significantly greater than expected for the child's age, have been present consistently for at least six months, appear in more than one setting, such as both home and school, and are causing real difficulty in the child's life. A child who is restless only at school or only at home does not meet the criteria."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Three presentations of ADHD and their typical patterns",
+            "head": ["Type", "Main features", "How it often looks at school"],
+            "rows": [
+              ["Inattentive", "Loses focus, forgets, disorganised", "Daydreaming, incomplete work, loses things"],
+              ["Hyperactive-impulsive", "Restless, talks excessively, acts without thinking", "Disruptive, interrupts, cannot stay seated"],
+              ["Combined", "Both sets of features present", "Both poor focus and disruptive behaviour"]
+            ]
+          }
+        },
+        {
+          "h2": "How is ADHD assessed and diagnosed?",
+          "paras": [
+            "There is no blood test or brain scan that diagnoses ADHD. The assessment is clinical: it combines a detailed history from parents and teachers, direct observation of the child, and standardised rating scales completed by both school and home. A good assessment takes time and usually requires at least two appointments.",
+            "The clinician needs information from school as well as from home, because the diagnosis requires that difficulties appear in more than one setting. A teacher rating form, such as the Conners scale or the Vanderbilt assessment, asks teachers to rate specific behaviours systematically. This information is compared with parent reports and with what the clinician observes directly.",
+            "A 2024 study of Palestinian school-age children used structured assessment tools and found that many children showing significant ADHD signs had not been referred for evaluation. This reflects a wider pattern: the assessment pathway is not well-known to families, and teachers are not always trained to identify the signs or to know what referral means in practice.",
+            "If you suspect your child has ADHD, the starting point is a paediatrician or a child psychiatrist. In most Arab countries, assessment is available through child and adolescent psychiatry departments in teaching hospitals, or through private child development centres in larger cities. Be prepared to bring written observations from the child's teacher as well as your own."
+          ]
+        },
+        {
+          "h2": "What other conditions can look like ADHD or come alongside it?",
+          "paras": [
+            "Several conditions can mimic ADHD or be confused with it, and some of them are treatable in completely different ways. Anxiety in children often produces restlessness and poor concentration, but the child is worried rather than impulsive. A thyroid problem can increase activity levels and reduce concentration. Iron deficiency anaemia, which is common in the region, can reduce a child's ability to concentrate and sustain effort. These should be ruled out before or alongside an ADHD assessment.",
+            "Sleep problems are also commonly confused with ADHD. A child who is chronically sleep-deprived is inattentive, irritable, and hyperactive during the day. If a child is not sleeping enough, addressing that first often changes the picture significantly.",
+            "Many children with ADHD also have other conditions. Learning difficulties such as dyslexia, anxiety, oppositional defiant disorder, and language processing problems are all more common in children with ADHD than in the general population. A thorough assessment looks for these too, because treating ADHD while missing a co-existing reading difficulty, for example, will not fully address a child's struggle at school.",
+            "A study published in 2004 looking at child psychiatric disorders in an Arab primary care setting found that conditions including ADHD, anxiety disorders, and conduct difficulties often presented together and were underrecognised as distinct medical issues. This supports the importance of a comprehensive rather than narrow assessment."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "warn",
+            "title": "Before diagnosing ADHD, check for:",
+            "items": [
+              "Hearing or vision problems that make classroom work harder",
+              "Iron deficiency anaemia (common in the region, affects concentration)",
+              "Thyroid disorder (can cause restlessness and poor focus)",
+              "Significant sleep problems",
+              "Anxiety, which can look like inattention"
+            ]
+          }
+        },
+        {
+          "h2": "What school strategies actually help a child with ADHD?",
+          "paras": [
+            "School is often where ADHD has its biggest daily impact, because the classroom demands sustained attention, sitting still, taking turns, and managing homework independently. These are exactly the things that are hardest for a child with ADHD. The good news is that specific, practical changes to how a child is taught and supported at school make a measurable difference, even before any medication is considered.",
+            "Seating the child near the front of the classroom, away from windows and corridors, reduces the number of distractions competing for their attention. Breaking tasks into smaller steps and confirming the child has understood each instruction, rather than giving a list of steps all at once, significantly improves follow-through. Giving the child frequent short movement breaks, rather than expecting them to sit still for long periods, reduces the build-up of restlessness.",
+            "Written reminders and visual schedules help the child with ADHD track what is coming next, because their working memory is weaker than average. Returning marked work promptly, with specific rather than general feedback, gives their brain the immediate response it needs to stay motivated. Extra time on tests, particularly written ones, is one of the most evidence-supported accommodations.",
+            "It also helps enormously when teachers understand that the child's behaviour is not wilful. A teacher who frames an instruction as 'remember, we sit down before we start the next activity' rather than singling out the child for not doing so will get a very different response. The child with ADHD is not choosing to be disruptive. They need more structure and more reminders than others, and that is not a moral failing."
+          ]
+        },
+        {
+          "h2": "What do treatments for ADHD involve?",
+          "paras": [
+            "The most thoroughly studied treatment for ADHD is a combination of behavioural support and, where appropriate, medication. The landmark MTA study, a 14-month randomised trial involving nearly 600 children, found that combined medication and behavioural treatment produced the best outcomes for most children, though behavioural treatment alone was also effective for many.",
+            "Behavioural approaches focus on helping parents create structured home environments, with clear routines, predictable consequences for behaviour, and specific praise for good effort rather than only for results. These approaches require parents to learn and practise specific techniques, typically in a parent training programme delivered by a psychologist or a child psychiatrist. They take time to work but produce lasting changes.",
+            "Medication for ADHD in children is most commonly a stimulant such as methylphenidate, sold under names including Ritalin and Concerta. This sounds paradoxical, but stimulant medication works in ADHD by increasing activity in the parts of the brain that regulate attention and impulse control, bringing them closer to typical function. When the right dose is found, many children show significant improvement in concentration, completion of tasks, and impulse control. A 2025 randomised controlled trial published in BMC Medicine found that combining medication with digital cognitive training produced better outcomes than medication alone.",
+            "Medication is not suitable for every child, and not every child needs it. For younger children, under 6 years, behavioural approaches are tried first. Medication requires monitoring: the dose is adjusted over weeks, and the child's growth, sleep, and appetite are checked regularly. Any decision about whether to try medication, and which one, belongs with a child psychiatrist who knows the child."
+          ]
+        },
+        {
+          "h2": "How to help your child at home",
+          "paras": [
+            "A predictable home routine is one of the most powerful tools available to a family. Children with ADHD have more difficulty than others in predicting what comes next, preparing for transitions, and managing the gap between wanting to do something and actually doing it. A clear, consistent daily sequence, same wake-up time, meals at set times, homework at the same point in the afternoon, bedroom routine at the same time each evening, reduces the number of decisions and transitions that are a source of friction.",
+            "Homework deserves specific attention. A child with ADHD needs to do homework in a quiet place, without screens within reach, for a manageable period, say 20 to 30 minutes, then a break, then another short session. Trying to make them sit for two hours and complete everything at once will produce conflict and very little learning. Short tasks with built-in rewards for completion work much better.",
+            "How you communicate matters as much as what you say. Get the child's attention before giving an instruction, use their name, make eye contact, and keep instructions short and specific. 'Put your shoes by the door' works better than 'tidy up, you always leave everything everywhere'. Avoid sarcasm or comparisons with siblings, which tend to damage motivation rather than improve behaviour.",
+            "Taking care of yourself as a parent is not a luxury. Parenting a child with ADHD is genuinely harder than parenting a neurotypical child of the same age. Frustration, guilt, and exhaustion are all common. Connecting with a support group of other parents in a similar situation, in person or online, reduces isolation and gives you practical strategies that no textbook provides."
+          ]
+        },
+        {
+          "h2": "What about ADHD in girls?",
+          "paras": [
+            "ADHD is diagnosed in boys two to three times more often than in girls, but girls with ADHD are frequently missed rather than genuinely absent. Girls with ADHD more commonly present with the inattentive type, without the disruptive hyperactivity that draws teacher attention. They may appear to manage socially by trying hard, by watching others and copying, at a cost to their mental energy that is not visible until they are older.",
+            "The missed girl with ADHD often grows into a teenager with anxiety, low self-esteem, and a history of feeling stupid or slow, having never had her inattention recognised as ADHD. She may have been told to try harder, to be more organised, to stop daydreaming, for years. Getting an assessment at any age, including adolescence and adulthood, is worthwhile if the pattern fits.",
+            "In the Arab context, girls with ADHD face a particular risk: their difficulties may be attributed to anxiety or emotional fragility rather than to a neurodevelopmental difference. Families may be less willing to pursue assessment for a daughter than for a son. This means the gap between girls with ADHD and girls receiving support is likely wider in this region than the already significant global gap."
+          ]
+        },
+        {
+          "h2": "Long-term outcomes: what happens as a child with ADHD grows up?",
+          "paras": [
+            "ADHD does not simply go away at puberty, though for many children its presentation changes. Hyperactivity often reduces with age, becoming a more internal sense of restlessness rather than physical movement. Inattention and impulsivity tend to persist into adulthood to varying degrees. However, with appropriate support during childhood and adolescence, most people with ADHD develop effective coping strategies.",
+            "Many adults with ADHD are highly successful in careers that match their cognitive style: work that involves variety, physical movement, genuine interest, problem-solving, or leadership suits them better than tasks requiring repetitive, sustained attention to routine detail. Entrepreneurship, medicine, creative work, and high-pressure fields where focus comes with urgency are all common paths.",
+            "The risk factors for a poor outcome in ADHD are not the condition itself but what comes alongside it: an unsupported childhood full of academic failure and family conflict, untreated co-existing conditions such as anxiety or learning difficulties, and reaching adolescence without a good understanding of one's own brain. Early identification and tailored support are the strongest predictors of a positive trajectory."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "Seek assessment urgently if your child:",
+            "items": [
+              "Is failing all subjects despite clearly trying",
+              "Has been excluded from school repeatedly for behaviour",
+              "Is showing signs of depression or severe anxiety alongside attention problems",
+              "Is self-harming or talking about not wanting to be alive"
+            ]
+          }
+        }
+      ],
+      "tie": "Use Sihtak to log your child's behaviour patterns, sleep, and school reports over time. A written record of when difficulties appear and how they change is one of the most useful things you can bring to a first assessment appointment.",
+      "faqs": [
+        {
+          "q": "Does ADHD mean my child is less intelligent?",
+          "a": "No. ADHD affects attention and impulse control, not intelligence. Many children with ADHD are highly intelligent, and their difficulty at school is about accessing their ability rather than lacking it. Without the right support, a bright child with ADHD may underperform for years while being told they are not trying hard enough."
+        },
+        {
+          "q": "Can diet cause or cure ADHD?",
+          "a": "Diet does not cause ADHD. Some small studies have looked at specific food additives and sugar as possible contributors to hyperactivity, but the evidence is weak and inconsistent. A healthy diet and good sleep are important for any child's brain function, including a child with ADHD, but no diet has been shown to cure or treat ADHD. The most effective interventions are structured support and, in appropriate cases, medication."
+        },
+        {
+          "q": "Is ADHD medication addictive?",
+          "a": "Stimulant medications used for ADHD, when taken as prescribed, are not addictive in children. The concern about addiction is more relevant for older adolescents and adults who misuse stimulants without a diagnosis. In children with genuine ADHD, stimulant medication reduces impulsivity and improves regulation, which actually lowers risk of later substance use rather than raising it."
+        },
+        {
+          "q": "At what age can ADHD be diagnosed?",
+          "a": "ADHD can be diagnosed from age 4 in a specialist centre, though assessment in preschool children requires particular care because some features of ADHD are normal at young ages. Most diagnoses are made between 6 and 12 years. Diagnosis in adolescence and adulthood is also possible and increasingly common as awareness grows."
+        },
+        {
+          "q": "My child's teacher says there is no problem at school. Could they still have ADHD?",
+          "a": "Yes, though it makes the diagnosis less clear-cut. Some children with ADHD manage to hold it together in structured school settings and then fall apart at home, where there is less structure and the effort of self-control has been exhausted. If the difficulties are only at home, other explanations should be explored first. If home and school both show the pattern, that is stronger evidence."
+        },
+        {
+          "q": "How long does ADHD treatment last?",
+          "a": "This depends on the child and the treatment. Behavioural parent training is usually delivered over 10 to 16 weeks. Medication is typically continued for as long as it is helpful, reviewed annually, and sometimes paused during school holidays to assess how much it is contributing. Many children find that as they develop stronger self-regulation skills, either the need for medication reduces or the dose is lower."
+        },
+        {
+          "q": "Can a child have both ADHD and autism?",
+          "a": "Yes. ADHD and autism frequently co-occur, and the two conditions share some features including social difficulties and sensory sensitivities, while differing in important ways. A comprehensive assessment by a specialist who is familiar with both conditions is needed if both are suspected."
+        },
+        {
+          "q": "Where can I get an ADHD assessment in Arab countries?",
+          "a": "In most Arab countries, assessment is available through child and adolescent psychiatry departments at university or teaching hospitals. Private child development centres in major cities offer faster access. Some countries have national disability registers that provide additional support once a diagnosis is confirmed. Your general paediatrician is the best starting point for a referral."
+        }
+      ]
+    },
+    "ar": {
+      "title": "ADHD عند الأطفال: التعرف على فرط الحركة وتشتت الانتباه",
+      "desc": "اضطراب ADHD يُساء فهمه كثيراً في بلداننا ويُتعامل معه كمشكلة تأديبية. تعرف على العلامات الحقيقية وما يُجدي في المدرسة والبيت وما تتضمنه خيارات العلاج.",
+      "keywords": "فرط حركة وتشتت انتباه, ADHD عند الأطفال, تشخيص ADHD الدول العربية, طفل مفرط الحركة, علاج ADHD أطفال, تشتت انتباه مدرسة",
+      "h1": "اضطراب ADHD عند الأطفال: ما هو حقاً وكيف تحصل على الدعم المناسب",
+      "takeaways": [
+        "اضطراب ADHD ليس سوء تصرف ولا تقصيراً في التربية، بل هو فرق في طريقة تنظيم الدماغ للانتباه والاندفاع والنشاط.",
+        "مراجعة منهجية وجدت معدلات ADHD في الدول العربية بين 2 و16 بالمئة، ومعظم هؤلاء الأطفال لم يُقيَّموا ولم يُعالجوا.",
+        "النوع الأكثر فواتاً هو نوع قصور الانتباه دون فرط الحركة، الذي يبدو كتشرد الذهن أو الكسل.",
+        "يُعطي العلاج أفضل نتائجه حين يجمع بين الدعم المدرسي المنظم والاستراتيجيات السلوكية في البيت والدواء حين يكون مناسباً.",
+        "كل طفل مصاب بـ ADHD مختلف. الخطة الناجحة تُبنى على ذلك الطفل تحديداً لا على قالب عام."
+      ],
+      "sections": [
+        {
+          "h2": "ما هو اضطراب ADHD ولماذا يُغفل عنه كثيراً عند الأطفال العرب؟",
+          "paras": [
+            "اضطراب نقص الانتباه مع فرط النشاط (Attention Deficit Hyperactivity Disorder - ADHD) هو حالة في تطور الجهاز العصبي تؤثر على كيفية إدارة الدماغ للانتباه والاندفاعية ومستوى النشاط. هو من أكثر حالات الطفولة شيوعاً في العالم، إذ يطال نحو 5 إلى 10 بالمئة من أطفال سن المدرسة، لكن معدلات التشخيص والعلاج تتفاوت تفاوتاً كبيراً عبر العالم.",
+            "مراجعة منهجية نُشرت عام 2015 في مجلة Neurosciences وتضمنت دراسات من الدول العربية وجدت أن التقديرات الموجودة لانتشار ADHD تتراوح بين 2 و16 بالمئة بحسب البلد والمنهجية المستخدمة. وأشارت المراجعة أيضاً إلى محدودية خدمات التقييم والعلاج، وإلى أن عوامل ثقافية تؤثر على إقدام الأسر على طلب المساعدة. دراسة أجريت عام 2008 على أطفال يمنيين في سن المدرسة وجدت معدلات ADHD مماثلة للأرقام العالمية، مما يُشير إلى أن الحالة موجودة بتكرارات مشابهة لكنها تصل إلى الأطباء بنسب أقل بكثير.",
+            "الفجوة بين عدد الأطفال المصابين بـ ADHD وعدد من يحصلون على الدعم واسعة في المنطقة. ثمة سببان رئيسيان: الأول أن الطفل المفرط الحركة والمزعج يُرى عادةً كمشكلة تأديبية وتُنصح الأسرة بأن تكون أكثر صرامة. الثاني أن الطفل الهادئ المتشرد الذهن يُوصف بالكسل أو بطء الإدراك. لا يُؤخذ أي منهما إلى طبيب لأن كلاهما لا يُفهم كمسألة طبية.",
+            "التعرف على اضطراب ADHD لما هو عليه، وهو فرق في كيفية تنظيم الدماغ للانتباه والسلوك لا نقص في الشخصية، هو نقطة البداية للحصول على مساعدة فعالة."
+          ],
+          "visual": {
+            "type": "stats",
+            "items": [
+              {"value": "5-10%", "label": "من أطفال سن المدرسة على المستوى العالمي", "tone": "info"},
+              {"value": "2-16%", "label": "النطاق التقديري في دراسات الدول العربية (مراجعة 2015)", "tone": "neutral"}
+            ]
+          }
+        },
+        {
+          "h2": "كيف يبدو اضطراب ADHD فعلاً عند الطفل؟",
+          "paras": [
+            "لاضطراب ADHD ثلاث صور رئيسية، وكل واحدة تبدو مختلفة تماماً عن الأخرى. الأولى هي صورة قصور الانتباه بشكل رئيسي، حيث يجد الطفل صعوبة بالغة في الحفاظ على انتباهه، وتنظيم المهام، واتباع التعليمات حتى النهاية، ومتابعة أغراضه. يُوصف هذا الطفل عادةً بأنه نسّاء أو سريع التشتت أو يغرق في أحلام اليقظة. قد يكون هادئاً في الصف وغير مُخل على الإطلاق، لكنه لا يستوعب كثيراً مما يُدرَّس لأن انتباهه يتسرب باستمرار.",
+            "الصورة الثانية هي فرط الحركة والاندفاعية بشكل رئيسي. هذا الطفل في حركة شبه دائمة، يتحدث بإفراط، يصعب عليه انتظار دوره، يقاطع الآخرين، ويتصرف قبل أن يفكر. في بيئة الصف الدراسي، هذا الطفل مُخل وواضح للمعلمين فوراً. هذه هي الصورة التي يتخيلها معظم الناس حين يسمعون عبارة ADHD.",
+            "الصورة الثالثة هي الصورة المختلطة، حيث تجتمع سمات الصورتين معاً. وهي الأكثر شيوعاً في المجمل. الطفل المصاب بـ ADHD المختلط متشتت الانتباه ومندفع في آن واحد، مما يجعل التعلم المتواصل بالغ الصعوبة.",
+            "الجدير بالذكر أن جميع الأطفال يكونون أحياناً غير منتبهين أو مضطربين أو مندفعين. يُشخَّص ADHD حين تكون هذه السلوكيات أكبر بكثير مما هو متوقع لسن الطفل، وقائمة باستمرار لمدة لا تقل عن ستة أشهر، وظاهرة في أكثر من بيئة كالبيت والمدرسة معاً، وتُسبب صعوبة حقيقية في حياة الطفل. الطفل الذي يكون مضطرباً في المدرسة فقط أو في البيت فقط لا يستوفي المعايير."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "الصور الثلاث لاضطراب ADHD وأنماطها الشائعة",
+            "head": ["الصورة", "السمات الرئيسية", "كيف تبدو في المدرسة"],
+            "rows": [
+              ["قصور الانتباه", "يفقد التركيز، نسّاء، غير منظم", "تشرد الذهن، عمل ناقص، يضيع أغراضه"],
+              ["فرط الحركة والاندفاعية", "مضطرب، يتكلم كثيراً، يتصرف دون تفكير", "مُخل، يقاطع، لا يستطيع البقاء جالساً"],
+              ["المختلطة", "كلا النمطين حاضران", "ضعف التركيز وسلوك مُخل معاً"]
+            ]
+          }
+        },
+        {
+          "h2": "كيف يُقيَّم اضطراب ADHD ويُشخَّص؟",
+          "paras": [
+            "لا يوجد تحليل دم ولا صورة دماغية يُشخص ADHD. التقييم سريري: يجمع بين تاريخ مفصل من الوالدين والمعلمين، ومراقبة مباشرة للطفل، ومقاييس تقييم معيارية يملأها كل من المدرسة والبيت. التقييم الجيد يستغرق وقتاً ويستلزم عادةً موعدين على الأقل.",
+            "يحتاج الطبيب إلى معلومات من المدرسة كما من البيت، لأن التشخيص يشترط ظهور الصعوبات في أكثر من بيئة. نموذج تقييم المعلم، كمقياس Conners أو مقياس Vanderbilt، يطلب من المعلمين تقييم سلوكيات محددة بشكل منهجي. تُقارن هذه المعلومات بتقارير الوالدين وبما يُلاحظه الطبيب مباشرة.",
+            "دراسة أجريت عام 2024 على أطفال فلسطينيين في سن المدرسة استخدمت أدوات تقييم منهجية ووجدت أن كثيراً من الأطفال الذين يُظهرون علامات ADHD واضحة لم يُحالوا للتقييم. هذا يعكس نمطاً أوسع: مسار الحصول على التقييم غير معروف لكثير من الأسر، والمعلمون ليسوا دائماً مدرَّبين على تحديد العلامات أو على معرفة ما تعنيه الإحالة عملياً.",
+            "إن كنت تشك في إصابة طفلك بـ ADHD، فنقطة البداية هي طبيب الأطفال أو الطبيب النفسي للأطفال. في معظم الدول العربية يتوفر التقييم في أقسام الطب النفسي للأطفال والمراهقين في المستشفيات التعليمية، أو في مراكز تطور الطفل الخاصة في المدن الكبرى. استعد لإحضار ملاحظات مكتوبة من معلم طفلك إلى جانب ملاحظاتك الخاصة."
+          ]
+        },
+        {
+          "h2": "ما الحالات الأخرى التي تبدو كـ ADHD أو تصاحبه؟",
+          "paras": [
+            "ثمة حالات عدة يمكن أن تُشبه ADHD أو تُخلط معه، وبعضها يُعالج بطرق مختلفة تماماً. القلق عند الأطفال كثيراً ما يُنتج اضطراباً وضعف تركيز، لكن الطفل يكون قلقاً لا مندفعاً. مشكلة في الغدة الدرقية (Thyroid) يمكن أن ترفع مستوى النشاط وتُخفض التركيز. فقر الدم بسبب نقص الحديد، الشائع في المنطقة، يُقلل قدرة الطفل على التركيز والمثابرة. ينبغي استبعاد هذه الأسباب قبل تقييم ADHD أو بالتوازي معه.",
+            "مشكلات النوم أيضاً كثيراً ما تُشبه ADHD. الطفل الذي يعاني من الحرمان المزمن من النوم يكون غير منتبه ومتهيجاً ومفرط الحركة خلال النهار. إن لم يكن الطفل ينام بما يكفي، فمعالجة ذلك أولاً كثيراً ما يُغير الصورة تغيراً ملموساً.",
+            "كثير من الأطفال المصابين بـ ADHD يُعانون أيضاً من حالات أخرى. صعوبات التعلم كعسر القراءة (Dyslexia)، والقلق، واضطراب المعارضة والعناد، ومشكلات معالجة اللغة، كلها أكثر شيوعاً لدى أطفال ADHD منها في عموم السكان. التقييم الشامل يبحث في هذه الجوانب أيضاً، لأن علاج ADHD مع إغفال صعوبة القراءة المصاحبة مثلاً لن يُعالج أسباب معاناة الطفل في المدرسة بالكامل.",
+            "دراسة نُشرت عام 2004 حول الاضطرابات النفسية للأطفال في رعاية صحية أولية عربية وجدت أن حالات تشمل ADHD واضطرابات القلق وصعوبات السلوك كثيراً ما تظهر معاً وتُغفل كمشكلات طبية مستقلة. هذا يدعم أهمية التقييم الشامل لا الضيق."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "warn",
+            "title": "قبل تشخيص ADHD، تحقق من:",
+            "items": [
+              "مشكلات السمع أو البصر التي تُصعّب متابعة الدرس",
+              "فقر الدم بنقص الحديد (شائع في المنطقة ويؤثر على التركيز)",
+              "اضطراب الغدة الدرقية (يمكن أن يسبب الاضطراب وضعف التركيز)",
+              "مشكلات نوم كبيرة",
+              "القلق الذي يمكن أن يبدو كتشتت انتباه"
+            ]
+          }
+        },
+        {
+          "h2": "ما الاستراتيجيات المدرسية التي تُفيد الطفل المصاب بـ ADHD فعلاً؟",
+          "paras": [
+            "المدرسة هي حيث يكون لـ ADHD أكبر تأثير يومي، لأن الفصل الدراسي يتطلب الانتباه المستمر والجلوس في مكانه وانتظار الدور وإنجاز الواجبات باستقلالية. هذه بالضبط الأشياء الأصعب على طفل ADHD. البشرى الطيبة أن تغييرات عملية محددة في طريقة تدريس الطفل ودعمه في المدرسة تُحدث فارقاً قابلاً للقياس، حتى قبل النظر في أي دواء.",
+            "إجلاس الطفل قرب مقدمة الفصل بعيداً عن النوافذ والممرات يُقلل من عدد المشتتات. تقسيم المهام إلى خطوات أصغر والتأكد من أن الطفل فهم كل تعليمة، بدلاً من إعطاء قائمة طويلة دفعة واحدة، يُحسن الإنجاز بشكل ملحوظ. إتاحة فترات راحة قصيرة متكررة للحركة، بدلاً من توقع الجلوس الطويل، يُخفف تراكم الاضطراب.",
+            "المذكرات المكتوبة والجداول البصرية تُساعد طفل ADHD في تتبع ما سيأتي لاحقاً، لأن ذاكرة العمل عنده أضعف من المتوسط. إعادة الأعمال المُصحَّحة بسرعة مع تغذية راجعة محددة لا عامة تمنح دماغه الاستجابة الفورية التي يحتاجها للبقاء مُحفزاً. الوقت الإضافي في الاختبارات، ولا سيما المكتوبة، من أكثر التسهيلات دعماً من الأدلة.",
+            "يُفيد كثيراً أيضاً أن يفهم المعلمون أن سلوك الطفل ليس متعمداً. المعلم الذي يُصيغ التعليمة كـ 'تذكر، نجلس قبل بدء النشاط التالي' بدلاً من تخصيص الطفل بالتأنيب على عدم فعل ذلك سيحصل على استجابة مختلفة تماماً. الطفل المصاب بـ ADHD لا يختار الإخلال. هو يحتاج إلى هيكل ومتابعة أكثر من غيره، وهذا ليس عيباً أخلاقياً."
+          ]
+        },
+        {
+          "h2": "ماذا تتضمن خيارات علاج ADHD؟",
+          "paras": [
+            "أكثر علاجات ADHD دراسةً هو الجمع بين الدعم السلوكي والدواء حيث يكون مناسباً. دراسة MTA، وهي تجربة عشوائية امتدت 14 شهراً وشملت قرابة 600 طفل، وجدت أن العلاج المشترك الذي يجمع الدواء والتدخل السلوكي أعطى أفضل النتائج لمعظم الأطفال، رغم أن التدخل السلوكي وحده كان فعالاً أيضاً لكثيرين.",
+            "تُركز الأساليب السلوكية على مساعدة الوالدين في بناء بيئة منزلية منظمة، بروتينات واضحة، وعواقب منطقية ومتسقة للسلوك، ومدح محدد لبذل الجهد لا للنتائج فحسب. تتطلب هذه الأساليب أن يتعلم الوالدان ويُمارسا تقنيات بعينها، عادةً في برنامج تدريب للوالدين يُقدمه طبيب نفسي أو طبيب نفسي للأطفال. تستغرق وقتاً لتؤتي ثمارها لكنها تُنتج تغييرات دائمة.",
+            "الدواء الأكثر شيوعاً لـ ADHD عند الأطفال هو من فئة المنشطات كالميثيلفينيدات (Methylphenidate)، المباع بأسماء تجارية كـ Ritalin وConcerta. يبدو هذا متناقضاً، لكن دواء المنشطات يعمل في ADHD برفع النشاط في أجزاء الدماغ التي تُنظم الانتباه والاندفاعية، مُقرِّبةً إياها من المستوى الطبيعي. حين تُوجد الجرعة الصحيحة، يُظهر كثير من الأطفال تحسناً ملحوظاً في التركيز وإتمام المهام والتحكم في الاندفاعية. تجربة عشوائية محكومة نُشرت عام 2025 في مجلة BMC Medicine وجدت أن الجمع بين الدواء والتدريب المعرفي الرقمي أعطى نتائج أفضل من الدواء وحده.",
+            "الدواء لا يناسب كل طفل وليس كل طفل بحاجة إليه. للأطفال الأصغر دون السادسة، تُجرَّب الأساليب السلوكية أولاً. الدواء يستلزم متابعة: الجرعة تُعدَّل على مدى أسابيع، ونمو الطفل ونومه وشهيته تُراقَب بانتظام. أي قرار بشأن تجربة الدواء ونوعه يُتخذ مع طبيب نفسي للأطفال يعرف الطفل."
+          ]
+        },
+        {
+          "h2": "كيف تُساعد طفلك في البيت؟",
+          "paras": [
+            "الروتين المنزلي المتوقع من أقوى الأدوات المتاحة للأسرة. أطفال ADHD يجدون صعوبة أكبر من غيرهم في توقع ما سيحدث لاحقاً، والتهيؤ للتنقل بين الأنشطة، وإدارة الفجوة بين الرغبة في فعل شيء وبدء فعله فعلاً. التسلسل اليومي الواضح والمتسق: وقت صحو محدد، ووجبات في أوقاتها، وواجبات في الفترة ذاتها من بعد الظهر، وروتين نوم في الوقت ذاته كل مساء، يُقلل قرارات التنقل التي تكون مصدراً للاحتكاك.",
+            "الواجبات المنزلية تستحق اهتماماً خاصاً. الطفل المصاب بـ ADHD يحتاج إلى إنجاز واجباته في مكان هادئ، بلا شاشات في متناوله، لفترة قابلة للتحمل، مثلاً 20 إلى 30 دقيقة، ثم استراحة، ثم جلسة قصيرة أخرى. محاولة إجباره على الجلوس ساعتين لإنجاز كل شيء دفعة واحدة ستُنتج صراعاً وتعلماً ضئيلاً. المهام القصيرة مع مكافآت فورية على الإتمام تُجدي أفضل بكثير.",
+            "كيفية التواصل بقدر ما تُقال. اجذب انتباه الطفل قبل إعطاء التعليمة، ناده باسمه، حافظ على التواصل بالعين، واجعل التعليمات قصيرة ومحددة. 'ضع حذاءك عند الباب' تعمل أفضل من 'رتب أغراضك، دائماً تتركها في كل مكان'. تجنب السخرية أو المقارنة بالإخوة، مما يُضر بالدافعية أكثر مما يُصلح السلوك.",
+            "العناية بنفسك كوالد ليست رفاهية. تربية طفل مصاب بـ ADHD أصعب فعلاً من تربية طفل نمطي في السن ذاتها. الإحباط والذنب والإنهاك مشاعر شائعة. التواصل مع مجموعة دعم من الأهالي في وضع مشابه، حضورياً أو إلكترونياً، يُخفف العزلة ويمنحك استراتيجيات عملية لا يُقدمها أي كتاب."
+          ]
+        },
+        {
+          "h2": "ماذا عن اضطراب ADHD عند البنات؟",
+          "paras": [
+            "يُشخَّص ADHD لدى الذكور بمعدل يفوق الإناث مرتين إلى ثلاث مرات، لكن البنات المصابات بـ ADHD كثيراً ما يُغفل عنهن لا لأنهن أقل عدداً بالفعل. البنات المصابات بـ ADHD يُظهرن في الغالب صورة قصور الانتباه دون فرط الحركة الصاخبة التي تستدعي انتباه المعلمات. قد يبدو أنهن يُدرن الأمر اجتماعياً بمراقبة الآخرين والتقليد، لكن ذلك بتكلفة من طاقتهن الذهنية لا تظهر إلا حين يكبرن.",
+            "البنت التي يُغفل عنها بـ ADHD كثيراً ما تكبر لتصبح مراهقة تعاني القلق وتدني الثقة بالنفس وتاريخاً من الإحساس بالغباء أو البطء، دون أن يُعرَّف تشتت انتباهها يوماً بأنه ADHD. قد أُخبرت لسنوات بأن تبذل جهداً أكبر وأن تكون أكثر تنظيماً وأن تكف عن تشرد ذهنها. إجراء تقييم في أي سن، بما في ذلك المراهقة والبلوغ، مفيد إن كان النمط يتطابق.",
+            "في السياق العربي، تواجه البنات المصابات بـ ADHD خطراً محدداً: قد تُعزى صعوباتهن إلى القلق أو الهشاشة العاطفية لا إلى فرق في التطور العصبي. الأسر قد تكون أقل استعداداً للسعي نحو تقييم ابنة منها لابن. هذا يعني أن الفجوة بين البنات المصابات بـ ADHD والبنات اللواتي يحصلن على الدعم أرجح أن تكون أوسع في هذه المنطقة من الفجوة العالمية الكبيرة أصلاً."
+          ]
+        },
+        {
+          "h2": "ما الذي ينتظر الطفل المصاب بـ ADHD مستقبلاً؟",
+          "paras": [
+            "لا يختفي ADHD تلقائياً عند البلوغ، وإن كانت صورته لدى كثير من الأطفال تتغير. كثيراً ما يتراجع فرط الحركة مع السن ليصبح إحساساً داخلياً بعدم الهدوء أكثر من كونه حركة جسدية. يميل تشتت الانتباه والاندفاعية إلى الاستمرار في مرحلة البلوغ بدرجات متفاوتة. لكن مع الدعم المناسب خلال الطفولة والمراهقة، يُطور معظم المصابين بـ ADHD استراتيجيات تكيف فعالة.",
+            "كثير من البالغين المصابين بـ ADHD ناجحون جداً في مسارات مهنية تناسب أسلوبهم المعرفي: العمل الذي يتضمن التنوع والحركة الجسدية والاهتمام الحقيقي وحل المشكلات والقيادة يناسبهم أكثر من المهام التي تستلزم انتباهاً مستمراً لتفاصيل روتينية متكررة. ريادة الأعمال والطب والعمل الإبداعي والمجالات التي يأتي فيها التركيز مع ضغط الوقت كلها مسارات شائعة.",
+            "عوامل الخطر للمآلات السيئة في ADHD لا تكمن في الحالة نفسها بل فيما يصاحبها: طفولة بلا دعم مليئة بالإخفاق الأكاديمي والنزاع الأسري، وحالات مصاحبة غير مُعالجة كالقلق أو صعوبات التعلم، والوصول إلى المراهقة دون فهم جيد لكيفية عمل الدماغ الخاص بالطفل. التعرف المبكر والدعم المصمم خصيصاً هما أقوى مؤشرات المسار الإيجابي."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "اطلب تقييماً عاجلاً إذا كان طفلك:",
+            "items": [
+              "يرسب في جميع المواد رغم المحاولة الواضحة",
+              "طُرد من المدرسة مراراً بسبب سلوكه",
+              "يُظهر علامات اكتئاب أو قلق شديد إلى جانب مشكلات الانتباه",
+              "يؤذي نفسه أو يتحدث عن عدم الرغبة في الاستمرار في الحياة"
+            ]
+          }
+        }
+      ],
+      "tie": "استخدم تطبيق سهتك لتسجيل أنماط سلوك طفلك ونومه وتقارير المدرسة بمرور الوقت. السجل المكتوب لمتى تظهر الصعوبات وكيف تتغير من أكثر الأشياء نفعاً في موعد التقييم الأول.",
+      "faqs": [
+        {
+          "q": "هل يعني ADHD أن طفلي أقل ذكاءً؟",
+          "a": "لا. ADHD يؤثر على الانتباه والتحكم في الاندفاعية لا على الذكاء. كثير من الأطفال المصابين بـ ADHD بالغو الذكاء، وصعوبتهم في المدرسة تتعلق بالوصول إلى قدرتهم لا بافتقارها. طفل ذكي بدون الدعم المناسب قد يُضيع سنوات في الأداء دون مستواه بينما يُقال له إنه لا يبذل جهداً كافياً."
+        },
+        {
+          "q": "هل الغذاء يسبب ADHD أو يعالجه؟",
+          "a": "الغذاء لا يُسبب ADHD. فحصت بعض الدراسات الصغيرة مضافات غذائية معينة والسكر كمحتملات للإسهام في فرط الحركة، لكن الأدلة ضعيفة وغير متسقة. النظام الغذائي الصحي والنوم الجيد مهمان لوظيفة دماغ أي طفل بما فيهم طفل ADHD، لكن لا نظام غذائي أثبت أنه يشفي ADHD أو يعالجه. التدخلات الأكثر فعالية هي الدعم المنظم والدواء في الحالات المناسبة."
+        },
+        {
+          "q": "هل دواء ADHD مُسبِّب للإدمان؟",
+          "a": "أدوية المنشطات المستخدمة لـ ADHD عند الأطفال حين تُؤخذ بوصفة طبية لا تُسبب الإدمان لديهم. القلق من الإدمان أكثر صلة بالمراهقين الكبار والبالغين الذين يتعاطون المنشطات دون تشخيص. عند الأطفال المصابين فعلاً بـ ADHD، يُقلل الدواء المنشط من الاندفاعية ويُحسن التنظيم، مما يُخفض من خطر الإدمان لاحقاً لا يرفعه."
+        },
+        {
+          "q": "في أي عمر يمكن تشخيص ADHD؟",
+          "a": "يمكن تشخيص ADHD من عمر 4 سنوات في مركز متخصص، وإن كان التقييم في أطفال ما قبل المدرسة يستلزم حذراً خاصاً لأن بعض سمات ADHD طبيعية في الأعمار الصغيرة. معظم التشخيصات تتم بين 6 و12 سنة. التشخيص في المراهقة والبلوغ ممكن أيضاً ويزداد شيوعاً مع ارتفاع الوعي."
+        },
+        {
+          "q": "يقول معلم طفلي إنه لا توجد مشكلة في المدرسة. هل قد يكون ADHD رغم ذلك؟",
+          "a": "نعم، وإن كان هذا يجعل التشخيص أقل وضوحاً. بعض الأطفال المصابين بـ ADHD ينجحون في التحكم بأنفسهم في البيئة المدرسية المنظمة ثم ينهارون في البيت حيث التنظيم أقل وجهد ضبط النفس قد استُهلك. إن كانت الصعوبات في البيت فقط، يجب استكشاف تفسيرات أخرى أولاً. إن كان النمط ظاهراً في البيت والمدرسة معاً فهذا دليل أقوى."
+        },
+        {
+          "q": "كم يستمر علاج ADHD؟",
+          "a": "يعتمد هذا على الطفل والعلاج. تدريب الوالدين السلوكي يُقدَّم عادةً على مدى 10 إلى 16 أسبوعاً. الدواء يستمر عادةً طالما كان مفيداً، يُراجَع سنوياً، ويُوقف أحياناً خلال العطل المدرسية لتقييم مقدار مساهمته. كثير من الأطفال يجدون مع نضجهم وتطور مهارات ضبط النفس لديهم أن الحاجة للدواء قلت أو أن الجرعة أصبحت أخفض."
+        },
+        {
+          "q": "هل يمكن أن يكون الطفل مصاباً بـ ADHD والتوحد معاً؟",
+          "a": "نعم. ADHD والتوحد يتصاحبان كثيراً، وتشترك الحالتان في بعض السمات كصعوبات التواصل الاجتماعي والحساسية الحسية، مع اختلافات مهمة في الوقت ذاته. التقييم الشامل من متخصص مُلمّ بالحالتين معاً ضروري إن كان كلاهما محتملاً."
+        },
+        {
+          "q": "أين يمكنني الحصول على تقييم ADHD في الدول العربية؟",
+          "a": "في معظم الدول العربية يتوفر التقييم في أقسام الطب النفسي للأطفال والمراهقين في المستشفيات الجامعية أو التعليمية. المراكز الخاصة لتطور الطفل في المدن الكبرى توفر وصولاً أسرع. بعض الدول لديها سجلات إعاقة وطنية تُتيح دعماً إضافياً بعد تأكيد التشخيص. طبيب الأطفال العام هو أفضل نقطة بداية للإحالة."
+        }
+      ]
+    }
+  }
+}

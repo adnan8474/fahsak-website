@@ -1,0 +1,341 @@
+{
+  "slug": "female-infertility-tests",
+  "category": "womens-health",
+  "chip_ar": "صحة المرأة",
+  "chip_en": "Women's Health",
+  "date_iso": "2026-08-03",
+  "sources": [
+    {
+      "label": "Phillips K, Olanrewaju RA, Omole F et al: Infertility: Evaluation and Management, American family physician, 2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37327165/"
+    },
+    {
+      "label": "Cedars MI: Evaluation of Female Fertility-AMH and Ovarian Reserve Testing, The Journal of clinical endocrinology and metabolism, 2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35100616/"
+    },
+    {
+      "label": "Melado L, Vitorino R, Coughlan C et al: Ethnic and Sociocultural Differences in Ovarian Reserve: Age-Specific Anti-Mullerian Hormone Values and Antral Follicle Count for Women of the Arabian Peninsula, Frontiers in endocrinology, 2021",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34745004/"
+    },
+    {
+      "label": "Bayoumi R, Riad J, Pillai S et al: Reduced ovarian reserve among female offspring of consanguineous marriages in the Middle East-a mini review, Frontiers in reproductive health, 2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41358262/"
+    },
+    {
+      "label": "Lawrenz B, Coughlan C, Melado L et al: Ethnical and sociocultural differences causing infertility are poorly understood-insights from the Arabian perspective, Journal of assisted reproduction and genetics, 2019",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30685837/"
+    },
+    {
+      "label": "Agarwal A, Mulgund A, Hamada A et al: A unique view on male infertility around the globe, Reproductive biology and endocrinology : RB&E, 2015",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25928197/"
+    },
+    {
+      "label": "Collee J, Mawet M, Tebache L et al: Polycystic ovarian syndrome and infertility: overview and insights of the putative treatments, Gynecological endocrinology, 2021",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34338572/"
+    }
+  ],
+  "content": {
+    "ar": {
+      "title": "فحوصات تأخر الحمل: ما تكشفه وكيف تُقرأ",
+      "desc": "دليل مبسط لفحوصات الخصوبة لدى المرأة: هرمونات المبيض، AMH، تتبع التبويض، سالكية قناتَي فالوب، ولماذا لا يكتمل التقييم دون فحص الشريك.",
+      "keywords": "تأخر الحمل, فحوصات الخصوبة, AMH, الاحتياطي المبيضي, تحليل التبويض, سالكية قناتي فالوب, هرمون FSH, تكيس المبايض, تقييم العقم, الشريك الذكر",
+      "h1": "فحوصات تأخر الحمل: ما تكشفه وما لا ينبغي تجاهله",
+      "takeaways": [
+        "تأخر الحمل يُعرَّف طبياً بعدم الحمل بعد سنة من المحاولة المنتظمة (ستة أشهر لمن تجاوزن الخامسة والثلاثين)، وهذا هو التوقيت المناسب لبدء التقييم.",
+        "العامل الذكوري مسؤول عن حوالي نصف حالات تأخر الحمل في الأزواج، لذا يبدأ التقييم الصحيح بفحص الشريك وفحص المرأة معاً وليس بفحص المرأة وحدها.",
+        "الفحوصات الأساسية للمرأة تشمل: هرمونات المبيض (FSH وLH والإستروجين) في اليوم الثالث من الدورة، وهرمون AMH، وهرمون الثيروتروبين TSH، وهرمون البرولاكتين.",
+        "هرمون AMH هو المقياس الأدق لتقدير الاحتياطي المبيضي ويمكن قياسه في أي يوم من أيام الدورة.",
+        "الشريك يُجري تحليل السائل المنوي (Semen Analysis) والنتيجة تستغرق ساعتين وتعطي معلومات أساسية لا تُعوَّض."
+      ],
+      "sections": [
+        {
+          "h2": "متى يصبح تأخر الحمل مشكلة تستحق الفحص؟",
+          "paras": [
+            "تأخر الحمل تعريفه الطبي هو عدم حدوث حمل بعد اثني عشر شهراً من العلاقة الزوجية الكاملة المنتظمة دون استخدام وسائل منع الحمل. لمن تجاوزن سن الخامسة والثلاثين، تقلّ المدة إلى ستة أشهر نظراً لأن احتياطي المبيض يتراجع بوتيرة أسرع بعد هذه السن. مراجعة شاملة نُشرت عام 2023 في مجلة American Family Physician تؤكد هذا التعريف وتُنبّه إلى أن التأخير في التقييم يُضيّع وقتاً نادراً خاصةً في النساء الأكبر سناً، لأن الاحتياطي المبيضي لا يُمكن استعادته حين يتراجع.",
+            "قبل الوصول إلى أي تشخيص، يُساعد فهم دورة التبويض الطبيعية. البويضة تنضج في المبيض وتُطلَق حول اليوم الرابع عشر من دورة مدتها ثمانية وعشرون يوماً، ثم تنتقل عبر قناة فالوب حيث يحدث الإخصاب. الحيوان المنوي قادر على البقاء في الجهاز التناسلي الأنثوي ثلاثة إلى خمسة أيام، مما يعني أن أيام الخصوبة المثلى تبدأ قبل التبويض بيومين أو ثلاثة. هذا يعني أن الجماع المنتظم كل يومين أو ثلاثة أيام طوال الأسبوع الأوسط من الدورة يُغطي نافذة الإخصاب بدقة كافية دون الحاجة لحسابات معقدة.",
+            "عوامل عدة تُقلل احتمالية الحمل التلقائي حتى في الأزواج الأصحاء: الوقت من المحاولة الأولى إلى الحمل يتراوح طبيعياً من شهر إلى اثني عشر شهراً عند الأزواج دون أي مشكلة. كثير من الأزواج يُصابون بالقلق مبكراً وهذا مفهوم، لكن القلق ذاته قد يُعيق الحمل أحياناً عن طريق تأثيره على الهرمونات والتوتر. المحاولة المنتظمة كل يومين إلى ثلاثة أيام طوال الشهر أكثر فعالية من الاقتصار على أيام التبويض وتُريح الزوجين من ضغط التوقيت الدقيق."
+          ]
+        },
+        {
+          "h2": "لماذا يجب فحص الشريك أولاً أو معاً؟",
+          "paras": [
+            "الثقافة السائدة في المنطقة تُحمّل المرأة مسؤولية تأخر الحمل تلقائياً، وهذا خطأ طبي وليس فقط خطأ اجتماعياً. دراسة بحثية نُشرت عام 2015 في مجلة Reproductive Biology and Endocrinology استعرضت بيانات العقم حول العالم ووجدت أن العامل الذكوري وحده يفسر نحو 30 بالمئة من الحالات، وأن العامل المشترك بين الجنسين يُضاف إلى ذلك، مما يجعل العامل الذكوري ذا صلة في ما يقارب نصف حالات تأخر الحمل في الأزواج.",
+            "تحليل السائل المنوي (Semen Analysis) بسيط وغير مؤلم، ويُجريه الزوج بعينة يُقدّمها في المختبر. تُقيَّم فيه: عدد الحيوانات المنوية في كل ملليلتر، ونسبة التي تتحرك (الحركية)، وشكلها الطبيعي (المورفولوجيا)، وحجم السائل وتركيبه. هذه المعطيات كلها تُؤثر على القدرة على إخصاب البويضة.",
+            "إذا كانت نتيجة تحليل السائل المنوي طبيعية، ينتقل التركيز إلى عوامل المرأة. إذا كانت غير طبيعية، يُحوَّل الزوج إلى طبيب متخصص في أمراض الذكورة (Andrologist) لتقييم أسباب قابلة للعلاج مثل الدوالي (Varicocele) أو الاضطرابات الهرمونية أو العدوى. فحص الشريك ليس إهانة بل ضرورة طبية."
+          ]
+        },
+        {
+          "h2": "الفحوصات الهرمونية الأساسية للمرأة",
+          "paras": [
+            "الفحوصات الهرمونية في اليوم الثاني أو الثالث من الدورة الشهرية (أي مطلع الدورة) تُعطي صورة عن احتياطي المبيض والتوازن الهرموني. هرمون FSH أو الهرمون المنشط للجريب هو المحرك الأساسي لنمو البويضات، وارتفاعه في بداية الدورة يُشير إلى أن المبيض يحتاج جهداً أكبر لتأدية وظيفته مما يعني تراجع الاحتياطي. هرمون LH أو الهرمون المنشط للجسم الأصفر يرتفع فجأة قبيل التبويض وهو ما تكشفه اختبارات التبويض المنزلية.",
+            "هرمون الإستروجين أو الإستراديول (E2) في اليوم الثاني أو الثالث يُكمل صورة هرمون FSH؛ إذ إن ارتفاع الإستراديول المبكر قد يكسر ارتفاع FSH ويجعله يبدو طبيعياً زيفاً. لذا يُقرأ FSH وE2 معاً دائماً وليس منفردين. هرمون البرولاكتين (Prolactin) ارتفاعه يُعيق التبويض ويُسبب اضطرابات الدورة وأحياناً إفرازاً من الحلمة دون حمل، وله أسباب عدة أبرزها ورم حميد صغير في الغدة النخامية يُسمى البرولاكتينوما (Prolactinoma) يُعالَج بالأقراص في أغلب الحالات.",
+            "هرمون الثيروتروبين TSH أساسي في أي تقييم للخصوبة لأن خلل الغدة الدرقية بنوعيه (الخمول أو النشاط الزائد) يُعيق التبويض ويُصعّب الحمل. كثير من النساء لا يعرفن أن لديهن مشكلة في الغدة الدرقية حتى يبحثن عن سبب تأخر الحمل."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "الفحوصات الهرمونية الأساسية للمرأة في تقييم الخصوبة",
+            "head": ["الهرمون", "توقيت الفحص", "ما يكشفه"],
+            "rows": [
+              ["FSH", "يوم 2 أو 3 من الدورة", "احتياطي المبيض واستجابته"],
+              ["LH", "يوم 2 أو 3 من الدورة", "التوازن الهرموني وأحياناً تكيس المبايض"],
+              ["E2 (الإستراديول)", "يوم 2 أو 3 من الدورة", "يُكمل تفسير FSH"],
+              ["AMH", "أي يوم من الدورة", "الاحتياطي المبيضي الأدق"],
+              ["TSH", "أي وقت", "وظيفة الغدة الدرقية"],
+              ["البرولاكتين", "صباحاً", "الكشف عن ارتفاع يُعيق التبويض"]
+            ]
+          }
+        },
+        {
+          "h2": "ما هو هرمون AMH وكيف يُفسَّر؟",
+          "paras": [
+            "هرمون AMH أو هرمون مضاد لمولر (Anti-Mullerian Hormone) تُفرزه الخلايا المحيطة بالجريبات الصغيرة في المبيض، ومستواه يعكس الاحتياطي المبيضي بدقة أعلى من هرمون FSH. ميزته الرئيسية أنه يمكن قياسه في أي يوم من أيام الدورة الشهرية ودون صيام، مما يجعل الوصول إليه أيسر. مراجعة نُشرت عام 2022 في مجلة Journal of Clinical Endocrinology and Metabolism تؤكد أن AMH الأداة الأفضل حالياً لتقدير الاحتياطي المبيضي.",
+            "دراسة مهمة نُشرت عام 2021 في مجلة Frontiers in Endocrinology أجرتها فرق بحثية في منطقة الخليج ووجدت أن قيم AMH الطبيعية في المرأة العربية قد تختلف قليلاً عن القيم المرجعية الغربية وتوصي بمراجعة المعامل المحلية لقيمها المرجعية. هذا يعني أن القيمة المطبوعة على ورقة نتيجتكِ يجب أن تُفسَّر بحسب المعمل الذي أجرى التحليل لا بمقارنتها بجدول عالمي عام.",
+            "دراسة مراجعية نُشرت عام 2025 في Frontiers in Reproductive Health أشارت إلى أن النساء المنحدرات من زواج الأقارب في منطقة الشرق الأوسط قد يكنّ أكثر عرضة لانخفاض الاحتياطي المبيضي مقارنةً بغيرهن. هذا ليس حكماً قاطعاً على كل حالة فردية، لكنه يجعل فحص AMH في هذه الحالات أكثر أهمية."
+          ],
+          "visual": {
+            "type": "range-scale",
+            "title": "مستويات AMH التقريبية لتقدير الاحتياطي المبيضي",
+            "label": "AMH",
+            "unit": "ng/mL",
+            "min": 0,
+            "max": 6,
+            "zones": [
+              {"to": 0.5, "tone": "bad", "label": "منخفض جداً"},
+              {"to": 1.5, "tone": "warn", "label": "منخفض"},
+              {"to": 3.5, "tone": "good", "label": "طبيعي"},
+              {"to": 6, "tone": "warn", "label": "مرتفع"}
+            ],
+            "source": "Cedars MI, Journal of Clinical Endocrinology and Metabolism, 2022",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/35100616/"
+          }
+        },
+        {
+          "h2": "تتبع التبويض: هل تحدث البويضة؟",
+          "paras": [
+            "التحقق من أن التبويض يحدث فعلاً خطوة محورية في التقييم. الطريقة الأدق هي المتابعة بالموجات فوق الصوتية (Follicular Tracking أو Folliculometry) حيث يرصد الطبيب نمو الجريب المحتوي للبويضة واختفاءه بعد التبويض على مدى عدة أيام. هذا يُعطي تأكيداً مباشراً على التبويض وعلى توقيته.",
+            "هرمون البروجيستيرون (Progesterone) في اليوم الحادي والعشرين من الدورة (بافتراض دورة مدتها 28 يوماً) يُستخدم للتحقق غير المباشر من التبويض. ارتفاع البروجيستيرون في النصف الثاني من الدورة يُثبت أن التبويض حدث. اختبارات التبويض المنزلية التي تقيس هرمون LH مفيدة في تحديد وقت التبويض لكنها لا تُثبت أن البويضة خرجت بالفعل.",
+            "غياب التبويض المنتظم أو انعدامه (anovulation) من الأسباب الشائعة لتأخر الحمل. متلازمة تكيس المبايض (PCOS أو Polycystic Ovary Syndrome) هي أكثر أسباب اضطراب التبويض شيوعاً وتُصيب نحو 10 إلى 15 بالمئة من النساء في سن الخصوبة. مراجعة نُشرت عام 2021 في مجلة Gynecological Endocrinology تُوضح خيارات تحريض التبويض في حالات تكيس المبايض المصاحبة لتأخر الحمل."
+          ]
+        },
+        {
+          "h2": "سالكية قناتَي فالوب: هل الطريق مفتوح؟",
+          "paras": [
+            "قناتا فالوب (Fallopian Tubes) هما الممر بين المبيض والرحم حيث يحدث الإخصاب عادةً. انسداد إحداهما أو كلتيهما بسبب التهابات سابقة أو الانتباذ البطاني الرحمي (Endometriosis) أو التليف يمنع الحيوان المنوي من الوصول للبويضة. تقييم سالكية القناتين يُجرى بإحدى طريقتين رئيسيتين.",
+            "الأولى هي تصوير الرحم والقناتين بالصبغة (Hysterosalpingography أو HSG) وهو إجراء أشعة سينية حيث تُحقن صبغة داخل الرحم وتُصوَّر رحلتها. تنفيذه يستغرق دقائق وقد يكون مؤلماً قليلاً، لكنه يُعطي صورة واضحة عن تجويف الرحم وسالكية القناتين. بعض الدراسات أشارت إلى أن المرور التشخيصي بالصبغة نفسه قد يزيد احتمالية الحمل في الأشهر التالية.",
+            "الثانية هي تنظير البطن (Laparoscopy) وهو إجراء جراحي يُجرى تحت التخدير العام ويُتيح رؤية مباشرة للمبيضين والقناتين والرحم. يُستخدم حين يُشتبه في الانتباذ البطاني الرحمي أو التصاقات داخل البطن. ويمكن في الجلسة ذاتها علاج بعض المشكلات جراحياً إذا وُجدت."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "أعراض قد تُشير لانسداد القناتين أو مشكلة في الرحم",
+            "items": [
+              "ألم حوضي مزمن خاصةً مع أو قبل الدورة الشهرية",
+              "تاريخ سابق بالتهاب الحوض (PID) أو جراحة في البطن",
+              "ألم شديد أثناء العلاقة الزوجية",
+              "ألم حوضي حاد في أي طرف مع غياب الدورة (احتمال حمل خارج الرحم)",
+              "تاريخ سابق بالسيلان أو الكلاميديا دون علاج مكتمل"
+            ]
+          }
+        },
+        {
+          "h2": "دور الانتباذ البطاني الرحمي في تأخر الحمل",
+          "paras": [
+            "الانتباذ البطاني الرحمي (Endometriosis) حالة تنمو فيها خلايا مشابهة لبطانة الرحم خارج الرحم، في المبيضين أو القناتين أو داخل البطن. يُسبّب ألماً شهرياً شديداً وقد يُؤثر على الخصوبة بطرق متعددة. تشخيصه يحتاج عادةً تنظير البطن ولا يُمكن استبعاده بالأشعة أو الدم فقط.",
+            "الانتباذ يُعاني منه ما بين 5 و10 بالمئة من النساء في سن الخصوبة، وتصل نسبته في النساء اللواتي يُعانين من تأخر الحمل إلى 25 إلى 50 بالمئة، مما يجعله سبباً مهماً ينبغي استقصاؤه. العلاج جراحي في الحالات المتقدمة وهرموني في الحالات الأخف. التأخير في تشخيص الانتباذ شائع لأن الألم الشهري يُعامَل أحياناً على أنه طبيعي، في حين أن الألم الشديد الذي يُعطّل حياتكِ الشهرية ليس طبيعياً ويستحق تقييماً.",
+            "الانتباذ البطاني الرحمي لا يعني استحالة الحمل. كثير من النساء المُصابات بدرجاته الخفيفة إلى المتوسطة يحملن بصورة تلقائية بعد العلاج أو أحياناً دون علاج. الدرجات الشديدة مع التصاقات داخل البطن أو انسداد القناتين تحتاج تدخلاً متخصصاً من طبيب خصوبة يُخطط للعمل الجراحي والخصوبة معاً."
+          ]
+        },
+        {
+          "h2": "ماذا بعد الفحوصات الأولية؟",
+          "paras": [
+            "بعد الانتهاء من الفحوصات الأساسية، يكون لدى الطبيب والزوجين صورة تبيّن أين تكمن المشكلة أو تنفي وجودها. في نسبة من حالات تأخر الحمل (تُقدَّر بنحو 10 إلى 20 بالمئة) لا تُكشَف أي علة محددة بالفحوصات المعتادة وتُسمى الحالة عقماً غير مُفسَّر. هذا لا يعني أن كل شيء طبيعي بل يعني أن السبب لا يظهر بالأدوات المتاحة حالياً.",
+            "خيارات العلاج تتدرج بحسب السبب والعمر وعدد سنوات الانتظار. تحريض التبويض بالأقراص ثم الحقن، والتلقيح داخل الرحم (IUI)، وأطفال الأنابيب (IVF) تحل محل الإجراء الأبسط حين لا يكفي. هذه الخيارات متاحة في المملكة العربية السعودية والإمارات والأردن ومصر والكويت وتونس والمغرب وغيرها، وإن تفاوتت التكاليف وإمكانية الوصول.",
+            "العامل النفسي والاجتماعي حقيقي ومهم. تأخر الحمل في المجتمع العربي يحمل ضغطاً اجتماعياً كبيراً على الزوجين وخاصةً على المرأة. البحث الذي نُشر عام 2019 في Journal of Assisted Reproduction and Genetics بعنوان 'فهم العقم من المنظور العربي' نبّه إلى أن الضغط الاجتماعي والخجل يُؤخّران طلب الرعاية في المنطقة. الدعم النفسي للزوجين خلال هذه الرحلة ليس رفاهية بل جزء من العلاج."
+          ]
+        }
+      ],
+      "tie": "تطبيق صحتك يُساعدك على تتبع دورتك الشهرية وتواريخ الفحوصات وتوثيق الأعراض قبل كل زيارة طبية. سجّلي نتائج هرموناتك وتواريخها لتتابع التغيرات مع الوقت، والمساعد الذكي يشرح لكِ ما تعنيه كل نتيجة بلغة واضحة دون أن يُحل محل طبيبك في التقييم الشامل.",
+      "faqs": [
+        {
+          "q": "هل يمكنني إجراء فحص AMH في منتصف الدورة؟",
+          "a": "نعم. من أكبر مزايا AMH أنه يمكن قياسه في أي يوم من أيام الدورة الشهرية دون الحاجة للتزامن مع يوم محدد. هذا يُسهّل تنظيمه مع الفحوصات الأخرى وفق ما يُناسبك."
+        },
+        {
+          "q": "هرمون FSH ارتفع عندي. هل يعني ذلك أنني لن أُنجب؟",
+          "a": "لا، ارتفاع FSH يُشير إلى تراجع الاحتياطي المبيضي وليس إلى استحالة الحمل. كثير من النساء ذوات FSH المرتفع نسبياً يحملن بصورة تلقائية أو بمساعدة بسيطة. التفسير الصحيح يعتمد على قيمة FSH وE2 معاً وعلى AMH وعمرك وسياقك الكامل."
+        },
+        {
+          "q": "هل ألم تصوير الرحم بالصبغة (HSG) شديد؟",
+          "a": "كثير من النساء يصفن تشنجات مؤلمة مشابهة لآلام الدورة الشهرية أثناء الإجراء ولدقائق بعده. تناول مسكن بسيط كالإيبوبروفين قبله يُخفف الانزعاج. الإجراء يستغرق عادةً أقل من خمس عشرة دقيقة."
+        },
+        {
+          "q": "هل تكيس المبايض يمنع الحمل؟",
+          "a": "تكيس المبايض (PCOS) لا يمنع الحمل بالضرورة لكنه يجعله أصعب في كثير من الحالات بسبب عدم انتظام التبويض. الخبر الجيد أن معظم حالات PCOS تستجيب بشكل ممتاز لتحريض التبويض بالأدوية، وكثير من النساء يحملن بعد تعديل وزن الجسم وتنظيم نمط الحياة وحده."
+        },
+        {
+          "q": "هل يجب أن تُعالج المشكلة عند الشريك أولاً قبل فحص المرأة؟",
+          "a": "لا. الأفضل أن يُجري الزوجان الفحوصات الأساسية معاً في نفس الوقت لتوفير الوقت واتخاذ قرار علاجي شامل. تحليل السائل المنوي للزوج وفحوصات هرمونات المرأة تُجرى معاً في المراكز المتخصصة لأن السبب في أغلب الأحيان متعدد."
+        },
+        {
+          "q": "هل الخصوبة تتأثر بوزن الجسم؟",
+          "a": "نعم، والعلاقة في الاتجاهين. السمنة تُقلل انتظام التبويض وتُخفض جودة البويضات وترتبط بصعوبة الحمل وزيادة مخاطر مضاعفاته. النحافة الشديدة أيضاً تُعطّل التبويض. تحسين وزن الجسم نحو نطاق صحي يُحسّن الخصوبة عند كثيرين قبل أي علاج آخر."
+        },
+        {
+          "q": "كم يستغرق كامل تقييم الخصوبة؟",
+          "a": "التقييم الأساسي يمكن إنجازه خلال دورة شهرية واحدة إلى دورتين في معظم الحالات: الفحوصات الهرمونية في بداية الدورة، متابعة التبويض في منتصفها، وتحليل السائل المنوي للشريك في أي وقت. الفحوصات التشريحية كالأشعة بالصبغة أو التنظير تُضاف لاحقاً حسب ما يُشير إليه التقييم الأولي."
+        }
+      ]
+    },
+    "en": {
+      "title": "Female Infertility: The Tests and What They Show",
+      "desc": "A clear guide to fertility tests for women: ovarian hormones, AMH, ovulation tracking, tubal patency, and why testing is never complete without testing the male partner too.",
+      "keywords": "female infertility tests, AMH test, ovarian reserve, ovulation tracking, fallopian tube test, FSH hormone fertility, PCOS infertility, HSG test, fertility evaluation, male factor infertility",
+      "h1": "Female Infertility Tests: What They Measure and What Comes Next",
+      "takeaways": [
+        "Infertility is defined as no pregnancy after twelve months of regular unprotected intercourse, or six months for women over 35. This is the point to start a medical evaluation.",
+        "The male factor accounts for around half of infertility in couples globally, so a correct evaluation begins with testing both partners, not the woman alone.",
+        "Core tests for women include day-2 or day-3 hormones (FSH, LH and estradiol), AMH, TSH and prolactin.",
+        "AMH is the most accurate single measure of ovarian reserve and can be drawn on any day of the cycle.",
+        "The male partner provides a semen analysis that takes a few hours to process and gives irreplaceable information about fertilisation potential."
+      ],
+      "sections": [
+        {
+          "h2": "When Does Delayed Pregnancy Need Medical Evaluation?",
+          "paras": [
+            "Infertility is medically defined as no pregnancy after twelve months of regular unprotected intercourse. For women over 35, this threshold drops to six months because ovarian reserve declines more rapidly after that age. A 2023 comprehensive review published in American Family Physician confirmed this framework and noted that delaying evaluation wastes rare time particularly for older women, since ovarian reserve cannot be recovered once lost.",
+            "Understanding the normal cycle helps set expectations. The egg matures in the ovary and is usually released around day fourteen of a twenty-eight-day cycle, then travels down the fallopian tube where fertilisation normally occurs. Sperm can survive in the female reproductive tract for three to five days, which means the most fertile window begins two to three days before ovulation. Regular intercourse every two to three days throughout the month is more effective than focusing only on the estimated ovulation day.",
+            "Even in healthy couples with no identifiable problem, the time from first attempt to conception ranges widely. Anxiety about delayed pregnancy is understandable, and the evaluation is a constructive step that either identifies a cause or provides reassurance. Coming to the evaluation knowing what to expect removes some of that anxiety."
+          ]
+        },
+        {
+          "h2": "Why Should the Male Partner Be Tested First or Simultaneously?",
+          "paras": [
+            "Social norms across much of the Arab world assign the responsibility for delayed pregnancy automatically to the woman. This is a medical error as well as a social one. A 2015 study published in Reproductive Biology and Endocrinology reviewing global infertility data found that male factor alone explains around 30 percent of cases, and that a shared male-female contribution accounts for a further proportion, making the male factor relevant in close to half of all infertility situations.",
+            "Semen analysis is straightforward and non-invasive. The man provides a sample at the laboratory and it is analysed for sperm count per millilitre, motility (the percentage moving), morphology (the percentage normally shaped) and the volume and composition of the ejaculate. All of these parameters affect the ability to fertilise an egg.",
+            "If the semen analysis is normal, attention shifts to the female factors. If it is abnormal, the man is referred to an andrologist, a specialist in male reproductive medicine, to look for treatable causes such as varicocele, hormonal imbalance or infection. Testing the male partner is a medical necessity, not a social accusation, and framing it this way in the clinic matters."
+          ]
+        },
+        {
+          "h2": "The Core Hormone Tests for Women",
+          "paras": [
+            "Blood tests drawn on day two or three of the menstrual cycle (the very start of the period) give a picture of ovarian reserve and hormonal balance. FSH, or follicle-stimulating hormone, is the main driver of egg development. A high FSH at the start of the cycle suggests the pituitary is working harder than usual to stimulate the ovaries, which signals reduced reserve. LH, or luteinising hormone, surges just before ovulation and is what home ovulation tests detect.",
+            "Estradiol (E2) on day two or three completes the interpretation of FSH. A high estradiol early in the cycle can suppress FSH and make it appear deceptively normal. For this reason FSH and estradiol are always read together, never in isolation. Prolactin elevation inhibits ovulation and causes cycle irregularities and sometimes nipple discharge outside of breastfeeding. Its most common cause is a small benign pituitary tumour called a prolactinoma, which is typically treated successfully with oral medication.",
+            "TSH, the thyroid-stimulating hormone, is essential in any fertility evaluation because both an underactive and an overactive thyroid disrupt ovulation and make conception harder. Many women do not know they have a thyroid problem until they investigate delayed pregnancy. Treating the thyroid disorder alone frequently restores regular ovulation."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Core Hormone Tests in a Female Fertility Evaluation",
+            "head": ["Hormone", "When to test", "What it shows"],
+            "rows": [
+              ["FSH", "Day 2 or 3 of cycle", "Ovarian reserve and responsiveness"],
+              ["LH", "Day 2 or 3 of cycle", "Hormonal balance, sometimes PCOS pattern"],
+              ["E2 (estradiol)", "Day 2 or 3 of cycle", "Completes the interpretation of FSH"],
+              ["AMH", "Any day of the cycle", "The most accurate ovarian reserve marker"],
+              ["TSH", "Any time", "Thyroid function"],
+              ["Prolactin", "Morning, fasting", "Detects elevation that inhibits ovulation"]
+            ]
+          }
+        },
+        {
+          "h2": "What Is AMH and How Is It Interpreted?",
+          "paras": [
+            "AMH, or anti-Mullerian hormone, is secreted by the cells surrounding small follicles in the ovary. Its level reflects the size of the remaining egg pool more accurately than FSH. Its main practical advantage is that it can be measured on any day of the cycle without fasting, making it easier to schedule. A 2022 review in the Journal of Clinical Endocrinology and Metabolism concludes that AMH is currently the best available single marker for estimating ovarian reserve.",
+            "A significant study published in 2021 in Frontiers in Endocrinology by research teams based in the Gulf found that normal AMH values in Arabian Peninsula women may differ modestly from Western reference ranges and recommended that regional laboratories develop their own age-specific reference values. This means the number on your test result should be interpreted using the reference range of the specific laboratory that ran the test, not compared against a generic global table.",
+            "A 2025 mini-review published in Frontiers in Reproductive Health noted that women who are the offspring of consanguineous marriages in the Middle East may have a higher likelihood of reduced ovarian reserve compared with the general population. This is not a certainty for any individual, but it makes AMH testing particularly worthwhile in these cases, rather than something to defer."
+          ],
+          "visual": {
+            "type": "range-scale",
+            "title": "Approximate AMH Levels and Ovarian Reserve",
+            "label": "AMH",
+            "unit": "ng/mL",
+            "min": 0,
+            "max": 6,
+            "zones": [
+              {"to": 0.5, "tone": "bad", "label": "Very low"},
+              {"to": 1.5, "tone": "warn", "label": "Low"},
+              {"to": 3.5, "tone": "good", "label": "Normal"},
+              {"to": 6, "tone": "warn", "label": "High"}
+            ],
+            "source": "Cedars MI, Journal of Clinical Endocrinology and Metabolism, 2022",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/35100616/"
+          }
+        },
+        {
+          "h2": "Is Ovulation Actually Happening?",
+          "paras": [
+            "Confirming that ovulation occurs is a central step in the evaluation. The most direct method is follicular tracking by ultrasound (folliculometry), where the doctor monitors the growth and then disappearance of the dominant follicle containing the egg across several clinic visits. This provides direct confirmation of ovulation and its timing.",
+            "Progesterone on day twenty-one of the cycle (assuming a twenty-eight-day cycle) provides an indirect confirmation of ovulation. An elevated progesterone in the second half of the cycle confirms that ovulation occurred. Home ovulation tests that measure the LH surge are useful for timing intercourse but cannot confirm that the egg was actually released.",
+            "Absent or irregular ovulation is one of the most common causes of infertility. Polycystic ovary syndrome (PCOS) is the most frequent cause of ovulation dysfunction, affecting roughly 10 to 15 percent of women of reproductive age. A 2021 review in Gynecological Endocrinology describes the options for inducing ovulation in women with PCOS, ranging from lifestyle modification and oral medication to injectable hormones, and notes that most women with PCOS respond well to treatment."
+          ]
+        },
+        {
+          "h2": "Fallopian Tube Patency: Is the Route Open?",
+          "paras": [
+            "The fallopian tubes are the channel between the ovary and the uterus where fertilisation normally takes place. Blockage of one or both tubes by previous pelvic infection, endometriosis or surgical scarring prevents sperm from reaching the egg. Two main methods are used to assess tubal patency.",
+            "The first is a hysterosalpingogram (HSG), an X-ray procedure in which a contrast dye is injected into the uterus and its passage is imaged. It takes only a few minutes and can be uncomfortable, but it provides a clear picture of the uterine cavity and whether the tubes are open. Some evidence suggests the diagnostic dye passage itself slightly increases the probability of conception in the following months.",
+            "The second is laparoscopy, a surgical procedure under general anaesthesia that allows direct visualisation of the ovaries, tubes and uterus. It is used when endometriosis or intra-abdominal adhesions are suspected, and problems found can sometimes be treated in the same session. Laparoscopy is a more definitive diagnostic tool but carries the risks of any surgical procedure and is not a first-line investigation."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "Symptoms That May Indicate a Tubal or Uterine Problem",
+            "items": [
+              "Chronic pelvic pain, especially with or before periods",
+              "Previous pelvic inflammatory disease or abdominal surgery",
+              "Pain during intercourse",
+              "Severe one-sided pelvic pain with a missed period (possible ectopic pregnancy)",
+              "Previous gonorrhoea or chlamydia infection without full treatment"
+            ]
+          }
+        },
+        {
+          "h2": "The Role of Endometriosis in Infertility",
+          "paras": [
+            "Endometriosis is a condition in which tissue similar to the uterine lining grows outside the uterus, commonly on the ovaries, tubes or within the pelvis. It causes often severe monthly pain and affects fertility through several mechanisms, including inflammation, adhesions and effects on egg quality. Diagnosis generally requires laparoscopy and cannot be excluded by blood tests or imaging alone.",
+            "Endometriosis affects roughly 5 to 10 percent of women of reproductive age overall, and this rises to 25 to 50 percent among women presenting with infertility, making it a significant cause to investigate. Treatment is surgical for more advanced disease and hormonal for milder forms. Many women with mild to moderate endometriosis conceive naturally or with minimal assistance after treatment.",
+            "A diagnosis of endometriosis does not mean conception is impossible. The degree of the disease and the individual's age and ovarian reserve together guide the treatment plan. Severe disease with tube blockage or significant adhesions requires specialist fertility care, whereas minimal disease with a good ovarian reserve may need only careful timing and monitoring."
+          ]
+        },
+        {
+          "h2": "What Happens After the Initial Tests?",
+          "paras": [
+            "After the initial tests, the doctor and couple have a picture that either identifies a cause or points toward further investigation. In roughly 10 to 20 percent of cases no specific cause is found through standard evaluation, a state called unexplained infertility. This does not mean everything is normal; it means the cause is not detectable with currently available tools, and empirical treatment is still possible.",
+            "Treatment options are matched to the cause, the woman's age and the duration of infertility. Oral ovulation induction, injectable hormones, intrauterine insemination (IUI) and in-vitro fertilisation (IVF) are available in varying combinations across Saudi Arabia, the UAE, Jordan, Egypt, Kuwait, Tunisia, Morocco and other Arab countries, though access and cost vary significantly between settings.",
+            "The psychological and social dimension is real and clinically significant. A 2019 paper published in the Journal of Assisted Reproduction and Genetics examining infertility from an Arabian sociocultural perspective highlighted that social pressure and stigma delay help-seeking in the region and affect how couples experience treatment. Psychological support for both partners is not a luxury but a documented component of better outcomes in infertility care."
+          ]
+        }
+      ],
+      "tie": "The Sihtak app helps you track your menstrual cycle, test dates and symptoms before each appointment. Log your hormone results with their dates to follow changes over time, and use the AI assistant to understand what each result means in plain language before your next visit with your doctor.",
+      "faqs": [
+        {
+          "q": "Can I have AMH tested in the middle of my cycle?",
+          "a": "Yes. One of AMH's main practical advantages is that it can be measured on any day of the menstrual cycle without fasting or any preparation. This makes it much easier to arrange alongside other tests at a time that suits you."
+        },
+        {
+          "q": "My FSH is elevated. Does that mean I cannot conceive?",
+          "a": "No. An elevated FSH indicates reduced ovarian reserve, not an impossibility of pregnancy. Many women with a moderately elevated FSH conceive naturally or with minimal support. Correct interpretation requires reading FSH alongside estradiol and AMH, and placing the values in the context of your age and full clinical picture."
+        },
+        {
+          "q": "How painful is the hysterosalpingogram (HSG)?",
+          "a": "Many women describe cramping similar to period pain during the procedure and for a short time after. Taking a standard anti-inflammatory such as ibuprofen an hour before the appointment reduces the discomfort significantly. The procedure usually takes less than fifteen minutes in total."
+        },
+        {
+          "q": "Does PCOS mean I cannot get pregnant?",
+          "a": "No. PCOS makes conception harder in many cases because of irregular ovulation, but it does not prevent pregnancy. Most women with PCOS respond very well to ovulation induction medication, and many conceive after lifestyle changes including weight normalisation and dietary adjustment alone."
+        },
+        {
+          "q": "Should the male partner be treated first, before the woman is tested?",
+          "a": "No. The most efficient approach is for both partners to complete their initial testing simultaneously. A semen analysis for the man and hormonal tests for the woman at the same time gives the doctor the full picture faster, and most specialist clinics expect to see both results before making any recommendations."
+        },
+        {
+          "q": "Does body weight affect fertility?",
+          "a": "Yes, in both directions. Obesity disrupts ovulation regularity, reduces egg quality and is associated with difficulty conceiving and increased pregnancy complications. Significant underweight also suppresses ovulation. Moving toward a healthy body weight range often improves fertility substantially before any medical treatment is started."
+        },
+        {
+          "q": "How long does a complete fertility evaluation take?",
+          "a": "The core evaluation for a woman can usually be completed within one to two menstrual cycles: hormonal tests at the start, ovulation monitoring in the middle, and the semen analysis for her partner at any convenient point. Structural tests such as the HSG or laparoscopy are added based on what the initial results suggest."
+        }
+      ]
+    }
+  }
+}

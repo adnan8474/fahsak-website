@@ -1,0 +1,387 @@
+{
+  "slug": "eye-strain-screens",
+  "category": "lifestyle",
+  "chip_ar": "نمط الحياة",
+  "chip_en": "Lifestyle",
+  "date_iso": "2026-07-14",
+  "sources": [
+    {
+      "label": "Kaur K, Gurnani B, Nayak S et al: Digital Eye Strain- A Comprehensive Review, Ophthalmology and therapy, 2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35809192/"
+    },
+    {
+      "label": "Talens-Estarelles C, Cervino A, Garcia-Lazaro S et al: The effects of breaks on digital eye strain, dry eye and binocular vision: Testing the 20-20-20 rule, Contact lens and anterior eye, 2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35963776/"
+    },
+    {
+      "label": "Zougheib Y, Salameh N, Slim A et al: Effect of screen time and outdoor activities on myopia progression, PloS one, 2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42102046/"
+    },
+    {
+      "label": "Pardhan S, Parkin J, Trott M et al: Risks of Digital Screen Time and Recommendations for Mitigating Adverse Outcomes in Children and Adolescents, The Journal of school health, 2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35253225/"
+    },
+    {
+      "label": "Bozzola E, Irrera M, Hellmann R et al: Media Device Use and Vision Disorders in the Pediatric Age: The State of the Art, Children (Basel, Switzerland), 2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39594982/"
+    },
+    {
+      "label": "Kamoy B, Magno M, Noland ST et al: Video display terminal use and dry eye: preventive measures and future perspectives, Acta ophthalmologica, 2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35122403/"
+    }
+  ],
+  "content": {
+    "ar": {
+      "title": "إجهاد العينين والشاشات: ماذا تفعل بعينيك؟",
+      "desc": "تعرف على أسباب إجهاد العينين من الشاشات وقصر النظر عند الأطفال، وقاعدة 20-20-20، ونصائح الإضاءة، ومتى تزور طبيب العيون.",
+      "keywords": "إجهاد العينين, الشاشات, قصر النظر, قاعدة 20-20-20, جفاف العين, رؤية الأطفال, شاشة الحاسوب, متلازمة رؤية الحاسوب, تمارين العين, فحص النظر",
+      "h1": "إجهاد العينين من الشاشات: الأسباب والعلاج ورؤية أطفالك",
+      "takeaways": [
+        "الجلوس أمام الشاشة لساعات طويلة يقلل من معدل الرمش ويسبب جفاف العين والإجهاد البصري.",
+        "قاعدة 20-20-20 مفيدة: كل 20 دقيقة انظر لمسافة 20 قدما لمدة 20 ثانية.",
+        "الأطفال الذين يقضون وقتا أطول في الهواء الطلق يصابون بقصر النظر بنسبة أقل.",
+        "الإضاءة الجيدة وضبط سطوع الشاشة وبعد المسافة المناسب تخفف الإجهاد بشكل ملحوظ.",
+        "إذا لاحظت طفلك يحدق أو يقرب الأشياء من عينيه، فلا تؤجل زيارة طبيب العيون."
+      ],
+      "sections": [
+        {
+          "h2": "ما هو إجهاد العينين من الشاشات؟",
+          "paras": [
+            "إجهاد العينين الرقمي، الذي يعرفه كثيرون بمتلازمة رؤية الحاسوب (Computer Vision Syndrome)، هو مجموعة من الأعراض التي تظهر بعد استخدام مطول للشاشات سواء كانت هاتفا أو حاسوبا أو تلفازا أو لوحة إلكترونية. وتشمل هذه الأعراض الشعور بثقل في العينين أو حرقة فيهما، وصداعا في مقدمة الرأس أو الجبهة، وضبابية في الرؤية بعد جلسات العمل، فضلا عن ألم في الرقبة والكتفين.",
+            "لا يعني هذا الإجهاد أن عينيك مريضتان أو أن الشاشات تتلف العيون بشكل دائم. الأمر أشبه بتعب العضلة بعد مجهود مفرط. غير أن تكرار هذا الإجهاد يوميا وعدم الاهتمام بأسبابه يجعل الأعراض أشد وأطول، وقد يكشف عن مشكلة في النظر كانت موجودة لكنها لم تكن واضحة قبل ازدياد استخدام الشاشات.",
+            "مراجعة نُشرت عام 2022 في مجلة Ophthalmology and Therapy بعنوان 'Digital Eye Strain' للباحثين Kaur وزملائه تشير إلى أن إجهاد العينين الرقمي بات من أكثر المشكلات البصرية شيوعا في العالم، مع تصاعد ملحوظ خلال السنوات الأخيرة بسبب ارتفاع ساعات الاستخدام."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "warn",
+            "title": "أعراض إجهاد العينين الرقمي",
+            "items": [
+              "حرقة أو حكة في العينين",
+              "رؤية ضبابية بعد العمل على الشاشة",
+              "صداع في مقدمة الرأس أو الجبهة",
+              "ألم في الرقبة والكتفين",
+              "حساسية مفرطة للضوء",
+              "صعوبة التركيز بعد ساعات من العمل"
+            ]
+          }
+        },
+        {
+          "h2": "لماذا تتعب العينان أمام الشاشة؟",
+          "paras": [
+            "السبب الرئيسي هو تراجع معدل الرمش. في الأحوال العادية يرمش الإنسان نحو 15 مرة في الدقيقة، وهو ما يوزع الدموع على سطح العين ويحافظ على رطوبتها. أثناء التحديق في الشاشة ينخفض معدل الرمش أحيانا إلى النصف أو أقل، مما يسبب جفاف العين والشعور بالحرقة.",
+            "عامل آخر هو العمل البصري المستمر على مسافة ثابتة. عضلات العين تعمل كي تحافظ على وضوح الصورة عند مسافة قصيرة لفترات طويلة دون راحة، وهذا يشبه حمل ثقل بذراع ممدودة، ستتعب العضلة في النهاية. يُضاف إلى ذلك الوهج والانعكاسات من الشاشة أو مصادر الضوء خلفها، والتباين الزائد بين سطوع الشاشة وإضاءة الغرفة.",
+            "كذلك تلعب جودة الشاشة دورا، إذ إن الشاشات القديمة أو ذات دقة الصورة المنخفضة تجبر العينين على بذل مجهود أكبر لتكوين صورة واضحة. وتؤدي المسافة غير المناسبة بين العين والشاشة إلى مزيد من الإرهاق."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "ضبط بيئة العمل أمام الشاشة",
+            "items": [
+              "ضع الشاشة على بعد 50 إلى 70 سنتيمترا من عينيك، تقريبا طول ذراعك",
+              "اجعل الجزء العلوي من الشاشة في مستوى عينيك أو أسفل قليلا",
+              "قلل الانعكاسات بتجنب وضع الشاشة أمام نافذة أو مصدر ضوء مباشر",
+              "اضبط سطوع الشاشة ليكون قريبا من سطوع الغرفة، لا أشد منه",
+              "استخدم وضع الألوان الدافئة في المساء لتقليل الضوء الأزرق"
+            ]
+          }
+        },
+        {
+          "h2": "قاعدة 20-20-20: هل تنجح فعلا؟",
+          "paras": [
+            "تنص القاعدة على أنك كل 20 دقيقة من العمل على الشاشة، تنظر إلى شيء على بعد 20 قدما (نحو 6 أمتار) لمدة 20 ثانية. الفكرة بسيطة: هذه المسافة تجبر عضلات العين على الاسترخاء التام من وضعية التركيز القريب.",
+            "دراسة نُشرت عام 2023 في مجلة Contact Lens and Anterior Eye بعنوان 'The effects of breaks on digital eye strain' للباحثين Talens-Estarelles وزملائهم أثبتت أن أخذ فترات راحة منتظمة أثناء العمل على الشاشة يقلل من أعراض الجفاف والإجهاد البصري بشكل ملموس. القاعدة لا تعالج مشكلة موجودة في النظر، لكنها تخفف التعب المتراكم وتحمي من الأعراض اليومية.",
+            "الطريقة الأسهل لتطبيق القاعدة في ظروف العمل المنزلية أو المكتبية هي ضبط تنبيه كل 20 دقيقة، أو استغلال أي فاصل طبيعي كالرد على رسالة أو شرب الماء لاستراحة قصيرة تنظر فيها بعيدا. لا يحتاج الأمر إلى توقف مطول، بل إلى انقطاع منتظم عن التركيز القريب."
+          ]
+        },
+        {
+          "h2": "قصر النظر عند الأطفال: هل الشاشات السبب الوحيد؟",
+          "paras": [
+            "قصر النظر (Myopia)، أي صعوبة رؤية الأشياء البعيدة، ينتشر بسرعة كبيرة بين أطفال العالم ومنهم أطفال المنطقة العربية. والشاشات جزء من الصورة، لكنها ليست القصة كلها.",
+            "دراسة نُشرت عام 2026 في مجلة PloS One بعنوان 'Effect of screen time and outdoor activities on myopia progression' للباحثين Zougheib وزملائهم أظهرت أن قضاء وقت أطول في الهواء الطلق ارتبط بتباطؤ تطور قصر النظر. الضوء الطبيعي بشدته العالية يحفز آليات في العين تبطئ نموها الزائد، وهو ما يُعتقد أنه السبب الرئيسي للوقاية.",
+            "التوصية الحالية لأطباء العيون هي أن يقضي الأطفال ما لا يقل عن ساعتين يوميا في الهواء الطلق في ضوء النهار الطبيعي، بغض النظر عن مقدار ما يشاهدونه على الشاشات في المنزل. هذا لا يعني أن الشاشات غير ضارة، لكن الوقاية الأفعل تأتي من زيادة التعرض للضوء الطبيعي وليس فقط من تقليل الشاشات."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "عوامل تزيد من خطر قصر النظر عند الأطفال",
+            "head": ["العامل", "التأثير", "ما يمكن فعله"],
+            "rows": [
+              ["قراءة على مسافة قريبة جدا", "يرهق عضلات عدسة العين", "احرص على مسافة لا تقل عن 30 سم"],
+              ["قلة الوقت في الهواء الطلق", "يحرم العين من الضوء الطبيعي", "ساعتان يوميا في ضوء النهار"],
+              ["تاريخ عائلي لقصر النظر", "عامل وراثي لا يمكن تغييره", "الكشف المبكر وفحوصات منتظمة"],
+              ["شاشات في العتمة", "يزيد التباين ويرهق العين", "لا تستخدم الشاشات في الغرفة المظلمة"]
+            ]
+          }
+        },
+        {
+          "h2": "جفاف العين: متى تستخدم قطرات الترطيب؟",
+          "paras": [
+            "جفاف العين أحد أكثر أعراض إجهاد الشاشات شيوعا، وتشعر به كحرقة أو رمل في العين أو ضبابية متقطعة. مراجعة نُشرت عام 2022 في مجلة Acta Ophthalmologica بعنوان 'Video display terminal use and dry eye' للباحثين Kamoy وزملائهم تؤكد أن الاستخدام المطول للشاشات يقلل معدل الرمش ويرتبط ارتباطا مباشرا بأعراض جفاف العين.",
+            "قطرات الترطيب المعروفة بالدموع الاصطناعية (Artificial Tears) متوفرة في الصيدليات دون وصفة طبية وتوفر راحة مؤقتة آمنة. اختر نوعا خاليا من المواد الحافظة إن كنت ستستخدمه أكثر من أربع مرات يوميا. لكن تذكر أن القطرات تعالج الأعراض لا السبب، فإن استمرت الأعراض بعد تحسين بيئة العمل فاستشر طبيب عيون.",
+            "من الأخطاء الشائعة استخدام قطرات احتقان العين الحمراء (التي تحتوي على مضيق للأوعية) بشكل منتظم. هذه القطرات مخصصة للاستخدام المؤقت، واستخدامها المطول قد يسبب احتقانا أشد عند توقفك عنها."
+          ]
+        },
+        {
+          "h2": "الأطفال والشاشات: التوصيات الآمنة",
+          "paras": [
+            "مراجعة نُشرت عام 2024 في مجلة Children بعنوان 'Media Device Use and Vision Disorders in the Pediatric Age' للباحثين Bozzola وزملائهم توصي بأن الأطفال دون عمر السنتين لا ينبغي أن يتعرضوا للشاشات بشكل معتاد، وأن الأطفال بين عامين وخمس سنوات يُحدد استخدامهم بساعة واحدة يوميا في الحد الأقصى مع وجود الوالدين. أما فوق خمس سنوات فالتوصية تركز على نوعية المحتوى والتوازن مع النشاط البدني والنوم الكافي أكثر من التحديد الصارم بالدقائق.",
+            "من الناحية العملية في المنازل العربية حيث التلفاز يعمل بشكل شبه مستمر وقد يكون الهاتف الترفيه الوحيد المتاح، الهدف الواقعي ليس الإلغاء التام بل وضع حدود زمنية واضحة، وضمان فترات يلعب فيها الطفل بدون شاشات وخاصة في الهواء الطلق.",
+            "علامات تستوجب زيارة طبيب العيون: طفلك يجلس قريبا جدا من التلفاز، أو يحرك كتابه أو هاتفه قريبا من وجهه جدا، أو يشكو من صداع بعد القراءة، أو يحدق ويطبق إحدى عينيه لرؤية أوضح."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "علامات تستوجب فحص عيني عاجل للطفل",
+            "items": [
+              "يجلس قريبا جدا من الشاشة أو يحمل الكتاب قريبا جدا من وجهه",
+              "يطبق إحدى عينيه ليرى بشكل أوضح",
+              "يشكو من صداع أو ألم في العين بعد القراءة",
+              "يتعثر في درجات السلم أو يصطدم بالأشياء",
+              "ملاحظة انحراف في إحدى العينين عن الأخرى"
+            ]
+          }
+        },
+        {
+          "h2": "متى تزور طبيب العيون؟",
+          "paras": [
+            "إجهاد العينين اليومي الخفيف يتحسن مع تغيير عادات الاستخدام وتحسين بيئة العمل. لكن هناك حالات تستوجب الفحص: إذا استمرت الأعراض رغم الراحة وتطبيق التوصيات، أو إذا لاحظت ضبابية في الرؤية تستمر بعد انتهاء العمل على الشاشة، أو إذا كنت تشعر بألم في العين وليس فقط تعبا فيها.",
+            "كذلك إذا كنت تستخدم نظارات أو عدسات لاصقة وتشعر أن قوتها لم تعد كافية، أو إذا تجاوزت الأربعين ولاحظت صعوبة في التبديل بين التركيز على الشاشة والقراءة، فهذه قد تكون بداية طول النظر الشيخوخي (Presbyopia) الذي يحتاج تعديل النظارة.",
+            "فحص العيون الدوري مرة كل سنة إلى سنتين مناسب للبالغين بوجه عام، وسنويا لمن يعانون من أمراض مزمنة كالسكري الذي قد يؤثر على أوعية الشبكية. تذكر أن كثيرا من مشكلات النظر يمكن تصحيحها بسهولة إذا اكتُشفت مبكرا، ولا مبرر للتهاون بفحص منتظم يستغرق أقل من نصف ساعة.",
+            "اضطرابات الانكسار غير المشخصة مثل طول النظر الخفيف واللابؤرية (Astigmatism) هي سبب خفي شائع للصداع المزمن وتعب العينين عند الأشخاص الذين يقضون ساعات طويلة أمام الشاشات. إذا لم تُجرِ فحصا للنظر من قبل أو مرت أكثر من سنتين على آخر فحص، فهذا في الغالب أسرع خطوة يمكنك اتخاذها للتحسن. تغيير بسيط في قوة النظارة يمكن أن يقلل الأعراض اليومية بشكل ملحوظ."
+          ]
+        },
+        {
+          "h2": "حماية عينيك في بيئة العمل الرقمي",
+          "paras": [
+            "في كثير من المنازل والمكاتب في المنطقة العربية، لا تقتصر الشاشة الواحدة بل نجد أنفسنا أمام حاسوب محمول وهاتف وتلفاز في الوقت نفسه. هذا التراكم من المصادر البصرية يزيد الحمل على العينين بشكل أكبر مما يظهر من أي شاشة منفردة. من المفيد تحديد شاشة واحدة رئيسية للعمل وتصغير باقي الشاشات أو إغلاقها خلال جلسات التركيز.",
+            "الأشخاص الذين يعانون من مشكلات في النظر كقصر النظر أو بُعد النظر أو اللابؤرية (Astigmatism) ولا يرتدون نظارتهم أثناء العمل على الشاشة يتعرضون لإجهاد مضاعف لأن العين تبذل مجهودا إضافيا للحصول على صورة واضحة. ارتداء النظارة المناسبة أثناء العمل على الشاشة ليس كماليا بل ضروري.",
+            "الإضاءة في الغرفة تُفرق كثيرا. العمل أمام شاشة ساطعة في غرفة مظلمة يخلق تباينا حادا يجهد العين بسرعة. بالمقابل إضاءة قوية جدا خلف الشاشة تخلق وهجا يعكس من سطح الشاشة ويصعب الرؤية. الهدف هو إضاءة متوازنة تجعل الغرفة مضاءة بشكل مريح دون انعكاسات على الشاشة."
+          ]
+        },
+        {
+          "h2": "نصائح عملية للعمل من المنزل",
+          "paras": [
+            "انتشر العمل عن بُعد بشكل كبير في السنوات الأخيرة، وهو ما يعني ساعات أكثر أمام الشاشة. الفرق بين العمل المريح والمؤلم يكمن في التفاصيل: ارتفاع الكرسي بحيث قدماك مستوية على الأرض، وارتفاع الشاشة بحيث رقبتك مستقيمة لا منحنية للأسفل أو الأعلى.",
+            "الإضاءة الجيدة للغرفة تقلل من التباين الشديد بين سطوع الشاشة والظلام حولها، وهذا التباين هو أحد أسباب التعب. لا تعمل في الظلام التام مع شاشة ساطعة. استخدام وضع الألوان الدافئة (Night mode أو Blue Light Filter) في المساء لا يقي من إجهاد العين نفسه لكنه يقلل من تأثير الضوء الأزرق على النوم.",
+            "وضع ورقة للاحظات بجانب شاشتك تذكرك بالرمش بوعي بين الحين والآخر يساعد بشكل مفاجئ، فكثير منا ننسى تماما أننا نكاد لا نرمش أثناء التركيز. كذلك كوب الماء على المكتب يذكرك بالشرب وبأن تأخذ استراحة قصيرة.",
+            "من الأنماط الضارة الشائعة في المنطقة هي تصفح الهاتف في الفراش قبل النوم في الظلام التام. هذا يجمع بين أسوأ العوامل: مسافة قريبة جدا وتباين حاد بين الشاشة والمحيط المظلم ووضعية غير مريحة للرقبة. تجنب الشاشات ساعة قبل النوم يصلح جودة نومك كذلك وليس فقط عينيك."
+          ],
+          "visual": {
+            "type": "timeline",
+            "title": "جدول العمل المريح للعينين",
+            "items": [
+              {"when": "كل 20 دقيقة", "what": "انظر لمسافة 6 أمتار لمدة 20 ثانية (قاعدة 20-20-20)"},
+              {"when": "كل ساعة", "what": "قم من مكانك دقيقتين ومد نظرك للخارج إن أمكن"},
+              {"when": "كل ساعتين", "what": "استراحة أطول بعيدا عن أي شاشة، افعل شيئا آخر"},
+              {"when": "نهاية اليوم", "what": "تجنب الشاشات ساعة قبل النوم لتحسين جودة النوم"}
+            ]
+          }
+        }
+      ],
+      "tie": "في تطبيق صحتك يمكنك تسجيل أعراض عينيك اليومية وتتبعها مع الوقت، وضبط تذكيرات راحة العين أثناء العمل على الشاشة. إذا لاحظت تغيرا في رؤيتك أو رؤية طفلك فسجله مع التاريخ لتأخذه معك إلى طبيب العيون.",
+      "faqs": [
+        {
+          "q": "هل الشاشات تُتلف العين بشكل دائم؟",
+          "a": "الأدلة المتوفرة حتى الآن لا تشير إلى أن الشاشات تتلف أنسجة العين بشكل دائم لدى البالغين. الإجهاد الذي تسببه مزعج لكنه عكوس مع الراحة. المشكلة الأكثر قلقا لدى الأطفال هي دورها في تطور قصر النظر، وهذا ما يحتاج متابعة حقيقية."
+        },
+        {
+          "q": "هل نظارات حجب الضوء الأزرق تفيد؟",
+          "a": "الدليل على فوائدها لتقليل إجهاد العين ضعيف حتى الآن. ما تفعله فعلا هو تقليل انزعاج بعض الأشخاص الحساسين جدا للضوء. إذا وجدت فيها راحة فيمكنك استخدامها، لكنها ليست الحل الأساسي لمشكلة إجهاد العين."
+        },
+        {
+          "q": "ما المسافة الصحيحة بين العين والهاتف؟",
+          "a": "المسافة الموصى بها للهاتف هي لا تقل عن 30 سنتيمترا، ولحاسوب المكتب 50 إلى 70 سنتيمترا. كلما صغر الجهاز كلما ميلنا لتقريبه، وهذا يزيد إجهاد العضلات البصرية."
+        },
+        {
+          "q": "كم ساعة شاشة تسمح لطفلي في اليوم؟",
+          "a": "الإرشادات الطبية الحالية تنصح بساعة واحدة كحد أقصى للأطفال بين سنتين وخمس سنوات، مع التركيز على نوعية المحتوى ووجود أحد الوالدين. للأطفال الأكبر التوصية هي التوازن مع النشاط البدني والنوم الكافي وقضاء ساعتين في الهواء الطلق."
+        },
+        {
+          "q": "هل يمكن تحسين قصر النظر بالتمارين؟",
+          "a": "لا تغير تمارين العين من درجة قصر النظر الموجودة. القصر الحقيقي يحتاج نظارة أو عدسات لاصقة أو تدخلا جراحيا بحسب الحالة. التمارين والراحة تخفف الإجهاد اليومي لكنها لا تعالج قصر النظر."
+        },
+        {
+          "q": "متى يبدأ فحص عيون الطفل؟",
+          "a": "الفحص الأول يُوصى به بين عمر ثلاث وأربع سنوات قبل دخول المدرسة، حتى لو لم تلاحظ مشكلة. ثم يتكرر في بداية المرحلة الابتدائية، ثم حسب توصية الطبيب. بعض الأطفال يعوضون قصر النظر بشكل يجعل أهلهم لا يلاحظون المشكلة."
+        },
+        {
+          "q": "هل الضوء الطبيعي يحمي من قصر النظر فعلا؟",
+          "a": "نعم، الأدلة العلمية المتزايدة تؤكد أن الأطفال الذين يقضون وقتا أطول في الهواء الطلق خلال النهار يصابون بقصر النظر بنسبة أقل. يُعتقد أن الضوء الطبيعي يحفز مادة الدوبامين في شبكية العين مما يبطئ النمو الزائد لمقلة العين."
+        }
+      ]
+    },
+    "en": {
+      "title": "Eye Strain, Screens and Children's Vision: What You Need to Know",
+      "desc": "Find out what digital eye strain is, how the 20-20-20 rule works, why outdoor time matters for myopia, and when to get a vision check for your child.",
+      "keywords": "digital eye strain, screen time, myopia children, 20-20-20 rule, dry eye, computer vision syndrome, children vision, eye exercises, myopia prevention, blue light",
+      "h1": "Eye Strain from Screens: Causes, Relief and What It Means for Your Children's Sight",
+      "takeaways": [
+        "Staring at a screen for hours cuts your blink rate by half, drying the eye surface and causing tiredness, headaches and blurred vision.",
+        "The 20-20-20 rule works: every 20 minutes, look at something 20 feet away for 20 seconds.",
+        "Children who spend two or more hours a day outdoors in natural daylight have slower myopia progression.",
+        "Good room lighting, correct screen distance and regular breaks fix most day-to-day digital eye strain.",
+        "If your child squints, holds books very close, or complains of headaches after reading, book a sight test now."
+      ],
+      "sections": [
+        {
+          "h2": "What is digital eye strain?",
+          "paras": [
+            "Digital eye strain, also called computer vision syndrome, is a cluster of symptoms that build up during extended use of screens, whether a phone, computer, tablet or television. The symptoms include heaviness or burning in the eyes, a dull headache across the forehead, blurred vision that comes and goes during or after screen work, and aching in the neck and shoulders.",
+            "These symptoms do not mean your eyes are damaged. Think of it like muscle fatigue: the eye muscles are held in one position for too long without rest, and they protest. A 2022 review published in Ophthalmology and Therapy, titled 'Digital Eye Strain: A Comprehensive Review' by Kaur, Gurnani and colleagues, confirmed that digital eye strain has become one of the most common visual complaints globally, with rates rising sharply alongside screen hours.",
+            "The important distinction is between transient discomfort, which is very common and manageable, and persistent symptoms that point to an underlying refractive problem. If your vision is blurry even when you are not at a screen, that is worth investigating rather than waiting."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "warn",
+            "title": "Symptoms of digital eye strain",
+            "items": [
+              "Burning or itching eyes after screen use",
+              "Blurred or double vision mid-session",
+              "Headache across the brow or temples",
+              "Neck and shoulder pain",
+              "Increased light sensitivity",
+              "Difficulty refocusing after long screen sessions"
+            ]
+          }
+        },
+        {
+          "h2": "Why do your eyes get tired in front of a screen?",
+          "paras": [
+            "The main reason is reduced blinking. Under normal conditions, a person blinks about 15 times per minute. That rate can halve when you are focused on a screen, leaving the eye surface exposed and drying out. Research published in Acta Ophthalmologica in 2022, titled 'Video display terminal use and dry eye' by Kamoy and colleagues, confirmed a direct link between prolonged screen work and dry eye symptoms driven by this reduced blink rate.",
+            "A second factor is sustained near focus. The small ciliary muscles inside the eye hold the lens in a contracted shape when you look at something close. Holding that contraction for hours without release causes the same fatigue as holding your arm out straight for an extended period. Add to that glare from the screen surface, reflections from windows behind you, and a brightness contrast between the bright screen and a dim room, and you have several stresses combining.",
+            "Screen quality matters too. Older monitors with low refresh rates or low resolution force the visual system to work harder to build a stable image. Correct screen distance, roughly 50 to 70 centimetres for a desk monitor, is one of the simplest fixes."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "Setting up your screen position correctly",
+            "items": [
+              "Place the screen 50 to 70 centimetres from your eyes, roughly one arm's length",
+              "Position the top of the screen at or just below eye level so your neck stays straight",
+              "Eliminate glare: do not sit with a window directly behind the screen",
+              "Match screen brightness to room brightness so there is no harsh contrast",
+              "Use a warm colour setting in the evening to reduce blue light before sleep"
+            ]
+          }
+        },
+        {
+          "h2": "Does the 20-20-20 rule actually work?",
+          "paras": [
+            "The 20-20-20 rule asks you to look away from your screen every 20 minutes at an object at least 20 feet (about 6 metres) away for 20 seconds. That distance is enough for the ciliary muscles to fully relax from their near-focus contraction, which is what provides the relief.",
+            "A 2023 study published in Contact Lens and Anterior Eye, titled 'The effects of breaks on digital eye strain, dry eye and binocular vision: Testing the 20-20-20 rule' by Talens-Estarelles and colleagues, showed that regular breaks during screen work measurably reduced both dry eye symptoms and visual discomfort compared to continuous work without breaks. The rule does not correct an existing prescription problem, but it does meaningfully reduce the daily fatigue load.",
+            "In practice, the easiest way to apply it is to set a phone timer or use a screen break app. Any natural pause, finishing a task, getting up for water, even a brief conversation, can double as your 20-second break if you use it to look across the room or out a window."
+          ]
+        },
+        {
+          "h2": "Myopia in children: is it the screens or something else?",
+          "paras": [
+            "Myopia, the inability to see distant objects clearly, is increasing rapidly in children worldwide, including in the Arab region. Screen time is part of the picture, but the evidence points to a more specific cause: lack of time outdoors in natural light.",
+            "A 2026 study published in PloS One, titled 'Effect of screen time and outdoor activities on myopia progression' by Zougheib, Salameh and colleagues, found that greater time spent outdoors was associated with slower progression of myopia. Natural daylight is bright at an intensity that indoor lighting, including screens, simply cannot match, and that intensity appears to stimulate a dopamine-related protective mechanism in the developing retina that slows excessive eye growth.",
+            "The practical message for families is that the most effective single action to protect your child's distance vision is ensuring two or more hours of time outside in daylight every day. That is more protective than banning screens outright, though reducing prolonged near work is also sensible."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Risk factors for myopia progression in children",
+            "head": ["Risk factor", "Effect", "What to do"],
+            "rows": [
+              ["Little time outdoors", "Removes key protective stimulus", "At least 2 hours a day in daylight"],
+              ["Reading very close to face", "Sustained near focus stress", "Keep books and screens 30 cm or more away"],
+              ["Family history of myopia", "Genetic predisposition", "Earlier and more frequent sight tests"],
+              ["Screen use in dark rooms", "High contrast adds to strain", "Keep room lighting on while using screens"]
+            ]
+          }
+        },
+        {
+          "h2": "Dry eye: when do you need lubricating drops?",
+          "paras": [
+            "Dry eye is among the most common screen-related complaints. You may feel it as a gritty sensation, burning, or vision that briefly blurs and then clears when you blink. Artificial tear drops, sold without prescription at any pharmacy, provide safe temporary relief. Choose a preservative-free formulation if you plan to use them more than four times a day, as preservatives can irritate the eye surface over time.",
+            "Drops treat the symptom, not the cause. If improving your screen habits and environment does not help within a week or two, see an eye doctor. Persistent dry eye can have causes unrelated to screens, including some medicines, hormonal changes and autoimmune conditions, that benefit from specific treatment.",
+            "One common mistake is reaching for eye drops marketed for red eyes, which contain vasoconstrictors to shrink blood vessels. These are for occasional use only. Used regularly, they cause rebound redness when you stop, leaving eyes redder than before."
+          ]
+        },
+        {
+          "h2": "Screen guidance for children: practical limits",
+          "paras": [
+            "A 2024 review published in Children (Basel), titled 'Media Device Use and Vision Disorders in the Pediatric Age' by Bozzola and colleagues, recommends avoiding screen exposure for children under two years except for live video calls, limiting use to one hour per day for children aged two to five, and for older children focusing on content quality and balance with physical activity and sleep rather than imposing a strict minute count.",
+            "In many Arab households, the television is on for much of the day, a smartphone is often the only available entertainment, and strict limits are hard to enforce. A realistic approach is setting clear no-screen periods, particularly before bedtime and during meals, and making outdoor play a daily priority rather than an occasional treat.",
+            "A 2022 study in The Journal of School Health by Pardhan and colleagues found that children who exceeded two hours of recreational screen time daily had significantly higher rates of visual symptoms. The key variable was recreational screen time, not educational use, though combined totals still matter."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "Signs your child needs a sight test now",
+            "items": [
+              "Sitting very close to the television or holding books right up to the face",
+              "Closing or covering one eye to see more clearly",
+              "Headaches or eye pain after reading or homework",
+              "Tripping on steps, bumping into furniture, poor hand-eye coordination",
+              "One eye appearing to turn in or out"
+            ]
+          }
+        },
+        {
+          "h2": "When should you see an eye doctor?",
+          "paras": [
+            "Mild daily eye strain that settles overnight with rest and improves when you change your habits usually does not need a clinic visit. See an eye doctor if symptoms persist despite rest and environmental changes, if blurriness continues after you stop using a screen, if you feel actual pain in the eye rather than surface tiredness, or if you notice any change in the quality of your vision that does not correct with blinking.",
+            "If you are over 40 and finding it harder to switch focus between the screen and a paper on your desk, this is likely the beginning of presbyopia, the normal age-related loss of near focus, rather than eye strain. A corrective lens or reading glasses prescribed by an optometrist will help far more than any screen adjustment.",
+            "For adults without existing eye conditions, a full sight test every one to two years is appropriate. For those with diabetes or any condition affecting blood vessels, annual retinal checks are important regardless of screen habits. Many vision problems are entirely correctable when caught early, and there is no sensible reason to delay a check that takes less than half an hour."
+          ]
+        },
+        {
+          "h2": "Protecting your eyes in a multi-screen world",
+          "paras": [
+            "Most people today are not dealing with one screen but with several at once. A laptop open, a phone face-up beside it, and a television on across the room creates a combined visual load that is far greater than any single source. Where possible, keep one primary screen active during focus work and minimise or turn away from the others. The habit of checking the phone every few minutes during computer work prevents the visual system from ever getting a sustained break.",
+            "People who need glasses or contact lenses for distance or near vision but do not wear them at the screen are subjecting their eyes to unnecessary extra work. The eye muscles are constantly straining to compensate for an optical mismatch. Wearing the correct prescription during screen work, including reading glasses for those who need them, removes a significant portion of the daily fatigue load.",
+            "Refractive errors that go undiagnosed for years, particularly mild long-sightedness and astigmatism, are a common hidden cause of chronic headaches and eye fatigue in people who spend long hours at screens. If you have never had a formal sight test as an adult or have not had one in more than two years, that is often the quickest win available. A small prescription change can dramatically reduce daily symptoms."
+          ]
+        },
+        {
+          "h2": "Practical habits for working from home",
+          "paras": [
+            "Remote working has increased the average number of screen hours dramatically. The difference between a comfortable workday and a painful one often comes down to small setup details: chair height so your feet rest flat on the floor, screen height so your neck is straight, and enough desk depth to keep the monitor at arm's length.",
+            "Good ambient lighting matters more than most people realise. Working with a very bright screen in a near-dark room creates a harsh contrast that exhausts the visual system. Matching the room brightness to the screen brightness is one of the simplest and most effective changes you can make.",
+            "A glass of water on your desk serves double duty: it reminds you to drink, reducing the mild dehydration that worsens dry eye, and it gives you a natural reason to get up and move every hour. Physical movement during your screen breaks is better for your whole body than a break where you pick up your phone."
+          ],
+          "visual": {
+            "type": "timeline",
+            "title": "A screen-friendly daily work pattern",
+            "items": [
+              {"when": "Every 20 minutes", "what": "Look at something 6 metres away for 20 seconds"},
+              {"when": "Every hour", "what": "Stand up, move around for 2 minutes, look out a window"},
+              {"when": "Every 2 hours", "what": "A longer break away from any screen"},
+              {"when": "1 hour before bed", "what": "Stop screens to protect sleep quality"}
+            ]
+          }
+        }
+      ],
+      "tie": "In Sihtak you can log daily eye symptoms and track them over time, set regular reminders to take screen breaks, and note any changes in your child's vision alongside the date. This gives you a clear picture to share with an eye doctor if a clinic visit becomes necessary.",
+      "faqs": [
+        {
+          "q": "Do screens permanently damage your eyes?",
+          "a": "Current evidence does not show that screens cause permanent tissue damage in adults. The fatigue is real but reversible with rest and better habits. The more serious concern in children is myopia progression, which can be slowed with outdoor time and good habits but not fully reversed once it develops."
+        },
+        {
+          "q": "Do blue light glasses reduce eye strain?",
+          "a": "The evidence for blue light glasses reducing eye strain is weak. They may reduce some discomfort for people who are sensitive to light, but they are not the core solution. Breaks, correct screen distance and good room lighting do more. Blue light filtering on your screen settings at night has a better case for protecting sleep quality than for protecting eyes."
+        },
+        {
+          "q": "How far should a phone be held from the face?",
+          "a": "At least 30 centimetres. The smaller the device, the more we tend to hold it close, which increases the near-focus load on the ciliary muscles. If you find yourself holding your phone at arm's length or pushing it away to see text clearly, this may mean you need reading glasses."
+        },
+        {
+          "q": "How much screen time is safe for children?",
+          "a": "Current guidance suggests avoiding screens for children under two, limiting use to one hour a day between ages two and five, and for older children focusing on balance with physical activity, sleep and face-to-face interaction rather than a strict minute count. Two hours of daily outdoor time in natural daylight is as important as any screen limit."
+        },
+        {
+          "q": "Can eye exercises correct myopia?",
+          "a": "No. Eye exercises do not change the degree of existing myopia. True myopia, where the eyeball has grown too long, requires glasses, contact lenses or refractive surgery depending on the degree and age. Exercises and breaks reduce daily fatigue but cannot reshape the eye."
+        },
+        {
+          "q": "When should a child have their first sight test?",
+          "a": "A first sight test is recommended between ages three and four, before starting school, even if you have not noticed a problem. Children often adapt to poor vision in ways that make it hard for parents to spot. Early detection allows treatment before it affects school performance."
+        },
+        {
+          "q": "Does outdoor time really protect against myopia?",
+          "a": "Yes. Growing evidence shows that children who spend at least two hours a day outdoors in natural daylight develop myopia at lower rates and progress more slowly. Natural light levels are far higher than any indoor light source including screens, and that intensity appears to trigger a protective response in the developing eye."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,375 @@
+{
+  "slug": "preeclampsia-warning-signs",
+  "category": "womens-health",
+  "chip_ar": "صحة المراة",
+  "chip_en": "Women's Health",
+  "date_iso": "2026-08-05",
+  "sources": [
+    {
+      "label": "Mol BWJ, Roberts CT, Thangaratinam S et al: Pre-eclampsia, Lancet (London, England), 2016",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26342729/"
+    },
+    {
+      "label": "Rana S, Lemoine E, Granger JP et al: Preeclampsia: Pathophysiology, Challenges, and Perspectives, Circulation research, 2019",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30920918/"
+    },
+    {
+      "label": "Magee LA, Brown MA, Hall DR et al: The 2021 International Society for the Study of Hypertension in Pregnancy classification, diagnosis and management recommendations for international practice, Pregnancy hypertension, 2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35066406/"
+    },
+    {
+      "label": "Rolnik DL, Wright D, Poon LC et al: Aspirin versus Placebo in Pregnancies at High Risk for Preterm Preeclampsia, The New England journal of medicine, 2017",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28657417/"
+    },
+    {
+      "label": "Duley L: The global impact of pre-eclampsia and eclampsia, Seminars in perinatology, 2009",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19464502/"
+    },
+    {
+      "label": "Poon LC, Shennan A, Hyett JA et al: The International Federation of Gynecology and Obstetrics (FIGO) initiative on pre-eclampsia: A pragmatic guide for first-trimester screening and prevention, International journal of gynaecology and obstetrics, 2019",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31111484/"
+    }
+  ],
+  "content": {
+    "ar": {
+      "title": "تسمم الحمل: أعراض ضغط الدم الخطرة",
+      "desc": "دليل شامل لتسمم الحمل (Preeclampsia): الأعراض التحذيرية التي لا يجب تجاهلها، حدود ضغط الدم الخطرة، وما يجب فعله قبل وصول الطبيب.",
+      "keywords": "تسمم الحمل, preeclampsia عربي, ضغط دم الحامل, أعراض تسمم الحمل, صداع الحمل خطير, وذمة الحمل, ارتفاع ضغط الدم في الحمل",
+      "h1": "تسمم الحمل: الأعراض التحذيرية وحدود الخطر",
+      "takeaways": [
+        "تسمم الحمل يبدأ بلا أعراض غالباً، ولهذا قياس ضغط الدم في كل زيارة ليس روتيناً بل حماية حقيقية.",
+        "الصداع الشديد مع ضبابية الرؤية أو الألم تحت الضلوع هو علامة طوارئ تستدعي الذهاب للمستشفى فوراً.",
+        "ضغط دم 140/90 أو أعلى في مرتين بفارق أربع ساعات هو حد تشخيص تسمم الحمل.",
+        "الأسبرين الجرعة المنخفضة يُقلل خطر تسمم الحمل بشكل معتبر عند النساء اللواتي تعرّضن لعوامل خطر.",
+        "تسمم الحمل لا يعالَج إلا بالولادة، لكن التدخل المبكر يُنقذ الأم ويمنح الجنين وقتاً ثميناً."
+      ],
+      "sections": [
+        {
+          "h2": "ما هو تسمم الحمل وكيف يتطور؟",
+          "paras": [
+            "تسمم الحمل (Preeclampsia) هو حالة تحدث بعد الأسبوع العشرين من الحمل وتتميز بارتفاع ضغط الدم لدى امرأة كان ضغطها طبيعياً قبل الحمل، مع وجود علامات تدل على تأثر أعضاء الجسم الداخلية. كان التعريف القديم يستلزم وجود بروتين في البول (Proteinuria) لكن الإرشادات الحديثة تؤكد أن تسمم الحمل قد يحدث بدون بروتين في البول إذا كانت هناك علامات تأثر في الكلى أو الكبد أو الصفائح الدموية أو الدماغ.",
+            "السبب الجذري هو خلل في تكوين المشيمة منذ بداية الحمل، حيث لا تنمو الأوعية الدموية المشيمية بشكل طبيعي مما يُسبب نقصاً في إمداد الدم للمشيمة. يستجيب جسم الأم بتضييق الأوعية الدموية ورفع ضغط الدم محاولةً تعويض هذا النقص. هذه الاستجابة هي التي تسبب تأثيرات تسمم الحمل على أعضاء الأم. دراسة نُشرت في مجلة Circulation Research عام 2019 وصفت هذه الآلية بتفصيل وأكدت مركزية ضعف تعشيش المشيمة.",
+            "تسمم الحمل يصيب ما بين 5% و10% من الحملات عالمياً ويُسبب ما يزيد على 70,000 وفاة أمومية سنوياً حول العالم، معظمها في البلدان منخفضة الدخل. في المنطقة العربية، حيث الوصول للرعاية المتخصصة غير متساوٍ، يبقى تسمم الحمل من الأسباب الرئيسية لوفيات الأمهات."
+          ],
+          "visual": {
+            "type": "stats",
+            "items": [
+              {"value": "5-10%", "label": "من الحملات عالمياً تُصاب بتسمم الحمل", "tone": "warn"},
+              {"value": "70,000+", "label": "وفاة أمومية سنوية يُسببها تسمم الحمل ومضاعفاته", "tone": "bad"}
+            ],
+            "source": "Duley L, Seminars in perinatology, 2009",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/19464502/"
+          }
+        },
+        {
+          "h2": "من الأكثر عرضة للإصابة بتسمم الحمل؟",
+          "paras": [
+            "عوامل الخطر المرتفعة جداً تشمل: الإصابة بتسمم الحمل في حمل سابق (يرفع الخطر إلى 20%-25% في الحمل التالي)، وجود أكثر من جنين (حمل توأم أو ثلاثي)، وجود ارتفاع ضغط دم مزمن أو أمراض كلى مزمنة أو سكري من قبل الحمل، واستخدام تقنيات المساعدة على الإنجاب.",
+            "عوامل الخطر المتوسطة تشمل: الحمل الأول (يُعتبر خطراً أعلى لأن الجهاز المناعي يتعامل مع نصف جينات الجنين الأجنبية لأول مرة)، السمنة (مؤشر كتلة الجسم 35 أو أكثر)، التاريخ العائلي لتسمم الحمل (الأم أو الأخت)، والعمر فوق 40 عاماً. وجود اثنين أو أكثر من عوامل الخطر المتوسطة يضعك في فئة الخطر المرتفع.",
+            "مبادرة FIGO عام 2019 وضعت منهجية فحص متكاملة في الثلث الأول تجمع عوامل الخطر مع قياس ضغط الدم وشريان الرحم بالسونار ومؤشرات دموية مثل بروتين PAPP-A لتحديد من تستفيد من الأسبرين الوقائي. هذه المنهجية ليست متاحة في كل مستشفيات المنطقة لكن معرفة عوامل الخطر الأساسية تبقى في متناول كل سيدة."
+          ]
+        },
+        {
+          "h2": "الأعراض التحذيرية: متى يصبح الأمر طارئاً؟",
+          "paras": [
+            "المشكلة الكبرى في تسمم الحمل أنه غالباً لا يُسبب أعراضاً واضحة في مراحله المبكرة. ضغط الدم يرتفع وبروتين البول يظهر والطبيب وحده يكتشفها في الزيارة الدورية. لهذا لا يمكن الاعتماد على غياب الأعراض دليلاً على سلامتك، والمتابعة الدورية مع قياس ضغط الدم ضرورية.",
+            "حين تظهر الأعراض تكون مؤشراً على أن الحالة تصاعدت. الصداع الشديد غير المعتاد لك، خاصة في مقدمة الرأس أو في مؤخرته، هو أهم إشارة تحذيرية. ضبابية الرؤية أو الرؤية المزدوجة أو رؤية نقاط أو ومضات ضوئية تعني أن الدماغ يتأثر. الألم الحاد في أعلى البطن تحت الضلع الأيمن يشير إلى تأثر الكبد.",
+            "الورم المفاجئ في اليدين أو الوجه أو حول العينين مختلف عن انتفاخ الكاحلين الشائع في نهاية الحمل. وإن كان انتفاخ الكاحلين وحده ليس دليلاً على تسمم الحمل، فإن الورم المتصاعد في الوجه واليدين مع أي عرض آخر يستدعي التقييم الفوري. الغثيان والقيء في الثلث الثالث من الحمل بعد أن استقر الحمل، أو التنفس السريع المتطور، كلها علامات تستحق الإبلاغ."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "اذهبي للطوارئ فوراً إذا أحسست بأي مما يلي",
+            "items": [
+              "صداع شديد لا يزول بالمسكنات العادية",
+              "ضبابية الرؤية أو نقاط أو ومضات ضوئية في المجال البصري",
+              "ألم حاد في أعلى البطن تحت الضلع الأيمن",
+              "ورم مفاجئ في الوجه أو اليدين أو حول العينين",
+              "صعوبة في التنفس أو شعور بضيق الصدر",
+              "ضغط دم يبلغ 140/90 أو أعلى عند القياس في المنزل"
+            ]
+          }
+        },
+        {
+          "h2": "أرقام ضغط الدم: ما هو الحد الخطر؟",
+          "paras": [
+            "ضغط الدم الطبيعي أقل من 130/80 ملم زئبق. في الحمل الطبيعي يميل ضغط الدم إلى الانخفاض في الثلث الثاني ثم يعود تدريجياً لمستويات ما قبل الحمل في الثلث الثالث. قراءة ضغط دم تبلغ 140/90 أو أعلى، مُثبتة في قياسين بفارق أربع ساعات، هي الحد التشخيصي لارتفاع ضغط الدم في الحمل.",
+            "توصيات الجمعية الدولية لدراسة ارتفاع ضغط الدم في الحمل (ISSHP) الصادرة عام 2021 تُميّز بين مستويين: ضغط دم شديد هو 160/110 أو أعلى، ويستدعي علاجاً فورياً لأنه يُعرّض الأم لخطر السكتة الدماغية. المستوى الأخفض (140-159 / 90-109) يستدعي إدخال المستشفى للمراقبة والتقييم.",
+            "قياس ضغط الدم في المنزل مفيد جداً لكنه يستلزم تقنية صحيحة. الجهاز يجب أن يُوضع على مستوى القلب وأنت في وضع الجلوس بعد راحة خمس دقائق، مع عدم التحدث أثناء القياس. الكفة يجب أن تناسب محيط ذراعك. جهاز ذراع الرسغ أقل دقة. قومي بقياسين متتاليين وخذي المعدل بينهما."
+          ],
+          "visual": {
+            "type": "range-scale",
+            "title": "مستويات ضغط الدم الانبساطي في الحمل",
+            "label": "ضغط الدم الانبساطي",
+            "unit": "ملم زئبق",
+            "min": 60,
+            "max": 120,
+            "zones": [
+              {"to": 80, "tone": "good", "label": "طبيعي"},
+              {"to": 90, "tone": "warn", "label": "مراقبة"},
+              {"to": 110, "tone": "bad", "label": "تسمم حمل"},
+              {"to": 120, "tone": "bad", "label": "شديد جداً"}
+            ],
+            "source": "ISSHP 2021 Classification and management recommendations",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/35066406/"
+          }
+        },
+        {
+          "h2": "التشخيص وفحوصات الدم: ماذا تعني النتائج؟",
+          "paras": [
+            "حين يُشتبه في تسمم الحمل تُجرى مجموعة من الفحوصات: بروتين البول (Proteinuria) بعينة البول العشوائية أو 24 ساعة، وتعداد الدم الكامل مع التركيز على الصفائح الدموية، وإنزيمات الكبد (ALT وAST)، والكرياتينين والأحماض البولية لتقييم الكلى.",
+            "انخفاض الصفائح الدموية إلى أقل من 100,000 في المكعب الملليمتري مع ارتفاع إنزيمات الكبد وارتفاع ضغط الدم يُكوّن ما يُعرف بمتلازمة HELLP (Hemolysis, Elevated Liver enzymes, Low Platelets). هذه حالة أشد خطورة من تسمم الحمل العادي وقد تستدعي الولادة الفورية بصرف النظر عن عمر الحمل.",
+            "فحص يُسمى sFlt-1/PlGF يُجرى في بعض المستشفيات المتطورة لتقييم احتمالية تطور تسمم الحمل في الأسابيع القادمة. هو مفيد في حالات ارتفاع ضغط الدم الحدودية لتحديد من يحتاج للمراقبة المكثفة ومن يمكن متابعته في المنزل. توفره محدود في المنطقة لكنه آخذ بالانتشار."
+          ]
+        },
+        {
+          "h2": "هل يمكن الوقاية من تسمم الحمل؟",
+          "paras": [
+            "الأسبرين بجرعة منخفضة (75 إلى 150 ملغ يومياً) يُعطى للنساء ذوات الخطر المرتفع من الأسبوع 11 إلى 16 وحتى الأسبوع 36. دراسة ASPRE المنشورة في New England Journal of Medicine عام 2017 أثبتت أن هذا النظام يُقلل تسمم الحمل المبكر (قبل الأسبوع 37) بنسبة تجاوزت 62% في النساء المحددات بالفحص المركب. هذا من أهم الاكتشافات في طب الحمل في العقدين الأخيرين.",
+            "الأسبرين لا يُعطى لمجرد عامل خطر واحد خفيف. التوجيهات تُحدد من تستفيد: تلك ذات الخطر المرتفع (عامل خطر عالٍ واحد أو عاملا خطر متوسطَا أو أكثر). إذا كانت طبيبتك لم تُناقش معك الأسبرين الوقائي وكنت ذات خطر مرتفع، فمن حقك أن تسأليها عنه مباشرة.",
+            "ما لا يُثبت فائدته في الوقاية: مكملات الكالسيوم تُقلل تسمم الحمل عند النساء اللواتي يتناولن كميات منخفضة من الكالسيوم في الأساس، وهو الحال لدى بعض النساء في المنطقة. فيتامين C وE لم يُثبتا فائدة. الراحة الكاملة في الفراش لا تمنع تسمم الحمل وقد تُسبب مضاعفات الجلطات."
+          ]
+        },
+        {
+          "h2": "ماذا يحدث في المستشفى؟ علاج تسمم الحمل",
+          "paras": [
+            "العلاج الجذري الوحيد لتسمم الحمل هو الولادة، لأن تأثيرات المشيمة المسببة للحالة لا تتوقف إلا بانتهاء الحمل. لكن قرار الولادة معقد: الولادة المبكرة جداً تُعرّض الجنين للمضاعفات. إدارة تسمم الحمل تهدف إلى تأجيل الولادة بأمان أطول مدة ممكنة لإتاحة الوقت لنضج رئتي الجنين، مع المراقبة المكثفة للأم.",
+            "كبريتات المغنيزيوم (Magnesium Sulfate) تُعطى عبر الوريد لمنع تطور تسمم الحمل إلى تشنجات (Eclampsia). دراسة نشرت عام 2024 في BMC Women's Health تحليلاً منهجياً حول المدة المثلى لإعطاء كبريتات المغنيزيوم. هي ليست علاجاً لتسمم الحمل بل هي حماية للدماغ. أدوية ضغط الدم مثل لابيتالول (Labetalol) ونيفيديبين (Nifedipine) تُستخدم لإنزال ضغط الدم إلى مستوى آمن، وهي آمنة للجنين.",
+            "في بعض المناطق التي تعاني من شح الموارد، قد لا تتوفر كبريتات المغنيزيوم أو تكون موجودة لكن الطاقم غير متمرن على استخدامها. إذا كنت في منطقة من هذا النوع وتعانين من تسمم حمل، الانتقال لأقرب مركز طبي مجهز هو الخيار الأكثر أماناً، لأن تسمم الحمل الشديد يحتاج مراقبة مكثفة لا تتوفر في المستوصفات الصغيرة."
+          ],
+          "visual": {
+            "type": "timeline",
+            "title": "كيف تتصاعد الحالة في تسمم الحمل",
+            "items": [
+              {"when": "المرحلة الأولى", "what": "ارتفاع ضغط الدم بدون أعراض: يُكتشف فقط في الزيارة الدورية"},
+              {"when": "المرحلة الثانية", "what": "ظهور بروتين في البول أو تأثر كلوي أو كبدي أو انخفاض الصفائح"},
+              {"when": "المرحلة الشديدة", "what": "ضغط دم 160/110 أو أعلى مع أعراض في الرأس أو الرؤية أو البطن"},
+              {"when": "Eclampsia (تشنجات)", "what": "نوبات تشنجية: حالة طارئة تستدعي كبريتات المغنيزيوم والولادة الفورية"}
+            ]
+          }
+        },
+        {
+          "h2": "ماذا يحدث بعد الولادة؟ هل يزول تسمم الحمل؟",
+          "paras": [
+            "في معظم الحالات يبدأ ضغط الدم بالتحسن خلال أيام إلى أسابيع بعد الولادة. لكن الأسبوع الأول بعد الولادة هو وقت خطير بحد ذاته، إذ قد يرتفع ضغط الدم أو تظهر تشنجات حتى بعد الوضع. يجب مراقبة ضغط الدم بانتظام في الأسابيع الأولى بعد الولادة ولا يجوز التوقف عن دواء ضغط الدم بدون استشارة الطبيب.",
+            "النساء اللواتي أصبن بتسمم الحمل لديهن خطر أعلى لارتفاع ضغط الدم المزمن وأمراض القلب لاحقاً في الحياة. هذا لا يعني أنك ستُصابين بهذه الأمراض، بل يعني أن متابعتك الدورية بعد الحمل تشمل قياس ضغط الدم والكوليسترول وسكر الدم بشكل منتظم. أبلغي أي طبيب تزورينه لاحقاً أنك أصبت بتسمم الحمل لأن ذلك يُغيّر توصيات الفحص الدوري.",
+            "الحمل التالي يستدعي استشارة مبكرة مع طبيب متخصص لتقييم خطر الإصابة مرة أخرى ومعرفة ما إذا كنت ستستفيدين من الأسبرين الوقائي. تسمم الحمل السابق يرفع الخطر في الحمول اللاحقة، لكن كثيراً من النساء يمرّ حملهن التالي بسلام مع المتابعة الصحيحة."
+          ]
+        },
+        {
+          "h2": "عيش حياة الأم الحامل بأمان: ما تستطيعين فعله",
+          "paras": [
+            "لا يمكنك تجنب تسمم الحمل بشكل مطلق إذا كانت عوامل الخطر موجودة، لكنك تستطيعين تقليص الخطر وإيجاده مبكراً. حضور كل زيارة رعاية ما قبل الولادة المحددة هو الخطوة الأهم، لأن قياس ضغط الدم والبول في كل زيارة هو الطريق الوحيد للكشف المبكر.",
+            "إذا كنت في منطقة جغرافية بعيدة أو يصعب فيها الوصول لمستشفى، فقياس ضغط الدم في المنزل بجهاز ذراع دقيق ومعايَر يُعطيك طبقة إضافية من الحماية. تعلمي تقنية القياس الصحيحة واحتفظي بسجل لقراءاتك.",
+            "أي قراءة ضغط دم تبلغ 140/90 أو أعلى، حتى مرة واحدة، تستدعي التواصل مع طبيبك في نفس اليوم وليس في الموعد القادم. لا تنتظري ظهور أعراض أخرى. ارتفاع ضغط الدم وحده في الحمل يكفي لاستدعاء التقييم."
+          ]
+        }
+      ],
+      "tie": "سهتاك يتيح لك تسجيل قراءات ضغط الدم يومياً ومتابعة التغيرات عبر الوقت، مما يُسهّل مشاركة بياناتك مع طبيبك وتحديد أي ارتفاع يستدعي الاهتمام.",
+      "faqs": [
+        {
+          "q": "هل تسمم الحمل يؤثر على الجنين؟",
+          "a": "نعم، لأن تضيّق الأوعية الدموية يُقلل الدم الواصل للمشيمة، مما يُبطئ نمو الجنين ويُقلل الأكسجين الذي يصله. الجنين في حالات تسمم الحمل الشديد قد يُولد قبل أوانه بسبب الحاجة لإنهاء الحمل لحماية الأم. المتابعة بالسونار ومراقبة نبضات القلب بالـCTG جزء من إدارة تسمم الحمل."
+        },
+        {
+          "q": "هل ضغط الدم الطبيعي المستمر يعني أنني بأمان من تسمم الحمل؟",
+          "a": "يُقلل الخطر كثيراً لكنه لا يُلغيه تماماً. تسمم الحمل قد يتطور بسرعة نسبياً في بعض النساء. لهذا الأعراض التحذيرية كالصداع الشديد وضبابية الرؤية تستدعي التقييم حتى إذا كانت قراءات ضغط دمك سابقاً طبيعية."
+        },
+        {
+          "q": "هل انتفاخ القدمين في الحمل خطير؟",
+          "a": "انتفاخ الكاحلين والقدمين في الحمل، خاصة في نهاية اليوم وفي الثلث الثالث، شائع جداً وليس بحد ذاته علامة على تسمم الحمل. الذي يستدعي الاهتمام هو الورم المفاجئ في الوجه أو اليدين أو حول العينين، أو انتفاخ القدمين المصحوب بأي أعراض أخرى كالصداع أو ضبابية الرؤية."
+        },
+        {
+          "q": "هل يمكن أن يعود تسمم الحمل في الحمل التالي؟",
+          "a": "نعم، خطر العودة مرتفع. الإحصائيات تُشير إلى أن النساء اللواتي أُصبن بتسمم الحمل في حمل سابق لديهن احتمال يتراوح بين 20% و25% للإصابة به مرة أخرى. الاستشارة المبكرة مع طبيب متخصص وتحديد أهلية الأسبرين الوقائي يُقلل هذا الخطر بشكل ملموس."
+        },
+        {
+          "q": "هل يمكنني الولادة الطبيعية إذا أُصبت بتسمم الحمل؟",
+          "a": "أحياناً نعم، ويعتمد القرار على حالتك وعمر الحمل. إذا كان تسمم الحمل خفيفاً وكان الجنين ناضجاً قد يُحاوَل تحريض الطلق للولادة الطبيعية. أما في الحالات الشديدة أو عند الحاجة للإنهاء السريع، تُجرى القيصرية. قراءتك لهذا المقال لا تُغني عن الحوار مع طبيبك الذي يعرف وضعك بالتفصيل."
+        },
+        {
+          "q": "ما الفرق بين تسمم الحمل والنزاف أو التهاب الكلى في الحمل؟",
+          "a": "تسمم الحمل هو حالة ضغط الدم مع تأثر الأعضاء الداخلية ناجمة عن مشكلة في المشيمة. ارتفاع ضغط الدم المزمن يكون موجوداً قبل الحمل أو يُكتشف قبل الأسبوع 20. التهاب الكلى في الحمل يُسبب بروتين في البول لكن بدون ضغط دم مرتفع بالضرورة. تمييزها يتطلب فحوصات وتقييماً طبياً لذا لا تحاولي التشخيص بنفسك إذا ظهرت أعراض."
+        },
+        {
+          "q": "هل كل حامل تحتاج مراقبة ضغط الدم في المنزل؟",
+          "a": "لا، لكن النساء ذوات عوامل الخطر أو اللواتي يصعب عليهن حضور المواعيد الدورية بانتظام يستفدن بشكل خاص من المراقبة المنزلية. إذا كنت تقطنين بعيداً عن المستشفى أو إذا أوصت طبيبتك بذلك، استثمار في جهاز ضغط دم ذراع موثوق يستحق تكلفته."
+        },
+        {
+          "q": "هل التسمم يُشفى تماماً بعد الولادة؟",
+          "a": "في معظم النساء يتحسن ضغط الدم بشكل واضح خلال أسبوعين إلى ستة أسابيع بعد الولادة. بعض النساء يحتجن لأدوية ضغط دم لفترة محدودة بعد الولادة. الحالات القليلة التي لا يتحسن فيها ضغط الدم بعد 12 أسبوعاً من الولادة تُصنّف على أنها ارتفاع ضغط دم مزمن وليس تسمم حمل."
+        }
+      ]
+    },
+    "en": {
+      "title": "Preeclampsia: the blood pressure danger in pregnancy",
+      "desc": "Warning signs of preeclampsia, blood pressure thresholds, who is at highest risk, and what to do immediately when symptoms appear. A leading cause of maternal death.",
+      "keywords": "preeclampsia warning signs, preeclampsia blood pressure, preeclampsia symptoms, high blood pressure pregnancy, HELLP syndrome, preeclampsia prevention aspirin, eclampsia",
+      "h1": "Preeclampsia: warning signs, thresholds, and when to go to hospital",
+      "takeaways": [
+        "Preeclampsia often starts with no symptoms at all, which is why blood pressure measurement at every antenatal visit is a life-saving check, not a routine one.",
+        "A severe headache with visual disturbance or upper abdominal pain is a medical emergency requiring immediate hospital assessment.",
+        "Blood pressure at or above 140/90 mmHg confirmed on two readings four hours apart is the diagnostic threshold.",
+        "Low-dose aspirin taken from the end of the first trimester reduces the risk of preterm preeclampsia by more than 60% in women identified as high risk.",
+        "Preeclampsia can only be cured by delivery, but early identification keeps both options open: treating the mother while giving the baby more time."
+      ],
+      "sections": [
+        {
+          "h2": "What is preeclampsia and why does it develop?",
+          "paras": [
+            "Preeclampsia is a condition that develops after week 20 of pregnancy, characterised by new-onset high blood pressure in a woman whose blood pressure was normal before, together with signs of internal organ involvement. The old definition required protein in the urine (proteinuria), but current guidelines recognise that preeclampsia can occur without proteinuria if there is evidence of kidney, liver, platelet, or brain involvement.",
+            "The underlying cause is abnormal placental development early in pregnancy. When the spiral arteries of the uterus fail to remodel normally, placental perfusion is reduced, and the placenta releases signals that cause widespread endothelial dysfunction in the mother. The mother's blood vessels constrict and blood pressure rises as a compensatory response. A 2019 review in Circulation Research describes this pathophysiology in detail, emphasising that the disease begins at the placenta weeks before symptoms appear in the mother.",
+            "Preeclampsia affects 5% to 10% of pregnancies globally and causes more than 70,000 maternal deaths per year worldwide, the vast majority in low- and middle-income countries. In the Arab world, where access to specialised care is unequal across settings and between countries, preeclampsia and its complications remain a leading cause of maternal mortality."
+          ],
+          "visual": {
+            "type": "stats",
+            "items": [
+              {"value": "5-10%", "label": "of pregnancies globally develop preeclampsia", "tone": "warn"},
+              {"value": "70,000+", "label": "maternal deaths per year caused by preeclampsia and eclampsia", "tone": "bad"}
+            ],
+            "source": "Duley L, Seminars in perinatology, 2009",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/19464502/"
+          }
+        },
+        {
+          "h2": "Who is at highest risk?",
+          "paras": [
+            "High-risk factors for preeclampsia include: a previous pregnancy complicated by preeclampsia (which raises the risk in the next pregnancy to approximately 20-25%), multiple pregnancy (twins, triplets), pre-existing hypertension or kidney disease, pre-existing type 1 or type 2 diabetes, and pregnancy achieved through assisted reproduction. Any one of these high-risk factors alone places a woman in the category that most guidelines recommend for preventive aspirin.",
+            "Moderate-risk factors include: first pregnancy (when the maternal immune system is exposed to the paternal antigens in the fetal placenta for the first time), obesity with a body mass index above 35, a family history of preeclampsia in a mother or sister, age above 40, and a gap of more than 10 years between pregnancies. Two or more moderate-risk factors are generally treated as equivalent to one high-risk factor.",
+            "The 2019 FIGO initiative introduced a combined first-trimester screening model that integrates risk factors with blood pressure measurement, uterine artery pulsatility index on ultrasound, and maternal serum markers including PAPP-A. This combination identifies approximately 90% of women who will develop preterm preeclampsia, far better than risk-factor questionnaires alone. Not all hospitals in the region offer this full assessment, but identifying high-risk factors is within reach of any antenatal visit."
+          ]
+        },
+        {
+          "h2": "Warning signs: when does it become an emergency?",
+          "paras": [
+            "The central danger of preeclampsia is that it commonly produces no symptoms in its early stages. Blood pressure is rising, protein is appearing in the urine, and only the antenatal visit detects it. This is why it is unsafe to assume that feeling well means blood pressure is normal. The absence of symptoms is not reassurance.",
+            "When symptoms do appear, they signal that the condition has escalated. A severe headache that is unusual for you, particularly felt at the front or back of the head and not relieved by paracetamol, is the most important warning symptom. Visual disturbance including blurring, double vision, or flashing lights or spots means the brain is being affected. Pain in the upper right abdomen, under the ribs, indicates liver involvement and should never be attributed to indigestion or the baby's position without a blood pressure check.",
+            "Sudden swelling of the face, hands, or around the eyes is distinct from the gradual ankle swelling common in late pregnancy. Ankle oedema alone is not a sign of preeclampsia, but a rapid onset facial or hand swelling alongside any other symptom warrants same-day assessment. Nausea and vomiting that returns in the third trimester after settling, breathlessness on minimal exertion, and reduced fetal movement are all symptoms that should be reported to your care team immediately."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "Go to hospital emergency immediately if you have",
+            "items": [
+              "A severe headache not relieved by paracetamol",
+              "Visual disturbance: blurring, flashing lights, or spots",
+              "Sudden pain in the upper right abdomen under the ribs",
+              "Sudden swelling of the face, hands, or around the eyes",
+              "Difficulty breathing or tightness in the chest",
+              "A blood pressure reading of 140/90 mmHg or higher at home"
+            ]
+          }
+        },
+        {
+          "h2": "Blood pressure numbers: what counts as dangerous?",
+          "paras": [
+            "Normal blood pressure in pregnancy is below 130/80 mmHg. In a healthy pregnancy, blood pressure typically falls slightly in the second trimester and returns to pre-pregnancy levels by the third. A reading of 140/90 mmHg or above, confirmed on two occasions at least four hours apart, meets the diagnostic threshold for hypertension in pregnancy. A single reading, even a very high one, is not the whole picture but is enough reason to seek immediate assessment.",
+            "The 2021 International Society for the Study of Hypertension in Pregnancy (ISSHP) classification distinguishes between two severity levels. Blood pressure at or above 160/110 mmHg is severe hypertension requiring immediate antihypertensive treatment, because it significantly raises the risk of haemorrhagic stroke in the mother. The range of 140-159 systolic or 90-109 diastolic requires hospital admission for assessment and monitoring, even if the woman feels well.",
+            "Home blood pressure measurement provides a valuable safety layer, particularly for women who live far from a hospital or who cannot attend frequent antenatal visits. To get accurate readings: sit quietly for five minutes before measuring, keep the cuff at heart level, do not talk during the measurement, and use an upper-arm cuff of the correct size for your arm circumference. Wrist monitors are less reliable. Take two readings one minute apart and record both."
+          ],
+          "visual": {
+            "type": "range-scale",
+            "title": "Diastolic blood pressure thresholds in pregnancy",
+            "label": "Diastolic BP",
+            "unit": "mmHg",
+            "min": 60,
+            "max": 120,
+            "zones": [
+              {"to": 80, "tone": "good", "label": "Normal"},
+              {"to": 90, "tone": "warn", "label": "Watch"},
+              {"to": 110, "tone": "bad", "label": "Preeclampsia range"},
+              {"to": 120, "tone": "bad", "label": "Severe"}
+            ],
+            "source": "ISSHP 2021 Classification and management recommendations",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/35066406/"
+          }
+        },
+        {
+          "h2": "What blood tests show and what HELLP syndrome means",
+          "paras": [
+            "When preeclampsia is suspected, a standard blood panel checks for organ involvement. A full blood count with attention to the platelet count, liver enzymes (ALT and AST), creatinine and uric acid for kidney function, and urine protein form the core panel. The results determine not just whether preeclampsia is present but how severe it is and which organs are most affected.",
+            "HELLP syndrome (Haemolysis, Elevated Liver enzymes, Low Platelet count) is a severe variant of preeclampsia. A platelet count below 100,000 per cubic millimetre combined with rising liver enzymes and hypertension forms the diagnostic triad. HELLP can develop rapidly and can present with atypical features such as nausea, vomiting, and right upper quadrant pain without obvious blood pressure elevation, which makes it easy to miss. It requires delivery regardless of gestational age when severe.",
+            "A biomarker ratio called sFlt-1/PlGF is used in some advanced centres to assess the probability that preeclampsia will develop or worsen within the following weeks. It is particularly useful in the borderline zone where blood pressure is elevated but not yet at diagnostic levels. Availability in the region is limited but growing. If your hospital cannot offer it, the clinical assessment of your blood panel, blood pressure trajectory, and symptoms remains the basis of decision-making."
+          ]
+        },
+        {
+          "h2": "Can preeclampsia be prevented?",
+          "paras": [
+            "Low-dose aspirin is the most effective available prevention for women at high risk. The ASPRE trial, published in the New England Journal of Medicine in 2017, showed that aspirin taken at 150 mg per day from weeks 11 to 16 through to week 36 reduced preterm preeclampsia by more than 62% in women identified as high-risk by first-trimester combined screening. This is one of the most significant findings in obstetric medicine of the past two decades.",
+            "Aspirin is recommended only when the risk is genuinely elevated, not as a universal supplement. If you have one or more high-risk factors, or two or more moderate-risk factors, and your doctor has not yet discussed preventive aspirin with you, it is appropriate to ask directly: am I eligible for low-dose aspirin? The prescription cost is minimal and the evidence of benefit at this risk level is strong.",
+            "Calcium supplementation reduces blood pressure in pregnant women with low baseline calcium intake, which applies to some women in the region. Vitamins C and E have not been shown to prevent preeclampsia in clinical trials. Complete bed rest is not recommended because it increases the risk of blood clots without preventing preeclampsia. Moderate activity is safe and may help with blood pressure management."
+          ]
+        },
+        {
+          "h2": "What happens in hospital: treatment and delivery",
+          "paras": [
+            "The only definitive treatment for preeclampsia is delivery, because the placental signals driving the disease stop only when the placenta is removed. The clinical challenge is timing: delivery too early exposes the baby to the complications of prematurity; waiting too long risks deterioration in the mother. Management is therefore a constant balance between monitoring the mother closely and giving the baby additional time for maturity.",
+            "Magnesium sulfate given intravenously is the standard prevention for seizures (eclampsia). It is not a blood pressure treatment but a brain protectant. Antihypertensive medications, most commonly labetalol, nifedipine, or methyldopa in this region, are used to bring blood pressure to a safe level. These medications are safe for the baby and do not cross the placenta in amounts that affect fetal function.",
+            "In areas where magnesium sulfate is unavailable or where staff training in its administration is limited, the risk to the mother escalates sharply. Eclamptic seizures are survivable with prompt magnesium treatment but highly dangerous without it. If you are in a setting with limited resources and develop severe preeclampsia, transfer to the nearest equipped hospital is the safest course of action, even if it means a long journey."
+          ],
+          "visual": {
+            "type": "timeline",
+            "title": "How preeclampsia typically escalates",
+            "items": [
+              {"when": "Phase 1", "what": "Blood pressure rises with no symptoms: detectable only at antenatal visit"},
+              {"when": "Phase 2", "what": "Proteinuria appears or liver, kidney, or platelet abnormalities develop"},
+              {"when": "Severe phase", "what": "BP at or above 160/110 with symptoms: headache, visual changes, or upper abdominal pain"},
+              {"when": "Eclampsia", "what": "Seizures: a life-threatening emergency requiring magnesium sulfate and immediate delivery"}
+            ]
+          }
+        },
+        {
+          "h2": "After delivery: does preeclampsia go away?",
+          "paras": [
+            "In most cases, blood pressure begins to improve within days to two weeks after delivery. However, the first week postpartum is itself a dangerous window. Blood pressure can spike or new-onset seizures can occur in this period even in women who seemed to be improving. Blood pressure monitoring must continue for at least six weeks after delivery, and antihypertensive medication should not be stopped without medical advice.",
+            "Women with a history of preeclampsia have a significantly higher lifelong risk of hypertension, cardiovascular disease, and stroke compared with women who were not affected. This does not mean these conditions are inevitable, but it does mean that regular blood pressure, cholesterol, and blood glucose checks are part of appropriate long-term care. Inform any doctor or health professional you see in the future that you had preeclampsia in pregnancy, because it changes what screening is recommended for you.",
+            "A subsequent pregnancy should be planned with an early specialist consultation to assess the recurrence risk and determine eligibility for preventive aspirin. Many women who have had preeclampsia go on to have uncomplicated subsequent pregnancies with appropriate monitoring and, where indicated, aspirin from early in the first trimester."
+          ]
+        },
+        {
+          "h2": "What you can do to stay safe during your pregnancy",
+          "paras": [
+            "Preeclampsia cannot be entirely prevented if risk factors are present, but you can reduce the risk where modification is possible, identify it early, and respond quickly when warning signs appear. Attending every scheduled antenatal visit is the most important single action, because blood pressure and urine protein checks at each visit are the only reliable early detection system.",
+            "If you live far from a hospital, a home blood pressure monitor is a meaningful safety investment. Learn the correct technique, keep a dated log of readings, and know the number above which you need to call your doctor on the same day: 140/90 mmHg. Do not wait for additional symptoms before making contact. Elevated blood pressure alone in pregnancy is sufficient reason for same-day assessment.",
+            "If you have been diagnosed with preeclampsia and are being managed, follow your care team's instructions about when to come in without waiting to see whether symptoms worsen. Preeclampsia can deteriorate from mild to severe within hours. The time between a warning sign and a decision to come to hospital should be measured in minutes, not days."
+          ]
+        }
+      ],
+      "tie": "Sihtak lets you log blood pressure readings and track them over time, so you can share a complete record with your doctor and identify any upward trend before it becomes an emergency.",
+      "faqs": [
+        {
+          "q": "Does preeclampsia harm the baby?",
+          "a": "Yes, because the reduced blood flow to the placenta limits the oxygen and nutrients reaching the baby, which can slow fetal growth. In severe preeclampsia, delivery is sometimes necessary before the baby is fully mature to protect the mother. The baby is then monitored for complications of prematurity. Controlling preeclampsia buys time for the baby to mature while keeping the mother safe."
+        },
+        {
+          "q": "If my blood pressure has been normal throughout my pregnancy, am I safe from preeclampsia?",
+          "a": "Normal readings reduce the risk significantly but do not eliminate it entirely. Preeclampsia can develop relatively rapidly in some women. This is why warning symptoms such as a severe headache or visual disturbance always warrant assessment even when previous blood pressure readings have been normal."
+        },
+        {
+          "q": "Is ankle swelling in pregnancy a sign of preeclampsia?",
+          "a": "Ankle and foot swelling, particularly by the end of the day and in the third trimester, is common and not in itself a sign of preeclampsia. The swelling that warrants concern is sudden onset swelling of the face, hands, or around the eyes, or ankle swelling that appears alongside other symptoms such as a headache or visual changes."
+        },
+        {
+          "q": "Will preeclampsia return in my next pregnancy?",
+          "a": "The recurrence risk is real and estimated at between 20% and 25%. However, many women with a history of preeclampsia go on to have normal subsequent pregnancies with appropriate management. Early specialist consultation before the next pregnancy, preventive aspirin started in the first trimester where indicated, and close blood pressure monitoring through the second and third trimesters significantly reduce this risk."
+        },
+        {
+          "q": "Can I have a vaginal delivery with preeclampsia?",
+          "a": "Sometimes, yes. Mild preeclampsia with a baby at term and a favourable cervix may be managed with induced labour aiming for vaginal delivery. Severe preeclampsia or cases requiring rapid delivery are more commonly managed by caesarean section. The decision depends on your clinical picture, the gestational age, and your care team's assessment. Reading this article does not substitute for that conversation."
+        },
+        {
+          "q": "Is preeclampsia the same as gestational hypertension?",
+          "a": "No. Gestational hypertension is raised blood pressure in pregnancy without the organ involvement that defines preeclampsia. It is possible to have gestational hypertension that does not progress further, or that progresses to preeclampsia. Both require monitoring, but gestational hypertension is generally managed differently because the absence of organ damage is clinically significant."
+        },
+        {
+          "q": "Does every pregnant woman need a home blood pressure monitor?",
+          "a": "Not necessarily, but women with risk factors or those who have difficulty attending frequent antenatal visits benefit particularly. If you live far from a hospital or your doctor has recommended closer monitoring, a validated upper-arm home monitor is worthwhile. Make sure the cuff fits your arm correctly and that you know how to use it."
+        },
+        {
+          "q": "How long does it take for blood pressure to return to normal after delivery?",
+          "a": "Most women see significant improvement within one to two weeks of delivery, with full normalisation by six weeks postpartum. Some women require antihypertensive medication for several weeks after delivery, particularly those who had severe preeclampsia. Blood pressure that remains elevated beyond 12 weeks postpartum is reclassified as chronic hypertension requiring its own management plan."
+        }
+      ]
+    }
+  }
+}

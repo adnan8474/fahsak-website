@@ -1,0 +1,360 @@
+{
+  "slug": "fatty-liver-disease",
+  "category": "chronic-conditions",
+  "chip_ar": "أمراض مزمنة",
+  "chip_en": "Chronic Conditions",
+  "date_iso": "2026-07-04",
+  "sources": [
+    {"label": "Sanai FM, Abaalkhail F, Hasan F et al: Management of nonalcoholic fatty liver disease in the Middle East, World journal of gastroenterology, 2020", "url": "https://pubmed.ncbi.nlm.nih.gov/32742124/"},
+    {"label": "Alswat K, Aljumah AA, Sanai FM et al: Nonalcoholic fatty liver disease burden - Saudi Arabia and United Arab Emirates, 2017-2030, Saudi journal of gastroenterology, 2018", "url": "https://pubmed.ncbi.nlm.nih.gov/29956688/"},
+    {"label": "Shiha G, Alswat K, Al Khatry M et al: Nomenclature and definition of metabolic-associated fatty liver disease: a consensus from the Middle East and north Africa, The lancet. Gastroenterology and hepatology, 2021", "url": "https://pubmed.ncbi.nlm.nih.gov/33181119/"},
+    {"label": "Targher G, Corey KE, Byrne CD et al: The complex link between NAFLD and type 2 diabetes mellitus - mechanisms and treatments, Nature reviews. Gastroenterology and hepatology, 2021", "url": "https://pubmed.ncbi.nlm.nih.gov/33972770/"},
+    {"label": "Sheikh MY, Younus MF, Shergill A et al: Diet and Lifestyle Interventions in Metabolic Dysfunction-Associated Fatty Liver Disease: A Comprehensive Review, International journal of molecular sciences, 2025", "url": "https://pubmed.ncbi.nlm.nih.gov/41096891/"},
+    {"label": "Finer N: Weight loss interventions and nonalcoholic fatty liver disease: Optimizing liver outcomes, Diabetes, obesity and metabolism, 2022", "url": "https://pubmed.ncbi.nlm.nih.gov/34622555/"},
+    {"label": "Younossi ZM, Paik JM, Yilmaz Y et al: Two-Decade Trends in MASLD and Its Complications in the Middle East and North Africa (2010-2021), Liver international, 2025", "url": "https://pubmed.ncbi.nlm.nih.gov/40919841/"}
+  ],
+  "content": {
+    "ar": {
+      "title": "الكبد الدهني: الصمت الذي يمتد لسنوات",
+      "desc": "اكتشف ما هو الكبد الدهني، ودرجاته، ولماذا هو شائع جداً في منطقتنا، وكيف تعرف أنك مصاب، وخطوات حقيقية للتعافي قبل أن يتحول إلى تليف.",
+      "keywords": "الكبد الدهني, دهون الكبد, NAFLD, MAFLD, تليف الكبد, تحاليل الكبد, ALT, علاج الكبد الدهني, أسباب الكبد الدهني, السمنة والكبد, السكر والكبد, التغذية وصحة الكبد",
+      "h1": "الكبد الدهني: الحالة الصامتة وراء ارتفاع إنزيمات الكبد في منطقتنا",
+      "takeaways": [
+        "الكبد الدهني يعني تراكم الدهون داخل خلايا الكبد، وهو منتشر بشكل واسع في دول الخليج ومصر وسائر المنطقة بسبب السمنة والسكر والمشروبات السكرية.",
+        "في معظم الحالات لا تظهر أعراض، والاكتشاف يأتي صدفة عند تحليل وظائف الكبد أو الموجات فوق الصوتية.",
+        "المرحلة الأولى والثانية قابلتان للعكس بالكامل إذا نُظِّم الوزن والغذاء، لكن التأخير يجعله يتحول إلى التهاب وتليف لا رجعة فيه.",
+        "لا توجد أدوية معتمدة مخصصة لعلاجه حتى الآن، وإنقاص الوزن هو العلاج الأكثر فاعلية.",
+        "إذا كنت مصاباً بالسكري أو لديك ضغط أو بدانة، فإن فحص الكبد بالموجات فوق الصوتية وتحليل الإنزيمات ضروري بصفة منتظمة."
+      ],
+      "sections": [
+        {
+          "h2": "ما هو الكبد الدهني وكيف يتراكم الدهن فيه؟",
+          "paras": [
+            "الكبد الدهني (Fatty Liver) يعني أن ما يزيد على خمسة بالمئة من وزن الكبد بات دهوناً مترسبة داخل خلاياه. الكبد السليم يحتوي على كميات صغيرة من الدهون دائماً، أما حين تتجاوز هذه الكميات الحد الطبيعي فنحن أمام مرض يمكن أن يتطور بهدوء على مدى سنوات دون أن يشعر به صاحبه.",
+            "يوجد نوعان رئيسيان: الكبد الدهني الكحولي الناتج عن تناول الكحول، والكبد الدهني غير الكحولي الذي يُختصر بـ NAFLD أو بالمصطلح الأحدث MAFLD. النوع غير الكحولي هو الأكثر شيوعاً في منطقة الشرق الأوسط وشمال أفريقيا، إذ لا يلعب الكحول دوراً في معظم الحالات، بل يكون السبب هو السمنة ومقاومة الأنسولين والنظام الغذائي.",
+            "تتراكم الدهون في الكبد حين تفيض الطاقة القادمة من الطعام عما يحتاجه الجسم فيحولها الكبد إلى دهون مخزنة. هذا التحويل يتسارع بشكل كبير حين يكون الطعام غنياً بالكربوهيدرات المكررة والفركتوز المضاف في المشروبات السكرية والمشروبات الغازية والعصائر المصنعة. السمنة المركزية المتمركزة حول البطن ومقاومة الأنسولين والسكري من النوع الثاني كلها تُعجّل هذا التراكم بشكل ملحوظ.",
+            "درجة الخطر لا تكمن في وجود الدهون وحسب بل في ما تفعله داخل الخلايا. إذا بقيت مجرد دهون فذلك ما يُسمى الكبد الدهني البسيط (Steatosis)، وهو قابل للعكس بالكامل. أما إذا أشعلت هذه الدهون التهاباً داخل الخلايا فنحن أمام التهاب الكبد الدهني (NASH)، وهو الذي قد يقود في نهاية المطاف إلى تليف الكبد (Fibrosis) ثم تشمعه (Cirrhosis) إذا لم يُتدخَّل مبكراً."
+          ],
+          "visual": {
+            "type": "timeline",
+            "title": "مراحل تطور الكبد الدهني",
+            "items": [
+              {"when": "المرحلة 1", "what": "تراكم دهون بسيط (Steatosis) دون التهاب، قابل للعكس بالكامل مع تغيير نمط الحياة"},
+              {"when": "المرحلة 2", "what": "التهاب الكبد الدهني (NASH): التهاب الخلايا مع الدهون، لا يزال جزئياً قابلاً للتحسن"},
+              {"when": "المرحلة 3", "what": "التليف (Fibrosis): نسيج ليفي يستبدل خلايا الكبد السليمة"},
+              {"when": "المرحلة 4", "what": "تشمع الكبد (Cirrhosis): تلف واسع دائم يُضعف وظيفة الكبد بشكل كبير"}
+            ]
+          }
+        },
+        {
+          "h2": "لماذا هو شائع جداً في الخليج ومصر والمنطقة؟",
+          "paras": [
+            "دراسة نُشرت عام 2020 في مجلة World Journal of Gastroenterology بمشاركة باحثين من عدة دول خليجية ومصر وجدت أن الكبد الدهني يُصيب ما يقارب 30 بالمئة من البالغين في منطقة الشرق الأوسط، وأن هذا الرقم يرتفع بصورة ملحوظة لدى من يعانون من السمنة أو السكري ليصل إلى ثلاثة أرباع هذه الفئة.",
+            "دراسة أخرى صادرة عام 2018 قدّرت أن المملكة العربية السعودية والإمارات تواجهان موجة متصاعدة من الكبد الدهني، مع توقع ارتفاع ملحوظ في معدلات تشمع الكبد وسرطان الكبد خلال العقود القادمة إذا لم تتغير أنماط التغذية والنشاط البدني.",
+            "أبرز العوامل الإقليمية التي تُغذي هذا الانتشار هي: ارتفاع معدلات السمنة وخاصة سمنة البطن، والاعتماد الكبير على المشروبات السكرية والعصائر المحلاة بدلاً من الماء، وانخفاض النشاط البدني المرتبط بالأجواء الحارة التي تُحجم الناس عن الخروج والحركة، فضلاً عن الانتشار الواسع لمرض السكري من النوع الثاني بمعدلات تُعدّ من أعلى المعدلات في العالم في بعض دول الخليج.",
+            "عامل التشخيص المتأخر يُضاعف الأزمة: في كثير من مناطق المنطقة لا تُجرى تحاليل روتينية دورية، فيكتشف كثير من الناس الكبد الدهني عند تحليل عرضي لحالة أخرى، أو حين تظهر أعراض التليف متأخرة. في بعض المدن والمناطق الريفية قد لا تتوفر الموجات فوق الصوتية بسهولة أو تُجرى إلا عند وجود شكوى واضحة."
+          ],
+          "visual": {
+            "type": "stats",
+            "items": [
+              {"value": "~30%", "label": "من البالغين في الشرق الأوسط مصابون بالكبد الدهني تقريباً", "tone": "warn"},
+              {"value": "75%", "label": "من مرضى السكري من النوع الثاني يصاحبهم كبد دهني", "tone": "bad"},
+              {"value": "المرحلتان 1 و2", "label": "قابلتان للعكس الكامل مع تغيير نمط الحياة", "tone": "good"}
+            ]
+          }
+        },
+        {
+          "h2": "هل يسبب الكبد الدهني أعراضاً يمكن ملاحظتها؟",
+          "paras": [
+            "في الغالبية العظمى من الحالات لا تظهر أي أعراض في المراحل الأولى. تمضي أحياناً سنوات من التراكم الدهني بينما الشخص يشعر بصحة تامة، وهذا بالضبط ما يجعل الكبد الدهني خطيراً: لا يُعطي إنذاراً مسبقاً في وقت يمكن فيه فعل شيء.",
+            "قد يشعر بعض الأشخاص بثقل خفيف أو إزعاج مبهم في الجانب الأيمن العلوي من البطن حيث يقع الكبد، لكن هذا الشعور ليس حكراً على الكبد الدهني ويمكن أن تُسبّبه حالات كثيرة أخرى. لا يمكن الاعتماد على وجود هذا الإزعاج أو غيابه للحكم على صحة الكبد.",
+            "مع تطور المرض نحو التليف تبدأ علامات أكثر وضوحاً: التعب المزمن الذي لا يُفسّر بسهولة، واصفرار الجلد وبياض العينين (اليرقان أو الصفراء)، وانتفاخ البطن بسبب تراكم السوائل (الاستسقاء)، وتورم القدمين والساقين، وسهولة التكدم أو ظهور نزيف من اللثة. حين تصل الأمور إلى هذه الدرجة يكون المرض قد تقدم لمرحلة متأخرة.",
+            "لهذا السبب تحديداً يوصي الأطباء بفحص إنزيمات الكبد والموجات الصوتية بانتظام لمن لديهم عوامل خطر: سمنة أو زيادة وزن أو سكري أو ارتفاع دهون الدم أو ضغط دم مرتفع. الفحص الوقائي هو الطريق الوحيد الموثوق للاكتشاف المبكر."
+          ]
+        },
+        {
+          "h2": "كيف يكتشف الطبيب الكبد الدهني؟",
+          "paras": [
+            "أكثر طرق الاكتشاف شيوعاً هو ارتفاع إنزيمات الكبد وبخاصة ALT وAST في تحليل دم روتيني، أو ظهور صدى مرتفع \"Echogenic\" في الكبد أثناء فحص الموجات فوق الصوتية (السونار) المُجرى لسبب آخر.",
+            "الموجات فوق الصوتية هي أبسط الأدوات وأقل تكلفة، وتكشف تراكم الدهون حين يصل إلى درجة يمكن رؤيتها، لكنها لا تستطيع وحدها التمييز الدقيق بين الكبد الدهني البسيط والتليف المبكر. إنزيمات الكبد قد ترتفع أو تبقى طبيعية حتى مع وجود الكبد الدهني، لذا لا يعتمد الطبيب عليها وحدها ويجمعها مع الصورة الكاملة.",
+            "لتقييم درجة التليف بدقة يلجأ الطبيب أحياناً إلى الفيبروسكان (FibroScan)، وهو فحص غير جراحي يقيس صلابة الكبد ومرونته ويُعطي تقديراً موثوقاً لدرجة التليف. في الحالات الغامضة أو المتقدمة قد يُطلب الطبيب خزعة الكبد للحصول على صورة نسيجية دقيقة.",
+            "التحاليل الداعمة التي يطلبها الطبيب عادة تشمل: سكر الصيام وHbA1c للكشف عن السكري ومقاومة الأنسولين، والكوليسترول والدهون الثلاثية لتقييم الدهون في الدم، والبروتين الكامل والألبومين لقياس قدرة الكبد التركيبية، وعوامل التخثر في الحالات المتقدمة. هذه التحاليل معاً ترسم خريطة شاملة لصحة الكبد والعوامل المسببة."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "فحوصات تشخيص الكبد الدهني ومتابعته",
+            "head": ["الفحص", "ما يكشفه", "ملاحظة"],
+            "rows": [
+              ["ALT / AST", "ارتفاع إنزيمات الكبد", "قد تكون طبيعية حتى مع الكبد الدهني"],
+              ["الموجات فوق الصوتية (السونار)", "تراكم الدهون في الكبد", "لا تُحدد درجة التليف بدقة"],
+              ["FibroScan", "صلابة الكبد ودرجة التليف", "غير جراحي ودقيق، متوفر في المراكز الكبرى"],
+              ["سكر الدم وHbA1c", "مقاومة الأنسولين والسكري", "عوامل خطر رئيسية للكبد الدهني"],
+              ["الدهون الثلاثية والكوليسترول", "دهون الدم", "ترتفع في أغلب مرضى الكبد الدهني"]
+            ]
+          }
+        },
+        {
+          "h2": "ما العلاقة بين الكبد الدهني والسكري من النوع الثاني؟",
+          "paras": [
+            "الكبد الدهني والسكري من النوع الثاني يتغذى كل منهما على الآخر في حلقة مفرغة يصعب كسرها. مقاومة الأنسولين التي تسبق السكري وتصاحبه هي أحد أهم دوافع تراكم الدهون في الكبد، لأن الأنسولين المقاوم لا يستطيع توجيه الجلوكوز بكفاءة للعضلات فيتحول قسم منه إلى دهون كبدية.",
+            "دراسة شاملة نُشرت في مجلة Nature Reviews Gastroenterology and Hepatology عام 2021 أوضحت أن ما يقارب 75 بالمئة من مرضى السكري من النوع الثاني لديهم درجة من درجات الكبد الدهني، وأن ارتفاع الكبد الدهني يزيد بشكل ملحوظ من خطر تدهور وظائف الكلى وأمراض القلب لدى هؤلاء المرضى.",
+            "في المقابل، الكبد الدهني نفسه يُفاقم مقاومة الأنسولين ويجعل السيطرة على سكر الدم أصعب، مما يخلق حلقة مشتركة: كلما سوء الكبد ارتفع السكر، وكلما ارتفع السكر ساء الكبد. هذا التشابك يعني أن علاج أحدهما ينعكس إيجاباً على الآخر، ولذا فإن إنقاص الوزن والنشاط البدني يُحسّنان كليهما معاً.",
+            "من يعالج السكري دون أن يفحص الكبد قد يُغفل آفة موازية تتطور بصمت. طبيبك الذي يتابع سكري الدم لديك ينبغي أن يفحص الكبد بانتظام، وفي المقابل اكتشاف الكبد الدهني يُعدّ إشارة تحذيرية تستوجب البحث عن مقاومة الأنسولين أو السكري الكامن."
+          ]
+        },
+        {
+          "h2": "كيف يُعالَج الكبد الدهني؟",
+          "paras": [
+            "حتى تاريخ كتابة هذا المقال لا توجد أدوية تحمل الموافقة الرسمية بصفة علاج مخصص لـ NAFLD أو MAFLD كحالة منفردة، وإن كانت الأبحاث نشطة جداً في هذا الاتجاه. ما هو متاح اليوم هو عدد من الأدوية تعالج العوامل المصاحبة كالسكري وارتفاع الدهون وتُحسّن الكبد كأثر إيجابي جانبي.",
+            "العلاج الأثبت فاعلية والأكثر توثيقاً بالأدلة العلمية هو إنقاص الوزن. دراسة شاملة نُشرت في مجلة Diabetes Obesity and Metabolism عام 2022 وجدت أن فقد 7 إلى 10 بالمئة من وزن الجسم يستطيع عكس التراكم الدهني بشكل ملحوظ وتراجع الالتهاب في المراحل المبكرة. الخسارة التدريجية والمستدامة أفضل بكثير من الأنظمة الصارمة التي لا يمكن الحفاظ عليها.",
+            "النشاط البدني المنتظم يُحسّن حساسية الأنسولين ويُقلل الدهون الكبدية حتى دون خسارة وزن ملحوظة في بعض الحالات. المشي السريع 30 دقيقة يومياً على مدار خمسة أيام أسبوعياً هو الهدف المعتدل الموصى به. أما الحمية فيُنصح بتقليل المشروبات السكرية والسكريات المضافة والأطعمة المقلية والمعالجة، وزيادة الخضار والألياف والدهون غير المشبعة من زيت الزيتون والمكسرات.",
+            "ثقافة التداوي بالأعشاب منتشرة في المنطقة وبعض الناس يلجؤون إلى مركبات عشبية يعتقدون أنها تنظف الكبد. المشكلة أن بعض هذه المركبات تحتوي على مواد قد تُسبّب تلفاً كبدياً إضافياً بدلاً من إصلاحه، خاصة إذا استُخدمت بجرعات عالية أو لفترات مطولة. لا تتناول أي مكملات تدّعي علاج الكبد دون مراجعة طبيبك أولاً."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "خطوات رعاية الكبد الدهني في المنزل",
+            "items": [
+              "أنقص الوزن تدريجياً بهدف 7 إلى 10 بالمئة من وزنك الحالي",
+              "تجنب المشروبات السكرية والعصائر المحلاة واستبدلها بالماء",
+              "قلل السكريات المضافة والأطعمة المقلية والمعالجة",
+              "مارس نشاطاً بدنياً معتدلاً 30 دقيقة يومياً خمسة أيام أسبوعياً",
+              "تابع مع طبيبك بتحاليل إنزيمات الكبد والموجات الصوتية كل 6 إلى 12 شهراً",
+              "التزم بعلاج السكري أو ارتفاع الدهون إذا كنت مصاباً بهما"
+            ]
+          }
+        },
+        {
+          "h2": "متى يحتاج الكبد الدهني إلى متابعة متخصصة؟",
+          "paras": [
+            "إذا أشارت النتائج إلى التهاب كبد دهني (NASH) أو إلى تليف في أي درجة فأنت تحتاج إلى متابعة مع طبيب متخصص في أمراض الجهاز الهضمي والكبد وليس فقط الطبيب العام. الطبيب المتخصص يقرر مدى الحاجة إلى FibroScan أو خزعة ويُراقب التطور بدقة.",
+            "مرضى تشمع الكبد يحتاجون إلى مراقبة دورية للكشف المبكر عن مضاعفات خطيرة مثل سرطان الكبد، وهذا يتم عادة عبر موجات صوتية وتحليل بروتين ألفا فيتوبروتين (Alpha-fetoprotein) كل ستة أشهر. كما يحتاج هؤلاء المرضى إلى تقييم دوري لوظائف التخثر والكلى واحتمال توليد الدوالي في المريء.",
+            "في حالات تشمع الكبد المتقدمة مع فشل وظيفي يُطرح التحويل لتقييم زراعة الكبد. هذا ليس سيناريو شائعاً حين يُكتشف المرض مبكراً، لكن الوصول إليه يعني أن فرصة التدخل الناجح تأخرت كثيراً. من هنا تأتي أهمية المتابعة الدورية وعدم الاستهانة بتقرير الكبد الدهني."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "راجع الطبيب بسرعة إذا ظهرت هذه العلامات",
+            "items": [
+              "اصفرار الجلد أو بياض العينين",
+              "انتفاخ البطن مع صعوبة التنفس",
+              "تورم الساقين والقدمين بدون سبب واضح",
+              "ارتباك أو تشوش مستمر في التفكير",
+              "نزيف من اللثة أو سهولة التكدم دون إصابة"
+            ]
+          }
+        },
+        {
+          "h2": "هل يمكن للكبد الدهني أن يعود طبيعياً بالكامل؟",
+          "paras": [
+            "الكبد لا مثيل له بين أعضاء الجسم في قدرته على التجديد والتعافي، وهذه حقيقة راسخة علمياً. في المرحلتين الأولى والثانية، أي الكبد الدهني البسيط والتهاب الكبد الدهني المبكر، فإن العودة إلى وضع الكبد الطبيعي ممكنة بالكامل مع تغيير حقيقي ومستدام في نمط الحياة.",
+            "مراجعة علمية نُشرت في مجلة International Journal of Molecular Sciences عام 2025 أكدت أن التدخلات الغذائية والنشاط البدني والتحكم في الوزن تُحسّن ليس فقط محتوى الدهون في الكبد، بل أيضاً درجة الالتهاب وحتى التليف في المراحل غير المتقدمة. تحسينات ملموسة تبدأ في الظهور في غضون أسابيع إلى أشهر من الالتزام الحقيقي.",
+            "التليف المتقدم وتشمع الكبد لا يعكسان بالكامل للأسف، لكن يمكن إيقاف تقدمهما ومنع مضاعفاتهما بالعلاج الصحيح والمتابعة الدورية. الكبد يمكنه التعويض لفترة طويلة حتى مع وجود تليف إذا حُمّلت عليه حمولة أقل من خلال إصلاح النظام الغذائي والحد من العوامل المُسرِّعة. هذا كله يُرسّخ أهمية التشخيص المبكر والتصرف قبل فوات الأوان.",
+            "رسالة هذا المقال ليست الإحباط بل العكس: الكبد الدهني في مراحله الأولى ليس حكماً بالإعدام بل هو إنذار مبكر يمنحك فرصة حقيقية لتعكس المسار قبل أن يتطور إلى ما هو أخطر. من يأخذ هذا الإنذار بجدية ويغير نمط حياته يمكنه حفظ كبده وصحته."
+          ]
+        }
+      ],
+      "tie": "في تطبيق صحتك يمكنك تتبع نتائج وظائف الكبد على مر الوقت: امسح تحليل ALT وAST وسجله في مكتبتك الصحية الشخصية، واطلب من المساعد الذكي تفسير النتائج بلغة مبسطة، واضبط تذكيرات لمواعيد المتابعة. أداة تساعدك على الانتباه لا تغني عن طبيبك.",
+      "faqs": [
+        {
+          "q": "هل الكبد الدهني ينتج عنه ألم في البطن؟",
+          "a": "في أغلب الأحيان لا يسبب الكبد الدهني ألماً واضحاً وخاصة في مراحله الأولى. قد يشعر بعض الأشخاص بثقل خفيف في الجانب الأيمن العلوي من البطن، لكن الألم الحاد أو المستمر يستوجب تقييماً طبياً للبحث عن أسباب أخرى."
+        },
+        {
+          "q": "هل ارتفاع إنزيمات الكبد يعني دائماً كبداً دهنياً؟",
+          "a": "لا. ارتفاع ALT أو AST له أسباب كثيرة منها الكبد الدهني، لكن أيضاً الأدوية والتهابات الكبد الفيروسية وأمراض العضلات وغيرها. الطبيب يجمع بين التحليل والسونار والأعراض للوصول إلى السبب الحقيقي ولا يحكم بناء على رقم واحد."
+        },
+        {
+          "q": "هل يمكن أن يصيب الكبد الدهني الشخص النحيف؟",
+          "a": "نعم، وهذا مفاجئ لكثيرين. ما يُعرف بالكبد الدهني لدى النحيل (Lean NAFLD) يحدث لأشخاص وزنهم طبيعي ظاهرياً لكنهم يعانون من توزيع غير صحي للدهون أو مقاومة أنسولين أو عوامل وراثية مهيئة. لهذا يقيّم الطبيب الحالة في سياقها الكامل."
+        },
+        {
+          "q": "هل الصيام المتقطع مفيد لعلاج الكبد الدهني؟",
+          "a": "بعض الدراسات الأولية تُشير إلى أن الصيام المتقطع قد يُحسّن مؤشرات الكبد الدهني، لكن الأدلة ليست كافية بعد لتوصية عامة. ما ثبت بوضوح هو أن إنقاص الوزن بأي وسيلة صحية آمنة يساعد الكبد، والنهج الأنجح هو ما يمكنك الالتزام به طويل الأمد بإشراف طبيبك."
+        },
+        {
+          "q": "هل مشروبات الطاقة والعصائر تضر الكبد؟",
+          "a": "نعم. مشروبات الطاقة وكثير من العصائر المصنعة تحتوي على كميات كبيرة من الفركتوز الذي يُحوّله الكبد مباشرة إلى دهون. تناول هذه المشروبات بكثرة وبانتظام هو أحد العوامل التي تُسرّع ظهور الكبد الدهني لدى من لديهم استعداد."
+        },
+        {
+          "q": "كم مرة يجب أن أجري فحوصات الكبد بعد التشخيص؟",
+          "a": "يعتمد ذلك على درجة الكبد الدهني. في الحالات البسيطة يوصي الأطباء عادة بمتابعة كل 6 إلى 12 شهراً بالتحاليل والموجات الصوتية. في حالات التهاب الكبد الدهني أو التليف تكون المتابعة أكثر تواتراً وأشمل بحسب توجيه الطبيب المتخصص."
+        },
+        {
+          "q": "هل يصيب الكبد الدهني الأطفال؟",
+          "a": "للأسف نعم، وانتشاره بين الأطفال يتزايد في المنطقة بالتوازي مع ارتفاع معدلات السمنة وتناول المشروبات السكرية. إذا كان طفلك يعاني من زيادة وزن اطلب من طبيب الأطفال تقييم الكبد في الفحوصات الدورية."
+        }
+      ]
+    },
+    "en": {
+      "title": "Fatty liver: the silent condition behind rising liver disease",
+      "desc": "What fatty liver disease is, its grades, why it is so common across the Middle East, how to find out if you have it, and real steps to reverse it before it becomes scarring.",
+      "keywords": "fatty liver, NAFLD, MAFLD, liver disease Middle East, liver enzymes, ALT, fatty liver treatment, fatty liver causes, obesity liver, diabetes liver, liver ultrasound, fatty liver diet",
+      "h1": "Fatty liver disease: the silent condition behind rising liver disease in the Middle East",
+      "takeaways": [
+        "Fatty liver means fat has built up inside liver cells beyond 5 percent of liver weight, and it is extremely common across the Gulf, Egypt and the wider region.",
+        "Most people have no symptoms and find out by chance through a blood test or ultrasound done for another reason.",
+        "Grades 1 and 2 are fully reversible with weight loss and dietary change; delay lets it progress to scarring that cannot be undone.",
+        "No drug is approved specifically for fatty liver yet: sustained weight loss is the treatment with the strongest evidence.",
+        "If you have diabetes, high blood pressure, or obesity, regular liver enzyme tests and ultrasound are a necessary part of your care."
+      ],
+      "sections": [
+        {
+          "h2": "What is fatty liver and how does fat get into liver cells?",
+          "paras": [
+            "Fatty liver disease, known medically as NAFLD (non-alcoholic fatty liver disease) or the newer term MAFLD (metabolic-associated fatty liver disease), means that more than 5 percent of the liver's weight is stored fat inside its cells. A healthy liver always carries a small amount of fat, but once it exceeds this threshold, a disease process begins that can advance silently over years while the person feels entirely well.",
+            "The two main types are alcoholic fatty liver disease and non-alcoholic fatty liver disease. In the Middle East and North Africa, the non-alcoholic form is by far the more common, driven by obesity, type 2 diabetes, and diets rich in refined carbohydrates and added sugars, rather than by alcohol.",
+            "Fat accumulates in liver cells when the body receives more energy from food than it needs. The liver converts the surplus into stored fat. This conversion accelerates sharply when the diet is rich in fructose from sugary drinks, sweetened juices, and processed foods, and when insulin resistance is present. Central obesity, the kind that accumulates around the abdomen, is one of the strongest drivers.",
+            "The real danger lies not in the fat deposits alone but in what they trigger inside the cells. If fat stays as simple deposits the condition is called simple steatosis, which is fully reversible. But if that fat ignites inflammation, the result is non-alcoholic steatohepatitis or NASH, and NASH is what can progress to fibrosis and ultimately to cirrhosis if nothing changes."
+          ],
+          "visual": {
+            "type": "timeline",
+            "title": "How fatty liver progresses",
+            "items": [
+              {"when": "Stage 1", "what": "Simple fat deposit (Steatosis), no inflammation. Fully reversible with lifestyle change."},
+              {"when": "Stage 2", "what": "Fatty liver with inflammation (NASH): cells are inflamed alongside the fat. Still partly reversible."},
+              {"when": "Stage 3", "what": "Fibrosis: scar tissue replaces healthy liver cells. Progression can be slowed."},
+              {"when": "Stage 4", "what": "Cirrhosis: widespread permanent damage that severely impairs liver function."}
+            ]
+          }
+        },
+        {
+          "h2": "Why is fatty liver so common in the Gulf, Egypt and the region?",
+          "paras": [
+            "A 2020 study published in the World Journal of Gastroenterology, with authors from several Gulf countries and Egypt, found that fatty liver disease affects approximately 30 percent of adults across the Middle East, with the rate rising sharply among those with obesity or type 2 diabetes to reach around three quarters of that population.",
+            "A separate 2018 projection study estimated that Saudi Arabia and the United Arab Emirates face a rising burden of fatty liver-related cirrhosis and liver cancer in the coming decades unless dietary and activity habits change substantially.",
+            "Several regional factors drive this high prevalence: very high rates of obesity and overweight, particularly central abdominal obesity; widespread reliance on sugary drinks and sweetened juices instead of water; low physical activity linked to hot climates that discourage outdoor exercise and to car-dependent urban layouts; and a very high burden of type 2 diabetes, with some Gulf states recording among the highest rates in the world.",
+            "Late diagnosis compounds the problem. In many parts of the region, routine preventive blood tests are not the norm, so people discover fatty liver incidentally when an abnormal enzyme result appears on a test ordered for another reason, or when symptoms of fibrosis emerge years later. Where ultrasound is available only in larger urban centres or is not offered unless there is a specific complaint, the window for early detection can be missed entirely."
+          ],
+          "visual": {
+            "type": "stats",
+            "items": [
+              {"value": "~30%", "label": "of Middle Eastern adults estimated to have fatty liver disease", "tone": "warn"},
+              {"value": "75%", "label": "of people with type 2 diabetes have some degree of fatty liver", "tone": "bad"},
+              {"value": "Stage 1 and 2", "label": "fully reversible with sustained lifestyle change", "tone": "good"}
+            ]
+          }
+        },
+        {
+          "h2": "Does fatty liver cause symptoms you can notice?",
+          "paras": [
+            "In the great majority of cases there are no symptoms in the early stages. Years of fat accumulation can pass while the person feels entirely well, and this is precisely what makes the condition dangerous: it gives no advance warning while there is still time to act effectively.",
+            "Some people notice a mild sense of heaviness or a vague discomfort on the upper right side of the abdomen where the liver sits, but this is not specific to fatty liver and can arise from many other causes. The presence or absence of this feeling cannot be used as a reliable indicator of liver health.",
+            "As the disease progresses toward fibrosis, more noticeable signs may appear: persistent unexplained fatigue, yellowing of the skin or the whites of the eyes (jaundice), swelling in the abdomen from fluid accumulation (ascites), swelling in the feet and ankles, and easy bruising or bleeding from the gums. By the time these signs appear, the disease is already at an advanced stage.",
+            "This makes routine preventive screening important for anyone with risk factors: obesity, type 2 diabetes, raised blood fats, or high blood pressure. Regular liver enzyme tests and ultrasound on a scheduled basis are the only reliable path to catching this early, when recovery is fully possible."
+          ]
+        },
+        {
+          "h2": "How does a doctor detect fatty liver?",
+          "paras": [
+            "The most common route to detection is an incidental rise in liver enzymes, particularly ALT and AST, on a routine blood panel ordered for another purpose, or a bright echogenic appearance of the liver on an ultrasound scan done for a different reason.",
+            "Abdominal ultrasound is the simplest and least expensive first-line tool. It detects fat accumulation when it reaches a visible level but cannot accurately distinguish simple steatosis from early fibrosis. Liver enzymes can be elevated or even normal in fatty liver disease, so a doctor does not rely on them alone and reads them alongside the clinical picture and imaging.",
+            "To assess the degree of fibrosis accurately, a doctor may use a FibroScan, a non-invasive test that measures liver stiffness and provides a reliable estimate of fibrosis grade. In unclear or advanced cases, a liver biopsy gives a definitive histological picture, though this is less commonly needed since FibroScan became widely available.",
+            "Supporting blood tests that help build the full picture include fasting blood glucose and HbA1c to detect diabetes or insulin resistance, cholesterol and triglycerides to assess blood fat levels, total protein and albumin to measure the liver's synthetic capacity, and clotting tests in more advanced cases. Together these tests map the underlying metabolic factors driving the condition."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Tests used to assess fatty liver",
+            "head": ["Test", "What it shows", "Note"],
+            "rows": [
+              ["ALT / AST", "Liver enzyme levels", "Can be normal even with fatty liver present"],
+              ["Ultrasound", "Fat accumulation in the liver", "Cannot accurately grade the degree of fibrosis"],
+              ["FibroScan", "Liver stiffness and fibrosis grade", "Non-invasive and accurate, available in larger centres"],
+              ["Blood glucose and HbA1c", "Insulin resistance and diabetes status", "Major risk factors for progression"],
+              ["Triglycerides and cholesterol", "Blood fat levels", "Elevated in most people with fatty liver"]
+            ]
+          }
+        },
+        {
+          "h2": "What is the link between fatty liver and type 2 diabetes?",
+          "paras": [
+            "Fatty liver and type 2 diabetes feed each other in a cycle that is difficult to break. Insulin resistance, which both precedes and accompanies diabetes, is one of the main drivers of fat accumulation in the liver. Insulin that does not work efficiently cannot direct blood glucose into muscle cells, so part of it is converted to liver fat instead.",
+            "A 2021 review in Nature Reviews Gastroenterology and Hepatology found that approximately 75 percent of people with type 2 diabetes have some degree of fatty liver, and that fatty liver substantially raises the risk of kidney deterioration and cardiovascular complications in these patients, beyond what the diabetes alone would cause.",
+            "In the other direction, fatty liver worsens insulin resistance and makes blood sugar control harder, creating a shared cycle: the worse the liver, the higher the blood sugar, and the higher the blood sugar, the worse the liver. This interconnection means that treating one improves the other, and that weight loss and physical activity benefit both simultaneously.",
+            "Managing diabetes without assessing the liver may mean missing a parallel condition developing in silence. Your doctor following your diabetes should check your liver regularly, and discovering fatty liver is itself a warning sign to look for undiagnosed insulin resistance or diabetes in anyone who does not yet have that label."
+          ]
+        },
+        {
+          "h2": "How is fatty liver treated?",
+          "paras": [
+            "There is currently no drug with full regulatory approval specifically for NAFLD or MAFLD as a standalone condition, though research in this area is very active and several candidates are in advanced trials. What exists are medicines that treat accompanying conditions such as type 2 diabetes and raised blood fats, and improve the liver as a positive secondary effect.",
+            "The treatment with the strongest and most consistently replicated evidence is weight loss. A comprehensive 2022 review in Diabetes Obesity and Metabolism found that losing 7 to 10 percent of body weight can substantially reverse fat accumulation and reduce liver inflammation in early-stage disease. Gradual, sustained loss is more effective than crash dieting because it can be maintained long enough for the liver to recover.",
+            "Regular physical activity improves insulin sensitivity and reduces liver fat even without obvious weight change in some cases. A target of 30 minutes of moderate exercise such as brisk walking on most days of the week is the standard starting point. The diet should cut sugary drinks, added sugars, refined carbohydrates, fried and processed foods, and increase fibre, vegetables, and unsaturated fats from sources like olive oil and nuts.",
+            "Herbal preparations marketed as liver cleansers are popular across the region but carry real risks: some contain compounds that can cause additional liver injury rather than help, particularly at high doses or with prolonged use. Do not take any supplement claiming to treat the liver without discussing it with your doctor first, as the list of hepatotoxic herbal products is unfortunately not short."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "Looking after your liver at home",
+            "items": [
+              "Lose weight gradually, aiming for 7 to 10 percent of your current body weight",
+              "Cut out sugary drinks and sweetened juices and replace them with water",
+              "Reduce added sugars, refined carbohydrates, fried and processed food",
+              "Get at least 30 minutes of moderate physical activity most days of the week",
+              "Have liver enzyme tests and an ultrasound every 6 to 12 months",
+              "Keep your diabetes or raised blood fats treated consistently if you have them"
+            ]
+          }
+        },
+        {
+          "h2": "When does fatty liver need specialist care?",
+          "paras": [
+            "If your results suggest NASH or fibrosis of any grade, you need follow-up with a gastroenterologist or hepatologist rather than the general practitioner alone. A specialist can decide whether FibroScan or biopsy adds useful staging information and can guide a more tailored management plan.",
+            "People with liver cirrhosis need regular surveillance for liver cancer, typically an ultrasound scan and an alpha-fetoprotein blood test every six months. They also need periodic assessment of clotting function, kidney health, and the risk of oesophageal varices, which are enlarged veins that can bleed dangerously.",
+            "Liver transplantation is considered in advanced cirrhosis with functional liver failure. This is not a common outcome when the disease is discovered early and managed, but reaching that point means the window for effective intervention was missed for far too long. This makes every routine blood test and scan that might catch fatty liver early genuinely worth doing."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "See a doctor urgently if you notice",
+            "items": [
+              "Yellowing of the skin or the whites of the eyes",
+              "Swelling in the abdomen with difficulty breathing",
+              "Swelling in the legs or ankles without a clear cause",
+              "Confusion or persistent difficulty thinking clearly",
+              "Easy bruising or bleeding from the gums without injury"
+            ]
+          }
+        },
+        {
+          "h2": "Can a fatty liver return to completely normal?",
+          "paras": [
+            "The liver is unmatched among the body's organs in its capacity to regenerate, and this is well established by science. At stages 1 and 2, simple steatosis and early NASH, full return to a normal liver is genuinely achievable with sustained change to diet and activity. The liver has a long memory for good habits as well as bad ones.",
+            "A 2025 review in the International Journal of Molecular Sciences confirmed that dietary and exercise interventions improve not only liver fat content but also the degree of inflammation and even fibrosis grade in non-advanced disease. Measurable improvement in liver enzyme levels and imaging can appear within weeks to months of genuine and consistent commitment.",
+            "Advanced fibrosis and established cirrhosis cannot be fully reversed, but their progression can be halted and complications prevented with the right management and regular specialist monitoring. Even a liver with significant scarring can continue to function adequately for many years if the underlying drivers are addressed. This makes the case for acting on the diagnosis rather than waiting to see what happens.",
+            "The message of this article is not discouragement but the opposite: fatty liver in its early stages is not a final verdict. It is an early warning that gives you a real chance to reverse the course before it reaches something more serious. The people who take that warning seriously and change their habits genuinely can protect their liver and their long-term health."
+          ]
+        }
+      ],
+      "tie": "The Sihtak app lets you track your liver health over time: scan your ALT and AST results into your personal health record, ask the AI assistant to explain what they mean in plain language, and set reminders for your follow-up appointments. A helpful tool alongside your care, not a replacement for your doctor.",
+      "faqs": [
+        {
+          "q": "Does fatty liver cause pain in the abdomen?",
+          "a": "In most cases fatty liver causes no clear pain, especially in the early stages. Some people notice a mild heaviness on the upper right side of the abdomen, but sharp or persistent pain warrants a medical assessment to look for other causes rather than assuming it is the liver."
+        },
+        {
+          "q": "Does raised ALT always mean fatty liver?",
+          "a": "No. Raised ALT or AST has many possible causes, including fatty liver but also medications, viral hepatitis, and muscle conditions. Your doctor combines the blood result with an ultrasound and clinical picture to find the real cause rather than drawing conclusions from a single number."
+        },
+        {
+          "q": "Can a person with normal weight get fatty liver?",
+          "a": "Yes, and this surprises many people. What is called lean NAFLD occurs in people with a normal weight on the scales but an unhealthy distribution of fat, insulin resistance, or a genetic tendency. This is why a doctor assesses the full clinical picture rather than weight alone."
+        },
+        {
+          "q": "Is intermittent fasting helpful for fatty liver?",
+          "a": "Early studies suggest intermittent fasting may improve fatty liver markers, but the evidence is not yet strong enough for a general recommendation. What is clearly established is that weight loss by any safe dietary method helps the liver, and the best approach is whichever one you can sustain long term under your doctor's guidance."
+        },
+        {
+          "q": "Do energy drinks and commercial juices damage the liver?",
+          "a": "Yes. Energy drinks and many commercial juices contain large amounts of fructose, which the liver converts directly into fat. Drinking these regularly is one of the dietary factors that accelerates the development of fatty liver disease, particularly in people who already have a metabolic tendency."
+        },
+        {
+          "q": "How often should I have liver tests after a fatty liver diagnosis?",
+          "a": "This depends on the stage. For simple steatosis without fibrosis, doctors typically recommend enzyme tests and ultrasound every 6 to 12 months. If NASH or fibrosis is present, follow-up is more frequent and more detailed, guided by your specialist based on how the disease is behaving."
+        },
+        {
+          "q": "Can children get fatty liver?",
+          "a": "Unfortunately yes, and the prevalence is rising among children in the region alongside increasing rates of childhood obesity and sugary drink consumption. If your child is overweight, ask the paediatrician to assess liver health as part of routine check-ups rather than waiting for a symptom to appear."
+        }
+      ]
+    }
+  }
+}

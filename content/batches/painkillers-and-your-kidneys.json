@@ -1,0 +1,485 @@
+{
+  "slug": "painkillers-and-your-kidneys",
+  "category": "medicines",
+  "chip_ar": "الأدوية",
+  "chip_en": "Medicines",
+  "date_iso": "2026-07-14",
+  "sources": [
+    {
+      "label": "Soliman S, Ahmed RM, Ahmed MM et al: Non-steroidal anti-inflammatory drugs: what is the actual risk of chronic kidney disease? A systematic review and meta-analysis, Romanian journal of internal medicine, 2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39412516/"
+    },
+    {
+      "label": "Drozdal S, Lechowicz K, Szostak B et al: Kidney damage from nonsteroidal anti-inflammatory drugs-Myth or truth? Review of selected literature, Pharmacology research and perspectives, 2021",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34310861/"
+    },
+    {
+      "label": "Lucas GNC et al: Pathophysiological aspects of nephropathy caused by non-steroidal anti-inflammatory drugs, Jornal brasileiro de nefrologia, 2019",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30281062/"
+    },
+    {
+      "label": "Keen MU, Aeddula NR: Analgesic Nephropathy, StatPearls, 2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31082145/"
+    },
+    {
+      "label": "Kalantar-Zadeh K, Jafar TH, Nitsch D et al: Chronic kidney disease, Lancet, 2021",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34175022/"
+    },
+    {
+      "label": "GBD 2023 Chronic Kidney Disease Collaborators: Global, regional, and national burden of chronic kidney disease in adults, 1990-2023, Lancet, 2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41213283/"
+    },
+    {
+      "label": "Chang RW, Tompkins DM, Cohn SM et al: Are NSAIDs Safe? Assessing the Risk-Benefit Profile of Nonsteroidal Anti-inflammatory Drug Use in Postoperative Pain Management, The American surgeon, 2021",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33238721/"
+    }
+  ],
+  "content": {
+    "ar": {
+      "title": "المسكنات والكلى: الضرر الذي لا يحذرك منه أحد",
+      "desc": "الإيبوبروفين والديكلوفيناك متاحان بلا وصفة طبية في معظم بلدان المنطقة، لكن الاستخدام المتكرر قد يتلف كليتيك بصمت. تعرف على الأدلة والمخاطر والبدائل الآمنة.",
+      "keywords": "مسكنات والكلى، إيبوبروفين كلى، ديكلوفيناك كلى، اعتلال الكلى بالمسكنات، ألم الكلى من المسكنات، مضادات الالتهاب غير الستيرويدية، فشل كلوي من المسكنات، مسكنات آمنة للكلى",
+      "h1": "المسكنات والكلى: ما الذي يحدث فعلاً عند تناولها بانتظام؟",
+      "takeaways": [
+        "مضادات الالتهاب غير الستيرويدية (NSAIDs) مثل الإيبوبروفين والديكلوفيناك تقلل تدفق الدم للكليتين وقد تسبب تلفاً حاداً أو مزمناً عند الإفراط في استخدامها.",
+        "الأشخاص المصابون بالسكري أو ضغط الدم أو الكلى السابقة أو كبار السن أو مدمنو التدخين أكثر عرضة للضرر حتى من الجرعات العادية.",
+        "الباراسيتامول هو البديل الأكثر أماناً للكلى عند استخدامه بالجرعة الصحيحة، لكنه يحتاج إلى حذر عند أمراض الكبد.",
+        "لا تتجاوز ثلاثة أيام من NSAIDs دون استشارة الطبيب، وتجنبها تماماً إذا كنت جفافاً أو لم تشرب كفايتك من الماء.",
+        "ألم الظهر أو بول داكن أو انتفاخ القدمين بعد تناول المسكنات أعراض تستدعي مراجعة الطبيب فوراً."
+      ],
+      "sections": [
+        {
+          "h2": "كيف تضر المسكنات الكليتين؟",
+          "paras": [
+            "الكلية (Kidney) ليست مجرد مصفاة. إنها عضو دقيق يعتمد على توازن دقيق من المواد الكيميائية لتنظيم تدفق الدم عبر أوعيتها الصغيرة. من بين هذه المواد البروستاغلاندينات (Prostaglandins)، وهي مركبات طبيعية تُبقي الأوعية الكلوية مفتوحة وتضمن وصول الدم الكافي للتصفية.",
+            "مضادات الالتهاب غير الستيرويدية (NSAIDs) مثل الإيبوبروفين (Ibuprofen) والديكلوفيناك (Diclofenac) والنابروكسين (Naproxen) تعمل بتثبيط إنزيمات COX المسؤولة عن إنتاج هذه البروستاغلاندينات. الأثر الجانبي هو أن الأوعية الكلوية تنقبض، فيقل تدفق الدم إلى الكليتين. في حالة شخص صحيح ومرطَّب جيداً ويتناول الدواء لأيام قليلة، يتعامل الجسم مع هذا الانقباض ببطء. لكن عند الجفاف أو وجود مرض كلوي سابق أو ضغط دم غير منضبط، قد يكفي الانقباض لإيقاف عمل الكلية بشكل حاد.",
+            "مراجعة 2021 نشرها Drozdal وزملاؤه في مجلة Pharmacology Research and Perspectives وثّقت آليتين رئيسيتين للضرر: الأولى حادة وتعكس نفسها عند إيقاف الدواء إذا أُكشفت مبكراً، والثانية تراكمية تنشأ من استخدام طويل المدى وتؤدي إلى اعتلال الكلى بالمسكنات (Analgesic Nephropathy)، وهو تلف دائم لا يُرى بالأعراض إلا في مراحل متقدمة."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "ما يحدث داخل الكلية عند تناول مضادات الالتهاب",
+            "items": [
+              "تُثبط مضادات الالتهاب إنزيمات COX في الجسم كله بما في ذلك الكلية",
+              "تنخفض مستويات البروستاغلاندين الكلوي",
+              "تنقبض الأوعية الدموية الصغيرة داخل الكلية",
+              "يقل تدفق الدم إلى الوحدات الكلوية (Nephrons)",
+              "عند استمرار التثبيط، يبدأ تراكم الضرر في الأنسجة الكلوية"
+            ]
+          }
+        },
+        {
+          "h2": "أي المسكنات أخطر على الكلى؟",
+          "paras": [
+            "ليست كل المسكنات متساوية. الأدوية التي تثبط COX-1 وCOX-2 معاً مثل الإيبوبروفين والديكلوفيناك والكيتوبروفين والنابروكسين تحمل الخطر الأكبر على الكلية. مراجعة منهجية وتحليل شامل (meta-analysis) نُشر في المجلة الرومانية للطب الداخلي عام 2025 أكدت أن الاستخدام المنتظم لهذه الأدوية يرفع خطر مرض الكلى المزمن (CKD) بشكل موثق، مع تفاوت بين الأدوية المختلفة داخل المجموعة.",
+            "الكوكسيبات (Coxibs) مثل السيليكوكسيب تثبط COX-2 فقط وتُعتبر أقل ضرراً للمعدة، لكنها لا تعفي الكليتين تماماً من الخطر وتزيد من أحداث القلب والأوعية عند الاستخدام المطوَّل. الأسبرين (Aspirin) بجرعته المنخفضة المخصصة للقلب له تأثير ضئيل على الكليتين.",
+            "الباراسيتامول (Paracetamol، المعروف أيضاً بالأسيتامينوفين) لا يعمل بطريقة COX الكلوية، وهو لهذا السبب البديل الأول الذي يوصي به الأطباء للمرضى ذوي الكلى الضعيفة. لكن تجاوز جرعة 3 غرام يومياً عند من يعانون من مشاكل في الكبد أو يشربون الكحول يُحوِّله إلى خطر آخر."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "مقارنة المسكنات الشائعة وخطرها على الكلية",
+            "head": ["الدواء", "التصنيف", "الخطر الكلوي"],
+            "rows": [
+              ["إيبوبروفين", "NSAID غير انتقائي", "مرتفع عند الاستخدام المطول أو الجفاف"],
+              ["ديكلوفيناك", "NSAID غير انتقائي", "مرتفع مشابه للإيبوبروفين"],
+              ["نابروكسين", "NSAID غير انتقائي", "مرتفع مشابه، نصف عمر أطول"],
+              ["سيليكوكسيب", "كوكسيب (COX-2)", "أقل على المعدة، لكن الكلى لا تزال في خطر"],
+              ["باراسيتامول", "مسكن آخر", "منخفض عند الجرعات المعتمدة"],
+              ["أسبرين (جرعة قلبية)", "مضاد تجلط", "تأثير كلوي ضئيل"]
+            ]
+          }
+        },
+        {
+          "h2": "من هو الأكثر عرضة للخطر؟",
+          "paras": [
+            "في بلداننا حيث الإيبوبروفين والديكلوفيناك يُباعان بحرية في الصيدليات دون وصفة طبية، يتناولهما ملايين الأشخاص لآلام الظهر والرأس والأسنان والحيض دون معرفة حالتهم الكلوية. لكن بعض الفئات تتعرض لخطر حقيقي يمكن أن يتطور بسرعة.",
+            "مرضى السكري من النوعين يعانون في الغالب من تغيرات في الأوعية الكلوية (Diabetic nephropathy) لا تظهر في التحاليل الاعتيادية إلا متأخراً. إضافة NSAIDs فوق هذا الضرر القائم كإضافة ثقل على جسر متشقق. كذلك مرضى ضغط الدم غير المسيطَر عليه، كبار السن فوق 65 عاماً بسبب انخفاض الكتلة الكلوية الاحتياطية، والأشخاص الذين فقدوا كلية واحدة أو عاشوا نوبة التهاب كلوي سابقة.",
+            "الجفاف هو المحفز الأكثر إغفالاً في منطقتنا الحارة. شخص صحيح تماماً يتناول إيبوبروفين في يوم صيفي حار وهو لم يشرب كافيه من الماء قد يُصاب بإصابة كلوية حادة (Acute Kidney Injury أو AKI) لا يعرفها إلا عبر تحليل دم يُصدمه. تزداد قراءة الكرياتينين (Creatinine) في الدم بشكل لافت وتنخفض نسبة الترشيح الكبيبي (GFR) قبل أن يشعر أي أعراض."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "warn",
+            "title": "تجنب NSAIDs تماماً أو استشر طبيبك قبلها إذا كنت",
+            "items": [
+              "مصاباً بالسكري، حتى إذا كانت تحاليل الكلى طبيعية",
+              "تعاني من ضغط دم غير منضبط",
+              "فوق سن 65 عاماً",
+              "تعاني من فشل كلوي أو مرض كلوي مزمن بأي درجة",
+              "في حالة جفاف أو حمى أو إسهال أو قيء",
+              "تتناول مدرات البول أو مثبطات ACE أو سارتانات"
+            ]
+          }
+        },
+        {
+          "h2": "كيف يتلف الاستخدام طويل الأمد الكلى بصمت؟",
+          "paras": [
+            "اعتلال الكلى بالمسكنات (Analgesic Nephropathy) هو التشخيص الذي يفاجئ المرضى أكثر من أي شيء آخر. إنه لا يتطور بعد أسبوع بل بعد سنوات من الاستخدام المتكرر، في الغالب عند أشخاص يستخدمون مزيجاً من المسكنات لآلامهم المزمنة. وصف الباحثون Keen وAeddula في مراجعتهم المنشورة في StatPearls عام 2026 أن التلف يبدأ في النخاع الكلوي (Renal medulla)، الجزء الداخلي من الكلية الأقل تدفقاً دموياً والأكثر عرضة لتجمع المواد الضارة.",
+            "ما يجعل هذا المرض خطيراً بشكل خاص هو أن نصف الأشخاص المصابين به لا يعلمون بوجوده إلا عند فحص مرض آخر. قد تنحسر وظيفة الكليتين إلى 30 أو 40 بالمئة دون أي ألم ملحوظ. الألم الكلوي الحقيقي يأتي متأخراً جداً عندما تكون المشكلة قد استقرت.",
+            "الإشارة الأولى التي يرصدها التحليل هي ارتفاع الكرياتينين في الدم، أو ظهور البروتين في البول (Proteinuria)، أو تراجع GFR. تحليل بول بسيط يكلف القليل يمكنه إنقاذك من هذا المصير إذا أجريته بانتظام. إذا كنت تستخدم NSAIDs لأكثر من ثلاثة أيام في الأسبوع بشكل منتظم، اطلب من طبيبك تحليل وظائف الكلى."
+          ],
+          "visual": {
+            "type": "timeline",
+            "title": "كيف يتطور تلف الكلى من NSAIDs مع الزمن",
+            "items": [
+              {"when": "أيام قليلة", "what": "تقلص الأوعية الكلوية، عكوس عند إيقاف الدواء في الشخص السليم"},
+              {"when": "أسابيع متكررة", "what": "قد يرتفع الكرياتينين قليلاً، ويعود للطبيعي عند التوقف"},
+              {"when": "أشهر من الاستخدام المتكرر", "what": "يبدأ تراكم الضرر في النخاع الكلوي دون أعراض"},
+              {"when": "سنوات", "what": "اعتلال كلوي مزمن، ضمور الحليمات الكلوية، قد يتطور لفشل كلوي"},
+              {"when": "متأخر جداً", "what": "ظهور الأعراض: تعب، انتفاخ، تراجع البول، ضغط دم مرتفع"}
+            ]
+          }
+        },
+        {
+          "h2": "ما الأعراض التي تدل على إصابة كلوية من المسكنات؟",
+          "paras": [
+            "المشكلة الكبرى هي أن معظم إصابات الكلى من المسكنات لا تعطي أعراضاً واضحة في بدايتها. الشخص يستمر في أخذ الحبوب لأن ظهره يؤلمه أو رأسه يصدع، وكليتاه تتلقيان الضربات في صمت. الأعراض التي تستدعي الانتباه ليست حتماً آلاماً في الكلى، لأن الكلية نفسها نادراً ما تُحس بالألم حتى في المراحل المتقدمة.",
+            "ما يجب أن ينبهك هو: تراجع كمية البول أو لونه الداكن بشكل غير معتاد بعد تناول المسكنات، انتفاخ الكاحلين أو القدمين أو حول العينين صباحاً، رغوة في البول تدل على وجود بروتين، صداع مستمر وتعب غير مبرر، أو ارتفاع ضغط الدم عند شخص لم يعانِ منه من قبل. هذه العلامات مجتمعة أو منفردة تستحق فحصاً فورياً.",
+            "الفحوصات التي يطلبها الطبيب عادةً هي الكرياتينين (Creatinine) في الدم لقياس تصفية الكليتين، ونسبة البروتين إلى الكرياتينين في البول (Urine PCR)، وتحليل بول كامل. لا تحتاج مستشفى كبيراً لهذه التحاليل، أي مختبر خاص في مدينتك يمكنه إجراؤها."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "اطلب المساعدة الطبية فوراً إذا لاحظت بعد تناول المسكنات",
+            "items": [
+              "توقف شبه تام عن التبول أو كمية بول أقل بكثير من المعتاد",
+              "ألم شديد في أسفل الظهر على جانبي العمود الفقري",
+              "بول بني داكن أو محمر غير طبيعي",
+              "انتفاخ سريع في الوجه أو القدمين أو اليدين",
+              "تشوش ذهني أو غثيان شديد مصحوب بتعب"
+            ]
+          }
+        },
+        {
+          "h2": "كيف تفسر تحليل وظائف الكلى؟",
+          "paras": [
+            "إذا طلب الطبيب تحليل وظائف الكلى (Kidney Function Test أو KFT)، ستجد في التقرير رقم الكرياتينين (Creatinine) في الدم ونسبة الترشيح الكبيبي (GFR أو eGFR). الكرياتينين في الدم هو نتاج تكسير العضلات ويُزاح عبر الكليتين؛ إذا ارتفع، فالكلية تُصافِح الأخيرة. القيم الطبيعية تختلف قليلاً بين المختبرات والأعمار لكنها في الغالب تتراوح بين 0.6 و1.1 ملغ/دل للمرأة وبين 0.7 و1.3 ملغ/دل للرجل.",
+            "نسبة GFR هي الأهم: تقيس كمية الدم التي تنقيها كلياك في الدقيقة. فوق 90 مل/دق/1.73م2 يعني وظيفة طبيعية. بين 60 و89 يعني تراجع خفيف قد يحتاج متابعة. أقل من 60 لأكثر من ثلاثة أشهر هو تعريف مرض الكلى المزمن وفق معايير مراجعة Kalantar-Zadeh وزملائه المنشورة في Lancet عام 2021. وصول GFR إلى أقل من 15 يعني الاقتراب من الفشل الكلوي الذي يستلزم غسيل الكلى.",
+            "نقطة مهمة: الكرياتينين يتأثر بكتلة العضلات. الرياضي الذي بنى عضلات ضخمة قد يُعطي كرياتينين أعلى طبيعياً. لهذا يعتمد الأطباء بشكل متزايد على قراءة GFR المحسوبة بدلاً من الكرياتينين وحده، وفق صيغ تأخذ بعين الاعتبار العمر والجنس ووزن الجسم."
+          ],
+          "visual": {
+            "type": "range-scale",
+            "title": "ماذا يعني رقم GFR (eGFR) في تقريرك؟",
+            "label": "eGFR",
+            "unit": "ml/min/1.73m2",
+            "min": 0,
+            "max": 120,
+            "zones": [
+              {"to": 15, "tone": "bad", "label": "فشل كلوي"},
+              {"to": 30, "tone": "bad", "label": "شديد"},
+              {"to": 60, "tone": "warn", "label": "متوسط"},
+              {"to": 90, "tone": "warn", "label": "خفيف"},
+              {"to": 120, "tone": "good", "label": "طبيعي"}
+            ],
+            "source": "Kalantar-Zadeh K et al: Chronic kidney disease, Lancet, 2021",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/34175022/"
+          }
+        },
+        {
+          "h2": "ما البدائل الآمنة لتسكين الألم؟",
+          "paras": [
+            "السؤال الذي يطرحه كل مريض: ماذا آخذ بدلاً من الإيبوبروفين؟ الإجابة تعتمد على سبب الألم. للآلام الخفيفة إلى المتوسطة كصداع التوتر وآلام الحيض غير الشديدة وآلام الأسنان، الباراسيتامول بجرعة 500 إلى 1000 ملغ فعّال وآمن للكلى عند الجرعة المعتمدة. الجرعة القصوى للبالغين هي 4 غرام (4000 ملغ) يومياً، وينصح كثير من الأطباء بعدم تجاوز 3 غرام يومياً عند التكرار.",
+            "للآلام الناتجة عن التهاب مثل التهاب المفاصل، الكمادات الدافئة والباردة والتمارين الخفيفة والعلاج الطبيعي تعطي نتائج موثقة في تخفيف الأعراض دون أدوية. الكريمات الموضعية التي تحتوي على NSAIDs مثل ديكلوفيناك جل تمتص محلياً وتعطي تركيزاً أقل بكثير في الدم مقارنة بالحبة الفموية، مما يجعلها أأمن للكلى، وإن لم تكن خالية من المخاطر كلياً.",
+            "التريبتانات للصداع النصفي، والعلاج بالبرد والحرارة لآلام الظهر، والمضمضة بمحلول ملحي لآلام الأسنان ريثما تصل للطبيب، كلها خيارات تجنبك الأعباء الكيميائية على الكلية. والأهم: إذا كنت تحتاج مسكناً يومياً لأكثر من عشرة أيام في الشهر، فأنت تحتاج طبيباً لعلاج السبب لا الأعراض."
+          ]
+        },
+        {
+          "h2": "كيف تحمي كليتيك إذا كنت مضطراً لأخذ NSAIDs؟",
+          "paras": [
+            "أحياناً لا مفر من استخدام مضادات الالتهاب، خاصةً بعد إصابات رياضية أو عمليات جراحية أو في نوبات التهاب حادة. في هذه الحالات، ثمة قواعد تقلل المخاطر بشكل حقيقي. أولاً: لا تأخذها على معدة فارغة وشرب كمية وفيرة من الماء مع كل جرعة يساعد الكلية على طرح الدواء بكفاءة.",
+            "ثانياً: القصير أفضل. ثلاثة أيام في معظم الحالات تكفي وتكون مخاطرها منخفضة. تجاوز الأسبوع دون مراجعة طبيب هو حيث تبدأ الأرقام تتغير في تحاليلك. ثالثاً: لا تدمجها مع الكافيين الزائد الذي يضيق الأوعية أيضاً، ولا مع الكحول ولا مع أدوية ضغط الدم من مجموعة ACE inhibitors أو sartans دون نصيحة طبيب، لأن هذا المزيج رُصدت له حالات فشل كلوي حاد موثقة.",
+            "رابعاً: اعرف حالتك الكلوية. إذا لم تُجرِ تحليل وظائف كلى في السنتين الأخيرتين وعمرك فوق 40، أو كنت مصاباً بالسكري أو ضغط الدم، فالتحليل قبل أن تبدأ دورة علاج يستحق التكلفة الزهيدة التي يعود بها."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "قواعد لخفض خطر الكلى إذا اضطررت لـ NSAIDs",
+            "items": [
+              "خذ أقل جرعة فعّالة لأقصر مدة ممكنة",
+              "اشرب كوباً كاملاً من الماء مع كل جرعة",
+              "لا تتجاوز ثلاثة أيام متصلة دون استشارة الطبيب",
+              "تجنبها تماماً إذا كنت جفافاً أو مريضاً بالإسهال أو الحمى",
+              "لا تجمعها مع مدرات البول أو أدوية ACE/ARB دون نصيحة طبيب",
+              "أجرِ تحليل كرياتينين وGFR إذا استمررت على الدواء أكثر من أسبوع"
+            ]
+          }
+        },
+        {
+          "h2": "ماذا تقول الأرقام العالمية عن مرض الكلى المزمن في منطقتنا؟",
+          "paras": [
+            "مرض الكلى المزمن ليس مرضاً نادراً في المنطقة العربية. تحليل الأعباء العالمية للأمراض لعام 2023 المنشور في Lancet عام 2025 أظهر أن مرض الكلى المزمن يؤثر على ما بين 9 و11 بالمئة من البالغين على مستوى العالم، مع أعباء أعلى في المناطق التي ترتفع فيها نسب السكري وضغط الدم وهي بالضبط بلداننا. وكلا المرضين يرفعان الهشاشة الكلوية لمضادات الالتهاب.",
+            "الجانب الذي يغفله كثير من المصادر هو دور الوصول الحر للأدوية دون وصفة طبية في هذه الأرقام. في سوريا ومصر والأردن والعراق وكثير من بلدان المنطقة، يمكن شراء الإيبوبروفين 400 ملغ والديكلوفيناك 50 ملغ من الصيدلية دون أي وصفة، مما يجعل الاستخدام المفرط سهلاً وغير محسوب.",
+            "الطبيب الذي يعالج مرضاه في هذا الواقع يعرف أن جزءاً من تدهور الكلى لديهم ليس من مرضهم الأصلي بل من المسكنات التي يتناولونها لعلاج أعراضه. التوعية بهذا الترابط هي الخطوة الأولى لكسر الحلقة."
+          ]
+        },
+        {
+          "h2": "متى يجب أن تراجع الطبيب بسبب المسكنات والكلى؟",
+          "paras": [
+            "مراجعة الطبيب ليست فقط عند ظهور الأعراض. إذا كنت تتناول أياً من NSAIDs بانتظام أسبوعياً أو أكثر لأي سبب، مراجعة سنوية مع تحليل وظائف كلى وتحليل بول هي ممارسة وقائية حكيمة. لا تنتظر حتى تشعر بالألم في الظهر أو تتراجع كمية بولك لأن ذلك يعني أنك تتأخر.",
+            "إذا كان طبيبك قد وصف لك NSAIDs لمدة طويلة لمرض مزمن مثل التهاب المفاصل الروماتويدي أو الآلام العضلية المزمنة، ناقشه صراحةً عن وضع كليتيك وكيفية المتابعة. الطبيب الجيد لن يمانع هذا السؤال، بل إنه بالتأكيد يفكر فيه.",
+            "وإذا كنت مريضاً بالكلى وتتألم، لا تتردد في إخبار الصيدلاني بحالتك قبل أي شراء. الصيدلاني المؤهل يعرف ما يناسبك وما يجب تجنبه. تصحيح عادة واحدة الآن قد يحمي عملاً كاملاً لكليتيك لعقود قادمة."
+          ]
+        }
+      ],
+      "tie": "يمكنك متابعة وظائف كليتيك وتسجيل نتائجك عبر تطبيق سهتك. التطبيق يخزن تحاليلك ويساعدك على مقارنة قراءة الكرياتينين وGFR عبر الزمن، فتعرف إن كانت وظيفة كليتيك تتراجع أم مستقرة قبل أن تظهر أي أعراض.",
+      "faqs": [
+        {
+          "q": "هل حبة إيبوبروفين واحدة تضر الكلى؟",
+          "a": "حبة واحدة من إيبوبروفين لشخص صحيح مرطب جيداً لا تُلحق ضرراً دائماً. الخطر يبدأ مع الاستخدام المتكرر أو الجرعات العالية أو وجود عوامل خطر مسبقة كالسكري أو الجفاف. لكن حتى الجرعة الواحدة قد تكون ضارة إذا كنت جفافاً أو لديك مرض كلوي مسبق."
+        },
+        {
+          "q": "ما أفضل مسكن يمكن أن يأخذه مريض الكلى؟",
+          "a": "الباراسيتامول بجرعته الصحيحة هو الأكثر أماناً للكلى. لكن مريض الكلى يجب أن يستشير طبيبه قبل أي مسكن لأن الجرعة الآمنة قد تختلف حسب درجة القصور. بعض المرضى يحتاجون تخفيض الجرعة أو زيادة الفترة بين الجرعات."
+        },
+        {
+          "q": "هل يمكن للكلية أن تتعافى من ضرر NSAIDs؟",
+          "a": "الإصابة الحادة والخفيفة غالباً تتعافى خلال أيام من إيقاف الدواء وإعادة الترطيب الجيد. أما التلف المزمن من الاستخدام الطويل فهو جزئياً لا رجعة فيه. لهذا السبب الوقاية والاكتشاف المبكر عبر التحاليل أهم بكثير من العلاج."
+        },
+        {
+          "q": "هل الديكلوفيناك أخطر على الكلى من الإيبوبروفين؟",
+          "a": "كلاهما ينتمي لنفس المجموعة ويؤثران على الكلى بآلية مشابهة. الفارق الرئيسي هو أن الديكلوفيناك يميل لتفضيل تثبيط COX-2 قليلاً أكثر، لكن في الجرعات الفموية المعتادة تأثيرهما الكلوي متقارب. الأهم هو المدة والجرعة وحالتك الصحية."
+        },
+        {
+          "q": "هل تحليل الكرياتينين يكشف ضرر المسكنات على الكلى؟",
+          "a": "نعم، ارتفاع الكرياتينين في الدم مع انخفاض GFR علامة على تراجع وظيفة الكلية. لكن المشكلة أن الكرياتينين قد يبدو طبيعياً حتى تفقد الكلية 40 إلى 50 بالمئة من طاقتها. تحليل البروتين في البول يكشف التلف أبكر في كثير من الحالات."
+        },
+        {
+          "q": "هل كريم الديكلوفيناك الموضعي آمن للكلى؟",
+          "a": "الكريم الموضعي يعطي نسبة ضئيلة من الدواء في الدم مقارنة بالحبة الفموية، لذا هو أأمن بكثير للكلى. يُنصح بتفضيله كلما أمكن في علاج الآلام المحلية كالتهاب المفصل أو ألم العضلة. لكنه ليس خالياً من المخاطر تماماً عند الاستخدام المطوَّل أو على مساحات جلدية كبيرة."
+        },
+        {
+          "q": "كم مرة يجب فحص وظائف الكلى إذا كنت أتناول مسكنات بانتظام؟",
+          "a": "إذا كنت تستخدم NSAIDs أسبوعياً أو أكثر، فحص سنوي لكرياتينين الدم وGFR وتحليل بول يعد معقولاً. إذا كان لديك سكري أو ضغط دم، فالفحص كل ستة أشهر أفضل. أي طبيب عام يمكنه طلب هذه التحاليل وقراءتها لك."
+        },
+        {
+          "q": "هل الأسبرين يضر الكلى مثل الإيبوبروفين؟",
+          "a": "الأسبرين بجرعته المنخفضة (75 إلى 100 ملغ) المستخدمة لحماية القلب لا يسبب نفس الأذى الكلوي مثل NSAIDs العلاجية. الجرعات العلاجية العالية من الأسبرين (التي لم تعد تُستخدم عملياً اليوم) كانت مرتبطة باعتلال كلوي. جرعة القلب اليومية الحديثة لها تأثير كلوي ضئيل للغاية."
+        },
+        {
+          "q": "هل الرياضة تحمي الكلى من ضرر المسكنات؟",
+          "a": "الرياضة المنتظمة تحسن صحة الأوعية الدموية الكلوية على المدى البعيد. لكن الإفراط في المسكنات قبل الرياضة أو بعدها يحمل خطراً مضاعفاً، إذ يتحد تأثير الجفاف الناتج عن التعرق مع تضيق الأوعية الكلوية من الدواء. دراسة نشرت في مجلة Medicine and Science in Sports and Exercise عام 2025 رصدت ارتفاعاً في مؤشرات الإصابة الكلوية عند الرياضيين الذين تناولوا إيبوبروفين قبل الركض في الحرارة."
+        }
+      ]
+    },
+    "en": {
+      "title": "Painkillers and your kidneys: the damage nobody warns about",
+      "desc": "Ibuprofen and diclofenac are sold without a prescription across the Middle East. Regular use silently damages your kidneys. Which drugs, who is at risk, and safer options.",
+      "keywords": "painkillers kidney damage, ibuprofen kidney, diclofenac kidney, NSAID nephropathy, analgesic nephropathy, kidney disease from painkillers, safe painkiller kidney, GFR creatinine",
+      "h1": "Painkillers and your kidneys: what regular use actually does",
+      "takeaways": [
+        "NSAIDs such as ibuprofen and diclofenac reduce blood flow to the kidneys and can cause acute or chronic damage when used frequently.",
+        "People with diabetes, high blood pressure, existing kidney disease, or those who are dehydrated are at serious risk even from standard doses.",
+        "Paracetamol is the kidney-safer alternative at recommended doses, though it requires care if you have liver disease.",
+        "Do not use NSAIDs for more than three days without consulting a doctor, and avoid them entirely when you are dehydrated.",
+        "Dark urine, ankle swelling, or back pain after taking painkillers are warning signs that warrant prompt medical review."
+      ],
+      "sections": [
+        {
+          "h2": "How do painkillers injure the kidneys?",
+          "paras": [
+            "The kidney (Kidney) is not simply a filter. It is a precision organ that depends on a careful chemical balance to regulate blood flow through its tiny vessels. Among the key compounds maintaining that balance are prostaglandins (Prostaglandins), naturally produced substances that keep the small arteries inside the kidney open and ensure adequate blood reaches the filtering units.",
+            "Non-steroidal anti-inflammatory drugs (NSAIDs) including ibuprofen (Ibuprofen), diclofenac (Diclofenac) and naproxen (Naproxen) work by blocking COX enzymes, which are responsible for producing these prostaglandins. The side effect is that the renal vessels constrict, reducing blood flow to the kidneys. In a well-hydrated healthy person taking the drug for a few days, the body manages this constriction without lasting damage. But in someone who is dehydrated, has pre-existing kidney disease, or has uncontrolled blood pressure, even a single course can be enough to halt kidney function acutely.",
+            "A 2021 review by Drozdal and colleagues published in Pharmacology Research and Perspectives documented two main injury pathways: an acute one that reverses when the drug is stopped if caught early, and a cumulative one arising from long-term use that leads to analgesic nephropathy (Analgesic Nephropathy), a form of permanent kidney damage that produces no symptoms until well advanced."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "What happens inside the kidney when you take an anti-inflammatory",
+            "items": [
+              "NSAIDs block COX enzymes throughout the body, including inside the kidneys",
+              "Kidney prostaglandin levels fall",
+              "Small blood vessels inside the kidney constrict",
+              "Blood flow to the nephrons (Nephrons) drops",
+              "With repeated blockade, tissue damage begins to accumulate in the kidney"
+            ]
+          }
+        },
+        {
+          "h2": "Which painkillers are most dangerous for the kidneys?",
+          "paras": [
+            "Not all painkillers carry the same risk. Drugs that block both COX-1 and COX-2, including ibuprofen, diclofenac, ketoprofen and naproxen, carry the highest renal risk. A systematic review and meta-analysis published in the Romanian Journal of Internal Medicine in 2025 confirmed that regular use of these drugs raises the risk of chronic kidney disease (CKD) in a statistically meaningful way, with variation between individual agents within the group.",
+            "COX-2 selective inhibitors such as celecoxib are gentler on the stomach lining but are not free of renal risk, and they raise cardiovascular event rates with prolonged use. Aspirin (Aspirin) at the low doses prescribed for heart protection has very little effect on kidney function.",
+            "Paracetamol (Paracetamol, also called acetaminophen) does not act through the COX-renal pathway, which is why it is the first alternative that kidney specialists recommend for patients with compromised renal function. The caveat is that exceeding 3 grams per day in someone with liver disease or heavy alcohol use shifts the risk from the kidneys to the liver."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Common painkillers and their kidney risk",
+            "head": ["Drug", "Class", "Kidney risk"],
+            "rows": [
+              ["Ibuprofen", "Non-selective NSAID", "High with prolonged use or dehydration"],
+              ["Diclofenac", "Non-selective NSAID", "High, similar to ibuprofen"],
+              ["Naproxen", "Non-selective NSAID", "High, longer half-life prolongs exposure"],
+              ["Celecoxib", "COX-2 inhibitor", "Lower gut risk, kidneys still at risk"],
+              ["Paracetamol", "Non-NSAID analgesic", "Low at recommended doses"],
+              ["Aspirin (cardiac dose)", "Antiplatelet", "Minimal renal effect"]
+            ]
+          }
+        },
+        {
+          "h2": "Who is most at risk?",
+          "paras": [
+            "Across our region, ibuprofen and diclofenac are sold freely without a prescription in most pharmacies. Millions of people reach for them for back pain, headache, toothache and period pain without knowing their kidney status. But certain groups face a real risk that can escalate quickly.",
+            "People with either type of diabetes frequently have early kidney vessel changes (Diabetic nephropathy) that do not show up in routine tests until well advanced. Adding NSAIDs on top of this existing damage is like adding weight to a cracked bridge. People with uncontrolled blood pressure, adults over 65 whose kidney reserve has naturally declined, and anyone who has lost a kidney or experienced a previous episode of nephritis all carry higher baseline vulnerability.",
+            "Dehydration is the most commonly overlooked trigger in our hot climate. A perfectly healthy person who takes ibuprofen on a summer afternoon without drinking enough water can develop acute kidney injury (AKI) they would never know about without a blood test. Creatinine (Creatinine) in the blood rises and glomerular filtration rate (GFR) drops before any symptom appears. By the time back pain or reduced urine becomes noticeable, the injury is already established."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "warn",
+            "title": "Avoid NSAIDs or consult a doctor first if you",
+            "items": [
+              "Have diabetes, even if your kidney tests look normal",
+              "Have blood pressure that is not well controlled",
+              "Are over 65 years old",
+              "Have any degree of chronic kidney disease",
+              "Are dehydrated, feverish, or have diarrhoea or vomiting",
+              "Take diuretics, ACE inhibitors, or ARBs (sartans)"
+            ]
+          }
+        },
+        {
+          "h2": "How does long-term use silently destroy the kidneys?",
+          "paras": [
+            "Analgesic nephropathy (Analgesic Nephropathy) is the diagnosis that surprises patients most. It does not develop after a week but after years of repeated use, most often in people combining several analgesics for chronic pain. Keen and Aeddula, in their review published in StatPearls in 2026, describe how injury begins in the renal medulla (Renal medulla), the inner zone of the kidney with the lowest baseline blood flow and the highest concentration of toxic metabolites from the drugs.",
+            "What makes this condition particularly dangerous is that half of affected patients are unaware of it until it is found incidentally during investigation of something else. Kidney function may fall to 30 or 40 percent of normal without any noticeable pain. True kidney pain arrives very late, when the structural damage is already irreversible.",
+            "The first signal that laboratory tests capture is a rise in serum creatinine or the appearance of protein in the urine (Proteinuria), or a decline in GFR. A simple urine dipstick test costs very little and can flag this early. If you are using NSAIDs more than three days per week on a regular basis, ask your doctor for a kidney function panel."
+          ],
+          "visual": {
+            "type": "timeline",
+            "title": "How kidney damage from NSAIDs progresses over time",
+            "items": [
+              {"when": "Days", "what": "Renal vessel constriction, reverses on stopping in a healthy person"},
+              {"when": "Repeated weeks", "what": "Creatinine may rise slightly, returns to normal on stopping"},
+              {"when": "Months of regular use", "what": "Cumulative damage accumulates in the renal medulla, no symptoms yet"},
+              {"when": "Years", "what": "Chronic nephropathy, papillary necrosis, can progress to kidney failure"},
+              {"when": "Late stage", "what": "Symptoms appear: fatigue, swelling, reduced urine, rising blood pressure"}
+            ]
+          }
+        },
+        {
+          "h2": "What symptoms suggest kidney injury from painkillers?",
+          "paras": [
+            "The core difficulty is that most kidney injuries from painkillers produce no obvious early warning. People continue taking their tablets for back pain or headache while the kidneys absorb the damage quietly. The symptoms worth watching for are not necessarily pain in the kidney itself, since the kidney rarely signals pain until damage is severe.",
+            "What should alert you is a noticeable reduction in urine output or unusually dark urine after taking painkillers, swelling of the ankles, feet or around the eyes first thing in the morning, frothy urine suggesting protein loss, persistent fatigue with no clear cause, or a rise in blood pressure in someone who has not had it before. Any of these individually or in combination warrants a prompt check.",
+            "The tests a doctor will order are serum creatinine (Creatinine) to measure how well the kidneys are clearing waste, the urine protein-to-creatinine ratio (Urine PCR), and a full urinalysis. You do not need a large hospital for these. Any private laboratory in your city can run them at low cost."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "Seek urgent medical help if you notice after taking painkillers",
+            "items": [
+              "A near-complete stop in urination or far less urine than usual",
+              "Severe pain on both sides of the lower back alongside the spine",
+              "Brown or reddish urine that looks abnormal",
+              "Rapid swelling of the face, feet or hands",
+              "Mental confusion or severe nausea alongside extreme fatigue"
+            ]
+          }
+        },
+        {
+          "h2": "How do you read a kidney function result?",
+          "paras": [
+            "When your doctor orders a kidney function test (KFT), the report will include serum creatinine (Creatinine) and an estimated glomerular filtration rate (GFR or eGFR). Creatinine is a waste product of muscle breakdown that the kidneys clear from the blood. When it rises, the kidneys are struggling. Normal values vary slightly between laboratories, but typically fall between 0.6 and 1.1 mg/dL in women and 0.7 and 1.3 mg/dL in men.",
+            "GFR is the more important number. It estimates how many millilitres of blood your kidneys filter per minute. Above 90 ml/min/1.73m2 means normal function. Between 60 and 89 signals a mild reduction that warrants monitoring. Below 60 for more than three months meets the definition of chronic kidney disease according to the review by Kalantar-Zadeh and colleagues published in the Lancet in 2021. A GFR below 15 means the kidneys are close to failure and dialysis planning begins.",
+            "One important caveat: creatinine is influenced by muscle mass. A heavily muscled athlete may have a creatinine that looks elevated but is normal for their body. This is why doctors increasingly rely on the calculated GFR rather than creatinine alone, using equations that factor in age, sex and body size. Ask your doctor which formula the laboratory used, since this affects the interpretation."
+          ],
+          "visual": {
+            "type": "range-scale",
+            "title": "What your eGFR result means",
+            "label": "eGFR",
+            "unit": "ml/min/1.73m2",
+            "min": 0,
+            "max": 120,
+            "zones": [
+              {"to": 15, "tone": "bad", "label": "Kidney failure"},
+              {"to": 30, "tone": "bad", "label": "Severe"},
+              {"to": 60, "tone": "warn", "label": "Moderate"},
+              {"to": 90, "tone": "warn", "label": "Mild"},
+              {"to": 120, "tone": "good", "label": "Normal"}
+            ],
+            "source": "Kalantar-Zadeh K et al: Chronic kidney disease, Lancet, 2021",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/34175022/"
+          }
+        },
+        {
+          "h2": "What are the safer alternatives for pain relief?",
+          "paras": [
+            "The question every patient asks is: what can I take instead of ibuprofen? The answer depends on the type of pain. For mild to moderate pain such as tension headache, non-severe period pain and toothache, paracetamol at 500 to 1000 mg is effective and kidney-safe at the recommended dose. The maximum adult dose is 4 grams (4000 mg) per day, though many doctors prefer staying under 3 grams per day for repeated use.",
+            "For inflammatory pain such as arthritis, warm or cold compresses, gentle movement and physiotherapy have documented evidence for symptom relief without adding chemical load to the kidneys. Topical diclofenac gel applied to the skin delivers the drug locally at a fraction of the blood concentration produced by an oral tablet, making it considerably safer for the kidneys, though not completely risk-free with prolonged use over large areas.",
+            "Triptans for migraine, heat and cold for back pain, and saline rinses for dental pain while awaiting a dentist appointment are all options that spare the kidneys. Most importantly, if you need a painkiller more than ten days per month, you need a doctor to treat the cause rather than the symptom."
+          ]
+        },
+        {
+          "h2": "How to protect your kidneys if you must take NSAIDs",
+          "paras": [
+            "Sometimes NSAIDs cannot be avoided, particularly after sports injuries, surgery or acute inflammatory flares. When that is the case, there are practical rules that meaningfully reduce the risk. First: never take them on an empty stomach, and drink a full glass of water with every dose. Adequate hydration helps the kidneys process and excrete the drug efficiently.",
+            "Second: shorter is better. Three days in most situations carries low risk. Going beyond a week without a doctor's advice is where blood tests start to shift. Third: do not combine NSAIDs with excessive caffeine, which also constricts blood vessels, or with alcohol, or with blood pressure medications from the ACE inhibitor or sartan families without medical guidance. That triple combination has documented cases of acute renal failure.",
+            "Fourth: know your kidney baseline. If you have not had a kidney function test in the past two years and you are over 40 years old, or if you have diabetes or high blood pressure, getting the baseline test before starting a course of treatment is worth the modest cost. A single creatinine and GFR result gives you a reference point for everything that follows."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "Rules to cut kidney risk if you need NSAIDs",
+            "items": [
+              "Take the lowest effective dose for the shortest possible time",
+              "Drink a full glass of water with every dose",
+              "Do not exceed three consecutive days without consulting a doctor",
+              "Avoid entirely if you are dehydrated, have a fever, diarrhoea or vomiting",
+              "Do not combine with diuretics or ACE inhibitors or ARBs without medical advice",
+              "Get creatinine and GFR tested if you continue for more than one week"
+            ]
+          }
+        },
+        {
+          "h2": "What the global numbers say about kidney disease in our region",
+          "paras": [
+            "Chronic kidney disease is not rare in the Arab world. The Global Burden of Disease analysis for 2023, published in the Lancet in 2025, showed that CKD affects between 9 and 11 percent of adults globally, with a higher burden in populations where diabetes and high blood pressure are prevalent. Both conditions are exactly what defines the health landscape in our region, and both raise the vulnerability of the kidney to NSAID damage.",
+            "What many sources overlook is the role of unrestricted over-the-counter drug access in these numbers. In Syria, Egypt, Jordan, Iraq and much of the region, ibuprofen 400 mg and diclofenac 50 mg can be purchased at any pharmacy without a prescription, making habitual overuse easy and untracked.",
+            "Doctors treating patients in this reality know that part of the kidney deterioration they see is not from the underlying disease but from the painkillers taken to manage its symptoms. Awareness of this link is the first step toward breaking the cycle. The 2019 review by Lucas and colleagues in Jornal Brasileiro de Nefrologia concluded that NSAID nephropathy is underdiagnosed precisely because the causative drug is so widely seen as harmless."
+          ]
+        },
+        {
+          "h2": "When should you see a doctor about painkillers and your kidneys?",
+          "paras": [
+            "A medical review is not only for when symptoms appear. If you are taking any NSAID weekly or more often for any reason, an annual check that includes serum creatinine, eGFR and urine analysis is sensible preventive practice. Do not wait until you feel back pain or notice less urine, because by that point the damage is already established.",
+            "If your doctor has prescribed NSAIDs long-term for a chronic condition such as rheumatoid arthritis or persistent muscle pain, ask directly about kidney monitoring and how often you should be tested. A good doctor will not be surprised by the question and is almost certainly already thinking about it.",
+            "And if you have kidney disease and are in pain, tell your pharmacist your diagnosis before purchasing anything. A qualified pharmacist knows what is appropriate and what to avoid. Changing one habit now may protect the full working life of your kidneys for decades."
+          ]
+        }
+      ],
+      "tie": "You can track your kidney function results in the Sihtak app. The app stores your test history and lets you compare creatinine and eGFR readings over time, so you can see whether your kidney function is stable or drifting before any symptom develops.",
+      "faqs": [
+        {
+          "q": "Does one ibuprofen tablet damage the kidneys?",
+          "a": "A single dose of ibuprofen in a healthy, well-hydrated person does not cause lasting kidney damage. The risk comes with repeated use, high doses, or the presence of risk factors such as diabetes or dehydration. Even a single dose can be harmful, however, if you are significantly dehydrated or already have kidney disease."
+        },
+        {
+          "q": "What is the safest painkiller for someone with kidney problems?",
+          "a": "Paracetamol at the correct dose is the safest choice for the kidneys. However, a person with kidney disease should consult their doctor before any painkiller, as the safe dose may be reduced and the interval between doses may need to be longer. Some patients need dose adjustment to prevent the drug accumulating."
+        },
+        {
+          "q": "Can kidneys recover from NSAID damage?",
+          "a": "Acute, mild injury typically reverses within days of stopping the drug and restoring good hydration. Chronic damage from long-term use is partly irreversible. This is why prevention and early detection through blood tests matter far more than treatment after the fact."
+        },
+        {
+          "q": "Is diclofenac more dangerous for the kidneys than ibuprofen?",
+          "a": "Both belong to the same class and share a similar mechanism of kidney injury. Diclofenac has a slight preference for COX-2 inhibition, but at standard oral doses the renal risk of the two drugs is comparable. What matters more is the dose, the duration of use, and your underlying health."
+        },
+        {
+          "q": "Does a creatinine blood test detect NSAID kidney damage?",
+          "a": "Yes, rising serum creatinine alongside a falling GFR is the main sign of declining kidney function. The limitation is that creatinine can look normal until the kidney has lost 40 to 50 percent of its capacity. Urine protein testing detects damage earlier in many cases, which is why a full kidney panel includes both."
+        },
+        {
+          "q": "Is diclofenac gel safe for the kidneys?",
+          "a": "Topical diclofenac gel delivers far less drug into the bloodstream than an oral tablet, making it considerably safer for the kidneys. It is the preferred route for localised pain such as a sore joint or muscle injury. It is not entirely risk-free with prolonged use over large skin areas, but the difference in systemic exposure compared with oral tablets is substantial."
+        },
+        {
+          "q": "How often should I check kidney function if I use painkillers regularly?",
+          "a": "If you use NSAIDs weekly or more often, annual testing of serum creatinine, eGFR and urine is a reasonable precaution. If you also have diabetes or high blood pressure, testing every six months is better. Any general practitioner can order these tests and interpret the results for you."
+        },
+        {
+          "q": "Does aspirin damage the kidneys like ibuprofen does?",
+          "a": "Low-dose aspirin at 75 to 100 mg, prescribed for heart protection, does not cause the same renal injury as full-dose NSAIDs. The high-dose aspirin used historically as an anti-inflammatory was associated with kidney damage, but that dose is no longer in common clinical use. The small daily cardiac tablet carries negligible kidney risk."
+        },
+        {
+          "q": "Does exercise protect the kidneys from painkiller damage?",
+          "a": "Regular exercise improves the long-term health of kidney blood vessels. However, taking NSAIDs around exercise adds risk rather than reducing it: the dehydration of sweating combines with the vasoconstriction caused by the drug. A 2025 study published in Medicine and Science in Sports and Exercise found elevated markers of kidney injury in runners who took ibuprofen before running in the heat compared with those who did not."
+        }
+      ]
+    }
+  }
+}

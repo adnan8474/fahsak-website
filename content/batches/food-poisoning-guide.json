@@ -1,0 +1,368 @@
+{
+  "slug": "food-poisoning-guide",
+  "category": "infectious-diseases",
+  "chip_ar": "أمراض معدية",
+  "chip_en": "Infectious Diseases",
+  "date_iso": "2026-07-11",
+  "sources": [
+    {
+      "label": "Kirk MD, Pires SM, Black RE et al: World Health Organization Estimates of the Global and Regional Disease Burden of 22 Foodborne Bacterial, Protozoal, and Viral Diseases, 2010: A Data Synthesis, PLoS medicine, 2015",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26633831/"
+    },
+    {
+      "label": "Todd ECD: Foodborne disease and food control in the Gulf States, Food control, 2017",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32288324/"
+    },
+    {
+      "label": "Gazezova S, Nabirova D, Waltenburg M et al: Salmonellosis outbreak associated with the consumption of food at a wedding in an urban restaurant in Kazakhstan: a retrospective cohort study, BMC infectious diseases, 2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39722008/"
+    },
+    {
+      "label": "King CK, Glass R, Bresee JS et al: Managing acute gastroenteritis among children: oral rehydration, maintenance, and nutritional therapy, MMWR. Recommendations and reports, 2003",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/14627948/"
+    },
+    {
+      "label": "Imdad A, Rani U: Oral Rehydration Salt Solutions for Children: A Review, Pediatrics in review, 2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40588279/"
+    },
+    {
+      "label": "World Health Organization: Food safety fact sheet. WHO, 2022",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/food-safety"
+    }
+  ],
+  "content": {
+    "ar": {
+      "title": "التسمم الغذائي: ماذا تفعل ومتى يكون خطيراً",
+      "desc": "دليل عملي للتسمم الغذائي: الأعراض التي تميز الخفيف من الخطير، متى تحتاج لمحلول الإماهة، وكيف تحمي أسرتك في الأجواء الحارة وحفلات الأعراس.",
+      "keywords": "التسمم الغذائي, إسهال وقيء, محلول الإماهة الفموية, سالمونيلا, الجراثيم الغذائية, تلوث الطعام, الجفاف",
+      "h1": "التسمم الغذائي: ما الذي يحدث في جسمك وكيف تتجاوزه بأمان",
+      "takeaways": [
+        "معظم حالات التسمم الغذائي تشفى تلقائياً في غضون يوم إلى ثلاثة أيام بالراحة والإماهة الجيدة.",
+        "الجفاف هو الخطر الحقيقي لا الجرثومة نفسها، ومحلول الإماهة الفموية (ORS) ينقذ أرواحاً خاصة عند الأطفال.",
+        "سرعة ظهور الأعراض بعد الأكل تشير إلى المسبب: ساعة إلى ساعتين تشير لسموم جرثومية، بينما ست إلى اثنتي عشرة ساعة تشير إلى بكتيريا.",
+        "الحرارة والأعراس والتجمعات الكبيرة ثلاثة عوامل تزيد من خطر التسمم الغذائي في منطقتنا.",
+        "الأعراض الخطيرة التي تستوجب الذهاب للطوارئ هي الدم في البراز والحمى المرتفعة وعلامات الجفاف الشديد."
+      ],
+      "sections": [
+        {
+          "h2": "ما هو التسمم الغذائي وما الذي يسببه؟",
+          "paras": [
+            "التسمم الغذائي حالة تحدث عند تناول طعام أو شراب ملوث بجراثيم أو سمومها أو طفيليات أو فيروسات. الجهاز الهضمي يرد على هذا الغازي بطريقة حيوية: إسهال وقيء سريعان يهدفان إلى إخراج المسبب قبل امتصاصه. هذا رد فعل وقائي طبيعي، لكن خسارة السوائل المصاحبة هي ما يجعل الحالة خطيرة.",
+            "المسببات متعددة ومختلفة في طبيعتها. البكتيريا هي الأكثر شيوعاً وتشمل: السالمونيلا (Salmonella) التي تكثر في الدجاج والبيض، والإشريكية القولونية (E. coli) في اللحوم النيئة وبعض الخضروات، والليستيريا (Listeria) في الأجبان اللينة والأطعمة المصنعة. المكور العنقودي الذهبي (Staphylococcus aureus) يُفرز سموماً في الطعام قبل تناوله، لذا حتى إعادة تسخين الطعام الملوث لا تُبطل سمومه.",
+            "الفيروسات مثل نوروفيروس (Norovirus) تنتشر بسرعة في التجمعات الكبيرة عبر اليد واللمس. منظمة الصحة العالمية تقدر أن حوالي 600 مليون شخص يُصابون بأمراض ناجمة عن الأغذية الملوثة سنوياً، ما يودي بحياة 420 ألف شخص معظمهم أطفال دون الخامسة في الدول ذات الدخل المنخفض."
+          ],
+          "visual": {
+            "type": "timeline",
+            "title": "متى تظهر الأعراض حسب المسبب",
+            "items": [
+              {"when": "30 دقيقة إلى ساعتين", "what": "سموم المكور العنقودي: قيء شديد وغثيان مفاجئ"},
+              {"when": "ساعة إلى 6 ساعات", "what": "سموم العصية الشمعية (Bacillus cereus): قيء بعد أرز أو نشويات"},
+              {"when": "6 إلى 24 ساعة", "what": "السالمونيلا أو الإشريكية القولونية: إسهال وآلام بطنية"},
+              {"when": "24 إلى 48 ساعة", "what": "نوروفيروس: قيء وإسهال شديدان في وقت واحد"},
+              {"when": "أسبوع إلى ثلاثة أسابيع", "what": "الليستيريا أو بعض الطفيليات: أعراض قد تبدو كأنفلونزا"}
+            ]
+          }
+        },
+        {
+          "h2": "لماذا الحرارة والتجمعات تزيد الخطر في منطقتنا؟",
+          "paras": [
+            "البكتيريا تتكاثر بصورة متضاعفة في المنطقة التي تسميها علماء الأغذية منطقة الخطر، أي بين 4 و60 درجة مئوية. في فصل الصيف ودرجات الحرارة التي تتجاوز 40 درجة في كثير من بلدان المنطقة، تتكاثر البكتيريا في الطعام المتروك خارج الثلاجة بسرعة فائقة. طعام يُترك على الطاولة ساعتين في درجة حرارة الغرفة خلال الصيف يمكن أن يصبح خطيراً.",
+            "حفلات الأعراس والمناسبات الكبيرة تمثل بيئة مثالية لانتشار التسمم الجماعي لأسباب متعددة: الكميات الضخمة من الطعام التي يصعب تبريدها جميعاً، الوقت الطويل بين الطهي والتقديم، والعمالة الكبيرة غير المدربة في المطابخ المؤقتة. دراسة نشرت عام 2024 في مجلة BMC Infectious Diseases وصفت فاشية سالمونيلا في حفل زفاف، ووجدت أن الطعام الذي بقي في درجة حرارة غير آمنة لساعات هو العامل الأساسي في معظم الفاشيات المرتبطة بالمناسبات.",
+            "انقطاع التيار الكهربائي وما يصاحبه من ارتفاع في درجة حرارة الثلاجات مشكلة حقيقية في سوريا والعراق واليمن ولبنان. ثلاجة فقدت التبريد لأربع ساعات أو أكثر في الصيف قد تحوي أغذية خطيرة، خاصة اللحوم والدواجن والألبان، حتى لو لم يتغير طعمها أو مظهرها."
+          ]
+        },
+        {
+          "h2": "ما الأعراض وكيف تعرف أنها من التسمم الغذائي؟",
+          "paras": [
+            "الأعراض الأكثر شيوعاً للتسمم الغذائي هي: غثيان وقيء، إسهال، آلام وتقلصات في البطن، وأحياناً حمى خفيفة. المميز في معظم حالات التسمم الغذائي هو ارتباطها بوجبة بعينها أكلتها خلال ساعات أو أيام قليلة سابقة، وأن عدة أشخاص تناولوا نفس الطعام يصابون بأعراض مشابهة في الوقت نفسه.",
+            "الإسهال المائي عادة يعني أن الجرثومة تؤثر على الأمعاء الدقيقة وتُفرز سموماً تسحب السوائل. الإسهال الدموي يكون مؤشراً أخطر يعني عادة أن البكتيريا اخترقت جدار الأمعاء الغليظة وأحدثت التهاباً فيها، وهو ما يسميه الأطباء التهاب القولون. هذا النوع يستلزم تقييم طبي.",
+            "أحياناً تكون الأعراض مقتصرة على القيء فقط دون إسهال، وهذا يحدث عادة في التسمم بسموم المكور العنقودي أو سموم العصية الشمعية. هذه السموم تؤثر على المعدة مباشرة وتحفز على القيء بسرعة، في حين أن الجرثومة نفسها ربما لم تعد في الطعام حين يُتناول ولا في الجهاز الهضمي."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "اذهب إلى الطوارئ إذا ظهرت عليك هذه العلامات",
+            "items": [
+              "دم واضح في البراز أو القيء",
+              "حمى فوق 38.5 درجة مئوية مع إسهال",
+              "جفاف شديد: جفاف الفم والشعور بالدوار عند الوقوف",
+              "عدم التبول لأكثر من 8 ساعات عند البالغين",
+              "طفل رضيع مصاب بإسهال وقيء في الوقت نفسه",
+              "أعراض شديدة لدى الحامل أو كبير السن أو مريض السكري"
+            ]
+          }
+        },
+        {
+          "h2": "كيف تعالج التسمم الغذائي في المنزل؟",
+          "paras": [
+            "الهدف الأول من العلاج المنزلي هو الوقاية من الجفاف، لأن الجفاف هو المسبب الحقيقي للوفاة في حالات الإسهال الشديد وليس الجرثومة ذاتها. منظمة الصحة العالمية ومراكز السيطرة على الأمراض تؤكد أن محلول الإماهة الفموية (ORS) الجاهز يُشكل حجر الأساس في العلاج. إذا لم يتوفر ORS الجاهز، يمكن تحضيره في البيت.",
+            "الراحة التامة وتقليل التحرك يساعدان الجهاز الهضمي على التعافي. الطعام يُستأنف تدريجياً ابتداءً من الأغذية الخفيفة كالأرز المسلوق والموز والخبز المحمص وعصائر الحمضيات المخففة. الأغذية الدهنية والمقلية والحارة يجب تأجيلها حتى يعود الجهاز الهضمي إلى طبيعته.",
+            "مضادات الإسهال مثل لوبراميد قد تُخفف من تواتر البراز لكنها لا تُعالج السبب. ولا يُنصح باستخدامها عند الأطفال دون الثانية عشرة ولا حين يوجد دم في البراز أو حمى مرتفعة، لأنها تُبطئ حركة الأمعاء وقد تحبس الجرثومة أطول. الدراسات تشير إلى أن الجسم السليم قادر على إخراج معظم الجراثيم الغذائية دون مضادات حيوية."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "كيف تحضر محلول الإماهة المنزلي",
+            "items": [
+              "استخدم لتراً واحداً من الماء المغلي والمبرد أو الماء المعبأ",
+              "أضف ست ملاعق صغيرة مسطحة من السكر",
+              "أضف نصف ملعقة صغيرة مسطحة من الملح",
+              "اخلط جيداً حتى يذوب الملح والسكر تماماً",
+              "قدمه بارداً قليلاً بملعقة صغيرة أو جرعات صغيرة متكررة",
+              "احتفظ بالمحلول في الثلاجة ولا تستخدمه بعد مرور 24 ساعة"
+            ]
+          }
+        },
+        {
+          "h2": "هل يحتاج التسمم الغذائي إلى مضادات حيوية؟",
+          "paras": [
+            "في معظم الحالات لا. الجهاز المناعي السليم يتخلص من معظم الجراثيم الغذائية خلال يوم إلى ثلاثة أيام بدون تدخل دوائي. استخدام المضادات الحيوية دون مؤشر طبي يضر أكثر مما ينفع: يُخل بتوازن بكتيريا الأمعاء الصحية، وقد يطيل فترة الإصابة ببعض الجراثيم كالسالمونيلا التي تصبح أكثر خطراً حين تُعطى مضادات في الوقت الخاطئ.",
+            "حالات تستوجب المضادات الحيوية: الإسهال الدموي الذي تشير فيه الفحوص إلى بكتيريا حساسة كالشيغيلا (Shigella) أو الكامبيلوباكتر (Campylobacter)، والمرضى ذوو المناعة المنخفضة، والحوامل حين يُشتبه بإصابة الليستيريا، والحالات الشديدة التي تستدعي دخول المستشفى.",
+            "الصيدلاني أو الطبيب وحده يقرر الحاجة للمضاد الحيوي بناءً على طبيعة الأعراض وشدتها وفحص عينة البراز إذا لزم. تناول مضاداً حيوياً طلبته أنت من الصيدلية دون وصفة في حالة تسمم غذائي بسيط هو قرار خاطئ في معظم الأوقات ويُسهم في مشكلة المقاومة الجرثومية المتنامية في المنطقة."
+          ]
+        },
+        {
+          "h2": "كيف تحمي أسرتك من التسمم الغذائي؟",
+          "paras": [
+            "الوقاية تقوم على أربع قواعد: النظافة، والفصل، والطبخ الجيد، والتبريد السليم. غسل اليدين بالصابون قبل وبعد التعامل مع الطعام وبعد الحمام يُزيل معظم الجراثيم. أسطح المطبخ وألواح التقطيع يجب تنظيفها جيداً خاصة بعد تعاملها مع الدواجن أو اللحوم النيئة.",
+            "الفصل بين الطعام النيء والمطبوخ قاعدة محورية. لحم الدجاج النيء يُخزن في الجزء الأسفل من الثلاجة بعيداً عن الأطعمة الجاهزة للأكل، وتُستخدم مجالس تقطيع مختلفة للحوم والخضروات. اللحم والدجاج يجب طبخهما حتى يصلا إلى درجة حرارة داخلية آمنة، وهو ما لا يُقاس بالنظر أو اللون فقط بل يتأكد بمقياس حرارة للطعام.",
+            "الثلاجة تخزن الطعام بأمان ولكن لا تُعقمه. الطعام المطبوخ لا يُترك أكثر من ساعتين خارج الثلاجة في الصيف. الطعام المتبقي يُحفظ في أوعية محكمة الإغلاق ويُسخن جيداً قبل تناوله من جديد. في المناطق التي يتكرر فيها انقطاع الكهرباء، ضع كيساً من الثلج في الثلاجة وأحكم إغلاقها لإطالة مدة البرودة."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "مدة الأمان في الثلاجة لأطعمة شائعة",
+            "head": ["الطعام", "مدة الأمان في الثلاجة", "ملاحظة"],
+            "rows": [
+              ["الدجاج النيء", "يوم إلى يومين", "احفظه في أسفل الثلاجة منفصلاً"],
+              ["اللحم المفروم النيء", "يوم إلى يومين", "اطبخه بعد الشراء مباشرة إن أمكن"],
+              ["الطعام المطبوخ", "3 إلى 4 أيام", "في أوعية مغلقة محكمة"],
+              ["البيض", "3 إلى 5 أسابيع", "في علبته الأصلية بعيداً عن الباب"],
+              ["الأجبان الطرية", "يحدد التاريخ على العبوة", "احذر بعد انتهاء المدة مباشرة"]
+            ]
+          }
+        },
+        {
+          "h2": "التسمم الغذائي في المناسبات والأعراس: كيف تتعامل معه؟",
+          "paras": [
+            "إذا أُصيب عدد كبير من ضيوف حفلة أو مناسبة بأعراض مشابهة في الوقت نفسه، فهذه فاشية غذائية جماعية (food poisoning outbreak). الواجب هو إبلاغ الجهات الصحية المحلية لاحتواء الموقف ومنع انتشاره، لأن المسبب قد يكون مازال موجوداً في المطعم أو المطبخ الذي أعد الطعام.",
+            "في المناسبات الكبيرة، الحكمة تقضي بعدم تناول الأغذية التي بقيت معروضة فترة طويلة في درجة حرارة الغرفة، والحرص على أن اللحوم مطبوخة جيداً والسلطات طازجة. المايونيز والكريما ومنتجات الألبان هي الأكثر عرضة للتلوث السريع في الحرارة. التمييز البصري لا يكفي لتحديد ما إذا كان الطعام ملوثاً، فكثير من الجراثيم الخطيرة لا تغير طعم الطعام أو رائحته إطلاقاً.",
+            "إذا أصبت بأعراض خفيفة بعد حضور مناسبة وكنت بصحة جيدة في العادة، فالراحة في البيت مع إماهة جيدة هو الخيار المعقول. لكن إذا أصيب أحد كبار السن أو الأطفال الصغار أو الحوامل في الأسرة، فلا تنتظر لمعرفة ما إذا كانت الأعراض ستشتد، لأن الجفاف يتطور بسرعة في هذه الفئات.",
+            "في الأعراس السورية واللبنانية والمصرية تقليدياً تُقدَّم الأطباق الباردة مثل الحمص والتبولة والفتوش على الطاولات لساعات قبل الوجبة الرئيسية. الحمص المصنوع من الطحينة والليمون والثوم أقل خطراً نسبياً من السلطات المخلوطة بالمايونيز، والتبولة الطازجة بعصير الليمون تحمل خطراً أخف من الأطباق التي تحتوي على بيض أو دجاج نيء. الوعي بهذه الفوارق يساعدك على اتخاذ خيارات أكثر أماناً في المناسبات."
+          ]
+        },
+        {
+          "h2": "فئات تحتاج إلى رعاية خاصة عند التسمم الغذائي",
+          "paras": [
+            "الأطفال دون سنتين هم الأعلى خطراً للوفاة الناجمة عن الجفاف في التسمم الغذائي على مستوى العالم. جسم الطفل الصغير يفقد نسبة من سوائله بسرعة أكبر مقارنة بالبالغ. تقديم ORS بملعقة صغيرة كل دقيقة حين يرفض الطفل الشرب بكميات أكبر هو أسلوب فعال. لا تعطي طفلاً رضيعاً محلولاً منزلي الصنع غير موصى به من طبيب.",
+            "كبار السن قد لا يشعرون بالعطش الشديد حتى حين يكونون في حالة جفاف متقدمة. علامات الجفاف عندهم قد تكون تشوشاً ذهنياً أو ضعفاً عاماً. المرضى الذين يتناولون أدوية لأمراض مزمنة مثل ضغط الدم أو السكري يحتاجون إلى مراجعة طبية حين يُصابون بتسمم غذائي لأن الجفاف يغير امتصاص هذه الأدوية وقد يؤدي إلى مضاعفات.",
+            "الحامل تحتاج إلى رعاية خاصة حين تُشتبه بأي إصابة بالتسمم الغذائي، خاصة إذا تعلق الأمر بالليستيريا التي تنتقل عبر الأجبان اللينة والحليب غير المبستر وبعض الأسماك المدخنة. الليستيريا قد تكون بأعراض خفيفة شبيهة بالإنفلونزا عند الأم لكنها خطرة جداً على الجنين. كل تسمم غذائي أثناء الحمل يستوجب اتصالاً بالطبيب."
+          ]
+        },
+        {
+          "h2": "متى يكون التسمم الغذائي علامة على مشكلة أكبر؟",
+          "paras": [
+            "الإسهال الدموي المتكرر مع حمى مرتفعة قد يكون التهاب قولون ناجم عن بكتيريا الشيغيلا (Shigella) أو الإشريكية القولونية المسببة للنزيف (EHEC)، وكلاهما يحتاج علاجاً موجهاً وإشرافاً طبياً. الإشريكية القولونية المسببة للنزيف خاصة خطيرة عند الأطفال لأنها قد تؤدي إلى متلازمة تحلل الكريات الدموية الانحلالي (HUS) وهي حالة تؤثر على الكلى.",
+            "الإسهال الذي يستمر أكثر من أسبوعين لم يعد تسمماً غذائياً حاداً في الغالب، ويجب البحث عن أسباب أخرى مثل طفيليات الأمعاء كالجيارديا أو الأميبا، وهي شائعة في منطقتنا، أو التهاب القولون التقرحي، أو داء كرون. فحص عينة البراز ضروري في هذه الحالات.",
+            "الشفاء الكامل من التسمم الغذائي يعني عودة البراز لطبيعته وتوقف الغثيان والقدرة على تناول الطعام الطبيعي. في بعض الأشخاص يبقى الجهاز الهضمي حساساً لأسابيع بعد الشفاء، وهذا طبيعي. إذا استمر الإسهال أو ظهرت أعراض جديدة بعد عودة طبيعية للبراز، يستحق الأمر مراجعة الطبيب من جديد."
+          ]
+        }
+      ],
+      "tie": "يساعدك تطبيق صحتك على تسجيل تاريخ وأعراض أي نوبة مرضية والأطعمة التي تناولتها، مما يُمكّن الطبيب من الربط بين النمط ومصدر التلوث في حالات التسمم الغذائي المتكررة.",
+      "faqs": [
+        {
+          "q": "كم يستمر التسمم الغذائي العادي؟",
+          "a": "معظم حالات التسمم الغذائي تستمر من يوم إلى ثلاثة أيام. التسمم بسموم المكور العنقودي قد ينتهي في أقل من 24 ساعة. السالمونيلا وكامبيلوباكتر قد تمتد من أربعة إلى سبعة أيام. أي إسهال يستمر أكثر من أسبوع يجب أن يُفحص."
+        },
+        {
+          "q": "هل أحتاج إلى مضادات حيوية لعلاج التسمم الغذائي؟",
+          "a": "في الغالب لا. الجهاز المناعي يتخلص من معظم الجراثيم الغذائية وحده. المضادات الحيوية تُعطى فقط بقرار طبي في حالات محددة كالإسهال الدموي الشديد أو حين يُشتبه بجرثومة تستجيب للعلاج الدوائي. لا تتناول مضاداً حيوياً دون وصفة في حالة التسمم الغذائي البسيط."
+        },
+        {
+          "q": "ما الطعام الذي يجب تناوله بعد التسمم الغذائي؟",
+          "a": "ابدأ بالسوائل فقط حتى تتوقف نوبات القيء، ثم انتقل تدريجياً إلى أغذية خفيفة سهلة الهضم: الأرز المسلوق، الموز، الخبز المحمص، الزبادي الطبيعي. تجنب الطعام الدهني والحار والألبان الكاملة حتى يعود الجهاز الهضمي لطبيعته."
+        },
+        {
+          "q": "هل يمكن الإصابة بالتسمم الغذائي من الطعام المُعاد تسخينه؟",
+          "a": "نعم. إعادة التسخين تقتل البكتيريا الحية لكنها لا تُبطل السموم التي أفرزتها بعض الجراثيم كالمكور العنقودي قبل الطبخ. الطعام يجب ألا يُترك خارج الثلاجة لأكثر من ساعتين في الصيف، وإعادة التسخين لا تُعوض الحفظ الخاطئ."
+        },
+        {
+          "q": "هل الطعام الذي تغير طعمه أو رائحته هو فقط الخطير؟",
+          "a": "لا. هذا خطأ شائع. كثير من الجراثيم الخطيرة لا تغير طعم الطعام ولا رائحته ولا مظهره. الليستيريا والسالمونيلا مثلاً لا تُحدث أي تغيير ملحوظ في الطعام الملوث. الاعتماد على الحواس وحدها غير كافٍ لاتخاذ قرار السلامة."
+        },
+        {
+          "q": "هل يمكن الوقاية من التسمم الغذائي في المطاعم؟",
+          "a": "يمكن تقليل الخطر باختيار المطاعم التي تُظهر أنها تهتم بالنظافة، وتجنب الأطباق التي تحتوي على بيض أو دجاج نيء أو شبه نيء في الطقس الحار، وطلب الطعام طازجاً حارً. لكن لا يمكن ضمان السلامة الكاملة في كل مطعم، وهذا أمر واقعي."
+        },
+        {
+          "q": "كيف أعرف أنني أُصبت بجفاف بسبب التسمم الغذائي؟",
+          "a": "علامات الجفاف الخفيف تشمل جفاف الفم والعطش وقلة التبول وتغميق لون البول. الجفاف المتوسط يضيف إليها دوخة عند الوقوف وصداعاً. الجفاف الشديد يتجلى في تشوش الذهن وانعدام التبول تقريباً وسرعة ضربات القلب. الجفاف الشديد حالة طوارئ تستدعي الذهاب فوراً للمستشفى."
+        }
+      ]
+    },
+    "en": {
+      "title": "Food Poisoning: What to Do and When It Is Serious",
+      "desc": "Practical guide to food poisoning: how to tell mild from dangerous, when to use oral rehydration, and how to protect your family in hot weather and at large gatherings.",
+      "keywords": "food poisoning, gastroenteritis, oral rehydration, salmonella, dehydration, food safety, foodborne illness, vomiting diarrhea",
+      "h1": "Food Poisoning: What Is Happening in Your Body and How to Get Through It Safely",
+      "takeaways": [
+        "Most food poisoning resolves on its own within one to three days with rest and adequate fluid replacement.",
+        "Dehydration is the real danger, not the organism itself, and oral rehydration solution (ORS) saves lives especially in children.",
+        "How quickly symptoms appear after eating gives a clue about the cause: one to two hours points to a toxin, six to twelve hours points to bacterial infection.",
+        "Heat, weddings and large gatherings are three factors that amplify food poisoning risk across the region.",
+        "Bloody diarrhoea, high fever and signs of severe dehydration are the signals to go to the emergency department without waiting."
+      ],
+      "sections": [
+        {
+          "h2": "What causes food poisoning and how does it work?",
+          "paras": [
+            "Food poisoning occurs when you eat or drink something contaminated with bacteria, their toxins, viruses or parasites. The digestive system responds by trying to expel the threat as quickly as possible through vomiting and diarrhoea. This is a protective response, but the fluid losses it causes are what make the condition dangerous.",
+            "The most common bacterial causes include Salmonella, found mainly in poultry and eggs; Escherichia coli, found in raw meat and some produce; Campylobacter, the most common bacterial cause in many parts of the world; and Listeria, which lives in soft cheeses, deli meats and unpasteurised dairy. Staphylococcus aureus is different in that it produces heat-stable toxins in food before you eat it, meaning that reheating contaminated food does not make it safe.",
+            "The WHO estimates that 600 million people suffer foodborne illness each year and 420,000 die, most of them children under five in low-income settings. A 2017 review of foodborne disease in the Gulf states noted that rapid population growth, high tourism, large outdoor catering events and extreme heat create specific challenges for food safety in the region."
+          ],
+          "visual": {
+            "type": "timeline",
+            "title": "When symptoms appear after eating depends on the cause",
+            "items": [
+              {"when": "30 min to 2 hours", "what": "Staph aureus toxin: sudden severe vomiting and nausea"},
+              {"when": "1 to 6 hours", "what": "Bacillus cereus toxin: vomiting after rice or starchy food"},
+              {"when": "6 to 24 hours", "what": "Salmonella or E. coli: diarrhoea and abdominal cramps"},
+              {"when": "24 to 48 hours", "what": "Norovirus: vomiting and diarrhoea simultaneously, very contagious"},
+              {"when": "1 to 3 weeks", "what": "Listeria or some parasites: flu-like symptoms, risky in pregnancy"}
+            ]
+          }
+        },
+        {
+          "h2": "Why heat and large gatherings multiply the risk in this region",
+          "paras": [
+            "Bacteria multiply fastest in the temperature zone between 4 and 60 degrees Celsius, which food scientists call the danger zone. In summer temperatures that routinely exceed 40 degrees Celsius in many parts of the Middle East, food left on a table or countertop for two hours can become genuinely dangerous. The same dish that would be safe for four hours in a European kitchen may harbour harmful levels of bacteria after ninety minutes in a Gulf summer.",
+            "Weddings and large social gatherings are a well-documented setting for mass food poisoning events. The reasons are consistent: large quantities of food that are difficult to keep refrigerated uniformly, long gaps between preparation and serving, and high-turnover catering kitchens where temperature control is inconsistent. A 2024 outbreak study published in BMC Infectious Diseases describing a salmonellosis outbreak at a wedding reception identified food held at unsafe temperatures for extended periods as the key factor, a pattern seen in multiple outbreak investigations across the region.",
+            "Power cuts are a practical food safety hazard in Syria, Iraq, Lebanon and Yemen where prolonged outages in summer heat allow refrigerators to warm rapidly. Meat, poultry and dairy that have been unrefrigerated for four or more hours during summer should be treated with caution even if they smell and look normal, because many dangerous bacteria produce no change in taste, smell or appearance."
+          ]
+        },
+        {
+          "h2": "What are the symptoms and how do you know it is food poisoning?",
+          "paras": [
+            "The typical presentation of food poisoning involves nausea, vomiting, diarrhoea, abdominal cramping and sometimes a low fever. What distinguishes food poisoning from a general stomach virus is often the timing: symptoms appear within hours of a particular meal, and several people who ate the same food develop similar symptoms around the same time. If you ate at a shared meal and two or more people are sick in the same household or group, the probability of a shared food source is high.",
+            "Watery diarrhoea usually means the organism is acting in the small intestine, drawing fluid out through toxin action. Bloody diarrhoea is a more serious sign that points to bacterial invasion of the large intestine wall, causing inflammatory colitis. This type warrants medical assessment rather than home management. It is important not to confuse the appearance of a small amount of blood from anal irritation with true bloody stool, which is typically dark red and mixed throughout the stool.",
+            "Sometimes the illness is almost entirely vomiting with little or no diarrhoea. This pattern is characteristic of Staph aureus toxin poisoning or Bacillus cereus toxin, both of which act directly on the stomach. These episodes are usually short-lived but extremely unpleasant and carry a dehydration risk if the person cannot keep any fluid down."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "Go to the emergency department if you develop",
+            "items": [
+              "Visible blood in stool or vomit",
+              "Fever above 38.5 degrees Celsius with diarrhoea",
+              "Signs of severe dehydration: dry mouth, dizziness on standing",
+              "No urination for more than eight hours in an adult",
+              "An infant with vomiting and diarrhoea at the same time",
+              "Any symptoms in a pregnant woman, elderly person or someone with diabetes"
+            ]
+          }
+        },
+        {
+          "h2": "How to treat food poisoning at home",
+          "paras": [
+            "The primary goal of home treatment is preventing dehydration. The WHO and the US CDC both identify oral rehydration solution (ORS) as the cornerstone of management because it replaces not only water but the sodium, potassium and glucose that the gut loses during diarrhoea and vomiting. Commercially prepared ORS sachets are widely available in pharmacies across the region and are inexpensive. A 2025 review in Pediatrics in Review confirmed that ORS is equally effective as intravenous fluids in mild to moderate dehydration in children who can drink, which means most children do not need a hospital drip if ORS is given correctly from the start.",
+            "Rest allows the gut to recover without additional demands. Food should be reintroduced gradually starting with bland, easily digested choices: plain rice, banana, plain bread or toast, and plain yoghurt which reintroduces helpful bacteria. Fatty, fried and spicy foods should wait until the gut has returned to normal. Most adults with food poisoning can return to a light normal diet within two to three days.",
+            "Anti-diarrhoeal medications such as loperamide reduce the frequency of loose stools but do not treat the cause and should not be used in children under twelve, or when there is bloody diarrhoea or high fever, because slowing gut transit can trap bacteria inside the intestine and potentially worsen the situation. For most adults with watery diarrhoea without these red flags, a single dose can provide short-term relief during, for example, a journey, but ORS remains the more important intervention."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "How to prepare home oral rehydration solution",
+            "items": [
+              "Use one litre of cooled boiled water or sealed bottled water",
+              "Add six level teaspoons of sugar",
+              "Add half a level teaspoon of salt",
+              "Stir well until the sugar and salt are fully dissolved",
+              "Offer cool, in small sips or teaspoon amounts frequently",
+              "Store in the refrigerator and discard after 24 hours"
+            ]
+          }
+        },
+        {
+          "h2": "Does food poisoning need antibiotics?",
+          "paras": [
+            "In the great majority of cases it does not. A healthy immune system clears most food-poisoning organisms within a few days without any antibiotic. Self-medicating with antibiotics without medical advice is counterproductive for two reasons: it disrupts the protective gut microbiome that helps clear infection, and in some infections, particularly Salmonella, inappropriate antibiotics can paradoxically prolong the duration of illness and increase the risk of the bacteria invading the bloodstream.",
+            "Antibiotics are appropriate when a doctor identifies a specific indication: severe or prolonged bloody diarrhoea pointing to Shigella or Campylobacter, infection in an immunocompromised patient, suspected Listeria in a pregnant woman, or a patient sick enough to require hospital admission. In these situations the organism should ideally be identified by stool culture so the antibiotic chosen matches its sensitivity pattern.",
+            "The same pattern of casual antibiotic use without a prescription that drives antibiotic resistance in urinary infections applies in food poisoning. Resistance in Salmonella, Campylobacter and Shigella has risen substantially across the region and limits the treatment options a doctor has when antibiotics genuinely are needed. Reserving antibiotics for the cases that truly require them is a shared responsibility."
+          ]
+        },
+        {
+          "h2": "How to keep your family safe from food poisoning",
+          "paras": [
+            "Food safety rests on four consistent rules: clean, separate, cook and chill. Thorough handwashing with soap before handling food, after handling raw meat, and after using the bathroom removes most of the bacteria that cause food poisoning. Kitchen surfaces, chopping boards and utensils should be cleaned after every contact with raw poultry or meat, not just rinsed.",
+            "Cross-contamination between raw and cooked food is a common source of illness. Raw chicken should be stored on the lowest shelf of the refrigerator in a sealed container to prevent drip contamination. Separate chopping boards for raw meat and ready-to-eat food eliminate a common transfer route. Poultry and minced meat should be cooked until the juices run clear and the centre is no longer pink, and a food thermometer confirms this more reliably than visual inspection.",
+            "Refrigeration slows bacterial growth but does not stop it, and it does not reverse growth that has already occurred. Cooked food should not be left at room temperature for more than two hours in summer. Leftovers should be stored in sealed containers and reheated thoroughly until steaming throughout before eating. In settings with frequent power cuts, a bag of ice in the refrigerator and keeping the door closed as much as possible buys additional time."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Safe storage times in a refrigerator for common foods",
+            "head": ["Food", "Safe refrigerator time", "Note"],
+            "rows": [
+              ["Raw chicken", "1 to 2 days", "Store on bottom shelf in sealed container"],
+              ["Raw minced meat", "1 to 2 days", "Cook as soon as possible after purchase"],
+              ["Cooked food", "3 to 4 days", "In airtight containers"],
+              ["Eggs", "3 to 5 weeks", "In their original box, away from the door"],
+              ["Soft cheese", "Check the label", "Consume before the expiry date"]
+            ]
+          }
+        },
+        {
+          "h2": "Food poisoning at weddings and large gatherings",
+          "paras": [
+            "When several guests at the same event become ill with similar symptoms within a similar time frame, this is a foodborne outbreak and it should be reported to the local health authority. Reporting is not about blame: it allows the source to be identified and prevents more people from becoming sick if the contaminated food is still being served or sold. Most countries in the region have a health directorate number or ministry helpline for this purpose.",
+            "At large events, practical risk reduction means being more cautious with foods that are difficult to keep at safe temperatures: mayonnaise-dressed salads, cream-filled pastries, custard dishes, dishes made with raw or undercooked egg, and any meat that has been sitting at room temperature for an unknown length of time. Freshly cooked food that is still hot carries substantially lower risk than food that was prepared hours earlier.",
+            "If you develop mild symptoms after attending an event and you are otherwise healthy, home management with ORS and rest is appropriate. However, if an elderly family member, a child under two, a pregnant woman, or anyone with diabetes or kidney disease develops symptoms after the same event, do not wait to see how the illness progresses. These groups dehydrate and deteriorate faster and benefit from earlier medical assessment."
+          ]
+        },
+        {
+          "h2": "When food poisoning points to something else",
+          "paras": [
+            "Bloody diarrhoea with high fever may represent haemorrhagic colitis from enterohaemorrahgic E. coli (EHEC) or Shigella. EHEC is particularly dangerous in children because it can trigger haemolytic uraemic syndrome (HUS), a condition that damages the kidneys and red blood cells and requires urgent hospital care. This is rare but important to know because delaying treatment worsens outcomes significantly.",
+            "Diarrhoea that persists for more than two weeks has usually moved beyond the acute food poisoning category and deserves investigation for other causes: intestinal parasites including Giardia and Entamoeba histolytica, both common in the region, inflammatory bowel disease including ulcerative colitis and Crohn's disease, or coeliac disease. A stool examination for parasites and a medical consultation are appropriate at this point.",
+            "Some people experience a period of gut sensitivity for several weeks after recovering from food poisoning, with looser stools and increased bloating compared to their baseline. This is recognised as post-infectious irritable bowel syndrome and usually settles with time without specific treatment. It is different from an ongoing infection and does not require more antibiotics."
+          ]
+        },
+        {
+          "h2": "Groups that need extra caution",
+          "paras": [
+            "Children under two years are most vulnerable to death from dehydration related to food poisoning. Their body fluid makes up a larger proportion of their body weight and they lose it faster. ORS should be started from the first loose stool, offered by teaspoon if the child resists drinking from a cup or bottle. Do not give a homemade salt solution to an infant without medical guidance on the correct concentration.",
+            "Elderly people may not feel thirsty even when significantly dehydrated, and their early signs of dehydration can look like confusion or weakness rather than dry mouth. People taking medication for hypertension, heart conditions or diabetes should seek medical advice when they develop significant food poisoning because dehydration alters how these medications work and can cause dangerous interactions.",
+            "Pregnancy creates specific vulnerability because Listeria monocytogenes, which contaminates soft cheeses, cold cuts, smoked fish and unpasteurised milk, can cause a mild flu-like illness in the mother while causing severe harm to the fetus including miscarriage, stillbirth or severe newborn infection. Any food poisoning during pregnancy warrants a call to a doctor rather than waiting to see if symptoms settle."
+          ]
+        }
+      ],
+      "tie": "Sihtak lets you log meals and symptoms together, which helps you identify patterns in food-related illness and gives your doctor precise timing information to work with when investigating a recurring problem.",
+      "faqs": [
+        {
+          "q": "How long does food poisoning last?",
+          "a": "Most food poisoning resolves within one to three days. Staph aureus toxin illness may be over in less than 24 hours. Salmonella and Campylobacter infections can last four to seven days. Any diarrhoea lasting more than a week deserves a medical assessment to look for other causes."
+        },
+        {
+          "q": "Do I need antibiotics for food poisoning?",
+          "a": "In most cases no. The body clears the majority of food-poisoning bacteria without antibiotic help. Antibiotics are prescribed by a doctor for specific indications: severe bloody diarrhoea, prolonged illness, immunocompromised patients, or suspected Listeria in pregnancy. Self-prescribing antibiotics for simple food poisoning contributes to the regional resistance problem without helping you recover faster."
+        },
+        {
+          "q": "What should I eat and drink after food poisoning?",
+          "a": "Start with clear fluids and ORS until vomiting stops, then introduce bland foods gradually: plain rice, banana, plain toast, and plain yoghurt. Avoid fatty, fried and heavily spiced food until your gut has settled, which usually takes two to three days. Full normal eating can resume once stools return to normal consistency."
+        },
+        {
+          "q": "Can food poisoning come from food that looks and smells fine?",
+          "a": "Yes, and this is one of the most important food safety facts to understand. Many dangerous bacteria including Salmonella, Listeria and E. coli produce no change in the smell, taste or appearance of contaminated food. The only reliable indicators are proper storage temperature and time limits, not sensory assessment."
+        },
+        {
+          "q": "Is reheating food enough to make it safe?",
+          "a": "Reheating kills live bacteria but does not destroy the heat-stable toxins that Staphylococcus aureus and Bacillus cereus produce. Food that was left at room temperature long enough for these bacteria to multiply and produce toxins before being refrigerated or reheated remains dangerous regardless of how thoroughly it is reheated."
+        },
+        {
+          "q": "How do I know if I am dehydrated?",
+          "a": "Mild dehydration causes thirst, a dry or sticky mouth, and darker than usual urine. Moderate dehydration adds reduced urine output, headache, and feeling lightheaded when standing. Severe dehydration causes confusion, very dark or no urine, a sunken look around the eyes, and rapid weak pulse. Severe dehydration is a medical emergency regardless of the cause."
+        },
+        {
+          "q": "Should I report food poisoning linked to a restaurant?",
+          "a": "Yes, if you are confident the source was a specific restaurant or food outlet, reporting to your local health authority or food safety department is worthwhile. You do not need proof, only a reasonable suspicion and your details of what you ate and when symptoms started. This information helps identify outbreak sources and prevents others from being affected."
+        }
+      ]
+    }
+  }
+}

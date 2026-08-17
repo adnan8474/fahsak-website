@@ -1,0 +1,319 @@
+{
+  "slug": "newborn-jaundice",
+  "category": "child-health",
+  "chip_ar": "صحة الطفل",
+  "chip_en": "Child Health",
+  "date_iso": "2026-07-22",
+  "sources": [
+    {"label": "Chastain AP, Geary AL, Bogenschutz KM et al: Managing neonatal hyperbilirubinemia: An updated guideline, JAAPA : official journal of the American Academy of Physician Assistants, 2024", "url": "https://pubmed.ncbi.nlm.nih.gov/39259272/"},
+    {"label": "Lee HY, Ithnin A, Azma RZ et al: Glucose-6-Phosphate Dehydrogenase Deficiency and Neonatal Hyperbilirubinemia: Insights on Pathophysiology, Diagnosis, and Gene Variants in Disease Heterogeneity, Frontiers in pediatrics, 2022", "url": "https://pubmed.ncbi.nlm.nih.gov/35685917/"},
+    {"label": "Gottimukkala SB, Lobo L, Gautham KS et al: Intermittent phototherapy versus continuous phototherapy for neonatal jaundice, The Cochrane database of systematic reviews, 2023", "url": "https://pubmed.ncbi.nlm.nih.gov/36867730/"},
+    {"label": "Mitra S, Rennie J: Neonatal jaundice: aetiology, diagnosis and treatment, British journal of hospital medicine (London, England : 2005), 2017", "url": "https://pubmed.ncbi.nlm.nih.gov/29240507/"},
+    {"label": "Abu Omar R, Algur N, Megged O et al: Glucose-6-Phosphate Dehydrogenase Screening in Israel-Arab and Palestinian-Arab Neonates, The Journal of pediatrics, 2015", "url": "https://pubmed.ncbi.nlm.nih.gov/25979319/"},
+    {"label": "Dawodu A, Qureshi MM, Moustafa IA et al: Epidemiology of clinical hyperbilirubinaemia in Al Ain, United Arab Emirates, Annals of tropical paediatrics, 1998", "url": "https://pubmed.ncbi.nlm.nih.gov/9924569/"},
+    {"label": "Ansong-Assoku B, Adnan M, Daley SF et al: Neonatal Jaundice, StatPearls, 2026", "url": "https://pubmed.ncbi.nlm.nih.gov/30422525/"}
+  ],
+  "content": {
+    "ar": {
+      "title": "يرقان حديث الولادة: الطبيعي والخطير",
+      "desc": "دليل للأمهات لفهم يرقان المولود: الفرق بين ما هو طبيعي وما يستوجب العلاج الفوري، وتأثير نقص G6PD الشائع في المنطقة على خطورته.",
+      "keywords": "يرقان حديث الولادة, صفراء المولود, البيليروبين, العلاج بالضوء, نقص G6PD, اليرقان المرضي, اليرقان الفسيولوجي, الكيرنيكتيروس, صفراء الرضاعة",
+      "h1": "يرقان المولود: متى يكون طبيعياً ومتى يصبح خطيراً",
+      "takeaways": [
+        "يصاب نحو 60 بالمئة من المواليد الأصحاء باليرقان في الأيام الأولى وهو في معظم الأحيان طبيعي يزول وحده خلال أسبوع إلى أسبوعين.",
+        "اليرقان الذي يظهر في أول 24 ساعة من الولادة أو الذي ينتشر إلى الساقين والقدمين دائماً يستوجب تقييماً طبياً فورياً.",
+        "نقص إنزيم G6PD شائع جداً في المنطقة العربية ويجعل اليرقان يشتد بسرعة وقد يؤدي إلى مضاعفات دماغية دائمة إذا لم يُعالج.",
+        "العلاج بالضوء (الفوتوثيرابي) آمن وفعال ويُكسر البيليروبين المتراكم قبل أن يصل إلى مستويات خطيرة.",
+        "لا تضع طفلك في الشمس المباشرة كبديل عن العلاج الطبي بالضوء فهذا لا يوفر الطيف الكافي وقد يسبب حروقاً."
+      ],
+      "sections": [
+        {
+          "h2": "ما هو اليرقان ولماذا يحدث؟",
+          "paras": [
+            "يرقان حديث الولادة هو اصفرار جلد المولود وبياض عينيه، ويحدث لأن الدم يحتوي على كميات زائدة من مادة تُسمى البيليروبين (Bilirubin). البيليروبين هو ناتج طبيعي من تكسر خلايا الدم الحمراء، ويُفرَز عادةً عبر الكبد. عند المولود الجديد، يعمل الكبد ببطء في البداية ولا يستطيع معالجة البيليروبين بسرعة كافية، فيتراكم في الدم ويُلوّن الجلد باللون الأصفر.",
+            "يُصاب بهذا اليرقان نحو ستة من كل عشرة مواليد أصحاء في الأيام الأولى بعد الولادة. في معظم الحالات لا يحتاج إلى علاج ويختفي وحده خلال سبعة إلى أربعة عشر يوماً مع بدء الكبد في العمل بكفاءة أكبر.",
+            "لكن في حالات أقل شيوعاً، قد يرتفع البيليروبين إلى مستويات خطيرة تهدد دماغ الطفل. معرفة الفرق بين الحالتين أمر حيوي لكل أم وأب."
+          ],
+          "visual": {
+            "type": "timeline",
+            "title": "توقيت ظهور اليرقان وما يعنيه",
+            "items": [
+              {"when": "أول 24 ساعة", "what": "يرقان مبكر: طارئ دائماً يستوجب تقييماً فورياً"},
+              {"when": "اليوم 2 إلى 5", "what": "يرقان فسيولوجي: طبيعي عند معظم المواليد الأصحاء"},
+              {"when": "الأسبوع الثاني", "what": "اليرقان يبدأ بالتراجع عند معظم الأطفال"},
+              {"when": "أكثر من أسبوعين", "what": "يرقان متأخر: يحتاج فحصاً لتحديد السبب"}
+            ]
+          }
+        },
+        {
+          "h2": "اليرقان الفسيولوجي مقابل اليرقان المرضي",
+          "paras": [
+            "اليرقان الفسيولوجي هو الشكل الطبيعي الذي يحدث لأن الجسم يتكيف مع الحياة خارج الرحم. يبدأ عادةً في اليوم الثاني أو الثالث من العمر، ويكون خفيفاً ومحصوراً في الوجه والصدر، ويختفي تدريجياً خلال أسبوع إلى أسبوعين. هذا النوع لا يحتاج عادةً إلى علاج سوى التغذية الجيدة.",
+            "اليرقان المرضي هو ما ينحرف عن هذا النمط الطبيعي. هو الذي يظهر في أول 24 ساعة، أو يكون شديداً جداً بحيث ينتشر إلى البطن والساقين والقدمين، أو يستمر أكثر من أسبوعين عند المواليد الناضجين، أو يُصاحَب بشحوب أو اصفرار شديد في البراز وتحوّل البول إلى اللون الداكن جداً.",
+            "لتفقد درجة اليرقان منزلياً، اضغط برفق على جبهة طفلك ثم أطلق: إذا ظهر اللون الأصفر تحت الضغط فهذا يعني أن البيليروبين موجود. لكن هذا الفحص المنزلي البسيط لا يحل محل قياس مستوى البيليروبين بالأجهزة، لأن اللون وحده لا يُخبرك بالمستوى الدقيق."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "اليرقان الطبيعي مقابل المرضي",
+            "head": ["الخاصية", "اليرقان الفسيولوجي", "اليرقان المرضي"],
+            "rows": [
+              ["وقت الظهور", "اليوم 2 إلى 3", "أول 24 ساعة"],
+              ["مكان الانتشار", "وجه وصدر فقط", "ينتشر للبطن والأطراف"],
+              ["المدة", "7 إلى 14 يوماً", "أكثر من أسبوعين"],
+              ["الحالة العامة", "طفل نشيط يرضع جيداً", "خمول أو ضعف في الرضاعة"],
+              ["الحاجة للعلاج", "نادراً", "تقييم طبي فوري"]
+            ]
+          }
+        },
+        {
+          "h2": "لماذا يُشكّل نقص G6PD خطراً إضافياً في المنطقة العربية؟",
+          "paras": [
+            "إنزيم الغلوكوز-6-فوسفات ديهيدروجينيز (G6PD) يحمي خلايا الدم الحمراء من التدمير. حين يكون الطفل ناقصاً لهذا الإنزيم، تتكسر خلايا دمه الحمراء بسرعة أكبر بكثير من المعتاد عند التعرض لمحفزات معينة، ما يُنتج كميات كبيرة جداً من البيليروبين في وقت قصير.",
+            "نقص G6PD منتشر بصورة واسعة في منطقة الشرق الأوسط وشمال أفريقيا والبحر المتوسط. وثّقت دراسة نشرت في مجلة طب الأطفال عام 2015 تعاملت مع مواليد عرب أن معدلات نقص هذا الإنزيم مرتفعة بشكل ملحوظ في المجتمعات العربية، مما يجعل تأثيره على يرقان المولود أكثر أهمية هنا مقارنةً بمناطق أخرى. الإنزيم ينتقل بالوراثة وكثير من الأسر لا تعرف أنها تحمله حتى يُصاب مولودها.",
+            "المشكلة أن اليرقان المرتبط بنقص G6PD قد يشتد بسرعة مذهلة في غضون ساعات، مما يُضيّق نافذة التدخل الآمن. لذا إذا كان أحد أفراد الأسرة يعاني من هذا النقص أو إذا كانت الأسرة من المناطق الأكثر انتشاراً له كالمنطقة الشرقية في السعودية ومناطق عديدة من العراق والأردن وسوريا ومصر، فإن إخبار الطاقم الطبي عند الولادة أمر مهم جداً.",
+            "المحفزات التي قد تُسرّع تكسّر الدم عند الرضيع الناقص G6PD تشمل التعرض لرائحة الكافور والنفتالين (حبوب العتة) التي توضع أحياناً في خزائن الملابس، والالتهابات، وبعض الأدوية التي قد تكون الأم تتناولها أثناء الرضاعة. إزالة مصدر التعرض وعلاج اليرقان بالضوء بسرعة هما الإجراءان الحاسمان."
+          ]
+        },
+        {
+          "h2": "العلامات التحذيرية التي تستوجب التوجه الفوري للطوارئ",
+          "paras": [
+            "يُسبب ارتفاع البيليروبين الشديد ضرراً دماغياً دائماً يُسمى الكيرنيكتيروس (Kernicterus)، وهذه المضاعفة وقائية بالكامل إذا تُدورك اليرقان مبكراً. الكيرنيكتيروس يُفضي إلى شلل دماغي وصمم وتأخر ذهني لا يُعكس. ما يجعل هذه المضاعفة مأساوية أنها تصيب الأطفال الأصحاء أصلاً الذين يُولدون بلا أي مشكلة وتنشأ مشكلتهم في الأيام الأولى من غير انتباه.",
+            "العلامات التي تعني وجوب الذهاب للطوارئ الآن دون انتظار: ظهور اليرقان في أول 24 ساعة من الولادة، انتشار الاصفرار ليشمل الساقين والقدمين، رفض الطفل الرضاعة أو الخمول الشديد وصعوبة إيقاظه، البكاء بنبرة عالية ونافرة غير معتادة، تقوّس الرقبة أو الظهر للخلف، وتحوّل مراحل أكثر تقدماً إلى تشنجات. لا تنتظر حتى الصباح إذا ظهرت هذه العلامات.",
+            "بعض الأسر تتردد في الذهاب للطوارئ خشية الإزعاج أو الاعتقاد أن الأمر عادي لأن اليرقان شائع جداً. شيوع اليرقان لا يعني أن كل حالة آمنة. المولود الذي يظهر عليه الاصفرار في أول 24 ساعة أو تسوء حالته بسرعة بحاجة إلى قياس موضوعي لمستوى البيليروبين يُفيد به طبيب، وهذا لا يمكن تقدير خطورته من اللون وحده."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "اذهب للطوارئ فوراً إذا لاحظت",
+            "items": [
+              "اليرقان يظهر في أول 24 ساعة من الولادة",
+              "الاصفرار يمتد إلى الساقين والقدمين",
+              "خمول شديد أو رفض تام للرضاعة",
+              "بكاء بنبرة غير طبيعية أو عالية ونافرة",
+              "تقوّس الجسم للخلف أو تشنجات"
+            ]
+          }
+        },
+        {
+          "h2": "كيف يعمل العلاج بالضوء وهل هو آمن؟",
+          "paras": [
+            "العلاج بالضوء (Phototherapy) هو العلاج الأكثر استخداماً لتخفيض مستوى البيليروبين، وهو آمن وفعال بشكل ممتاز. يُعرَّض الطفل لضوء أزرق بطيف معين (عادةً بطول موجي بين 430 و490 نانومتراً) يحوّل جزيئات البيليروبين في الجلد إلى صورة يستطيع الجسم إفرازها عبر البول والبراز دون الحاجة لمعالجة الكبد.",
+            "مراجعة كوكرانية شاملة نُشرت عام 2023 قارنت بين العلاج بالضوء المتواصل والمتقطع في رعاية حديثي الولادة وخلصت إلى أن كلاهما فعال بدرجات متقاربة في تخفيض البيليروبين، وأن السلامة العامة للعلاج موثقة جيداً. الآثار الجانبية المؤقتة تشمل احمرار الجلد وبراز أخضر وجفافاً خفيفاً.",
+            "خلال العلاج تُغطى عيون الطفل بواقٍ خاص ويُخلع كل ملابسه ليتعرض أكبر قدر من جلده للضوء. تُواصَل الرضاعة خلال فترات الراحة القصيرة. لا يحتاج الطفل في الغالب إلى ألم أو حقن أو تدخل جراحي في هذه المرحلة.",
+            "في الحالات الشديدة جداً حين يكون البيليروبين مرتفعاً جداً ولم تستجب للضوء، قد يلجأ الأطباء إلى نقل دم بديل (تغيير الدم) وهو إجراء أكثر تخصصاً يُزيل البيليروبين بسرعة أكبر. هذا الإجراء نادر الحاجة إليه حين يُدرك اليرقان مبكراً ويُعالج بالضوء في الوقت المناسب."
+          ]
+        },
+        {
+          "h2": "هل الشمس تُغني عن العلاج الطبي بالضوء؟",
+          "paras": [
+            "ينتشر في مجتمعاتنا اعتقاد بأن تعريض المولود الأصفر لأشعة الشمس يُعالج اليرقان، وهذا صحيح جزئياً من الناحية النظرية لأن ضوء الشمس يحتوي على الطيف الأزرق اللازم. لكن تطبيقه عملياً ينطوي على مخاطر جدية تجعله غير مناسب كعلاج.",
+            "أشعة الشمس المباشرة تتضمن أشعة فوق البنفسجية قد تُسبب حروقاً في جلد المولود الرقيق جداً. كما أن الجلسة عبر نافذة زجاجية تُصفّي الطيف الأزرق المفيد وتُبقي الحرارة والأشعة الضارة. لا يُمكن التحكم في جرعة الضوء ولا في سلامة الحرارة عند حديث الولادة الذي لا يستطيع تنظيم حرارة جسمه. والأهم أن الطفل الذي يحتاج علاجاً حقيقياً يحتاج جرعة ضوئية أعلى بكثير مما يُمكن تحقيقه بالشمس.",
+            "النصيحة العملية: التعرض للضوء غير المباشر والهادئ في البيئة الطبيعية لا ضرر منه للطفل الذي يعاني من يرقان خفيف تحت مراقبة طبية. لكنه لا يُغني عن العلاج بالضوء الطبي ولا يُستخدم كبديل حين يكون مستوى البيليروبين مرتفعاً.",
+            "إذا قررت التعرض للضوء الطبيعي الخفيف بتوجيه طبي، احرصي على ألا يتعرض الطفل للشمس المباشرة إطلاقاً، وراقبي درجة حرارة الغرفة لتجنب الإجهاد الحراري، وحدّدي الوقت بدقائق قليلة فقط. أي طفل يحتاج علاجاً حقيقياً يحتاجه في مستشفى وليس في شرفة المنزل."
+          ]
+        },
+        {
+          "h2": "يرقان الرضاعة الطبيعية: نوعان مختلفان",
+          "paras": [
+            "يرتبط اليرقان بالرضاعة الطبيعية بطريقتين مختلفتين لهما أسباب مختلفة. الأول يُسمى يرقان قلة الرضاعة، ويحدث في أيام الولادة الأولى حين لا يحصل الطفل على كمية كافية من الحليب فيقل حجم البراز الذي يُساعد على إزالة البيليروبين. الحل هو تحسين الرضاعة وزيادة عدد وجباتها إلى ثماني إلى اثنتي عشرة مرة يومياً.",
+            "الثاني يُسمى يرقان حليب الأم، ويظهر بعد الأسبوع الأول ويستمر أحياناً لأسابيع إلى أشهر. يحدث لأن حليب بعض الأمهات يحتوي على مواد تُبطئ إفراز البيليروبين من الكبد. هذا النوع حميد في الغالب ولا يتطلب إيقاف الرضاعة الطبيعية في معظم الحالات. قرار الإيقاف المؤقت إن كان ضرورياً يتخذه الطبيب بعد قياس مستوى البيليروبين وتقييم الحالة.",
+            "في كلتا الحالتين، إيقاف الرضاعة الطبيعية ليس الحل الافتراضي. استمرار الرضاعة يُسرّع زوال اليرقان أكثر مما يُعقده في معظم الحالات، والأطباء يُحجمون عن نصح الأم بالتوقف إلا في ظروف محددة جداً.",
+            "التغذية الجيدة ثماني إلى اثنتي عشرة مرة يومياً تُساعد الطفل على إفراز البيليروبين بشكل أسرع عبر البراز. الأم التي تُرضع كثيراً وتلاحظ أن طفلها ينتج ست حفاضات مبللة أو أكثر في اليوم وبراز منتظم يُعطي الجسم أفضل فرصة لتصفية البيليروبين بشكل طبيعي.",
+            "في حالة يرقان حليب الأم الشديد حين يُقرر الطبيب إيقاف الرضاعة مؤقتاً، يجب على الأم أن تُشفط حليبها خلال فترة التوقف للحفاظ على الإنتاج وضمان عودة الرضاعة فور الانتهاء من العلاج."
+          ]
+        },
+        {
+          "h2": "المتابعة بعد الخروج من المستشفى",
+          "paras": [
+            "كثير من الأطفال يُولدون في المستشفى ويُخرجون بعد 24 إلى 48 ساعة، وهي الفترة التي يكون فيها اليرقان في طور الصعود لا النزول. لهذا السبب، توصي إرشادات متخصصة صادرة عام 2024 بضرورة متابعة المولود مع طبيب بعد 24 إلى 48 ساعة من الخروج للتحقق من مستوى البيليروبين.",
+            "في المنزل، افحصي جلد طفلك يومياً في ضوء طبيعي وليس في الضوء الأصفر المنزلي الذي يُخفي الاصفرار. ابدأي من الوجه إلى الصدر فالبطن ثم الأطراف. إذا كان الاصفرار ينتشر للأسفل أو يبدو أعمق، توجهي للطبيب.",
+            "الطفل الذي يرضع جيداً وله تبوّل جيد ست مرات أو أكثر يومياً وبراز منتظم ويبدو نشيطاً يُفرَّغ البيليروبين من جسمه بشكل طبيعي في الغالب. الجفاف وقلة الرضاعة هما العاملان اللذان يُطيلان أمد اليرقان ويرفعان مستواه.",
+            "إذا كان طفلك خُدَجاً أو وُلد قبيل الأسبوع 37، فإن حدود الأمان عنده أخفض بكثير من المولود الناضج. الأطباء يُطبقون على الخُدَّج بروتوكولات تدخل أسرع لأن كبدهم أقل نضجاً وقدرتهم على معالجة البيليروبين أضعف. اسألي طاقمك الطبي دائماً عن حد التدخل المحدد لطفلك بناءً على وزنه وعمره التقريبي."
+          ]
+        }
+      ],
+      "tie": "يمكنك استخدام تطبيق صحتك لتسجيل ملاحظات يومية عن حالة طفلك في الأسبوع الأول ومتابعة التوجيهات الطبية والتذكير بموعد الزيارة الأولى للطبيب.",
+      "faqs": [
+        {
+          "q": "متى يجب أن أذهب للطوارئ بسبب يرقان المولود؟",
+          "a": "اذهب فوراً إذا ظهر اليرقان في أول 24 ساعة، إذا امتد الاصفرار للساقين والقدمين، إذا كان طفلك خاملاً جداً أو يرفض الرضاعة، أو إذا كان يبكي ببكاء غير طبيعي عال ونافر. هذه علامات تستوجب تقييماً طبياً في نفس اليوم."
+        },
+        {
+          "q": "هل الشمس تُعالج يرقان المولود؟",
+          "a": "التعرض للضوء الطبيعي غير المباشر لا ضرر منه للطفل الذي يعاني من يرقان خفيف تحت متابعة طبية. لكنه لا يُغني عن العلاج بالضوء الطبي ولا يُستخدم بديلاً حين يكون مستوى البيليروبين مرتفعاً. أشعة الشمس المباشرة قد تُسبب حروقاً في جلد المولود الرقيق."
+        },
+        {
+          "q": "هل نقص G6PD يُشكّل خطراً إضافياً على يرقان المولود؟",
+          "a": "نعم وبشكل ملحوظ. نقص G6PD يُسبب تكسراً سريعاً في خلايا الدم الحمراء مما يرفع البيليروبين بسرعة كبيرة، وهذا يُضيّق نافذة التدخل الآمن. إذا كانت الأسرة تعلم بوجود هذا النقص عندها، فمن المهم إخبار الفريق الطبي فور الولادة."
+        },
+        {
+          "q": "هل يُمكن أن يتأثر دماغ الطفل من اليرقان؟",
+          "a": "نعم إذا وصل البيليروبين إلى مستويات عالية جداً دون علاج، قد يترسب في الدماغ ويُسبب ضرراً دائماً يُسمى الكيرنيكتيروس. هذه المضاعفة وقائية تماماً إذا تُدورك اليرقان مبكراً وعُولج بالضوء في الوقت المناسب. لهذا المتابعة المبكرة بعد الخروج من المستشفى مهمة جداً."
+        },
+        {
+          "q": "هل يجب إيقاف الرضاعة الطبيعية عند الإصابة باليرقان؟",
+          "a": "في معظم الحالات لا. الرضاعة الطبيعية الجيدة تُساعد على إفراز البيليروبين عبر البراز. إيقافها يُطيل أمد اليرقان في الغالب. قرار الإيقاف المؤقت في حالات يرقان حليب الأم الشديدة يتخذه الطبيب بعد قياس البيليروبين وتقييم الحالة."
+        },
+        {
+          "q": "كم يستمر اليرقان الطبيعي؟",
+          "a": "عادةً بين سبعة وأربعة عشر يوماً عند المواليد الناضجين، وقد يمتد إلى ثلاثة أسابيع عند الخُدَّج. اليرقان الذي يستمر أطول من ذلك يحتاج فحصاً لمعرفة السبب، سواء كان يرقان حليب الأم أو سبباً آخر يحتاج علاجاً."
+        },
+        {
+          "q": "ما هو العلاج بالضوء وكيف يعمل؟",
+          "a": "العلاج بالضوء هو تعريض جلد المولود لضوء أزرق بطيف معين يحوّل البيليروبين المتراكم في الجلد إلى صورة يستطيع الجسم إفرازها دون الحاجة لمعالجة الكبد. آمن وفعال وتُقلل جلسات العلاج من مستوى البيليروبين خلال ساعات."
+        },
+        {
+          "q": "هل المولود الخديج أكثر عرضة لليرقان؟",
+          "a": "نعم. الخديج يُولد بكبد أقل نضجاً وقدرة أقل على معالجة البيليروبين، كما أن تغذيته أصعب في البداية مما يُقلل من إفراز البيليروبين عبر البراز. لهذا تُطبَّق على الخُدَّج حدود تدخل أخفض لبدء العلاج بالضوء مقارنةً بالمواليد الناضجين."
+        }
+      ]
+    },
+    "en": {
+      "title": "Newborn Jaundice: Normal, and When It Is Dangerous",
+      "desc": "A guide for parents on newborn jaundice: the timeline of normal versus pathological onset, the G6PD risk that raises regional stakes, phototherapy, and urgent warning signs.",
+      "keywords": "newborn jaundice, neonatal jaundice, bilirubin, phototherapy, G6PD deficiency, physiological jaundice, kernicterus, breast milk jaundice, neonatal hyperbilirubinemia",
+      "h1": "Newborn Jaundice: When It Is Normal and When You Must Act",
+      "takeaways": [
+        "Around 60 percent of healthy newborns develop jaundice in the first days of life, and most cases resolve on their own within one to two weeks without treatment.",
+        "Jaundice appearing in the first 24 hours of life, or spreading to the legs and feet, always needs same-day medical assessment.",
+        "G6PD deficiency is common across the Arab world and can cause bilirubin to rise dangerously fast, narrowing the window for safe treatment.",
+        "Phototherapy is safe, effective and the standard treatment: it converts bilirubin in the skin into a form the body can excrete without relying on the liver.",
+        "Do not use direct sunlight as a substitute for medical phototherapy: it cannot deliver an adequate dose safely and risks burning a newborn's fragile skin."
+      ],
+      "sections": [
+        {
+          "h2": "What is jaundice and why does it happen in newborns?",
+          "paras": [
+            "Newborn jaundice is the yellow colouring of a baby's skin and the whites of the eyes. It is caused by a build-up of bilirubin, a yellow substance produced when red blood cells break down. The liver normally processes bilirubin and excretes it in bile, but a newborn's liver works slowly at first and cannot keep pace with the volume of bilirubin being produced as the extra red blood cells from the womb break down.",
+            "Around six in ten healthy, full-term newborns develop visible jaundice in their first days of life. In most of these cases the jaundice is mild, resolves on its own within one to two weeks as the liver matures, and requires no treatment beyond good feeding. The condition is so common that it has a name for this normal variant: physiological jaundice.",
+            "In a smaller proportion of cases, bilirubin climbs to levels that can cause permanent brain damage. The difference between these two situations is the timing, the speed of rise, and the distribution on the body, not simply the presence of yellow colouring. This is why knowing what to look for matters."
+          ],
+          "visual": {
+            "type": "timeline",
+            "title": "When jaundice appears and what it usually means",
+            "items": [
+              {"when": "First 24 hours", "what": "Early onset jaundice: always a medical emergency, assess immediately"},
+              {"when": "Day 2 to 5", "what": "Physiological jaundice: normal in most healthy full-term newborns"},
+              {"when": "Week 2", "what": "Jaundice begins fading in most infants"},
+              {"when": "Beyond 2 weeks", "what": "Prolonged jaundice: needs investigation to find the cause"}
+            ]
+          }
+        },
+        {
+          "h2": "Physiological jaundice versus pathological jaundice",
+          "paras": [
+            "Physiological jaundice is the normal form. It typically appears on day two or three of life, is confined to the face and chest, is mild, and fades gradually over one to two weeks. A baby with physiological jaundice feeds well, appears active, and has normal urine and stool colour. No treatment is usually needed beyond ensuring the baby feeds frequently.",
+            "Pathological jaundice departs from this pattern in one or more ways. It appears in the first 24 hours of life, or it is severe enough to spread to the abdomen, legs and feet, or it persists beyond two weeks in a full-term infant, or it is accompanied by pale stools, very dark urine, or a visibly unwell baby. Any of these patterns signals a problem that needs medical investigation.",
+            "A 2017 review in the British Journal of Hospital Medicine by Mitra and Rennie identified the most common causes of pathological jaundice: blood group incompatibility between mother and baby (ABO or Rh), G6PD deficiency, infection, and liver or bile duct problems. Each requires different management. Distinguishing them requires blood tests, which is why home observation has limits."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Physiological versus pathological jaundice",
+            "head": ["Feature", "Physiological", "Pathological"],
+            "rows": [
+              ["Onset", "Day 2 to 3", "Within 24 hours of birth"],
+              ["Distribution", "Face and chest only", "Spreads to abdomen and legs"],
+              ["Duration", "7 to 14 days", "Beyond 2 weeks"],
+              ["Baby's condition", "Active, feeding well", "Lethargic or poor feeder"],
+              ["Response needed", "Monitoring, good feeding", "Medical assessment the same day"]
+            ]
+          }
+        },
+        {
+          "h2": "Why G6PD deficiency raises the stakes in the Arab world",
+          "paras": [
+            "Glucose-6-phosphate dehydrogenase (G6PD) is an enzyme that protects red blood cells from destruction. When a newborn lacks sufficient G6PD, red blood cells break down much more rapidly than normal when triggered by certain stresses, releasing large amounts of bilirubin very quickly. This can drive bilirubin levels up dangerously fast.",
+            "G6PD deficiency is one of the most common inherited enzyme disorders in the world, and it is particularly prevalent across the Middle East, North Africa and the Mediterranean basin. A study published in the Journal of Pediatrics in 2015 examined Arab and Palestinian-Arab neonates and documented significant G6PD deficiency rates in these populations, underlining the clinical importance of screening in the region. An earlier study from Al Ain in the UAE found that G6PD deficiency was a significant driver of severe hyperbilirubinaemia in that population.",
+            "A 2022 review in Frontiers in Pediatrics described the mechanism in detail: G6PD-deficient red cells in a newborn are vulnerable to oxidative stress from infections, certain foods the breastfeeding mother ate, or naphthalene exposure from mothballs, causing haemolysis and a sudden spike in bilirubin. The problem is that this spike can happen within hours. Many families do not know they carry the trait until a baby is affected. If any family member is known to have G6PD deficiency, tell the maternity team at the time of delivery so the baby can be monitored closely from birth."
+          ]
+        },
+        {
+          "h2": "Warning signs that mean go to the emergency department now",
+          "paras": [
+            "Severe untreated hyperbilirubinaemia causes a condition called kernicterus, where bilirubin deposits in the brain and causes permanent damage including cerebral palsy, hearing loss and intellectual disability. Kernicterus is entirely preventable with timely intervention. The tragedy is that it still occurs when warning signs are missed or when families wait for a morning appointment.",
+            "Go to the emergency department the same day if you see any of the following: jaundice appearing in the first 24 hours of life; yellowing spreading to the legs and feet; the baby is very difficult to wake, or is limp; the baby refuses to feed at all; the baby has an unusually high-pitched cry that does not sound like normal crying; the baby arches their neck or back; or you see any twitching or seizure-like movements. Do not wait until morning."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "Go to the emergency department immediately if",
+            "items": [
+              "Jaundice appears in the first 24 hours of birth",
+              "Yellowing spreads to the legs and feet",
+              "The baby is very lethargic or will not feed",
+              "The baby has a high-pitched, unusual cry",
+              "The baby arches the neck or back backwards, or has seizures"
+            ]
+          }
+        },
+        {
+          "h2": "How phototherapy works, and is it safe?",
+          "paras": [
+            "Phototherapy is the standard treatment for significant neonatal jaundice. The baby is placed under a bank of blue-spectrum lights, typically wavelengths between 430 and 490 nanometres. This light penetrates the skin and converts bilirubin molecules into a form that the body can excrete in urine and stool without the liver needing to process them first. It is a physical conversion, not a chemical treatment.",
+            "A 2023 Cochrane systematic review comparing continuous and intermittent phototherapy found both approaches effective at reducing bilirubin levels and confirmed the established safety profile of the intervention. Common temporary side effects include reddened skin, greenish stools and mild dehydration, all of which resolve when treatment stops. The baby's eyes are covered with protective shields during treatment, all clothing is removed to maximise skin exposure, and breastfeeding continues during short breaks.",
+            "Families sometimes worry about phototherapy because of the equipment and the need to stay in hospital. The reassurance is that the treatment itself is well tolerated by newborns and the alternative, untreated high bilirubin, is far more dangerous. In some settings, home phototherapy devices are available for moderate cases under medical supervision, which avoids hospitalisation."
+          ]
+        },
+        {
+          "h2": "Does sunlight work instead of phototherapy?",
+          "paras": [
+            "The idea of treating jaundice with sunlight is based on a real mechanism: sunlight does contain the blue wavelengths that can convert bilirubin. Indirect natural light, such as sitting near a window in a well-lit room, causes no harm to a mildly jaundiced baby who is already being medically monitored. But sunlight is not a safe substitute for medical phototherapy.",
+            "Direct sun exposure risks burning a newborn's thin, vulnerable skin even in a matter of minutes. Glass windows filter out much of the useful blue wavelength. The dose cannot be controlled or measured. And a baby who needs phototherapy needs bilirubin to fall quickly and reliably, which sunlight cannot achieve. Families in the region sometimes delay bringing a jaundiced baby to hospital because they believe daily sun exposure at home is sufficient. This delay is the situation in which kernicterus becomes possible.",
+            "If your baby has mild jaundice and is being monitored by a doctor who has told you no treatment is needed, gentle exposure to indirect natural light in a warm room causes no harm. The moment a doctor recommends phototherapy, that means the bilirubin level has reached a threshold where sunlight is not an adequate alternative."
+          ]
+        },
+        {
+          "h2": "Breast milk jaundice and breastfeeding jaundice: two different things",
+          "paras": [
+            "Breastfeeding is associated with two distinct types of jaundice that are often confused. The first is breastfeeding jaundice, which occurs in the first week when the baby is not getting enough milk. Frequent large stools are how newborns excrete bilirubin, and when feeding is insufficient, less stool means less bilirubin removed. The solution is improving feeding frequency and latch, not stopping breastfeeding.",
+            "The second is breast milk jaundice, which appears after the first week and can persist for several weeks. It occurs because some mothers' milk contains substances that slow the liver's processing of bilirubin. This condition is usually harmless and rarely requires stopping breastfeeding. When bilirubin is very high in a baby with breast milk jaundice, a brief pause in breastfeeding of 24 to 48 hours may be recommended by a doctor to allow levels to fall, after which breastfeeding resumes. This decision belongs to the clinician assessing the actual bilirubin level, not to a parent guessing at home.",
+            "In both cases, the default answer is not to stop breastfeeding. Continuing breastfeeding tends to help jaundice resolve faster than it hinders it. The AAP and WHO both recommend continuing breastfeeding through jaundice monitoring in the absence of a clear medical reason to pause."
+          ]
+        },
+        {
+          "h2": "What to watch for after leaving hospital",
+          "paras": [
+            "Many newborns are discharged from hospital within 24 to 48 hours of birth, which is exactly when bilirubin is still rising. An updated 2024 guideline published in JAAPA recommends follow-up with a healthcare provider within 24 to 48 hours of discharge to check bilirubin levels. If hospital-based measurement is not possible, a transcutaneous bilirubinometer, a handheld device touched to the skin, is an acceptable alternative in community settings.",
+            "At home, check your baby's skin colour daily in natural light, not under yellow indoor lighting which conceals yellow skin. Look at the face first, then the chest, then the belly, then the arms and legs. If yellowing is spreading downward or appears deeper than the day before, contact your doctor the same day.",
+            "A baby who feeds eight to twelve times every 24 hours, produces at least six wet nappies and regular yellow stools daily, and appears active and alert is processing bilirubin normally in most cases. Dehydration and insufficient feeding are the most common factors that extend jaundice and drive levels higher. Feeding frequently is both the best prevention and the most important part of home management."
+          ]
+        }
+      ],
+      "tie": "You can use the Sihtak app to track your newborn's jaundice day by day in the first two weeks, log feeding frequency, and note any changes in skin colour or alertness to share with your doctor at the follow-up visit.",
+      "faqs": [
+        {
+          "q": "When should I take my newborn to hospital for jaundice?",
+          "a": "Go to the emergency department the same day if jaundice appears within the first 24 hours, if yellowing reaches the legs and feet, if the baby is very difficult to wake or refuses all feeds, if the cry sounds high-pitched and unusual, or if the baby arches their back. Mild yellowing confined to the face in an active, feeding baby in the first week is usually physiological and can be monitored."
+        },
+        {
+          "q": "Can sunlight treat my baby's jaundice?",
+          "a": "Indirect natural light in a warm room does no harm to a mildly jaundiced baby under medical supervision. But it is not a safe substitute for phototherapy when bilirubin is at a level requiring treatment. Direct sunlight risks burning newborn skin. Once a doctor recommends phototherapy, that threshold has been crossed and light at home is not sufficient."
+        },
+        {
+          "q": "What is G6PD deficiency and why does it matter for jaundice?",
+          "a": "G6PD is an enzyme that protects red blood cells. When it is deficient, red cells break down rapidly under certain stresses, releasing a surge of bilirubin very quickly. This is especially common across the Arab world. If your family has a history of G6PD deficiency, tell the maternity team at birth so the baby can be monitored closely from the start."
+        },
+        {
+          "q": "Can jaundice damage my baby's brain?",
+          "a": "Yes, if bilirubin reaches very high levels without treatment it can deposit in the brain and cause permanent damage called kernicterus. This leads to cerebral palsy, hearing loss and intellectual disability. Kernicterus is entirely preventable with timely monitoring and phototherapy when needed. This is why early follow-up after leaving hospital matters."
+        },
+        {
+          "q": "Should I stop breastfeeding if my baby has jaundice?",
+          "a": "In most cases, no. Breastfeeding frequently actually helps clear bilirubin by producing stools. Stopping breastfeeding can make jaundice last longer. The exception is when a doctor has measured bilirubin and decided a brief pause is needed for a specific reason. That is a clinical decision based on actual levels, not something to do based on appearance alone."
+        },
+        {
+          "q": "How long does normal newborn jaundice last?",
+          "a": "Physiological jaundice in a full-term newborn typically lasts 7 to 14 days. In premature babies it may last up to three weeks. Jaundice persisting beyond this needs investigation. Breast milk jaundice can last several weeks but is usually harmless at the levels it reaches."
+        },
+        {
+          "q": "Is phototherapy painful or harmful?",
+          "a": "Phototherapy is not painful. The baby lies under blue lights with protective eye covers, and feeding continues during breaks. Common temporary effects are mild skin redness, greenish stools and slight dehydration, which are managed by ensuring good fluid intake. The treatment has an established safety record and is used routinely for newborns worldwide."
+        },
+        {
+          "q": "Are premature babies at higher risk from jaundice?",
+          "a": "Yes. Premature babies have less mature livers and process bilirubin more slowly. They are also often harder to feed adequately in the first days, which reduces bilirubin excretion through stool. Because of this, doctors use lower bilirubin thresholds to start phototherapy in premature infants compared to full-term newborns."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,385 @@
+{
+  "slug": "child-anxiety-and-fears",
+  "category": "mental-health",
+  "chip_ar": "الصحة النفسية",
+  "chip_en": "Mental Health",
+  "date_iso": "2026-08-04",
+  "sources": [
+    {
+      "label": "Dufton LM, Dunn MJ, Compas BE et al: Anxiety and somatic complaints in children with recurrent abdominal pain and anxiety disorders, Journal of pediatric psychology, 2009",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18577541/"
+    },
+    {
+      "label": "Freidl EK, Stroeh OM, Elkins RM et al: Assessment and Treatment of Anxiety Among Children and Adolescents, Focus (American Psychiatric Publishing), 2017",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31975847/"
+    },
+    {
+      "label": "Kawsar MDS, Yilanli M, Marwaha R et al: School Refusal, StatPearls, 2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30480934/"
+    },
+    {
+      "label": "Heuer B: School refusal: Considerations for the primary care NP, The Nurse practitioner, 2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39186119/"
+    },
+    {
+      "label": "Saps M, Seshadri R, Sztainberg M et al: A prospective school-based study of abdominal pain and other common somatic complaints in children, The Journal of pediatrics, 2009",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19038403/"
+    },
+    {
+      "label": "Casella CB, Kessler RC, Mneimneh Z et al: Emotional distress in adolescents in 2018 and 2022: a comparison of cross-sectional national probabilistic samples from six countries, The Lancet Child and Adolescent Health, 2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41242329/"
+    }
+  ],
+  "content": {
+    "en": {
+      "title": "Anxiety in children: the signs parents miss",
+      "desc": "Child anxiety rarely looks like worry. It shows up as stomach aches, school refusal and clinginess. Learn what to look for and how to help without making it worse.",
+      "keywords": "child anxiety, anxiety in children, school refusal, separation anxiety, stomach aches anxiety, child fears, childhood anxiety symptoms, anxiety treatment children",
+      "h1": "Anxiety in children: the signs most parents miss",
+      "takeaways": [
+        "Children with anxiety often do not say they are worried. They complain of stomach aches, headaches, or refuse to go to school.",
+        "Separation anxiety, specific phobias, and generalised anxiety are the most common anxiety disorders in children, and each looks different.",
+        "Reassuring a child by letting them avoid what frightens them tends to make anxiety worse over time, not better.",
+        "Early attention to persistent anxiety is worth taking. Childhood anxiety that goes unaddressed is a risk factor for anxiety and depression in adolescence and adulthood.",
+        "Effective treatment for childhood anxiety exists and is accessible. Cognitive behavioural therapy, adapted for children, has a strong evidence base."
+      ],
+      "sections": [
+        {
+          "h2": "Why anxious children do not look anxious",
+          "paras": [
+            "Parents who picture an anxious child often picture one who says they are worried, who wrings their hands, or who cries in an identifiable way. Real childhood anxiety is usually less obvious. A child who has recurrent stomach aches before school, who complains of headaches when asked to attend a party, who insists on sleeping in the parents' room long past the age when this is typical, or who seems to become angry and defiant at transition points may be showing anxiety in the way that children typically do.",
+            "Children lack both the vocabulary and the insight to identify their own emotional states reliably. A seven-year-old who feels a wave of anxiety on the bus to school does not think: I am experiencing anticipatory anxiety about the social environment of school. They think: my stomach hurts. They ask to go home. If the request is granted, the stomach ache resolves, and the pattern repeats and strengthens.",
+            "A 2009 study published in the Journal of Pediatric Psychology found that children with anxiety disorders had significantly higher rates of recurrent abdominal pain than children without anxiety. A separate prospective school-based study in the Journal of Pediatrics examined somatic complaints in children and found that stomach pain was among the most common, with emotional factors identified as a significant contributor in many cases. The body is expressing what the mind cannot yet name."
+          ]
+        },
+        {
+          "h2": "The most common anxiety disorders in children",
+          "paras": [
+            "Several specific patterns of childhood anxiety are well recognised and each presents differently. Separation anxiety is characterised by distress that is far beyond what is expected for a child's age when they are separated, or anticipating separation, from the people they are attached to. It is developmentally normal in toddlers and typically eases by school age. When it persists strongly into later childhood or adolescence, it has crossed into a clinical anxiety disorder.",
+            "Generalised anxiety disorder in children involves persistent, excessive worry about many different things: school performance, family health, whether the house door was locked, whether a parent's car will crash. The worrying is difficult to control, and it is accompanied by physical symptoms like muscle tension, poor sleep, fatigue, and difficulty concentrating. These children often appear diligent and conscientious to adults, which can mask how much effort they are expending just to function.",
+            "Specific phobias, such as fear of dogs, needles, vomit, or the dark, are common and often manageable. Social anxiety disorder involves an intense fear of scrutiny, embarrassment or humiliation in social situations, and leads children to avoid participation in class, speaking to peers they do not know well, or attending events. It is frequently confused with shyness, which is a temperament rather than a disorder.",
+            "Selective mutism, in which a child speaks normally at home but is consistently unable to speak in specific settings like school, is understood as an anxiety disorder rather than a behavioural choice or a developmental delay. It responds to treatment approaches similar to those used for other anxiety disorders."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Common anxiety presentations in children",
+            "head": ["Type", "What it looks like", "Common age of onset"],
+            "rows": [
+              ["Separation anxiety disorder", "Extreme distress at leaving parents, physical complaints before school", "3 to 9 years"],
+              ["Generalised anxiety disorder", "Constant worrying about many topics, sleep problems, muscle tension", "8 to 12 years typically"],
+              ["Social anxiety disorder", "Avoids speaking in class, won't attend parties or events, freezes with unfamiliar adults", "Early adolescence, can be earlier"],
+              ["Specific phobia", "Intense fear of one stimulus: needles, dogs, vomit, storms", "Any age"],
+              ["Selective mutism", "Speaks at home, consistently mute at school or social settings", "2 to 5 years usually noticed"]
+            ]
+          }
+        },
+        {
+          "h2": "School refusal: when avoiding school is more than laziness",
+          "paras": [
+            "School refusal, sometimes called school avoidance, describes a pattern in which a child resists or refuses to attend school, causing significant distress to the child and the family. It is not truancy, which involves leaving school without parental knowledge for the purpose of avoiding supervision. School refusal typically happens with the parents' full knowledge, the child is at home, and the family is often in considerable distress about it.",
+            "A 2024 review in The Nurse Practitioner noted that school refusal is driven by anxiety in the majority of cases, often involving a combination of separation anxiety, social anxiety, and specific fears related to the school environment. Other drivers include depression, bullying, learning difficulties, and a genuine traumatic event that took place at school. Getting to the underlying cause is essential before the response will work.",
+            "A StatPearls review updated in 2026 describes school refusal as requiring a multi-component response: rapid return to school as a therapeutic goal (not waiting until the child feels ready, because waiting reinforces the avoidance), involvement of the school in adapting the return, and addressing the underlying anxiety directly with professional support. The longer a child stays out of school, the harder it becomes to return, because the anxiety about the social situation of going back adds to the original anxiety.",
+            "Physical complaints that disappear on weekends and school holidays, that resolve if the child is allowed to stay home, and that have not produced any physical explanation after a medical review are a strong signal that anxiety is involved. This is not the child deceiving anyone. The physical symptoms are real. Anxiety produces genuinely felt physical sensations."
+          ]
+        },
+        {
+          "h2": "How reassurance can backfire",
+          "paras": [
+            "When a child is frightened, the natural parental response is to reassure them and remove what is frightening. This feels like the kind response and in a genuine emergency it is. In the context of anxiety disorders, it is one of the things that reliably makes anxiety worse over time.",
+            "Anxiety is maintained by avoidance. Each time a child is allowed to avoid the feared situation, they experience relief. That relief reinforces the belief that the situation was genuinely dangerous and that escape was necessary. The next time the situation arises, the anticipated anxiety is at least as high as before, and the pull toward avoidance is stronger.",
+            "This does not mean forcing a terrified child into the feared situation suddenly. Graduated exposure, which is the planned and gradual approach toward feared situations starting from the least frightening step, is the evidence-based approach. A child frightened of dogs might begin by looking at pictures of dogs, then at a dog in a video, then at a dog across the street on a lead, and progress from there. The process is supported by a therapist in formal treatment, but parents can apply the principle with mild everyday fears.",
+            "Excessive reassurance seeking is a related pattern. A child who repeatedly asks whether the plane will crash, whether there are germs on the door handle, or whether their parent will die, is not looking for information. They are looking for relief from anxiety. Providing detailed reassurance each time reinforces the seeking and does not reduce the anxiety. A more effective response is to acknowledge the feeling briefly and then redirect without providing the reassurance, which is a technique a therapist can help a family learn."
+          ]
+        },
+        {
+          "h2": "What anxiety looks like in different ages",
+          "paras": [
+            "At different developmental stages, anxiety presents differently and different levels of fear are developmentally expected. Toddlers who fear strangers and become distressed when separated from caregivers are within the normal range. Preschool children who are afraid of monsters, the dark, or animals are displaying very typical developmental fears. These become worth investigating if they are intense enough to significantly disrupt functioning or persist well beyond the typical age of resolution.",
+            "School-age children, roughly five to twelve years, most commonly present with worries about performance, health, family safety, and social acceptance. A child who needs constant reassurance about tests, who becomes physically ill before sports days or class presentations, or who cannot sleep because they are worried about something bad happening to a parent, may be showing signs of anxiety beyond the normal range.",
+            "Adolescents are more likely to present with social anxiety, sometimes combined with other mental health difficulties. A Lancet study published in 2026 comparing emotional distress in adolescents across multiple countries including Lebanon found significant rates of emotional distress, and noted that rates had increased between 2018 and 2022 across nearly all populations studied. Adolescents may describe anxiety as stress, may not identify it as anxiety at all, and are particularly likely to withdraw from family rather than seek help."
+          ],
+          "visual": {
+            "type": "timeline",
+            "title": "Anxiety and fears across child development",
+            "items": [
+              {"when": "0 to 2 years", "what": "Stranger anxiety, distress at separation: developmentally normal"},
+              {"when": "2 to 5 years", "what": "Fears of the dark, monsters, animals, loud noises: typical. Disrupting sleep every night is worth noting"},
+              {"when": "5 to 10 years", "what": "Worries about school performance, health, family safety. Stomach aches and school avoidance may signal anxiety"},
+              {"when": "10 to 14 years", "what": "Social anxiety becomes more prominent. Avoidance of social situations, reluctance to speak in class"},
+              {"when": "Adolescence", "what": "Anxiety may present as irritability, withdrawal, physical complaints, or refusal to engage rather than stated worry"}
+            ]
+          }
+        },
+        {
+          "h2": "When to seek professional help for a child",
+          "paras": [
+            "Normal childhood fears do not generally require professional intervention. They are part of development, typically resolve with time, and respond to calm, consistent parenting that neither dismisses nor amplifies the fear. The signal that professional help is worth seeking is when the anxiety is significantly disrupting the child's daily functioning: missing school regularly, unable to participate in activities that peers manage without difficulty, unable to sleep alone for an age at which that is expected, or so distressed by the feared situation that they cannot be helped through it by the parents.",
+            "The duration and persistence matter. A child who is frightened before a specific event is different from a child who is frightened much of the time. A child who has refused school for three days after something difficult happened is different from a child who has refused school for three months with no clear precipitant.",
+            "Physical complaints that have been medically investigated and found to have no physical explanation are also a signal. This does not mean dismissing the child's pain. It means recognising that the physical symptoms are real but are being generated by an anxiety response rather than by a physical disease process, which leads to a different and effective treatment."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "Seek professional assessment if",
+            "items": [
+              "Your child has missed significant amounts of school due to fear or physical complaints",
+              "The anxiety has persisted for more than a month and is not easing",
+              "Your child cannot participate in activities that other children of the same age manage",
+              "Sleep is severely and consistently disrupted",
+              "Your child is very distressed and you are unable to help them through it",
+              "Your child describes feelings of hopelessness, worthlessness, or not wanting to be alive"
+            ]
+          }
+        },
+        {
+          "h2": "What treatment looks like: effective options",
+          "paras": [
+            "Cognitive behavioural therapy (CBT) adapted for children has the strongest evidence base of any treatment for childhood anxiety disorders. A 2017 review of the literature in Focus, the journal of the American Psychiatric Association, confirmed that CBT produces meaningful improvements across childhood anxiety disorder types, with most children showing significant improvement after eight to sixteen sessions. The child version of CBT involves helping the child identify anxious thoughts, challenge their accuracy, and gradually approach feared situations rather than avoid them.",
+            "For younger children, CBT is delivered through play and involves parents directly in the process. Parents are taught how to respond to anxious behaviour in ways that support progress rather than reinforcing avoidance. This parental involvement is not a side feature of childhood anxiety treatment. It is central to it, because the child's environment changes when parents change how they respond.",
+            "Medication is sometimes used alongside CBT when anxiety is severe, or when access to CBT is limited. Selective serotonin reuptake inhibitors (SSRIs) are the medication class with the best evidence in childhood anxiety. No medication should be started for a child without the involvement of a paediatrician or child and adolescent psychiatrist, and medication should not be the first or only treatment.",
+            "In many parts of the Arab world, access to trained child psychologists is limited and the stigma around mental health continues to deter families from seeking help. School counsellors, when available and trained, can provide a useful first point of contact. Paediatricians who are aware of the link between somatic complaints and anxiety can redirect families appropriately. The message that anxiety in children is common, is not a character flaw or a parenting failure, and responds well to treatment, needs to reach more families."
+          ]
+        },
+        {
+          "h2": "What parents can do at home",
+          "paras": [
+            "There is a great deal that parents can do that either helps or significantly worsens childhood anxiety, regardless of whether professional treatment is involved. Acknowledging the feeling without amplifying it is the central skill. Saying I can see you are nervous about this, that makes sense is different from saying Oh no, don't worry, everything will be absolutely fine. One validates the feeling; the other, despite its kindly intention, signals that the situation requires reassurance, which implies danger.",
+            "Helping a child develop a toolkit of self-management strategies has lasting value. Slow, deliberate breathing works physiologically because it activates the parasympathetic nervous system. Children as young as five can learn a simple breathing exercise: breathe in slowly for four counts, hold for two, breathe out slowly for six. This can be practised when calm so it is available when anxious.",
+            "Modelling calm response to difficult situations matters more than parents typically realise. Children are highly attuned to parental anxiety. A parent who visibly catastrophises, who talks about feared events as inevitable, or who arranges the family's life around avoidance of anxiety-provoking situations is providing a working model of anxiety that children absorb. This is not blame. It is a recognition that parents who struggle with anxiety themselves often benefit from their own support.",
+            "Maintaining routines, sleep schedules, and regular meals provides the physical foundation from which emotional regulation is possible. Anxiety and sleep deprivation amplify each other. A child who is chronically under-slept has a lower threshold for anxiety responses and less capacity to use coping strategies. Getting sleep right is not a soft intervention in childhood anxiety. It is fundamental."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "A simple breathing exercise for anxious children",
+            "items": [
+              "Sit comfortably. Put one hand on your belly and one on your chest",
+              "Breathe in slowly through your nose for 4 counts, feeling your belly rise",
+              "Hold gently for 2 counts",
+              "Breathe out slowly through your mouth for 6 counts",
+              "Repeat four to six times. Practise this when calm so it works when anxious"
+            ]
+          }
+        },
+        {
+          "h2": "Anxiety and Arabic cultural contexts",
+          "paras": [
+            "Mental health stigma remains a significant barrier to seeking help for children in many Arab families. Parents may attribute anxiety to the evil eye, to spiritual weakness, to spoiling, or to a child who simply needs discipline. These interpretations delay recognition and treatment. A child whose anxiety is interpreted as defiance or laziness will not receive the response that reduces it.",
+            "On the other hand, Arab family structures that maintain close extended family contact, that normalise communal problem-solving, and that provide a strong sense of belonging and identity, can be genuinely protective for children who are anxious. The question is not whether the cultural context helps or harms but where, in this particular family and community, the resources are and where the gaps are.",
+            "The experience of displacement, war, and loss, which is a reality for large numbers of children in the region, significantly increases the risk of anxiety disorders. A child who has experienced genuine danger, loss of home, separation from family members, or witnessed violence has an elevated biological threat response. This is an appropriate response to an inappropriate set of circumstances, and it needs to be understood in that frame. Managing anxiety in children who have experienced trauma requires specific expertise, and generic reassurance is insufficient.",
+            "Religion can be a source of comfort and meaning for anxious children and their families, and it is right to include it in a family's coping approach. It becomes problematic when it replaces rather than accompanies professional assessment, particularly when a child is suffering significantly and treatment-responsive conditions are going unaddressed."
+          ]
+        }
+      ],
+      "tie": "Sihtak lets you track how your child is doing over time, including physical complaints and mood. If you are seeing a pattern of stomach aches, school refusal, or distress that keeps recurring, keeping a record in the app gives you something concrete to bring to your paediatrician or a mental health professional.",
+      "faqs": [
+        {
+          "q": "How do I know if my child's fears are normal or an anxiety disorder?",
+          "a": "Normal childhood fears are developmentally expected, do not significantly disrupt daily life, and tend to ease with time and calm reassurance. An anxiety disorder is present when the fear is clearly beyond what peers experience, persists longer than expected, prevents the child from functioning normally at school or home, or causes significant distress that the child cannot manage even with support."
+        },
+        {
+          "q": "My child complains of stomach aches every school morning. Could it be anxiety?",
+          "a": "Recurrent stomach aches before school are one of the most common ways anxiety presents in children. If the stomach aches disappear on weekends and holidays, resolve when the child is allowed to stay home, and a doctor has found no physical explanation, anxiety is very likely the cause. The pain is real and not manufactured. The source is emotional, not physical."
+        },
+        {
+          "q": "Should I let my anxious child avoid the thing they fear?",
+          "a": "Short-term avoidance brings relief but consistently makes anxiety worse over time. Each avoidance reinforces the belief that the feared situation is dangerous and that escape was necessary. The effective approach is gradual, supported exposure to the feared situation, starting from the least frightening step. A therapist can design this systematically, but the principle applies to everyday manageable fears too."
+        },
+        {
+          "q": "What is the best treatment for anxiety in children?",
+          "a": "Cognitive behavioural therapy adapted for children has the strongest evidence base. It involves helping the child identify and challenge anxious thoughts, learning coping strategies, and gradually approaching feared situations. Parents are actively involved. Most children show significant improvement after eight to sixteen sessions. Medication is sometimes added for severe cases or when CBT access is limited."
+        },
+        {
+          "q": "At what age can anxiety disorders start in children?",
+          "a": "Separation anxiety disorder can present in toddlers and preschool children. Specific phobias can begin at any age. Generalised anxiety disorder typically becomes apparent in the school-age years, roughly six to twelve. Social anxiety disorder tends to become more prominent in early adolescence but can be present earlier. Early recognition and support at any age is worthwhile."
+        },
+        {
+          "q": "My child refuses to go to school. What should I do?",
+          "a": "School refusal driven by anxiety is best addressed by returning to school as quickly as possible, even in a graduated way, rather than waiting until the child feels completely ready. Waiting allows the anxiety and avoidance to entrench. Involve the school, get a professional assessment to understand what is driving the refusal, and seek support from a child psychologist if the pattern has persisted for more than a week or two."
+        },
+        {
+          "q": "Does childhood anxiety go away on its own?",
+          "a": "Some childhood fears resolve naturally as children develop. Others, particularly anxiety disorders that are interfering with functioning, tend to persist and can worsen without support. Childhood anxiety that goes unaddressed is a risk factor for anxiety disorders and depression in adolescence and adulthood. Getting support early when anxiety is affecting a child's life is a worthwhile investment."
+        },
+        {
+          "q": "Is anxiety in children related to parenting?",
+          "a": "Parenting approaches influence how anxiety develops and whether it improves or worsens, but anxiety disorders are not caused by bad parenting. Genetic factors contribute, temperament plays a role, and life experiences including trauma and loss are significant factors. What parents do matters a great deal in terms of response and recovery, but the presence of childhood anxiety is not evidence of parenting failure."
+        }
+      ]
+    },
+    "ar": {
+      "title": "القلق عند الأطفال: علامات يُغفلها الآباء",
+      "desc": "قلق الطفل نادرا ما يبدو كقلق. يظهر في آلام البطن والامتناع عن المدرسة والتعلق الزائد. تعرف على ما تبحث عنه وكيف تُساعد دون أن تُفاقم الأمر.",
+      "keywords": "قلق الأطفال، القلق عند الأطفال، الرفض المدرسي، قلق الانفصال، آلام بطن القلق، مخاوف الأطفال، أعراض القلق الطفولي، علاج القلق عند الأطفال",
+      "h1": "القلق عند الأطفال: العلامات التي يُغفلها معظم الآباء",
+      "takeaways": [
+        "الأطفال القلقون في الغالب لا يقولون إنهم خائفون. يشكون من آلام البطن والصداع أو يرفضون الذهاب إلى المدرسة.",
+        "قلق الانفصال والمخاوف المحددة والقلق العام هي أكثر اضطرابات القلق شيوعا عند الأطفال وكل منها يبدو مختلفا.",
+        "طمأنة الطفل بالسماح له بتجنّب ما يخيفه تُفاقم القلق بمرور الوقت لا تُخففه.",
+        "الانتباه المبكر إلى القلق المستمر يستحق الجهد. قلق الطفولة غير المُعالج عامل خطر للقلق والاكتئاب في المراهقة وما بعدها.",
+        "علاج فعّال لقلق الأطفال موجود ومتاح. العلاج المعرفي السلوكي المُكيَّف للأطفال له قاعدة أدلة راسخة."
+      ],
+      "sections": [
+        {
+          "h2": "لماذا الطفل القلق لا يبدو قلقا؟",
+          "paras": [
+            "حين يتخيل الآباء طفلا قلقا غالبا يتخيلون من يقول إنه خائف أو يتلوّى بيديه أو يبكي بطريقة يسهل تحديدها. قلق الطفولة الحقيقي عادة أقل وضوحا من ذلك. الطفل الذي يعاني آلام بطن متكررة قبل المدرسة، أو يشكو من صداع حين يُطلب منه حضور حفل، أو يصر على النوم في غرفة والديه بعد العمر الذي يكون فيه ذلك معتادا، أو يبدو غاضبا وعنيدا عند نقاط التحول، قد يُعبّر عن القلق بالطريقة التي يفعلها الأطفال عادة.",
+            "الأطفال يفتقرون إلى المفردات والوعي الذاتي الكافيين لتحديد حالاتهم العاطفية بشكل موثوق. طفل يبلغ السابعة يشعر بموجة قلق في حافلة المدرسة لا يُفكر في أنه يعاني قلقا استباقيا حول البيئة الاجتماعية للمدرسة. يُفكر في أن بطنه تؤلمه. يطلب العودة إلى البيت. إن أُجيب طلبه، تزول آلام البطن، ويتكرر النمط ويترسّخ.",
+            "دراسة نُشرت عام 2009 في مجلة Journal of Pediatric Psychology وجدت أن الأطفال المصابين باضطرابات القلق يُعانون من آلام البطن المتكررة بمعدلات أعلى بكثير مقارنة بالأطفال غير القلقين. ودراسة أمامية مدرسية أخرى نُشرت في مجلة The Journal of Pediatrics وجدت أن الألم البطني كان من أكثر الشكاوى الجسدية شيوعا عند الأطفال، وحدّدت العوامل العاطفية مُساهِما رئيسيا في كثير من الحالات. الجسد يُعبّر عمّا لا تستطيع العقل تسميته بعد."
+          ]
+        },
+        {
+          "h2": "أكثر اضطرابات القلق شيوعا عند الأطفال",
+          "paras": [
+            "عدة أنماط محددة من قلق الطفولة معروفة جيدا ولكل منها مظهر مختلف. قلق الانفصال (Separation Anxiety) يتسم بكرب يفوق بكثير ما هو متوقع لعمر الطفل حين ينفصل أو يتوقع الانفصال عن من يرتبط بهم. هو طبيعي تطوريا عند الأطفال الصغار ويخف عادة مع بلوغ سن المدرسة. حين يستمر بشدة إلى مرحلة الطفولة المتأخرة أو المراهقة يكون قد تجاوز حد اضطراب القلق السريري.",
+            "اضطراب القلق العام (Generalised Anxiety Disorder) عند الأطفال يشمل قلقا مستمرا ومفرطا حول أشياء كثيرة ومتنوعة: الأداء المدرسي، وصحة الأسرة، وهل قُفل باب البيت، وهل ستتعرض سيارة أحد الوالدين لحادث. القلق صعب الضبط ويصحبه أعراض جسدية كتوتر العضلات وضعف النوم والإرهاق وصعوبة التركيز. هؤلاء الأطفال كثيرا ما يبدون للبالغين مجتهدين ومتحملين للمسؤولية، مما قد يُخفي مقدار الجهد الذي يبذلونه لمجرد الوظيفة اليومية.",
+            "المخاوف المحددة (Specific Phobias) كالخوف من الكلاب أو الإبر أو القيء أو الظلام شائعة وغالبا يمكن التعامل معها. اضطراب القلق الاجتماعي (Social Anxiety Disorder) يشمل خوفا شديدا من التدقيق والإحراج والإهانة في المواقف الاجتماعية، ويقود الأطفال إلى تجنّب المشاركة في الفصل وتجنّب التحدث إلى أقران لا يعرفونهم جيدا وتجنّب حضور المناسبات. كثيرا ما يُخلط بينه وبين الخجل وهو مزاج لا اضطراب.",
+            "الصمت الانتقائي (Selective Mutism) الذي يتكلم فيه الطفل بصورة طبيعية في البيت لكنه يعجز باستمرار عن الكلام في سياقات بعينها كالمدرسة يُفهم على أنه اضطراب قلق لا خيار سلوكي أو تأخر في التطور. يستجيب للمناهج العلاجية المشابهة لتلك المستخدمة لاضطرابات القلق الأخرى."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "أبرز مظاهر القلق عند الأطفال",
+            "head": ["النوع", "كيف يبدو", "عمر الظهور الشائع"],
+            "rows": [
+              ["اضطراب قلق الانفصال", "ضيق شديد عند مغادرة الوالدين، شكاوى جسدية قبل المدرسة", "3 إلى 9 سنوات"],
+              ["اضطراب القلق العام", "قلق مستمر حول موضوعات كثيرة، مشكلات نوم، توتر عضلي", "8 إلى 12 سنة عادة"],
+              ["اضطراب القلق الاجتماعي", "يتجنب الكلام في الفصل، لا يحضر الأنشطة، يتجمد مع بالغين غير مألوفين", "المراهقة المبكرة، قد يكون أبكر"],
+              ["مخاوف محددة", "خوف شديد من شيء واحد: إبر، كلاب، قيء، عواصف", "أي عمر"],
+              ["الصمت الانتقائي", "يتكلم في البيت، صامت باستمرار في المدرسة أو السياقات الاجتماعية", "2 إلى 5 سنوات عادة"]
+            ]
+          }
+        },
+        {
+          "h2": "الرفض المدرسي: حين يكون الامتناع عن المدرسة أكثر من كسل",
+          "paras": [
+            "الرفض المدرسي أو تجنّب المدرسة نمط يُقاوم فيه الطفل أو يرفض الذهاب إلى المدرسة مما يُسبب ضيقا ملحوظا للطفل والأسرة. وهو يختلف عن التغيب بالاحتيال الذي يغادر فيه الطفل المدرسة دون علم والديه بهدف تجنّب الرقابة. الرفض المدرسي يحدث عادة بعلم كامل من الوالدين والطفل في البيت والأسرة في حالة ضيق كبير.",
+            "مراجعة نُشرت عام 2024 في مجلة The Nurse Practitioner أشارت إلى أن الرفض المدرسي تدفعه القلق في غالبية الحالات، وغالبا يجمع بين قلق الانفصال والقلق الاجتماعي ومخاوف محددة مرتبطة بالبيئة المدرسية. دوافع أخرى تشمل الاكتئاب والتنمر وصعوبات التعلم وحدث صادم حقيقي جرى في المدرسة. الوصول إلى السبب الجذري ضروري قبل أن يُجدي أي رد فعل.",
+            "مراجعة StatPearls المحدّثة عام 2026 تصف الرفض المدرسي بأنه يحتاج ردّا متعدد المكونات: العودة السريعة إلى المدرسة هدف علاجي، لا الانتظار حتى يشعر الطفل بالاستعداد التام لأن الانتظار يُرسّخ التجنّب، وإشراك المدرسة في التكيّف مع العودة، ومعالجة القلق الجذري مباشرة بدعم متخصص. كلما طال غياب الطفل عن المدرسة كلما صعدت العودة، لأن القلق من الموقف الاجتماعي للعودة يُضاف إلى القلق الأصلي.",
+            "الشكاوى الجسدية التي تختفي في عطل نهاية الأسبوع والإجازات المدرسية، والتي تزول إن سُمح للطفل بالبقاء في البيت، والتي لم تُوجد لها تفسير جسدي بعد مراجعة طبية، إشارة قوية على وجود القلق. لا يعني هذا أن الطفل يخدع أحدا. الأعراض الجسدية حقيقية. القلق يُنتج إحساسات جسدية مُشعَر بها فعلا."
+          ]
+        },
+        {
+          "h2": "كيف قد تُعاكسك الطمأنة",
+          "paras": [
+            "حين يخاف طفل تكون الاستجابة الوالدية الطبيعية طمأنته وإزالة ما يُخيفه. هذا يبدو ردّا لطيفا وفي حالة الخطر الحقيقي هو كذلك. في سياق اضطرابات القلق هو أحد ما يُفاقم القلق بشكل موثوق بمرور الوقت.",
+            "القلق يتغذى على التجنّب. كل مرة يُسمح فيها للطفل بتجنّب الموقف المُخيف يشعر بارتياح. ذلك الارتياح يُرسّخ قناعة بأن الموقف كان خطيرا فعلا وأن الهروب كان ضروريا. في المرة التالية يكون القلق المتوقع بالحدة ذاتها على الأقل، ويكون الدافع للتجنّب أقوى.",
+            "لا يعني هذا إجبار طفل مُرعوب فجأة على الموقف المُخيف. التعرض التدريجي، وهو الاقتراب المخطط والتدريجي من المواقف المُخيفة بدءا من الخطوة الأقل إخافة، هو المنهج القائم على الأدلة. طفل يخاف الكلاب قد يبدأ بالنظر إلى صور كلاب، ثم إلى كلب في فيديو، ثم إلى كلب عبر الشارع بمقوده، ويتقدم من هناك. يُوجّه هذا بمعالج في العلاج الرسمي لكن المبدأ ينطبق مع المخاوف اليومية الخفيفة.",
+            "طلب الطمأنة المفرط نمط مرتبط. طفل يسأل مرارا هل ستتحطم الطائرة؟ أو هل على مقبض الباب جراثيم؟ أو هل سيموت والداه؟ لا يبحث عن معلومات. يبحث عن ارتياح من القلق. تقديم طمأنة مفصلة في كل مرة يُرسّخ الطلب ولا يُخفف القلق. الاستجابة الأفعل هي الاعتراف بالشعور باختصار ثم التحويل دون تقديم الطمأنة، وهذا أسلوب يستطيع معالج مساعدة الأسرة على تعلّمه."
+          ]
+        },
+        {
+          "h2": "كيف يبدو القلق في أعمار مختلفة",
+          "paras": [
+            "في مراحل التطور المختلفة يظهر القلق بصور مختلفة وتكون مستويات معينة من الخوف طبيعية تطوريا. الأطفال الصغار الذين يخافون الغرباء ويضطربون عند الانفصال عن مقدمي الرعاية ضمن النطاق الطبيعي. أطفال ما قبل المدرسة الذين يخافون الوحوش والظلام والحيوانات يُبدون مخاوف تطورية شائعة جدا. تستحق الفحص حين تكون شديدة بما يكفي لتعطيل الأداء بشكل ملحوظ أو تستمر بعد العمر الطبيعي المتوقع لزوالها.",
+            "أطفال سن المدرسة، نحو خمس إلى اثنتي عشرة سنة، يُقدّمون في الغالب بقلق حول الأداء وصحة الأسرة والقبول الاجتماعي. طفل يحتاج طمأنة متواصلة حول الاختبارات، أو يُصاب بأعراض جسدية قبل يوم الرياضة أو تقديم الدروس، أو يعجز عن النوم لقلقه من حدوث شيء سيء لوالديه، قد يُبدي علامات قلق تتجاوز الحد الطبيعي.",
+            "المراهقون أكثر ميلا لتقديم القلق الاجتماعي أحيانا مع صعوبات نفسية أخرى. دراسة نُشرت في مجلة لانسيت عام 2026 قارنت الضيق العاطفي عند المراهقين عبر دول متعددة بما فيها لبنان ووجدت معدلات ضيق ملحوظة، وأشارت إلى ارتفاع المعدلات بين 2018 و2022 في كل المجموعات تقريبا. المراهقون قد يصفون القلق على أنه ضغط أو قد لا يُعرّفونه قلقا أصلا، وهم أكثر ميلا إلى الانسحاب من الأسرة بدل طلب المساعدة."
+          ],
+          "visual": {
+            "type": "timeline",
+            "title": "القلق والمخاوف عبر مراحل نمو الطفل",
+            "items": [
+              {"when": "0 إلى 2 سنة", "what": "قلق الغرباء والضيق من الانفصال: طبيعي تطوريا"},
+              {"when": "2 إلى 5 سنوات", "what": "مخاوف الظلام والوحوش والحيوانات والأصوات العالية: شائعة. تعطيل النوم كل ليلة يستحق الملاحظة"},
+              {"when": "5 إلى 10 سنوات", "what": "قلق حول الأداء المدرسي والصحة والأمان الأسري. آلام البطن والتجنّب المدرسي قد تُشير للقلق"},
+              {"when": "10 إلى 14 سنة", "what": "القلق الاجتماعي يصبح أكثر بروزا. تجنّب المواقف الاجتماعية والتردد في الكلام داخل الفصل"},
+              {"when": "المراهقة", "what": "القلق قد يظهر كانفعالية أو انسحاب أو شكاوى جسدية أو رفض للانخراط لا كقلق مُعلَن"}
+            ]
+          }
+        },
+        {
+          "h2": "متى تلجأ إلى مساعدة متخصصة لطفلك؟",
+          "paras": [
+            "مخاوف الطفولة الطبيعية لا تستلزم عموما تدخلا متخصصا. هي جزء من التطور وتزول مع الوقت وتستجيب للأبوة الهادئة المتسقة التي لا تُقلل من الخوف ولا تُضخّمه. الإشارة إلى أن المساعدة المتخصصة تستحق الطلب هي حين يُعطّل القلق بشكل ملحوظ الأداء اليومي للطفل: غياب متكرر عن المدرسة، عجز عن المشاركة في أنشطة يتعامل معها أقرانه بيسر، عجز عن النوم وحيدا في عمر يُتوقع فيه ذلك، أو ضيق شديد من الموقف المُخيف لا يستطيع الوالدان مساعدته فيه.",
+            "المدة والاستمرار مهمان. الطفل الذي يخاف قبيل حدث محدد يختلف عمّن يخاف معظم الوقت. الطفل الذي رفض المدرسة ثلاثة أيام بعد شيء صعب حدث يختلف عمّن رفض المدرسة ثلاثة أشهر دون سبب واضح.",
+            "الشكاوى الجسدية التي فُحصت طبيا ولم يُجد لها تفسير جسدي إشارة أيضا. لا يعني هذا تجاهل ألم الطفل. يعني الاعتراف بأن الأعراض الجسدية حقيقية لكنها تنشأ من استجابة قلق لا من مرض جسدي، مما يُفضي إلى علاج مختلف وفعّال."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "اطلب تقييما متخصصا إن",
+            "items": [
+              "فاتك طفلك قدرا كبيرا من المدرسة بسبب الخوف أو الشكاوى الجسدية",
+              "استمر القلق أكثر من شهر ولم يخف",
+              "لا يستطيع طفلك المشاركة في أنشطة يُديرها أطفال في عمره بيسر",
+              "تعطّل النوم بشكل شديد ومستمر",
+              "طفلك في ضيق شديد وأنت عاجز عن مساعدته",
+              "يصف طفلك مشاعر يأس أو لا قيمة لنفسه أو عدم الرغبة في الاستمرار"
+            ]
+          }
+        },
+        {
+          "h2": "كيف يبدو العلاج: الخيارات الفعّالة",
+          "paras": [
+            "العلاج المعرفي السلوكي (CBT) المُكيَّف للأطفال له أرسخ قاعدة أدلة من بين علاجات اضطرابات قلق الطفولة. مراجعة أدبية عام 2017 في مجلة Focus التابعة للجمعية الأمريكية للطب النفسي أكدت أن العلاج المعرفي السلوكي يُنتج تحسينات ذات معنى عبر أنواع اضطرابات قلق الطفولة، وأن معظم الأطفال يُظهرون تحسنا ملحوظا بعد ثماني إلى ستة عشرة جلسة. نسخة الأطفال من العلاج المعرفي السلوكي تساعد الطفل على تحديد الأفكار القلقة والتشكيك في دقتها والاقتراب تدريجيا من المواقف المُخيفة بدل تجنّبها.",
+            "للأطفال الأصغر يُقدَّم العلاج المعرفي السلوكي من خلال اللعب ويُشرك الوالدين مباشرة في العملية. يتعلم الوالدان كيف يستجيبان للسلوك القلق بطرق تدعم التقدم لا تُرسّخ التجنّب. هذه المشاركة الوالدية ليست جانبا ثانويا في علاج قلق الأطفال. هي محورية، لأن بيئة الطفل تتغير حين يتغير رد فعل والديه.",
+            "الأدوية تُستخدم أحيانا إلى جانب العلاج المعرفي السلوكي حين يكون القلق شديدا أو حين يكون الوصول إلى العلاج محدودا. مثبطات استرداد السيروتونين الانتقائية (SSRIs) هي فئة الأدوية ذات الأدلة الأفضل في قلق الأطفال. لا ينبغي بدء أي دواء لطفل دون مشاركة طبيب أطفال أو طبيب نفسي للأطفال، والدواء لا ينبغي أن يكون العلاج الأول أو الوحيد.",
+            "في كثير من أنحاء العالم العربي، الوصول إلى علماء نفس متدربين للأطفال محدود والوصمة حول الصحة النفسية ما زالت تثني الأسر عن طلب المساعدة. المرشدون المدرسيون حين يكونون متاحين ومتدربين يستطيعون تقديم نقطة تواصل أولى مفيدة. أطباء الأطفال الواعون للرابط بين الشكاوى الجسدية والقلق يستطيعون إعادة توجيه الأسر بصورة مناسبة. الرسالة الجوهرية هي أن القلق عند الأطفال شائع وليس عيبا في الشخصية ولا إخفاقا في التربية ويستجيب للعلاج."
+          ]
+        },
+        {
+          "h2": "ما يستطيع الوالدان فعله في البيت",
+          "paras": [
+            "ثمة الكثير مما يستطيع الوالدان فعله إما يُساعد أو يُفاقم قلق الطفولة بشكل ملحوظ، بصرف النظر عن وجود علاج متخصص. الاعتراف بالمشاعر دون تضخيمها هو المهارة المحورية. قول أرى أنك متوتر قبل هذا الأمر، هذا منطقي، يختلف عن قول لا تقلق، كل شيء سيكون بخير تماما. الأولى تُصادق على الشعور، والثانية رغم نيتها الطيبة تُشير إلى أن الموقف يستلزم الطمأنة مما يُلمّح إلى خطر.",
+            "مساعدة الطفل على تطوير أدوات إدارة ذاتية ذات قيمة دائمة. التنفس البطيء المتعمد يعمل فسيولوجيا لأنه ينشّط الجهاز العصبي نظير السمبثاوي. الأطفال في سن الخامسة يستطيعون تعلم تمرين تنفس بسيط: تنفّس للداخل ببطء لأربعة أعداد، احبس لعدّين، تنفّس للخارج ببطء لستة أعداد. يمكن تمريه في حالات الهدوء ليكون متاحا عند القلق.",
+            "تقديم نموذج استجابة هادئة للمواقف الصعبة يهم أكثر مما يُدرك الوالدان عادة. الأطفال يتناغمون بشكل كبير مع قلق والديهم. الوالد الذي يُحوّل الأمور إلى كوارث بشكل واضح، أو يتحدث عن الأحداث المُخيفة كأمر حتمي، أو يُنظّم حياة الأسرة حول تجنّب ما يُثير القلق، يُقدّم نموذجا عمليا للقلق يمتصّه الأطفال. هذا ليس لوما. هو اعتراف بأن الوالدين الذين يُعانون القلق بأنفسهم كثيرا ما يستفيدون من دعمهم الخاص.",
+            "الحفاظ على الروتين وجداول النوم والوجبات المنتظمة يُوفّر الأساس الجسدي الذي تصبح منه التنظيم العاطفي ممكنا. القلق والحرمان من النوم يُعزّزان بعضهما. الطفل المزمن قِصَر النوم له عتبة أدنى لاستجابات القلق وقدرة أقل على استخدام استراتيجيات التكيّف. تصحيح النوم ليس تدخلا خفيفا في قلق الطفولة. هو أساسي."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "تمرين تنفس بسيط للأطفال القلقين",
+            "items": [
+              "اجلس بشكل مريح. ضع يدا على بطنك ويدا على صدرك",
+              "تنفّس ببطء من أنفك لأربعة أعداد وأحسس ببطنك يرتفع",
+              "احبس برفق لعدّين",
+              "تنفّس ببطء من فمك لستة أعداد",
+              "كرّر من أربع إلى ست مرات. دُرِّب عليه في الهدوء حتى يعمل عند القلق"
+            ]
+          }
+        },
+        {
+          "h2": "القلق في السياقات الثقافية العربية",
+          "paras": [
+            "الوصمة النفسية ما زالت عائقا ملحوظا أمام طلب المساعدة لأطفال كثيرة في أسر عربية. قد يعزو الوالدان القلق إلى العين أو ضعف روحي أو دلال أو طفل يحتاج فقط إلى الانضباط. هذه التفسيرات تُأخّر الاعتراف والعلاج. الطفل الذي يُفسَّر قلقه على أنه عصيان أو كسل لن يتلقى الاستجابة التي تُخفّفه.",
+            "في المقابل، الأبنية الأسرية العربية التي تحافظ على تواصل وثيق مع العائلة الممتدة وتُطبّع حل المشكلات الجماعي وتُوفّر إحساسا قويا بالانتماء والهوية، قد تكون وقائية حقيقية للأطفال القلقين. السؤال ليس هل السياق الثقافي يُساعد أم يُضرّ بل أين في هذه الأسرة والمجتمع بالذات تقع الموارد وأين تقع الثغرات.",
+            "تجربة التهجير والحرب والفقد، وهي واقع لأعداد كبيرة من أطفال المنطقة، ترفع بشكل ملحوظ خطر اضطرابات القلق. الطفل الذي اختبر خطرا حقيقيا أو فقدان منزل أو انفصالا عن أفراد الأسرة أو شهد عنفا لديه استجابة تهديد بيولوجية مرتفعة. هذه استجابة مناسبة لظروف غير مناسبة، وينبغي أن تُفهم في هذا الإطار. إدارة القلق عند الأطفال الذين مروا بصدمة تتطلب خبرة متخصصة والطمأنة العامة غير كافية.",
+            "الدين يمكن أن يكون مصدر عزاء ومعنى للأطفال القلقين وأسرهم، ومن الصواب تضمينه في أسلوب تكيّف الأسرة. يصبح إشكاليا حين يحلّ محل التقييم المتخصص بدل أن يُرافقه، لا سيما حين يعاني الطفل بشكل ملحوظ وحالات مستجيبة للعلاج تُترك دون معالجة."
+          ]
+        }
+      ],
+      "tie": "يتيح لك تطبيق صحتك تتبع حال طفلك بمرور الوقت بما في ذلك الشكاوى الجسدية والمزاج. إن كنت ترى نمطا متكررا من آلام البطن أو الرفض المدرسي أو الضيق، الاحتفاظ بسجل في التطبيق يُعطيك شيئا ملموسا تأخذه إلى طبيب الأطفال أو متخصص في الصحة النفسية.",
+      "faqs": [
+        {
+          "q": "كيف أعرف إن كانت مخاوف طفلي طبيعية أم اضطراب قلق؟",
+          "a": "مخاوف الطفولة الطبيعية متوقعة تطوريا ولا تعطّل الحياة اليومية بشكل ملحوظ وتميل إلى الزوال مع الوقت والطمأنة الهادئة. اضطراب القلق موجود حين يكون الخوف أوضح مما يختبره الأقران، ويستمر أطول من المتوقع، ويمنع الطفل من الأداء الطبيعي في المدرسة أو البيت، أو يُسبب ضيقا شديدا لا يستطيع الطفل إدارته حتى مع الدعم."
+        },
+        {
+          "q": "طفلي يشكو من آلام بطن كل صباح مدرسي. هل هذا قلق؟",
+          "a": "آلام البطن المتكررة قبل المدرسة هي أحد أكثر طرق ظهور القلق عند الأطفال شيوعا. إن اختفت في نهايات الأسبوع والإجازات وزالت حين يُسمح للطفل بالبقاء في البيت ولم يجد لها الطبيب تفسيرا جسديا فالقلق غالبا هو السبب. الألم حقيقي غير مُخترع. المصدر عاطفي لا جسدي."
+        },
+        {
+          "q": "هل أسمح لطفلي القلق بتجنّب ما يخيفه؟",
+          "a": "التجنّب قصير الأمد يمنح ارتياحا لكن يُفاقم القلق بشكل موثوق بمرور الوقت. كل تجنّب يُرسّخ قناعة بأن الموقف خطير وأن الهروب كان ضروريا. المنهج الفعّال هو التعرض التدريجي المدعوم نحو الموقف المُخيف بدءا من الخطوة الأقل إخافة. معالج يستطيع تصميم هذا بصورة منهجية لكن المبدأ ينطبق مع المخاوف اليومية الخفيفة أيضا."
+        },
+        {
+          "q": "ما أفضل علاج للقلق عند الأطفال؟",
+          "a": "العلاج المعرفي السلوكي المُكيَّف للأطفال له أرسخ قاعدة أدلة. يشمل مساعدة الطفل على تحديد الأفكار القلقة والتشكيك فيها، وتعلم استراتيجيات التكيّف، والاقتراب تدريجيا من المواقف المُخيفة. الوالدان يُشاركان بفاعلية. معظم الأطفال يُبدون تحسنا ملحوظا بعد ثماني إلى ستة عشرة جلسة. الأدوية تُضاف أحيانا للحالات الشديدة أو حين يكون الوصول إلى العلاج محدودا."
+        },
+        {
+          "q": "في أي عمر تبدأ اضطرابات القلق عند الأطفال؟",
+          "a": "اضطراب قلق الانفصال قد يظهر عند الأطفال الصغار وما قبل المدرسة. المخاوف المحددة قد تبدأ في أي عمر. اضطراب القلق العام يصبح واضحا عادة في سنوات المدرسة نحو ست إلى اثنتي عشرة سنة. اضطراب القلق الاجتماعي يبرز أكثر في مطلع المراهقة لكن قد يكون حاضرا قبلها. الاعتراف المبكر والدعم في أي عمر يستحق الجهد."
+        },
+        {
+          "q": "طفلي يرفض الذهاب إلى المدرسة. ماذا أفعل؟",
+          "a": "الرفض المدرسي الناجم عن القلق يُعالَج بشكل أفضل بالعودة إلى المدرسة بأسرع ما يمكن حتى لو بصورة تدريجية، لا بالانتظار حتى يشعر الطفل بالاستعداد الكامل لأن الانتظار يُرسّخ التجنّب. أشرك المدرسة، واحصل على تقييم متخصص لفهم ما يدفع الرفض، واطلب دعما من طبيب نفسي للأطفال إن استمر النمط أسبوعا أو أسبوعين."
+        },
+        {
+          "q": "هل يزول قلق الطفولة من تلقاء نفسه؟",
+          "a": "بعض مخاوف الطفولة تزول بشكل طبيعي مع التطور. لكن اضطرابات القلق التي تتدخل في الأداء تميل إلى الاستمرار وقد تزداد دون دعم. قلق الطفولة غير المُعالَج عامل خطر لاضطرابات القلق والاكتئاب في المراهقة والرشد. طلب الدعم مبكرا حين يؤثر القلق على حياة طفلك استثمار يستحق الجهد."
+        },
+        {
+          "q": "هل قلق الأطفال مرتبط بأسلوب التربية؟",
+          "a": "أساليب التربية تؤثر في كيفية تطور القلق وما إذا كان يتحسن أم يتفاقم، لكن اضطرابات القلق لا تنشأ عن تربية سيئة. العوامل الجينية تُسهم والمزاج يلعب دورا والتجارب الحياتية بما فيها الصدمة والفقد عوامل مهمة. ما يفعله الوالدان يهم كثيرا من حيث الاستجابة والتعافي، لكن وجود القلق عند الطفل ليس دليلا على إخفاق في التربية."
+        }
+      ]
+    }
+  }
+}

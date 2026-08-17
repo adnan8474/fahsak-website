@@ -1,0 +1,309 @@
+{
+  "slug": "liver-enzymes-alt-ast",
+  "category": "lab-tests",
+  "chip_ar": "تحاليل مخبرية",
+  "chip_en": "Lab Tests",
+  "date_iso": "2026-07-18",
+  "sources": [
+    {"label": "Fouad Y, Alboraie M, Shiha G et al: Epidemiology and diagnosis of metabolic dysfunction-associated fatty liver disease, Hepatology international, 2024", "url": "https://pubmed.ncbi.nlm.nih.gov/38967907/"},
+    {"label": "Shiha G, Alswat K, Al Khatry M et al: Nomenclature and definition of metabolic-associated fatty liver disease: a consensus from the Middle East and north Africa, The lancet. Gastroenterology and hepatology, 2021", "url": "https://pubmed.ncbi.nlm.nih.gov/33181119/"},
+    {"label": "Fouad Y, Elwakil R, Sanai FM et al: The African Middle East Association of Gastroenterology (AMAGE) clinical practice guidelines for the diagnosis and management of metabolic dysfunction associated fatty liver disease, Annals of hepatology, 2026", "url": "https://pubmed.ncbi.nlm.nih.gov/41520698/"},
+    {"label": "Amernia B, Moosavy SH, Banookh F et al: FIB-4, APRI, and AST/ALT ratio compared to FibroScan for the assessment of hepatic fibrosis in patients with non-alcoholic fatty liver disease in Bandar Abbas, Iran, BMC gastroenterology, 2021", "url": "https://pubmed.ncbi.nlm.nih.gov/34861841/"},
+    {"label": "Xuan Y, Wu D, Zhang Q et al: Elevated ALT/AST ratio as a marker for NAFLD risk and severity: insights from a cross-sectional analysis in the United States, Frontiers in endocrinology, 2024", "url": "https://pubmed.ncbi.nlm.nih.gov/39253584/"},
+    {"label": "Younossi Z, Tacke F, Arrese M et al: Global Perspectives on Nonalcoholic Fatty Liver Disease and Nonalcoholic Steatohepatitis, Hepatology (Baltimore, Md.), 2019", "url": "https://pubmed.ncbi.nlm.nih.gov/30179269/"}
+  ],
+  "content": {
+    "ar": {
+      "title": "ALT و AST: ماذا تعني ارتفاع إنزيمات الكبد؟",
+      "desc": "دليل كامل لفهم تحليلي ALT وAST: ما النطاق الطبيعي، لماذا يرتفعان، متى يكون الارتفاع مقلقاً، وما الفرق بين الكبد الدهني والتهاب الكبد وتأثير الأدوية.",
+      "keywords": "ALT ارتفاع, AST ارتفاع, إنزيمات الكبد, وظائف الكبد, كبد دهني, SGPT, SGOT, ارتفاع الكبد, التهاب الكبد, نطاق ALT الطبيعي",
+      "h1": "ALT و AST: ماذا تعني ارتفاع إنزيمات الكبد في تحليلك؟",
+      "takeaways": [
+        "ALT هو الإنزيم الأكثر خصوصية للكبد، وارتفاعه المعزول عادةً يشير إلى مشكلة في الكبد أكثر من غيره.",
+        "الكبد الدهني هو أشيع سبب لارتفاع ALT في منطقة الخليج ومصر، وهو قابل للعكس بتغيير نمط الحياة في مراحله الأولى.",
+        "نسبة AST إلى ALT (AST/ALT ratio) تُساعد في التمييز بين أنواع أمراض الكبد.",
+        "الأدوية والمكمّلات العشبية سبب شائع جداً لارتفاع الإنزيمات في المنطقة العربية، وغالباً يُغفله المريض.",
+        "ارتفاع أكثر من ثلاثة أضعاف الحد الأعلى الطبيعي يستدعي متابعة طبية سريعة لمعرفة السبب."
+      ],
+      "sections": [
+        {
+          "h2": "ما هما ALT و AST؟",
+          "paras": [
+            "ALT اختصار لـ Alanine Aminotransferase وكان يُعرف قديماً بـ SGPT في تقارير المختبرات، وهو إنزيم يوجد بتركيز عالٍ داخل خلايا الكبد. عندما تتضرر هذه الخلايا لأي سبب، تتسرّب كميات من هذا الإنزيم إلى مجرى الدم فيرتفع مستواه في التحليل. لهذا يُعتبر ALT المؤشر الأكثر خصوصية للكبد من بين إنزيمات وظائف الكبد.",
+            "AST اختصار لـ Aspartate Aminotransferase وكان يُعرف بـ SGOT، وهو إنزيم يوجد في الكبد لكنه يوجد أيضاً في العضلات القلبية والهيكلية والكليتين. ارتفاعه منفرداً قد يعني إجهاداً شديداً أو نوبة قلبية أو مشكلة في العضلات لا في الكبد. لذلك لا يُفسَّر AST بمعزل عن بقية السياق السريري.",
+            "كلا الإنزيمين تقريباً لا يحتاجان صياماً قبل التحليل ويُقاسان بوحدة الوحدة الدولية لكل لتر (U/L). النطاقات المرجعية تتفاوت قليلاً بين المختبرات حسب الطريقة المستخدمة وحسب الجنس والعمر، لذلك انظر دائماً إلى النطاق المكتوب على تقريرك تحديداً لا إلى أرقام عامة وجدتها على الإنترنت. كثير من المرضى يقلقون من رقم طبيعي في مختبرهم لأنه يبدو مرتفعاً مقارنةً بما قرأوه على موقع أجنبي يستخدم معادلة مختلفة."
+          ],
+          "visual": {
+            "type": "range-scale",
+            "title": "نطاق ALT المرجعي للبالغين",
+            "label": "ALT",
+            "unit": "U/L",
+            "min": 0,
+            "max": 120,
+            "zones": [
+              {"to": 7, "tone": "warn", "label": "منخفض"},
+              {"to": 56, "tone": "good", "label": "طبيعي"},
+              {"to": 120, "tone": "bad", "label": "مرتفع"}
+            ],
+            "source": "AMAGE clinical practice guidelines for MAFLD, Annals of hepatology, 2026",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/41520698/"
+          }
+        },
+        {
+          "h2": "ما النطاق الطبيعي وكيف تقرأ نتيجتك؟",
+          "paras": [
+            "النطاق الطبيعي لـ ALT عند معظم المختبرات يتراوح بين 7 و56 وحدة دولية لكل لتر للبالغين، مع تفاوت بسيط بين المختبرات والجنسين والفئات العمرية، إذ تكون الحدود أعلى قليلاً للرجال وللأشخاص ذوي الكتلة العضلية الأكبر. لـ AST نطاق مشابه عادةً بين 10 و40 وحدة دولية لكل لتر، وبعض المختبرات تستخدم حدوداً مختلفة قليلاً بحسب الطريقة المستخدمة في القياس وعمر المريض.",
+            "عند تفسير نتيجتك، ما يهم الطبيب ليس فقط الرقم المطلق بل كم ضعفاً يبلغ الحد الأعلى الطبيعي. ارتفاع ALT إلى ضعف أو ثلاثة أضعاف الحد الأعلى يُعتبر ارتفاعاً خفيفاً إلى معتدلاً، ويستحق المتابعة وإيجاد السبب. ارتفاع يتجاوز عشرة أضعاف الحد الأعلى يُعتبر ارتفاعاً حاداً ويستدعي تقييماً طارئاً.",
+            "انتبه إلى أن الإنزيمات قد ترتفع بشكل عابر بعد تمرين مكثّف أو إجهاد شديد أو بعض الأدوية المؤقتة، وهذا الارتفاع العابر لا يعكس مرضاً في الكبد بل استجابة فسيولوجية طبيعية. إذا كانت النتيجة مفاجئة ولا يوجد سبب واضح، اسأل طبيبك عن إعادة التحليل بعد أسبوعين إلى أربعة أسابيع مع تجنّب أسباب الارتفاع العابرة كالرياضة الشديدة والوجبات الدسمة جداً."
+          ]
+        },
+        {
+          "h2": "ماذا تعني نسبة AST إلى ALT؟",
+          "paras": [
+            "نسبة AST إلى ALT، التي تُكتب AST/ALT ratio، تُعطي الطبيب معلومة تشخيصية مهمة تضيف إلى الرقم المطلق وتُساعد في التمييز بين الأسباب المختلفة لارتفاع الإنزيمات. في الكبد الدهني وفي التهاب الكبد الفيروسي والتهاب الكبد التلقائي (Autoimmune Hepatitis)، يكون ALT عادةً أعلى من AST، وبالتالي تكون النسبة أقل من 1، وهذا النمط هو الأكثر شيوعاً في المنطقة.",
+            "دراسة نُشرت في مجلة Frontiers in Endocrinology عام 2024 أثبتت أن ارتفاع نسبة ALT/AST مرتبط بزيادة خطر مرض الكبد الدهني المرتبط بالاضطراب الأيضي (MAFLD)، وأن هذه النسبة يمكن استخدامها مؤشراً أولياً قبل إجراء الفحص بالموجات فوق الصوتية.",
+            "في المقابل، إذا كانت نسبة AST/ALT أعلى من 2، فهذا مؤشر كلاسيكي على مرض الكبد الكحولي (Alcoholic Liver Disease)، أو في بعض الحالات على تليّف الكبد المتقدم بغض النظر عن سببه. دراسة نُشرت في BMC Gastroenterology عام 2021 تناولت هذه النسبة في سياق الفيبروسكان وتقييم التليف وأثبتت فائدتها التشخيصية في مرضى منطقة إيران."
+          ]
+        },
+        {
+          "h2": "الكبد الدهني: أشيع سبب لارتفاع الإنزيمات في المنطقة",
+          "paras": [
+            "مرض الكبد الدهني المرتبط بالاضطراب الأيضي (MAFLD أو MASLD) هو تراكم الدهون داخل خلايا الكبد دون وجود استهلاك كحول، وهو مرتبط بالسمنة، ومقاومة الأنسولين، والسكري من النوع الثاني، وارتفاع الدهون في الدم. هذا المرض هو أشيع سبب لارتفاع ALT في المنطقة العربية وخاصةً في الخليج ومصر.",
+            "وثّق اجتماع توافق خبراء الشرق الأوسط وشمال أفريقيا المنشور في مجلة Lancet Gastroenterology عام 2021، وعلى رأسه خبراء مصريون ومن دول الخليج، أن معدلات انتشار الكبد الدهني في المنطقة بلغت مستويات وبائية مرتفعة تتجاوز في كثير من الدراسات 30 إلى 40 بالمئة من البالغين. السبب المباشر هو ارتفاع معدلات السمنة وتزايد استهلاك السكر والمشروبات المحلاة.",
+            "الخبر الجيد أن الكبد الدهني في مراحله الأولى قابل للعكس الكامل بتغييرات نمط الحياة لا بالأدوية وحدها. إنقاص 5 إلى 10 بالمئة من وزن الجسم يُثبت أثراً واضحاً في خفض الإنزيمات وتحسين الصورة التشريحية للكبد، وهذا ما أكده الإطار السريري لمنظمة AMAGE الصادر عام 2026 في التوجيهات العلاجية لدول المنطقة."
+          ],
+          "visual": {
+            "type": "stats",
+            "items": [
+              {"value": "30-40%", "label": "من البالغين في منطقة الشرق الأوسط مصابون بالكبد الدهني", "tone": "warn"},
+              {"value": "5-10%", "label": "إنقاص الوزن الكافي لعكس الكبد الدهني المبكر", "tone": "good"}
+            ],
+            "source": "Shiha G et al, Lancet Gastroenterology, 2021 / Fouad Y et al, AMAGE guidelines, 2026",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/33181119/"
+          }
+        },
+        {
+          "h2": "التهاب الكبد الفيروسي والأسباب الأخرى",
+          "paras": [
+            "التهاب الكبد الفيروسي بأنواعه B وC وA والأقل شيوعاً E، هو سبب رئيسي لارتفاع ALT وAST في المنطقة العربية، وتبقى معدلات الإصابة بـ B وC مرتفعة في عدد من الدول كمصر وباكستان وبعض دول المشرق. في التهاب الكبد الحاد، قد يرتفع ALT إلى مئات أضعاف الحد الأعلى الطبيعي. في التهاب الكبد المزمن بـ B أو C، قد يكون الارتفاع خفيفاً لسنوات ثم يتصاعد عند تطور المرض نحو التليف.",
+            "الارتفاع الحاد المفاجئ لـ ALT الذي يبلغ عشرة أضعاف أو أكثر يوحي بالتهاب كبد فيروسي حاد أو بتسمم كبدي حاد ناجم عن دواء أو مادة سامة. هذا النوع من الارتفاع يستدعي تقييماً طارئاً ودخولاً إلى المستشفى في بعض الحالات، إذ قد يُعقَّد بفشل كبدي حاد يهدد الحياة إذا لم يُعالج بسرعة.",
+            "الأسباب الأخرى تشمل التهاب الكبد التلقائي (Autoimmune Hepatitis) الذي يُصيب النساء بشكل غير متناسب ويستجيب للعلاج بالكورتيكوستيرويدات والمثبطات المناعية، والأمراض الوراثية كداء ويلسون الذي يتراكم فيه النحاس في الكبد وداء الحديد المُفرط (Haemochromatosis). الطبيب يُضيّق قائمة الأسباب بناءً على التاريخ المرضي والأعراض ونتائج التحاليل الإضافية وصورة الموجات فوق الصوتية."
+          ]
+        },
+        {
+          "h2": "الأدوية والمكمّلات: سبب كثيراً ما يُنسى",
+          "paras": [
+            "الأدوية والمكمّلات العشبية هي سبب شائع جداً لارتفاع إنزيمات الكبد، خاصةً في منطقة يُستهلك فيها الباراسيتامول والمسكّنات والمضادات الحيوية بشكل حر دون وصفة طبية في كثير من الأحيان. الباراسيتامول بجرعة زائدة هو السبب الأول للتهاب الكبد الكيميائي الحاد في كثير من دول العالم.",
+            "من الأدوية الشائعة التي تؤثر على إنزيمات الكبد: الستاتينات (أدوية الكوليسترول) التي ترفع ALT عند نسبة صغيرة من مستخدميها، وأدوية السل، ومضادات الاختلاج، وبعض الأدوية النفسية، والأدوية الهرمونية. المكمّلات العشبية كمستخلصات أعشاب التنحيف وبعض الأعشاب الصينية وثمر الصبير (Aloe vera) بجرعات كبيرة، ثبت ارتباطها بالتهاب كبد حاد.",
+            "المريض كثيراً ما ينسى أن يذكر للطبيب ما يأخذه من أعشاب أو مكمّلات لأنه لا يعتبرها أدوية أو لأنه يشتريها دون وصفة ولا يراها ذات صلة. هذا خطأ شائع وله عواقب عملية مباشرة. إذا ارتفع ALT وأنت تأخذ أي مكمّل غذائي أو عشبي أو دواء من الصيدلية دون وصفة، أبلغ طبيبك بذلك فوراً ولا تتردد. في كثير من الحالات يعود الإنزيم إلى الطبيعي خلال أسابيع من إيقاف المكمّل دون الحاجة إلى أي علاج إضافي، وهذا وحده يُؤكد السبب."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "اطلب تقييماً طبياً سريعاً إذا",
+            "items": [
+              "ارتفع ALT إلى أكثر من ثلاثة أضعاف الحد الأعلى الطبيعي.",
+              "صاحب ارتفاع الإنزيمات اصفرار في الجلد أو العينين (يرقان).",
+              "ظهر ألم في الجانب الأيمن العلوي من البطن أو تورم في البطن.",
+              "لاحظت تغيّر لون البول إلى البني الداكن.",
+              "شعرت بإعياء شديد وغثيان مستمر بدون سبب واضح."
+            ]
+          }
+        },
+        {
+          "h2": "ما الذي يُفعل بعد اكتشاف ارتفاع الإنزيمات؟",
+          "paras": [
+            "الخطوة الأولى هي التحقق من أن الارتفاع حقيقي ومستمر لا عابر. ارتفاع خفيف في نتيجة واحدة، خاصةً إذا كانت بعد تمارين مكثّفة أو تناول وجبة دسمة أو استخدام دواء مؤقت، قد يكون عابراً لا يستلزم قلقاً. طبيبك قد يطلب إعادة التحليل بعد أسبوعين إلى أربعة أسابيع مع تجنّب الأسباب العابرة، وإذا استمر الارتفاع فهذا يُبرر الاستقصاء الكامل.",
+            "إذا تأكد الارتفاع، سيطلب طبيبك تحاليل إضافية للبحث عن السبب. هذه قد تشمل: تحليل التهاب الكبد B وC (HBsAg وAnti-HCV وHCV-RNA)، الغاما جلوتاميل ترانسفيراز (GGT) الذي يرتفع بشكل لافت في مرض الكبد الكحولي ومشاكل القنوات الصفراوية، الفوسفاتاز القلوية (ALP)، البيليروبين، وتحليل الدهون والسكر والغدة الدرقية. كل تحليل يُضيف قطعة من اللغز ويُرشّح أو يستبعد سبباً بعينه.",
+            "الفحص بالموجات فوق الصوتية للبطن (Ultrasound) هو الخطوة التشخيصية التصويرية الأولى في معظم الحالات. يكشف عن الكبد الدهني ودرجته، وحجم الكبد والطحال، وحصوات المرارة، وعلامات التليف المتقدم كارتفاع ضغط الوريد البابي. لا يحتاج مادة حقن ولا أشعة ضارة وهو متاح في معظم مراكز التصوير في المنطقة العربية بتكلفة معقولة نسبياً."
+          ]
+        },
+        {
+          "h2": "الكبد وصحة عامة: ما بعد تحليل الإنزيمات",
+          "paras": [
+            "إنزيمات الكبد جزء من صورة أوسع تُكمل ما يعرفه الطبيب عن صحتك. نتائجها ترتبط بشكل مباشر بالسكري والكوليسترول والوزن والنشاط البدني وما تأكله وما تشربه وما تأخذه من أدوية. تحسّن هذه العوامل ينعكس مباشرةً على قراءات الإنزيمات في أغلب الحالات، وهو سبب كافٍ للاستثمار في نمط الحياة الصحي بصرف النظر عن أي دواء.",
+            "مراجعة دولية شاملة نُشرت في مجلة Hepatology عام 2019 بقيادة الباحث يونوسي وفريقه من بيانات عشرات الدول، تُثبت أن الكبد الدهني المرتبط بالاضطراب الأيضي بات سبباً رئيسياً لأمراض الكبد المتقدمة في جميع أنحاء العالم. الدراسة تُشدد على أن الوقاية والتدخل المبكر في مرحلة ارتفاع الإنزيمات قبل حدوث التليف هما أكثر الاستراتيجيات فاعلية على المدى البعيد.",
+            "الكبد عضو بالغ التعافي، وكثيراً ما تعود إنزيماته إلى الطبيعي بعد إزالة سبب الالتهاب، سواء كان ذلك بإنقاص الوزن في الكبد الدهني أو بإيقاف الدواء المُسبب في الأذى الكيميائي أو بعلاج التهاب الكبد الفيروسي بالأدوية المضادة للفيروسات. هذا يعني أن اكتشاف ارتفاع الإنزيمات مبكراً وإيجاد سببه يُنقذ وظيفة الكبد قبل أن يتحول الأمر إلى تليف لا يمكن عكسه. المتابعة المنتظمة مع طبيبك والإفصاح الصادق عما تتناوله هي الأدوات الأهم على الإطلاق."
+          ]
+        }
+      ],
+      "tie": "في تطبيق صحتك يمكنك تسجيل نتائج وظائف الكبد بما فيها ALT وAST ومتابعة تغيّرها عبر الزمن في رسم بياني واضح. يساعدك المساعد الذكي في التطبيق على فهم معنى أرقامك وما إذا كانت تستدعي متابعة طبية عاجلة.",
+      "faqs": [
+        {
+          "q": "ما الفرق بين ALT و AST؟",
+          "a": "كلاهما إنزيمات كبدية لكن ALT أكثر خصوصية للكبد، فارتفاعه المعزول يُشير في الغالب إلى مشكلة كبدية. AST يوجد أيضاً في العضلات والقلب، لذلك ارتفاعه المعزول قد يعني إجهاداً عضلياً أو نوبة قلبية. الطبيب يُفسّر كليهما معاً لا كل واحد بمعزل."
+        },
+        {
+          "q": "هل الكبد الدهني يرفع ALT دائماً؟",
+          "a": "لا بالضرورة. بعض مرضى الكبد الدهني لديهم إنزيمات طبيعية رغم وجود الدهون في الكبد يكشفها الموجات فوق الصوتية. الإنزيمات ترتفع عندما تكون هناك التهاب نشط أو تضرر للخلايا. لهذا يحتاج الطبيب في بعض الحالات إلى تصوير بالموجات فوق الصوتية حتى مع إنزيمات طبيعية."
+        },
+        {
+          "q": "هل يمكن أن تُسبّب الأدوية ارتفاع ALT؟",
+          "a": "نعم، وهذا شائع أكثر مما يُدرك الناس. الباراسيتامول بجرعات عالية، والستاتينات، وأدوية السل، وبعض المضادات الحيوية، والمكمّلات العشبية كلها قد ترفع ALT. أبلغ طبيبك بكل ما تأخذه بما في ذلك الأعشاب والمكمّلات عند مراجعة نتائجك."
+        },
+        {
+          "q": "ما الرقم الذي يُعتبر خطراً يستدعي الذهاب للطبيب فوراً؟",
+          "a": "ارتفاع ALT إلى أكثر من ثلاثة أضعاف الحد الأعلى الطبيعي يستحق متابعة سريعة. ارتفاع أكثر من عشرة أضعاف أو اقتران الارتفاع بيرقان أو ألم بطني شديد أو بول داكن هو حالة تستدعي تقييماً طارئاً في نفس اليوم."
+        },
+        {
+          "q": "هل ارتفاع ALT يعني بالضرورة تليّف الكبد؟",
+          "a": "لا، ارتفاع ALT يعني أن خلايا الكبد تتضرر وتتسرب محتوياتها إلى الدم، وهذا لا يعني تليّفاً. التليّف حالة متقدمة تحتاج سنوات من الالتهاب غير المعالج. الارتفاع المبكر هو في الغالب علامة تحذير مبكرة تُتيح التدخل قبل وصول الأمر إلى مراحل متقدمة."
+        },
+        {
+          "q": "هل يمكن أن تعود الإنزيمات للطبيعي؟",
+          "a": "نعم، في كثير من الحالات تعود الإنزيمات للطبيعي عند إزالة السبب. في الكبد الدهني تعود بإنقاص الوزن وتحسين نمط الحياة. في التهاب الكبد الدوائي تعود بإيقاف الدواء المُسبب. الكبد عضو بالغ التعافي، وهذه قدرة استثنائية يملكها الجسم."
+        },
+        {
+          "q": "هل أحتاج صياماً لتحليل وظائف الكبد؟",
+          "a": "لا، تحاليل ALT وAST والبيليروبين وسائر إنزيمات الكبد لا تتأثر بوجبة مفردة ويمكن إجراؤها في أي وقت من اليوم. أحياناً يُطلب الصيام لجمع تحليل الكبد مع تحليل الدهون أو السكر في نفس الجلسة، لكن الصيام في هذه الحالة مطلوب للجزء الآخر لا لإنزيمات الكبد."
+        }
+      ]
+    },
+    "en": {
+      "title": "ALT and AST: What Raised Liver Enzymes Mean",
+      "desc": "What ALT and AST measure, the normal range, why they rise, when to worry, and how fatty liver, viral hepatitis and medicines each produce a different pattern.",
+      "keywords": "ALT elevated, AST elevated, liver enzymes, liver function test, fatty liver, SGPT SGOT, raised ALT, hepatitis, ALT normal range, MAFLD liver",
+      "h1": "ALT and AST: What Raised Liver Enzymes Mean",
+      "takeaways": [
+        "ALT is the most liver-specific of the common enzymes, and an isolated rise usually points to a liver problem rather than muscle or heart.",
+        "Fatty liver is the most common cause of raised ALT across the Gulf and Egypt, and it is reversible in the early stages with lifestyle change.",
+        "The AST to ALT ratio helps distinguish different liver diseases from each other.",
+        "Medicines and herbal supplements are a common and commonly forgotten cause of raised liver enzymes in the Arab world.",
+        "A rise more than three times the upper limit of normal needs prompt medical review to find the cause."
+      ],
+      "sections": [
+        {
+          "h2": "What are ALT and AST?",
+          "paras": [
+            "ALT stands for Alanine Aminotransferase, also written as SGPT in older reports. It is an enzyme found in high concentrations inside liver cells. When those cells are damaged for any reason, ALT leaks into the bloodstream and its level in a blood test rises. This makes ALT the most liver-specific of the routine liver enzymes and the one most clinicians watch first when liver disease is suspected.",
+            "AST stands for Aspartate Aminotransferase, also written as SGOT. It is present in the liver but also in heart muscle, skeletal muscle and the kidneys. A rise in AST alone, without a corresponding rise in ALT, can indicate muscle strain, a heart attack or a muscle disorder rather than liver disease. This is why AST should never be interpreted in isolation from the clinical picture.",
+            "Neither enzyme requires fasting before testing, and both are measured in international units per litre (U/L). Reference ranges vary slightly between laboratories, between the sexes and with age, so always read the range printed on your own report rather than using a generic number. Men typically have a slightly higher upper limit of normal than women for ALT."
+          ],
+          "visual": {
+            "type": "range-scale",
+            "title": "ALT reference range for adults",
+            "label": "ALT",
+            "unit": "U/L",
+            "min": 0,
+            "max": 120,
+            "zones": [
+              {"to": 7, "tone": "warn", "label": "Low"},
+              {"to": 56, "tone": "good", "label": "Normal"},
+              {"to": 120, "tone": "bad", "label": "High"}
+            ],
+            "source": "AMAGE clinical practice guidelines for MAFLD, Annals of hepatology, 2026",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/41520698/"
+          }
+        },
+        {
+          "h2": "How to read your result",
+          "paras": [
+            "The normal range for ALT at most laboratories is approximately 7 to 56 U/L for adults, with men having a slightly higher upper limit than women. AST is usually in a similar range of 10 to 40 U/L, with variation between labs. The exact numbers printed on your report are the ones that matter, not a figure you find elsewhere.",
+            "What matters to your doctor is not just the absolute number but how many times the upper limit of normal it has reached. A rise to two or three times the upper limit is classified as mild to moderate and warrants investigation and follow-up. A rise beyond ten times the upper limit is described as acute and severe, and needs urgent assessment regardless of symptoms.",
+            "Enzymes can rise transiently after strenuous exercise, after a very fatty meal or in response to certain short-term medicines. If a raised result is unexpected and there is no obvious cause, your doctor may repeat the test after two to four weeks while avoiding the potential triggers, before pursuing a more extensive workup."
+          ]
+        },
+        {
+          "h2": "What does the AST to ALT ratio tell you?",
+          "paras": [
+            "The ratio of AST to ALT, written AST/ALT, adds diagnostic information on top of the absolute numbers. In fatty liver disease, viral hepatitis and autoimmune hepatitis, ALT is usually higher than AST, which means the ratio is below 1. This is the common pattern for most non-alcoholic liver conditions.",
+            "A 2024 study in Frontiers in Endocrinology demonstrated that an elevated ALT/AST ratio correlates with increased risk and severity of metabolic dysfunction-associated fatty liver disease, and that this ratio can serve as an early screening indicator even before ultrasound imaging is available.",
+            "When the AST/ALT ratio exceeds 2, this is a classic pointer towards alcoholic liver disease, or in some cases towards advanced cirrhosis from any cause. A 2021 study in BMC Gastroenterology, which compared this ratio against FibroScan results in patients from southern Iran, confirmed its diagnostic value in distinguishing fibrosis stages in fatty liver disease. Your doctor will use the ratio alongside your history, symptoms and other tests to narrow the possibilities."
+          ]
+        },
+        {
+          "h2": "Fatty liver: the most common cause across the region",
+          "paras": [
+            "Metabolic dysfunction-associated fatty liver disease, now abbreviated as MAFLD or MASLD, is the accumulation of fat inside liver cells without significant alcohol consumption. It is closely linked to obesity, insulin resistance, type 2 diabetes and elevated blood fats. It is by far the most common cause of a mildly or moderately raised ALT across the Gulf, Egypt and the wider Arab world.",
+            "A 2021 consensus statement from Middle East and North African liver disease experts, published in the Lancet Gastroenterology and Hepatology, documented that MAFLD prevalence in the region has reached epidemic levels, with studies in some countries finding rates above 30 to 40 percent of adults. The drivers include the rapid rise in obesity rates and the dramatic increase in consumption of sugar-sweetened drinks over the past two decades.",
+            "The good news is that early fatty liver is fully reversible. Losing 5 to 10 percent of body weight has been shown in multiple trials to reduce liver enzyme levels and improve the appearance of the liver on ultrasound. The 2026 AMAGE clinical guidelines, developed specifically for the African Middle East region, confirm that lifestyle intervention remains the most effective first-line treatment and should precede any pharmacological approach."
+          ],
+          "visual": {
+            "type": "stats",
+            "items": [
+              {"value": "30-40%", "label": "of adults in the Middle East have fatty liver disease", "tone": "warn"},
+              {"value": "5-10%", "label": "weight loss sufficient to reverse early fatty liver", "tone": "good"}
+            ],
+            "source": "Shiha G et al, Lancet Gastroenterology, 2021 / Fouad Y et al, AMAGE guidelines, 2026",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/33181119/"
+          }
+        },
+        {
+          "h2": "Viral hepatitis and other causes",
+          "paras": [
+            "Viral hepatitis, types A, B, C and less commonly E, is a major cause of raised ALT and AST across the Arab world. In acute viral hepatitis, ALT can rise to hundreds of times the upper limit of normal. In chronic hepatitis B or C, the rise may be mild for years and then escalate as the disease progresses toward cirrhosis.",
+            "A sudden acute rise in ALT of ten times the upper limit or more suggests either acute viral hepatitis or acute drug-induced liver injury. This pattern requires the same urgent assessment on the same day, regardless of which cause is suspected. Autoimmune hepatitis, in which the body's immune system attacks its own liver, disproportionately affects women and can produce a pattern similar to viral hepatitis.",
+            "Inherited conditions account for a minority of cases but are important to exclude, particularly in younger patients with unexplained raised enzymes. Wilson's disease, in which copper accumulates in the liver, and haemochromatosis, in which excess iron is deposited, both raise ALT and are treatable if caught before cirrhosis develops. Your doctor will ask about family history and may add specific blood tests to rule these out."
+          ]
+        },
+        {
+          "h2": "Medicines and supplements: the cause that is often forgotten",
+          "paras": [
+            "Drug-induced liver injury is a common and commonly underestimated cause of raised liver enzymes in the Arab world, where paracetamol, antibiotics and painkillers are widely available without prescription and often taken at higher doses than recommended. Paracetamol at excessive doses is the leading cause of acute drug-induced liver failure globally, and the threshold for harm is much lower if someone is already fasting, malnourished or drinking alcohol.",
+            "Among prescribed medicines, statins occasionally cause a mild rise in ALT in a small percentage of users, which usually stabilises and does not require stopping the medicine. Anti-tuberculosis drugs, antiepileptics, some antipsychotics and hormonal medications all have the potential to raise liver enzymes, which is why liver tests are often repeated at intervals in patients on these treatments.",
+            "Herbal supplements and weight-loss preparations are a particularly important group in the regional context. Extracts sold as slimming teas, certain traditional herb preparations, high-dose aloe vera and some traditional Chinese medicine formulations have been associated with significant drug-induced hepatitis. Patients frequently do not mention supplements to their doctor because they do not consider them medicines. If you are taking any supplement and your enzymes are raised, tell your doctor immediately. In most cases the enzymes return to normal within weeks of stopping the supplement."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "Seek medical review promptly if",
+            "items": [
+              "ALT has risen to more than three times the upper limit of normal.",
+              "You notice yellowing of the skin or eyes (jaundice).",
+              "There is pain in the upper right side of the abdomen or abdominal swelling.",
+              "Your urine has turned dark brown.",
+              "You have severe fatigue and persistent nausea without an obvious cause."
+            ]
+          }
+        },
+        {
+          "h2": "What happens after an abnormal enzyme result",
+          "paras": [
+            "The first step is to confirm the result is genuinely persistent. A mild single abnormal reading may be transient. Your doctor may repeat the test after two to four weeks while asking you to avoid known triggers such as intense exercise, new supplements or unusually fatty meals, before proceeding to a full investigation.",
+            "If the raised result is confirmed, your doctor will use the pattern of results and your history to narrow the likely cause. Additional tests often include: hepatitis B surface antigen (HBsAg) and hepatitis C antibody (Anti-HCV), gamma-glutamyl transferase (GGT), alkaline phosphatase (ALP), bilirubin, a full lipid profile, fasting glucose, and thyroid function. Each adds a piece to the picture and often allows a diagnosis without needing a biopsy.",
+            "An ultrasound of the abdomen is the standard first imaging step. It takes only a few minutes, uses no radiation and no injected contrast, and is available in most radiology centres across the Arab world at reasonable cost. It will show whether the liver looks fatty, whether there is enlargement of the spleen suggesting portal hypertension, and whether the gallbladder carries stones that might be causing elevated liver enzymes through a different mechanism."
+          ]
+        },
+        {
+          "h2": "Liver health and the bigger picture",
+          "paras": [
+            "Liver enzymes sit within a broader picture of metabolic health. They are directly linked to diabetes control, blood lipid levels, body weight, physical activity, diet quality and medication burden. Improving these factors produces measurable improvements in enzyme levels in the majority of patients, which is why the first advice after a raised ALT is usually about lifestyle rather than a specialist prescription.",
+            "A 2019 global review published in Hepatology by Younossi and colleagues, using data from dozens of countries, showed that MAFLD has become the leading cause of advanced liver disease worldwide, and that the window of opportunity to prevent progression from simple fatty liver to fibrosis and eventually cirrhosis is exactly the stage at which raised enzymes are first discovered.",
+            "The liver is an organ of extraordinary regenerative capacity. In the absence of established cirrhosis, its ability to recover once the cause of injury is removed is remarkable. This means that an early raised ALT is not a sentence but an invitation: to find the cause, remove it where possible, and give the liver the conditions it needs to recover. Regular follow-up with your doctor and honest reporting of everything you take is the foundation of good liver care."
+          ]
+        }
+      ],
+      "tie": "You can log your liver enzyme results in the Sihtak app and watch them trend over time as a clear graph to share with your doctor. The AI assistant can help you understand what a specific ALT or AST value means and whether it warrants prompt attention.",
+      "faqs": [
+        {
+          "q": "What is the difference between ALT and AST?",
+          "a": "Both are liver enzymes, but ALT is more specific to the liver. A rise in ALT alone almost always points to a liver problem. AST is also present in heart and skeletal muscle, so a rise in AST without a corresponding rise in ALT can indicate muscle injury, a heart attack or intense exercise rather than liver disease. Your doctor interprets both together with the clinical context."
+        },
+        {
+          "q": "Does fatty liver always raise ALT?",
+          "a": "Not always. Some patients with fatty liver confirmed on ultrasound have completely normal ALT levels, because enzymes only rise when there is active cell damage and inflammation. This is why imaging is sometimes needed even when enzyme levels are normal. Conversely, normal enzymes do not rule out the presence of fat in the liver."
+        },
+        {
+          "q": "Can medicines cause a raised ALT?",
+          "a": "Yes, and more commonly than most patients realise. Paracetamol in excess, statins, tuberculosis medicines, some antibiotics and herbal or slimming supplements can all raise ALT. Tell your doctor about everything you take, including supplements and herbal preparations, whenever you are reviewing enzyme results. This information changes the entire interpretation."
+        },
+        {
+          "q": "At what level does raised ALT become urgent?",
+          "a": "A rise above three times the upper limit of normal warrants prompt medical review, ideally within days. A rise above ten times the upper limit, or any rise accompanied by jaundice, dark urine, severe abdominal pain or confusion, is a same-day emergency that needs hospital assessment."
+        },
+        {
+          "q": "Does raised ALT mean liver cirrhosis?",
+          "a": "No. Raised ALT means liver cells are being damaged and leaking their contents into the bloodstream. This is not cirrhosis. Cirrhosis is a late-stage scarring that develops over years of uncontrolled inflammation. Catching raised enzymes early and finding the cause is precisely how cirrhosis is prevented, not a sign that it has already happened."
+        },
+        {
+          "q": "Can liver enzymes return to normal?",
+          "a": "Yes, very often. In fatty liver disease, enzymes typically normalise with sustained weight loss and improved diet. In drug-induced liver injury, they usually return to normal within weeks of stopping the offending medicine. The liver's regenerative capacity means that early intervention, before cirrhosis develops, has an excellent chance of full recovery."
+        },
+        {
+          "q": "Do I need to fast before a liver function test?",
+          "a": "No. ALT, AST, bilirubin and most other liver function markers are not affected by a single meal and can be tested at any time of day. Fasting may sometimes be requested to combine liver tests with cholesterol or glucose measurement in the same appointment, but the fasting requirement in that case is for the lipid or glucose part, not for the liver enzymes."
+        }
+      ]
+    }
+  }
+}

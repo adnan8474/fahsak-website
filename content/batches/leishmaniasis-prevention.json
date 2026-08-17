@@ -1,0 +1,361 @@
+{
+  "slug": "leishmaniasis-prevention",
+  "category": "infectious-diseases",
+  "chip_ar": "الأمراض المعدية",
+  "chip_en": "Infectious Diseases",
+  "date_iso": "2026-07-18",
+  "sources": [
+    {
+      "label": "Knight CA, Harris DR, Alshammari SO et al: Leishmaniasis: Recent epidemiological studies in the Middle East, Frontiers in microbiology, 2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36817103/"
+    },
+    {
+      "label": "Jacobson RL: Leishmaniasis in an era of conflict in the Middle East, Vector borne and zoonotic diseases (Larchmont, N.Y.), 2011",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20846030/"
+    },
+    {
+      "label": "van Griensven J, Diro E: Visceral leishmaniasis, Infectious disease clinics of North America, 2012",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22632641/"
+    },
+    {
+      "label": "Kumosani TA, Al-Bogami TJ, Barbour EK et al: Leishmaniasis prevalence, awareness and control in Saudi Arabia, African health sciences, 2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36910416/"
+    },
+    {
+      "label": "Daga MK, Rohatgi I, Mishra R et al: Leishmaniasis, Indian journal of critical care medicine, 2021",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34345133/"
+    },
+    {
+      "label": "World Health Organization: Leishmaniasis fact sheet",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/leishmaniasis"
+    }
+  ],
+  "content": {
+    "ar": {
+      "title": "داء الليشمانيات: الوقاية من لدغة ذبابة الرمل",
+      "desc": "دليل شامل عن داء الليشمانيات في المنطقة العربية: كيف تحمي نفسك من لدغة ذبابة الرمل، والفرق بين الشكل الجلدي والشكل الحشوي الخطير، ومتى تطلب العلاج.",
+      "keywords": "داء الليشمانيات, حبة حلب, ذبابة الرمل, كالا ازار, الليشمانيا الحشوية, الليشمانيا الجلدية, الوقاية من ذبابة الرمل, علاج الليشمانيات, سوريا العراق المغرب, طفيلي الدم, الناموسية",
+      "h1": "داء الليشمانيات: كيف تحمي نفسك من الشكل الجلدي والحشوي الخطير",
+      "takeaways": [
+        "داء الليشمانيات ينتقل عبر لدغة ذبابة الرمل الأنثى (Phlebotomus) وليس عبر التلامس المباشر بين الأشخاص.",
+        "الشكل الجلدي يُحدث قرحة بطيئة الشفاء وهو أقل خطورة، أما الشكل الحشوي (كالا ازار) فيصيب الكبد والطحال ومميت إذا لم يُعالج.",
+        "الوقاية الأساسية هي تجنب لدغة ذبابة الرمل: الناموسية الدقيقة، والمراهم الطاردة للحشرات، وتجنب الخروج ليلاً في المناطق الريفية المعروفة بانتشارها.",
+        "لا يوجد لقاح بشري معتمد لداء الليشمانيات، لذلك الوقاية الشخصية هي الأداة الوحيدة المتاحة حالياً.",
+        "العلاج موجود وفعال خاصة للشكل الحشوي، لكن التأخر في التشخيص يرفع الخطر بشكل كبير."
+      ],
+      "sections": [
+        {
+          "h2": "ما هو داء الليشمانيات وكيف ينتقل؟",
+          "paras": [
+            "داء الليشمانيات (Leishmaniasis) مرض طفيلي تسببه طفيليات مجهرية من جنس الليشمانيا (Leishmania)، تنقلها أنثى ذبابة الرمل الصغيرة (Phlebotomus) في المنطقة العربية. هذه الذبابة صغيرة جداً، لا تتجاوز ثلاثة ملليمترات في الطول، وتطير بصمت تقريباً، وكثيراً ما لا يشعر الإنسان بلدغتها.",
+            "الذبابة تنشط في ساعات الغروب والفجر وطوال الليل، وتفضل البيئات الجافة والدافئة كالتربة الترابية وشقوق الجدران ومخازن الحبوب والحظائر. تنتشر في مناطق واسعة من المشرق العربي والمغرب والسودان واليمن. دراسة نشرت عام 2022 في مجلة Frontiers in Microbiology وثّقت تنامي انتشارها في الشرق الأوسط بسبب النزاعات والنزوح الداخلي الذي يدفع مجتمعات إلى مناطق موبوءة دون مناعة مكتسبة.",
+            "الطفيلي يعيش في دم بعض الثدييات كالقوارض والكلاب التي تعمل خزاناً طبيعياً له. الذبابة تمتص الدم المصاب، يتكاثر الطفيلي بداخلها، ثم تحقنه في الجلد أثناء لدغتها التالية لإنسان. لهذا السبب لا ينتقل المرض بالتلامس مع المريض، ولا بالأكل أو الشرب المشترك."
+          ],
+          "visual": {
+            "type": "stats",
+            "items": [
+              {"value": "مليون حالة", "label": "تقريباً تُسجَّل سنوياً في العالم", "tone": "warn"},
+              {"value": "90+", "label": "دولة تنتشر فيها الليشمانيا", "tone": "info"},
+              {"value": "قاتل", "label": "الشكل الحشوي دون علاج في أغلب الحالات", "tone": "bad"}
+            ]
+          }
+        },
+        {
+          "h2": "الشكل الجلدي مقابل الشكل الحشوي: فرق بالغ الأهمية",
+          "paras": [
+            "داء الليشمانيات ليس مرضاً واحداً بل طيف من الأشكال السريرية تختلف في درجة خطورتها. الشكل الأكثر شيوعاً في بلادنا هو الشكل الجلدي (Cutaneous Leishmaniasis)، المعروف شعبياً في سوريا والعراق والأردن بـ'حبة حلب' أو 'حبة الشرق'. يُحدث قرحة جلدية في المكان الذي لدغته الذبابة، غالباً على الوجه أو الذراعين أو الساقين.",
+            "القرحة تبدأ كحبة صغيرة ثم تتفتح وتتقرح وتبقى شهوراً بل أحياناً سنة أو أكثر قبل أن تلتئم تلقائياً. في الغالب تترك ندبة. هذا الشكل لا يُهدد الحياة لكن قرحة على الوجه قد تسبب تشوهاً نفسياً واجتماعياً خاصة عند الأطفال والنساء، وهو ما يجعل العلاج مهماً حتى لو لم يكن ضرورياً من الناحية الطبية البحتة.",
+            "الشكل الحشوي (Visceral Leishmaniasis) أو ما يُسمى كالا ازار (Kala-azar) هو الصورة الأخطر بلا منازع. فيه يتغلغل الطفيلي في الدم ويصيب الطحال والكبد ونخاع العظم. دون علاج، معدل الوفيات يبلغ 100 بالمئة تقريباً. ينتشر هذا الشكل بشكل رئيسي في السودان واليمن وبعض مناطق شرق أفريقيا. ما يزيد الأمر تعقيداً أن الأعراض الأولى للشكل الحشوي تشبه كثيراً الملاريا أو التيفوئيد أو الحمى غير المحددة، مما يؤخر تشخيصه ويرفع خطر وصوله لمرحلة متقدمة."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "مقارنة أشكال داء الليشمانيات",
+            "head": ["الشكل", "الأعضاء المصابة", "الخطورة", "الانتشار الإقليمي"],
+            "rows": [
+              ["الجلدي (حبة حلب)", "الجلد فقط", "منخفضة لكن تترك ندبة", "سوريا، العراق، المغرب، السعودية"],
+              ["الجلدي المخاطي", "الجلد والأغشية المخاطية للأنف والفم", "متوسطة وقد تُشوّه", "أقل شيوعاً في المنطقة"],
+              ["الحشوي (كالا ازار)", "الطحال والكبد ونخاع العظم", "مميت دون علاج", "السودان، اليمن، شرق أفريقيا"]
+            ]
+          }
+        },
+        {
+          "h2": "أعراض الشكل الجلدي: كيف تبدو الإصابة؟",
+          "paras": [
+            "الشكل الجلدي يبدأ بعد أسابيع إلى أشهر من اللدغة، وهذه الفترة الطويلة تجعل كثيراً من المصابين لا يربطون ظهور القرحة بلدغة قديمة لا يتذكرونها. تبدأ الإصابة كنتوء أحمر صغير يشبه حبة عادية، ثم يكبر ويرتفع ثم يتقرح في المركز مع حواف مرتفعة مميزة.",
+            "القرحة عادة غير مؤلمة أو أقل إيلاماً مما يُتوقع بحجمها. قد تفرز إفرازات صفراء أو تجف وتتقشر. بعض القرح تُشفى دون علاج خلال ستة أشهر إلى سنة، لكن تترك ندبة دائمة. قرحة على الوجه، خاصة قرب الأنف أو الأذن، تستدعي العلاج لمنع التشوه والامتداد للأغشية المخاطية. إهمال قرحة الوجه قد يتطور إلى الشكل الجلدي المخاطي الذي يُدمر الغضروف في الأنف والحنجرة ويسبب تشوهاً دائماً.",
+            "الشكل الجلدي لا يُسبب عادة حمى أو أعراضاً جهازية ما لم تُصب القرحة بعدوى بكتيرية ثانوية. إذا أحسست بألم متزايد أو رأيت احمراراً منتشراً حول القرحة وحمى، فهذا يعني إصابة بكتيرية تستدعي المضادات الحيوية إضافة إلى علاج الليشمانيا. لهذا السبب لا يُنصح بمحاولة معالجة القرحة بنفسك أو بوصفات شعبية غير موثوقة، وإنما تُعرَض على طبيب ليحدد الخطة المناسبة."
+          ]
+        },
+        {
+          "h2": "أعراض الشكل الحشوي: متى يصبح المرض خطيراً؟",
+          "paras": [
+            "الشكل الحشوي أخطر بكثير ويتطور ببطء على مدى أشهر. الأعراض تشمل حمى متكررة تأتي وتذهب، وفقدان الوزن التدريجي، وتضخم الطحال الذي قد يصبح ضخماً جداً حتى يُحسس من تحت الضلوع، وتضخم الكبد. يُصاحب ذلك فقر دم شديد يجعل المريض شاحباً ومنهكاً، وضعف جهاز المناعة يجعله عرضة لعدوى أخرى."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "راجع الطبيب فوراً إذا كنت في منطقة موبوءة وظهرت لديك",
+            "items": [
+              "حمى تستمر أكثر من أسبوعين وتأتي وتذهب دون سبب واضح",
+              "فقدان وزن غير مبرر مع التعب الشديد",
+              "انتفاخ في البطن أو إحساس بثقل في الجانب الأيسر (تضخم الطحال)",
+              "شحوب واضح وضعف عام متزايد",
+              "قرحة جلدية لم تشفَ بعد شهرين أو أكثر"
+            ]
+          }
+        },
+        {
+          "h2": "كيف تحمي نفسك من لدغة ذبابة الرمل؟",
+          "paras": [
+            "لا يوجد حتى اليوم لقاح بشري معتمد لداء الليشمانيات رغم عقود من الأبحاث. الوقاية الشخصية هي الدرع الوحيدة المتاحة. ذبابة الرمل صغيرة بما يكفي لتمر عبر فتحات الناموسية العادية، لذلك تحتاج إلى ناموسية خاصة ذات فتحات شبكية أدق (حجم الشبكة 1.5 ملليمتر أو أقل) أو ناموسية معالجة بمبيد حشري.",
+            "مواد طرد الحشرات المحتوية على DEET بنسبة 20 بالمئة أو أكثر، أو تلك المحتوية على Permethrin تُعطى أفضل حماية على الجلد المكشوف والملابس. الارتداء المناسب مهم: ملابس فاتحة اللون طويلة الأكمام والسيقان خلال ساعات الغروب والفجر واستخدام جوارب إضافية إذا كنت في بيئة ريفية تعشش فيها الذبابة.",
+            "ذبابة الرمل تفضل البيئات القريبة من التربة وشقوق الجدران والمخازن والمواقع الريفية. النوم في غرفة مكيفة مغلقة النوافذ يقلل التعرض بشكل كبير. إذا كنت مضطراً للنوم في الهواء الطلق أو في بيت ريفي تقليدي، فالناموسية المعالجة بالبرميثرين هي الخيار الأساسي.",
+            "رش جدران المنزل من الداخل والخارج بمبيد حشري مثبّت (Residual spray) يقلل أعداد الذباب في المنطقة المحيطة. هذا الإجراء يُنفّذ من قِبَل برامج الصحة العامة في المناطق الموبوءة، ولكن إذا لم يكن متاحاً يمكنك استخدام البخاخات المنزلية المتاحة في الصيدليات مع التهوية الجيدة. التركيبات المحتوية على البيريثرويد (Pyrethroid) آمنة للاستخدام المنزلي ومؤثرة على ذبابة الرمل."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "الحماية الشخصية من ذبابة الرمل",
+            "items": [
+              "استخدم ناموسية ذات شبكة دقيقة (1.5 ملم أو أقل) معالجة بالبرميثرين (Permethrin)",
+              "ضع مادة طاردة للحشرات تحتوي على DEET 20% أو أكثر على الجلد المكشوف",
+              "ارتدِ ملابس طويلة فاتحة اللون من الغروب حتى الفجر في المناطق الريفية",
+              "نَم في غرفة مغلقة النوافذ أو مكيفة كلما أمكن",
+              "أغلق الشقوق في جدران المنزل وعالج مواضع تجمع الحصى والتراب حول البيت",
+              "لا تتركن الحيوانات الأليفة تنام داخل غرفة النوم لأنها تجذب الذبابة"
+            ]
+          }
+        },
+        {
+          "h2": "تشخيص الليشمانيات: كيف يتأكد الطبيب؟",
+          "paras": [
+            "لتشخيص الشكل الجلدي، يأخذ الطبيب عادة مسحة أو خزعة صغيرة من حافة القرحة ويفحصها تحت المجهر بحثاً عن طفيلي الليشمانيا الذي يظهر داخل خلايا الجهاز المناعي بشكل مميز. كذلك يمكن استخدام اختبار الجلد المسمى اختبار مونتنيغرو الذي يكشف استجابة المناعة للطفيلي، أو تحليل الـPCR الأدق لكنه غير متاح في كل المراكز في المنطقة.",
+            "لتشخيص الشكل الحشوي، يُجري الطبيب اختبار الأجسام المضادة في الدم (اختبار rK39 السريع) وهو دقيق وسريع ومتاح في كثير من المناطق الموبوءة ويعطي نتيجة في دقائق. يُضاف إلى ذلك صورة الدم الكاملة التي تُظهر فقر الدم وانخفاض كريات الدم البيضاء والصفائح الدموية. في الحالات الصعبة أو غير الواضحة يُلجأ لأخذ عينة من نخاع العظم وهو التشخيص الأكيد والأكثر دقة.",
+            "التشخيص المبكر يُحدث فارقاً كبيراً في نتيجة العلاج. في السودان واليمن، وثّقت دراسات أن كثيراً من حالات الشكل الحشوي تصل متأخرة بسبب غياب الوعي بأعراض المرض الخفية وبطء تطوره. إذا كنت في منطقة موبوءة وعندك حمى متكررة غير مفسَّرة مع تعب لأسابيع، لا تنتظر وطلب تحليل الأجسام المضادة للكشف عن الليشمانيا هو الخطوة الأولى."
+          ]
+        },
+        {
+          "h2": "ما هو العلاج المتاح؟",
+          "paras": [
+            "للشكل الجلدي، يعتمد قرار العلاج على حجم القرحة وموضعها وعدد الإصابات وأنواع الطفيلي المسببة. القرح الصغيرة البعيدة عن الوجه قد تُراقَب فقط وتُترك تشفى تلقائياً. لكن القرح الكبيرة أو تلك على الوجه تستدعي علاجاً موضعياً بالحرارة أو الزرنيخ الخماسي التكافؤ (Pentavalent Antimony) حقناً في وحول القرحة، أو علاجاً جهازياً.",
+            "للشكل الحشوي (كالا ازار)، يعتمد العلاج الأول في معظم دول المنطقة على الأمفوتريسين ب الدهنية (Liposomal Amphotericin B) أو مركبات الأنتيمون الخماسي التكافؤ. معدلات الشفاء مرتفعة جداً عند التشخيص المبكر وإتمام الدورة الكاملة. دراسة نشرت في مجلة Infectious Disease Clinics of North America عام 2012 أكدت أن الشفاء التام ممكن في أكثر من 90 بالمئة من حالات كالا ازار إذا عُولجت بالمواد الصحيحة في الوقت المناسب.",
+            "لا توقف العلاج مبكراً ولو تحسنت الأعراض. التوقف المبكر يمنح الطفيلي فرصة لإعادة الانتشار وتطوير مقاومة للأدوية. إتمام الدورة كاملة تحت إشراف طبي هو المعيار. بعد إتمام العلاج، يتابع الطبيب المريض لأسابيع للتأكد من التعافي الكامل وعدم الانتكاسة."
+          ]
+        },
+        {
+          "h2": "الليشمانيا وضعف المناعة: خطر إضافي",
+          "paras": [
+            "الأشخاص الذين يعانون من ضعف المناعة بسبب الإصابة بفيروس نقص المناعة البشري (HIV) أو يتلقون علاجاً مثبطاً للمناعة بعد زراعة الأعضاء أو بسبب الأدوية المستخدمة في علاج أمراض المناعة الذاتية كالكورتيزون طويل الأمد، هم في خطر أعلى بكثير للإصابة بالشكل الحشوي الحاد. الطفيلي قد يكون موجوداً في الجسم خاملاً منذ سنوات ثم يتفجر حين يضعف الجهاز المناعي.",
+            "في هؤلاء المرضى، قد تتفجر عدوى قديمة كانت خاملة وتتحول إلى شكل حشوي نشط. كما أن الاستجابة للعلاج قد تكون أبطأ والانتكاسات أكثر. إذا كنت تتلقى دواءً مثبطاً للمناعة وعشت أو زرت منطقة موبوءة، أخبر طبيبك بذلك وناقش معه الاحتياطات الإضافية اللازمة. قد يُوصي طبيبك بفحص دم خاص للبحث عن الطفيلي قبل أن تبدأ أي عرض."
+          ]
+        },
+        {
+          "h2": "الليشمانيا في سياق النزاعات والتهجير",
+          "paras": [
+            "النزاعات المسلحة تُضاعف معدلات داء الليشمانيات بشكل ملحوظ، لأسباب مترابطة: النزوح يدفع مجتمعات حضرية إلى مناطق ريفية لا يملكون مناعة مكتسبة ضد طفيلياتها. البنية التحتية المدمرة تعني غياب الصرف الصحي وتراكم الأنقاض التي تُوفر بيئات تكاثر مثالية للذباب. انهيار الخدمات الصحية يجعل التشخيص والعلاج شبه متعذر في مناطق النزاع.",
+            "سوريا شهدت موجات تفشٍّ واسعة خلال سنوات الحرب، وتضاعفت فيها حالات حبة حلب في مخيمات اللاجئين. درس باحثون نشروا نتائجهم في مجلات متخصصة هذا الارتباط بين النزاع والليشمانيا وأكدوا أن حملات الوقاية والرصد الوبائي تنهار أول ما تنهار في المناطق المنكوبة، مما يجعل الجهود الفردية للوقاية الشخصية أكثر أهمية حين تغيب الجهود المؤسسية. الوعي بالمرض والوقاية الذاتية يحلان محل الحملات المؤسسية حين تنهار البنى التحتية.",
+            "إذا كنت مقيماً في منطقة نزاع أو تعيش في مخيم أو تسكن في بناء مؤقت غير محكم، فالعناية بالناموسية المعالجة بالمبيد والمراهم الطاردة للحشرات تبقى الخيار الأفضل المتاح لك بشكل مستقل عن أي برامج صحية رسمية. سد الشقوق في الجدران ووضع شبكة ناعمة على النوافذ والأبواب يساعد في تقليل دخول الذباب."
+          ]
+        }
+      ],
+      "tie": "تطبيق صحتك يساعدك على توثيق أي تغيرات جلدية غير مألوفة وتتبع مسارها عبر الوقت. إذا ظهرت قرحة في منطقة موبوءة، يمكنك تصوير موضعها ورصد تطورها أسبوعاً بأسبوع لتعرضها على الطبيب مع سياق كامل، مما يُسرّع الوصول لتشخيص دقيق دون الاعتماد على الذاكرة وحدها.",
+      "faqs": [
+        {
+          "q": "هل داء الليشمانيات معدٍ بين البشر؟",
+          "a": "لا. لا ينتقل المرض بالتلامس المباشر أو الهواء أو الطعام المشترك. الناقل الوحيد هو أنثى ذبابة الرمل. يمكنك الاعتناء بمريض الليشمانيا بأمان تام دون خوف من العدوى."
+        },
+        {
+          "q": "هل حبة حلب تشفى وحدها؟",
+          "a": "كثيراً ما تشفى القرحة الجلدية تلقائياً خلال ستة أشهر إلى سنة، لكنها تترك ندبة دائمة. القرح الكبيرة أو تلك على الوجه تحتاج علاجاً لتجنب التشوه والانتشار. استشر طبيبك دائماً بدلاً من الانتظار."
+        },
+        {
+          "q": "كيف أعرف أن ذبابة الرمل هي التي لدغتني؟",
+          "a": "يصعب التعرف على اللدغة فورياً لأنها تكاد لا تُحس. الاشتباه يبدأ حين يظهر تغير جلدي بعد أسابيع أو أشهر في شخص كان في منطقة موبوءة. التشخيص يؤكده الطبيب بفحص الخزعة أو التحاليل."
+        },
+        {
+          "q": "هل الليشمانيا خطيرة على الحوامل؟",
+          "a": "نعم، الشكل الحشوي خلال الحمل قد يؤثر على الجنين وعلى صحة الأم. العلاج ضروري لكن اختيار الدواء المناسب يتطلب استشارة متخصصة. لا تؤخري العلاج بسبب الحمل، بل اطلبي مراجعة فورية لأن التأخر أخطر."
+        },
+        {
+          "q": "هل الأطفال أكثر عرضة للإصابة؟",
+          "a": "نعم. الأطفال في المناطق الموبوءة يُصابون بنسب أعلى لأن مناعتهم لم تُطوّر بعد أي تكيّف مع الطفيلي. الوقاية لدى الأطفال أكثر أهمية: الناموسية المعالجة ومادة طرد الحشرات على الجلد المكشوف والملابس الطويلة."
+        },
+        {
+          "q": "هل يمكن أن أُصاب بالليشمانيا في المدينة؟",
+          "a": "الإصابة أكثر شيوعاً في الريف والمناطق القريبة من الأراضي الجافة وشبه الجافة حيث تتكاثر ذبابة الرمل. لكن الأحياء الحضرية العشوائية القريبة من مناطق ترابية قد تُسجّل حالات. النزوح الداخلي والعمل الزراعي يرفعان الخطر."
+        },
+        {
+          "q": "كم تستمر فترة العلاج؟",
+          "a": "يختلف ذلك باختلاف الشكل والدواء المستخدم. علاج الشكل الجلدي قد يكون موضعياً على مدى أسابيع. الشكل الحشوي يحتاج دورات علاجية أطول بالأمفوتريسين أو مركبات الأنتيمون قد تمتد لأسابيع عدة بإشراف طبي مستمر."
+        },
+        {
+          "q": "هل علاج الليشمانيا متوفر في مناطق النزاع؟",
+          "a": "في بعض مناطق النزاع كسوريا واليمن، قد تكون الأدوية شحيحة أو غير متاحة. منظمة الصحة العالمية وعدد من منظمات الإغاثة توفّر علاجات مجانية في بعض المناطق. التواصل مع المراكز الصحية المدعومة من الأمم المتحدة أو المنظمات غير الحكومية في منطقتك قد يكون الخيار الأمثل."
+        }
+      ]
+    },
+    "en": {
+      "title": "Leishmaniasis: Preventing the Sandfly Bite",
+      "desc": "Sandfly bites, Aleppo boil and kala-azar: what leishmaniasis looks like, how to prevent it with nets and repellent, and when visceral disease becomes a medical emergency.",
+      "keywords": "leishmaniasis, Aleppo boil, sandfly bite prevention, kala-azar, visceral leishmaniasis, cutaneous leishmaniasis, Phlebotomus, bed nets, Middle East leishmaniasis, leishmaniasis treatment, sandfly repellent",
+      "h1": "Leishmaniasis: How to Prevent the Sandfly Bite and What to Do if You Are Infected",
+      "takeaways": [
+        "Leishmaniasis is spread by the bite of the female sandfly (Phlebotomus), which is active at dusk and night, not during the day.",
+        "The skin form causes a slow-healing ulcer and is rarely life-threatening. The visceral form (kala-azar) attacks the liver and spleen and is fatal without treatment.",
+        "No licensed human vaccine exists. Fine-mesh insecticide-treated nets, repellents and protective clothing are your only preventive tools.",
+        "Treatment is effective and cure rates are high when diagnosis is made early. Delayed diagnosis of visceral disease is the main reason for deaths.",
+        "People with weakened immunity from HIV or immunosuppressant drugs face a particularly high risk of severe disease."
+      ],
+      "sections": [
+        {
+          "h2": "What Is Leishmaniasis and How Does It Spread?",
+          "paras": [
+            "Leishmaniasis is caused by microscopic parasites of the genus Leishmania, transmitted to humans through the bite of an infected female sandfly of the genus Phlebotomus in the Middle East and North Africa. The sandfly is tiny, no bigger than three millimetres, flies almost silently and its bite is often not felt at all. This makes the exposure difficult to remember when symptoms appear weeks or months later.",
+            "The sandfly is active from dusk through to dawn. It breeds in dry, warm environments such as cracked walls, animal shelters, rubble piles and stony soil. It does not fly long distances, which means the exposure usually happens close to where you live or work, not from some distant source.",
+            "The parasite lives in the blood of animal reservoirs such as rodents and dogs. The sandfly feeds on an infected animal, ingests the parasite, which then multiplies inside it, and injects it into the next person it bites. A 2022 study in Frontiers in Microbiology documented increasing leishmaniasis burden across the Middle East, noting that conflict-related displacement was pushing populations into endemic areas without prior immunity, creating new transmission cycles. The disease does not spread from person to person through any form of direct contact."
+          ],
+          "visual": {
+            "type": "stats",
+            "items": [
+              {"value": "~1 million", "label": "new cases registered worldwide each year", "tone": "warn"},
+              {"value": "90+ countries", "label": "where leishmaniasis is endemic", "tone": "info"},
+              {"value": "Fatal", "label": "if visceral form is left untreated in almost all cases", "tone": "bad"}
+            ]
+          }
+        },
+        {
+          "h2": "Skin Form versus Visceral Form: A Crucial Distinction",
+          "paras": [
+            "Leishmaniasis is not a single disease but a spectrum of clinical forms that differ greatly in severity. The most common form across the Arab world is cutaneous leishmaniasis, known popularly as Aleppo boil, Baghdad boil or oriental sore. It causes a skin ulcer at the site of the sandfly bite, most often on the face, arms or legs.",
+            "The ulcer begins as a small raised lump, then opens and ulcerates with characteristic raised edges, persisting for months and sometimes longer than a year before healing on its own. It almost always leaves a permanent scar. This form is rarely life-threatening, but a prominent facial ulcer can cause significant psychological and social distress, particularly for children and young women, which makes treatment worthwhile even when it is not medically urgent.",
+            "Visceral leishmaniasis, known as kala-azar, is the most dangerous form by a very wide margin. The parasite invades the bloodstream and infects the spleen, liver and bone marrow. Without treatment, the fatality rate approaches 100 percent. This form is most common in Sudan, Yemen, and parts of East Africa, though pockets exist elsewhere in the region."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Comparing the Forms of Leishmaniasis",
+            "head": ["Form", "Organs Affected", "Risk Level", "Regional Distribution"],
+            "rows": [
+              ["Cutaneous (Aleppo boil)", "Skin only", "Low, but leaves a scar", "Syria, Iraq, Morocco, Saudi Arabia"],
+              ["Mucocutaneous", "Skin and mucous membranes", "Moderate, can cause disfigurement", "Less common in this region"],
+              ["Visceral (kala-azar)", "Spleen, liver, bone marrow", "Fatal without treatment", "Sudan, Yemen, East Africa"]
+            ]
+          }
+        },
+        {
+          "h2": "Symptoms of the Skin Form: What to Look For",
+          "paras": [
+            "Cutaneous leishmaniasis appears weeks to months after the sandfly bite, and this long delay means many people do not connect the ulcer with a bite they cannot remember. The lesion begins as a small red papule resembling a pimple, grows steadily, and eventually opens in the centre with the classic raised, indurated border. The surface may be crusted, moist or actively oozing.",
+            "The ulcer is usually painless or far less painful than its size suggests. Some ulcers dry and crust over without ever fully opening. Left untreated, many heal over six to twelve months but leave a permanent scar at the site. An ulcer on the face, especially near the nose or ear, needs treatment to prevent spread to the mucous membranes of the nose and mouth, which causes the more disfiguring mucocutaneous form.",
+            "The skin form does not usually cause fever or systemic symptoms unless the ulcer becomes secondarily infected with bacteria. If you notice increasing pain, spreading redness around the ulcer and fever, this suggests a bacterial superinfection requiring antibiotics alongside leishmaniasis treatment."
+          ]
+        },
+        {
+          "h2": "Symptoms of Visceral Disease: When Leishmaniasis Becomes Dangerous",
+          "paras": [
+            "Visceral leishmaniasis develops slowly over months and is frequently mistaken for other conditions during that time. The classic presentation includes intermittent fever coming and going in waves, progressive weight loss and wasting, and a massively enlarged spleen that can be felt well below the left rib margin. The liver also enlarges. Severe anaemia makes the patient increasingly pale, weak and breathless.",
+            "As the disease progresses, the immune system collapses, leaving the patient vulnerable to serious secondary infections including tuberculosis and bacterial pneumonia. The bone marrow becomes affected, dropping all blood cell lines. This is why a patient who looked merely tired and feverish three months ago may present in very poor condition by the time they reach hospital.",
+            "A 2012 review in the Infectious Disease Clinics of North America confirmed that visceral leishmaniasis is curable in over 90 percent of cases when diagnosed and treated with the right drugs early in the illness. The tragedy is that most deaths occur not from treatment failure but from patients reaching hospital too late."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "See a doctor urgently if you live in or recently visited an endemic area and have",
+            "items": [
+              "Fever lasting more than two weeks that comes and goes without a clear cause",
+              "Unexplained weight loss with severe fatigue and weakness",
+              "Swelling or heaviness in the abdomen, particularly on the left side",
+              "Pale skin and breathlessness from anaemia",
+              "A skin ulcer that has not healed after two months"
+            ]
+          }
+        },
+        {
+          "h2": "How to Protect Yourself from Sandfly Bites",
+          "paras": [
+            "There is no licensed human vaccine against leishmaniasis despite decades of research. Personal protection is your only defence. The sandfly is small enough to pass through standard mosquito net mesh, so you need a fine-mesh net with openings no larger than 1.5 millimetres, or one treated with an insecticide such as permethrin, which kills the sandfly on contact even through the mesh.",
+            "Insect repellents containing at least 20 percent DEET applied to exposed skin and clothing provide reliable protection during the sandfly's active hours from dusk to dawn. Permethrin-treated clothing adds a further layer. Light-coloured, long-sleeved shirts and trousers tucked into socks limit exposed skin during evening hours when the risk is highest. These precautions are particularly important for anyone working or sleeping outdoors in rural areas.",
+            "The sandfly favours environments close to the ground: cracked walls, rubble, grain stores, livestock shelters and stony soil. Sealing cracks in home walls, keeping the area around the house clear of rubble and managing animal housing away from sleeping areas reduces your immediate exposure. Sleeping in an air-conditioned room with closed windows is protective because the sandfly does not fly far and struggles against air movement."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "Personal Protection Against Sandfly Bites",
+            "items": [
+              "Sleep under a fine-mesh net (1.5 mm or smaller) treated with permethrin",
+              "Apply DEET repellent (20% or stronger) to all exposed skin from dusk to dawn",
+              "Wear light-coloured long-sleeved clothing and tuck trousers into socks in rural areas",
+              "Sleep in an air-conditioned, closed-window room whenever possible",
+              "Seal cracks in walls and remove rubble or debris from around the home",
+              "Keep pets out of the bedroom as they attract sandflies that could then bite you"
+            ]
+          }
+        },
+        {
+          "h2": "How Is Leishmaniasis Diagnosed?",
+          "paras": [
+            "For the skin form, diagnosis is made by taking a scraping or small biopsy from the edge of the ulcer and examining it under a microscope to identify the Leishmania parasite. The Montenegro skin test detects immune response to the parasite and is used in some settings. PCR testing is more sensitive but requires laboratory infrastructure that is not uniformly available across the region.",
+            "For the visceral form, the rK39 rapid diagnostic test detects antibodies in the blood and performs well in most endemic settings, giving a result within minutes. A full blood count showing anaemia with low white blood cells and low platelets together with an enlarged spleen on examination or ultrasound strongly suggests kala-azar. Bone marrow aspiration, which provides definitive diagnosis, is reserved for cases where the rapid test is inconclusive.",
+            "Early diagnosis is the strongest predictor of a good outcome. In Sudan and Yemen, studies have found that many visceral leishmaniasis cases arrive at health facilities only in advanced stages, partly because the early symptoms of prolonged fever and weight loss are attributed to malaria or other common infections."
+          ]
+        },
+        {
+          "h2": "Available Treatments and What to Expect",
+          "paras": [
+            "For the skin form, the treatment decision depends on the size and site of the ulcer, the number of lesions and the Leishmania species causing it. Small ulcers on the trunk or limbs may be observed without active treatment. Larger or facial ulcers are treated with intralesional injections of pentavalent antimony compounds directly into and around the ulcer, or with systemic treatment such as miltefosine tablets or intravenous amphotericin.",
+            "For visceral leishmaniasis, liposomal amphotericin B is now the preferred treatment in most settings and achieves cure rates above 90 percent when given appropriately. Pentavalent antimony compounds (meglumine antimoniate or sodium stibogluconate) remain in use where amphotericin is unavailable, though resistance is an increasing problem in some areas. Miltefosine, an oral drug, has also been used with good results in certain regions.",
+            "Completing the full treatment course is essential regardless of how quickly symptoms improve. Stopping early allows surviving parasites to re-establish, potentially in a drug-resistant form. All treatments for visceral leishmaniasis require medical supervision and some require hospital admission for administration and monitoring."
+          ]
+        },
+        {
+          "h2": "Leishmaniasis in the Context of Conflict and Displacement",
+          "paras": [
+            "Armed conflict dramatically increases leishmaniasis transmission through interconnected mechanisms. Displacement drives populations from cities into rural endemic areas without any acquired immunity. Destroyed infrastructure removes sanitation and creates rubble habitats that are ideal sandfly breeding grounds. Collapsed health systems make diagnosis and treatment inaccessible precisely where need is greatest.",
+            "Syria experienced large-scale outbreaks of cutaneous leishmaniasis in refugee camps and conflict-affected areas during years of war. Researchers have documented how disease surveillance systems collapse first in conflict zones, making individual prevention and prompt care-seeking more important precisely when institutional responses are weakest. If you are living in or passing through conflict-affected areas known for leishmaniasis, personal protection measures are non-negotiable.",
+            "People who are already immunocompromised, whether from HIV, medications after organ transplant, or drugs used for autoimmune conditions, face a sharply elevated risk of visceral disease and of reactivation of past latent infections. If you take immunosuppressant medication and you live in or plan to visit an endemic area, discuss this explicitly with your doctor before travel."
+          ]
+        },
+        {
+          "h2": "Reducing Sandfly Habitat Around Your Home",
+          "paras": [
+            "Beyond personal protection, modifying the immediate environment reduces the sandfly population around your home and lowers the overall exposure of your whole household. The sandfly does not travel far, typically less than a few hundred metres from its breeding site, so addressing the sources close to home has a meaningful impact.",
+            "Keep the ground around the house clear of organic debris, rubble piles and discarded materials that create shaded, moist micro-habitats close to the soil. Animal shelters such as dog kennels and livestock pens are particularly important sites because animals are both a blood meal source for the sandfly and a reservoir host for the Leishmania parasite. Positioning animal housing away from sleeping areas reduces night-time sandfly pressure on your family. Treating dogs with insecticide-impregnated collars (permethrin-based) is used in some programmes as an additional measure to reduce transmission.",
+            "In areas of high endemicity, community-level spraying of residual insecticides on the walls and floors of houses reduces sandfly numbers. If your community health programme offers this service, it complements but does not replace personal protection. Window screens with fine mesh provide a passive barrier when doors and windows need to be open during hot nights. Combining environmental measures with nets and repellents gives the most complete protection available in the absence of a vaccine."
+          ]
+        }
+      ],
+      "tie": "The Sihtak app lets you photograph and track any unusual skin change over time with dated records. If a lesion appears after visiting an endemic area, a week-by-week visual record that you can show your doctor is far more useful than trying to describe its evolution from memory, and it helps your doctor judge the urgency and choose the right diagnostic test.",
+      "faqs": [
+        {
+          "q": "Is leishmaniasis contagious between people?",
+          "a": "No. The disease does not spread through direct contact, shared air, or food. The only route of transmission is the bite of an infected sandfly. You can safely care for a patient with leishmaniasis without any risk of catching it yourself."
+        },
+        {
+          "q": "Does the Aleppo boil heal on its own?",
+          "a": "Cutaneous ulcers do often heal without treatment over six to twelve months, but they almost always leave a permanent scar. Large or facial ulcers warrant treatment to prevent disfigurement and to stop spread to mucous membranes. Always consult a doctor rather than simply waiting."
+        },
+        {
+          "q": "How long after a sandfly bite do symptoms appear?",
+          "a": "For the skin form, the ulcer typically appears two weeks to several months after the bite. For visceral disease, the incubation period can be months to more than a year. This long delay explains why people rarely connect symptoms with a specific exposure."
+        },
+        {
+          "q": "Is leishmaniasis more dangerous during pregnancy?",
+          "a": "Yes. Visceral leishmaniasis during pregnancy can affect the developing baby and increase maternal risk. Treatment is necessary but the choice of drug requires specialist guidance since some options are contraindicated in pregnancy. Delaying treatment is more dangerous than treating promptly with the right drug."
+        },
+        {
+          "q": "Are children at higher risk?",
+          "a": "Children in endemic areas are infected at high rates because they have not developed any acquired immunity. Protective measures are especially important for children: insecticide-treated nets, repellents on exposed skin and long clothing during evening hours."
+        },
+        {
+          "q": "Can I catch leishmaniasis in a city?",
+          "a": "Urban transmission is possible in informal settlements with stony soil or rubble close to sleeping areas. The risk is higher in rural and semi-arid zones. Internal displacement and agricultural work both increase exposure significantly."
+        },
+        {
+          "q": "How long does treatment last?",
+          "a": "This varies by form and drug. Skin form treatment may take several weeks whether given as local injections or as systemic tablets. Visceral leishmaniasis requires longer courses of intravenous or oral medication under medical supervision. Do not stop early, even if you feel better."
+        },
+        {
+          "q": "Is treatment available in conflict areas?",
+          "a": "In some conflict-affected areas such as parts of Syria and Yemen, medicines may be scarce. WHO and several NGOs supply free treatments in supported health facilities. Contact UN-supported or NGO-run clinics in your area, as these are often the most reliable source of specialist drugs during crises."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,374 @@
+{
+  "slug": "anemia-in-pregnancy",
+  "category": "womens-health",
+  "chip_ar": "صحة المرأة",
+  "chip_en": "Women's Health",
+  "date_iso": "2026-07-14",
+  "sources": [
+    {"label": "Lopez A, Cacoub P, Macdougall IC et al: Iron deficiency anaemia, Lancet (London, England), 2016", "url": "https://pubmed.ncbi.nlm.nih.gov/26314490/"},
+    {"label": "Finkelstein JL, Cuthbert A, Weeks J et al: Daily oral iron supplementation during pregnancy, The Cochrane database of systematic reviews, 2024", "url": "https://pubmed.ncbi.nlm.nih.gov/39145520/"},
+    {"label": "Kirthan JPA, Somannavar MS: Pathophysiology and management of iron deficiency anaemia in pregnancy: a review, Annals of hematology, 2024", "url": "https://pubmed.ncbi.nlm.nih.gov/37787837/"},
+    {"label": "Benson AE, Shatzel JJ, Ryan KS et al: The incidence, complications, and treatment of iron deficiency in pregnancy, European journal of haematology, 2022", "url": "https://pubmed.ncbi.nlm.nih.gov/36153674/"},
+    {"label": "Lewkowitz AK, Stout MJ, Cooke E et al: Intravenous versus Oral Iron for Iron-Deficiency Anemia in Pregnancy (IVIDA): A Randomized Controlled Trial, American journal of perinatology, 2022", "url": "https://pubmed.ncbi.nlm.nih.gov/34839481/"},
+    {"label": "Al-Bayyari N, Al Sabbah H, Hailat M et al: Dietary diversity and iron deficiency anemia among a cohort of singleton pregnancies: a cross-sectional study, BMC public health, 2024", "url": "https://pubmed.ncbi.nlm.nih.gov/38987685/"},
+    {"label": "World Health Organization: Haemoglobin concentrations for the diagnosis of anaemia and assessment of severity, WHO/NMH/NHD/MNM/11.1, 2011"}
+  ],
+  "content": {
+    "ar": {
+      "title": "فقر الدم في الحمل: الحديد والتحاليل والعلاج",
+      "desc": "فقر الدم أثناء الحمل شائع جدا في منطقتنا. تعرفي على حدود الهيموغلوبين في كل ثلاثية، وكيف تأخذين الحديد الفموي ليُمتص بشكل صحيح، ومتى تحتاجين الحقن الوريدي.",
+      "keywords": "فقر الدم في الحمل, أنيميا الحمل, الحديد للحامل, هيموغلوبين الحمل, نقص الحديد حامل, مكمل الحديد حمل, حقن الحديد حمل, تحليل دم الحامل",
+      "h1": "فقر الدم في الحمل: كل ما تحتاجين معرفته عن الحديد والهيموغلوبين",
+      "takeaways": [
+        "فقر الدم في الحمل يُشخَّص عندما ينخفض الهيموغلوبين (Hb) عن 11 غ/ديسيلتر في الثلاثية الأولى والثالثة، أو عن 10.5 غ/ديسيلتر في الثلاثية الثانية.",
+        "نقص الحديد هو السبب الأكثر شيوعا لفقر الدم في الحمل في منطقتنا، ويمكن تشخيصه بتحليل الفيريتين (Ferritin).",
+        "يُمتص الحديد الفموي بشكل أفضل على معدة فارغة مع عصير البرتقال، وليس مع الشاي أو الحليب.",
+        "فقر الدم الشديد في الحمل يرفع خطر الولادة المبكرة وانخفاض وزن المولود، لذلك المتابعة المنتظمة ضرورية.",
+        "حين يفشل الحديد الفموي أو يكون فقر الدم شديدا، يصبح الحديد الوريدي خيارا آمنا وفعالا."
+      ],
+      "sections": [
+        {
+          "h2": "ما هو فقر الدم في الحمل وكيف يُشخَّص؟",
+          "paras": [
+            "فقر الدم أثناء الحمل يعني أن كريات الدم الحمراء لا تكفي لنقل الأكسجين الذي تحتاجه أنت وطفلك. السبب الأكثر شيوعا هو نقص الحديد، لكن قد يكون السبب نقص حمض الفوليك (Folic Acid)، أو نقص فيتامين B12، أو أمراض الدم الوراثية مثل الثلاسيميا (Thalassaemia).",
+            "منظمة الصحة العالمية تعرّف فقر الدم في الحمل بانخفاض الهيموغلوبين (Hb) عن 11 غرام لكل ديسيلتر في الثلاثية الأولى والثالثة من الحمل، وعن 10.5 في الثلاثية الثانية. هذه الأرقام تختلف عن حدود فقر الدم خارج الحمل، لأن حجم الدم يزداد طبيعيا في الحمل مما يخفف تركيز الهيموغلوبين.",
+            "التشخيص يبدأ بتحليل صورة الدم الكاملة (CBC). إذا كان الهيموغلوبين منخفضا والخلايا الحمراء صغيرة وشاحبة، فإن السبب غالبا نقص الحديد. لتأكيد ذلك يُطلب تحليل الفيريتين (Ferritin)، وهو المؤشر الأدق لمخزون الحديد في الجسم.",
+            "أعراض فقر الدم في الحمل قد تتشابه مع أعراض الحمل الاعتيادية، مما يُصعّب التمييز بينهما. التعب وضيق التنفس أثناء الصعود على الدرج أو حمل أشياء ثقيلة، والشعور بدوار عند الوقوف بسرعة، والصداع المتكرر، كلها قد تشير إلى فقر دم أو تكون طبيعية في الحمل. لهذا يبقى التحليل المخبري الوسيلة الوحيدة للتأكد."
+          ],
+          "visual": {
+            "type": "range-scale",
+            "title": "مستوى الهيموغلوبين (Hb) في الحمل",
+            "label": "Hb",
+            "unit": "غ/ديسيلتر",
+            "min": 7,
+            "max": 14,
+            "zones": [
+              {"to": 9, "tone": "bad", "label": "شديد"},
+              {"to": 10.5, "tone": "warn", "label": "معتدل"},
+              {"to": 11, "tone": "warn", "label": "خفيف"},
+              {"to": 14, "tone": "good", "label": "طبيعي"}
+            ],
+            "source": "WHO: Haemoglobin concentrations for the diagnosis of anaemia, WHO/NMH/NHD/MNM/11.1, 2011"
+          }
+        },
+        {
+          "h2": "لماذا يكثر فقر الدم في الحمل في منطقتنا؟",
+          "paras": [
+            "تحتاج المرأة الحامل إلى الحديد بكميات أكبر بكثير مما كانت تحتاجه قبل الحمل، لأن الجسم يبني دما إضافيا لها وللجنين، وينمو الجنين نفسه ويخزن الحديد في كبده استعدادا للأشهر الستة الأولى بعد الولادة. هذه الاحتياجات المرتفعة لا تكفيها الوجبات وحدها في أغلب الحالات.",
+            "دراسة نشرت في مجلة BMC Public Health عام 2024 على حوامل أردنيات وجدت أن ضعف التنوع الغذائي يرتبط بارتفاع معدل فقر الدم الناجم عن نقص الحديد. الوجبات الغنية بالخبز والنشويات مع شُح البروتين الحيواني والخضروات الورقية تزيد الخطر.",
+            "إضافة إلى ذلك، الولادات المتقاربة لا تعطي الجسم وقتا كافيا لاستعادة مخزونه من الحديد بين حمل وآخر. كثير من النساء في المنطقة يدخلن الحمل وهن أصلا يعانين من مخزون حديد منخفض، حتى لو لم يكن الهيموغلوبين منخفضا بعد.",
+            "الوضع الاقتصادي وصعوبة الوصول إلى الرعاية الصحية المنتظمة يُعقّدان المشهد أكثر. بعض النساء لا يُجرين تحاليل الحمل المعتادة في المواعيد المقررة، فيُكتشف فقر الدم متأخرا في الثلاثية الثالثة حين يكون العلاج أصعب وأسرع حاجة. في هذه الحالات يكون الحديد الوريدي أسرع في الفائدة من الفموي."
+          ]
+        },
+        {
+          "h2": "ما الفرق بين نقص الحديد وفقر الدم بنقص الحديد؟",
+          "paras": [
+            "نقص الحديد وفقر الدم بنقص الحديد ليسا الشيء نفسه. يمكن أن يكون مخزون الحديد منخفضا والهيموغلوبين لا يزال ضمن الحدود الطبيعية. هذه المرحلة تسمى نقص الحديد دون فقر دم، وهي قابلة للتشخيص فقط بتحليل الفيريتين.",
+            "في الحمل، يُعدّ الفيريتين أقل من 30 نانوغرام/ملليلتر مؤشرا على نضوب مخزون الحديد، حتى لو كان الهيموغلوبين لا يزال فوق الحد. كثير من الطبيبات يبدأن العلاج عند هذا المستوى لأن الحاجة سترتفع مع تقدم الحمل.",
+            "لمن لديها ثلاسيميا طفيفة (Thalassaemia Minor)، قد تكون خلايا الدم صغيرة وشاحبة بشكل طبيعي وليس بسبب نقص الحديد. تمييز الحالتين يحتاج إلى تحليل الهيموغلوبين الكهربائي (Hb Electrophoresis). إعطاء الحديد لشخصة لديها ثلاسيميا طفيفة وليس لديها نقص حقيقي في الحديد لا يفيد ولا يضر بشكل مباشر، لكنه يُضيّع الوقت."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "مؤشرات تشخيص فقر الدم بنقص الحديد",
+            "head": ["التحليل", "طبيعي", "منخفض يستدعي التدخل"],
+            "rows": [
+              ["Hb (الثلاثية الأولى والثالثة)", "11 غ/دل أو أكثر", "أقل من 11 غ/دل"],
+              ["Hb (الثلاثية الثانية)", "10.5 غ/دل أو أكثر", "أقل من 10.5 غ/دل"],
+              ["Ferritin (فيريتين)", "30 نانوغرام/مل أو أكثر", "أقل من 30 نانوغرام/مل"]
+            ]
+          }
+        },
+        {
+          "h2": "كيف تأخذين الحديد الفموي ليُمتص بشكل صحيح؟",
+          "paras": [
+            "الحديد الفموي متوفر في صيدليات المنطقة بأشكال متعددة: كبريتات الحديدوز (Ferrous Sulphate) وغلوكونات الحديدوز (Ferrous Gluconate) وبيس غليسينات الحديد (Ferrous Bisglycinate). الشكل الأخير يتحمله المعدة أفضل من الأول، لكن الأول أرخص وأوسع انتشارا.",
+            "الخطأ الأكثر شيوعا هو تناول قرص الحديد مع كوب شاي أو مع وجبة الإفطار التي تحتوي على حليب أو قهوة. هذه المشروبات تربط الحديد في المعدة وتمنع امتصاصه. الوقت الأمثل لتناول الحديد هو على معدة فارغة قبل الوجبة بنحو ساعة، ومع عصير البرتقال أو أي مصدر لفيتامين C لأنه يزيد الامتصاص.",
+            "مراجعة منهجية نشرتها مجلة Cochrane عام 2024 تُظهر أن الحديد اليومي خلال الحمل يُحسّن مستويات الهيموغلوبين ويُقلل خطر الولادة بوزن منخفض. بعض الدراسات تُشير إلى أن الجرعة كل يوم بدلا من يوميا قد تُقلل الآثار الجانبية المعدية مع الحفاظ على الفائدة، وهذا قرار تتخذه طبيبتك بناء على حالتك."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "الطريقة الصحيحة لأخذ الحديد الفموي",
+            "items": [
+              "تناولي الحديد على معدة فارغة قبل الوجبة بساعة إن أمكن",
+              "اشربيه مع عصير البرتقال أو أي مشروب غني بفيتامين C",
+              "تجنبي الشاي والقهوة والحليب قبل وبعد الحديد بساعتين",
+              "لا تأخذي الحديد مع مكملات الكالسيوم في نفس الوقت، بينهما فارق ساعتين",
+              "الغازات والإمساك طبيعيان، شربي ماءً أكثر وكُلي خضروات وفاكهة"
+            ]
+          }
+        },
+        {
+          "h2": "ماذا تأكلين لتدعمي مستويات الحديد؟",
+          "paras": [
+            "الحديد يأتي من نوعين من المصادر الغذائية: الحديد الهيمي (Heme Iron) الموجود في اللحوم والدواجن والأسماك، والحديد غير الهيمي (Non-heme Iron) في البقوليات والخضروات الورقية والبيض. الحديد الهيمي يُمتص بشكل أسرع وأكثر من غير الهيمي، لذلك تناول كبد الدجاج أو البقر مرة أو مرتين في الأسبوع مفيد جدا للحامل.",
+            "لمن لا تأكل اللحوم، يمكن تعزيز امتصاص الحديد النباتي بإضافة ليمون أو طماطم أو فلفل إلى الوجبة. العدس والحمص والسبانخ والملوخية كلها مصادر جيدة، لكنها لا تعوّض ما قد تحتاجه من مكمل، خاصة في الثلاثيتين الثانية والثالثة.",
+            "في المقابل، هناك أطعمة تُعيق امتصاص الحديد إذا أُكلت معه: الشاي الأسود والأخضر يحتويان على مواد تُربط بالحديد وتُقلل امتصاصه بشكل ملحوظ. الشاي جزء لا يتجزأ من الثقافة الغذائية في المنطقة، وتجنبه كليا ليس واقعيا، لكن تأخيره ساعتين بعد وجبة الحديد الغنية أمر ممكن.",
+            "كربونات الكالسيوم ومكملات الكالسيوم الشائعة كذلك تتنافس مع الحديد على نفس قناة الامتصاص. إذا كانت طبيبتك تُوصي بكالسيوم ووقاية من فقر الدم معا، فالحل البسيط هو تناول الحديد في الصباح على معدة فارغة والكالسيوم في المساء مع الطعام. هذا الترتيب البسيط يُحسّن امتصاص كليهما."
+          ]
+        },
+        {
+          "h2": "متى يُصبح الحديد الوريدي خيارا؟",
+          "paras": [
+            "في بعض الحالات، الحديد الفموي لا يكفي أو لا يُمكن تحمّله. دراسة عشوائية محكومة نُشرت في American Journal of Perinatology عام 2022 وجدت أن الحديد الوريدي يرفع مستوى الهيموغلوبين بشكل أسرع من الفموي، وهو الخيار الأكثر فائدة حين يكون فقر الدم شديدا أو حين اقترب موعد الولادة.",
+            "يُنصح بالحديد الوريدي عادة حين يكون الهيموغلوبين أقل من 8 إلى 9 غ/ديسيلتر، أو حين لم يستجب الهيموغلوبين للحديد الفموي بعد أربعة أسابيع، أو حين لا تُطيق المرأة الأعراض الجانبية للحديد الفموي. إجراؤه آمن في الثلاثيتين الثانية والثالثة، وتُشير الدراسات إلى سلامته الجيدة.",
+            "أشكاله المتاحة تشمل فيريك كاربوكسيمالتوز (Ferric Carboxymaltose) وساكروز الحديد (Iron Sucrose). الاختيار بينها يعتمد على ما هو متوفر في المستشفى أو العيادة وعلى رأي الطبيب. الحقنة الوريدية تُعطى في عيادة أو مستشفى مع متابعة قصيرة للتأكد من عدم وجود أي تفاعل."
+          ]
+        },
+        {
+          "h2": "ما مخاطر فقر الدم الشديد على أمي وطفلي؟",
+          "paras": [
+            "فقر الدم الخفيف المُعالَج لا يترك عواقب طويلة الأمد في الغالب. لكن فقر الدم الشديد غير المعالج يزيد خطر الولادة قبل الأوان، وانخفاض وزن المولود، وتعب الأم الشديد الذي يُصعّب تحمّل الولادة والرضاعة لاحقا.",
+            "مراجعة نُشرت في Annals of Hematology عام 2024 تُبيّن أن فقر الدم الشديد في الثلاثية الثالثة يرتبط بانخفاض الأكسجين الواصل للجنين، وهو ما يُؤثر على نموه. إضافة إلى ذلك، المخزون الذي يبنيه الجنين خلال الحمل هو ما يُغذيه في الأشهر الستة الأولى من عمره قبل أن يبدأ الطعام الصلب.",
+            "النساء اللواتي يدخلن غرفة الولادة وهن يعانين من فقر دم شديد يكن أكثر عرضة للحاجة إلى نقل دم حال تعرضهن لنزيف الولادة المعتاد. لهذا السبب تهتم طبيبة التوليد بمعالجة فقر الدم قبل الأسبوع 36 على الأقل."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "اطلبي رأي طبيبتك فورا إذا",
+            "items": [
+              "شعرتِ بضيق شديد في التنفس أثناء أي نشاط بسيط",
+              "أُغمي عليكِ أو شعرتِ بإغماء وشيك",
+              "نبضك أسرع من المعتاد حتى في الراحة",
+              "الهيموغلوبين أقل من 8 غ/ديسيلتر في أي وقت من الحمل",
+              "لم يتحسن الهيموغلوبين بعد أربعة أسابيع من أخذ الحديد الفموي"
+            ]
+          }
+        },
+        {
+          "h2": "كيف تتابعين العلاج وتتأكدين من التحسن؟",
+          "paras": [
+            "بعد بدء علاج الحديد الفموي، يُتوقع ارتفاع الهيموغلوبين بمقدار نحو 1 إلى 2 غ/ديسيلتر كل أربعة أسابيع في الحالات الاستجابية. طبيبتك ستُعيد تحليل الدم بعد شهر من بدء العلاج للتأكد من هذا التحسن. إذا لم يتحسن الرقم بالقدر المتوقع، ستُراجع السبب: هل الجرعة كافية، هل تأخذينه بالطريقة الصحيحة، هل هناك سبب آخر لفقر الدم لم يُشخَّص بعد.",
+            "بعد الولادة، تستمر الحاجة إلى الحديد للتعويض عن الدم المفقود أثناءها وللرضاعة. كثير من الطبيبات يُوصين باستمرار مكمل الحديد ثلاثة أشهر على الأقل بعد الولادة إذا كانت المرأة قد عانت من فقر دم خلال الحمل.",
+            "في المناطق التي لا تتوفر فيها خدمات طبية منتظمة، إحضار نتائج تحليل الدم إلى أي مركز صحي متاح لتفسيرها خطوة مهمة. لا تعتمدي على اللون وحده، لأن شُحوب الوجه أو اصفرار الجفون قد يظهران فقط عند انخفاض الهيموغلوبين بشكل ملحوظ، وليس في المراحل الأولى من فقر الدم.",
+            "إذا كنت في منطقة لا تتوفر فيها مختبرات دقيقة، من المهم أن تعرفي أن بعض المختبرات الصغيرة قد لا تُجري تحليل الفيريتين بدقة كافية. في هذه الحالة، الاعتماد على صورة الدم الكاملة ونتيجة العلاج بعد الشهر الأول يبقى طريقة عملية للتحقق من الاستجابة."
+          ]
+        },
+        {
+          "h2": "أسئلة تستحق النقاش مع طبيبتك في أقرب زيارة",
+          "paras": [
+            "كثير من النساء يُجرين تحليل الهيموغلوبين دون أن يعرفن ما إذا كان الفيريتين قد طُلب أيضا. اسألي طبيبتك بوضوح: هل طُلب تحليل الفيريتين؟ هل نتيجتي تستدعي بدء علاج أم الانتظار؟ هل جرعة الحديد التي أتناولها كافية لحالتي؟",
+            "إذا كنت قد بدأت الحديد من قبل ولاحظتِ عدم تحسن الأعراض، أو إذا كانت الآثار الجانبية تجعلك تُقلّلين الجرعة دون إخبار طبيبتك، فهذا ما يجب قوله بصراحة. العلاج المقطوع أو المُخفَّف لا يُعطي نتيجة، وطبيبتك قادرة على إيجاد خيار أنسب إذا عرفت الصورة الكاملة.",
+            "للنساء اللواتي يُخططن لحمل مستقبلي: إذا عانيتِ من فقر دم في هذا الحمل، الأفضل أن تتأكدي من اكتمال علاجه وارتداد الفيريتين لمستوياته الطبيعية قبل الحمل التالي. هذا يمنحك بداية أقوى وتقلل احتمال تكرار نفس المشكلة مبكرا في الحمل القادم."
+          ],
+          "visual": {
+            "type": "stats",
+            "items": [
+              {"value": "27 ملغ", "label": "الحاجة اليومية من الحديد في الحمل", "tone": "info"},
+              {"value": "11 غ/دل", "label": "حد فقر الدم في الثلاثية الأولى والثالثة", "tone": "warn"},
+              {"value": "4 أسابيع", "label": "الوقت المتوقع لرفع Hb بالحديد الفموي", "tone": "neutral"}
+            ]
+          }
+        }
+      ],
+      "tie": "تطبيق Sihtak يساعدك على تسجيل نتائج تحاليل الدم ومتابعة تغيراتها خلال الحمل، حتى تكوني مستعدة لكل زيارة للطبيبة بالأرقام كاملة.",
+      "faqs": [
+        {
+          "q": "ما هو الحد الطبيعي للهيموغلوبين (Hb) في الحمل؟",
+          "a": "الحد الطبيعي يختلف حسب الثلاثية: في الثلاثية الأولى والثالثة يُعدّ الهيموغلوبين طبيعيا إذا كان 11 غ/ديسيلتر أو أكثر، وفي الثلاثية الثانية 10.5 غ/ديسيلتر أو أكثر. هذه الأرقام أقل من حدود فقر الدم خارج الحمل لأن حجم الدم يزداد طبيعيا في الحمل. اقرئي النتيجة دائما مع الحد المطبوع على ورقة المختبر الخاص بك."
+        },
+        {
+          "q": "هل يكفي أن آكل الحديد من الطعام دون مكملات؟",
+          "a": "في الحمل، الاحتياج اليومي من الحديد يرتفع إلى 27 ملغ في اليوم، وهو رقم يصعب الوصول إليه من الطعام وحده خاصة في الثلاثيتين الثانية والثالثة. الطعام الغني بالحديد ضروري ومفيد، لكن معظم الإرشادات الدولية تُوصي بمكمل الحديد لجميع الحوامل، وليس فقط اللواتي يُشخَّص لديهن فقر دم."
+        },
+        {
+          "q": "لماذا يُسبب الحديد الفموي إمساكا وغثيانا؟",
+          "a": "الحديد غير الممتص يُهيّج بطانة المعدة والأمعاء، مما يُسبب غثيانا وإمساكا وأحيانا براز داكن اللون. تناوله مع الطعام يُقلل الغثيان لكن يُقلل الامتصاص أيضا. تغيير شكل الحديد إلى بيس غليسينات (Bisglycinate) أو أخذ الجرعة كل يوم بدلا من يوميا يُقلل هذه الأعراض، وهذا قرار تناقشيه مع طبيبتك."
+        },
+        {
+          "q": "هل الحديد الوريدي آمن في الحمل؟",
+          "a": "نعم، الحديد الوريدي آمن في الثلاثيتين الثانية والثالثة، ودراسات عديدة أثبتت سلامته. يُعطى في عيادة أو مستشفى ويستغرق من 15 دقيقة إلى ساعة حسب النوع. يُفضَّل تجنبه في الثلاثية الأولى لأن البيانات في تلك المرحلة أقل."
+        },
+        {
+          "q": "هل يُمكن أن أعاني من نقص الحديد حتى لو كان الهيموغلوبين طبيعيا؟",
+          "a": "نعم. مخزون الحديد (الفيريتين) قد ينخفض قبل أن يتأثر الهيموغلوبين. هذه المرحلة تُسبب تعبا وضعفا وصعوبة في التركيز دون أن يظهر فقر دم في تحليل صورة الدم. تحليل الفيريتين هو الطريقة الوحيدة للكشف عن هذه الحالة."
+        },
+        {
+          "q": "كيف أعرف إذا كان فقر دمي من الثلاسيميا أم نقص الحديد؟",
+          "a": "كلاهما يُعطي خلايا دم حمراء صغيرة في صورة الدم الكاملة. التمييز يحتاج إلى تحليل الفيريتين وتحليل الهيموغلوبين الكهربائي (Hb Electrophoresis). إذا كنت تعرفين أنك تحملين صفة الثلاسيميا، أخبري طبيبتك من البداية حتى لا تُعطي حديدا غير ضروري."
+        },
+        {
+          "q": "هل فقر الدم يُؤثر على الطفل بعد الولادة؟",
+          "a": "إذا عانت الأم من فقر دم شديد خلال الحمل، قد يولد الطفل بمخزون حديد منخفض أيضا. هذا يزيد خطر إصابته بفقر دم في الأشهر الأولى. طبيبة الأطفال ستتابع مستوياته وقد تُوصي بمكمل مبكر إذا كانت هناك مخاوف."
+        }
+      ]
+    },
+    "en": {
+      "title": "Anaemia in Pregnancy: Iron, Testing and Treatment",
+      "desc": "Anaemia in pregnancy is very common across the Middle East. Learn the haemoglobin thresholds by trimester, how to take oral iron correctly, and when an infusion is needed.",
+      "keywords": "anaemia pregnancy, iron deficiency pregnancy, haemoglobin pregnancy, iron supplement pregnancy, oral iron pregnancy, intravenous iron pregnancy, pregnancy blood test, ferritin pregnancy",
+      "h1": "Anaemia in Pregnancy: Haemoglobin Thresholds, Iron Supplements and When to Escalate",
+      "takeaways": [
+        "Pregnancy anaemia is diagnosed when haemoglobin (Hb) falls below 11 g/dL in the first and third trimesters, or below 10.5 g/dL in the second.",
+        "Iron deficiency is the most common cause. Ferritin (Ferritin) is the best test for iron stores and can show depletion before the haemoglobin falls.",
+        "Oral iron absorbs best on an empty stomach with a source of vitamin C. Tea, coffee and milk all block absorption.",
+        "A 2024 Cochrane review confirms that daily oral iron in pregnancy improves haemoglobin and reduces the risk of low birthweight.",
+        "When oral iron fails or anaemia is severe, intravenous iron is safe from the second trimester and raises haemoglobin faster."
+      ],
+      "sections": [
+        {
+          "h2": "What is pregnancy anaemia and how is it diagnosed?",
+          "paras": [
+            "Anaemia in pregnancy means that the red cells in your blood are insufficient to carry enough oxygen for you and your growing baby. Iron deficiency is by far the most common reason, but deficiencies in folic acid or vitamin B12, and inherited conditions such as thalassaemia, can also be responsible.",
+            "The World Health Organization defines pregnancy anaemia as haemoglobin below 11 g/dL in the first and third trimesters, and below 10.5 g/dL in the second. These thresholds are lower than those used outside pregnancy because blood volume naturally expands during pregnancy, which dilutes the haemoglobin concentration.",
+            "Diagnosis starts with a full blood count (CBC). If the haemoglobin is low and the red cells are small and pale, iron deficiency is the likely cause. A ferritin test confirms whether iron stores are truly depleted, because ferritin is the most sensitive marker of stored iron, and it can fall weeks before the haemoglobin does."
+          ],
+          "visual": {
+            "type": "range-scale",
+            "title": "Haemoglobin (Hb) in Pregnancy",
+            "label": "Hb",
+            "unit": "g/dL",
+            "min": 7,
+            "max": 14,
+            "zones": [
+              {"to": 9, "tone": "bad", "label": "Severe"},
+              {"to": 10.5, "tone": "warn", "label": "Moderate"},
+              {"to": 11, "tone": "warn", "label": "Mild"},
+              {"to": 14, "tone": "good", "label": "Normal"}
+            ],
+            "source": "WHO: Haemoglobin concentrations for the diagnosis of anaemia, WHO/NMH/NHD/MNM/11.1, 2011"
+          }
+        },
+        {
+          "h2": "Why is pregnancy anaemia so common in the region?",
+          "paras": [
+            "Pregnancy sharply increases the body's demand for iron: the mother's blood volume expands by around 50 percent, and the growing fetus draws on maternal stores to build its own supply, which will sustain it through the first six months of life before solid foods begin. This demand is very hard to meet through diet alone.",
+            "A 2024 study published in BMC Public Health examining Jordanian pregnant women found that low dietary diversity was directly linked to higher rates of iron deficiency anaemia. Diets heavy in bread and starches with limited animal protein and leafy green vegetables put women at particular risk, and this dietary pattern is common across much of the region.",
+            "Closely spaced pregnancies compound the problem. Each pregnancy draws heavily on iron stores, and if the gap between births is short, the mother may enter the next pregnancy already depleted, even if her haemoglobin appears normal on a routine test.",
+            "Economic pressures and limited access to regular antenatal care further complicate matters. When blood tests are missed or delayed, anaemia is sometimes discovered late in the third trimester, when there is less time for oral iron to work and intravenous treatment becomes the more practical choice. This is a common scenario in settings where lab access is limited or costs are a barrier."
+          ]
+        },
+        {
+          "h2": "Iron deficiency versus iron deficiency anaemia: what is the difference?",
+          "paras": [
+            "Iron deficiency and iron deficiency anaemia are not the same thing, and the distinction matters. Stores can be depleted while haemoglobin still appears in the normal range. This stage, sometimes called latent iron deficiency, causes fatigue, poor concentration and reduced exercise tolerance, but it will not appear as anaemia on a standard blood count.",
+            "In pregnancy, a ferritin level below 30 nanograms per millilitre is generally considered evidence of depleted stores, even if haemoglobin is still above the threshold. Many clinicians start treatment at this point because demand will only rise as pregnancy progresses.",
+            "Women who carry the thalassaemia trait (Thalassaemia Minor) will have small, pale red cells even when iron stores are normal. Distinguishing the two conditions requires haemoglobin electrophoresis (Hb Electrophoresis). If you know you carry the trait, tell your doctor before any treatment is prescribed, so the right test is done first."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Key tests for iron deficiency in pregnancy",
+            "head": ["Test", "Normal", "Action threshold"],
+            "rows": [
+              ["Hb (1st and 3rd trimester)", "11 g/dL or above", "Below 11 g/dL"],
+              ["Hb (2nd trimester)", "10.5 g/dL or above", "Below 10.5 g/dL"],
+              ["Ferritin", "30 ng/mL or above", "Below 30 ng/mL"]
+            ]
+          }
+        },
+        {
+          "h2": "How to take oral iron so it actually works",
+          "paras": [
+            "Oral iron comes in several forms: ferrous sulphate (Ferrous Sulphate) is the most widely available and cheapest, while ferrous bisglycinate (Ferrous Bisglycinate) causes fewer stomach side effects and is easier to tolerate. Your doctor or pharmacist will advise which is available locally and appropriate for you.",
+            "The single most important thing you can do is get the timing right. Iron taken on an empty stomach an hour before a meal, with a glass of orange juice or any other vitamin C source, absorbs far better than iron taken with food. Tea, coffee, cow's milk and calcium supplements all bind to iron in the gut and can cut absorption dramatically. If a cup of tea is part of your morning routine, which it is for many women in the region, try to leave at least two hours between the tea and the iron.",
+            "A 2024 Cochrane systematic review of daily oral iron supplementation in pregnancy confirms improved haemoglobin levels and a lower risk of low birthweight in supplemented women. Some evidence suggests that taking iron every other day rather than daily reduces gastrointestinal side effects while preserving most of the benefit, but this schedule should be agreed with your doctor."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "How to take oral iron correctly",
+            "items": [
+              "Take iron on an empty stomach, about one hour before a meal if possible",
+              "Take it with orange juice or another vitamin C source to improve absorption",
+              "Avoid tea, coffee and milk for at least two hours before and after your iron tablet",
+              "Do not take iron at the same time as calcium supplements; leave a two-hour gap",
+              "Dark stools and constipation are normal; drink more water and eat fruit and vegetables"
+            ]
+          }
+        },
+        {
+          "h2": "Which foods support iron levels during pregnancy?",
+          "paras": [
+            "Dietary iron comes in two forms. Haem iron (Heme Iron), found in red meat, poultry and fish, is the most readily absorbed. Chicken liver and beef liver are among the richest sources and are widely available and affordable across the region. Non-haem iron (Non-heme Iron), found in lentils, chickpeas, spinach, and eggs, absorbs less efficiently but still contributes meaningfully to your total intake, particularly when eaten alongside a vitamin C source.",
+            "Practical combinations worth building into your meals include lentil soup with a squeeze of lemon, eggs with tomatoes, and hummus with fresh parsley. Adding these to the main meal rather than relying on supplements alone helps, though in most cases supplementation is still necessary to meet the higher demands of the second and third trimesters.",
+            "The foods most worth limiting around iron-rich meals are black and green tea, which contain tannins that bind iron in the gut. This does not mean cutting out tea entirely, but simply timing your cup so it does not coincide with your iron-richest meal of the day.",
+            "Calcium supplements are another common source of interference. If your doctor has recommended both calcium and iron, the simplest fix is to take iron first thing in the morning on an empty stomach and calcium in the evening with food. This small scheduling change improves absorption of both without adding any cost or complexity."
+          ]
+        },
+        {
+          "h2": "When is intravenous iron the right choice?",
+          "paras": [
+            "For some women, oral iron is not enough or cannot be tolerated. A randomised controlled trial published in the American Journal of Perinatology in 2022 found that intravenous iron raised haemoglobin faster than oral iron, making it the preferred option when anaemia is severe or when delivery is approaching and there is not enough time for oral supplementation to work.",
+            "Intravenous iron is generally considered when haemoglobin falls below 8 to 9 g/dL, when haemoglobin has not improved after four weeks of oral iron taken correctly, or when side effects from oral iron are intolerable. It is given in a clinic or hospital setting with a short period of observation, and it is considered safe from the second trimester onwards.",
+            "Commonly available forms include ferric carboxymaltose (Ferric Carboxymaltose) and iron sucrose (Iron Sucrose). The choice depends on what is available locally and your clinical situation. The infusion usually takes between 15 minutes and one hour depending on the formulation used."
+          ]
+        },
+        {
+          "h2": "What are the risks of severe untreated anaemia?",
+          "paras": [
+            "Mild anaemia that is detected and treated early carries very little long-term risk. Severe untreated anaemia is a different matter. A 2024 review in Annals of Hematology reports that severe iron deficiency anaemia in pregnancy is associated with preterm birth, low birthweight and impaired oxygen delivery to the fetus, which can affect neurological development.",
+            "There is also a risk to the mother. Women who enter delivery room with severe anaemia have much less reserve to handle normal blood loss during childbirth. Even a routine delivery involves some blood loss, and this can push an already anaemic woman into a dangerous range quickly, sometimes requiring a blood transfusion.",
+            "This is why most obstetric guidelines aim to have haemoglobin above 10 g/dL by at least 36 weeks of pregnancy, giving enough time to build stores before delivery."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "See your doctor urgently if you have",
+            "items": [
+              "Severe breathlessness with any light activity",
+              "Fainting or feeling close to fainting",
+              "Heart racing even at rest",
+              "Haemoglobin below 8 g/dL at any stage of pregnancy",
+              "No improvement in haemoglobin after four weeks of oral iron"
+            ]
+          }
+        },
+        {
+          "h2": "Monitoring treatment and knowing when you have improved",
+          "paras": [
+            "After starting oral iron, haemoglobin is expected to rise by about 1 to 2 g/dL every four weeks in women who are responding. Your doctor will recheck your blood count after a month to confirm this improvement. If it has not moved, the reasons to consider include whether you are taking the iron correctly, whether the dose is adequate, or whether there is a second cause of anaemia that has not yet been identified.",
+            "After delivery, iron stores need to recover from the blood lost during childbirth and from the demands of breastfeeding. Many doctors recommend continuing an iron supplement for at least three months after delivery in women who had anaemia during pregnancy.",
+            "In areas where regular clinic access is difficult, bringing your blood test result to any available health centre for interpretation is an important step. Do not rely on pallor or tiredness alone to judge your own levels. Pallor of the inner eyelids, a common sign of anaemia, only becomes visible when haemoglobin is already quite low, by which point the stores have been depleted for some time.",
+            "If you have access to a haemoglobin meter or a community health worker who can do point-of-care testing, this can be useful for interim monitoring between full laboratory visits. These devices are not as accurate as a full blood count done in a properly equipped laboratory, but they are better than no monitoring at all, and can guide the decision on whether a full test is needed urgently."
+          ]
+        },
+        {
+          "h2": "Questions worth raising at your next appointment",
+          "paras": [
+            "Many women have a haemoglobin checked without knowing whether ferritin was also measured. It is worth asking your doctor directly: has my ferritin been checked? Is my current haemoglobin level one that needs treatment, or is it within an acceptable range for this trimester? Is the iron dose I have been given appropriate for how low my stores are?",
+            "If you have tried iron supplements before and found the side effects difficult, or if you have been quietly reducing your dose without telling your doctor because of nausea or constipation, this is important information to share. A dose that is halved or skipped frequently will not produce the expected rise, and your doctor can offer alternatives, whether a gentler form of iron, a different dosing schedule, or a switch to intravenous therapy.",
+            "For women planning a future pregnancy, it is worth checking that iron stores have fully recovered before conceiving again. A ferritin test three to six months after delivery gives a clear picture of where you stand. Entering the next pregnancy with replenished stores reduces the risk of going through the same pattern of anaemia in the early second trimester, when demand rises fastest.",
+            "Finally, if your family has a history of thalassaemia, sickle cell anaemia or other inherited blood conditions, let your midwife or obstetrician know even if you have not had genetic testing. These conditions interact with iron status in ways that change the treatment approach, and it is much better to have the right workup early than to discover the diagnosis after several months of iron treatment that was not needed."
+          ],
+          "visual": {
+            "type": "stats",
+            "items": [
+              {"value": "27 mg", "label": "daily iron requirement in pregnancy", "tone": "info"},
+              {"value": "11 g/dL", "label": "haemoglobin threshold in 1st and 3rd trimester", "tone": "warn"},
+              {"value": "4 weeks", "label": "time to see Hb rise with oral iron", "tone": "neutral"}
+            ]
+          }
+        }
+      ],
+      "tie": "Use the Sihtak app to log your blood test results and track them across trimesters, so you arrive at every antenatal appointment with your numbers ready.",
+      "faqs": [
+        {
+          "q": "What haemoglobin level is normal in pregnancy?",
+          "a": "The WHO defines anaemia in pregnancy as haemoglobin below 11 g/dL in the first and third trimesters, and below 10.5 g/dL in the second. These thresholds are lower than those used outside pregnancy because blood volume naturally rises during pregnancy. Always read your result alongside the reference range printed by your specific laboratory."
+        },
+        {
+          "q": "Can I get enough iron from food alone without a supplement?",
+          "a": "In pregnancy the daily iron requirement rises to around 27 mg per day, which is very difficult to reach from food alone, particularly in the second and third trimesters. Iron-rich foods are important and should be part of every meal, but most international guidelines recommend an iron supplement for all pregnant women, not only those already diagnosed with anaemia."
+        },
+        {
+          "q": "Why does oral iron cause constipation and nausea?",
+          "a": "Unabsorbed iron irritates the lining of the stomach and bowel, which is why nausea, constipation and dark stools are common side effects. Taking iron with food reduces nausea but also reduces absorption. Switching to ferrous bisglycinate, or taking the supplement every other day instead of daily, often eases these symptoms without significantly reducing effectiveness. Discuss the options with your doctor."
+        },
+        {
+          "q": "Is intravenous iron safe during pregnancy?",
+          "a": "Yes. Intravenous iron is well studied in pregnancy and is considered safe from the second trimester. It is given in a clinic or hospital and usually takes 15 to 60 minutes. Avoidance in the first trimester is recommended because there are fewer data on safety in that window, not because there is evidence of harm."
+        },
+        {
+          "q": "Can I be iron deficient even if my haemoglobin is normal?",
+          "a": "Yes. Ferritin, which reflects stored iron, can fall well before haemoglobin does. This stage causes fatigue, poor concentration and breathlessness without showing up as anaemia on a blood count. A ferritin test is the only way to detect it."
+        },
+        {
+          "q": "How do I know if my anaemia is from thalassaemia or iron deficiency?",
+          "a": "Both conditions produce small red cells on a full blood count, so they can look identical at first. The tests that distinguish them are a ferritin level and haemoglobin electrophoresis (Hb Electrophoresis). If you know you carry the thalassaemia trait, tell your doctor at the first antenatal visit so the right workup is done before any treatment is prescribed."
+        },
+        {
+          "q": "Does pregnancy anaemia affect my baby after birth?",
+          "a": "If a mother has severe anaemia during the third trimester, the baby may be born with lower iron stores than normal. This increases the risk of anaemia in the first months of life. Your paediatrician will monitor the baby's iron levels and may recommend a supplement earlier than usual if there are concerns."
+        }
+      ]
+    }
+  }
+}

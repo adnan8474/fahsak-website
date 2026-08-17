@@ -1,0 +1,384 @@
+{
+  "slug": "coagulation-tests-inr-pt-ptt",
+  "category": "lab-tests",
+  "chip_ar": "فهم التحاليل",
+  "chip_en": "Understanding Lab Tests",
+  "date_iso": "2026-07-14",
+  "sources": [
+    {"label": "Dorgalaleh A, Favaloro EJ, Bahraini M et al: Standardization of Prothrombin Time/International Normalized Ratio (PT/INR), International journal of laboratory hematology, 2021", "url": "https://pubmed.ncbi.nlm.nih.gov/32979036/"},
+    {"label": "Winter WE, Flax SD, Harris NS et al: Coagulation Testing in the Core Laboratory, Laboratory medicine, 2017", "url": "https://pubmed.ncbi.nlm.nih.gov/29126301/"},
+    {"label": "Violi F, Lip GY, Pignatelli P et al: Interaction Between Dietary Vitamin K Intake and Anticoagulation by Vitamin K Antagonists: Is It Really True?: A Systematic Review, Medicine, 2016", "url": "https://pubmed.ncbi.nlm.nih.gov/26962786/"},
+    {"label": "Makris M, van Veen JJ, Maclean R et al: Warfarin anticoagulation reversal: management of the asymptomatic and bleeding patient, Journal of thrombosis and thrombolysis, 2010", "url": "https://pubmed.ncbi.nlm.nih.gov/19882303/"},
+    {"label": "Lip GY, Frison L, Halperin JL et al: Comparative validation of a novel risk score for predicting bleeding risk in anticoagulated patients with atrial fibrillation: the HAS-BLED score, Journal of the American College of Cardiology, 2011", "url": "https://pubmed.ncbi.nlm.nih.gov/21111555/"},
+    {"label": "Al-Eitan LN, Almasri AY, Alnaamneh AH et al: Influence of CYP4F2, ApoE, and CYP2A6 gene polymorphisms on the variability of Warfarin dosage requirements in Jordan, International journal of medical sciences, 2021", "url": "https://pubmed.ncbi.nlm.nih.gov/33437219/"},
+    {"label": "Shaw JR, Kaplovitch E, Douketis J et al: Periprocedural Management of Oral Anticoagulation, The Medical clinics of North America, 2020", "url": "https://pubmed.ncbi.nlm.nih.gov/32505262/"}
+  ],
+  "content": {
+    "ar": {
+      "title": "PT وINR وPTT: فهم تحاليل تخثر الدم",
+      "desc": "دليل واضح لقراءة تحاليل تخثر الدم PT وINR وaPTT: المعدل الطبيعي، وأهداف INR لمرضى الوارفارين، وما يؤثر على النتائج، ومتى تستدعي الطوارئ.",
+      "keywords": "تحليل INR, وارفارين, PT زمن البروثرومبين, aPTT, تخثر الدم, مضادات التخثر, جلطة, نزيف, تحاليل التخثر",
+      "h1": "PT وINR وaPTT: كيف تقرأ تحاليل تخثر دمك",
+      "takeaways": [
+        "PT يقيس زمن تخثر الدم عبر المسار الخارجي، وINR هو توحيد دولي لهذه النتيجة يتيح مقارنتها بين المختبرات.",
+        "aPTT يقيس المسار الداخلي ويستخدم لمراقبة جرعة الهيبارين في المستشفى.",
+        "لمرضى الوارفارين، يختلف هدف INR حسب السبب: 2.0 إلى 3.0 لمعظم الحالات، و2.5 إلى 3.5 لصمامات القلب الاصطناعية.",
+        "الأطعمة الغنية بفيتامين K كالخضروات الورقية وبعض الأدوية قد ترفع أو تخفض INR بشكل مفاجئ.",
+        "نزيف غير طبيعي أو INR مرتفع جدا يستدعي التوجه للطبيب فورا."
+      ],
+      "sections": [
+        {
+          "h2": "ما الذي تقيسه تحاليل تخثر الدم؟",
+          "paras": [
+            "عندما تتعرض لجرح، يمر جسمك بسلسلة دقيقة من التفاعلات الكيميائية تسمى سلسلة التخثر (Coagulation cascade)، هدفها تكوين جلطة تسد الجرح وتوقف النزيف. هذه السلسلة تسير عبر مسارين رئيسيين يلتقيان في النهاية لتكوين الجلطة. تحاليل التخثر تقيس كفاءة هذا النظام وتكتشف ما إذا كان هناك خلل في أحد مكوناته.",
+            "PT أو زمن البروثرومبين (Prothrombin Time) يقيس سرعة عمل المسار الخارجي للتخثر، وهو المسار الذي يشمل العوامل المعتمدة على فيتامين K، وهي نفس العوامل التي يؤثر عليها دواء الوارفارين. أما aPTT أو زمن الثرومبوبلاستين الجزئي المنشط (activated Partial Thromboplastin Time) فيقيس المسار الداخلي، وهو أكثر حساسية للهيبارين الذي يعطى في المستشفى عبر الوريد.",
+            "INR أو النسبة الدولية المعيارية (International Normalized Ratio) ليس تحليلا مستقلا، بل هو طريقة حسابية لتوحيد نتيجة PT بين المختبرات المختلفة. قبل اختراع INR، كانت نتيجة PT تختلف من مختبر لآخر باختلاف الكاشف المستخدم. أشار باحثو المختبرات في دراسة نُشرت عام 2021 في مجلة International Journal of Laboratory Hematology إلى أن INR جاء حلا لهذه المشكلة، مما يعني أن INR 2.5 في مختبر الرياض يعني نفس الشيء في مختبر القاهرة أو عمان."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "مقارنة بين تحاليل التخثر الثلاثة",
+            "head": ["التحليل", "ما يقيسه", "الاستخدام الرئيسي", "المعدل الطبيعي"],
+            "rows": [
+              ["PT", "المسار الخارجي للتخثر", "تشخيص، مراقبة الوارفارين", "11 إلى 14 ثانية"],
+              ["INR", "PT موحد دوليا", "مراقبة الوارفارين", "0.9 إلى 1.1 بدون علاج"],
+              ["aPTT", "المسار الداخلي للتخثر", "مراقبة الهيبارين، تشخيص", "25 إلى 35 ثانية"]
+            ]
+          }
+        },
+        {
+          "h2": "ما هو المعدل الطبيعي لكل تحليل؟",
+          "paras": [
+            "PT الطبيعي يتراوح بين 11 و14 ثانية في معظم المختبرات، لكن هذا الرقم يختلف بحسب نوع الكاشف المستخدم، لذلك اعتمد دائما على المدى المطبوع في ورقة نتيجتك وليس على رقم قرأته في مكان آخر. INR الطبيعي لشخص لا يأخذ مضادات تخثر يقع بين 0.9 و1.1، أي قريب جدا من الواحد الصحيح.",
+            "aPTT الطبيعي يقع عادة بين 25 و35 ثانية، وتنبع أهميته كثيرا من استخدامه في مراقبة الهيبارين غير المجزأ الذي يعطى بالوريد في المستشفيات خلال العمليات الجراحية أو لعلاج الجلطات الحادة. كما أنه يكشف نقص بعض عوامل التخثر في حالات النزيف الغير مبرر.",
+            "ارتفاع PT أو aPTT يعني أن الدم يستغرق وقتا أطول من المعتاد للتخثر، مما يرفع خطر النزيف. انخفاضها عن المعدل نادر الأهمية السريرية في معظم الأحيان، لكن مراجعة الطبيب دائما هي الخطوة الصحيحة عند أي نتيجة خارج المعدل."
+          ],
+          "visual": {
+            "type": "range-scale",
+            "title": "أين يقع INR الخاص بك",
+            "label": "INR",
+            "unit": "",
+            "min": 0,
+            "max": 6,
+            "zones": [
+              {"to": 0.9, "tone": "warn", "label": "منخفض"},
+              {"to": 1.1, "tone": "good", "label": "طبيعي"},
+              {"to": 3.0, "tone": "warn", "label": "علاجي"},
+              {"to": 6.0, "tone": "bad", "label": "مرتفع جدا"}
+            ],
+            "marker": {"value": 2.5, "label": "هدف الرجفان الأذيني"},
+            "source": "Dorgalaleh A et al: Standardization of PT/INR, International journal of laboratory hematology, 2021",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/32979036/"
+          }
+        },
+        {
+          "h2": "لماذا يأخذ بعض الناس الوارفارين وما هو هدف INR؟",
+          "paras": [
+            "الوارفارين (Warfarin) هو دواء مضاد للتخثر يستخدم لمنع تكون الجلطات عند الأشخاص المعرضين لخطرها. يُوصف لحالات عدة منها الرجفان الأذيني (Atrial fibrillation)، والجلطات الوريدية العميقة (DVT)، والصمة الرئوية (Pulmonary embolism)، وحاملو صمامات القلب الاصطناعية الميكانيكية. لا يزال الوارفارين دواء أساسيا في المنطقة العربية نظرا لانتشاره وانخفاض تكلفته مقارنة بالأدوية الجديدة.",
+            "هدف INR لمرضى الوارفارين يختلف حسب السبب الذي يأخذونه من أجله. لمعظم الحالات كالرجفان الأذيني والجلطات الوريدية، الهدف هو بين 2.0 و3.0. أما لمرضى الصمامات الاصطناعية الميكانيكية فالهدف أعلى: بين 2.5 و3.5. لا تحاول تحديد هدفك بنفسك، فطبيبك هو من يحدد النطاق المناسب لحالتك تحديدا.",
+            "الحفاظ على INR ضمن النطاق العلاجي أمر دقيق لأن التوازن بين النزيف والجلطة ضيق. INR منخفض عن الهدف يعني أن الدواء غير كافٍ وقد تتكون جلطة، وINR مرتفع جدا يعني أن مخطر النزيف ارتفع. دراسة نُشرت في مجلة Journal of the American College of Cardiology عام 2011 أكدت أن نسبة الوقت الذي يمضيه INR ضمن النطاق العلاجي تؤثر مباشرة على سلامة المريض من الجلطات ومن النزيف."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "هدف INR حسب حالة المريض",
+            "head": ["الحالة الطبية", "هدف INR", "ملاحظة"],
+            "rows": [
+              ["الرجفان الأذيني", "2.0 إلى 3.0", "الأكثر شيوعا"],
+              ["جلطة وريدية عميقة / صمة رئوية", "2.0 إلى 3.0", "عادة لمدة 3 إلى 6 أشهر"],
+              ["صمام قلب اصطناعي ميكانيكي (أيمن)", "2.5 إلى 3.5", "يختلف حسب نوع الصمام"],
+              ["صمام قلب اصطناعي ميكانيكي (أيسر)", "2.5 إلى 3.5", "مدى الحياة في الغالب"]
+            ]
+          }
+        },
+        {
+          "h2": "ما الذي يؤثر على INR ويجعله يتذبذب؟",
+          "paras": [
+            "فيتامين K هو عنصر أساسي في تصنيع عوامل التخثر، والوارفارين يعمل بالتحديد عن طريق تثبيط هذا الفيتامين. لذلك فإن كمية فيتامين K التي تتناولها مع طعامك تؤثر مباشرة على فعالية الوارفارين وبالتالي على قيمة INR. مراجعة نظامية نشرتها مجلة Medicine عام 2016 أكدت أن التغيرات المفاجئة في تناول الخضروات الورقية الغنية بفيتامين K، كالسبانخ والجرجير والملوخية، هي من أكثر الأسباب شيوعا لخروج INR عن نطاقه.",
+            "الأدوية التي تتفاعل مع الوارفارين كثيرة جدا. المضادات الحيوية خاصة من مجموعة الميترونيدازول والكوتريموكسازول والكينولونات ترفع INR بشكل ملحوظ. مضادات الالتهاب غير الستيرويدية كالإيبوبروفين تزيد خطر النزيف. بعض الأدوية العشبية، خاصة الجنكة وجنسينغ والثوم بجرعات عالية، قد تؤثر هي الأخرى. أخبر طبيبك وصيدلانيك بكل دواء تأخذه قبل بدئه حتى يتحققا من التفاعلات المحتملة.",
+            "عوامل أخرى تؤثر على INR تشمل: الأمراض الحادة خاصة التهابات الكبد، والإسهال الشديد، والتغيرات الكبيرة في الوزن، وبعض الأطعمة والمشروبات كعصير الغريب فروت (جريب فروت). الالتزام بجدول المتابعة وإجراء تحليل INR في مواعيده المنتظمة هو السبيل الوحيد للكشف المبكر عن هذه التغيرات."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "عوامل شائعة تؤثر على INR",
+            "head": ["العامل", "تأثيره على INR", "مثال"],
+            "rows": [
+              ["الخضروات الورقية (فيتامين K)", "يخفض INR", "سبانخ، ملوخية، جرجير"],
+              ["المضادات الحيوية", "يرفع INR", "ميترونيدازول، سيبروفلوكساسين"],
+              ["مضادات الالتهاب (NSAIDS)", "يزيد خطر النزيف", "إيبوبروفين، نابروكسين"],
+              ["التهاب الكبد الحاد", "يرفع INR", "نقص إنتاج عوامل التخثر"],
+              ["الإسهال الشديد", "يرفع INR", "نقص امتصاص فيتامين K"]
+            ]
+          }
+        },
+        {
+          "h2": "متى يكون ارتفاع PT أو INR علامة على مشكلة في الكبد؟",
+          "paras": [
+            "الكبد هو المصنع الرئيسي لمعظم عوامل التخثر، خاصة العوامل المعتمدة على فيتامين K وهي العوامل الثاني والسابع والتاسع والعاشر. عندما يُصاب الكبد بمرض شديد كتليف الكبد (Cirrhosis) أو التهاب الكبد الحاد الوخيم أو فشل الكبد الحاد، يقل إنتاجه لهذه العوامل فيرتفع PT وINR حتى عند شخص لا يأخذ أي دواء مضاد للتخثر على الإطلاق. هذا الارتفاع يختلف عن الارتفاع الناجم عن الوارفارين لأنه لا يستجيب بشكل كامل لإعطاء فيتامين K.",
+            "لذلك يعتبر أطباء الكبد PT وINR من المؤشرات المهمة لتقييم وظيفة الكبد ودرجة تلفه، وهما جزء من النظام المستخدم لتصنيف مرضى الكبد وتحديد الأولوية لزرع الكبد. إذا ارتفع INR بشكل تدريجي عند شخص لم يتغير دواؤه، فهذا سبب وجيه لإعادة تقييم وظائف الكبد بالكامل. مريض التهاب الكبد بالتهاب C أو B في مرحلة متقدمة قد يلاحظ ارتفاعا تدريجيا في INR مع مرور السنوات يعكس تراكم التليف.",
+            "قصور الكبد ليس السبب الوحيد لارتفاع PT أو aPTT خارج سياق الوارفارين. نقص عوامل التخثر الوراثي كالهيموفيليا يطيل aPTT بشكل رئيسي مع بقاء PT طبيعيا. نقص فيتامين K من الغذاء أو سوء الامتصاص يطيل PT لأن فيتامين K ضروري لتفعيل العوامل المعتمدة عليه. أيضا في حالات نزيف حاد منتشر داخل الأوعية (Disseminated intravascular coagulation) ترتفع كلا التحليلين معا. في كل هذه الحالات، يفسر الطبيب النتيجة في سياق التاريخ الطبي الكامل والأعراض الأخرى وبقية التحاليل."
+          ]
+        },
+        {
+          "h2": "كيف تستعد لتحليل INR أو PT بشكل صحيح؟",
+          "paras": [
+            "في معظم الأحيان لا يشترط الصيام قبل تحليل PT أو INR أو aPTT. هذه التحاليل تقيس عمل البروتينات في الدم وليس مستويات الجلوكوز أو الدهون التي تتأثر بالأكل. أخبر المختبر أنك على وارفارين عند إجراء التحليل حتى يعاملوا العينة بشكل صحيح ويتنبهوا لأي قيمة خارجة عن المألوف.",
+            "أفضل وقت لأخذ تحليل INR هو قبيل موعد الجرعة التالية من الوارفارين وليس بعدها مباشرة، لأن ذلك يعكس المستوى الأكثر استقرارا في الجسم. حاول أن تأخذ التحليل في ظروف مشابهة في كل مرة، مثل أن تكون قد أكلت نفس نوع الطعام تقريبا خلال الأيام الأخيرة، لأن التغيرات الكبيرة في الوجبات قد تربك تفسير النتيجة حتى مع ثبات الجرعة.",
+            "دراسة من الأردن نُشرت في مجلة International Journal of Medical Sciences عام 2021 أظهرت أن الاختلافات الجينية في تمثيل الوارفارين شائعة في المنطقة العربية، مما يعني أن جرعة شخص ما قد تختلف كثيرا عن جرعة آخر بنفس الحالة. هذا يوضح لماذا لا يجوز لمريض أن يقلد جرعة قريبه أو صديقه الذي يأخذ الوارفارين لنفس السبب، وهذا سبب إضافي جوهري لأهمية المتابعة الدورية مع الطبيب."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "كيف تحصل على أدق نتيجة INR",
+            "items": [
+              "خذ دواء الوارفارين في وقته المحدد كل يوم، ولا تضاعف الجرعة إذا نسيت.",
+              "حافظ على نمط غذائي ثابت من يوم لآخر، وتجنب تغيير كميات الخضروات الورقية بشكل مفاجئ.",
+              "أجرِ التحليل قبل موعد الجرعة التالية وليس بعدها مباشرة.",
+              "أخبر الطبيب بأي دواء جديد بدأته حتى ولو كان دواء للبرد أو مضادا حيويا.",
+              "لا تتأخر في إجراء التحليل في موعده المحدد حتى لو شعرت بأنك بخير."
+            ]
+          }
+        },
+        {
+          "h2": "ما هي علامات الخطر التي تستدعي الذهاب للطوارئ فورا؟",
+          "paras": [
+            "الشخص الذي يأخذ مضادات تخثر يجب أن يعرف جيدا أعراض النزيف غير الطبيعي لأن هذه الأعراض قد تتطور بسرعة. نزيف خفيف كبعض الكدمات أو رعاف عرضي أمر متوقع على هذه الأدوية، لكن هناك أعراض تستوجب التوجه للطوارئ دون تأخير. أخطر أنواع النزيف لمن يأخذ مضادات التخثر هو النزيف الدماغي، وهو نادر لكن محتمل خاصة عند كبار السن أو من يعانون من ارتفاع ضغط الدم غير المسيطر عليه.",
+            "أيضا عند وصول INR لأرقام مرتفعة جدا، حتى وإن لم يكن هناك نزيف ظاهر، يجب الاتصال بالطبيب أو زيارة الطوارئ لأن الخطر موجود حتى قبل ظهور الأعراض. INR فوق 5.0 عند شخص على وارفارين يستوجب تدخلا طبيا فوريا. دراسة عام 2010 نُشرت في مجلة Journal of Thrombosis and Thrombolysis شددت على أهمية الاستجابة السريعة عند ارتفاع INR المفرط لتفادي النزيف قبل حدوثه."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "توجه للطوارئ فورا إذا لاحظت",
+            "items": [
+              "نزيف لا يتوقف بالضغط المباشر بعد 10 دقائق",
+              "براز أسود اللون أو بني داكن يشبه القار (قد يدل على نزيف معدي)",
+              "تبول بدم أحمر أو بني غامق",
+              "قيء يحتوي على دم أو يشبه رواسب القهوة",
+              "صداع شديد مفاجئ أو ضعف في أحد جانبي الجسم (قد يكون نزيفا في الدماغ)",
+              "سقوط أو ضربة في الرأس عند شخص على مضادات التخثر، حتى لو بدا بخير"
+            ]
+          }
+        },
+        {
+          "h2": "هل aPTT وحده يكفي لتشخيص مشاكل التخثر؟",
+          "paras": [
+            "لا تحليل واحد يكفي وحده لتشخيص اضطرابات التخثر. عادة يطلب الطبيب مجموعة تحاليل معا تشمل PT وaPTT وعدد الصفائح الدموية وأحيانا الفيبرينوجين (Fibrinogen) وD-dimer ومستويات عوامل تخثر بعينها. النمط الذي تكشف عنه هذه التحاليل مجتمعة هو ما يوجه التشخيص، وليس أي رقم بمفرده.",
+            "على سبيل المثال، ارتفاع aPTT مع PT طبيعي يستدعي البحث عن نقص عامل VIII أو IX أو XI وهي عوامل الهيموفيليا، أو وجود ما يسمى بمضاد التخثر الذئبي (Lupus anticoagulant) في الدم. أما ارتفاع الاثنين معا فقد يشير إلى مشكلة في الكبد أو نقص فيتامين K أو الإصابة بانسار داخلي في الأوعية (DIC). انخفاض عدد الصفائح الدموية مع ارتفاع D-dimer يزيد الاشتباه في DIC الذي يكون فيه جهاز التخثر منهكا من الاستخدام المفرط.",
+            "الطبيب هو من يفسر هذا النمط في ضوء أعراضك وتاريخك الطبي وبقية نتائج تحاليلك. ورقة نتيجة التحليل لا تخبرك بكل شيء لوحدها، وإنما توفر المعطيات التي يستخدمها الطبيب لبناء الصورة الكاملة. إذا كانت لديك نتيجة غير طبيعية في أي من هذه التحاليل ولا تأخذ مضادات تخثر، فلا تتجاهل الأمر بل راجع طبيبك لفهم السبب والتأكد من أن نظام التخثر لديك يعمل بشكل سليم."
+          ]
+        }
+      ],
+      "tie": "مع تطبيق صحتك يمكنك متابعة نتائج تحاليل التخثر بمرور الوقت: امسح ورقة نتيجة INR أو PT ليحفظها التطبيق ويتابع تغيرها من تحليل لآخر، وضع تذكيرا لجرعة الوارفارين ولموعد التحليل التالي، واطلب من المساعد الذكي شرح الفرق بين نتيجتك ونطاق هدفك بكلمات بسيطة. يبقى هذا أداة مساعدة ولا يغني عن متابعة طبيبك المنتظمة.",
+      "faqs": [
+        {
+          "q": "هل ارتفاع INR يعني دائما أن هناك نزيفا؟",
+          "a": "لا. ارتفاع INR يعني أن الدم يستغرق وقتا أطول من المعتاد للتخثر، مما يرفع خطر النزيف، لكن قد لا يكون هناك نزيف فعلي في اللحظة ذاتها. مع ذلك، يجب الاتصال بالطبيب فورا عند INR مرتفع جدا لأن الخطر قائم حتى قبل ظهور الأعراض."
+        },
+        {
+          "q": "هل الملوخية والسبانخ ممنوعة على مريض الوارفارين؟",
+          "a": "ليست ممنوعة، لكن يجب أن تكون كميتها ثابتة من أسبوع لآخر. التغيير المفاجئ في كميات الخضروات الورقية الغنية بفيتامين K هو المشكلة، وليس تناولها بانتظام. تحدث مع طبيبك أو اختصاصي التغذية عن كميات مناسبة لنمطك الغذائي."
+        },
+        {
+          "q": "كيف أعرف إذا كان INR مستقرا أم لا؟",
+          "a": "INR المستقر هو الذي يبقى ضمن النطاق العلاجي المستهدف لأغلب قياساته على مدى أشهر. إذا كانت نتائجك تتذبذب كثيرا من تحليل لآخر، يحتاج طبيبك إلى مراجعة الجرعة والعوامل المؤثرة معك."
+        },
+        {
+          "q": "هل أحتاج للصيام قبل تحليل INR؟",
+          "a": "لا، هذا التحليل لا يتأثر بالأكل مباشرة. لكن حاول أن يكون نمط غذائك مستقرا في الأيام السابقة للتحليل لأن التغيرات الكبيرة في فيتامين K الغذائي قد تؤثر على النتيجة."
+        },
+        {
+          "q": "ماذا يعني إذا كان aPTT مرتفعا في تحليلي مع PT طبيعي؟",
+          "a": "هذا النمط يستدعي تقييما طبيا. قد يشير إلى نقص عامل تخثر بعينه أو وجود ما يسمى مضاد التخثر الذئبي. طبيبك سيقرر ما إذا كان يحتاج إلى تحاليل إضافية لتحديد السبب."
+        },
+        {
+          "q": "هل أستطيع أخذ المسكنات وأنا على وارفارين؟",
+          "a": "الباراسيتامول (أسيتامينوفين) هو المسكن الأكثر أمانا بجرعاته العادية، لكن جرعات عالية أو مزمنة منه قد ترفع INR. مضادات الالتهاب كالإيبوبروفين والأسبرين تزيد خطر النزيف وتجنب استخدامها دون استشارة طبيبك."
+        },
+        {
+          "q": "هل يستخدم aPTT لمراقبة الهيبارين في المنزل؟",
+          "a": "لا. الهيبارين غير المجزأ الذي تتابع عليه بـaPTT يعطى فقط عبر الوريد في المستشفى. ما يُستخدم في المنزل هو إما الوارفارين ويتابع بـINR، أو الهيبارين منخفض الوزن الجزيئي بالحقن تحت الجلد ولا يحتاج عموما لتحليل منتظم."
+        }
+      ]
+    },
+    "en": {
+      "title": "PT, INR and PTT: understanding clotting tests",
+      "desc": "A clear guide to reading your PT, INR and aPTT results: what each measures, INR target ranges for warfarin patients, what makes the number swing, and red flags for bleeding.",
+      "keywords": "INR test, warfarin monitoring, PT prothrombin time, aPTT clotting test, anticoagulation, blood clotting, INR target range, coagulation",
+      "h1": "PT, INR and aPTT: how to read your blood clotting results",
+      "takeaways": [
+        "PT measures how quickly blood clots via the extrinsic pathway, and INR is an internationally standardised version of that result so different labs give comparable numbers.",
+        "aPTT measures the intrinsic clotting pathway and is mainly used to monitor heparin doses in hospital.",
+        "For warfarin patients, the INR target depends on the reason: 2.0 to 3.0 for most conditions, and 2.5 to 3.5 for mechanical heart valves.",
+        "Foods rich in vitamin K, such as leafy vegetables, and many common medicines can raise or lower INR sharply.",
+        "Unusual bleeding or a very high INR requires urgent medical attention, not a wait-and-see approach."
+      ],
+      "sections": [
+        {
+          "h2": "What do clotting tests actually measure?",
+          "paras": [
+            "When you are injured, your body triggers a precise chain of chemical reactions called the coagulation cascade. This cascade runs through two main pathways that converge to form a clot and stop bleeding. Clotting tests measure the efficiency of this system and identify whether any component is not working correctly.",
+            "PT, or Prothrombin Time, measures how quickly the extrinsic pathway of clotting works. This pathway includes the factors that depend on vitamin K, and these are the same factors that warfarin acts on. The aPTT, or activated Partial Thromboplastin Time, measures the intrinsic pathway, which is more sensitive to unfractionated heparin given intravenously in hospital.",
+            "INR, or International Normalized Ratio, is not a separate test. It is a calculation that standardises the PT result across different laboratories. A study published in 2021 in the International Journal of Laboratory Hematology noted that before INR was introduced, PT results varied significantly from lab to lab depending on the reagent used. INR solved that problem, which is why an INR of 2.5 in Riyadh means the same as an INR of 2.5 in Cairo or Amman."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Comparing the three clotting tests",
+            "head": ["Test", "What it measures", "Main use", "Normal range"],
+            "rows": [
+              ["PT", "Extrinsic clotting pathway", "Diagnosis, warfarin monitoring", "11 to 14 seconds"],
+              ["INR", "Standardised PT", "Warfarin monitoring", "0.9 to 1.1 without treatment"],
+              ["aPTT", "Intrinsic clotting pathway", "Heparin monitoring, diagnosis", "25 to 35 seconds"]
+            ]
+          }
+        },
+        {
+          "h2": "What is a normal result for each test?",
+          "paras": [
+            "A normal PT is roughly 11 to 14 seconds in most laboratories, but this figure varies by reagent, so always read your result against the range printed on your own report rather than a number you read elsewhere. The normal INR for a person not taking anticoagulants is between 0.9 and 1.1, very close to 1.",
+            "A normal aPTT is usually 25 to 35 seconds. Its importance lies largely in monitoring unfractionated heparin given by intravenous drip in hospital during surgery or for acute clot treatment. It also reveals deficiencies in certain clotting factors in cases of unexplained bleeding.",
+            "A PT or aPTT that is longer than normal means blood is taking more time than usual to clot, which raises the risk of bleeding. A result shorter than normal is rarely clinically important in most situations, but any result outside the reference range warrants a conversation with your doctor."
+          ],
+          "visual": {
+            "type": "range-scale",
+            "title": "Where your INR sits",
+            "label": "INR",
+            "unit": "",
+            "min": 0,
+            "max": 6,
+            "zones": [
+              {"to": 0.9, "tone": "warn", "label": "Low"},
+              {"to": 1.1, "tone": "good", "label": "Normal"},
+              {"to": 3.0, "tone": "warn", "label": "Therapeutic"},
+              {"to": 6.0, "tone": "bad", "label": "Too high"}
+            ],
+            "marker": {"value": 2.5, "label": "Atrial fibrillation target"},
+            "source": "Dorgalaleh A et al: Standardization of PT/INR, International journal of laboratory hematology, 2021",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/32979036/"
+          }
+        },
+        {
+          "h2": "Why do some people take warfarin, and what is the INR target?",
+          "paras": [
+            "Warfarin is an anticoagulant medicine used to prevent blood clots in people at increased risk of forming them. It is prescribed for conditions including atrial fibrillation, deep vein thrombosis (DVT), pulmonary embolism, and mechanical prosthetic heart valves. Warfarin remains a commonly used anticoagulant across the Arab world because of its availability and relatively low cost compared with newer agents.",
+            "The INR target for warfarin patients depends on why they are taking it. For most conditions such as atrial fibrillation and venous clots, the target is between 2.0 and 3.0. For mechanical heart valves the target is higher, between 2.5 and 3.5. Do not try to determine your own target from a table. Your doctor sets the exact range for your specific situation.",
+            "Keeping INR within the therapeutic range is delicate because the margin between clotting risk and bleeding risk is narrow. An INR below the target means the medicine is not doing enough and a clot may form. An INR above the target means the bleeding risk has risen. A 2011 study in the Journal of the American College of Cardiology confirmed that the proportion of time a patient's INR stays within their therapeutic range directly affects their safety from both clots and bleeding."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "INR target by indication",
+            "head": ["Condition", "INR target", "Note"],
+            "rows": [
+              ["Atrial fibrillation", "2.0 to 3.0", "Most common indication"],
+              ["DVT or pulmonary embolism", "2.0 to 3.0", "Typically for 3 to 6 months"],
+              ["Mechanical heart valve (right-sided)", "2.5 to 3.5", "Varies by valve type"],
+              ["Mechanical heart valve (left-sided)", "2.5 to 3.5", "Usually lifelong"]
+            ]
+          }
+        },
+        {
+          "h2": "What makes INR swing up or down?",
+          "paras": [
+            "Vitamin K is essential for the synthesis of several clotting factors, and warfarin works specifically by blocking it. The amount of vitamin K you eat directly affects how well warfarin works and therefore your INR reading. A systematic review published in Medicine in 2016 confirmed that sudden changes in consumption of vitamin K-rich leafy vegetables are among the most common reasons for INR falling outside its target range.",
+            "Many medicines interact with warfarin. Antibiotics, particularly metronidazole, co-trimoxazole, and fluoroquinolones, raise INR noticeably. Non-steroidal anti-inflammatory drugs such as ibuprofen increase the bleeding risk. Certain herbal products, especially ginkgo, ginseng, and garlic in large amounts, can also interfere. Always tell your doctor and pharmacist every medicine you are taking before starting anything new.",
+            "Other factors that influence INR include: acute illness, especially liver conditions, severe diarrhoea, large changes in weight, and some foods and drinks including grapefruit juice. Regular monitoring at the intervals your doctor sets is the only reliable way to catch these changes early."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Common factors that affect INR",
+            "head": ["Factor", "Effect on INR", "Example"],
+            "rows": [
+              ["Leafy vegetables (vitamin K)", "Lowers INR", "Spinach, kale, coriander"],
+              ["Antibiotics", "Raises INR", "Metronidazole, ciprofloxacin"],
+              ["NSAIDs", "Increases bleeding risk", "Ibuprofen, naproxen"],
+              ["Acute liver illness", "Raises INR", "Fewer clotting factors made"],
+              ["Severe diarrhoea", "Raises INR", "Less vitamin K absorbed"]
+            ]
+          }
+        },
+        {
+          "h2": "When does a high PT or INR point to a liver problem?",
+          "paras": [
+            "The liver is the main factory for most clotting factors, particularly factors II, VII, IX, and X, which all depend on vitamin K for their activation. When the liver is severely diseased, as in cirrhosis or serious acute hepatitis or acute liver failure, it produces fewer of these factors, and PT and INR rise even in someone taking no anticoagulant medicine at all. This rise differs from warfarin-related elevation because it does not fully correct when vitamin K is given.",
+            "This is why liver specialists use PT and INR as key markers of liver function and the degree of damage. They form part of scoring systems used to classify patients with chronic liver disease and to prioritise liver transplantation. A gradually rising INR in someone whose warfarin dose has not changed is good reason to reassess liver function fully. A patient with advanced chronic hepatitis B or C may notice a slow upward drift in their INR over the years that reflects accumulating fibrosis.",
+            "Liver disease is not the only non-warfarin cause of a raised PT or aPTT. Inherited clotting factor deficiencies such as haemophilia prolong aPTT while leaving PT normal, because the missing factors belong to the intrinsic pathway rather than the extrinsic one. Dietary vitamin K deficiency or malabsorption prolongs PT because those factors cannot be properly activated. In disseminated intravascular coagulation (DIC), both PT and aPTT rise together as the clotting system is consumed in an uncontrolled fashion. In all these cases, the doctor interprets the result in the context of your complete medical history, symptoms, and all other test results."
+          ]
+        },
+        {
+          "h2": "How do you prepare correctly for a PT or INR test?",
+          "paras": [
+            "In most cases, fasting is not required before a PT, INR, or aPTT test. These tests measure protein activity in the blood, not glucose or lipid levels that are affected by eating. Tell the laboratory that you are on warfarin when you arrive, so the sample is handled correctly.",
+            "The best time to have an INR drawn is just before your next warfarin dose, not immediately after taking it, because this reflects the most stable drug level. Try to have the test under similar conditions each time, meaning a comparable diet over the preceding days.",
+            "A 2021 study from Jordan published in the International Journal of Medical Sciences found that genetic differences in warfarin metabolism are common in Arab populations. This means one person may need a very different dose from another person with the same condition, which is an additional reason why regular monitoring matters."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "How to get the most accurate INR result",
+            "items": [
+              "Take warfarin at the same time every day and do not double the dose if you miss one.",
+              "Keep your diet consistent from day to day and avoid sudden large changes in leafy vegetable portions.",
+              "Have the blood drawn just before your next dose, not right after taking it.",
+              "Tell your doctor about any new medicine, including antibiotics or cold remedies, before starting it.",
+              "Do not skip or delay your scheduled test even if you feel well."
+            ]
+          }
+        },
+        {
+          "h2": "What warning signs mean you need emergency care?",
+          "paras": [
+            "Anyone on an anticoagulant medicine needs to recognise abnormal bleeding promptly, because it can escalate quickly. Minor bruising or an occasional nosebleed is expected on these medicines, but certain signs require going to an emergency department without delay. The most dangerous type of bleeding for a person on anticoagulants is intracranial bleeding, which is uncommon but possible, especially in older patients or those with uncontrolled high blood pressure. A fall or a knock to the head can trigger this even when no external wound is visible.",
+            "When INR reaches very high numbers even without visible bleeding, call your doctor or go to the emergency department. The risk is present before symptoms appear. An INR above 5.0 on warfarin calls for immediate medical review. A 2010 paper in the Journal of Thrombosis and Thrombolysis emphasised the importance of rapid response to excessive INR elevation to prevent bleeding before it occurs. In emergency settings, doctors can reverse warfarin quickly using vitamin K and clotting factor concentrates if needed."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "Go to emergency immediately if you notice",
+            "items": [
+              "Bleeding that does not stop with direct pressure after 10 minutes",
+              "Black or very dark tarry stools, which may signal stomach or gut bleeding",
+              "Blood in the urine, red or dark brown",
+              "Vomiting blood or material that looks like coffee grounds",
+              "Sudden severe headache or weakness on one side of the body, which may signal a brain bleed",
+              "A fall or blow to the head while on anticoagulants, even if you feel fine afterwards"
+            ]
+          }
+        },
+        {
+          "h2": "Is an aPTT test enough on its own to diagnose a clotting disorder?",
+          "paras": [
+            "No single test is sufficient to diagnose a clotting disorder. A doctor typically orders several tests together: PT, aPTT, platelet count, and sometimes fibrinogen, D-dimer, and specific clotting factor levels. It is the pattern across these tests combined that guides the diagnosis, not any single number in isolation.",
+            "For example, a raised aPTT with a normal PT prompts a search for a deficiency in factor VIII, IX, or XI (the haemophilia factors), or the presence of what is called a lupus anticoagulant, which despite its name is not only found in lupus patients. Both PT and aPTT raised together may point to liver disease, vitamin K deficiency, or disseminated intravascular coagulation (DIC), in which the clotting system is consumed by runaway activation. A falling platelet count alongside rising D-dimer and prolonged both tests strongly suggests DIC and demands urgent investigation.",
+            "Your doctor interprets this pattern in the light of your symptoms, your medical history, and the rest of your results. The result sheet alone does not tell the whole story. It provides the data that the doctor uses to build the complete picture. If you have an abnormal result in any of these tests and you are not taking an anticoagulant, do not dismiss it. Ask your doctor what it means and whether any further testing is needed to understand whether your clotting system is functioning correctly."
+          ]
+        }
+      ],
+      "tie": "With the Sihtak app you can track your clotting test results over time: scan your INR or PT report so the app saves the value and shows how it changes from one test to the next, set reminders for your warfarin dose and your next scheduled test, and ask the AI assistant to explain in plain words where your result sits relative to your target range. This remains a helpful tool and does not replace regular follow-up with your doctor.",
+      "faqs": [
+        {
+          "q": "Does a high INR always mean I am bleeding?",
+          "a": "No. A high INR means your blood is clotting more slowly than normal, which raises the risk of bleeding, but actual bleeding may not be happening at that moment. Even so, a very high INR needs prompt medical attention because the risk is real before any symptoms appear."
+        },
+        {
+          "q": "Are spinach and leafy greens banned on warfarin?",
+          "a": "They are not banned, but their quantity needs to stay consistent from week to week. The problem is a sudden large change in vitamin K intake, not eating leafy greens regularly. Talk to your doctor or a dietitian about amounts that fit your usual eating pattern."
+        },
+        {
+          "q": "How do I know whether my INR is stable?",
+          "a": "A stable INR is one that stays within your therapeutic target range for most readings over several months. If your results swing widely from one test to the next, your doctor will need to review your dose and look at the factors causing the variation."
+        },
+        {
+          "q": "Do I need to fast before an INR test?",
+          "a": "No. This test is not affected by eating. However, try to keep your diet consistent in the days before the test, because large changes in dietary vitamin K can nudge the result."
+        },
+        {
+          "q": "What does a raised aPTT with a normal PT mean?",
+          "a": "This pattern calls for medical assessment. It may point to a deficiency in a specific clotting factor or the presence of what is called a lupus anticoagulant. Your doctor will decide whether further tests are needed to identify the cause."
+        },
+        {
+          "q": "Can I take painkillers while on warfarin?",
+          "a": "Paracetamol at usual doses is the safest painkiller for most warfarin patients, though high or prolonged doses can nudge INR upwards. Anti-inflammatory medicines such as ibuprofen and aspirin increase the risk of bleeding and should be avoided without your doctor's advice."
+        },
+        {
+          "q": "Is aPTT used to monitor heparin at home?",
+          "a": "No. Unfractionated heparin monitored by aPTT is given only by intravenous drip in hospital. At home, patients use either warfarin monitored by INR, or low-molecular-weight heparin injected under the skin, which does not generally require regular blood tests."
+        }
+      ]
+    }
+  }
+}

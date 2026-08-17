@@ -1,0 +1,386 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Shared chrome for every generated Sihtak page.
+
+build_content.py (articles) and build_site.py (hubs, categories, sitemaps)
+both import from here so the nav, footer, head and taxonomy can never drift
+apart between the two builders.
+"""
+import os, json, html, datetime
+
+BASE = os.path.dirname(os.path.abspath(__file__))
+SITE = "https://www.sihtak.com"
+
+AUTHOR = "Adnan Alrefai"
+AUTHOR_URL = f"{SITE}/author/"
+OG_IMAGE = f"{SITE}/og-image.png"
+PLAY = "https://play.google.com/store/apps/details?id=com.sihhati.app"
+APPSTORE = "https://apps.apple.com/us/app/sihtak-%D8%B5%D8%AD%D8%AA%D9%83/id6764330989"
+GA_ID = "G-JGTTBKMM4G"
+
+# --------------------------------------------------------------------------
+# taxonomy
+# --------------------------------------------------------------------------
+with open(os.path.join(BASE, "content", "categories.json"), encoding="utf-8") as _fh:
+    CATEGORIES = json.load(_fh)
+CAT_BY_ID = {c["id"]: c for c in CATEGORIES}
+
+
+def cat_url(lang, cid):
+    return f'/articles/c/{cid}/' if lang == "ar" else f'/en/articles/c/{cid}/'
+
+
+def cat_name(lang, cid):
+    c = CAT_BY_ID.get(cid)
+    return c[lang]["name"] if c else ""
+
+
+# --------------------------------------------------------------------------
+# dates
+# --------------------------------------------------------------------------
+MONTHS_AR = ["", "يناير", "فبراير", "مارس", "أبريل", "مايو", "يونيو",
+             "يوليو", "أغسطس", "سبتمبر", "أكتوبر", "نوفمبر", "ديسمبر"]
+MONTHS_EN = ["", "January", "February", "March", "April", "May", "June",
+             "July", "August", "September", "October", "November", "December"]
+
+
+def fmt_date(iso, lang):
+    d = datetime.date.fromisoformat(iso)
+    if lang == "ar":
+        return f"{d.day} {MONTHS_AR[d.month]} {d.year}"
+    return f"{d.day} {MONTHS_EN[d.month]} {d.year}"
+
+
+def e(s, quote=False):
+    return html.escape(str(s), quote=quote)
+
+
+# --------------------------------------------------------------------------
+# per-language strings
+# --------------------------------------------------------------------------
+L = {
+    "ar": {
+        "htmltag": '<html lang="ar" dir="rtl" data-theme="light">',
+        "site": "صحتك",
+        "nav_articles": "/articles/", "nav_articles_label": "المقالات",
+        "nav_tools": "/tools/", "nav_tools_label": "الأدوات",
+        "download": "حمّل الآن",
+        "takeaways_h": "باختصار",
+        "related_h": "مقالات ذات صلة",
+        "more_in_h": "المزيد في",
+        "faq_h": "أسئلة شائعة",
+        "sources_h": "المصادر",
+        "toc_h": "محتويات المقال",
+        "byline": "بقلم",
+        "updated": "آخر تحديث",
+        "read_suffix": "دقائق قراءة",
+        "disclaimer": "هذا المحتوى للتثقيف الصحي فقط ولا يغني عن استشارة الطبيب. إذا كانت لديك أعراض تقلقك فراجع طبيبك.",
+        "cta_h": "جرّب صحتك مجاناً",
+        "cta_p": "مساعد صحي ذكي يفهم تحاليلك وأدويتك ويتابع صحة عائلتك. مجاني بالكامل وبدون إعلانات.",
+        "cta_b1": "حمّل من Google Play", "cta_b2": "حمّل من App Store",
+        "base": "/articles/", "hub": f"{SITE}/articles/",
+        "crumb_home": "الرئيسية", "crumb_articles": "المقالات",
+        "oglocale": "ar_SA", "oglocale_alt": "en_US",
+        "author_role": "مؤسس صحتك · هندسة برمجيات الصحة والمختبرات",
+        "author_bio": ("أدنان الرفاعي مهندس برمجيات صحية ومؤسس تطبيق صحتك. يعمل منذ سنوات على "
+                       "أنظمة تربط أجهزة التحاليل الطبية بالسجلات الصحية في المملكة المتحدة "
+                       "والشرق الأوسط. هو ليس طبيباً: تُكتب هذه المقالات اعتماداً على مصادر "
+                       "منشورة من منظمة الصحة العالمية والهيئات الصحية الوطنية، وهي للتثقيف "
+                       "الصحي ولا تغني عن استشارة طبيبك."),
+        "author_link": "المزيد عن الكاتب",
+        "browse_h": "تصفح حسب الموضوع",
+        "all_articles": "كل المقالات",
+        "search_ph": "ابحث عن مرض أو تحليل أو دواء…",
+        "search_none": "لا توجد نتائج مطابقة. جرّب كلمة أخرى.",
+        "count_suffix": "مقالاً",
+    },
+    "en": {
+        "htmltag": '<html lang="en" dir="ltr" data-theme="light">',
+        "site": "Sihtak",
+        "nav_articles": "/en/articles/", "nav_articles_label": "Articles",
+        "nav_tools": "/en/tools/", "nav_tools_label": "Tools",
+        "download": "Download",
+        "takeaways_h": "In short",
+        "related_h": "Related articles",
+        "more_in_h": "More in",
+        "faq_h": "Frequently asked questions",
+        "sources_h": "Sources",
+        "toc_h": "What this article covers",
+        "byline": "By",
+        "updated": "Last updated",
+        "read_suffix": "min read",
+        "disclaimer": "This content is for health education only and is not a substitute for medical advice. If you have symptoms that worry you, see your doctor.",
+        "cta_h": "Try Sihtak for free",
+        "cta_p": "A smart health assistant that understands your labs and medications and looks after your family's health. Completely free, no ads.",
+        "cta_b1": "Get it on Google Play", "cta_b2": "Download on the App Store",
+        "base": "/en/articles/", "hub": f"{SITE}/en/articles/",
+        "crumb_home": "Home", "crumb_articles": "Articles",
+        "oglocale": "en_US", "oglocale_alt": "ar_SA",
+        "author_role": "Founder of Sihtak · Health and laboratory software engineering",
+        "author_bio": ("Adnan Alrefai is a health software engineer and the founder of Sihtak. "
+                       "He has spent years building systems that connect laboratory analysers to "
+                       "health records across the UK and the Middle East. He is not a physician: "
+                       "these articles are written from published sources including the World "
+                       "Health Organization and national health bodies, and are health education "
+                       "rather than a substitute for your own doctor."),
+        "author_link": "More about the author",
+        "browse_h": "Browse by topic",
+        "all_articles": "All articles",
+        "search_ph": "Search a condition, test or medicine…",
+        "search_none": "Nothing matched. Try another word.",
+        "count_suffix": "articles",
+    },
+}
+
+THEME_ICONS = (
+    '<button class="theme-btn" onclick="toggleTheme()" aria-label="Toggle light/dark mode">'
+    '<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="theme-icon-sun"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg>'
+    '<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="theme-icon-moon" style="display:none"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>'
+    '</button>'
+)
+
+SCRIPT_BLOCK = """  <script>
+    // Charts and callouts fade in via .reveal, which starts at opacity 0. If JS
+    // ever fails to run, that would hide every visual on the page, so the fade
+    // is opted into here rather than assumed. See the html:not(.js) rule.
+    document.documentElement.classList.add('js');
+    function applyTheme(theme) {
+      var html = document.documentElement;
+      if (theme === 'light') { html.setAttribute('data-theme', 'light'); }
+      else { html.removeAttribute('data-theme'); }
+      var sunIcon = document.querySelector('.theme-icon-sun');
+      var moonIcon = document.querySelector('.theme-icon-moon');
+      if (sunIcon && moonIcon) {
+        sunIcon.style.display = theme === 'light' ? 'none' : 'block';
+        moonIcon.style.display = theme === 'light' ? 'block' : 'none';
+      }
+      var metaTheme = document.getElementById('meta-theme-color');
+      if (metaTheme) metaTheme.content = theme === 'light' ? '#ffffff' : '#030303';
+      localStorage.setItem('sihtak-theme', theme);
+    }
+    function toggleTheme() {
+      var current = document.documentElement.hasAttribute('data-theme') ? 'light' : 'dark';
+      applyTheme(current === 'light' ? 'dark' : 'light');
+    }
+    applyTheme(localStorage.getItem('sihtak-theme') === 'dark' ? 'dark' : 'light');
+    var observer = new IntersectionObserver(function(entries) {
+      entries.forEach(function(entry) {
+        if (entry.isIntersecting) { entry.target.classList.add('visible'); observer.unobserve(entry.target); }
+      });
+    }, { threshold: 0.08, rootMargin: '0px 0px -30px 0px' });
+    document.querySelectorAll('.reveal').forEach(function(el) { observer.observe(el); });
+  </script>
+</body>
+</html>
+"""
+
+
+def footer(lang):
+    """Footer carries a topic column: it is the site-wide internal link mesh
+    that pushes authority from the homepage down into every category."""
+    o = L[lang]
+    top = [c for c in CATEGORIES[:6]]
+    topic_links = "".join(
+        f'            <li><a href="{cat_url(lang, c["id"])}">{e(c[lang]["short"])}</a></li>\n'
+        for c in top
+    )
+    if lang == "ar":
+        brand, tag = "صحتك", "مساعدك الصحي الذكي، مجاني وبدون إعلانات."
+        h_app, h_topics, h_legal = "التطبيق", "المواضيع", "قانوني"
+        l_features, l_articles, l_tools, l_faq = "المزايا", "المقالات", "الأدوات", "أسئلة شائعة"
+        l_priv, l_terms, l_contact, l_about = "سياسة الخصوصية", "شروط الاستخدام", "تواصل معنا", "من نحن"
+        copy = "&copy; 2026 Sihtak. جميع الحقوق محفوظة."
+        made, product, follow = "صُنع بواسطة", "منتج من", "تابعنا على"
+        all_lbl = "كل المواضيع"
+    else:
+        brand, tag = "Sihtak", "Your smart health companion, free with no ads."
+        h_app, h_topics, h_legal = "App", "Topics", "Legal"
+        l_features, l_articles, l_tools, l_faq = "Features", "Articles", "Tools", "FAQ"
+        l_priv, l_terms, l_contact, l_about = "Privacy Policy", "Terms of Service", "Contact Us", "About"
+        copy = "&copy; 2026 Sihtak. All rights reserved."
+        made, product, follow = "Built by", "A product of", "Follow us on"
+        all_lbl = "All topics"
+    return f"""  <footer class="footer" role="contentinfo">
+    <div class="footer-inner">
+      <div class="footer-top">
+        <div class="footer-brand-section">
+          <div class="footer-logo-row">
+            <img src="/icon.png" alt="" width="40" height="40">
+            <span>{brand}</span>
+          </div>
+          <p class="footer-tag">{tag}</p>
+          <a href="{PLAY}" class="btn btn-primary btn-sm" target="_blank" rel="noopener">{o["download"]}</a>
+        </div>
+        <div class="footer-col">
+          <h4>{h_app}</h4>
+          <ul class="footer-links">
+            <li><a href="/#features">{l_features}</a></li>
+            <li><a href="{o["nav_articles"]}">{l_articles}</a></li>
+            <li><a href="{o["nav_tools"]}">{l_tools}</a></li>
+            <li><a href="/#faq">{l_faq}</a></li>
+          </ul>
+        </div>
+        <div class="footer-col">
+          <h4>{h_topics}</h4>
+          <ul class="footer-links">
+{topic_links}            <li><a href="{o["nav_articles"]}">{all_lbl}</a></li>
+          </ul>
+        </div>
+        <div class="footer-col">
+          <h4>{h_legal}</h4>
+          <ul class="footer-links">
+            <li><a href="/about">{l_about}</a></li>
+            <li><a href="/privacy">{l_priv}</a></li>
+            <li><a href="/terms">{l_terms}</a></li>
+            <li><a href="/contact">{l_contact}</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <p class="footer-copy">{copy}</p>
+        <p class="footer-creator" style="font-size:13px;color:var(--text-d);margin-top:6px;"><span>{made}</span> <strong style="color:var(--text-m);">{AUTHOR}</strong></p>
+        <p class="footer-owner" style="font-size:13px;color:var(--text-d);margin-top:4px;"><span>{product}</span> <a href="https://poctify.com" target="_blank" rel="noopener" style="color:var(--text-m);font-weight:600;text-decoration:none;">POCTIFY LTD</a></p>
+        <p style="font-size:13px;color:var(--text-d);margin-top:4px;">{follow} <a href="https://instagram.com/sihtak_app" style="color:var(--teal);font-weight:600;" target="_blank" rel="noopener">@sihtak_app</a></p>
+      </div>
+    </div>
+  </footer>
+"""
+
+
+def nav(lang, other_href):
+    o = L[lang]
+    other_label = "EN" if lang == "ar" else "عربي"
+    return (
+        '  <nav class="nav" role="navigation" aria-label="Main navigation">\n'
+        '    <div class="nav-inner">\n'
+        '      <a href="/" class="nav-brand" aria-label="Sihtak Home">\n'
+        '        <img src="/icon.png" alt="" class="nav-logo" width="36" height="36">\n'
+        f'        <span class="nav-name">{o["site"]}</span>\n'
+        '      </a>\n'
+        '      <div class="nav-actions">\n'
+        f'        <a href="{o["nav_articles"]}" class="art-nav-link">{o["nav_articles_label"]}</a>\n'
+        f'        <a href="{o["nav_tools"]}" class="art-nav-link">{o["nav_tools_label"]}</a>\n'
+        f'        {THEME_ICONS}\n'
+        f'        <a class="lang-btn" href="{other_href}" aria-label="Switch language">{other_label}</a>\n'
+        f'        <a href="{PLAY}" class="btn btn-primary btn-sm" target="_blank" rel="noopener"><span>{o["download"]}</span></a>\n'
+        '      </div>\n'
+        '    </div>\n'
+        '  </nav>\n'
+    )
+
+
+def head(lang, *, title, desc, url, ar_url, en_url, keywords="", og_type="article",
+         og_image=None, extra_ld="", css=("/style.css", "/articles/article.css"),
+         robots="index, follow, max-image-preview:large, max-snippet:-1"):
+    o = L[lang]
+    img = og_image or OG_IMAGE
+    css_links = "".join(f'  <link rel="stylesheet" href="{c}">\n' for c in css)
+    kw = f'  <meta name="keywords" content="{e(keywords, True)}">\n' if keywords else ""
+    return (
+        "<!DOCTYPE html>\n" + o["htmltag"] + "\n<head>\n"
+        f'  <script async src="https://www.googletagmanager.com/gtag/js?id={GA_ID}"></script>\n'
+        "  <script>\n    window.dataLayer = window.dataLayer || [];\n"
+        "    function gtag(){dataLayer.push(arguments);}\n    gtag('js', new Date());\n"
+        f"    gtag('config', '{GA_ID}');\n  </script>\n"
+        '  <script src="/analytics.js" defer></script>\n'
+        '  <meta charset="UTF-8">\n'
+        '  <meta name="viewport" content="width=device-width, initial-scale=1.0">\n'
+        f'  <title>{e(title)} | {o["site"]}</title>\n'
+        f'  <meta name="description" content="{e(desc, True)}">\n'
+        + kw +
+        f'  <meta name="author" content="{AUTHOR}">\n'
+        f'  <meta name="robots" content="{robots}">\n'
+        f'  <link rel="canonical" href="{url}">\n'
+        f'  <link rel="alternate" hreflang="ar" href="{ar_url}">\n'
+        f'  <link rel="alternate" hreflang="en" href="{en_url}">\n'
+        f'  <link rel="alternate" hreflang="x-default" href="{ar_url}">\n'
+        f'  <meta property="og:title" content="{e(title, True)} | {o["site"]}">\n'
+        f'  <meta property="og:description" content="{e(desc, True)}">\n'
+        f'  <meta property="og:type" content="{og_type}">\n'
+        f'  <meta property="og:url" content="{url}">\n'
+        f'  <meta property="og:image" content="{img}">\n'
+        '  <meta property="og:image:width" content="1200">\n'
+        '  <meta property="og:image:height" content="630">\n'
+        '  <meta property="og:site_name" content="Sihtak">\n'
+        f'  <meta property="og:locale" content="{o["oglocale"]}">\n'
+        f'  <meta property="og:locale:alternate" content="{o["oglocale_alt"]}">\n'
+        '  <meta name="twitter:card" content="summary_large_image">\n'
+        '  <meta name="twitter:site" content="@sihtak_app">\n'
+        f'  <meta name="twitter:image" content="{img}">\n'
+        '  <link rel="manifest" href="/manifest.json">\n'
+        '  <meta name="theme-color" content="#ffffff" id="meta-theme-color">\n'
+        '  <link rel="icon" type="image/png" href="/icon.png">\n'
+        '  <link rel="apple-touch-icon" href="/icon.png">\n'
+        '  <link rel="alternate" type="application/rss+xml" title="Sihtak" href="/articles/feed.xml">\n'
+        + css_links
+        + extra_ld
+        + '  <link rel="preconnect" href="https://fonts.googleapis.com">\n'
+        '  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>\n'
+        '  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Tajawal:wght@400;500;700;800&display=swap" rel="stylesheet">\n'
+        "  <script>(function(){var t=localStorage.getItem('sihtak-theme');if(t!=='dark'){document.documentElement.setAttribute('data-theme','light');}})();</script>\n"
+        "</head>\n<body>\n"
+    )
+
+
+def jd(d):
+    return json.dumps(d, ensure_ascii=False, separators=(", ", ": "))
+
+
+ORG_LD = {
+    "@type": "Organization", "@id": f"{SITE}/#org", "name": "Sihtak",
+    "alternateName": "صحتك", "url": SITE,
+    "logo": {"@type": "ImageObject", "url": f"{SITE}/icon.png"},
+    "sameAs": ["https://instagram.com/sihtak_app"],
+    "parentOrganization": {"@type": "Organization", "name": "POCTIFY LTD",
+                           "url": "https://poctify.com"},
+}
+
+PERSON_LD = {
+    "@type": "Person", "@id": f"{SITE}/#adnan", "name": AUTHOR, "url": AUTHOR_URL,
+    "jobTitle": "Founder, Sihtak",
+    "knowsAbout": ["point-of-care testing", "laboratory information systems",
+                   "health informatics", "HL7", "medical laboratory diagnostics"],
+    "worksFor": {"@id": f"{SITE}/#org"},
+}
+
+
+def card(lang, a):
+    """One article card, used by hubs, category pages and related sections."""
+    c = a["content"][lang]
+    cid = a.get("category")
+    chip = cat_name(lang, cid) or a.get(f"chip_{lang}", "")
+    href = f'{L[lang]["base"]}{a["slug"]}/'
+    meta = (f'{fmt_date(a["date_iso"], lang)} · {a["read_min"]} '
+            f'{"دقائق قراءة" if lang == "ar" else "min read"}')
+    icon = a.get("icon") or (CAT_BY_ID.get(cid, {}).get("icon", ""))
+    return (
+        f'        <a class="art-card reveal" href="{href}" data-cat="{e(cid or "", True)}">\n'
+        f'          <div class="art-card-icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">{icon}</svg></div>\n'
+        f'          <span class="art-chip">{e(chip)}</span>\n'
+        f'          <h3>{e(c["title"])}</h3>\n'
+        f'          <p>{e(c["desc"])}</p>\n'
+        f'          <span class="art-card-meta">{meta}</span>\n'
+        f'        </a>\n'
+    )
+
+
+def load_articles():
+    """All articles, newest first, from the authored file plus the metadata-only
+    records for the six pages that predate the content engine."""
+    out = []
+    for name in ("articles.json", "legacy.json"):
+        p = os.path.join(BASE, "content", name)
+        if os.path.exists(p):
+            with open(p, encoding="utf-8") as fh:
+                for a in json.load(fh):
+                    a.setdefault("_legacy", name == "legacy.json")
+                    out.append(a)
+    seen, uniq = set(), []
+    for a in out:
+        if a["slug"] in seen:
+            continue
+        seen.add(a["slug"])
+        uniq.append(a)
+    uniq.sort(key=lambda x: (x["date_iso"], x["slug"]), reverse=True)
+    return uniq

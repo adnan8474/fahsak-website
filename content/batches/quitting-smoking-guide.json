@@ -1,0 +1,375 @@
+{
+  "slug": "quitting-smoking-guide",
+  "category": "mental-health",
+  "chip_ar": "الصحة النفسية",
+  "chip_en": "Mental Health",
+  "date_iso": "2026-07-14",
+  "sources": [
+    {
+      "label": "Rigotti NA, Kruse GR, Livingstone-Banks J et al: Treatment of Tobacco Smoking: A Review, JAMA, 2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35133411/"
+    },
+    {
+      "label": "Anthenelli RM, Benowitz NL, West R et al: Neuropsychiatric safety and efficacy of varenicline, bupropion, and nicotine patch in smokers with and without psychiatric disorders (EAGLES): a double-blind, randomised, placebo-controlled clinical trial, Lancet (London, England), 2016",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27116918/"
+    },
+    {
+      "label": "Rahimi F, Massoudifar A, Rahimi R et al: Smoking cessation pharmacotherapy; varenicline or bupropion?, Daru : journal of Faculty of Pharmacy, Tehran University of Medical Sciences, 2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39264407/"
+    },
+    {
+      "label": "Kakaje A, Alhalabi MM, Alyousbashi A et al: Smoking habits and the influence of war on cigarette and shisha smoking in Syria, PloS one, 2021",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34473786/"
+    },
+    {
+      "label": "Maziak W, Nakkash R, Bahelah R et al: Tobacco in the Arab world: old and new epidemics amidst policy paralysis, Health policy and planning, 2014",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23958628/"
+    },
+    {
+      "label": "Hersi M, Beck A, Hamel C et al: Effectiveness of smoking cessation interventions among adults: an overview of systematic reviews, Systematic reviews, 2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38997788/"
+    }
+  ],
+  "content": {
+    "ar": {
+      "title": "كيف تتوقف عن التدخين فعلاً: خطة عملية",
+      "desc": "دليل عملي للإقلاع عن التدخين والشيشة: العلاجات التي تضاعف فرص النجاح، خطة يوم الإقلاع، والتعامل مع الانتكاس بواقعية.",
+      "keywords": "الإقلاع عن التدخين, التدخين, الشيشة, بديل النيكوتين, فارينيكلين, بوبروبيون, الانتكاس, يوم الإقلاع",
+      "h1": "كيف تتوقف عن التدخين فعلاً: دليل عملي خطوة بخطوة",
+      "takeaways": [
+        "معظم المدخنين يحتاجون لعدة محاولات قبل النجاح، والانتكاس ليس فشلاً بل جزء طبيعي من العملية.",
+        "الأدوية والبدائل النيكوتينية تضاعف فرص النجاح مقارنة بالإقلاع المفاجئ وحده.",
+        "الشيشة تسبب الإدمان مثل السجائر تماماً وتحتاج لنفس خطة الإقلاع.",
+        "التخطيط ليوم الإقلاع قبله بأسبوع، ووجود دعم اجتماعي، يرفعان نسبة النجاح بشكل كبير.",
+        "ارتفاع الوزن الطفيف بعد الإقلاع أمر مؤقت ومتوقع ولا يجب أن يثني عن المحاولة."
+      ],
+      "sections": [
+        {
+          "h2": "لماذا الإقلاع صعب جداً على الرغم من إرادتك؟",
+          "paras": [
+            "النيكوتين في التبغ يصل إلى الدماغ في ثوانٍ معدودة ويحفز إطلاق الدوبامين، وهو الناقل العصبي المرتبط بالمتعة والمكافأة. مع الوقت يتكيف الدماغ ليتوقع جرعة النيكوتين ويصبح عمله الطبيعي مرتبطاً بها، فتشعر بتوتر وانزعاج وصعوبة في التركيز حين يغيب. هذه أعراض انسحاب حقيقية لها أساس بيولوجي، وليست مجرد ضعف في الشخصية.",
+            "هذا الاعتماد الجسدي يضاف إليه اعتماد نفسي وسلوكي عميق. فنجانك الصباحي أو كأس الشاي بعد الأكل أو جلسة مع الأصدقاء تصبح كلها مرتبطة بلحظة التدخين. يبني الدماغ ارتباطاً بين هذه المواقف والمتعة التي يشعر بها، فيطلب التدخين تلقائياً حين تكررها. كسر هذه الروابط يتطلب وقتاً وجهداً لا علاقة له بقوة الإرادة، بل يحتاج لإعادة تشكيل العادات بشكل مقصود.",
+            "دراسة نشرت في مجلة Health Policy and Planning تصف انتشار التبغ في العالم العربي بأنه وباء قديم ووباء جديد في آنٍ واحد: فإلى جانب السجائر، باتت الشيشة مصدر نيكوتين لملايين الشباب الذين لا يعدّونها تدخيناً حقيقياً. دراسة سورية نشرت في PLOS ONE عام 2021 وجدت أن الحرب زادت معدلات التدخين لدى الشباب السوري، مما يجعل مسألة الإقلاع أكثر إلحاحاً في سياقات الأزمات."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "info",
+            "title": "الشيشة ليست أقل خطراً",
+            "items": [
+              "جلسة شيشة واحدة قد تعادل في حجم الدخان المستنشق عشرات السجائر",
+              "النيكوتين في الشيشة يسبب الإدمان مثل السجائر تماماً",
+              "مشاركة الفوهة تنقل عدوى الهربس والتهاب الكبد والسل",
+              "أول أكسيد الكربون في دخان الشيشة يصل لمستويات خطيرة"
+            ]
+          }
+        },
+        {
+          "h2": "هل الإقلاع المفاجئ أفضل أم التدرج؟",
+          "paras": [
+            "السؤال الأكثر شيوعاً قبل كل محاولة إقلاع هو: هل أتوقف دفعة واحدة أم أخفف تدريجياً؟ تشير مراجعة شاملة نشرتها مجلة JAMA عام 2022 إلى أن الطريقتين تؤديان لنتائج متشابهة عند استخدام الأدوية المساعدة، لكن الإقلاع المفاجئ مع دعم دوائي يميل لنتائج أفضل في الدراسات.",
+            "الأهم من طريقة الإقلاع هو وجود خطة واضحة وتحديد يوم الإقلاع مسبقاً. من يضع تاريخاً محدداً للإقلاع وينتظره بدلاً من القول 'سأتوقف يوماً ما' تكون لديه فرصة أكبر للنجاح. حدد يومك قبل أسبوع على الأقل، وأخبر من حولك.",
+            "استعمل الأسبوع قبل يوم الإقلاع لتخفيض عدد السجائر، وتجنب التدخين في أماكن بعينها كالسيارة أو الغرفة، وتخلص من الأعقاب وأدوات التدخين. كل هذه الخطوات تضعف الارتباط السلوكي تدريجياً."
+          ],
+          "visual": {
+            "type": "timeline",
+            "title": "خطة الأسبوع قبل يوم الإقلاع",
+            "items": [
+              {"when": "اليوم 1", "what": "حدد يوم إقلاعك وأخبر شخصاً تثق به"},
+              {"when": "اليوم 2-3", "what": "تحدث مع طبيب أو صيدلاني عن الدواء المناسب"},
+              {"when": "اليوم 4-5", "what": "تخلص من السجائر والولاعات والطفايات"},
+              {"when": "اليوم 6", "what": "ضع بديل نيكوتين أو ابدأ الدواء إن وُصف لك"},
+              {"when": "يوم الإقلاع", "what": "لا تدخن أي نفس، وتواصل مع شخص داعم"}
+            ]
+          }
+        },
+        {
+          "h2": "بدائل النيكوتين: أنواعها وكيفية استخدامها",
+          "paras": [
+            "بدائل النيكوتين (Nicotine Replacement Therapy أو NRT) توفر النيكوتين للجسم بطريقة أبطأ وبدون دخان، مما يخفف أعراض الانسحاب مع تجنب المواد الضارة الأخرى في التبغ. وتشمل اللصقات (Patches) والعلكة والأقراص القابلة للذوبان والبخاخ الأنفي. كل شكل يناسب نمطاً مختلفاً من التدخين، ولا يوجد بديل واحد مثالي للجميع.",
+            "اللصقة تعطي جرعة ثابتة على مدار اليوم وهي مناسبة لمن يدخنون بانتظام وبأعداد كبيرة. أما العلكة والأقراص فتستخدم عند الشعور برغبة مفاجئة في مواقف بعينها، وتمضغ أو تذاب ببطء دون ابتلاع مستمر. المزج بين لصقة يومية وعلكة عند الرغبات الشديدة يزيد من فعالية العلاج، وكثير من الدراسات تُفضّل هذا النهج المزدوج على استخدام شكل واحد فقط.",
+            "مراجعة نشرتها مجلة Systematic Reviews عام 2024 تؤكد أن بدائل النيكوتين تضاعف فرص الإقلاع مقارنة بالمحاولة بدون أي مساعدة. وهي متاحة في معظم الصيدليات العربية دون وصفة طبية، لكن الصيدلاني يساعدك في اختيار الجرعة المناسبة لعدد سجائرك اليومي. من يدخن أقل من 10 سجائر يومياً يحتاج جرعة أقل من من يدخن علبة كاملة."
+          ]
+        },
+        {
+          "h2": "الأدوية الموصوفة: فارينيكلين وبوبروبيون",
+          "paras": [
+            "فارينيكلين (Varenicline) هو عقار يعمل على نفس مستقبلات النيكوتين في الدماغ، فيخفف الشعور بالرغبة في التدخين ويقلل المتعة الناتجة عنه إذا تدخن مجدداً. تبدأ بجرعة صغيرة لمدة أسبوع ثم ترفعها تدريجياً، وتحدد يوم الإقلاع خلال الأسابيع الأولى من العلاج.",
+            "دراسة EAGLES الواسعة التي نشرتها مجلة Lancet عام 2016 وشملت أكثر من 8 آلاف شخص أثبتت أن فارينيكلين أكثر فعالية من اللصقة النيكوتينية وبوبروبيون في مساعدة الناس على الإقلاع، وأن مخاوف الأعراض النفسية كانت مبالغاً فيها في الحالات السابقة. مع ذلك أخبر طبيبك عن أي تاريخ نفسي لديك قبل البدء.",
+            "بوبروبيون (Bupropion) مضاد اكتئاب يساعد أيضاً على تخفيف الرغبة في النيكوتين. يبدأ قبل أسبوع إلى أسبوعين من يوم الإقلاع ويستمر لعدة أشهر. كلا الدواءين يحتاج وصفة طبية في معظم دول المنطقة وقد لا يكون متاحاً في كل مكان، لذا استشر طبيبك أو صيدلانيك عن البدائل المتاحة."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "مقارنة بين خيارات علاج الإقلاع",
+            "head": ["الخيار", "كيف يعمل", "يحتاج وصفة؟", "مناسب لـ"],
+            "rows": [
+              ["لصقة نيكوتين", "جرعة ثابتة طوال اليوم", "لا", "المدخنون المنتظمون"],
+              ["علكة / أقراص نيكوتين", "عند الرغبة الشديدة", "لا", "أوقات التوتر والمحفزات"],
+              ["فارينيكلين", "يسد مستقبلات النيكوتين", "نعم", "المدخنون الكثيفون"],
+              ["بوبروبيون", "يخفف الرغبة والاكتئاب", "نعم", "من لديه اكتئاب مصاحب"]
+            ]
+          }
+        },
+        {
+          "h2": "أعراض الانسحاب: ماذا تتوقع في الأيام الأولى؟",
+          "paras": [
+            "أعراض الانسحاب من النيكوتين تبلغ ذروتها عادة بين اليوم الثاني والرابع ثم تبدأ في التراجع خلال أسبوعين. وتشمل التهيج وصعوبة التركيز والشعور بالضيق والجوع المفاجئ والصداع واضطراب النوم. معرفتها مسبقاً تجعلها أقل إرهاقاً عندما تحدث، لأنك تفسرها كأعراض طبيعية للتعافي وليس كإشارة لإعادة التدخين.",
+            "الرغبة في التدخين تأتي على شكل موجات تستمر كل منها ثلاثة إلى خمسة دقائق ثم تمر. استراتيجية 'أؤخرها خمس دقائق' فعالة جداً: حين تأتيك الرغبة اشرب ماء، أخرج من المكان، أو اشغل يديك بشيء حتى تمر الموجة. كل موجة تتجاوزها دون تدخين تضعف الموجة القادمة لأن المسار العصبي لا يتلقى تعزيزاً. المشي القصير أو التنفس العميق البطيء فعّالان أيضاً.",
+            "الجوع الزائد شائع لأن النيكوتين يكبح الشهية. تناول وجبات خفيفة صحية كالجزر والخيار والمكسرات يمنع الأكل العشوائي دون أن يكون تعويضاً عاطفياً. ارتفاع الوزن الطفيف في الأشهر الأولى أمر طبيعي ومتوقع ولا يجب أن يُستخدم مبرراً للعودة للتدخين. فوائد الإقلاع على القلب والرئتين تفوق هذا الأثر الجانبي بفوارق كبيرة."
+          ]
+        },
+        {
+          "h2": "كيف تتعامل مع المحفزات والضغوط الاجتماعية؟",
+          "paras": [
+            "المحفزات هي المواقف التي ترتبط في ذهنك بالتدخين: الشاي الصباحي، نهاية الوجبات، التوتر، الجلسات الاجتماعية. تحديد محفزاتك قبل الإقلاع يساعدك في التخطيط لبدائلها. إذا كانت القهوة الصباحية ترتبط بسيجارة، غيّر مكانها أو حوّلها إلى شاي أعشاب لبضعة أسابيع.",
+            "الضغط الاجتماعي في مجتمعاتنا حقيقي وكبير. الجلسات العائلية والسهرات تحيط بك بالدخان. لك الحق في الابتعاد عن الغرفة أو طلب عدم التدخين بقربك. لا تحاول الإقلاع وأنت في موقف اجتماعي ضاغط في الوقت ذاته، رتب لأشهر الإقلاع الأولى في هدوء نسبي.",
+            "شجّع نفسك بالأرقام: معظم المال الذي كنت تنفقه على التدخين يمكن استخدامه في شيء آخر. احسب ما توفره أسبوعياً وضعه في هدف ملموس. الدعم من شخص يتوقف معك أو يدعمك يضاعف فرص النجاح."
+          ]
+        },
+        {
+          "h2": "الانتكاس: لماذا يحدث وكيف تتعامل معه؟",
+          "paras": [
+            "معظم من يتوقفون عن التدخين يمرون بأكثر من محاولة قبل النجاح النهائي. هذا ليس ضعفاً ولا عجزاً، بل طبيعة الإدمان. دراسات الإقلاع تُظهر أن متوسط المحاولات قبل الإقلاع الناجح يتراوح بين 8 و10 محاولات، وكل محاولة تعلمك شيئاً عن محفزاتك ونقاط ضعفك.",
+            "حين تنتكس لا تتخلَّ عن يومك كله بالقول 'لقد تدخنت فلا فائدة من الاستمرار اليوم'. هذا التفكير هو ما يحوّل نفساً واحداً إلى عبوة كاملة. توقف فوراً، اسأل نفسك ماذا كان المحفز، وأعلن يوم إقلاع جديداً في أقرب وقت.",
+            "راجع مع طبيبك ما جرى: ربما الجرعة غير كافية، أو المحفز لم يُدار، أو تحتاج لدعم نفسي إضافي. الإقلاع النهائي هدف يستحق المثابرة وليس سباقاً تخسره بتعثرة واحدة."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "warn",
+            "title": "إذا انتكست",
+            "items": [
+              "لا تدخن بقية اليوم معللاً بأنك 'أفسدت يومك'",
+              "حدد المحفز الذي أدى للانتكاس واكتبه",
+              "أعلن يوم إقلاع جديداً خلال 24 ساعة",
+              "استشر طبيبك أو صيدلانيك إذا تكرر الانتكاس في نفس الموقف"
+            ]
+          }
+        },
+        {
+          "h2": "ماذا يحدث لجسمك بعد الإقلاع؟",
+          "paras": [
+            "التحسن يبدأ أسرع مما يتوقع معظم الناس. بعد 20 دقيقة من آخر سيجارة يبدأ ضغط الدم ومعدل ضربات القلب في الانخفاض. بعد 12 ساعة تنخفض مستويات أول أكسيد الكربون في الدم. بعد أسبوعين إلى ثلاثة تتحسن وظيفة الرئتين ودوران الدم.",
+            "بعد سنة واحدة ينخفض خطر الإصابة بأمراض القلب إلى النصف مقارنة بمن يدخن. بعد خمس سنوات ينخفض خطر السكتة الدماغية لمستوى قريب من غير المدخنين. الجسم يتعافى بشكل ملحوظ بغض النظر عن سنوات التدخين السابقة، وهذا ما يجعل كل محاولة إقلاع تستحق العناء.",
+            "الحاسة الشمية وحاسة التذوق تتحسنان خلال أيام قليلة. كثيرون يصفون أن الطعام أصبح أكثر نكهة، وأن تنفسهم أصبح أعمق وأسهل. هذه التحسينات الملموسة تساعد في تعزيز الدافع للاستمرار."
+          ]
+        },
+        {
+          "h2": "الإقلاع في سياق الصيام ورمضان",
+          "paras": [
+            "يوفر شهر رمضان فرصة حقيقية للإقلاع، فالامتناع عن التدخين طوال ساعات النهار يعني أن الجسم يمر بفترات انسحاب طويلة بالفعل. الذين يمسكون عن التدخين أثناء الصيام ثم يعودون إليه بعد الإفطار يمكنهم استغلال هذه التجربة وتحويلها لإقلاع كامل. في الأيام الأولى من رمضان عادةً ما تكون رغبة التدخين النهارية شديدة، لكنها تخف تدريجياً مع تكيف الجسم، وهذا يثبت أن الجسم قادر على العمل بدون نيكوتين.",
+            "الأصعب عادة هو ساعات المساء حيث الجلسات والسهرات الرمضانية. خطط لبديل في هذه الساعات مسبقاً: اشغل يديك بشيء، اجلس في مكان مختلف، أو ابتعد عمن يدخنون. أخبر أصحابك المدخنين أنك تحاول الإقلاع، فكثير منهم سيحترمون ذلك ويبعدون دخانهم عنك.",
+            "إذا كنت تستخدم بديلاً نيكوتينياً، يمكن استخدام اللصقة أو الأقراص خلال ساعات الليل. اسأل طبيبك أو صيدلانيك عن توقيت الجرعات المناسب لجدول صيامك. بعض العلماء يرون أن اللصقة النيكوتينية تُفطّر لأنها تُدخل مادة عبر الجلد، لذا استشر في هذه المسألة وفق قناعتك."
+          ]
+        },
+        {
+          "h2": "كيف تحافظ على الإقلاع بعد مرور الأشهر الأولى؟",
+          "paras": [
+            "الأشهر الثلاثة الأولى هي الأصعب، لكن الإقلاع الدائم يحتاج لانتباه مستمر بعدها أيضاً. كثير من الناس ينتكسون بعد فترة هدوء طويلة في موقف اجتماعي أو تحت ضغط شديد. الحذر لا يعني القلق الدائم، بل يعني معرفة محفزاتك وعدم المجازفة بها.",
+            "تجنب ما يسميه المدخنون السابقون 'السيجارة الاجتماعية': فكرة أنك بعد سنوات يمكنك تدخين واحدة في مناسبة خاصة دون العودة للإدمان. الأبحاث تثبت أن هذا نادراً ما ينتهي هكذا. جسمك يتذكر النيكوتين حتى بعد سنوات من الإقلاع وسيطلب المزيد.",
+            "احتفل بمعالم رحلتك: أسبوع، شهر، ستة أشهر، سنة. هذه الاحتفالات ليست مجرد طقوس بل تعزز في دماغك أن هويتك الجديدة هي غير المدخن لا المدخن الذي يحاول الإقلاع. الفرق في الهوية حاسم لمن يدرسون الإقلاع طويل الأمد."
+          ]
+        }
+      ],
+      "tie": "تطبيق صحتك يساعدك على تتبع رحلة إقلاعك: سجّل يوم إقلاعك وتابع عدد الأيام والمال الذي وفرته، وضع تذكيرات لمواعيد الدواء أو بديل النيكوتين، واستخدم المساعد الذكي للإجابة عن أسئلتك في أي لحظة صعبة.",
+      "faqs": [
+        {
+          "q": "كم من الوقت تستمر رغبة التدخين بعد الإقلاع؟",
+          "a": "الرغبات الحادة تمر كموجات لا تستمر عادة أكثر من 3 إلى 5 دقائق. أشد هذه الموجات يكون في الأيام 2 إلى 4 ثم تخف تدريجياً. معظم الناس يجدون أن الرغبات في الأسبوع الثاني أقل حدة بكثير من الأسبوع الأول."
+        },
+        {
+          "q": "هل السجائر الإلكترونية تساعد على الإقلاع؟",
+          "a": "أظهرت بعض الدراسات أن السجائر الإلكترونية تساعد بعض الناس على الإقلاع من السجائر التقليدية، لكن الأدلة لا تزال أقل قوة من الأدوية المعتمدة. إذا كنت تستخدمها للإقلاع، الهدف هو التوقف عنها أيضاً في النهاية لأنها تبقي الاعتماد على النيكوتين."
+        },
+        {
+          "q": "هل يمكن الإقلاع أثناء الحمل؟",
+          "a": "الإقلاع أثناء الحمل مهم جداً للأم والجنين. بدائل النيكوتين تستخدم أحياناً تحت إشراف طبي إذا كانت الفائدة تفوق الخطر، أما فارينيكلين وبوبروبيون فلا يُنصح بهما عادة أثناء الحمل. استشيري طبيبتك فور معرفتك بالحمل."
+        },
+        {
+          "q": "هل أزيد وزني بعد الإقلاع وإلى أي درجة؟",
+          "a": "نعم، معظم الناس يكتسبون بعض الوزن بعد الإقلاع، في المتوسط 3 إلى 4 كيلوغرامات. هذا الوزن مؤقت في أغلب الحالات ويمكن التحكم به بالنشاط البدني والتغذية. فوائد الإقلاع الصحية لقلبك ورئتيك تفوق هذا الأثر الجانبي بكثير."
+        },
+        {
+          "q": "هل يكفي الإقلاع التدريجي أم يجب التوقف فجأة؟",
+          "a": "كلا الطريقتين ممكنتان، والإقلاع المفاجئ مع دعم دوائي يميل لنتائج أفضل في كثير من الدراسات. لكن إذا بدأت في التخفيض التدريجي، ضع تاريخاً محدداً للتوقف الكامل ولا تمدد فترة التخفيض إلى ما لا نهاية."
+        },
+        {
+          "q": "ماذا أفعل إن كان أفراد عائلتي يدخنون في البيت؟",
+          "a": "هذا من أصعب التحديات. تحدث بصدق مع عائلتك عن حاجتك للدعم، واطلب منهم عدم التدخين في حضورك على الأقل في الأشهر الأولى. إذا كان ذلك مستحيلاً، حدد غرفة أو مكاناً خالياً من التدخين تلجأ إليه."
+        },
+        {
+          "q": "هل يصف الطبيب دواء مجاناً للإقلاع في دول المنطقة؟",
+          "a": "يتفاوت هذا حسب البلد والمنظومة الصحية. في بعض دول الخليج تتوفر عيادات متخصصة لدعم الإقلاع. في أماكن أخرى يمكن شراء بدائل النيكوتين دون وصفة من الصيدلية. اسأل طبيبك عن الخيارات المتاحة محلياً."
+        }
+      ]
+    },
+    "en": {
+      "title": "How to Actually Stop Smoking: A Practical Guide",
+      "desc": "A practical guide to quitting smoking and shisha: the treatments that double your chances, planning quit day, handling relapse, and the shisha-specific angle.",
+      "keywords": "quit smoking, stop smoking, nicotine replacement, varenicline, bupropion, shisha quit, smoking cessation, relapse smoking",
+      "h1": "How to Actually Stop Smoking: Step by Step",
+      "takeaways": [
+        "Most people need several attempts before quitting for good, and relapse is a normal part of the process rather than a sign of weakness.",
+        "Medication and nicotine replacement roughly double your chance of success compared with willpower alone.",
+        "Shisha creates the same nicotine dependence as cigarettes and requires the same quit plan.",
+        "Setting a specific quit date at least one week ahead and telling someone about it significantly raises your success rate.",
+        "A small weight gain after quitting is expected and temporary, and it should not put you off trying."
+      ],
+      "sections": [
+        {
+          "h2": "Why is quitting so hard even when you want to?",
+          "paras": [
+            "Nicotine reaches the brain within seconds of inhaling and triggers a release of dopamine, the neurotransmitter linked to reward and pleasure. Over time the brain adjusts to expect nicotine and its normal function becomes tied to it. When nicotine is absent you feel irritable, restless, and unable to concentrate. This is physical dependence, and it is not a character flaw.",
+            "On top of the physical dependence sits a deep behavioural one. Your morning coffee, the end of a meal, a conversation with friends each become tightly linked in memory to the act of smoking. Breaking those links takes effort that has nothing to do with willpower. It requires restructuring habits one at a time.",
+            "A 2014 analysis published in Health Policy and Planning described tobacco use across the Arab world as two overlapping epidemics: traditional cigarette smoking and a newer shisha epidemic among young people who do not consider it real smoking. That misclassification means shisha users often delay quitting attempts for years, missing the window where the habit is easiest to break."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "info",
+            "title": "Shisha is not safer than cigarettes",
+            "items": [
+              "One shisha session can expose you to the same smoke volume as dozens of cigarettes",
+              "The nicotine in shisha causes dependence just as cigarettes do",
+              "Sharing a mouthpiece transmits herpes, hepatitis and tuberculosis",
+              "Carbon monoxide levels during a shisha session can reach dangerous concentrations"
+            ]
+          }
+        },
+        {
+          "h2": "Cold turkey or cutting down gradually: which works better?",
+          "paras": [
+            "The most common question before a quit attempt is whether to stop all at once or taper down. A 2022 review in JAMA found that both approaches produce similar results when medication support is used, but abrupt cessation paired with medication tends to perform slightly better across studies.",
+            "More important than the method is having a concrete plan and a specific quit date. Someone who names a date and waits for it succeeds more often than someone who says 'I'll quit someday.' Set your date at least one week ahead, write it down and tell someone whose opinion you care about.",
+            "Use the week before quit day to prepare: reduce how much you smoke, stop smoking in certain places like the car or bedroom, and remove cigarettes, lighters and ashtrays from your home. Each of these steps weakens one behavioural link before the bigger break."
+          ],
+          "visual": {
+            "type": "timeline",
+            "title": "The week before quit day",
+            "items": [
+              {"when": "Day 1", "what": "Set your quit date, tell someone you trust"},
+              {"when": "Day 2-3", "what": "Talk to a doctor or pharmacist about medication options"},
+              {"when": "Day 4-5", "what": "Remove cigarettes, lighters and ashtrays from your environment"},
+              {"when": "Day 6", "what": "Start nicotine replacement or prescribed medication"},
+              {"when": "Quit day", "what": "No single puff. Call your support person if the urge is strong"}
+            ]
+          }
+        },
+        {
+          "h2": "Nicotine replacement: types and how to use them",
+          "paras": [
+            "Nicotine replacement therapy (NRT) delivers nicotine to your body more slowly than a cigarette and without the other toxic chemicals in tobacco smoke. The forms available include patches, gum, lozenges, nasal spray and nicotine inhalers. Each suits a different pattern of use.",
+            "A patch delivers a steady background dose across the day and suits heavy, regular smokers. Gum and lozenges work on demand for sudden cravings, and the technique matters: chew the gum slowly and rest it between your cheek and gum rather than chewing continuously. Combining a daily patch with gum for breakthrough cravings is more effective than either alone.",
+            "A 2024 overview in Systematic Reviews confirms that NRT roughly doubles the chance of quitting compared with an unaided attempt. Most forms are available without a prescription at pharmacies across the region. Ask your pharmacist about the right dose for your daily cigarette count, as under-dosing is a common reason NRT fails."
+          ]
+        },
+        {
+          "h2": "Prescription medications: varenicline and bupropion",
+          "paras": [
+            "Varenicline works on the same brain receptors as nicotine, blunting cravings and making smoking less rewarding if you do lapse. You start at a low dose for a week, increase it, and set your quit date within the first two weeks of treatment. A full course runs twelve weeks, with a further twelve weeks if you are at risk of relapse.",
+            "The EAGLES trial published in the Lancet in 2016, involving more than 8,000 participants, established that varenicline outperforms nicotine patch and bupropion for smoking cessation, and that earlier concerns about psychiatric side effects were overstated in the general population. That said, tell your doctor if you have a history of depression or anxiety before starting.",
+            "Bupropion is an antidepressant that also reduces nicotine cravings through a different mechanism. You begin it one to two weeks before quit day and continue for several months. Both medications require a prescription and may not be available in every country in the region, so ask your doctor what is accessible locally and what the best available option is."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Quit-aid comparison",
+            "head": ["Option", "How it works", "Prescription needed?", "Best suited to"],
+            "rows": [
+              ["Nicotine patch", "Steady background dose all day", "No", "Regular, habitual smokers"],
+              ["Nicotine gum or lozenge", "On demand for sudden cravings", "No", "Managing triggers and stress moments"],
+              ["Varenicline", "Blocks nicotine receptors in the brain", "Yes", "Heavy smokers, previous failed attempts"],
+              ["Bupropion", "Reduces cravings and low mood", "Yes", "Smokers with co-existing depression"]
+            ]
+          }
+        },
+        {
+          "h2": "Withdrawal symptoms: what to expect in the first days",
+          "paras": [
+            "Nicotine withdrawal peaks between days two and four and then begins to fade over two weeks. Symptoms include irritability, difficulty concentrating, low mood, increased appetite, headache and restlessness. Knowing what to expect makes each symptom feel manageable rather than alarming. Most symptoms are significantly better by the end of the second week.",
+            "Cravings arrive in waves that rarely last more than three to five minutes. The five-minute delay strategy is effective: when a craving hits, drink a glass of water, move to a different room or pick up a task with your hands, and wait for the wave to pass. Every craving you outlast without smoking weakens the next one, because the neural pathway is receiving no reinforcement.",
+            "Increased hunger is common because nicotine suppresses appetite. Having healthy snacks available, such as carrots, cucumber, or a small handful of nuts, satisfies the oral habit without turning it into an eating problem. Expect some weight gain in the early months. It is real, it is normal and the health benefit of quitting far outweighs it."
+          ]
+        },
+        {
+          "h2": "Triggers and social pressure: the hardest part in our context",
+          "paras": [
+            "Triggers are the situations your brain has wired to smoking: the morning tea, the end of meals, feeling stressed, sitting with friends. Mapping your personal triggers before quit day lets you plan substitutes. If your morning coffee is always paired with a cigarette, change its location for a few weeks or switch to herbal tea while the habit rewires.",
+            "Social pressure in the Arab context is real and significant. Family gatherings and evening gatherings often mean being surrounded by smoke. You are entitled to step out of a room or ask people not to smoke near you. Try not to attempt quitting at the same time as a major social occasion or a period of unusual stress. Plan the first months of quitting for a relatively stable period.",
+            "Motivate yourself with concrete numbers. Calculate what you spend on cigarettes per week and direct that money toward something you want. Support from someone who is quitting alongside you or actively cheering you on consistently doubles your chances in the research literature."
+          ]
+        },
+        {
+          "h2": "Relapse: why it happens and what to do",
+          "paras": [
+            "Most people who eventually quit successfully have made multiple attempts beforehand. This is the nature of addiction rather than a lack of motivation. Studies in this area suggest the average number of attempts before long-term success is eight to ten, and each attempt teaches you something about your triggers and vulnerabilities that the next attempt can use.",
+            "If you lapse, do not abandon the whole day with the thought that you have already failed so you may as well continue smoking. This all-or-nothing thinking is what turns a single cigarette into a full relapse. Stop immediately, identify what triggered the lapse, and set a new quit date within 24 hours.",
+            "Review what happened with your doctor. The dose may need adjusting, the trigger may need a specific strategy, or additional psychological support may help. Quitting is a goal worth persistent effort and it is never lost by a single stumble."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "warn",
+            "title": "If you lapse",
+            "items": [
+              "Do not write off the rest of the day and keep smoking",
+              "Identify the trigger that led to the lapse and write it down",
+              "Set a new quit date within 24 hours",
+              "Contact your doctor or pharmacist if the same trigger causes repeated lapses"
+            ]
+          }
+        },
+        {
+          "h2": "What happens to your body after you stop",
+          "paras": [
+            "The recovery begins faster than most people expect. Within 20 minutes of your last cigarette your blood pressure and heart rate start to fall. Within 12 hours carbon monoxide in your blood drops to normal. Within two to three weeks circulation and lung function measurably improve. These are not distant rewards but changes happening in the first days.",
+            "At one year your risk of heart disease is roughly half that of a continuing smoker. At five years your stroke risk approaches that of someone who has never smoked. The body recovers significantly regardless of how many years you have smoked, and this is one of the most important messages: it is never too late for quitting to make a real difference.",
+            "Smell and taste recover within days of stopping. Many people describe food tasting more vivid and breathing feeling easier within the first week. These immediate improvements are useful motivators during the hardest early days."
+          ]
+        },
+        {
+          "h2": "Quitting during Ramadan or while fasting",
+          "paras": [
+            "Ramadan offers a genuine practical window for quitting because you are already abstaining from smoking throughout the daylight hours. The body experiences extended nicotine withdrawal every day of the month. Many people who smoke report that after the first few days their daytime craving becomes manageable. The challenge is consistently the evening session, not the fast itself. In the first few days of fasting, daytime cravings are strongest, but the body adapts and this proves that normal function without nicotine is possible.",
+            "If evening gatherings and social smoking are your biggest trigger, plan specifically for them. Sit in a different spot, keep your hands occupied, and tell a trusted person at the gathering that you are quitting so they can support rather than offer you a cigarette. Letting close friends know makes it harder to accept a cigarette casually and brings you social accountability.",
+            "If you are using nicotine replacement, patches and lozenges can generally be used during the overnight hours before the pre-dawn meal. Discuss the timing of your medication with your pharmacist to fit your fasting schedule and your own religious position on the matter."
+          ]
+        },
+        {
+          "h2": "Staying quit: protecting the months and years after",
+          "paras": [
+            "The first three months are the hardest, but maintaining a quit requires attention beyond them. Many people relapse after a long smoke-free period, triggered by an intense social situation or a sudden stressful event. This does not mean living in constant vigilance but does mean knowing your triggers and not testing them unnecessarily once you have built a clean record.",
+            "Avoid what ex-smokers call the 'social cigarette' mistake: the belief that after years of not smoking you can have one at a special occasion without reigniting dependence. Research consistently shows this rarely ends that way. Your brain retains the nicotine pathway long after quitting and responds to reintroduction rapidly.",
+            "Acknowledge your milestones: one week, one month, six months, one year. These are not arbitrary ceremonies but reinforce a shift in how you identify yourself, from a smoker trying to quit to a non-smoker. Research on long-term quitting consistently finds that people who reframe their identity rather than seeing themselves as deprived ex-smokers are significantly more likely to stay quit."
+          ]
+        }
+      ],
+      "tie": "The Sihtak app can support your quit journey: log your quit date, track the days and the money you have saved, set reminders for medication or nicotine replacement doses, and ask the AI assistant any question during a difficult moment.",
+      "faqs": [
+        {
+          "q": "How long do cravings last after quitting?",
+          "a": "Individual cravings arrive as waves that typically last three to five minutes before passing. The most intense period is days two to four, after which most people find the waves noticeably weaker. By the end of the second week the majority of quitters report that cravings are much more manageable."
+        },
+        {
+          "q": "Do e-cigarettes help with quitting?",
+          "a": "Some studies show that e-cigarettes help some people move away from conventional cigarettes. The evidence is less robust than for licensed medications, and the long-term safety of e-cigarettes is still being studied. If you use them to quit, the aim should be to eventually stop those too, since nicotine dependence continues."
+        },
+        {
+          "q": "Is it safe to quit during pregnancy?",
+          "a": "Quitting during pregnancy is strongly recommended because smoking carries real risks for the developing baby. NRT is sometimes used under medical supervision when the benefit outweighs the risk. Varenicline and bupropion are generally not recommended during pregnancy. Talk to your doctor as soon as you know you are pregnant."
+        },
+        {
+          "q": "How much weight will I gain after quitting?",
+          "a": "Most people gain an average of three to four kilograms after quitting, mainly because nicotine suppresses appetite. This is usually temporary and can be managed with modest changes to diet and activity. The cardiovascular and lung benefits of quitting far outweigh the health impact of this weight change."
+        },
+        {
+          "q": "Should I cut down gradually or stop all at once?",
+          "a": "Both approaches can work, and abrupt cessation with medication support tends to perform slightly better in studies. If you choose gradual reduction, set a firm date for complete cessation and do not let the reduction phase extend indefinitely. The danger of endless tapering is that it delays full quitting without removing dependence."
+        },
+        {
+          "q": "What if family members smoke at home?",
+          "a": "This is one of the hardest situations. Be honest with your family about needing their support and ask them not to smoke in your presence, especially in the first months. If that is not possible, identify one room or outdoor space that is smoke-free and retreat there when cravings hit."
+        },
+        {
+          "q": "Where can I get free or subsidised quit support in the region?",
+          "a": "This varies by country. Several Gulf states run free smoking cessation clinics through health centres. In other parts of the region NRT is available over the counter without a prescription. Ask your doctor or nearest health centre what local support is available, as dedicated services have significantly better outcomes than quitting alone."
+        }
+      ]
+    }
+  }
+}

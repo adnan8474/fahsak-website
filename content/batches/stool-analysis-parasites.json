@@ -1,0 +1,306 @@
+{
+  "slug": "stool-analysis-parasites",
+  "category": "lab-tests",
+  "chip_ar": "فهم التحاليل",
+  "chip_en": "Understanding Lab Tests",
+  "date_iso": "2026-08-03",
+  "sources": [
+    {"label": "Dhubyan Mohammed Zaki Z: Prevalence of Entamoeba histolytica and Giardia Lamblia Associated with Diarrhea in Children referring to lbn Al-Atheer Hospital in Mosul, Iraq, Archives of Razi Institute, 2022", "url": "https://pubmed.ncbi.nlm.nih.gov/35891729/"},
+    {"label": "Faqe Mahmood SA, Mustafa HB: Molecular Identification and Prevalence of Entamoeba histolytica, Entamoeba dispar and Entamoeba moshkovskii in Erbil City, Northern Iraq, Polish journal of microbiology, 2020", "url": "https://pubmed.ncbi.nlm.nih.gov/32755082/"},
+    {"label": "Leung AKC, Leung AAM, Wong AHC et al: Giardiasis: An Overview, Recent patents on inflammation & allergy drug discovery, 2019", "url": "https://pubmed.ncbi.nlm.nih.gov/31210116/"},
+    {"label": "Muhsen K, Levine MM: A systematic review and meta-analysis of the association between Giardia lamblia and endemic pediatric diarrhea in developing countries, Clinical infectious diseases : an official publication of the Infectious Diseases Society of America, 2012", "url": "https://pubmed.ncbi.nlm.nih.gov/23169940/"},
+    {"label": "Lee MW, Pourmorady JS, Laine L et al: Use of Fecal Occult Blood Testing as a Diagnostic Tool for Clinical Indications: A Systematic Review and Meta-Analysis, The American journal of gastroenterology, 2020", "url": "https://pubmed.ncbi.nlm.nih.gov/31972617/"},
+    {"label": "Rockey DC: Occult gastrointestinal bleeding, The New England journal of medicine, 1999", "url": "https://pubmed.ncbi.nlm.nih.gov/10387941/"},
+    {"label": "Kareem Kadhim D, Abdulsalam Hraija B, Aqeele G et al: Molecular-Genotyping Detection of Entamoeba histolytica in Diarrheic Patients, Archives of Razi Institute, 2023", "url": "https://pubmed.ncbi.nlm.nih.gov/37312702/"}
+  ],
+  "content": {
+    "ar": {
+      "title": "تحليل البراز: الطفيليات والدم وما تعنيه النتائج",
+      "desc": "دليل واضح لقراءة نتيجة تحليل البراز: فحص الطفيليات كالأميبا والجيارديا، والدم الخفي، وكيفية أخذ العينة بشكل صحيح، ومتى تستدعي النتيجة مراجعة الطبيب.",
+      "keywords": "تحليل البراز, طفيليات البراز, بويضات الطفيليات, أميبا, جيارديا, دم خفي في البراز, فحص البراز الميكروسكوبي, ديدان معوية",
+      "h1": "تحليل البراز: كيف تقرأ نتيجة فحص الطفيليات والدم",
+      "takeaways": [
+        "تحليل البراز يكشف الطفيليات المعوية كالأميبا والجيارديا عبر فحص ميكروسكوبي لبويضاتها أو أكياسها.",
+        "الدم الخفي في البراز قد لا يُرى بالعين ولكن يكشفه التحليل، وقد يكون علامة على نزيف في الجهاز الهضمي.",
+        "طريقة أخذ العينة مهمة جدا، فالتلوث بالبول أو الماء يُخرب النتيجة.",
+        "الطفيليات المعوية لا تزال شائعة في المنطقة العربية، خاصة عند الأطفال وفي المناطق التي يعاني مصدر مياهها من اضطرابات.",
+        "نتيجة سلبية واحدة لا تستبعد الطفيليات نهائيا، وقد يحتاج الطبيب لتكرار التحليل ثلاث مرات."
+      ],
+      "sections": [
+        {
+          "h2": "ما الذي يكشفه تحليل البراز؟",
+          "paras": [
+            "تحليل البراز أو فحص الغائط اختبار معملي يفحص عينة من براز المريض للكشف عن مجموعة واسعة من المشاكل الصحية. هو ليس تحليلا واحدا بل عدة فحوصات تُجرى على العينة ذاتها، وكل فحص يكشف نوعا مختلفا من المعلومات. الطبيب يطلب منها ما يناسب شكواك وأعراضك تحديدا.",
+            "الفحوصات الرئيسية لتحليل البراز هي: فحص البويضات والطفيليات (Ova and Parasites) بالمجهر للكشف عن الكائنات الدقيقة كالأميبا والجيارديا وبويضات الديدان. وفحص الدم الخفي (Occult Blood Test) الذي يكشف نزيفا خفيا لا يُرى بالعين. وأحيانا الزرع البكتيري (Stool Culture) للكشف عن بكتيريا مسببة للتهاب معوي مثل السالمونيلا والشيغيلا. وفحص كرات الدم البيضاء (Leukocytes) في البراز للتمييز بين الالتهاب المعوي الغازي وغيره.",
+            "نتيجة تحليل البراز وحدها لا تكفي لتشخيص سبب المشكلة دائما. الطبيب يقرأها مع الأعراض ومدتها وتاريخك الصحي والتغذوي وأي تحاليل دم مصاحبة. ورقة التحليل تعطيه المعطيات، لكنه هو من يبني التشخيص وخطة العلاج."
+          ]
+        },
+        {
+          "h2": "كيف تأخذ عينة البراز بشكل صحيح؟",
+          "paras": [
+            "طريقة أخذ العينة لها تأثير مباشر على دقة النتيجة. البراز يجب أن يُجمع في حاوية معقمة يعطيك إياها المختبر وليس في أي وعاء منزلي عشوائي. الحجم المطلوب صغير عادة، لا أكثر من ملعقة صغيرة أو ما يعادلها وفق تعليمات المختبر.",
+            "العينة يجب أن تكون بعيدة عن البول تماما، لأن التلوث بالبول يقتل أو يُشوه الطفيليات ويجعل نتيجة فحص الكريات البيضاء غير موثوقة. تجنب أخذ العينة من المرحاض مباشرة إذا كان يحتوي على ماء، لأن الماء أيضا يمكن أن يؤثر على الطفيليات الحساسة. الأفضل التبرز في إناء نظيف وجاف ثم نقل العينة منه.",
+            "النقل السريع للمختبر مهم لفحص الطفيليات خاصة، لأن بعض الطفيليات تتحلل بسرعة في درجة حرارة الغرفة وقد لا تُرى بالمجهر إذا تأخرت العينة. المختبرات المجهزة توفر محاليل حافظة تضاف للعينة فور أخذها لتثبيت الطفيليات. اسأل المختبر مسبقا عن التعليمات الكاملة قبل يوم الفحص."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "كيف تأخذ عينة البراز بشكل صحيح",
+            "items": [
+              "استلم الحاوية المعقمة من المختبر وافهم تعليماتها قبل يوم الفحص.",
+              "تجنب أخذ العينة إذا كنت تستخدم مضادات حيوية أو أدوية إسهال أو مسهلات خلال الأسبوع الماضي.",
+              "تبرز في إناء نظيف جاف ومنفصل عن الماء أو البول.",
+              "انقل العينة بالملعقة المرفقة للحاوية وأغلقها جيدا.",
+              "أوصل العينة للمختبر في أسرع وقت ممكن، مثاليا خلال ساعة إلى ساعتين."
+            ]
+          }
+        },
+        {
+          "h2": "الأميبا والجيارديا: أبرز الطفيليات في المنطقة",
+          "paras": [
+            "الأميبا أو الأميبيا (Amoebiasis) ناجمة عن طفيلي يسمى Entamoeba histolytica. تنتقل عبر الطعام أو الشراب الملوثين ببراز الإنسان الحامل للطفيلي. في المنطقة العربية لا تزال شائعة، خاصة في المناطق التي تعاني من شبكات صرف صحي غير كافية أو مياه شرب غير نقية. دراسة نُشرت عام 2022 في مجلة Archives of Razi Institute وثقت وجود Entamoeba histolytica في عينات إسهال الأطفال في الموصل بالعراق، مما يعكس مدى استمرار انتشارها في المنطقة وأهمية تحليل البراز في بيئات الاضطراب الصحي.",
+            "الجيارديا (Giardiasis) تسببها طفيلي Giardia lamblia وهي من أكثر الطفيليات المعوية انتشارا في العالم. تنتشر بنفس طريقة الأميبا عبر الماء الملوث أو الأيدي غير المغسولة. مراجعة نُشرت عام 2012 في مجلة Clinical Infectious Diseases ربطت الجيارديا بالإسهال المزمن لدى الأطفال في الدول النامية، وأكدت أهميتها كسبب رئيسي للإسهال المستمر غير المفسر. من أبرز أعراضها الإسهال الدهني ذو الرائحة الكريهة مع انتفاخ البطن وآلام المعدة والتعب الناجم عن نقص امتصاص الدهون والفيتامينات التي تذوب فيها.",
+            "الفرق المهم بين الطفيليين: الأميبا قد تسبب زحارا دموية (Amoebic dysentery) مع إسهال دموي مخاطي وتقلصات شديدة، وفي حالات نادرة قد تصل إلى الكبد مسببة خراج أميبي. الجيارديا نادرا ما تسبب دما في البراز ولكنها كثيرا ما تسبب نقص امتصاص الغذاء والتعب المزمن والانتفاخ الذي قد يستمر لأشهر في الحالات غير المعالجة. الفحص المجهري لعينة البراز هو الطريقة التقليدية للكشف عن كليهما عبر رؤية الأكياس أو التغذوية بالمجهر، وهناك اختبارات مناعية أحدث يمكن أن تكون أكثر دقة."
+          ]
+        },
+        {
+          "h2": "بويضات الديدان والطفيليات الأخرى التي يكشفها التحليل",
+          "paras": [
+            "فحص البويضات والطفيليات بالمجهر يبحث عن مجموعة واسعة من الكائنات وليس فقط الأميبا والجيارديا. يشمل ذلك بويضات الديدان الأسطوانية (Ascaris lumbricoides)، والديدان الشعرية (Trichuris trichiura)، والديدان الخطافية (Hookworm)، والمثقبيات (Strongyloides)، وغيرها. هذه الديدان شائعة في البيئات ذات الصرف الصحي الضعيف وتلوث التربة.",
+            "الديدان الدبوسية (Enterobius vermicularis) تُسبب حكة شرجية خاصة ليلا وهي شائعة عند الأطفال، لكن بويضاتها لا تُوجد دائما في البراز. طريقة فحصها المختلفة هي لصق قطعة شريط لاصق شفاف حول فتحة الشرج صباحا قبل الاستحمام وفحصها بالمجهر لالتقاط البويضات التي تُبيضها الأنثى ليلا.",
+            "إذا كانت نتيجة فحص الطفيليات سلبية ولا تزال لديك أعراض تُشير للطفيليات مثل الإسهال المزمن أو حكة شديدة أو فقدان الوزن غير المبرر، فلا تطمئن تماما بناء على تحليل واحد. الطفيليات تُفرز بويضاتها بشكل متقطع وليس في كل تبرز، لذلك ينصح الأطباء بأخذ ثلاث عينات في أيام مختلفة قبل استبعاد الطفيليات نهائيا."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "أبرز الطفيليات المعوية في المنطقة العربية",
+            "head": ["الطفيلي", "طريقة الانتقال", "الأعراض الرئيسية", "ما يكشفه التحليل"],
+            "rows": [
+              ["Entamoeba histolytica (أميبا)", "ماء وطعام ملوث", "إسهال دموي، تقلصات", "أكياس وتغذوية بالمجهر"],
+              ["Giardia lamblia (جيارديا)", "ماء ملوث، أيدي", "إسهال دهني، انتفاخ", "أكياس بالمجهر"],
+              ["Ascaris (ديدان أسطوانية)", "تربة ملوثة", "ألم بطن، انسداد نادر", "بويضات بالمجهر"],
+              ["Enterobius (ديدان دبوسية)", "مباشر بين الأشخاص", "حكة شرجية ليلية", "فحص الشريط اللاصق"]
+            ]
+          }
+        },
+        {
+          "h2": "الدم الخفي في البراز: ما يعنيه وكيف يُفسر؟",
+          "paras": [
+            "الدم الخفي في البراز (Occult Blood) هو دم موجود في البراز بكميات لا تُغير لونه ولا يراها العين المجردة، ولكن يمكن للتحليل الكيميائي الكشف عنه. البراز الأسود أو الأحمر الداكن بالعين المجردة هو نزيف ظاهر يحتاج تقييما طارئا مختلفا. الفحص الكيميائي يُستخدم عندما لا يكون الدم مرئيا لكن يُشتبه بوجوده.",
+            "ارتفاع الدم الخفي في البراز يعني أن هناك نزيفا في مكان ما على طول الجهاز الهضمي من الفم حتى الشرج. الأسباب المحتملة واسعة جدا: من قرحة المعدة والاثني عشر، إلى البواسير والشقوق الشرجية، إلى الأورام الحميدة (Polyps) والسرطان في حالات أقل شيوعا. دراسة مراجعة شاملة نُشرت عام 2020 في مجلة American Journal of Gastroenterology أكدت أن نتيجة إيجابية للدم الخفي تستدعي دائما تحقيقا إضافيا لتحديد مصدر النزيف.",
+            "هناك تحليلان مختلفان للدم الخفي: الاختبار الكيميائي القديم (Guaiac test) الذي يتأثر بأكل اللحم الأحمر والخضروات قبل يوم التحليل، والاختبار المناعي الجديد (FIT أو iFOBT) الذي لا يتأثر بالطعام ويكون أكثر دقة للكشف عن الدم من القولون تحديدا. عادة يطلب الطبيب الامتناع عن اللحم الأحمر والخضروات النيئة لثلاثة أيام قبل الاختبار الكيميائي القديم."
+          ]
+        },
+        {
+          "h2": "ماذا تعني النتائج الأخرى في تقرير تحليل البراز؟",
+          "paras": [
+            "وجود كرات الدم البيضاء (Leukocytes) في البراز يشير إلى التهاب معوي، والطبيب يستخدم هذه المعلومة للتمييز بين نوعين من الإسهال: إسهال غازي (يخترق الكائن الدقيق جدار الأمعاء) كما في حالات الشيغيلا والأميبا الغازية، وإسهال إفرازي لا يخترق الجدار كما في الفيروسات والتسمم الغذائي بالسموم الجاهزة. الفرق المهم: الأول يحتاج علاجا بالمضادات الحيوية في الغالب، والثاني يكفيه الترطيب في معظم الأحيان.",
+            "الزرع البكتيري للبراز (Stool Culture) يُحضن عينة البراز في بيئة مختبرية لمعرفة ما إذا كانت تحوي بكتيريا مسببة للمرض. يستغرق عادة يومين إلى ثلاثة أيام للحصول على النتيجة. يُطلب عادة في حالات الإسهال الشديد أو الدموي أو المزمن أو عند احتمالية تسمم غذائي جماعي. إذا وُجدت بكتيريا، يُجرى اختبار الحساسية للمضادات الحيوية (Sensitivity test) لتحديد الدواء الأنسب.",
+            "قد يذكر التقرير أيضا قوام البراز ولونه، وإن كانت هناك كميات زائدة من الدهون (Steatorrhea) التي تدل على سوء امتصاص. كذلك قد يُذكر pH البراز للأطفال للتفريق بين أسباب مختلفة للإسهال. كل هذه المعلومات الإضافية تساعد الطبيب على بناء صورة أكثر اكتمالا."
+          ]
+        },
+        {
+          "h2": "متى تستدعي نتيجة تحليل البراز مراجعة الطبيب فورا؟",
+          "paras": [
+            "معظم نتائج تحليل البراز تحتاج متابعة روتينية مع الطبيب لمناقشة الخطوة التالية. لكن هناك نتائج وأعراض تستدعي التقييم العاجل دون انتظار. نتيجة إيجابية للدم الخفي مصحوبة بألم بطن أو فقدان وزن غير مبرر أو تغير مستمر في عادات الأمعاء تستحق تقييما أسرع، لأنها مجتمعة قد تشير إلى حالة تحتاج منظارا هضميا لاستبعاد الأورام الحميدة أو الخبيثة في القولون.",
+            "براز أسود يشبه القار أو براز أحمر قانٍ لا يرتبط بالبواسير المعروفة لديك هو نزيف ظاهر يستوجب التوجه للطوارئ وليس الانتظار لتحليل اليوم التالي. كذلك إسهال مصحوب بحمى مرتفعة ودم وتدهور في الحالة العامة هو حالة طارئة لا روتينية.",
+            "إذا كانت نتيجة التحليل سلبية لكن أعراضك مستمرة لأكثر من أسبوعين أو تزداد سوءا، عد لطبيبك دون تردد. سلبية واحدة لا تستبعد الطفيليات ولا تستبعد سببا آخر للأعراض كالقولون العصبي أو مرض الاضطرابات الهضمية أو أمراض الالتهاب المزمن للأمعاء. الأعراض هي بوصلتك الحقيقية وليس التحليل وحده."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "توجه للطوارئ أو اتصل بطبيبك فورا إذا كان عندك",
+            "items": [
+              "براز أسود اللون أو يشبه القار (نزيف معدي محتمل)",
+              "دم أحمر قانٍ في البراز لا يُعزى للبواسير المعروفة",
+              "إسهال شديد مع حمى مرتفعة فوق 39 درجة",
+              "علامات جفاف: دوار عند الوقوف، وقلة التبول الشديدة، وفم جاف",
+              "براز دموي مخاطي مع تقلصات شديدة (زحار)"
+            ]
+          }
+        },
+        {
+          "h2": "النظافة والوقاية: كيف تحمي نفسك من الطفيليات المعوية؟",
+          "paras": [
+            "غسل اليدين بالماء والصابون لمدة عشرين ثانية على الأقل بعد استخدام المرحاض وقبل الأكل هو أبسط وأهم خطوة للوقاية من الطفيليات المعوية. الطفيليات مثل الجيارديا والأميبا تنتقل عبر الأيدي الملوثة ببراز الإنسان المصاب، وكمية صغيرة جدا منها تكفي للعدوى. تعليم الأطفال هذه العادة من الصغر هو أحد أكثر التدخلات فعالية في تقليل انتشار الطفيليات داخل الأسرة والمدرسة.",
+            "الماء المعبأ أو المغلي أو المفلتر بفلتر مناسب هو الأكثر أمانا في المناطق التي يكون فيها نظام المياه غير موثوق. بعض الطفيليات كالجيارديا مقاومة للكلور في الجرعات التي تستخدمها شبكات المياه البلدية عادة، لذلك الغليان أو الفلترة بالمكواة أهم من الكلور وحده. الفواكه والخضروات التي تؤكل نيئة يجب غسلها جيدا بماء نظيف أو نقعها لدقائق في محلول من الخل أو مواد التنظيف الغذائية المصرح بها، ثم شطفها بماء نقي.",
+            "في بيئات الكثافة السكانية أو الأماكن التي يُشترك فيها في دورات المياه مثل المدارس والمخيمات وأماكن إيواء النازحين، تكون العدوى أسهل وأسرع. مستوى النظافة في إعداد الطعام وسلامة مصادر الماء هما المحوران الأساسيان للوقاية على مستوى الأسرة والمجتمع. طفل عولج من طفيلي في أسرة فيها آخرون مصابون لكن لم يُعالجوا سيُعاد إليه الطفيلي سريعا، لهذا السبب يلجأ الأطباء أحيانا لعلاج كل أفراد الأسرة في آن واحد."
+          ]
+        }
+      ],
+      "tie": "مع تطبيق صحتك يمكنك الاحتفاظ بنتائج تحاليل البراز وتوثيق أعراض الجهاز الهضمي بمرور الوقت. امسح ورقة نتيجة التحليل ليحفظها التطبيق، واطلب من المساعد الذكي شرح أي مصطلح طبي مكتوب في التقرير بلغة مبسطة. يبقى هذا أداة مساعدة لا تغني عن تشخيص طبيبك وخطته العلاجية.",
+      "faqs": [
+        {
+          "q": "هل نتيجة سلبية لفحص الطفيليات تعني أنني بالتأكيد خالٍ منها؟",
+          "a": "ليس بالضرورة. الطفيليات تُفرز بويضاتها بشكل متقطع وليس في كل تبرز. لهذا ينصح الأطباء بأخذ ثلاث عينات في أيام مختلفة قبل استبعاد الطفيليات نهائيا إذا كانت الأعراض تُشير إليها."
+        },
+        {
+          "q": "هل يحتاج تحليل البراز للصيام؟",
+          "a": "عموما لا يتطلب تحليل البراز صياما. لكن إذا كنت تُجري اختبار الدم الخفي الكيميائي القديم (Guaiac)، قد يطلب المختبر الامتناع عن اللحم الأحمر والخضروات النيئة لثلاثة أيام قبله. اتبع التعليمات التي يعطيك إياها المختبر."
+        },
+        {
+          "q": "هل أستطيع أخذ عينة البراز من طفلي الصغير من حفاظاته؟",
+          "a": "يُفضل أخذها من قبل التلوث بالبول إذا أمكن، لأن البول يؤثر على نتائج بعض الفحوصات. لكن في حالة الأطفال الصغار الذين يصعب الفصل، يمكن أخذ العينة من الحفاظة بسرعة بشرط عدم وصول البول للمنطقة المأخوذة منها. استشر المختبر عن أفضل طريقة للأطفال."
+        },
+        {
+          "q": "هل التحليل قادر على اكتشاف جميع أنواع الطفيليات؟",
+          "a": "الفحص المجهري الاعتيادي يكتشف الطفيليات الأكثر شيوعا في المنطقة كالأميبا والجيارديا والديدان. بعض الطفيليات النادرة أو الغازية للأنسجة مثل المثقبيات تحتاج فحوصات خاصة إضافية. أخبر طبيبك إذا كنت قادما من منطقة محددة أو لديك أعراض غير عادية."
+        },
+        {
+          "q": "هل يمكن لكل أفراد الأسرة الإصابة بنفس الطفيلي؟",
+          "a": "نعم، كثير من طفيليات الأمعاء تنتقل بسهولة بين أفراد الأسرة عبر الأيدي أو الطعام أو المراحيض المشتركة. لذلك في بعض الحالات خاصة مع الديدان الدبوسية، يعالج الطبيب كل أفراد الأسرة في آن واحد حتى لو لم تظهر أعراض على الجميع."
+        },
+        {
+          "q": "هل ارتفاع الدم الخفي يعني أن عندي سرطان؟",
+          "a": "لا بالضرورة. الأسباب الأكثر شيوعا هي البواسير والشقوق الشرجية وقرحة المعدة، وهي حالات حميدة تماما. لكن أي نتيجة إيجابية للدم الخفي تستوجب تقييما إضافيا من الطبيب لتحديد المصدر واستبعاد أي حالة أخطر. لا تتجاهل نتيجة إيجابية."
+        },
+        {
+          "q": "هل يمكن للطفيليات أن تسبب حكة شديدة في منطقة الشرج؟",
+          "a": "نعم، الديدان الدبوسية تُسبب حكة شرجية شديدة خاصة في الليل لأن الأنثى تخرج لتضع بيضها حول فتحة الشرج. هي شائعة جدا عند الأطفال. طريقة تشخيصها مختلفة عن تحليل البراز الاعتيادي وهي اختبار الشريط اللاصق الذي يأخذه الطبيب أو يشرح طريقته لك."
+        }
+      ]
+    },
+    "en": {
+      "title": "Stool analysis: parasites, blood and what the report means",
+      "desc": "Read your stool analysis report clearly: parasites like amoeba and giardia, occult blood, correct sample collection, and when results need urgent attention.",
+      "keywords": "stool analysis, stool test parasites, ova and parasites, amoeba stool test, giardia test, occult blood stool, stool microscopy, intestinal worms test",
+      "h1": "Stool analysis: how to read your parasite and occult blood report",
+      "takeaways": [
+        "A stool test reveals intestinal parasites such as amoeba and giardia by looking for their cysts or eggs under a microscope.",
+        "Occult blood in stool is blood invisible to the naked eye that a chemical test detects, and it signals bleeding somewhere in the gut.",
+        "How you collect the sample matters greatly: contamination with urine or water can ruin the result.",
+        "Intestinal parasites remain common in the Arab region, especially in children and areas with unreliable water supplies.",
+        "One negative result does not rule out parasites definitively, and your doctor may ask for three samples on separate days."
+      ],
+      "sections": [
+        {
+          "h2": "What does a stool test actually look for?",
+          "paras": [
+            "A stool analysis, also called a stool examination or faecal test, is a laboratory investigation that examines a small sample of your stool to detect a wide range of problems. It is not a single test but several examinations performed on the same sample, and each one reveals a different type of information. Your doctor requests the ones that fit your specific symptoms and concern.",
+            "The main investigations within a stool test are: ova and parasite examination, which uses a microscope to look for parasites such as amoeba, giardia, and the eggs of intestinal worms; the occult blood test, which detects invisible bleeding; stool culture, which grows the sample to identify disease-causing bacteria such as Salmonella and Shigella; and a check for white blood cells in the stool to distinguish between invasive and non-invasive gut infections.",
+            "A stool result alone does not always complete a diagnosis. Your doctor reads it alongside your symptoms, how long they have lasted, your diet and travel history, and any accompanying blood tests. The report provides the data. The doctor builds the diagnosis and the treatment plan from everything together."
+          ]
+        },
+        {
+          "h2": "How to collect a stool sample correctly",
+          "paras": [
+            "The way you collect the sample directly affects the accuracy of the result. Stool must be collected into a sterile container provided by the laboratory, not any container from home. The amount required is small, usually no more than a teaspoon or whatever the laboratory instructions specify.",
+            "The sample must be completely free of urine, because urine kills or distorts parasites and makes the white blood cell count unreliable. Avoid collecting directly from a toilet bowl filled with water, because water can also damage sensitive parasites. The best approach is to defecate into a clean, dry container and then transfer the sample from there.",
+            "Speed of delivery to the laboratory matters for parasite testing in particular, because some parasites break down at room temperature within hours and may not be seen under the microscope if the sample is delayed. Well-equipped laboratories provide a preservative solution that is added to the sample immediately after collection to stabilise any parasites. Ask the laboratory in advance for full instructions before the day of the test."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "How to collect a stool sample correctly",
+            "items": [
+              "Collect the sterile container from the laboratory and read the instructions the day before.",
+              "Avoid the test if you have taken antibiotics, antidiarrhoeal medicines, or laxatives within the past week.",
+              "Defecate into a clean, dry container that is separate from water or urine.",
+              "Transfer the sample using the spoon provided, fill to the indicated line, and seal the container.",
+              "Deliver to the laboratory as quickly as possible, ideally within one to two hours."
+            ]
+          }
+        },
+        {
+          "h2": "Amoeba and giardia: the most common parasites in the region",
+          "paras": [
+            "Amoebiasis is caused by the parasite Entamoeba histolytica. It spreads through food or water contaminated with the faeces of an infected person. A 2022 study published in the Archives of Razi Institute documented amoeba in stool samples from children with diarrhoea in Mosul, Iraq, reflecting the continued prevalence of this infection across the region. In areas with inadequate sanitation or unreliable water treatment, contamination of water and food is the main route of spread.",
+            "Giardiasis is caused by Giardia lamblia, one of the most common intestinal parasites worldwide. It spreads the same way as amoeba, through contaminated water or unwashed hands. A systematic review published in Clinical Infectious Diseases in 2012 linked giardia to chronic diarrhoea in children in developing countries and identified it as a leading cause of unexplained persistent loose stools. Its characteristic presentation is greasy, foul-smelling stools with bloating, abdominal cramps, and fatigue from malabsorption.",
+            "An important difference between the two: amoeba can cause amoebic dysentery with bloody mucous stools and severe cramps, and it can rarely spread to the liver causing an abscess. Giardia rarely causes blood in the stool but frequently causes malabsorption and chronic fatigue. Microscopic examination of a stool sample identifies both by detecting their cysts or trophozoites in the specimen."
+          ]
+        },
+        {
+          "h2": "Worm eggs and other parasites the test can find",
+          "paras": [
+            "The ova and parasite examination looks for a wide range of organisms beyond just amoeba and giardia. These include the eggs of roundworms (Ascaris lumbricoides), whipworms (Trichuris trichiura), hookworms, and Strongyloides, among others. These intestinal worms are common in environments with poor sanitation or contaminated soil, and their eggs enter the body through contaminated food, water, or bare feet in the case of hookworms.",
+            "Pinworms (Enterobius vermicularis) cause intense anal itching especially at night and are very common in children, but their eggs are not reliably found in a routine stool sample. The specific test for pinworms is the tape test, in which a piece of clear adhesive tape is pressed around the anal opening first thing in the morning before washing, then examined under a microscope to catch the eggs that the female deposits at night.",
+            "If your parasite test is negative but your symptoms strongly suggest a parasite, such as chronic diarrhoea, persistent bloating, significant weight loss, or unexplained itching, do not rely on a single negative result. Parasites shed eggs intermittently and not at every bowel movement, which is why doctors recommend collecting three samples on separate days before concluding that parasites are absent."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Key intestinal parasites in the Arab region",
+            "head": ["Parasite", "How it spreads", "Main symptoms", "What the test finds"],
+            "rows": [
+              ["Entamoeba histolytica", "Contaminated food and water", "Bloody diarrhoea, cramps", "Cysts and trophozoites"],
+              ["Giardia lamblia", "Contaminated water, hands", "Greasy stools, bloating", "Cysts under microscope"],
+              ["Ascaris (roundworm)", "Contaminated soil and food", "Abdominal pain", "Eggs under microscope"],
+              ["Enterobius (pinworm)", "Direct person to person", "Anal itching at night", "Tape test, not stool"]
+            ]
+          }
+        },
+        {
+          "h2": "Occult blood in stool: what it means and how it is interpreted",
+          "paras": [
+            "Occult blood in stool is blood present in quantities too small to change the stool colour or be seen by the naked eye, but detectable by a chemical test. Visibly black or dark red stools are a different and more urgent sign that requires emergency assessment rather than a routine occult blood test. The chemical test is used when bleeding is suspected but invisible.",
+            "A positive occult blood result means there is bleeding somewhere along the digestive tract from mouth to anus. The possible causes are wide-ranging: peptic ulcer in the stomach or duodenum, haemorrhoids, anal fissures, benign polyps, and less commonly colorectal cancer. A systematic review and meta-analysis published in the American Journal of Gastroenterology in 2020 confirmed that a positive occult blood test always warrants further investigation to identify the source of bleeding and rule out serious pathology.",
+            "There are two types of occult blood test: the older chemical guaiac test (gFOBT), which is affected by eating red meat or raw vegetables before the test and may give a falsely positive result, and the newer immunochemical test (FIT or iFOBT), which is not affected by diet and is more specific for blood from the colon. Most laboratories now use the immunochemical test, but always ask your doctor which type was performed when you receive your result."
+          ]
+        },
+        {
+          "h2": "What do other findings in the stool report mean?",
+          "paras": [
+            "White blood cells (leukocytes) found in a stool sample indicate intestinal inflammation. Doctors use this finding to distinguish between two types of diarrhoea: invasive infection, in which the organism penetrates the gut wall as with Shigella and amoeba, and secretory infection, in which it does not as with viral gastroenteritis and food poisoning from preformed toxins. This distinction matters because invasive infections typically require antibiotic treatment while most secretory infections resolve with fluid replacement alone.",
+            "A stool culture involves incubating the sample in a laboratory medium to identify any disease-causing bacteria present. Results usually take two to three days. It is typically requested for severe diarrhoea, bloody diarrhoea, prolonged diarrhoea, or suspected food poisoning affecting multiple people. If bacteria are identified, a sensitivity test shows which antibiotics will be effective, which is essential given the high antibiotic resistance rates increasingly documented in the Arab world.",
+            "The report may also comment on the consistency and colour of the stool, and whether excess fat is present (steatorrhoea), which points to malabsorption. In young children, stool pH may be reported to help distinguish between different causes of diarrhoea. All of these additional details help the doctor build a more complete picture of what is happening in your digestive system."
+          ]
+        },
+        {
+          "h2": "When does a stool result need urgent medical attention?",
+          "paras": [
+            "Most stool results need routine follow-up with your doctor to discuss the next step. But certain results and accompanying symptoms need faster assessment. A positive occult blood result alongside abdominal pain, unexplained weight loss, or a change in bowel habit deserves prompt evaluation because these findings together may indicate a condition requiring endoscopy.",
+            "Visibly black tarry stools or bright red blood not explained by known haemorrhoids is visible bleeding that warrants going to emergency rather than waiting for the next day's test. Severe diarrhoea accompanied by high fever, blood, and a deteriorating general condition is an emergency, not a routine outpatient matter.",
+            "If your result comes back negative but symptoms persist for more than two weeks or are getting worse, go back to your doctor. One negative result does not rule out parasites or any other cause of your symptoms. Your symptoms are the true guide alongside the test, not the test alone."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "Go to emergency or call your doctor urgently if you have",
+            "items": [
+              "Black tarry stools (possible stomach or gut bleeding)",
+              "Bright red blood in stool not explained by known haemorrhoids",
+              "Severe diarrhoea with high fever above 39 degrees C",
+              "Signs of dehydration: dizziness on standing, very little urine, dry mouth",
+              "Bloody mucous stools with severe cramps (amoebic dysentery)"
+            ]
+          }
+        },
+        {
+          "h2": "Prevention: how to protect yourself from intestinal parasites",
+          "paras": [
+            "Washing hands with soap and water for at least twenty seconds after using the toilet and before eating is the simplest and most effective step against intestinal parasites. Parasites like giardia and amoeba spread through hands contaminated with infected human faeces, and it takes a very small amount to cause infection.",
+            "Bottled, boiled, or properly filtered water is the safest choice in areas where the water supply is unreliable. Some parasites including giardia are resistant to chlorine at the concentrations used in most municipal water systems, so boiling or filtration is more important than relying on chlorine alone. Fruit and vegetables eaten raw should be washed thoroughly with clean water or soaked briefly in a food-safe solution.",
+            "In settings of high population density or shared toilet facilities such as schools, camps, and displacement shelters, transmission is easier. The level of hygiene in food preparation and the safety of the water source are the two central pillars of prevention at the household and community level. A child treated for a parasite in a household where others are also infected but untested is likely to be reinfected quickly, which is why doctors sometimes treat all household members together."
+          ]
+        }
+      ],
+      "tie": "With the Sihtak app you can keep a record of your stool test results and log digestive symptoms over time. Scan your results report so the app stores it, and ask the AI assistant to explain any medical term in the report in plain language. This remains a helpful tool and does not replace your doctor's diagnosis and treatment plan.",
+      "faqs": [
+        {
+          "q": "Does a negative stool test definitely mean I have no parasites?",
+          "a": "Not necessarily. Parasites shed eggs intermittently, not at every bowel movement. For this reason doctors recommend collecting three samples on separate days before confidently ruling out parasites, particularly if symptoms strongly suggest an infection."
+        },
+        {
+          "q": "Do I need to fast before a stool test?",
+          "a": "In general, fasting is not required. However, if you are having the older chemical guaiac occult blood test, the laboratory may ask you to avoid red meat and raw vegetables for three days beforehand to prevent a false positive result. Follow whatever instructions your specific laboratory gives you."
+        },
+        {
+          "q": "Can I take the sample from my young child's nappy?",
+          "a": "It is preferable to collect away from urine if possible, because urine affects some test results. For young children where separation is difficult, the sample can be taken from the nappy as long as the area sampled is not contaminated with urine. Ask the laboratory for their specific guidance on collecting from infants."
+        },
+        {
+          "q": "Can the test find all types of parasites?",
+          "a": "Routine microscopic examination detects the most common parasites in the region, including amoeba, giardia, and the eggs of common intestinal worms. Some rarer or tissue-invasive parasites require additional specialised tests. Tell your doctor if you have recently returned from a specific area or have unusual symptoms that might suggest a less common infection."
+        },
+        {
+          "q": "Can the whole family catch the same parasite?",
+          "a": "Yes. Many intestinal parasites spread easily within a household through shared hands, food, or bathroom facilities. For some infections, particularly pinworms, the doctor treats all household members at the same time even if not everyone has symptoms, to prevent the cycle of reinfection."
+        },
+        {
+          "q": "Does a positive occult blood result mean I have cancer?",
+          "a": "No, not at all. The most common causes are haemorrhoids, anal fissures, and peptic ulcer, all of which are entirely benign. However, any positive occult blood result needs further assessment from your doctor to find the source and rule out any more serious condition. Do not ignore a positive result."
+        },
+        {
+          "q": "Can parasites cause severe itching around the anus?",
+          "a": "Yes. Pinworms cause intense anal itching, especially at night, because the female worm exits to lay eggs around the anal opening while the host sleeps. They are very common in children. The diagnosis uses a different test from the routine stool exam, the tape test, which your doctor will explain and may ask you to perform at home."
+        }
+      ]
+    }
+  }
+}

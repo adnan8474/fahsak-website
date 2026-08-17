@@ -1,0 +1,347 @@
+{
+  "slug": "panic-attacks-guide",
+  "category": "mental-health",
+  "chip_ar": "الصحة النفسية",
+  "chip_en": "Mental Health",
+  "date_iso": "2026-07-14",
+  "sources": [
+    {
+      "label": "Roy-Byrne PP, Craske MG, Stein MB et al: Panic disorder, Lancet (London, England), 2006",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16980119/"
+    },
+    {
+      "label": "Bandelow B, Michaelis S: Epidemiology of anxiety disorders in the 21st century, Dialogues in clinical neuroscience, 2015",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26487813/"
+    },
+    {
+      "label": "Chawla N, Anothaisintawee T, Charoenrungrueangchai K et al: Drug treatment for panic disorder with or without agoraphobia: systematic review and network meta-analysis of randomised controlled trials, BMJ (Clinical research ed.), 2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35045991/"
+    },
+    {
+      "label": "Lim JA, Lee YI, Jang JH et al: Investigating effective treatment factors in brief cognitive behavioral therapy for panic disorder, Medicine, 2018",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30235717/"
+    },
+    {
+      "label": "Cheng YC, Su MI, Liu CW et al: Heart rate variability in patients with anxiety disorders: A systematic review and meta-analysis, Psychiatry and clinical neurosciences, 2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35340102/"
+    },
+    {
+      "label": "Goetz RR, Klein DF, Gully R et al: Panic attacks during placebo procedures in the laboratory. Physiology and symptomatology, Archives of general psychiatry, 1993",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8466389/"
+    }
+  ],
+  "content": {
+    "ar": {
+      "title": "نوبة الهلع: ما يحدث في جسمك وكيف توقفها",
+      "desc": "نوبة الهلع تشعرك وكأن قلبك يتوقف، لكنها غير مميتة. افهم ما يحدث في جسمك خطوة بخطوة وتعلم أسرع الطرق لإيقافها والوقاية من تكرارها.",
+      "keywords": "نوبة هلع، نوبة قلق، أعراض الهلع، خفقان القلب، ضيق التنفس، اضطراب الهلع، علاج نوبة الهلع، القلق والخوف، التأريض، التنفس",
+      "h1": "نوبة الهلع: لماذا تشعر بأنك ستموت وما الذي يساعد فعلاً",
+      "takeaways": [
+        "نوبة الهلع ليست نوبة قلبية، لكن جسمك يرسل إشارات تجعلها تبدو كذلك تماماً.",
+        "تبلغ النوبة ذروتها خلال 10 دقائق وتهدأ تلقائياً في معظم الحالات خلال 20 إلى 30 دقيقة.",
+        "التنفس البطيء وتقنية التأريض من أسرع الطرق لإيقاف التصعيد.",
+        "اضطراب الهلع المتكرر قابل للعلاج بالعلاج المعرفي السلوكي والدواء.",
+        "الفحص الطبي مهم عند أول نوبة للتأكد من أن القلب والغدة الدرقية سليمان."
+      ],
+      "sections": [
+        {
+          "h2": "ما هي نوبة الهلع بالضبط؟",
+          "paras": [
+            "نوبة الهلع (Panic Attack) هي موجة مفاجئة من الخوف الشديد تصحبها أعراض جسدية قوية: خفقان في القلب، ضيق في التنفس، تعرق، دوار، وإحساس وشيك بالموت أو فقدان السيطرة. تأتي في الغالب دون تحذير مسبق، وكثيراً ما توقظ صاحبها من النوم في الساعات الأولى من الليل.",
+            "ما تختبره حقيقي تماماً وليس تخيلاً. الجهاز العصبي يُطلق استجابة الخطر الكاملة وكأن أسداً يقف أمامك، لكن لا يوجد خطر فعلي. هذا الخلل بين الإشارة والواقع هو جوهر النوبة، وهو ما يجعلها محيرة ومرعبة في آنٍ واحد. الشخص يعلم أحياناً في أعماقه أنه في مكان آمن، لكن جسمه يرفض تصديق ذلك.",
+            "تصيب نوبات الهلع ما بين 2 و3 بالمئة من البالغين على مستوى العالم في شكل اضطراب هلع منتظم، وفق ما رصدته دراسة واسعة نُشرت في مجلة Lancet عام 2006. أما النوبة العرضية المنفردة فتمس فئة أوسع بكثير دون أن تتطور إلى اضطراب دائم. كثير من الناس يمرون بنوبة واحدة أو نوبتين طوال حياتهم في لحظات ضغط شديد ثم لا تعود أبداً."
+          ],
+          "visual": {
+            "type": "stats",
+            "items": [
+              {"value": "10 دقائق", "label": "متوسط الوقت للوصول إلى الذروة", "tone": "warn"},
+              {"value": "30 دقيقة", "label": "معظم النوبات تنتهي خلالها تلقائياً", "tone": "info"},
+              {"value": "2-3%", "label": "من البالغين يعانون اضطراب الهلع المتكرر", "tone": "neutral"}
+            ]
+          }
+        },
+        {
+          "h2": "لماذا تشعر بأنك تُصاب بنوبة قلبية؟",
+          "paras": [
+            "عندما يُطلق الدماغ إنذار الخطر، تُفرز الغدة الكظرية (Adrenal Gland) كميات كبيرة من الأدرينالين (Adrenaline). هذا الهرمون يرفع ضربات القلب، ويُضيّق الشرايين الصغيرة، ويُحوّل الدم إلى العضلات، ويجعل التنفس أسرع وأضحل. الجسم يستعد للقتال أو الهروب من خطر لا يوجد.",
+            "نتيجة لذلك تشعر بخفقان أو ألم في الصدر، وتُصبح يداك مرتجفتين وباردتين، وتتخدر الأطراف. الإحساس بالاختناق يزيد الذعر فتتنفس بسرعة أكبر، ما يُخفّض ثاني أكسيد الكربون في الدم فيزيد الدوار والتنميل، وهذا ما يُسمى فرط التنفس (Hyperventilation). هذه الدوامة هي ما يجعل الشخص مقتنعاً بأن شيئاً خطيراً يحدث بالفعل.",
+            "دراسة نُشرت في Archives of General Psychiatry رصدت التغيرات الفيزيولوجية أثناء نوبات الهلع في المختبر وأثبتت أن الأعراض القلبية الواضحة ناجمة تحديداً عن الاستجابة الأدرينالينية وليس عن خلل في القلب. هذا ما يجعل أجهزة قياس ضربات القلب تُظهر ارتفاعاً حقيقياً أثناء النوبة. الفرق بين نوبة الهلع والنوبة القلبية لا يظهر في الأعراض بل في الفحوصات."
+          ],
+          "visual": {
+            "type": "timeline",
+            "title": "ما يحدث في جسمك خلال نوبة الهلع",
+            "items": [
+              {"when": "اللحظة 0", "what": "يُرسل الدماغ إشارة خطر مفاجئة"},
+              {"when": "دقيقة 1", "what": "يرتفع الأدرينالين وتتسارع ضربات القلب"},
+              {"when": "دقيقتان", "what": "يضيق التنفس ويبدأ الدوار بالظهور"},
+              {"when": "دقائق 5 إلى 10", "what": "الأعراض تبلغ ذروتها"},
+              {"when": "دقائق 15 إلى 30", "what": "تبدأ الأعراض بالتراجع التدريجي"}
+            ]
+          }
+        },
+        {
+          "h2": "كيف توقف نوبة الهلع أثناء حدوثها؟",
+          "paras": [
+            "الخطوة الأولى هي تذكير نفسك بصوت داخلي هادئ: هذا شعور مؤلم ومرعب لكنه لن يقتلني. النوبة تبلغ ذروتها وتنتهي. لا أحتاج إلى فعل شيء لإيقافها سوى الانتظار والتنفس. هذا التذكير يبدو بسيطاً لكنه يُكسر الحلقة التي يُطيل فيها الخوف من الخوف مدة النوبة.",
+            "تقنية التنفس 4-7-8 من أسرع الطرق لتهدئة الجهاز العصبي: استنشق أربع ثوانٍ، أوقف النفس سبع ثوانٍ، أخرج الزفير ببطء ثماني ثوانٍ. كرر من ثلاث إلى خمس مرات. هذا التمرين يرفع ثاني أكسيد الكربون ويعكس دوامة فرط التنفس. المفتاح هو الزفير الطويل لأنه يُنشط الجهاز العصبي الباراسمبثاوي الذي يُبطئ القلب.",
+            "تقنية التأريض (Grounding) تسحب انتباهك من الإحساس الداخلي إلى العالم الخارجي. انظر إلى خمسة أشياء من حولك، المس أربعة، استمع إلى ثلاثة أصوات، تعرف على رائحتين، ثم ذوق شيئاً. هذا التسلسل يُوقف دوامة الأفكار المخيفة ويُعيد الدماغ إلى الحاضر. يمكن تنفيذه في أي مكان دون أن يلاحظك أحد، سواء كنت في الشارع أو في الاجتماع أو داخل سيارة."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "خطوات التأريض لوقف نوبة الهلع (5-4-3-2-1)",
+            "items": [
+              "انظر إلى 5 أشياء تراها الآن وسمّها في ذهنك",
+              "المس 4 أشياء من حولك وأحسس بملمسها",
+              "استمع لـ 3 أصوات في محيطك",
+              "تعرف على رائحتين مختلفتين",
+              "تذوق شيئاً أو تخيل طعم شيء تحبه"
+            ]
+          }
+        },
+        {
+          "h2": "ما الفرق بين نوبة الهلع واضطراب الهلع؟",
+          "paras": [
+            "نوبة الهلع المنفردة يمكن أن تحدث مرة واحدة في الحياة بسبب ضغط شديد أو قلة نوم أو تناول الكافيين بكميات كبيرة أو حتى بدون سبب واضح. هذا وحده لا يعني أن لديك اضطراباً، ولا يستوجب بالضرورة علاجاً دوائياً.",
+            "اضطراب الهلع (Panic Disorder) يُشخَّص حين تتكرر النوبات وتبدأ في تغيير سلوكك، مثل تجنب أماكن بعينها خوفاً من حدوث نوبة فيها، أو الخوف المستمر من حدوث نوبة جديدة. هذا التجنب يُسمى الخوف من الأماكن العامة (Agoraphobia) وهو ما يُقيّد الحياة أكثر من النوبة نفسها. الشخص الذي يتوقف عن الذهاب إلى العمل أو يرفض الانتقال بالمصعد أو يُفضل البقاء في المنزل بدأ مساراً يستحق التدخل المبكر. التجنب يُقدم راحة فورية لكنه يُعلّم الدماغ أن هذه الأماكن خطرة فيزداد الخوف تدريجياً.",
+            "إذا مررت بثلاث نوبات أو أكثر خلال شهر، أو وجدت أن خوفك من نوبة جديدة يجعلك تتجنب الخروج أو ركوب السيارة أو التجمعات، فهذا الوقت المناسب للتحدث مع طبيب أو متخصص في الصحة النفسية. التشخيص المبكر والتدخل المناسب يُعطيان أفضل النتائج. الانتظار يُعمّق التجنب ويُطيل مدة التعافي."
+          ]
+        },
+        {
+          "h2": "متى يجب أن تُجري فحوصات على القلب أولاً؟",
+          "paras": [
+            "من الضروري استبعاد الأسباب الجسدية قبل إرجاع النوبات إلى القلق، خاصة عند أول نوبة في حياتك. اضطرابات ضربات القلب (Arrhythmia)، فرط نشاط الغدة الدرقية (Hyperthyroidism)، وانخفاض السكر في الدم تُحاكي جميعها نوبة الهلع بدقة. بعض أمراض الغدة الكظرية النادرة التي تُفرز كميات من الأدرينالين بشكل متقطع قد تبدو أيضاً كنوبة هلع كلاسيكية.",
+            "زيارة الطبيب تستحق رسم القلب (ECG) وفحص هرمون TSH الخاص بالغدة الدرقية وفحص سكر الدم. هذه الفحوصات الثلاثة تُغطي معظم الأسباب الجسدية الشائعة. إذا كانت سليمة والنوبة تطابق وصف الهلع فأنت أمام نوبة قلق وليست قلبية، وهذا في حد ذاته خبر مطمئن.",
+            "إذا كان لديك تاريخ عائلي بأمراض القلب، أو تجاوزت الخمسين، أو صاحب النوبة ألم في الفك أو الذراع اليسرى أو تعرق بارد شديد، فتوجه فوراً إلى الطوارئ ولا تنتظر. الشك الحقيقي في أمر القلب لا يُعالج بالانتظار."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "اذهب إلى الطوارئ فوراً إذا",
+            "items": [
+              "ألم في الصدر يمتد إلى الذراع اليسرى أو الفك",
+              "تعرق بارد شديد مع شحوب الوجه",
+              "انقطاع الوعي أو الإغماء",
+              "ضيق تنفس مفاجئ لا علاقة له بالقلق أو الجهد",
+              "الأعراض تزداد ولا تنتهي بعد 30 دقيقة"
+            ]
+          }
+        },
+        {
+          "h2": "هل العلاج المعرفي السلوكي يُجدي فعلاً؟",
+          "paras": [
+            "العلاج المعرفي السلوكي (CBT) هو العلاج النفسي الأعلى دليلاً في اضطراب الهلع على مستوى العالم. دراسة نُشرت في مجلة Medicine عام 2018 أثبتت أن الجلسات القصيرة من العلاج المعرفي السلوكي المُصمَّمة خصيصاً لاضطراب الهلع تُحقق تحسناً واضحاً في معظم المرضى خلال 8 إلى 12 أسبوعاً، وأن النتائج تستمر بعد انتهاء العلاج بفارق واضح عن الأدوية وحدها. الشخص يخرج من العلاج بمهارات تبقى معه، لا بمفعول دواء ينتهي حين يتوقف عنه.",
+            "جوهر هذا العلاج هو تحدي الأفكار الكارثية مثل 'سيتوقف قلبي' و'سأُجن'، واستبدالها بأفكار دقيقة: 'هذا قلق شديد وليس خطراً جسدياً.' يتضمن العلاج أيضاً التعرض التدريجي المتحكم به للمحفزات حتى يفقد الدماغ ردة فعله المبالغة. المريض يتعلم قراءة إشارات جسمه بشكل أكثر دقة بدلاً من تفسير كل ارتفاع في ضربات القلب على أنه كارثة وشيكة.",
+            "إن لم يكن المعالج النفسي متاحاً في منطقتك، فكثير من برامج العلاج المعرفي السلوكي المعتمدة متاحة عبر الإنترنت باللغتين العربية والإنجليزية. الخطوة الأولى هي إخبار طبيبك بما تمر به؛ لأن كثيراً من الأطباء في المنطقة لا يعلمون بوجود نوبات الهلع إلا حين تُخبرهم صراحةً، نظراً لأن المرضى غالباً يصفون الأعراض الجسدية ويُخفون الجانب النفسي."
+          ]
+        },
+        {
+          "h2": "ما دور الدواء في علاج نوبات الهلع؟",
+          "paras": [
+            "تحليل شامل نُشر في BMJ عام 2022 لأكثر من 80 تجربة سريرية أكد أن مضادات الاكتئاب من نوع SSRIs وSNRIs هي الأدوية الأفضل لعلاج اضطراب الهلع على المدى البعيد. تحتاج عادةً إلى 4 إلى 6 أسابيع حتى تظهر فائدتها الكاملة، وتستمر فائدتها عادةً طالما استمر المريض في تناولها. بعض الناس يتوقفون عن الدواء مبكراً لأنهم يشعرون بالتحسن دون إدراك أن هذا التحسن هو نتيجة الدواء نفسه.",
+            "البنزوديازيبينات مثل الديازيبام والكلونازيبام تُوقف النوبة بسرعة لكنها تُسبب الإدمان الجسدي والنفسي عند الاستخدام المطول. بيعها بدون وصفة في بعض الصيدليات الإقليمية يجعلها خطراً مضافاً لا حلاً. كثير من الناس في الدول العربية يعتمدون عليها لسنوات دون علم طبيبهم، وهذا وضع يحتاج مراجعة تدريجية بإشراف متخصص لأن التوقف المفاجئ عنها قد يُسبب أعراضاً خطيرة. لا تتناولها إلا بوصفة طبيب.",
+            "الدواء الأمثل والجرعة والمدة يُحددها طبيب أو طبيب نفسي بناءً على تاريخك الصحي الكامل وأي أمراض أخرى تُعالج منها. ما يفيد شخصاً قد لا يناسبك، ولا تغير الجرعة أو توقف عن الدواء فجأة دون إشراف. الجمع بين الدواء والعلاج المعرفي السلوكي في آنٍ واحد يُعطي أفضل النتائج على المدى البعيد وفق ما تُظهر معظم الدراسات."
+          ]
+        },
+        {
+          "h2": "كيف تُخفف من تكرار نوبات الهلع على المدى البعيد؟",
+          "paras": [
+            "النوم الكافي والمنتظم هو أحد أقوى عوامل الحماية من تكرار نوبات الهلع. الحرمان من النوم يرفع حساسية اللوزة الدماغية (Amygdala) للتهديد ويُضاعف احتمالية حدوث نوبة في اليوم التالي. سبع إلى ثماني ساعات يومياً هي الهدف الواقعي لمعظم البالغين. النوم غير المنتظم كالنوم في الصباح وليس في الليل يُخل بساعة الجسم البيولوجية ويُعمّق حساسية الجهاز العصبي حتى لو كانت الساعات الإجمالية كافية.",
+            "الكافيين يُحفز الجهاز العصبي السمبثاوي ويُقلد فيزيولوجياً بعض أعراض الهلع من تسارع القلب وارتجاف خفيف وشعور بالتوتر. إذا كنت تشرب أكثر من كوبين من القهوة يومياً أو تتناول مشروبات الطاقة بانتظام أو تُكثر من شاي الكرك المُركّز، فهذا الاستهلاك يستحق المراجعة قبل أي خطوة علاجية أخرى. أثر الكافيين يمتد إلى ست ساعات في الجسم، لذا شرب القهوة في المساء يُؤثر على النوم ويرفع قلق الليل حتى لو لم تشعر بذلك مباشرةً.",
+            "الرياضة المنتظمة من الخيارات القليلة التي تُقلل القلق وتُعالج آثار الأدرينالين الزائد في آنٍ واحد. المشي السريع 30 دقيقة يومياً ثلاث إلى خمس مرات أسبوعياً له أدلة قوية في تخفيف القلق المزمن. الهدف هو النشاط المستدام لا الرياضة المكثفة التي تُسبب بدورها ارتفاعاً مفاجئاً في ضربات القلب قد يُخيف من يعاني اضطراب الهلع. ابدأ تدريجياً حتى يتعلم جسمك أن ارتفاع القلب أثناء الرياضة آمن ومؤقت، وهذا التعلم يُصحح تدريجياً التفسير الخاطئ الذي يُغذي نوبات الهلع."
+          ]
+        }
+      ],
+      "tie": "تطبيق صحتك يتيح لك تسجيل نوبات الهلع بتوقيتها ومُحفزاتها وشدتها، مما يُساعدك ومعالجك على تحديد الأنماط ومعرفة ما يسبق النوبة فعلاً لا ما تعتقد أنه يسبقها.",
+      "faqs": [
+        {
+          "q": "هل نوبة الهلع خطيرة على الصحة؟",
+          "a": "لا تُسبب نوبة الهلع أذى جسدياً مباشراً. القلب يتسارع لكنه لا يتوقف، والتنفس يضطرب لكنه لا ينقطع. خطورتها تكمن في التكرار وما يُفرزه من قلق استباقي وتجنب يُقيّد الحياة تدريجياً."
+        },
+        {
+          "q": "هل تحدث نوبات الهلع أثناء النوم؟",
+          "a": "نعم، ما يُسمى نوبات الهلع الليلية حقيقية ومُوثقة. يستيقظ الشخص فجأة وسط شعور مروّع بدون أي سبب واضح. هي ليست كوابيس لأنها تحدث خلال مرحلة النوم العميق لا مرحلة الأحلام."
+        },
+        {
+          "q": "كم تستمر نوبة الهلع عادةً؟",
+          "a": "معظم النوبات تبلغ ذروتها خلال عشر دقائق ثم تتراجع تدريجياً. النوبة الكاملة نادراً ما تتجاوز 30 دقيقة، وإن استمر الضيق لساعات فما يحدث على الأرجح قلق مستمر وليس نوبة هلع بتعريفها الدقيق."
+        },
+        {
+          "q": "هل يمكن أن تُسبب نوبة الهلع الإغماء؟",
+          "a": "الإغماء الحقيقي في نوبة الهلع نادر للغاية لأن الضغط يرتفع خلال النوبة لا ينخفض. الشعور بالدوار الشديد أو الإغماء الوشيك شائع ومُخيف لكنه نادراً يتحول إلى فقدان وعي كامل. إذا أغميَ عليك فعلاً فاستشر طبيباً."
+        },
+        {
+          "q": "هل الخوف من نوبة جديدة يُسبب نوبة بحد ذاته؟",
+          "a": "نعم، وهذا ما يُسمى الخوف من الخوف أو دوامة القلق التوقعي. الخوف من النوبة يرفع القلق، الذي يرفع بدوره ضربات القلب، فتُفسر هذا ارتفاعاً على أنه مقدمة للنوبة وتبدأ في الإحساس بالأعراض. العلاج المعرفي السلوكي يستهدف هذه الدوامة تحديداً."
+        },
+        {
+          "q": "هل الكيس الورقي يُساعد في نوبة الهلع؟",
+          "a": "توقف الأطباء عن نصح الناس به لأنه يزيد ثاني أكسيد الكربون بشكل سريع وقد يُسبب دواراً أشد. البديل الأفضل هو التنفس البطيء المنتظم من الأنف والفم مع التركيز على إطالة الزفير."
+        },
+        {
+          "q": "هل يمكن أن يُشخِّصني الطبيب بنوبة قلبية خطأً؟",
+          "a": "يحدث العكس أيضاً: يشخص الناس أنفسهم بنوبة هلع بينما يعانون من اضطراب في ضربات القلب. عند أول نوبة لا تُوصف من قبل فالفحص الطبي ضروري. رسم القلب وفحصا TSH والسكر يُعطيان إجابة شبه مؤكدة."
+        },
+        {
+          "q": "هل يُشفى اضطراب الهلع تماماً؟",
+          "a": "كثير من الناس يتعافون تماماً بعد دورة من العلاج المعرفي السلوكي مع أو بدون دواء. البعض يحتاج دعماً دورياً خاصة في فترات الضغط. الهدف الواقعي هو السيطرة الكاملة بحيث لا تُؤثر النوبات على نوعية الحياة."
+        }
+      ]
+    },
+    "en": {
+      "title": "Panic Attacks: What Is Happening and How to Stop One",
+      "desc": "A panic attack feels exactly like a heart attack. Understand the physiology behind it, the fastest ways to stop one, and when to get medical help.",
+      "keywords": "panic attack, panic disorder, heart pounding, chest tightness, hyperventilation, grounding technique, CBT panic, anxiety attack, agoraphobia, breathing technique",
+      "h1": "Panic Attacks: Why Your Body Does This and What Actually Helps",
+      "takeaways": [
+        "A panic attack is a surge of physical symptoms driven by adrenaline, not by damage to your heart.",
+        "Most attacks peak within 10 minutes and resolve on their own within 20 to 30 minutes.",
+        "Slow breathing and grounding techniques are the fastest ways to interrupt the spiral.",
+        "Recurring panic attacks that change your behaviour are treatable with CBT and, when needed, medication.",
+        "Rule out cardiac and thyroid causes after your first episode before attributing it to anxiety."
+      ],
+      "sections": [
+        {
+          "h2": "What is a panic attack?",
+          "paras": [
+            "A panic attack is a sudden wave of intense fear accompanied by powerful physical symptoms: a racing or pounding heart, shortness of breath, sweating, dizziness, chest tightness, and a sense that something terrible is about to happen. It tends to arrive without warning and can wake people from deep sleep in the early hours of the morning.",
+            "The experience is real, not imagined. Your nervous system fires the full danger response as if a serious threat is present, even though nothing is wrong. This mismatch between the signal and the reality is the defining feature of a panic attack. Many people know on some level that they are safe, but the body refuses to accept that information.",
+            "A review published in the Lancet estimated that panic disorder affects roughly 2 to 3 percent of adults worldwide at any given time. Many more people experience single episodes without developing a recurring pattern. A one-off attack during a period of extreme stress does not mean panic disorder is developing, though it is worth understanding what happened so that fear of a repeat does not itself become the problem."
+          ],
+          "visual": {
+            "type": "stats",
+            "items": [
+              {"value": "10 min", "label": "average time to reach peak intensity", "tone": "warn"},
+              {"value": "30 min", "label": "most attacks resolve within this window", "tone": "info"},
+              {"value": "2-3%", "label": "of adults have panic disorder", "tone": "neutral"}
+            ]
+          }
+        },
+        {
+          "h2": "Why does it feel like a heart attack?",
+          "paras": [
+            "When the brain fires a danger signal, the adrenal glands release a surge of adrenaline. This hormone raises your heart rate, narrows small blood vessels, and shifts blood toward the muscles. Breathing becomes faster and shallower. The result is chest tightness, tingling hands, and a racing pulse that genuinely resembles a cardiac event. The body is preparing to fight or flee from a threat that does not exist.",
+            "A study in the Archives of General Psychiatry measured the physiological changes during panic attacks triggered in a laboratory setting and confirmed that the cardiac symptoms are a direct product of the adrenaline response, not of any underlying heart problem. The heart rate increase is real and measurable on a monitor, which is partly why people find it so convincing and frightening.",
+            "Fast breathing reduces carbon dioxide levels in the blood, which causes further dizziness, tingling around the mouth, and a sense of suffocation. This is hyperventilation, and it feeds the fear, which drives faster breathing, creating a loop that feels impossible to break from inside. Understanding this mechanism is itself helpful, because recognising what is happening removes some of the terror that drives the escalation."
+          ],
+          "visual": {
+            "type": "timeline",
+            "title": "What happens in your body during a panic attack",
+            "items": [
+              {"when": "Second 0", "what": "Brain fires an unexpected danger signal"},
+              {"when": "Minute 1", "what": "Adrenaline surges, heart rate climbs"},
+              {"when": "Minutes 2-3", "what": "Breathing quickens, dizziness begins"},
+              {"when": "Minutes 5-10", "what": "Symptoms reach their peak"},
+              {"when": "Minutes 15-30", "what": "Adrenaline clears, symptoms fade"}
+            ]
+          }
+        },
+        {
+          "h2": "How do you stop a panic attack while it is happening?",
+          "paras": [
+            "The most important first move is a quiet internal reminder: this feeling is frightening but it will not kill me. No one has ever died from a panic attack itself. The symptoms will peak and then pass. Nothing is required except to wait and breathe. That reminder sounds deceptively simple, but it breaks the loop where fear of the attack prolongs and intensifies it.",
+            "The 4-7-8 breathing technique is one of the fastest ways to calm the nervous system. Breathe in through the nose for four seconds, hold for seven, then exhale slowly through the mouth for eight. Repeat three to five times. The key is the long exhale, which activates the parasympathetic nervous system and slows the heart. This deliberately reverses the hyperventilation spiral by raising carbon dioxide back toward a normal level.",
+            "Grounding pulls your attention out of the internal alarm and anchors it in the present moment. Work through the 5-4-3-2-1 technique: name five things you can see, touch four and notice their texture, identify three sounds, find two smells, then taste or imagine the taste of something. This sequence interrupts the catastrophic thought loop and brings the brain back to the present. It can be done anywhere without anyone noticing, in a meeting, on public transport, or on a busy street."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "The 5-4-3-2-1 grounding technique",
+            "items": [
+              "Look around and name 5 things you can see right now",
+              "Touch 4 things nearby and notice what they feel like",
+              "Listen for 3 sounds in your environment",
+              "Notice 2 different smells",
+              "Find 1 taste, or imagine the taste of something familiar"
+            ]
+          }
+        },
+        {
+          "h2": "What is the difference between a panic attack and panic disorder?",
+          "paras": [
+            "A single panic attack can happen once in a lifetime, triggered by extreme stress, sleep deprivation, high caffeine intake, or no identifiable cause at all. One episode does not mean you have a disorder. Many people have one attack during a period of intense pressure, understand it for what it was, and never experience another.",
+            "Panic disorder is the diagnosis when attacks recur and begin to change your behaviour, most often through avoidance. You start skipping the supermarket, avoiding public transport, or refusing to drive alone because you fear a new attack will strike there. This pattern is called agoraphobia, and it tends to narrow life far more than the attacks themselves. The avoidance provides brief relief but teaches the brain that these situations are dangerous, making the fear stronger each time.",
+            "If you have had three or more attacks in a month, or you find yourself rearranging your daily life to avoid the possibility of an attack, that is a signal to speak with a doctor or mental health professional. The condition is very treatable and early help produces the best outcomes. Waiting tends to deepen the avoidance and makes recovery take longer."
+          ]
+        },
+        {
+          "h2": "When do you need a cardiac check first?",
+          "paras": [
+            "Physical causes must be ruled out before attributing attacks to anxiety, especially after your first episode. Heart arrhythmias, an overactive thyroid (hyperthyroidism), and low blood sugar all produce symptoms that closely mimic a panic attack. Certain rare adrenal tumours that secrete adrenaline in bursts, called phaeochromocytomas, can also present this way.",
+            "A standard workup worth asking for includes a resting ECG, a TSH blood test for the thyroid, and a fasting glucose check. These three tests cover most common physical causes. If they come back normal and the pattern of your episodes matches panic disorder, you can be confident you are dealing with anxiety rather than a cardiac condition, which is itself reassuring information that can reduce the fear of future episodes.",
+            "Go straight to an emergency department rather than waiting if your chest pain travels into the left arm or jaw, if you are drenched in cold sweat with pallor, if you lose consciousness, or if symptoms keep worsening beyond 30 minutes without any sign of fading. Genuine doubt about the heart should not be managed with waiting."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "Go to emergency care immediately if",
+            "items": [
+              "Chest pain that spreads into the left arm or jaw",
+              "Heavy cold sweat with facial pallor",
+              "Loss of consciousness or near-fainting",
+              "Shortness of breath unrelated to anxiety or exertion",
+              "Symptoms that keep worsening and do not fade after 30 minutes"
+            ]
+          }
+        },
+        {
+          "h2": "Does cognitive behavioural therapy really work for panic disorder?",
+          "paras": [
+            "Cognitive behavioural therapy, known as CBT, is the best-evidenced psychological treatment for panic disorder. A study published in Medicine in 2018 found that brief CBT programmes designed specifically for panic disorder produced clear improvement in most patients within 8 to 12 weeks, and that the benefits were maintained after the treatment ended in a way that medications alone did not match.",
+            "The core of the approach is challenging catastrophic thoughts such as 'my heart is stopping' or 'I am going mad', and replacing them with accurate ones: 'this is intense anxiety, not a physical emergency.' Therapy also includes gradual, controlled exposure to the situations and sensations the person has been avoiding, so that the brain learns to stop over-responding. The patient learns to read the body's signals more accurately rather than treating every heart rate rise as the beginning of a catastrophe.",
+            "If a therapist is not accessible in your area, a number of validated CBT programmes for panic disorder are available online in both Arabic and English. Access to mental health professionals varies considerably across the Arab world, from relatively good availability in the Gulf to very limited options in conflict-affected areas. Where in-person therapy is impossible, a guided self-help workbook combined with your doctor's support is a reasonable starting point. The first step remains telling your doctor what you are experiencing, because many physicians will not know panic attacks are happening unless the patient raises it."
+          ]
+        },
+        {
+          "h2": "What role does medication play?",
+          "paras": [
+            "A systematic review and network meta-analysis published in the BMJ in 2022, drawing on more than 80 randomised trials, confirmed that SSRIs and SNRIs are the best-supported medications for panic disorder over the long term. They generally take four to six weeks to show their full benefit.",
+            "Benzodiazepines such as diazepam or clonazepam reduce an attack quickly but carry a significant dependence risk with extended use. In parts of the Arab world these can be bought without a prescription, which makes dependence a real danger. They should only be used for short periods under direct medical supervision.",
+            "The right medication, dose, and duration depend on your full medical history and should be decided with a doctor or psychiatrist. Do not adjust the dose yourself, and do not stop suddenly without guidance, as abrupt discontinuation can cause withdrawal symptoms."
+          ]
+        },
+        {
+          "h2": "How do you reduce how often panic attacks happen?",
+          "paras": [
+            "Regular, sufficient sleep is one of the strongest protective factors. Sleep deprivation raises the sensitivity of the brain's fear centre and significantly increases the likelihood of a panic episode. Seven to eight hours a night is a realistic target for most adults. Irregular sleep timing, such as staying up very late and sleeping through the morning, disrupts the body's internal clock and deepens nervous system reactivity even when total sleep hours are adequate.",
+            "Caffeine stimulates the sympathetic nervous system and physically mimics several features of early panic, including raised heart rate, light tremor, and a heightened sense of alertness that can easily tip into agitation. If you drink more than two cups of coffee daily, or regularly consume energy drinks, or rely on very strong tea in the evening, reducing intake is worth trying before reaching for other solutions. Caffeine stays active in the body for around six hours, so afternoon and evening consumption affects sleep quality and raises overnight anxiety.",
+            "Regular aerobic exercise is one of the few interventions with good evidence for reducing chronic anxiety. Brisk walking for 30 minutes, three to five times a week, metabolises excess adrenaline and reduces baseline nervous tension over time. If you have been sedentary, start gently and note that the heart rate rise from exercise can initially trigger anxiety in people with panic disorder. Gradually increasing intensity teaches the brain that a faster heartbeat is not a danger signal, which directly counteracts the misinterpretation at the centre of panic. Consistency matters more than intensity here."
+          ]
+        }
+      ],
+      "tie": "The Sihtak app lets you log panic episodes with the time, setting, and intensity, giving you and your doctor a real pattern to work with rather than a vague impression of how often they happen.",
+      "faqs": [
+        {
+          "q": "Can a panic attack actually harm me physically?",
+          "a": "Panic attacks do not cause physical damage. The heart rate rises but the heart is not in danger. The breathing disturbance is uncomfortable but does not cut off your oxygen supply. The risk from panic disorder is the behavioural one: the avoidance and restriction that builds up over time if it goes untreated."
+        },
+        {
+          "q": "Can panic attacks happen during sleep?",
+          "a": "Yes. Nocturnal panic attacks are well documented. The person wakes suddenly in a state of terror with no dream or nightmare to explain it, because nocturnal attacks occur during deep, dreamless sleep rather than during the REM phase when dreaming happens."
+        },
+        {
+          "q": "How long does a panic attack last?",
+          "a": "Most attacks peak within ten minutes and then taper. The full episode rarely exceeds 30 minutes. If distress continues for hours, what is happening is more likely sustained anxiety rather than a single discrete attack."
+        },
+        {
+          "q": "Can a panic attack cause fainting?",
+          "a": "True fainting during a panic attack is rare because blood pressure rises during the attack rather than falling. The sense that you are about to faint is very common and frightening, but it almost never results in actual loss of consciousness. If you do faint, see a doctor to rule out other causes."
+        },
+        {
+          "q": "Can fear of another attack trigger one?",
+          "a": "This is the anticipatory anxiety loop. Fearing an attack raises your anxiety, which raises your heart rate, which you interpret as the start of a new attack, which makes you more anxious. CBT specifically targets this loop by teaching the brain to read the body's signals more accurately."
+        },
+        {
+          "q": "Does breathing into a paper bag help?",
+          "a": "Doctors no longer recommend this because it raises carbon dioxide too quickly and can cause more dizziness. The better approach is slow, deliberate nasal breathing with a longer exhale than inhale, which calms the nervous system without causing sharp chemical shifts."
+        },
+        {
+          "q": "Is panic disorder curable?",
+          "a": "Many people recover fully after a course of CBT with or without medication and go on with no significant recurrence. Some need periodic support during high-stress periods. The realistic goal is full control so that panic no longer limits what you can do."
+        },
+        {
+          "q": "Should I go to a cardiologist or a psychiatrist first?",
+          "a": "Start with your general practitioner or family doctor. They can order the basic cardiac and thyroid tests to rule out physical causes. If those are normal, they can refer you to the right specialist. Skipping straight to a cardiologist without that initial workup sometimes results in extensive cardiac investigations when the problem is anxiety."
+        }
+      ]
+    }
+  }
+}

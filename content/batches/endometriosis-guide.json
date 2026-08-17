@@ -1,0 +1,357 @@
+{
+  "slug": "endometriosis-guide",
+  "category": "womens-health",
+  "chip_ar": "صحة المرأة",
+  "chip_en": "Women's Health",
+  "date_iso": "2026-07-22",
+  "sources": [
+    {
+      "label": "As-Sanie S, Mackenzie SC, Morrison L et al: Endometriosis: A Review, JAMA, 2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40323608/"
+    },
+    {
+      "label": "Davenport S, Smith D, Green DJ et al: Barriers to a Timely Diagnosis of Endometriosis: A Qualitative Systematic Review, Obstetrics and gynecology, 2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37441792/"
+    },
+    {
+      "label": "Agarwal SK, Chapron C, Giudice LC et al: Clinical diagnosis of endometriosis: a call to action, American journal of obstetrics and gynecology, 2019",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30625295/"
+    },
+    {
+      "label": "Bafort C, Beebeejaun Y, Tomassetti C et al: Laparoscopic surgery for endometriosis, The Cochrane database of systematic reviews, 2020",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33095458/"
+    },
+    {
+      "label": "Wang MH, Chen JH, Qi XY et al: Global prevalence of adenomyosis and endometriosis: a systematic review and meta-analysis, Reproductive biology and endocrinology, 2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41257733/"
+    },
+    {
+      "label": "Saunders PTK, Horne AW: Endometriosis: Etiology, pathobiology, and therapeutic prospects, Cell, 2021",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34048704/"
+    },
+    {
+      "label": "Abu Helwa HA, Mitaeb AA, Al-Hamshri S et al: Prevalence of dysmenorrhea and predictors of its pain intensity among Palestinian female university students, BMC women's health, 2018",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29334974/"
+    }
+  ],
+  "content": {
+    "ar": {
+      "title": "بطانة الرحم المهاجرة: ألم الدورة الشديد ليس طبيعيا",
+      "desc": "تعرفي على بطانة الرحم المهاجرة (Endometriosis): أسبابها وأعراضها وسبب التأخر في تشخيصها سنوات، وكيف تحصلين على التشخيص الصحيح والعلاج المناسب.",
+      "keywords": "بطانة الرحم المهاجرة, endometriosis, ألم الدورة الشهرية, عقم, ألم الحوض, لابروسكوبي, هرمونات بطانة الرحم, تشخيص بطانة الرحم",
+      "h1": "بطانة الرحم المهاجرة (Endometriosis): حين يكون ألم الدورة أكثر من مجرد ألم",
+      "takeaways": [
+        "بطانة الرحم المهاجرة حالة شائعة تصيب نحو 10% من النساء في سن الإنجاب، وكثيرا ما يستغرق تشخيصها سنوات.",
+        "الألم الشديد الذي يمنعك من العمل أو الدراسة خلال الدورة الشهرية ليس طبيعيا ويستحق التقييم الطبي.",
+        "المنظار (Laparoscopy) هو الطريقة الوحيدة للتشخيص القاطع، لكن الأعراض الإكلينيكية وحدها كافية لبدء العلاج.",
+        "العلاج متاح ويشمل أدوية هرمونية وجراحة ويساعد على تخفيف الألم وتحسين الخصوبة.",
+        "الألم المعتدل عند الدورة مختلف جدا عن الألم المُعيق، والفرق بينهما مهم وطبيب النساء يميزه."
+      ],
+      "sections": [
+        {
+          "h2": "ما هي بطانة الرحم المهاجرة؟",
+          "paras": [
+            "بطانة الرحم المهاجرة (Endometriosis) هي حالة تنمو فيها أنسجة مشابهة لبطانة الرحم الداخلية في أماكن خارج الرحم، أكثرها شيوعا على المبيضين وقناتي فالوب والأنسجة المحيطة بالرحم، وأحيانا على الأمعاء أو المثانة. هذه الأنسجة تستجيب للتغيرات الهرمونية تماما مثل بطانة الرحم الطبيعية: تتضخم وتنزف مع كل دورة شهرية.",
+            "لكن على عكس دم الدورة الذي يخرج من الجسم، لا يجد نزيف هذه الأنسجة مخرجا، فيتراكم ويسبب التهابا مزمنا وتليفا والتصاقات بين الأعضاء. مراجعة شاملة نشرت في مجلة JAMA عام 2025 أكدت أن هذه الالتهابات المتكررة هي المسؤولة عن الألم المزمن وتلف الأنسجة المجاورة.",
+            "تصيب بطانة الرحم المهاجرة نحو 10% من النساء في سن الإنجاب، وهو ما يعادل ملايين النساء في منطقتنا. تحليل منهجي شامل نشر عام 2025 في مجلة Reproductive Biology and Endocrinology أكد أن الانتشار العالمي قريب من هذا الرقم، مما يجعلها من أكثر الأمراض النسائية شيوعا وأقلها تشخيصا.",
+            "لا يعرف العلم حتى الآن السبب الدقيق وراء الإصابة، لكن الأبحاث تشير إلى دور لعوامل وراثية وهرمونية ومناعية. ليست عدوى ولا تنتقل من شخص لآخر، وليست نتيجة سلوك معين. الاستعداد الوراثي واضح إذ تزداد احتمالية الإصابة إذا كانت أم أو أخت مصابة."
+          ],
+          "visual": {
+            "type": "stats",
+            "items": [
+              {"value": "10%", "label": "من النساء في سن الإنجاب مصابات ببطانة الرحم المهاجرة", "tone": "warn"},
+              {"value": "7-10 سنوات", "label": "متوسط التأخر في الوصول للتشخيص الصحيح", "tone": "bad"}
+            ]
+          }
+        },
+        {
+          "h2": "ما الفرق بين ألم الدورة العادي والألم المثير للقلق؟",
+          "paras": [
+            "الألم البسيط إلى المتوسط في أول يومين من الدورة الشهرية شائع ومعروف طبيا باسم عسر الطمث الأولي. هذا الألم يستجيب عادة للمسكنات مثل الإيبوبروفين ولا يمنعك من القيام بنشاطاتك اليومية. دراسة فلسطينية نشرت عام 2018 في BMC Women's Health أظهرت أن معدلات عسر الطمث المزمن مرتفعة بين طالبات الجامعة في المنطقة.",
+            "ألم بطانة الرحم المهاجرة مختلف بشكل واضح. هو ألم يمنعك من العمل أو الدراسة أو الخروج من السرير لأيام. قد يبدأ قبل الدورة بأيام ويستمر بعد انتهائها. يكون أحيانا في أسفل الظهر أو المستقيم أو الساقين. وقد يصاحبه ألم أثناء الجماع أو أثناء التبول أو التغوط.",
+            "المشكلة الكبرى هي أن كثيرا من النساء يتعلمن تحمل هذا الألم ويظننه طبيعيا، وأن بعض المقربين ينصحونهن بتحمله دون طلب المساعدة الطبية. في مجتمعاتنا يُطبَّع الألم الشديد في الدورة أحيانا بشكل مفرط، مما يؤخر التشخيص بسنوات ثمينة.",
+            "القاعدة البسيطة: الألم الذي يتدخل في حياتك اليومية ليس طبيعيا ويستحق التقييم. لا تحتاجين إلى إثبات درجة ألمك أو الاعتذار عنه لتطلبي المساعدة الطبية."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "اطلبي تقييما طبيا إذا كانت دورتك تسبب",
+            "items": [
+              "ألما يمنعك من العمل أو الدراسة أو مغادرة المنزل",
+              "ألما يبدأ قبل الدورة بأيام أو يستمر بعدها",
+              "ألما أثناء الجماع في العمق لا على السطح فقط",
+              "ألما أو نزيفا أثناء التبول أو التغوط في أوقات الدورة",
+              "تعبا شديدا يشبه التعب العضوي لا مجرد إرهاق"
+            ]
+          }
+        },
+        {
+          "h2": "لماذا يستغرق تشخيص بطانة الرحم المهاجرة كل هذه السنوات؟",
+          "paras": [
+            "مراجعة منهجية نشرت في مجلة Obstetrics and Gynecology عام 2023 درست العوائق أمام التشخيص المبكر لبطانة الرحم المهاجرة، ووجدت أن متوسط التأخر يتراوح بين سبع وعشر سنوات. هذا التأخر الضخم له أسباب متعددة تتضافر معا على حساب النساء.",
+            "أولا، الألم الشديد في الدورة يطبَّع اجتماعيا كأمر طبيعي. تسمع كثيرات 'هذا حال النساء' أو 'أمك كانت هكذا' أو 'تعودي عليه بعد الزواج'. هذه الجمل تبدو مطمئنة لكنها تؤخر الوصول للرعاية الطبية. ثانيا، الفحوص العادية كالموجات فوق الصوتية لا تظهر بطانة الرحم المهاجرة في كثير من حالاتها البسيطة والمتوسطة، فيعود التقرير سليما ويُطمأن الطبيب والمريضة بلا داع. ثالثا، التشخيص القاطع يحتاج إلى عملية منظار لا تُجرى إلا عند الاشتباه الكافي.",
+            "في بلدان المنطقة يُضاف إلى ذلك صعوبة الحديث عن الأعراض المتعلقة بالجماع أو التغوط، وهي أعراض محورية لكن كثيرات يتحرجن من ذكرها لطبيب حتى لو كان طبيب نسائية. كذلك يؤخر الوصول للرعاية الطبية الكلفة المادية للاستشارة المتخصصة، وفي بعض المناطق شح أطباء النسائية المتخصصين خارج المدن الكبرى.",
+            "خلاصة البحث العلمي أن التشخيص المبكر يحسن النتائج بشكل ملموس، ليس فقط في تخفيف الألم بل أيضا في الحفاظ على الخصوبة. كلما طال التأخر زادت الالتصاقات والتليف واحتمال تأثر قناتي فالوب والمبيضين. معرفة هذه الأعراض وأنها تستحق التقييم هي الخطوة الأولى لكل امرأة تعاني منها."
+          ]
+        },
+        {
+          "h2": "كيف يتم التشخيص؟",
+          "paras": [
+            "التشخيص اليقيني لبطانة الرحم المهاجرة يحتاج إلى منظار جراحي (Laparoscopy)، وهو إجراء جراحي طفيف تحت تخدير عام. يدخل الطبيب منظارا صغيرا عبر شق صغير في البطن ويفحص الأعضاء مباشرة. يأخذ عادة خزعة من الأنسجة المشتبه فيها لتحليلها مجهريا وتأكيد التشخيص.",
+            "لكن هذا لا يعني أن كل امرأة مشتبه في إصابتها يجب أن تخضع فورا لعملية جراحية. الإرشادات الطبية الحديثة تسمح بالبدء بالعلاج الهرموني بناء على الصورة الإكلينيكية دون انتظار المنظار، خاصة عند الشابات. الجراحة تكون ضرورية أكثر عند غياب استجابة للعلاج الهرموني أو الاشتباه في تأثرها على الخصوبة.",
+            "الموجات فوق الصوتية المهبلية يمكنها رؤية الكيسات المبيضية المرتبطة بالمرض والمسماة بالكيسات الشوكولاطية (Chocolate Cysts)، لكنها لا ترى الأنسجة المهاجرة الصغيرة والالتصاقات في أغلب الأحيان. التصوير بالرنين المغناطيسي أفضل منها لكنه لا يلغي الحاجة للمنظار في الحالات المعقدة.",
+            "عند زيارة الطبيب، ساعدي في التشخيص بتوصيف دقيق للألم: متى يبدأ، وكم يدوم، وأين بالضبط، وما مستوى شدته من واحد لعشرة، وكيف يؤثر في حياتك. هذه التفاصيل توجّه الطبيب أكثر مما يظنه كثيرات."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "المسار التشخيصي لبطانة الرحم المهاجرة",
+            "items": [
+              "وصفي أعراضك للطبيب بتفصيل: شدة الألم، موضعه، علاقته بالدورة",
+              "الفحص السريري وقد يشمل الفحص المهبلي لتحسس الأنسجة",
+              "الموجات فوق الصوتية المهبلية: تُظهر الكيسات المبيضية لكن لا تستبعد المرض إذا كانت سليمة",
+              "البدء بالعلاج الهرموني تجريبيا قد يأتي قبل الجراحة",
+              "المنظار الجراحي للتشخيص القاطع وعلاج الأنسجة المهاجرة في نفس الوقت"
+            ]
+          }
+        },
+        {
+          "h2": "درجات المرض وما تعنيه",
+          "paras": [
+            "تصنف بطانة الرحم المهاجرة إلى أربع درجات بحسب انتشار الأنسجة المهاجرة ودرجة الالتصاقات. الدرجة الأولى والثانية تعني وجودا محدودا للأنسجة المهاجرة. الدرجة الثالثة تعني كيسات مبيضية والتصاقات واضحة. الدرجة الرابعة تعني أمراضا واسعة قد تشمل المثانة والأمعاء.",
+            "لكن هذا التصنيف لا يتنبأ بشكل موثوق بمستوى الألم. بعض النساء بدرجة رابعة يشعرن بألم أقل من أخريات بدرجة أولى. الدرجة تفيد في تخطيط الجراحة وتحديد تأثير المرض على الخصوبة، لكن مستوى الألم الذاتي لا علاقة له ضرورة بحجم المرض.",
+            "الكيسة الشوكولاطية (Endometrioma) كيسة مبيضية تملأ بالدم القديم الذي يتحول إلى مظهر يشبه الشوكولاطة السائلة. أحجامها تتراوح بين سنتيمترات قليلة وعشرة أو أكثر. وجودها يرفع احتمال تأثر الخصوبة ويستدعي تقييما متخصصا."
+          ]
+        },
+        {
+          "h2": "علاج بطانة الرحم المهاجرة",
+          "paras": [
+            "لا يوجد علاج شافٍ كامل لبطانة الرحم المهاجرة، لكن الأعراض قابلة للسيطرة بشكل جيد في أغلب الحالات. الهدف من العلاج هو تخفيف الألم، وتحسين جودة الحياة، والحفاظ على الخصوبة أو تحسينها إذا كان هذا ما تريده المرأة.",
+            "العلاج الهرموني هو خط العلاج الأول. الحبوب المركبة تقلل من حجم الأنسجة المهاجرة بتقليل مستوى الاستروجين وتنظيم الدورة. البروجيستين وحده قد يوقف الدورة مؤقتا ويريح الأنسجة. هناك أيضا عقاقير متخصصة مثل ناهضات هرمون GnRH التي تدخل الجسم في حالة تشبه الإيقاف المؤقت للمبيضين، لكنها تستخدم لفترات محدودة بسبب آثارها على الكثافة العظمية.",
+            "مراجعة منهجية من قاعدة Cochrane نشرت عام 2020 أثبتت أن الجراحة بالمنظار تحسن الخصوبة وتخفف الألم في حالات بطانة الرحم المهاجرة المتوسطة والشديدة. الجراح الماهر يزيل الأنسجة المهاجرة ويفك الالتصاقات ويستأصل الكيسات المبيضية مع الحفاظ على أكبر قدر من نسيج المبيض الطبيعي.",
+            "مسكنات الألم غير الستيرويدية مثل الإيبوبروفين مفيدة للألم الحاد إذا أخذت بشكل منتظم في بداية الدورة قبل أن يبلغ الألم ذروته، لكنها لا تعالج المرض بل تخفف عرضا منه فقط. الجمع بين المسكنات والعلاج الهرموني شائع وفعال."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "خيارات علاج بطانة الرحم المهاجرة",
+            "head": ["العلاج", "الهدف الرئيسي", "ملاحظة مهمة"],
+            "rows": [
+              ["حبوب منع الحمل المركبة", "تخفيف الألم وتنظيم الدورة", "خط أول مناسب للأعراض المعتدلة"],
+              ["البروجيستين وحده (حقن أو لولب أو حبوب)", "تقليص الأنسجة المهاجرة", "قد يوقف الدورة وهذا هدف علاجي"],
+              ["عقاقير GnRH", "إيقاف مؤقت للمبيضين", "فترة محدودة 6 أشهر بسبب تأثير على العظام"],
+              ["منظار جراحي", "إزالة الأنسجة وفك الالتصاقات", "يحسن الخصوبة ويخفف الألم طويل الأمد"],
+              ["مسكنات NSAIDs", "تخفيف ألم الدورة", "لا تعالج المرض، تستخدم عند الحاجة"]
+            ]
+          }
+        },
+        {
+          "h2": "بطانة الرحم المهاجرة والخصوبة",
+          "paras": [
+            "بطانة الرحم المهاجرة من أسباب تأخر الحمل لكنها لا تعني العقم الكامل. نحو 30-50% من النساء المصابات يواجهن صعوبات في الحمل، وهذا يعني أن النصف الآخر أو أكثر يحملن بشكل طبيعي دون تدخل طبي. التأثير على الخصوبة يعتمد على مكان الأنسجة المهاجرة ودرجتها وحجم الكيسات المبيضية.",
+            "الالتصاقات حول قناتي فالوب هي الأكثر تأثيرا على الحمل الطبيعي، لأنها تمنع البويضة من الوصول إلى قناة فالوب أو تمنع الحيوانات المنوية من الوصول إلى البويضة. الجراحة بالمنظار تحسن معدلات الحمل الطبيعي في الحالات المتوسطة إلى الشديدة، خاصة إذا كانت هناك التصاقات أو كيسات مبيضية كبيرة تضغط على نسيج المبيض الطبيعي.",
+            "في الحالات التي لا تستجيب للجراحة أو تكون فيها الأنسجة المتضررة كبيرة، أطفال الأنابيب (IVF) خيار علاجي فعال. الإصابة ببطانة الرحم المهاجرة لا تمنع نجاح أطفال الأنابيب في معظم الحالات.",
+            "إذا كنت مصابة ببطانة الرحم المهاجرة وتخططين للحمل مستقبلا، ناقشي ذلك صراحة مع طبيبك منذ البداية لأن خطة العلاج قد تختلف جذريا. العلاج الهرموني الذي يوقف الدورة يمنع الحمل أثناء تناوله، والجراحة قد تكون الخيار الأولى إذا كان الحمل هو الهدف الأقرب لك."
+          ]
+        },
+        {
+          "h2": "العيش مع بطانة الرحم المهاجرة",
+          "paras": [
+            "بطانة الرحم المهاجرة مرض مزمن لكنه قابل للتعايش معه. كثيرات من النساء المصابات يعشن حياة كاملة بمهن ناجحة وعلاقات مستقرة وأطفال، شريطة أن يحصلن على التشخيص الصحيح والعلاج المناسب في وقت مناسب. التأخر في التشخيص هو أكبر عائق، وليس المرض نفسه.",
+            "الألم المزمن يؤثر على الصحة النفسية ويزيد من خطر القلق والاكتئاب. إذا كنت تشعرين بهذا، فهو ليس ضعفا بل استجابة طبيعية لمرض مزمن مؤلم. الدعم النفسي جزء حقيقي من العلاج الشامل وليس إضافة ثانوية. لا تترددي في طلب مساعدة متخصص صحة نفسية إذا كان الألم المزمن يؤثر على مزاجك وعلاقاتك.",
+            "التمرين المنتظم وخاصة تمارين الحوض أظهرت دراسة نشرت عام 2025 في مجلة Journal of Physiotherapy أنها تخفف من شدة الألم الحالي وتحسن وظيفة قاع الحوض، وإن لم تعالج المرض جذريا. اليوغا وتمارين الاسترخاء والتأمل مفيدة أيضا كأدوات مكملة للسيطرة على الألم المزمن بشكل مستدام دون آثار جانبية.",
+            "تعديلات التغذية موضوع بحثي نامٍ، وبعض النساء تجد أن تقليل الأطعمة الالتهابية مثل السكر المكرر والدهون المشبعة يخفف الأعراض قليلا. الدليل العلمي لا يزال محدودا لكن تغييرات نمط الحياة لا تضر وقد تفيد.",
+            "المتابعة الدورية مع طبيب متخصص كل ستة أشهر إلى سنة ضرورية حتى في غياب الأعراض الحادة، لأن المرض قد يتطور ببطء دون أعراض واضحة. إذا تغيرت الأعراض أو ازدادت شدتها أو ظهرت أعراض جديدة، ناقشي طبيبك في أسرع وقت ممكن بدلا من الانتظار حتى الموعد الروتيني القادم."
+          ]
+        }
+      ],
+      "tie": "في تطبيق صحتك يمكنك تتبع أعراض دورتك الشهرية شهرا بشهر، وتسجيل مستوى الألم وتأثيره في حياتك اليومية، وحفظ نتائج الفحوص والتصوير. هذه السجلات تساعدك في وصف حالتك للطبيب بدقة وتسهّل متابعة تطور الحالة مع الوقت. التطبيق أداة مساعدة ولا يغني عن المتابعة الطبية.",
+      "faqs": [
+        {
+          "q": "هل بطانة الرحم المهاجرة تسبب العقم دائما؟",
+          "a": "لا، بطانة الرحم المهاجرة لا تعني العقم الكامل. نحو 30-50% من المصابات يواجهن صعوبات في الحمل، مما يعني أن النساء الأخريات يحملن بشكل طبيعي. الجراحة وعلاجات الخصوبة تحسن الفرص بشكل ملموس عند من تعانين من تأخر الحمل."
+        },
+        {
+          "q": "هل يمكن أن تُشخص بطانة الرحم المهاجرة بالموجات فوق الصوتية؟",
+          "a": "الموجات فوق الصوتية ترى الكيسات المبيضية المرتبطة بالمرض لكنها لا ترى الأنسجة الصغيرة المهاجرة والالتصاقات في معظم الحالات. لذلك نتيجة سليمة لا تستبعد المرض. التشخيص القاطع يحتاج إلى منظار جراحي."
+        },
+        {
+          "q": "هل الحمل يعالج بطانة الرحم المهاجرة؟",
+          "a": "الحمل قد يخفف الأعراض مؤقتا لأن الدورة الشهرية تتوقف وهرمونات الحمل تعمل بشكل مختلف. لكنه لا يعالج المرض، وغالبا تعود الأعراض بعد الولادة. لا ينبغي أن يكون الحمل دواء لبطانة الرحم المهاجرة."
+        },
+        {
+          "q": "هل يمكن أن تُصاب المراهقات ببطانة الرحم المهاجرة؟",
+          "a": "نعم، بطانة الرحم المهاجرة تبدأ أحيانا مع أولى الدورات الشهرية. ألم الدورة الشديد عند المراهقة الذي يمنعها من المدرسة يستحق التقييم الطبي ولا يجب إهماله باعتباره أمرا طبيعيا."
+        },
+        {
+          "q": "هل الجراحة تشفي بطانة الرحم المهاجرة نهائيا؟",
+          "a": "الجراحة تزيل الأنسجة المهاجرة الموجودة وتخفف الأعراض بشكل ملحوظ، لكن المرض يمكن أن يعود. معدلات العودة تتراوح بين 20-40% خلال خمس سنوات. المتابعة بالعلاج الهرموني بعد الجراحة تقلل من احتمال العودة."
+        },
+        {
+          "q": "هل بطانة الرحم المهاجرة تؤثر على الجنس؟",
+          "a": "نعم، الألم أثناء الجماع في العمق أحد الأعراض الشائعة ويتحسن مع علاج المرض. هذا أمر طبي يجب مناقشته مع الطبيب بصراحة لأنه يساعد في توجيه التشخيص والعلاج ويؤثر على جودة الحياة."
+        },
+        {
+          "q": "ماذا يحدث لبطانة الرحم المهاجرة بعد انقطاع الطمث؟",
+          "a": "انقطاع الطمث يوقف الدورات الشهرية ويخفض مستوى الاستروجين، مما يوقف عادة نشاط بطانة الرحم المهاجرة ويزيل أعراضها في معظم الحالات. لهذا السبب إيقاف المبيضين مؤقتا بالعقاقير يستخدم أحيانا كعلاج."
+        }
+      ]
+    },
+    "en": {
+      "title": "Endometriosis: why severe period pain is not normal",
+      "desc": "A factual guide to endometriosis: why diagnosis is delayed years, what symptoms actually warrant investigation, how the diagnosis is made, and what treatment can achieve.",
+      "keywords": "endometriosis symptoms, period pain causes, endometriosis diagnosis, pelvic pain women, endometriosis fertility, laparoscopy endometriosis, endometriosis treatment",
+      "h1": "Endometriosis: severe period pain is not normal and deserves investigation",
+      "takeaways": [
+        "Endometriosis affects around 10% of women of reproductive age, and diagnosis is often delayed by seven to ten years.",
+        "Period pain that stops you working, studying or leaving the house is not normal and warrants medical assessment.",
+        "Laparoscopy is the only definitive diagnostic test, but hormonal treatment can start on clinical grounds without waiting for surgery.",
+        "Treatment with hormones or surgery can reduce pain significantly and improve fertility.",
+        "A normal ultrasound does not rule out endometriosis."
+      ],
+      "sections": [
+        {
+          "h2": "What is endometriosis?",
+          "paras": [
+            "Endometriosis is a condition where tissue similar to the lining of the uterus grows in locations outside the uterus, most commonly on the ovaries, fallopian tubes and tissue around the uterus, and sometimes on the bowel or bladder. Like the uterine lining, this tissue responds to hormonal changes, thickening and bleeding with each menstrual cycle.",
+            "Unlike the blood from a normal period, this blood has no way out of the body. It accumulates, causing chronic inflammation, scarring and adhesions between organs. A comprehensive review published in JAMA in 2025 confirmed that these repeated cycles of inflammation and healing are responsible for the chronic pain and progressive tissue damage that define the condition.",
+            "A 2025 systematic review and meta-analysis published in Reproductive Biology and Endocrinology found global endometriosis prevalence to be around 10% of women of reproductive age, making it one of the most common gynaecological conditions worldwide and one of the least diagnosed. Millions of women in the Arab world are likely living with it without a name for what they have.",
+            "The exact cause remains unknown, but research points to a combination of genetic, hormonal and immune factors. A 2021 paper in the journal Cell reviewed the evidence on pathobiology and confirmed strong familial clustering: if your mother or sister has endometriosis, your risk is higher. It is not an infection, it does not spread between people, and it is not caused by any particular behaviour."
+          ],
+          "visual": {
+            "type": "stats",
+            "items": [
+              {"value": "10%", "label": "of women of reproductive age are affected globally", "tone": "warn"},
+              {"value": "7-10 years", "label": "average delay to a correct diagnosis", "tone": "bad"}
+            ]
+          }
+        },
+        {
+          "h2": "What is the difference between normal period pain and the pain that needs investigation?",
+          "paras": [
+            "Mild to moderate pain in the first one to two days of a period is common and is medically called primary dysmenorrhoea. This pain typically responds to ibuprofen and does not prevent normal daily activity. A 2018 study published in BMC Women's Health found high rates of dysmenorrhoea among female university students in Palestine, reflecting how widespread period pain is in the region.",
+            "The pain of endometriosis is different in a way that most women can recognise once they hear it described. It is pain that stops you working, studying or leaving bed for days. It often starts before the period begins, sometimes by three to five days, and continues after bleeding ends. It can affect the lower back, rectum or legs. It may come with pain during sex, during urination or during bowel movements, especially around the time of a period.",
+            "The serious problem is that many women learn to tolerate this pain and assume it is normal. Family members and sometimes healthcare providers offer reassurance without investigation. In regional settings, severe period pain is often normalised to a degree that delays diagnosis by years that matter for fertility and long-term tissue health.",
+            "The practical rule: pain that interferes with your daily life is not normal and is worth assessment. You do not need to justify the severity of your pain or apologise for seeking medical help."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "Seek medical assessment if your period causes",
+            "items": [
+              "Pain that prevents you from working, studying or leaving the house",
+              "Pain that starts days before the period or continues after it ends",
+              "Deep pain during sex (not surface discomfort)",
+              "Pain or bleeding during urination or bowel movements around the time of your period",
+              "Severe fatigue that feels physical, not just tiredness"
+            ]
+          }
+        },
+        {
+          "h2": "Why does diagnosis take so long?",
+          "paras": [
+            "A qualitative systematic review published in Obstetrics and Gynecology in 2023 examined the barriers to timely endometriosis diagnosis and found a consistent average delay of seven to ten years across different healthcare systems. This delay has identifiable causes that could be addressed.",
+            "First, severe period pain is socially normalised in ways that discourage women from seeking care. Second, standard investigations including pelvic ultrasound are often normal in mild and moderate endometriosis, which falsely reassures both doctor and patient. Third, definitive diagnosis requires laparoscopic surgery, which is not done without sufficient clinical suspicion. These three factors combine to create long diagnostic journeys.",
+            "In the Arab world, additional barriers include reluctance to discuss symptoms related to sex or bowel function, financial cost of specialist appointments, and in some settings the unavailability of gynaecological specialists outside major cities. Awareness that these symptoms are medically significant is itself the first step toward breaking this pattern.",
+            "The scientific consensus is that earlier diagnosis improves outcomes. A 2019 paper in the American Journal of Obstetrics and Gynecology called explicitly for a change in clinical approach, arguing that the combination of typical symptoms and a failed response to standard pain relief is sufficient to make a clinical diagnosis and begin treatment without waiting for surgery."
+          ]
+        },
+        {
+          "h2": "How is the diagnosis made?",
+          "paras": [
+            "The only definitive diagnostic test for endometriosis is laparoscopy, a minimally invasive surgical procedure performed under general anaesthesia. A small camera is inserted through a tiny incision in the abdomen, allowing the surgeon to see endometrial tissue directly. Biopsies are taken from suspected areas and confirmed under the microscope.",
+            "This does not mean every woman with suspected endometriosis needs to go directly to surgery. Modern gynaecological guidelines allow hormonal treatment to begin on the basis of clinical presentation without waiting for laparoscopy, particularly in younger women. Surgery becomes more important when hormonal treatment fails, when fertility is the concern, or when the clinical picture is complex.",
+            "Transvaginal ultrasound can identify ovarian endometriomas, the cysts filled with old blood sometimes called chocolate cysts, but it cannot reliably detect small implants or adhesions in most cases. A normal ultrasound does not rule out the condition. MRI provides more detail but still does not replace laparoscopy in complex cases.",
+            "When you see your doctor, a detailed description of your pain helps more than you might expect. When does it start? How many days does it last? Where exactly does it go? How does it compare to your worst pain on a scale of one to ten? How many days does it affect your normal activity? This information guides clinical suspicion and investigation more effectively than you might think."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "The diagnostic pathway for endometriosis",
+            "items": [
+              "Describe your symptoms in detail: severity, location, timing relative to your period",
+              "Clinical examination, which may include internal examination to feel for tissue changes",
+              "Transvaginal ultrasound: identifies ovarian cysts but does not rule out the condition if normal",
+              "Hormonal treatment trial may precede surgery as both a treatment and a diagnostic pointer",
+              "Laparoscopy for definitive diagnosis and treatment of lesions at the same procedure"
+            ]
+          }
+        },
+        {
+          "h2": "The stages of endometriosis and what they mean",
+          "paras": [
+            "Endometriosis is classified into four stages based on the extent and location of tissue implants and the degree of adhesions. Stage one and two indicate minimal and mild disease. Stage three involves ovarian cysts and noticeable adhesions. Stage four represents severe widespread disease that may involve the bladder or bowel.",
+            "However, this staging does not reliably predict pain severity. Some women with stage four disease have less pain than others with stage one. The staging is useful for planning surgery and assessing fertility impact, but pain experience correlates poorly with disease extent. A woman with minimal visible disease can have severe debilitating pain.",
+            "Endometriomas, the ovarian cysts associated with endometriosis, vary from a few centimetres to ten or more. Their presence increases fertility impact and warrants specialist assessment. A 2021 paper in Cell confirmed that the specific mechanisms linking ovarian endometriomas to reduced egg quality and fertilisation are now better understood, which is useful for counselling women about their specific fertility risk."
+          ]
+        },
+        {
+          "h2": "Treatment options and what they can achieve",
+          "paras": [
+            "There is no definitive cure for endometriosis, but the symptoms of most women can be brought under good control. The goals of treatment are to reduce pain, improve quality of life, and preserve or improve fertility where that is what the woman wants.",
+            "Hormonal treatment is first-line. The combined oral contraceptive pill reduces oestrogen stimulation of the endometrial tissue and controls the menstrual cycle. Progestogen alone can suppress the endometrial deposits further. Specialist medicines called GnRH agonists temporarily stop ovarian function, creating a hormone environment that halts disease activity, but they are used for limited periods because of effects on bone density.",
+            "A Cochrane systematic review published in 2020 confirmed that laparoscopic surgery improves fertility rates and reduces pain in moderate to severe endometriosis. The surgeon removes visible deposits, breaks down adhesions, and removes or drains ovarian endometriomas while preserving as much normal ovarian tissue as possible. A skilled endometriosis surgeon makes a significant difference to outcomes.",
+            "Non-steroidal anti-inflammatory drugs such as ibuprofen help with acute pain when taken regularly from the start of a period rather than waiting for pain to peak. They treat the symptom not the disease, but combined with hormonal treatment they form an effective overall plan. The combination of approaches tailored to your circumstances and goals is what modern management looks like."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Endometriosis treatment options",
+            "head": ["Treatment", "Main goal", "Key note"],
+            "rows": [
+              ["Combined oral contraceptive pill", "Pain relief and cycle control", "Good first-line option for moderate symptoms"],
+              ["Progestogen alone (pill, injection or IUD)", "Suppress endometrial deposits", "May stop periods, which is a treatment goal"],
+              ["GnRH agonists", "Temporary ovarian shutdown", "Limited to 6 months due to bone density effects"],
+              ["Laparoscopic surgery", "Remove deposits and adhesions", "Improves fertility and gives long-term pain relief"],
+              ["NSAIDs (ibuprofen etc.)", "Relieve acute period pain", "Symptom treatment only, not disease treatment"]
+            ]
+          }
+        },
+        {
+          "h2": "Endometriosis and fertility",
+          "paras": [
+            "Endometriosis is a cause of delayed or difficult conception but it does not mean permanent infertility. Around 30 to 50% of women with endometriosis experience fertility difficulties, meaning that the other half or more conceive naturally. The impact on fertility depends on where the deposits are, whether there are adhesions involving the fallopian tubes, and whether significant ovarian cysts are present.",
+            "Laparoscopic surgery improves natural conception rates in moderate to severe endometriosis, particularly when fallopian tube adhesions or large ovarian cysts are present. When surgery does not achieve pregnancy, IVF is an effective next step and the endometriosis context does not prevent it from working well in most cases.",
+            "If you are diagnosed with endometriosis and planning a future pregnancy, discuss this explicitly with your doctor from the beginning because it changes the treatment strategy. Hormonal treatment prevents pregnancy while in use. Surgery may be prioritised over hormonal treatment if conception within the next year or two is your goal."
+          ]
+        },
+        {
+          "h2": "Living well with endometriosis",
+          "paras": [
+            "Endometriosis is a chronic condition but it is compatible with a full life. Many women with endometriosis have successful careers, stable relationships and children, provided they receive an accurate diagnosis and appropriate treatment. The key is not to spend years managing a diagnosis-less pain before finally getting the right care.",
+            "Chronic pain affects mental health and increases the risk of anxiety and depression. This is a normal physiological response to a painful chronic disease and not a sign of weakness. Psychological support is a legitimate part of endometriosis care and should be sought alongside physical treatment rather than as an afterthought.",
+            "A randomised trial published in the Journal of Physiotherapy in 2025 found that supervised exercise and pelvic floor muscle training reduced current pain levels in women with endometriosis. Yoga and relaxation-based approaches are also used as adjuncts to medical treatment, particularly for chronic pelvic pain management.",
+            "Regular follow-up with a gynaecologist every six to twelve months is worthwhile even when symptoms are currently controlled, because the disease can progress and treatment needs may change. If symptoms worsen or new symptoms appear, earlier review is sensible rather than waiting for a scheduled appointment."
+          ]
+        }
+      ],
+      "tie": "The Sihtak app lets you log your period symptoms month by month, record pain severity and how it affects daily life, and store investigation results and scan reports. These records help you describe your condition precisely to a doctor and track whether treatment is working. It is a support tool and does not replace specialist medical care.",
+      "faqs": [
+        {
+          "q": "Does endometriosis always cause infertility?",
+          "a": "No. Around 30 to 50% of women with endometriosis have difficulty conceiving, which means the majority conceive without medical assistance. Laparoscopic surgery and fertility treatments improve conception rates considerably in those who do experience difficulty."
+        },
+        {
+          "q": "Can a normal ultrasound rule out endometriosis?",
+          "a": "No. Transvaginal ultrasound can identify ovarian endometriomas but cannot reliably detect small implants or adhesions. A normal ultrasound does not rule out the condition. If your symptoms are suggestive, a normal scan should prompt further investigation rather than discharge."
+        },
+        {
+          "q": "Does pregnancy cure endometriosis?",
+          "a": "Pregnancy can temporarily relieve symptoms because periods stop and the hormonal environment changes. It does not cure the disease, and symptoms usually return after delivery. Pregnancy should not be used as a treatment strategy for endometriosis."
+        },
+        {
+          "q": "Can teenagers get endometriosis?",
+          "a": "Yes. Endometriosis can begin with the first periods. Severe period pain in a teenager that prevents school attendance warrants medical assessment rather than normalisation. Early evaluation and treatment can significantly reduce long-term impact."
+        },
+        {
+          "q": "Does surgery cure endometriosis permanently?",
+          "a": "Surgery removes existing deposits and significantly improves symptoms but does not prevent the disease from returning. Recurrence rates are around 20 to 40% over five years. Hormonal treatment after surgery reduces the recurrence risk and is commonly recommended."
+        },
+        {
+          "q": "Does endometriosis affect sex?",
+          "a": "Deep dyspareunia, meaning pain felt deeply during sex rather than at the surface, is a recognised symptom of endometriosis. It often improves with treatment of the underlying disease. This symptom should be discussed with your doctor as it helps direct diagnosis and is a valid reason to seek care."
+        },
+        {
+          "q": "What happens to endometriosis after menopause?",
+          "a": "Menopause stops the menstrual cycle and reduces oestrogen levels, which usually stops endometriosis activity and resolves symptoms in most women. This is also why drugs that temporarily induce a menopause-like state are used as a treatment option."
+        }
+      ]
+    }
+  }
+}

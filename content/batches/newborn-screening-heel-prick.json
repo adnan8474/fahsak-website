@@ -1,0 +1,360 @@
+{
+  "slug": "newborn-screening-heel-prick",
+  "category": "genetic-conditions",
+  "chip_ar": "الصحة الوراثية",
+  "chip_en": "Genetic Health",
+  "date_iso": "2026-07-08",
+  "sources": [
+    {
+      "label": "Al Hosani H, Salah M, Osman HM et al: Expanding the comprehensive national neonatal screening programme in the United Arab Emirates from 1995 to 2011, Eastern Mediterranean health journal, 2014",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24932929/"
+    },
+    {
+      "label": "El-Metwally A, Yousef Al-Ahaidib L, Ayman Sunqurah A et al: The Prevalence of Phenylketonuria in Arab Countries, Turkey, and Iran: A Systematic Review, BioMed research international, 2018",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29850564/"
+    },
+    {
+      "label": "Al Hosani H, Salah M, Osman HM et al: Incidence of haemoglobinopathies detected through neonatal screening in the United Arab Emirates, Eastern Mediterranean health journal, 2005",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16602448/"
+    },
+    {
+      "label": "Sack J, Feldman I, Kaiserman I et al: Congenital hypothyroidism screening in the West Bank: a test case for screening in developing regions, Hormone research, 1998",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9762003/"
+    },
+    {
+      "label": "Tayeb FJ, Mir R, Alatawi S et al: Phenylketonuria in Saudi Arabia: An Overview of Diagnosis, Genetics, and Therapeutic Strategies, Biology, 2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42510670/"
+    },
+    {
+      "label": "World Health Organization: Screening of newborns for early identification of inborn errors of metabolism, WHO Technical Report Series"
+    }
+  ],
+  "content": {
+    "ar": {
+      "title": "فحص حديثي الولادة: وخز الكعب وما يكشفه",
+      "desc": "تعرف على فحص وخز الكعب لحديثي الولادة: ما الأمراض التي يكشفها في السعودية والإمارات والأردن ومصر، ومتى تصل النتائج، وماذا تفعل إن كانت غير طبيعية.",
+      "keywords": "فحص حديثي الولادة, وخز الكعب, قصور الغدة الدرقية الخلقي, بيلة الفينيل كيتون, فقر الدم المنجلي, نقص G6PD, فحص الأطفال عند الولادة, الفحص الوراثي",
+      "h1": "فحص وخز الكعب لحديثي الولادة: دليل الوالدين الشامل",
+      "takeaways": [
+        "يُجرى فحص وخز الكعب في الأيام الثلاثة الأولى من عمر الطفل ويكشف أمراضا وراثية خطيرة قبل أن تظهر أعراضها.",
+        "تشمل الأمراض المفحوص عنها في معظم دول المنطقة: قصور الغدة الدرقية الخلقي (Congenital Hypothyroidism)، وبيلة الفينيل كيتون (PKU)، ونقص G6PD، وفقر الدم المنجلي (Sickle Cell Disease).",
+        "النتيجة الإيجابية لا تعني بالضرورة أن طفلك مريض، بل تستوجب تأكيدا بفحص ثانٍ.",
+        "الكشف المبكر يمنع تلفا دائما في الدماغ والأعضاء يمكن تفاديه تماما بالعلاج الفوري.",
+        "تختلف قائمة الأمراض المفحوص عنها من دولة إلى أخرى، لذا راجع مستشفى الولادة لمعرفة ما يشمله برنامج بلدك."
+      ],
+      "sections": [
+        {
+          "h2": "لماذا يؤخذ الدم من كعب طفلك بعد ساعات من الولادة؟",
+          "paras": [
+            "في غرفة الولادة، وبعد يوم أو يومين من وصول طفلك إلى العالم، تأتي الممرضة بإبرة صغيرة وتأخذ قطرات دم من كعبه. هذه اللحظة القصيرة، التي قد تبدو بسيطة، هي واحدة من أهم اللحظات في حياته الأولى.",
+            "الهدف من هذا الفحص هو الكشف عن أمراض وراثية وهرمونية نادرة قبل أن تسبب أي ضرر. هذه الأمراض لا تظهر على وجه الطفل ولا يشعر بها في البداية، لكنها تعمل في الخفاء على إتلاف الدماغ والجهاز العصبي والكبد بصمت تام. الفحص المبكر يوقف هذا الضرر قبل وقوعه.",
+            "برامج فحص المواليد باتت إلزامية في السعودية والإمارات والأردن والكويت والبحرين وقطر ومصر. ورصدت دراسة إماراتية نشرت عام 2014 في المجلة الصحية لشرق المتوسط أن الإمارات وسعت برنامجها من 6 أمراض عام 1995 إلى أكثر من 20 حالة عام 2011، مما أدى إلى كشف مبكر لحالات كانت ستُفوَّت في السابق."
+          ],
+          "visual": {
+            "type": "timeline",
+            "title": "متى يُجرى الفحص ومتى تصل النتائج",
+            "items": [
+              {"when": "اليوم 1 - 3", "what": "وخز الكعب وأخذ عينة الدم على ورق ترشيح خاص"},
+              {"when": "اليوم 3 - 7", "what": "إرسال العينة إلى المختبر المركزي وإجراء التحاليل"},
+              {"when": "اليوم 7 - 14", "what": "إبلاغ العائلة بالنتائج الطبيعية (أو التواصل الفوري عند وجود شذوذ)"},
+              {"when": "خلال 48 ساعة من نتيجة غير طبيعية", "what": "استدعاء إعادة الفحص التأكيدي"}
+            ]
+          }
+        },
+        {
+          "h2": "ما الأمراض التي يكشفها فحص الكعب في منطقتنا؟",
+          "paras": [
+            "قصور الغدة الدرقية الخلقي (Congenital Hypothyroidism) هو أكثر الأمراض المكتشفة شيوعا في برامج الفحص العالمية، ويصيب نحو طفل من كل 2000 إلى 4000 مولود. في هذه الحالة لا تنتج الغدة الدرقية هرمونا كافيا منذ الولادة. بدون علاج، يعاني الطفل من تأخر شديد في النمو العقلي والجسدي. لكن بجرعة بسيطة يومية من هرمون الثيروكسين (Thyroxine) التي تبدأ قبل الشهر الأول، ينمو الطفل بشكل طبيعي تماما.",
+            "بيلة الفينيل كيتون (PKU) هي حالة يعجز فيها جسم الطفل عن تحليل حمض أميني يسمى الفينيل ألانين (Phenylalanine) الموجود في البروتينات. يتراكم هذا الحمض في الدم ويتلف الدماغ تدريجيا. كشفت مراجعة منهجية نشرت عام 2018 في مجلة BioMed Research International أن معدل انتشار هذا المرض في الدول العربية أعلى من المعدلات الأوروبية بسبب ارتفاع نسب زواج الأقارب. النظام الغذائي المقيد بالفينيل ألانين، الذي يبدأ منذ الأسابيع الأولى، يحمي الدماغ تماما.",
+            "نقص إنزيم G6PD (نقص السداسي فوسفات الجلوكوز) شائع جدا في المنطقة، خاصة في السعودية ومصر والعراق والسودان. يتسبب في تحلل خلايا الدم الحمراء عند التعرض لمحفزات معينة كبعض الأدوية وحبوب الفول. الكشف المبكر يتيح للوالدين معرفة ما يجب تجنبه، ويمنع أزمات الانيميا الانحلالية الخطيرة. أما فقر الدم المنجلي (Sickle Cell Disease) فعائلات شرق السعودية والبحرين وعُمان وأجزاء من العراق تعرفه جيدا، وقد كشفت الدراسة الإماراتية ذاتها أن برامج الفحص المبكر رصدت حالات منجلية عديدة قبل أن تنتظر الأسرة ظهور أعراض الألم والأزمات."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "الأمراض الأربعة الرئيسية في فحص الكعب",
+            "head": ["المرض", "ما يحدث بدون علاج", "العلاج المبكر"],
+            "rows": [
+              ["قصور الغدة الدرقية الخلقي (Congenital Hypothyroidism)", "تأخر ذهني وجسدي دائم", "هرمون ثيروكسين يومي"],
+              ["بيلة الفينيل كيتون (PKU)", "تلف دماغي تراكمي", "نظام غذائي خاص منذ الولادة"],
+              ["نقص G6PD", "أزمات انيميا انحلالية", "تجنب المحفزات المعروفة"],
+              ["فقر الدم المنجلي (Sickle Cell Disease)", "أزمات ألم ومضاعفات عضوية", "البنسلين الوقائي ومتابعة منتظمة"]
+            ]
+          }
+        },
+        {
+          "h2": "هل قائمة الفحوصات تختلف من دولة إلى أخرى؟",
+          "paras": [
+            "نعم، والاختلاف كبير. الإمارات والسعودية والكويت وقطر تمتلك برامج شاملة تفحص أكثر من 20 حالة استقلابية ووراثية. رصدت دراسة من الإمارات نشرتها المجلة الصحية لشرق المتوسط عام 2014 كيف أن التوسع التدريجي للبرنامج بين عامي 1995 و2011 أتاح الكشف عن حالات استقلابية نادرة كانت تُفوَّت في السابق. الأردن يشمل المجموعات الرئيسية الأربع المذكورة أعلاه ويُدير برنامجا وطنيا مستقرا. مصر بدأت التوسع التدريجي في برنامجها الوطني، وإن كان الفحص لا يزال غير متاح بتساوٍ في جميع مستشفيات القطاع العام، لا سيما خارج المدن الكبرى.",
+            "في سوريا والسودان واليمن ولبنان، لا يوجد برنامج فحص وطني منتظم في ظل الظروف الراهنة. إن كنت في هذه البلدان، فاسأل الطبيب أو القابلة عن إمكانية إرسال عينة إلى مختبر خاص أو مركز وراثة في أقرب مدينة رئيسية. بعض المنظمات الدولية كاليونيسف ومنظمة أطباء بلا حدود توفر أحيانا هذا الفحص ضمن برامج صحة الأم والطفل في مناطق بعينها، لذا يستحق الاستفسار في أي عيادة صحية تابعة لهذه المنظمات.",
+            "أيا كانت دولتك، احتفظ بوثيقة الفحص مع وثائق طفلك الأصلية. إن انتقلتم لاحقا إلى دولة أخرى، ستحتاج إلى إثبات أن الفحص أُجري ونتيجته، لا سيما إذا طُلب تكراره أو تأكيده. الورقة التي تبدو غير مهمة الآن قد تمنع إجراء تحاليل باهظة التكلفة في المستقبل."
+          ]
+        },
+        {
+          "h2": "كيف تُؤخذ العينة وهل تؤلم الطفل؟",
+          "paras": [
+            "تُستخدم إبرة خاصة صغيرة جدا لوخز جانب كعب القدم. يوضع الدم على ورقة ترشيح مخصصة تسمى بطاقة غاثري (Guthrie card)، تحتوي على دوائر مطبوعة تُملأ بالدم وتُجفف ثم تُرسل إلى المختبر. العملية برمتها لا تستغرق أكثر من دقيقتين.",
+            "الطفل يشعر بوخز مؤلم لثوانٍ وقد يبكي، لكن الإرضاع أو حمله أثناء العينة يهدئه سريعا. لا توجد مخاطر تذكر: موضع الوخز صغير ويلتئم وحده بسرعة. لا تضع أي مرهم أو ضماد مطول على كعب الطفل دون إرشاد طبي."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "خطوات أخذ عينة الكعب",
+            "items": [
+              "يُدفأ كعب الطفل برفق بين كفيك لزيادة تدفق الدم",
+              "تُنظف المنطقة بمسحة كحول وتُترك تجف 30 ثانية",
+              "تُوخز جانب الكعب بإبرة خاصة ذات استخدام واحد",
+              "يُوضع الدم على الدوائر المطبوعة في بطاقة الترشيح حتى تمتلئ",
+              "تُضغط على الموضع بمسحة شاش لإيقاف النزيف",
+              "تُجفف البطاقة في الهواء ثم تُرسل إلى المختبر المركزي"
+            ]
+          }
+        },
+        {
+          "h2": "ماذا تعني النتيجة غير الطبيعية؟ لا تقلق قبل أن تقرأ هذا",
+          "paras": [
+            "نتيجة فحص الكعب الأولى تُصمَّم عمدا لتكون حساسة جدا، أي أنها تُشير إلى احتمال الخطر حتى مع أدنى انحراف عن الطبيعي. هذا يعني أن كثيرا من النتائج غير الطبيعية الأولية تثبت لاحقا أنها طبيعية عند إعادة الفحص. يُسمى هذا بالإيجابي الكاذب (False Positive) وهو متعمد: الخطأ الأفضل هنا هو أن تفحص طفلا سليما مرة إضافية، وليس أن تفوتك حالة مرضية حقيقية.",
+            "إذا اتصل بك المستشفى أو المركز الصحي بعد الفحص، فهذا لا يعني بالضرورة أن طفلك مريض. سيطلبون منك إعادة الفحص بعينة دم وريدية أو وخز كعب ثانٍ لتأكيد النتيجة. التزم بالموعد فورا ولا تؤجله، لأن كل أسبوع يهم في الأمراض كقصور الغدة الدرقية الخلقي وبيلة الفينيل كيتون.",
+            "إن تأكدت نتيجة غير طبيعية، سيُحال طفلك إلى طبيب متخصص في الأمراض الاستقلابية أو الغدد أو الدم حسب طبيعة الحالة. معظم هذه الأمراض قابلة للسيطرة التامة إذا بدأ العلاج مبكرا. هذا هو المغزى الكامل من البرنامج."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "تصرف فورا إذا",
+            "items": [
+              "اتصل بك المستشفى يطلب إعادة فحص الكعب: لا تؤجل الموعد",
+              "لاحظت على طفلك اصفرارا شديدا في العينين والجلد خلال اليومين الأولين",
+              "لم يأكل طفلك منذ 6 ساعات وبدا خاملا لا يستجيب",
+              "خرجتم من المستشفى دون أن يُذكر لكم شيء عن فحص الكعب: اسألوا فورا"
+            ]
+          }
+        },
+        {
+          "h2": "قصور الغدة الدرقية الخلقي: الحالة الأكثر اكتشافا وتحتاج أسرعَ تدخل",
+          "paras": [
+            "قصور الغدة الدرقية الخلقي يُعدّ من أبسط الأمراض علاجا إذا اكتُشف مبكرا، ومن أكثرها تدميرا إذا فات موعد اكتشافه. تعتمد خلايا الدماغ في أسابيعها الأولى اعتمادا كاملا على هرمون الثيروكسين (Thyroxine) لتشكيل اتصالاتها العصبية وبنيتها الأساسية. الطفل الذي لا يُعالج في الشهر الأول يفقد ذكاءً ودرجات معرفية لن تعود، لأن الإطار الزمني الذي يعتمد فيه الدماغ على هذا الهرمون لا يعود مرة أخرى.",
+            "رصدت دراسة فلسطينية من الضفة الغربية نشرتها مجلة Hormone Research عام 1998 أن تطبيق برامج الكشف المبكر حتى في ظروف موارد محدودة أثبت جدواه الكاملة في منع الإعاقة الذهنية. حين بدأ الفحص في الضفة، كان المرض يُشخَّص في الغالب متأخرا بعد ظهور أعراض النمو البطيء. أما بعد تطبيق الفحص، فبدأت الحالات تُكشف وتُعالج قبل أن يُصاب الطفل بأي ضرر. العلاج بسيط جدا: قرص صغير من الثيروكسين يوضع يوميا تحت لسان الطفل أو يُذاب في ملعقة صغيرة من الحليب المسحوب، ويستمر مدى الحياة في معظم الحالات. معظم الأطفال الذين يبدؤون العلاج مبكرا يعيشون حياة طبيعية تماما من دون أي قيود.",
+            "إن كنت في منطقة لا يتوفر فيها برنامج فحص منتظم، راقب هذه العلامات في الأسابيع الأولى: الطفل خامل أكثر من المعتاد ويصعب إيقاظه للرضاعة، يرضع ببطء شديد، بشرته شاحبة أو مصفرة لما بعد الأسبوع الثاني، صوت بكائه أجش وغير طبيعي، ولسانه يبدو أكبر من المعتاد. أي من هذه العلامات مجتمعة أو منفردة يستوجب زيارة طبيب الأطفال فورا وطلب تحليل TSH من الدم بشكل صريح."
+          ]
+        },
+        {
+          "h2": "بيلة الفينيل كيتون وG6PD: ما تحتاجه الأسرة بعد التشخيص",
+          "paras": [
+            "تشخيص بيلة الفينيل كيتون يعني أن طفلك سيحتاج إلى نظام غذائي مقيد للغاية من اليوم الأول. الحليب الطبيعي والحليب الاصطناعي العادي كلاهما يحتويان على الفينيل ألانين، لذلك يُوصف للأمهات حليب طبي خاص خالٍ تماما من هذا الحمض الأميني. النظرة الأولى صعبة وتُصيب الأهل بالصدمة، لكن الأطفال الذين يلتزمون بهذا النظام منذ الولادة ينمون بشكل طبيعي تماما ويتعلمون ويعيشون حياة لا تختلف عن أقرانهم. يُتابع الطبيب المستوى البلازمي للفينيل ألانين أسبوعيا في البداية لضبط الكمية التي يمكن للطفل تحملها.",
+            "نقص G6PD يختلف في أنه لا يتطلب نظاما غذائيا صارما يوميا، بل يتطلب يقظة دائمة تجاه محفزات بعينها. القائمة في منطقتنا تشمل: حبوب الفول ومشتقاتها بما فيها الفلافل، والنفثالين (كرات العث) الذي يُستخدم في حفظ الملابس، وعدة أدوية من بينها البريماكين ودواء الدابسون والأسبرين والنيتروفيرانتوين. معظم الأطفال المصابين يعيشون حياة عادية تماما طالما تجنبوا هذه المحفزات وأبلغوا كل طبيب وطبيب أسنان بتشخيصهم قبل وصف أي دواء. اطلب من طبيب الأطفال بطاقة مكتوبة بقائمة المحفزات لتحملها معك في كل مراجعة طبية."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "warn",
+            "title": "في حال تشخيص نقص G6PD: أخبر دائما كل طبيب",
+            "items": [
+              "قبل أي دواء: سواء مضاد حيوي أو مسكن أو دواء ملاريا",
+              "لا تعطِ طفلك أسبرين بأي سبب",
+              "تجنب تماما الفول وكل منتجاته بما فيها الفلافل",
+              "ابعد النفثالين (كرات العث) عن كل ملابس الطفل وغرفته"
+            ]
+          }
+        },
+        {
+          "h2": "إذا لم يُجرَ الفحص لطفلك: هل فات الأوان؟",
+          "paras": [
+            "لا، لم يفت الأوان تماما. الفحص يُجرى بشكل مثالي بين الساعة 48 والساعة 72 من عمر الطفل، لأن قيم بعض الهرمونات كـ TSH تستقر بعد هذه المدة وتعطي قراءات أكثر دقة. لكن إذا خرجتم من المستشفى دون إجراء الفحص، يمكن إجراؤه في أي عيادة طب أطفال أو مختبر معتمد خلال الأسبوع الأول، وحتى الأسبوع الثاني يبقى ذا قيمة تشخيصية كاملة لمعظم الأمراض.",
+            "إذا وُلد طفلك خارج المستشفى أو في منطقة نائية، اصطحبه إلى أقرب عيادة طب أطفال في غضون 48 ساعة وأبلغهم أن الفحص لم يُجرَ بعد. معظم العيادات والمستشفيات الإقليمية في السعودية والأردن والإمارات ومصر تمتلك أدوات الفحص أو يمكنها إرسال العينة. في المناطق التي تعاني من انقطاع الخدمات كأجزاء من سوريا والسودان واليمن، يمكن التواصل مع أقرب عيادة تابعة لمنظمة غير حكومية للاستفسار عن إمكانية الإحالة.",
+            "إذا مضت ثلاثة أشهر دون إجراء أي فحص، التحقق مع طبيب متخصص لا يزال مهما. يمكن للطبيب طلب تحليل TSH لاستبعاد قصور الغدة الدرقية، وتحليل الأحماض الأمينية في البلازما لاستبعاد بيلة الفينيل كيتون، وصورة دم كاملة مع كهرباء الهيموجلوبين لرصد الحالات المنجلية. هذه الفحوصات تبقى مفيدة في أي عمر وإن كانت أقل إحكاما من الفحص النوناتال المبكر."
+          ]
+        }
+      ],
+      "tie": "تطبيق صحتك يتيح لك تخزين نتائج فحوصات طفلك وتأريخها والرجوع إليها بسهولة في أي وقت، بما في ذلك نتيجة فحص الكعب وأي فحوصات متابعة لاحقة. لأن الوثيقة الورقية تضيع، والذاكرة تتصادم مع الوثيقة.",
+      "faqs": [
+        {
+          "q": "متى بالضبط يُؤخذ فحص الكعب؟",
+          "a": "يُؤخذ بين اليوم 48 والساعة 72 من عمر الطفل، أي في اليومين الثاني والثالث. لا يُؤخذ في اليوم الأول لأن بعض المؤشرات الهرمونية لا تستقر بعد. في حالات الخروج المبكر من المستشفى، يُجدول في أقرب زيارة للعيادة."
+        },
+        {
+          "q": "هل فحص الكعب مجاني في دول المنطقة؟",
+          "a": "في السعودية والإمارات والكويت والبحرين وقطر والأردن، الفحص جزء من خدمات الرعاية الصحية الأساسية وغير مكلف أو مجاني في مستشفيات القطاع العام. في مصر وبقية الدول، قد يتطلب دفع رسوم رمزية في المختبرات الخاصة إن لم يتوفر في القطاع العام."
+        },
+        {
+          "q": "هل النتيجة الإيجابية تعني بالتأكيد أن طفلي مريض؟",
+          "a": "لا. النتيجة الأولى غير الطبيعية تعني وجود مؤشر يستوجب تأكيدا بفحص ثانٍ. كثير من الحالات يثبت عدم وجود مرض عند إعادة الفحص. لكن التأكيد الفوري ضروري ولا يُؤجَّل."
+        },
+        {
+          "q": "ما الذي يحدث لو لم يُجرَ الفحص لطفلي؟",
+          "a": "في أمراض مثل قصور الغدة الدرقية الخلقي وبيلة الفينيل كيتون، قد يصاب الطفل بضرر دائم في الدماغ يظهر تدريجيا كتأخر في النمو وضعف في الإدراك. الكشف والعلاج يمنعان هذا تماما. لذلك يُعتبر هذا الفحص من أهم إجراءات الولادة."
+        },
+        {
+          "q": "هل يُجرى هذا الفحص للأطفال المولودين في المنزل؟",
+          "a": "يجب إجراؤه لكل مولود بغض النظر عن مكان الولادة. إن وُلد طفلك في المنزل، اصطحبه إلى أقرب عيادة أطفال أو مستشفى خلال أول 72 ساعة لإجراء الفحص، أو على الأكثر خلال الأسبوع الأول."
+        },
+        {
+          "q": "هل يختلف الفحص بين طفل المستشفى الحكومي والخاص؟",
+          "a": "النتائج لا تختلف إذا كانت العينة مُرسَلة إلى المختبر المرجعي المعتمد ذاته. لكن قد يختلف توقيت الإخطار بالنتائج وسرعة المتابعة. في القطاع الخاص، احرص على التأكد من أن العينة أُرسلت بالفعل ولا تفترض أن الأمر سيُكمَل تلقائيا."
+        },
+        {
+          "q": "هل طفلتي المولودة لأب مصاب بنقص G6PD ستُصاب حتما؟",
+          "a": "G6PD مرتبط بالكروموسوم X. الذكور يصابون بمجرد وراثة نسخة واحدة معيبة من أمهم، أما الإناث فيحتجن نسختين معيبتين (من الأب والأم معا) لتظهر الأعراض الكاملة. الإناث حاملات نسخة واحدة قد يعانين من أعراض خفيفة أحيانا. فحص الكعب يكشف الحالة في الجنسين."
+        }
+      ]
+    },
+    "en": {
+      "title": "Newborn Heel Prick Screening: What It Tests and Why",
+      "desc": "Learn what the newborn heel prick test screens for across Saudi Arabia, UAE, Jordan and Egypt, when results arrive, and what to do if your baby gets an abnormal result.",
+      "keywords": "newborn screening, heel prick test, congenital hypothyroidism, PKU phenylketonuria, G6PD deficiency, sickle cell newborn, neonatal screening Middle East, newborn blood spot",
+      "h1": "Newborn Heel Prick Screening: A Parent's Complete Guide",
+      "takeaways": [
+        "The heel prick is taken in the first three days of life and finds serious genetic and hormonal conditions before any symptoms appear.",
+        "Most countries in the region screen for at least four conditions: congenital hypothyroidism, PKU, G6PD deficiency, and sickle cell disease.",
+        "A first abnormal result does not confirm disease. It triggers a second confirmatory test, and many first flags resolve as normal.",
+        "Early treatment prevents permanent brain damage that cannot be reversed once it has occurred.",
+        "The list of conditions screened varies by country, so check with your delivery hospital to know exactly what your country's programme covers."
+      ],
+      "sections": [
+        {
+          "h2": "Why does a nurse take blood from your baby's heel hours after birth?",
+          "paras": [
+            "In the first day or two after your baby arrives, a nurse presses a tiny lancet against the side of their heel and collects a few drops of blood on a special filter paper card. The whole process takes less than two minutes and your baby may cry briefly before settling again. But those drops of blood carry information that can change the course of your child's life.",
+            "The purpose is to detect rare genetic and hormonal conditions before they cause harm. These conditions show nothing on your baby's face and cause no obvious symptoms in the early weeks. But they can silently damage the brain, liver, or blood within that same window of time. A simple diet change or daily tablet started in the first weeks prevents that damage entirely.",
+            "A 2014 study published in the Eastern Mediterranean Health Journal documented how the UAE expanded its neonatal screening programme from six conditions in 1995 to more than twenty by 2011, identifying cases that would previously have been missed until symptoms of disability or illness appeared months later."
+          ],
+          "visual": {
+            "type": "timeline",
+            "title": "What happens and when",
+            "items": [
+              {"when": "Day 1 to 3", "what": "Heel prick taken and blood spotted onto filter paper card"},
+              {"when": "Day 3 to 7", "what": "Card sent to central laboratory for analysis"},
+              {"when": "Day 7 to 14", "what": "Normal results passed back to family or hospital record"},
+              {"when": "Within 48 hours of abnormal flag", "what": "Family contacted for confirmatory repeat testing"}
+            ]
+          }
+        },
+        {
+          "h2": "Which conditions does the heel prick test screen for?",
+          "paras": [
+            "Congenital hypothyroidism (underactive thyroid from birth) is the most commonly detected condition globally, affecting roughly one baby in every two to four thousand. Without a functioning thyroid, the brain cannot form its connections properly in the early weeks. Treatment is a small daily tablet of thyroxine dissolved in milk or placed under the tongue. Babies who start treatment before the end of the first month develop normally. Those who miss that window face permanent intellectual disability that cannot be reversed.",
+            "Phenylketonuria (PKU) is a condition in which the body cannot break down an amino acid called phenylalanine found in all proteins, including milk. The amino acid accumulates and gradually damages the brain. A systematic review published in BioMed Research International in 2018 found PKU prevalence in Arab countries is higher than in Western Europe, partly because of elevated rates of consanguineous marriage. The treatment is a specialised low-phenylalanine formula started from the first week of life. Children who follow it grow up with normal intelligence and development.",
+            "G6PD deficiency is extremely common across the region, particularly in Saudi Arabia, Egypt, Iraq, and Sudan. The enzyme deficiency causes red blood cells to break down dangerously when exposed to certain triggers including fava beans, mothballs, and specific medicines. Knowing the diagnosis in the newborn period lets parents protect the child before the first crisis. Sickle cell disease, where red blood cells form rigid crescent shapes that block small blood vessels, is concentrated in eastern Saudi Arabia, Bahrain, Oman, and parts of Iraq. Early identification through screening allows preventive penicillin to begin, which dramatically reduces the risk of overwhelming infection in infancy."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "The four main conditions in newborn screening",
+            "head": ["Condition", "Without early treatment", "With early treatment"],
+            "rows": [
+              ["Congenital Hypothyroidism", "Permanent intellectual and growth disability", "Normal development with daily thyroxine"],
+              ["PKU (Phenylketonuria)", "Progressive brain damage", "Normal intelligence with special diet"],
+              ["G6PD Deficiency", "Haemolytic crises when triggered", "Normal life by avoiding known triggers"],
+              ["Sickle Cell Disease", "Recurrent pain crises, organ damage", "Reduced crises with preventive care"]
+            ]
+          }
+        },
+        {
+          "h2": "Does the test differ between countries in the region?",
+          "paras": [
+            "Yes, and the differences are significant. The UAE, Saudi Arabia, Kuwait, Qatar, and Bahrain run comprehensive programmes that screen for more than twenty metabolic and genetic conditions. Jordan and Egypt include the four main conditions described above, with Jordan operating a well-established national programme and Egypt expanding its public sector coverage. Lebanon, Syria, Iraq, Sudan, and Yemen do not have consistent national programmes in operation, meaning families in those countries often rely on private laboratories or referral centres to access screening.",
+            "If you are in a country where screening is not automatic, ask your obstetrician or paediatrician about private laboratory options before your baby is born. Some international organisations including UNICEF and WHO-affiliated maternal health programmes offer access to testing in specific regions. The cost at a private laboratory is usually modest relative to the lifelong cost of untreated disease.",
+            "Keep the screening card and result document with your child's health papers. If you move to another country later, proof that screening was done avoids unnecessary repeat testing, and confirmatory records matter if a question ever arises about whether a borderline result was followed up."
+          ]
+        },
+        {
+          "h2": "How is the blood taken and does it hurt?",
+          "paras": [
+            "A single-use lancet punctures the outer edge of the heel, which has a rich blood supply and enough distance from the underlying bone to be safe. The nurse fills several pre-printed circles on a Guthrie card with the blood spots, lets it air dry, then seals and posts it to the regional laboratory. The lancet wound is tiny and closes on its own without a plaster.",
+            "Your baby will feel a sharp prick and may cry for a few seconds. Breastfeeding or skin-to-skin contact during or immediately after the test settles most babies quickly. You do not need to do anything to prepare, and there are no food or medicine restrictions before the test. If your baby is premature or admitted to a neonatal unit, the team will arrange the test at the appropriate time."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "How the heel prick is done",
+            "items": [
+              "Nurse warms the heel gently to improve blood flow",
+              "Skin is cleaned with an alcohol swab and allowed to dry",
+              "A single-use lancet makes a small puncture on the outer edge of the heel",
+              "Blood drops are spotted onto the circles on the Guthrie filter card",
+              "Gentle pressure with gauze stops the bleeding",
+              "Card dries in air and is sent to the central laboratory"
+            ]
+          }
+        },
+        {
+          "h2": "What does an abnormal result actually mean?",
+          "paras": [
+            "Newborn screening programmes are deliberately calibrated to be highly sensitive. This means they flag any value that falls outside a very wide normal range, even when the actual risk is low. The result is that some first-round positive flags turn out to be normal on a second test. This is called a false positive, and it is a feature, not a flaw: it is far better to call a healthy baby back for one more blood test than to miss a genuine case.",
+            "If the hospital or screening centre contacts you after the result, do not assume the worst. They will ask you to bring your baby back for a repeat blood draw, either another heel prick or a small vein sample, within a day or two. Attend as soon as possible. In conditions like congenital hypothyroidism and PKU, every week of delay before treatment begins matters for how much of the brain's developmental window is protected.",
+            "If the second test confirms an abnormal finding, your baby will be referred to a specialist. For hypothyroidism that is a paediatric endocrinologist, for PKU a metabolic dietitian and specialist paediatrician, for sickle cell a haematologist. Treatment begins immediately. Most families who go through this process describe the early weeks as stressful but then settle into a routine that their child barely notices as they grow."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "Act the same day if",
+            "items": [
+              "The hospital calls and asks you to return for a repeat test: do not delay",
+              "Your baby has turned noticeably yellow in the eyes or skin in the first 24 hours",
+              "Your baby has not fed for 6 hours and cannot be woken or is limp",
+              "You were discharged without any mention of heel prick screening: call and ask"
+            ]
+          }
+        },
+        {
+          "h2": "Congenital hypothyroidism: the most common finding and the fastest to treat",
+          "paras": [
+            "Congenital hypothyroidism is the condition where early treatment produces the most dramatic difference. The brain depends almost entirely on thyroid hormone for the formation of its synaptic connections in the first weeks of life. A baby who is not treated within the first month will suffer intellectual disability that cannot be recovered. A baby treated within the first two weeks will have normal intelligence and development.",
+            "A study from the West Bank published in Hormone Research in 1998 demonstrated that even in resource-limited settings, a simple newborn screening programme produced full prevention of intellectual disability from congenital hypothyroidism. The treatment costs almost nothing: a small levothyroxine tablet dissolved in a teaspoon of expressed breast milk, given once a day. Most children will take this for life, and most will never notice any limitation from it.",
+            "If you live in an area without newborn screening, watch for these signs in the first weeks: your baby is unusually sleepy and difficult to wake for feeds, feeds very slowly, has a puffy face or large tongue, a hoarse cry, or persistent yellowing of the skin beyond the first two weeks. Any of these warrants an immediate visit to a paediatrician for a TSH blood test."
+          ]
+        },
+        {
+          "h2": "PKU and G6PD: what families need to know after diagnosis",
+          "paras": [
+            "A PKU diagnosis means your baby cannot have ordinary breast milk or standard infant formula as their sole feed, because both contain phenylalanine. A metabolic specialist will prescribe phenylalanine-free formula from the first days of life. Some breastfeeding is still possible under careful monitoring, with the phenylalanine level measured weekly in the early weeks to find how much natural milk the baby can safely tolerate. Children who follow this diet grow up with normal intelligence and lead unrestricted adult lives. The diet relaxes somewhat with age but does not disappear entirely.",
+            "G6PD deficiency does not require a daily diet restriction. What it requires is permanent awareness of triggers. The key ones in the region are fava beans and falafel, naphthalene mothballs used in clothing storage, and several medicines including primaquine for malaria, dapsone for certain infections, nitrofurantoin for urinary infections, and aspirin. Your paediatrician will give you a printed list to carry and show to every doctor, dentist, and pharmacist who ever treats your child. Most children with G6PD deficiency live entirely normally and never have a crisis as long as those around them know about the diagnosis."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "warn",
+            "title": "If your baby is diagnosed with G6PD deficiency: always tell every doctor",
+            "items": [
+              "Before any medicine: antibiotics, painkillers, antimalarials",
+              "Never give aspirin for any reason",
+              "Avoid fava beans and all products made from them",
+              "Remove naphthalene mothballs from all clothing and bedroom spaces"
+            ]
+          }
+        },
+        {
+          "h2": "What if the heel prick was never done?",
+          "paras": [
+            "It is not too late if you act quickly. The optimal window is the 48-hour to 72-hour mark of life, but a heel prick taken at home or in a clinic in the first week still has full diagnostic value for most conditions. If your baby was born at home or in a setting without the test, take them to a paediatric clinic or laboratory in the first seven days.",
+            "If more than two weeks have passed and no test was done, speak with a paediatrician about what targeted blood tests are still worth doing. For PKU and hypothyroidism specifically, plasma amino acid levels and a TSH blood test remain informative beyond the newborn period. For G6PD and sickle cell, a standard blood count and haemoglobin electrophoresis can be requested at any age.",
+            "In countries with disrupted health systems including Syria, Yemen, Sudan, and some parts of Lebanon, organisations such as Medecins Sans Frontieres and local Ministry of Health referral networks sometimes offer newborn screening at designated points of care. Ask at any health post or NGO clinic whether they can arrange testing or refer to a centre that can."
+          ]
+        }
+      ],
+      "tie": "The Sihtak app lets you store your baby's newborn screening result and any follow-up test dates in one place, so the information travels with your child wherever you go. Paper gets lost at exactly the moment it matters most.",
+      "faqs": [
+        {
+          "q": "At exactly what age is the heel prick done?",
+          "a": "Between 48 and 72 hours of age. This is not arbitrary: some hormone levels, including TSH for thyroid screening, are naturally elevated in the first 24 hours after birth and would produce false abnormal results if tested earlier. If your baby is discharged before 48 hours, the test should be arranged at the earliest outpatient visit."
+        },
+        {
+          "q": "Is the screening free in countries across the region?",
+          "a": "In Saudi Arabia, UAE, Kuwait, Qatar, Bahrain, and Jordan, newborn screening is provided without charge through the public health system. In Egypt and other countries the public hospital usually provides it at low cost, but availability in smaller or more rural hospitals varies. In private hospitals across the region there may be a fee, but it is typically modest."
+        },
+        {
+          "q": "Does an abnormal first result mean my baby definitely has the disease?",
+          "a": "Not necessarily. First-round screening flags are set sensitively, meaning they catch every case but also flag some babies who turn out to be normal on re-testing. The confirmatory second test is what determines the diagnosis. Do not wait for symptoms before attending the recall appointment, because for some conditions symptoms indicate damage that has already begun."
+        },
+        {
+          "q": "My baby was born at home and we did not go to a hospital. Is it too late?",
+          "a": "It is not too late. Take your baby to any paediatric clinic or hospital in the first week and ask specifically for newborn metabolic screening. Most conditions remain fully detectable and fully treatable if caught in the first few weeks."
+        },
+        {
+          "q": "We live in Syria or Yemen where services are disrupted. What can we do?",
+          "a": "Ask at any NGO clinic, UN health post, or Ministry of Health facility whether they have a referral pathway for newborn screening. MSF, UNHCR health programmes, and WHO-affiliated clinics in conflict-affected areas sometimes have access to dried blood spot testing. If no pathway is available, ask your paediatrician to test TSH, phenylalanine, a blood count, and haemoglobin electrophoresis by standard blood tests."
+        },
+        {
+          "q": "My baby had a positive G6PD screen. Does this mean she will have crises?",
+          "a": "Not if triggers are avoided. Many people with G6PD deficiency go their entire lives without a single crisis because they or their families know the triggers. The diagnosis is an advantage: you are warned before any exposure happens. The key is to inform every future healthcare provider so that incompatible medicines are never prescribed."
+        },
+        {
+          "q": "How long does the heel prick result take to come back?",
+          "a": "Most programmes in the region return results within seven to fourteen days. If a result is abnormal, the laboratory contacts the family or the hospital directly within 24 to 48 hours of detecting the flag. No news within two weeks usually means the result was normal, but check with your delivery hospital if you are uncertain."
+        }
+      ]
+    }
+  }
+}

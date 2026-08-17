@@ -1,0 +1,388 @@
+{
+  "slug": "bedwetting-guide",
+  "category": "child-health",
+  "chip_ar": "صحة الطفل",
+  "chip_en": "Child Health",
+  "date_iso": "2026-07-04",
+  "sources": [
+    {
+      "label": "Almutairi NG, Alzahrani HM, Alhomrani MA et al: Prevalence of nocturnal enuresis among children and adults in Saudi Arabia: a systematic review and meta-analysis, Annals of Saudi medicine, 2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39368117/"
+    },
+    {
+      "label": "Neveus T, Fonseca E, Franco I et al: Management and treatment of nocturnal enuresis-an updated standardization document from the International Children's Continence Society, Journal of pediatric urology, 2020",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32278657/"
+    },
+    {
+      "label": "Jorgensen CS, Horsdal HT, Rajagopal VM et al: Identification of genetic loci associated with nocturnal enuresis: a genome-wide association study, The Lancet. Child and adolescent health, 2021",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33453761/"
+    },
+    {
+      "label": "Neveus T: Pathogenesis of enuresis: Towards a new understanding, International journal of urology, 2017",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28208214/"
+    },
+    {
+      "label": "Ramakrishnan K: Evaluation and treatment of enuresis, American family physician, 2008",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18756657/"
+    },
+    {
+      "label": "Pillai RR, Sara B: Effectiveness of bladder retraining programme on bedwetting frequency and relapse rate of children with nocturnal enuresis, Journal of pediatric urology, 2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38839476/"
+    }
+  ],
+  "content": {
+    "ar": {
+      "title": "التبول اللاإرادي في النوم: الطبيعي والمساعد",
+      "desc": "دليل للوالدين حول التبول اللاإرادي ليلاً: ما الذي يعتبر طبيعياً، متى تقلق، والخطوات العملية التي تساعد طفلك بدون عقاب.",
+      "keywords": "التبول اللاإرادي, تبول الأطفال أثناء النوم, سلس البول الليلي, علاج التبول اللاإرادي, أسباب التبول في الفراش, منبه التبول",
+      "h1": "التبول اللاإرادي أثناء النوم: ما الطبيعي وما الذي يساعد طفلك؟",
+      "takeaways": [
+        "التبول اللاإرادي ليلاً شائع جداً وطبيعي حتى سن السابعة، ولا يدل على كسل أو عناد من الطفل.",
+        "عقاب الطفل أو توبيخه يزيد الأمر سوءاً ولا يساعد في حله.",
+        "أسباب التبول الليلي غالباً وراثية وتتعلق بنضج المثانة والهرمونات، وليست خللاً في تربية الطفل.",
+        "منبه التبول هو أكثر الأدوات فعالية على المدى البعيد، ويحتاج صبراً لأسابيع.",
+        "راجع الطبيب إذا ظهر التبول الليلي فجأة بعد أن كان الطفل جافاً، أو إذا صاحبته أعراض أخرى."
+      ],
+      "sections": [
+        {
+          "h2": "ما هو التبول اللاإرادي الليلي وهل هو طبيعي؟",
+          "paras": [
+            "التبول اللاإرادي الليلي، أو ما يُعرف بسلس البول الليلي (Nocturnal Enuresis)، يعني أن الطفل يبلل فراشه أثناء النوم بشكل متكرر بعد السن الذي تتوقع فيه أن يكون قادراً على التحكم. وبشكل عام لا يُعدّ الأمر مشكلة طبية قبل سن السادسة أو السابعة، لأن التحكم الكامل في المثانة ليلاً يحتاج وقتاً.",
+            "أرقام الانتشار تؤكد ذلك. مراجعة منهجية نشرت عام 2024 في مجلة الطب السعودي شملت دراسات متعددة من المملكة العربية السعودية وجدت أن التبول اللاإرادي الليلي يؤثر على نحو 10 إلى 15 بالمئة من الأطفال في سن السابعة، وينخفض تدريجياً مع الكبر. معظم الأطفال يحلّها من تلقاء أنفسهم مع الوقت.",
+            "الفهم الصحيح للمشكلة هو الخطوة الأولى نحو التعامل معها بشكل صحيح. هذا ليس كسلاً ولا عناداً ولا إشارة إلى مشكلة نفسية، بل هو في معظمه تأخر في نضج جهاز التحكم في المثانة، وكثير من الأطفال يرثونه من أحد والديهم."
+          ],
+          "visual": {
+            "type": "stats",
+            "items": [
+              {"value": "15%", "label": "من الأطفال في سن 7 سنوات يعانون التبول الليلي", "tone": "info"},
+              {"value": "1%", "label": "فقط تستمر المشكلة حتى سن البلوغ", "tone": "good"}
+            ]
+          }
+        },
+        {
+          "h2": "لماذا يحدث التبول الليلي؟ الأسباب الحقيقية",
+          "paras": [
+            "السبب الأكثر شيوعاً هو الوراثة. دراسة نُشرت في مجلة The Lancet Child and Adolescent Health عام 2021 حددت مواقع جينية متعددة مرتبطة بالتبول اللاإرادي الليلي، مما يؤكد أن المشكلة تنتقل في الأسر. إذا كان أحد الوالدين قد عانى منها في طفولته فإن خطر إصابة الطفل يتضاعف بشكل ملحوظ.",
+            "سبب آخر مهم هو نقص هرمون الفازوبريسين (ADH) ليلاً. هذا الهرمون يأمر الكلى بتقليل إنتاج البول أثناء النوم. بعض الأطفال لا ينتجون كمية كافية منه ليلاً، فتمتلئ المثانة بسرعة وتتجاوز قدرتها دون أن يستيقظ الطفل.",
+            "عوامل أخرى تشمل صغر حجم المثانة الوظيفي، والنوم العميق جداً الذي لا يسمح لإشارات المثانة بإيقاظ الطفل، وفي حالات أقل شيوعاً الإمساك المزمن الذي يضغط على المثانة. الإجهاد العاطفي يمكن أن يحرّك التبول الليلي عند طفل كان جافاً، لكنه ليس السبب الأصلي في معظم الحالات."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "أسباب التبول الليلي عند الأطفال",
+            "head": ["السبب", "التفسير", "ما يمكن عمله"],
+            "rows": [
+              ["وراثي", "ينتقل من الوالدين في أغلب الحالات", "الصبر والطمأنينة"],
+              ["نقص ADH ليلاً", "قلة هرمون يقلص إنتاج البول", "الدواء بوصفة طبية"],
+              ["مثانة صغيرة وظيفياً", "تمتلئ بسرعة ليلاً", "تمارين تقوية المثانة"],
+              ["نوم عميق جداً", "الطفل لا يستيقظ لإشارة المثانة", "منبه التبول"]
+            ]
+          }
+        },
+        {
+          "h2": "الأعمار التي يعتبر فيها التبول الليلي طبيعياً",
+          "paras": [
+            "التحكم في المثانة ليلاً مهارة تتطور بالتدريج. معظم الأطفال يصلون إليها بين سن الثالثة والخامسة، لكن هذا ليس معياراً صارماً. الجمعية الدولية لانحباس البول عند الأطفال تعتبر التبول الليلي مشكلة تستحق المتابعة الطبية فقط إذا استمر بعد سن الخامسة مع تكراره مرتين في الأسبوع أو أكثر لمدة ثلاثة أشهر.",
+            "قبل سن الخامسة فإن أغلب حالات بلل الفراش ليلاً هي جزء طبيعي من التطور. بعض الأطفال يصلون للجفاف الكامل ليلاً في سن الثالثة، وبعضهم يحتاج حتى سن الثامنة. لا توجد قاعدة واحدة تنطبق على الجميع، والمقارنة مع الأشقاء أو أبناء الجيران ليست أداة صحيحة لتقييم الطفل.",
+            "الفارق المهم الذي يستحق الانتباه هو ما يسميه الأطباء التبول الثانوي، أي عودة الطفل للتبول ليلاً بعد فترة جفاف استمرت ستة أشهر على الأقل. هذا يستحق مراجعة طبية لأنه قد يشير إلى ضغط نفسي أو مشكلة جسدية كالتهاب في المسالك البولية.",
+            "الطبيب يُقيّم الوضع بالنظر إلى العمر والتاريخ الصحي والأعراض المصاحبة معاً، وليس فقط بالرقم على ورقة التقويم. ما يهم هو الاتجاه العام على مدى أسابيع وليس ليلة واحدة مبتلة بعد سلسلة من الليالي الجافة، فالانتكاسات أمر وارد ولا تعني فشل المسار."
+          ]
+        },
+        {
+          "h2": "لماذا العقاب لا يجدي ويضر؟",
+          "paras": [
+            "الخطأ الأكثر شيوعاً الذي يرتكبه الآباء هو لوم الطفل أو عقابه على التبول الليلي. الطفل لا يتحكم في ما يحدث وهو نائم، تماماً كما لا يتحكم في أحلامه. العقاب يضيف الخجل والقلق على مشكلة جسدية، مما يزيد التوتر ويجعل التحسن أبطأ.",
+            "الخجل الذي يشعر به الطفل بالفعل كبير حتى بدون إضافة. دراسة نُشرت عام 2025 في مجلة تخصصية صينية وجدت أن الأطفال الذين يعانون من التبول اللاإرادي الشديد يظهرون أنماطاً من الضغط النفسي مرتبطة بالخجل والإخفاء، مما يؤثر على علاقتهم بالعائلة والأقران.",
+            "الأسلوب الصحيح هو التطمين الهادئ. أخبر طفلك أن كثيراً من الأطفال يمرون بهذا، وأن الأمر سيتحسن، وأن هذا لا يعني أنه مقصر. بعض الآباء يشاركون الطفل أن أحد الوالدين نفسه مر بالتجربة، وهو ما يساعد كثيراً في تخفيف الحرج."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "لا تفعل هذا",
+            "items": [
+              "لا توبّخ الطفل على الفراش المبلول في الصباح",
+              "لا تجعل التبول الليلي موضوع نقاش أمام الأشقاء أو الأقارب",
+              "لا تمنع السوائل بشكل مفرط طوال اليوم فهذا لا يحل المشكلة",
+              "لا تنتظر أن ينحل الأمر بمجرد التوبيخ"
+            ]
+          }
+        },
+        {
+          "h2": "الخطوات العملية التي تساعد في البيت",
+          "paras": [
+            "هناك عدة خطوات يمكن البدء بها في المنزل قبل أو جنباً مع المتابعة الطبية. تقليل السوائل في الساعتين الأخيرتين قبل النوم فكرة منطقية، لكن لا تقلل شرب الماء طوال اليوم لأن الجفاف يهيج المثانة ويزيد تركيز البول، مما يجعلها أكثر حساسية. اجعل الطفل يتبول مرتين متتاليتين قبل النوم بفاصل عشر دقائق، وذلك لإفراغ المثانة بالكامل قبل الاستلقاء.",
+            "سجّل ليالي الجفاف في تقويم صغير يراه الطفل ويملأه بنفسه. هذا يحوّل الأمر من مصدر خجل إلى هدف يعمل عليه، والتسجيل وحده يُظهر تحسناً في بعض الأطفال. الاحتفال الصغير بسلسلة من الليالي الجافة يعزز الدافعية ويُبقي الأمر في إطار إيجابي بدلاً من مصدر توتر.",
+            "تأكد من عدم وجود إمساك مزمن. الأمعاء الممتلئة تضغط على المثانة وتقلل قدرتها، وهذه العلاقة يُغفلها كثير من الآباء. نظام غذائي يضم خضروات وفواكه وكميات مناسبة من الماء يساعد في تنظيم الأمعاء، وقد يُظهر أثراً واضحاً على التبول الليلي خلال أسابيع.",
+            "هناك أيضاً خيار تدريب المثانة نهاراً، وذلك بتشجيع الطفل على الانتظار فترات أطول قليلاً بين مرات التبول. هذا يساعد في زيادة الحجم الوظيفي للمثانة تدريجياً. لا يعني ذلك إجباره على التألم، بل مجرد الانتظار بضع دقائق إضافية حين يشعر بالحاجة. استشر طبيبك قبل البدء بهذا النوع من التدريب."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "خطوات منزلية للبدء بها",
+            "items": [
+              "قلل السوائل في آخر ساعتين قبل النوم مع المحافظة على الشرب الكافي نهاراً",
+              "اجعل الطفل يتبول مرتين قبل النوم بفاصل عشر دقائق",
+              "سجّل الليالي الجافة في تقويم يتابعه الطفل بنفسه",
+              "تأكد من غياب الإمساك بنظام غذائي صحي",
+              "ضع فرشاة مقاومة للماء تحت الشرشف لتسهيل التنظيف وتقليل الضغط"
+            ]
+          }
+        },
+        {
+          "h2": "منبه التبول: الأداة الأكثر فاعلية",
+          "paras": [
+            "منبه التبول (Enuresis Alarm) هو جهاز صغير يوضع في ملابس الطفل أو تحت الشرشف، ويصدر صوتاً أو اهتزازاً فور ابتلال أول قطرات. الهدف تدريب الطفل على الاستيقاظ حين تبدأ إشارة المثانة بدلاً من تجاهلها. يتوفر المنبه بشكلين شائعين في منطقتنا: نوع يُثبَّت على ملابس الطفل الداخلية بكليب صغير، ونوع يُوضع تحت الشرشف. كلاهما فعّال والاختيار يعتمد على تفضيل الطفل وراحته.",
+            "دراسة نُشرت عام 2024 في مجلة طب المسالك البولية للأطفال تابعت أطفالاً استخدموا برامج تدريب المثانة ووجدت تحسناً ملحوظاً في تكرار التبول ومعدلات الانتكاس. كما أن مراجعة معايير علاج التبول الليلي الصادرة عن الجمعية الدولية لانحباس البول عند الأطفال عام 2020 تضع المنبه كأول خيار علاجي غير دوائي، وتنصح بمواصلة استخدامه حتى يحقق الطفل أربعة عشر ليلة جافة متتالية.",
+            "الصبر ضروري لأن المنبه يحتاج من أربعة إلى اثني عشر أسبوعاً من الاستخدام المنتظم قبل أن يُثمر. في البداية قد يستيقظ الوالدان ولا يستيقظ الطفل، وهذا طبيعي في مرحلة التدريب. المهم الاستمرار وإيقاظ الطفل وإرساله للحمام كل ليلة يُنبّه المنبه، حتى لو بدا شبه نائم. التوقف المبكر قبل اكتمال التدريب هو السبب الأكثر شيوعاً للانتكاس."
+          ]
+        },
+        {
+          "h2": "متى يتدخل الطبيب؟ والأدوية المتاحة",
+          "paras": [
+            "إذا استمر التبول الليلي بعد سن السابعة وكانت الخطوات المنزلية لم تُجدِ، أو إذا كان التبول يؤثر بشكل واضح على ثقة الطفل ونومه ومشاركته في الأنشطة الاجتماعية كالنوم عند الأصدقاء أو الرحلات المدرسية، فهذا وقت مناسب لمراجعة الطبيب. يمكن أيضاً مراجعته مبكراً إذا كان الطفل يشعر بالضيق الشديد.",
+            "الطبيب سيسأل عن التفاصيل: كم مرة في الأسبوع؟ هل يتبول أثناء النهار أيضاً؟ هل يشعر الطفل بعجلة مفاجئة في البول؟ هل يعاني من إمساك؟ هل هناك تاريخ عائلي للمشكلة؟ وقد يطلب تحليل بول لاستبعاد التهاب في المسالك. في الغالب لا توجد مشكلة جسدية مخفية وراء التبول الليلي البسيط.",
+            "الأدوية متاحة وتشمل ديسموبريسين (Desmopressin) الذي يحاكي هرمون ADH ويقلل إنتاج البول ليلاً. يُعطى عادة قبل النوم بساعة وهو مفيد بشكل خاص لليالي الخاصة كالرحلات المدرسية أو النوم عند الأصدقاء. الطبيب هو من يقرر الجرعة المناسبة ومدة الاستخدام ولا تعطِه طفلك بدون وصفة. الأدوية تُوقف التبول طوال فترة الاستخدام لكنها لا تُعالج السبب جذرياً، لذلك تُستخدم في أغلب الأحيان مع المنبه لتحقيق نتيجة أكثر ديمومة."
+          ]
+        },
+        {
+          "h2": "متى يستوجب التبول الليلي الإسراع في مراجعة الطبيب؟",
+          "paras": [
+            "بعض الأعراض تستحق مراجعة طبية سريعة دون انتظار. إذا ظهر التبول الليلي فجأة عند طفل كان جافاً لفترة طويلة فهذا يسمى التبول الثانوي وله أسباب تختلف عن التبول الأولي وتستحق التقييم.",
+            "كذلك إذا صاحب التبول الليلي تبول نهاري متكرر ومفاجئ، أو ألم عند البول، أو بول بلون غريب أو رائحة قوية جداً، أو شرب مفرط وغير اعتيادي للماء. هذه قد تدل على التهاب في البول أو مشكلة أخرى تحتاج علاجاً.",
+            "الطفل الذي يبدو متوتراً جداً أو خائفاً بشكل غير معهود حول هذا الموضوع يستحق تقييماً يتضمن الجانب النفسي والاجتماعي. أحياناً يكون التبول عَرَضاً لضغط يعيشه الطفل في المدرسة أو المنزل."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "راجع الطبيب قريباً إذا",
+            "items": [
+              "عاد التبول الليلي بعد ستة أشهر أو أكثر من الجفاف",
+              "يتبول الطفل أيضاً أثناء النهار بشكل متكرر",
+              "يشكو الطفل من ألم أو حرقة عند البول",
+              "يشرب الطفل كميات كبيرة غير اعتيادية من الماء",
+              "يبدو الطفل خائفاً أو قلقاً جداً بشأن التبول"
+            ]
+          }
+        },
+        {
+          "h2": "الرسالة التي يحتاج طفلك أن يسمعها",
+          "paras": [
+            "الأطفال الذين يعانون التبول الليلي يحملون ثقلاً من الخجل أثقل مما يُظهرون. رسالة واحدة بسيطة من الوالدين، قالها أحدهم بهدوء وبدون سخرية، يمكن أن تغير كيف يرى الطفل نفسه: أن هذا ليس ذنبه، وأنه لن يستمر إلى الأبد، وأن الأسرة تدعمه وتعمل معه لا تُحاكمه.",
+            "المشاركة في الحل تساعد أيضاً. اجعل الطفل شريكاً في اختيار نوع المنبه، وفي ملء التقويم، وفي التفكير في الأسباب. الطفل الذي يشعر بالسيطرة على الموقف يتحسن أسرع من الطفل الذي تُحلّ مشكلته بدونه. كثير من الأطفال يُفاجئون آباءهم حين يُعطون المسؤولية فعلاً.",
+            "لا تُهمل ليالي النوم عند الأصدقاء أو الرحلات المدرسية. هذه الأنشطة مهمة لنمو الطفل الاجتماعي، وحرمانه منها بسبب الخوف من التبول يُضيف إلى المشكلة بعداً آخر. الطبيب يمكنه وصف دواء مناسب لهذه الليالي الخاصة، فلا تتردد في مناقشة ذلك.",
+            "وأخيراً تذكر أن الغالبية العظمى من الأطفال يتجاوزون هذه المرحلة. معدل التحسن التلقائي السنوي يتراوح بين 10 و15 بالمئة سنوياً دون أي تدخل، وبالمساعدة المناسبة يتسارع هذا كثيراً. الآباء الذين يحتفظون بهدوئهم ويلتزمون بالخطة يرون نتائج حقيقية في أغلب الأحيان."
+          ]
+        }
+      ],
+      "tie": "في تطبيق صحتك يمكنك تتبع ليالي الجفاف وتسجيل ملاحظات حول النمط الليلي، واستشارة المساعد الصحي الذكي حول الخطوات المناسبة لعمر طفلك. التتبع المنتظم يساعدك في رصد التحسن الحقيقي ويُقدّم صورة دقيقة للطبيب في الزيارة القادمة.",
+      "faqs": [
+        {
+          "q": "في أي سن يصبح التبول الليلي مشكلة تستحق علاجاً؟",
+          "a": "معظم الأطباء لا يبدأون في تقييم التبول الليلي كمشكلة قبل سن الخامسة أو السادسة. الجمعية الدولية لانحباس البول عند الأطفال تعتبره يستحق المتابعة إذا استمر بعد الخامسة مع تكراره مرتين أسبوعياً أو أكثر لثلاثة أشهر."
+        },
+        {
+          "q": "هل العقاب يساعد الطفل على التوقف عن التبول في النوم؟",
+          "a": "لا، بالعكس. الطفل لا يبلل فراشه عن قصد وهو نائم، فالعقاب يضيف خجلاً وقلقاً يبطئان التحسن. التطمين الهادئ والمساعدة العملية هما الأجدى."
+        },
+        {
+          "q": "هل يكفي تقليل الماء قبل النوم لحل المشكلة؟",
+          "a": "تقليل السوائل في آخر ساعتين قبل النوم خطوة معقولة، لكنها لا تكفي وحدها في أغلب الأحوال. لا تقلل الشرب طوال اليوم لأن الجفاف يهيج المثانة. المنبه والخطوات الأخرى مطلوبة."
+        },
+        {
+          "q": "كم من الوقت يحتاج منبه التبول حتى يعطي نتيجة؟",
+          "a": "منبه التبول يحتاج عادة من ستة أسابيع إلى ثلاثة أشهر من الاستخدام المنتظم. في البداية قد يستيقظ الوالدان ولا يستيقظ الطفل، وهذا طبيعي في مرحلة التدريب."
+        },
+        {
+          "q": "هل التبول الليلي يدل على مرض ما؟",
+          "a": "في معظم الأطفال لا يوجد مرض مخفي. أسباب التبول الليلي غالباً وراثية وتتعلق بنضج المثانة وهرمون ADH. لكن إذا صاحبه ألم أو تبول مفرط نهاراً أو شرب غير اعتيادي للماء فاستشر الطبيب."
+        },
+        {
+          "q": "هل يمكن للطفل النوم عند أصدقائه وهو يعاني من التبول الليلي؟",
+          "a": "نعم، مع بعض التحضير. يمكن استخدام ديسموبريسين في هذه الليالي بوصفة طبية لتقليل احتمال التبول. استشر الطبيب مسبقاً للتخطيط لهذه المواقف حتى لا تحرم الطفل من أنشطته الاجتماعية."
+        },
+        {
+          "q": "هل يرث الأطفال التبول الليلي من والديهم؟",
+          "a": "نعم، الوراثة سبب رئيسي. إذا عانى أحد الوالدين من التبول الليلي في طفولته فإن خطر إصابة الطفل يزداد بشكل ملحوظ. دراسة نُشرت في مجلة The Lancet عام 2021 حددت مواقع جينية متعددة مرتبطة بهذه المشكلة."
+        },
+        {
+          "q": "ما الفرق بين التبول الليلي الأولي والثانوي؟",
+          "a": "التبول الأولي هو الذي لم يتوقف الطفل عنه أصلاً. التبول الثانوي هو عودة التبول بعد ستة أشهر أو أكثر من الجفاف الكامل. الثانوي يستحق مراجعة طبية لأن له أسباباً مختلفة تشمل الضغط النفسي أو مشكلة جسدية."
+        }
+      ]
+    },
+    "en": {
+      "title": "Bedwetting: What Is Normal and What Helps",
+      "desc": "A parent's guide to bedwetting: what age is normal, when to worry, what actually works, and why punishment makes things worse.",
+      "keywords": "bedwetting, nocturnal enuresis, bedwetting in children, bedwetting alarm, bedwetting causes, how to stop bedwetting",
+      "h1": "Bedwetting: What Is Normal by Age and What Actually Helps Your Child",
+      "takeaways": [
+        "Bedwetting is normal and common up to age seven and is not caused by laziness or disobedience.",
+        "Punishing or shaming a child makes bedwetting worse, not better.",
+        "Most cases have a genetic and hormonal cause, not a parenting failure.",
+        "A bedwetting alarm is the most effective long-term tool but needs weeks of patience.",
+        "See a doctor if bedwetting returns after a dry spell, or if other symptoms appear alongside it."
+      ],
+      "sections": [
+        {
+          "h2": "What is bedwetting and is it normal for your child's age?",
+          "paras": [
+            "Bedwetting, known medically as nocturnal enuresis, means a child repeatedly wets the bed during sleep at an age when bladder control at night would normally be expected. The key word is normally: nighttime bladder control develops gradually, and it is not a problem before the age of five or six in most children.",
+            "The numbers bear this out. A 2024 systematic review and meta-analysis published in the Annals of Saudi Medicine, covering multiple studies from Saudi Arabia, found that nocturnal enuresis affects roughly 10 to 15 percent of children at age seven, falling steadily as children get older. Most children stop wetting the bed on their own without treatment.",
+            "Understanding this is the first step. Bedwetting is not a sign of laziness, bad character, or poor parenting. It is almost always a delay in the maturation of bladder control, and it commonly runs in families."
+          ],
+          "visual": {
+            "type": "stats",
+            "items": [
+              {"value": "15%", "label": "of 7-year-olds wet the bed regularly", "tone": "info"},
+              {"value": "1%", "label": "of adults still have nocturnal enuresis", "tone": "good"}
+            ]
+          }
+        },
+        {
+          "h2": "Why does bedwetting happen? The real causes",
+          "paras": [
+            "The most common cause is genetics. A 2021 genome-wide association study published in The Lancet Child and Adolescent Health identified multiple genetic loci linked to nocturnal enuresis, confirming that bedwetting runs in families. If one parent wet the bed as a child, the risk in their child roughly doubles. If both parents did, the risk is even higher.",
+            "A second important cause is low levels of the hormone vasopressin, also called ADH (antidiuretic hormone), during the night. This hormone tells the kidneys to produce less urine while you sleep. Some children do not make enough of it at night, so the bladder fills faster than it can hold, and the child does not wake up in time to feel the signal.",
+            "Other contributing factors include a small functional bladder capacity, unusually deep sleep that prevents the child from waking to a full bladder signal, and in some cases chronic constipation pressing on the bladder. Emotional stress can trigger a return to bedwetting in a child who was previously dry, but stress is rarely the original cause."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Common causes of bedwetting and what can help",
+            "head": ["Cause", "What is happening", "What helps"],
+            "rows": [
+              ["Genetic", "Inherited from a parent in most cases", "Patience and reassurance"],
+              ["Low ADH at night", "Not enough hormone to slow urine production", "Desmopressin (by prescription)"],
+              ["Small functional bladder", "Bladder fills too quickly at night", "Bladder training exercises"],
+              ["Very deep sleep", "Child does not wake to bladder signals", "Bedwetting alarm"]
+            ]
+          }
+        },
+        {
+          "h2": "Age expectations: when does bedwetting become a concern?",
+          "paras": [
+            "Nighttime bladder control is a developmental skill, and it arrives at different ages in different children. Most reach it between three and five years old, but this is not a hard rule. The International Children's Continence Society, in its 2020 guidelines, only considers nocturnal enuresis a clinical problem worth treating when it occurs at least twice a week for three months in a child older than five.",
+            "Before age five, most episodes of bedwetting are a normal part of development. Some children are dry at night by age three, others not until eight. There is no single correct timetable. Comparing your child to a sibling or a neighbour's child is not a useful measure because the range of normal is genuinely wide.",
+            "The distinction doctors pay attention to is between primary enuresis, where the child has never been reliably dry, and secondary enuresis, where a child who was dry for at least six months starts wetting the bed again. Secondary bedwetting always warrants a medical visit because the causes can differ from primary bedwetting and may include a urinary tract infection or emotional stress.",
+            "One or two wet nights after a run of dry ones are not a sign of failure. Relapses are common during the process and do not mean the treatment is not working. What the doctor looks at is the overall trend over weeks, not individual nights."
+          ]
+        },
+        {
+          "h2": "Why punishment makes bedwetting worse",
+          "paras": [
+            "The most common mistake parents make is to scold or punish the child over a wet bed. The child has no control over what happens while they are asleep, in the same way they cannot control what they dream. Punishment adds shame and anxiety to a physical issue, and both make the problem harder to resolve.",
+            "A 2025 study published in a specialist journal found that children with severe nocturnal enuresis show patterns of psychological distress rooted in shame and concealment, affecting their relationships with family and peers. This shame exists before any punishment, so adding more pressure on top of it is counterproductive.",
+            "The more effective approach is calm reassurance. Tell your child that many children go through this, that it will get better, and that it is not their fault. Some parents find it helps to share that one of them had the same experience as a child. This simple disclosure often reduces the child's sense of isolation significantly."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "Do not do these things",
+            "items": [
+              "Do not scold the child over the wet bed in the morning",
+              "Do not discuss bedwetting in front of siblings or relatives",
+              "Do not restrict fluids heavily all day as this irritates the bladder",
+              "Do not expect punishment to solve the problem"
+            ]
+          }
+        },
+        {
+          "h2": "Practical steps you can start at home",
+          "paras": [
+            "Several steps can be started at home before or alongside medical support. Reducing fluids in the last two hours before bed is reasonable, but do not cut back on daytime drinking because dehydration irritates the bladder. Ask the child to double-void before bed: use the toilet, wait ten minutes, then try again. This empties the bladder more completely.",
+            "Keep a simple calendar where the child marks dry nights themselves. This turns the problem from a source of shame into a goal they are working toward, and the act of tracking alone produces improvement in some children. Celebrating a run of dry nights, even with something small, reinforces motivation.",
+            "Check for chronic constipation. A full bowel presses on the bladder and reduces its capacity. A diet that includes vegetables, fruit, and adequate water during the day helps regulate bowel habits, and this often has a noticeable effect on bladder control at night."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "Home steps to start tonight",
+            "items": [
+              "Reduce drinks in the last two hours before bed while keeping daytime intake normal",
+              "Ask the child to use the toilet twice before sleep with a ten-minute gap between",
+              "Start a dry-night calendar the child fills in themselves each morning",
+              "Check for constipation and adjust diet if needed",
+              "Use a waterproof mattress protector under the sheet to reduce stress around wet nights"
+            ]
+          }
+        },
+        {
+          "h2": "The bedwetting alarm: the most effective non-drug tool",
+          "paras": [
+            "A bedwetting alarm is a small device placed in the child's underwear or under the sheet that sounds or vibrates the moment the first drops of urine are detected. The goal is to train the child to wake up when the bladder signal starts, instead of sleeping through it. Two types are widely available: a clip-on sensor in the underwear connected to a wristband or clip alarm, and a mat placed under the sheet. Both work, and the choice comes down to what the child finds comfortable.",
+            "A 2024 study in the Journal of Pediatric Urology followed children through a bladder retraining programme and found significant improvement in both frequency of wetting and relapse rate. The 2020 updated guidelines from the International Children's Continence Society place the alarm as the first-line non-drug treatment for nocturnal enuresis, recommending continued use until the child achieves fourteen consecutive dry nights.",
+            "Patience is essential. The alarm typically takes four to twelve weeks of consistent use before it works reliably. In the early weeks, parents often wake up before the child does, and that is normal. The key is to get up, wake the child fully, and take them to the toilet every time the alarm sounds, even at two in the morning. Stopping early before the training is complete is the most common reason for relapse."
+          ]
+        },
+        {
+          "h2": "When does a doctor need to be involved, and what can they prescribe?",
+          "paras": [
+            "If bedwetting continues past age seven and home steps have not helped, or if bedwetting is affecting the child's confidence, sleep, or social life, including willingness to sleep over at a friend's house, it is a good time to see a doctor. The visit is also worth making earlier if the child is distressed about it.",
+            "The doctor will ask about frequency, daytime symptoms, pain, unusual thirst, and bowel habits, and will usually request a urine test to rule out a urinary tract infection. In most cases no hidden physical problem will be found.",
+            "Desmopressin, a synthetic form of ADH, is the main medication used. It reduces urine production at night and works well for specific occasions such as school trips. A doctor prescribes the dose and the duration. It is not a permanent cure but a helpful tool used alongside or instead of the alarm depending on the situation."
+          ]
+        },
+        {
+          "h2": "Red flag symptoms that need prompt medical attention",
+          "paras": [
+            "Some signs mean you should see a doctor soon rather than waiting. Secondary enuresis, where bedwetting returns after six months or more of being reliably dry, always needs evaluation. The causes here differ from primary bedwetting and can include emotional stress or a new physical problem.",
+            "Also see a doctor promptly if bedwetting is accompanied by frequent daytime urgency or accidents, pain or burning on urination, unusually dark or strange-smelling urine, or drinking much more water than usual. These can point to a urinary tract infection, diabetes, or other conditions that need treatment.",
+            "A child who seems very anxious or frightened about the subject in a way that is out of proportion to the problem also benefits from an assessment that includes the emotional and social dimension."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "See a doctor soon if",
+            "items": [
+              "Bedwetting returned after six or more months of being dry",
+              "The child also wets themselves during the day",
+              "The child reports pain or burning when urinating",
+              "The child is drinking unusually large amounts of water",
+              "The child is very distressed or anxious about the issue"
+            ]
+          }
+        },
+        {
+          "h2": "The message your child needs to hear",
+          "paras": [
+            "Children who wet the bed carry more shame than they show. A single calm sentence from a parent, said without sarcasm, can change how the child sees the situation: that this is not their fault, it will not last forever, and the family is working on it together rather than sitting in judgment.",
+            "Involving the child in the solution helps more than parents expect. Let them choose the alarm, fill in the calendar, and take part in thinking through the problem. A child who feels some ownership of the process tends to improve faster than one whose problem is being solved entirely without them. Many children who are given that responsibility surprise their parents.",
+            "Do not let bedwetting stop the child from school trips or sleepovers at a friend's house. These experiences matter for social development, and keeping the child away from them adds a social cost to a physical one. A short course of desmopressin prescribed by the doctor can handle those specific nights, so raise it as a practical option rather than avoiding the situation altogether.",
+            "The long-term outlook is genuinely good. The spontaneous resolution rate is around 10 to 15 percent per year without any treatment. With a bedwetting alarm and consistent home support, the process is considerably faster. Almost all children who wet the bed in primary school are dry by adolescence."
+          ]
+        }
+      ],
+      "tie": "In the Sihtak app you can log dry and wet nights over time, track patterns, and ask the health assistant for guidance tailored to your child's age and history. A clear record also gives the paediatrician useful data during a clinic visit.",
+      "faqs": [
+        {
+          "q": "At what age does bedwetting become a medical problem?",
+          "a": "Most doctors do not investigate bedwetting as a clinical problem before age five or six. The International Children's Continence Society defines it as a condition worth treating if it occurs at least twice a week for three months in a child over five."
+        },
+        {
+          "q": "Does punishing a child stop bedwetting?",
+          "a": "No, and it makes things worse. A child wetting the bed at night has no conscious control over it. Punishment adds shame and anxiety that slow down the natural improvement. Calm reassurance and practical help are far more effective."
+        },
+        {
+          "q": "Is cutting back on fluids before bed enough to stop bedwetting?",
+          "a": "Reducing drinks in the last two hours before sleep is a sensible step but rarely enough on its own. Do not restrict fluids throughout the day as this irritates the bladder. A bedwetting alarm and other approaches are usually needed alongside."
+        },
+        {
+          "q": "How long does a bedwetting alarm take to work?",
+          "a": "A bedwetting alarm typically takes six weeks to three months of consistent nightly use. In the early weeks parents often wake before the child does, which is normal. Consistent follow-through each time the alarm sounds is what builds the response."
+        },
+        {
+          "q": "Does bedwetting mean something is physically wrong?",
+          "a": "In most children, no. The majority of cases are genetic and hormonal, not a sign of illness. However, if bedwetting is accompanied by daytime symptoms, pain, or unusual thirst, a urine test and medical visit are warranted."
+        },
+        {
+          "q": "Can a child who wets the bed sleep over at a friend's house?",
+          "a": "Yes, with planning. Desmopressin can be prescribed for specific occasions such as sleepovers to reduce the risk of a wet night. Talk to the doctor in advance so the child is not excluded from social activities."
+        },
+        {
+          "q": "Is bedwetting inherited?",
+          "a": "Yes. A 2021 genome-wide study in The Lancet Child and Adolescent Health confirmed multiple genetic links. If one parent had bedwetting as a child, the child's risk roughly doubles. If both parents did, the risk is higher still."
+        },
+        {
+          "q": "What is secondary bedwetting and why does it matter?",
+          "a": "Secondary bedwetting means the child was reliably dry for at least six months and then started wetting the bed again. Unlike primary bedwetting, this warrants a prompt medical visit because it can be caused by emotional stress, a urinary tract infection, or a new physical condition."
+        }
+      ]
+    }
+  }
+}

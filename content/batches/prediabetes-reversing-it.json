@@ -1,0 +1,393 @@
+{
+  "slug": "prediabetes-reversing-it",
+  "category": "chronic-conditions",
+  "chip_ar": "الأمراض المزمنة",
+  "chip_en": "Chronic Conditions",
+  "date_iso": "2026-07-14",
+  "sources": [
+    {"label": "Knowler WC, Barrett-Connor E, Fowler SE et al: Reduction in the incidence of type 2 diabetes with lifestyle intervention or metformin, The New England journal of medicine, 2002", "url": "https://pubmed.ncbi.nlm.nih.gov/11832527/"},
+    {"label": "Bawazeer NM, Alzaben AS, Dodge E et al: Lifestyle Modification Programs and Interventions on Prediabetes in Saudi Arabia: A Systematic Scoping Review, Journal of prevention (2022), 2025", "url": "https://pubmed.ncbi.nlm.nih.gov/40216730/"},
+    {"label": "Al-Hamdan R, Avery A, Al-Disi D et al: Efficacy of lifestyle intervention program for Arab women with prediabetes using social media as an alternative platform of delivery, Journal of diabetes investigation, 2021", "url": "https://pubmed.ncbi.nlm.nih.gov/33638248/"},
+    {"label": "Jayedi A, Soltani S, Emadi A et al: Efficacy of lifestyle weight loss interventions on regression to normoglycemia and progression to type 2 diabetes in individuals with prediabetes, The American journal of clinical nutrition, 2024", "url": "https://pubmed.ncbi.nlm.nih.gov/39222689/"},
+    {"label": "Tourkmani AM, Alharbi TJ, Bin Rsheed AM et al: Characteristics and risk factors associated with developing prediabetes in Saudi Arabia, Annals of medicine, 2024", "url": "https://pubmed.ncbi.nlm.nih.gov/39392033/"},
+    {"label": "Unnikrishnan R, Shaw JE, Chan JCN et al: Prediabetes, Nature reviews. Disease primers, 2025", "url": "https://pubmed.ncbi.nlm.nih.gov/40676018/"},
+    {"label": "World Health Organization: Diabetes fact sheet, 2023", "url": "https://www.who.int/news-room/fact-sheets/detail/diabetes"}
+  ],
+  "content": {
+    "ar": {
+      "title": "مقدمات السكري: لديك الوقت لتغيير المسار",
+      "desc": "مقدمات السكري حالة قابلة للعكس إذا تصرفت الآن. اعرف الأرقام الدقيقة لسكر الصيام وHbA1c، وما أثبته العلم عن تغيير نمط الحياة في المنطقة العربية.",
+      "keywords": "مقدمات السكري, سكر الصيام, HbA1c, مرحلة ما قبل السكري, عكس السكري, نمط الحياة, الوقاية من السكري, الجلوكوز, مقاومة الانسولين, الغذاء والسكري",
+      "h1": "مقدمات السكري: النافذة التي يمكنك فيها تغيير المسار",
+      "takeaways": [
+        "مقدمات السكري تعني أن سكر الدم مرتفع لكنه لم يصل بعد إلى حد التشخيص، وهي حالة قابلة للعكس الكامل.",
+        "سكر الصيام بين 100 و125 ملغ/دل، أو HbA1c بين 5.7% و6.4%، كلاهما يضعك في هذه المرحلة.",
+        "خسارة 5 إلى 7 بالمئة من وزن الجسم مع المشي المنتظم تقلل خطر التحول إلى سكري بنسبة تتجاوز 58% وفق دراسة كبرى.",
+        "الأطعمة ذات المؤشر الجلايسيمي المنخفض الشائعة في منطقتنا مثل البقوليات والخضار تساعد على ضبط السكر.",
+        "إذا تغيرت الأرقام بعد ثلاثة أشهر من تعديل نمط الحياة، أخبر طبيبك فوراً لتقييم الخيارات الأخرى."
+      ],
+      "sections": [
+        {
+          "h2": "ما معنى مقدمات السكري بالضبط؟",
+          "paras": [
+            "مقدمات السكري ليست مرضاً بالمعنى التقليدي، بل هي منطقة وسطى يكون فيها سكر الدم أعلى من الطبيعي لكنه لم يصل بعد إلى مستوى يُشخَّص فيه كسكري من النوع الثاني. الجسم ما زال يستجيب للأنسولين، لكن بكفاءة أقل مما ينبغي. هذه المرحلة هي فرصة حقيقية للتدخل قبل أن تتضاعف المشكلة.",
+            "كثير من الناس يكتشفون هذه الحالة بالصدفة أثناء فحص دوري لأنها لا تسبب أعراضاً واضحة في معظم الأحيان. قد يشعر بعضهم بالتعب الزائد أو كثرة التبول أو العطش، لكن هذه الأعراض ليست حكراً على هذه المرحلة. الطريقة الوحيدة للتأكد هي فحص الدم.",
+            "في المنطقة العربية، أسهمت عوامل عدة في انتشار هذه الحالة: الأنظمة الغذائية الغنية بالكربوهيدرات المكررة والمشروبات المحلاة، والنمط المعيشي القائم على قلة الحركة، إضافة إلى الاستعداد الوراثي لدى بعض الفئات. دراسة سعودية نشرت عام 2024 في مجلة Annals of Medicine وجدت أن عوامل كالسمنة وانعدام النشاط البدني والتاريخ العائلي للسكري ترتبط بشكل وثيق بالإصابة بمقدمات السكري في المنطقة.",
+            "من المهم فهم الفرق بين ضعف تحمّل الجلوكوز (Impaired Glucose Tolerance) وضعف جلوكوز الصيام (Impaired Fasting Glucose)، فكلاهما شكلان من مقدمات السكري وقد يتداخلان. الأول يُشخَّص باختبار تحمّل الجلوكوز الفموي (OGTT)، بينما الثاني يُكشف عبر فحص السكر الصيامي البسيط. معرفة أي الشكلين لديك يساعد طبيبك في تحديد الخطة الأنسب."
+          ],
+          "visual": {
+            "type": "range-scale",
+            "title": "أين يقع مستوى سكر الصيام؟",
+            "label": "سكر الصيام",
+            "unit": "ملغ/دل",
+            "min": 70,
+            "max": 200,
+            "zones": [
+              {"to": 99, "tone": "good", "label": "طبيعي"},
+              {"to": 125, "tone": "warn", "label": "مقدمات السكري"},
+              {"to": 200, "tone": "bad", "label": "سكري"}
+            ],
+            "marker": {"value": 112, "label": "مثال على نتيجة في منطقة الخطر"},
+            "source": "معايير الجمعية الأمريكية للسكري 2024"
+          }
+        },
+        {
+          "h2": "كيف تقرأ نتيجة HbA1c في تقريرك؟",
+          "paras": [
+            "فحص HbA1c (الهيموغلوبين الغليكوزيلاتي) يعكس متوسط سكر الدم خلال الشهرين أو الثلاثة أشهر الماضية، وهو أدق من قياس سكر الصيام لأنه لا يتأثر بما أكلته صباح يوم الفحص. يُكتب كنسبة مئوية.",
+            "النسبة الطبيعية تكون أقل من 5.7%. أما بين 5.7% و6.4% فهذه هي منطقة مقدمات السكري. عند 6.5% أو أكثر في فحصين منفصلين يُشخَّص السكري من النوع الثاني. بعض المختبرات في المنطقة تستخدم وحدات مختلفة (mmol/mol) فاسأل طبيبك عن التفسير الصحيح إذا بدت النتيجة غريبة.",
+            "الفحص سهل ولا يشترط الصيام، وهذا يجعله خياراً عملياً للكثيرين. لكن انتبه: بعض الحالات الطبية مثل فقر الدم أو اضطرابات الهيموغلوبين قد تؤثر على دقة النتيجة، لذا يجب أن يُفسّر الطبيب النتيجة في سياق صورتك الصحية الكاملة."
+          ],
+          "visual": {
+            "type": "range-scale",
+            "title": "فهم نتيجة HbA1c",
+            "label": "HbA1c",
+            "unit": "%",
+            "min": 4,
+            "max": 10,
+            "zones": [
+              {"to": 5.6, "tone": "good", "label": "طبيعي"},
+              {"to": 6.4, "tone": "warn", "label": "مقدمات السكري"},
+              {"to": 10, "tone": "bad", "label": "سكري"}
+            ],
+            "marker": {"value": 6.0, "label": "مثال على نتيجة"},
+            "source": "Unnikrishnan R et al: Prediabetes, Nature reviews Disease primers, 2025",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/40676018/"
+          }
+        },
+        {
+          "h2": "هل يتحول مقدمات السكري دائماً إلى سكري؟",
+          "paras": [
+            "لا، وهذه هي الرسالة الأهم في هذا المقال. مقدمات السكري ليست طريقاً ذا اتجاه واحد. الأبحاث تُظهر بوضوح أن كثيراً من الأشخاص يعودون إلى مستويات سكر طبيعية مع تغيير نمط الحياة، وبعضهم يبقى في المنطقة الوسطى سنوات دون أن يتحول إلى سكري.",
+            "الدراسة الأمريكية الكبرى المعروفة ببرنامج الوقاية من السكري (DPP)، والمنشورة في مجلة New England Journal of Medicine عام 2002، تابعت أكثر من 3000 شخص لديهم مقدمات السكري. وجدت أن تغيير نمط الحياة القائم على خسارة 7% من الوزن والمشي 150 دقيقة أسبوعياً قلّل خطر الإصابة بالسكري بنسبة 58%، وكان هذا أفضل حتى من عقار الميتفورمين.",
+            "مراجعة منهجية حديثة نُشرت عام 2024 في American Journal of Clinical Nutrition تؤكد أن التدخلات القائمة على خسارة الوزن فعّالة في إعادة سكر الدم إلى المعدل الطبيعي، وأن كل كيلوغرام تخسره يُحدث فرقاً ملموساً. الخبر الجيد أن لا حاجة إلى الوصول إلى وزن مثالي لترى النتائج.",
+            "الوقاية لا تعني معالجة مرض، بل تعني استثماراً مبكراً يوفّر عليك سنوات من الدواء والمضاعفات. المنطقة العربية تشهد معدلات مرتفعة من السكري مقارنة بالمتوسط العالمي، وهذا يجعل الوقاية خياراً استراتيجياً لا رفاهية. كل قرار غذائي أو حركي تتخذه اليوم يُسهم في صورة صحتك خلال عشر سنوات."
+          ]
+        },
+        {
+          "h2": "ما الذي يُحدث فرقاً حقيقياً في الغذاء؟",
+          "paras": [
+            "ليس الأمر عن اتباع حمية صارمة أو حرمان نفسك من طعام بعينه. الهدف هو تغيير التوازن العام لما تأكله. تقليل الكربوهيدرات المكررة كالخبز الأبيض والأرز المطبوخ باللون الأبيض والمعجنات والمشروبات المحلاة يُحدث تأثيراً مباشراً على سكر الدم بعد الوجبات.",
+            "الأطعمة ذات المؤشر الجلايسيمي المنخفض تؤخر ارتفاع السكر وتجعل الجسم يعمل بكفاءة أكبر. في مطبخنا العربي، العدس والحمص والفاصولياء واليخنات بالخضار خيارات ممتازة. كذلك فإن تناول البيض أو الجبن أو الزيت في بداية الوجبة قبل الخبز والأرز يُبطئ امتصاص السكر.",
+            "شاي الصباح بملعقتين من السكر والعصير الطبيعي والمشروبات الغازية تحمل سكراً أكثر مما ندرك. دراسة نُشرت عام 2021 في Journal of Diabetes Investigation تابعت نساء عربيات مصابات بمقدمات السكري وأثبتت أن برنامج تعليمي للتغذية عبر وسائل التواصل الاجتماعي أحدث تحسناً ملموساً في مستويات السكر، ما يدل على أن التوعية الصحية المستمرة فعّالة في هذا المجتمع."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "خيارات ذكية من مطبخنا اليومي",
+            "head": ["الطعام", "تأثيره على السكر", "الخيار الأفضل"],
+            "rows": [
+              ["خبز أبيض", "يرفع السكر بسرعة", "خبز القمح الكامل أو خبز الشعير"],
+              ["أرز أبيض", "مرتفع المؤشر الجلايسيمي", "أرز بني أو إضافة عدس معه"],
+              ["عصير فواكه", "سكر سريع الامتصاص", "الفاكهة كاملة أو ماء مع نعناع"],
+              ["بطاطا مقلية", "مرتفعة الدهون والسكر", "بطاطا حلوة مسلوقة أو مشوية"],
+              ["عدس وحمص وفول", "منخفض المؤشر الجلايسيمي", "ممتاز، أدمجه يومياً"]
+            ]
+          }
+        },
+        {
+          "h2": "كم من الحركة يكفي فعلاً؟",
+          "paras": [
+            "150 دقيقة من المشي السريع أسبوعياً، أي نحو 20 إلى 30 دقيقة يومياً معظم أيام الأسبوع، هذا ما أثبت الدراسات الكبرى أنه كافٍ لتحقيق تحسن ملموس في حساسية الجسم للأنسولين. لا حاجة إلى صالة رياضة أو معدات خاصة.",
+            "المشي في الصباح أو بعد المغرب في أيام الصيف الحارة هو الحل العملي في معظم دول المنطقة. إذا كانت الحرارة مانعاً، فإن المشي داخل المنازل أو في مراكز التسوق خيار مقبول تماماً. الهدف هو الاستمرارية وليس الشدة.",
+            "تمارين رفع الأثقال الخفيفة أو تمارين المقاومة بوزن الجسم كالجلوس والقيام (squat) والضغط على الجدار تزيد من كتلة العضلات، وهذا مهم لأن العضلات تستهلك الجلوكوز بكفاءة أعلى من الدهون. ثلاث جلسات أسبوعية من 15 إلى 20 دقيقة كافية للبداية.",
+            "لا تقلل من شأن الحركة المتراكمة خلال اليوم. الوقوف بدلاً من الجلوس، وصعود الدرج بدلاً من المصعد، والمشي قصير الأمد بين أوقات العمل تُضاف كلها إلى رصيدك اليومي. الدراسات تُظهر أن فترات الجلوس الطويلة تضر بحساسية الأنسولين حتى عند الأشخاص النشطين في أوقات أخرى، لذا كسر الجلوس الطويل بالتحرك كل ساعة له قيمة حقيقية."
+          ]
+        },
+        {
+          "h2": "النوم والتوتر: عاملان يُهمَلان دائماً",
+          "paras": [
+            "قلة النوم ترفع هرمون الكورتيزول (Cortisol) الذي يُقاوم عمل الأنسولين مباشرة. أقل من 6 ساعات نوم يومياً ترتبط بارتفاع ملحوظ في خطر الإصابة بالسكري من النوع الثاني. إذا كنت تعاني من الشخير الشديد أو توقف التنفس أثناء النوم، ناقش هذا مع طبيبك لأن هذه الحالة تعيق ضبط السكر بشكل مستقل.",
+            "التوتر المزمن، سواء بسبب ضغط العمل أو الظروف الأسرية أو الأوضاع المحيطة، يرفع هو الآخر سكر الدم عبر مسارات هرمونية متعددة. لا يعني هذا أنك يجب أن تزيل جميع مصادر التوتر من حياتك، لكن تعلّم أساليب التعامل معه كالتنفس العميق أو المشي أو التحدث مع شخص تثق به يُحدث فرقاً.",
+            "الصوم المتقطع أو تنظيم أوقات الوجبات مفيد لبعض الأشخاص، لكنه ليس ضرورياً لكل من لديه مقدمات السكري. ما هو ضروري هو الانتظام في مواعيد النوم والطعام قدر الإمكان.",
+            "في شهر رمضان الكريم، تتغير أنماط النوم والطعام بشكل جذري. كثير من الأشخاص يُفرطون في الكربوهيدرات والحلويات عند الإفطار، ما يُربك مستوى السكر بشكل حاد. إذا كانت لديك مقدمات السكري وتنوي الصيام، ناقش خطة غذائية مع طبيبك أو اختصاصي تغذية قبل بداية الشهر، وركز على البروتين والخضار والبقوليات في وجبة السحور لإطالة الشعور بالشبع."
+          ]
+        },
+        {
+          "h2": "هل تحتاج إلى دواء في هذه المرحلة؟",
+          "paras": [
+            "في معظم الحالات، لا. الدراسات الكبرى تُجمع على أن تغيير نمط الحياة أفضل من الدواء كخط أول لعكس مقدمات السكري. الاستثناء الرئيسي هو الميتفورمين (Metformin)، وهو دواء آمن وقديم قد يوصفه الطبيب لبعض الحالات: من لديهم HbA1c قريب جداً من حد السكري، أو من يصعب عليهم تغيير نمط حياتهم، أو النساء اللواتي أصبن بسكري الحمل.",
+            "دراسة سعودية نُشرت عام 2022 في Frontiers in Public Health تابعت استخدام الميتفورمين للوقاية من السكري في المملكة، ووجدت أنه يُستخدم لكنه يبقى أقل فعالية من تغيير نمط الحياة حين تطبّق بصدق. القرار في النهاية يعود للطبيب بناءً على صورتك الكاملة.",
+            "لا تبدأ بأي مكمل غذائي أو عشبة أو دواء ادعى مستخدموه أنه يعكس مقدمات السكري دون استشارة طبية. بعض هذه المنتجات يتفاعل مع أدوية أخرى أو يُخفّض السكر بشكل مفرط وغير مضبوط.",
+            "مراجعة حديثة لبرامج تعديل نمط الحياة في المملكة العربية السعودية نُشرت عام 2025 في Journal of Prevention وجدت أن البرامج التي تدمج الدعم الجماعي مع التوجيه الفردي حققت نتائج أفضل من البرامج المعتمدة على المعلومات الفردية فحسب. هذا يعني أن الانضمام إلى مجموعة دعم في العيادة أو في الفضاء الرقمي يُحدث فارقاً."
+          ]
+        },
+        {
+          "h2": "كيف تتابع تقدمك؟",
+          "paras": [
+            "بعد تطبيق التغييرات في النظام الغذائي والحركة لثلاثة أشهر، أعد فحص HbA1c أو سكر الصيام. هذا الإطار الزمني كافٍ لرؤية تغيير حقيقي إذا كنت ملتزماً. لا تنتظر سنة كاملة لتقيّم ما إذا كانت الجهود تؤتي ثمارها.",
+            "سجّل وزنك أسبوعياً وليس يومياً، لأن الوزن يتذبذب يومياً. خسارة نصف كيلوغرام إلى كيلوغرام في الأسبوع معدل صحي ومستدام. إذا توقف الوزن عن الانخفاض لفترة طويلة، راجع الطبيب أو اختصاصي التغذية لتعديل الخطة.",
+            "تطبيق سهل مثل Sihtak يمكن أن يساعدك على تتبع قراءات السكر وملاحظة الأنماط عبر الوقت، ما يجعل المتابعة مع طبيبك أكثر دقة وجدوى."
+          ],
+          "visual": {
+            "type": "timeline",
+            "title": "خطة المتابعة الموصى بها",
+            "items": [
+              {"when": "الآن", "what": "سجّل مستوى HbA1c وسكر الصيام كنقطة انطلاق"},
+              {"when": "الأسبوع 1-2", "what": "ابدأ بتعديل واحد في الغذاء وأضف 20 دقيقة مشي يومياً"},
+              {"when": "الشهر 1", "what": "قيّم وزنك وانتظامك في الحركة وعدّل إذا لزم"},
+              {"when": "الشهر 3", "what": "أعد فحص HbA1c أو سكر الصيام وناقش النتيجة مع طبيبك"},
+              {"when": "الشهر 6", "what": "فحص آخر إذا لم تصل الأرقام إلى الطبيعي بعد"}
+            ]
+          }
+        },
+        {
+          "h2": "متى تزور الطبيب وما يجب أن تسأله؟",
+          "paras": [
+            "إذا كانت نتيجتك في نطاق مقدمات السكري، لا تنتظر حتى ترى طبيبك عارضاً. رتّب زيارة خلال أسبوعين وأحضر نتيجة التحليل معك. المعلومات التي ستحتاجها: هل HbA1c أو سكر الصيام أو كلاهما خارج الطبيعي؟ ما مدى قربك من حد السكري؟",
+            "اسأل طبيبك: هل أحتاج فحص نسبة الدهون في الدم؟ هل وظائف الكلى طبيعية؟ هل ضغط الدم ضمن الحد الآمن؟ هذه الفحوصات مجتمعة تعطي صورة كاملة عن مخاطرك الصحية وتساعد في تحديد أولويات التدخل.",
+            "إذا كان لديك تاريخ عائلي من السكري أو كنت تعاني من متلازمة المبيض المتعدد الكيسات (PCOS)، أو أصبت بسكري الحمل في حمل سابق، فهذه عوامل تجعل المتابعة الدورية أكثر أهمية. في هذه الحالات، قد ينصح طبيبك بفحص سنوي بدلاً من الثلاث سنوات المعيارية."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "warn",
+            "title": "علامات تستحق زيارة الطبيب قريباً",
+            "items": [
+              "HbA1c 6.3% أو أعلى أو سكر صيام 120 ملغ/دل أو أعلى",
+              "زيادة ملحوظة في الوزن خلال أشهر قصيرة",
+              "عطش شديد غير معتاد أو كثرة التبول ليلاً",
+              "تاريخ عائلي من السكري مع وجود عامل خطر آخر"
+            ]
+          }
+        }
+      ],
+      "tie": "تطبيق سهيك يتيح لك تتبع قراءات سكر الدم وتسجيل وجباتك اليومية في مكان واحد، وهو ما يجعل المتابعة مع طبيبك أدق وأكثر فائدة.",
+      "faqs": [
+        {
+          "q": "هل يمكن أن أعود إلى مستوى سكر طبيعي تماماً؟",
+          "a": "نعم، وهذا يحدث لكثير من الأشخاص. الأبحاث الكبرى تُظهر أن تغيير نمط الحياة يعكس مقدمات السكري بالكامل لدى نسبة مهمة من الناس، خاصة إذا اتُّخذت الخطوات مبكراً. العودة إلى نمط الحياة القديم بعد ذلك يمكن أن يعيد الأرقام للارتفاع، لذا الهدف هو تغيير مستدام لا حمية مؤقتة."
+        },
+        {
+          "q": "كيف أعرف إذا كان سكر الصيام عندي في النطاق الخطر؟",
+          "a": "سكر الصيام بين 100 و125 ملغ/دل يُصنَّف ضمن مقدمات السكري. إذا كان أقل من 100 فالأمر طبيعي، وإذا كان 126 ملغ/دل أو أعلى في أكثر من فحص فهذا يُشير إلى السكري. الفحص يتطلب صياماً لثماني ساعات على الأقل."
+        },
+        {
+          "q": "هل أحتاج إلى حمية خاصة لعكس مقدمات السكري؟",
+          "a": "لا حمية صارمة بالضرورة. التغييرات الرئيسية هي تقليل الكربوهيدرات المكررة والمشروبات المحلاة، وزيادة البقوليات والخضار والبروتين. يمكن للطبيب أو اختصاصي التغذية مساعدتك في وضع خطة مناسبة لعاداتك الغذائية."
+        },
+        {
+          "q": "هل مقدمات السكري تسبب أعراضاً؟",
+          "a": "في الغالب لا، وهذا هو السبب الرئيسي لعدم اكتشافها إلا بالفحص. أحياناً يشعر الشخص بالتعب أو العطش أو كثرة التبول، لكن هذه أعراض عامة وليست مخصصة لهذه الحالة. الفحص الدوري هو الطريقة الوحيدة الموثوقة للكشف عنها."
+        },
+        {
+          "q": "هل الميتفورمين مناسب لكل من لديه مقدمات السكري؟",
+          "a": "لا، الميتفورمين ليس دواء روتينياً لمقدمات السكري. يوصفه الأطباء في حالات محددة كمن لديهم HbA1c قريب جداً من حد التشخيص أو من يصعب عليهم تغيير نمط الحياة. القرار يعود دائماً للطبيب بعد تقييم كامل."
+        },
+        {
+          "q": "هل يمكن أن أصاب بمضاعفات السكري في مرحلة مقدمات السكري؟",
+          "a": "المضاعفات الكلاسيكية للسكري كاعتلال الأعصاب واعتلال الشبكية نادرة في هذه المرحلة، لكن الخطر الوعائي يبدأ بالارتفاع مع ارتفاع السكر. لهذا السبب بالذات من المهم التصرف مبكراً قبل أن يتحول إلى سكري تام."
+        },
+        {
+          "q": "كم مرة أفحص سكر الدم إذا كان لديّ مقدمات السكري؟",
+          "a": "التوصية العامة هي فحص HbA1c أو سكر الصيام كل ثلاثة إلى ستة أشهر خلال الفترة التي تجري فيها تغييرات في نمط الحياة، ثم مرة كل سنة إذا استقرت الأرقام في النطاق الطبيعي. طبيبك هو من يحدد التوقيت المناسب لحالتك."
+        }
+      ]
+    },
+    "en": {
+      "title": "Prediabetes: the window where you can still turn it around",
+      "desc": "Prediabetes is reversible. Learn the exact HbA1c and fasting glucose numbers that define it, what research says about lifestyle change, and how to track your progress.",
+      "keywords": "prediabetes, fasting glucose, HbA1c, impaired glucose tolerance, reverse prediabetes, diabetes prevention, insulin resistance, lifestyle change, diet for prediabetes",
+      "h1": "Prediabetes: the window where you can still turn it around",
+      "takeaways": [
+        "Prediabetes means your blood sugar is higher than normal but has not yet reached the threshold for type 2 diabetes, and it is fully reversible.",
+        "A fasting glucose between 100 and 125 mg/dL, or an HbA1c between 5.7% and 6.4%, places you in this category.",
+        "Losing 5 to 7 percent of body weight and walking regularly reduces the risk of progression to diabetes by more than 58 percent, according to a landmark trial.",
+        "Many traditional foods common across the Middle East, particularly pulses and vegetables, have low glycaemic impact and actively help.",
+        "Recheck your numbers after three months of lifestyle change and tell your doctor if they have not moved."
+      ],
+      "sections": [
+        {
+          "h2": "What does prediabetes actually mean?",
+          "paras": [
+            "Prediabetes is not a disease in the traditional sense. It is a middle zone where blood sugar is higher than normal but has not yet reached the level at which type 2 diabetes is diagnosed. Your body is still responding to insulin, but less efficiently than it should be. This is a genuine opportunity to act before the problem compounds.",
+            "Many people discover prediabetes by accident during a routine check because it causes no obvious symptoms in most cases. Some may feel unusually tired, thirsty, or notice more frequent urination, but these are non-specific symptoms shared with many other conditions. The only reliable way to know is a blood test.",
+            "Across the Middle East, several factors have contributed to its growing prevalence: diets rich in refined carbohydrates and sweetened drinks, sedentary lifestyles, and genetic susceptibility in certain populations. A 2024 Saudi study in Annals of Medicine found that obesity, physical inactivity, and a family history of diabetes all strongly predict prediabetes in the region.",
+            "It is worth knowing the difference between impaired fasting glucose (IFG) and impaired glucose tolerance (IGT). Both are forms of prediabetes and they sometimes overlap. IFG is detected by a simple fasting blood test, while IGT requires an oral glucose tolerance test (OGTT) where you drink a measured glucose solution and your blood is checked two hours later. Knowing which pattern you have helps your doctor choose the most relevant management approach."
+          ],
+          "visual": {
+            "type": "range-scale",
+            "title": "Where does your fasting glucose sit?",
+            "label": "Fasting glucose",
+            "unit": "mg/dL",
+            "min": 70,
+            "max": 200,
+            "zones": [
+              {"to": 99, "tone": "good", "label": "Normal"},
+              {"to": 125, "tone": "warn", "label": "Prediabetes"},
+              {"to": 200, "tone": "bad", "label": "Diabetes"}
+            ],
+            "marker": {"value": 112, "label": "Example at-risk result"},
+            "source": "American Diabetes Association Standards 2024"
+          }
+        },
+        {
+          "h2": "How to read your HbA1c result",
+          "paras": [
+            "The HbA1c test, also called glycated haemoglobin, reflects your average blood sugar over the past two to three months. It is more informative than a single fasting glucose reading because it is not affected by what you happened to eat on the morning of the test. It is expressed as a percentage.",
+            "A normal result is below 5.7%. The prediabetes range is 5.7% to 6.4%. An HbA1c of 6.5% or above on two separate tests meets the diagnostic threshold for type 2 diabetes. Some laboratories in the region use different units (mmol/mol), so ask your doctor to interpret the result in the context of your full picture.",
+            "The test does not require fasting, which makes it practical for many people. However, certain medical conditions such as anaemia or haemoglobin disorders can affect its accuracy, so your doctor needs to interpret it alongside your overall health status."
+          ],
+          "visual": {
+            "type": "range-scale",
+            "title": "Understanding your HbA1c result",
+            "label": "HbA1c",
+            "unit": "%",
+            "min": 4,
+            "max": 10,
+            "zones": [
+              {"to": 5.6, "tone": "good", "label": "Normal"},
+              {"to": 6.4, "tone": "warn", "label": "Prediabetes"},
+              {"to": 10, "tone": "bad", "label": "Diabetes"}
+            ],
+            "marker": {"value": 6.0, "label": "Example result"},
+            "source": "Unnikrishnan R et al: Prediabetes, Nature reviews Disease primers, 2025",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/40676018/"
+          }
+        },
+        {
+          "h2": "Does prediabetes always progress to diabetes?",
+          "paras": [
+            "No, and this is the most important message here. Prediabetes is not a one-way road. Research consistently shows that many people return to normal blood sugar levels with lifestyle change, and others remain in the intermediate zone for years without converting to diabetes.",
+            "The landmark US Diabetes Prevention Program trial, published in the New England Journal of Medicine in 2002, followed more than 3,000 people with prediabetes. Those who lost 7 percent of their body weight and walked for 150 minutes a week reduced their risk of developing diabetes by 58 percent. This was superior to metformin in the same trial.",
+            "A 2024 systematic review in the American Journal of Clinical Nutrition confirmed that lifestyle weight-loss interventions are effective at returning blood sugar to normal, and that each kilogram lost makes a measurable difference. You do not need to reach an ideal weight to see results."
+          ]
+        },
+        {
+          "h2": "What actually makes a difference in diet?",
+          "paras": [
+            "The goal is not a strict elimination diet or deprivation. It is about shifting the overall balance of what you eat. Reducing refined carbohydrates such as white bread, polished white rice, pastries, and sweetened drinks has a direct impact on blood sugar after meals.",
+            "Foods with a low glycaemic index slow the rise in blood sugar and help your body work more efficiently. In Middle Eastern cooking, lentils, chickpeas, broad beans, and vegetable-based stews are excellent choices. Starting a meal with protein or fat before bread and rice also slows glucose absorption meaningfully.",
+            "A 2021 study published in the Journal of Diabetes Investigation followed Arab women with prediabetes through a nutrition education programme delivered via social media. It found measurable improvement in blood sugar levels, which shows that targeted dietary education works in this population even through accessible channels."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Smarter swaps from everyday cooking",
+            "head": ["Food", "Blood sugar effect", "Better option"],
+            "rows": [
+              ["White bread", "Rapid glucose spike", "Wholegrain or barley bread"],
+              ["White polished rice", "High glycaemic index", "Brown rice or add lentils"],
+              ["Fruit juice", "Fast-absorbing sugar", "Whole fruit or water with mint"],
+              ["Fried potato", "High fat and starch", "Boiled or roasted sweet potato"],
+              ["Lentils, chickpeas, beans", "Low glycaemic index", "Excellent, use daily"]
+            ]
+          }
+        },
+        {
+          "h2": "How much exercise is actually enough?",
+          "paras": [
+            "One hundred and fifty minutes of brisk walking per week, roughly 20 to 30 minutes on most days, is what the large intervention trials showed is sufficient to produce meaningful improvement in insulin sensitivity. No gym membership or equipment is required.",
+            "Walking in the morning or after evening prayers in summer heat is the practical solution across most of the region. If outdoor temperature is a barrier, walking indoors or in a shopping centre is equally effective. The priority is consistency over intensity.",
+            "Resistance exercise, whether light weights or bodyweight movements such as squats and wall press-ups, builds muscle mass. This matters because muscle uses glucose more efficiently than fat tissue. Three sessions of 15 to 20 minutes per week is a reasonable starting point and can be built from there.",
+            "Do not underestimate accumulated movement throughout the day. Standing rather than sitting, climbing stairs instead of taking a lift, and brief walks between work tasks all count toward your daily total. Research shows that prolonged sitting impairs insulin sensitivity even in people who exercise at other times, so breaking up long seated periods every hour has real independent value."
+          ]
+        },
+        {
+          "h2": "Sleep and stress: two factors that are always overlooked",
+          "paras": [
+            "Poor sleep raises cortisol, which directly opposes the action of insulin. Fewer than six hours of sleep per night is linked to a significant increase in type 2 diabetes risk. If you snore heavily or wake unrefreshed, discuss this with your doctor, as obstructive sleep apnoea independently worsens glucose control and is under-diagnosed in the region.",
+            "Chronic stress, whether from work, family pressure, or broader circumstances, raises blood sugar through multiple hormonal pathways. This does not mean you must eliminate all stress, but learning practical coping strategies such as brief breathing exercises, regular walks, or talking with someone you trust does make a measurable difference over time.",
+            "Intermittent fasting and structured meal timing appeal to many people and can be helpful for some, but they are not required for everyone with prediabetes. What is consistently useful is regularity in sleep and meal times, which helps the body maintain better metabolic rhythm."
+          ]
+        },
+        {
+          "h2": "Do you need medication at this stage?",
+          "paras": [
+            "In most cases, no. The large trials consistently show that lifestyle change outperforms medication as a first step for reversing prediabetes. The main exception is metformin, a safe, long-established medicine that your doctor may consider for specific situations: HbA1c close to the diagnostic threshold, difficulty sustaining lifestyle change, or a history of gestational diabetes.",
+            "A 2022 Saudi study in Frontiers in Public Health looked at metformin use for diabetes prevention and found it is used in the region but remains less effective than genuine lifestyle modification when the latter is properly applied. The decision belongs to your doctor after a full assessment.",
+            "Do not take any supplement, herbal product, or compound that claims to reverse prediabetes without medical advice. Some interact with other medicines, and others lower blood sugar in unpredictable ways.",
+            "A 2025 scoping review of lifestyle modification programmes in Saudi Arabia found that interventions combining group support with individual guidance achieved better outcomes than information alone. If a structured programme is available through your clinic or health insurer, joining it is more effective than self-management without support.",
+            "During Ramadan, eating patterns shift dramatically. Many people load up on refined carbohydrates and sweets at iftar, which causes sharp blood sugar swings. If you have prediabetes and plan to fast, discuss your dietary plan with a doctor or dietitian before the month begins. Prioritising protein, vegetables, and pulses at suhoor helps sustain satiety and prevents the sharp post-iftar glucose spike that worries most people in this situation."
+          ]
+        },
+        {
+          "h2": "How to track your progress and when to go back to the doctor",
+          "paras": [
+            "After three months of consistent dietary and activity changes, recheck your HbA1c or fasting glucose. This window is enough to see a real change if you have been consistent. You do not need to wait a full year to know whether the effort is working.",
+            "Weigh yourself weekly rather than daily, because daily weight fluctuates for reasons unrelated to fat loss. A loss of half a kilogram to one kilogram per week is a healthy and sustainable rate. If weight stalls for several weeks, ask your doctor or a dietitian to review the plan rather than abandoning it.",
+            "If your numbers are not moving after six months of genuine effort, tell your doctor. This is not a failure. It is useful information that may change the management plan, including consideration of medication or referral to a structured diabetes prevention programme if one is available locally."
+          ],
+          "visual": {
+            "type": "timeline",
+            "title": "Recommended monitoring plan",
+            "items": [
+              {"when": "Now", "what": "Record baseline HbA1c and fasting glucose"},
+              {"when": "Week 1-2", "what": "Make one dietary change and add 20 minutes of daily walking"},
+              {"when": "Month 1", "what": "Review your weight and consistency, adjust if needed"},
+              {"when": "Month 3", "what": "Recheck HbA1c or fasting glucose and discuss with your doctor"},
+              {"when": "Month 6", "what": "Further check if numbers have not reached normal range"}
+            ]
+          }
+        },
+        {
+          "h2": "Questions to ask your doctor at the next visit",
+          "paras": [
+            "Bring your test result to the appointment and ask: how far am I from the diabetes threshold? Do I need to check cholesterol and kidney function? Do I need blood pressure monitoring? These additional checks together build a complete picture of your cardiovascular risk and help prioritise where to focus.",
+            "If you have polycystic ovary syndrome (PCOS), a history of gestational diabetes, or a close family member with type 2 diabetes, tell your doctor, as these factors warrant more frequent monitoring. In these situations your doctor may recommend annual rather than three-yearly checks.",
+            "Ask about referral to a dietitian or a diabetes prevention programme if either is available through your local health centre or insurance. Structured support measurably outperforms self-management alone."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "warn",
+            "title": "See your doctor soon if you have",
+            "items": [
+              "HbA1c of 6.3% or above, or fasting glucose of 120 mg/dL or above",
+              "Noticeable weight gain over recent months",
+              "Unusual thirst or frequent nighttime urination",
+              "Family history of diabetes plus another risk factor such as PCOS or past gestational diabetes"
+            ]
+          }
+        }
+      ],
+      "tie": "The Sihtak app lets you log blood sugar readings and track your meals in one place, making your follow-up visits more informative and your progress easier to see.",
+      "faqs": [
+        {
+          "q": "Can I return to completely normal blood sugar?",
+          "a": "Yes, and this happens for many people. Large trials show that lifestyle change fully reverses prediabetes in a significant proportion of individuals, especially when action is taken early. Returning to old habits after normalisation can push numbers back up, so the goal is a sustained change rather than a temporary diet."
+        },
+        {
+          "q": "What fasting glucose number puts me in the danger zone?",
+          "a": "A fasting glucose between 100 and 125 mg/dL is classified as prediabetes. Below 100 is normal. At 126 mg/dL or above on two separate tests, the diagnosis shifts to type 2 diabetes. The test requires at least eight hours of fasting beforehand."
+        },
+        {
+          "q": "Do I need a special diet to reverse prediabetes?",
+          "a": "No strict diet is required. The key changes are reducing refined carbohydrates and sweetened drinks while increasing pulses, vegetables, and protein. A dietitian can help you build a plan around your existing eating habits rather than replacing them entirely."
+        },
+        {
+          "q": "Does prediabetes cause any symptoms?",
+          "a": "Usually not, which is why it so often goes undetected until a routine blood test. Some people notice fatigue, thirst, or increased urination, but these are non-specific and shared with many other conditions. Regular blood testing is the only reliable way to catch it."
+        },
+        {
+          "q": "Is metformin suitable for everyone with prediabetes?",
+          "a": "No. Metformin is not routinely prescribed for prediabetes. Doctors consider it in specific situations, such as when HbA1c is close to the diagnostic cutoff or when lifestyle change is not achievable. The decision belongs to your doctor after full assessment."
+        },
+        {
+          "q": "Can complications develop while I am in the prediabetes stage?",
+          "a": "Classic diabetes complications such as retinopathy and neuropathy are uncommon at this stage, but vascular risk begins to rise with elevated blood sugar. This is precisely why early action matters before the condition becomes full diabetes."
+        },
+        {
+          "q": "How often should I test my blood sugar if I have prediabetes?",
+          "a": "The general recommendation is to recheck HbA1c or fasting glucose every three to six months while making lifestyle changes, then annually once numbers have stabilised in the normal range. Your doctor will set the exact schedule based on your individual situation."
+        }
+      ]
+    }
+  }
+}

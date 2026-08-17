@@ -1,0 +1,374 @@
+{
+  "slug": "migraine-treatment",
+  "category": "chronic-conditions",
+  "chip_ar": "أمراض مزمنة",
+  "chip_en": "Chronic Conditions",
+  "date_iso": "2026-07-22",
+  "sources": [
+    {
+      "label": "El-Metwally A, Toivola P, AlAhmary K et al: The Epidemiology of Migraine Headache in Arab Countries: A Systematic Review, TheScientificWorldJournal, 2020",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32607079/"
+    },
+    {
+      "label": "Elzayat MA, Kassab SA, Nada MAF et al: Burden of hidden migraine among the Arab general population: a cross-sectional study, The journal of headache and pain, 2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40016663/"
+    },
+    {
+      "label": "Robbins MS: Diagnosis and Management of Headache: A Review, JAMA, 2021",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33974014/"
+    },
+    {
+      "label": "Cameron C, Kelly S, Hsieh SC et al: Triptans in the Acute Treatment of Migraine: A Systematic Review and Network Meta-Analysis, Headache, 2015",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26178694/"
+    },
+    {
+      "label": "Kelman L: The triggers or precipitants of the acute migraine attack, Cephalalgia, 2007",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17403039/"
+    },
+    {
+      "label": "GBD 2023 Headache Collaborators: Global, regional, and national burden of headache disorders, 1990-2023: a systematic analysis for the Global Burden of Disease Study 2023, The Lancet. Neurology, 2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41240916/"
+    }
+  ],
+  "content": {
+    "ar": {
+      "title": "الشقيقة: المحرضات والعلاج وفخ مسكنات الألم",
+      "desc": "دليل شامل للشقيقة (Migraine): التعرف على النوبة ومحرضاتها، علاج الألم الحاد بالتريبتانات، الوقاية بالأدوية، وخطورة الإفراط في المسكنات.",
+      "keywords": "الشقيقة, صداع الشقيقة, علاج الشقيقة, محرضات الصداع, تريبتانات, صداع الأدوية, الوقاية من الشقيقة, نوبة الشقيقة",
+      "h1": "الشقيقة (Migraine): كيف تتعرف عليها وتعالجها دون أن تقع في فخ المسكنات",
+      "takeaways": [
+        "الشقيقة مرض عصبي حقيقي وليس مجرد صداع شديد، وتُشخَّص بمعايير محددة لا بشدة الألم وحدها.",
+        "أخطر ما يقع فيه كثيرون هو الإفراط في مسكنات الألم الذي يُفضي إلى صداع التحسس للدواء، وهو ما يحول الشقيقة من عَرَضية إلى يومية.",
+        "التريبتانات هي الأدوية الأنجع لعلاج النوبة الحادة وتعمل بشكل مختلف تماماً عن المسكنات العادية.",
+        "تُوجد أدوية وقائية فعالة للمصابين بنوبات متكررة ولا ينبغي انتظار النوبة ثم علاجها فقط.",
+        "الصداع المصحوب بحمى أو تيبس الرقبة أو ضعف في الجسم يستوجب الذهاب إلى الطوارئ فوراً."
+      ],
+      "sections": [
+        {
+          "h2": "ما الذي يجعل الشقيقة مختلفة عن الصداع العادي؟",
+          "paras": [
+            "الشقيقة ليست مجرد صداع شديد، بل هي مرض عصبي مزمن يُصنَّف من بين أكثر الحالات المُعيقة في العالم. وبحسب دراسة عبء الأمراض العالمية المنشورة في Lancet Neurology عام 2025، تُعد الشقيقة من أكبر أسباب فقدان سنوات العيش مع العجز في الفئة العمرية من خمس عشرة إلى تسع وأربعين سنة.",
+            "تتميز الشقيقة بكونها مجموعة من الأعراض تمر بها النوبة عادةً في أربع مراحل: مرحلة البادر (Prodrome) قبل الصداع بساعات أو أيام وتشمل التعب والتهيج وشوق الطعام، ثم مرحلة الأورة (Aura) التي تظهر عند بعض المصابين وتشمل اضطرابات بصرية كأضواء وامضة أو ومضات، ثم النوبة الصداعية نفسها، وأخيراً مرحلة الشفاء التي قد تترك الشخص منهكاً ليوم كامل.",
+            "نوبة الشقيقة الكلاسيكية تُصيب نصف الرأس في الغالب، وتكون نابضة أو دقيقة، وتشتد بالحركة، وتترافق مع غثيان أو قيء أو حساسية للضوء والصوت. لكن كثيراً من المصابين لا تتطابق أعراضهم مع هذا النمط المثالي، مما يُؤخر التشخيص لسنوات."
+          ],
+          "visual": {
+            "type": "stats",
+            "items": [
+              {"value": "12-15%", "label": "من البالغين في الدول العربية يعانون من الشقيقة", "tone": "warn"},
+              {"value": "3:1", "label": "نسبة النساء إلى الرجال بين مرضى الشقيقة", "tone": "info"}
+            ]
+          }
+        },
+        {
+          "h2": "ما هي محرضات الشقيقة الأكثر شيوعاً؟",
+          "paras": [
+            "تحديد المحرضات الشخصية هو الخطوة الأكثر قيمة في إدارة الشقيقة على المدى البعيد. دراسة كيلمان المنشورة في مجلة Cephalalgia عام 2007 ووثّقت محرضات الشقيقة لدى أكثر من 1200 مريض وجدت أن الإجهاد النفسي كان المحرض الأول بنسبة تتجاوز 70 بالمئة، يليه التغيير في نمط النوم، ثم الجوع وإغفال الوجبات، ثم الأضواء الساطعة والروائح الشديدة.",
+            "في السياق العربي، ثمة محرضات إضافية تستحق الانتباه: الصيام في رمضان يُشكّل عاملاً واضحاً لكثيرين بسبب تغيير مواعيد النوم والطعام في وقت واحد. الحرارة الشديدة في الصيف الخليجي، وانخفاض مستوى الماء في الجسم بسبب التعرق في الأجواء الحارة، كلها تُسهم في استثارة النوبات. دخان الشيشة والمكيفات التي تُجفف الهواء عوامل إضافية تُذكر كثيراً من قِبل المرضى.",
+            "قائمة المحرضات الغذائية في الأبحاث تشمل الشوكولاتة والجبن المعتّق والكحول والكافيين، لكن الأدلة على كون هذه الأطعمة محرضات حقيقية أو مجرد ارتباط عشوائي ليست قاطعة لكثير منها. ما هو مؤكد هو أن إغفال الوجبات أخطر بكثير من تناول أي طعام بعينه. الجوع يُضيق أوعية الدماغ ويُحرض النوبة بشكل موثق."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "أبرز محرضات الشقيقة وكيفية التعامل معها",
+            "head": ["المحرض", "ما يمكن فعله"],
+            "rows": [
+              ["الإجهاد النفسي", "تقنيات الاسترخاء اليومية، جدولة فترات راحة"],
+              ["تغيير مواعيد النوم", "النوم والاستيقاظ في نفس الوقت يومياً بما فيها العطل"],
+              ["إغفال الوجبات والجوع", "وجبات منتظمة كل ثلاث إلى أربع ساعات"],
+              ["الجفاف والحرارة الشديدة", "شرب الماء قبل الشعور بالعطش، خاصة في الصيف"],
+              ["الروائح الشديدة والدخان", "تجنب البيئات المغلقة ذات الروائح الحادة"]
+            ]
+          }
+        },
+        {
+          "h2": "علاج النوبة الحادة: التريبتانات وكيف تختلف عن المسكنات",
+          "paras": [
+            "المسكنات العادية مثل الباراسيتامول والإيبوبروفين تعمل بإيقاف مسارات الألم بشكل عام، وهي مفيدة في صداع التوتر الخفيف لكنها أقل فاعلية في الشقيقة لأنها لا تُعالج الآلية العصبية الأساسية للنوبة. التريبتانات (Triptans) على النقيض من ذلك تعمل على مستقبلات السيروتونين في الأوعية الدموية للدماغ وتُقلص من الالتهاب العصبي الذي يقع في جذر النوبة.",
+            "مراجعة منهجية نُشرت في مجلة Headache عام 2015 وشملت عشرات التجارب السريرية وجدت أن التريبتانات أفضل بكثير من المسكنات العادية في إنهاء نوبة الشقيقة خلال ساعتين. أكثر الأنواع شيوعاً في المنطقة هو سوماتريبتان (Sumatriptan)، وهو متوفر بأشكال مختلفة منها الحبوب والبخاخ الأنفي والحقن. فاعليته أعلى كلما أُخذ في بداية النوبة.",
+            "لكن التريبتانات ليست للجميع. الأشخاص الذين لديهم أمراض قلبية أو سكتة دماغية سابقة أو ارتفاع شديد في ضغط الدم يجب ألا يستخدموها دون مشورة الطبيب. كما أن استخدامها بشكل متكرر أكثر من عشرة أيام في الشهر يُمكن أن يُسبب بدوره صداع التحسس للدواء."
+          ]
+        },
+        {
+          "h2": "فخ صداع الأدوية: حين يُصبح المسكن هو المشكلة",
+          "paras": [
+            "صداع التحسس للدواء، أو ما يُعرف بصداع الارتداد (Medication Overuse Headache)، هو أحد أكثر المضاعفات الشيوعاً والأسوأ تأثيراً على جودة الحياة لدى مرضى الشقيقة. ويحدث حين يستخدم الشخص المسكنات لعلاج الصداع بشكل متكرر، فيتكيف الدماغ ويُصبح أكثر حساسية للألم في غياب الدواء، فيظهر الصداع عند انتهاء مفعول كل جرعة.",
+            "الحد العملي هو أن استخدام أي مسكن للصداع أكثر من عشرة إلى خمسة عشر يوماً في الشهر لفترة ممتدة يُضع الشخص في خطر صداع الارتداد. وهذا ينطبق على الباراسيتامول والإيبوبروفين والكودايين والتريبتانات على حد سواء. في كثير من الدول العربية حيث تُباع المسكنات بحرية دون وصفة طبية، هذا الفخ شائع جداً.",
+            "الحل الوحيد لصداع الارتداد هو إيقاف تدريجي للمسكن المُسبب، وهو إجراء مؤلم مؤقتاً لكنه يُفضي في الغالب إلى تراجع كبير في تكرار الصداع خلال أسابيع. هذا الإجراء يحتاج إشراف طبي، خاصة إذا كان الدواء المُستخدم يحتوي على الكودايين أو الكافيين الذان يُسببان تعلقاً."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "تحذير من صداع الأدوية",
+            "items": [
+              "استخدام مسكنات الصداع أكثر من 10-15 يوماً في الشهر يُسبب صداعاً مزمناً يومياً",
+              "الكودايين والكافيين الموجودان في بعض مسكنات الصداع المركبة مُدمِنان",
+              "إذا كنت تأخذ مسكناً لمنع الصداع قبل ظهوره، فهذه علامة تحذير واضحة",
+              "حل صداع الارتداد يستلزم إيقاف المسكن بإشراف طبي وليس زيادة الجرعة"
+            ]
+          }
+        },
+        {
+          "h2": "الوقاية من الشقيقة: متى تبدأ ولماذا تهم؟",
+          "paras": [
+            "العلاج الوقائي يعني تناول دواء يومياً ليس لعلاج نوبة بعينها بل لتقليل عدد النوبات وشدتها على مدار الشهر. يُنصح به لمن يعانون من أربع نوبات أو أكثر في الشهر، أو من نوبات تمتد لأكثر من 48 ساعة، أو من أولئك الذين بدأ لديهم نمط صداع الارتداد.",
+            "الأدوية الوقائية المتاحة تشمل مجموعات متنوعة: خافضات ضغط الدم كالبروبرانولول (Propranolol)، ومضادات الصرع كالتوبيراميت (Topiramate) والفالبروات، ومضادات الاكتئاب ثلاثية الحلقات. الأحدث في العشر سنوات الأخيرة هو مجموعة الأجسام المضادة لـ CGRP التي تعمل مباشرة على المسار العصبي للشقيقة، لكنها باهظة الثمن وغير متاحة على نطاق واسع في المنطقة حتى الآن.",
+            "الوقاية تستغرق من ستة إلى ثمانية أسابيع قبل أن يظهر تأثيرها الكامل، ولا بد من التحلي بالصبر. كثير من المرضى يتوقفون عن الدواء قبل الفترة الكافية ظناً منهم أنه لا يفيد. كما أن اختيار الدواء الوقائي المناسب يعتمد على الحالات المصاحبة: فالشخص المصاب بارتفاع ضغط الدم قد يُفضل أن يبدأ بالبروبرانولول، بينما من لديه صعوبة في النوم قد يستفيد من مضادات الاكتئاب ثلاثية الحلقات.",
+            "من المهم أن تعرف أن الأدوية الوقائية لا تُوقف الشقيقة تماماً في الغالب، بل تُقلل تكرار النوبات وشدتها بنسبة تصل إلى خمسين بالمئة أو أكثر في أغلب الدراسات، وهذا تحسن ذو أثر حقيقي على جودة الحياة. نوبتان شهرياً بدلاً من ثماني نوبات فارق كبير في القدرة على العمل والتنقل والعيش الطبيعي."
+          ]
+        },
+        {
+          "h2": "الأورة والشقيقة البصرية: ما معنى هذه الإشارات؟",
+          "paras": [
+            "الأورة (Aura) هي أعراض عصبية عابرة تظهر قبل نوبة الشقيقة أو معها في ما يقارب ثلاثين بالمئة من المصابين. أكثر أشكالها شيوعاً هي الاضطرابات البصرية كالومضات الضوئية والمناطق العمياء التي تتسع ببطء، وقد تمتد لعشرين إلى ستين دقيقة قبل أن تختفي.",
+            "الأورة في حد ذاتها غير مؤلمة لكنها مرعبة لمن يواجهها لأول مرة. الشخص الذي يرى ومضات بصرية فجأة قد يظن أنه يُصاب بسكتة دماغية. الفارق المهم هو أن أعراض الأورة تبدأ صغيرة وتتسع تدريجياً وتختفي خلال ساعة، بينما أعراض السكتة الدماغية تظهر فجأة وتبقى.",
+            "تجدر الإشارة إلى أن الشقيقة مع الأورة تُشكّل عاملاً إضافياً لخطر السكتة الدماغية خاصة عند النساء اللواتي يتناولن حبوب منع الحمل المشتركة التي تحتوي على الإستروجين. إذا كنتِ مصابة بالشقيقة مع أورة، ناقشي هذا مع طبيبك قبل استخدام هذه الحبوب."
+          ]
+        },
+        {
+          "h2": "متى يكون الصداع علامة طارئة تستوجب الطوارئ؟",
+          "paras": [
+            "ليس كل صداع شديد هو شقيقة، وبعض أنواع الصداع الثانوية تُشير إلى حالات طارئة تهدد الحياة. الصداع الذي يُوصف بأنه الأسوأ على الإطلاق في حياة الشخص وظهر فجأة كإطلاق رصاصة يُعرف طبياً بـ الصداع الرعدي (Thunderclap headache) وهو اسم من أسباب النزيف تحت العنكبوتية التي تستوجب التقييم الطارئ فوراً.",
+            "أعراض الخطر الأخرى التي تستلزم الذهاب إلى الطوارئ وعدم الانتظار: الصداع المصحوب بحمى وتيبس الرقبة وعدم تحمل الضوء الشديد قد يُشير إلى التهاب السحايا. الصداع الذي يترافق مع ضعف في جانب من الجسم، أو تدلي في الفم أو الوجه، أو تعثر في الكلام هو صداع ثانوي حتى تثبت خلافه. كذلك الصداع الذي يتصاعد بشكل تدريجي على مدار أيام أو أسابيع مع تغير في الشخصية يستوجب تقييماً لاستبعاد ضغط الدم أو كتلة داخل الجمجمة.",
+            "تذكر أن مريض الشقيقة المعروفة قد يُصاب أيضاً بحالة طارئة مختلفة. إذا كان الصداع يختلف في طابعه أو يأتي مع أعراض جديدة لم تظهر في نوباتك السابقة، فهذا يستحق تقييماً طبياً لا أن يُفترض أنه مجرد شقيقة أشد.",
+            "الأطفال والمراهقون يُصابون بالشقيقة أيضاً، وغالباً ما تُوصف عند الأطفال بألم بطني متكرر بدلاً من ألم رأس واضح. الطفل الذي يشكو من غثيان وآلام بطن متكررة مع رغبة في الجلوس في الظلام يستحق تقييم متخصص لاستبعاد الشقيقة البطنية قبل إجراء تحقيقات مكلفة."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "اذهب إلى الطوارئ فوراً إذا ظهر",
+            "items": [
+              "صداع مفاجئ شديد كالرعد وصفه بعض الناس بالأسوأ في حياتهم",
+              "صداع مع حمى وتيبس الرقبة وعدم تحمل الضوء",
+              "ضعف أو شلل في جانب من الجسم أو تدلي في الوجه",
+              "تعثر مفاجئ في الكلام أو صعوبة في الفهم",
+              "صداع يصحبه تشوش الوعي أو الإغماء"
+            ]
+          }
+        },
+        {
+          "h2": "التعايش مع الشقيقة يومياً: مذكرة الصداع وما تعلمك إياه",
+          "paras": [
+            "مذكرة الصداع هي وسيلة بسيطة تُغير بشكل ملحوظ كيف تُدار الشقيقة. تُسجّل فيها كل نوبة: تاريخها ووقتها وشدتها، وما أكلته أو شربته قبل 24 ساعة، وجودة نومك، ومستوى إجهادك، وأي دواء أخذته ومتى. بعد أسبوعين إلى أربعة أسابيع، تبدأ الأنماط في الظهور.",
+            "هذه المذكرة تُعطي الطبيب المعلومات الكافية لاتخاذ قرار بشأن العلاج الوقائي، لأن معظم القرارات الوقائية تعتمد على عدد النوبات الشهرية ومدتها. كما تُساعدك شخصياً على تجنب محرضاتك الخاصة بدلاً من تجنب قائمة عامة قد لا تنطبق عليك.",
+            "النوم المنتظم في كثير من الأحيان هو أبسط وأقوى أداة وقائية متاحة بدون دواء. الشقيقة تكره التغيير، فالنوم الطويل في العطل بعد أسبوع من السهر يُسبب ما يُعرف بصداع نهاية الأسبوع بنفس القدر الذي تُسبب فيه قلة النوم نوبة مختلفة. ثبات مواعيد النوم حتى في العطل هو واحد من أبسط الوصايا وأكثرها أثراً.",
+            "التغذية الراجعة البيولوجية (Biofeedback) والتأمل الذهني يُشكلان خيارات وقائية غير دوائية لها دليل علمي معقول. في الحالات التي لا تتوفر فيها أدوية وقائية أو توجد موانع لاستخدامها، هذه الأدوات تستحق التجربة. وهي تستلزم تدريباً منهجياً وليست مجرد تمارين تنفس عشوائية."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "كيف تبدأ مذكرة الصداع",
+            "items": [
+              "سجل كل نوبة: تاريخها، وقت البداية، شدتها من 1 إلى 10",
+              "دوّن ما أكلته وشربته في الـ 24 ساعة السابقة",
+              "اكتب جودة نومك الليلة الماضية وعدد الساعات",
+              "قيّم مستوى إجهادك النفسي بكلمة واحدة: خفيف، متوسط، شديد",
+              "سجل الدواء الذي أخذته والوقت الذي مضى حتى تحسن الألم",
+              "بعد شهر، اعرض المذكرة على طبيبك لتحديد نمط المحرضات"
+            ]
+          }
+        }
+      ],
+      "tie": "يمكنك استخدام تطبيق سهتاك لتتبع نوبات الصداع وتسجيل ما أكلته ومستوى إجهادك يومياً، مما يُوفر لك البيانات التي تحتاجها لاكتشاف نمط محرضاتك وإبلاغ طبيبك بدقة.",
+      "faqs": [
+        {
+          "q": "هل يمكن أن أكون مصاباً بالشقيقة دون أن يُشخَّصها الطبيب؟",
+          "a": "نعم، وهذا شائع جداً. دراسة نُشرت في مجلة The Journal of Headache and Pain عام 2025 وجدت أن نسبة كبيرة من مرضى الشقيقة في الدول العربية لم يُشخَّصوا رسمياً ويعالجون أنفسهم بمسكنات عشوائية. إذا كنت تعاني من صداع متكرر مع غثيان أو حساسية للضوء أو ضعف عند الحركة، استشر طبيباً."
+        },
+        {
+          "q": "هل التريبتانات متوفرة في الصيدليات العربية؟",
+          "a": "نعم، السوماتريبتان وبعض التريبتانات الأخرى متوفرة في أغلب الدول العربية بوصفة طبية. بعضها يحتاج طبيب أعصاب لصرفه لأول مرة. لا تحصل عليها بدون تقييم طبي لأن لها موانع استخدام تشمل أمراض القلب والأوعية الدموية."
+        },
+        {
+          "q": "هل الكافيين يُعالج الشقيقة أم يُسببها؟",
+          "a": "كلاهما صحيح بحسب السياق. الكافيين يُسرع امتصاص مسكنات الألم ويُضيق الأوعية الدموية في المرحلة الحادة مما قد يُخفف النوبة. لكن استخدامه بانتظام يُؤدي إلى إدمان خفيف، والانقطاع المفاجئ عنه بحد ذاته يُسبب صداعاً. لهذا ظهور الصداع في أيام الإجازة حين تتأخر في قهوتك الصباحية أمر وارد."
+        },
+        {
+          "q": "هل الشقيقة وراثية؟",
+          "a": "نعم، للوراثة دور واضح. أكثر من نصف المصابين بالشقيقة لديهم قريب من الدرجة الأولى مصاب بها. لكن وجود الاستعداد الوراثي لا يعني أنك ستُصاب بها بالضرورة، ولا يعني أنها ستكون بنفس درجة حدتها عند قريبك."
+        },
+        {
+          "q": "هل الصيام في رمضان يُسبب الشقيقة؟",
+          "a": "الصيام يُغير مواعيد النوم والطعام والترطيب في وقت واحد، وكل هذه من المحرضات المعروفة. لهذا يُلاحظ كثير من المرضى تفاقم النوبات في الأيام الأولى من رمضان. الحل الأكثر نجاعة هو الحفاظ على انتظام النوم والإكثار من الماء عند الإفطار والسحور."
+        },
+        {
+          "q": "هل يمكنني أخذ الأدوية الوقائية حتى لو كانت النوبات غير متكررة؟",
+          "a": "الوقاية توصى بها عند أربع نوبات أو أكثر شهرياً، أو عند نوبات طويلة جداً، أو حين بدأت نمط الإفراط في المسكنات. إذا كانت نوباتك أقل من ذلك وتستجيب جيداً للعلاج الحاد، فالوقاية ليست ضرورية."
+        },
+        {
+          "q": "هل الشقيقة تزداد سوءاً مع الوقت؟",
+          "a": "لدى بعض الناس تتطور الشقيقة من عَرَضية إلى مزمنة، وهو ما يحدث في ما بين ثلاثة وخمسة بالمئة من المرضى سنوياً. الإفراط في المسكنات هو العامل الأكثر قابلية للإصلاح الذي يُسرع هذا التطور. التوقف المبكر عن الإفراط في الأدوية وبدء الوقاية إذا كانت مؤشراتها موجودة يحول دون التطور نحو الشقيقة المزمنة لدى كثيرين."
+        },
+        {
+          "q": "هل هناك أطعمة بالتأكيد تُسبب الشقيقة؟",
+          "a": "لا يوجد طعام يُسبب الشقيقة بالتأكيد لجميع المصابين. الشوكولاتة والجبن المعتق والكحول تُذكر كثيراً في الأبحاث لكن الارتباط ليس قاطعاً لكل شخص. ما هو أكثر يقيناً هو أن الجوع وإغفال الوجبات أخطر من أي طعام بعينه."
+        }
+      ]
+    },
+    "en": {
+      "title": "Migraine: triggers, treatment and the painkiller trap",
+      "desc": "Migraine explained: how to recognise attacks, identify triggers, use triptans correctly, and avoid the painkiller overuse that turns migraine into a daily condition.",
+      "keywords": "migraine treatment, migraine triggers, triptans, medication overuse headache, migraine prevention, migraine symptoms, migraine aura, headache",
+      "h1": "Migraine: Triggers, Treatment, and the Painkiller Trap",
+      "takeaways": [
+        "Migraine is a neurological disorder, not just severe headache, and is one of the leading causes of disability in working-age adults worldwide.",
+        "The most dangerous pattern in migraine management is painkiller overuse, which causes medication overuse headache and transforms episodic migraine into a daily condition.",
+        "Triptans are specifically designed for migraine and work differently from ordinary painkillers: they act on the neurological mechanism of the attack rather than simply masking pain.",
+        "Preventive medication taken daily significantly reduces attack frequency for people with four or more migraines per month, and should be considered before the overuse pattern takes hold.",
+        "Sudden severe headache described as the worst of your life, especially with neck stiffness or limb weakness, is a medical emergency."
+      ],
+      "sections": [
+        {
+          "h2": "What makes migraine different from a bad headache?",
+          "paras": [
+            "Migraine is a neurological disorder that causes recurrent attacks of head pain alongside other symptoms including nausea, vomiting, and sensitivity to light and sound. It differs from tension headache not just in intensity but in mechanism: a migraine attack involves a wave of electrical and chemical change across the brain followed by neurogenic inflammation of the blood vessels around it. The Global Burden of Disease Study 2023, published in Lancet Neurology, ranks migraine as the leading cause of years lived with disability in adults aged 15 to 49.",
+            "A classic migraine attack passes through four stages. The prodrome, which arrives hours or even days before the headache, includes symptoms like fatigue, mood change, food craving, or yawning. The aura, experienced by roughly a third of sufferers, involves neurological symptoms such as visual disturbances, tingling, or speech difficulties that last 20 to 60 minutes. The headache phase itself typically causes throbbing one-sided pain that worsens with movement. The postdrome leaves many people exhausted and mentally foggy for the rest of the day even after pain resolves.",
+            "Many people with migraine go undiagnosed for years, often because their attacks do not fit the textbook pattern. A 2025 cross-sectional study of the Arab general population published in The Journal of Headache and Pain found a significant burden of undiagnosed migraine, with many sufferers managing their attacks with over-the-counter analgesics and never receiving specific treatment. A 2020 systematic review of migraine epidemiology across Arab countries estimated that 12 to 15 percent of the adult population is affected, with a female-to-male ratio of roughly three to one."
+          ],
+          "visual": {
+            "type": "stats",
+            "items": [
+              {"value": "12-15%", "label": "of adults in Arab countries are affected by migraine", "tone": "warn"},
+              {"value": "3:1", "label": "female to male ratio among migraine sufferers", "tone": "info"}
+            ]
+          }
+        },
+        {
+          "h2": "What are the most common migraine triggers?",
+          "paras": [
+            "Identifying personal triggers is the most productive step in long-term migraine management. A study by Kelman published in Cephalalgia in 2007, documenting triggers in over 1,200 migraine patients, found that psychological stress was reported by more than 70 percent of sufferers as a trigger, followed by sleep disturbance, skipped meals, bright lights, and strong smells. Hormonal fluctuation in women, particularly the drop in oestrogen just before menstruation, is one of the most powerful and reliable triggers.",
+            "In the regional context, Ramadan fasting creates a simultaneous disruption to sleep timing, meal timing, and hydration, all three of which are established migraine triggers. Extreme summer heat and the dehydration it produces are additional regional factors. Air conditioning that significantly dries indoor air and the smoke from shisha pipes are also frequently reported by patients in the region as attack precipitants.",
+            "The dietary trigger list that circulates in popular health content, including chocolate, aged cheese, red wine, and coffee, should be interpreted with caution. The evidence for most of these as direct triggers for all sufferers is weaker than commonly presented. What is consistently supported is that skipping meals is more dangerous than any specific food. Hunger narrows cerebral blood vessels and reliably precipitates attacks. Keeping meal intervals regular, at no more than four hours, is one of the highest-value simple interventions."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Common migraine triggers and what to do about them",
+            "head": ["Trigger", "What helps"],
+            "rows": [
+              ["Psychological stress", "Daily relaxation practice, scheduled recovery time"],
+              ["Sleep schedule change", "Fixed sleep and wake time including weekends and holidays"],
+              ["Skipped meals and hunger", "Regular meals no more than four hours apart"],
+              ["Dehydration and heat", "Drink water before feeling thirsty, especially in summer"],
+              ["Strong smells and smoke", "Avoid enclosed spaces with strong fragrances or shisha smoke"]
+            ]
+          }
+        },
+        {
+          "h2": "Treating an acute attack: how triptans differ from painkillers",
+          "paras": [
+            "Ordinary analgesics such as paracetamol and ibuprofen work by blocking general pain signalling pathways. They are useful for tension headache but are significantly less effective for migraine because they do not address the underlying neurological mechanism of the attack. Triptans work differently: they bind to specific serotonin receptors on cerebral blood vessels and trigeminal nerve endings, reducing the neurogenic inflammation that drives migraine pain.",
+            "A systematic review and network meta-analysis published in Headache in 2015, covering dozens of clinical trials, found that triptans were substantially more effective than simple analgesics at achieving two-hour pain freedom in migraine. The most widely available in the region is sumatriptan, which comes as tablets, a nasal spray, and a subcutaneous injection. Effectiveness is highest when the medication is taken at the very first sign of the headache, before pain becomes established.",
+            "Triptans are not appropriate for everyone. People with a history of coronary artery disease, stroke, uncontrolled hypertension, or haemiplegic migraine should not use them without medical guidance. Taking a triptan more than ten days per month also carries the risk of contributing to medication overuse headache, the same trap that catches people using ordinary painkillers too frequently."
+          ]
+        },
+        {
+          "h2": "The painkiller trap: when the medicine becomes the problem",
+          "paras": [
+            "Medication overuse headache (MOH), sometimes called rebound headache, develops when the brain adapts to frequent analgesic use by becoming more sensitive to pain in the absence of the drug. The result is that the headache appears every time a dose wears off, creating a cycle where the person takes more medicine to treat the headache that the medicine is now partly causing.",
+            "The practical threshold is that using any headache medication, whether paracetamol, ibuprofen, codeine-containing combinations, or triptans, on more than 10 to 15 days per month over an extended period creates significant risk of MOH. In many Arab countries where analgesics are freely sold without a prescription, this pattern is extremely common. Some compound tablets marketed for headache contain both an analgesic and caffeine, and caffeine's addictive properties make the overuse cycle particularly hard to break.",
+            "The only effective solution to medication overuse headache is a supervised withdrawal from the overused medication. This causes a predictable worsening of headache for one to two weeks, after which headache frequency typically falls significantly. The withdrawal should be managed by a doctor, particularly when the medication contains codeine or high-dose caffeine, as the dependence component requires careful tapering rather than abrupt stopping."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "Warning: medication overuse headache",
+            "items": [
+              "Using any headache medicine on more than 10-15 days per month creates chronic daily headache",
+              "Codeine and caffeine in combination headache tablets are physically addictive",
+              "Taking medicine to prevent a headache before it starts is a warning sign of overuse",
+              "The solution is supervised withdrawal from the overused medicine, not a higher dose"
+            ]
+          }
+        },
+        {
+          "h2": "Migraine prevention: when to start and what is available",
+          "paras": [
+            "Preventive treatment means taking medication daily to reduce the number and severity of attacks over time, rather than only treating each attack as it occurs. It is recommended when someone has four or more migraines per month, when attacks consistently last more than 48 hours, or when a pattern of medication overuse has already developed. Starting prevention early prevents the transition from episodic to chronic migraine.",
+            "Established preventive medications include beta-blockers such as propranolol, anticonvulsants such as topiramate and valproate, and low-dose tricyclic antidepressants. The newer CGRP-targeting monoclonal antibodies are the most effective preventive treatments available and act directly on the neurological pathway that drives migraine, but they remain expensive and are not yet widely accessible in the region. A diagnosis and prescribing by a neurologist is needed for most preventive medications.",
+            "Preventive treatment takes six to eight weeks to show its full effect. Many patients stop too early, concluding that the medicine is not working. Keeping a headache diary during this period is essential so that the reduction in attack frequency can be seen and compared. The choice of preventive drug is often guided by coexisting conditions: a patient with hypertension may prefer propranolol, while someone with disturbed sleep may benefit more from a tricyclic antidepressant."
+          ]
+        },
+        {
+          "h2": "Migraine aura: what it means and when it should concern you",
+          "paras": [
+            "Aura refers to neurological symptoms that precede or accompany the headache in about a third of migraine sufferers. The most common form is visual: expanding arcs of shimmering light or blind spots that slowly grow over 20 to 30 minutes and then resolve. Sensory aura, causing tingling that spreads from the fingers up the arm, is less common. Language difficulty occasionally occurs and is particularly alarming because it mimics stroke.",
+            "The key clinical distinction from stroke is the evolution of aura over minutes. Aura symptoms begin small and spread gradually, reaching their peak over 20 to 30 minutes and then clearing within an hour. A stroke causes symptoms that appear suddenly at their full severity and do not resolve on their own. If you are uncertain, treat it as a possible stroke and seek emergency care, because the consequences of missing a stroke are far graver than the inconvenience of a false alarm.",
+            "Migraine with aura carries a modestly elevated risk of ischaemic stroke, particularly in women. This risk is further increased by oestrogen-containing combined oral contraceptive pills and by smoking. A woman who has migraines with aura should discuss contraceptive choices specifically with her doctor, as progestogen-only methods do not carry the same stroke risk elevation."
+          ]
+        },
+        {
+          "h2": "Red flag headaches: when to go to emergency immediately",
+          "paras": [
+            "Not every severe headache is migraine, and several secondary headache types signal emergencies that can be life-threatening if missed. The thunderclap headache, described by patients as the worst headache of their life appearing in seconds, is the classic warning sign of subarachnoid haemorrhage caused by a ruptured aneurysm. This is a medical emergency regardless of whether the person has a known history of migraine.",
+            "Other urgent presentations include headache with fever, neck stiffness, and marked photophobia, suggesting meningitis. Headache with one-sided limb weakness, facial drooping, or sudden speech difficulty should be treated as stroke until proved otherwise. Headache that progressively worsens over days or weeks, especially with personality change or morning predominance, raises the possibility of raised intracranial pressure from a space-occupying lesion and needs imaging.",
+            "A person with established migraine can still develop a new and different headache type. The rule to apply is: if this headache feels different from your usual attacks in quality, onset, severity, or accompanying symptoms, it needs medical assessment rather than assumption that it is just a worse migraine."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "Go to emergency immediately if you have",
+            "items": [
+              "Sudden severe headache, the worst of your life, reaching maximum intensity within seconds",
+              "Headache with fever, stiff neck, and extreme light sensitivity",
+              "Headache with limb weakness, facial droop, or sudden speech difficulty",
+              "Headache following a head injury, even if it seemed minor at the time",
+              "Progressive headache over days or weeks with confusion or personality change"
+            ]
+          }
+        },
+        {
+          "h2": "Living with migraine: the headache diary and what it teaches you",
+          "paras": [
+            "A headache diary is one of the most practical tools in migraine management because it transforms vague memories of bad weeks into objective data. For each attack, record the date and time, the pain severity on a scale of one to ten, any aura symptoms, what you ate and drank in the previous 24 hours, sleep quality the night before, stress level, and what medication you took and how long before it worked. After two to four weeks, patterns emerge that neither patient nor doctor could identify from memory alone.",
+            "The diary also provides the information needed for decisions about preventive treatment. The threshold of four migraines per month that triggers discussion of prevention sounds simple, but patients consistently undercount their attacks because mild attacks are forgotten. The diary prevents this and gives the clinician accurate frequency data. It also reveals medication overuse before the pattern becomes entrenched.",
+            "Sleep consistency is often underestimated as a prevention tool. Migraine responds badly to schedule change in either direction. Sleeping in on weekends after a week of late nights causes weekend headache through the combination of sleep excess and caffeine delay. Keeping the same wake time seven days a week, even if this means a shorter lie-in than usual, reduces attack frequency for many sufferers without any medication at all."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "Starting a headache diary",
+            "items": [
+              "Record every attack: date, start time, pain severity from 1 to 10",
+              "Note what you ate and drank in the 24 hours before the headache began",
+              "Write down your sleep hours and quality the previous night",
+              "Rate your stress level with one word: low, moderate, or high",
+              "Record every medication taken, the dose, and how long until pain improved",
+              "After one month, review the diary with your doctor to identify trigger patterns"
+            ]
+          }
+        }
+      ],
+      "tie": "Use the Sihtak app to log your migraine attacks, meals, sleep, and stress levels in one place. The patterns you build up over weeks give your doctor the precise information needed to make treatment decisions and help you identify which triggers are genuinely driving your attacks.",
+      "faqs": [
+        {
+          "q": "How do I know if I have migraine or tension headache?",
+          "a": "Migraine typically causes throbbing, one-sided pain that worsens with movement, accompanied by nausea or light and sound sensitivity. Tension headache is usually bilateral, pressing rather than throbbing, and does not worsen with activity. A doctor can distinguish them from your symptom history. Many people have both types and need to recognise which is which to treat them correctly."
+        },
+        {
+          "q": "Are triptans available in Arab countries without a prescription?",
+          "a": "Sumatriptan and other triptans are prescription medicines in most Arab countries. They require a doctor's evaluation before first use because of cardiovascular contraindications. Do not source them informally, as they can cause serious harm in people with undiagnosed heart disease or uncontrolled hypertension."
+        },
+        {
+          "q": "Does caffeine help or trigger migraine?",
+          "a": "Both. Caffeine constricts cerebral blood vessels and can relieve an acute attack, and it speeds up the absorption of oral analgesics. But regular caffeine use creates low-grade physical dependence, and missing the morning coffee delays the usual dose causing its own caffeine-withdrawal headache. This is why headaches that appear on days off or late mornings are often partly caffeine-related."
+        },
+        {
+          "q": "Is migraine hereditary?",
+          "a": "Yes, there is a strong genetic component. More than half of migraine sufferers have a first-degree relative with the condition. Having the genetic predisposition does not guarantee you will develop migraine, and it does not mean your attacks will be as severe as a relative's."
+        },
+        {
+          "q": "Does Ramadan fasting make migraine worse?",
+          "a": "Fasting simultaneously disrupts meal timing, sleep timing, and hydration, all three of which are established migraine triggers. Many patients notice more attacks in the first days of Ramadan. The most effective strategies are protecting sleep consistency, drinking ample water at Iftar and Suhoor, and eating at Suhoor rather than skipping it entirely."
+        },
+        {
+          "q": "Can I take preventive medicine even if my migraines are not very frequent?",
+          "a": "Prevention is generally recommended at four or more migraines per month, or when attacks are very long, very disabling, or when an overuse pattern is developing. If your migraines are less frequent and respond well to acute treatment, the benefit-to-side-effect balance of daily preventive medication does not support it."
+        },
+        {
+          "q": "Will my migraines get worse over time?",
+          "a": "In some people, episodic migraine progresses to chronic migraine, defined as 15 or more headache days per month. This happens in three to five percent of migraine sufferers per year. Medication overuse is the most modifiable risk factor that accelerates progression. Stopping overuse and starting prevention if indicated significantly reduces this risk."
+        },
+        {
+          "q": "Are there foods that definitely trigger migraine for everyone?",
+          "a": "No single food triggers migraine in all sufferers. The commonly cited list including chocolate, aged cheese, and red wine has weaker evidence than popular sources suggest. What is consistently supported is that skipping meals and hunger trigger attacks more reliably than any specific food. Keeping meals regular matters more than avoiding any particular ingredient."
+        }
+      ]
+    }
+  }
+}

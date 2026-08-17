@@ -1,0 +1,387 @@
+{
+  "slug": "child-vaccination-schedule-arab",
+  "category": "child-health",
+  "chip_ar": "صحة الطفل",
+  "chip_en": "Child Health",
+  "date_iso": "2026-07-10",
+  "sources": [
+    {
+      "label": "GBD 2023 Vaccine Coverage Collaborators: Global, regional, and national trends in routine childhood vaccination coverage from 1980 to 2023 with forecasts to 2030: a systematic analysis for the Global Burden of Disease Study 2023, Lancet (London, England), 2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40578370/"
+    },
+    {
+      "label": "Ciccacci F, Ruggieri E, Scarcella P et al: Between war and pestilence: the impact of armed conflicts on vaccination efforts: a review of literature, Frontiers in public health, 2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40666147/"
+    },
+    {
+      "label": "Faijue DD, Bouaddi O, Mackey K et al: Strategies, interventions, and uptake of catch-up vaccination among adolescent and adult migrants, refugees, and internally displaced persons (IDPs) in low- and middle-income countries (LMICs): A systematic review, Vaccine, 2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41564840/"
+    },
+    {
+      "label": "Macina D, Evans KE: Bordetella pertussis in School-Age Children, Adolescents, and Adults: A Systematic Review of Epidemiology, Burden, and Mortality in the Middle East, Infectious diseases and therapy, 2021",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33905101/"
+    },
+    {
+      "label": "World Health Organization: Immunization schedules by antigen, WHO Global Health Observatory",
+      "url": "https://www.who.int/teams/immunization-vaccines-and-biologicals/immunization-analysis-and-insights/global-monitoring/immunization-coverage/who-unicef-estimates-of-national-immunization-coverage"
+    },
+    {
+      "label": "Cutts FT, Waldman RJ, Zoffman HM et al: Surveillance for the Expanded Programme on Immunization, Bulletin of the World Health Organization, 1993",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8261567/"
+    }
+  ],
+  "content": {
+    "ar": {
+      "title": "جدول تطعيمات الأطفال في الدول العربية",
+      "desc": "مقارنة شاملة لجداول تطعيم الأطفال في الدول العربية، وإرشادات عملية للأطفال النازحين أو الذين فاتتهم جرعات بسبب الحرب.",
+      "keywords": "جدول تطعيمات الأطفال، لقاح الحصبة، تطعيمات الدول العربية، تطعيم سوريا، تطعيم مصر، جرعات اللقاح الفائتة، برنامج التطعيم الموسع، التطعيمات الإلزامية",
+      "h1": "جدول تطعيمات الأطفال في الدول العربية: ما الذي تحتاج إليه وفي أي سن؟",
+      "takeaways": [
+        "تتبع معظم الدول العربية برنامج التطعيم الموسع للمنظمة العالمية للصحة مع اختلافات بسيطة في التوقيت.",
+        "الجرعات الفائتة بسبب النزوح أو الحرب يمكن تعويضها في أي عمر دون الحاجة إلى إعادة البدء من الصفر.",
+        "التطعيم ضد الحصبة (MMR) والشلل وإنفلونزا المستدمية (Hib) هي الأكثر أهمية لمنع الوفيات.",
+        "إذا لم يكن لديك سجل تطعيم طفلك، يمكن للطبيب وضع جدول تعويضي مناسب لعمره.",
+        "بعض الدول كالسعودية والإمارات تضيف لقاحات لا توجد في الجداول الحكومية الأساسية لدول أخرى."
+      ],
+      "sections": [
+        {
+          "h2": "ما هي اللقاحات التي يحتاجها طفلك وفي أي عمر؟",
+          "paras": [
+            "برنامج التطعيم الأساسي الذي توصي به منظمة الصحة العالمية يغطي عشرة أمراض على الأقل خلال السنتين الأولى من عمر الطفل. هذه الأمراض تشمل شلل الأطفال (Polio)، والحصبة (Measles)، والكزاز (Tetanus)، والدفتيريا (Diphtheria)، والسعال الديكي (Pertussis)، والتهاب الكبد الوبائي B، وإنفلونزا المستدمية من النوع B أو ما يُعرف بـ Hib، وغيرها. البداية تكون من الولادة مباشرة بجرعة التهاب الكبد B الأولى ولقاح شلل الأطفال الفموي قبل مغادرة المستشفى.",
+            "الجرعات الأولى في الشهر الثاني، والثالث، والرابع من العمر تستكمل اللقاحات الأساسية المعروفة باللقاح الخماسي الذي يحمي في حقنة واحدة من خمسة أمراض دفعة واحدة. ثم تأتي جرعات تنشيطية عند عمر 12 إلى 18 شهراً لتعزيز المناعة المكتسبة. اللقاح الثلاثي الفيروسي (MMR) ضد الحصبة والحصبة الألمانية والنكاف يُعطى عادة عند عمر 12 إلى 15 شهراً، ثم جرعة ثانية عند الدخول للمدرسة.",
+            "من المهم أن تفهم لماذا التوقيت مهم وليس فقط عدد الجرعات. في الأشهر الأولى من عمر الطفل تبدأ المناعة الطبيعية الموروثة من الأم في الضعف، وتحتاج إلى تعزيز من اللقاحات قبل أن تختفي كلياً. الطفل الذي يتلقى لقاحاته في المواعيد المحددة يبني حصانة متراكمة قبل أن تنتهي الحماية الموروثة، أما الطفل الذي تتأخر لقاحاته فيبقى في فجوة حماية حقيقية قد تكون خطيرة إذا تعرض لمصدر عدوى.",
+            "لقاح BCG ضد السل (Tuberculosis) يُعطى للمواليد في معظم الدول العربية فور الولادة أو في الأيام الأولى. يترك هذا اللقاح ندبة صغيرة في الذراع الأيسر وهذه علامة طبيعية ومتوقعة لا تدعو للقلق. حماية BCG موجهة تحديداً للأطفال الصغار من التهاب السحايا السلي (Tuberculous meningitis) والسل المنتشر وهما أخطر أشكال المرض في هذا العمر."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "جدول تطعيمات الطفل من الولادة حتى سنتين",
+            "head": ["العمر", "اللقاح", "ملاحظات"],
+            "rows": [
+              ["الولادة", "Hep B (جرعة 1) + OPV0", "أثناء الخروج من المستشفى"],
+              ["شهران", "BCG + Penta (1) + OPV1 + IPV1", "يُعطى كلقاح خماسي في معظم الدول"],
+              ["3-4 أشهر", "Penta (2) + OPV2", "اعتماداً على الجدول الوطني"],
+              ["5-6 أشهر", "Penta (3) + OPV3 + IPV2", "استكمال السلسلة الأساسية"],
+              ["9-12 شهراً", "MMR (1) + Hep A", "لقاح الحصبة الأول ضروري في هذا العمر"],
+              ["12-18 شهراً", "Penta (4) جرعة تنشيطية", "تعزيز الحماية المكتسبة"],
+              ["18-24 شهراً", "MMR (2) + OPV4", "الجرعة الثانية من MMR تزيد الحماية إلى 97%"]
+            ]
+          }
+        },
+        {
+          "h2": "كيف يختلف الجدول بين الدول العربية؟",
+          "paras": [
+            "الاختلافات الجوهرية بين دول المنطقة تتعلق في الغالب بالتوقيت وببعض اللقاحات الإضافية وليس باللقاحات الأساسية. السعودية والإمارات ودول الخليج عموماً تضيف لقاح المكورات الرئوية (PCV أو Pneumococcal) ولقاح الروتا (Rotavirus) ضد الإسهال الفيروسي الحاد عند الرضع، وهذه اللقاحات لم تصل بعد إلى الجداول الوطنية الرسمية المجانية في جميع الدول العربية الأخرى وإن كانت متاحة في القطاع الخاص.",
+            "مصر تعتمد على برنامج صحة الطفل التابع لوزارة الصحة وقد أضافت لقاح Hib ضمن اللقاح الخماسي منذ عام 2014، مما أسهم في تراجع ملحوظ في حالات التهاب السحايا عند الأطفال. الأردن يتبع جدولاً قريباً من توصيات منظمة الصحة العالمية مع إضافة لقاح الروتا في السنوات الأخيرة. لبنان تتشابه لقاحاتها الأساسية مع بقية دول المشرق مع بعض الإضافات حسب التوافر في القطاعين العام والخاص.",
+            "في سوريا، أحدث فترات النزاع اضطراباً كبيراً في برنامج التطعيم الوطني الذي كان من أقوى البرامج في المنطقة وكان يحقق تغطية تتجاوز 90% قبل عام 2011. مراجعة نشرتها مجلة Frontiers in Public Health عام 2025 تؤكد أن النزاعات المسلحة تُقلص معدلات التغطية بالتطعيم بشكل حاد وتُبقي مجتمعات بأكملها بلا حصانة كافية لأجيال متتالية. انعكس ذلك في عودة موجات من الحصبة والكوليرا والأمراض التي كانت شبه مُستأصَلة. هذا يُبرز أهمية برامج التطعيم التعويضي الفورية بعد أي وقف للنار أو استقرار نسبي.",
+            "اليمن يمر بوضع مشابه جراء سنوات من النزاع المستمر؛ معدلات تغطية التطعيم انهارت في مناطق كثيرة وأُعيد تسجيل شلل الأطفال فيها رغم أنه كان قريباً من الاستئصال. العراق يعاني من تفاوت ملحوظ بين مناطقه؛ المدن الكبرى كبغداد والبصرة لديها تغطية أفضل مما تتوفر في المناطق الريفية والحدودية النائية."
+          ],
+          "visual": {
+            "type": "bar",
+            "title": "تغطية لقاح الحصبة (MCV1) في بعض الدول العربية",
+            "unit": "%",
+            "items": [
+              {"label": "السعودية", "value": 98, "tone": "good"},
+              {"label": "الإمارات", "value": 97, "tone": "good"},
+              {"label": "مصر", "value": 93, "tone": "good"},
+              {"label": "الأردن", "value": 93, "tone": "good"},
+              {"label": "اليمن", "value": 70, "tone": "warn"},
+              {"label": "سوريا", "value": 61, "tone": "bad"}
+            ],
+            "source": "GBD 2023 Vaccine Coverage Collaborators, Lancet, 2025",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/40578370/"
+          }
+        },
+        {
+          "h2": "ماذا يحدث إذا فاتت طفلك جرعات؟",
+          "paras": [
+            "الحقيقة المطمئنة هي أنك لا تحتاج إلى البدء من الصفر. الأطباء وبرامج الصحة العامة لديها ما يُسمى بجداول التطعيم التعويضي (Catch-up schedules)، وهي تضمن أن أي طفل بغض النظر عن عمره يمكنه استكمال حمايته من الأمراض التي فاتته. مراجعة 2026 المنشورة في مجلة Vaccine للأبحاث المتعلقة بالنازحين واللاجئين وجدت أن التدخلات المنظمة تستطيع تحقيق تغطية جيدة حتى في أصعب الظروف.",
+            "الإرشاد العملي هو: احتفظ بسجل التطعيم ورقياً في مكان آمن أو صوّره على هاتفك. إذا ضاع السجل، أخبر الطبيب بما تتذكره وبالبلد الذي تلقى فيه الطفل تطعيماته. في حال عدم اليقين الكامل، يمكن إعادة بعض الجرعات بأمان لأن الإعادة لا تضر ولكن الغياب قد يضر.",
+            "الأطفال النازحون من سوريا والعراق واليمن والسودان هم الأكثر عرضة لفجوات في التطعيم. إذا كنت مع طفل قادم من منطقة نزاع، اطلب من أقرب مركز صحي تقييم وضع تطعيمه بشكل عاجل قبل دخوله المدرسة. كثير من دول الاستقبال تقدم هذه الخدمة مجاناً."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "ماذا تفعل إذا فاتت طفلك جرعات",
+            "items": [
+              "اجمع أي وثائق تطعيم موجودة، حتى لو كانت ناقصة",
+              "اذهب إلى أقرب مركز صحي حكومي أو عيادة أطفال",
+              "اطلب تقييم وضع التطعيم وجدولاً تعويضياً مخصصاً",
+              "أكمل الجدول التعويضي كاملاً دون انقطاع",
+              "احتفظ بالسجل الجديد وصوّره على هاتفك"
+            ]
+          }
+        },
+        {
+          "h2": "لماذا لقاح الحصبة هو الأكثر إلحاحاً؟",
+          "paras": [
+            "الحصبة (Measles) هي الأكثر عدوى بين الأمراض التي يمكن الوقاية منها بالتطعيم على الإطلاق. يستطيع فيروسها البقاء في هواء الغرفة لمدة تصل إلى ساعتين بعد مغادرة الشخص المريض. في مجتمع لم يتلق 95% من أفراده اللقاح، تستطيع حالة واحدة أن تُعدي ما بين 12 و18 شخصاً. هذا الرقم يُقارن بكوفيد-19 الذي كانت نسبة انتشاره في المراحل الأولى بين اثنين وثلاثة أشخاص. بمعنى آخر: لا يوجد مرض معدٍ آخر يضاهي الحصبة في سرعة انتشاره عبر السكان غير المحصنين.",
+            "لقاح MMR يحمي في نفس الوقت من ثلاثة أمراض: الحصبة، والحصبة الألمانية (Rubella) التي تُسبب تشوهات خلقية خطيرة إذا أصابت المرأة الحامل في الثلث الأول من الحمل، والنكاف (Mumps). الجرعة الثانية من هذا اللقاح عند سن ما قبل المدرسة ترفع نسبة الحماية من الحصبة من 93% بعد الجرعة الأولى إلى ما يزيد على 97%، وهذا الفرق الصغير في الأرقام يعني فرقاً كبيراً على مستوى المجتمع.",
+            "في السنوات الأخيرة شهدت المنطقة العربية موجات من الحصبة في المناطق التي تراجعت فيها التغطية بسبب النزاعات أو التردد في التطعيم. الخطورة لا تقتصر على الطفح الجلدي المعروف؛ الحصبة تُضعف الجهاز المناعي بشكل حاد لأسابيع وتفتح الباب أمام التهاب الرئة والتهاب الدماغ وحتى الوفاة في الحالات الشديدة أو عند سوء التغذية. إذا لم يكن طفلك قد تلقى الجرعتين من MMR، فهذه هي الأولوية الأولى قبل أي لقاح آخر.",
+            "مراجعة منهجية عام 2021 درست وباء السعال الديكي (Pertussis) في منطقة الشرق الأوسط أكدت أن انخفاض معدلات التطعيم التنشيطي يُولّد ثغرات في مناعة المجتمع تؤثر على الأطفال الأكبر سناً والبالغين أيضاً وليس الرضع وحدهم. هذه الثغرات المجتمعية هي ما يبقي الحصبة وأمراضاً أخرى قادرة على الانتشار حتى بعد التحكم بها لعقود."
+          ]
+        },
+        {
+          "h2": "ما الفرق بين لقاح الشلل الفموي والمحقون؟",
+          "paras": [
+            "لقاح شلل الأطفال يأتي في صورتين: الفموي (OPV) الذي يُعطى على شكل نقط في الفم، والمحقون (IPV) الذي يُحقن. لقاح الفموي أرخص وأسهل في التوزيع وينشر حصانة في المجتمع عبر البراز بطريقة مفيدة، لكنه في حالات نادرة جداً يمكن أن يسبب شلل مرتبط باللقاح. اللقاح المحقون (IPV) آمن تماماً وفعّال ولكنه لا يُنتج الحصانة المجتمعية بنفس القدر.",
+            "التوصية الحالية لمنظمة الصحة العالمية هي إعطاء على الأقل جرعة واحدة من IPV مع جرعات OPV المتعددة. كثير من الدول العربية تتبع هذا النهج الآن. إذا كانت الجرعات التي تلقاها طفلك كلها OPV، فهذه لا تزال حماية جيدة.",
+            "الهدف العالمي هو القضاء التام على شلل الأطفال. المنطقة العربية قريبة من هذا الهدف، لكن توقف برامج التطعيم في مناطق النزاع يبقي الفيروس حياً في ثغرات الحصانة. كل طفل غير ملقح هو فرصة للفيروس للعودة."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "warn",
+            "title": "لا تُهمل هذه اللقاحات حتى لو بدا الطفل بصحة جيدة",
+            "items": [
+              "الحصبة قد تصيب الأطفال غير الملقحين حتى لو لم يكونوا على تماس مباشر مع مريض",
+              "شلل الأطفال قد لا يظهر بأعراض واضحة في 70% من الحالات مع استمرار العدوى",
+              "الكزاز يصيب الجروح الصغيرة وليس الجروح الكبيرة فقط، واللقاح هو الحماية الوحيدة الفعّالة",
+              "السعال الديكي خطير جداً على الرضع دون الستة أشهر الذين لم يكملوا جرعاتهم"
+            ]
+          }
+        },
+        {
+          "h2": "ما اللقاحات الإضافية المتاحة في الصيدليات والعيادات الخاصة؟",
+          "paras": [
+            "بجانب اللقاحات الحكومية الأساسية، توجد لقاحات إضافية يوصي بها أطباء الأطفال وقد لا تُقدمها المراكز الحكومية مجاناً. أبرزها لقاح المكورات الرئوية (PCV أو Pneumococcal) الذي يحمي من التهاب السحايا والرئة والأذن الناجمة عن بكتيريا المكورات الرئوية. هذا اللقاح مُتضمن في الجداول الحكومية في السعودية والإمارات ولكنه غير متوفر مجاناً في كل مكان.",
+            "لقاح الروتا (Rotavirus) يحمي من الإسهال الفيروسي الحاد الذي يسبب وفيات عند الرضع. يُعطى في الشهرين الثاني والثالث في صورة قطرات للفم. لقاح جدري الماء (Varicella) مفيد لمنع العدوى والمضاعفات خاصة عند الأطفال الذين لديهم مرض مزمن. لقاح التهاب السحايا المكوري (Meningococcal) يوصى به في المملكة العربية السعودية قبل الحج وللطلاب الداخليين.",
+            "إذا كنت لا تعرف ما إذا كان طفلك تلقى هذه اللقاحات الإضافية، ناقش الأمر مع طبيب أطفاله. القرار يعتمد على عمر الطفل وحالته الصحية وبلد الإقامة والإمكانيات المالية. الأولوية دائماً للقاحات الأساسية الحكومية أولاً."
+          ]
+        },
+        {
+          "h2": "أسئلة شائعة عن التطعيم تشغل بال الوالدين",
+          "paras": [
+            "يسأل كثير من الوالدين: هل اللقاح يسبب المرض الذي يُفترض أن يمنعه؟ الإجابة هي لا في الغالبية العظمى من الحالات. اللقاحات المعطلة (Inactivated) والمكونة من أجزاء من الجرثومة لا يمكنها إطلاقاً أن تسبب المرض. اللقاحات الحية المضعفة كـMMR قد تسبب أعراضاً خفيفة جداً في 5 إلى 15% من الأطفال بعد أسبوع إلى أسبوعين من التطعيم، وهذه أعراض طبيعية تدل على استجابة الجهاز المناعي لا على المرض نفسه. طفلك الذي تخرج له بقعة حمراء بسيطة في اليوم الثامن بعد MMR يكون جهازه المناعي يعمل بشكل سليم.",
+            "أما السؤال عن التوحد (Autism) والتطعيم، فالإجابة قاطعة: لا يوجد أي ارتباط علمي مثبت بين لقاح MMR أو أي لقاح آخر واضطراب طيف التوحد. الدراسة التي ادعت ذلك عام 1998 سُحبت بالكامل وصاحبها فقد ترخيصه الطبي بسبب التلاعب بالبيانات. بعدها أجرت دول كالدنمارك والمملكة المتحدة واليابان دراسات على ملايين الأطفال ولم تجد أي صلة بين اللقاحات والتوحد. التوحد يظهر عادة في العمر الذي تُعطى فيه لقاحات الطفولة الأولى، وهذا تزامن زمني لا سببية.",
+            "سؤال آخر شائع: هل يمكن تطعيم الطفل المريض؟ إذا كان الطفل يعاني من مرض خفيف كزكام خفيف أو سعال بسيط بلا حمى، يمكن تطعيمه في الغالب دون أي إشكال. لكن إذا كان لديه حمى فوق 38.5 درجة مئوية أو مرض حاد يضعفه بوضوح، يُفضل تأجيل التطعيم حتى يتعافى ثم التطعيم في أقرب موعد ممكن. لا تؤجل التطعيم بسبب أعراض بسيطة، لأن كل تأجيل يُطيل فترة الخطر الفعلية.",
+            "يسأل بعض الوالدين عن ألم الحقن وطرق تخفيفه عند الأطفال الصغار. الرضاعة الطبيعية أثناء التطعيم أو فوراً بعده ثبت علمياً أنها تُقلل بكاء الطفل وإحساسه بالألم بشكل ملحوظ. تدليك مكان الحقن بلطف بعد انتهاء الطبيب يُساعد أيضاً. كيس ثلج ملفوف في قماش ناعم يُوضع على المكان بعد العودة إلى البيت إذا كانت هناك احمرار أو ورم."
+          ]
+        },
+        {
+          "h2": "متى يجب أخذ الطفل إلى الطوارئ بعد التطعيم؟",
+          "paras": [
+            "معظم ردود الفعل بعد التطعيم خفيفة ومؤقتة: ألم في مكان الحقنة، احمرار، ارتفاع بسيط في الحرارة، سهر أو بكاء في الليلة الأولى. هذه لا تستدعي القلق وتزول في يوم أو يومين. يمكن إعطاء جرعة مناسبة من الباراسيتامول حسب وزن الطفل لتخفيف الألم والحمى.",
+            "الردود التحسسية الشديدة (Anaphylaxis) نادرة جداً وتحدث في غضون 15 دقيقة من التطعيم. لهذا السبب يُطلب منك البقاء في المركز الصحي ربع ساعة بعد التطعيم قبل المغادرة. إذا لاحظت انتفاخاً في الوجه أو الشفتين، أو صعوبة في التنفس، أو طفح جلدي منتشر سريعاً بعد الخروج، اذهب فوراً إلى الطوارئ.",
+            "بكاء حاد لا يهدأ لأكثر من ثلاث ساعات، أو تصلب في الرقبة، أو نوبة تشنجية، أو تدهور واضح في وعي الطفل بعد التطعيم تستدعي جميعها تقييماً طبياً فورياً. هذه الأعراض نادرة جداً لكنها تستحق الجدية."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "اذهب فوراً للطوارئ إذا ظهر بعد التطعيم",
+            "items": [
+              "انتفاخ سريع في الوجه أو الشفتين أو اللسان",
+              "صعوبة في التنفس أو صوت صفير في الصدر",
+              "طفح جلدي حول الجسم كله ينتشر بسرعة",
+              "تشنجات (نوبة صرع) أو فقدان الوعي",
+              "بكاء متواصل حاد لأكثر من ثلاث ساعات لا يهدأ"
+            ]
+          }
+        }
+      ],
+      "tie": "في تطبيق سهتك يمكنك حفظ سجل تطعيمات طفلك وتلقي تذكيرات بمواعيد الجرعات القادمة. لن تفوتك جرعة مرة أخرى.",
+      "faqs": [
+        {
+          "q": "ما الذي يحدث إذا أعطينا طفلنا نفس اللقاح مرتين بالخطأ؟",
+          "a": "إعادة جرعة لقاح بالخطأ لا تسبب ضرراً في الغالب، بل تُعزز الحماية. أخبر طبيب الأطفال بما حدث حتى يُسجله في السجل الطبي. الخطر الوحيد المحتمل هو ردود فعل موضعية أقوى قليلاً كاحمرار أو ألم في مكان الحقنة."
+        },
+        {
+          "q": "هل يمكن تطعيم طفل ولد قبل أوانه بنفس الجدول؟",
+          "a": "الأطفال المبتسرون (المولودون قبل 37 أسبوعاً) يتلقون نفس اللقاحات في نفس العمر الزمني من تاريخ الولادة وليس من التاريخ المتوقع للولادة. استثناء واحد هو لقاح الكبد B الذي يُؤجل أحياناً إذا كان وزن المولود أقل من كيلوغرام. ناقش مع طبيب الأطفال المعالج."
+        },
+        {
+          "q": "هل اللقاح الحكومي المجاني بنفس جودة اللقاح في العيادات الخاصة؟",
+          "a": "اللقاح نفسه من نفس الشركة المنتجة في الغالب، مع أهمية التأكد من سلسلة التبريد (Cold chain) حفاظاً على فعاليته. في المراكز الحكومية التي تتبع معايير الجودة تكون اللقاحات بنفس الجودة تماماً. ابحث عن المراكز المعتمدة في منطقتك."
+        },
+        {
+          "q": "ابني عمره خمس سنوات ولم يتلق معظم لقاحاته، من أين نبدأ؟",
+          "a": "اذهب إلى طبيب أطفال أو مركز صحي متخصص لوضع جدول تعويضي. عند هذا العمر كثير من اللقاحات تعطى بجرعات مختلفة ومتباعدة عن جداول الرضع. بعض اللقاحات المهمة مثل MMR والكبد B والحصبة لا يفوت موعدها، ويمكن إعطاؤها حتى في سن المدرسة."
+        },
+        {
+          "q": "هل يجب إعطاء الطفل المهاجر أو اللاجئ التطعيمات من جديد؟",
+          "a": "إذا كان لديك وثائق تطعيم موثوقة، استكمل من حيث توقفت. إذا لم يكن لديك وثائق أو كانت غير كاملة، يمكن إعادة معظم اللقاحات بأمان. لا ضرر من جرعة إضافية في الغالب، والضرر الوحيد الحقيقي هو ترك الطفل بلا حماية."
+        },
+        {
+          "q": "هل التطعيم ضروري إذا كان الطفل قد أصيب بالمرض من قبل؟",
+          "a": "في بعض الأمراض كالحصبة، الإصابة الطبيعية تمنح مناعة مدى الحياة لذا لا داعي للقاح بعدها. لكن لأمراض أخرى كشلل الأطفال والدفتيريا والكزاز والسعال الديكي، يُفضل التطعيم حتى من سبق إصابتهم للتأكد من مستوى مناعة كافٍ. استشر طبيب الأطفال بحالة طفلك تحديداً."
+        },
+        {
+          "q": "هل يمكن إعطاء عدة لقاحات في نفس الزيارة؟",
+          "a": "نعم، وهذا مخطط له بعناية في الجداول الوطنية. الجهاز المناعي للطفل قادر على الاستجابة لعدة مستضدات في آن واحد دون أي إشكال. إعطاء لقاحات متعددة في نفس الزيارة لا يُضعف فعالية أي منها ويوفر عليك زيارات إضافية للمركز الصحي."
+        }
+      ]
+    },
+    "en": {
+      "title": "Childhood vaccination schedule: Arab countries compared",
+      "desc": "Country-by-country comparison of immunisation schedules across the Arab world, plus catch-up guidance for children displaced by conflict who have missed doses.",
+      "keywords": "child vaccination schedule, Arab countries, MMR vaccine, polio immunisation, catch-up vaccines, displaced children, EPI programme, missed vaccine doses",
+      "h1": "Childhood vaccination schedule across Arab countries: what your child needs and when",
+      "takeaways": [
+        "Most Arab countries follow the WHO Expanded Programme on Immunisation with minor differences in timing and optional extras.",
+        "Missed doses caused by displacement or conflict can be made up at any age without starting over from the beginning.",
+        "MMR against measles, polio, and Hib vaccines are the most critical for preventing child deaths.",
+        "If you have no vaccination record, a doctor can build a personalised catch-up schedule based on your child's age.",
+        "Gulf countries such as Saudi Arabia and the UAE add vaccines like PCV and Rotavirus that are not yet on all national schedules in the region."
+      ],
+      "sections": [
+        {
+          "h2": "What vaccines does your child need, and when?",
+          "paras": [
+            "The core immunisation programme recommended by the World Health Organisation covers at least ten diseases in the first two years of life. These include polio, measles, tetanus, diphtheria, pertussis (whooping cough), hepatitis B, Haemophilus influenzae type b (Hib), and others. The schedule starts at birth with the first hepatitis B dose and oral polio vaccine, and builds systematically through the first year and a half.",
+            "The primary doses at two, three and four months complete what is known as the pentavalent vaccine series, covering five diseases in one injection. Booster doses then follow at around 18 months and again before school entry. The MMR vaccine protecting against measles, rubella and mumps is given at 12 to 15 months, with a second dose before school age.",
+            "Understanding why timing matters helps you take it seriously. The schedule is designed around the periods when a young immune system is most vulnerable and when maternal antibody protection inherited at birth is fading. A child fully vaccinated on schedule builds layered protection. A child with gaps remains genuinely at risk during those gaps, not just theoretically."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Core childhood vaccination schedule from birth to two years",
+            "head": ["Age", "Vaccine", "Notes"],
+            "rows": [
+              ["Birth", "Hep B (dose 1) + OPV0", "Given before hospital discharge"],
+              ["2 months", "BCG + Penta (1) + OPV1 + IPV1", "Pentavalent covers DTP+Hib+HepB"],
+              ["3-4 months", "Penta (2) + OPV2", "Timing varies by national schedule"],
+              ["5-6 months", "Penta (3) + OPV3 + IPV2", "Completes the primary series"],
+              ["9-12 months", "MMR (1) + Hep A", "First MMR is critical at this age"],
+              ["12-18 months", "Penta (4) booster", "Reinforces earlier protection"],
+              ["18-24 months", "MMR (2) + OPV4", "Second MMR raises protection above 97%"]
+            ]
+          }
+        },
+        {
+          "h2": "How do schedules differ across Arab countries?",
+          "paras": [
+            "The core differences between countries are mostly about timing and optional additions, not about the fundamental vaccines. Saudi Arabia and the UAE include pneumococcal (PCV) and rotavirus vaccines in their national schedules, covering causes of pneumonia, meningitis, and severe infant diarrhoea that are not yet on all regional government schedules. These vaccines are available privately in most Arab countries but at a cost.",
+            "Egypt added Hib to its national pentavalent schedule in 2014 and has progressively strengthened its programme through the Ministry of Health. Jordan's schedule closely mirrors WHO recommendations with the addition of rotavirus vaccine in recent years. Lebanon's core vaccines align with regional neighbours though availability varies by health sector.",
+            "In Syria, years of conflict caused severe disruption to what was once one of the strongest immunisation programmes in the region. A 2025 review published in Frontiers in Public Health confirmed that armed conflict sharply reduces vaccination coverage and leaves communities without adequate immunity for years. This is why catch-up immunisation campaigns after ceasefires are treated as a health emergency priority."
+          ],
+          "visual": {
+            "type": "bar",
+            "title": "Measles vaccine (MCV1) coverage in selected Arab countries",
+            "unit": "%",
+            "items": [
+              {"label": "Saudi Arabia", "value": 98, "tone": "good"},
+              {"label": "UAE", "value": 97, "tone": "good"},
+              {"label": "Egypt", "value": 93, "tone": "good"},
+              {"label": "Jordan", "value": 93, "tone": "good"},
+              {"label": "Yemen", "value": 70, "tone": "warn"},
+              {"label": "Syria", "value": 61, "tone": "bad"}
+            ],
+            "source": "GBD 2023 Vaccine Coverage Collaborators, Lancet, 2025",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/40578370/"
+          }
+        },
+        {
+          "h2": "What happens if your child has missed doses?",
+          "paras": [
+            "The reassuring truth is that you do not need to start over. Health systems and paediatricians use what are called catch-up schedules, which ensure that any child, at any age, can complete their protection against diseases they missed. A 2026 systematic review in Vaccine examining catch-up immunisation among displaced and refugee populations found that organised interventions can achieve good coverage even in very difficult circumstances.",
+            "The practical guidance is straightforward. Keep your child's vaccination record somewhere safe, whether a physical card or a photo on your phone. If the record is lost, tell the doctor what you remember and which country the vaccines were given in. When there is genuine uncertainty, repeating some doses is safe, because repetition does no harm but gaps can.",
+            "Children displaced from Syria, Iraq, Yemen and Sudan are the most likely to have immunisation gaps. If you are responsible for a child who has come from a conflict zone, ask the nearest health centre to assess their vaccination status as a priority before school enrolment. Many host countries offer this assessment free of charge."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "What to do when your child has missed vaccines",
+            "items": [
+              "Gather any vaccination documents you have, even if incomplete",
+              "Go to a government health centre or paediatric clinic",
+              "Ask for a vaccination status assessment and a personalised catch-up plan",
+              "Complete the catch-up schedule without interruption",
+              "Keep the new record and photograph it on your phone"
+            ]
+          }
+        },
+        {
+          "h2": "Why measles vaccination is the most urgent priority",
+          "paras": [
+            "Measles is the most contagious of all vaccine-preventable diseases. It can travel through the air of a room and remain infectious for up to two hours after an infected person has left. In a community where fewer than 95% of people are immunised, a single measles case can infect between 12 and 18 others. To put that in perspective, the early Covid-19 virus infected around 2 to 3 people per case. No other common infectious disease comes close to measles in its capacity to tear through an under-immunised population.",
+            "The MMR vaccine protects against three diseases simultaneously: measles, rubella (which causes serious birth defects, particularly heart and brain abnormalities, when a pregnant woman is infected in her first trimester), and mumps. The second dose before school age raises measles protection from around 93% after the first dose to over 97%. That small numerical difference translates into a meaningful reduction in community vulnerability when populations are large.",
+            "In recent years the Arab region has seen measles outbreaks in areas where conflict or vaccine hesitancy reduced coverage below the critical threshold. A 2021 systematic review on pertussis in the Middle East by Macina and Evans highlighted how reduction in booster coverage creates vulnerability in older children and adults, a pattern that applies equally to measles. The danger of measles is not only the rash: the virus suppresses the immune system for weeks afterwards, opening the door to pneumonia, encephalitis and death, particularly in malnourished children. If your child has not had both MMR doses, addressing that is the single most important thing you can do for their health.",
+            "One point worth knowing for mothers: if you were vaccinated against measles yourself, you pass some protection to your baby through the placenta and through breast milk. That protection fades after a few months, which is why the first MMR dose at 12 months is timed for when maternal antibody levels have dropped enough not to interfere with the vaccine's effect. Do not be tempted to give the vaccine earlier thinking it will provide better protection."
+          ]
+        },
+        {
+          "h2": "Oral versus injectable polio vaccine: what is the difference?",
+          "paras": [
+            "Polio vaccine comes in two forms: oral (OPV), given as drops into the mouth, and injectable (IPV), given as an injection. The oral vaccine is cheaper and easier to distribute, and spreads gut immunity through communities in a helpful way. In very rare cases, however, OPV can cause vaccine-derived polio in unimmunised contacts. IPV is completely safe and highly effective but does not produce the same community gut immunity.",
+            "Current WHO guidance recommends at least one IPV dose alongside multiple OPV doses. Most Arab countries now follow this approach. If your child received only OPV doses, that still represents good protection and there is no urgent need to repeat with IPV if the series was complete.",
+            "The global goal is the total eradication of wild poliovirus. The Arab region is close to this goal, but immunisation gaps created by conflict keep the virus viable wherever community immunity is incomplete. Every unimmunised child is an opportunity for the virus to return."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "warn",
+            "title": "Do not skip these vaccines even when your child seems healthy",
+            "items": [
+              "Measles can reach unvaccinated children without any direct contact with a sick person",
+              "Polio causes no obvious symptoms in around 70% of infections while still spreading",
+              "Tetanus infects small wounds, not just large injuries, and vaccination is the only reliable protection",
+              "Whooping cough is most dangerous for babies under six months who have not completed their doses"
+            ]
+          }
+        },
+        {
+          "h2": "What additional vaccines are available privately?",
+          "paras": [
+            "Beyond the government core schedule, paediatricians recommend additional vaccines that may not be offered free at government centres. The pneumococcal vaccine (PCV) protects against bacterial meningitis, pneumonia and ear infections caused by Streptococcus pneumoniae. It is included in government schedules in Saudi Arabia and the UAE but is available privately across the region.",
+            "The rotavirus vaccine protects against the leading viral cause of severe infant diarrhoea and is given as drops in the mouth at two and three months. Chickenpox (varicella) vaccine reduces complications particularly in children with chronic illness. Meningococcal vaccine is recommended in Saudi Arabia before Hajj and for students in boarding settings.",
+            "If you are not sure whether your child has had any of these additional vaccines, raise it with their paediatrician. The decision depends on your child's age, health status, country of residence and what is affordable. The priority is always to complete the government core schedule first before adding extras."
+          ]
+        },
+        {
+          "h2": "Common vaccine concerns that worry parents",
+          "paras": [
+            "Many parents ask whether a vaccine can cause the disease it is meant to prevent. For the vast majority of vaccines, the answer is no. Inactivated vaccines and subunit vaccines contain killed organisms or fragments that are biologically incapable of causing infection. Live attenuated vaccines such as MMR contain weakened viruses and may cause very mild symptoms in five to fifteen percent of children one to two weeks after the jab, because the weakened virus triggers a small immune response. This is normal and expected, and it is not the disease itself. A faint rash or low-grade temperature in the week after MMR is a sign that the immune system is working.",
+            "On the question of autism and vaccines, the answer from the science is definitive: no link exists between MMR or any other vaccine and autism spectrum disorder. The 1998 paper that claimed such a link was retracted in full, and its author lost his medical licence after investigation found data manipulation. Denmark, the UK and Japan subsequently conducted studies covering millions of children and found no connection. Autism typically becomes noticeable at the age when the early childhood vaccines are being given, and that timing coincidence is not causation.",
+            "A practical question families often raise is whether a sick child can be vaccinated. If your child has a mild illness such as a runny nose or mild cough with no fever, vaccination is usually safe to proceed. If they have a temperature above 38.5 degrees Celsius or a clearly debilitating acute illness, postponing until recovery is the right call. Do not delay vaccination for minor symptoms, because every day of delay is a day of genuine risk, especially for the youngest children.",
+            "Some families ask about reducing injection pain in infants. Breastfeeding during or immediately after the vaccination has been shown to reduce crying and distress noticeably. Gentle massage of the injection site after the needle is removed helps. At home, a cloth-wrapped ice pack on a red or swollen spot provides comfort. Age-appropriate paracetamol at the weight-correct dose can be given if the child is uncomfortable in the hours after vaccination."
+          ]
+        },
+        {
+          "h2": "When should you go to emergency after a vaccine?",
+          "paras": [
+            "Most reactions after vaccination are mild and temporary: soreness at the injection site, redness, a low-grade temperature, or a fretful night. These do not need emergency attention and settle within a day or two. A weight-appropriate dose of paracetamol can help with discomfort and mild fever.",
+            "Severe allergic reactions (anaphylaxis) are extremely rare but happen within 15 minutes of vaccination. This is why you are asked to wait in the clinic or health centre for a quarter of an hour after the jab before leaving. If you notice swelling of the face or lips, difficulty breathing, or a rapidly spreading rash after you have left, go to an emergency department immediately.",
+            "Inconsolable crying for more than three hours, neck stiffness, a seizure, or any clear deterioration in your child's level of consciousness after vaccination all require prompt medical assessment. These are rare events, but they are serious ones and should not be managed with a wait-and-see approach at home."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "Go to emergency immediately if after vaccination you see",
+            "items": [
+              "Rapid swelling of the face, lips or tongue",
+              "Difficulty breathing or a wheeze from the chest",
+              "A rash spreading across the whole body within minutes",
+              "A seizure or loss of consciousness",
+              "Inconsolable crying or screaming for more than three hours"
+            ]
+          }
+        }
+      ],
+      "tie": "Use the Sihtak app to store your child's vaccination record and receive reminders before each dose is due. You will never miss a jab date again.",
+      "faqs": [
+        {
+          "q": "What happens if my child accidentally gets the same vaccine twice?",
+          "a": "Accidentally repeating a vaccine dose is not dangerous and actually reinforces protection. Tell your child's doctor so the record can be updated correctly. The only likely side effect is slightly more redness or soreness at the injection site than usual."
+        },
+        {
+          "q": "Can a premature baby follow the same schedule?",
+          "a": "Premature babies born before 37 weeks receive their vaccines at the same chronological age from their actual birth date, not from the original due date. The one exception is hepatitis B, which may be delayed if birth weight is under one kilogram. Discuss your specific situation with the treating paediatrician."
+        },
+        {
+          "q": "Are government vaccines the same quality as those given in private clinics?",
+          "a": "The vaccine product itself is usually from the same manufacturer. What matters most is the cold chain: vaccines must be kept at the right temperature throughout transport and storage. Government centres that follow proper cold-chain protocols deliver vaccines of equivalent quality to private clinics. Look for accredited centres in your area."
+        },
+        {
+          "q": "My five-year-old has had almost no vaccines. Where do we start?",
+          "a": "Go to a paediatrician or specialist health centre for a catch-up assessment. At school age some vaccines are given at different intervals and doses compared to the infant schedule. MMR, hepatitis B, and polio are all still catchable at this age and should be prioritised."
+        },
+        {
+          "q": "Do refugee or migrant children need to redo all vaccines?",
+          "a": "If you have reliable written records, continue from where the schedule stopped. If records are missing or uncertain, most vaccines can safely be repeated. The small risk of a repeated dose is far lower than the real risk of leaving gaps in protection."
+        },
+        {
+          "q": "Does my child need vaccination if they already had the disease?",
+          "a": "For some diseases like measles, natural infection usually gives lifelong immunity and the vaccine is not needed after confirmed infection. For others like tetanus, diphtheria and pertussis, vaccination is still recommended after natural infection to ensure a reliably high level of protection. Discuss your child's specific history with their doctor."
+        },
+        {
+          "q": "Is it safe to give several vaccines in one visit?",
+          "a": "Yes, and this is deliberately built into every national schedule. A child's immune system handles multiple antigens simultaneously without difficulty. Giving several vaccines in one visit does not reduce the effectiveness of any of them and saves you extra trips to the health centre."
+        }
+      ]
+    }
+  }
+}

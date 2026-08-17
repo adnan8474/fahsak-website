@@ -1,0 +1,315 @@
+{
+  "slug": "back-pain-guide",
+  "category": "lifestyle",
+  "chip_ar": "نمط الحياة",
+  "chip_en": "Lifestyle",
+  "date_iso": "2026-07-28",
+  "sources": [
+    {"label": "Foster NE, Anema JR, Cherkin D et al: Prevention and treatment of low back pain: evidence, challenges, and promising directions, Lancet (London, England), 2018", "url": "https://pubmed.ncbi.nlm.nih.gov/29573872/"},
+    {"label": "Cashin AG, Chou R, Weimer MB et al: Low Back Pain: A Review, JAMA, 2026", "url": "https://pubmed.ncbi.nlm.nih.gov/42295944/"},
+    {"label": "Dahm KT, Brurberg KG, Jamtvedt G et al: Advice to rest in bed versus advice to stay active for acute low-back pain and sciatica, The Cochrane database of systematic reviews, 2010", "url": "https://pubmed.ncbi.nlm.nih.gov/20556780/"},
+    {"label": "Grunau GL, Darlow B, Flynn T et al: Red flags or red herrings? Redefining the role of red flags in low back pain to reduce overimaging, British journal of sports medicine, 2018", "url": "https://pubmed.ncbi.nlm.nih.gov/28798035/"},
+    {"label": "Frizziero A, Pellizzon G, Vittadini F et al: Efficacy of Core Stability in Non-Specific Chronic Low Back Pain, Journal of functional morphology and kinesiology, 2021", "url": "https://pubmed.ncbi.nlm.nih.gov/33922389/"},
+    {"label": "Oliveira CB, Maher CG, Pinto RZ et al: Clinical practice guidelines for the management of non-specific low back pain in primary care: an updated overview, European spine journal, 2018", "url": "https://pubmed.ncbi.nlm.nih.gov/29971708/"}
+  ],
+  "content": {
+    "ar": {
+      "title": "ألم أسفل الظهر: ما يساعد وما يُفاقم الحالة",
+      "desc": "ألم أسفل الظهر حالة شائعة جدا في المنطقة. تعلم متى تتحرك ومتى تتوقف عن التصوير، وما هي الأعراض الخطيرة التي تستدعي الطبيب فورا.",
+      "keywords": "ألم أسفل الظهر, آلام الظهر, انزلاق غضروفي, تمارين الظهر, علاج ألم الظهر, عرق النسا, الراحة في السرير, تمارين الجذع",
+      "h1": "ألم أسفل الظهر: ما الذي يساعد فعلا وما الذي يجعل الأمر أسوأ",
+      "takeaways": [
+        "معظم حالات ألم أسفل الظهر لا تنتج عن تلف هيكلي خطير، وتتحسن خلال أسابيع قليلة مع البقاء نشطا.",
+        "الراحة الكاملة في الفراش تُطيل فترة الألم، والحركة المعتدلة هي العلاج الأكثر دعما بالأدلة.",
+        "الأشعة والرنين المغناطيسي ليسا ضروريين في معظم الحالات وقد يُضران بتوجيه القرار الطبي.",
+        "تمارين تقوية عضلات الجذع تُقلل الألم المزمن وتمنع عودته على المدى البعيد.",
+        "توجد علامات تحذيرية محددة تستوجب التقييم الطبي العاجل وينبغي معرفتها."
+      ],
+      "sections": [
+        {
+          "h2": "هل ألم أسفل الظهر الشائع خطير؟",
+          "paras": [
+            "ألم أسفل الظهر هو أحد أكثر الأسباب شيوعا لزيارة الطبيب والتغيب عن العمل في العالم كله، والمنطقة العربية ليست استثناء. معظم من يُعانون منه يخشون أن يكون في أعماق ظهرهم خللٌ هيكلي خطير، انزلاق غضروفي حاد أو انضغاط عصبي أو مشكلة في الفقرات. لكن الحقيقة التي تؤكدها الأبحاث الكبيرة هي عكس ذلك.",
+            "مراجعة نشرتها مجلة Lancet عام 2018 وشملت أبحاثا من مراكز متعددة حول العالم خلصت إلى أن الغالبية الساحقة من حالات ألم أسفل الظهر، ما يقارب 90 بالمئة، هي حالات غير محددة (Non-specific Low Back Pain)، أي أنه لا يوجد سبب هيكلي واضح يفسرها بالكامل. هذا لا يعني أن الألم غير حقيقي أو أن الشخص يبالغ، بل يعني أن منشأ الألم هو العضلات والأربطة والأعصاب الصغيرة وليس كسرا في الفقرات أو ورما.",
+            "الخبر الجيد هو أن غالبية هذه الحالات تتحسن خلال أربعة إلى ست أسابيع حتى بدون علاج متخصص، شريطة أن يتجنب الشخص الراحة الكاملة ويبقى نشيطا بقدر ما يحتمل من ألم. فهم هذه الحقيقة وحده يُقلل من الخوف من الحركة، وهذا الخوف بحد ذاته أحد العوامل التي تُحوّل ألم الظهر الحاد إلى مزمن عند بعض الناس. كلما تعاملت مع الألم المحتمل كمرحلة مؤقتة وآمنة، كان مسار التعافي أسرع."
+          ]
+        },
+        {
+          "h2": "الراحة في الفراش: خرافة تُطيل المعاناة",
+          "paras": [
+            "لعقود طويلة كانت النصيحة الشائعة عند الإصابة بألم الظهر الحاد هي الاستلقاء والراحة حتى يزول الألم. اليوم نعلم أن هذه النصيحة خاطئة وقد تضر. مراجعة منهجية نشرتها قاعدة بيانات كوكرين عام 2010 جمعت نتائج تجارب عشوائية متعددة وخلصت بوضوح إلى أن إبقاء المريض نشيطا يُفضي إلى تعافٍ أسرع وألم أقل مقارنة بالنصح بالراحة في السرير.",
+            "لماذا الراحة التامة ضارة؟ لأنها تُضعف عضلات الظهر والجذع التي هي بالفعل في حاجة إلى تقوية لا تثبيط. التوقف التام يُبطئ الدورة الدموية في المنطقة المتأذية ويُقلل التعافي الطبيعي للأنسجة. يُضاف إلى ذلك أن الخوف من الحركة يخلق حلقة مفرغة: الشخص يخشى أن يتحرك فيزداد ألمه، فيتجنب الحركة، فتضعف عضلاته أكثر، فيزداد الألم.",
+            "النصيحة الصحيحة في الألم الحاد هي الحركة المعتدلة ضمن حدود الألم المحتمل. المشي البطيء ممتاز. التمدد الخفيف مفيد. إكمال أنشطة الحياة اليومية البسيطة بقدر الإمكان هو المسار الصحيح. يُسمح بتجنب الأنشطة الثقيلة التي تزيد الألم بشكل واضح، لكن الراحة الكاملة ليست ذلك التجنب."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "الراحة مقابل البقاء نشيطا: ماذا تقول الأبحاث؟",
+            "head": ["الإجراء", "أثره على التعافي", "توصية الأدلة الحالية"],
+            "rows": [
+              ["الراحة في الفراش أيام متواصلة", "يُطيل فترة الألم ويُضعف العضلات", "لا يُنصح به"],
+              ["الحركة المعتدلة ضمن حدود الألم", "تُعجل التعافي وتُقلل الألم المزمن", "موصى به بقوة"],
+              ["العودة للعمل الخفيف مبكرا", "تُحسن النتائج على المدى البعيد", "موصى به"],
+              ["تجنب الرفع الثقيل والالتواء الحاد", "يُقلل خطر تفاقم الألم مؤقتا", "معقول خلال الألم الحاد"]
+            ]
+          }
+        },
+        {
+          "h2": "هل تحتاج إلى أشعة أو رنين مغناطيسي؟",
+          "paras": [
+            "في كثير من دول المنطقة، يكون أول شيء يطلبه الطبيب أو يطلبه المريض بنفسه هو صورة الأشعة أو الرنين المغناطيسي. لكن الإرشادات الطبية الدولية واضحة: في معظم حالات ألم أسفل الظهر الحاد غير المعقد، التصوير لا يُحسّن النتائج بل قد يضر.",
+            "لماذا؟ لأن الرنين المغناطيسي يُظهر تغيرات في الأقراص الفقرية موجودة عند كثير من الأشخاص الذين لا يشكون من ألم على الإطلاق. دراسة منشورة في مجلة British Journal of Sports Medicine عام 2018 أشارت إلى أن اكتشاف هذه التغيرات يقود أحيانا إلى تشخيصات مبالغ فيها وتدخلات جراحية غير ضرورية ويزيد قلق المريض دون أن يُحسّن علاجه.",
+            "التصوير ضروري فقط عند وجود ما يُسميه الأطباء علامات الخطر (Red Flags): ضعف أو تنميل في الساقين أو الرجلين مترقٍ، صعوبة في التحكم في المثانة أو الأمعاء، ألم يزداد ليلا دون أن يتأثر بالوضع، تاريخ من السرطان أو كبار السن فوق الخامسة والسبعين مع ألم جديد لم يسبق تشخيصه. هذه الحالات تحتاج تقييما عاجلا."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "علامات الخطر التي تستوجب التقييم الطبي العاجل",
+            "items": [
+              "ضعف أو تنميل متقدم في إحدى الرجلين أو كلتيهما",
+              "صعوبة في التحكم في المثانة أو الأمعاء (احتباس أو تسرب)",
+              "ألم شديد في الظهر يصحو معك ليلا ولا يتأثر بتغيير الوضع",
+              "ألم ظهر جديد مع تاريخ سابق من السرطان",
+              "ألم مصحوب بحمى أو فقدان وزن غير مبرر",
+              "حادثة سقوط أو إصابة مباشرة تسبقت الألم"
+            ]
+          }
+        },
+        {
+          "h2": "عرق النسا: عندما يصل الألم إلى الساق",
+          "paras": [
+            "عرق النسا (Sciatica) ليس مرضا مستقلا بل أعراض تنتج عن ضغط على العصب الوركي. يبدأ من أسفل الظهر أو منطقة الأرداف ثم يمتد على طول الساق حتى القدم. الإحساس يتراوح بين الألم الحاد والحرقة والتنميل أو ما يشبه التيار الكهربائي.",
+            "السبب الأكثر شيوعا هو انزلاق نواة أحد الأقراص الفقرية القطنية وضغطها على الجذر العصبي. لكن في كثير من الحالات يتحسن هذا الضغط تدريجيا دون تدخل جراحي. الدراسات تُشير إلى أن أغلب حالات عرق النسا تتحسن خلال ستة أسابيع إلى ثلاثة أشهر مع العلاج الطبيعي ومسكنات الألم والبقاء نشيطا. تطبيق الحرارة على منطقة الأرداف والفخذ وتمديد عضلة الإجاص (Piriformis) واستمرار المشي اليومي بالقدر الممكن كلها وسائل تُسهم في السيطرة على الألم خلال فترة الانتظار.",
+            "الجراحة تُنظر فيها عادة عند فشل العلاج المحافظ بعد ستة أسابيع على الأقل، أو عند وجود ضعف عصبي تقدمي واضح وليس ألما فحسب. لا تتسرع في طلب التدخل الجراحي لأن الألم شديد في الأسابيع الأولى، فكثيرا ما يكون هذا الشدة مؤقتا. الصبر مؤلم لكنه غالبا ما يُجنّبك مضاعفات محتملة ويصل بك إلى تعافٍ مستدام دون تدخل."
+          ]
+        },
+        {
+          "h2": "تمارين تقوية الجذع: الحل الأكثر دعما بالأدلة",
+          "paras": [
+            "دراسة منشورة في Journal of Functional Morphology and Kinesiology عام 2021 راجعت الأدلة المتوفرة حول فاعلية تمارين تثبيت الجذع (Core Stability Exercises) في آلام الظهر المزمنة غير المحددة ووجدت فاعلية واضحة في تقليل شدة الألم ومستوى الإعاقة الوظيفية مقارنة بعدم التمرين.",
+            "الجذع ليس فقط عضلات البطن الأمامية. يشمل أيضا عضلات الظهر المتعددة الفصوص (Multifidus)، وعضلات قاع الحوض، والحجاب الحاجز. هذه المجموعة كلها تعمل معا لتثبيت العمود الفقري خلال الحركة. عندما تضعف فإن العمود الفقري يعتمد بشكل أكبر على الأربطة والأقراص، مما يُفاقم الألم.",
+            "التمارين لا تحتاج إلى صالة رياضية. الأفضل أن تبدأ بتمارين بسيطة خفيفة ثم تُدرج الصعوبة تدريجيا. وضع الطائر الميت، تمرين الجسر، ورفع الساق بالتناوب أثناء الاستلقاء، كلها نقطة بداية ممتازة. المهم أن تكون منتظما وأن تحافظ على التنفس الطبيعي أثناء التمرين."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "تمارين الجذع الأساسية لآلام أسفل الظهر",
+            "items": [
+              "تمرين الجسر (Bridge): استلقِ على ظهرك وركبتاك مثنيتان، ارفع الأرداف ببطء حتى يتشكل خط مستقيم من الكتفين إلى الركبتين، ثبّت 5 ثوان وانزل ببطء. 10 تكرارات",
+              "رفع الساق المعاكسة والذراع: انهض على أربعة من يديك وركبتيك، ارفع ذراعك اليمنى وساقك اليسرى معا ببطء وثبّت 3 ثوان ثم بدّل. 8 تكرارات لكل جانب",
+              "تمدد الركبة إلى الصدر: استلقِ على ظهرك واشدد ركبة واحدة نحو صدرك لمدة 20 ثانية، كرر مع الأخرى",
+              "الوقوف بالحائط مع انزلاق ظهري خفيف (Wall Slide): قف بظهرك إلى الحائط وانزلق قليلا للأسفل دون إيلام، ثبّت 5 ثوان",
+              "ابدأ بدورتين يوميا لكل تمرين وزد تدريجيا كل أسبوع حسب تحمّلك"
+            ]
+          }
+        },
+        {
+          "h2": "مسكنات الألم: متى تستخدمها وكيف؟",
+          "paras": [
+            "في الألم الحاد يُسمح باستخدام مسكنات مثل الباراسيتامول أو مضادات الالتهاب غير الستيرويدية (NSAIDs) كالإيبوبروفين لفترة قصيرة لتخفيف الألم وتمكين الشخص من التحرك. لكن تناول هذه الأدوية ليس هدفا بحد ذاته، والهدف الحقيقي هو الحركة التي يُيسّرها تخفيف الألم.",
+            "مضادات الالتهاب غير الستيرويدية ليست بلا مخاطر. استخدامها لفترات طويلة يُلحق ضررا بالكلى والمعدة. الأشخاص الذين يعانون من ارتفاع الضغط أو مشاكل في الكلى أو الذين يتناولون أدوية تخفيف الدم ينبغي أن يستشيروا طبيبهم قبل استخدامها. الحذر مضاعف في المنطقة العربية حيث تُباع هذه الأدوية بلا وصفة في كثير من الصيدليات.",
+            "المسكنات الأفيونية القوية كالترامادول ليست خيارا مناسبا لعلاج آلام الظهر المزمنة وقد تُفضي إلى إدمان دون أن تعالج السبب الجذري للألم. هذا خطر موثق وحقيقي في المنطقة العربية حيث يُباع الترامادول بوصفة وبلا وصفة في بعض الأماكن. الأدلة الراهنة، بما فيها المراجعة الشاملة لإرشادات الرعاية الأولية المنشورة في مجلة European Spine Journal عام 2018، تُؤكد أن العلاج الطبيعي والتمارين وتعديل الأنماط الحركية أكثر فاعلية على المدى البعيد من الاعتماد المزمن على المسكنات. المسكنات أداة مساعدة تُتيح التمرين، لكنها لا تُعالج ضعف العضلات أو سوء الوضعية الذي يُغذّي الألم."
+          ]
+        },
+        {
+          "h2": "وضعية الجلوس والنوم وحمل الأشياء",
+          "paras": [
+            "كثير من ألم الظهر المزمن الذي يُعاني منه الموظفون وأصحاب الأعمال المكتبية يتعلق بوضعية الجلوس لساعات طويلة أمام الشاشة. الشاشة يجب أن تكون في مستوى النظر أو أسفل قليلا، والكرسي يجب أن يدعم أسفل الظهر، والقدمان يجب أن تكونا مسطحتين على الأرض أو على مسند. تجنب الانحناء للأمام باستمرار أو مد الرقبة للأمام نحو الشاشة.",
+            "في النوم، وضعية الاستلقاء على الجانب مع وسادة بين الركبتين تُقلل الضغط على العمود الفقري. الاستلقاء على البطن يُفرط في تقوّس أسفل الظهر وينبغي تجنبه. الاستلقاء على الظهر مناسب إذا وُضعت وسادة تحت الركبتين لإبقاء انحناء الأسفل طبيعيا.",
+            "عند رفع الأشياء الثقيلة، اثنِ الركبتين واحتفظ بالظهر مستقيما وارفع من خلال قوة الفخذين لا من خلال الانحناء. هذه القاعدة ليست مجرد تعليمة شكلية بل تُحمي الأقراص الفقرية من الانضغاط غير المتوازن. الالتواء أثناء حمل شيء ثقيل هو أحد أشيع أسباب إصابات أسفل الظهر الحادة."
+          ]
+        },
+        {
+          "h2": "متى يحتاج ألم الظهر إلى عملية جراحية؟",
+          "paras": [
+            "الجراحة في حالات ألم الظهر أقل ضرورة مما يعتقد كثيرون. مراجعة منهجية شاملة نشرتها مجلة JAMA عام 2026 وضمّت آخر الأدلة المتوفرة أكدت أن معظم المرضى الذين يخضعون للعلاج الطبيعي الجاد والمنتظم يصلون إلى نتائج مماثلة للجراحة أو أفضل منها على المدى البعيد، باستثناء حالات بعينها محددة بوضوح. هذه النتيجة لم تكن مفاجئة لكنها تُعيد التذكير بأن قرار الجراحة ينبغي ألا يُبنى على شدة الألم وحدها.",
+            "الجراحة تكون ضرورية بوضوح في متلازمة ذيل الفرس (Cauda Equina Syndrome) وهي حالة طارئة تتضمن ضعفا مفاجئا في الساقين مع اضطراب في التحكم بالمثانة والأمعاء وتخدرا في منطقة السرج. هذه حالة طوارئ لا تتسامح مع التأخير. كذلك قد تكون الجراحة خيارا منطقيا عند ضيق القناة الشوكية الذي لا يستجيب للعلاج المحافظ، أو عند ضغط عصبي واضح مع ضعف عضلي متقدم.",
+            "الجراحة الانتخابية لتخفيف الألم فقط دون وجود ضغط عصبي موثق هي منطقة رمادية ينبغي فيها أخذ رأي طبيب متخصص ثانٍ على الأقل قبل الإقدام عليها. تذكر أن الجراحة يمكن أن تحل بعض المشاكل الهيكلية لكنها لا تعكس الضرر الناتج عن ضعف العضلات أو سوء الوضعية الذي يستمر ما لم تتغير العادات. الشخص الذي يُجري عملية جراحية دون إعادة تأهيل حركي بعدها يجد نفسه في دائرة الألم مجددا بعد أشهر. البرنامج الحركي ما بعد الجراحة لا يقل أهمية عن الجراحة نفسها."
+          ]
+        }
+      ],
+      "tie": "سجّل شدة ألمك اليومي ومستوى نشاطك في تطبيق سهتك لمتابعة مسار تعافيك مع الوقت. الانتظام في الجلسات والتمارين اليومية أوضح عند رؤيتها مكتوبة.",
+      "faqs": [
+        {
+          "q": "هل الانزلاق الغضروفي يعني أنني بحاجة إلى عملية جراحية؟",
+          "a": "لا في أغلب الحالات. الانزلاق الغضروفي (Herniated Disc) يتحسن بنسبة كبيرة جدا مع الوقت والعلاج الطبيعي والحركة المنتظمة. الجراحة تُنظر فيها عندما يستمر الضعف العصبي أو الألم الشديد لأكثر من ستة أسابيع بعد محاولة العلاج المحافظ، أو عند وجود علامات خطر."
+        },
+        {
+          "q": "كيف أعرف إذا كان ألم ظهري يحتاج طبيبا أم لا؟",
+          "a": "ألم الظهر الحاد البسيط الذي بدأ بعد مجهود أو حركة غير مناسبة وليس مصحوبا بضعف أو تنميل في الساق أو اضطراب في التحكم بالمثانة، يمكن إدارته بشكل ذاتي بالبقاء نشيطا والمسكنات البسيطة ومراقبة التحسن. إذا لم يتحسن الألم بعد أسبوعين أو أسبوعين ونصف، أو ظهرت أي من علامات الخطر، راجع الطبيب."
+        },
+        {
+          "q": "هل الرنين المغناطيسي يُشخص سبب الألم بدقة؟",
+          "a": "ليس بالضرورة. الرنين المغناطيسي يُظهر تغيرات هيكلية لكنها موجودة عند كثير من الأشخاص بدون أي ألم، خصوصا مع التقدم في العمر. التشخيص الصحيح يعتمد على الصورة الكاملة من الأعراض والفحص السريري والتصوير معا. وجود انزلاق غضروفي في الصورة لا يعني أنه هو السبب الوحيد أو الرئيسي للألم."
+        },
+        {
+          "q": "هل يُعاود ألم الظهر بعد التعافي؟",
+          "a": "ألم الظهر لديه نزعة للتكرار لكن هذا ليس حتميا. الأشخاص الذين يحتفظون بوزن صحي ويُمارسون تمارين الجذع ويتجنبون فترات الجلوس الطويلة ويُحسّنون أسلوب الرفع لديهم احتمال أقل بكثير لعودة الألم. التعافي من نوبة حادة هو فرصة لبناء عادات وقائية."
+        },
+        {
+          "q": "هل حقن الكورتيزون في الظهر مفيدة؟",
+          "a": "حقن الكورتيزون في منطقة الفضاء فوق الجافية أو حول جذر العصب يمكن أن تُقلل الألم مؤقتا وتُتيح للمريض المشاركة في إعادة التأهيل بفاعلية أكبر. لكنها ليست علاجا جذريا وتأثيرها محدود المدة. لا يُنصح عادة بأكثر من ثلاث حقن سنويا في المنطقة ذاتها."
+        },
+        {
+          "q": "هل أحزمة ظهر العمال تمنع إصابات الظهر؟",
+          "a": "الأدلة على فاعلية أحزمة دعم الظهر في منع إصابات الرفع ضعيفة ومتضاربة. بعض الأبحاث تُشير إلى أن الاعتماد عليها قد يُقلل من نشاط عضلات الجذع مع الوقت وليس العكس. تقوية العضلات بالتمرين الصحيح وتعلم تقنية الرفع السليمة أكثر فاعلية على المدى البعيد."
+        },
+        {
+          "q": "هل المراتب الصلبة أفضل لمن يعانون من ألم الظهر؟",
+          "a": "الاعتقاد القديم بأن المرتبة الصلبة أفضل لآلام الظهر لم يُثبته العلم. الأبحاث تُفضّل المرتبة المتوسطة الصلابة التي تدعم الانحناء الطبيعي للعمود الفقري دون أن تكون قاسية بشكل يُجبر الظهر على التقوس غير الطبيعي. المرتبة المثالية هي التي تُبقيك في وضع محايد ومريح دون آلام عند الاستيقاظ."
+        },
+        {
+          "q": "هل يمكن للحوامل ممارسة تمارين الجذع لآلام الظهر؟",
+          "a": "آلام الظهر في الحمل شائعة جدا وتمارين الجذع المُعدّلة والآمنة مفيدة جدا. تجنبي الاستلقاء على الظهر بعد الشهر الرابع، وتجنبي التمارين التي ترفع الضغط داخل البطن بشكل كبير. استشيري مشرف الحمل أو مختص العلاج الطبيعي المعتاد على علاج الحوامل قبل البدء بأي برنامج."
+        }
+      ]
+    },
+    "en": {
+      "title": "Lower back pain: what helps and what makes it worse",
+      "desc": "Movement beats bed rest for most back pain. Learn when imaging is unnecessary, which red flags need urgent care, and which exercises actually help.",
+      "keywords": "lower back pain, back pain treatment, sciatica, core exercises, bed rest back pain, back pain red flags, herniated disc, back pain exercises",
+      "h1": "Lower back pain: what helps, what makes it worse, and what the research actually says",
+      "takeaways": [
+        "Around nine in ten episodes of lower back pain have no identifiable serious structural cause and improve within weeks with movement.",
+        "Bed rest prolongs recovery. Staying as active as tolerable is the single best-evidenced approach for acute back pain.",
+        "Imaging with X-ray or MRI is unnecessary in most cases and can mislead treatment when findings are over-interpreted.",
+        "Core stability exercises reduce chronic back pain and help prevent recurrence more reliably than pain medication alone.",
+        "Specific red-flag symptoms warrant same-day or urgent medical assessment and should not be waited out at home."
+      ],
+      "sections": [
+        {
+          "h2": "Is lower back pain usually something serious?",
+          "paras": [
+            "Lower back pain is one of the leading causes of medical visits and work absence worldwide, and the Arab world is no exception. Most people who experience it fear a serious structural problem: a significant disc herniation, nerve compression, or a fracture. The research evidence is reassuring on this point, even if the pain itself is not.",
+            "A major series of reviews published in The Lancet in 2018, spanning evidence from multiple countries and health systems, concluded that approximately 90 percent of lower back pain episodes are non-specific, meaning there is no single identifiable structural cause that fully explains them. The pain is real and can be severe, but it originates in muscles, ligaments and small nerves rather than in a fractured vertebra or a tumour.",
+            "The good news is that most of these episodes resolve within four to six weeks even without specialist intervention, provided the person avoids complete rest and continues moving as tolerated. The trajectory of natural recovery is much more favourable than most people fear when the pain is at its worst. Understanding this can itself reduce fear of movement, and reducing that fear is one of the most important early steps in preventing acute pain from becoming chronic."
+          ]
+        },
+        {
+          "h2": "Bed rest: the advice that prolongs the problem",
+          "paras": [
+            "For decades the standard advice for acute back pain was to lie down and rest until the pain resolved. We now know this is wrong and that it actively delays recovery. A Cochrane systematic review published in 2010 pooled data from multiple randomised trials and concluded clearly that advice to stay active leads to faster recovery and less chronic pain than advice to rest in bed.",
+            "Why does full rest cause harm? Because it weakens the back and core muscles that already need strengthening rather than deloading. Complete inactivity reduces blood flow to the injured tissues and slows the natural healing process. It also entrenches the fear of movement that tends to become self-reinforcing: the person fears that moving will worsen the pain, avoids activity, the muscles weaken further, and the pain intensifies or persists longer.",
+            "The correct approach for acute pain is movement within bearable limits. Slow walking is excellent. Gentle stretching is helpful. Completing ordinary daily activities to the extent possible is the right path. Heavy lifting and sharp twisting that clearly aggravate pain should be avoided temporarily, but complete inactivity is not what clinical guidance means by caution."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Rest versus staying active: what the evidence shows",
+            "head": ["Approach", "Effect on recovery", "Current recommendation"],
+            "rows": [
+              ["Bed rest for days at a time", "Prolongs pain and weakens muscles", "Not recommended"],
+              ["Movement within pain tolerance", "Speeds recovery and reduces chronicity", "Strongly recommended"],
+              ["Early return to light work", "Improves long-term outcomes", "Recommended"],
+              ["Avoiding heavy lifting and sharp twists", "Reduces risk of worsening acutely", "Reasonable during acute phase"]
+            ]
+          }
+        },
+        {
+          "h2": "Do you need an X-ray or MRI scan?",
+          "paras": [
+            "In many countries in the region, the first thing a doctor orders or a patient requests is an imaging study. But international clinical guidelines are clear: for most uncomplicated acute lower back pain episodes, imaging does not improve outcomes and can actively cause harm through over-interpretation of findings.",
+            "Why? Because MRI scans of the spine reveal disc changes and minor structural variations that are present in a very large proportion of people who have no pain at all. A study published in the British Journal of Sports Medicine in 2018 showed that discovering these incidental findings sometimes drives overdiagnosis, unnecessary surgical intervention, and increased patient anxiety without improving treatment in any measurable way.",
+            "Imaging is genuinely necessary when what clinicians call red flags are present: progressive weakness or numbness in the legs, difficulty controlling the bladder or bowel, pain that worsens at night regardless of position, a known history of cancer with a new back pain episode, or age over seventy-five with new-onset pain that has not been previously evaluated. These situations need urgent assessment and should not be waited out at home."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "Red flags that need urgent medical assessment",
+            "items": [
+              "Progressive weakness or numbness in one or both legs",
+              "Difficulty controlling the bladder or bowel, including retention or leaking",
+              "Back pain that wakes you from sleep and does not improve with any change of position",
+              "New back pain in someone with a known or suspected cancer diagnosis",
+              "Back pain accompanied by fever or unexplained weight loss",
+              "Pain following a significant fall or direct trauma to the spine"
+            ]
+          }
+        },
+        {
+          "h2": "Sciatica: when the pain travels down the leg",
+          "paras": [
+            "Sciatica is not a diagnosis but a symptom pattern: pain, burning, numbness or an electrical sensation that starts in the lower back or buttock and travels down one leg along the path of the sciatic nerve, sometimes reaching the foot. The most common cause is a disc herniation that compresses a nerve root in the lumbar spine.",
+            "Most sciatica cases improve without surgery. Studies consistently show that the majority of patients recover well over six to twelve weeks with physiotherapy, movement and appropriate pain management. The compressed nerve root often decompresses naturally as the disc herniation is reabsorbed over time. Heat applied to the buttock and upper thigh, gentle stretching of the piriformis muscle and continued light walking are practical measures that help manage the pain during recovery.",
+            "Surgery is considered when conservative treatment fails after at least six weeks of genuine effort, or when there is progressive neurological weakness rather than pain alone. Pain severity in the early weeks of sciatica can be extreme, but this does not predict whether surgery will eventually be needed. Many people with severe early pain make a complete recovery without any procedure. Patience and consistent conservative management, even when the pain is difficult, is almost always the right first path."
+          ]
+        },
+        {
+          "h2": "Core stability exercises: the most evidence-backed treatment",
+          "paras": [
+            "A 2021 review published in the Journal of Functional Morphology and Kinesiology assessed the evidence for core stability exercises in non-specific chronic lower back pain and found clear effectiveness in reducing pain intensity and functional disability compared with no exercise. The effect was consistent across multiple studies and age groups.",
+            "The core is not just the visible abdominal muscles at the front. It includes the deep multifidus muscles running along the spine, the muscles of the pelvic floor and the diaphragm above. This group works together to stabilise the vertebral column during movement. When these muscles are weak, the spine relies more heavily on passive structures: discs, ligaments and facet joints, all of which are more vulnerable to loading and strain.",
+            "Core exercises require no gym membership or equipment. The goal in the early stages is not effort but precision: activating the right muscles without bracing or breath-holding. As pain allows, adding load and complexity gradually produces lasting improvement. Consistency over weeks matters far more than intensity in any single session."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "Core exercises for lower back pain: where to start",
+            "items": [
+              "Bridge: lie on your back, knees bent, feet flat. Raise your hips slowly until your shoulders, hips and knees form a straight line. Hold 5 seconds, lower slowly. Aim for 10 repetitions",
+              "Bird-dog: on hands and knees, extend your right arm and left leg simultaneously, hold 3 seconds, return and switch sides. Keep your back flat throughout. 8 repetitions each side",
+              "Knee-to-chest stretch: lying on your back, gently pull one knee towards your chest and hold 20 seconds. Repeat on the other side",
+              "Pelvic tilt: lying on your back, gently press your lower back into the floor by tightening the lower abdominal muscles. Hold 5 seconds, release. 10 repetitions",
+              "Start with two rounds of each exercise daily and increase gradually week by week as tolerated"
+            ]
+          }
+        },
+        {
+          "h2": "Pain relief: what to use and for how long",
+          "paras": [
+            "Short-term use of paracetamol or non-steroidal anti-inflammatory drugs (NSAIDs) such as ibuprofen is reasonable in acute back pain to reduce pain enough to allow movement. The goal of pain relief is not to eliminate all discomfort but to make movement and exercise tolerable, which is where the real recovery happens.",
+            "NSAIDs carry risks that increase with duration of use: kidney damage, stomach lining irritation, and blood pressure effects. People with kidney disease, hypertension, peptic ulcer history, or those taking blood-thinning medication should consult a doctor before using them. This matters especially in the Arab world where NSAIDs are sold without a prescription in many pharmacies.",
+            "Strong opioids such as tramadol are not appropriate for managing chronic back pain. They do not address any underlying cause and carry significant dependence risk, a recognised and serious problem in the region. Current evidence, including a comprehensive 2018 overview of clinical practice guidelines published in the European Spine Journal, strongly favours physiotherapy, exercise and postural adjustment as the foundation of chronic back pain management, with medication as a short-term supplement rather than a long-term solution. Chronic reliance on strong pain medication without addressing the structural cause and muscle weakness maintains the problem rather than resolving it."
+          ]
+        },
+        {
+          "h2": "Posture, sleep position and lifting technique",
+          "paras": [
+            "A significant proportion of chronic desk-related back pain results from sustained poor posture rather than structural damage. The monitor should be at eye level or slightly below, the chair should support the lumbar curve, and the feet should rest flat on the floor or a footrest. Prolonged forward head posture, where the neck extends towards the screen, places substantial load on the cervical and upper thoracic spine and contributes to upper back and neck pain alongside the lower back symptoms.",
+            "For sleep position, lying on your side with a pillow between the knees reduces rotational stress on the lumbar spine. Sleeping on the stomach tends to over-extend the lower back and is worth avoiding if it correlates with morning stiffness or pain. Lying on the back with a pillow under the knees is a comfortable neutral alternative for many people.",
+            "When lifting, the classic guidance holds up well: bend at the knees and hips rather than the lower back, keep the object close to your body, and avoid twisting while holding a load. Twisting under load remains one of the most common mechanisms for acute disc injury. If you feel your back fatiguing during lifting, put the object down and rest before continuing."
+          ]
+        },
+        {
+          "h2": "When does back pain need surgery?",
+          "paras": [
+            "Surgery for back pain is needed far less often than many people expect. A comprehensive review published in JAMA in 2026 confirmed that most patients who undergo sustained conservative treatment including physiotherapy reach outcomes equivalent to or better than surgical outcomes over medium to long follow-up, with the exception of specific defined indications.",
+            "Surgery is clearly necessary in cauda equina syndrome, an emergency condition involving sudden weakness in both legs, loss of bladder and bowel control, and saddle anaesthesia. This requires same-day spinal cord decompression and cannot be delayed. Surgery is also a reasonable option for spinal canal stenosis unresponsive to conservative care or for a nerve compression with progressive motor deficit rather than pain alone.",
+            "Elective surgery for pain relief in the absence of documented nerve compression or structural instability sits in a grey zone that warrants at minimum a second specialist opinion before proceeding. Surgery can resolve specific structural problems but it does not reverse muscle deconditioning or postural habits, which continue to drive pain if they are not separately addressed."
+          ]
+        }
+      ],
+      "tie": "Use Sihtak to log your daily pain level and activity during recovery. Tracking movement patterns alongside pain scores over several weeks makes the relationship between activity and improvement visible and helps motivate consistency with your exercise programme.",
+      "faqs": [
+        {
+          "q": "Does a herniated disc always need surgery?",
+          "a": "No, the large majority of herniated discs improve without surgery. Studies show that most disc herniations are reabsorbed naturally over weeks to months, and nerve root pain resolves in parallel. Surgery is considered when conservative treatment genuinely fails after six weeks of effort, or when there is progressive neurological weakness rather than pain alone."
+        },
+        {
+          "q": "How do I know if my back pain needs a doctor right away?",
+          "a": "Acute back pain after a familiar type of physical effort, without leg weakness, without numbness, and without any difficulty with bladder or bowel control, can usually be managed at home initially with gentle movement and simple pain relief. If there is no improvement after two weeks, or if any red-flag symptoms appear at any point, see a doctor promptly."
+        },
+        {
+          "q": "Does MRI accurately identify the cause of back pain?",
+          "a": "Not reliably. MRI shows structural changes but many of those changes, including disc bulges, facet joint degeneration and mild spondylosis, are present in people without pain, especially over forty. The finding on a scan must always be interpreted alongside the clinical history and physical examination. A disc bulge visible on MRI is not automatically the explanation for the current episode of pain."
+        },
+        {
+          "q": "Will back pain come back after it gets better?",
+          "a": "Back pain has a tendency to recur but this is not inevitable. People who maintain a healthy weight, build core muscle strength, avoid sustained sedentary periods and use correct lifting technique have substantially lower recurrence rates. Recovery from an acute episode is a practical window to build habits that protect against the next one."
+        },
+        {
+          "q": "Are cortisone injections useful for back pain?",
+          "a": "Epidural steroid injections around the nerve root can reduce pain enough to allow active participation in physiotherapy, which is where the lasting benefit comes from. They are not a cure and their effect is temporary. Most guidelines recommend limiting injections to three in the same region per year to avoid local tissue effects from repeated steroid exposure."
+        },
+        {
+          "q": "Do back support belts prevent injuries?",
+          "a": "The evidence for lumbar support belts in preventing lifting injuries is weak and conflicting. Some research suggests that relying on a belt may reduce the natural activation of core muscles over time, which is the opposite of what is needed. Building genuine core strength through exercise and learning proper lifting technique is more durable protection than an external support."
+        },
+        {
+          "q": "Is a firm mattress better for back pain?",
+          "a": "The old belief that a hard mattress is best for back pain is not supported by research. Medium-firm mattresses consistently perform better in trials, supporting the natural lumbar curve without forcing the spine into an unnatural position. The best mattress is one that keeps you in a neutral spinal alignment and does not cause morning stiffness or pain."
+        },
+        {
+          "q": "Can back pain exercises be done during pregnancy?",
+          "a": "Back pain in pregnancy is very common and modified core exercises are genuinely helpful. Avoid lying flat on your back after the second trimester. Avoid any movement that strains the abdomen heavily. Side-lying exercises, gentle pelvic tilts and supported cat-cow stretches are well tolerated and effective. Ask your midwife or an obstetric physiotherapist to guide a programme suitable for your stage of pregnancy."
+        }
+      ]
+    }
+  }
+}

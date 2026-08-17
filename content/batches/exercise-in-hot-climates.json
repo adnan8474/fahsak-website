@@ -1,0 +1,371 @@
+{
+  "slug": "exercise-in-hot-climates",
+  "category": "lifestyle",
+  "chip_ar": "نمط الحياة",
+  "chip_en": "Lifestyle",
+  "date_iso": "2026-07-28",
+  "sources": [
+    {
+      "label": "Periard JD, Eijsvogels TMH, Daanen HAM et al: Exercise under heat stress: thermoregulation, hydration, performance implications, and mitigation strategies, Physiological reviews, 2021",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33829868/"
+    },
+    {
+      "label": "Racinais S, Alonso JM, Coutts AJ et al: Consensus recommendations on training and competing in the heat, British journal of sports medicine, 2015",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26069301/"
+    },
+    {
+      "label": "Bull FC, Al-Ansari SS, Biddle S et al: World Health Organization 2020 guidelines on physical activity and sedentary behaviour, British journal of sports medicine, 2020",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33239350/"
+    },
+    {
+      "label": "Al-Hazzaa HM: Physical inactivity in Saudi Arabia revisited: A systematic review of inactivity prevalence and perceived barriers to active living, International journal of health sciences, 2018",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30534044/"
+    },
+    {
+      "label": "Alzahrani AA, Gelius P, Grunseit A et al: Physical activity policies in the six Gulf Cooperation Council countries: a qualitative study with document analysis, BMJ global health, 2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40180431/"
+    },
+    {
+      "label": "Adams WM, Hosokawa Y, Casa DJ et al: Roundtable on Preseason Heat Safety in Secondary School Athletics: Heat Acclimatization, Journal of athletic training, 2021",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33878177/"
+    }
+  ],
+  "content": {
+    "ar": {
+      "title": "الرياضة في الحر الشديد: كيف تمارسها بأمان؟",
+      "desc": "دليل عملي لممارسة الرياضة بأمان عند درجات حرارة 40 درجة فأكثر، مع توقيت التمرين والترطيب والخيارات الداخلية والبداية من الصفر.",
+      "keywords": "الرياضة في الحر, التمرين في الصيف, الترطيب أثناء الرياضة, ضربة الشمس الرياضة, الخليج رياضة, التمرين الداخلي, إكسال حرارة, الرياضة رمضان, المشي في المول, البداية من عدم الرياضة",
+      "h1": "الرياضة في الحر الشديد: ممارسة آمنة وفعالة عند 40 درجة وأكثر",
+      "takeaways": [
+        "في الحر الشديد مارس الرياضة قبل الساعة السابعة صباحا أو بعد غروب الشمس لتجنب ذروة الحرارة.",
+        "اشرب الماء قبل التمرين وخلاله وبعده، ولا تنتظر حتى تشعر بالعطش.",
+        "الجسم يحتاج أسبوعين إلى أسبوعين ونصف للتأقلم مع الحر، فلا تبدأ بشدة عالية في الأيام الأولى.",
+        "المشي في المولات والصالات الرياضية المغلقة خيار حقيقي وليس كماليا في الصيف الخليجي.",
+        "توقف فورا وابحث عن الظل أو التكييف إذا شعرت بدوار أو غثيان أو توقف التعرق."
+      ],
+      "sections": [
+        {
+          "h2": "لماذا تصعب الرياضة في الجو الحار؟",
+          "paras": [
+            "عندما تمارس الرياضة يُنتج جسمك حرارة أكثر من المعتاد. في الجو المعتدل يتصرف الجسم بكفاءة عبر التعرق وتدفق الدم للجلد لنقل هذه الحرارة إلى الخارج. لكن عندما تكون درجة الحرارة المحيطة مرتفعة جدا يصعب هذا التبديد الحراري، ويضطر القلب إلى العمل أشد لخدمة العضلات العاملة والجلد المتعرق في الوقت نفسه.",
+            "مراجعة نُشرت عام 2021 في مجلة Physiological Reviews بعنوان 'Exercise under heat stress' للباحثين Periard وزملائهم توضح كيف أن الجمع بين جهد العضلات وضغط الحرارة يفرض على الجهاز القلبي الوعائي عبئا مضاعفا، وأن الأداء الرياضي يتراجع بشكل ملحوظ عند درجات حرارة عالية حتى لدى الرياضيين المتمرنين.",
+            "الرطوبة الشديدة التي تصاحب الحر في مناطق كالخليج وسواحل اليمن والشام أحيانا تزيد الأمر تعقيدا. العرق يتبخر على الجلد وهذا التبخر هو ما يبرد الجسم فعلا. في الهواء الرطب يتباطأ التبخر فيقل التبريد رغم التعرق الغزير، وهذا ما يجعل حر الرطوبة أشد خطرا من الحر الجاف.",
+            "هذا لا يعني أن الرياضة في المناخات الحارة مستحيلة أو أن الناس في دول الخليج محكوم عليهم بالخمول. يعني فقط أن الممارسة بحكمة، بالتوقيت المناسب والترطيب الصحيح والتأقلم التدريجي، تسمح لك بالبقاء نشطا طوال العام. ملايين الرياضيين في الدول الحارة يتدربون بانتظام وبأمان بفضل اتباع هذه المبادئ."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "توقف فورا إذا لاحظت هذه العلامات أثناء الرياضة",
+            "items": [
+              "دوار أو شعور بأن الأرض تدور",
+              "غثيان أو رغبة في القيء",
+              "توقف التعرق رغم الحر الشديد",
+              "صداع شديد مفاجئ",
+              "ارتباك أو صعوبة في التركيز",
+              "تشنج عضلي حاد لا يزول بالراحة"
+            ]
+          }
+        },
+        {
+          "h2": "متى تمارس الرياضة في فصل الصيف؟",
+          "paras": [
+            "التوقيت هو أهم قرار في ممارسة الرياضة الخارجية صيفا في المنطقة العربية. ذروة الحرارة في معظم دول الخليج والعراق ومصر تكون بين الساعة الثانية عشرة ظهرا والسادسة مساءً، وهذه الفترة يجب تجنبها تماما للنشاط البدني الخارجي.",
+            "أفضل أوقات التمرين الخارجي هي ما قبل السابعة صباحا حين لا تزال الأرض تُشع بعض برودة الليل ودرجة الهواء في حدود 28 إلى 35 درجة في أغلب أيام الصيف. الخيار الثاني هو بعد ساعة من الغروب تقريبا، إذ يبدأ الهواء في التلطف ويكون الغروب الشمسي قد خفض كثافة الإشعاع الشمسي المباشر.",
+            "إرشادات الإجماع التي نشرتها مجلة British Journal of Sports Medicine عام 2015 للباحثين Racinais وزملائهم تنصح الرياضيين في المناخات الحارة بتقليل شدة التمرين وفترته في أوقات الحر الذروة، وتفضيل التمرين الصباحي الباكر أو المسائي المتأخر، وتأجيل الجهود الشديدة لحين التأقلم الحراري."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "التوقيت الموصى به للرياضة الخارجية في الصيف",
+            "head": ["الوقت", "درجة الحرارة النموذجية", "التوصية"],
+            "rows": [
+              ["قبل الساعة 7 صباحا", "28 إلى 35 درجة", "الوقت المفضل للتمرين الخارجي"],
+              ["7 صباحا إلى 12 ظهرا", "ترتفع تدريجيا", "ممكن بحذر مع ترطيب مكثف"],
+              ["12 ظهرا إلى 6 مساءً", "45 درجة فأكثر", "تجنب الخروج للرياضة تماما"],
+              ["بعد ساعة من الغروب", "تبدأ بالانخفاض", "جيد للمشي والتمارين الخفيفة"]
+            ]
+          }
+        },
+        {
+          "h2": "التأقلم الحراري: أسبوعان يغيران كل شيء",
+          "paras": [
+            "التأقلم الحراري (Heat acclimatization) هو عملية تكيف الجسم مع الحر عبر التعرض التدريجي له مع الحركة. يحدث خلالها تغيرات فسيولوجية حقيقية: يزيد حجم البلازما، يتحسن تنظيم درجة حرارة الجسم، يصبح التعرق أسرع وأغزر ويحتفظ بالملح أفضل. كل هذا يعني أن جسمك يصير أكفأ في التبريد.",
+            "بورقة عملية نشرتها مجلة Journal of Athletic Training عام 2021 للباحثين Adams وزملائهم تشير إلى أن التأقلم الكامل يستغرق من 10 إلى 14 يوما من التعرض المنتظم للحر مع نشاط بدني. الأيام الأولى هي الأخطر لأن الجسم لم يبنِ بعد قدرته على التبريد الكافية.",
+            "البداية الصحيحة هي الخروج للمشي الخفيف 20 إلى 30 دقيقة في الصباح الباكر في الأسبوع الأول، مع رفع تدريجي للمدة والشدة في الأسابيع التالية. لا تبدأ بجري مكثف أو تمارين شاقة في أول أيام الصيف حتى لو كنت تمارس الرياضة طوال الشتاء."
+          ]
+        },
+        {
+          "h2": "الترطيب الصحيح: كم تشرب ومتى؟",
+          "paras": [
+            "العطش مؤشر متأخر للجفاف. بحلول الوقت الذي تشعر فيه بالعطش يكون جسمك قد فقد ما يكفي من السوائل لتبدأ قدرتك على التركيز والأداء بالتراجع. عادة الشرب المسبق قبل التمرين وخلاله وبعده هي الأهم.",
+            "التوصية العامة للنشاط البدني المعتدل في الحر هي شرب 200 إلى 250 مليلترا (كأس ماء تقريبا) كل 15 إلى 20 دقيقة من التمرين. لكن هذا يختلف بحسب حجم جسمك وشدة التمرين ومستوى الرطوبة. المؤشر الأبسط هو لون البول: الأصفر الفاتح يعني ترطيبا جيدا، الأصفر الداكن يعني أنك تحتاج ماء أكثر.",
+            "المشروبات الرياضية التي تحتوي على الكربوهيدرات والأملاح مفيدة للتمارين التي تتجاوز الساعة في حرارة شديدة، لأن التعرق يُفقد الجسم أملاح الصوديوم والبوتاسيوم. لكن للرياضة الخفيفة أقل من ساعة، الماء العادي كافٍ تماما. تجنب الكافيين والمشروبات الغازية كبديل للماء أثناء التمرين."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "خطة الترطيب الصحيح للرياضة في الحر",
+            "items": [
+              "اشرب 500 مليلترا (زجاجة ماء صغيرة) قبل التمرين بساعة إلى ساعتين",
+              "اشرب كأس ماء (200 مل) كل 15 إلى 20 دقيقة أثناء التمرين",
+              "بعد التمرين اشرب بما يعوض العرق: 500 مل لكل نصف كيلو فقدته",
+              "راقب لون البول: يجب أن يكون أصفر شاحبا لا داكنا",
+              "لا تفرط في الشرب: الإفراط بالماء في غياب الأملاح له أضراره أيضا"
+            ]
+          }
+        },
+        {
+          "h2": "الخيارات الداخلية: المول والصالة حل حقيقي",
+          "paras": [
+            "في بعض مناطق الخليج تصل درجات الحرارة صيفا إلى 45 أو 48 درجة مع رطوبة عالية، وهذا يجعل الرياضة الخارجية في نهار الصيف مستحيلة عمليا وخطرة طبيا حتى للرياضيين المتمرنين. الحل الواقعي هو استغلال البيئة المكيفة.",
+            "المشي في المراكز التجارية (المولات) عادة في الصباح الباكر قبل انتشار الزحام هو نشاط حقيقي يمارسه كثير من سكان الخليج ويُوصي به أطباء القلب للمرضى الذين يحتاجون المشي المنتظم دون عوامل بيئية مرهقة. الطوابق الكبيرة توفر مسافات جيدة وأرضية مستوية مناسبة للمشي المنتظم.",
+            "مراجعة نُشرت عام 2025 في مجلة BMJ Global Health للباحثين Alzahrani وزملائهم حول السياسات الصحية في دول الخليج أشارت إلى أن البنية التحتية الداخلية كالمراكز التجارية والملاعب المغطاة تمثل مورداً رئيسياً للنشاط البدني في المناخات الحارة ويجب الترويج لها كوسيلة صحية فعلية وليس كرفاهية.",
+            "للبالغين الذين لا تتوفر لديهم صالة رياضية أو مول قريب، التمارين المنزلية خيار حقيقي: تمارين وزن الجسم كالضغط والسكوات والتمدد، والصعود والنزول على الدرج، كلها تعطي فوائد صحية حقيقية في بيئة مكيفة. إرشادات منظمة الصحة العالمية لعام 2020 التي نشرتها مجلة British Journal of Sports Medicine للباحث Bull وزملائه لا تُفضل الرياضة الخارجية على الداخلية: 150 دقيقة من النشاط المعتدل أسبوعيا تُعطي نفس الفوائد بصرف النظر عن المكان."
+          ]
+        },
+        {
+          "h2": "من أين تبدأ إذا لم تكن رياضيا؟",
+          "paras": [
+            "مراجعة منهجية نُشرت عام 2018 في International Journal of Health Sciences للباحث Al-Hazzaa وجدت أن نسبة الخمول البدني في المملكة العربية السعودية تتجاوز 50 في المئة بين البالغين، مع إشارة إلى أن الحر يُذكر باستمرار كأحد أبرز العوائق. هذا يعني أن كثيرين يريدون الحركة لكنهم لا يعرفون كيف يبدؤون في ظل هذه الظروف.",
+            "إرشادات منظمة الصحة العالمية التي نُشرت عام 2020 في British Journal of Sports Medicine للباحثين Bull وزملائهم تنص على أن 150 إلى 300 دقيقة أسبوعيا من النشاط المعتدل كافية للحد من مخاطر الأمراض المزمنة. هذه الدقائق لا يجب أن تكون كلها في جلسة واحدة: 20 دقيقة يوميا ستة أيام تفي بالغرض تماما.",
+            "خطة البداية المثالية في المناخ الحار: ابدأ بالمشي 20 دقيقة ثلاث مرات أسبوعيا في الأسابيع الأولى، مع التزام بأوقات الصباح الباكر أو المساء المتأخر. بعد شهر أضف 5 دقائق كل أسبوع. لا تقارن نفسك بأحد وتذكر أن الاتساق أهم من الشدة.",
+            "من المفيد متابعة كيف يستجيب جسمك للتمرين في الحر عبر الأسابيع. إذا لاحظت بعد أسبوعين أن نفس المسافة أصبحت أسهل ونبضات قلبك أهدأ لنفس الجهد فهذا دليل جيد على التأقلم. أما إذا استمر الشعور بالصعوبة الشديدة بعد ثلاثة أسابيع من النشاط المنتظم فاستشر طبيبك لأن هناك احتمال لمشكلة قلبية أو أيضية تستحق الفحص."
+          ],
+          "visual": {
+            "type": "timeline",
+            "title": "خطة البداية التدريجية للخامل في المناخ الحار",
+            "items": [
+              {"when": "الأسبوع 1 إلى 2", "what": "مشي خفيف 20 دقيقة 3 مرات أسبوعيا في الصباح الباكر"},
+              {"when": "الأسبوع 3 إلى 4", "what": "مشي 30 دقيقة 4 مرات أسبوعيا أو داخل المول"},
+              {"when": "الشهر الثاني", "what": "إضافة تمارين خفيفة للجزء العلوي في المنزل بعد المشي"},
+              {"when": "الشهر الثالث", "what": "الانتقال لصالة رياضية مكيفة أو رياضة داخلية منظمة"}
+            ]
+          }
+        },
+        {
+          "h2": "الملابس والمعدات المناسبة للحر",
+          "paras": [
+            "اختيار الملابس الرياضية في المناخ الحار يؤثر فعلا على درجة حرارة جسمك. الأقمشة الفنية التي تُبعد الرطوبة عن الجلد (Moisture-wicking) تتيح تبخر العرق بشكل أسرع مما يحسن التبريد. القطن الثقيل يمتص العرق ويبقى رطبا ملتصقا بالجلد مما يقلل التبريد ويزيد الثقل.",
+            "اللون الفاتح يعكس الأشعة الشمسية أكثر من الداكن، وهذا يُحدث فارقا ملموسا في الرياضة الخارجية. قبعة بحافة واسعة تظلل الوجه والرقبة وتحمي من الإشعاع المباشر. واقي الشمس للأجزاء المكشوفة ضروري وليس اختياريا.",
+            "الحذاء الرياضي المناسب لطبيعة النشاط يحمي المفاصل ويمنع الإصابات. في المناطق الحارة تخزن الأرض المعبدة حرارة هائلة وقد تصل درجتها إلى 70 درجة في فصل الصيف، وهو ما يعني أن الحذاء الجيد ذا النعل المعزول ضروري للحماية."
+          ]
+        },
+        {
+          "h2": "الرياضة في رمضان والصيام",
+          "paras": [
+            "الرياضة في رمضان تحتاج تخطيطا مختلفا لأن التوقيت لا يمكن أن يكون قبل الإفطار في حرارة النهار. أفضل خيارين هما التمرين بعد الإفطار بساعة إلى ساعتين أي في ساعات المساء حين يكون الجو قد لطف نسبيا، أو قبيل الإفطار مباشرة (آخر ساعة أو ساعتين من الصيام) مع تمارين خفيفة فقط.",
+            "التمرين بعد الإفطار يتيح لك الترطيب والتغذية ويكون في وقت أبرد من النهار. احرص على الانتظار ساعة على الأقل بعد الإفطار قبل التمرين حتى يبدأ الهضم. تمارين المقاومة والتمدد تناسب هذا الوقت بشكل أفضل من التمارين القلبية الشديدة.",
+            "لا تبالغ في شدة التمرين في رمضان. هدفك في هذا الشهر هو المحافظة على مستوى النشاط ومنع الضمور العضلي، وليس بناء لياقة جديدة. الإفراط في التمرين مع الصيام يزيد من احتمال الإصابة والإجهاد."
+          ]
+        },
+        {
+          "h2": "الملابس والمعدات المناسبة للحر",
+          "paras": [
+            "اختيار الملابس الرياضية في المناخ الحار يؤثر فعلا على درجة حرارة جسمك. الأقمشة الفنية التي تُبعد الرطوبة عن الجلد (Moisture-wicking) تتيح تبخر العرق بشكل أسرع مما يحسن التبريد. القطن الثقيل يمتص العرق ويبقى رطبا ملتصقا بالجلد مما يقلل التبريد ويزيد الثقل.",
+            "اللون الفاتح يعكس الأشعة الشمسية أكثر من الداكن، وهذا يُحدث فارقا ملموسا في الرياضة الخارجية. قبعة بحافة واسعة تظلل الوجه والرقبة وتحمي من الإشعاع المباشر. واقي الشمس للأجزاء المكشوفة ضروري وليس اختياريا لمن يمارس الرياضة في الهواء الطلق صباحا.",
+            "في المنطقة العربية حيث يرتدي كثيرون ملابس فضفاضة أو محتشمة، الاختيار المناسب من الأقمشة الخفيفة المسامية يجعل الرياضة أكثر راحة بشكل ملحوظ. لا يجب أن تكون الملابس ضيقة لكنها يجب أن تكون خفيفة مسامية تسمح للهواء بالتدفق. الحذاء الرياضي الجيد بنعل مناسب يحمي القدمين من حرارة الرصيف التي قد تصل إلى 60 أو 70 درجة في الصيف."
+          ],
+          "visual": {
+            "type": "stats",
+            "items": [
+              {"value": "2 أسبوع", "label": "مدة التأقلم الحراري الكامل للجسم", "tone": "info"},
+              {"value": "150 دقيقة", "label": "نشاط معتدل أسبوعيا كافٍ وفق منظمة الصحة العالمية", "tone": "good"},
+              {"value": "70 درجة", "label": "حرارة الرصيف الأسفلتي في ذروة الصيف الخليجي", "tone": "warn"}
+            ]
+          }
+        }
+      ],
+      "tie": "في تطبيق صحتك يمكنك تتبع نشاطك البدني اليومي وتسجيل كمية الماء التي تشربها أثناء التمرين. ضبط تذكيرات لأوقات التمرين الصباحية يساعدك على الالتزام بالتوقيت الأكثر أمانا في الحر.",
+      "faqs": [
+        {
+          "q": "هل الرياضة في الحر تحرق سعرات أكثر؟",
+          "a": "نعم، الجسم يحرق طاقة إضافية لتبريد نفسه في الحر. لكن هذا يأتي بتكلفة: ضغط أكبر على القلب وفقدان أكثر للسوائل. السعرات الإضافية لا تستحق المجازفة إذا لم تكن قد تكيفت مع الحر، والأولوية دائما للسلامة."
+        },
+        {
+          "q": "هل المشي في المول رياضة حقيقية؟",
+          "a": "نعم تماما. المشي بوتيرة جيدة لمدة 30 دقيقة سواء في الشارع أو المول يعطي نفس الفوائد القلبية الوعائية. البيئة المكيفة في المول تجعلها خيارا أفضل أحيانا في الصيف الخليجي، خاصة للمبتدئين وكبار السن وذوي الأمراض المزمنة."
+        },
+        {
+          "q": "متى يصبح الحر خطرا لدرجة أن لا تمارس الرياضة خارجا؟",
+          "a": "بشكل عام، إذا تجاوزت درجة الحرارة 40 درجة مع رطوبة فوق 60 في المئة، فمعظم الناس لا ينبغي أن يمارسوا رياضة خارجية مجهدة. في هذه الظروف انتقل للخيارات الداخلية المكيفة. الرياضيون المتأقلمون قد يتحملون أكثر لكن حتى هم يُقللون الشدة."
+        },
+        {
+          "q": "كيف أعرف أنني أصبت بالإجهاد الحراري أو ضربة الشمس؟",
+          "a": "الإجهاد الحراري: تعرق غزير، ضعف، غثيان، دوار، جلد بارد رطب. ضربة الشمس أشد خطرا: حرارة جسم مرتفعة جدا، توقف التعرق، ارتباك، فقدان وعي. ضربة الشمس حالة طارئة تستوجب الإسعاف وتبريد الجسم فورا بكل وسيلة ممكنة."
+        },
+        {
+          "q": "هل يمكن ممارسة الرياضة في الحر إذا كنت مريضا بالضغط أو السكري؟",
+          "a": "نعم ولكن بعد استشارة طبيبك. الحر يؤثر على ضغط الدم وسكر الدم، وبعض أدوية الضغط قد تقلل قدرتك على التعرق. مريض السكري يجب أن يراقب سكره قبل وبعد التمرين ويحمل معه سكراً احتياطياً."
+        },
+        {
+          "q": "هل المشروبات الرياضية أفضل من الماء في الحر؟",
+          "a": "للتمرين الذي يتجاوز الساعة في حرارة شديدة، نعم. المشروبات الرياضية تعوض الأملاح المفقودة مع العرق. لكن للرياضة الخفيفة والمشي أقل من ساعة، الماء العادي كافٍ تماما وأرخص وأسهل. المشروبات الرياضية فيها سعرات قد تلغي فوائد التمرين إذا كان هدفك إنقاص الوزن."
+        },
+        {
+          "q": "هل التمرين الداخلي في المنزل يكفي في الصيف؟",
+          "a": "نعم تماما. تمارين المقاومة والتمدد واليوغا وتمارين وزن الجسم في البيت تُعطي فوائد صحية حقيقية دون الحاجة للخروج. إضافة بعض تمارين القلب الخفيفة كالقفز في مكانك أو صعود السلم تُكمل الصورة. المهم الانتظام لا الموقع."
+        }
+      ]
+    },
+    "en": {
+      "title": "Exercising Safely When It Is 45 Degrees Outside",
+      "desc": "How to keep moving in extreme heat: the best timing, hydration rules, indoor options including mall walking, heat acclimatisation, and how to start from zero safely.",
+      "keywords": "exercise hot climate, workout in heat, heat acclimatisation, hydration during exercise, Gulf exercise, indoor workout summer, mall walking, exercise Ramadan, sedentary Arab, heat safety sport",
+      "h1": "Exercising in Extreme Heat: A Safe and Practical Guide for Hot Climates",
+      "takeaways": [
+        "In serious heat, exercise before 7 am or after sunset to avoid the hottest hours of the day.",
+        "Drink water before, during and after exercise. Do not wait until you feel thirsty.",
+        "Your body takes two to three weeks to acclimatise to heat. Start easy in the first days of summer.",
+        "Mall walking and indoor gyms are a genuine and medically valid option in Gulf summers.",
+        "Stop immediately and get into shade or air conditioning if you feel dizzy, nauseous or notice you have stopped sweating."
+      ],
+      "sections": [
+        {
+          "h2": "Why does heat make exercise harder?",
+          "paras": [
+            "When you exercise your body produces heat as a byproduct of muscle work. In a mild climate, the body disperses this heat efficiently through sweating and increased blood flow to the skin. In very hot weather, that heat transfer becomes much harder: the temperature difference between your body and the air is smaller, and your heart must pump hard to serve both working muscles and the skin simultaneously.",
+            "A major review published in Physiological Reviews in 2021, titled 'Exercise under heat stress' by Periard, Eijsvogels, Daanen and colleagues, shows that heat stress substantially reduces exercise capacity even in fit individuals, and that the cardiovascular system under combined exercise and heat load is genuinely more strained than either alone. This is not a matter of willpower: it is physiology.",
+            "High humidity compounds the problem. Sweat evaporating from the skin is what actually cools the body. In humid air, evaporation is slower, so the cooling effect of sweating is diminished even as you sweat more. This is why humid heat in coastal parts of the Gulf, Yemen and the Levant can feel more dangerous than dry heat at the same temperature."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "Stop exercising immediately if you notice these signs",
+            "items": [
+              "Dizziness or feeling that the ground is moving",
+              "Nausea or an urge to vomit",
+              "Sweating stops despite the heat",
+              "Sudden severe headache",
+              "Confusion or difficulty thinking clearly",
+              "Severe muscle cramping that does not ease with rest"
+            ]
+          }
+        },
+        {
+          "h2": "When is the right time to exercise in summer?",
+          "paras": [
+            "Timing is the single most important decision for outdoor exercise in the Arab region during summer. Peak temperatures in most of the Gulf, Iraq and Egypt fall between noon and 6 pm. Avoiding this window entirely for outdoor physical activity is not excessive caution: it is basic safety.",
+            "The two best windows are before 7 am, when the ground is still releasing overnight cool and air temperatures are typically between 28 and 35 degrees, and roughly one hour after sunset, when solar radiation has ended and the air begins to cool. Early morning is usually better for longer efforts; evenings suit those who do not rise early.",
+            "Consensus recommendations published in British Journal of Sports Medicine in 2015 by Racinais and colleagues advise reducing exercise intensity and duration at peak heat, favouring early morning or late evening sessions, and postponing hard efforts until heat acclimatisation is complete. These were written for competitive athletes: for the general public starting out, the caution is even more applicable."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Recommended outdoor exercise windows in summer",
+            "head": ["Time", "Typical temperature", "Recommendation"],
+            "rows": [
+              ["Before 7 am", "28 to 35 degrees C", "Best window for outdoor exercise"],
+              ["7 am to noon", "Rising quickly", "Possible with careful hydration and moderate pace"],
+              ["Noon to 6 pm", "40 to 48 degrees C", "Avoid outdoor exertion entirely"],
+              ["One hour after sunset", "Starting to drop", "Good for walking and light activity"]
+            ]
+          }
+        },
+        {
+          "h2": "Heat acclimatisation: two weeks that change everything",
+          "paras": [
+            "Heat acclimatisation is the body's process of adapting to hot conditions through repeated graded exposure while exercising. Over 10 to 14 days of daily activity in the heat, measurable physiological changes occur: blood plasma volume expands, sweating begins earlier and at a higher rate, the sweat becomes more dilute conserving salt, and cardiovascular strain at a given effort level decreases. The body becomes genuinely better at cooling itself.",
+            "A 2021 roundtable published in Journal of Athletic Training by Adams, Hosokawa, Casa and colleagues on heat acclimatisation in sport found that full adaptation takes 10 to 14 days and that the first three to five days are the highest-risk period, because the body has not yet built its heat-coping capacity. This window requires the greatest caution in terms of intensity, duration and external conditions.",
+            "The practical implication: if you exercised indoors all winter and now want to resume outdoor activity in summer, your body is not acclimatised. Start with 20 to 25 minutes of light walking in the early morning during the first week. Add time and pace gradually over two weeks before any sustained effort in the heat."
+          ]
+        },
+        {
+          "h2": "Hydration: how much and when",
+          "paras": [
+            "Thirst is a delayed indicator of dehydration. By the time you feel thirsty, your blood volume has already dropped enough to reduce both physical performance and cognitive function. Building a pre-emptive hydration habit matters far more than trying to catch up once thirsty.",
+            "General guidance for moderate exercise in heat is to drink 200 to 250 millilitres (a large glass) every 15 to 20 minutes during activity, adjusted for body size, exercise intensity and humidity. A simple and reliable check is urine colour: pale yellow indicates good hydration; dark yellow or amber means you need more water. Aim to go into a session already pale yellow.",
+            "Sports drinks containing carbohydrates and electrolytes are useful for exercise lasting more than one hour in serious heat, because sweat losses include sodium and potassium alongside water. For light to moderate exercise under an hour, plain water works perfectly well and costs nothing. Caffeinated drinks and carbonated beverages are poor substitutes during exercise because caffeine has a mild diuretic effect and carbonation limits the volume most people can drink."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "Hydration plan for exercising in heat",
+            "items": [
+              "Drink 500 ml (a small bottle) one to two hours before starting exercise",
+              "Drink 200 ml (a large glass) every 15 to 20 minutes during exercise",
+              "After exercise drink to replace sweat losses: roughly 500 ml per 0.5 kg lost",
+              "Check urine colour: aim for pale yellow throughout the day",
+              "Avoid alcohol before or after hot-weather exercise as it accelerates dehydration"
+            ]
+          }
+        },
+        {
+          "h2": "Indoor options: mall walking is real exercise",
+          "paras": [
+            "In parts of the Gulf, summer air temperatures reach 45 to 48 degrees with high humidity, making outdoor daytime exercise genuinely dangerous for almost everyone regardless of fitness level. Treating indoor alternatives as less valid than outdoor exercise misses the point: the health benefits of regular movement are the same regardless of setting.",
+            "Walking in shopping malls, particularly early in the morning before crowds build, is practiced widely across the Gulf and is actively recommended by cardiologists for patients who need regular walking but cannot tolerate environmental heat. The flat even surfaces, consistent temperature and accessibility make malls a practical venue for the general public and for older adults or those with chronic conditions.",
+            "A 2025 review published in BMJ Global Health by Alzahrani and colleagues on physical activity policy across GCC countries noted that indoor infrastructure including malls and covered sports facilities represents a primary resource for physical activity in hot climates and should be promoted as a genuine health asset. The WHO physical activity guidelines published in 2020 make no distinction between indoor and outdoor exercise: 150 to 300 minutes of moderate activity per week carries the same benefits regardless of where it happens."
+          ]
+        },
+        {
+          "h2": "Starting from scratch in a hot climate",
+          "paras": [
+            "A 2018 systematic review in International Journal of Health Sciences by Al-Hazzaa found that over 50 percent of adults in Saudi Arabia were insufficiently active, with heat consistently cited as a primary barrier. This figure is likely representative of much of the Gulf region. It shows that the challenge is real and shared, and that starting from inactivity in a hot environment needs a specific approach, not generic gym advice.",
+            "The WHO 2020 physical activity guidelines set a target of 150 to 300 minutes per week of moderate-intensity activity. That is achievable in small daily pieces: three 20-minute walks on weekdays, two longer sessions at the weekend, or a mix of indoor and outdoor activity across the week depending on temperature. No single session needs to be long or hard to contribute to the total.",
+            "A realistic first-month plan for someone starting from inactivity in a hot climate: week one, walk 20 minutes three times per week in the early morning. Week two, increase to 25 minutes four times per week, or use an air-conditioned mall. Weeks three and four, add a fifth day or increase pace. Month two, introduce light resistance exercises at home on non-walking days. The goal is consistency over months, not transformation in weeks."
+          ]
+        },
+        {
+          "h2": "Exercising during Ramadan",
+          "paras": [
+            "Exercising while fasting during Ramadan requires a different plan because daytime heat and no fluid intake cannot safely combine. The two practical options are exercising after iftar, ideally one to two hours after eating, or exercising in the final hour or two before iftar with very light intensity only.",
+            "Post-iftar exercise takes advantage of cooler evening temperatures, available hydration and some fuel from the meal. Wait at least an hour after eating before starting any sustained effort. Resistance training and stretching suit this timing well. If you prefer cardiovascular exercise, choose moderate intensity rather than pushing hard in the first Ramadan weeks.",
+            "The goal during Ramadan is to maintain your activity level and preserve muscle, not to achieve new fitness gains. Overexertion combined with fasting increases injury risk and may slow recovery. Many people find that 30 minutes of moderate activity four or five evenings per week is both achievable and sufficient to maintain conditioning through the month."
+          ]
+        },
+        {
+          "h2": "Clothing and gear for hot conditions",
+          "paras": [
+            "Clothing choice genuinely affects how your body manages heat during exercise. Moisture-wicking technical fabrics pull sweat away from the skin surface and allow faster evaporation, which improves cooling. Heavy cotton absorbs sweat and stays wet against the skin, reducing evaporative cooling and adding weight. Light-coloured garments reflect more solar radiation than dark ones, a meaningful difference during outdoor morning exercise.",
+            "A wide-brimmed hat or cap shading the face and neck reduces direct radiation loading significantly. Sunscreen on exposed skin protects against UV damage and prevents the skin surface changes that can impair sweating over time. In very humid conditions, some people find lightweight ventilated gloves useful if they need to grip equipment with sweating hands.",
+            "Footwear matters in a specific way in the region: paved and asphalt surfaces in summer reach temperatures of 60 to 70 degrees. Well-insulated shoes with good soles protect the feet from this conducted heat and from the impact-related injury risk that increases when muscles fatigue faster in heat. Replace worn-out athletic shoes rather than continuing with depleted cushioning.",
+            "In the Arab and Muslim context where many people, particularly women, exercise in modest or loose-fitting clothing, fabric choice becomes even more important. Loose garments can work well if they are made from breathable, lightweight technical fabric rather than heavy cotton. The goal is to keep fabric from trapping heat against the body. Many sports brands now produce full-coverage activewear designed for this purpose. The specific style is much less important than the fabric weight and breathability."
+          ]
+        },
+        {
+          "h2": "Monitoring how your body is coping",
+          "paras": [
+            "Paying attention to how you feel during and after exercise in heat is one of the most important habits you can build. Early warning signs that your body is under heat stress include a heart rate that feels unusually high for the effort level, a strong desire to stop that comes on faster than usual, and headache or nausea that starts during exercise. These are signals to slow down immediately, find shade and drink water.",
+            "A simple tool used by athletes training in the heat is to track resting heart rate each morning before getting out of bed. An elevated morning heart rate of more than five to eight beats above your normal baseline often signals incomplete recovery, whether from heat stress, dehydration or inadequate sleep. On those days, reduce exercise intensity or switch to a gentle indoor session rather than pushing through.",
+            "Over two to three weeks of gradual heat exposure with moderate exercise, you should notice that a given effort level feels easier, your heart rate at that effort is lower, and you begin sweating sooner into exercise (an indicator of improved heat adaptation rather than a problem). If after three weeks of regular activity you still find heat exercise as difficult as day one, that is worth mentioning to a doctor as it may point to a cardiovascular or metabolic issue worth checking."
+          ],
+          "visual": {
+            "type": "stats",
+            "items": [
+              {"value": "10 to 14 days", "label": "to complete heat acclimatisation with regular exercise", "tone": "info"},
+              {"value": "150 minutes", "label": "moderate activity per week recommended by WHO", "tone": "good"},
+              {"value": "70 C", "label": "asphalt surface temperature at peak Gulf summer", "tone": "warn"}
+            ]
+          }
+        }
+      ],
+      "tie": "In Sihtak you can log your daily physical activity, record water intake and note how you felt during exercise in the heat. Tracking over weeks lets you see whether your heat tolerance and endurance are improving, and gives you something concrete to share with your doctor if heat-related symptoms become a concern.",
+      "faqs": [
+        {
+          "q": "Does exercising in heat burn more calories?",
+          "a": "Yes, slightly, because the body uses extra energy to cool itself. But this comes with increased cardiovascular stress and fluid loss. The additional calorie burn is not a reason to choose the heat over a cooler option if safety is at stake, and for fat loss the exercise habit matters far more than a small temperature bonus."
+        },
+        {
+          "q": "Is mall walking real exercise?",
+          "a": "Yes. Brisk walking for 30 minutes in a mall provides the same cardiovascular benefits as the same walk outdoors. The air-conditioned environment makes it a safer and more accessible option during Gulf summers, particularly for beginners, older adults and people with heart or lung conditions."
+        },
+        {
+          "q": "At what temperature is outdoor exercise too dangerous?",
+          "a": "There is no single absolute temperature, because humidity matters as much as temperature. As a practical rule, when the temperature exceeds 40 degrees with humidity above 60 percent, sustained outdoor exercise becomes dangerous for most people. Move to air-conditioned indoor options in those conditions."
+        },
+        {
+          "q": "How do I know if I have heat exhaustion versus heat stroke?",
+          "a": "Heat exhaustion: heavy sweating, weakness, nausea, dizziness, cool damp skin. Treat by moving to shade, cooling with water and resting. Heat stroke is more serious: very high body temperature, sweating stops, confusion or loss of consciousness. Heat stroke is a medical emergency requiring immediate cooling and an ambulance call."
+        },
+        {
+          "q": "Can I exercise in the heat if I have high blood pressure or diabetes?",
+          "a": "Yes, but discuss it with your doctor first. Heat affects both blood pressure and blood sugar, and some blood pressure medications reduce the body's ability to sweat. People with diabetes should check blood sugar before and after heat exercise and carry fast-acting sugar in case of hypoglycaemia."
+        },
+        {
+          "q": "Are sports drinks better than water in the heat?",
+          "a": "For exercise lasting more than one hour in serious heat, yes. Sports drinks replace sodium and potassium lost in sweat alongside the water. For light to moderate exercise under an hour, plain water is completely adequate and has no added sugar. If weight management is a goal, plain water is the better default."
+        },
+        {
+          "q": "Can home workouts replace outdoor exercise in summer?",
+          "a": "Completely. Resistance exercises, body weight training, yoga and light cardio at home deliver real health benefits without environmental risk. Adding some stepping in place or stair climbing covers cardiovascular fitness. The evidence shows that consistency over months matters far more than the specific setting."
+        }
+      ]
+    }
+  }
+}

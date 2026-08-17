@@ -1,0 +1,336 @@
+{
+  "slug": "healthcare-in-syria-today",
+  "category": "regional-health",
+  "chip_ar": "صحة إقليمية",
+  "chip_en": "Regional Health",
+  "date_iso": "2026-07-28",
+  "sources": [
+    {
+      "label": "Jamal Z, Alameddine M, Diaconu K et al: Health system resilience in the face of crisis: analysing the challenges, strategies and capacities for UNRWA in Syria, Health policy and planning, 2020",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31625558/"
+    },
+    {
+      "label": "Ahmad B, Fouad FM, Elias M et al: Health system challenges for the management of cardiovascular disease and diabetes: an empirical qualitative study from Syria, International journal of public health, 2015",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25103457/"
+    },
+    {
+      "label": "Swed S, Alibrahim H, Bohsas H et al: Assessment the awareness toward hypertension and diabetes mellitus: Syrian cross sectional study, BMC public health, 2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37118706/"
+    },
+    {
+      "label": "Doocy S, Lyles E, Roberton T et al: Prevalence and care-seeking for chronic diseases among Syrian refugees in Jordan, BMC public health, 2015",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26521231/"
+    },
+    {
+      "label": "Hamza MK, Hicks MH: Implementation of mental health services in conflict and post-conflict zones: Lessons from Syria, Avicenna journal of medicine, 2021",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33520783/"
+    },
+    {
+      "label": "Eneh SC, Admad S, Nazir A et al: Cholera outbreak in Syria amid humanitarian crisis: the epidemic threat, future health implications, and response strategy, Frontiers in public health, 2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37408746/"
+    }
+  ],
+  "content": {
+    "ar": {
+      "title": "الرعاية الصحية في سوريا اليوم: دليل عملي",
+      "desc": "خريطة عملية لما هو متاح من مستشفيات حكومية وعيادات خاصة وخدمات المنظمات الإنسانية، وما تكلفه، وكيف تحصل على رعاية الأمراض المزمنة حين تتعطل سلاسل الإمداد.",
+      "keywords": "رعاية صحية في سوريا, مستشفى حكومي سوريا, عيادة خاصة دمشق, منظمات صحية سوريا, صيدلية سوريا, أمراض مزمنة سوريا, كيف أحصل على علاج في سوريا, رسوم طبية سوريا",
+      "h1": "الرعاية الصحية في سوريا اليوم: من أين تبدأ وكيف تحصل على ما تحتاجه",
+      "takeaways": [
+        "المستشفيات الحكومية رسومها منخفضة جداً لكن إمكاناتها تتباين بشدة بحسب المحافظة والتمويل المتاح.",
+        "العيادات الخاصة والمستشفيات الخاصة هي الخيار الأسرع والأكثر توافراً للإمكانات في المدن الكبرى لكن بتكلفة أعلى.",
+        "المنظمات الإنسانية كمنظمة الصحة العالمية والهلال الأحمر العربي السوري وغيرها تُشغّل نقاط رعاية مجانية أو بأسعار مدعومة في مناطق عدة.",
+        "الصيدلية في سوريا نقطة رعاية صحية أولى فعلية للحالات البسيطة، والصيدلاني يصرف أدوية بدون وصفة أكثر مما هو معتاد في دول أخرى.",
+        "للأمراض المزمنة كالسكري وضغط الدم، وجود ملف صحي شخصي مكتوب لك هو أهم أداة لضمان استمرارية العلاج حين تتعطل قنوات الحصول على الأدوية."
+      ],
+      "sections": [
+        {
+          "h2": "ما الذي لا يزال يعمل في المنظومة الصحية السورية؟",
+          "paras": [
+            "يظل القطاع الصحي السوري قائماً رغم الضغوط الهائلة التي تعرض لها على مدى سنوات. وزارة الصحة السورية تدير شبكة من المستشفيات الحكومية في أغلب المحافظات، من دمشق وحلب إلى اللاذقية وحمص وحماة، فضلاً عن مراكز الرعاية الصحية الأولية المنتشرة في الأحياء. هذه المنشآت تقدم خدماتها بتكاليف رمزية أو دون رسوم للحالات الطارئة.",
+            "القطاع الخاص نشيط ويملأ فجوات كبيرة، خاصة في المدن الكبرى. في دمشق وحلب وكثير من المدن تجد مستشفيات خاصة وعيادات تخصصية تعمل بكفاءة أعلى من المرافق الحكومية، مع أجهزة أحدث وأطباء بعضهم درسوا في الخارج. التكلفة أعلى لكنها ليست خارج المتناول للإجراءات البسيطة والاستشارات.",
+            "المنظمات الدولية والمحلية الإنسانية تُشغّل شبكة موازية من نقاط الرعاية الصحية. منظمة الصحة العالمية (WHO) وصندوق الأمم المتحدة للسكان (UNFPA) والهلال الأحمر العربي السوري ومنظمات مثل أطباء بلا حدود والمنظمة الدولية للهجرة تدعم عيادات وفرق متنقلة في مناطق متعددة، خاصة في المناطق التي تكثر فيها العائلات النازحة أو المناطق الأقل حظاً من الخدمات الحكومية."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "مصادر الرعاية الصحية في سوريا",
+            "head": ["مصدر الرعاية", "التكلفة التقريبية", "متى تلجأ إليه", "الملاحظة"],
+            "rows": [
+              ["مستشفى حكومي", "منخفضة جداً أو مجانية للطوارئ", "حالات الطوارئ والجراحة الكبرى", "الإمكانات تتباين بين المحافظات"],
+              ["عيادة خاصة", "متوسطة إلى مرتفعة", "استشارة مخططة، حالة مزمنة", "الأسرع والأكثر انتظاماً في المدن"],
+              ["مستشفى خاص", "مرتفعة", "جراحة، تنويم، فحوصات متقدمة", "الأجهزة الأحدث عادة"],
+              ["خدمات الهلال الأحمر والمنظمات", "مجانية أو مدعومة", "مناطق نائية، نازحون، أمراض مزمنة", "الاتصال للمعرفة بمنطقتك"],
+              ["الصيدلية", "سعر الدواء فقط", "حالات بسيطة، متابعة مزمن", "نقطة رعاية أولية فعلية"]
+            ]
+          }
+        },
+        {
+          "h2": "المستشفيات الحكومية: كيف تستفيد منها بشكل فعلي؟",
+          "paras": [
+            "للدخول إلى المستشفى الحكومي في حالة طارئة لا تحتاج إلى أي تصاريح مسبقة، توجه مباشرة إلى قسم الطوارئ في أقرب مستشفى حكومي معياري. الرسوم الطارئة عادة رمزية جداً أو معفاة. ابقَ مع المريض في أغلب الأحيان، فالمرافق يساعد في التواصل مع الطاقم ومتابعة التعليمات.",
+            "للزيارات المخططة كالاستشارات والفحوصات والعمليات الاختيارية، يجب في الغالب التوجه إلى العيادة الخارجية في الصباح الباكر وأخذ الدور. في المستشفيات التعليمية الكبرى مثل مستشفى المجتهد في دمشق أو جامعة حلب، تجد أطباء متخصصين بمستوى عالٍ مقابل رسوم حكومية. الانتظار قد يكون طويلاً لكن الكفاءة الطبية موجودة.",
+            "من الأهمية بمكان معرفة أي مستشفى يخدم حالتك. ليست كل المستشفيات الحكومية مجهزة بنفس المستوى. المستشفيات الجامعية ومستشفيات المحافظات الكبرى لديها وحدات أكثر تخصصاً من المستشفيات الريفية. إن كانت حالتك تتطلب جراحة قلب أو جهازاً للتصوير المتقدم، قد تحتاج إلى التنقل إلى المدن الكبرى، وهذا واقع ينبغي أخذه بالحسبان مسبقاً.",
+            "حين تزور مستشفى حكومياً، خذ معك وثائقك الثبوتية ولو نسخة منها، لأن بعض المستشفيات تطلبها عند التسجيل، خاصة في العمليات والتنويم. قد يُطلب منك أيضاً إحضار بعض الأدوية أو المستلزمات الطبية الأساسية التي لا تتوفر دائماً في المستشفى، والصيدلاني أو المرافق يساعدك في تحديد ذلك مسبقاً."
+          ]
+        },
+        {
+          "h2": "العيادات والمستشفيات الخاصة: ما تتوقعه وما تسأل عنه",
+          "paras": [
+            "العيادة الخاصة في المدن السورية عادة أسرع في استقبالك وأكثر استقراراً في المواعيد. رسوم الاستشارة تتفاوت بحسب المدينة والتخصص، لكن في الغالب يُطلب منك الدفع نقداً مسبقاً. اسأل عن الرسوم بصراحة قبل الدخول وهذا أمر مقبول تماماً، ولا يُعدّ إحراجاً.",
+            "المستشفيات الخاصة الكبيرة في دمشق وحلب تملك أجهزة تصوير حديثة كالأشعة المقطعية (CT) والرنين المغناطيسي (MRI) والمنظار، وهي أكثر انتظاماً في الصيانة والتحديث من المنافذ الحكومية. كما أن بعضها يوفر المختبرات التشخيصية بمستوى جيد. حين تسأل عن مختبر، اسأل إن كان معتمداً أو إن كانوا يشاركون في برنامج مراقبة الجودة الخارجية، فهذا السؤال وحده يخبرك الكثير.",
+            "الأطباء في القطاع الخاص السوري كثيراً ما يعملون في المستشفى الحكومي في الصباح ويفتحون عياداتهم في المساء. لذلك قد ترى نفس الطبيب الاستشاري في كلا القطاعين، مما يعني أن الكفاءة الطبية ليست حكراً على جانب واحد، بل الفارق غالباً في الراحة والانتظار والأجهزة المتاحة.",
+            "حين تبحث عن طبيب متخصص في مدينتك، الطريقة الأكثر موثوقية لا تزال التوصيات الشخصية من الأقارب والجيران والصيادلة الذين يعرفون السمعة المحلية. الصيدلاني المعتاد في محلتك هو مورد معلومات جيد يعرف من يأخذ المرضى على محمل الجد في محافظتك. لا تتردد في سؤاله."
+          ]
+        },
+        {
+          "h2": "الخدمات المجانية والمدعومة: كيف تجدها؟",
+          "paras": [
+            "في مناطق عديدة من سوريا تعمل الهيئة السورية للهلال الأحمر بشكل نشط توفر من خلالها خدمات طبية مجانية أو مدعومة ومواد صحية ودعماً غذائياً. للتواصل معها يكفي في أغلب الأحيان الاستفسار من المجتمع المحلي أو في مراكز الرعاية الصحية الأولية القريبة.",
+            "دراسة نشرتها مجلة Health Policy and Planning عام 2020 وثّقت كيف استمرت خدمات UNRWA الصحية في سوريا في توفير الرعاية للمجتمعات الفلسطينية والمحيطة بها رغم التحديات الجمّة، معتمدة على شبكة من المراكز والعيادات المنتشرة. هذا النموذج من الصمود الوظيفي موجود في أكثر من جهة.",
+            "منظمة الصحة العالمية ومنظمات أخرى تدعم أيضاً ما يُسمى بالفرق الطبية المتنقلة، وهي فرق تصل إلى مناطق أكثر صعوبة في الوصول إليها. متابعة الإعلانات على وسائل التواصل الاجتماعي أو لوحات الإعلانات في مراكز الأحياء أو مجالس المحليات هي الطريقة الأسرع لمعرفة الخدمات المتاحة في منطقتك بالتحديد."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "info",
+            "title": "أين تبحث عن خدمات طبية مجانية أو مدعومة",
+            "items": [
+              "الهلال الأحمر العربي السوري: موجود في أغلب المحافظات ويقدم رعاية أولية ومواد طبية",
+              "مراكز الرعاية الصحية الأولية الحكومية: رسوم رمزية جداً وغالباً مجانية للأطفال والحوامل",
+              "أطباء بلا حدود ومنظمات طبية دولية: تعمل في مناطق محددة، تحقق من وجودها في محافظتك",
+              "المنظمة الدولية للهجرة ومنظمة الصحة العالمية: تدعم عيادات متنقلة وتوزع أدوية مزمنة"
+            ]
+          }
+        },
+        {
+          "h2": "الصيدلية: نقطة رعاية أولى فعلية",
+          "paras": [
+            "في السياق السوري كما في كثير من دول المنطقة، الصيدلية ليست مجرد محل لبيع الأدوية. الصيدلاني يُشخّص الحالات البسيطة ويصف العلاج غير الموصوف أصلاً أو الذي يعرفه الزبون بالاسم. هذه ممارسة شائعة ومقبولة اجتماعياً، وكثيراً ما توفر رحلة إلى الطبيب للأمراض الخفيفة.",
+            "هذه الميزة الاجتماعية تأتي مع تحذير مهم: الأدوية التي تحتاج وصفة طبية في دول أخرى تُباع بلا وصفة في الصيدلية السورية، وهذا يشمل المضادات الحيوية ومضادات الالتهاب وبعض الكورتيزونات. استخدام هذه الأدوية دون تشخيص دقيق قد يُؤخر كشف المشكلة الحقيقية أو يُضعف الاستجابة مستقبلاً. الصيدلاني يفيدك في الحالة البسيطة، لكن الاعتماد عليه وحده في الأمراض المتكررة أو غير المستجيبة خطأ.",
+            "لمن يدير مرضاً مزمناً كالسكري أو الضغط أو الغدة الدرقية، الصيدلية هي المكان الذي يحصل فيه على الدواء الشهري. احتفظ بوصفتك الطبية المكتوبة أو بصورة منها في هاتفك، لأن توفر الأدوية يتغير، وحين يغيب دواؤك المعتاد ستحتاج اسم المادة الفعالة لطلب البديل المتاح."
+          ]
+        },
+        {
+          "h2": "إدارة الأمراض المزمنة حين تتغير إمكانات الحصول على الأدوية",
+          "paras": [
+            "دراسة نشرتها مجلة International Journal of Public Health عام 2015 وثّقت تحديات إدارة الأمراض المزمنة كأمراض القلب والسكري في السياق السوري قبل سنوات من التدهور الأشد. كانت الفجوة بين الاحتياج والموارد كبيرة حتى في تلك المرحلة، وقد اتسعت منذ ذلك الحين. أكثر من ثلاثة أرباع الذين أُجريت معهم المقابلات في تلك الدراسة أفادوا بصعوبات في الحصول على أدويتهم بانتظام.",
+            "الخطوة الأولى لكل من يعاني من مرض مزمن هي معرفة اسم الدواء الأصلي لا فقط اسمه التجاري. اسأل طبيبك أو الصيدلاني عن المادة الفعالة (International Non-proprietary Name) وسجّلها. حين يغيب العلامة التجارية المعتادة من الصيدليات، يسهل طلب نسخة بديلة بنفس المادة الفعالة وبجرعة معادلة.",
+            "احتفظ بمخزون لمدة شهر واحد على الأقل حين تتوفر الأدوية، خاصة أدوية القلب ومخففات الدم والأنسولين ومثبطات المناعة، وهي الأصعب استبدالاً حين تشح. لا تنتظر حتى آخر حبة لإعادة الشراء لأن الانقطاع المفاجئ في هذه الأدوية قد يكون خطراً.",
+            "تذكر أيضاً أن بعض الأدوية المزمنة تتطلب تخزيناً خاصاً كالأنسولين الذي يحتاج التبريد. في حالات انقطاع الكهرباء الطويلة، احتفظ بالأنسولين في وعاء مبرد بماء بارد مغلق ومظلل، ويمكنه البقاء صالحاً عند درجة حرارة لا تتجاوز 25 درجة مئوية لمدة تصل إلى أربع أسابيع. تجنب تعريضه للشمس المباشرة أو الحرارة الشديدة بأي حال."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "خطوات إدارة الدواء المزمن في بيئة غير مستقرة",
+            "items": [
+              "سجّل اسم المادة الفعالة لكل دواء تأخذه وليس فقط الاسم التجاري",
+              "احتفظ بصورة من وصفتك الطبية في هاتفك دائماً",
+              "حافظ على مخزون شهر واحد على الأقل حين تتوفر الأدوية",
+              "تعرّف على البدائل المتاحة مع صيدلانيك المعتاد",
+              "في حال انقطاع الدواء تماماً، لا توقفه فجأة بل راجع طبيباً لمعرفة الحل الآمن"
+            ]
+          }
+        },
+        {
+          "h2": "المختبرات التشخيصية: كيف تختار وتثق؟",
+          "paras": [
+            "المختبرات الخاصة منتشرة في المدن السورية وتؤدي معظم الفحوصات الشائعة من تحليل الدم الكامل والسكري والوظائف الكبدية والكلوية وفحوصات الغدة الدرقية. أسعارها معقولة نسبياً مقارنة بدول الجوار. المشكلة أن مستوى الجودة يتفاوت.",
+            "لاختيار مختبر موثوق، اسأل عن نظام مراقبة الجودة الداخلية، وعن مشاركتهم في برامج المقارنة الخارجية. المختبر الذي يُرسل عينات للمقارنة مع مختبرات أخرى دورياً ويتلقى تقييماً خارجياً هو أكثر موثوقية. المختبرات المرتبطة بمستشفيات كبرى أو الجامعات هي في الغالب الأكثر انضباطاً في الإجراءات.",
+            "إن حصلت على نتيجة تبدو غريبة أو لا تنسجم مع أعراضك، لا تتردد في إعادة الفحص في مختبر آخر. التحليل الواحد ليس حكماً نهائياً، خاصة إن كانت النتيجة على الحدود أو أعلى بقليل مما تتوقع. الأطباء الجيدون يعرفون هذه الحقيقة ويأخذونها بعين الاعتبار عند التفسير.",
+            "عند الذهاب لتحليل الدم، تأكد من اتباع التعليمات المتعلقة بالصيام حين يُطلب ذلك كاختبارات السكر والدهون. أخبر فني المختبر بأي أدوية تأخذها أو مكملات غذائية لأن بعضها يؤثر على نتائج التحليل. هذه المعلومة تُحسّن دقة التفسير وتُوفر عليك تكرار الفحص."
+          ]
+        },
+        {
+          "h2": "الرعاية الصحية النفسية: ما المتاح؟",
+          "paras": [
+            "دراسة نشرتها Avicenna Journal of Medicine عام 2021 ناقشت تجارب تطبيق خدمات الصحة النفسية في سياقات النزاع وما بعده في سوريا، ووجدت أن الطلب على هذه الخدمات يفوق بكثير ما هو متاح منها، وأن الوصمة الاجتماعية تجعل كثيرين يُحجمون عن طلب المساعدة رغم حاجتهم إليها.",
+            "الطب النفسي في المستشفيات الحكومية السورية موجود في المستشفيات الكبرى، ومن أبرز مراكزه مستشفى ابن سينا في دمشق. بعض المنظمات الدولية توفر دعماً نفسياً اجتماعياً من خلال معالجين نفسيين ومستشارين، خاصة للعائلات النازحة والأطفال الذين تعرضوا لصدمات. إن كنت تبحث عن دعم، ابدأ بالاستفسار في مراكز الرعاية الأولية أو من منظمة ICRC أو UNHCR في منطقتك.",
+            "الرعاية الذاتية للصحة النفسية في البيئات الصعبة لها قيمة حقيقية. النوم المنتظم والتواصل مع الأهل والأصدقاء والروتين اليومي ولو البسيط، كلها عوامل تحمي الصحة النفسية وتُخفف من تراكم الضغط. هذا لا يحل محل العلاج النفسي المتخصص لمن يحتاجه، لكنه أداة فعلية في السياقات التي يصعب فيها الوصول إلى خدمات متخصصة.",
+            "إن كنت تشعر بضغط شديد أو حزن مستمر أو صعوبة في التركيز لفترة تمتد لأكثر من أسبوعين، تحدث مع طبيبك العام أو اطلب من أي مرفق صحي التحويل إلى خدمة الدعم النفسي. الطبيب العام في سوريا يعرف كيف يتعامل مع هذه الحالات وقد يُقدم مساعدة أولى كافية أو يُحيلك إلى الجهة المناسبة."
+          ]
+        }
+      ],
+      "tie": "تطبيق سهتك يساعدك على الاحتفاظ بسجلك الصحي الشخصي، من نتائج التحاليل وأسماء أدويتك بمادتها الفعالة إلى مواعيد متابعة أمراضك المزمنة، وهو سجل يسافر معك وينفعك أينما كنت.",
+      "faqs": [
+        {
+          "q": "هل يمكنني الذهاب إلى مستشفى حكومي بلا مواعيد مسبقة؟",
+          "a": "نعم، لأقسام الطوارئ يمكنك الذهاب مباشرة في أي وقت دون موعد. للعيادات الخارجية المخططة في الغالب تذهب في الصباح الباكر وتأخذ دوراً. اسأل عند الاستقبال عن الإجراء المتبع في ذلك المستشفى تحديداً."
+        },
+        {
+          "q": "هل الخدمات الصحية في سوريا مجانية؟",
+          "a": "المستشفيات الحكومية ذات رسوم منخفضة جداً وتكاد تكون مجانية للطوارئ. العيادات والمستشفيات الخاصة تُكلّف أكثر. بعض المنظمات الإنسانية تقدم خدمات مجانية كلياً في مناطق بعينها. الصيدليات تبيع الأدوية بسعر السوق."
+        },
+        {
+          "q": "كيف أحصل على دواء مزمن حين لا يتوفر الصنف المعتاد؟",
+          "a": "اعرف اسم المادة الفعالة لدوائك، وليس فقط اسمه التجاري. حين يغيب الصنف المعتاد، اطلب من الصيدلاني بديلاً بنفس المادة الفعالة وبجرعة معادلة. إن لم تجد، استشر طبيبك قبل إيقاف الدواء أو تغييره."
+        },
+        {
+          "q": "هل المختبرات الخاصة موثوقة في سوريا؟",
+          "a": "مستوى الجودة يتفاوت بين المختبرات. اختر المختبرات المرتبطة بالمستشفيات الكبرى أو التي تشارك في برامج مراقبة الجودة الخارجية. إن أعطتك نتيجة تبدو غير منطقية، أعد الفحص في مكان آخر قبل اتخاذ قرارات علاجية."
+        },
+        {
+          "q": "ماذا أفعل في حالة طارئة ليلاً؟",
+          "a": "توجه إلى أقرب مستشفى حكومي أو خاص يملك قسم طوارئ. أقسام الطوارئ تعمل على مدار الساعة في المستشفيات الرئيسية. إن كانت الحالة حرجة جداً ولا تستطيع التنقل، اتصل بأي مرافق أو جيران للمساعدة في نقل المريض."
+        },
+        {
+          "q": "هل تستطيع المنظمات الإنسانية مساعدتي حتى لو لم أكن نازحاً؟",
+          "a": "نعم، كثير من البرامج الإنسانية تخدم السكان المحليين لا النازحين وحدهم. الهلال الأحمر العربي السوري مثلاً يقدم خدمات لجميع المحتاجين. تواصل مع مكاتبها في محافظتك لمعرفة برامجها الحالية."
+        },
+        {
+          "q": "هل يمكن لطبيب عام تشخيص معظم الأمراض؟",
+          "a": "نعم، لمعظم الحالات المرضية اليومية وكثير من الحالات المزمنة البسيطة، الطبيب العام كافٍ للتشخيص والعلاج. يحيلك إلى متخصص حين تحتاج ذلك. الصيدلية نقطة أولى للحالات البسيطة جداً، لكن أي شيء مستمر لأكثر من أسبوع يستحق رأي طبيب."
+        },
+        {
+          "q": "كيف أحتفظ بسجلي الصحي حين أتنقل بين المدن؟",
+          "a": "احتفظ بنسخة ورقية مصغرة تشمل تشخيصاتك وأدويتك وأسماءها الفعالة وجرعاتها، وصور رقمية في هاتفك من تقارير التحليل والمتابعة. هذا السجل يوفر عليك الكثير حين تزور طبيباً جديداً في مدينة أخرى."
+        }
+      ]
+    },
+    "en": {
+      "title": "Navigating healthcare in Syria today",
+      "desc": "A practical guide to Syria's hospitals, private clinics, NGO services and pharmacies: what they cost and how to manage chronic conditions when supplies run short.",
+      "keywords": "Syria healthcare, Syria hospital, private clinic Syria, NGO health services Syria, pharmacy Syria, chronic disease Syria, how to get treatment Syria, Syria medical care",
+      "h1": "Healthcare in Syria today: a practical guide to finding care",
+      "takeaways": [
+        "Government hospitals charge very low fees and are open for emergencies without prior appointments, though their capacity varies widely by governorate.",
+        "Private clinics and hospitals are faster and better equipped in major cities but cost significantly more than government facilities.",
+        "Humanitarian organisations including WHO, the Syrian Arab Red Crescent and international medical NGOs run free or subsidised care points across many areas.",
+        "The pharmacy in Syria functions as a genuine first point of care for straightforward conditions, and pharmacists dispense without prescriptions more than is common elsewhere.",
+        "For chronic conditions such as diabetes and hypertension, keeping a written personal health record with the generic drug names and doses is your most important tool for maintaining continuity when supply chains become unreliable."
+      ],
+      "sections": [
+        {
+          "h2": "What is still functioning in the Syrian health system?",
+          "paras": [
+            "Syria's health sector has persisted under enormous pressure across years of instability. The Ministry of Health continues to operate a network of government hospitals in most governorates, from Damascus and Aleppo to Latakia, Homs and Hama, alongside primary healthcare centres distributed across neighbourhoods. These facilities provide services at very low or zero cost for emergency cases.",
+            "The private sector is active and fills significant gaps, especially in major cities. In Damascus, Aleppo and many other urban centres, private hospitals and specialist clinics function with higher operational reliability than many government facilities, with more recently maintained equipment and physicians some of whom trained abroad. The cost is higher but is not prohibitive for a straightforward consultation or simple procedure.",
+            "Humanitarian organisations, both international and domestic, run a parallel network of care points. WHO, UNFPA, the Syrian Arab Red Crescent, Medecins Sans Frontieres and the International Organization for Migration support clinics and mobile medical teams in multiple areas, particularly in locations with high concentrations of displaced families or areas that government services reach less consistently."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Sources of healthcare in Syria",
+            "head": ["Source", "Approximate cost", "When to use it", "Note"],
+            "rows": [
+              ["Government hospital", "Very low or free for emergencies", "Emergencies, major surgery", "Capacity varies by governorate"],
+              ["Private clinic", "Moderate to high", "Planned consultations, chronic care", "Faster and more consistent in cities"],
+              ["Private hospital", "High", "Surgery, inpatient, advanced imaging", "Generally newer equipment"],
+              ["Red Crescent and NGOs", "Free or subsidised", "Remote areas, displaced families, chronic medications", "Contact your local branch to check"],
+              ["Pharmacy", "Drug cost only", "Simple conditions, chronic prescription refill", "Functions as real primary care"]
+            ]
+          }
+        },
+        {
+          "h2": "Government hospitals: how to actually use them",
+          "paras": [
+            "For emergency attendance at a government hospital, you do not need any prior appointment or referral. Go directly to the accident and emergency department of the nearest main government hospital. Emergency fees are generally nominal or waived entirely. Bringing a companion to help communicate with the medical team and follow instructions is practical and normal.",
+            "For planned visits such as specialist consultations, investigations or elective procedures, the usual route is to attend the outpatient clinic early in the morning and take a queue number. At large teaching hospitals such as Al-Moujtahed Hospital in Damascus or the hospitals attached to the University of Aleppo, you can access consultant-level specialists at government fee rates. Waiting times can be long, but the clinical expertise is there.",
+            "It matters to know which hospital serves your condition. Not all government hospitals are equipped to the same standard. University hospitals and the main hospitals of large governorates have more specialised units than district or rural hospitals. If your condition requires cardiac surgery, advanced imaging or intensive care, you may need to travel to a larger city. Building that understanding in advance rather than discovering it in a crisis is genuinely useful."
+          ]
+        },
+        {
+          "h2": "Private clinics and hospitals: what to expect and what to ask",
+          "paras": [
+            "A private clinic in a Syrian city is usually quicker to receive you and more consistent in keeping appointments. Consultation fees vary by city and specialty, but payment is generally expected in cash in advance. It is entirely acceptable to ask about fees before entering. This is not considered impolite and every front desk expects the question.",
+            "Large private hospitals in Damascus and Aleppo have modern diagnostic imaging including computed tomography (CT), magnetic resonance imaging (MRI) and endoscopy, maintained and updated more regularly than in most government facilities. Some run diagnostic laboratories to a reasonable standard. When choosing a laboratory, asking whether they participate in an external quality assurance programme is a useful question. A lab that submits samples to external comparison schemes and receives independent scoring is more reliable than one that does not.",
+            "An important feature of how Syrian medicine works is that many private-sector physicians hold posts in a government hospital in the mornings and open their own clinics in the evenings. You may therefore see the same consultant in both settings. This means clinical expertise is not confined to one sector. The difference between sectors is usually in waiting time, comfort and the availability of specific equipment."
+          ]
+        },
+        {
+          "h2": "Free and subsidised services: how to find them",
+          "paras": [
+            "The Syrian Arab Red Crescent operates actively across most governorates and provides primary medical care, health materials and nutritional support at no cost or at heavily subsidised rates. The most direct way to find their services is to ask at a local primary healthcare centre or community council, or to contact the nearest Red Crescent branch directly.",
+            "A 2020 study in Health Policy and Planning documented how UNRWA health services in Syria maintained continuity of care for Palestinian communities and surrounding populations through a network of centres and clinics despite severe disruption. This kind of functional resilience within an operational framework is not unique to UNRWA. Multiple organisations maintain it.",
+            "WHO and several partner organisations support what are known as mobile medical teams, which reach areas with particularly limited fixed-facility access. Community notice boards, local council announcements and NGO social media pages are the most reliable channels for learning about services currently running in your specific area, since programme reach changes over time."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "info",
+            "title": "Where to look for free or subsidised medical care",
+            "items": [
+              "Syrian Arab Red Crescent: active in most governorates, provides primary care and medical supplies",
+              "Government primary healthcare centres: very low fees, usually free for children and pregnant women",
+              "MSF, International Medical Corps and similar NGOs: operating in specific areas, check local presence",
+              "WHO and IOM supported clinics: mobile teams and fixed points in high-need areas"
+            ]
+          }
+        },
+        {
+          "h2": "The pharmacy as a real first point of care",
+          "paras": [
+            "In Syria, as across much of the region, the pharmacy is not simply a dispensing outlet. The pharmacist diagnoses simple conditions and recommends treatments, including medications that would require a prescription in other countries. This is a socially accepted and practically valuable part of how healthcare actually works. For a mild infection, a skin condition, a cold or a stomach upset, a pharmacist visit often avoids the need for a clinic appointment.",
+            "This comes with a clear caution worth understanding. Antibiotics, anti-inflammatories and some corticosteroids are available without a prescription from Syrian pharmacies. Using these without an accurate diagnosis can delay the identification of a real underlying condition or erode their future effectiveness. A pharmacist is the right first contact for something straightforward. Relying on them alone for a condition that recurs, worsens or does not respond as expected is not the right approach.",
+            "For anyone managing a chronic condition such as diabetes, hypertension or thyroid disease, the pharmacy is where the monthly prescription is collected. Keep your written prescription or a photograph of it on your phone. Drug availability changes, and when your usual brand is absent you will need the generic name of the active ingredient to ask for an equivalent. A pharmacist can usually help you identify an available substitute if you can tell them what you are actually treating and at what dose."
+          ]
+        },
+        {
+          "h2": "Managing chronic disease when drug supply becomes unreliable",
+          "paras": [
+            "A study published in the International Journal of Public Health in 2015 documented the challenges of managing cardiovascular disease and diabetes in Syria in the period before the most severe supply disruptions. Even at that stage, the gap between need and available resources was substantial, and a majority of those interviewed reported difficulty maintaining consistent access to their medications. The situation has become harder to navigate in the years since.",
+            "The single most important practical step for anyone with a chronic condition is to know the generic name of every medication you take, not just the commercial brand name. Ask your doctor or pharmacist for the International Non-proprietary Name and write it down or photograph it. When a branded product disappears from pharmacy shelves, finding an equivalent becomes straightforward if you have the generic name and the dose.",
+            "Where possible, maintain at least a one-month supply of critical medications, particularly for heart conditions, blood pressure, insulin, immunosuppressants and anticoagulants. These are the hardest to substitute safely when they become scarce, and an abrupt interruption in any of them carries real risk. Do not wait until you take the last tablet before seeking to refill. A supply cushion of even two weeks changes your situation significantly in a disruption."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "Managing your chronic medication in an unstable supply environment",
+            "items": [
+              "Record the generic name (active ingredient) of every medication you take, not just the brand",
+              "Keep a photograph of your current prescription on your phone at all times",
+              "Maintain at least a one-month supply of critical medications when they are available",
+              "Know which alternative formulations your pharmacist can source",
+              "If your medication becomes unavailable, consult a doctor before stopping it abruptly"
+            ]
+          }
+        },
+        {
+          "h2": "Diagnostic laboratories: how to choose and trust them",
+          "paras": [
+            "Private diagnostic laboratories are widely available in Syrian cities and perform most common investigations including full blood counts, blood glucose, liver and kidney function panels and thyroid tests. Prices are generally reasonable compared with neighbouring countries. The challenge is that quality varies between laboratories.",
+            "To identify a reliable laboratory, ask whether they operate an internal quality control system and whether they participate in external quality assurance programmes. A laboratory that submits samples to independent comparison schemes and receives external scoring is demonstrably more reliable than one that relies only on its own checks. Laboratories attached to major hospitals or university medical facilities are generally the most consistently procedurally disciplined.",
+            "If a result seems inconsistent with your symptoms, do not hesitate to repeat the test at a different laboratory before making treatment decisions based on it. A single unexpected result does not constitute a diagnosis. Good clinicians understand this and factor it into their interpretation, especially when results are borderline or marginally outside the reference range."
+          ]
+        },
+        {
+          "h2": "Mental health care: what is available",
+          "paras": [
+            "A 2021 review published in the Avicenna Journal of Medicine examined the implementation of mental health services in conflict and post-conflict settings in Syria and found that demand for these services substantially exceeds what is available, and that social stigma leads many who need support to delay or avoid seeking it. Acknowledging this gap is the first step toward navigating it.",
+            "Psychiatric services within government hospitals are available at the main hospitals in major cities. Ibn Sina Hospital in Damascus has historically been a primary psychiatry centre. Several international organisations provide psychosocial support through counsellors and mental health workers, particularly for displaced families and children who have experienced traumatic events. If you are looking for this kind of support, the first practical step is to ask at a primary healthcare centre or contact ICRC or UNHCR in your area.",
+            "Self-care approaches to mental health have genuine value in difficult environments. Regular sleep, maintaining social contact with family and friends, and keeping a daily routine even a simple one are protective factors for mental health under sustained stress. These do not replace specialist treatment for someone who needs it, but they are practical tools in environments where specialist access is limited or delayed."
+          ]
+        }
+      ],
+      "tie": "Sihtak gives you a portable personal health record where you can store your diagnoses, your medications with their generic names and doses, and your lab results. A record that travels with you is one of the most practical tools you can have when continuity of care is uncertain.",
+      "faqs": [
+        {
+          "q": "Can I go to a government hospital without an appointment?",
+          "a": "Yes. Emergency departments accept walk-in attendance at any time without prior appointment. For planned outpatient clinic visits, the usual approach is to attend early in the morning and take a queue number at reception. Ask when you arrive about the specific procedure at that hospital."
+        },
+        {
+          "q": "Is healthcare in Syria free?",
+          "a": "Government hospitals charge very low fees and are effectively free for emergency care. Private clinics and hospitals cost significantly more. Humanitarian organisations provide free services in specific areas. Pharmacies charge the retail price of the medication."
+        },
+        {
+          "q": "How do I get a chronic medication when my usual brand is out of stock?",
+          "a": "Know the generic name of your medication, not just the brand name. When the usual product is unavailable, ask the pharmacist for an equivalent containing the same active ingredient at the same dose. If no equivalent is available, consult a doctor before stopping the medication, particularly for heart, blood pressure or diabetes drugs."
+        },
+        {
+          "q": "Are private laboratories reliable in Syria?",
+          "a": "Quality varies between facilities. Prefer laboratories attached to major hospitals or those that participate in external quality assurance programmes. If a result seems inconsistent with your clinical picture, repeating the test at a second laboratory before acting on the result is a reasonable step."
+        },
+        {
+          "q": "What do I do in a medical emergency at night?",
+          "a": "Go directly to the nearest hospital with an emergency department. Major government and private hospitals keep emergency departments open around the clock. If the patient cannot be moved, ask a neighbour or family member for help with transport. Do not wait."
+        },
+        {
+          "q": "Can humanitarian organisations help me even if I am not displaced?",
+          "a": "Many humanitarian health programmes serve the general resident population, not only displaced families. The Syrian Arab Red Crescent in particular provides services to anyone in need regardless of displacement status. Contact the branch in your governorate to find out what programmes are currently running."
+        },
+        {
+          "q": "Can a general practitioner handle most conditions?",
+          "a": "Yes. A general practitioner can diagnose and treat most common acute and chronic conditions and will refer you to a specialist when needed. The pharmacy is appropriate for genuinely minor conditions. Anything persistent for more than a week, recurrent, or unexplained deserves a doctor's assessment."
+        },
+        {
+          "q": "How do I keep my medical records when moving between cities?",
+          "a": "Keep a compact paper summary that includes your diagnoses, your medications with their generic names and doses, and your most recent significant test results. Photograph your lab reports and store them on your phone. This record reduces the time a new doctor needs to understand your history and improves the care you receive."
+        }
+      ]
+    }
+  }
+}

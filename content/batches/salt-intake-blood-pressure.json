@@ -1,0 +1,378 @@
+{
+  "slug": "salt-intake-blood-pressure",
+  "category": "nutrition",
+  "chip_ar": "التغذية",
+  "chip_en": "Nutrition",
+  "date_iso": "2026-07-28",
+  "sources": [
+    {
+      "label": "He FJ, Tan M, Ma Y et al: Salt Reduction to Prevent Hypertension and Cardiovascular Disease: JACC State-of-the-Art Review, Journal of the American College of Cardiology, 2020",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32057379/"
+    },
+    {
+      "label": "Gupta DK, Lewis CE, Varady KA et al: Effect of Dietary Sodium on Blood Pressure: A Crossover Trial, JAMA, 2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37950918/"
+    },
+    {
+      "label": "Almedawar MM, Isma'Eel HA, Nasreddine L et al: AN ATTEMPT TO HALT THE EVER-INCREASING PREVALENCE OF MORBIDITIES RESULTING FROM EXCESS DIETARY SODIUM INTAKE. The Lebanese Experience, Le Journal medical libanais. The Lebanese medical journal, 2016",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30452141/"
+    },
+    {
+      "label": "Al-Lahou B, Ausman LM, Penalvo JL et al: Cardiometabolic deaths attributable to poor diet among Kuwaiti adults, PloS one, 2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36520822/"
+    },
+    {
+      "label": "Mosallanezhad Z, Jalali M, Bahadoran Z et al: Dietary sodium to potassium ratio is an independent predictor of cardiovascular events: a longitudinal follow-up study, BMC public health, 2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37072769/"
+    },
+    {
+      "label": "World Health Organization: Reducing sodium intake to reduce blood pressure and risk of cardiovascular disease in adults",
+      "url": "https://www.who.int/tools/elena/interventions/sodium-cvd-adults"
+    }
+  ],
+  "content": {
+    "ar": {
+      "title": "الملح وضغط الدم: كم هو كثير وأين يختبئ؟",
+      "desc": "تعرف على الكمية الآمنة من الملح يوميا، والأطعمة التي تحتوي على كميات مخفية في النظام الغذائي العربي، وكيف تخفض استهلاكك فعليا.",
+      "keywords": "الملح وضغط الدم, كمية الملح اليومية, الصوديوم, ضغط الدم المرتفع, أطعمة غنية بالملح, تقليل الملح, الصحة القلبية",
+      "h1": "الملح: كيف تعرف إن كنت تتناول أكثر مما ينبغي؟",
+      "takeaways": [
+        "منظمة الصحة العالمية توصي بألا يتجاوز استهلاك الملح 5 غرامات يوميا، أي ما يعادل ملعقة صغيرة واحدة.",
+        "معظم الملح الذي نتناوله لا يأتي من ملاحة الطعام على الطاولة بل من الخبز والأجبان المصنعة والمخللات والمرق.",
+        "تجربة سريرية نشرت في JAMA عام 2023 أثبتت أن تخفيض الملح يخفض ضغط الدم خلال أيام، حتى عند من يعتقدون أنهم غير حساسين للملح.",
+        "تقليل الملح تدريجيا على مدى أسبوعين يجعل مستشعرات التذوق تتكيف، ولن تشعر بالنقص في النهاية.",
+        "الأشخاص المصابون بالسكري وأمراض الكلى هم الأكثر حاجة لمراقبة الصوديوم."
+      ],
+      "sections": [
+        {
+          "h2": "لماذا يرفع الملح ضغط الدم؟",
+          "paras": [
+            "الملح المائدة يتكون من الصوديوم (Sodium) والكلور. الصوديوم هو العنصر الذي يؤثر في ضغط الدم، وهو يعمل من خلال آلية بسيطة: الصوديوم يجذب الماء إلى الأوعية الدموية، فيزداد حجم الدم، ويرتفع الضغط على جدران الشرايين. الكلى في الحالة الطبيعية تطرح الصوديوم الزائد في البول، لكن حين يزيد الاستهلاك كثيرا فإنها تجد صعوبة في مواكبة الكمية.",
+            "مراجعة علمية شاملة نشرت في مجلة Journal of the American College of Cardiology عام 2020 جمعت عشرات الدراسات وخلصت إلى أن تخفيض الملح يخفض ضغط الدم بشكل ذي دلالة إحصائية عند الجميع، سواء كان ضغطهم مرتفعا من الأساس أم طبيعيا. التأثير أكبر عند كبار السن وعند مرضى السكري وعند أصحاب الكلى الضعيفة.",
+            "في عام 2023 نشرت مجلة JAMA تجربة مضبوطة على أكثر من ألفين وأربعمئة شخص أكدت أن التخفيض في الصوديوم الغذائي خفض ضغط الدم الانقباضي بما يعادل تأثير دواء خافض لضغط الدم في الحالات الخفيفة. هذا يعني أن التغيير الغذائي وحده قادر على جعل بعض الأشخاص يتجنبون الدواء أو يخفضون جرعته.",
+            "الضرر لا يقتصر على ضغط الدم. الصوديوم الزائد يُضعف الكلى تدريجيا ويزيد من ترسب الكالسيوم في البول مما يرفع خطر حصى الكلى، وقد ارتبط أيضا بترقق العظام على المدى الطويل. فهم هذه الصورة الشاملة يجعل تقليل الملح استثمارا في الصحة العامة وليس مجرد إجراء لمن يعانون من ارتفاع الضغط فعلا."
+          ],
+          "visual": {
+            "type": "stats",
+            "items": [
+              {"value": "5 غ", "label": "الحد الأقصى الموصى به من الملح يوميا (منظمة الصحة العالمية)", "tone": "info"},
+              {"value": "9 - 12 غ", "label": "متوسط الاستهلاك الفعلي في كثير من الدول العربية", "tone": "bad"},
+              {"value": "1.4 مليون", "label": "حالة وفاة سنويا عالميا منسوبة للزيادة في الصوديوم الغذائي", "tone": "bad"}
+            ]
+          }
+        },
+        {
+          "h2": "كم ملحا تتناول فعلا كل يوم؟",
+          "paras": [
+            "ملعقة صغيرة من الملح تحتوي على نحو 5 إلى 6 غرامات، وهذا هو الحد الأقصى الذي توصي به منظمة الصحة العالمية لليوم كله. لكن معظمنا يتناول أكثر من ذلك بكثير دون أن يدرك، لأن الجزء الأكبر من الملح لا يأتي من ملاحة الطعام على مائدتك بل مخبأ داخل الأطعمة المصنعة والمعلبة.",
+            "دراسة لبنانية نشرت في المجلة الطبية اللبنانية عام 2016 وجدت أن استهلاك الصوديوم في لبنان يفوق التوصية العالمية بمقدار كبير، وأشارت إلى أن الخبز العربي وحده كان مصدرا رئيسيا غير مشعور به للملح. الوضع مشابه في كثير من الدول العربية الأخرى حيث يُضاف الملح بكميات كبيرة في صناعة الخبز التجاري.",
+            "دراسة كويتية نشرت في مجلة PLOS One عام 2022 حللت النظام الغذائي الكويتي ووجدت أن الصوديوم الزائد يمثل أحد أبرز عوامل الخطر الغذائية للوفاة القلبية الوعائية. الأرقام في الكويت والسعودية والإمارات وغيرها من دول الخليج تشير جميعها إلى أن الاستهلاك الفعلي يتجاوز التوصيات بمقدار ضعف أو أكثر."
+          ],
+          "visual": {
+            "type": "bar",
+            "title": "مصادر الملح في الوجبة اليومية العربية (نسبة تقديرية)",
+            "unit": "%",
+            "items": [
+              {"label": "الخبز والمعجنات", "value": 30, "tone": "bad"},
+              {"label": "الأجبان والمنتجات المصنعة", "value": 20, "tone": "warn"},
+              {"label": "المخللات والزيتون", "value": 15, "tone": "warn"},
+              {"label": "مكعبات المرق والتوابل", "value": 15, "tone": "warn"},
+              {"label": "اللحوم المعالجة", "value": 10, "tone": "neutral"},
+              {"label": "ملاحة الطعام على الطاولة", "value": 10, "tone": "good"}
+            ],
+            "source": "Almedawar MM et al: The Lebanese Experience on excess sodium intake, Lebanese Medical Journal, 2016",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/30452141/"
+          }
+        },
+        {
+          "h2": "الأطعمة العربية الأكثر غنى بالملح المخفي",
+          "paras": [
+            "الخبز العربي التجاري يحتوي عادة على ما بين 400 و500 مليغرام من الصوديوم لكل رغيف متوسط الحجم، وحين تأكل ثلاثة أرغفة في اليوم فأنت قد استنفدت ثلث حصتك اليومية من الملح دون أن تضيف إليها شيئا. الجبنة البيضاء كالحلوم والجبن الأبيض المخزنة في المحلول الملحي قد تصل إلى 700 مليغرام لكل 30 غراما، وهو ما يعني أن طبق الجبنة على الفطور وحده قد يحتوي على نصف الكمية اليومية الموصى بها.",
+            "المخللات بأنواعها من زيتون إلى خيار مخلل إلى مكدوس تُخزَّن في محلول ملحي مركّز وتمتص كميات كبيرة من الملح. علبة من مكعبات المرق أو التوابل الجاهزة كالماجي والكنور تحتوي في ملعقة صغيرة واحدة على ما يقارب 1000 مليغرام من الصوديوم، أي خمس الحصة اليومية الموصى بها.",
+            "اللحوم المدخنة والمعالجة كالمرتديلا والنقانق تحتوي أيضا على نسب عالية من الصوديوم المضاف. المثير للدهشة أن الصلصات الجاهزة وحتى بعض الحبوب المحمصة للإفطار تحتوي على الملح. القراءة في ملصق الغذاء لكل منتج تشتريه هي الطريقة الوحيدة الموثوقة لمعرفة ما تأكله فعلا."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "محتوى الصوديوم في أطعمة شائعة",
+            "head": ["الطعام", "الكمية", "الصوديوم (مغ)"],
+            "rows": [
+              ["خبز عربي تجاري", "رغيف واحد", "400 - 500"],
+              ["جبنة بيضاء مخللة", "30 غ", "400 - 700"],
+              ["زيتون مخلل", "10 حبات", "350 - 500"],
+              ["مكعب مرق جاهز", "ملعقة صغيرة", "800 - 1000"],
+              ["مرتديلا", "شريحتان (50 غ)", "400 - 600"],
+              ["مخلل خيار", "قطعتان كبيرتان", "300 - 500"]
+            ]
+          }
+        },
+        {
+          "h2": "من هم الأكثر حاجة لتقليل الملح؟",
+          "paras": [
+            "أي شخص مشخص بارتفاع ضغط الدم يجب أن يعطي أولوية قصوى لتقليل الملح، لأن الصلة بين الصوديوم وضغط الدم عنده أقوى وأسرع ظهورا من غيره. مرضى السكري يحتاجون أيضا لمراقبة الصوديوم بعناية، لأن مضاعفات السكري على الكلى تجعلها أقل قدرة على التخلص من الصوديوم الزائد، مما يضاعف خطر ارتفاع ضغط الدم.",
+            "أصحاب أمراض الكلى المزمنة يُعدون من أكثر الفئات حاجة لتقييد الصوديوم الغذائي. إذ يؤدي احتباس الصوديوم في الجسم إلى احتباس السوائل وتضخم الأطراف وارتفاع الضغط، وهذا بدوره يسرّع من تدهور وظائف الكلى في حلقة مفرغة. كذلك كبار السن عادة ما يكونون أكثر حساسية لملح الطعام من الشباب.",
+            "حتى الأشخاص الأصحاء الذين ضغطهم طبيعي الآن يستفيدون من الاعتدال في الملح كتدبير وقائي طويل الأمد. دراسة تتبعية نشرت في مجلة BMC Public Health عام 2023 وجدت أن نسبة الصوديوم إلى البوتاسيوم في الغذاء تنبأت بشكل مستقل بالأحداث القلبية الوعائية، مما يعني أن رفع البوتاسيوم من خلال الفاكهة والخضار بالتوازي مع خفض الصوديوم مفيد مضاعف."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "ناقش طبيبك حول الملح إذا كان لديك",
+            "items": [
+              "ارتفاع ضغط دم مشخص أو تاريخ عائلي لارتفاعه",
+              "مرض السكري أو مقدمات السكري",
+              "قصور كلوي مزمن بأي مرحلة",
+              "قصور في القلب أو تاريخ نوبة قلبية أو سكتة دماغية",
+              "تورم منتظم في الكاحلين أو القدمين"
+            ]
+          }
+        },
+        {
+          "h2": "كيف تقرأ ملصق الطعام لمعرفة كمية الملح؟",
+          "paras": [
+            "ملصق التغذية على المنتجات المعبأة يذكر عادة كمية الصوديوم (Sodium) لكل 100 غرام أو لكل وجبة. تذكر أن الفرق بين الملح والصوديوم مهم: لتحويل الصوديوم إلى ملح، اضرب الرقم في 2.5. إذا رأيت أن 100 غرام تحتوي على 400 مليغرام من الصوديوم، فهذا يعادل نحو 1 غرام من الملح، وهذا كثير نسبيا لكل 100 غرام.",
+            "المنتجات التي تحتوي على أكثر من 600 مليغرام من الصوديوم لكل 100 غرام تُعدّ عالية الملح. المنتجات التي تقل عن 120 مليغرام تُعدّ منخفضة الملح. الخداع التسويقي شائع في هذا المجال، فبعض المنتجات المصنفة كـ خفيفة أو صحية تحتوي أحيانا على ملح أكثر من نظيرها العادي بسبب إضافة مواد تعويضية عن دهون محذوفة.",
+            "في المطاعم والوجبات الجاهزة لا توجد بيانات غذائية في معظم الأحيان، والوجبة الواحدة قد تحتوي على ملح يومين في بعض الأطباق الشائعة كالبيتزا والوجبات السريعة والشوربات المملحة. طلب الصوصات والتوابل على الجانب وإضافة القليل منها بنفسك يساعد على التحكم في الكمية."
+          ]
+        },
+        {
+          "h2": "خطوات عملية لتقليل الملح في وجباتك",
+          "paras": [
+            "التغيير التدريجي أنجع من التوقف المفاجئ. إذا خفضت الملح فجأة بشكل كبير ستجد الطعام مسيخا لفترة، لكن إذا قللت الكمية تدريجيا على مدى أسبوعين إلى ثلاثة، فإن مستقبلات التذوق على لسانك تتأقلم وتصبح أكثر حساسية للملح الطبيعي في الطعام. الهدف النهائي هو عدم استخدام ملاحة الطعام على الطاولة أصلا.",
+            "الأعشاب والبهارات الطبيعية بديل ممتاز لتعويض غياب الملح. الليمون والكمون والثوم والبقدونس والنعناع والسماق تضيف عمقا لنكهة الطعام دون صوديوم. طهي الطعام في المنزل يمنحك سيطرة كاملة على كمية الملح، بعكس الطعام الجاهز أو المطعم. نقع الجبن المملحة في الماء قبل تناولها لنصف ساعة يخفض ملوحتها بشكل ملحوظ.",
+            "اختيار خبز منزلي الصنع أو شراء أنواع الخبز المصنوعة بملح أقل يسهم في خفض الاستهلاك اليومي بشكل ملموس. حين تشتري الأجبان ابحث عن أنواع طازجة غير مملحة كالجبن القريش، واستخدمها عوضا عن الجبن البيضاء المملحة في وجبات يومية. المخللات لا يلزم حذفها تماما لكن تقليل حجم الحصة وعدم تناولها في كل وجبة فرق كبير."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "كيف تبدأ بتقليل الملح هذا الأسبوع",
+            "items": [
+              "أزل ملاحة الطعام من على المائدة وضعها في خزانة بعيدة",
+              "اقرأ ملصق كل منتج تشتريه وتجنب ما يحتوي على أكثر من 400 مغ صوديوم لكل 100 غ",
+              "نقع الجبنة المملحة في الماء لمدة 30 دقيقة قبل الأكل",
+              "استبدل مكعبات المرق الجاهزة بمرق منزلي أو بهارات طبيعية",
+              "قلل المخللات إلى حصة صغيرة مرة أو مرتين أسبوعيا",
+              "استخدم الليمون والكمون والثوم لإضافة نكهة عوضا عن الملح"
+            ]
+          }
+        },
+        {
+          "h2": "الملح والبوتاسيوم: اللعبة المزدوجة",
+          "paras": [
+            "رفع البوتاسيوم في النظام الغذائي بالتوازي مع خفض الصوديوم يضاعف الفائدة على ضغط الدم. البوتاسيوم يساعد الكلى على طرح الصوديوم الزائد بكفاءة أعلى، ويُرخي جدار الأوعية الدموية مما يخفض الضغط. أفضل مصادره الموز والبطاطا الحلوة والأفوكادو والبرتقال والسبانخ والعدس، وكلها أطعمة مألوفة ومتوفرة في أسواقنا.",
+            "الدراسة التتبعية المنشورة في BMC Public Health عام 2023 أثبتت أن نسبة الصوديوم إلى البوتاسيوم في الغذاء تنبأت بحوادث القلب والأوعية بشكل مستقل عن عوامل الخطر الأخرى. بمعنى آخر ليس الصوديوم وحده هو المهم بل النسبة بينه وبين البوتاسيوم. الغذاء الحديث رفع الصوديوم وخفض البوتاسيوم في آن واحد، وهذا ما جعل ضغط الدم المرتفع أكثر شيوعا في منطقتنا.",
+            "من الناحية العملية، الإكثار من الخضار والفاكهة الطازجة على حساب الأطعمة المصنعة يصلح النسبة في الاتجاه الصحيح. الغذاء الشامي والمتوسطي الأصيل المبني على الخضار والبقوليات وزيت الزيتون والكميات المعتدلة من اللحوم هو في جوهره ما توصي به معظم الأبحاث لخفض ضغط الدم. المشكلة ليست الطبخ التقليدي بل ما حلّ محله من أطعمة مصنعة وجاهزة."
+          ]
+        },
+        {
+          "h2": "هل تقليل الملح يغني عن الأدوية؟",
+          "paras": [
+            "تقليل الملح إجراء غذائي لا دوائي، وهو أول خط علاجي يوصي به الأطباء قبل بدء الأدوية لحالات ارتفاع ضغط الدم الخفيف. التجربة المنشورة في JAMA عام 2023 أوضحت أن التغيير الغذائي يمكن أن يخفض ضغط الدم بما يعادل تأثير جرعة خافض دم خفيفة. في حالات الارتفاع المتوسط إلى الشديد يُضاف الدواء فوق التغيير الغذائي وليس بدلا عنه.",
+            "إذا كنت تتناول أدوية لضغط الدم فلا تتوقف عنها بناء على تحسن ضغطك بعد تغيير نظامك الغذائي دون استشارة طبيبك أولا. التوقف المفاجئ عن بعض خافضات الضغط قد يكون خطيرا. الطبيب هو من يقرر تعديل الجرعة أو إيقاف الدواء بعد التحقق من استقرار الضغط على مدى أسابيع.",
+            "في بعض الأسواق يُباع ما يُعرف ببديل الملح وهو يحتوي على كلوريد البوتاسيوم بدل كلوريد الصوديوم. هذا البديل مناسب لكثير من الناس لكنه خطر جدا على مرضى الكلى ومن يتناولون بعض أدوية ضغط الدم من نوع حاصرات ACE أو ARBs، لذا استشر طبيبك قبل استخدامه.",
+            "من المهم أيضا أن تعرف أن انخفاض الضغط بعد تقليل الملح ليس دليلا على أن مشكلة الضغط زالت نهائيا. ضغط الدم يتأثر بعوامل متعددة من بينها الوراثة والتقدم في العمر وأمراض أخرى، وتقليل الملح هو واحد من أدوات الإدارة وليس علاجا شافيا نهائيا. الاستمرار في قياس الضغط بانتظام هو الطريقة الوحيدة للتحقق من أن الوضع تحت السيطرة."
+          ]
+        }
+      ],
+      "tie": "يمكنك في تطبيق سهاتك تسجيل قراءات ضغط الدم اليومية ومتابعة تأثير التغييرات الغذائية على مدى أسابيع، مما يساعدك على رؤية النتائج الفعلية لتقليل الملح بأعينك.",
+      "faqs": [
+        {
+          "q": "هل تقليل الملح وحده يكفي لخفض ضغط الدم؟",
+          "a": "يكفي في بعض حالات الارتفاع الخفيف خاصة مع التغييرات الغذائية الأخرى كزيادة البوتاسيوم وخفض الوزن والنشاط البدني. في الارتفاع المتوسط إلى الشديد يُضاف الدواء فوق التغيير الغذائي. لا تتوقف عن أدوية ضغط الدم بنفسك حتى لو تحسن الضغط، بل تحدث مع طبيبك."
+        },
+        {
+          "q": "ما هو الفرق بين الملح والصوديوم على ملصق الطعام؟",
+          "a": "الصوديوم هو العنصر الفعال الذي يؤثر في ضغط الدم، وهو ما يُذكر عادة على الملصقات. لتحويله إلى كمية ملح اضرب الرقم في 2.5. التوصية اليومية هي أقل من 2000 مليغرام من الصوديوم، أي ما يعادل 5 غرامات من الملح."
+        },
+        {
+          "q": "هل الملح الوردي الهيمالايا أو ملح البحر أفضل من الملح العادي؟",
+          "a": "لا فرق ذا أهمية صحية. هذه الأنواع تحتوي على كميات مماثلة تقريبا من الصوديوم مقارنة بالملح العادي، وأي معادن إضافية فيها موجودة بكميات ضئيلة لا تؤثر صحيا. الكمية هي المهم وليس النوع."
+        },
+        {
+          "q": "هل يجب تقليل الملح للأطفال أيضا؟",
+          "a": "نعم، خاصة في سن المدرسة. العادات الغذائية تتشكل مبكرا وارتفاع ضغط الدم بدأ يظهر في سن أصغر في الدول العربية. الأطفال الذين يأكلون وجبات سريعة ومعلبات بانتظام يتناولون ملحا أكثر مما ينبغي لأجسامهم."
+        },
+        {
+          "q": "ماذا أفعل إذا كنت آكل خارج المنزل كثيرا؟",
+          "a": "اطلب الصوصات والتوابل على الجانب وأضف القليل فقط. تجنب الشوربات الجاهزة واللحوم المعالجة. اختر سلطات الخضار الطازجة على الأطباق المملحة. الحد من وجبات المطاعم إلى عدد أقل أسبوعيا هو الحل الأكثر عملية على المدى الطويل."
+        },
+        {
+          "q": "هل الرياضة تعوض تناول الكثير من الملح؟",
+          "a": "لا، لكن الرياضة تساعد الجسم على التعامل مع ضغط الدم بشكل أفضل. التعرق أثناء الرياضة يفقد الجسم بعض الصوديوم، لكن الكميات التي تُفقد لا تعوض استهلاكا مرتفعا يوميا. التحكم في الملح والرياضة تدابير تكاملية وليست بديلا لبعضها."
+        },
+        {
+          "q": "في كم وقت يبدأ ضغط الدم بالانخفاض بعد تقليل الملح؟",
+          "a": "التجربة المنشورة في JAMA والأبحاث السابقة تُظهر أن ضغط الدم يبدأ بالانخفاض خلال أيام من خفض الصوديوم، ويصل التأثير الكامل عادة خلال أسبوعين إلى أربعة. حجم الانخفاض يعتمد على مقدار التخفيض وعلى مدى حساسيتك للملح."
+        }
+      ]
+    },
+    "en": {
+      "title": "Salt and blood pressure: how much is too much?",
+      "desc": "Find out how much salt is safe per day, which everyday Arab foods hide the most sodium, and practical steps to cut intake without losing flavour.",
+      "keywords": "salt blood pressure, sodium intake, daily salt limit, hidden sodium foods, reduce salt, hypertension diet, cardiovascular risk",
+      "h1": "Salt: how to know whether you are eating too much",
+      "takeaways": [
+        "The World Health Organization recommends no more than 5 grams of salt per day, which is roughly one level teaspoon.",
+        "Most of the salt you eat does not come from the salt shaker; it comes from bread, pickled cheese, olives, processed meats and stock cubes.",
+        "A 2023 trial published in JAMA confirmed that cutting sodium lowers blood pressure within days, even in people who thought they were not salt-sensitive.",
+        "Reducing salt gradually over two to three weeks allows your taste receptors to adapt, and food will not taste bland once they have.",
+        "People with diabetes or kidney disease have the strongest reason to watch sodium closely."
+      ],
+      "sections": [
+        {
+          "h2": "How does salt raise blood pressure?",
+          "paras": [
+            "Table salt is made of sodium and chloride. It is the sodium that affects blood pressure, and its mechanism is straightforward. Sodium draws water into the bloodstream. More water means a larger blood volume, which puts more pressure on artery walls. The kidneys normally excrete excess sodium in urine, but when intake is high enough for long enough, they struggle to keep up, and blood pressure stays elevated.",
+            "A major review published in the Journal of the American College of Cardiology in 2020 pooled evidence from dozens of trials and found that salt reduction lowers blood pressure meaningfully in everyone, whether their starting pressure is high or normal. The effect is larger in older adults, in people with diabetes, and in those with impaired kidney function, but it is present even in healthy young adults.",
+            "A controlled trial published in JAMA in 2023, involving more than 2,400 participants, confirmed that reducing dietary sodium cut systolic blood pressure by an amount comparable to the effect of a low-dose antihypertensive medication in mild hypertension. This means that dietary change alone can, for some people, postpone or reduce the need for blood pressure medication.",
+            "The harm from excess sodium extends beyond blood pressure. High sodium intake gradually impairs kidney filtration, increases urinary calcium loss which raises the risk of kidney stones, and has been linked to bone density loss over many years. Understanding this broader picture makes salt reduction a worthwhile investment for general health, not only for those already diagnosed with hypertension."
+          ],
+          "visual": {
+            "type": "stats",
+            "items": [
+              {"value": "5 g", "label": "WHO recommended maximum daily salt intake", "tone": "info"},
+              {"value": "9 - 12 g", "label": "estimated actual daily intake in many Arab countries", "tone": "bad"},
+              {"value": "1.4 M", "label": "deaths globally each year linked to excess dietary sodium", "tone": "bad"}
+            ]
+          }
+        },
+        {
+          "h2": "How much salt are you actually eating each day?",
+          "paras": [
+            "One level teaspoon of salt contains about 5 to 6 grams, which is the entire daily limit for an adult according to the World Health Organization. Most people in the region eat substantially more than that, and the striking part is that most of that salt never comes from the salt shaker at the table. It is already in the food before it arrives on the plate.",
+            "A Lebanese study published in the Lebanese Medical Journal in 2016 found that sodium intake in Lebanon significantly exceeded international recommendations, and identified Arabic bread as one of the main unrecognised contributors. One commercially produced Arabic loaf typically contains 400 to 500 milligrams of sodium, and eating three loaves in a day uses up a third of the daily allowance before any other food is considered.",
+            "A Kuwaiti dietary analysis published in PLOS One in 2022 found that excess sodium was among the leading dietary risk factors for cardiometabolic death. The pattern is broadly similar across Saudi Arabia, the UAE and other Gulf states, where ultra-processed food consumption has risen sharply in recent decades and where sodium intake consistently measures at roughly double the WHO recommendation."
+          ],
+          "visual": {
+            "type": "bar",
+            "title": "Where the salt in a typical Arab diet comes from (estimated proportion)",
+            "unit": "%",
+            "items": [
+              {"label": "Bread and baked goods", "value": 30, "tone": "bad"},
+              {"label": "Processed cheeses and dairy", "value": 20, "tone": "warn"},
+              {"label": "Pickles and olives", "value": 15, "tone": "warn"},
+              {"label": "Stock cubes and seasonings", "value": 15, "tone": "warn"},
+              {"label": "Processed meats", "value": 10, "tone": "neutral"},
+              {"label": "Salt added at the table", "value": 10, "tone": "good"}
+            ],
+            "source": "Almedawar MM et al: The Lebanese Experience on excess sodium intake, Lebanese Medical Journal, 2016",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/30452141/"
+          }
+        },
+        {
+          "h2": "Which everyday Arab foods carry the most hidden salt?",
+          "paras": [
+            "Commercial Arabic bread is one of the highest-volume sodium sources in the regional diet. A typical medium-sized loaf contains 400 to 500 milligrams of sodium, and this is rarely labelled clearly. White pickled cheeses such as halloumi, ackawi and the brined fresh cheeses sold in blocks can contain 400 to 700 milligrams per 30-gram serving, which is roughly a matchbox-sized cube. A breakfast plate of bread and cheese can deliver half of the entire day's sodium allowance before the meal is finished.",
+            "Pickled vegetables including olives, cucumber, mekdous and turnips are stored in concentrated brine and absorb substantial amounts of salt. A single teaspoon of powdered seasoning such as Maggi or Knorr contains around 800 to 1,000 milligrams of sodium, which is a fifth of the daily recommended allowance in one small addition. Processed and cured meats including mortadella, sausages and canned corned beef are also high in added salt.",
+            "The important habit to build is reading food labels. The nutrition label lists sodium per 100 grams or per serving. To convert to salt, multiply the sodium figure by 2.5. Any product above 600 milligrams of sodium per 100 grams is considered high-salt. In restaurants and takeaway settings where no label exists, portions can easily contain a full day's allowance in a single dish, particularly in soups, stews and fast food."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Sodium content of common foods",
+            "head": ["Food", "Portion", "Sodium (mg)"],
+            "rows": [
+              ["Commercial Arabic bread", "1 medium loaf", "400 - 500"],
+              ["Brined white cheese", "30 g (small cube)", "400 - 700"],
+              ["Pickled olives", "10 olives", "350 - 500"],
+              ["Commercial stock cube", "1 teaspoon", "800 - 1000"],
+              ["Mortadella", "2 slices (50 g)", "400 - 600"],
+              ["Pickled cucumber", "2 large pieces", "300 - 500"]
+            ]
+          }
+        },
+        {
+          "h2": "Who most needs to reduce salt intake?",
+          "paras": [
+            "Anyone with diagnosed high blood pressure should make salt reduction a priority. The relationship between sodium and blood pressure is strongest in people who already have hypertension, and the reduction in blood pressure from cutting sodium is proportionally greater than in someone with normal pressure. People with diabetes should also watch sodium carefully, because diabetic kidney disease reduces the kidneys' ability to clear sodium, amplifying its blood-pressure effect.",
+            "People with chronic kidney disease at any stage have the strongest clinical reason to limit sodium. Sodium retention in kidney disease causes fluid retention, limb swelling and further blood pressure elevation, which in turn accelerates kidney damage in a damaging cycle. Older adults are generally more salt-sensitive than young people, meaning the same intake causes a larger blood pressure rise.",
+            "Even healthy adults with currently normal blood pressure benefit from moderate sodium intake as a long-term preventive measure. A follow-up study published in BMC Public Health in 2023 found that the sodium-to-potassium ratio in the diet independently predicted cardiovascular events, meaning that raising potassium through fruit and vegetables alongside cutting sodium provides a compounded benefit."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "Discuss salt reduction with your doctor if you have",
+            "items": [
+              "Diagnosed high blood pressure or a strong family history",
+              "Type 2 diabetes or prediabetes",
+              "Chronic kidney disease at any stage",
+              "Heart failure or a history of heart attack or stroke",
+              "Regular ankle or foot swelling"
+            ]
+          }
+        },
+        {
+          "h2": "How to read a food label for sodium",
+          "paras": [
+            "Nutrition labels in the Arab world vary in format and language, but the sodium content is almost always listed per 100 grams or per serving. If only sodium is listed and you want to know the salt equivalent, multiply by 2.5. A product with 400 milligrams of sodium per 100 grams contains about 1 gram of salt per 100 grams. If you eat 200 grams of that product, you have had 2 grams of salt, which is already 40 percent of the daily limit.",
+            "Products labelled as light, reduced fat or healthy are not automatically low in salt. Manufacturers often add extra salt when fat is removed to preserve palatability. The only reliable way to know is to look at the sodium line on the label directly. Below 120 milligrams of sodium per 100 grams is low-salt, and above 600 milligrams is high-salt.",
+            "When eating out or buying street food, there is usually no label to check. A useful mental shortcut is that soups, stews, pickled accompaniments and anything described as spicy or marinated are likely high in sodium. Asking for sauces on the side, avoiding extra seasoning, and choosing grilled or fresh preparations over heavily marinated or cured ones all help reduce the meal's sodium load significantly."
+          ]
+        },
+        {
+          "h2": "Practical steps to reduce salt without losing taste",
+          "paras": [
+            "The most important principle is to reduce gradually rather than suddenly. If you cut salt sharply overnight, food will taste bland and the change will not last. If you reduce over two to three weeks, your taste receptors adapt and become more sensitive to the natural saltiness in food. Research consistently shows that taste adaptation is real and reliable, and most people who stick with reduced salt for a month report that heavily salted food then tastes excessive.",
+            "Herbs, citrus and spices are the most effective flavour substitutes. Lemon juice, cumin, garlic, sumac, fresh coriander and mint all add depth and interest to food without sodium. Soaking brined cheese in cold fresh water for 30 minutes before eating significantly reduces its salt content. Replacing commercial stock cubes with homemade unsalted stock or dried herbs removes one of the biggest sodium sources in home cooking.",
+            "Choosing homemade or bakery bread made with less salt reduces a major daily sodium source. Reserving pickles and olives as an occasional accompaniment rather than a daily staple makes a meaningful difference without requiring anyone to give them up entirely. Using fresh herbs and spice rubs to season raw meat before cooking, rather than commercial marinades and spice mixes with added salt, is another practical shift that compounds the benefit over time."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "Starting to reduce salt this week",
+            "items": [
+              "Move the salt shaker off the table and into a cupboard",
+              "Check the sodium on every packaged food you buy; avoid anything above 400 mg per 100 g where possible",
+              "Soak brined white cheese in fresh cold water for 30 minutes before eating",
+              "Replace commercial stock cubes with homemade unsalted stock or dried herbs",
+              "Limit pickles and olives to one small portion once or twice a week rather than with every meal",
+              "Use lemon juice, cumin and fresh herbs to season food at the table instead of salt"
+            ]
+          }
+        },
+        {
+          "h2": "Salt, potassium, and the double benefit",
+          "paras": [
+            "Increasing potassium intake at the same time as cutting sodium magnifies the blood pressure benefit. Potassium helps the kidneys excrete sodium more efficiently and relaxes artery walls. The best dietary sources are bananas, sweet potatoes, avocado, oranges, lentils, tomatoes and spinach, all of which are familiar and affordable across the region.",
+            "The 2023 BMC Public Health longitudinal study confirmed that the sodium-to-potassium ratio in the diet was an independent predictor of cardiovascular events. This means that eating more potassium-rich plant foods while reducing sodium-rich processed foods addresses both sides of the equation simultaneously. The modern diet has pushed both variables in the wrong direction at once, raising sodium and reducing potassium, which is one reason why high blood pressure has become so prevalent.",
+            "From a practical standpoint, prioritising fresh vegetables and fruit over packaged and processed food naturally shifts the sodium-to-potassium ratio in the right direction. The core of traditional Levantine and Eastern Mediterranean cooking, which is based on pulses, vegetables, olive oil and modest portions of meat, is essentially what the evidence recommends for blood pressure health. The problem is not the traditional cuisine but what has replaced it in daily practice."
+          ]
+        },
+        {
+          "h2": "Do you need medication as well as cutting salt?",
+          "paras": [
+            "Salt reduction is a dietary measure, not a replacement for medication where medication is clinically indicated. For mild elevations in blood pressure, dietary changes including sodium reduction, weight loss and increased activity can be sufficient to normalise readings without drugs. The JAMA 2023 trial showed this is achievable even in older adults with established hypertension.",
+            "If you are already taking blood pressure medication, do not stop or reduce it on your own even if you see an improvement after cutting salt. The improvement confirms the dietary change is working, but the decision to reduce medication requires your doctor to monitor your readings over time and make that call. Stopping some antihypertensive drugs abruptly can cause rebound blood pressure spikes.",
+            "Potassium-based salt substitutes, sold in some pharmacies as low-sodium salt, can be helpful for people who find the taste of reduced-salt food difficult to accept. However, they are dangerous for people with kidney disease or those taking ACE inhibitors or angiotensin receptor blockers, because potassium can accumulate to dangerous levels in these situations. Always check with your doctor or pharmacist before using a salt substitute."
+          ]
+        }
+      ],
+      "tie": "Use the Sihtak app to log your daily blood pressure readings and watch what happens over two to three weeks as you cut back on salt. The trend lines make it easy to see whether the dietary change is working.",
+      "faqs": [
+        {
+          "q": "Is cutting salt enough to lower blood pressure without medication?",
+          "a": "For mild hypertension, yes, especially when combined with other lifestyle changes like increasing potassium intake, losing weight and exercising. For moderate to severe hypertension, dietary change reduces the amount of medication needed but usually does not replace it entirely. Never stop blood pressure medication without discussing it with your doctor first."
+        },
+        {
+          "q": "What is the difference between salt and sodium on a food label?",
+          "a": "Sodium is the element that affects blood pressure, and it is what food labels report. To convert sodium to salt, multiply by 2.5. The WHO recommendation is below 2,000 milligrams of sodium per day, which equals 5 grams of salt. Most labels list sodium per 100 grams, so a product with 400 mg per 100 g is moderately salty."
+        },
+        {
+          "q": "Is Himalayan pink salt or sea salt healthier than regular table salt?",
+          "a": "No meaningful health difference exists. All three contain roughly the same amount of sodium per gram. Pink salt and sea salt contain trace minerals in tiny amounts that have no clinically relevant effect on health. The quantity of salt you eat matters far more than which variety you choose."
+        },
+        {
+          "q": "Should children reduce their salt intake too?",
+          "a": "Yes. Dietary habits form early, and high blood pressure is appearing at younger ages in Arab countries alongside rising rates of childhood obesity. Children who eat regular fast food, crisps and packaged snacks are likely consuming well above their age-appropriate sodium limit. Cooking at home and choosing unsalted snacks makes the biggest difference for children."
+        },
+        {
+          "q": "What if I eat out frequently and cannot control the salt in my food?",
+          "a": "Ask for sauces and dressings on the side and add only a small amount. Avoid soups, heavily marinated dishes and cured meats when possible. Choose grilled fish, plain rice and fresh salads over more processed options. Limiting restaurant meals to a few times a week rather than daily is the most effective long-term strategy."
+        },
+        {
+          "q": "Does exercise compensate for eating too much salt?",
+          "a": "Not fully, but exercise does help the body manage blood pressure more effectively. Sweating during exercise causes some sodium loss, but the amounts lost are too small to offset a high-sodium diet consistently. Salt reduction and exercise work best together as complementary rather than alternative strategies."
+        },
+        {
+          "q": "How quickly will blood pressure fall if I cut my salt intake?",
+          "a": "The JAMA trial and earlier research show that blood pressure begins to fall within a few days of sodium reduction, and the full effect is usually seen within two to four weeks. The amount of reduction depends on how much you cut and how salt-sensitive you are. People with higher starting blood pressure tend to see larger reductions."
+        }
+      ]
+    }
+  }
+}

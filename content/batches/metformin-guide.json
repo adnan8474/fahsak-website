@@ -1,0 +1,345 @@
+{
+  "slug": "metformin-guide",
+  "category": "medicines",
+  "chip_ar": "الأدوية",
+  "chip_en": "Medicines",
+  "date_iso": "2026-07-22",
+  "sources": [
+    {"label": "Sanchez-Rangel E, Inzucchi SE: Metformin: clinical use in type 2 diabetes, Diabetologia, 2017", "url": "https://pubmed.ncbi.nlm.nih.gov/28770321/"},
+    {"label": "McCreight LJ, Bailey CJ, Pearson ER et al: Metformin and the gastrointestinal tract, Diabetologia, 2016", "url": "https://pubmed.ncbi.nlm.nih.gov/26780750/"},
+    {"label": "Alhaji JH: Vitamin B12 Deficiency in Patients with Diabetes on Metformin: Arab Countries, Nutrients, 2022", "url": "https://pubmed.ncbi.nlm.nih.gov/35631186/"},
+    {"label": "Sayedali E, Yalin AE, Yalin S et al: Association between metformin and vitamin B12 deficiency in patients with type 2 diabetes, World journal of diabetes, 2023", "url": "https://pubmed.ncbi.nlm.nih.gov/37273250/"},
+    {"label": "Ibrahim M, Abu Al Magd M, Annabi FA et al: Recommendations for management of diabetes during Ramadan: update 2015, BMJ open diabetes research and care, 2015", "url": "https://pubmed.ncbi.nlm.nih.gov/26113983/"},
+    {"label": "LaMoia TE, Shulman GI: Cellular and Molecular Mechanisms of Metformin Action, Endocrine reviews, 2021", "url": "https://pubmed.ncbi.nlm.nih.gov/32897388/"}
+  ],
+  "content": {
+    "ar": {
+      "title": "الميتفورمين: كيف يعمل وكيف تتعامل مع آثاره الجانبية",
+      "desc": "دليل شامل عن الميتفورمين أول خط علاجي لداء السكري من النوع الثاني: كيف يعمل، لماذا يسبب اضطراباً في المعدة، وكيف تقلل هذه الآثار، ونقص B12، وتعديل الجرعة في رمضان.",
+      "keywords": "الميتفورمين, علاج السكري, نوع ثاني, آثار جانبية الميتفورمين, اضطرابات الهضم, نقص فيتامين B12, الميتفورمين في رمضان, السكر والصيام, جلوكوفاج, كيف يعمل الميتفورمين",
+      "h1": "الميتفورمين: كيف يعمل وكيف تتعامل مع آثاره الجانبية بشكل صحيح",
+      "takeaways": [
+        "الميتفورمين هو الدواء الأول الذي يوصفه الطبيب عند تشخيص السكري من النوع الثاني في معظم أنحاء العالم، وسبب ذلك سجله الأمان الممتاز على مدى ستة عقود.",
+        "يعمل الميتفورمين بشكل رئيسي عبر تقليل إنتاج الكبد للسكر في الدم وتحسين استجابة الجسم للإنسولين، وليس بتحفيز البنكرياس على إفراز مزيد من الإنسولين.",
+        "الغثيان والإسهال واضطراب المعدة في البداية شائعة وقابلة للإدارة، وتقل كثيراً بتناوله مع الطعام وزيادة الجرعة تدريجياً.",
+        "الاستخدام الطويل الأمد قد يقلل من امتصاص فيتامين B12، لذا يُوصى بفحصه بانتظام بعد سنوات من الاستخدام.",
+        "في رمضان يحتاج توقيت الجرعة إلى تعديل مع الطبيب، والصيام الطويل مع هذا الدواء يستلزم خطة واضحة."
+      ],
+      "sections": [
+        {
+          "h2": "ما هو الميتفورمين ولماذا هو الخيار الأول؟",
+          "paras": [
+            "الميتفورمين (Metformin) دواء من فئة البيغوانيدات (Biguanides)، ويُعدّ الدواء الأكثر وصفاً في العالم لعلاج السكري من النوع الثاني. بدأ استخدامه سريرياً في أوروبا في خمسينيات القرن العشرين، ولا يزال حتى اليوم الخيار الأول الذي تُوصي به معظم المبادئ التوجيهية الطبية الدولية وإرشادات رابطة السكري الأمريكية والجمعية الأوروبية للسكري.",
+            "الأسباب التي تجعله الخيار الأول متعددة ومقنعة. له سجل أمان ممتاز يمتد لعقود، ودراسات طويلة المدى أثبتت أنه يقلل من مضاعفات السكري القلبية الوعائية. لا يسبب زيادة في الوزن بخلاف كثير من أدوية السكري الأخرى، ولا يتسبب وحده في انخفاض السكر (نقص السكر). فضلاً عن أنه متاح بتكلفة معقولة في معظم دول المنطقة.",
+            "يُوصف الميتفورمين أحياناً أيضاً في حالات ما قبل السكري لتأخير ظهوره عند من هم في فئة الخطر العالي، وفي علاج متلازمة تكيس المبايض (PCOS) لتحسين مقاومة الإنسولين. لكن كل استخدام خارج نطاق السكري يستلزم قرار الطبيب."
+          ],
+          "visual": {
+            "type": "stats",
+            "items": [
+              {"value": "60+", "label": "سنة من الاستخدام السريري لهذا الدواء", "tone": "info"},
+              {"value": "الأول", "label": "في خطوط علاج السكري النوع الثاني عالمياً", "tone": "good"}
+            ]
+          }
+        },
+        {
+          "h2": "كيف يعمل الميتفورمين على خفض السكر؟",
+          "paras": [
+            "يعمل الميتفورمين بآليات متعددة في الجسم. التأثير الأهم هو في الكبد: في مرضى السكري من النوع الثاني يُنتج الكبد كميات سكر أكبر مما ينبغي حتى في حالة الصيام، وهذا يُسهم في ارتفاع سكر الدم خاصةً صباحاً قبل الأكل. الميتفورمين يُثبط هذا الإنتاج الزائد في الكبد ويُعيده إلى مستوى أقرب للطبيعي، ولهذا قد يلاحظ كثير من المرضى أن قراءاتهم الصباحية قبل الفطور تتحسن بوضوح مع الميتفورمين.",
+            "التأثير الثاني هو تحسين حساسية الخلايا للإنسولين (Insulin sensitivity). في السكري من النوع الثاني تُقاوم خلايا العضلات والخلايا الدهنية الإنسولين ولا تمتص السكر كما يجب، وكأن الخلايا أُغلقت أمام مفتاح الإنسولين. الميتفورمين يجعل هذه الخلايا أكثر استجابة للإنسولين الموجود أصلاً في الجسم دون أن يُجبر البنكرياس على إفراز كميات إضافية. هذا الفرق الجوهري هو ما يُميزه عن بعض الأدوية الأخرى ويجعله لا يسبب نقص السكر وحده.",
+            "يُبطئ الميتفورمين أيضاً امتصاص الجلوكوز من الأمعاء بعد الوجبات، مما يُلطف الارتفاع الحاد في السكر التالي للأكل. الدراسات الحديثة تُشير أيضاً إلى تأثيرات إضافية في بكتيريا الأمعاء وهرمونات الجهاز الهضمي، وإن كانت هذه لا تزال تحت البحث. مجموع هذه التأثيرات يجعله دواء يعمل على عدة محاور في آن واحد، لا في ساعة محددة فقط."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "أين يعمل الميتفورمين في الجسم",
+            "head": ["موضع التأثير", "ما الذي يفعله", "النتيجة"],
+            "rows": [
+              ["الكبد", "يُقلل إنتاج السكر الزائد", "انخفاض سكر الصيام"],
+              ["عضلات وخلايا الجسم", "يُحسّن حساسيتها للإنسولين", "أفضل استخدام للسكر"],
+              ["الأمعاء", "يُبطئ امتصاص الجلوكوز بعد الأكل", "ارتفاع أخف بعد الوجبات"]
+            ]
+          }
+        },
+        {
+          "h2": "الآثار الجانبية الهضمية: لماذا تحدث وكيف تتعامل معها",
+          "paras": [
+            "الغثيان والإسهال والانتفاخ والتقلصات وغير ذلك من الأعراض الهضمية هي أكثر الآثار الجانبية للميتفورمين شيوعاً، وتحدث خاصةً في بداية العلاج أو عند رفع الجرعة. تُشير الدراسات إلى أن ما بين 10 و30 في المئة من المرضى يواجهون هذه الأعراض بدرجة تجعلهم يفكرون في التوقف عن الدواء.",
+            "الآلية وراء هذه الأعراض ليست مفهومة تماماً، لكن الدراسات تُشير إلى أن الدواء يؤثر على بكتيريا الأمعاء وعلى إفراز هرمونات معينة في الجهاز الهضمي. ما هو مؤكد هو أن معظم الناس يتحملون الدواء بشكل أفضل بعد أسابيع من البدء.",
+            "الاستراتيجية الأساسية للتعامل مع هذه الأعراض هي تناول الدواء مع الطعام أو مباشرة بعده وليس على معدة فارغة. البداية بجرعة منخفضة والزيادة تدريجياً على مدى أسابيع تُقلل الأعراض بشكل كبير. إذا استمرت بالرغم من ذلك، يمكن للطبيب التحول إلى صيغة بطيئة الإفراز (Metformin XR أو SR) التي تُسبب أعراضاً هضمية أقل عند كثير من الأشخاص."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "كيف تقلل الآثار الهضمية للميتفورمين",
+            "items": [
+              "تناوله دائماً مع الطعام أو مباشرة بعد الوجبة وليس قبلها",
+              "ابدأ بالجرعة الأقل ثم زِدها تدريجياً كما يحدده طبيبك",
+              "تجنب الأطعمة الدهنية الثقيلة مع الجرعة في البداية",
+              "اسأل طبيبك عن صيغة بطيئة الإفراز (XR/SR) إذا استمرت الأعراض",
+              "لا توقف الدواء من تلقاء نفسك، أخبر طبيبك أولاً"
+            ]
+          }
+        },
+        {
+          "h2": "نقص فيتامين B12: تأثير لا يُذكر كثيراً",
+          "paras": [
+            "أحد الآثار الجانبية التي لا تحظى باهتمام كافٍ في متابعة مرضى السكري هي أن الميتفورمين طويل الأمد يُقلل من امتصاص فيتامين B12 في الأمعاء. دراسة نُشرت عام 2022 في مجلة Nutrients وتناولت بالتحديد مرضى السكري في الدول العربية وجدت أن نسبة ملموسة منهم يُعانون من نقص B12 مرتبط بالميتفورمين، وأن هذا النقص أحياناً لا تظهر له أعراض واضحة في المراحل الأولى. الخطر يزيد مع طول مدة الاستخدام وارتفاع الجرعة اليومية.",
+            "فيتامين B12 ضروري لصحة الأعصاب وتكوين خلايا الدم الحمراء. نقصه الشديد يتسبب في ما يُعرف بالاعتلال العصبي المحيطي، وهو إحساس بالتنميل والخدر في القدمين واليدين وأحياناً ضعف في الساقين. المشكلة الدقيقة أن مرضى السكري أصلاً معرضون للاعتلال العصبي السكري بسبب ارتفاع السكر نفسه، فيصبح من الصعب التمييز بين سببين مختلفين إذا لم يُفحص مستوى B12 بانتظام.",
+            "التوصية العملية هي فحص مستوى B12 بعد سنة أو سنتين من البدء بالميتفورمين، ثم كل سنتين إلى ثلاث أو حسب توجيه الطبيب. إذا أظهر التحليل نقصاً، يوصف الطبيب مكملاً عن طريق الفم أو أحياناً حقناً في الحالات الشديدة. لا توقف الميتفورمين من أجل هذا الموضوع لأن الفائدة من علاج السكري تفوق بكثير خطر نقص B12 الذي هو قابل للتصحيح بمجرد اكتشافه."
+          ]
+        },
+        {
+          "h2": "جرعة الميتفورمين في رمضان",
+          "paras": [
+            "الصيام في رمضان يُغير نمط الأكل والشرب كلياً، وهذا يؤثر على توقيت الدواء وفاعليته. الميتفورمين وحده لا يُسبب نقص السكر (نقص الجلوكوز) عند الصيام لأنه لا يُحفز البنكرياس على إفراز إنسولين إضافي، لكن إذا كان معه أدوية أخرى ترفع الإنسولين مثل السلفونيل يوريا أو جرعات الإنسولين المقررة فإن خطر النقص يزداد في الصيام الطويل.",
+            "الإرشادات الموجهة لإدارة السكري في رمضان، والمحدّثة عام 2015 والمدعومة بدراسات متعددة على المرضى في المنطقة، توصي بمناقشة الطبيب قبل رمضان وليس بعد بدئه. الطبيب قد يُعدّل توقيت الجرعة أو يُعيد توزيعها بين الإفطار والسحور بدلاً من مواعيد الصيام.",
+            "الصيام مع الأمراض المزمنة كالسكري ليس قراراً طبياً بسيطاً. كثير من العلماء يُفتون بالإفطار لمن كان الصيام يُعرضه لخطر صحي حقيقي، والطبيب هو شريكك في تقييم هذا الخطر. الهدف هو أن تؤدي الفريضة بأمان إذا كان صومك ممكناً صحياً، لا أن تتجاهل صحتك في سبيل إتمام الصوم بأي ثمن."
+          ],
+          "visual": {
+            "type": "timeline",
+            "title": "الاستعداد لرمضان مع الميتفورمين",
+            "items": [
+              {"when": "قبل رمضان بشهر", "what": "راجع طبيبك لمراجعة جرعاتك وتوقيتاتها"},
+              {"when": "قبل رمضان بأسبوعين", "what": "راقب قراءات السكر يومياً لبناء خط أساس"},
+              {"when": "أثناء رمضان", "what": "راقب السكر عند الشعور بأي عرض، وأفطر عند النقص"},
+              {"when": "بعد رمضان", "what": "عُد للجرعة المعتادة واتفق مع طبيبك على المتابعة"}
+            ]
+          }
+        },
+        {
+          "h2": "متى لا يُناسب الميتفورمين؟",
+          "paras": [
+            "الميتفورمين آمن جداً لمعظم مرضى السكري، لكن هناك حالات يكون فيها غير مناسب أو يحتاج مراقبة مشددة. الأهم هو وظائف الكلى: الميتفورمين يُفرز بالكامل عبر الكلى دون أن يتحول في الكبد، وعند ضعف وظائفها يتراكم الدواء في الجسم ويرتفع مستواه في الدم. هذا التراكم النادر جداً قد يسبب حالة تُعرف بالحماض اللبني (Lactic acidosis) وهي حالة خطيرة. لهذا السبب يُقلل الطبيب الجرعة عند انخفاض معدل الترشيح الكبيبي، ويوقف الدواء تماماً تحت مستوى حرج يحدده المختصون.",
+            "قبل أي إجراء يستخدم صبغة معاقدة (Contrast dye) مثل القسطرة القلبية أو التصوير الوريدي بالصبغة، يجب إخبار الطبيب والفريق الطبي بأنك تأخذ الميتفورمين. الصبغة قد تضغط مؤقتاً على الكلى وهذا قد يُغير قرار الطبيب حول إيقاف الدواء قبل الإجراء بيوم أو يومين ثم إعادته بعده. لا تتوقف وحدك دون تنسيق، بل أخبر الطبيب المشرف على الإجراء.",
+            "مرضى القلب الشديد وأمراض الكبد الشديدة، وحالات الأمراض الحادة مع الجفاف كالإسهال والقيء الشديدين، كلها تستدعي مراجعة الطبيب بشأن الاستمرار من عدمه. المبدأ الأساسي هو أن لا تُوقف دواءك من تلقاء نفسك، بل تتواصل مع طبيبك عند أي تغيير ملموس في حالتك. الميتفورمين يُوقف أحياناً مؤقتاً في أيام المرض الحاد ثم يُعاد بعد الشفاء، وهذا أمر متعارف عليه طبياً."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "warn",
+            "title": "أخبر طبيبك قبل إجراء أي من هذه",
+            "items": [
+              "صورة بالأشعة مع صبغة معاقدة أو قسطرة قلبية",
+              "عملية جراحية تحت التخدير العام",
+              "إسهال شديد أو قيء مستمر لأكثر من يوم",
+              "بدء دواء جديد للكلى أو لارتفاع الضغط",
+              "أي تغيير ملحوظ في كمية البول"
+            ]
+          }
+        },
+        {
+          "h2": "كيف تعرف أن الميتفورمين يعمل بالنسبة لك؟",
+          "paras": [
+            "الميتفورمين لا يُسبب أعراضاً محسوسة حين يعمل بشكل صحيح، وهذا يجعل بعض المرضى يشكون في فاعليته. الطريقة الوحيدة لتقييم تأثيره هي قياس سكر الدم وفحص HbA1c (الهيموغلوبين السكري) بانتظام. HbA1c يُعطيك صورة عن متوسط سكرك على مدى ثلاثة أشهر، وهو المؤشر الأهم لمتابعة السيطرة على السكري.",
+            "الهدف الذي يسعى إليه الطبيب عادةً هو الحفاظ على HbA1c ضمن نطاق يتفق عليه معك بناءً على عمرك وحالتك الصحية العامة ووجود مضاعفات من عدمها. عموماً تكون النسبة المستهدفة أقل من 7 في المئة لكثير من مرضى السكري النوع الثاني، لكنها تختلف من شخص لآخر.",
+            "لا تتوقع نتائج فورية. الميتفورمين يحتاج أسابيع لتظهر تأثيراته الكاملة، وفحص HbA1c لا يعكس التغيير إلا بعد ثلاثة أشهر على الأقل. في بعض الحالات يضيف الطبيب دواء ثانياً إلى الميتفورمين عند عدم الوصول إلى الهدف، وهذا لا يعني بأي شكل أن الميتفورمين فشل، بل يعني أن السكري مرض تقدمي بطبيعته يحتاج أحياناً إلى تصعيد العلاج مع مرور السنوات. استمرار الميتفورمين في الخلفية حتى مع إضافة أدوية أخرى أمر متعمد له مبرراته."
+          ]
+        },
+        {
+          "h2": "نصائح عملية لاستخدامه يومياً",
+          "paras": [
+            "تناول الميتفورمين في نفس الأوقات يومياً يُساعد على ثبات مستوياته في الدم وعلى تكوين عادة يومية لا تنساها. إذا نسيت جرعة وتذكرت قريباً من وقت الجرعة القادمة، تخطّ الجرعة الفائتة ولا تُضاعف الجرعة التالية. الجرعة المزدوجة لا تعني فائدة مضاعفة على السكر، بل تزيد احتمال الأعراض الهضمية في نفس ذلك اليوم.",
+            "احتفظ بالدواء في مكان لا تزيد درجة حرارته عن 25 درجة مئوية مع رطوبة معتدلة وبعيداً عن ضوء الشمس المباشر. في المناخ الحار للمنطقة لا تتركه في حقيبة السيارة في الصيف لأن درجات الحرارة داخل السيارة المغلقة قد تتجاوز 50 درجة وهذا يُسرّع تحلل الدواء ويُضعف فاعليته. إذا سافرت، احمله في حقيبتك الشخصية لا في الحقيبة المسجّلة التي تُودع في عنبر الطائرة.",
+            "الميتفورمين لا يُعفيك من الالتزام بنظام الغذاء والنشاط البدني. هذان العاملان هما الشريكان الحقيقيان لأي دواء، والإهمالهما يُضعف تأثير الدواء بشكل ملموس في قراءات السكر. تتبع قراءات سكرك في المنزل وسجّلها مع التاريخ والوقت والحالة، فطبيبك حين يرى هذه السجلات يستطيع اتخاذ قرارات أفضل بكثير مما لو كان يعتمد فقط على قراءة في عيادته."
+          ]
+        }
+      ],
+      "tie": "يمكنك استخدام تطبيق صحتك لمتابعة قراءات سكرك اليومية وقيم HbA1c وضبط تذكيرات بمواعيد الجرعات المتعددة. كما يمكنك سؤال المساعد الذكي عن أي سؤال يخص دواءك أو قراءات سكرك وفهم ما تعنيه النتائج. يبقى ذلك مساعداً لا بديلاً عن طبيبك في تعديل الجرعة أو تغيير العلاج.",
+      "faqs": [
+        {
+          "q": "هل الميتفورمين يُسبب نقص السكر؟",
+          "a": "الميتفورمين وحده لا يُسبب نقص السكر لأنه لا يُحفز البنكرياس على إفراز إنسولين إضافي. لكن إذا أُخذ مع أدوية أخرى ترفع الإنسولين مثل السلفونيل يوريا أو مع حقن الإنسولين فإن الخطر يزداد، خاصةً عند الصيام أو تأخير الوجبة."
+        },
+        {
+          "q": "هل أحتاج للصيام قبل تناول الميتفورمين؟",
+          "a": "لا. يُؤخذ الميتفورمين مع الوجبات أو بعدها مباشرة، وليس على معدة فارغة. أخذه دون طعام يزيد احتمال الأعراض الهضمية كالغثيان والإسهال. وقت تناوله يتزامن مع أكبر وجباتك في اليوم."
+        },
+        {
+          "q": "هل يمكنني التوقف عن الميتفورمين إذا تحسن سكري بالحمية؟",
+          "a": "قرار إيقاف أو تخفيض الميتفورمين يعود للطبيب بعد مراجعة قراءات سكرك وHbA1c. إذا حقق التغيير في نمط الحياة نتائج ممتازة، فقد يُقلل الطبيب الجرعة أو يوقف الدواء. لا توقفه وحدك حتى لو بدت قراءاتك جيدة."
+        },
+        {
+          "q": "هل الميتفورمين آمن للكلى؟",
+          "a": "نعم لمن كانت وظائف كليتيه طبيعية أو قريبة منها. عند انخفاض معدل الترشيح الكبيبي يُقلل الطبيب الجرعة أو يوقف الدواء لأن الكلى الضعيفة لا تُفرزه بشكل كافٍ. لهذا يفحص الطبيب وظائف كليتيك بانتظام."
+        },
+        {
+          "q": "لماذا يصف الطبيب الميتفورمين بجرعتين أو ثلاث؟",
+          "a": "الجرعة اليومية توزّع على وجبتين أو ثلاث لأن الجرعة الواحدة الكبيرة تزيد الأعراض الهضمية وتعطي ذروة في الدم بدلاً من مستوى ثابت. صيغة XR أو SR تُعطى مرة يومياً لأنها تُطلق الدواء ببطء."
+        },
+        {
+          "q": "هل الميتفورمين يزيد الوزن؟",
+          "a": "لا. الميتفورمين من النادر جداً أن يُسبب زيادة الوزن، وبعض الدراسات تُشير إلى تأثير محايد أو طفيف بالخفض. هذا يُميزه عن أدوية سكري أخرى. ما يزيد الوزن عند بعض مرضى السكري هو حصص الطعام لا الدواء."
+        },
+        {
+          "q": "هل يمكنني الحمل وأنا على الميتفورمين؟",
+          "a": "الميتفورمين يُستخدم أحياناً في الحمل لعلاج سكري الحمل وفي حالات تكيس المبايض، لكن هذا يتطلب متابعة طبية مشددة. إذا كنتِ تخططين للحمل أو اكتشفتِ أنكِ حامل، أخبري طبيبك فوراً لمراجعة خطتك العلاجية."
+        },
+        {
+          "q": "هل يتعارض الميتفورمين مع أدوية أخرى؟",
+          "a": "التفاعلات الدوائية الكبيرة مع الميتفورمين نادرة. أبرزها أن بعض أدوية الضغط والقلب والأدوية التي تُلقي بعبء على الكلى قد تؤثر على إفرازه. دائماً أخبر طبيبك وصيدليك بكل الأدوية والمكملات التي تأخذها."
+        }
+      ]
+    },
+    "en": {
+      "title": "Metformin: how it works and handling the side effects",
+      "desc": "A complete guide to metformin, the first-line diabetes drug: how it works, why it causes stomach upset, how to reduce that, B12 depletion, and adjusting the dose in Ramadan.",
+      "keywords": "metformin, type 2 diabetes treatment, metformin side effects, gastrointestinal effects, vitamin B12 deficiency, metformin Ramadan, fasting and diabetes, glucophage, how metformin works, first-line diabetes drug",
+      "h1": "Metformin: how it works and how to handle its side effects correctly",
+      "takeaways": [
+        "Metformin is the first drug most doctors prescribe at diagnosis of type 2 diabetes, with six decades of safety data supporting that choice.",
+        "It works mainly by reducing excess glucose production in the liver and by improving the body's sensitivity to insulin, not by pushing the pancreas to make more insulin.",
+        "Nausea, diarrhoea and stomach upset at the start are common and manageable: taking it with food and increasing the dose gradually cuts them significantly.",
+        "Long-term use can reduce vitamin B12 absorption, so checking B12 levels periodically after years of use is recommended.",
+        "Ramadan requires a timing adjustment with your doctor, because long fasting hours with other diabetes drugs can increase the risk of low blood sugar."
+      ],
+      "sections": [
+        {
+          "h2": "What is metformin and why is it the first choice?",
+          "paras": [
+            "Metformin belongs to the biguanide class of drugs and is the most widely prescribed medicine for type 2 diabetes in the world. Clinical use began in Europe in the 1950s and it remains the first recommendation of major international diabetes guidelines, including those of the American Diabetes Association and the European Association for the Study of Diabetes.",
+            "The reasons for its first-line position are multiple and well-founded. It has an excellent safety record spanning decades, and long-term studies have shown that it reduces the risk of cardiovascular complications from diabetes. It does not cause weight gain, unlike many other diabetes drugs, and it does not cause hypoglycaemia on its own. It is also available at reasonable cost across most of the region.",
+            "Metformin is sometimes also prescribed for prediabetes to delay the progression to full diabetes in high-risk individuals, and for polycystic ovary syndrome (PCOS) to improve insulin resistance. Each of these uses requires a specific decision by your doctor."
+          ],
+          "visual": {
+            "type": "stats",
+            "items": [
+              {"value": "60+", "label": "years of clinical use behind this drug", "tone": "info"},
+              {"value": "1st line", "label": "in type 2 diabetes treatment guidelines worldwide", "tone": "good"}
+            ]
+          }
+        },
+        {
+          "h2": "How does metformin lower blood sugar?",
+          "paras": [
+            "Metformin works through several mechanisms in the body. The most important is its effect on the liver: in type 2 diabetes the liver produces more glucose than it should even in the fasting state, and this contributes significantly to elevated fasting blood sugar readings. Metformin suppresses this excess hepatic glucose production and brings it back toward a normal level. Many patients notice that their morning fasting readings improve noticeably after a few weeks on the drug, and this is exactly why.",
+            "The second mechanism is improving insulin sensitivity, meaning the body's cells become more responsive to the insulin that is already present. In type 2 diabetes the muscle and fat cells resist insulin and do not absorb glucose as they should, as if the locks on those cells have become stiff. Metformin makes these cells more responsive to the insulin the body is already making, without forcing the pancreas to produce additional insulin. This fundamental difference is why metformin alone does not cause low blood sugar: it does not raise insulin levels independently.",
+            "Metformin also slows the absorption of glucose from the intestines after meals, softening the sharp blood sugar spike that follows eating. More recent research also points to effects on the gut's bacterial balance and on gut hormones, though these are still being studied. The combined effect of all these mechanisms means the drug works across multiple pathways throughout the day, which is part of why it remains so consistently effective after six decades of use."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Where metformin acts in the body",
+            "head": ["Site of action", "What it does", "Result"],
+            "rows": [
+              ["Liver", "Reduces excess glucose production", "Lower fasting blood sugar"],
+              ["Muscle and fat cells", "Improves insulin sensitivity", "Better glucose uptake"],
+              ["Intestines", "Slows glucose absorption after meals", "Gentler post-meal rise"]
+            ]
+          }
+        },
+        {
+          "h2": "Gastrointestinal side effects: why they happen and what to do",
+          "paras": [
+            "Nausea, diarrhoea, bloating, cramps, and other digestive symptoms are the most common side effects of metformin, occurring especially at the start of treatment or when the dose is increased. Studies suggest that between 10 and 30 percent of patients experience these symptoms to a degree that makes them consider stopping the drug.",
+            "The precise mechanism behind these effects is not fully understood, but research points to the drug affecting the gut's bacterial balance and the secretion of certain gut hormones. What is clear is that most people tolerate the drug much better after a few weeks as the body adjusts.",
+            "The key strategy for managing these symptoms is to take the drug with food or immediately after a meal, never on an empty stomach. Starting at a low dose and increasing gradually over several weeks cuts the symptoms substantially. If they persist despite this, your doctor can switch you to a slow-release formulation such as metformin XR or SR, which causes fewer digestive problems for many people."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "How to reduce metformin's digestive side effects",
+            "items": [
+              "Always take it with a meal or immediately after, never before eating",
+              "Start at the lowest dose and increase gradually as your doctor directs",
+              "Avoid heavy, greasy meals with the dose in the early weeks",
+              "Ask your doctor about the slow-release formulation (XR/SR) if symptoms persist",
+              "Do not stop the drug on your own: tell your doctor first"
+            ]
+          }
+        },
+        {
+          "h2": "Vitamin B12 deficiency: the effect that is rarely mentioned",
+          "paras": [
+            "One side effect that does not receive enough attention in routine diabetes follow-up is that long-term metformin use reduces the absorption of vitamin B12 from the intestines. A study published in 2022 in the journal Nutrients focused specifically on diabetic patients in Arab countries and found that a meaningful proportion of them have metformin-related B12 deficiency, and that this deficiency often produces no obvious symptoms in its early stages. The risk increases with longer duration of use and higher daily doses.",
+            "Vitamin B12 is essential for nerve health and the production of healthy red blood cells. Severe deficiency causes peripheral neuropathy, the sensation of numbness, tingling, and sometimes weakness in the feet and hands. The clinical complication is that people with diabetes are already at risk of diabetic peripheral neuropathy caused by high blood sugar itself, so distinguishing between two different causes of the same symptoms becomes very difficult unless B12 is checked routinely.",
+            "The practical recommendation is to check B12 levels after one or two years on metformin and then every two to three years, or as your doctor advises. If a deficiency is found, the doctor prescribes an oral supplement or in severe cases an injection. Do not stop taking metformin over this concern: the benefit of controlling diabetes far outweighs the risk of a correctable B12 deficiency, and the two issues can be managed in parallel without any conflict."
+          ]
+        },
+        {
+          "h2": "Managing metformin doses in Ramadan",
+          "paras": [
+            "Fasting in Ramadan changes the entire pattern of eating and drinking, and this affects the timing and effectiveness of the drug. Metformin alone does not cause low blood sugar during fasting because it does not stimulate the pancreas to release extra insulin. However, if it is combined with other drugs that raise insulin levels, such as sulphonylureas or fixed insulin doses, the risk of hypoglycaemia increases significantly during long fasting hours.",
+            "Guidelines for managing diabetes during Ramadan, updated in 2015 and based on studies of patients across the region, recommend discussing dose timing with your doctor before Ramadan begins rather than improvising once it starts. The doctor may redistribute the dose between iftar and suhoor rather than keeping meal-time dosing from the non-fasting schedule.",
+            "Fasting with a chronic disease like diabetes is not a straightforward medical decision. Many religious scholars permit breaking the fast for someone whose health would be genuinely at risk. Your doctor is your partner in assessing that risk honestly. The goal is to observe the fast safely if your health allows, not to push through at the expense of your wellbeing."
+          ],
+          "visual": {
+            "type": "timeline",
+            "title": "Preparing for Ramadan with metformin",
+            "items": [
+              {"when": "One month before", "what": "Review your doses and timing with your doctor"},
+              {"when": "Two weeks before", "what": "Monitor your blood sugar daily to establish a baseline"},
+              {"when": "During Ramadan", "what": "Check sugar if you feel any symptoms and break your fast if levels drop low"},
+              {"when": "After Ramadan", "what": "Return to your usual schedule and agree follow-up with your doctor"}
+            ]
+          }
+        },
+        {
+          "h2": "When is metformin not suitable?",
+          "paras": [
+            "Metformin is very safe for most people with type 2 diabetes, but there are situations where it is not appropriate or requires close monitoring. The most important is kidney function: metformin is cleared by the kidneys, and when they are significantly impaired the drug accumulates in the body and may in rare cases cause a condition called lactic acidosis. For this reason the dose is reduced or the drug stopped when the estimated glomerular filtration rate falls below a certain level.",
+            "Before any procedure using contrast dye, such as cardiac catheterisation or contrast-enhanced scanning, tell your doctor or the hospital team that you are taking metformin. Contrast can temporarily affect kidney function, which may change the decision about pausing the drug before and after the procedure.",
+            "Severe heart failure, severe liver disease, acute illness with dehydration, and certain other specific conditions all require a conversation with your doctor about whether to continue. The principle to follow is that you should not stop the drug on your own initiative: contact your doctor whenever your health situation changes significantly."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "warn",
+            "title": "Tell your doctor before any of these",
+            "items": [
+              "Contrast dye imaging or cardiac catheterisation",
+              "Major surgery under general anaesthesia",
+              "Severe diarrhoea or vomiting lasting more than a day",
+              "Starting a new drug that affects the kidneys or blood pressure",
+              "Any noticeable change in your urine output"
+            ]
+          }
+        },
+        {
+          "h2": "How do you know metformin is working?",
+          "paras": [
+            "Metformin does not produce any noticeable sensation when it is working correctly, and this can lead some patients to doubt its effectiveness. The only way to assess its effect is through regular blood sugar measurements and the HbA1c test (glycated haemoglobin). HbA1c gives you a picture of your average blood sugar over the past three months and is the most important measure for monitoring diabetes control.",
+            "The target your doctor aims for is a level agreed between you based on your age, your overall health, and whether you already have complications. For many people with type 2 diabetes the target is an HbA1c below 7 percent, but this varies from person to person and should be individualised.",
+            "Do not expect immediate results. Metformin takes several weeks for its full effect to be measurable. In some cases a doctor adds a second drug to metformin when the target is not reached, and this does not mean the metformin has failed. Diabetes is a progressive condition and sometimes needs treatment to be stepped up over time, which is a normal part of managing the disease well."
+          ]
+        },
+        {
+          "h2": "Practical tips for daily use",
+          "paras": [
+            "Taking metformin at the same times each day helps maintain consistent blood levels. If you miss a dose and remember close to your next one, skip the missed dose and do not double the next. A double dose does not mean double benefit: it increases the risk of digestive side effects and does not improve control.",
+            "Store the drug somewhere below 25 degrees Celsius with moderate humidity and away from direct sunlight. In the hot climate of the region, do not leave it in a car in summer. Intense heat degrades the drug faster and reduces its effectiveness, which is a genuine concern in the Gulf and parts of the Levant.",
+            "Metformin does not replace a healthy diet and regular physical activity. These are the essential partners of any diabetes drug, and neglecting them measurably weakens the drug's effect. Tracking your home blood sugar readings and bringing a log to your doctor appointments is one of the most practical things you can do to make your treatment work over the long term."
+          ]
+        }
+      ],
+      "tie": "In the Sihtak app you can log your daily blood sugar readings and HbA1c results, set dose reminders for multiple daily tablets, and ask the AI assistant any question about your medicine or what your readings mean. This is a tool to support your care alongside your doctor, not to replace the advice your doctor gives you in person.",
+      "faqs": [
+        {
+          "q": "Does metformin cause low blood sugar?",
+          "a": "Metformin on its own does not cause low blood sugar because it does not push the pancreas to release extra insulin. The risk increases if it is combined with sulphonylureas or insulin doses, especially when fasting or if a meal is significantly delayed."
+        },
+        {
+          "q": "Do I need to fast before taking metformin?",
+          "a": "No. Metformin is taken with a meal or immediately after, not on an empty stomach. Taking it without food increases the risk of nausea and diarrhoea. Time your dose to match your largest meal of the day."
+        },
+        {
+          "q": "Can I stop metformin if my blood sugar improves with diet?",
+          "a": "The decision to reduce or stop metformin belongs to your doctor after reviewing your readings and HbA1c. If lifestyle changes have produced excellent results, your doctor may lower the dose or discontinue it. Do not stop it on your own even if your readings look good."
+        },
+        {
+          "q": "Is metformin safe for the kidneys?",
+          "a": "Yes, for people with normal or near-normal kidney function. When kidney function falls below a certain threshold your doctor reduces the dose or stops the drug because impaired kidneys cannot clear it adequately. This is why kidney function is checked regularly."
+        },
+        {
+          "q": "Why does my doctor prescribe metformin twice or three times a day?",
+          "a": "Dividing the daily dose across two or three meals reduces digestive side effects and avoids a large single peak in the blood. The slow-release formulation (XR or SR) can be taken once daily because it releases the drug gradually."
+        },
+        {
+          "q": "Will metformin make me gain weight?",
+          "a": "No. Metformin very rarely causes weight gain and some studies suggest a neutral or mildly weight-lowering effect. This distinguishes it from several other diabetes drugs. Weight gain in some people with diabetes is driven by diet rather than the drug."
+        },
+        {
+          "q": "Can I take metformin during pregnancy?",
+          "a": "Metformin is used in pregnancy in certain situations, including gestational diabetes and PCOS, but this requires close medical supervision. If you are planning a pregnancy or discover you are pregnant, tell your doctor immediately so your treatment plan can be reviewed."
+        },
+        {
+          "q": "Does metformin interact with other medicines?",
+          "a": "Major drug interactions with metformin are uncommon. The most relevant ones involve medicines that affect kidney function, since metformin is cleared by the kidneys. Always tell your doctor and pharmacist about every medicine and supplement you take."
+        }
+      ]
+    }
+  }
+}

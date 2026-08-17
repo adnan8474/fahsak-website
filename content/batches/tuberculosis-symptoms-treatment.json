@@ -1,0 +1,372 @@
+{
+  "slug": "tuberculosis-symptoms-treatment",
+  "category": "infectious-diseases",
+  "chip_ar": "أمراض معدية",
+  "chip_en": "Infectious Diseases",
+  "date_iso": "2026-07-14",
+  "sources": [
+    {"label": "Abbara A, Almalla M, AlMasri I et al: The challenges of tuberculosis control in protracted conflict: The case of Syria, International journal of infectious diseases : IJID : official publication of the International Society for Infectious Diseases, 2020", "url": "https://pubmed.ncbi.nlm.nih.gov/31639519/"},
+    {"label": "Proenca R, Mattos Souza F, Lisboa Bastos M et al: Active and latent tuberculosis in refugees and asylum seekers: a systematic review and meta-analysis, BMC public health, 2020", "url": "https://pubmed.ncbi.nlm.nih.gov/32493327/"},
+    {"label": "Hassanain SA, Edwards JK, Venables E et al: Conflict and tuberculosis in Sudan: a 10-year review of the National Tuberculosis Programme, 2004-2014, Conflict and health, 2018", "url": "https://pubmed.ncbi.nlm.nih.gov/29785203/"},
+    {"label": "Brehm TT, Kohler N, Schmiedel S et al: Treatment of tuberculosis: what is new?, Innere Medizin (Heidelberg, Germany), 2023", "url": "https://pubmed.ncbi.nlm.nih.gov/37316702/"},
+    {"label": "Ontario Health: Interferon-Gamma Release Assay Testing for Latent Tuberculosis Infection: A Health Technology Assessment, Ontario health technology assessment series, 2024", "url": "https://pubmed.ncbi.nlm.nih.gov/39911267/"},
+    {"label": "World Health Organization: Tuberculosis fact sheet", "url": "https://www.who.int/news-room/fact-sheets/detail/tuberculosis"}
+  ],
+  "content": {
+    "ar": {
+      "title": "السل الرئوي: الأعراض والتشخيص والعلاج الكامل",
+      "desc": "دليل شامل عن مرض السل، الفرق بين الكامن والنشط، أعراض الإصابة، كيف يُشخَّص، ولماذا الالتزام بالعلاج ستة أشهر كاملة ضروري لمنع المقاومة.",
+      "keywords": "السل الرئوي, أعراض السل, علاج السل, السل الكامن, السل النشط, مقاومة المضادات الحيوية, السل في سوريا, الدراسة الجلدية للسل, فحص السل, الوقاية من السل",
+      "h1": "السل الرئوي: الأعراض والفحوصات ولماذا لا يجوز التوقف عن الدواء",
+      "takeaways": [
+        "السل مرض بكتيري قابل للشفاء التام إذا أُكمل العلاج، لكنه قاتل إذا أُهمل.",
+        "السل الكامن لا يسبب أعراضاً ولا يُعدي، لكنه قد يتحول إلى نشط عند ضعف المناعة.",
+        "أبرز الأعراض: سعال يمتد لأكثر من ثلاثة أسابيع مع بلغم أو دم، تعرق ليلي، وخسارة وزن غير مبررة.",
+        "العلاج الأساسي أربعة أدوية لمدة ستة أشهر، والتوقف المبكر يُنتج سلاً مقاوماً أصعب علاجاً وأكثر خطورة.",
+        "أكثر الفئات عرضة في المنطقة: المقيمون في مخيمات التهجير، مرضى السكري وضعف المناعة، والأطفال غير الملقّحين بـ BCG."
+      ],
+      "sections": [
+        {
+          "h2": "ما هو السل وكيف تحدث العدوى؟",
+          "paras": [
+            "السل (Tuberculosis, TB) مرض تسببه بكتيريا تُعرف بـ Mycobacterium tuberculosis. تنتقل هذه البكتيريا عبر الهواء عندما يسعل مريض بسل نشط أو يعطس أو يتكلم في فضاء مغلق ضيق. لا تنتقل بالمصافحة ولا بمشاركة الأدوات، بل تحتاج عادةً إلى احتكاك طويل ومتكرر مع مصدر العدوى.",
+            "عند استنشاق البكتيريا، قد يتعامل جهاز المناعة معها بطريقتين مختلفتين: إما أن يُحاصرها داخل كبسولات صغيرة في الرئة دون أن تتكاثر، وهذا ما يُسمى السل الكامن، وإما أن تتكاثر البكتيريا وتبدأ في إلحاق الضرر بالرئة وربما بأعضاء أخرى، وهذا هو السل النشط. القاعدة العالمية تقول إن نحو ربع البشر يحملون السل الكامن دون أن يعلموا.",
+            "في منطقتنا، تُشكّل التجمعات المكتظة وتردّي التهوية وسوء التغذية بيئة مواتية لانتشار العدوى. أثبتت دراسة نُشرت عام 2020 في المجلة الدولية للأمراض المعدية أن الصراع المسلح في سوريا أعاق بشدة برامج مكافحة السل، مع تضرر كثير من مرافق الرعاية الصحية وانقطاع سلاسل الدواء. وسجّلت السودان بدورها ضغطاً واضحاً على برنامجها الوطني خلال سنوات النزاع بين 2004 و2014."
+          ],
+          "visual": {
+            "type": "stats",
+            "items": [
+              {"value": "10.8 مليون", "label": "حالة سل جديدة عالمياً سنوياً", "tone": "warn"},
+              {"value": "1.25 مليون", "label": "وفاة بالسل سنوياً", "tone": "bad"},
+              {"value": "ربع البشر", "label": "يحملون السل الكامن تقريباً", "tone": "info"}
+            ],
+            "source": "منظمة الصحة العالمية: بيانات السل العالمية",
+            "source_url": "https://www.who.int/news-room/fact-sheets/detail/tuberculosis"
+          }
+        },
+        {
+          "h2": "ما الفرق بين السل الكامن والسل النشط؟",
+          "paras": [
+            "السل الكامن (Latent TB) يعني أن البكتيريا موجودة داخل الجسم لكنها خاملة ومحاصرة. لا تظهر على صاحبه أي أعراض، ولا يستطيع نقل العدوى لأحد. الفحص الجلدي أو فحص الدم قد يكشف عن وجوده. كثيرون يكتشفون إصابتهم الكامنة صدفةً أثناء فحص روتيني أو اختبار ما قبل السفر.",
+            "السل النشط (Active TB) يعني أن البكتيريا تتكاثر وتُحدث مرضاً. يعاني صاحبه من أعراض واضحة وقد ينقل الجرثومة لمن حوله عبر الهواء. السل النشط في الرئة هو الأكثر شيوعاً وانتشاراً، لكن البكتيريا قد تصيب أيضاً الغدد الليمفاوية والعمود الفقري والكلى والدماغ في ما يُعرف بالسل خارج الرئة.",
+            "يتحول السل الكامن إلى نشط لدى نحو 5 إلى 10 بالمئة من الحاملين على مدار حياتهم، وترتفع هذه النسبة بشكل ملحوظ عند مرضى السكري، والمصابين بفيروس نقص المناعة البشري (HIV)، والذين يتناولون أدوية مثبطة للمناعة. مراجعة نُشرت عام 2020 في مجلة BMC للصحة العامة بيّنت أن اللاجئين وطالبي اللجوء يحملون أعباء أعلى من السل الكامن مقارنة بالسكان المحيطين بهم."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "السل الكامن مقابل السل النشط",
+            "head": ["الخاصية", "السل الكامن", "السل النشط"],
+            "rows": [
+              ["الأعراض", "لا أعراض", "سعال، حُمى، تعرق ليلي"],
+              ["العدوى", "لا ينقل العدوى", "معدٍ عبر الهواء"],
+              ["الفحوصات", "جلدية أو دموية إيجابية", "بلغم إيجابي وأشعة مريبة"],
+              ["العلاج", "اختياري لكن ينصح به", "إلزامي ومتكامل ستة أشهر"]
+            ]
+          }
+        },
+        {
+          "h2": "ما أعراض السل النشط التي يجب أن تنتبه إليها؟",
+          "paras": [
+            "العرض الأبرز هو السعال الذي يستمر لأكثر من ثلاثة أسابيع. في البداية قد يبدو جافاً، ثم تظهر معه كميات من البلغم. إذا امتزج البلغم بالدم، فهذه إشارة تستوجب مراجعة الطبيب فوراً دون تأخير.",
+            "إلى جانب السعال، يعاني كثير من المرضى من تعرق ليلي غزير يبلّل الملابس والفراش، وحُمى خفيفة تعود في المساء وتنخفض في الصباح، وفقدان الشهية وخسارة الوزن غير المبررة. التعب المستمر وضيق التنفس عند المجهود من الأعراض الشائعة أيضاً.",
+            "في حالة السل خارج الرئة، تختلف الأعراض حسب العضو المصاب. سل الغدد الليمفاوية يُظهر تضخماً في الغدد عادةً في الرقبة. سل العمود الفقري يسبب آلاماً في الظهر، وسل الدماغ يتجلى بصداع شديد وتيبس الرقبة وتغير مستوى الوعي. هذه الحالات الأخيرة أقل شيوعاً لكنها أشد خطورة."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "اذهب إلى الطبيب فوراً إذا لاحظت",
+            "items": [
+              "سعال يمتد لأكثر من ثلاثة أسابيع مع بلغم أو دم",
+              "تعرق ليلي غزير متكرر لا تفسير له",
+              "فقدان وزن ملحوظ خلال أسابيع دون قصد",
+              "حُمى خفيفة تعود كل مساء مع تعب شديد",
+              "صداع شديد وتيبس رقبة وتغير في الوعي (سل دماغي محتمل)"
+            ]
+          }
+        },
+        {
+          "h2": "كيف يُشخَّص السل؟",
+          "paras": [
+            "التشخيص يبدأ بالفحص السريري وصورة الصدر الشعاعية. أشعة X أو CT للصدر قد تُظهر بقعاً أو تجاوفات في قمة الرئة أو انتشاراً منتشراً يُعرف بالسل الدخني، وهذه صور توحي بالتشخيص لكنها لا تؤكده وحدها.",
+            "الطريقة الأكيدة هي زرع عينة البلغم في مختبر للكشف عن البكتيريا. هذا يأخذ من أسبوعين إلى ثمانية أسابيع. تقنية أسرع هي اختبار Xpert MTB/RIF الجزيئي الذي يُعطي نتيجة خلال ساعتين ويكشف في الوقت ذاته عن مقاومة الريفامبيسين (أهم أدوية السل).",
+            "للكشف عن السل الكامن تحديداً يُستخدم اختبار التيوبيركولين الجلدي (Tuberculin Skin Test) أو فحوصات الدم المعروفة بـ IGRA (Interferon-Gamma Release Assay). مراجعة شاملة صدرت عام 2024 أكدت أن IGRA أكثر دقة من الاختبار الجلدي خاصة عند الأشخاص الذين تلقوا تطعيم BCG في طفولتهم، لأن هذا التطعيم قد يعطي نتيجة إيجابية كاذبة في الاختبار الجلدي."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "مسار التشخيص في المستشفى أو المركز الصحي",
+            "items": [
+              "الفحص السريري والسؤال عن الأعراض ومدتها وعوامل الخطر",
+              "صورة شعاعية للصدر (X-ray أو CT) للبحث عن علامات في الرئة",
+              "جمع عينات البلغم في ثلاثة أيام متتالية للزرع المختبري",
+              "اختبار Xpert MTB/RIF عند الاشتباه لإسراع التشخيص",
+              "اختبار جلدي أو IGRA للكشف عن السل الكامن عند المخالطين"
+            ]
+          }
+        },
+        {
+          "h2": "ما علاج السل ولماذا يجب إكماله كاملاً؟",
+          "paras": [
+            "علاج السل النشط يقوم على أربعة مضادات حيوية تُعطى معاً لمدة شهرين، ثم يُكمل المريض بمضادَّين منها لأربعة أشهر إضافية، لمجموع ستة أشهر. الأدوية الأربعة الأساسية هي الإيزونيازيد (Isoniazid) والريفامبيسين (Rifampicin) والإيثامبوتول (Ethambutol) والبيرازيناميد (Pyrazinamide). يُصف الطبيب الجرعة بناءً على وزن المريض.",
+            "السبب الذي يجعل الالتزام بالأشهر الستة أمراً حيوياً هو طبيعة بكتيريا السل: تنقسم ببطء شديد مقارنة بمعظم البكتيريا، فأجزاء منها تكون في حالة خمول وقت الجرعة ثم تنشط لاحقاً. التوقف المبكر يقتل البكتيريا الضعيفة ويُبقي الأقوى منها، وهذه الأقوى تتكاثر وتُورث مقاومتها للدواء لنسلها. النتيجة هي سل مقاوم (MDR-TB) يحتاج علاجاً أطول وأشد عبئاً وأكثر تكلفة.",
+            "مراجعة نُشرت عام 2023 في مجلة الطب الباطني الألمانية أوضحت أن الأنظمة العلاجية الجديدة القصيرة المدة باتت متاحة للحالات المختارة، لكن الستة أشهر لا تزال المعيار الذهبي للسل الحساس للأدوية. إذا فاتتك جرعة أو جرعات، لا تضاعف الجرعة التالية، بل أخبر الطبيب أو المشرف على علاجك فوراً."
+          ]
+        },
+        {
+          "h2": "ما السل المقاوم وكيف يختلف علاجه؟",
+          "paras": [
+            "السل المقاوم للأدوية (Drug-Resistant TB) ينشأ حين تُطوّر البكتيريا قدرة على تحمّل الأدوية القياسية، في الغالب بسبب علاج ناقص أو انقطاع في الدواء. النوع الأشهر هو MDR-TB (المقاوم للإيزونيازيد والريفامبيسين معاً) والأشد خطورة هو XDR-TB (المقاوم لأدوية خط أول وثانٍ).",
+            "علاج MDR-TB أطول كثيراً، قد يمتد من تسعة أشهر إلى عامين حسب الحالة والأدوية المتاحة. الآثار الجانبية للأدوية المستخدمة في هذه الأنظمة أشد، وتشمل اضطرابات سمع وإشكاليات نفسية أحياناً. ولهذا فإن الوقاية من MDR-TB بإتمام العلاج القياسي كاملاً هي أفضل بكثير من علاجه.",
+            "في بعض مناطق العالم العربي، تسببت النزاعات وانقطاع سلاسل التوريد في توقف العلاج لدى بعض المرضى دون قصد منهم، مما أسهم في رفع نسب المقاومة. إذا تعذّر عليك الحصول على جرعتك في المكان المعتاد، توجّه فوراً إلى أي مركز صحي أو مستشفى آخر وأخبرهم بوضعك. البرامج الوطنية لمكافحة السل في معظم دول المنطقة توفّر الأدوية الأساسية مجاناً."
+          ],
+          "visual": {
+            "type": "timeline",
+            "title": "مسار العلاج القياسي لستة أشهر",
+            "items": [
+              {"when": "الشهران 1-2", "what": "أربعة أدوية: إيزونيازيد + ريفامبيسين + إيثامبوتول + بيرازيناميد"},
+              {"when": "الشهران 3-6", "what": "دواءان فقط: إيزونيازيد + ريفامبيسين"},
+              {"when": "نهاية الشهر 6", "what": "فحص بلغم للتأكد من الشفاء التام"}
+            ]
+          }
+        },
+        {
+          "h2": "من الأكثر عرضة للإصابة في منطقتنا؟",
+          "paras": [
+            "المقيمون في أماكن مكتظة كالمخيمات ومراكز الإيواء المؤقتة هم في مقدمة الفئات الأكثر عرضة، إذ يسهل انتقال الهواء الملوث بالبكتيريا في مساحات ضيقة سيئة التهوية. دراسة السودان المنشورة عام 2018 وثّقت كيف رفعت سنوات النزاع معدلات السل بشكل ملموس في المجتمعات المتضررة.",
+            "مرضى السكري معرضون لخطر مضاعف، إذ يُضعف ارتفاع السكر وظائف خلايا المناعة مما يُسهّل تحول السل الكامن إلى نشط. المصابون بفيروس HIV، ومن يتلقون أدوية مثبطة للمناعة كمرضى الزرع والروماتيزم، كذلك في خطر مرتفع. الأطفال دون الخامسة والمسنون فئتان أكثر هشاشة أيضاً.",
+            "العمال المهاجرون الذين ينتقلون بين مناطق عالية الانتشار والبلدان المستقبِلة يحملون أحياناً سلاً كامناً اكتسبوه في بلدانهم الأصلية. الكشف المبكر لهذه الفئات وعلاج الكامن عند الضرورة يقطع سلسلة الانتقال قبل أن يتحول إلى نشط.",
+            "سوء التغذية وانعدام الأمن الغذائي يُفاقمان الخطر أيضاً، إذ يُضعف النقص في البروتين والزنك والفيتامينات استجابة المناعة. المرضى الذين يبدؤون العلاج بوزن متدنٍّ أو بأنيميا شديدة يحتاجون دعماً غذائياً موازياً حتى يستجيبوا للعلاج بصورة أفضل."
+          ]
+        },
+        {
+          "h2": "كيف تحمي نفسك وعائلتك من السل؟",
+          "paras": [
+            "تطعيم BCG الذي يُعطى للمواليد يُقلل من خطر الأشكال الشديدة كسل السحايا والسل الدخني عند الأطفال الصغار، وهو إلزامي في برامج التطعيم في معظم دول المنطقة. حماية BCG للبالغين أقل استقراراً لكنها لا تزال تُمنح في بعض البروتوكولات.",
+            "إذا كنت تعيش أو تعمل مع شخص مصاب بسل نشط، عليك بفحص السل الكامن عبر الاختبار الجلدي أو IGRA. في حال ثبتت الإصابة الكامنة، يُقيّم الطبيب ما إذا كانت العلاجات الوقائية القصيرة مناسبة لك.",
+            "التهوية الجيدة في المنازل والمدارس والعيادات تُقلل تراكم البكتيريا في الهواء. إذا كنت تُعالَج من سل نشط، ارتدِ كمامة وابقَ في غرفة جيدة التهوية وتجنب الأماكن المكتظة حتى يُقرر الطبيب انتهاء فترة العدوى، عادةً بعد أسبوعين إلى ثلاثة من بدء العلاج.",
+            "إذا كان في البيت أطفال صغار دون الخامسة وكان أحد الوالدين مصاباً بسل نشط، فاستشر الطبيب عن إمكانية إجراء فحص IGRA للأطفال وعن العلاج الوقائي بالإيزونيازيد. الأطفال في هذه الفئة العمرية معرضون لخطر أعلى لتطور المرض إلى أشكاله الشديدة إذا لم يُعالَجوا. كثير من برامج التدخل الوطنية في مصر والأردن ودول الخليج تُقدّم تتبّع المخالطين مجاناً عند الإبلاغ عن الحالة."
+          ]
+        },
+        {
+          "h2": "متى تطلب المساعدة الطبية العاجلة؟",
+          "paras": [
+            "السعال المصحوب بدم يستوجب مراجعة طبية في اليوم نفسه. كذلك ضيق التنفس المتزايد مع الحُمى أو الشعور بألم في الصدر يستدعي تقييماً عاجلاً. هذه الأعراض قد تدل على مضاعفات كاستسقاء الجنب أو انتشار البكتيريا للدم.",
+            "إذا كنت تتلقى علاج السل وظهرت عليك آثار جانبية مزعجة كاصفرار الجلد والعينين، أو ضعف الرؤية، أو طرش أو رنين في الأذن، أو حرقة في القدمين، أو طفح جلدي مفاجئ، لا تتوقف عن الدواء من تلقاء نفسك بل تواصل مع الطبيب أو المركز الصحي فوراً لأن التعديل في الجرعة أو الدواء ربما يكون ضرورياً.",
+            "مرضى السل يحتاجون متابعة منتظمة كل شهر أو أكثر حسب بروتوكول المركز. الفحوصات الشهرية تشمل تقييم الأعراض وزرع البلغم الذي يُثبت أن العلاج فعّال. لا تنتظر حتى موعدك المقبل إذا تدهورت حالتك.",
+            "قد يُشكّل تكلفة المتابعة وإجراء فحص زرع البلغم عقبة في بعض المناطق. إذا لم يكن المختبر القريب منك قادراً على زرع البلغم، فالمسحة المجهرية أرخص ولا تزال مفيدة. اسأل في المركز الصحي عن الخيارات المتاحة محلياً، فالاستمرار في المتابعة أهم من الحصول على الفحص المثالي فقط."
+          ]
+        }
+      ],
+      "tie": "تطبيق صحتك يمكّنك من تسجيل أعراضك اليومية وتتبع مواعيد جرعات السل الستة أشهر، مع تنبيهات تُذكّرك بالجرعة اليومية حتى لا تنقطع. ويشرح لك المساعد الذكي معنى نتائج فحص البلغم أو الأشعة التي تلقيتها، دون أن يُغني ذلك عن طبيبك. متابعة مريض بالسل في العائلة تصبح أيسر حين توثّق كل شيء في مكان واحد تستطيع مشاركته مع الفريق الصحي.",
+      "faqs": [
+        {
+          "q": "هل يمكنني الإصابة بالسل من شخص يسعل بجانبي مرة واحدة؟",
+          "a": "في الغالب لا. الإصابة تحتاج عادةً إلى احتكاك متكرر أو طويل في فضاء مغلق مع مصدر العدوى. لقاء عابر أو حديث قصير في مكان مفتوح نادراً ما يكفي للعدوى. الخطر الأكبر هو على من يعيش أو يعمل مع المريض يومياً."
+        },
+        {
+          "q": "هل السل قابل للشفاء التام؟",
+          "a": "نعم، السل الحساس للأدوية قابل للشفاء التام بالالتزام بالعلاج الكامل ستة أشهر. معدلات الشفاء مرتفعة جداً عند الالتزام. السل المقاوم أصعب لكنه أيضاً قابل للشفاء مع علاج أطول وتخصصي."
+        },
+        {
+          "q": "هل السل الكامن يحتاج علاجاً؟",
+          "a": "ليس دائماً. القرار يعتمد على خطر تحوّله إلى نشط. من لديهم مناعة ضعيفة أو مرض السكري أو اختبار IGRA إيجابي حديث عادةً يُنصحون بعلاج وقائي قصير. طبيبك هو من يُقيّم هذا بناءً على وضعك."
+        },
+        {
+          "q": "لماذا يجب أن آخذ أربعة أدوية دفعة واحدة؟",
+          "a": "لأن كل دواء يستهدف البكتيريا في مرحلة مختلفة من حياتها. بعضها يقضي على البكتيريا النشطة المتكاثرة، وبعضها يصل إلى البكتيريا الخاملة المختبئة في الخلايا. استخدام الأدوية معاً يمنع كل طفرة مقاومة من البقاء."
+        },
+        {
+          "q": "هل السل يصيب أعضاء غير الرئة؟",
+          "a": "نعم. بكتيريا السل قد تصل عبر الدم إلى الغدد الليمفاوية والعمود الفقري والكلى والأمعاء والدماغ والعظام. هذا يُعرف بالسل خارج الرئة وأعراضه تختلف حسب العضو المصاب. التشخيص أصعب ويحتاج فحوصات إضافية."
+        },
+        {
+          "q": "هل تطعيم BCG يقي من السل؟",
+          "a": "يقي BCG بشكل جيد من الأشكال الشديدة عند الرضع والأطفال الصغار كسل السحايا والسل الدخني. حمايته للبالغين من السل الرئوي أقل موثوقية، لكنه لا يزال إلزامياً في برامج التطعيم لأنه يقلل المضاعفات الخطيرة عند الإصابة."
+        },
+        {
+          "q": "هل الوصمة الاجتماعية لا تزال مشكلة في السل؟",
+          "a": "للأسف نعم في بعض بيئاتنا. هذه الوصمة تُؤخر الكثيرين عن طلب التشخيص والعلاج وهي تزيد الوباء سوءاً. السل مرض عدوى بكتيري كغيره تماماً، يصيب الأقوياء والضعفاء على حد سواء، والتشخيص المبكر ينقذ الحياة ويحمي الأسرة."
+        },
+        {
+          "q": "ماذا أفعل إذا كنت قد خالطت شخصاً اكتُشف أنه مصاب بسل نشط؟",
+          "a": "تواصل مع مركز صحي أو مستشفى وأخبرهم بطبيعة الاحتكاك ومدته. عادةً يُحال المخالطون المقرّبون لاختبار جلدي أو IGRA. إذا كنت تعاني أعراضاً مثل السعال المتواصل أو التعرق الليلي، اطلب الفحص فوراً ولا تنتظر."
+        }
+      ]
+    },
+    "en": {
+      "title": "Tuberculosis: Symptoms, Testing and the Full Course",
+      "desc": "A guide to TB: latent vs active disease, what symptoms to watch for, how it is tested, and why stopping treatment early breeds drug-resistant TB.",
+      "keywords": "tuberculosis symptoms, TB treatment, latent tuberculosis, active TB, drug-resistant TB, MDR-TB, TB testing, BCG vaccine, Syria tuberculosis, TB six months",
+      "h1": "Tuberculosis: Symptoms, Testing and Why You Must Finish the Full Six Months",
+      "takeaways": [
+        "TB is a curable bacterial infection when treatment is completed in full, but it is life-threatening when neglected.",
+        "Latent TB causes no symptoms and is not contagious, but it can turn active if your immune system weakens.",
+        "The main warning signs are a cough lasting more than three weeks, night sweats and unexplained weight loss.",
+        "Standard treatment is four drugs taken together for two months, then two drugs for four months: stopping early breeds drug-resistant TB that is much harder to treat.",
+        "People at highest risk in our region include those living in crowded displacement settings, people with diabetes or weakened immunity, and unvaccinated children."
+      ],
+      "sections": [
+        {
+          "h2": "What is tuberculosis and how does it spread?",
+          "paras": [
+            "Tuberculosis (TB) is caused by a bacterium called Mycobacterium tuberculosis. It spreads through the air when a person with active TB in the lungs coughs, sneezes or speaks in a closed and poorly ventilated space. It does not spread through handshakes or shared crockery. Infection usually requires repeated or prolonged contact with someone who has the active disease.",
+            "When the bacteria are breathed in, the immune system can respond in two ways. It may wall them off inside small capsules in the lung, keeping them alive but inactive: this is latent TB. Or the bacteria may multiply and begin damaging the lung tissue and sometimes other organs: this is active TB. Roughly a quarter of the world's population is estimated to carry latent TB.",
+            "In the Middle East and North Africa, overcrowded housing, poor ventilation and undernutrition create conditions that favour spread. A 2020 study published in the International Journal of Infectious Diseases documented how armed conflict in Syria severely disrupted TB control programmes, damaging health facilities and breaking medicine supply chains. Sudan's national programme similarly came under severe pressure during the years of conflict between 2004 and 2014."
+          ],
+          "visual": {
+            "type": "stats",
+            "items": [
+              {"value": "10.8 million", "label": "new TB cases globally each year", "tone": "warn"},
+              {"value": "1.25 million", "label": "TB deaths each year worldwide", "tone": "bad"},
+              {"value": "~1 in 4", "label": "people carry latent TB globally", "tone": "info"}
+            ],
+            "source": "World Health Organization: Tuberculosis fact sheet",
+            "source_url": "https://www.who.int/news-room/fact-sheets/detail/tuberculosis"
+          }
+        },
+        {
+          "h2": "What is the difference between latent and active TB?",
+          "paras": [
+            "Latent TB means the bacteria are present inside the body but dormant and walled off. The person has no symptoms and cannot pass the infection to anyone else. A skin test or a blood test can reveal it. Many people discover their latent TB incidentally during a routine pre-travel or pre-employment screen.",
+            "Active TB means the bacteria are multiplying and causing disease. The person has symptoms and can spread the bacteria through the air to those nearby. Pulmonary TB, which affects the lungs, is the most common and transmissible form. The bacteria can also affect the lymph nodes, spine, kidneys and brain in what is called extrapulmonary TB.",
+            "Latent TB progresses to active disease in about 5 to 10 percent of carriers over a lifetime, but this risk rises sharply in people with diabetes, those living with HIV, and those taking medicines that suppress the immune system. A 2020 systematic review published in BMC Public Health found that refugees and asylum seekers carry significantly higher burdens of latent TB compared with surrounding populations."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Latent TB vs Active TB",
+            "head": ["Feature", "Latent TB", "Active TB"],
+            "rows": [
+              ["Symptoms", "None", "Cough, fever, night sweats"],
+              ["Contagious", "No", "Yes, airborne"],
+              ["Tests", "Skin or blood test positive", "Sputum positive, chest X-ray changes"],
+              ["Treatment", "Sometimes preventive therapy", "Mandatory, six months minimum"]
+            ]
+          }
+        },
+        {
+          "h2": "What are the symptoms of active TB to watch for?",
+          "paras": [
+            "The most prominent sign is a cough lasting more than three weeks. It often begins dry, then produces sputum. If the sputum is streaked with blood, you need to see a doctor the same day, without delay.",
+            "Alongside the cough, many patients experience heavy night sweats that soak clothing and bedding, a low-grade fever that returns each evening and falls in the morning, loss of appetite and unexplained weight loss over several weeks. Persistent fatigue and shortness of breath on exertion are also common.",
+            "In extrapulmonary TB the symptoms vary by the organ affected. Lymph node TB typically causes painless swellings in the neck. Spinal TB causes back pain, sometimes with weakness in the legs. Tuberculous meningitis presents with severe headache, neck stiffness and altered consciousness. These forms are less common but significantly more dangerous."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "See a doctor the same day if you have",
+            "items": [
+              "A cough lasting more than three weeks with sputum or blood",
+              "Repeated heavy night sweats with no other explanation",
+              "Noticeable weight loss over weeks without trying",
+              "A low-grade fever returning every evening with severe fatigue",
+              "Severe headache, stiff neck and confusion (possible TB meningitis)"
+            ]
+          }
+        },
+        {
+          "h2": "How is TB diagnosed?",
+          "paras": [
+            "Diagnosis begins with a clinical examination and a chest X-ray or CT scan. Imaging may show patches, cavities in the upper lung or a miliary pattern spread throughout the lung. These findings suggest TB but alone they cannot confirm it.",
+            "The definitive method is culturing a sputum sample in the laboratory to identify the bacteria. This takes two to eight weeks. A faster option is the Xpert MTB/RIF molecular test, which gives a result within two hours and simultaneously detects rifampicin resistance, the most important first-line drug.",
+            "For latent TB specifically, the tuberculin skin test (TST) or a blood test called IGRA (Interferon-Gamma Release Assay) is used. A comprehensive health technology assessment published in 2024 confirmed that IGRA is more accurate than the skin test in people who received BCG vaccination in childhood, since BCG can cause false-positive skin test results."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "The diagnostic pathway at a clinic or hospital",
+            "items": [
+              "Clinical examination and questions about symptoms, duration and risk factors",
+              "Chest X-ray or CT scan to look for changes in the lungs",
+              "Three sputum samples collected on consecutive mornings for laboratory culture",
+              "Xpert MTB/RIF test when TB is strongly suspected, for a faster result",
+              "Skin test or IGRA to screen close contacts for latent infection"
+            ]
+          }
+        },
+        {
+          "h2": "What is the treatment and why must you complete the full course?",
+          "paras": [
+            "Standard treatment for active TB uses four antibiotics given together for two months, followed by two of those drugs for a further four months, making six months in total. The four first-line drugs are isoniazid, rifampicin, ethambutol and pyrazinamide. Your doctor calculates the dose according to your body weight.",
+            "The reason finishing six months is essential lies in the biology of the bacterium. Mycobacterium tuberculosis divides extremely slowly compared with most bacteria, and some cells are dormant at the time of each dose then become active later. Stopping early kills the weaker bacteria and leaves the stronger ones behind: those stronger organisms multiply and pass their resistance on, producing drug-resistant TB (MDR-TB) that requires a much longer and more toxic regimen.",
+            "A review published in 2023 in Innere Medizin noted that new shorter regimens are now available for selected cases, but six months remains the gold standard for drug-susceptible TB. If you miss doses, do not double the next one. Contact your doctor or treatment supervisor immediately so the missed doses can be accounted for."
+          ]
+        },
+        {
+          "h2": "What is drug-resistant TB and how is it treated differently?",
+          "paras": [
+            "Drug-resistant TB arises when the bacteria develop the ability to survive standard antibiotics, most often because of incomplete treatment or supply interruptions. The most common type is MDR-TB, which is resistant to both isoniazid and rifampicin. The most severe form, XDR-TB, is resistant to multiple first-line and second-line drugs.",
+            "MDR-TB treatment is far longer, ranging from nine months to two years depending on the case and available drugs. The medicines used carry heavier side effects, including hearing problems and sometimes psychiatric effects. Preventing MDR-TB by completing the standard course is incomparably better than having to treat it.",
+            "In some parts of the Middle East and North Africa, medicine shortages due to conflict or supply chain failures have interrupted courses, unintentionally driving resistance. If you experience a supply interruption, contact the nearest TB programme or health centre immediately. Switching to a different facility or programme to continue your course is preferable to an interruption, and national TB programmes in most countries of the region offer free first-line drugs."
+          ],
+          "visual": {
+            "type": "timeline",
+            "title": "The standard six-month treatment timeline",
+            "items": [
+              {"when": "Months 1-2", "what": "Four drugs: isoniazid, rifampicin, ethambutol and pyrazinamide taken daily"},
+              {"when": "Months 3-6", "what": "Two drugs only: isoniazid and rifampicin taken daily"},
+              {"when": "End of month 6", "what": "Sputum culture to confirm complete clearance of the bacteria"}
+            ]
+          }
+        },
+        {
+          "h2": "Who is at highest risk in the Middle East and North Africa?",
+          "paras": [
+            "People living in crowded settings such as refugee camps and temporary shelters are at the front of the risk distribution, because the airborne bacteria accumulate in small, poorly ventilated spaces. The 2018 Sudan study documented how years of conflict raised TB rates measurably in affected communities.",
+            "People with diabetes face roughly double the general population risk because elevated blood glucose impairs immune cell function, making it easier for latent TB to progress. People living with HIV and those on immunosuppressive medicines for transplants or rheumatic conditions are also at significantly elevated risk. Children under five and the elderly are two further groups with heightened vulnerability.",
+            "Migrant workers moving between high-burden countries and their host countries sometimes carry latent TB acquired at home. Early screening of these groups and preventive treatment when indicated can interrupt the chain of transmission before latent infection turns active."
+          ]
+        },
+        {
+          "h2": "How can you protect yourself and your household?",
+          "paras": [
+            "The BCG vaccine given at birth protects well against the severe forms of TB in young children, including TB meningitis and miliary TB. It is mandatory in the immunisation programmes of most countries in the region. Protection against pulmonary TB in adults is less consistent but BCG remains recommended because it prevents the most dangerous complications.",
+            "If you live or work with someone who has active TB, ask at your nearest health centre about being screened with a skin test or IGRA. If latent infection is found, your doctor will assess whether a short preventive treatment course is appropriate for you given your health history.",
+            "Good ventilation in homes, schools and clinics lowers the concentration of airborne bacteria. If you are being treated for active TB, wear a mask in indoor spaces and avoid crowded environments until your doctor confirms you are no longer contagious, which is usually after two to three weeks of treatment with the correct drugs.",
+            "For households with young children, ask your health centre whether the children qualify for IGRA screening or preventive isoniazid. Children under five who are close contacts of a smear-positive case carry a higher risk of progressing to severe forms of TB, and preventive treatment in this group is well established. In many public health programmes in Egypt, Jordan and the Gulf, contact tracing is offered at no cost when a case is notified."
+          ]
+        },
+        {
+          "h2": "When should you seek urgent medical attention?",
+          "paras": [
+            "Coughing blood requires a same-day medical review. So does worsening breathlessness with fever, or chest pain alongside any respiratory symptoms. These may point to complications such as a pleural effusion (fluid around the lung) or spread of the bacteria through the bloodstream.",
+            "If you are already on TB treatment and develop yellowing of the skin or eyes, blurred or reduced vision, ringing or reduced hearing, burning in your feet, or a sudden skin rash, do not stop the medication on your own. Contact your doctor or treatment centre immediately, as a dose or drug adjustment may be needed. These are recognised side effects of TB drugs and are manageable if reported early.",
+            "Patients on TB treatment need regular monthly follow-up reviews. These visits include symptom assessment and sputum culture to confirm the treatment is working. Do not wait for your next scheduled appointment if your condition is worsening.",
+            "One practical concern in the region is the cost and availability of follow-up sputum cultures. If your nearest laboratory cannot perform culture, a smear microscopy is cheaper and still informative. Ask the TB programme or health centre about the options available locally. The priority is to stay engaged with care rather than drop out because follow-up seems complicated."
+          ]
+        }
+      ],
+      "tie": "The Sihtak app lets you log daily symptoms and set reminders for each of the six months of TB treatment, so no dose is missed. The AI assistant can help you understand what your sputum result or chest X-ray report says, without replacing your doctor. If you are monitoring a family member on treatment, logging everything in one place makes it easier to share with the health team at each review visit.",
+      "faqs": [
+        {
+          "q": "Can I catch TB from someone who coughs once near me?",
+          "a": "Usually not. Infection typically requires repeated or prolonged exposure in a closed, poorly ventilated space. A brief encounter in an open area rarely carries significant risk. The people most at risk are those who live or work daily with an infectious person."
+        },
+        {
+          "q": "Is tuberculosis completely curable?",
+          "a": "Yes, drug-susceptible TB is completely curable when the full six-month course is completed. Cure rates are very high in patients who adhere to treatment. Drug-resistant TB is harder to treat but is also curable with a specialist regimen."
+        },
+        {
+          "q": "Does latent TB need treatment?",
+          "a": "Not always. The decision depends on your risk of progression to active disease. People with diabetes, HIV, a recent positive IGRA or close contact with an active case are usually offered a short preventive course. Your doctor assesses this based on your individual situation."
+        },
+        {
+          "q": "Why do I have to take four drugs at the same time?",
+          "a": "Each drug targets the bacteria at a different stage of their life cycle. Some reach actively dividing organisms, others penetrate cells to kill dormant bacteria. Using all four together prevents any resistant mutant from surviving and multiplying."
+        },
+        {
+          "q": "Can TB affect organs other than the lungs?",
+          "a": "Yes. The bacteria can reach the lymph nodes, spine, kidneys, gut, brain and bones through the bloodstream. Extrapulmonary TB symptoms vary by the organ involved and diagnosis requires additional tests beyond a chest X-ray."
+        },
+        {
+          "q": "Does the BCG vaccine protect against TB?",
+          "a": "It protects well against the severe childhood forms including TB meningitis and miliary TB. Protection against pulmonary TB in adults is less reliable, but BCG is still given at birth because it significantly reduces the chance of life-threatening complications."
+        },
+        {
+          "q": "What should I do if I have been in close contact with someone diagnosed with active TB?",
+          "a": "Go to a health centre or hospital and tell them about the nature and length of your contact. Close contacts are usually referred for a skin test or IGRA blood test. If you already have symptoms such as a persistent cough or night sweats, ask for a full assessment rather than just a screening test."
+        },
+        {
+          "q": "Is there still a social stigma around TB in the region?",
+          "a": "Unfortunately yes, in some communities. This stigma delays diagnosis and treatment and makes the epidemic worse. TB is a bacterial infection like any other: it affects people regardless of lifestyle or background. Early diagnosis protects the patient and the family alike."
+        }
+      ]
+    }
+  }
+}

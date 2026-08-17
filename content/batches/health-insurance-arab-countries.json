@@ -1,0 +1,353 @@
+{
+  "slug": "health-insurance-arab-countries",
+  "category": "regional-health",
+  "chip_ar": "التأمين الصحي",
+  "chip_en": "Health Insurance",
+  "date_iso": "2026-08-01",
+  "sources": [
+    {
+      "label": "Alshehari et al., Measuring progress towards universal health coverage in 22 MENA countries, Dialogues in Health, 2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39310039/"
+    },
+    {
+      "label": "Nair et al., Healthcare Financing in Saudi Arabia: A Comprehensive Review, Healthcare (Basel), 2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39765971/"
+    },
+    {
+      "label": "World Health Organization Regional Office for the Eastern Mediterranean: Health systems and universal health coverage",
+      "url": "https://www.emro.who.int/health-systems/index.html"
+    },
+    {
+      "label": "Review of Health Systems of the Middle East and North Africa Region, International Encyclopedia of Public Health, 2016",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7149321/"
+    },
+    {
+      "label": "Healthcare systems and health economics in GCC countries, Frontiers in Public Health, 2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40226322/"
+    },
+    {
+      "label": "World Health Organization: Universal health coverage fact sheet",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/universal-health-coverage-(uhc)"
+    }
+  ],
+  "content": {
+    "ar": {
+      "title": "التأمين الصحي في الدول العربية: كيف يعمل",
+      "desc": "دليل مقارن للتأمين الصحي في السعودية والإمارات ومصر والأردن ولبنان. ما يُغطيه وما لا يُغطيه، وكيف تقرأ وثيقتك قبل أن تحتاجها.",
+      "keywords": "التأمين الصحي السعودية, التأمين الصحي الإمارات, التأمين الصحي مصر, التأمين الصحي الأردن, التأمين الصحي لبنان, الرعاية الصحية الخليج, التغطية الطبية, وثيقة التأمين",
+      "h1": "التأمين الصحي في الدول العربية: دليل مقارن بالأنظمة والتغطية وما لا تُغطيه",
+      "takeaways": [
+        "دول الخليج تختلف اختلافا جوهريا في نموذج التأمين الصحي: السعودية والإمارات تشترطان تأمينا على العمالة الوافدة، بينما الكويت وقطر وعُمان تقدم رعاية حكومية أشمل لمواطنيها.",
+        "مصر والأردن ولبنان تعتمد نماذج مختلطة تجمع بين قطاع حكومي وقطاع خاص، ونسب التغطية الفعلية فيها أقل بكثير من الدول الخليجية.",
+        "اقرأ وثيقتك التأمينية قبل أن تحتاجها: ابحث عن بند الاستثناءات والحالات المزمنة السابقة وسقف التغطية السنوي والسداد المشترك.",
+        "بعض السياسات تستثني الحالات الموجودة قبل التأمين لفترة انتظار تتراوح بين 6 و12 شهرا. إذا كان لديك مرض مزمن أبلغ شركة التأمين عنه عند الاشتراك.",
+        "الطوارئ مغطاة في معظم الحالات حتى خارج الشبكة التأمينية لكن التأشيرة المسبقة مطلوبة في الغالب للعمليات الاختيارية."
+      ],
+      "sections": [
+        {
+          "h2": "ما أنواع أنظمة التأمين الصحي في الدول العربية؟",
+          "paras": [
+            "لا يوجد نموذج تأميني موحّد في الدول العربية، بل تتباين الأنظمة تباينا كبيرا بحسب مستوى الدخل والسياسة الحكومية ونسبة العمالة الوافدة. يمكن تصنيف الدول إلى ثلاث مجموعات رئيسية: الدول الخليجية ذات الدخل المرتفع التي طوّرت نماذج تأمين متقدمة نسبيا، والدول متوسطة الدخل كمصر والأردن والمغرب التي تجمع بين التأمين الحكومي والخاص، والدول ذات الأنظمة الهشة كسوريا ولبنان واليمن والعراق التي تأثرت أنظمتها الصحية بالصراعات والأزمات الاقتصادية.",
+            "دراسة نشرتها مجلة Dialogues in Health عام 2024 وشملت 22 دولة في منطقة الشرق الأوسط وشمال أفريقيا وجدت أن ست دول فقط سنّت تشريعات ملزمة بالتغطية الصحية الشاملة هي البحرين والأردن والكويت وعُمان وتونس والإمارات. هذا يعني أن أغلب سكان المنطقة لا يملكون ضمانا قانونيا للرعاية الصحية الشاملة.",
+            "الفجوة بين ما يضمنه القانون وما تجده فعليا كبيرة في بعض الدول. التأمين الرسمي لا يعني دائما الوصول السريع إلى الرعاية المتخصصة أو تغطية الأدوية المستحدثة أو الخدمات النفسية والتأهيلية."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "مقارنة أنظمة التأمين الصحي في خمس دول عربية رئيسية",
+            "head": ["الدولة", "النموذج الرئيسي", "تغطية المواطنين", "تغطية العمالة الوافدة"],
+            "rows": [
+              ["السعودية", "تأمين تعاوني إلزامي", "رعاية حكومية مجانية", "تأمين إلزامي على صاحب العمل"],
+              ["الإمارات", "تأمين خاص إلزامي في أبوظبي ودبي", "تأمين حكومي أو تجاري", "تأمين إلزامي على صاحب العمل"],
+              ["مصر", "نظام مختلط حكومي وخاص", "تأمين صحي شامل يُطرح تدريجيا", "تأمين خاص اختياري أو ضمن العقد"],
+              ["الأردن", "وزارة صحة وضمان اجتماعي وخاص", "تغطية جزئية عبر الوزارة والضمان", "تأمين خاص أو ضمن العقد"],
+              ["لبنان", "الصندوق الوطني للضمان الاجتماعي والخاص", "تغطية جزئية تآكلت بالأزمة", "ضمان اجتماعي أو خاص بحسب العقد"]
+            ]
+          }
+        },
+        {
+          "h2": "التأمين الصحي في المملكة العربية السعودية",
+          "paras": [
+            "المملكة العربية السعودية تعتمد نظاما مزدوجا: المواطنون السعوديون يحصلون على رعاية صحية مجانية في المستشفيات الحكومية التابعة لوزارة الصحة وعدد من الجهات الحكومية الأخرى. العمالة الوافدة الخاضعة للقطاع الخاص ملزمة بالحصول على تأمين طبي من صاحب العمل منذ إقرار نظام التأمين الصحي التعاوني عام 1999.",
+            "مراجعة شاملة نشرتها مجلة Healthcare عام 2024 حول تمويل الرعاية الصحية في السعودية وجدت أن الإنفاق على الصحة ارتفع بشكل ملحوظ خلال العقد الماضي في إطار رؤية 2030، وأن التوجه نحو نموذج تأمين مختلط بات أكثر وضوحا. القطاع الخاص يستقطب حصة متزايدة من الزيارات الصحية.",
+            "في ما يخص وثائق التأمين للعمالة الوافدة في السعودية، تتفاوت مستويات التغطية تفاوتا كبيرا بين الشركات. بعض الوثائق تُغطي الطوارئ فقط بينما تُغطي أخرى الرعاية الأولية والمتخصصة وبعض الأدوية. افهم بالضبط ما تُغطيه وثيقتك قبل أن تحتاج إلى استخدامها.",
+            "التأمين التعاوني في السعودية يخضع لرقابة مجلس الضمان الصحي التعاوني (CCHI). هذا المجلس يُحدد الحد الأدنى لمحتوى الوثيقة ويُتيح للمواطنين والمقيمين التحقق من صحة التأمين عبر قاعدة بياناته الإلكترونية. إذا كنت تشك في صحة تأمينك أو في مستوى تغطيته، يمكنك التحقق مباشرة من موقع المجلس. هذه الأداة مهمة بشكل خاص لمن يعمل لدى أصحاب عمل صغار قد لا يلتزمون تلقائيا بكل اشتراطات التأمين."
+          ]
+        },
+        {
+          "h2": "التأمين الصحي في الإمارات",
+          "paras": [
+            "الإمارات تتقدم بين الدول العربية في إلزامية التأمين الصحي. أبوظبي كانت السباقة عام 2006 بإلزام أصحاب العمل بتأمين موظفيهم ومعاليهم. دبي طبّقت ذلك لاحقا وامتد التطبيق تدريجيا على مستوى الدولة. الهيئة الصحية لأبوظبي (HAAD) والهيئة الصحية لدبي (DHA) هما الجهتان المنظمتان للقطاع.",
+            "التأمين في الإمارات يُقيّد المؤمّن عليه بشبكة مزودي خدمة معتمدة تسمى Panel. الذهاب خارج الشبكة يعني تحمّل تكلفة أكبر أو رفض التغطية كليا في الحالات الاختيارية. قبل أي زيارة لطبيب أو مستشفى تحقق دائما من أنه ضمن الشبكة المعتمدة لوثيقتك، وهذه المعلومة متاحة عادة على موقع شركة التأمين أو من خلال تطبيقها.",
+            "الخدمات النفسية كانت تاريخيا ضعيفة التغطية في وثائق التأمين الإماراتية لكن اللوائح التنظيمية الأخيرة تدفع نحو تحسين ذلك. إذا كنت تحتاج إلى دعم نفسي، تحقق صراحة من وثيقتك سواء أكانت تُغطي جلسات الطب النفسي أو علم النفس الإكلينيكي وما عدد الجلسات المُغطاة."
+          ]
+        },
+        {
+          "h2": "مصر والأردن ولبنان: نماذج مختلطة بتغطية جزئية",
+          "paras": [
+            "مصر تسير نحو نظام التأمين الصحي الشامل منذ صدور قانون 2018، وهو يُطبَّق على مراحل بدءا من المحافظات الأقل كثافة. في المرحلة الانتقالية الحالية، كثير من المصريين لا يزالون يعتمدون على هيئة التأمين الصحي الحكومية القديمة أو على القطاع الخاص مباشرة. الغالبية العظمى من الزيارات الطبية في مصر تُدفع كأجر مباشر من الجيب (Out-of-Pocket) دون تأمين.",
+            "في الأردن، ثلاث قنوات رئيسية للتغطية الصحية: وزارة الصحة التي تقدم رعاية لمن يحملون بطاقة المعالجة بتكلفة مخفضة، ومؤسسة الضمان الاجتماعي التي تُغطي العاملين في القطاع الخاص الرسمي، والتأمين الصحي العسكري لكبار الموظفين الحكوميين. ما يزيد على 30% من السكان لا يقع ضمن أي من هذه المظلات بشكل كافٍ.",
+            "لبنان يمتلك الصندوق الوطني للضمان الاجتماعي لكنه تأثر بشكل بالغ بالأزمة الاقتصادية الحادة منذ عام 2019. تآكل قيمة المساهمات وانهيار العملة جعل الحصول على أدوية وعلاجات تحتاج إلى إجراءات الصندوق تحديا كبيرا. كثير من اللبنانيين يعتمدون الآن على التأمين الخاص أو الدفع المباشر أو الدعم الدولي.",
+            "في سياق مصر والأردن ولبنان، الفاتورة الطبية المباشرة التي يدفعها المريض من جيبه (Out-of-Pocket Payment) لا تزال تُشكّل نسبة كبيرة من الإنفاق الصحي الإجمالي. هذا الواقع يعني أن امتلاك وثيقة تأمين فعّالة أو وجود مدخرات مخصصة للرعاية الصحية ليس ترفا بل ضرورة تحمي من الوقوع في أزمة مالية حادة بسبب مرض غير متوقع."
+          ],
+          "visual": {
+            "type": "stats",
+            "items": [
+              {"value": "6 فقط", "label": "من أصل 22 دولة عربية سنّت تشريعات تضمن التغطية الصحية الشاملة", "tone": "warn"},
+              {"value": "50%+", "label": "من الإنفاق الصحي في كثير من دول المنطقة يُدفع مباشرة من جيب المريض", "tone": "bad"}
+            ],
+            "source": "Alshehari et al., Dialogues in Health, 2024",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/39310039/"
+          }
+        },
+        {
+          "h2": "كيف تقرأ وثيقة التأمين الصحي قبل أن تحتاجها",
+          "paras": [
+            "أغلب الناس لا يقرأون وثيقة تأمينهم إلا حين يرفض التأمين دفع فاتورة ما. هذا التسلسل مؤلم وقابل للتجنب. أربعة أشياء تحتاج إلى فهمها قبل أن تمرض: أولا الشبكة (Panel)، وهي قائمة المستشفيات والأطباء الذين تُغطيهم وثيقتك. ثانيا السقف السنوي، وهو أقصى مبلغ تدفعه شركة التأمين في السنة. ثالثا التحمّل (Deductible)، وهو المبلغ الذي تدفعه أنت أولا قبل أن يبدأ التأمين بالمشاركة. رابعا نسبة الاشتراك (Co-payment)، وهي نسبة الفاتورة التي تبقى على عاتقك بعد مشاركة التأمين.",
+            "ابحث أيضا عن بند الحالات الموجودة مسبقا (Pre-existing Conditions). معظم وثائق التأمين في المنطقة تستثني الأمراض التي كانت موجودة قبل بدء الوثيقة إما نهائيا أو لفترة انتظار تتراوح بين 6 و12 شهرا. إذا كنت مصابا بداء السكري أو ضغط الدم أو غيرهما من الأمراض المزمنة، أبلغ شركة التأمين عن ذلك عند الاشتراك بصدق تام لتجنب رفض التغطية لاحقا بحجة عدم الإفصاح.",
+            "تحقق من بند الموافقة المسبقة (Prior Authorization). كثير من إجراءات العمليات والتصوير الشعاعي المتخصص تحتاج إلى موافقة مسبقة من شركة التأمين قبل تنفيذها وإلا رُفض الدفع. اعتَدْ على الاتصال بشركة التأمين أو طبيبك لاستصدار هذه الموافقة قبل أي إجراء مخطط له. الطوارئ الحقيقية مُعفاة عادة من هذا الشرط. في كثير من الحالات يتولى المستشفى أو الطبيب طلب الموافقة نيابة عنك، لكن لا تفترض ذلك تلقائيا واسأل صراحة قبل الإجراء."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "كيف تراجع وثيقة تأمينك في 5 دقائق",
+            "items": [
+              "ابحث عن شبكة مزودي الخدمة: هل طبيبك أو مستشفاك المفضل ضمنها؟",
+              "تحقق من السقف السنوي للتغطية وقارنه بتكاليف الرعاية في منطقتك",
+              "اقرأ بند الاستثناءات: ما الذي لا تدفعه الوثيقة على الإطلاق؟",
+              "ابحث عن نسبة التحمّل والاشتراك: ما الذي يتبقى على عاتقك من كل فاتورة؟",
+              "تحقق من إجراء الموافقة المسبقة: من تتصل به وكيف قبل أي إجراء مخطط؟"
+            ]
+          }
+        },
+        {
+          "h2": "ما الذي لا يُغطيه التأمين في الغالب؟",
+          "paras": [
+            "معرفة ما لا تُغطيه الوثيقة التأمينية بالضبط قدر أهميتها معرفة ما تُغطيه. الاستثناءات الأكثر شيوعا في المنطقة العربية: علاج الأسنان الذي يستثنيه معظم التأمين الأساسي بالكامل أو يُغطي منه الحد الأدنى فقط، والتجميل والعمليات الاختيارية غير الضرورية طبيا، وتصحيح البصر والنظارات، وبعض أدوية الأمراض المزمنة التي تحتاج إلى موافقة استثنائية.",
+            "الصحة النفسية تبقى استثناء في كثير من الوثائق أو مُغطاة بعدد محدود جدا من الجلسات لا يكفي للعلاج الفعلي. علاج الإدمان والخمول المزمن والسمنة والعقم والتلقيح الاصطناعي غالبا ما يكون خارج التغطية أو مشروطا بشروط دقيقة. تأكد من هذه البنود إذا كانت هذه الحالات تعنيك قبل اختيار الوثيقة.",
+            "السفر للخارج أو العلاج في دولة أخرى غير الدولة المؤمَّن فيها في الغالب غير مُغطى إلا في حالات الطوارئ الحقيقية وبسقوف محدودة. إذا كنت تتنقل كثيرا بين دول اسأل عن تأمين سفر إضافي أو وثيقة ذات تغطية دولية.",
+            "ملاحظة مهمة بشأن خدمات الولادة والرعاية الأمومية: هذه الخدمات قد تكون مشمولة بشروط إضافية في بعض الوثائق، منها اشتراط مضي فترة من الاشتراك قبل التأهل للاستفادة منها. إذا كنت تخططين للحمل في القريب العاجل، تأكدي من أن الوثيقة تشمل الرعاية قبل الولادة وأجور الوضع والرعاية بعد الولادة دون فترة انتظار مفاجئة."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "warn",
+            "title": "تحقق من هذه البنود قبل التوقيع على أي وثيقة تأمين",
+            "items": [
+              "هل تُغطي الحالات الموجودة مسبقا وبعد كم شهرا؟",
+              "ما سقف التغطية السنوي وهل يكفي لمرض مزمن؟",
+              "هل تشمل الأسنان والنظارات والصحة النفسية؟",
+              "هل تُغطي الأدوية وما قائمة الأدوية المُعتمدة؟",
+              "هل تصح خارج الدولة في حالات الطوارئ؟"
+            ]
+          }
+        },
+        {
+          "h2": "إذا لم يكن لديك تأمين: خياراتك العملية",
+          "paras": [
+            "قطاعات واسعة من سكان المنطقة تعيش دون تأمين صحي فعلي، وهذا الواقع يستدعي التخطيط المسبق لا الاستسلام. الخيار الأول هو الرعاية الصحية الأولية الحكومية التي تقدمها وزارات الصحة بتكاليف مخفضة في أغلب الدول العربية. العيادات الحكومية والمراكز الصحية تستقبل في الغالب بتكاليف رمزية حتى لغير المؤمّن عليهم. الإشكالية الحقيقية ليست في الطوارئ التي تُعالج في الغالب بصرف النظر عن التأمين، بل في الحالات المزمنة التي تحتاج متابعة منتظمة وأدوية مستمرة.",
+            "الخيار الثاني هو التأمين الصحي الفردي الخاص الذي أصبح أكثر توافرا في السوق. قارن بين الوثائق بدقة وابحث عن الغطاء الذي يناسب وضعك الصحي لا أقل الأسعار. التأمين الأرخص ثمنا في الغالب هو الأضيق تغطية. في بعض الدول كمصر والأردن تنتشر برامج مجمّعة لأبناء المهنة الواحدة كالأطباء والمعلمين والمهندسين تتيح تأمينا جماعيا بأسعار مناسبة.",
+            "الخيار الثالث للمصاريف الكبيرة غير المتوقعة هو الادخار الصحي التدريجي: حدّد مبلغا شهريا صغيرا يُودَع في حساب مخصص فقط للنفقات الطبية. هذا الصندوق الشخصي يحمي من الصدمات المالية الكبيرة لحالة عاجلة تستلزم الدخول المستشفى. تذكّر أن التحاليل والصور الشعاعية الدورية اللازمة لمتابعة أمراض مزمنة تتراكم تكلفتها بمرور الوقت وتستحق أن تُدرَج في حساب الادخار الصحي. في بعض الدول كمصر والأردن تتوفر جمعيات مهنية وتعاونيات تقدم أسعارا مجمّعة مناسبة."
+          ]
+        },
+        {
+          "h2": "سهلتك وتتبع صحتك بدون تأمين أو معه",
+          "paras": [
+            "سواء كان لديك تأمين صحي أم لا، الاحتفاظ بسجل صحي موثّق يُحسّن جودة الرعاية التي تتلقاها. تطبيق سهلتك يتيح لك حفظ نتائج تحاليلك وأدويتك وتاريخ مراضيك في مكان واحد تحمله معك دائما. في حالة التأمين، هذا السجل يسهّل الحصول على الموافقة المسبقة لأي إجراء لأن طبيبك يملك تاريخا طبيا كاملا وموثّقا."
+          ]
+        }
+      ],
+      "tie": "تطبيق سهلتك يساعدك على تتبع صحتك وتوثيق تاريخك الطبي، مما يجعل التعامل مع شركات التأمين والأطباء أسهل وأكثر شفافية. سواء كنت تطالب بتعويض أو تحتاج إلى موافقة مسبقة، سجلك الصحي الرقمي يقوّي موقفك.",
+      "faqs": [
+        {
+          "q": "هل يُغطي التأمين الصحي الأمراض الموجودة قبله؟",
+          "a": "هذا يتفاوت حسب الوثيقة والدولة. بعض الوثائق تستثني الأمراض المزمنة الموجودة مسبقا نهائيا، وبعضها يفرض فترة انتظار تتراوح بين 6 و12 شهرا قبل تغطيتها. القاعدة الذهبية هي الإفصاح الكامل عن أي مرض مزمن عند الاشتراك. الإخفاء قد يؤدي إلى إبطال الوثيقة أو رفض جميع المطالبات لاحقا."
+        },
+        {
+          "q": "كيف أتصرف إذا رفض التأمين دفع فاتورة؟",
+          "a": "اطلب أولا القرار الرفض مكتوبا مع ذكر السبب. ثم قدّم اعتراضا رسميا مع تقرير طبيب يدعم الحاجة للعلاج. معظم شركات التأمين لديها آلية للتظلم الداخلي يجب استنفادها قبل اللجوء إلى جهات التنظيم الخارجية. في المملكة العربية السعودية الجهة المختصة هي هيئة التأمين، وفي الإمارات هيئة التأمين الفيدرالية."
+        },
+        {
+          "q": "ما المقصود بالموافقة المسبقة في التأمين؟",
+          "a": "الموافقة المسبقة أو Prior Authorization هي إذن يصدر من شركة التأمين قبل تنفيذ إجراء طبي محدد كعملية جراحية أو صورة رنين مغناطيسي أو استشارة متخصص. بدون هذا الإذن قد يُرفض تعويض التكلفة لاحقا حتى لو كانت الحالة ضرورية طبيا. عادة يتولى الطبيب طلب هذا الإذن نيابة عنك."
+        },
+        {
+          "q": "هل الطوارئ مُغطاة دائما حتى خارج شبكة التأمين؟",
+          "a": "في الغالب نعم. معظم وثائق التأمين في المنطقة تُغطي الطوارئ التي تُهدد الحياة حتى في مستشفيات خارج الشبكة، لكن قد يُطلب منك إخطار شركة التأمين خلال 24 إلى 48 ساعة من دخول الطوارئ. الرعاية غير الطارئة خارج الشبكة في الغالب غير مُغطاة أو مُغطاة بنسبة أقل."
+        },
+        {
+          "q": "هل أحتاج إلى تأمين صحي منفصل عند السفر إلى دولة أخرى؟",
+          "a": "في معظم الحالات نعم. التأمين الصحي المحلي لا يُغطي الرعاية في الخارج إلا في حالات طارئة جدا وبسقوف محدودة. إذا كنت تسافر لفترة طويلة أو لدواعٍ طبية، فكّر في تأمين سفر أو وثيقة دولية. بعض بطاقات الائتمان توفر تغطية طوارئ محدودة عند السفر."
+        },
+        {
+          "q": "كيف أقارن بين وثيقتين تأمينيتين؟",
+          "a": "لا تقارن فقط بالسعر. قارن بالسقف السنوي، وشبكة المزودين في منطقتك، ونسبة التحمّل، وقائمة الاستثناءات، وتغطية الأدوية، وهل تشمل الأسنان والنظارات والصحة النفسية. وثيقة بسعر أعلى بكثير قد توفّر أموالا أكثر حين تحتاجها فعليا إذا كانت شاملة ووضحت الاستثناءات."
+        },
+        {
+          "q": "ما الفرق بين التأمين التعاوني في السعودية والتأمين التقليدي؟",
+          "a": "التأمين التعاوني يقوم على مبدأ المشاركة في المخاطر بين المشتركين وفق أحكام الشريعة الإسلامية، وهو نموذج وجده العلماء متوافقا مع الفقه الإسلامي خلافا للتأمين التقليدي. عمليا، فائض الأقساط يعود للمشتركين أو يُخصص لصالحهم، كما أن الاستثمار محدود بالأدوات الشرعية. التغطية الفعلية وتجربة المستخدم في معظم الحالات مماثلة للتأمين التقليدي."
+        },
+        {
+          "q": "هل يُغطي تأميني أدوية الأمراض المزمنة كاملا؟",
+          "a": "هذا يتفاوت. معظم الوثائق التأمينية تُغطي قائمة أدوية محددة تُعرف بالقائمة الدوائية المعتمدة (Formulary). الأدوية خارج هذه القائمة قد تحتاج إلى موافقة استثنائية أو تبقى على عاتقك. اسأل عن هذه القائمة قبل الاشتراك وتحقق من أن أدويتك المزمنة ضمنها."
+        }
+      ]
+    },
+    "en": {
+      "title": "Health insurance across Arab countries: how it works",
+      "desc": "A practical comparison of health insurance in Saudi Arabia, UAE, Egypt, Jordan and Lebanon. What is covered, what is not, and how to read a policy before you need it.",
+      "keywords": "health insurance Saudi Arabia, health insurance UAE, health insurance Egypt, health insurance Jordan, Lebanon healthcare coverage, Gulf health insurance, medical coverage Arab world, insurance policy reading",
+      "h1": "Health insurance across Arab countries: systems, coverage and what policies do not tell you",
+      "takeaways": [
+        "Gulf countries vary substantially: Saudi Arabia and the UAE mandate employer insurance for expatriate workers, while Kuwait, Qatar and Oman provide broader government coverage for citizens.",
+        "Egypt, Jordan and Lebanon operate mixed models combining government and private coverage, with actual coverage rates significantly lower than in Gulf countries.",
+        "Read your policy before you need it. Look for the exclusions clause, pre-existing condition terms, annual coverage limit and co-payment percentage.",
+        "Some policies exclude pre-existing conditions for a waiting period of 6 to 12 months. If you have a chronic condition, declare it honestly when enrolling.",
+        "Emergencies are covered in most policies even outside the approved network, but prior authorisation is usually required for planned procedures."
+      ],
+      "sections": [
+        {
+          "h2": "What types of health insurance systems exist in Arab countries?",
+          "paras": [
+            "There is no single insurance model across Arab countries. Systems vary greatly depending on income level, government policy and the proportion of expatriate workers in the population. Countries fall into three main groups: higher-income Gulf states that have developed relatively advanced insurance frameworks, middle-income countries such as Egypt, Jordan and Morocco that combine government and private provision, and fragile-system countries such as Syria, Lebanon, Yemen and Iraq where health infrastructure has been damaged by conflict or economic crisis.",
+            "A study published in Dialogues in Health in 2024, covering 22 countries in the Middle East and North Africa, found that only six had enacted legislation formally committing to universal health coverage: Bahrain, Jordan, Kuwait, Oman, Tunisia and the United Arab Emirates. This means that most people in the region have no legal guarantee of comprehensive health coverage.",
+            "The gap between what the law says and what a patient actually finds can be wide. Formal insurance does not always mean rapid access to specialist care, coverage for newer medications, or inclusion of mental health and rehabilitation services. Understanding what your specific policy covers in practice is the most important preparation you can do."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Comparison of health insurance systems across five Arab countries",
+            "head": ["Country", "Main model", "Citizen coverage", "Expatriate coverage"],
+            "rows": [
+              ["Saudi Arabia", "Mandatory cooperative insurance", "Free government care", "Mandatory employer insurance"],
+              ["UAE", "Mandatory private insurance in Abu Dhabi and Dubai", "Government or commercial", "Mandatory employer insurance"],
+              ["Egypt", "Mixed public and private", "Phased universal scheme", "Private or contract-based"],
+              ["Jordan", "MOH, social security and private", "Partial via ministry and JSSC", "Private or contract-based"],
+              ["Lebanon", "NSSF and private", "Partial, eroded by crisis", "NSSF or private per contract"]
+            ]
+          }
+        },
+        {
+          "h2": "Health insurance in Saudi Arabia",
+          "paras": [
+            "Saudi Arabia operates a dual system. Saudi citizens receive free health care through government hospitals run by the Ministry of Health and several other government entities. Expatriate workers in the private sector have been required to hold employer-provided insurance since the Cooperative Health Insurance Law was enacted in 1999.",
+            "A comprehensive review of Saudi healthcare financing published in Healthcare in 2024 found that health spending rose substantially in the past decade under Vision 2030, with a clear shift towards a mixed insurance model and increasing private sector share of visits. The cooperative insurance market has expanded to cover tens of millions of policy holders.",
+            "For expatriate insurance policies in Saudi Arabia, coverage levels vary enormously between employers and insurers. Some policies cover emergencies only while others cover primary care, specialist visits and a formulary of medications. Know exactly what your policy covers before you ever need to use it. The time to read an insurance card is before you are sitting in an emergency room.",
+            "The Saudi Cooperative Health Insurance Council (CCHI) regulates the market and sets minimum policy content. It maintains a public database where residents can verify the validity and class of their insurance coverage. If you have doubts about your policy's legitimacy or coverage level, the CCHI website allows direct verification."
+          ]
+        },
+        {
+          "h2": "Health insurance in the United Arab Emirates",
+          "paras": [
+            "The UAE is among the most advanced in the Arab world for mandatory insurance. Abu Dhabi was first in 2006 when it required employers to insure workers and their dependants. Dubai followed, and coverage mandates have expanded across the federation since. The Health Authority Abu Dhabi and the Dubai Health Authority regulate the sector and set minimum benefit standards.",
+            "Insurance in the UAE ties the policyholder to an approved provider network called a Panel. Visiting a doctor or hospital outside this network means either higher out-of-pocket cost or complete refusal for non-emergency care. Before any clinic visit, confirm that the provider is within your policy's approved network. This information is usually available on the insurer's website or mobile app.",
+            "Mental health services have historically been weakly covered in UAE insurance policies, though recent regulatory direction is pushing for improvement. If you need psychological support, check explicitly whether your policy covers psychiatric or clinical psychology sessions and how many sessions are included annually."
+          ]
+        },
+        {
+          "h2": "Egypt, Jordan and Lebanon: mixed models with partial coverage",
+          "paras": [
+            "Egypt has been moving toward universal health insurance since the 2018 law, applied in phases starting from less densely populated governorates. In the current transitional period, many Egyptians still rely on the older government Health Insurance Organisation or pay directly out of pocket. The proportion of health spending paid directly by patients in Egypt remains among the highest in the region.",
+            "In Jordan, three main channels provide health coverage: the Ministry of Health, which offers care to holders of a treatment card at reduced rates; the Jordan Social Security Corporation, which covers formal private sector employees; and military health insurance for certain government employees. More than 30% of the population falls outside adequate coverage under any of these channels.",
+            "Lebanon has the National Social Security Fund but it has been severely affected by the acute economic crisis since 2019. The collapse in currency value and funding erosion have made obtaining medications and procedures requiring Fund approval a significant practical challenge. Many Lebanese now rely on private insurance, direct payment or international aid support."
+          ],
+          "visual": {
+            "type": "stats",
+            "items": [
+              {"value": "6 only", "label": "of 22 Arab countries have legislated universal health coverage commitments", "tone": "warn"},
+              {"value": "50%+", "label": "of health spending in many regional countries is paid directly out of pocket", "tone": "bad"}
+            ],
+            "source": "Alshehari et al., Dialogues in Health, 2024",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/39310039/"
+          }
+        },
+        {
+          "h2": "How to read a health insurance policy before you need it",
+          "paras": [
+            "Most people read an insurance policy only when a claim is refused. This sequence is painful and avoidable. Four things to understand before you fall ill: first, the approved network (Panel), meaning the list of hospitals and doctors your policy covers. Second, the annual coverage ceiling, which is the maximum the insurer will pay in a given year. Third, the deductible, which is the amount you must pay before the insurer begins contributing. Fourth, the co-payment percentage, which is the share of each bill that remains your responsibility after the insurer contributes.",
+            "Also look for the pre-existing conditions clause. Most policies in the region either exclude conditions that existed before the policy start date permanently, or impose a waiting period of 6 to 12 months. If you have diabetes, hypertension or any other chronic condition, declare it honestly when enrolling. Concealment can lead to the policy being voided or all future claims denied on grounds of non-disclosure.",
+            "Check the prior authorisation requirement. Many surgical procedures and specialist imaging tests require advance approval from the insurer before they are performed, otherwise reimbursement is refused. Get into the habit of calling your insurer or letting your doctor request this approval before any planned procedure. Genuine emergencies are typically exempt from this requirement."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "How to review your insurance policy in 5 minutes",
+            "items": [
+              "Find the approved provider network: is your preferred doctor or hospital included?",
+              "Check the annual coverage ceiling and compare it to likely costs in your area",
+              "Read the exclusions section: what does the policy never pay for?",
+              "Find the deductible and co-payment: what remains your cost after the insurer contributes?",
+              "Identify the prior authorisation process: who to call and how before a planned procedure?"
+            ]
+          }
+        },
+        {
+          "h2": "What insurance typically does not cover",
+          "paras": [
+            "Knowing what a policy excludes is as important as knowing what it covers. The most common exclusions across the Arab region include dental treatment, which most basic policies exclude entirely or cover only minimally, cosmetic and elective procedures without medical necessity, vision correction and glasses, and certain chronic disease medications that require exceptional approval.",
+            "Mental health remains excluded or severely limited in many policies. Addiction treatment, chronic fatigue, obesity management, infertility and assisted reproduction are typically outside standard coverage or subject to highly specific conditions. If any of these matter to your situation, verify them explicitly before choosing a policy rather than discovering the exclusion at the time of need.",
+            "Treatment abroad or in a country other than the one where you are insured is generally not covered except in genuine emergencies and within tight limits. If you travel frequently between countries, ask about international coverage riders or a policy with cross-border benefits.",
+            "Maternity and antenatal care deserve specific attention. Policies vary significantly: some cover the full antenatal course, delivery and postnatal care from day one; others impose a waiting period of 9 to 12 months from the policy start date before maternity benefits are active. If you are planning a pregnancy, verify these terms explicitly before selecting a policy."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "warn",
+            "title": "Check these terms before signing any insurance policy",
+            "items": [
+              "Does it cover pre-existing conditions, and after how many months?",
+              "What is the annual ceiling and is it adequate for a chronic illness?",
+              "Does it include dentistry, eyewear and mental health sessions?",
+              "Which medications are on the approved drug formulary?",
+              "Is emergency care abroad covered, and to what limit?"
+            ]
+          }
+        },
+        {
+          "h2": "If you have no insurance: practical options",
+          "paras": [
+            "Large sections of the regional population live without effective health insurance, and this reality calls for advance planning rather than passive acceptance. The first option is government primary health care, which ministries of health provide at reduced rates in most Arab countries. Government clinics and health centres typically accept patients at nominal fees even without insurance coverage, particularly for acute illness and basic prescriptions.",
+            "The second option is individual private health insurance, which has become more accessible in the market across the region. Compare policies carefully and prioritise the coverage that matches your actual health situation rather than the lowest premium. The cheapest policy almost always has the narrowest coverage, and a plan that saves money monthly can cost far more in a genuine health crisis.",
+            "A third option for handling large unexpected medical costs is progressive personal health saving: set aside a modest fixed monthly amount in an account designated only for medical expenses. This personal health fund protects against the financial shock of a hospitalisation or major procedure that falls outside any coverage you hold. Recurring costs such as the regular tests and imaging needed to monitor a chronic condition accumulate over time and deserve to be factored into health savings planning.",
+            "In some countries, professional associations and trade unions offer group insurance schemes to their members at substantially lower premiums than individual policies. Doctors, teachers, engineers and civil servants often have access to these arrangements. If you belong to a recognised professional body, ask whether a group health scheme is available."
+          ]
+        },
+        {
+          "h2": "Sihtak and managing your health with or without insurance",
+          "paras": [
+            "Whether you have health insurance or not, keeping a documented health record improves the quality of care you receive and streamlines every interaction with the health system. The Sihtak app lets you store your test results, medication list and medical history in one place you always have with you. When insurance is involved, a complete documented record makes prior authorisation requests easier because your doctor has a full clinical history to present. When there is no insurance, a clear record of your conditions and medications helps any new provider start from a safe baseline rather than guessing."
+          ]
+        }
+      ],
+      "tie": "Sihtak helps you track your health and document your medical history, making interactions with insurers and doctors more straightforward. Whether you are filing a claim or requesting prior authorisation, your digital health record strengthens your position.",
+      "faqs": [
+        {
+          "q": "Does health insurance cover conditions I had before taking the policy?",
+          "a": "This varies by policy and country. Some policies exclude pre-existing chronic conditions permanently, others impose a waiting period of 6 to 12 months before covering them. The golden rule is to declare all chronic conditions honestly when enrolling. Concealment can result in the policy being voided or all subsequent claims being refused on grounds of non-disclosure."
+        },
+        {
+          "q": "What do I do if the insurer refuses to pay a claim?",
+          "a": "First, request the refusal decision in writing with the stated reason. Then submit a formal appeal supported by a medical report from your doctor explaining the clinical necessity. Most insurers have an internal complaints process that must be exhausted before going to external regulators. In Saudi Arabia the regulator is the Insurance Authority; in the UAE it is the Federal Insurance Authority."
+        },
+        {
+          "q": "What is prior authorisation and when is it required?",
+          "a": "Prior authorisation is written approval from the insurer before a specific procedure is performed, such as surgery, an MRI scan or a specialist referral. Without this approval, reimbursement may be refused even if the procedure was medically necessary. Your doctor usually requests this approval on your behalf. Genuine medical emergencies are typically exempt."
+        },
+        {
+          "q": "Are emergencies always covered even outside my approved network?",
+          "a": "In most cases yes. Most regional insurance policies cover life-threatening emergencies even at hospitals outside the approved network, but you may be required to notify the insurer within 24 to 48 hours of admission. Non-emergency care outside the network is typically not covered or is covered at a significantly reduced rate."
+        },
+        {
+          "q": "Do I need separate travel insurance when visiting another country?",
+          "a": "In most situations yes. Local health insurance usually does not cover care abroad except in genuine emergencies and with tight limits. If you travel for extended periods or for medical reasons, consider travel insurance or an international policy. Some credit cards provide limited emergency travel coverage, but the scope is usually narrow."
+        },
+        {
+          "q": "How do I compare two insurance policies honestly?",
+          "a": "Do not compare only on price. Compare annual coverage ceilings, the provider network in your area, deductible and co-payment percentages, exclusions lists, medication formularies and whether dentistry, eyewear and mental health are included. A policy with a higher premium but comprehensive coverage often costs less in total when you actually need care than a cheap policy with many gaps."
+        },
+        {
+          "q": "What is the difference between cooperative insurance in Saudi Arabia and conventional insurance?",
+          "a": "Cooperative insurance operates on the principle of shared risk among subscribers under Islamic financial principles, which scholars have found compatible with Islamic jurisprudence unlike conventional insurance. In practice, any surplus from premiums returns to subscribers or is allocated for their benefit, and investments are limited to Sharia-compliant instruments. Actual coverage terms and the patient experience are in most cases comparable to conventional insurance."
+        },
+        {
+          "q": "Does my insurance cover my chronic disease medications in full?",
+          "a": "This varies. Most insurance policies cover a defined list of medications called a formulary. Drugs outside this list may require exceptional approval or remain at your own cost. Ask for the formulary before enrolling and verify that your regular chronic medications are on it. Branded medications are often not covered when a generic equivalent exists."
+        }
+      ]
+    }
+  }
+}

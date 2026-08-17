@@ -1,0 +1,347 @@
+{
+  "slug": "antibiotic-resistance-arab-world",
+  "category": "infectious-diseases",
+  "chip_ar": "أمراض معدية",
+  "chip_en": "Infectious Diseases",
+  "date_iso": "2026-07-21",
+  "sources": [
+    {
+      "label": "Antimicrobial Resistance Collaborators: Global burden of bacterial antimicrobial resistance in 2019: a systematic analysis, Lancet, 2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35065702/"
+    },
+    {
+      "label": "Hafez H, Rakab MS, Elshehaby A et al: Pharmacies and use of antibiotics: a cross sectional study in 19 Arab countries, Antimicrobial resistance and infection control, 2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39294829/"
+    },
+    {
+      "label": "Al-Jumaili AA, Ahmed KK: A review of antibiotic misuse and bacterial resistance in Iraq, Eastern Mediterranean health journal, 2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39574365/"
+    },
+    {
+      "label": "Eltom EH, Alanazi AL, Alenezi JF et al: Self-medication with antibiotics and awareness of antibiotic resistance among population in Arar city, Saudi Arabia, Journal of infection in developing countries, 2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36449649/"
+    },
+    {
+      "label": "Sous MMJA, Houri HNA, Safiah MH et al: Antibiotic prescription patterns for acute upper respiratory tract infections in an outpatient population with health insurance in Syria, IJID regions, 2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37009572/"
+    },
+    {
+      "label": "Awad AI, Aboud EA: Knowledge, attitude and practice towards antibiotic use among the public in Kuwait, PloS one, 2015",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25675405/"
+    },
+    {
+      "label": "World Health Organization: Antimicrobial resistance fact sheet",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/antimicrobial-resistance"
+    }
+  ],
+  "content": {
+    "ar": {
+      "title": "لماذا تتوقف المضادات الحيوية عن العمل؟ مشكلة العالم العربي",
+      "desc": "بيع المضادات الحيوية بلا وصفة مشكلة خطيرة في العالم العربي. تعرف على مقاومة المضادات الحيوية وكيف تحمي نفسك وعائلتك.",
+      "keywords": "مقاومة المضادات الحيوية, antibiotics, مضاد حيوي بلا وصفة, مقاومة البكتيريا, بيع المضادات بالصيدلية, متى تحتاج مضادا حيويا, فيروسات ومضادات حيوية",
+      "h1": "المضادات الحيوية تفقد فاعليتها: السبب وكيف تتصرف بشكل صحيح",
+      "takeaways": [
+        "المقاومة تعني أن البكتيريا تعلمت كيف تهزم المضاد الحيوي، وهذا يحدث بشكل أسرع حين نستخدم المضادات دون حاجة.",
+        "المضادات الحيوية لا تُفيد الزكام والإنفلونزا والتهاب الحلق الفيروسي على الإطلاق، لأنها مصممة لقتل البكتيريا فقط.",
+        "أخذ دورة كاملة من المضاد الحيوي كما وصفها الطبيب يحمي من ظهور بكتيريا مقاومة.",
+        "بيع المضادات الحيوية بلا وصفة في معظم دول العالم العربي يُضاعف المشكلة بشكل خطير.",
+        "مقاومة المضادات الحيوية قتلت 1.27 مليون شخص في عام 2019 وحده وفق تقرير دولي في مجلة لانسيت."
+      ],
+      "sections": [
+        {
+          "h2": "ما هي مقاومة المضادات الحيوية بالضبط؟",
+          "paras": [
+            "حين تبتلع مضادا حيويا لمدة يومين ثم تتوقف لأنك بدأت تتحسن، أو حين تشتريه من الصيدلية لنزلة برد ظننت أنها بكتيرية، فإنك تُشارك دون أن تقصد في واحدة من أخطر الأزمات الصحية في العالم. مقاومة المضادات الحيوية (Antibiotic Resistance) تعني ببساطة أن البكتيريا طورت آليات تجعل الدواء غير فعال ضدها، وعندها يعجز الطبيب عن علاج عدوى كانت بسيطة في السابق.",
+            "البكتيريا كائنات حية تتكاثر بسرعة هائلة وتتطور. حين يقتل المضاد الحيوي معظم البكتيريا لكن يبقى بعضها حيا لأنه يحمل طفرة وراثية صدفية تجعله أقل حساسية للدواء، فإن هذه الناجية تتكاثر وتنقل مقاومتها لنسلها. كلما استخدمنا المضاد أكثر وأكثر دون ضرورة، كلما عجلنا بهذا الاختيار الطبيعي وأنتجنا بكتيريا أشد مقاومة.",
+            "الأمر ليس نظريا. في عام 2019 قُدِّر أن مقاومة المضادات الحيوية تسببت بشكل مباشر في وفاة 1.27 مليون شخص حول العالم، ورتبها الباحثون في مجلة لانسيت عام 2022 ضمن أشد الأمراض فتكا عالميا. الإصابات التي كانت قابلة للعلاج بسهولة قبل عقود بدأت تتحول إلى مشكلات مستعصية في وحدات العناية المركزة."
+          ],
+          "visual": {
+            "type": "stats",
+            "items": [
+              {"value": "1.27 مليون", "label": "وفاة بسبب مقاومة المضادات الحيوية عام 2019 وفق مجلة لانسيت", "tone": "bad"},
+              {"value": "70%+", "label": "من المضادات الحيوية تُباع بلا وصفة في بعض دول المنطقة وفق دراسات إقليمية", "tone": "warn"}
+            ]
+          }
+        },
+        {
+          "h2": "العالم العربي أمام خطر مضاعف: لماذا؟",
+          "paras": [
+            "في معظم دول العالم العربي يمكنك شراء معظم أنواع المضادات الحيوية من الصيدلية دون وصفة طبية. هذه الحقيقة وثقتها دراسة واسعة النطاق نُشرت عام 2024 في مجلة Antimicrobial Resistance and Infection Control غطت 19 دولة عربية، وأظهرت أن صرف المضادات الحيوية بلا وصفة ظاهرة منتشرة على مستوى المنطقة بأسرها. الصيدلاني يُصبح في كثير من الأحيان هو الطبيب الفعلي للأسرة، وهو قد يفتقر إلى التدريب اللازم لتشخيص ما إذا كانت العدوى بكتيرية أم فيروسية.",
+            "دراسة نُشرت عام 2023 في مجلة IJID Regions حللت نمط وصف المضادات الحيوية للتهابات الجهاز التنفسي العلوي في سوريا، ووجدت أن نسبة كبيرة من حالات الزكام والتهاب الحلق الفيروسي حصلت على وصفة بمضاد حيوي رغم أن لا فائدة طبية منه. هذا النمط لا يُعالج المريض بل يُعرضه لأضرار المضاد الحيوي ويُسهم في تطوير بكتيريا مقاومة في المجتمع.",
+            "يُضاف إلى ذلك عوامل هيكلية تُعقد المشهد: ضعف منظومة الرقابة الدوائية في بعض الدول، ووجود أدوية مقلدة أو منتهية الصلاحية في بعض الأسواق غير الرسمية، وضغط المريض على الطبيب أو الصيدلاني ليصرف له مضادا حيويا خوفا من ترك المرض دون علاج. وفي بيئات النزاع مثل سوريا واليمن وليبيا يزداد الأمر تعقيدا حين تنقطع سلاسل الإمداد وتُخزن الأدوية في ظروف سيئة."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "warn",
+            "title": "عوامل تُضاعف مقاومة المضادات الحيوية في المنطقة",
+            "items": [
+              "صرف المضادات الحيوية في الصيدليات بلا وصفة طبية",
+              "إيقاف الدورة العلاجية مبكرا حين تتحسن الأعراض",
+              "استخدام المضاد الحيوي للزكام والإنفلونزا وهي أمراض فيروسية",
+              "تداول أدوية منتهية الصلاحية أو مجهولة المصدر",
+              "اعتقاد شائع بأن المضاد الحيوي الأقوى والأغلى هو الأفضل دائما"
+            ]
+          }
+        },
+        {
+          "h2": "متى تحتاج مضادا حيويا ومتى لا تحتاجه؟",
+          "paras": [
+            "هذا هو السؤال الجوهري الذي يجيب عليه كثير من الناس إجابة خاطئة. المضادات الحيوية تقتل البكتيريا فقط، ولا تأثير لها مطلقا على الفيروسات. الزكام والإنفلونزا والتهاب الحلق الفيروسي والإسهال الفيروسي وكثير من التهابات الجهاز التنفسي العلوي كلها تسببها فيروسات، وتُشفى من تلقاء نفسها مع الراحة والترطيب الجيد في معظم الأحيان. إعطاء مضاد حيوي لهذه الحالات لا يُسرع الشفاء ولا يخفف الأعراض لكنه يُعرضك لآثاره الجانبية ويُساهم في بناء المقاومة.",
+            "الأمراض التي قد تحتاج فعلا لمضاد حيوي هي تلك التي تسببها البكتيريا: التهاب المجاري البولية في معظمه، والتهاب الحلق البكتيري الناجم عن المجموعة الأولى من العقديات وتُشخصه المسحة البكتيرية لا العلامات الظاهرة وحدها، والتهاب الرئة البكتيري، والتهابات الجلد كبعض حالات الخراجات، والجروح المتقيحة. لكن حتى في هذه الحالات النوع الصحيح من المضاد والجرعة الصحيحة يحددهما الطبيب بعد التشخيص لا الصيدلاني.",
+            "دراسة أُجريت في مدينة عرار بالسعودية ونُشرت عام 2022 وجدت أن نسبة كبيرة من الأشخاص الذين يتناولون المضادات الحيوية لعلاج أنفسهم ذاتيا لا يُكملون الدورة العلاجية الكاملة. هذا يعني أن البكتيريا الأقوى تنجو وتنتشر بينما يتوهم المريض أنه عولج."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "هل تحتاج مضادا حيويا؟",
+            "head": ["الحالة", "هل المضاد الحيوي مفيد؟", "السبب"],
+            "rows": [
+              ["زكام ونزلة برد", "لا", "فيروس يُشفى تلقائيا"],
+              ["إنفلونزا", "لا (عادة)", "فيروس، إلا إذا حدثت مضاعفات بكتيرية"],
+              ["التهاب حلق بكتيري مؤكد", "نعم", "تشخيص طبي بعد مسحة"],
+              ["التهاب مجاري بولية", "غالبا نعم", "بكتيري في معظمه"],
+              ["إسهال حاد", "أحيانا فقط", "معظمه فيروسي أو تسمم غذائي"],
+              ["جرح ملتهب ومتقيح", "قد يلزم", "بعد تقييم طبي للعدوى"]
+            ]
+          }
+        },
+        {
+          "h2": "كيف تستخدم المضاد الحيوي بشكل صحيح إذا وصفه لك الطبيب؟",
+          "paras": [
+            "أول قاعدة: لا تبدأ بمضاد حيوي إلا بعد أن يُشخص لك الطبيب عدوى بكتيرية ويصف لك النوع المناسب. الطبيب يختار المضاد الحيوي بناء على نوع البكتيريا المتوقعة وأنماط المقاومة السائدة في منطقتك، وليس كل المضادات تعمل على كل البكتيريا.",
+            "ثاني قاعدة وهي الأهم: أكمل الدورة كاملة حتى لو شعرت بتحسن بعد يومين أو ثلاثة. تحسن الأعراض لا يعني أن البكتيريا قُضي عليها تماما. الخلايا البكتيرية الباقية في جسمك هي الأكثر مقاومة للدواء، وإذا أوقفت الدورة مبكرا فأنت تُتيح لها فرصة التكاثر من جديد مع صفة المقاومة الجديدة التي طورتها.",
+            "ثالثا: لا تُعطِ المضاد الحيوي المتبقي من دورتك لأحد أفراد الأسرة، حتى لو بدت أعراضه مشابهة لك. قد يكون مرضه فيروسيا، أو قد يحتاج نوعا مختلفا من المضادات، أو جرعة مختلفة حسب وزنه وعمره. والمضادات الحيوية لها آثار جانبية قد تكون خطيرة في بعض الحالات خاصة عند الأطفال والحوامل والمرضى ذوي أمراض الكبد أو الكلى."
+          ]
+        },
+        {
+          "h2": "ماذا يحدث حين يُصبح الجسم يحمل بكتيريا مقاومة؟",
+          "paras": [
+            "حمل بكتيريا مقاومة لا يعني بالضرورة أنك مريض الآن. كثير من الناس يحملون بكتيريا مقاومة في أمعائهم أو على جلدهم دون أن يشعروا بأي أعراض. الخطر يظهر حين تنتقل هذه البكتيريا إلى مكان غير طبيعي في الجسم مثل المثانة أو الجرح أو الرئة أو الدم، وعند ذلك يعجز الطبيب عن علاجها بالمضادات الاعتيادية ويضطر إلى اللجوء لأدوية احتياطية أكثر تكلفة وأشد آثارا جانبية.",
+            "البكتيريا المقاومة تنتقل بين الأشخاص بنفس الطرق التي تنتقل بها البكتيريا العادية: عبر اليدين غير المغسولتين، وعبر الأطعمة الملوثة، وعبر التلامس المباشر. لذلك فإن أزمة المقاومة لا تمس فقط من يُسيء استخدام المضادات الحيوية بل تمس المجتمع بأسره، بمن فيهم الأطفال ومرضى السرطان وأصحاب العمليات الجراحية الذين يحتاجون هذه الأدوية لتكون فعالة عند استخدامها.",
+            "في دراسة مراجعة شاملة عن مقاومة المضادات الحيوية في العراق نُشرت في المجلة الصحية لشرق المتوسط عام 2024، وثق الباحثون ارتفاعا قلقا في مقاومة بكتيريا شائعة كالإيشيريكيا كولاي (E. coli) المسببة للتهابات المجاري البولية لعدد من المضادات الحيوية الأساسية، مما يُضيق خيارات العلاج المتاحة بشكل متصاعد."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "توقف عن المضاد الحيوي واطلب طبيبا إذا ظهرت هذه الأعراض",
+            "items": [
+              "طفح جلدي أو حكة شديدة بعد أخذ الجرعة الأولى أو الثانية",
+              "ضيق في التنفس أو تورم في الوجه أو اللسان",
+              "إسهال شديد مصحوب بدم أو مخاط بعد أخذ المضاد الحيوي",
+              "ألم شديد في البطن أو التوقف التام عن التبول",
+              "الأعراض الأصلية تزداد سوءا بدلا من التحسن بعد 48 ساعة"
+            ]
+          }
+        },
+        {
+          "h2": "ماذا يحدث حين تكون عدواك فيروسية؟ ما الذي يُساعد فعلا؟",
+          "paras": [
+            "الجهاز المناعي مُصمم للتعامل مع معظم العدوى الفيروسية بمفرده دون أي مساعدة دوائية. الزكام والإنفلونزا الخفيفة وكثير من التهابات الحلق تُشفى في سبعة إلى عشرة أيام بغض النظر عن المضادات الحيوية. ما يُساعد فعلا خلال هذه الفترة هو الراحة الكافية، وشرب كميات وفيرة من السوائل لمنع الجفاف، وتخفيف الحمى والألم بمسكنات آمنة كالباراسيتامول (Paracetamol) بجرعتها الصحيحة حسب الوزن والعمر. وفي حالات سيلان الأنف يُساعد محلول ملحي أنفي على تنظيف مجرى الهواء ويُخفف الضغط في الجيوب الأنفية دون أي مخاطر.",
+            "في حالات الإنفلونزا الحادة خاصة عند المسنين ومرضى القلب والرئة والنساء الحوامل، يوجد دواء مضاد للفيروسات يُسمى أوسيلتاميفير (Oseltamivir) يُؤخذ في أول 48 ساعة من الأعراض وقد يُقصر مدة المرض ويُقلل خطر المضاعفات. لكنه أيضا لا يُصرف إلا بوصفة طبية وليس له أي تأثير على البكتيريا، تماما كما أن المضاد الحيوي ليس له أي تأثير على فيروس الإنفلونزا.",
+            "العلامات التي تعني ضرورة مراجعة الطبيب بسرعة حتى في العدوى الفيروسية هي: الحمى التي تتجاوز 39 درجة مئوية ولا تنخفض بالمسكنات، أو الحمى التي استمرت أكثر من خمسة أيام، أو صعوبة ملحوظة في التنفس، أو الارتباك والنعاس الشديد، أو الجفاف مع انعدام التبول. هذه العلامات قد تُشير إلى مضاعفات بكتيرية حقيقية تستلزم مضادا حيويا بوصفة طبية بعد فحص دقيق، وليس مجرد إسعافا بأي مضاد متاح في الصيدلية."
+          ]
+        },
+        {
+          "h2": "كيف تكتشف هل أنت أمام بائع صيدليات ضمير أم لا؟",
+          "paras": [
+            "الصيدلاني الذي يُعطيك أموكسيسيلين (Amoxicillin) أو أزيثروميسين (Azithromycin) دون وصفة لزكام ظننت أنه يستحق مضادا حيويا يُعرضك للضرر دون فائدة علاجية حقيقية. الصيدلاني المُدرب يسألك عن مدة الأعراض وطبيعتها ودرجة الحمى، ويُوضح لك متى تحتاج طبيبا ومتى يكفي الراحة والإماهة الجيدة. إذا رفض الصيدلاني صرف المضاد الحيوي دون وصفة فاعتبر ذلك علامة ثقة ومهنية لا عائقا.",
+            "إذا وجدت نفسك في بلد أو منطقة تبيع المضادات الحيوية بحرية دون وصفة، فاحفظ هذه القاعدة البسيطة: الزكام والإنفلونزا وغالبية التهابات الحلق لا تحتاج مضادا حيويا، والدليل على ذلك أن غالبية الناس في هذه الحالات يتعافون في أسبوع سواء أخذوا مضادا حيويا أم لا. إذا كان المرض يزداد سوءا بعد الأيام الأولى، أو استمر أكثر من أسبوع كامل دون أي تحسن، أو أصابك ضيق شديد في التنفس أو حمى مرتفعة لا تنخفض بالباراسيتامول، فالطريق إلى الطبيب لا إلى رف المضادات الحيوية في الصيدلية.",
+            "الأسرة التي لديها طفل صغير أو مريض بأمراض مزمنة كالسكري أو الفشل الكلوي يجب أن تكون أشد حذرا في استخدام المضادات الحيوية دون تشخيص، لأن هذه الفئات أكثر عرضة للمضاعفات من البكتيريا المقاومة. يمكنك الاستفادة من تطبيق سهتك لتسجيل أعراض المريض يوما بيوم، مما يُساعدك ويُساعد الطبيب على معرفة متى تزداد الأعراض وتستوجب تدخلا سريعا."
+          ]
+        },
+        {
+          "h2": "ما الذي تفعله حكومات المنطقة وما الذي يمكنك أنت فعله؟",
+          "paras": [
+            "منظمة الصحة العالمية ووزارات الصحة في دول عديدة بدأت حملات للتوعية بمقاومة المضادات الحيوية، وبعض الدول شددت قوانين صرف المضادات الحيوية في السنوات الأخيرة. لكن التطبيق يبقى تحديا كبيرا في سياقات ضعيفة الرقابة وضيقة الموارد الصحية. التغيير الحقيقي يبدأ من قرارات الأفراد.",
+            "أهم ما يمكنك فعله: أولا لا تطلب مضادا حيويا حين لا تحتاجه، وإذا وصفه الطبيب أكمله كاملا. ثانيا لا تُعطِ مضادك الحيوي لأحد أفراد العائلة ولا تحتفظ بكميات منه في البيت للاستخدام المستقبلي. ثالثا شجع أطفالك على غسل اليدين بانتظام فهو يقطع انتقال البكتيريا المقاومة في المجتمع قبل أن تصل إلى شخص لا يستطيع جسمه مقاومتها.",
+            "وأخيرا إذا كنت تتابع علاجا مزمنا وأُصبت بعدوى تبدو بكتيرية، أخبر الطبيب بجميع الأدوية التي تأخذها لأن بعض المضادات الحيوية تتفاعل مع أدوية القلب والتخثر والنفس، وهذا يؤثر على الاختيار الأمثل للمضاد المناسب لحالتك."
+          ]
+        }
+      ],
+      "tie": "تطبيق سهتك يُساعدك على تتبع أعراضك يوما بيوم، وتسجيل الأدوية التي تأخذها ووقت آخر دورة علاجية، حتى يكون لديك ملف صحي كامل حين تزور طبيبا ويُساعده على اتخاذ القرار الصحيح.",
+      "faqs": [
+        {
+          "q": "هل يمكنني أخذ نصف دورة المضاد الحيوي للحالات الخفيفة؟",
+          "a": "لا. الدورة العلاجية التي يحددها الطبيب مصممة للقضاء على البكتيريا بشكل كامل لا لتقليل الأعراض فقط. إيقاف الدورة مبكرا يُبقي البكتيريا الأكثر مقاومة ويُعطيها فرصة للتكاثر، وقد تحتاج لاحقا لمضاد حيوي أقوى لعلاج نفس العدوى."
+        },
+        {
+          "q": "هل أقاوم المضادات الحيوية إذا كنت قد أخذتها كثيرا في حياتي؟",
+          "a": "المقاومة تنشأ في البكتيريا لا في جسم الإنسان. لكن الاستخدام المفرط يُربك توازن ميكروبيوم أمعائك الصحي ويُعزز نمو بكتيريا مقاومة في جسمك يمكن أن تنتقل لغيرك. فمقاومتك للعدوى الفعلية لا تنخفض بالمعنى الحرفي، لكنك تحمل في جسمك بكتيريا أكثر مقاومة."
+        },
+        {
+          "q": "صيدلاني أعطاني أموكسيسيلين لزكام استمر أسبوعا. هل هذا صح؟",
+          "a": "الزكام في الغالب فيروسي والأموكسيسيلين لا يُقصر مدته ولا يُقلل أعراضه. إذا استمر الزكام أكثر من أسبوع أو اشتدت الأعراض مع حمى مرتفعة أو ألم في الجيوب الأنفية أو الأذن، فهذا يستدعي تشخيصا طبيبا لا وصفة مباشرة من الصيدلية."
+        },
+        {
+          "q": "هل يمكن لجسمي أن يتعافى من عدوى بكتيرية دون مضاد حيوي؟",
+          "a": "نعم في بعض العدوى البكتيرية الخفيفة يتغلب الجهاز المناعي من تلقاء نفسه. لكن بعض العدوى البكتيرية كالتهاب المجاري البولية والتهاب الرئة البكتيري والتهاب الحلق العقدي تحتاج مضادا حيويا لتجنب المضاعفات الخطيرة. الطبيب يُقيم هذا ولا يجوز تحديده بنفسك."
+        },
+        {
+          "q": "هل صحيح أن المضاد الأقوى والأغلى هو الأفضل؟",
+          "a": "لا. المضاد الحيوي الأفضل هو الأضيق طيفا الذي يستهدف البكتيريا المسببة للعدوى تحديدا ويُؤثر بأقل قدر ممكن على البكتيريا النافعة في جسمك. المضادات الواسعة الطيف والأغلى تُحفظ للحالات الصعبة ولا يجوز استخدامها للعدوى الاعتيادية."
+        },
+        {
+          "q": "هل يضر المضاد الحيوي أمعائي؟",
+          "a": "المضادات الحيوية تُؤثر على بكتيريا الأمعاء النافعة إلى جانب البكتيريا الضارة، وهذا يُسبب الإسهال لدى بعض الأشخاص. تناول البروبيوتيك (حليب مخمر أو كبسولات بروبيوتيك) بعد الانتهاء من دورة المضاد الحيوي يُساعد على إعادة توازن الأمعاء. إذا كان الإسهال شديدا أو مصحوبا بدم فأخبر طبيبك فورا."
+        },
+        {
+          "q": "كيف أعرف إن كان التهاب حلقي بكتيريا أم فيروسيا؟",
+          "a": "لا يمكن التمييز بدقة من الأعراض الظاهرة وحدها. العلامات التي تُرجح البكتيريا هي: حمى مرتفعة مفاجئة، تقيح على اللوزتين، غياب السعال، وتورم الغدد في الرقبة. لكن التشخيص الأكيد يتطلب مسحة من الحلق تُزرع في المختبر. الطبيب يُقيم هذا، ولا ينبغي أخذ مضاد حيوي دون تشخيص مؤكد."
+        }
+      ]
+    },
+    "en": {
+      "title": "Why Antibiotics Stop Working: The Arab World's Problem",
+      "desc": "Over-the-counter antibiotic sales drive resistance across the Arab world. Learn when antibiotics help, when they do nothing, and how to use them correctly.",
+      "keywords": "antibiotic resistance Arab world, antibiotics without prescription, antimicrobial resistance, when do antibiotics work, antibiotic misuse, over the counter antibiotics Middle East",
+      "h1": "Antibiotic Resistance in the Arab World: Why It Matters and What You Can Do",
+      "takeaways": [
+        "Resistance means bacteria have developed ways to survive antibiotics, and overuse speeds up that process dramatically.",
+        "Antibiotics do absolutely nothing against colds, flu and viral sore throats because they are designed to kill bacteria only.",
+        "Completing the full course as prescribed prevents resistant bacteria from surviving and multiplying.",
+        "Over-the-counter antibiotic sales without prescription are common across much of the Arab world and are a major driver of resistance.",
+        "A 2022 Lancet analysis estimated antibiotic resistance directly caused 1.27 million deaths globally in 2019 alone."
+      ],
+      "sections": [
+        {
+          "h2": "What is antibiotic resistance and why does it matter now?",
+          "paras": [
+            "When you take an antibiotic for two days and then stop because you feel better, or when you buy one at a pharmacy for a cold you thought might be bacterial, you are contributing without knowing it to one of the most serious health crises of our time. Antibiotic resistance means that bacteria have developed mechanisms that make specific drugs ineffective against them, so that an infection which was once straightforward to treat can no longer be cured with standard medicines.",
+            "Bacteria reproduce rapidly and evolve. When an antibiotic kills most bacteria in an infection but a few survive by chance because they carry a genetic mutation that makes them slightly less sensitive to the drug, those survivors reproduce and pass on their resistance. The more we use antibiotics unnecessarily, the faster we accelerate this natural selection process, and the more drug-resistant bacteria we create in our environment and in our bodies.",
+            "This is not theoretical. A major analysis published in The Lancet in 2022 estimated that antibiotic-resistant bacterial infections were directly responsible for 1.27 million deaths globally in 2019, placing antimicrobial resistance among the leading causes of death worldwide. Infections that were reliably treatable two decades ago are now becoming difficult or impossible to manage in intensive care units across the region."
+          ],
+          "visual": {
+            "type": "stats",
+            "items": [
+              {"value": "1.27 million", "label": "deaths directly caused by antibiotic resistance in 2019 (Lancet, 2022)", "tone": "bad"},
+              {"value": "19 countries", "label": "covered by 2024 study showing over-the-counter antibiotic sales are widespread across the Arab world", "tone": "warn"}
+            ]
+          }
+        },
+        {
+          "h2": "Why is the Arab world at higher risk?",
+          "paras": [
+            "In most Arab countries, the majority of antibiotic types can be purchased at a pharmacy without a prescription. This was documented in a 2024 cross-sectional study published in Antimicrobial Resistance and Infection Control that surveyed pharmacies across 19 Arab countries and found that dispensing antibiotics without a prescription is widespread across the region. In practice, the pharmacist often becomes the de facto prescriber, sometimes without the training to determine whether an infection is bacterial or viral.",
+            "A 2023 study published in IJID Regions analysed antibiotic prescription patterns for upper respiratory tract infections among insured outpatients in Syria and found that antibiotics were frequently prescribed for viral illnesses where they provide no benefit. Similar patterns have been documented in Kuwait, Saudi Arabia, Egypt, and Iraq. A 2022 study from Arar, Saudi Arabia, found that a large proportion of people self-medicating with antibiotics did not complete the full prescribed course, which means the more resistant bacteria survive and are free to reproduce.",
+            "Structural factors compound the problem: weak pharmaceutical regulation in some countries, the presence of substandard or counterfeit medicines in informal markets, patient pressure on doctors and pharmacists to prescribe something when they feel unwell, and in conflict settings such as Syria, Yemen and Libya, disrupted supply chains, poor storage conditions and reduced access to medical assessment all push people towards self-medication as the only available option."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "warn",
+            "title": "Factors that drive resistance faster in the region",
+            "items": [
+              "Antibiotics sold at pharmacies without a prescription",
+              "Stopping the course early once symptoms improve",
+              "Using antibiotics for viral colds and flu where they have no effect",
+              "Trading expired or unverified medicines through informal channels",
+              "A widespread belief that a stronger or more expensive antibiotic is always better"
+            ]
+          }
+        },
+        {
+          "h2": "When do you actually need an antibiotic?",
+          "paras": [
+            "This is the question most people answer incorrectly. Antibiotics kill bacteria and have absolutely no effect on viruses. The common cold, influenza, most viral sore throats, viral gastroenteritis and the majority of upper respiratory tract infections are all caused by viruses. They resolve on their own with rest and hydration in most cases, typically within seven to ten days. Giving an antibiotic for these conditions does not speed recovery, does not relieve symptoms, but does expose you to side effects and contributes to building resistance.",
+            "Conditions that genuinely need an antibiotic are those caused by bacteria: most urinary tract infections, bacterial strep throat confirmed by a throat swab rather than symptoms alone, bacterial pneumonia, infected wounds with signs of spreading cellulitis, and certain other bacterial infections. Even in these cases, the correct antibiotic type and dose depends on the specific bacterium and local resistance patterns, and that determination requires a doctor rather than a pharmacy shelf.",
+            "The key rule is straightforward: if your doctor has not examined you and confirmed a bacterial cause, you should not be taking an antibiotic. A pharmacist dispensing antibiotics for a runny nose is not helping you, even if it feels like action is being taken."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Do you need an antibiotic for this?",
+            "head": ["Condition", "Is an antibiotic useful?", "Reason"],
+            "rows": [
+              ["Common cold and runny nose", "No", "Viral, resolves on its own"],
+              ["Influenza", "No (usually)", "Viral, unless bacterial complications develop"],
+              ["Confirmed bacterial strep throat", "Yes", "Requires swab test to confirm"],
+              ["Urinary tract infection", "Usually yes", "Mostly bacterial"],
+              ["Acute diarrhoea", "Sometimes only", "Mostly viral or food-related"],
+              ["Infected wound with spreading redness", "Possibly", "Requires medical assessment"]
+            ]
+          }
+        },
+        {
+          "h2": "How to take an antibiotic correctly when your doctor prescribes one",
+          "paras": [
+            "First rule: only start an antibiotic when a doctor has assessed you, confirmed or strongly suspected a bacterial infection, and selected the appropriate type for your situation. Different antibiotics work against different bacteria, and your doctor chooses based on what is most likely causing your infection and what resistance patterns are common in your area.",
+            "Second rule, and the most important: complete the full course even if you feel significantly better after two or three days. Improvement in symptoms does not mean the bacteria have been eliminated. The bacteria still alive in your body at day three are the ones most likely to carry resistance, and stopping early gives them the chance to multiply with no competition from the rest of the killed bacterial population.",
+            "Third rule: do not share your leftover antibiotic with another person in your household, even if their symptoms seem similar to yours. Their illness may be viral, they may need a different antibiotic for a different bacterial cause, and the dose required depends on their weight and age and medical history. Antibiotics also carry real side effects that can be serious in people with liver or kidney disease, in pregnancy, and in young children."
+          ]
+        },
+        {
+          "h2": "What happens when bacteria in your body become resistant?",
+          "paras": [
+            "Carrying resistant bacteria does not necessarily mean you are sick right now. Many people carry resistant bacteria in their gut or on their skin without any symptoms. The danger appears when those bacteria move to an abnormal site in the body, such as the bladder, a wound, the lungs or the bloodstream. At that point, the doctor cannot treat the infection with standard drugs and is forced to use reserve antibiotics that are more expensive, have more serious side effects, and may only be available in hospital.",
+            "Resistant bacteria spread between people the same way regular bacteria do: through unwashed hands, contaminated food, and direct contact. This means the resistance crisis does not only affect people who personally misuse antibiotics. It threatens everyone who may one day need these drugs to work, including cancer patients, surgical patients and premature babies for whom effective antibiotics can be the difference between life and death.",
+            "A 2024 review of antibiotic misuse and resistance in Iraq published in the Eastern Mediterranean Health Journal documented a worrying rise in resistance among common bacteria including Escherichia coli, the bacterium most often responsible for urinary tract infections, to several important antibiotic classes. This progressively narrows the treatment options available to doctors dealing with what should be a routine infection."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "Stop the antibiotic and see a doctor if you notice",
+            "items": [
+              "A rash or intense itching after the first or second dose",
+              "Swelling of the face, lips or tongue, or difficulty breathing",
+              "Severe diarrhoea with blood or mucus while taking the antibiotic",
+              "Severe abdominal pain or complete absence of urine output",
+              "Symptoms worsening rather than improving after 48 hours on the antibiotic"
+            ]
+          }
+        },
+        {
+          "h2": "What actually helps when the infection is viral?",
+          "paras": [
+            "Your immune system is built to handle most viral infections without any drug. The common cold and mild influenza and most viral sore throats resolve within seven to ten days regardless of what you take. What genuinely helps during this time is getting adequate rest, drinking enough fluids to prevent dehydration, and managing fever and pain with a safe analgesic such as paracetamol at the correct dose for your weight and age.",
+            "For confirmed influenza in high-risk individuals including older adults, people with heart or lung disease, and pregnant women, an antiviral called oseltamivir (Tamiflu) can shorten the illness if taken within the first 48 hours of symptoms. It must be prescribed by a doctor and is not the same as an antibiotic. It has no effect on bacteria and an antibiotic has no effect on influenza.",
+            "Signs that mean you should see a doctor promptly even during what started as a viral illness include: fever above 39 degrees Celsius that does not come down with paracetamol, fever lasting more than five days, significant difficulty breathing, confusion or extreme drowsiness, or severe dehydration with very little urination. These may indicate a secondary bacterial complication that does warrant an antibiotic prescribed after proper assessment."
+          ]
+        },
+        {
+          "h2": "What can you do personally to be part of the solution?",
+          "paras": [
+            "Individual decisions drive this crisis and individual decisions can slow it. The most important things you can do are: do not request antibiotics when your doctor has not found a bacterial reason to prescribe one, and if an antibiotic is prescribed, complete the full course on time every day. These two habits together make a significant difference when adopted across a community.",
+            "Do not keep leftover antibiotics at home for a future occasion, and do not give yours to a family member without a doctor's assessment of their situation. Flush or safely dispose of unused courses rather than stockpiling them. Teach children to wash their hands regularly with soap and water, because handwashing is one of the most effective ways to interrupt the community spread of resistant bacteria before they reach someone whose immune system cannot fight them.",
+            "If you have a chronic condition and develop what seems like a bacterial infection, tell your doctor about every medicine you are already taking, because some antibiotics interact significantly with blood thinners, heart medicines and diabetes drugs. Sharing this information helps the doctor choose the safest antibiotic for your individual situation rather than a default choice that may cause problems you were not warned about."
+          ]
+        },
+        {
+          "h2": "What the region is doing and what you can expect going forward",
+          "paras": [
+            "The WHO and health ministries across the Arab world have launched national action plans on antimicrobial resistance, and some countries have tightened regulations on antibiotic dispensing in recent years. Saudi Arabia has introduced stricter controls on pharmacy sales. Jordan and Egypt have increased focus on hospital antibiotic stewardship programmes. These are real steps, but enforcement in resource-limited and conflict-affected settings remains a major challenge.",
+            "The most important shift is cultural: moving away from the expectation that any illness warrants an antibiotic, and building trust that a doctor who does not prescribe one is making the right call, not withholding treatment. This takes time and consistent public education, but the evidence from countries that have made this shift shows that antibiotic consumption can fall substantially without any increase in serious infections when people have access to clear, accurate information about when these drugs are and are not needed.",
+            "Use Sihtak to keep a daily record of your symptoms when you are unwell, track how they are progressing, and log what medications you are taking. This gives you and your doctor a clear picture of your illness trajectory and helps inform whether a bacterial cause is likely, rather than making a guess at a pharmacy counter."
+          ]
+        }
+      ],
+      "tie": "Track your symptoms and medication history on Sihtak so that when you do see a doctor, you can show them exactly how your illness progressed and what you have already taken, helping them make a more precise and safer prescribing decision.",
+      "faqs": [
+        {
+          "q": "Can I take half a course of antibiotics for a mild infection?",
+          "a": "No. The course length your doctor prescribes is designed to eliminate the infection completely, not just reduce symptoms. Stopping early leaves the more resistant bacteria alive and gives them the opportunity to multiply without competition. You may need a stronger antibiotic later for the same infection."
+        },
+        {
+          "q": "Am I personally resistant to antibiotics if I have taken them many times in my life?",
+          "a": "Resistance develops in bacteria, not in humans. However, frequent antibiotic use disrupts the healthy balance of bacteria in your gut and encourages resistant strains to grow there. You may carry more resistant bacteria in your body as a result, which can spread to others. Your own immune response to infection is not weakened in the same way."
+        },
+        {
+          "q": "A pharmacist gave me amoxicillin for a cold that had lasted a week. Was that right?",
+          "a": "Almost certainly not. A cold lasting one week is still within the normal recovery window for a viral upper respiratory infection, and amoxicillin will not shorten it or reduce symptoms. If symptoms were worsening, or you developed high fever with facial pain or earache, that might suggest a secondary bacterial infection worth assessing, but the assessment should come from a doctor, not a pharmacy."
+        },
+        {
+          "q": "Can my body fight off a bacterial infection without an antibiotic?",
+          "a": "For some mild bacterial infections, yes. Your immune system can clear them, and doctors sometimes take a watchful-waiting approach for low-risk urinary tract infections in otherwise healthy young women. But bacterial infections like pneumonia, strep throat, some wound infections and any infection entering the bloodstream need antibiotics to prevent serious complications. Your doctor makes that risk assessment, not you."
+        },
+        {
+          "q": "Is a stronger or more expensive antibiotic always better?",
+          "a": "No. The best antibiotic is the narrowest-spectrum one that targets the specific bacterium causing your infection while causing least disruption to your healthy gut bacteria. Broad-spectrum antibiotics are reserved for serious or complicated infections. Using them for routine conditions destroys the healthy bacterial ecosystem in your gut and breeds resistance to drugs that may be needed in an emergency."
+        },
+        {
+          "q": "How do I know if my sore throat is bacterial or viral?",
+          "a": "You cannot tell reliably from symptoms alone. Signs that suggest bacteria rather than a virus include sudden high fever, visible pus on the tonsils, swollen neck glands, and the absence of a cough. But the only reliable way to confirm bacterial strep throat is a throat swab culture or a rapid antigen test. A doctor makes this assessment and prescribes accordingly."
+        },
+        {
+          "q": "Do antibiotics damage my gut?",
+          "a": "Antibiotics affect the healthy bacteria in your gut alongside the harmful ones, which is why diarrhoea is a common side effect. Taking a probiotic supplement or eating fermented dairy during and after a course can help restore balance. If diarrhoea is severe, contains blood, or develops several weeks after finishing the antibiotic, tell your doctor, as this may signal a Clostridioides difficile infection that needs specific treatment."
+        }
+      ]
+    }
+  }
+}

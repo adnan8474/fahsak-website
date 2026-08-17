@@ -1,0 +1,345 @@
+{
+  "slug": "dental-health-guide",
+  "category": "lifestyle",
+  "chip_ar": "نمط الحياة",
+  "chip_en": "Lifestyle",
+  "date_iso": "2026-08-04",
+  "sources": [
+    {
+      "label": "Worthington HV, MacDonald L, Poklepovic Pericic T et al: Home use of interdental cleaning devices, in addition to toothbrushing, for preventing and controlling periodontal diseases and dental caries, The Cochrane database of systematic reviews, 2019",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30968949/"
+    },
+    {
+      "label": "Botelho J, Singh S, Varenne B et al: Oral health and diabetes: a systematic review and meta-analysis, The Lancet. Public health, 2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41865743/"
+    },
+    {
+      "label": "Trullenque-Eriksson A, Tomasi C, Eeg-Olofsson K et al: Periodontitis in patients with diabetes and its association with diabetes-related complications. A register-based cohort study, BMJ open, 2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38964804/"
+    },
+    {
+      "label": "Al-Harthi LS, Cullinan MP, Leichter JW et al: Periodontitis among adult populations in the Arab World, International dental journal, 2013",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23410016/"
+    },
+    {
+      "label": "Jassoma E, Baeesa L, Sabbagh H et al: The antiplaque/anticariogenic efficacy of Salvadora persica (Miswak) mouthrinse in comparison to that of chlorhexidine: a systematic review and meta-analysis, BMC oral health, 2019",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31029127/"
+    },
+    {
+      "label": "Haque MM, Alsareii SA: A review of the therapeutic effects of using miswak (Salvadora Persica) on oral health, Saudi medical journal, 2015",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25935172/"
+    },
+    {
+      "label": "Chapple IL, Van der Weijden F, Doerfer C et al: Primary prevention of periodontitis: managing gingivitis, Journal of clinical periodontology, 2015",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25639826/"
+    }
+  ],
+  "content": {
+    "ar": {
+      "title": "صحة الأسنان واللثة: الوقاية وعلاقة السكري باللثة",
+      "desc": "تقنية تنظيف الأسنان الصحيحة، خيط الأسنان والمسواك بدليل العلم، والعلاقة الثنائية بين مرض اللثة والسكري التي يجهلها كثيرون.",
+      "keywords": "صحة الأسنان, التهاب اللثة, تنظيف الأسنان, خيط الأسنان, السكري واللثة, مرض اللثة, المسواك, فرشاة الأسنان, تسوس الأسنان, صحة الفم",
+      "h1": "صحة الأسنان واللثة: الوقاية الصحيحة والعلاقة المجهولة بين اللثة والسكري",
+      "takeaways": [
+        "مرض اللثة يرفع مستوى السكر في الدم، والسكري يجعل التهاب اللثة أسوأ، في دائرة يمكن كسرها بالعناية اليومية بالأسنان.",
+        "التفريش وحده لا يكفي: الفضاء بين الأسنان لا تصله الفرشاة إلا بالخيط أو الغيتار البيني.",
+        "المسواك له تأثير مضاد للبكتيريا موثق علميا، لكنه لا يُغني عن الخيط لأنه لا يصل بين الأسنان.",
+        "نزيف اللثة الخفيف عند التفريش لا يعني أن تتوقف، بل يعني أن هناك التهابا يحتاج علاجا.",
+        "زيارة طبيب الأسنان مرة أو مرتين في السنة توفر عليك علاجات مكلفة تتراكم حين يُهمل الأمر."
+      ],
+      "sections": [
+        {
+          "h2": "لماذا صحة الأسنان أكثر أهمية مما تظن؟",
+          "paras": [
+            "الأسنان واللثة ليست معزولة عن بقية الجسم. الجراثيم التي تتراكم على الأسنان دون تنظيف كافٍ تُسبب أولا التهاب اللثة، ثم تنتقل في مجرى الدم لتُؤثر على الجسم كله. مراجعة منهجية ضخمة نشرتها مجلة The Lancet Public Health عام 2026 وشملت ملايين المرضى أكدت الارتباط القوي بين صحة الفم وعدد من الأمراض المزمنة بما فيها السكري وأمراض القلب.",
+            "في منطقة الشرق الأوسط والعالم العربي، وجدت دراسة نشرت في المجلة الدولية لطب الأسنان عام 2013 أن معدلات مرض اللثة مرتفعة بشكل ملحوظ بين البالغين في الدول العربية، وأن الوعي بالوقاية لا يزال محدودا. كثير من الناس يزورون طبيب الأسنان فقط عند الألم، وهذا يعني أن المشكلة تكون قد تفاقمت بالفعل.",
+            "التكلفة الاقتصادية لإهمال الأسنان كبيرة. التسوس الذي يمكن منعه بتفريش منتظم يتحول إلى حشوة، ثم إذا أُهمل إلى تلبيس، ثم إلى خلع وربما تركيب. العناية اليومية ببضع دقائق تُوفر آلاما وتكاليف حقيقية على المدى البعيد."
+          ]
+        },
+        {
+          "h2": "تقنية التفريش الصحيحة: ليست دعكا سريعا",
+          "paras": [
+            "التفريش الصحيح يستغرق دقيقتين كاملتين وليس ثلاثين ثانية. ضع الفرشاة بزاوية 45 درجة تجاه خط اللثة، وحرّكها بحركات دائرية صغيرة أو بحركة تمشيطية من اللثة نحو الأسنان. الدعك الأفقي القوي يُؤذي اللثة ويُسبب انكشاف جذور الأسنان مع الوقت وهذا ضرر لا يعود. نظّف جميع الأسطح: الخارجية والداخلية وسطح المضغ، ولا تنسَ السطح الداخلي للأسنان الأمامية الذي يُغفله كثيرون لأنه لا يُرى في المرآة بسهولة.",
+            "فرشاة الأسنان ذات الشعيرات الناعمة أو المتوسطة هي الخيار الأسلم للغالبية. الفرشاة الصلبة تُزيل البكتيريا لكنها تُؤذي اللثة وتُسبب تآكل مينا الأسنان بمرور الوقت. غيّر فرشاتك كل ثلاثة أشهر أو عند تفرق شعيراتها أيهما أقرب، لأن الفرشاة المتفرقة لا تُنظف بفاعلية حتى لو بدت كافية للنظرة الأولى. الفرشاة الكهربائية تُعطي تنظيفا أفضل للكثيرين ممن يجدون الحركة اليدوية الصحيحة صعبة.",
+            "استخدم معجون أسنان يحتوي على الفلورايد (Fluoride). الفلورايد يُقوي مينا الأسنان في مراحل التسوس المبكرة ويُقلل خطر التسوس بشكل ملحوظ. الكميات الموجودة في معجون الأسنان العادي آمنة تماما للبالغين والأطفال فوق السادسة، والأطفال الصغار يحتاجون كمية أصغر بحسب العمر. ابصق المعجون ولا تشطف فمك بالماء مباشرة بعد التفريش حتى يبقى الفلورايد على الأسنان ويؤدي دوره."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "تقنية التفريش الصحيحة خطوة بخطوة",
+            "items": [
+              "ضع كمية بحجم حبة البازلاء من معجون الأسنان بالفلورايد",
+              "ضع الفرشاة بزاوية 45 درجة تجاه خط اللثة",
+              "حرّك الفرشاة بحركات دائرية صغيرة أو من اللثة نحو الأسنان",
+              "نظّف السطح الخارجي لجميع الأسنان العلوية والسفلية",
+              "نظّف السطح الداخلي لجميع الأسنان",
+              "نظّف سطح المضغ بحركات ذهابا وإيابا",
+              "انتهِ بتنظيف اللسان وابصق ولا تشطف بالماء مباشرة"
+            ]
+          }
+        },
+        {
+          "h2": "خيط الأسنان: لماذا لا تُغني الفرشاة عنه؟",
+          "paras": [
+            "شعيرات الفرشاة تُنظف الأسطح الخارجية والداخلية وسطح المضغ، لكنها لا تصل إلى الفضاء الضيق بين الأسنان. هذا الفضاء يُشكل ما يقارب 35 بالمائة من سطح الأسنان الإجمالي، وهو المكان المفضل لتراكم بقايا الطعام وتكوّن الطبقة الجرثومية (البلاك) ثم الجير والتسوس والتهاب اللثة. المراجعة المنهجية لقاعدة Cochrane عام 2019 أكدت أن استخدام الخيط أو أدوات التنظيف البيني بجانب التفريش يُقلل التهاب اللثة والبلاك بشكل ملحوظ مقارنة بالتفريش وحده. الفضاء البيني ليس منطقة اختيارية بل منطقة ضرورية.",
+            "الطريقة الصحيحة للخيط: خذ قطعة طولها حوالي 45 سم، لفّها حول إصبعَي الوسطى وإبقاء 2 إلى 3 سم للعمل بينهما. مرّره بين كل سنتين برفق بحركة ذهاب وإياب لطيفة دون دفعه بقوة نحو اللثة لأن ذلك يؤلمها. عانِق به جانب كل سنة بشكل حرف C ومرّره لأعلى وأسفل على كامل طول جانبيها صعودا إلى ما تحت خط اللثة. الخيط مرة واحدة يوميا يكفي، ويُفضل قبل النوم لأن اللعاب يقل أثناء النوم.",
+            "إذا كانت الفراغات بين أسنانك واسعة، أو كان عندك تقويم أسنان أو جسور تعويضية، فالغيتار البيني (Interdental brush) أو جهاز خيط الماء (Water flosser) قد يكون أسهل استخداما وأكثر فاعلية في حالتك. لا تتخلى عن التنظيف البيني لأنه صعب، بل ابحث عن الأداة المناسبة لأسنانك. اسأل طبيب أسنانك وهو سيُرشدك."
+          ]
+        },
+        {
+          "h2": "المسواك: ما يقوله العلم وما لا يقوله",
+          "paras": [
+            "المسواك أداة نظافة فموية ذات جذور تاريخية وثقافية عميقة في العالم العربي والإسلامي. وعلميا، له ما يؤيده. مراجعة منهجية نشرتها مجلة BMC Oral Health عام 2019 وجدت أن غسول الفم المستخرج من عود السواك (Salvadora persica) له فاعلية مضادة للبلاك وتسوس الأسنان مقاربة لفاعلية الكلورهكسيدين. ودراسة نشرت في المجلة الطبية السعودية عام 2015 وثّقت التأثيرات المضادة للبكتيريا والمضادة للتهاب اللثة للمسواك.",
+            "لكن هناك قيد مهم: المسواك لا يصل بين الأسنان. فاعليته محدودة للأسطح الخارجية التي تصلها الفرشاة أيضا. لهذا فهو يُكمل التفريش ولا يُغني عنه، وبالتأكيد لا يُغني عن خيط الأسنان للفضاء البيني. من يستخدم المسواك ويضيف إليه التفريش بالفلورايد والخيط يملك روتين نظافة ممتازا.",
+            "أفضل طريقة لاستخدام المسواك هي تليين رأسه بالماء قليلا ثم تنظيف الأسنان بحركة أمامية خلفية لطيفة مع تجديد الطرف المستخدم عند تفرقه. لا تعضه بقوة لأن ذلك يُفقده شكله ويقلل فاعليته."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "مقارنة أدوات تنظيف الأسنان",
+            "head": ["الأداة", "ما تُنظفه", "ما لا تُنظفه", "موصى به؟"],
+            "rows": [
+              ["فرشاة الأسنان", "الأسطح الخارجية والداخلية وسطح المضغ", "الفضاء بين الأسنان", "نعم، مرتين يوميا"],
+              ["خيط الأسنان", "الفضاء بين الأسنان", "الأسطح الكبيرة", "نعم، مرة يوميا"],
+              ["المسواك", "الأسطح الخارجية الكبيرة", "الفضاء بين الأسنان", "نعم، كمُكمّل"],
+              ["الغسول البيني", "فضاء أوسع بين الأسنان", "الأسنان المتلاصقة", "مفيد حسب الحاجة"]
+            ]
+          }
+        },
+        {
+          "h2": "التهاب اللثة: العلامات المبكرة ولماذا نزيف اللثة ليس طبيعيا",
+          "paras": [
+            "اللثة السليمة وردية اللون محكمة وليست منتفخة، ولا تنزف عند التفريش. نزيف اللثة هو العلامة الأولى لالتهابها (Gingivitis)، وكثير من الناس يرونه أمرا اعتياديا ويتجاهلونه أو يتوقفون عن التفريش خوفا من زيادة النزيف. هذا عكس ما يجب. النزيف يعني وجود التهاب يحتاج إلى تنظيف أفضل وليس أقل.",
+            "التهاب اللثة البسيط عكسي بالكامل مع التنظيف المنتظم الجيد. في الغالب يختفي خلال أسبوعين من تحسين الروتين اليومي. لكن إذا أُهمل، يتطور إلى التهاب دواعم السن (Periodontitis) الذي يصل إلى العظم الداعم للسن وقد يُسبب خسارة الأسنان على المدى البعيد. التهاب الدواعم لا يعكس نفسه بالكامل لكن يمكن السيطرة عليه بعلاج طبي وصيانة منتظمة.",
+            "علامات تستحق زيارة طبيب الأسنان قريبا: نزيف مستمر عند التفريش لأكثر من أسبوعين رغم تحسين التنظيف، تراجع اللثة وظهور جذور الأسنان، تحرك الأسنان أو شعور بفجوات جديدة بينها، رائحة فم مستمرة لا تزول بالتفريش، أو ألم في مضغ الطعام."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "راجع طبيب الأسنان إذا لاحظت أيا من هذه العلامات",
+            "items": [
+              "نزيف اللثة مستمر لأكثر من أسبوعين رغم التنظيف الجيد",
+              "تراجع اللثة وظهور جذور الأسنان أو تطويل مظهر الأسنان",
+              "تحرك الأسنان أو شعور بفجوة جديدة بين سن وأخرى",
+              "ألم عند عض الطعام أو الإحساس بضغط في اللثة",
+              "رائحة فم مستمرة لا تستجيب للتنظيف"
+            ]
+          }
+        },
+        {
+          "h2": "العلاقة بين مرض اللثة والسكري: كل منهما يُسوّئ الآخر",
+          "paras": [
+            "العلاقة بين مرض اللثة والسكري ثنائية الاتجاه وموثقة بقوة في الأدبيات الطبية. مريض السكري أكثر عرضة للإصابة بمرض اللثة لأن ارتفاع السكر يُضعف الاستجابة المناعية ويزيد التهاب الأنسجة ويُقلل تدفق الدم للثة مما يجعلها أقل قدرة على مقاومة البكتيريا. في نفس الوقت، مرض اللثة النشط يُطلق مواد التهابية في مجرى الدم تُفاقم مقاومة الأنسولين وتجعل التحكم في مستوى السكر أصعب حتى مع الالتزام بالدواء.",
+            "دراسة نشرت في BMJ Open عام 2024 تابعت مرضى السكري على مدى سنوات ووجدت أن الذين يعانون من التهاب دواعم السن (Periodontitis) كانوا أكثر عرضة لمضاعفات السكري كاعتلال الكلى والعين مقارنة بمن يتمتعون بصحة لثوية جيدة. ومراجعة منهجية ضخمة نشرتها The Lancet Public Health عام 2026 شملت دراسات من دول متعددة وأكدت هذه العلاقة الثنائية بشكل قاطع ودعت إلى إدماج صحة الفم في برامج إدارة السكري.",
+            "الخلاصة العملية لمريض السكري: صحة الأسنان واللثة ليست أمرا تجميليا بل جزء لا يتجزأ من إدارة مرضك. أخبر طبيب الأسنان دائما بأنك مريض سكري حتى يُكيّف العلاج وفقا لذلك ويعرف أن جروح اللثة تلتئم أبطأ عندك. الحفاظ على نسبة سكر مستقرة يُحسّن شفاء اللثة بعد العلاج، ومعالجة مرض اللثة تُسهم في تحسين التحكم بالسكر. الاثنان متصلان وكلاهما يفيد من علاج الآخر."
+          ],
+          "visual": {
+            "type": "stats",
+            "items": [
+              {"value": "3x", "label": "أكثر عرضة لمرض اللثة الشديد لدى مرضى السكري", "tone": "bad"},
+              {"value": "علاقة ثنائية", "label": "اللثة تُؤثر على السكر والسكري يُؤثر على اللثة", "tone": "warn"}
+            ]
+          }
+        },
+        {
+          "h2": "تسوس الأسنان: الوقاية ممكنة وليست مكلفة",
+          "paras": [
+            "التسوس (Dental Caries) يحدث حين تتغذى بكتيريا الفم على السكريات في طعامك وتُنتج حمضا يُذيب مينا الأسنان. العملية تدريجية قد تستغرق سنوات قبل أن تتحول من بقعة بيضاء أو صفراء صغيرة إلى ثقب مؤلم. الفلورايد في معجون الأسنان يُعيد تمعدن المينا في مراحله الأولى ويُوقف التسوس قبل أن يتعمق، لهذا التفريش بمعجون الفلورايد منتظما حتى حين لا تشعر بشيء يستحق.",
+            "تكرار تناول السكريات يضر بالأسنان بقدر ما تضر كمياتها. كل مرة يتناول فيها فمك سكرا أو نشويات تبدأ دورة حمضية تستمر نحو 30 دقيقة. شرب عصير فاكهة دفعة واحدة مع الوجبة أفضل لأسنانك من رشفه على مدار ساعة. الشاي والقهوة بالسكر المتكررين طوال اليوم يبقيان البيئة الحمضية مستمرة في الفم ولا يمنح أسنانك وقتا للتعافي بين الوجبات.",
+            "ختم الأضراس (Sealants) على أسنان الأضراس الدائمة عند الأطفال قبل حدوث التسوس طريقة فعّالة وغير مكلفة نسبيا لحماية هذه الأسنان التي تمتلئ أخاديدها بالطعام. إذا كان لديك أطفال في سن المدرسة، اسأل طبيب الأسنان عن هذا الخيار. والماء المُفلوَر في مناطق توفّره يُضيف حماية إضافية تعمل على مدار اليوم دون جهد."
+          ]
+        },
+        {
+          "h2": "زيارات طبيب الأسنان: لماذا تذهب وأسنانك لا تؤلمك؟",
+          "paras": [
+            "الانتظار حتى الألم هو النهج الأكثر كلفة وأقل فائدة على المدى البعيد. التسوس والتهاب اللثة لا يُسببان ألما في مراحلهما الأولى التي تستمر أحيانا سنوات. حين يُؤلم السن فعلا، المشكلة وصلت في الغالب إلى مرحلة متقدمة تتطلب علاجا أكثر تعقيدا وتكلفة. الفحص الدوري يكشف هذه المشاكل وهي لا تزال في مراحل بسيطة يمكن علاجها بتدخل بسيط وسريع.",
+            "زيارتان سنويتان هي التوصية العامة للشخص الذي لا يعاني من مشاكل نشطة، وقد يحتاج من يعاني من التهاب لثة نشط أو يتابع علاجا زيارات أكثر تصل إلى أربع مرات في السنة. التنظيف المهني (Scaling) لإزالة الجير (Tartar) ضروري لأن الجير يتراكم حتى مع التفريش اليومي الجيد ولا يُزال بالفرشاة أو الخيط. الجير يُبقي الالتهاب مستمرا حتى لو نظّفت باقي الأسنان جيدا.",
+            "في بيئات حيث طب الأسنان مكلف أو غير متاح بسهولة كبعض مناطق سوريا والعراق واليمن، الوقاية اليومية الجيدة تصبح أهم بكثير وليست بديلا عن الطبيب بل خطا دفاعيا أولا. الفرشاة والمعجون بالفلورايد والخيط هي أبسط استثمار صحي يمكنك القيام به يوميا بتكلفة ضئيلة. كل يوم تُحسن فيه نظافة فمك هو يوم تُقلل فيه احتمال الحاجة إلى علاج مكلف لاحقا."
+          ]
+        }
+      ],
+      "tie": "مع تطبيق صحتك يمكنك ضبط تذكيرات يومية لتفريش أسنانك مرتين وخيطها مرة قبل النوم. إذا كنت مريضا بالسكري، استخدم التطبيق لمتابعة نسبة السكر وصحة الأسنان معا لأن الاثنتين متصلتان. المساعد الذكي يُجيب على أسئلتك عن الأعراض ويساعدك على تقييم ما إذا كان الوضع يحتاج زيارة طبيب أسنان.",
+      "faqs": [
+        {
+          "q": "هل صحيح أن اللثة تنزف عند التفريش لأن الفرشاة قاسية؟",
+          "a": "نزيف اللثة عند التفريش يعني وجود التهاب، وليس أن الفرشاة قاسية. اللثة السليمة لا تنزف. إذا كانت الفرشاة صلبة بالفعل، غيّرها لناعمة. لكن في معظم الحالات، التنظيف المنتظم الجيد يُوقف النزيف خلال أسبوعين لأنه يُعالج الالتهاب."
+        },
+        {
+          "q": "هل المسواك يُغني عن فرشاة الأسنان؟",
+          "a": "لا. المسواك له فوائد مضادة للبكتيريا موثقة علميا لكنه لا يُنظف الفضاء بين الأسنان ولا يُقدم الفلورايد. الأفضل استخدامه مع فرشاة الأسنان والخيط وليس بديلا عنهما."
+        },
+        {
+          "q": "كيف تُؤثر صحة الأسنان على السكري؟",
+          "a": "البكتيريا في اللثة الملتهبة تُسبب استجابة التهابية في الجسم كله تُزيد مقاومة الأنسولين وتُصعّب التحكم في السكر. عكسه صحيح أيضا: السكري المرتفع يُضعف اللثة. تحسين صحة اللثة يساهم في تحسين التحكم في السكر."
+        },
+        {
+          "q": "هل الفلورايد في معجون الأسنان آمن؟",
+          "a": "نعم، الكميات الموجودة في معجون الأسنان العادي آمنة تماما للبالغين والأطفال فوق سن ستة سنوات. الفلورايد يُقوي المينا ويُقلل التسوس بشكل موثق. الأطفال تحت السادسة يحتاجون كمية أصغر ويجب الإشراف على تفريشهم."
+        },
+        {
+          "q": "كم مرة في اليوم يجب تفريش الأسنان؟",
+          "a": "مرتان يوميا هي التوصية: مرة في الصباح بعد الفطور ومرة قبل النوم. التفريش قبل النوم مهم بشكل خاص لأن تدفق اللعاب يقل أثناء النوم فتبقى البكتيريا أكثر نشاطا. لا تفرش أسنانك مباشرة بعد أكل حمضي كالعصائر انتظر نصف ساعة."
+        },
+        {
+          "q": "ما البديل للخيط إذا صعب عليّ استخدامه؟",
+          "a": "الغيتار البيني الصغير (Interdental brush) أو غسولات الفضاء البيني بالماء (Water flosser) بدائل فعّالة. الغيتار البيني مناسب للفضاء الواسع نسبيا بين الأسنان. استشر طبيب أسنانك عن الخيار الأنسب لشكل أسنانك."
+        },
+        {
+          "q": "هل تبييض الأسنان في المنزل آمن؟",
+          "a": "منتجات التبييض المنزلية المرخصة والمحتوية على تركيزات منخفضة من البيروكسيد آمنة للاستخدام المحدود. لكن الاستخدام المفرط يُضعف المينا ويُزيد حساسية الأسنان. ناقش الأمر مع طبيب أسنانك قبل البدء، خاصة إذا كنت تُعاني من حساسية الأسنان أو التهاب لثة."
+        }
+      ]
+    },
+    "en": {
+      "title": "Teeth and Gums: Prevention and the Gum Disease Diabetes Link",
+      "desc": "Brushing and flossing done right, the miswak evidence, and the two-way relationship between gum disease and diabetes most people have never heard of.",
+      "keywords": "dental health guide, gum disease, brushing technique, flossing, diabetes and gum disease, periodontitis, miswak evidence, tooth decay prevention, gingivitis, oral health",
+      "h1": "Teeth and Gums: Preventing Disease and Understanding the Hidden Diabetes Connection",
+      "takeaways": [
+        "Gum disease raises blood sugar, and diabetes worsens gum disease, in a two-way cycle that daily oral care can help break.",
+        "Brushing alone is not enough: the spaces between teeth where plaque builds up are only reachable with floss or an interdental brush.",
+        "The miswak has documented antibacterial properties but does not reach between teeth, so it complements rather than replaces flossing.",
+        "Bleeding gums when you brush is not normal: it signals inflammation that needs better cleaning, not less of it.",
+        "Two dental check-ups a year catch problems while they are still small and inexpensive to treat."
+      ],
+      "sections": [
+        {
+          "h2": "Why oral health matters far beyond your mouth",
+          "paras": [
+            "Teeth and gums are not isolated from the rest of the body. Bacteria that accumulate on teeth without adequate cleaning first cause gum inflammation, and then enter the bloodstream and affect the body more broadly. A large systematic review and meta-analysis published in The Lancet Public Health in 2026, covering millions of patients, confirmed strong associations between poor oral health and several chronic diseases including diabetes and cardiovascular disease.",
+            "In the Arab world, a study published in the International Dental Journal in 2013 found that rates of periodontitis were significantly elevated in adult populations across Arab countries, and that awareness of preventive care remained limited. Most people in the region visit a dentist only when they have pain, by which point the problem has typically progressed considerably.",
+            "The economic argument for prevention is also clear. A cavity that can be prevented by regular brushing becomes a filling if ignored, then a crown when it deepens, then a tooth extraction and possibly an implant. Ten minutes a day of good oral hygiene is one of the cheapest investments in your long-term health."
+          ]
+        },
+        {
+          "h2": "Brushing technique: it is not about scrubbing hard and fast",
+          "paras": [
+            "Correct brushing takes two full minutes, not thirty seconds. Hold the brush at a 45-degree angle to the gum line and use small circular movements or a sweeping motion from the gum toward the tooth. Vigorous horizontal scrubbing injures the gum and gradually wears away the enamel at the gum line. Clean all surfaces: the outer faces, the inner faces, and the chewing surfaces. The inner surface of the front teeth is the one most commonly missed.",
+            "A toothbrush with soft or medium bristles is the safest choice for most people. Hard bristles clean effectively but damage gums and erode enamel over time. Replace your toothbrush every three months or when the bristles splay, whichever comes sooner. A splayed brush does not clean effectively regardless of how often you use it.",
+            "Use a toothpaste containing fluoride. Fluoride strengthens tooth enamel and reduces the risk of decay. The concentrations in standard adult toothpastes are entirely safe. After brushing, spit out the toothpaste but do not rinse your mouth with water immediately. Leaving a thin fluoride film on the teeth provides ongoing protection."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "Correct brushing technique step by step",
+            "items": [
+              "Apply a pea-sized amount of fluoride toothpaste to a soft or medium brush",
+              "Hold the brush at 45 degrees to the gum line",
+              "Use small circular movements or sweep from the gum toward the tooth",
+              "Clean the outer surfaces of all upper and lower teeth",
+              "Clean the inner surfaces of all teeth",
+              "Clean the chewing surfaces with short back-and-forth strokes",
+              "Finish with the tongue and spit, do not rinse with water immediately"
+            ]
+          }
+        },
+        {
+          "h2": "Flossing: why a toothbrush cannot replace it",
+          "paras": [
+            "Toothbrush bristles clean the outer, inner, and chewing surfaces, but they cannot reach the tight spaces between teeth. Those spaces account for roughly 35 percent of the total tooth surface and are the prime site for plaque accumulation, cavities, and gum disease. The Cochrane systematic review published in 2019 confirmed that using interdental cleaning devices in addition to brushing significantly reduces gum inflammation and plaque compared with brushing alone. Skipping interdental cleaning is not a minor omission, it leaves more than a third of each tooth's surface uncleaned.",
+            "To use floss correctly, take a piece about 45 cm long and wind the ends around your middle fingers, leaving 2 to 3 cm to work with. Slide it gently between each pair of teeth using a back-and-forth motion rather than snapping it forcefully against the gum, which causes the gum to bleed unnecessarily. Curve the floss around each tooth in a C-shape and slide it gently up and down the side of the tooth, reaching a few millimetres below the gum line. Once a day, ideally before bed, is enough, because saliva flow falls during sleep and bacteria are more active with less natural protection.",
+            "If the spaces between your teeth are wide, or if you have orthodontic braces or dental bridges, an interdental brush or a water flosser may be easier to handle and just as effective. An interdental brush is a tiny bristled tool that fits between teeth like a small pipe cleaner and comes in different sizes for different gaps. Do not give up on interdental cleaning because standard floss feels difficult. Ask your dentist which tool fits your specific tooth spacing and they will find you a workable option."
+          ]
+        },
+        {
+          "h2": "The miswak: what the science says and what it does not",
+          "paras": [
+            "The miswak (Salvadora persica chewing stick) has deep historical and cultural roots in Arab and Islamic tradition, and science gives it genuine credit. A systematic review and meta-analysis published in BMC Oral Health in 2019 found that Salvadora persica mouthrinse had antiplaque and anticariogenic efficacy comparable to chlorhexidine, the gold-standard antiseptic mouthwash. A 2015 review in the Saudi Medical Journal documented its antibacterial and anti-inflammatory properties against oral pathogens.",
+            "The important caveat is that the miswak does not reach between teeth. Its effectiveness is limited to the same tooth surfaces that a toothbrush also cleans. So it complements brushing but cannot replace interdental flossing, which is the only way to clean the spaces between teeth where the miswak's fibres cannot reach. Someone who uses a miswak alongside fluoride toothpaste brushing and daily flossing has an excellent oral hygiene routine.",
+            "The best way to use it is to soften the tip in water, then clean the teeth with a gentle back-and-forth motion, renewing the tip when the fibres fray. Do not bite down hard, which destroys the shape of the tip and reduces effectiveness. Prepared miswak extracts in toothpaste or mouthwash form are also widely available and deliver the same active compounds."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Comparing oral hygiene tools",
+            "head": ["Tool", "What it cleans", "What it cannot reach", "Recommended?"],
+            "rows": [
+              ["Toothbrush", "Outer, inner, and chewing surfaces", "Spaces between teeth", "Yes, twice daily"],
+              ["Dental floss", "Spaces between teeth", "Larger tooth surfaces", "Yes, once daily"],
+              ["Miswak", "Outer tooth surfaces", "Spaces between teeth", "Yes, as a complement"],
+              ["Interdental brush", "Wider spaces between teeth", "Very tight spaces", "Helpful as needed"]
+            ]
+          }
+        },
+        {
+          "h2": "Gum disease: early signs and why bleeding gums are not normal",
+          "paras": [
+            "Healthy gums are pink, firm, and do not bleed when you brush. Bleeding is the first sign of gingivitis (gum inflammation), and many people treat it as routine or stop brushing the area to avoid it. This is the opposite of the right response. Bleeding signals inflammation that needs better cleaning, not less of it. A 2015 paper in the Journal of Clinical Periodontology on primary prevention of periodontitis made clear that consistent plaque removal is the cornerstone of preventing progression.",
+            "Early gingivitis is fully reversible with improved cleaning. In most cases it resolves within two weeks of consistently better oral hygiene. Left untreated, it progresses to periodontitis, which reaches the bone supporting the teeth and can cause tooth loss over years. Periodontitis cannot fully reverse itself but can be arrested with professional treatment and consistent maintenance.",
+            "Signs that warrant a dental appointment soon: bleeding that persists for more than two weeks despite better brushing and flossing, receding gums revealing tooth roots, teeth that feel loose or a new gap appearing between teeth, persistent bad breath that does not respond to brushing, or pain when chewing."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "See your dentist if you notice any of these",
+            "items": [
+              "Gum bleeding that continues for more than two weeks despite good brushing",
+              "Receding gums with exposed tooth roots or teeth appearing longer",
+              "A tooth feeling loose or a new gap opening between teeth",
+              "Pain or pressure when biting or chewing",
+              "Persistent bad breath that does not respond to cleaning"
+            ]
+          }
+        },
+        {
+          "h2": "Gum disease and diabetes: each one makes the other worse",
+          "paras": [
+            "The relationship between gum disease and diabetes is two-directional and strongly evidenced. People with diabetes are more susceptible to gum disease because elevated blood sugar weakens immune responses, promotes tissue inflammation, and reduces blood flow to the gums. At the same time, gum disease worsens insulin resistance and makes blood sugar harder to control.",
+            "A register-based cohort study published in BMJ Open in 2024, following patients with diabetes over time, found that those with periodontitis had significantly greater risks of diabetes-related complications compared with those with healthy gums. The 2026 systematic review and meta-analysis in The Lancet Public Health drew on data from multiple countries and confirmed this bidirectional relationship decisively.",
+            "The practical message for anyone with diabetes is that oral health is not a cosmetic concern but a genuine part of managing your condition. Tell your dentist that you have diabetes so they can adjust treatment and monitoring accordingly. Keeping blood sugar stable helps gum tissue heal, and treating gum disease contributes to better blood sugar control."
+          ],
+          "visual": {
+            "type": "stats",
+            "items": [
+              {"value": "3x", "label": "greater risk of severe periodontitis in people with diabetes", "tone": "bad"},
+              {"value": "Two-way", "label": "gum disease worsens blood sugar and diabetes worsens gums", "tone": "warn"}
+            ]
+          }
+        },
+        {
+          "h2": "Tooth decay: prevention is possible and inexpensive",
+          "paras": [
+            "Tooth decay happens when bacteria in the mouth feed on sugars in your food and produce acid that dissolves tooth enamel. The process is gradual and may take years before an early white or chalky spot becomes a painful cavity. Fluoride in toothpaste remineralises enamel in its earliest stages and can reverse the very beginning of decay before it requires drilling. This is why consistent use of fluoride toothpaste even when nothing hurts is genuinely worthwhile.",
+            "How often you eat sugar matters as much as how much you eat. Each time your mouth encounters sugar or refined starch, an approximately 30-minute acid attack begins. A single glass of fruit juice with a meal is less damaging to teeth than sipping it slowly over an hour. Tea and coffee with sugar consumed repeatedly throughout the day maintain a continuous acid environment in the mouth and give teeth no recovery time between exposures.",
+            "Dental sealants applied to the permanent molar teeth of children before decay sets in are a cost-effective way to protect these deeply grooved and vulnerable surfaces. If you have school-age children, ask a dentist about sealants at their next check-up. In areas where the water supply contains added fluoride, this provides an additional layer of protection that works passively throughout the day without any effort. Where fluoride water is unavailable, consistent fluoride toothpaste use is the most accessible substitute."
+          ]
+        },
+        {
+          "h2": "Dental check-ups: why you should go before a tooth hurts",
+          "paras": [
+            "Waiting for pain is the most expensive and least effective dental strategy. Decay and gum disease cause no pain in their early stages. By the time a tooth genuinely hurts, the problem has usually reached a stage requiring more complex and costly treatment. Regular check-ups catch problems while they are still straightforward to fix.",
+            "Two visits a year is the general recommendation for someone with no active disease. Those with active gum inflammation or ongoing treatment may need to attend more frequently. Professional cleaning to remove calculus (tartar) that accumulates despite daily brushing is essential: once tartar forms, no amount of home brushing or flossing can remove it.",
+            "In settings where dental care is costly or difficult to access, such as parts of Syria, Iraq, and Yemen, the importance of daily prevention increases even further. A toothbrush, fluoride toothpaste, and floss are the simplest and cheapest health investment you can make on a daily basis, and they dramatically reduce the need for the expensive treatments that follow neglect."
+          ]
+        }
+      ],
+      "tie": "Sihtak lets you set daily reminders to brush and floss so that good habits become automatic rather than an afterthought. If you have diabetes, you can track both your blood sugar and your oral health notes in one place, because the two are connected. The AI assistant can help you decide whether a symptom warrants a dentist visit or can wait a few days.",
+      "faqs": [
+        {
+          "q": "My gums bleed when I brush. Should I stop brushing that area?",
+          "a": "No. Bleeding gums signal inflammation, not that brushing is harming them. Healthy gums do not bleed. Stopping brushing allows more plaque to build up, which worsens the inflammation. If you switch to a soft brush and improve your technique, bleeding from simple gingivitis usually stops within about two weeks."
+        },
+        {
+          "q": "Does the miswak replace a toothbrush?",
+          "a": "No. The miswak has genuine evidence-based antibacterial properties but it cannot clean the spaces between teeth, and it does not deliver fluoride. It is best used alongside a fluoride toothbrush and floss rather than instead of them."
+        },
+        {
+          "q": "How does gum health affect blood sugar in diabetes?",
+          "a": "Bacteria in inflamed gums trigger a body-wide inflammatory response that increases insulin resistance and makes blood sugar harder to control. The effect works in both directions: improving gum health contributes to better blood sugar management. People with diabetes should mention it to their dentist at every visit."
+        },
+        {
+          "q": "Is fluoride in toothpaste safe?",
+          "a": "Yes. The concentrations in standard adult toothpaste are entirely safe and have decades of evidence for reducing tooth decay. Children over six can use adult toothpaste in smaller amounts. Children under six need a smaller pea-sized smear of lower-concentration children's toothpaste, supervised to prevent swallowing."
+        },
+        {
+          "q": "How many times a day should I brush my teeth?",
+          "a": "Twice a day: once in the morning after breakfast and once before bed. The pre-bed brush is particularly important because saliva flow decreases during sleep, leaving bacteria more active. Avoid brushing immediately after acidic foods or drinks, as the enamel is temporarily softened. Wait at least 30 minutes."
+        },
+        {
+          "q": "What can I use instead of floss if I find it difficult?",
+          "a": "Interdental brushes (small bristled picks that fit between teeth) or water flossers are effective alternatives that many people find easier to handle than string floss. Interdental brushes work best where the spaces between teeth are moderately wide. Ask your dentist which option suits your specific tooth spacing."
+        },
+        {
+          "q": "Is home teeth whitening safe?",
+          "a": "Regulated home whitening products with low concentrations of hydrogen peroxide are safe in short courses. Overuse can weaken enamel and increase tooth sensitivity. Discuss it with your dentist before starting, particularly if you have sensitive teeth, active gum disease, or visible decay that should be treated first."
+        }
+      ]
+    }
+  }
+}

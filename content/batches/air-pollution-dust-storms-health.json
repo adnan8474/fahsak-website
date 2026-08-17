@@ -1,0 +1,378 @@
+{
+  "slug": "air-pollution-dust-storms-health",
+  "category": "regional-health",
+  "chip_ar": "صحة إقليمية",
+  "chip_en": "Regional Health",
+  "date_iso": "2026-07-14",
+  "sources": [
+    {
+      "label": "Alahmad B, Li J, Achilleos S et al: Burden of fine air pollution on mortality in the desert climate of Kuwait, Journal of exposure science & environmental epidemiology, 2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37322149/"
+    },
+    {
+      "label": "Thalib L, Al-Taiar A: Dust storms and the risk of asthma admissions to hospitals in Kuwait, The Science of the total environment, 2012",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22819885/"
+    },
+    {
+      "label": "Kyung SY, Jeong SH: Particulate-Matter Related Respiratory Diseases, Tuberculosis and respiratory diseases, 2020",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32185911/"
+    },
+    {
+      "label": "Onojeghuo A, Rasul A, Onojeghuo A et al: Air pollution exposure and hotspots of CO, NO2, SO2, PM2.5, and aerosols in Iraq, Environmental monitoring and assessment, 2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41115962/"
+    },
+    {
+      "label": "Bonyadi Z, Ehrampoush MH, Ghaneian MT et al: Cardiovascular, respiratory, and total mortality attributed to PM2.5 in Mashhad, Iran, Environmental monitoring and assessment, 2016",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27640165/"
+    },
+    {
+      "label": "Adhikari A, Mitra A, Rashidi A et al: Field Evaluation of N95 Filtering Facepiece Respirators on Construction Jobsites for Protection against Airborne Ultrafine Particles, International journal of environmental research and public health, 2018",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30205526/"
+    },
+    {
+      "label": "World Health Organization: Ambient air quality guidelines, 2021",
+      "url": "https://www.who.int/publications/i/item/9789240034228"
+    }
+  ],
+  "content": {
+    "ar": {
+      "title": "العواصف الترابية وتلوث الهواء: كيف تحمي رئتيك",
+      "desc": "دليل عملي لفهم الفرق بين PM10 وPM2.5، ومن هم الأكثر عرضة للخطر، وأي أنواع الكمامات تحمي فعلاً، وكيف تقلل التعرض داخل المنزل أثناء العواصف.",
+      "keywords": "عاصفة ترابية, تلوث الهواء, PM2.5, PM10, حماية الرئة, كمامة من الغبار, جودة الهواء, ربو وغبار, دخان وأمراض, الهواء الداخلي",
+      "h1": "العواصف الترابية وتلوث الهواء: ما تحتاج معرفته لحماية رئتيك",
+      "takeaways": [
+        "الجسيمات الدقيقة PM2.5 أخطر من الغبار المرئي الكبير لأنها تخترق عمق الرئة وتصل إلى الدم.",
+        "الأشخاص المصابون بالربو أو أمراض القلب والكبار في السن والأطفال هم الأكثر عرضة للضرر أثناء العواصف.",
+        "الكمامة الجراحية لا تحمي من الغبار الدقيق، وتحتاج على الأقل كمامة من نوع FFP2 أو N95.",
+        "البقاء داخل المنزل مع إغلاق النوافذ يقلل التعرض بشكل كبير حتى لو لم يكن الهواء الداخلي مثالياً.",
+        "إذا شعرت بضيق تنفس شديد أو ألم في الصدر أثناء عاصفة ترابية، اطلب المساعدة الطبية فوراً ولا تتأخر."
+      ],
+      "sections": [
+        {
+          "h2": "ما الفرق بين PM10 وPM2.5؟",
+          "paras": [
+            "حين تسمع مصطلح PM10 أو PM2.5 في نشرات جودة الهواء، فهي تشير إلى حجم الجسيمات العالقة في الهواء مقاساً بالميكرومتر (المليون من المتر). PM10 هي الجسيمات التي يبلغ قطرها 10 ميكرومترات أو أقل، وهي الغبار والرمل الذي تراه يُغشي السماء أثناء العاصفة ويترسب على الأسطح.",
+            "PM2.5 هي الجسيمات الأدق التي يبلغ قطرها 2.5 ميكرومتر أو أقل، أي أصغر بكثير مما تراه العين. هذه الجسيمات أشد خطورة لأنها لا تُوقفها الشعيرات الأنفية ولا الغشاء المخاطي في مجرى التنفس العلوي، بل تصل إلى الحويصلات الهوائية العميقة في الرئتين، ومن هناك تنتقل إلى مجرى الدم.",
+            "أثناء عاصفة رملية أو ترابية تكون قيم PM10 مرتفعة جداً وواضحة للعيان، لكن قيم PM2.5 قد ترتفع أيضاً بشكل خفي. وجود PM2.5 مرتفع في يوم تبدو فيه السماء صافية نسبياً أمر شائع في المناطق الصناعية أو قرب الطرق الكبيرة، ولهذا لا تعتمد على وضوح الرؤية وحده دليلاً على نقاء الهواء."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "مقارنة بين الجسيمات الهوائية",
+            "head": ["النوع", "الحجم التقريبي", "مصدره الرئيسي", "أين يستقر في الجسم"],
+            "rows": [
+              ["PM10", "أقل من 10 ميكرومتر", "الرمل والغبار والعواصف", "الأنف والحلق والشعب الهوائية"],
+              ["PM2.5", "أقل من 2.5 ميكرومتر", "احتراق الوقود والدخان والصناعة", "الحويصلات الهوائية العميقة والدم"],
+              ["PM1", "أقل من 1 ميكرومتر", "دخان السيارات والحرائق", "الدم والأعضاء الداخلية"]
+            ]
+          }
+        },
+        {
+          "h2": "كيف يضر الغبار بالجسم؟",
+          "paras": [
+            "حين تستنشق الجسيمات الدقيقة، يستجيب الجهاز المناعي باشتعال التهابي في أنسجة الرئة. عند شخص سليم هذا الاستجابة مؤقتة، لكن عند من يعاني من ربو أو مرض رئوي مزمن (COPD) قد يُفضي إلى نوبة حادة مع ضيق تنفس وصفير في الصدر تستدعي العلاج.",
+            "دراسة نُشرت في مجلة Science of the Total Environment عام 2012 تتبعت حالات الدخول إلى المستشفى بسبب الربو في الكويت وربطتها بأيام العواصف الترابية، ووجدت ارتفاعاً واضحاً في حالات الربو الطارئة خلال أيام الغبار الشديد وما يليها مباشرة. وهذا التأثير لا يقتصر على الكويت، بل موثق في منطقة الخليج ووادي الرافدين وسوريا.",
+            "على المدى البعيد، التعرض المتكرر لـ PM2.5 يرتبط بأمراض القلب والأوعية الدموية. دراسة من مدينة مشهد الإيرانية ذات المناخ المشابه نشرتها دورية Environmental Monitoring and Assessment عام 2016 وجدت ارتباطاً بين مستويات PM2.5 وارتفاع معدلات وفيات القلب والرئة. القلب يتأثر لأن الجسيمات الدقيقة تثير الالتهاب في الأوعية وتزيد من تخثر الدم."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "اطلب المساعدة الطبية فوراً إذا ظهرت هذه الأعراض أثناء عاصفة أو بعدها",
+            "items": [
+              "ضيق تنفس شديد لا يخف بالراحة أو ببخاخ الربو",
+              "ألم أو ضغط في منطقة الصدر",
+              "زرقة في الشفاه أو أطراف الأصابع",
+              "ارتباك ذهني أو إغماء مفاجئ",
+              "سرعة شديدة في التنفس مع عدم القدرة على الكلام"
+            ]
+          }
+        },
+        {
+          "h2": "من هم الأكثر عرضة للخطر؟",
+          "paras": [
+            "ليس الجميع يتأثر بالدرجة نفسها. الأطفال دون سن الخامسة أكثر عرضة لأن رئتيهم لا تزال في طور النمو، وهم يتنفسون بسرعة أكبر فيستنشقون كميات أعلى نسبياً من الجسيمات مقارنة بوزن أجسامهم. كبار السن أيضاً في فئة عالية الخطر لأن كفاءة تنقية مجرى التنفس تتراجع مع العمر.",
+            "مرضى الربو وأمراض الرئة المزمنة (COPD، والتليف الرئوي) يعانون من تضيق قنوات التنفس مسبقاً، فأي تحفيز إضافي بالغبار قد يُشعل نوبة. كذلك مرضى القلب وضعف القلب الاحتقاني لأن PM2.5 يزيد الحمل على الدورة الدموية.",
+            "النساء الحوامل فئة أخرى تستدعي الاهتمام، إذ تشير بعض الأبحاث إلى ارتباط التعرض لتلوث الهواء في الحمل بانخفاض وزن المواليد. العمال في الهواء الطلق كعمال البناء والزراعة يتعرضون لساعات أطول وجرعات أعلى بكثير من غيرهم، وهم يحتاجون حماية مضاعفة.",
+            "لا تنسَ أيضاً أن الأشخاص الذين يبدون بصحة جيدة قد يشعرون بتأثيرات خفية لا يربطونها بجودة الهواء. التعب المبكر عند المشي، والصداع الخفيف في أيام الغبار الكثيف، وانخفاض القدرة على ممارسة الرياضة، هذه كلها قد تكون إشارات تدل على أن الجهاز التنفسي يعمل تحت حمل أعلى من المعتاد. تتبع هذه الأعراض مع مؤشرات جودة الهواء يساعدك على اكتشاف حساسيتك الشخصية والتكيف وفقاً لها."
+          ],
+          "visual": {
+            "type": "stats",
+            "items": [
+              {"value": "6 مليون", "label": "وفاة سنوياً عالمياً مرتبطة بتلوث الهواء الخارجي وفق منظمة الصحة العالمية", "tone": "bad"},
+              {"value": "PM2.5", "label": "الجسيمات الأدق هي الأخطر لأنها تبلغ الرئة والدم معاً", "tone": "warn"}
+            ]
+          }
+        },
+        {
+          "h2": "أي الكمامات تحمي فعلاً من الغبار؟",
+          "paras": [
+            "الكمامة الجراحية الزرقاء الرقيقة صُممت لحماية المريض من الطبيب، لا لحماية الطبيب من الهواء الملوث. هي تصفية جسيمات كبيرة كقطرات الرذاذ، لكنها لا تُغلق جانبيها على الوجه فيتسرب الهواء الملوث من حواف الكمامة مباشرة إلى مجرى تنفسك. في العاصفة الترابية، ارتداؤها خير من لا شيء للجسيمات الكبيرة جداً، لكنها لا تقدم حماية من PM2.5.",
+            "الكمامة التي تحمي من الغبار الدقيق هي تلك التي تُصنَّف بمعيار FFP2 أو FFP3 في المقياس الأوروبي، أو N95 في المقياس الأمريكي. هذه الكمامات تُحجز من الهواء نسبة 94 إلى 99 بالمئة من الجسيمات الدقيقة عند ارتدائها بشكل صحيح مع إغلاق جيد حول الأنف والخدين. دراسة نُشرت عام 2018 في International Journal of Environmental Research and Public Health وثّقت فاعلية N95 في تصفية الجسيمات الدقيقة في بيئات العمل المليئة بالغبار.",
+            "الارتداء الصحيح شرط أساسي لأي كمامة. ضعها على الوجه وافحص الإغلاق حول الأنف بالضغط على الجسر المعدني لمطابقة شكل أنفك، ثم خذ نفساً سريعاً للتأكد أن الهواء لا يتسرب من الجوانب. الكمامة التي تترك فجوة لا تحمي مهما كانت درجة تصفيتها."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "مقارنة أنواع الكمامات في العاصفة الترابية",
+            "head": ["نوع الكمامة", "تصفية PM2.5", "تصفية PM10", "مناسبة للعاصفة؟"],
+            "rows": [
+              ["كمامة قماشية قطنية", "ضعيفة جداً", "جزئية", "لا"],
+              ["كمامة جراحية", "ضعيفة", "جزئية", "محدودة"],
+              ["FFP2 / N95", "94% أو أكثر", "ممتازة", "نعم"],
+              ["FFP3 / N99", "99% أو أكثر", "ممتازة", "نعم، للتعرض الشديد"]
+            ]
+          }
+        },
+        {
+          "h2": "كيف تحمي نفسك داخل المنزل أثناء العاصفة؟",
+          "paras": [
+            "حين تبدأ العاصفة الترابية، أسرع إلى الداخل. المنازل المبنية من الطوب والخرسانة توفر عزلاً أفضل من المباني الخشبية أو الصفيح. أغلق النوافذ والأبواب بسرعة وضع منشفة مبللة في أسفل الباب الرئيسي إن وجدت فجوة. التلوث داخل المنازل المغلقة يبقى دائماً أقل من الخارج.",
+            "إذا كان لديك مكيف هواء، استخدمه في وضع دوران الهواء الداخلي وليس في وضع الشفط من الخارج. إن كنت تمتلك جهاز تنقية هواء داخلي (Air purifier) بفلتر HEPA فهذا الوقت المثالي لتشغيله. فلاتر HEPA تعترض أكثر من 99.9 بالمئة من الجسيمات 0.3 ميكرومتر وما فوق، مما يجعلها فعالة جداً ضد PM2.5.",
+            "تجنب الطهي على النار المكشوفة أو حرق أي مواد داخل المنزل أثناء العاصفة لأن الدخان الداخلي يُضاف إلى الغبار الخارجي المتسرب. إن كان شخص في البيت يعاني من ربو أو مرض رئوي تأكد من أن بخاخه الموسّع (الطارئ) متاح وقريب منه."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "ماذا تفعل حين تبدأ العاصفة الترابية",
+            "items": [
+              "ادخل إلى الداخل فوراً وأغلق النوافذ والأبواب",
+              "ضع منشفة مبللة عند قاعدة الأبواب الخارجية",
+              "شغّل المكيف على وضع الدوران الداخلي لا شفط هواء خارجي",
+              "شغّل جهاز تنقية الهواء إن وُجد",
+              "احتفظ ببخاخ الربو أو الدواء الطارئ في متناول اليد",
+              "تابع تطبيقات جودة الهواء لمعرفة موعد انتهاء العاصفة"
+            ]
+          }
+        },
+        {
+          "h2": "تلوث الهواء في المناطق الحضرية: ليس الغبار وحده",
+          "paras": [
+            "عواصف الغبار الكبرى تستأثر بالاهتمام، لكن تلوث الهواء الحضري اليومي هو الذي يؤثر على الصحة بشكل مستمر على مدى سنوات. دراسة من عام 2025 رصدت ارتفاع مستويات الملوثات بما فيها PM2.5 وثاني أكسيد الكبريت وثاني أكسيد النيتروجين في مناطق حضرية من العراق، وربطتها بانبعاثات السيارات وحرق الوقود والنفايات.",
+            "المناطق التي تشهد ضعفاً في البنية التحتية وانقطاع الكهرباء تعتمد كثيراً على المولدات الديزل، وهي مصدر ضخ لجسيمات الاحتراق الدقيقة مباشرة في المناطق السكنية. الحرائق العشوائية لإتلاف النفايات مشكلة إضافية لأنها تُطلق الدخان والمركبات الكيميائية السامة في الهواء.",
+            "أصحاب الربو والحساسية في هذه البيئات يعانون من سوء السيطرة على مرضهم طوال العام، لا فقط في أيام الغبار الاستثنائية. تتبع مؤشر جودة الهواء (AQI) عبر تطبيق مثل IQAir أو Windy يعطيك صورة يومية عن مستوى الخطر في منطقتك ويساعدك على تحديد أيام تجنب الرياضة الخارجية أو تخفيف المشي في أوقات الذروة المرورية.",
+            "الحلول الفردية لها حدودها، لكنها تحدث فرقاً حقيقياً في غياب حلول بنيوية أسرع. زرع الأشجار والمسطحات الخضراء حول المنازل يُخفف من الجسيمات المحلية لأن أوراق الأشجار تعترض الغبار وتثبت الجسيمات عوضاً عن إبقائها طائرة. التهوية الجيدة للمنزل في ساعات الليح الهادئة التي يقل فيها حجم حركة المرور تُجدد هواء الغرف دون التعرض لذروة التلوث."
+          ]
+        },
+        {
+          "h2": "ماذا تفعل بعد العاصفة مباشرة؟",
+          "paras": [
+            "حين تنتهي العاصفة المرئية، لا يعني ذلك أن الهواء أصبح نظيفاً. الجسيمات الدقيقة PM2.5 تبقى معلقة في الهواء لساعات إضافية بعد هدوء الريح. انتظر حتى تُظهر تطبيقات جودة الهواء عودة المؤشرات إلى مستويات مقبولة قبل فتح النوافذ أو ممارسة نشاط خارجي.",
+            "نظّف الأسطح الداخلية بقطعة قماش مبللة وليس بنفض الغبار الجاف حتى لا تُعيد تعليقه في الهواء. غيّر ملابسك واغسل شعرك إن كنت تعرضت للعاصفة خارجاً قبل دخول المنزل لتقليل نقل الجسيمات إلى الداخل.",
+            "إذا لاحظت أن أعراض التنفس لديك أو لدى أحد أفراد عائلتك استمرت لأكثر من يومين بعد انتهاء العاصفة، كالسعال المستمر أو صعوبة التنفس عند الجهد البسيط، فهذا يستدعي مراجعة الطبيب. في الغالب يكون التهاباً مجراه التنفسي يستجيب لعلاج بسيط، لكن التأخر في معالجته يمتد بفترة التعافي.",
+            "لمن يعاني من الحساسية الأنفية أو التهاب الجيوب، فإن كميات الغبار المترسبة في الممرات الأنفية بعد العاصفة تُطيل أعراض الانسداد والعطس لأيام. غسل الأنف بمحلول ملحي معقم مرتين يومياً يُخفف هذه الأعراض بشكل ملحوظ، إذ يزيل الجسيمات المحبوسة قبل أن تُذكي الالتهاب. هذه الخطوة البسيطة كثيراً ما تُهمل لكنها موثوقة ولا تحتاج وصفة طبية."
+          ]
+        },
+        {
+          "h2": "متى تراجع الطبيب؟",
+          "paras": [
+            "الغالبية العظمى من الناس يعانون من أعراض مؤقتة خفيفة بعد التعرض للعاصفة كحرقة العينين والعطس والسعال الخفيف، وتزول من تلقاء نفسها خلال ساعات. لكن هناك حالات تستدعي الفحص الطبي.",
+            "إذا كنت مصاباً بالربو وتحتاج إلى بخاخ الطوارئ أكثر من المعتاد، أو إن لم يخف ضيق التنفس بعد استخدامه مرتين في عشرين دقيقة، توجه إلى المستشفى. مرضى القلب الذين يشعرون بأي تغير في نبضاتهم أو ضغط في الصدر أثناء أيام الغبار ينبغي أن يتصلوا بطبيبهم حتى لو كانت الأعراض خفيفة.",
+            "الأطفال الرضع والأطفال دون سن السنتين يحتاجون إلى مراقبة أدق. إذا لاحظت أن طفلك يتنفس بسرعة غير معتادة، أو أن بطنه يرتفع وينخفض بجهد واضح مع كل نفس، أو تلوّن جلده أو شفتيه بالزرقة، اطلب الإسعاف فوراً.",
+            "كبار السن الذين يعانون من أمراض مزمنة كالسكري أو الضغط أو أمراض الكلى يستحق حالهم متابعة أدق أثناء مواسم الغبار الشديدة، إذ يُضعف التلوث وظائف الجهاز المناعي ويزيد من خطر الإصابة بعدوى الجهاز التنفسي في الأسابيع التالية للعاصفة. إن شعرت بحمى أو سعال منتج بلغم ملون خلال أسبوع من تعرضك لعاصفة شديدة، استشر طبيبك حتى لا يتطور الأمر إلى التهاب رئوي."
+          ]
+        }
+      ],
+      "tie": "تساعدك تطبيقة سهتك على تسجيل أعراض تنفسك وتتبع تأثير أيام جودة الهواء على صحتك، خاصة إن كنت تعاني من ربو أو حساسية تجعلك أكثر حساسية للغبار والملوثات.",
+      "faqs": [
+        {
+          "q": "هل الكمامة القماشية تحمي من الغبار؟",
+          "a": "الكمامة القماشية تصفي الجسيمات الكبيرة جداً فقط وتوفر حماية محدودة جداً من الغبار الدقيق PM2.5. لحماية حقيقية تحتاج كمامة من نوع FFP2 أو N95 تُغلق جيداً حول الوجه وتمنع تسرب الهواء من الجوانب."
+        },
+        {
+          "q": "هل يكفي البقاء داخل المنزل خلال العاصفة؟",
+          "a": "نعم، البقاء داخل مبنى مغلق يقلل التعرض للغبار بشكل كبير. أفضل خطوة هي إغلاق النوافذ والأبواب وتشغيل المكيف على الدوران الداخلي. تلوث الهواء الداخلي أثناء العاصفة يبقى دائماً أقل بكثير من الهواء الخارجي."
+        },
+        {
+          "q": "كيف أعرف مستوى جودة الهواء في منطقتي؟",
+          "a": "تطبيقات مثل IQAir وAirVisual وWindy تعطيك قراءات مؤشر جودة الهواء (AQI) في الوقت الفعلي لأي مكان. مؤشر AQI فوق 150 يعتبر غير صحي لمجموعات حساسة، وفوق 200 غير صحي للجميع."
+        },
+        {
+          "q": "هل العواصف الترابية تؤثر على القلب أم فقط على الرئة؟",
+          "a": "كلاهما. الجسيمات الدقيقة PM2.5 تصل إلى مجرى الدم وتُطلق استجابة التهابية تؤثر على الأوعية الدموية وتزيد من التخثر. الأشخاص المصابون بأمراض القلب يواجهون خطراً أعلى في أيام التلوث الشديد."
+        },
+        {
+          "q": "هل يمكن للأطفال ارتداء كمامات N95؟",
+          "a": "الكمامات القياسية N95 مصممة للبالغين ولا تُغلق بشكل صحيح على وجوه الأطفال الصغار، مما يُلغي فاعليتها. توجد أحجام مصغرة للأطفال في بعض الأسواق، لكن الأفضل للأطفال الصغار هو تجنب الخروج أثناء العاصفة كلياً والبقاء في هواء نقي مُرشَّح داخلياً."
+        },
+        {
+          "q": "كم ساعة تبقى الجسيمات في الهواء بعد هدوء العاصفة؟",
+          "a": "الجسيمات الكبيرة PM10 تترسب بسرعة، لكن PM2.5 يمكن أن تبقى معلقة في الهواء من ساعات إلى أيام خاصة إن كان الجو ساكناً. أفضل طريقة للتأكد هي مراقبة مؤشر AQI وانتظار عودته إلى مستويات مقبولة."
+        },
+        {
+          "q": "هل التلوث اليومي من السيارات بالغ الخطورة؟",
+          "a": "نعم، وخاصة في المدن الكبيرة والمناطق التي تعتمد على مولدات الديزل. التعرض المزمن لمستويات متوسطة من PM2.5 على مدى سنوات هو في المجموع أضر على الصحة من التعرض القصير لعاصفة استثنائية."
+        },
+        {
+          "q": "هل ارتداء الكمامة في الطريق يحمي أثناء القيادة؟",
+          "a": "إغلاق نوافذ السيارة وتشغيل التكييف داخلياً أفضل من الكمامة أثناء القيادة لأن تركيزات الملوثات داخل السيارة المغلقة تنخفض بسرعة. ارتدِ الكمامة حين تنزل من السيارة وتسير في الهواء الطلق."
+        }
+      ]
+    },
+    "en": {
+      "title": "Dust storms and air pollution: protecting your lungs",
+      "desc": "A practical guide to PM10 versus PM2.5, who is most at risk, which masks actually work, and how to cut your exposure indoors during a regional dust event.",
+      "keywords": "dust storm, air pollution, PM2.5, PM10, lung protection, dust mask, air quality index, asthma and dust, indoor air quality, respiratory disease",
+      "h1": "Dust storms and air pollution: what you need to know to protect your lungs",
+      "takeaways": [
+        "PM2.5 particles are far more dangerous than visible dust because they reach deep lung tissue and enter the bloodstream.",
+        "People with asthma, heart disease, young children and older adults face the highest risk during dust events.",
+        "A surgical mask gives very little protection against fine dust. You need at least an FFP2 or N95 respirator fitted tightly to your face.",
+        "Staying indoors with windows closed sharply reduces your exposure even if indoor air is not perfect.",
+        "Severe breathlessness or chest pain during a dust storm is a medical emergency. Do not wait it out."
+      ],
+      "sections": [
+        {
+          "h2": "What is the difference between PM10 and PM2.5?",
+          "paras": [
+            "When air quality bulletins refer to PM10 or PM2.5, the number is the diameter of the particle measured in micrometres (millionths of a metre). PM10 means particles 10 micrometres or smaller. This is the visible yellow-brown haze you see rolling in during a sandstorm, the grit that settles on every surface and coats the inside of your nostrils.",
+            "PM2.5 means particles 2.5 micrometres or smaller. These are invisible to the naked eye but far more dangerous. The nose hairs and the mucous lining of the upper airways that trap larger particles cannot stop them. They travel deep into the smallest air sacs of the lung, and from there the finest fractions can cross into the bloodstream and reach organs across the body.",
+            "During a major dust storm, PM10 is extremely high and obviously visible. But PM2.5 can also be elevated in ways that are not visible. On a day when the sky looks relatively clear, PM2.5 can still be high near industrial zones, busy roads and areas running many diesel generators. Visible clarity is not a reliable guide to air safety."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Airborne particle comparison",
+            "head": ["Type", "Approximate size", "Main sources", "Where it reaches in the body"],
+            "rows": [
+              ["PM10", "Under 10 micrometres", "Sand, dust, desert storms", "Nose, throat and upper airways"],
+              ["PM2.5", "Under 2.5 micrometres", "Fuel combustion, smoke, industry", "Deep lung air sacs and bloodstream"],
+              ["PM1", "Under 1 micrometre", "Vehicle exhaust, wildfires", "Bloodstream and internal organs"]
+            ]
+          }
+        },
+        {
+          "h2": "How does dust actually harm the body?",
+          "paras": [
+            "When you inhale fine particles, the immune system launches an inflammatory response in the lung lining. In a healthy person this is short-lived. In someone with asthma or chronic obstructive pulmonary disease (COPD), it can trigger a severe attack with wheezing, chest tightness and acute breathlessness that needs prompt treatment.",
+            "A 2012 study published in The Science of the Total Environment tracked hospital admissions for asthma across Kuwait and found a clear rise in emergency asthma cases on days of dust storm activity and in the days immediately following. The effect was not small. This pattern is documented across the Gulf, the Tigris and Euphrates basin and Syria.",
+            "For the heart, the evidence is equally clear. Research from Mashhad, Iran published in Environmental Monitoring and Assessment in 2016 found a measurable link between PM2.5 levels and deaths from both cardiovascular and respiratory causes. PM2.5 promotes inflammation inside blood vessel walls and increases the tendency of the blood to clot, both of which raise the risk of heart attacks and strokes on high-pollution days."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "Get urgent help if you develop any of these during or after a dust storm",
+            "items": [
+              "Severe breathlessness that does not ease with rest or your reliever inhaler",
+              "Pain or pressure in the chest",
+              "Blue or grey colour in the lips or fingertips",
+              "Sudden confusion or loss of consciousness",
+              "Breathing fast but unable to speak in full sentences"
+            ]
+          }
+        },
+        {
+          "h2": "Who is most at risk?",
+          "paras": [
+            "Children under five are disproportionately affected because their lungs are still developing and they breathe faster relative to body weight, so they inhale more particles per kilogram than adults do. Older adults are vulnerable because the filtering efficiency of the upper airways declines with age.",
+            "People with asthma already have narrowed and reactive airways, so any particulate trigger can escalate a controlled condition into an acute crisis. People with COPD face the same risk. Heart disease patients and those with congestive heart failure are at higher risk because PM2.5 adds direct cardiac stress on top of their existing burden.",
+            "Pregnant women are a third group worth attention. Some research suggests that sustained exposure to air pollution during pregnancy is linked to lower birth weight and preterm delivery. Outdoor workers in construction, farming and road repair face the heaviest daily exposure because they cannot simply go indoors when conditions worsen."
+          ],
+          "visual": {
+            "type": "stats",
+            "items": [
+              {"value": "6 million", "label": "deaths per year globally linked to outdoor air pollution, according to WHO estimates", "tone": "bad"},
+              {"value": "PM2.5", "label": "is the primary driver of health harm because it reaches the lungs and the bloodstream", "tone": "warn"}
+            ]
+          }
+        },
+        {
+          "h2": "Which masks actually protect against dust?",
+          "paras": [
+            "The thin blue surgical mask was designed to protect a patient from a healthcare worker's breath, not to protect the wearer from airborne particulates. It does not seal against the face. During a dust storm, air carrying PM2.5 flows straight around the unsealed edges. It provides some benefit against very large particles but essentially no protection against the fine fraction that causes the most harm.",
+            "The masks that do protect are those rated to a filtration standard. In the European rating system, FFP2 filters at least 94 percent of fine particles, and FFP3 filters at least 99 percent. The North American equivalent is N95 (95 percent filtration) and N99. A 2018 study in the International Journal of Environmental Research and Public Health confirmed that properly fitted N95 respirators substantially reduce personal exposure to fine particles in dusty working environments.",
+            "Fit matters as much as filtration rating. The mask must seal against your face. Press the metal nose strip firmly to the bridge of your nose, then take a sharp breath in. If you feel air pulling in from the sides or top, it is not sealed. A mask that allows air bypass gives no useful protection regardless of its rating number."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Mask types compared for dust storm protection",
+            "head": ["Mask type", "PM2.5 filtration", "PM10 filtration", "Suitable for dust storm?"],
+            "rows": [
+              ["Cotton cloth mask", "Very poor", "Partial", "No"],
+              ["Surgical mask", "Poor", "Partial", "Minimal only"],
+              ["FFP2 / N95 (well-fitted)", "94% or more", "Excellent", "Yes"],
+              ["FFP3 / N99 (well-fitted)", "99% or more", "Excellent", "Yes, for severe exposure"]
+            ]
+          }
+        },
+        {
+          "h2": "How to protect yourself indoors during a storm",
+          "paras": [
+            "When a dust storm arrives, your best move is to get inside quickly and close up the building. Brick and concrete construction provides better isolation than timber or corrugated metal structures. Close windows and exterior doors immediately. Roll a damp towel along the base of exterior doors where gaps let air through. Even imperfect sealing keeps indoor particle concentrations well below outdoor levels.",
+            "If you have air conditioning, switch it to recirculation mode so it circulates indoor air rather than drawing in outdoor air. If you own an indoor air purifier fitted with a HEPA filter, this is exactly the situation it is designed for. HEPA filters capture more than 99.97 percent of particles 0.3 micrometres and larger, making them highly effective against PM2.5.",
+            "Avoid cooking over an open flame or burning anything indoors during the storm because indoor combustion adds smoke particulates to whatever is leaking in from outside. Make sure anyone in the household who uses a reliever inhaler for asthma knows where it is and has a full canister."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "What to do when a dust storm arrives",
+            "items": [
+              "Get indoors immediately and close all windows and exterior doors",
+              "Place a damp towel along the base of exterior doors",
+              "Switch air conditioning to indoor recirculation mode",
+              "Run an indoor HEPA air purifier if you have one",
+              "Keep reliever inhalers and any urgent medications easily accessible",
+              "Monitor an air quality app to track when conditions improve"
+            ]
+          }
+        },
+        {
+          "h2": "Urban air pollution: dust is not the only problem",
+          "paras": [
+            "Major sandstorms attract attention, but chronic urban air pollution is what affects health steadily across years. A 2025 study mapping air pollutant hotspots across Iraqi cities documented elevated levels of PM2.5, sulphur dioxide and nitrogen dioxide in urban centres, tied to vehicle emissions, fuel burning and waste incineration.",
+            "Areas with unreliable electricity supply depend heavily on diesel generators running in residential streets. Diesel combustion releases fine combustion particles directly into neighbourhoods at ground level. Uncontrolled open burning of waste is a further source of mixed toxic smoke that communities downwind cannot avoid.",
+            "For people with asthma or allergic airway disease in these environments, poor daily control is the norm rather than the exception. Tracking the Air Quality Index through an app such as IQAir or Windy gives you a daily picture of risk in your area and helps you choose when to avoid outdoor exercise or walking during peak traffic hours.",
+            "Individual actions have real limits but also real value in the absence of faster structural solutions. Trees and green planting around homes reduce local particle concentrations because leaves intercept and bind particles rather than leaving them airborne. Ventilating your home during calm late night hours when traffic volume is lowest refreshes indoor air without exposing the space to peak daytime pollution."
+          ]
+        },
+        {
+          "h2": "What to do immediately after a storm passes",
+          "paras": [
+            "When a dust storm becomes visibly less intense, the air is not yet clear. Large PM10 particles settle relatively quickly, but PM2.5 can remain suspended for hours to days if conditions are still. Wait until an air quality app shows the index returning to acceptable levels before opening windows or resuming outdoor activity.",
+            "Clean indoor surfaces with a damp cloth rather than dry dusting to avoid resuspending particles. If you were outdoors during the storm, change clothes and wash your hair before coming fully inside to avoid carrying particles through the living space.",
+            "If respiratory symptoms persist for more than two days after the storm, such as a persistent cough or unusual breathlessness on mild exertion, see a doctor. Most cases are minor airway inflammation that responds quickly to simple treatment, but leaving it untreated extends recovery."
+          ]
+        },
+        {
+          "h2": "When to see a doctor",
+          "paras": [
+            "Most people experience mild, temporary symptoms after dust exposure. Gritty eyes, sneezing, a scratchy throat and a short-lived cough typically clear within hours without any treatment. But certain situations need medical attention rather than waiting at home.",
+            "If you have asthma and you need your reliever inhaler more than twice in 20 minutes without sustained improvement, go to hospital. People with heart conditions who notice any change in their palpitations, or chest pressure during high-dust days, should contact their doctor even if symptoms feel mild.",
+            "In very young children and infants, watch carefully for a breathing rate that is faster than usual, visible effort in the chest or abdomen with every breath, or any bluish tinge to the lips or skin. Any of these signs in a young child during or after a dust event is an emergency and should prompt an immediate call for help.",
+            "People with allergic rhinitis or chronic sinusitis often experience prolonged nasal blockage after a heavy dust event as particles settle deep in the nasal passages. Rinsing the nose twice daily with sterile saline solution can noticeably shorten this phase by physically clearing trapped particles before they sustain further inflammation. This is a step that costs very little and requires no prescription.",
+            "Older adults with chronic conditions including diabetes, kidney disease or suppressed immunity are also a priority group during heavy dust seasons. Particle exposure dampens respiratory immune defences and raises the risk of secondary bacterial chest infection in the weeks following a severe storm. If you or an older relative develop a productive cough, fever or increasing breathlessness within a week of a major exposure, see a doctor promptly rather than waiting to see if it resolves on its own."
+          ]
+        }
+      ],
+      "tie": "Sihtak lets you log daily symptoms and track how air quality days affect your breathing, which is especially useful if you have asthma or allergic airway disease and want to understand your personal triggers.",
+      "faqs": [
+        {
+          "q": "Does a cloth mask protect against dust?",
+          "a": "A cloth mask filters only very large particles and offers very little protection against fine PM2.5 dust. For meaningful protection you need an FFP2 or N95 respirator that seals tightly against your face without air leaking around the edges."
+        },
+        {
+          "q": "Is staying indoors enough during a dust storm?",
+          "a": "Yes, staying in a closed building significantly reduces your exposure. Close windows and doors, switch the air conditioner to recirculation, and run a HEPA air purifier if you have one. Indoor particle concentrations during a storm are always substantially lower than outdoors."
+        },
+        {
+          "q": "How do I check air quality in my area?",
+          "a": "Apps such as IQAir, AirVisual and Windy show real-time Air Quality Index (AQI) readings for most locations. An AQI above 150 is unhealthy for sensitive groups, and above 200 is unhealthy for everyone. Both are common during regional dust events."
+        },
+        {
+          "q": "Does dust pollution affect the heart as well as the lungs?",
+          "a": "Yes. PM2.5 particles that reach the bloodstream trigger inflammatory changes in blood vessel walls and promote clotting. People with existing heart disease face measurably higher risk of cardiac events on days when fine particle levels are elevated."
+        },
+        {
+          "q": "Can children wear N95 masks during a dust storm?",
+          "a": "Standard adult N95 respirators do not seal properly on young children's faces, which removes most of their benefit. Child-sized versions exist in some markets but are not widely available regionally. For young children, the best approach is to avoid outdoor exposure entirely and keep them in well-sealed indoor spaces."
+        },
+        {
+          "q": "How long do fine particles stay in the air after a storm passes?",
+          "a": "Large PM10 particles settle within hours, but PM2.5 can remain suspended for many hours to several days in calm conditions. Monitoring an AQI app and waiting for readings to fall to acceptable levels before going outdoors is safer than judging by sky appearance alone."
+        },
+        {
+          "q": "Is everyday traffic pollution as serious as a dust storm?",
+          "a": "In the long run, yes. Sustained daily exposure to moderate PM2.5 levels over years causes more cumulative health harm than a single acute dust event. This is especially true in cities with dense traffic, many diesel generators and open waste burning."
+        },
+        {
+          "q": "Is it better to wear a mask or stay in a car with windows up?",
+          "a": "A closed car with air conditioning in recirculation mode reduces interior particle concentrations quickly and is generally more protective than a mask worn outdoors. Wear the mask when you step out of the vehicle and are walking in open air."
+        }
+      ]
+    }
+  }
+}

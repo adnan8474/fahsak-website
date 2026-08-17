@@ -1,0 +1,379 @@
+{
+  "slug": "water-quality-and-disease",
+  "category": "regional-health",
+  "chip_ar": "صحة إقليمية",
+  "chip_en": "Regional Health",
+  "date_iso": "2026-08-04",
+  "sources": [
+    {
+      "label": "Wolf J, Hubbard S, Brauer M et al: Effectiveness of interventions to improve drinking water, sanitation, and handwashing with soap on risk of diarrhoeal disease in children in low-income and middle-income settings: a systematic review and meta-analysis, Lancet (London, England), 2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35780792/"
+    },
+    {
+      "label": "Kumpel E, Nelson KL: Comparing microbial water quality in an intermittent and continuous piped water supply, Water research, 2013",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23866140/"
+    },
+    {
+      "label": "Al-Hmani A, Ben Jamaa N, Kharroubi A et al: Case-control study of drinking water quality in Yemen, Eastern Mediterranean health journal, 2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39584436/"
+    },
+    {
+      "label": "Sobsey MD, Handzel T, Venczel L et al: Chlorination and safe storage of household drinking water in developing countries to reduce waterborne disease, Water science and technology, 2003",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12639033/"
+    },
+    {
+      "label": "Kerr M, Cardinale V, De Vito C et al: Lifestraw Family water filters in low- and middle-income countries: a systematic review and meta-analysis, Journal of global health, 2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38939952/"
+    },
+    {
+      "label": "Eneh SC, Admad S, Nazir A et al: Cholera outbreak in Syria amid humanitarian crisis: the epidemic threat, future health implications, and response strategy, Frontiers in public health, 2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37408746/"
+    },
+    {
+      "label": "World Health Organization: Guidelines for drinking-water quality, 4th edition incorporating the 1st and 2nd addenda",
+      "url": "https://www.who.int/publications/i/item/9789240045064"
+    }
+  ],
+  "content": {
+    "ar": {
+      "title": "جودة الماء والأمراض التي ينقلها: دليل عملي للوقاية",
+      "desc": "مقارنة عملية بين الغلي والكلور والترشيح لتنقية الماء في المنزل، وكيفية تنظيف خزان الماء، والأمراض التي تنقلها المياه الملوثة ومتى تطلب المساعدة الطبية.",
+      "keywords": "جودة الماء, تنقية الماء في المنزل, غلي الماء, كلور الماء, مرشح ماء, أمراض المياه, إسهال الأطفال, كوليرا, تيفوئيد, خزان ماء نظيف",
+      "h1": "جودة الماء والأمراض التي ينقلها: الوقاية والحلول العملية في المنزل",
+      "takeaways": [
+        "الغلي الكامل لدقيقة واحدة يقضي على جميع الجراثيم والفيروسات والطفيليات تقريباً التي تسبب الأمراض المنقولة بالمياه.",
+        "إمداد الماء المتقطع يرفع خطر التلوث بشكل كبير لأن ضعف الضغط يسمح بدخول الملوثات الخارجية إلى الأنابيب.",
+        "خزان الماء المنزلي يحتاج تنظيفاً دورياً كل ثلاثة أشهر على الأقل وإلا يتحول إلى مصدر تلوث.",
+        "الإسهال الشديد مع دم أو مخاط أو حمى شديدة يستدعي مراجعة الطبيب فوراً ولا يُعالج بالسوائل المنزلية وحدها.",
+        "الكلور يقتل معظم الجراثيم لكنه لا يُزيل الطفيليات ذات الجدار الصلب كالكريبتوسبوريديوم، ولهذا يُكمّله الغلي أو الترشيح."
+      ],
+      "sections": [
+        {
+          "h2": "كيف يصبح الماء الخطر؟",
+          "paras": [
+            "الماء النظيف الخارج من محطة تنقية لا يضمن وصوله نظيفاً إلى صنبورك. دراسة نشرتها دورية Water Research عام 2013 تتبعت جودة المياه في شبكات ذات إمداد متقطع ومقارنتها بشبكات ذات إمداد مستمر، ووجدت أن الشبكات المتقطعة تحمل تلوثاً جرثومياً أعلى بكثير. حين ينقطع الماء وتنخفض ضغطه في الأنابيب، تُشفط الملوثات الخارجية من التربة المحيطة أو من مياه الصرف القريبة إلى داخل الأنابيب من خلال أي شق أو وصلة متهالكة.",
+            "خزانات الماء المنزلية مصدر تلوث آخر. الخزان المعتم المسدود تنمو فيه الطحالب والجراثيم ببطء إن لم يُنظَّف بانتظام. في المناطق الحارة تتكاثر بعض الجراثيم في الماء الراكد الدافئ بسرعة كبيرة. أي شق في غطاء الخزان أو أنابيبه يفتح طريقاً للتلوث من الهواء أو الحشرات.",
+            "المناطق التي تتعطل فيها البنية التحتية كنتيجة للنزاعات أو الكوارث الطبيعية تعاني من مستوى مرتفع من الخطر. مراجعة نُشرت في Frontiers in Public Health عام 2023 وثّقت اندلاع موجة وباء الكوليرا في سوريا مرتبطةً بشكل مباشر بانهيار منظومة إمداد المياه والصرف الصحي، وهو نمط متكرر في بيئات الأزمات حول المنطقة.",
+            "دراسة تحليلية نشرتها دورية Eastern Mediterranean Health Journal عام 2024 تناولت جودة مياه الشرب في اليمن وارتباطها بالأمراض، ووجدت أن الأسر التي تعتمد على مصادر مياه غير مُحسَّنة تواجه خطراً أعلى بشكل ملموس من الأمراض الإسهالية. المشكلة لا تقتصر على جودة المصدر بل تمتد إلى آلية نقل الماء وتخزينه داخل المنزل، إذ يمكن أن يتلوث الماء بعد جمعه إن لم تُراعَ نظافة الأواني والأيدي."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "الأمراض الشائعة المنقولة بالمياه الملوثة",
+            "head": ["المرض", "العامل المسبب", "أبرز الأعراض", "وقت ظهور الأعراض"],
+            "rows": [
+              ["الكوليرا", "بكتيريا Vibrio cholerae", "إسهال مائي غزير، تجفاف سريع", "ساعات إلى يومين"],
+              ["التيفوئيد", "بكتيريا Salmonella Typhi", "حمى تدريجية، صداع، إمساك ثم إسهال", "6-30 يوم"],
+              ["التهاب الكبد A", "فيروس Hepatitis A", "يرقان، غثيان، تعب شديد", "15-50 يوم"],
+              ["الجيارديا", "طفيلي Giardia lamblia", "إسهال، انتفاخ، مغص متكرر", "أسبوع إلى ثلاثة أسابيع"],
+              ["الكريبتوسبوريديوم", "طفيلي Cryptosporidium", "إسهال مائي، تشنج معوي", "2-10 أيام"]
+            ]
+          }
+        },
+        {
+          "h2": "الغلي: الطريقة الأبسط والأكثر موثوقية",
+          "paras": [
+            "الغلي هو الوسيلة الأقدم والأكثر موثوقية لتعقيم الماء المنزلي. الحرارة فوق 70 درجة مئوية تقتل معظم الكائنات الممرضة، والغليان الكامل (100 درجة على مستوى سطح البحر) يقضي بدقيقة واحدة على الجراثيم والفيروسات وجميع الطفيليات الشائعة بما فيها الكريبتوسبوريديوم والجيارديا اللتان تقاومان الكلور. في المناطق المرتفعة كالمناطق الجبلية، يُفضَّل الغليان لثلاث دقائق لأن درجة الغليان تنخفض مع الارتفاع.",
+            "الغلي لا يُزيل التلوث الكيميائي أو المعادن الثقيلة كالرصاص والزرنيخ، ولا يُحسّن الطعم إن كان سيئاً بسبب مواد عضوية. هو الأمثل للتلوث الجرثومي والطفيلي الذي هو مصدر القلق الأساسي في معظم سياقات المنطقة. بعد الغلي احرص على تبريد الماء في وعاء نظيف مغلق ولا تُضف إليه ماءً غير مغلياً من قارورة أو صنبور.",
+            "الوعاء الذي تُبرّد فيه الماء المغلي مهم مثل عملية الغلي نفسها. وعاء معدني أو زجاجي ذو غطاء محكم يمنع إعادة التلوث. لا تضع الماء المغلي في زجاجات بلاستيكية واسعة الفم أو أوعية غير نظيفة لأن التلوث يحدث أثناء التبريد والتخزين بسهولة."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "طريقة الغلي الصحيحة للحصول على ماء آمن",
+            "items": [
+              "اسكب الماء في إناء نظيف وضعه على النار",
+              "انتظر حتى يبدأ الغليان الكامل مع ظهور فقاعات كبيرة مستمرة",
+              "استمر في الغلي دقيقة واحدة (3 دقائق في المناطق المرتفعة)",
+              "أطفئ النار واترك الماء يبرد في الإناء مغلقاً",
+              "انقله إلى وعاء نظيف ذي غطاء محكم للتخزين",
+              "لا تخلطه بماء لم يُغلَ"
+            ]
+          }
+        },
+        {
+          "h2": "الكلور المنزلي: كيف تستخدمه بشكل صحيح",
+          "paras": [
+            "الكلور هو الطريقة الأشيع لتعقيم كميات أكبر من الماء بتكلفة زهيدة جداً. يُستخدم عادةً بصيغة محلول هيبوكلوريت الصوديوم (الكلوركس أو البليتش) المتوفر في معظم الصيدليات والمحلات. دراسة واسعة نُشرت في Water Science and Technology عام 2003 أكدت فاعلية الكلور المنزلي في قتل الجراثيم وتقليل الأمراض المعوية في سياقات مشابهة لمناطقنا.",
+            "الجرعة المعتمدة هي بشكل عام قطرتان من محلول الكلور 5-6% (الكلوركس المعتاد) لكل لتر ماء. اخلط جيداً واتركه لمدة لا تقل عن 30 دقيقة قبل الشرب. للماء العكر ذي اللون البني أضعف الجرعة (4 قطرات للتر) لأن المواد العضوية تُضعف الكلور. الماء المعالج يجب أن يكون له رائحة خفيفة من الكلور، وإن لم تشمّها فزد القليل وانتظر.",
+            "تذكر أن الكلور لا يقتل الكريبتوسبوريديوم ولا الجيارديا في الجرعات المنزلية الآمنة. إن كنت في منطقة تشهد وباء مائياً بأحد هذين الطفيليين فالغلي هو الحل لا الكلور. الكلور أيضاً يفقد فاعليته بسرعة في الشمس والحرارة، لذا خزّن محلول الكلور في مكان بارد بعيد عن الضوء.",
+            "ملاحظة عملية: الماء العكر لا يمكن تعقيمه بالكلور بكفاءة كافية. عليك أولاً تصفيته بقطعة قماش نظيفة أو تركه يترسب لساعة وسحب الطبقة العليا الشفافة. المواد العضوية العالقة تستهلك الكلور قبل أن يصل إلى الجراثيم وتُقلل فاعليته بشكل كبير. هذه الخطوة البسيطة تُحسّن نتيجة المعالجة بالكلور بشكل ملحوظ."
+          ]
+        },
+        {
+          "h2": "المرشحات المنزلية: أيها يعمل حقاً؟",
+          "paras": [
+            "مرشحات الماء المنزلية نوعان رئيسيان: المرشحات الكيميائية التي تعتمد على الكلور أو اليود، والمرشحات الميكانيكية التي تعترض الجسيمات والكائنات الدقيقة بالحجز الفيزيائي. مراجعة منهجية نشرتها Journal of Global Health عام 2024 أثبتت أن مرشحات LifeStraw Family والمرشحات المماثلة ذات مستوى الترشيح الدقيق تُقلل من الإسهال لدى الأطفال بشكل دال.",
+            "مرشح النانو والمرشح المتبادل (Hollow Fiber Filter) هو الأكثر فاعلية إذ يعترض الجراثيم والطفيليات بحجم أقل من 0.1 ميكرون. مرشح الفحم النشط يُحسّن الطعم والرائحة ويُزيل بعض المواد الكيميائية، لكنه لا يُعقّم الماء من الجراثيم. الجمع بين مرشح ميكانيكي دقيق ومعالجة بالكلور يُوفر حماية أشمل.",
+            "أي مرشح يحتاج صيانة دورية وإلا ينقلب إلى مصدر تلوث. اتبع تعليمات الشركة المصنّعة في تغيير العناصر وتنظيف الوعاء. المرشح الذي تجاوز عمره التشغيلي المقرر قد يُطلق الجراثيم التي راكمها بدلاً من الاحتفاظ بها. أقرأ التعليمات باهتمام وسجّل تاريخ التثبيت.",
+            "قبل شراء مرشح منزلي، تأكد أنه مصنّف لاحتجاز الجراثيم وليس للتحسين الحسي فقط. الوصف التسويقي على العبوة قد يقول إنه يُحسّن الطعم والرائحة دون الإشارة إلى قتل الجراثيم. ابحث عن شهادة اعتماد من جهة مستقلة أو تقنية الترشيح كنظام الألياف المجوفة (Hollow Fiber) أو أغشية التناضح العكسي (Reverse Osmosis) التي تُعطيك ماءً آمناً جرثومياً."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "مقارنة بين طرق تنقية الماء المنزلي",
+            "head": ["الطريقة", "تقضي على الجراثيم؟", "تقضي على الطفيليات؟", "تُزيل الكيميائيات؟", "التكلفة"],
+            "rows": [
+              ["الغلي", "نعم، كاملاً", "نعم، كاملاً", "لا", "تكلفة الطاقة فقط"],
+              ["الكلور المنزلي", "نعم", "جزئياً (لا ضد كريبتو)", "لا", "منخفضة جداً"],
+              ["مرشح Hollow Fiber", "نعم", "نعم", "جزئياً", "متوسطة"],
+              ["مرشح فحم نشط", "لا", "لا", "نعم", "متوسطة"],
+              ["أشعة UV منزلية", "نعم", "نعم", "لا", "مرتفعة نسبياً"]
+            ]
+          }
+        },
+        {
+          "h2": "خزان الماء المنزلي: كيف تُبقيه نظيفاً؟",
+          "paras": [
+            "خزانات المياه المنزلية الأرضية والعلوية تحتاج تنظيفاً دورياً كل ثلاثة أشهر على الأقل. رواسب الكربونات والطحالب الخضراء وغشاء الجراثيم (الطبقة الحيوية Biofilm) تتراكم تدريجياً على جدران الخزان وتُلوّث الماء المخزن حتى لو كان الماء الداخل إليه نظيفاً.",
+            "لتنظيف الخزان: أفرغه تماماً، وافرك جدرانه الداخلية بفرشاة صلبة أو قطعة قماش خشنة دون مواد تنظيف كيميائية عطرية. اشطفه جيداً بالماء. ثم امزج محلول الكلور بنسبة لتر واحد من الكلوركس 5% لكل ألف لتر من سعة الخزان. امأه بهذا المحلول واتركه ساعتين قبل الشرب منه، ثم اشطفه مرة أخرى بالماء النظيف إن كانت رائحة الكلور شديدة.",
+            "تحقق أيضاً من غطاء الخزان. الغطاء المكسور أو غير المحكم يدخل منه الحشرات والأتربة والطيور وهي مصادر تلوث خطيرة. اليد التي تغمس إناءً في الخزان مباشرة تُلوّث الماء، فاستخدم صنبوراً أو مضخة صغيرة للسحب دائماً."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "warn",
+            "title": "علامات تدل على تلوث خزان الماء",
+            "items": [
+              "رائحة كريهة أو طعم غريب في الماء",
+              "لون أخضر أو بني أو عكارة مرئية",
+              "وجود رواسب أو طبقة دهنية على السطح",
+              "حشرات أو حيوانات صغيرة داخل الخزان",
+              "حالات إسهال متكررة بين سكان المنزل بلا سبب واضح"
+            ]
+          }
+        },
+        {
+          "h2": "أعراض تحذيرية ومتى تراجع الطبيب؟",
+          "paras": [
+            "الإسهال الخفيف لمدة يوم أو يومين عند البالغين الأصحاء يُعالج في الغالب في المنزل بالإكثار من السوائل ومحلول الإماهة الفموي (ORS). لكن هناك حالات تستدعي التقييم الطبي العاجل. إسهال مائي غزير يُفضي إلى عجز عن الشرب، أو إسهال يحتوي على دم أو مخاط، أو حمى فوق 39 درجة مئوية مع الإسهال، هذه مؤشرات تستدعي رؤية طبيب.",
+            "الأطفال دون سن السنتين يحتاجون انتباهاً خاصاً لأن الجفاف يتطور عندهم بسرعة أكبر. الطفل الذي لا يبكي دموعاً، وجلده فاقد للنعومة، وفمه جافاً، والبول قليلاً أو غائباً لساعات، هذه علامات جفاف خطير تستوجب الذهاب إلى المستشفى فوراً. الحل في المنزل هو البدء فوراً بمحلول الإماهة وليس الانتظار.",
+            "بالغ يعاني من حمى تدريجية الارتفاع تمتد لأكثر من أسبوع مع صداع وآلام في الجسم دون سبب واضح قد يكون مصاباً بالتيفوئيد أو التهاب الكبد A، وكلاهما يحتاج تشخيصاً مختبرياً وعلاجاً طبياً. لا تعالج هذه الحالات في المنزل بالأعشاب أو الأدوية المتاحة دون وصفة.",
+            "إن توفر محلول الإماهة الفموي (ORS) الجاهز فاستخدمه. إن لم يتوفر، يمكن إعداده في المنزل بخلط لتر ماء مغلي ومبرد مع ملعقة صغيرة ملح وست ملاعق صغيرة سكر وعصير ليمونة. هذا المحلول يُعوّض الملح والسكر الضائعين مع الإسهال ويمنع التجفاف. لا تُغنيه المشروبات الغازية أو عصائر الفاكهة المركزة التي ترفع الأسمولية وقد تُشدد الإسهال.",
+            "إعطاء المريض المصاب بإسهال مضاداً حيوياً من تلقاء نفسك دون تشخيص قد يكون ضاراً. معظم حالات الإسهال الفيروسية لا تستجيب للمضادات الحيوية وإعطاؤها يُربك الجراثيم النافعة في الأمعاء ويطيل فترة الانزعاج. المضادات الحيوية ضرورية في حالات الكوليرا والتيفوئيد والإسهال الجرثومي الشديد، لكن الطبيب هو من يقرر ذلك بناءً على التشخيص."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "اذهب إلى الطبيب فوراً إذا ظهرت هذه الأعراض",
+            "items": [
+              "إسهال مائي غزير جداً مع عجز عن الشرب (علامة الكوليرا الرئيسية)",
+              "دم أو مخاط في البراز مع حمى",
+              "علامات جفاف شديدة: جفاف الفم، غياب البول، دوار وارتباك",
+              "حمى تتجاوز 39 درجة مستمرة أكثر من 72 ساعة",
+              "إسهال شديد لدى طفل دون سنتين أو عند شخص كبير في السن أو مريض مزمن"
+            ]
+          }
+        },
+        {
+          "h2": "الوقاية في الحياة اليومية: عادات بسيطة تحمي بشكل فعلي",
+          "paras": [
+            "غسل اليدين بالصابون قبل الأكل وبعد استخدام الحمام هو الإجراء الأرخص والأفضل في الوقاية من الأمراض المنقولة بالمياه والطعام. المراجعة الكبرى التي نشرتها The Lancet عام 2022 وتحليل بيانات أكثر من عشرين دراسة أثبتت أن تحسين جودة المياه وغسل اليدين بالصابون يُقللان من إسهال الأطفال بنسبة تصل إلى 50% في سياقات موارد محدودة.",
+            "لا تشرب من ماء المجاري العامة أو ماء النهر مباشرة دون معالجة. ماء الترع والأنهار والبرك مصدر شائع للجيارديا والكريبتوسبوريديوم والكوليرا في المناطق التي تتداخل فيها مياه الصرف مع مصادر المياه. الخضروات التي تُري بمياه غير نقية يجب غسلها بماء نظيف أو نقعها في ماء مُكلَّر.",
+            "في السفر إلى مناطق غير متأكد من جودة مياهها، الزجاجات المغلقة المحكمة هي الخيار الأضمن. إن لم تتوفر، فالغلي وليس مجرد فلترة ماء متاح بالحرارة الكافية. تجنب أيضاً الثلج في المطاعم والمشروبات إن لم تكن متأكداً من مصدر الماء الذي صُنع منه.",
+            "الحديث عن تنظيف اليدين يبدو بديهياً لكن التفاصيل تُحدث الفارق. اليد المغسولة بالماء وحده تُزيل الجراثيم الظاهرة لكن تُبقي كثيراً من الفيروسات والجراثيم الصغيرة لاصقة بالجلد. الصابون يُفكك الطبقة الدهنية التي تتمسك بها هذه الكائنات وتُزيلها. عشرون ثانية من الفرك بالصابون على كلتا اليدين والمعصمين هو الوقت الكافي. اجعل الصابون دائماً قريباً من نقطة غسل اليد لأن العادة تنكسر حين تحتاج إلى البحث عن الصابون."
+          ]
+        }
+      ],
+      "tie": "تطبيق سهتك يساعدك على تسجيل الأعراض وتتبعها لنفسك ولأفراد عائلتك، وهو مفيد بشكل خاص لرصد حالات الإسهال المتكررة في المنزل التي قد تشير إلى مصدر تلوث مائي مشترك.",
+      "faqs": [
+        {
+          "q": "هل الغلي لدقيقة واحدة كافٍ لتعقيم الماء؟",
+          "a": "نعم، الغلي الكامل لدقيقة واحدة يقضي على الجراثيم والفيروسات وجميع الطفيليات الشائعة. في المناطق المرتفعة فوق 2000 متر يُفضَّل الغلي ثلاث دقائق لأن درجة الغليان تنخفض مع الارتفاع. بعد الغلي خزّن الماء في وعاء نظيف مغلق."
+        },
+        {
+          "q": "هل الكلور المنزلي يقتل جميع الجراثيم؟",
+          "a": "الكلور فعّال جداً ضد الجراثيم والفيروسات، لكنه لا يقتل الكريبتوسبوريديوم (Cryptosporidium) وأبواغه في الجرعات المنزلية الآمنة. للقضاء على هذا الطفيلي تحديداً يجب الغلي أو استخدام مرشح دقيق."
+        },
+        {
+          "q": "كم مرة يجب تنظيف خزان الماء المنزلي؟",
+          "a": "كل ثلاثة أشهر على الأقل في الأجواء الحارة، وكل ستة أشهر في المناطق الأكثر برودة. إن ظهر تلوث مرئي كاللون الأخضر أو الرائحة الكريهة، نظّفه فوراً بغض النظر عن الجدول الزمني."
+        },
+        {
+          "q": "هل ماء الصنبور آمن للشرب في المدن السورية؟",
+          "a": "هذا يتفاوت حسب المنطقة والوقت. الغلي هو الأكثر أماناً دائماً إن لم تكن متأكداً. في فترات انقطاع الإمداد الطويلة أو في المناطق ذات الشبكات القديمة المتضررة، التعامل مع الماء كغير آمن للشرب دون معالجة هو القرار الأحكم."
+        },
+        {
+          "q": "هل المرشح المنزلي يُغني عن الغلي؟",
+          "a": "المرشح الميكانيكي الدقيق (Hollow Fiber) يحجز الجراثيم والطفيليات، لكنه لا يقتل الفيروسات بالضرورة. الجمع بين مرشح ميكانيكي دقيق ومعالجة بالكلور يُوفر حماية أشمل من الاثنين منفردين. إن لم تتوفر هذه الحلول فالغلي هو الأضمن والأرخص."
+        },
+        {
+          "q": "ماذا أضع في ماء الطفل لأجعله آمناً؟",
+          "a": "للأطفال دون السنة الغلي هو الطريقة الأكثر أماناً دائماً لأن جهازهم المناعي لا يزال ضعيفاً. للأطفال الأكبر يمكن استخدام الماء المُكلَّر أو المُرشَّح ثم المُكلَّر. لا تعطِ رضيعاً ماء عكراً أو مشكوكاً فيه حتى بعد المعالجة، وعند الشك الغلي دائماً."
+        },
+        {
+          "q": "هل الثلج في المطاعم يُعدّ مأموناً؟",
+          "a": "الثلج مصنوع من الماء، فإن كان الماء غير معالج فالثلج غير آمن. في المطاعم والمناطق التي لا تتأكد فيها من مصدر الماء، تجنب الثلج في مشروباتك أو اطلب مشروبات في عبواتها الأصلية."
+        },
+        {
+          "q": "هل يمكن علاج الإسهال في المنزل؟",
+          "a": "الإسهال الخفيف إلى المتوسط لدى البالغين الأصحاء يُعالج بالراحة وكثرة السوائل ومحلول الإماهة الفموي (ORS). لكن الإسهال مع دم أو حمى شديدة أو علامات جفاف، وأي إسهال عند طفل دون سنتين أو عند مريض مزمن، يستدعي مراجعة الطبيب فوراً."
+        }
+      ]
+    },
+    "en": {
+      "title": "Water quality and the diseases it carries",
+      "desc": "When supply is intermittent, waterborne illness follows. Boiling, chlorine and filters compared, tank hygiene, and which diseases trace back to contaminated water.",
+      "keywords": "water quality, household water treatment, boiling water, chlorine water purification, water filter, waterborne disease, cholera, typhoid, water tank cleaning, safe water",
+      "h1": "Water quality and waterborne disease: practical protection for your household",
+      "takeaways": [
+        "Boiling for one full minute kills virtually all bacteria, viruses and parasites that cause waterborne disease, making it the most reliable home treatment.",
+        "Intermittent piped water supply significantly increases contamination risk because low pressure allows pollutants to be drawn into pipes through cracks and joints.",
+        "Your household water tank needs cleaning at least every three months, or it becomes a contamination source in its own right.",
+        "Severe diarrhoea with blood or mucus, or with signs of dehydration, is a medical emergency that cannot be managed at home with fluids alone.",
+        "Chlorine kills most bacteria but does not reliably eliminate hard-walled parasites such as Cryptosporidium, which is why boiling or fine filtration is needed for full coverage."
+      ],
+      "sections": [
+        {
+          "h2": "How does safe water become dangerous?",
+          "paras": [
+            "Water that leaves a treatment plant clean does not necessarily arrive at your tap in the same condition. A study published in Water Research in 2013 compared microbial water quality in intermittent and continuous piped supply systems and found that intermittent supply carried substantially higher bacterial contamination. When water stops flowing and pressure in the pipes drops, contaminated water from surrounding soil or nearby sewage can be drawn in through any crack, joint or corroded section of pipework.",
+            "Household storage tanks create a second hazard. In a tank that is not cleaned regularly, algae, bacteria and a bacterial film known as biofilm accumulate gradually on the interior walls and contaminate water held there even if the incoming supply was clean. In hot climates, certain bacteria multiply rapidly in warm standing water. Any crack in a tank lid or its connecting pipes opens a route for contamination from air, insects or debris.",
+            "Areas where infrastructure has been disrupted by conflict or natural disaster face elevated risk. A review published in Frontiers in Public Health in 2023 documented the cholera outbreak in Syria as directly linked to the collapse of water supply and sanitation infrastructure, a pattern seen repeatedly across the region during crises. A case-control study of drinking water quality in Yemen, published in 2024, confirmed that households using unimproved water sources faced measurably higher risk of illness."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Common diseases carried by contaminated water",
+            "head": ["Disease", "Cause", "Main symptoms", "Time to onset"],
+            "rows": [
+              ["Cholera", "Bacterium Vibrio cholerae", "Profuse watery diarrhoea, rapid dehydration", "Hours to 2 days"],
+              ["Typhoid fever", "Bacterium Salmonella Typhi", "Gradually rising fever, headache, constipation then diarrhoea", "6 to 30 days"],
+              ["Hepatitis A", "Hepatitis A virus", "Jaundice, nausea, severe fatigue", "15 to 50 days"],
+              ["Giardiasis", "Parasite Giardia lamblia", "Diarrhoea, bloating, recurrent cramping", "1 to 3 weeks"],
+              ["Cryptosporidiosis", "Parasite Cryptosporidium", "Watery diarrhoea, intestinal cramping", "2 to 10 days"]
+            ]
+          }
+        },
+        {
+          "h2": "Boiling: the simplest and most reliable method",
+          "paras": [
+            "Boiling is the oldest and most reliably effective method for household water treatment. Temperatures above 70 degrees Celsius kill most pathogens, and a full rolling boil at sea level kills all common bacteria, viruses and parasites including Cryptosporidium and Giardia, both of which resist chlorine. At one minute of full boil, the water is safe. In higher altitude areas such as mountain regions, boil for three minutes because the boiling point decreases with altitude and pathogen kill takes longer.",
+            "Boiling does not remove chemical contamination or heavy metals such as lead and arsenic, and it does not improve taste caused by dissolved organic compounds. It is the right solution for microbial and parasitic contamination, which is the primary concern in most regional settings. After boiling, cool the water in a clean closed container and do not add any unboiled water to it, whether from a bottle or a tap.",
+            "The container you use for cooling and storing boiled water matters as much as the boiling itself. A metal or glass vessel with a secure lid prevents recontamination during the cooling and storage period. Avoid wide-mouthed plastic containers or any vessel that is not thoroughly clean. Contamination introduced during storage after boiling can negate the protection that the boiling provided."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "How to boil water correctly",
+            "items": [
+              "Pour the water into a clean pot and place it on the heat source",
+              "Wait until the water reaches a full rolling boil with large continuous bubbles",
+              "Maintain the full boil for one minute (three minutes at high altitude)",
+              "Turn off the heat and allow the water to cool inside the covered pot",
+              "Transfer to a clean container with a secure lid for storage",
+              "Never add unboiled water to the cooled boiled water"
+            ]
+          }
+        },
+        {
+          "h2": "Household chlorine: how to use it correctly",
+          "paras": [
+            "Chlorine is the most widely used method for treating larger quantities of water at very low cost. It is typically applied as sodium hypochlorite solution, which is the active ingredient in household bleach products available in most pharmacies and general stores. A landmark study published in Water Science and Technology in 2003 confirmed the effectiveness of household chlorine treatment in reducing bacterial contamination and diarrhoeal illness in settings comparable to those across the region.",
+            "The standard dose is generally two drops of a 5 to 6 percent sodium hypochlorite solution per litre of water. Stir well and wait at least 30 minutes before drinking. For turbid or visibly cloudy water, double the dose because organic matter in the water consumes chlorine and reduces its effectiveness. The treated water should have a faint smell of chlorine. If you cannot detect any chlorine odour after 30 minutes, add a little more and wait again.",
+            "Chlorine does not reliably kill Cryptosporidium or Giardia at safe household concentrations. If your area is experiencing an outbreak linked to either of these parasites, boiling is the required solution, not chlorination alone. Chlorine also loses effectiveness rapidly when exposed to sunlight and heat, so store your chlorine solution in a cool place away from direct light, and use it before its expiry date."
+          ]
+        },
+        {
+          "h2": "Household filters: which ones actually work?",
+          "paras": [
+            "Home water filters fall into two broad types: chemical filters that use chlorine or iodine to disinfect, and mechanical filters that physically block particles and microorganisms. A systematic review published in the Journal of Global Health in 2024 confirmed that fine-pore mechanical filters, specifically the hollow fibre type used in products such as the LifeStraw Family filter, produce a meaningful and measurable reduction in childhood diarrhoea when used consistently.",
+            "A hollow fibre filter with a pore size of 0.1 micrometres or smaller is the most effective mechanical option. At that scale it intercepts bacteria and parasites reliably. Activated carbon filters improve taste and odour and remove some chemical contaminants but do not disinfect water against bacteria. Combining a fine mechanical filter with chlorine treatment delivers broader protection than either method alone.",
+            "Every filter requires maintenance or it becomes a contamination source itself. Follow the manufacturer's instructions for replacing filter elements and cleaning the housing. A filter that has exceeded its rated operational life may release accumulated bacteria rather than retaining them. Note the installation date and change elements on schedule."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Household water treatment methods compared",
+            "head": ["Method", "Kills bacteria?", "Kills parasites?", "Removes chemicals?", "Cost"],
+            "rows": [
+              ["Boiling", "Yes, completely", "Yes, completely", "No", "Energy cost only"],
+              ["Household chlorine", "Yes", "Partial (not Crypto)", "No", "Very low"],
+              ["Hollow fibre filter", "Yes", "Yes", "Partial", "Moderate"],
+              ["Activated carbon filter", "No", "No", "Yes", "Moderate"],
+              ["Household UV device", "Yes", "Yes", "No", "Higher upfront"]
+            ]
+          }
+        },
+        {
+          "h2": "Keeping your water tank clean",
+          "paras": [
+            "Roof and ground-level household water storage tanks need to be cleaned at least every three months in hot climates, and every six months in cooler areas. Calcium carbonate deposits, algae and a bacterial layer known as biofilm accumulate gradually on the tank walls and contaminate the stored water even when the incoming supply is clean.",
+            "To clean the tank: empty it completely, then scrub the interior walls with a stiff brush or rough cloth without strongly scented chemical cleaners. Rinse thoroughly with water. Then prepare a chlorine solution using one litre of standard 5 percent bleach per thousand litres of tank capacity. Fill the tank with this solution and leave it for two hours before drinking. If the chlorine odour is strong after two hours, flush the tank once with clean water before use.",
+            "Check the tank lid. A damaged or poorly fitting lid allows insects, birds, dust and debris to enter, all of which are contamination routes. Never reach into the tank with a hand or dip a container directly into the water. Use a tap or small pump to draw water out. A hand introduced into the tank contaminates the water for everyone drawing from it."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "warn",
+            "title": "Signs that your water tank may be contaminated",
+            "items": [
+              "Unpleasant smell or unusual taste in tap water",
+              "Visible green, brown or grey colour in the water",
+              "Visible sediment or a film on the water surface",
+              "Insects or small animals found inside the tank",
+              "Repeated unexplained diarrhoea among household members"
+            ]
+          }
+        },
+        {
+          "h2": "Warning signs and when to see a doctor",
+          "paras": [
+            "Mild diarrhoea lasting one or two days in a healthy adult is usually managed at home with increased fluids and oral rehydration solution. But certain patterns require urgent medical assessment. Very profuse watery diarrhoea that makes it impossible to keep up with fluid intake, diarrhoea containing blood or mucus, fever above 39 degrees Celsius alongside diarrhoea, and any diarrhoea in a child under two years old all warrant medical evaluation.",
+            "Children under two are a specific priority because dehydration develops faster in young children and can become life-threatening within hours. The warning signs of severe dehydration are: no tears when crying, dry mouth and tongue, skin that does not spring back quickly when pinched, sunken eyes, very little or no urine for several hours, and lethargy or unusual drowsiness. Any of these in a young child is an emergency. Start oral rehydration solution immediately and get to a hospital.",
+            "An adult who develops a fever that rises gradually over several days, accompanied by headache and body aches, without another clear cause may have typhoid fever or hepatitis A, both of which spread through contaminated water and food and both of which need laboratory confirmation and proper medical treatment. These are not conditions to manage at home with available medicines."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "Go to a doctor immediately if you notice",
+            "items": [
+              "Profuse watery diarrhoea with inability to drink enough to keep up (the main sign of cholera)",
+              "Blood or mucus in the stool with fever",
+              "Signs of severe dehydration: dry mouth, no urine, dizziness or confusion",
+              "Fever above 39 degrees Celsius lasting more than 72 hours",
+              "Any severe diarrhoea in a child under two, an elderly person or someone with a chronic illness"
+            ]
+          }
+        },
+        {
+          "h2": "Everyday prevention habits that genuinely reduce risk",
+          "paras": [
+            "Washing hands with soap before eating and after using the toilet is the single cheapest and most effective measure against waterborne and foodborne illness. The large Lancet meta-analysis published in 2022, reviewing interventions in low-income and middle-income settings, found that improvements in water quality combined with soap handwashing reduced childhood diarrhoea by up to 50 percent. The soap is not optional. Water alone removes far fewer pathogens than water with soap.",
+            "Do not drink from irrigation canals, rivers or ponds without treatment. These open water sources are common routes for Giardia, Cryptosporidium, Vibrio cholerae and typhoid bacteria in areas where sewage and water supplies are not fully separated. Vegetables irrigated with untreated water should be washed thoroughly in clean water or soaked briefly in chlorinated water before consumption.",
+            "When travelling to areas where you are unsure of water quality, factory-sealed bottles are the safest option. If those are not available, boiled water is the next best choice. Avoid ice in drinks at restaurants and street food stalls unless you are confident in its source, because ice made from untreated water carries the same risk as the water itself.",
+            "Hand hygiene at critical moments reduces disease transmission even when the water itself is not perfectly treated. The moments that matter most are before preparing or eating food, after using the toilet, after handling animals or soil, and after caring for someone who is ill. Keep a small bar of soap accessible at every hand-washing point in the house, because the habit only forms when the soap is already there.",
+            "When oral rehydration solution (ORS) is not commercially available, you can prepare a reliable home version by dissolving one level teaspoon of salt and six level teaspoons of sugar in one litre of cooled boiled water, with a squeeze of lemon juice if available. This replaces the salt and glucose lost through diarrhoea and prevents the dehydration that turns a manageable illness into a dangerous one. Carbonated drinks and concentrated fruit juices are not substitutes because their high sugar concentration can draw more fluid from the gut and worsen the situation."
+          ]
+        }
+      ],
+      "tie": "Sihtak lets you log symptoms for yourself and your family members and track patterns over time. If several people in a household develop diarrhoea in the same week, a shared water source is worth investigating, and having a symptom record helps you and your doctor identify it.",
+      "faqs": [
+        {
+          "q": "Is one minute of boiling really enough to make water safe?",
+          "a": "Yes. A full rolling boil for one minute at sea level kills all common bacteria, viruses and parasites including those that resist chlorine. At altitudes above 2,000 metres, boil for three minutes. After boiling, store the water in a clean covered container."
+        },
+        {
+          "q": "Does household chlorine kill all pathogens?",
+          "a": "Chlorine is highly effective against bacteria and most viruses, but it does not reliably kill Cryptosporidium at safe household doses. If your area has a Cryptosporidium-related outbreak, boiling or a fine hollow fibre filter is required in addition to or instead of chlorination."
+        },
+        {
+          "q": "How often should a household water tank be cleaned?",
+          "a": "At least every three months in hot climates. If you see visible algae growth, a green colour, unusual odour or taste, clean the tank immediately regardless of when it was last done. A contaminated tank contaminates all the water drawn from it."
+        },
+        {
+          "q": "Is tap water in Syrian or Iraqi cities safe to drink?",
+          "a": "This varies by area and time. Boiling is the safest default if you are unsure. During or after periods of infrastructure disruption or intermittent supply, treat all tap water as potentially unsafe without treatment before drinking."
+        },
+        {
+          "q": "Does a household filter replace boiling?",
+          "a": "A good hollow fibre filter with pore size 0.1 micrometres or smaller removes bacteria and parasites reliably but does not kill viruses at the same level as boiling. Combining a fine filter with chlorination covers a broader range of pathogens. If neither is available, boiling remains the most reliable and cheapest option."
+        },
+        {
+          "q": "How do I make water safe for an infant?",
+          "a": "For infants under one year, boiling is always the recommended method because their immune systems are still developing. For older children, properly chlorinated or filtered water is acceptable. Do not give a turbid or suspect water source to an infant even after chemical treatment. When in doubt, boil."
+        },
+        {
+          "q": "Is ice at restaurants and food stalls safe?",
+          "a": "Ice is made from water, so if the water is untreated the ice carries the same risk. In areas where you are not certain of water source safety, avoid ice in drinks and ask for beverages in sealed factory bottles."
+        },
+        {
+          "q": "Can diarrhoea be treated at home?",
+          "a": "Mild to moderate diarrhoea in otherwise healthy adults can be managed at home with rest, increased fluids and oral rehydration solution (ORS). Seek medical attention for diarrhoea with blood or mucus, high fever, signs of dehydration, or any diarrhoea in a child under two, an elderly person or someone with chronic illness."
+        }
+      ]
+    }
+  }
+}

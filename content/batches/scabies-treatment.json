@@ -1,0 +1,357 @@
+{
+  "slug": "scabies-treatment",
+  "category": "infectious-diseases",
+  "chip_ar": "أمراض معدية",
+  "chip_en": "Infectious diseases",
+  "date_iso": "2026-07-10",
+  "sources": [
+    {"label": "Leung AKC, Lam JM, Leong KF et al: Scabies: A Neglected Global Disease, Current pediatric reviews, 2020", "url": "https://pubmed.ncbi.nlm.nih.gov/31544694/"},
+    {"label": "Welch E, Romani L, Whitfeld MJ et al: Recent advances in understanding and treating scabies, Faculty reviews, 2021", "url": "https://pubmed.ncbi.nlm.nih.gov/33817697/"},
+    {"label": "Chandler DJ, Fuller LC: A Review of Scabies: An Infestation More than Skin Deep, Dermatology (Basel, Switzerland), 2019", "url": "https://pubmed.ncbi.nlm.nih.gov/30544123/"},
+    {"label": "Boralevi F, Simon G, Bernigaud C et al: Oral ivermectin versus 5% permethrin cream to treat children and adults with classic scabies: multicentre, assessor blinded, cluster randomised clinical trial, BMJ (Clinical research ed.), 2026", "url": "https://pubmed.ncbi.nlm.nih.gov/41494769/"},
+    {"label": "Bayisenge U, Mugume P, Davey G et al: Scabies as a manifestation of structural violence in refugee communities: a case from Rwanda, International journal for equity in health, 2026", "url": "https://pubmed.ncbi.nlm.nih.gov/41964030/"},
+    {"label": "Stamm LV, Strowd LC: Ignoring the Itch: The Global Health Problem of Scabies, The American journal of tropical medicine and hygiene, 2017", "url": "https://pubmed.ncbi.nlm.nih.gov/29016295/"},
+    {"label": "World Health Organization: Scabies fact sheet", "url": "https://www.who.int/news-room/fact-sheets/detail/scabies"}
+  ],
+  "content": {
+    "ar": {
+      "title": "الجرب: الحكة التي تنتشر في المنزل كله",
+      "desc": "أعراض الجرب وسبب اشتداد الحكة ليلاً، وكيف تعالج كل أفراد المنزل دفعة واحدة بالبيرميثرين لتمنع العدوى من العودة.",
+      "keywords": "الجرب، علاج الجرب، البيرميثرين، حكة ليلية، الجرب في المنزل، الجرب الأطفال، آيفرمكتين جرب، أعراض الجرب",
+      "h1": "الجرب: الحكة التي لا تهدأ ليلاً وكيف تنهيها من جذورها",
+      "takeaways": [
+        "الجرب عدوى جلدية تسببها عثة صغيرة تحفر تحت الجلد، وعلامتها الأولى حكة شديدة تزداد ليلاً.",
+        "العلاج الناجح يتطلب معالجة كل أفراد المنزل والمخالطين المقربين في اليوم نفسه، حتى من لا تظهر عليهم الأعراض.",
+        "كريم البيرميثرين 5% هو العلاج الأول الموصى به، ويوجد أيضاً خيار الإيفرمكتين الفموي.",
+        "غسل الملابس والفراش بالماء الساخن ضروري، لكن العثة لا تعيش أكثر من ثلاثة أيام بعيداً عن الجلد.",
+        "إذا عاد الجرب بعد العلاج فالسبب الأكثر شيوعاً هو عدم معالجة أحد أفراد الأسرة."
+      ],
+      "sections": [
+        {
+          "h2": "ما هو الجرب وكيف تعرف أنك مصاب به؟",
+          "paras": [
+            "الجرب مرض جلدي معدٍ تسببه عثة مجهرية اسمها Sarcoptes scabiei. هذه العثة أصغر من أن تُرى بالعين المجردة، لكنها تحفر أنفاقاً دقيقة تحت الجلد وتضع بيضها هناك. رد فعل الجسم المناعي على هذه العثة وبيضها هو ما يسبب الحكة، وليس العثة نفسها مباشرة. تعيش العثة الأنثى داخل النفق لعدة أسابيع تضع خلالها بيضاً يفقس ويكتمل نموه في عشرة إلى أربعة عشر يوماً.",
+            "العلامة الأكثر تميزاً هي حكة شديدة تشتد ليلاً. في النهار قد تتحمل الأمر، لكن في الساعات الأولى بعد منتصف الليل تصبح الحكة غير محتملة وتوقظك من النوم. هذا النمط الليلي مهم جداً لأنه يساعد على التمييز بين الجرب وأسباب الحكة الأخرى. العثة تكون أكثر نشاطاً في الدفء الذي يأتي من الفراش، مما يفسر اشتداد الأعراض ليلاً.",
+            "تظهر الإصابة في أماكن محددة من الجسم: بين الأصابع، داخل المعصم، في ثنيات المرفق، حول الخصر، في الفخذ الداخلي، وحول الأعضاء التناسلية. عند الأطفال الرضع قد تمتد للوجه وفروة الرأس والقدمين. قد ترى خطوطاً رمادية رفيعة تمثل الأنفاق، أو بثوراً حمراء صغيرة، أو قشوراً ناتجة عن الحك.",
+            "صنّفت دراسة نشرت في مجلة Current Pediatric Reviews عام 2020 الجرب ضمن الأمراض المهملة عالمياً التي تصيب ما يزيد على 200 مليون شخص في أي وقت من الأوقات. هذا الرقم الكبير يعكس مدى شيوع الجرب في مناطق الاكتظاظ والفقر، لكنه يُذكّر أيضاً بأن الجرب يصيب جميع الطبقات الاجتماعية ولا يميّز."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "warn",
+            "title": "كيف تشك في الجرب",
+            "items": [
+              "حكة شديدة تزداد بعد منتصف الليل",
+              "توزع الطفح على اليدين والمعصمين والخصر والفخذ",
+              "إصابة شخص آخر في نفس المنزل بحكة مماثلة",
+              "لم يفلح أي كريم مضاد للحساسية في إيقافها"
+            ]
+          }
+        },
+        {
+          "h2": "كيف ينتقل الجرب؟",
+          "paras": [
+            "ينتقل الجرب بشكل رئيسي عبر الاحتكاك الجلدي المباشر والمطول مع شخص مصاب. يعني ذلك أن مصافحة قصيرة لا تكفي عادة للنقل، لكن النوم في نفس السرير أو تقبيل شخص مصاب طويلاً أو الاعتناء بشخص مصاب يدوياً تزيد الخطر كثيراً. عادةً يلزم عشر دقائق على الأقل من الاحتكاك الجلدي المباشر لنقل عدد كافٍ من العثات لبدء إصابة جديدة.",
+            "يمكن أيضاً انتقاله عبر مشاركة الفراش والملابس والمناشف، لكن هذا الطريق أقل شيوعاً لأن العثة لا تعيش أكثر من 48 إلى 72 ساعة بعيداً عن جسم الإنسان ولا تستطيع القفز أو الطيران. العثة حساسة للجفاف والتغيرات في درجة الحرارة خارج جسم الإنسان، مما يجعلها عاجزة عن البقاء طويلاً على الأسطح الجامدة أو في الهواء.",
+            "في الأوضاع المزدحمة كدور رعاية المسنين والسجون ومخيمات النازحين تنتشر العدوى بسرعة. أشارت دراسة نشرت عام 2026 في مجلة International Journal for Equity in Health إلى أن الجرب يتركز بشكل غير متناسب في مجتمعات اللاجئين، مما يجعل الوقاية والعلاج الجماعي ضرورة وليس رفاهية.",
+            "من الأخطاء الشائعة في التعامل مع الجرب ظن أن تنظيف المنزل أو رش المبيدات سيحل المشكلة. العدوى تأتي من الأشخاص لا من المكان، وما لم تُعالج كل أسرة الجرب بشكل متزامن لن يفيد أي تنظيف."
+          ]
+        },
+        {
+          "h2": "لماذا تأخر ظهور الأعراض أمر شائع؟",
+          "paras": [
+            "أول مرة تصاب بالجرب قد لا تشعر بأي حكة لمدة أربعة إلى ثمانية أسابيع. هذه الفترة الطويلة تعكس الوقت الذي يحتاجه جهاز المناعة ليتعرف على العثة ويبدأ برد الفعل. خلال هذه الأسابيع الصامتة أنت معدٍ وتنقل العدوى لمن حولك دون أن تعلم. الدراسات تشير إلى أن الشخص المصاب في أول إصابة يحمل في المتوسط بين عشر وخمس عشرة عثة فقط على جلده.",
+            "من سبق أن أصيب بالجرب يبدأ بالحكة في غضون يوم إلى أربعة أيام في الإصابة التالية، لأن جهاز مناعته يتعرف على العثة بسرعة أكبر. هذا الفارق يفسر لماذا يشكو أكثر أفراد الأسرة مرضاً ثم يُكتشف أن أحدهم مصاب منذ فترة أطول دون أعراض. الشخص الذي لا تظهر عليه الأعراض بعد قد يكون هو نقطة الانطلاق الأصلية.",
+            "هذا التأخر هو السبب الرئيسي لنجاح العلاج الجماعي. إذا علاجت فقط من تظهر عليه الأعراض، فإن من لا تظهر عليه الأعراض بعد سيستمر في إعادة العدوى إليك.",
+            "عند تشخيص أحد أفراد الأسرة بالجرب ينبغي عدم انتظار ظهور الأعراض عند الباقين قبل علاجهم. التزامن في العلاج هو القاعدة الذهبية التي تميّز بين الشفاء الدائم والدوران في حلقة مفرغة من العلاج والعودة."
+          ]
+        },
+        {
+          "h2": "كيف يعمل العلاج بالبيرميثرين؟",
+          "paras": [
+            "البيرميثرين (Permethrin) 5% كريم هو العلاج الأول الموصى به عالمياً للجرب. هو مبيد حشري ينتمي إلى عائلة البيريثرويد، يشل الجهاز العصبي للعثة ويقتلها. يستخدم العلاج في جلسة واحدة أو جلستين بفاصل أسبوع وفق توجيه الطبيب. يُفضّل تطبيقه مساءً والنوم بعده ليتاح للكريم وقت كافٍ على الجلد.",
+            "المقصود بالتطبيق الصحيح هو تغطية الجسم كاملاً من الرقبة إلى أصابع القدمين، بما في ذلك الأماكن التي لا تظهر فيها الحكة. عند الأطفال الرضع والمسنين يشمل التطبيق الوجه وفروة الرأس وتحت الأظافر. يُترك الكريم على الجلد بضع ساعات ثم يُغسل، والمدة الدقيقة تحددها التعليمات المرفقة بالدواء. أكثر الأخطاء شيوعاً هو تطبيق الكريم على مناطق الحكة فقط وإهمال باقي الجسم.",
+            "دراسة سريرية نشرت في مجلة BMJ عام 2026 قارنت البيرميثرين الموضعي بالإيفرمكتين الفموي (Ivermectin) في علاج الجرب الاعتيادي، ووجدت أن كلا الخيارين فعالان. الإيفرمكتين الفموي يُعطى عادة على شكل جرعتين بفاصل أسبوع إلى أسبوعين، وهو خيار مفيد لمن يصعب عليهم تطبيق الكريم على الجسم كاملاً.",
+            "هناك أيضاً كريم بنزيل بنزوات (Benzyl benzoate) 25% المتاح في بعض الصيدليات كخيار بديل، وهو فعال لكنه قد يسبب تهيجاً أكبر للجلد. اختيار العلاج المناسب يعتمد على عمر المريض وحالته الصحية وما هو متاح في منطقتك، وهذا يُحدده الطبيب."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "كيف تطبق كريم البيرميثرين بشكل صحيح",
+            "items": [
+              "اغسل جسمك بالماء والصابون وجففه جيداً قبل التطبيق",
+              "طبق الكريم على الجسم كله من الرقبة إلى أصابع القدمين، لا تترك أي منطقة",
+              "انتبه للمناطق التي تعيش فيها العثة: بين الأصابع، داخل المعصم، حول الناحية التناسلية",
+              "عند الأطفال الرضع والمسنين أضف الوجه وفروة الرأس وتحت الأظافر",
+              "اترك الكريم للمدة الموصى بها بدون غسل (راجع التعليمات)",
+              "اغسل الكريم وارتدِ ملابس نظيفة",
+              "عالج كل أفراد المنزل في نفس اليوم حتى من لا تظهر عليهم الأعراض"
+            ]
+          }
+        },
+        {
+          "h2": "لماذا يجب علاج المنزل كله في يوم واحد؟",
+          "paras": [
+            "هذه القاعدة هي الفارق بين الشفاء الكامل وتكرار الإصابة. إذا عالجت فرداً واحداً وتركت البقية، فإن العثة الموجودة عند الأشخاص الذين لا تظهر عليهم أعراض بعد ستنتقل عائدة إليك خلال أيام. كل من يعيش في المنزل، ومن يتشاركون السرير أو الملابس أو الوقت الطويل معك، يجب أن يُعالج في اليوم نفسه.",
+            "أجرت مراجعة علمية نُشرت في مجلة Faculty Reviews عام 2021 تحليلاً لأسباب فشل علاج الجرب، وخلصت إلى أن عدم علاج كل أفراد المجموعة المخالطة هو السبب الأول لعودة العدوى. الأمر ينطبق أيضاً على المربيات والأقارب الذين يزورون المنزل بشكل منتظم ويقضون وقتاً مطولاً مع المصاب.",
+            "لا يعني هذا بالضرورة أن كل هؤلاء مصابون، لكن لأن الأعراض قد تتأخر أسابيع فلا يمكنك الاعتماد على غياب الأعراض دليلاً على عدم الإصابة."
+          ]
+        },
+        {
+          "h2": "كيف تتعامل مع الملابس والفراش؟",
+          "paras": [
+            "العثة لا تعيش بعيداً عن جلد الإنسان أكثر من 48 إلى 72 ساعة. هذا يعني أن البيئة ليست المصدر الرئيسي للعدوى، لكن الاهتمام بالغسيل جزء مهم من العلاج لضمان عدم رجوع العثة من الملابس الملوثة.",
+            "الملابس التي ارتديتها والفراش الذي نمت عليه في الأيام الثلاثة قبل العلاج يجب غسلها بالماء الساخن (60 درجة مئوية على الأقل) وتجفيفها في درجة حرارة عالية. الأشياء التي لا يمكن غسلها كالوسائد الثقيلة يمكن وضعها في أكياس بلاستيكية مغلقة لمدة ثلاثة أيام.",
+            "لا داعي لمعالجة الأثاث والجدران أو رش المنزل بالمبيدات. العثة لا تعيش طويلاً على الأسطح الجامدة ولا تأتي من الأرض. التركيز الحقيقي يجب أن يكون على علاج الأشخاص لا على تنظيف المكان."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "ما تحتاج إلى غسله وما لا تحتاج",
+            "head": ["الشيء", "ما تفعله", "السبب"],
+            "rows": [
+              ["الملابس المرتداة خلال 3 أيام قبل العلاج", "اغسلها بماء ساخن 60 درجة", "تقتل العثة الحية"],
+              ["الفراش والوسائد", "اغسلها بماء ساخن أو ضعها في كيس 3 أيام", "العثة تموت بعيداً عن الجلد"],
+              ["الملابس التي لم تُرتدَ منذ أسبوع", "لا داعي لغسلها", "العثة ماتت بالفعل"],
+              ["الأرضيات والأثاث", "لا حاجة لرش مبيدات", "العثة لا تعيش طويلاً على الأسطح"],
+              ["المناشف", "اغسلها بعد كل استخدام خلال فترة العلاج", "منع نقل العثة الحية"]
+            ]
+          }
+        },
+        {
+          "h2": "ماذا يعني استمرار الحكة بعد العلاج؟",
+          "paras": [
+            "كثير من الناس يعتقدون أن استمرار الحكة بعد العلاج يعني فشله، وهذا يجعلهم يكررون العلاج بطريقة خاطئة. الحقيقة أن الحكة قد تستمر أربعة إلى ستة أسابيع بعد علاج ناجح تماماً، لأن جهاز المناعة لا يزال يتفاعل مع بقايا العثة الميتة وبيضها الذي لم يُزَل بعد. التكرار الزائد للعلاج في هذه الحالة يُهيّج الجلد ويؤخر التعافي.",
+            "ما يدل على فشل العلاج أو عودة العدوى ليس الحكة وحدها، بل ظهور أنفاق جديدة أو بثور جديدة في مناطق كانت هادئة، أو ظهور أعراض لدى أشخاص لم تظهر لديهم من قبل ولم يُعالجوا. في هذه الحالة راجع طبيبك للتأكد من التشخيص واستبعاد مقاومة العثة للدواء. يُضاف إلى ذلك أن عدوى جلدية بكتيرية ثانوية ناتجة عن الحك قد تشبه في أعراضها الجرب نفسه، لذا التقييم الطبي مهم.",
+            "لتخفيف الحكة خلال فترة التعافي يمكن استخدام كريمات المرطبات وأحياناً كريمات الكورتيزون الخفيفة بتوجيه الطبيب. مضادات الهستامين الفموية تساعد أيضاً على تخفيف الحكة والنوم ليلاً.",
+            "تجنّب حك الجلد بقوة قدر الإمكان خلال فترة الشفاء. الحك الشديد يكسر الجلد ويفتح الباب أمام العدوى البكتيرية، وقد تتشكل جروح تُعيق التعافي وتستوجب علاجاً منفصلاً بالمضادات الحيوية."
+          ]
+        },
+        {
+          "h2": "الجرب في أوضاع الاكتظاظ والنزوح",
+          "paras": [
+            "الجرب يتكاثر في الأوضاع المزدحمة: مخيمات اللاجئين، دور المسنين، المدارس الداخلية، والبيوت التي يعيش فيها عدد كبير من الأشخاص. في هذه الأوضاع لا يكفي علاج شخص واحد أو عائلة واحدة، بل يلزم علاج جماعي منسق.",
+            "منظمة الصحة العالمية صنفت الجرب ضمن الأمراض الاستوائية المهملة (Neglected Tropical Diseases) وتوصي بمقاربات العلاج الجماعي في الأوضاع الوبائية. في السياق العربي، الأوضاع الناتجة عن النزاعات والتهجير في سوريا واليمن والسودان تخلق بيئة مناسبة لانتشار الجرب بسرعة.",
+            "إذا كنت تعيش في وضع مزدحم وأصبت بالجرب، يجب إبلاغ المسؤولين الصحيين في المخيم أو المجمع السكني لتنسيق علاج جماعي. العلاج الفردي في هذا السياق عادة ما يفشل لأن العودة إلى نفس البيئة تعني التعرض مجدداً."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "مراجعة الطبيب فوراً إذا",
+            "items": [
+              "ظهرت قشور سميكة على الجلد مع ضخامة شديدة في الطفح (قد يكون جرباً نرويجياً يصيب ضعاف المناعة)",
+              "أصيبت الجلد بعدوى بكتيرية: احمرار دافئ، تورم، إفرازات أو حمى",
+              "عاد الجرب بعد جلستين من العلاج الكامل للمنزل",
+              "المريض رضيع أو حامل أو يعاني من ضعف المناعة ويحتاج إلى توجيه خاص"
+            ]
+          }
+        },
+        {
+          "h2": "كيف تمنع العدوى من العودة؟",
+          "paras": [
+            "بعد العلاج الناجح لا توجد مناعة طبيعية تمنع الإصابة مجدداً. أي تعرض مطول لشخص مصاب قد يُعيد الدورة. لهذا السبب التحقق من علاج كل المخالطين المقربين أمر ضروري وليس اختيارياً.",
+            "في البيئات عالية الخطر كالمدارس الداخلية ودور الرعاية، يساعد الفحص الدوري على اكتشاف الحالات مبكراً قبل انتشارها. التوعية بأعراض الجرب وعدم الخجل من الإبلاغ عنه يقلل كثيراً من مدة تفشي العدوى.",
+            "الجرب ليس علامة على قلة النظافة الشخصية. ينتقل بسهولة بغض النظر عن مستوى النظافة، وكثير ممن يصابون به أناس نظيفون تماماً أصيبوا بسبب التواصل الوثيق مع شخص مصاب لا يعلم بإصابته."
+          ]
+        }
+      ],
+      "tie": "إذا أُصبت بالجرب أو تشك في ذلك، يمكنك توثيق أعراضك وتواريخها وأي أدوية استخدمتها في تطبيق صحتك، مما يساعد طبيبك على تقييم الاستجابة للعلاج ومتابعة حالتك بشكل أفضل.",
+      "faqs": [
+        {
+          "q": "هل يمكن أن أحصل على الجرب من المسبح أو الجيم؟",
+          "a": "احتمال الإصابة من هذه الأماكن منخفض جداً. العثة لا تعيش طويلاً خارج جسم الإنسان ولا تطفو على الماء. الانتقال يحتاج عادة احتكاكاً جلدياً مطولاً مباشراً مع شخص مصاب، وهذا نادر في أماكن السباحة."
+        },
+        {
+          "q": "هل البيرميثرين آمن للحامل والرضيع؟",
+          "a": "البيرميثرين موضعي يعتبر عموماً آمناً للحوامل والمرضعات وفق التوجيهات الطبية الدولية، لكن يجب استشارة الطبيب قبل الاستخدام. عند الرضع أقل من شهرين يحدد الطبيب الخيار الأنسب."
+        },
+        {
+          "q": "ما الفرق بين الجرب والإكزيما؟",
+          "a": "كلاهما يسبب حكة، لكن الجرب يتميز بتركز الطفح في مناطق محددة كبين الأصابع والمعصمين والخصر، واشتداد الحكة ليلاً، وانتشاره لأفراد المنزل. الإكزيما عادة مزمنة وتستجيب لكريمات الكورتيزون ولا تنتقل بين الأشخاص."
+        },
+        {
+          "q": "متى يعود الطفل إلى المدرسة بعد علاج الجرب؟",
+          "a": "يمكن للطفل العودة بعد 24 ساعة من اكتمال العلاج الصحيح. لا داعي لغياب أطول إذا تم علاج كل أفراد الأسرة وغسل الملابس والفراش."
+        },
+        {
+          "q": "هل يكفي علاج مرة واحدة؟",
+          "a": "في كثير من الحالات يكفي تطبيق واحد للبيرميثرين، لكن الطبيب قد يوصي بتطبيق ثانٍ بعد أسبوع للتأكد من القضاء على العثة التي كانت بيضاً عند التطبيق الأول. اتبع تعليمات طبيبك بالضبط."
+        },
+        {
+          "q": "هل الجرب يصيب الكبار أيضاً أم فقط الأطفال؟",
+          "a": "يصيب الجرب جميع الأعمار بالتساوي. الأطفال ربما يُلاحَظون أكثر لأن التشخيص أسهل في التوزع المميز على أجسامهم، لكن البالغين يصابون بنفس المعدل عند التعرض للعثة."
+        },
+        {
+          "q": "هل يمكن أن تنتقل العثة من الحيوانات الأليفة؟",
+          "a": "عثة الجرب البشري تختص بالإنسان. الحيوانات الأليفة كالكلاب لها نوع مختلف من العثة (جرب الكلاب) الذي قد يسبب حكة مؤقتة للإنسان عند التعامل معها، لكنه لا يكمل دورة حياته تحت جلد الإنسان وتختفي الأعراض وحدها."
+        }
+      ]
+    },
+    "en": {
+      "title": "Scabies: the itch that spreads through a household",
+      "desc": "What scabies looks like, why the whole household must be treated on the same day, and how to use permethrin correctly to stop reinfestation.",
+      "keywords": "scabies treatment, permethrin scabies, scabies symptoms, night itching, household scabies, scabies rash, ivermectin scabies, scabies contagious",
+      "h1": "Scabies: the itch that will not stop and how to clear it for good",
+      "takeaways": [
+        "Scabies is caused by a microscopic mite that burrows under the skin, producing an intense itch that is worst at night.",
+        "Successful treatment requires treating every person in the household on the same day, including those without symptoms yet.",
+        "5% permethrin cream applied to the whole body from neck to toes is the first-line treatment recommended worldwide.",
+        "Clothes and bedding used in the three days before treatment should be washed in hot water, but the mite cannot survive more than three days off human skin.",
+        "If scabies returns after treatment, the most common cause is an untreated person in the household who is still carrying the mite."
+      ],
+      "sections": [
+        {
+          "h2": "What is scabies and how do you know you have it?",
+          "paras": [
+            "Scabies is a skin infestation caused by a microscopic mite called Sarcoptes scabiei. The mite is too small to see without magnification, but it burrows into the outer layer of skin and lays its eggs there. The intense itch is your immune system reacting to the mite and its eggs, not the mite itself directly. The female mite lives inside the burrow for several weeks, laying a few eggs each day that hatch and mature over ten to fourteen days.",
+            "The most distinctive feature is an itch that becomes unbearable at night. During the day you might tolerate it, but in the early hours it wakes you from sleep. This night-time pattern is important because it helps distinguish scabies from other causes of itchy skin. The mite is more active in the warmth of bedding, which is why symptoms intensify after getting into bed.",
+            "Scabies appears in specific locations on the body: between the fingers, on the inner wrist, in the crook of the elbow, around the waist, on the inner thigh, and around the genitals. In infants and young children it can also affect the face, scalp, palms and soles. You may see thin grey lines representing the burrows, small red bumps, or crusting from scratching.",
+            "A 2020 review in Current Pediatric Reviews estimated that scabies affects more than 200 million people worldwide at any given time, classifying it as a neglected global disease. This large number reflects how common scabies is in crowded and resource-limited settings, but scabies affects all social classes and has nothing to do with personal cleanliness."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "warn",
+            "title": "Signs that point to scabies",
+            "items": [
+              "Intense itch that worsens after midnight",
+              "Rash concentrated on the hands, wrists, waist or groin",
+              "Another person in the household has the same itch",
+              "Antihistamine creams have not helped"
+            ]
+          }
+        },
+        {
+          "h2": "How does scabies spread?",
+          "paras": [
+            "Scabies spreads mainly through prolonged, direct skin-to-skin contact with an infected person. A brief handshake is unlikely to transmit it, but sharing a bed, prolonged close contact, or caring physically for someone with scabies significantly increases the risk. Research suggests at least ten minutes of direct skin contact is typically needed to transfer enough mites to establish a new infestation. The mite cannot jump or fly and does not spread through the air.",
+            "It can also spread through sharing bedding, clothing and towels, though this route is less common because the mite cannot survive more than 48 to 72 hours away from human skin. The mite is sensitive to drying and temperature changes outside the body, which is why it cannot survive long on hard surfaces or in open air.",
+            "In crowded settings such as care homes, prisons, and displacement camps, scabies spreads rapidly. A 2026 study in the International Journal for Equity in Health documented how scabies clusters disproportionately in refugee communities, underlining the need for coordinated group treatment rather than treating one person at a time.",
+            "One of the most common misconceptions is that cleaning the house or spraying insecticides will solve the problem. The source of reinfection is people, not the environment, and unless all household members are treated simultaneously, no amount of cleaning will prevent the mite returning."
+          ]
+        },
+        {
+          "h2": "Why does it take weeks before you feel the itch?",
+          "paras": [
+            "If this is your first scabies infestation, you may not itch for four to eight weeks. This long delay reflects the time your immune system needs to recognise the mite and mount a response. During these silent weeks you can infect others without knowing you are carrying the mite. Studies indicate that a person with a first-time infection carries an average of ten to fifteen mites on their skin.",
+            "If you have had scabies before, the itch begins within one to four days of re-exposure because your immune system already recognises the mite. This difference explains why in a household outbreak, the person who has been infected the longest may have the fewest symptoms while others who caught it more recently are already scratching. The person with the least visible rash may actually be the original source.",
+            "This delay is the main reason group treatment works and individual treatment fails. Treating only those who itch leaves undetected carriers to reinfect everyone else within days.",
+            "When one household member is diagnosed, there is no benefit to waiting for symptoms to appear in others before treating them. Simultaneous treatment is the rule that separates lasting cure from the exhausting cycle of treatment and return."
+          ]
+        },
+        {
+          "h2": "How to use permethrin cream correctly",
+          "paras": [
+            "5% permethrin cream is the globally recommended first-line treatment for scabies. It is a synthetic insecticide that paralyses the mite's nervous system and kills it. Treatment is applied in one or two sessions a week apart, depending on your doctor's guidance.",
+            "Correct application means covering the entire body surface from the neck down to the tips of the toes, including areas where you have no itch at all. In infants and elderly people the face and scalp are included. The cream is left on for the time specified in the instructions, then washed off, and clean clothing is put on.",
+            "A multicentre randomised trial published in the BMJ in 2026 compared permethrin cream with oral ivermectin for classic scabies and found both to be effective. Oral ivermectin is typically given as two doses one to two weeks apart and is a useful option for people who struggle to apply cream to their whole body, or where treating a large group simultaneously is more practical."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "How to apply permethrin cream correctly",
+            "items": [
+              "Wash and dry your body thoroughly before applying the cream",
+              "Apply the cream to every part of the body from the neck down to the toes, leaving no area uncovered",
+              "Pay special attention to mite-prone areas: between the fingers, inside the wrists, around the genitals",
+              "For infants and elderly people, also apply to the face, scalp and under the nails",
+              "Leave the cream on for the full recommended time without washing it off",
+              "Wash off the cream and put on clean clothing",
+              "Treat everyone in the household on the same day, including those without symptoms"
+            ]
+          }
+        },
+        {
+          "h2": "Why the whole household must be treated on the same day",
+          "paras": [
+            "This rule is the difference between cure and relapse. If you treat one person and leave others, mites living silently on untreated household members will reinfect the treated person within days. Everyone who lives in the house, shares a bed, or has had prolonged close contact with the infected person must be treated simultaneously.",
+            "A 2021 review in Faculty Reviews analysed the reasons scabies treatment fails and found that incomplete treatment of the contact group is the leading cause of reinfestation. The same principle applies to regular carers, intimate partners and frequent visitors who spend extended time in the home.",
+            "This does not mean everyone is definitely infected. But because symptoms can be delayed by weeks, the absence of itching is not evidence of being mite-free."
+          ]
+        },
+        {
+          "h2": "What to do with clothing and bedding",
+          "paras": [
+            "The mite cannot survive more than 48 to 72 hours away from human skin. This means the environment is not the main source of reinfestation, but washing clothing and bedding is still an important step to ensure you are not picking up a mite that was shed just before treatment.",
+            "Clothing worn and bedding used in the three days before treatment should be machine washed at 60 degrees Celsius or hotter and dried at high heat. Items that cannot be washed, such as thick cushions or stuffed toys, can be sealed in a plastic bag for three days.",
+            "You do not need to spray furniture, walls or floors with insecticide. The mite cannot survive long on hard surfaces and does not crawl up from the floor. The effort should go into treating people, not cleaning the environment."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "What to wash and what to leave",
+            "head": ["Item", "Action", "Why"],
+            "rows": [
+              ["Clothes worn in 3 days before treatment", "Wash at 60C or hotter", "Kills any live mites"],
+              ["Bedding and pillowcases", "Hot wash or seal in bag for 3 days", "Mite dies away from skin"],
+              ["Clothes not worn for a week", "No action needed", "Mite already dead"],
+              ["Floors and furniture", "No insecticide spray needed", "Mite does not survive long on surfaces"],
+              ["Towels", "Wash after each use during treatment period", "Prevents live mite transfer"]
+            ]
+          }
+        },
+        {
+          "h2": "Why does the itch continue after treatment?",
+          "paras": [
+            "Many people think that continued itching after treatment means it has failed, which leads them to repeat the treatment unnecessarily. The truth is that itching can continue for four to six weeks even after completely successful treatment, because the immune system is still reacting to dead mite fragments and eggs that have not yet been cleared from the skin. Repeating the treatment prematurely in this situation irritates the skin further and delays healing.",
+            "Signs that the treatment has genuinely failed or that reinfestation has occurred are new burrows or new bumps appearing in areas that were settling down, or new people in the household developing symptoms who had not been treated. If you see this, return to your doctor to confirm the diagnosis and consider whether a second round of treatment is needed. A secondary bacterial skin infection from scratching can also mimic scabies, so medical assessment is important.",
+            "To manage the itch during recovery, emollient moisturisers can help soothe the skin. Your doctor may also suggest a mild corticosteroid cream or an oral antihistamine to help you sleep through the night.",
+            "Try to resist scratching as hard as possible during recovery. Vigorous scratching breaks the skin and opens the door to bacterial infection, which can create wounds that need separate antibiotic treatment and delay full recovery significantly."
+          ]
+        },
+        {
+          "h2": "Scabies in overcrowded and displaced settings",
+          "paras": [
+            "Scabies thrives in crowded conditions: refugee camps, care homes, boarding schools and houses with many occupants. In these settings, treating one person or one family is almost never enough. Coordinated group treatment covering everyone in the setting is what breaks the cycle.",
+            "The World Health Organization classifies scabies as a neglected tropical disease and recommends mass drug administration approaches in outbreak settings. In the Arab context, the conditions created by conflict and displacement in Syria, Yemen and Sudan provide exactly the kind of environment where scabies spreads unchecked without organised response.",
+            "If you live in a crowded setting and develop scabies, inform the health team in the camp or building so that coordinated treatment can be arranged. Individual treatment in this context usually fails because returning to the same environment means re-exposure."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "See a doctor urgently if",
+            "items": [
+              "Thick crusted plaques appear on the skin, especially with widespread rash (may be crusted scabies, which affects people with weakened immunity)",
+              "Skin becomes infected with bacteria: warmth, swelling, discharge or fever",
+              "Scabies returns after two full treatment courses for the whole household",
+              "The patient is an infant, pregnant woman or immunocompromised and needs specific guidance"
+            ]
+          }
+        },
+        {
+          "h2": "Preventing scabies from coming back",
+          "paras": [
+            "There is no lasting immunity after recovering from scabies. Any prolonged contact with an infected person can restart the cycle. This is why verifying that all close contacts have been treated is not optional.",
+            "In higher-risk environments such as boarding schools and care facilities, regular skin checks help detect cases early before they spread. Reducing stigma around scabies and encouraging prompt reporting shortens the duration of any outbreak significantly.",
+            "Scabies is not a sign of poor personal hygiene. It spreads easily regardless of cleanliness. Many people who develop it are entirely clean individuals who simply had close contact with someone who did not know they were infected."
+          ]
+        }
+      ],
+      "tie": "If you have been diagnosed with scabies or are managing a household outbreak, tracking your symptoms and treatment dates in Sihtak helps you and your doctor see whether the infestation has cleared or whether a second course is needed.",
+      "faqs": [
+        {
+          "q": "Can you catch scabies from a swimming pool or gym?",
+          "a": "The risk from shared facilities is very low. The mite cannot survive long away from human skin and does not float in water. Transmission requires prolonged, direct skin-to-skin contact, which rarely happens in a pool or gym environment."
+        },
+        {
+          "q": "Is permethrin safe in pregnancy and for infants?",
+          "a": "Topical permethrin is generally considered safe for pregnant and breastfeeding women based on international treatment guidelines, but your doctor should guide the decision. In infants under two months, your doctor will advise on the most appropriate option."
+        },
+        {
+          "q": "How is scabies different from eczema?",
+          "a": "Both cause itching, but scabies is identified by its characteristic distribution on the fingers, wrists, waist and groin, by its night-time worsening and by its tendency to affect others in the same household. Eczema is usually chronic, responds to corticosteroid creams and does not pass between people."
+        },
+        {
+          "q": "When can a child return to school after scabies treatment?",
+          "a": "A child can usually return to school 24 hours after completing correct treatment. There is no need for a longer absence if all household members have been treated and clothing and bedding have been washed."
+        },
+        {
+          "q": "Is one treatment session enough?",
+          "a": "In many cases a single permethrin application is sufficient, but your doctor may recommend a second application one week later to catch any eggs that were present during the first treatment and have since hatched. Follow your doctor's specific instructions."
+        },
+        {
+          "q": "Can you catch scabies from pets?",
+          "a": "Human scabies mites are specific to humans. Dogs can carry a different mite that may cause brief itching in humans who handle them, but this mite cannot complete its life cycle under human skin and the itch resolves on its own without treatment."
+        },
+        {
+          "q": "What does a scabies burrow look like?",
+          "a": "A burrow appears as a thin, wavy, grey or skin-coloured line about 2 to 10 millimetres long, usually found between the fingers or on the inner wrist. They can be difficult to see once scratching has broken the skin surface. A doctor can use a dermoscope to confirm them."
+        }
+      ]
+    }
+  }
+}

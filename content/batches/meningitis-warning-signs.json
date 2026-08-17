@@ -1,0 +1,349 @@
+{
+  "slug": "meningitis-warning-signs",
+  "category": "infectious-diseases",
+  "chip_ar": "الأمراض المعدية",
+  "chip_en": "Infectious Diseases",
+  "date_iso": "2026-07-28",
+  "sources": [
+    {
+      "label": "Yezli S: The threat of meningococcal disease during the Hajj and Umrah mass gatherings: A comprehensive review, Travel medicine and infectious disease, 2018",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29751133/"
+    },
+    {
+      "label": "Memish Z, Al Hakeem R, Al Neel O et al: Laboratory-confirmed invasive meningococcal disease: effect of the Hajj vaccination policy, Saudi Arabia, 1995 to 2011, Euro surveillance, 2013",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24079399/"
+    },
+    {
+      "label": "Alasmari A, Houghton J, Greenwood B et al: Meningococcal carriage among Hajj pilgrims, risk factors for carriage and records of vaccination: a study of pilgrims to Mecca, Tropical medicine and international health, 2021",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33415766/"
+    },
+    {
+      "label": "Mount HR, Boyle SD: Aseptic and Bacterial Meningitis: Evaluation, Treatment, and Prevention, American family physician, 2017",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28925647/"
+    },
+    {
+      "label": "Tashani M, Badahdah AM, Alfelali M et al: Effect on meningococcal serogroup W immunogenicity when Tdap was administered prior, concurrent or subsequent to the quadrivalent (ACWY) meningococcal CRM197-conjugate vaccine in adult Hajj pilgrims, Vaccine, 2019",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31128875/"
+    },
+    {
+      "label": "Khan MA: Outbreaks of meningococcal meningitis during Hajj: changing face of an old enemy, JPMA. The Journal of the Pakistan Medical Association, 2003",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12666842/"
+    }
+  ],
+  "content": {
+    "ar": {
+      "title": "التهاب السحايا: العلامات التي تعني الذهاب للطوارئ الآن",
+      "desc": "دليل مبسط لأعراض التهاب السحايا وتمييزها من الصداع العادي، وأهمية لقاح الحج المضاد للمكورات السحائية، وكيف تُجري اختبار الكأس لكشف الطفح الخطير.",
+      "keywords": "التهاب السحايا, تصلب الرقبة, الطفح التحذيري, لقاح الحج, المكورات السحائية, التهاب السحايا البكتيري, اختبار الكأس, لقاح ACWY, التهاب السحايا الأعراض, الحمى والصداع الشديد, طوارئ التهاب السحايا",
+      "h1": "التهاب السحايا: كيف تُفرّق بين الصداع العادي والحالة التي تستدعي الإسعاف",
+      "takeaways": [
+        "التهاب السحايا البكتيري حالة طارئة تُهدد الحياة، وكل ساعة تأخير في العلاج تُضاعف الخطر. لا تنتظر حتى تكتمل كل الأعراض.",
+        "الثلاثية الكلاسيكية هي حمى مفاجئة وصداع شديد جداً وتصلب الرقبة، لكن لا تحضر معاً دائماً خاصة في الأطفال.",
+        "الطفح الداكن الذي لا يختفي بالضغط عليه علامة تحذيرية خطيرة جداً ويستدعي الإسعاف فوراً.",
+        "لقاح المكورات السحائية ACWY إلزامي لحجاج الحرمين الشريفين وهو يحمي من النوع الأكثر خطورة في تجمعات الحج والعمرة.",
+        "الشفاء التام ممكن حين يُعالج المريض مبكراً. التأخر يرفع خطر الوفاة والمضاعفات الدائمة كالصمم وفقدان الأطراف."
+      ],
+      "sections": [
+        {
+          "h2": "ما هو التهاب السحايا؟",
+          "paras": [
+            "السحايا (Meninges) هي الأغشية الثلاثة التي تُحيط بالدماغ والحبل الشوكي وتحميهما كما تحتوي السائل الشوكي المحاط بالدماغ. التهاب السحايا (Meningitis) هو التهاب هذه الأغشية، وأشد أنواعه خطورة ما يسببه الجراثيم البكتيرية، وفي مقدمتها المكورات السحائية (Neisseria meningitidis).",
+            "البكتيريا تصل إلى السحايا عبر مجرى الدم بعد أن تستوطن الحلق والبلعوم. كثير من الناس يحملون هذه البكتيريا في حلقهم دون أن يمرضوا وهم ما يُسمى الحاملين الأصحاء، لكن في بعض الحالات وبعوامل غير مفهومة تخترق البكتيريا الجهاز المناعي وتنتشر في الدم ثم تصل إلى السائل المحيط بالدماغ. ما يميز تجمعات الحج والعمرة هو أن الملايين من مناطق مختلفة يتشاركون الهواء والطعام والأسطح لأيام، مما يُعزز انتقال البكتيريا بين الحاملين الجدد غير المحصّنين.",
+            "هناك أيضاً التهاب سحايا فيروسي وهو أشيع لكن أقل خطورة بكثير من البكتيري، وأغلبه يتعافى وحده في أسبوع إلى أسبوعين دون مضادات حيوية. كذلك يمكن أن يكون فطرياً وهذا الشكل يُصيب بشكل رئيسي من يعانون من ضعف شديد في المناعة. هذا المقال يتناول بالدرجة الأولى الشكل البكتيري لأنه هو الذي يستدعي الإسعاف الفوري وهو الأكثر قتلاً إذا أُهمل."
+          ]
+        },
+        {
+          "h2": "ما هي أعراض التهاب السحايا؟",
+          "paras": [
+            "التهاب السحايا البكتيري يبدأ عادة بشكل مفاجئ وسريع. الثلاثية الكلاسيكية تشمل حمى مرتفعة مفاجئة، وصداع شديد وصفه كثير من المرضى بأنه أشد صداع شعروا به في حياتهم، وتصلب الرقبة حيث لا يستطيع المريض أن يُدني ذقنه من صدره بسبب الألم والتشنج. الضوء يُؤلم العينين (الفوتوفوبيا) والأصوات تُزعج المريض (الفونوفوبيا).",
+            "لكن الثلاثية الكاملة لا تحضر دائماً، خاصة في البداية وعند الأطفال والمسنين. يُمكن أن تبدأ الحالة بحمى وعلامات تشبه الإنفلونزا ثم تتطور بسرعة. الغثيان والقيء شائعان. عند الرضع والأطفال الصغار جداً، قد تكون الأعراض أقل وضوحاً وتشمل: بكاء عالٍ ومستمر غير عادي، صوامة منتفخة (الفتحة اللينة في جمجمة الطفل)، تصلب وجمود في الجسم أو بالعكس فتور شديد، وعدم الاستجابة الطبيعية.",
+            "التشنجات قد تحدث في الحالات المتقدمة. تدهور مستوى الوعي من التهيج والارتباك إلى الاستجابة الضعيفة ثم فقدان الوعي مؤشر خطير جداً. إذا كان المريض لا يُجيب على الأسئلة بشكل طبيعي أو كان متأخراً في الاستجابة أو مرتبكاً بشكل غير مألوف، فهذه أعراض إسعاف لا أعراض انتظار."
+          ],
+          "visual": {
+            "type": "timeline",
+            "title": "كيف يتطور التهاب السحايا البكتيري",
+            "items": [
+              {"when": "الساعة 0-6", "what": "حمى مفاجئة وصداع شديد وتوعك عام"},
+              {"when": "الساعة 6-12", "what": "تصلب الرقبة وحساسية للضوء وقيء"},
+              {"when": "الساعة 12-24", "what": "قد يظهر الطفح الداكن أو تنخفض درجة الوعي"},
+              {"when": "ما بعد 24 ساعة", "what": "خطر الصدمة والوفاة يرتفع بشكل حاد بدون علاج"}
+            ]
+          }
+        },
+        {
+          "h2": "الطفح الخطير: اختبار الكأس الذي ينقذ الحياة",
+          "paras": [
+            "التهاب السحايا المكوري قد يُسبب في حالات خطيرة طفحاً جلدياً داكناً ناتجاً عن نزيف صغير تحت الجلد. هذا الطفح يبدأ كنقاط صغيرة جداً بحجم رأس الدبوس وقد يتحول إلى بقع أكبر داكنة أو بنفسجية أو تشبه الكدمات.",
+            "الاختبار المنزلي البسيط والمنقذ للحياة: ضغط كأس شفافة أو إصبعك بقوة على الطفح. إذا اختفى الاحمرار تحت الضغط وعاد بعده، فهذا طفح عادي ليس خطيراً. لكن إذا بقي الطفح ظاهراً تحت الضغط ولم يشحب ولم يختفِ، فهذا يعني أن النزيف تحت الجلد وليس مجرد تمدد في الأوعية الدموية، وهو علامة خطيرة جداً تستدعي الإسعاف الفوري. علّم هذا الاختبار لجميع أفراد عائلتك فهو لا يتطلب أي خبرة طبية.",
+            "لا تنتظر حتى يتطور الطفح أو ينتشر. الطفح قد لا يظهر أصلاً في بعض حالات التهاب السحايا الخطيرة، لذلك غيابه لا يطمئنك. ابحث عن الطفح في كل أجزاء الجسم بما فيها بطانة الفم وبياض العينين وباطن القدمين. أحياناً يبدأ في منطقة صغيرة ثم ينتشر خلال ساعة إلى ما هو أكبر بكثير."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "اتصل بالإسعاف فوراً إذا ظهر أي مما يلي",
+            "items": [
+              "طفح داكن لا يختفي عند الضغط عليه بكأس شفافة",
+              "حمى شديدة مع صداع أشد ما يكون مع تصلب الرقبة",
+              "حساسية شديدة للضوء أو الصوت",
+              "تدهور مفاجئ في مستوى الوعي أو الارتباك الشديد",
+              "تشنجات",
+              "عند الرضع: بكاء عالٍ غير عادي أو صوامة منتفخة أو جمود أو فتور شديد"
+            ]
+          }
+        },
+        {
+          "h2": "لماذا الوقت هو العامل الحاسم؟",
+          "paras": [
+            "التهاب السحايا البكتيري يُعدّ طارئة طبية حقيقية لا مجال فيها للانتظار. البكتيريا تتكاثر بمعدل هائل في السائل المحيط بالدماغ، وكل ساعة تأخير تعني مزيداً من الضرر لأنسجة الدماغ ومزيداً من تسمم الجسم بالسموم البكتيرية. في الحالات الخطيرة مع طفح نزفي، قد يتدهور المريض من البداية الطبيعية إلى حافة الموت في غضون ساعات قليلة فقط.",
+            "المضاعفات الطويلة الأمد لالتهاب السحايا غير المُعالج أو المتأخر في علاجه تشمل الصمم الجزئي أو الكامل، وبتر الأطراف بسبب نقص التروية الدموية، وتلف الدماغ والتأثير على الذاكرة والتعلم، وحتى الوفاة. هذه ليست مبالغة بل هي الواقع المُوثّق في الدراسات الطبية.",
+            "حين تصل إلى المستشفى مشتبهاً بالتهاب السحايا، يبدأ الطبيب المضادات الحيوية في أقرب وقت ممكن حتى قبل نتائج التحاليل. هذا ليس تسرعاً بل هو البروتوكول الصحيح لأن تأخير المضاد الحيوي ولو ساعة واحدة ينتقص من فرص الشفاء التام. سيفتريأكسون (Ceftriaxone) هو المضاد الحيوي الأول في معظم المستشفيات العربية، ويُعطى مع كورتيزون وريدي في بعض الحالات لتقليل التورم حول الدماغ."
+          ]
+        },
+        {
+          "h2": "التهاب السحايا في الحج والعمرة: خطر خاص يستدعي لقاحاً خاصاً",
+          "paras": [
+            "الحج والعمرة من أكبر التجمعات البشرية في العالم، إذ يلتقي ملايين الأشخاص من مئة وثمانين دولة في مساحة محدودة لأيام متواصلة. هذه البيئة مثالية لانتشار المكورات السحائية التي تنتقل عبر رذاذ الجهاز التنفسي عند الكلام والسعال والعطاس المتبادل.",
+            "شهدت موسم الحج في الثمانينيات والتسعينيات تفشيات واسعة للتهاب السحايا المكوري أودت بحياة حجاج وأودت بصحة آخرين. دراسة نشرت في Euro Surveillance عام 2013 وثّقت أن تطبيق لقاح ACWY إلزامياً على الحجاج في المملكة العربية السعودية بعد عام 2000 أحدث انخفاضاً جذرياً في حالات التهاب السحايا المكوري المرتبطة بالحج.",
+            "اليوم، لقاح المكورات السحائية الرباعي (ACWY) إلزامي ومن شروط تأشيرة الحج والعمرة. يُعطى قبل السفر بأسبوعين على الأقل حتى تتكون المناعة. لكن تجدر الإشارة إلى أن اللقاح لا يحمي من جميع أنواع المكورات السحائية، وفي موسم الحج ينبغي أيضاً تجنب التقبيل والمشاركة في الشرب وإكمال غسل اليدين بانتظام."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "الاستعداد الصحي قبل الحج والعمرة",
+            "items": [
+              "أخذ لقاح المكورات السحائية ACWY قبل السفر بأسبوعين على الأقل",
+              "الاستفسار عن لقاح السعال الديكي (Tdap) خاصة للحجاج كبار السن أو المرضى المزمنين",
+              "حمل معقم اليدين (Sanitizer) واستخدامه بعد لمس الأسطح المشتركة",
+              "تجنب مشاركة الأكواب والأواني وتقبيل الأشخاص غير المعروفين",
+              "الاحتفاظ بغطاء للوجه (كمامة) في الأماكن المزدحمة جداً",
+              "معرفة أرقام طوارئ المستشفيات القريبة في مكة والمدينة قبل السفر"
+            ]
+          }
+        },
+        {
+          "h2": "التهاب السحايا الفيروسي مقابل البكتيري: فهم الفرق",
+          "paras": [
+            "ليس كل التهاب سحايا بالدرجة نفسها من الخطورة. الالتهاب الفيروسي هو الأشيع ويُسببه في الغالب فيروس من مجموعة الإنتيروفيروسات (Enteroviruses)، وهو مرض مزعج لكن نادراً ما يكون مميتاً. المريض يشعر بصداع شديد وحمى وتصلب رقبة خفيف، لكنه عادة يتعافى دون علاج نوعي في غضون أسبوع إلى أسبوعين.",
+            "التهاب السحايا البكتيري مختلف جذرياً. هو أسرع تطوراً وأشد خطورة ويحتاج مضادات حيوية في المستشفى في أقرب وقت ممكن. الفرق في السرعة والشدة هو المؤشر الأهم: الالتهاب البكتيري يتطور خلال ساعات ويُسيء حالة المريض بسرعة مذعورة، بينما الفيروسي أبطأ.",
+            "لا يستطيع الطبيب تمييزهما بالعلامات السريرية وحدها دون تحاليل. لهذا يُجري تحليلاً للسائل الشوكي (Lumbar puncture) لفحص خصائص السائل وعدد خلايا الدم البيضاء فيه وجودة السكر والبروتين والزرع الجرثومي، مما يُعطيه صورة شبه أكيدة عن طبيعة الالتهاب خلال ساعات. لا تؤثر الإبرة على الحبل الشوكي إذا أُجريت بشكل صحيح، وهي إجراء آمن ومعتاد في الطوارئ."
+          ]
+        },
+        {
+          "h2": "التشخيص والعلاج: ماذا يحدث في المستشفى؟",
+          "paras": [
+            "حين تصل للطوارئ مشتبهاً بالتهاب السحايا، يبدأ الطبيب بالفحص السريري ثم يطلب تحاليل الدم وزراعة البكتيريا. اختبار البزل القطني (أخذ عينة من السائل النخاعي) هو المعيار الذهبي للتشخيص. يُمرر إبرة رفيعة في أسفل الظهر بعد تخدير موضعي لأخذ عينة من السائل الذي يحيط بالحبل الشوكي.",
+            "المضادات الحيوية تُعطى عبر الوريد فوراً دون انتظار نتائج التحاليل في حالات الشك البكتيري. سيفتريأكسون (Ceftriaxone) هو الدواء الأول في أغلب الأنظمة الصحية العربية. الدكساميثازون (Dexamethasone) كورتيزون وريدي يُعطى أحياناً لتقليل التورم حول الدماغ.",
+            "مريض التهاب السحايا البكتيري يُنقل عادة للعناية المركزة خاصة إذا كانت هناك علامات حدة. المتابعة المكثفة للوظائف الحيوية والسوائل الوريدية وأحياناً دعم الضغط جزء أساسي من العلاج."
+          ]
+        },
+        {
+          "h2": "الوقاية في البيئات المجتمعية والمدارس",
+          "paras": [
+            "خلاف الحج والعمرة، يحدث التهاب السحايا المكوري أحياناً في البيئات المجتمعية المغلقة الأخرى كثكنات الجيش والسكن الجامعي المشترك والمدارس الداخلية. إذا أُبلغ عن حالة في مكان مثل هذا، يُوصي الطبيب عادة بعلاج وقائي بالمضادات الحيوية للمخالطين المقربين وهم أفراد الأسرة والمشاركون في غرفة أو مركبة لفترة طويلة.",
+            "هذا العلاج الوقائي يُعطى لفترة قصيرة من 24 إلى 48 ساعة وهدفه القضاء على البكتيريا في حلق المخالطين قبل أن تتاح لها فرصة الانتشار. إذا أُبلغك مسؤول صحي أنك مخالط لحالة التهاب سحايا، اتبع التعليمات فوراً ولا تتأخر. الريفامبيسين والسيبروفلوكساسين هما الدواءان الأكثر استخداماً في هذا الغرض.",
+            "اللقاح يبقى الأداة الوقائية الأقوى للمجموعات عالية الخطر. في بعض دول الخليج، أصبح لقاح المكورات السحائية جزءاً من الجدول التطعيمي للأطفال خاصة في السنة الأولى من العمر والمرحلة الجامعية. تحقق مع طبيب طفلك من الجدول المعتمد في بلدك وما إذا كانت جرعات تعزيزية مطلوبة."
+          ]
+        },
+        {
+          "h2": "التعافي بعد التهاب السحايا: ماذا تتوقع؟",
+          "paras": [
+            "التعافي من التهاب السحايا البكتيري عملية تستغرق أسابيع وأحياناً أشهر. معظم المرضى الذين يُعالجون مبكراً يتعافون تعافياً كاملاً، لكن بعض المضاعفات الطويلة الأمد ممكنة. الصمم يُعدّ من أشيع المضاعفات، ولهذا يُوصى بفحص السمع الرسمي بعد شهر من التعافي تقريباً حتى يُكشف أي ضعف سمع جزئي لم يُنتبه إليه أثناء المرض.",
+            "الإجهاد والتعب الشديد قد يستمران أسابيع بعد الخروج من المستشفى وهذا طبيعي ومتوقع. بعض المرضى يُعانون من صعوبات في التركيز والذاكرة فترة قصيرة قبل أن تعود للطبيعي تدريجياً. الدعم النفسي والراحة الكافية والعودة التدريجية للنشاط يُسرّعان الشفاء. إذا لاحظ المريض أو ذووه تراجعاً في السمع أو الأداء المعرفي أو ظهور نوبات تشنجية بعد التعافي، يجب الإبلاغ عن ذلك فوراً للطبيب لتقييم الحالة.",
+            "فقدان الأطراف بسبب انقطاع التروية الدموية الناتج عن سموم المكورات السحائية يُتطلب متابعة جراحية وتأهيلية مكثفة. مراكز إعادة التأهيل في المدن الكبرى تُقدم دعماً نفسياً وجسدياً. المرضى وعائلاتهم يستحقون المعرفة الكاملة بالمضاعفات المحتملة وبالخيارات المتاحة لإعادة بناء الحياة الطبيعية قدر الإمكان."
+          ]
+        }
+      ],
+      "tie": "تطبيق صحتك يساعدك على متابعة جدول التطعيمات لأبنائك ولنفسك وتلقي تذكيرات بموعد جرعات اللقاحات المطلوبة قبل الحج والعمرة. كما يمكنك تسجيل الأعراض وتتبعها في حالات الحمى الشديدة لمساعدة الطبيب على التقييم السريع عند الضرورة.",
+      "faqs": [
+        {
+          "q": "هل التهاب السحايا معدٍ؟",
+          "a": "التهاب السحايا البكتيري الناجم عن المكورات السحائية يمكن أن يكون معدياً عبر رذاذ الجهاز التنفسي بالتلامس المباشر والوثيق. لكن المرض ليس شديد العدوى كالإنفلونزا. المخالطون المقربون (أفراد الأسرة والأشخاص في نفس الغرفة) يحتاجون علاجاً وقائياً من الطبيب."
+        },
+        {
+          "q": "هل يصيب التهاب السحايا الكبار أم الأطفال فقط؟",
+          "a": "يصيب جميع الأعمار. الرضع والأطفال الصغار والمراهقون والشباب وكبار السن كلهم معرضون. الأعراض تختلف بحسب العمر: الرضع لا يُظهرون تصلب الرقبة وقد تبكي بشكل غير طبيعي أو تكون خاملة."
+        },
+        {
+          "q": "ماذا لو كان الصداع شديداً لكن لا يوجد حمى؟",
+          "a": "غياب الحمى لا يستبعد التهاب السحايا في مراحل مبكرة. إذا كان الصداع مفاجئاً وشديداً جداً وغير عادي، خاصة مع تصلب الرقبة أو تغير في الوعي، فإن تقييماً طارئاً ضروري بصرف النظر عن وجود الحمى."
+        },
+        {
+          "q": "هل يحمي اللقاح بالكامل من التهاب السحايا؟",
+          "a": "لقاح ACWY يحمي من أنواع A وC وW وY من المكورات السحائية لكن ليس من النوع B. كذلك لقاحات بكتيريا المكورات الرئوية والهيموفيلوس تحمي من أنواع بكتيرية أخرى. اللقاح يُقلل الخطر بشكل كبير لكن لا يُلغيه."
+        },
+        {
+          "q": "كيف أُفرّق بين صداع العضلات العادي والصداع التحذيري؟",
+          "a": "الصداع في التهاب السحايا وصفه المرضى كثيراً بأنه أشد صداع في حياتهم، يأتي فجأة ويكون منتشراً وعميقاً. يصاحبه عادة حمى وتصلب في الرقبة وحساسية للضوء. الصداع العادي يكون أخف وأكثر تحملاً وغالباً لا تصحبه هذه الأعراض معاً."
+        },
+        {
+          "q": "هل يستطيع الطبيب في العيادة تشخيص التهاب السحايا؟",
+          "a": "الفحص السريري يُثير الاشتباه لكن التأكيد يحتاج تحاليل دم وسائل نخاعي. أي طبيب يشتبه بالتهاب السحايا يُحوّل المريض فوراً للطوارئ دون انتظار. لا تنتظر موعداً في العيادة إذا كانت الأعراض تشير للحالة الخطيرة."
+        },
+        {
+          "q": "هل يمكن أن يتكرر التهاب السحايا؟",
+          "a": "نعم في حالات نادرة. الأشخاص الذين لديهم ضعف في الجهاز المناعي أو نقص في بعض مكونات المكمّل المناعي أو عيوب تشريحية في قاعدة الجمجمة يكونون أكثر عرضة لتكرار الإصابة. الطبيب يُقيّم هذا بعد التعافي."
+        },
+        {
+          "q": "هل يُمكن الوقاية من التهاب السحايا في المدارس؟",
+          "a": "التطعيم هو الوقاية الأساسية. في حالة تفشٍّ في مدرسة، السلطات الصحية تُقرر العلاج الوقائي للمخالطين. تشجيع النظافة الجيدة وعدم مشاركة الأدوات الشخصية يُقلل انتقال البكتيريا لكن لا يمنعه كلياً."
+        }
+      ]
+    },
+    "en": {
+      "title": "Meningitis: The Signs That Mean Go to Hospital Now",
+      "desc": "How to spot meningitis fast: the glass test for the rash, neck stiffness, the Hajj vaccination requirement, and why every hour of delay in treatment costs lives.",
+      "keywords": "meningitis symptoms, bacterial meningitis, meningococcal meningitis, glass test rash, neck stiffness, Hajj meningitis vaccine, ACWY vaccine, meningitis emergency, meningitis warning signs, meningococcal disease, meningitis rash, meningitis and children",
+      "h1": "Meningitis: Recognising It Fast and Why Delay Is Dangerous",
+      "takeaways": [
+        "Bacterial meningitis is a life-threatening emergency. Every hour of delay in starting antibiotics worsens the outcome. Do not wait for all symptoms to appear before acting.",
+        "The classic triad is sudden high fever, the worst headache of your life, and neck stiffness, but all three do not always appear together, especially in young children.",
+        "A dark rash that does not fade when pressed with a glass is a critical warning sign. Call an ambulance immediately.",
+        "The meningococcal ACWY vaccine is mandatory for Hajj and Umrah and has dramatically cut the meningitis burden in pilgrims since its introduction.",
+        "With early treatment, full recovery is possible. Delay raises the risk of death, permanent deafness and limb loss."
+      ],
+      "sections": [
+        {
+          "h2": "What Is Meningitis?",
+          "paras": [
+            "The meninges are the three layers of membrane that surround and protect the brain and spinal cord. Meningitis is inflammation of these membranes. The most dangerous form is caused by bacteria, principally Neisseria meningitidis (the meningococcus), though Streptococcus pneumoniae and other bacteria can also be responsible.",
+            "Meningococcal bacteria live harmlessly in the throats of a proportion of the population at any given time. Most carriers never become ill, but in some people the bacteria breach the immune defences, enter the bloodstream and spread to the fluid surrounding the brain. What makes large gatherings such as Hajj and Umrah dangerous is that millions of people from different countries exchange respiratory secretions closely for days, giving the bacteria new hosts and new opportunities to spread.",
+            "Viral meningitis is more common than the bacterial form and is usually far less dangerous. Most viral cases resolve without specific treatment within one to two weeks. Bacterial meningitis is an entirely different condition requiring urgent hospital treatment. This article focuses on bacterial disease because that is where delays kill."
+          ]
+        },
+        {
+          "h2": "What Are the Symptoms of Meningitis?",
+          "paras": [
+            "Bacterial meningitis typically comes on fast. The classical triad consists of a sudden high fever, a severe headache described by many patients as the worst they have ever experienced, and neck stiffness so severe that the patient cannot bring their chin to their chest without intense pain. Light hurts the eyes (photophobia) and sounds feel intolerable (phonophobia). Nausea and vomiting are common.",
+            "The triad does not always appear in full, particularly at the start of illness, in the elderly, or in young children. In infants and toddlers who cannot describe their symptoms, meningitis may present as a high-pitched unusual cry, a bulging fontanelle (the soft spot on the baby's skull), extreme irritability or, conversely, unusual limpness and unresponsiveness. A 2017 review in American Family Physician noted that the absence of all three classic features does not rule out bacterial meningitis, and that the illness must be actively considered in any acutely unwell patient with fever and altered consciousness.",
+            "Seizures may occur as the disease progresses. A deteriorating level of consciousness, from confusion and agitation to drowsiness and unresponsiveness, is a sign of severe disease requiring the most urgent possible response."
+          ],
+          "visual": {
+            "type": "timeline",
+            "title": "How Bacterial Meningitis Progresses",
+            "items": [
+              {"when": "Hours 0-6", "what": "Sudden fever, severe headache, and general unwellness"},
+              {"when": "Hours 6-12", "what": "Neck stiffness, light sensitivity, and vomiting develop"},
+              {"when": "Hours 12-24", "what": "Dark non-fading rash may appear. Consciousness may deteriorate."},
+              {"when": "Beyond 24 hours", "what": "Risk of death and permanent complications rises steeply without treatment"}
+            ]
+          }
+        },
+        {
+          "h2": "The Glass Test: How to Check the Rash at Home",
+          "paras": [
+            "Meningococcal septicaemia (blood poisoning from the meningococcal bacteria) can produce a rash caused by bleeding into the skin. This rash begins as tiny pin-point spots, often described as looking like a new bruise or a cluster of small red or purple spots, and can spread rapidly to cover large areas. Unlike most rashes, it does not blanch when pressed because the blood is outside the vessel walls, not inside them.",
+            "The glass test is a simple, lifesaving check. Press a clear glass firmly against the rash. If the redness disappears under the pressure and returns when you lift the glass, it is a blanching rash and is unlikely to be a meningococcal rash. If the rash remains clearly visible through the glass and does not fade under pressure, this is a non-blanching rash and is a medical emergency. Call an ambulance immediately.",
+            "Do not wait for the rash to appear or spread before acting on other symptoms. Some severe cases of bacterial meningitis never develop a visible rash at all. Check the entire body including the soles of the feet, the inner surfaces of the lips and the whites of the eyes. The rash may start in one spot and spread rapidly."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "Call an ambulance immediately if you notice any of these",
+            "items": [
+              "A dark rash or purple spots that do not fade when pressed firmly with a clear glass",
+              "Sudden severe headache unlike any before, combined with high fever and neck stiffness",
+              "Intense sensitivity to light or sound",
+              "Sudden deterioration in consciousness, confusion or inability to be roused",
+              "Seizures",
+              "In a baby: unusual high-pitched crying, a bulging fontanelle, or sudden extreme limpness or floppiness"
+            ]
+          }
+        },
+        {
+          "h2": "Why Time Is the Single Most Critical Factor",
+          "paras": [
+            "Bacterial meningitis is one of the genuine medical emergencies where minutes genuinely matter. The bacteria multiply at extraordinary speed in the cerebrospinal fluid surrounding the brain, releasing toxins that damage brain tissue and cause blood vessel injury. In cases with a non-blanching rash, the illness can progress from apparent health to death within twelve to twenty-four hours.",
+            "Long-term complications from inadequately treated or delayed bacterial meningitis include permanent partial or total deafness, limb amputation due to circulatory shutdown from bacterial toxins, brain damage affecting memory and learning, epilepsy, and death. These are not rare outcomes in delayed cases: they are the predictable consequence of delay.",
+            "When bacterial meningitis is suspected in an emergency department, intravenous antibiotics are started immediately, before the results of any investigations return. This is correct practice and not recklessness: the evidence shows clearly that each hour of delay before antibiotics reduces survival. A doctor who waits for a confirmed result before treating is doing the wrong thing."
+          ]
+        },
+        {
+          "h2": "Meningitis at Hajj and Umrah: A Regional Danger with a Vaccine Solution",
+          "paras": [
+            "Hajj is the largest annual human gathering on earth, bringing together over two million pilgrims from more than 180 countries into close contact over several days. This is an environment in which respiratory pathogens including the meningococcus spread with great efficiency. Pilgrims who carry the bacteria harmlessly from their home country can transmit them to people with no prior exposure or immunity.",
+            "Saudi Arabia experienced major meningococcal meningitis outbreaks among Hajj pilgrims in the 1980s and 1990s. Following the introduction of mandatory meningococcal vaccination, a 2013 study published in Euro Surveillance documented a dramatic fall in laboratory-confirmed invasive meningococcal disease among pilgrims, confirming the effectiveness of the vaccination policy. A 2021 study published in Tropical Medicine and International Health found that vaccinated pilgrims had significantly lower carriage rates of vaccine-type meningococci, further supporting the policy.",
+            "The quadrivalent meningococcal ACWY vaccine is now a mandatory entry requirement for Hajj and Umrah visas. It should be given at least two weeks before travel to allow immunity to develop. The vaccine is highly effective against serogroups A, C, W and Y, which are the types most likely to circulate at the Hajj. It does not cover serogroup B, for which a separate vaccine exists and is available in some countries."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "Health Preparation Before Hajj or Umrah",
+            "items": [
+              "Get the meningococcal ACWY vaccine at least two weeks before departure",
+              "Ask your doctor about the Tdap vaccine for whooping cough, especially if elderly or chronically ill",
+              "Carry hand sanitiser and use it after touching shared surfaces in crowded areas",
+              "Avoid sharing cups, food utensils or water bottles with strangers",
+              "Wear a face mask in extremely crowded spaces such as the Tawaf area",
+              "Know the address and emergency number of the nearest hospital in Makkah and Madinah before you travel"
+            ]
+          }
+        },
+        {
+          "h2": "Viral Versus Bacterial Meningitis: Understanding the Difference",
+          "paras": [
+            "Not all meningitis is equally dangerous. Viral meningitis is the more common form and is usually caused by enteroviruses, the same family responsible for many childhood infections. It produces headache, fever, and mild neck stiffness but is rarely life-threatening in an otherwise healthy person. Most patients recover fully within one to two weeks without specific antiviral treatment, though they need rest and symptom management.",
+            "Bacterial meningitis is fundamentally different. It develops faster, deteriorates more rapidly, and requires intravenous antibiotics in hospital as soon as possible. The most useful clinical distinguisher is speed and severity: bacterial meningitis makes the patient look and feel dramatically worse within hours, while viral disease tends to be more gradual. But this distinction is not reliable enough to guide the decision to seek emergency care.",
+            "No doctor can distinguish the two forms reliably on clinical features alone. This is why a lumbar puncture (spinal tap) is performed, in which a small needle is passed into the lower back under local anaesthetic to draw a sample of cerebrospinal fluid. Analysis of the fluid's cell count, protein level, glucose and bacterial culture gives the diagnosis. This procedure is safe and the information it provides is irreplaceable."
+          ]
+        },
+        {
+          "h2": "What Happens in Hospital: Diagnosis and Treatment",
+          "paras": [
+            "When you arrive at an emergency department with suspected meningitis, the team begins with a clinical examination and blood tests including blood cultures, which may grow the causative bacteria if taken before antibiotics. A lumbar puncture is performed in most cases and sends cerebrospinal fluid for urgent analysis. Imaging such as a CT scan may be done first if there is concern about raised brain pressure.",
+            "Intravenous antibiotics, most commonly ceftriaxone, are given as early as possible. In some hospitals and for some patient groups, an intravenous corticosteroid such as dexamethasone is also given to reduce inflammation around the brain and improve outcomes. The patient is admitted to hospital and often to an intensive care unit if the illness is severe.",
+            "Close contacts of a bacterial meningitis case, defined as household members and others who have had prolonged face-to-face contact, are given a short course of antibiotics to eliminate any bacteria they may be carrying. This is usually rifampicin or ciprofloxacin for one to two days. If you are told by a public health authority that you are a close contact of a meningitis case, follow their instructions immediately."
+          ]
+        },
+        {
+          "h2": "Recovery After Meningitis: What to Expect",
+          "paras": [
+            "Most patients who are treated early for bacterial meningitis make a full recovery, but recovery takes weeks and sometimes longer. Severe fatigue is nearly universal in the weeks after discharge and is a normal part of the healing process. Returning to work or school too quickly can prolong recovery, and adequate rest is a genuine part of treatment.",
+            "Hearing loss is the most common lasting complication. A formal hearing test is recommended at around one month after recovery, as some degree of deafness may not be apparent immediately. Early identification of hearing loss allows for prompt intervention including hearing aids or, in severe cases, cochlear implants. Cognitive difficulties such as poor concentration and memory lapses may persist for weeks to months but usually resolve.",
+            "Psychological aftereffects including anxiety and post-traumatic stress are not uncommon after a severe illness and a hospital admission. Both the patient and family members may need support. If a limb was lost or there is significant lasting disability, rehabilitation services are an essential part of recovery. Do not hesitate to ask your healthcare team about what support is available."
+          ]
+        },
+        {
+          "h2": "Prevention in Your Community: Going Beyond the Vaccine",
+          "paras": [
+            "Vaccination is the cornerstone of prevention, but good respiratory hygiene reduces meningococcal carriage and transmission in everyday settings. The bacteria spread mainly through large respiratory droplets, which means they travel shorter distances than airborne particles and require closer contact. Covering your mouth and nose when coughing or sneezing, washing hands after contact with respiratory secretions, and avoiding sharing drinks or utensils all have a role.",
+            "In settings with documented transmission such as university dormitories, military barracks and schools, outbreak control typically combines antibiotics for close contacts with vaccination campaigns to build herd immunity rapidly. If you live or work in a communal setting and a case of meningococcal disease is confirmed, public health authorities will contact those at highest risk and advise on preventive treatment.",
+            "For parents of infants, ensuring that the childhood vaccination schedule is followed completely is the most important single action. Many countries in the Arab world include meningococcal vaccines in national immunisation programmes, though the specific vaccine strains covered vary. Ask your child's paediatrician which meningococcal vaccines are included in your country's schedule and whether any additional doses are recommended for your child's age group or risk profile."
+          ]
+        }
+      ],
+      "tie": "The Sihtak app can help you track vaccination records for yourself and your children, including the Hajj meningococcal vaccine, and send reminders when boosters or pre-travel doses are due. During an acute illness, logging temperature and symptom changes gives your doctor a clear picture rather than relying on recall under pressure.",
+      "faqs": [
+        {
+          "q": "Is meningitis contagious?",
+          "a": "Meningococcal bacteria spread through respiratory droplets from close, prolonged contact such as living in the same household or sharing a small space for hours. It is less contagious than influenza. Close contacts are given preventive antibiotics, but casual contact with a patient carries low risk."
+        },
+        {
+          "q": "Does meningitis only affect children?",
+          "a": "No. Meningitis affects all ages. Infants, teenagers, young adults and the elderly are all susceptible. The symptoms differ by age: infants cannot describe headache or neck stiffness and may present mainly with high-pitched crying, poor feeding and unusual limpness."
+        },
+        {
+          "q": "What if the headache is very severe but there is no fever?",
+          "a": "Absent fever does not rule out meningitis, especially early in the illness. A sudden, extremely severe headache unlike any previous headache, sometimes described as a thunderclap headache, with any neck stiffness or altered consciousness warrants emergency assessment regardless of whether fever is present."
+        },
+        {
+          "q": "Does the vaccine give complete protection against meningitis?",
+          "a": "The ACWY vaccine gives strong protection against four of the most common meningococcal types but not against serogroup B, which requires a separate vaccine. Other bacterial causes of meningitis such as pneumococcus are covered by different vaccines. The vaccine greatly reduces risk but does not eliminate it entirely."
+        },
+        {
+          "q": "How do I tell a meningitis headache from a normal one?",
+          "a": "Meningitis headache comes on suddenly, is extremely severe, is generalised and deep, and is accompanied by fever and neck stiffness. Normal tension headaches are more gradual, localised and not accompanied by these additional features. When in doubt about a very severe sudden headache, seek emergency assessment."
+        },
+        {
+          "q": "Can a GP diagnose meningitis at the clinic?",
+          "a": "A GP can suspect the diagnosis from the clinical examination, but confirmation requires blood tests and cerebrospinal fluid analysis which are only available in hospital. Any doctor who suspects meningitis should refer immediately to the emergency department. Do not book a routine appointment if you think meningitis is possible."
+        },
+        {
+          "q": "Can meningitis recur?",
+          "a": "Recurrence is uncommon but possible in people with immune deficiencies, defects in the complement system, or anatomical abnormalities such as a cerebrospinal fluid leak through the skull base. Your doctor will investigate these risk factors after a first episode of bacterial meningitis."
+        },
+        {
+          "q": "How is meningitis prevented in schools?",
+          "a": "Vaccination is the primary prevention. When a case occurs in a school setting, public health authorities identify close contacts and provide preventive antibiotics. Good hand hygiene and not sharing personal items reduce bacterial spread but are not sufficient protection on their own."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,373 @@
+{
+  "slug": "travel-health-preparation",
+  "category": "lifestyle",
+  "chip_ar": "نمط الحياة",
+  "chip_en": "Lifestyle",
+  "date_iso": "2026-08-04",
+  "sources": [
+    {"label": "Steffen R, Chen LH, Leggat PA et al: Travel vaccines-priorities determined by incidence and impact, Journal of travel medicine, 2023", "url": "https://pubmed.ncbi.nlm.nih.gov/37341307/"},
+    {"label": "Hill DR, Beeching NJ: Travelers' diarrhea, Current opinion in infectious diseases, 2010", "url": "https://pubmed.ncbi.nlm.nih.gov/20683261/"},
+    {"label": "Keystone JS, Connor BA: Antibiotic self-treatment of travelers' diarrhea: It only gets worse!, Travel medicine and infectious disease, 2017", "url": "https://pubmed.ncbi.nlm.nih.gov/28408320/"},
+    {"label": "Al-Abri S, Al-Lamki S, Petersen E et al: The Future Importance of Travel Health in the Middle East: Oman's opportunity to enhance its services, Sultan Qaboos University medical journal, 2020", "url": "https://pubmed.ncbi.nlm.nih.gov/32655903/"},
+    {"label": "Halsey ES, Angelo KM, Barnett ED et al: The Pre-Travel Consultation, 2025", "url": "https://pubmed.ncbi.nlm.nih.gov/41818548/"},
+    {"label": "World Health Organization: International travel and health, WHO publications", "url": "https://www.who.int/travel-advice"}
+  ],
+  "content": {
+    "ar": {
+      "title": "الصحة في السفر: التطعيمات والأدوية وما يجب التحضير له",
+      "desc": "التحضير الصحي للسفر يمنع أغلب مشاكل الصحة الشائعة في الرحلات. تعلم ما تحتاجه من تطعيمات وأدوية وكيف تحمل أدويتك عبر الحدود بأمان.",
+      "keywords": "الصحة في السفر, تطعيمات السفر, إسهال المسافر, حقيبة الإسعافات الأولى للسفر, السفر بالأدوية, وقاية صحية للمسافر, تطعيمات قبل السفر",
+      "h1": "الصحة في السفر: كيف تستعد قبل رحلتك وتحمي نفسك أثناءها",
+      "takeaways": [
+        "التحضير الصحي قبل السفر بأربعة إلى ستة أسابيع يتيح الوقت الكافي للتطعيمات وإعداد الأدوية.",
+        "إسهال المسافر هو أكثر مشاكل السفر الصحية شيوعا ويمكن تجنب معظمه بانتباه بسيط لمصادر الطعام والماء.",
+        "حمل الأدوية الموصوفة عبر الحدود يتطلب وثائق رسمية محددة لتجنب مشاكل في المطارات والحدود.",
+        "المسافرون من المنطقة العربية يحتاجون إلى انتباه خاص لتطعيمات بعينها تبعا للوجهة وأي إجراءات خاصة بها.",
+        "حقيبة الإسعافات الأولى البسيطة تحل كثيرا من المشاكل الصغيرة دون الحاجة إلى البحث عن صيدلية في بلد غريب."
+      ],
+      "sections": [
+        {
+          "h2": "متى تبدأ التحضير الصحي لرحلتك؟",
+          "paras": [
+            "كثير من المسافرين يفكرون في التحضير الصحي قبل يومين أو ثلاثة من موعد السفر، وهذا يكفي للرحلات القصيرة إلى مناطق مألوفة. لكن إذا كانت وجهتك تستوجب تطعيمات محددة، فالوقت المثالي للبدء هو أربعة إلى ستة أسابيع قبل السفر على الأقل. بعض التطعيمات تحتاج إلى جرعات متعددة بفاصل أسابيع، وبعضها يستغرق أسبوعين أو ثلاثة ليبلغ الحماية الكاملة.",
+            "مراجعة نشرتها مجلة Sultan Qaboos University Medical Journal عام 2020 تناولت واقع خدمات طب السفر في منطقة الشرق الأوسط وأشارت إلى فجوة واضحة بين أهمية التحضير الطبي للسفر والممارسة الفعلية لدى المسافرين من المنطقة. كثيرون لا يعلمون حتى أن خدمات طب السفر المتخصصة موجودة أو يُقللون من أهميتها.",
+            "الخطوة الأولى هي تحديد نوع الرحلة والوجهة: السياحة في أوروبا أو الخليج لا تتطلب نفس الاستعداد كالرحلة إلى أفريقيا جنوب الصحراء أو بعض مناطق جنوب آسيا. كلما كانت الوجهة تحمل خطورة وبائية أعلى، كلما كان التحضير المبكر أكثر أهمية."
+          ],
+          "visual": {
+            "type": "timeline",
+            "title": "جدول التحضير الصحي قبل السفر",
+            "items": [
+              {"when": "6-8 أسابيع قبل", "what": "زيارة طبيب طب السفر أو استشارة مختص وتحديد التطعيمات اللازمة. بدء التطعيمات التي تحتاج جرعات متعددة"},
+              {"when": "4-6 أسابيع قبل", "what": "إكمال التطعيمات الأساسية. الحصول على وصفة أدوية الرحلة وأي شهادات طبية لازمة"},
+              {"when": "أسبوع إلى أسبوعين قبل", "what": "مراجعة ما حملته من أدوية ووثائق. تحديث قائمة أدويتك وجرعاتها باللغة المناسبة"},
+              {"when": "يوم قبل السفر", "what": "التأكد من عدم انتهاء صلاحية أي دواء. حفظ أرقام هواتف الطوارئ لوجهتك"},
+              {"when": "أثناء الرحلة", "what": "انتباه للطعام والماء. شرب ما يكفي من الماء. استخدام واقي الشمس والحشرات حسب الحاجة"}
+            ]
+          }
+        },
+        {
+          "h2": "التطعيمات: ما هو إلزامي وما هو موصى به؟",
+          "paras": [
+            "تنقسم تطعيمات السفر إلى ثلاثة أقسام: روتينية يجب أن تكون محدّثة لدى أي شخص بصرف النظر عن السفر مثل تطعيم التيتانوس ومرض الحصبة، وإلزامية تشترطها بعض الدول للدخول مثل تطعيم الحمى الصفراء لدى السفر إلى مناطق موبوءة، وموصى بها لحماية المسافر تبعا لوجهته.",
+            "دراسة منشورة في Journal of Travel Medicine عام 2023 قيّمت أولويات تطعيمات السفر بناء على معدلات الإصابة والأثر الصحي المحتمل وخلصت إلى أن تطعيمات التيفوئيد والتهاب الكبد A وB وهي جميعها من الأمراض الشائعة في مناطق موارد الغذاء والمياه المحدودة الجودة تبقى من الأولويات الأعلى للمسافر العربي إلى أفريقيا وآسيا.",
+            "المسافرون إلى أفريقيا جنوب الصحراء الكبرى يحتاجون في الغالب إلى تطعيم الحمى الصفراء وشهادة دولية بذلك. المسافرون إلى بعض مناطق آسيا وأمريكا اللاتينية قد يحتاجون إلى وقاية من الملاريا إذا زاروا مناطق ريفية أو غابات. الحج والعمرة يستلزمان تطعيم المكورات السحائية وهو إلزامي بموجب اشتراطات المملكة العربية السعودية."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "تطعيمات السفر الرئيسية وأهميتها",
+            "head": ["التطعيم", "مناطق الخطر الرئيسية", "ملاحظات"],
+            "rows": [
+              ["التيفوئيد", "أفريقيا وجنوب آسيا وبعض مناطق الشرق الأوسط", "فعّال جزئيا فقط، انتبه للطعام والماء أيضا"],
+              ["التهاب الكبد A", "جميع الدول النامية", "حماية ممتازة، جرعتان"],
+              ["التهاب الكبد B", "مناطق الرعاية الصحية غير المعقمة", "ثلاث جرعات على 6 أشهر"],
+              ["الحمى الصفراء", "أفريقيا وأمريكا اللاتينية الموبوءتان", "شهادة دولية إلزامية لدخول بعض الدول"],
+              ["المكورات السحائية", "الحزام الأفريقي والحج والعمرة", "إلزامي للحاج والمعتمر"]
+            ]
+          }
+        },
+        {
+          "h2": "إسهال المسافر: الأكثر شيوعا والأسهل وقاية",
+          "paras": [
+            "إسهال المسافر هو أكثر مشاكل السفر الصحية انتشارا في العالم. يُصيب ما بين 20 و50 بالمئة من المسافرين إلى مناطق الخطر المرتفع. السبب دائما تقريبا هو تناول طعام أو شراب ملوث ببكتيريا أو فيروسات أو طفيليات، ولا علاقة له بتغيير المناخ أو المياه المعدنية كما يُعتقد شعبيا.",
+            "مراجعة نشرتها مجلة Current Opinion in Infectious Diseases عام 2010 وثّقت أن الغالبية العظمى من حالات إسهال المسافر قابلة للوقاية بانتباه بسيط: تناول الطعام الساخن المطبوخ جيدا فقط، تجنب الأطعمة الشارعية التي جهل زمن تحضيرها، اختيار المياه المعبأة أو المغلية بدلا من مياه الصنبور، وتجنب مكعبات الثلج المصنوعة من مياه غير نقية.",
+            "إذا أُصبت بالإسهال الحاد في الرحلة فالعلاج الأساسي هو الإماهة الكافية لتعويض السوائل المفقودة. محلول إعادة الإماهة الفموي (ORS) إن توفر مثالي. أملاح المعادن والماء كافية في الحالات الخفيفة. أما عند ظهور دم في البراز أو حمى مرتفعة أو إسهال شديد يمنع الإماهة فيجب طلب رعاية طبية دون تأخير."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "قاعدة السلامة الغذائية في السفر",
+            "items": [
+              "اطبخها جيدا أو اغليها أو أكلها مقشّرة أو تركها: هذه القاعدة تُلخص كل شيء",
+              "تجنب الأطعمة الشارعية الباردة أو التي مضى عليها وقت طويل في درجة حرارة الغرفة",
+              "اشرب المياه المعبأة محكمة الإغلاق أو الماء المغلي",
+              "تجنب مكعبات الثلج في المشروبات إذا لم تضمن أنها من ماء معقم",
+              "اغسل يديك بالصابون قبل الأكل وبعد الحمام خصوصا خارج الفنادق",
+              "احمل أكياس ORS الجاهزة في حقيبتك لاستخدامها فور الحاجة"
+            ]
+          }
+        },
+        {
+          "h2": "حمل الأدوية عبر الحدود: كيف تتجنب المشاكل؟",
+          "paras": [
+            "هذه نقطة يُفاجأ بها كثير من المسافرين العرب لأن الأنظمة تختلف اختلافا كبيرا بين الدول. الدواء الذي يُباع بدون وصفة في بلدك قد يكون مُقيّدا أو محظورا في وجهتك. وبعض الأدوية المسكّنة والنفسية والمهدئة التي يحملها الشخص بوصفة طبية قانونية قد تُصنَّف في دولة أخرى ضمن المواد الخاضعة لرقابة مشددة.",
+            "الترامادول على سبيل المثال يُصنَّف بدرجات مختلفة في الدول المختلفة. يحمله بعض المرضى بوصفة شرعية لألم مزمن ثم يُفاجأون بمشاكل في المطارات أو عند الجمارك. بعض دول الخليج وعدد من الدول الآسيوية لديها أنظمة صارمة جدا حول المخدرات ومسكنات الألم القوية.",
+            "للحماية، احمل دائما الوصفة الطبية الأصلية من طبيبك مع ختم رسمي، ورسالة تشرح الحالة الطبية والعلاج باللغة الإنجليزية، وإذا أمكن مع ترجمة للغة بلد الوجهة. تحقق مسبقا من متطلبات استيراد الأدوية لدى سفارة الدولة التي ستزورها أو موقعها الرسمي. يُستحسن أيضا الاحتفاظ بالأدوية في عبواتها الأصلية مع البطاقة الصيدلانية."
+          ]
+        },
+        {
+          "h2": "الملاريا: متى تحتاج الوقاية وكيف؟",
+          "paras": [
+            "الملاريا ليست مشكلة تخص كل وجهة، لكنها تظل تهديدا حقيقيا للمسافرين إلى مناطق بعينها في أفريقيا جنوب الصحراء وبعض مناطق آسيا وأمريكا اللاتينية وجنوب السودان. المسافر من الخليج أو المشرق العربي إلى هذه المناطق قد لا يملك أي مناعة خاصة ضد المرض وهو ما يجعل الخطر عليه أعلى من السكان الأصليين الذين تعرضوا له مرارا.",
+            "الوقاية تقوم على ثلاثة أعمدة: الأدوية الوقائية التي يصفها الطبيب قبل السفر وأثناءه وبعده بفترة، واستخدام طارد الحشرات على الجلد المكشوف ولا سيما عند المساء والليل حين تنشط بعوضة الأنوفيلية الناقلة للمرض، والنوم خلف ناموسية مُشبعة بالمبيد في المناطق الريفية ذات الخطورة المرتفعة.",
+            "الأدوية الوقائية الشائعة تشمل الكلوروكين في مناطق بعينها والدوكسيسيكلين ومشتقات الأتوفاكون والبروغوانيل في مناطق أخرى. الاختيار يعتمد على الوجهة وتاريخك الطبي ومدة الرحلة وأي أدوية تتناولها بالفعل. لا تأخذ هذه الأدوية دون استشارة طبيب متخصص في طب السفر لأن لكل منها آثارا جانبية ومتطلبات خاصة ومواعيد بدء محددة. على سبيل المثال الدوكسيسيكلين يُبدأ يوم قبل السفر بينما أتوفاكون-بروغوانيل يُبدأ قبل يومين."
+          ]
+        },
+        {
+          "h2": "حقيبة الإسعافات الأولى للمسافر: ما لا تسافر بدونه",
+          "paras": [
+            "حقيبة الإسعافات الأولى البسيطة في حقيبة السفر توفر عليك الكثير من المتاعب خصوصا في الدول التي يصعب فيها الحصول على أدوية بعينها أو التواصل بالعربية مع الصيدلاني. لا تحتاج إلى حقيبة كبيرة، مجموعة صغيرة بعدد محدود من المستلزمات تكفي لأغلب المواقف.",
+            "من الأساسيات: مسكن ألم بسيط مثل الباراسيتامول، أقراص للإسهال مثل اللوبيراميد، ملح إعادة الإماهة الفموي، مضاد حيوية للمعدة إذا نصح طبيبك بحمله، ضمادات معقمة صغيرة وضمادات للتقطيع، كريم مضاد للحشرات إذا كانت الوجهة مناسبة له، علبة طارد البعوض إذا كانت وجهتك في منطقة استوائية.",
+            "إذا كنت تتناول أدوية مزمنة مثل مضادات الضغط أو السكري أو أدوية الغدة الدرقية، احمل ما يكفي من الكمية لكامل مدة الرحلة مضافا إليها بضعة أيام احتياطية. تأخير الرحلة أو فقدان الأمتعة لا تريد أن يصاحبه نقص في دواء لا تستطيع إيقافه فجأة."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "حقيبة إسعافات المسافر: الأساسيات",
+            "head": ["المستلزم", "استخدامه", "ملاحظة"],
+            "rows": [
+              ["باراسيتامول", "خافض حرارة ومسكن ألم", "آمن للغالبية ولا يتعارض مع معظم الأدوية"],
+              ["لوبيراميد (إيموديوم)", "تخفيف الإسهال الحاد", "لا تستخدم مع إسهال دموي أو حمى مرتفعة"],
+              ["أكياس ORS جاهزة", "إعادة الإماهة", "أضف للماء واشرب بعد كل إسهال"],
+              ["ضمادات معقمة ومطهر", "جروح وتقطيعات", "أضف مطهر جلدي خفيف مثل البويدين"],
+              ["طارد الحشرات DEET", "وقاية من البعوض وحشرات أخرى", "تركيز 20-30% كافٍ ومناسب للبالغين"],
+              ["قائمة أدوية مزمنة باللغة الإنجليزية", "تسهيل الرعاية الطبية في الخارج", "مع الجرعة والتشخيص"]
+            ]
+          }
+        },
+        {
+          "h2": "السفر بأمراض مزمنة: ما تحتاج معرفته",
+          "paras": [
+            "السفر مع مرض مزمن مثل السكري أو القلب أو الكلى أو الصرع يحتاج إلى تخطيط إضافي يتجاوز حمل الدواء. أولا، استشر طبيبك قبل الرحلة للتأكد من أن وضعك مستقر وأنك مرشح جيد للسفر، وللحصول على تقرير طبي باللغة الإنجليزية يلخص تاريخك المرضي وأدويتك.",
+            "مسافرو السكري يواجهون تحديا إضافيا يتعلق بتخزين الأنسولين. الأنسولين يتلف عند درجات الحرارة العالية، وحرارة الداخل في سيارة مركونة في الشمس كافية لتدمير الجرعات. احمل الأنسولين في برودة مناسبة طوال الرحلة واحتفظ به في مكيّف الهواء وليس في صندوق الشحن بالطائرة لأن درجات الحرارة هناك قد تكون شديدة البرودة أيضا.",
+            "أصحاب أمراض القلب الذين يتناولون مضادات التخثر مثل الوارفارين أو الأدوية الحديثة البديلة (DOACs) ينبغي أن يحملوا معهم معلومات بطاقة التحذير الطبي ومستواهم الأخير لـ INR في حالة الوارفارين. الرحلات الطويلة جدا التي تزيد عن ست ساعات قد تستدعي الحركة المتكررة أو حتى إبرة الهيبارين إذا كان الخطر الوريدي مرتفعا. ناقش هذا الأمر مع طبيبك مسبقا."
+          ]
+        },
+        {
+          "h2": "الحماية من الشمس والحرارة والحشرات",
+          "paras": [
+            "حماية الجلد من الشمس وطاردات الحشرات ليست كمالية بل ضرورية في كثير من الوجهات الاستوائية والاستوائية الفرعية. واقي الشمس بمعامل SPF 30 على الأقل ينبغي تطبيقه على المناطق المكشوفة قبل الخروج بعشرين دقيقة وتجديده كل ساعتين أو بعد التعرق والسباحة. لا يُعفيك اللون الداكن للبشرة من حروق الشمس في خطوط العرض الاستوائية.",
+            "واقيات الحشرات المحتوية على مادة DEET بتركيز 20 إلى 30 بالمئة فعّالة وآمنة للبالغين وتحمي لساعات. بدائل مثل مادة Picaridin لها فاعلية مماثلة مع رائحة أخف. لا تستخدم DEET على وجه الأطفال دون الشهرين من العمر، واستشر طبيب الأطفال قبل استخدامه على الرضّع.",
+            "احتباس الحرارة (Heat Exhaustion) والإجهاد الحراري شائعان عند الزيارة إلى مناطق استوائية رطبة. الأعراض الأولى هي التعرق الشديد والدوار والغثيان. الحل الفوري هو الانتقال إلى مكان بارد وتناول سوائل باردة كثيرة. الضربة الحرارية الحقيقية مع ارتفاع شديد في حرارة الجسم وغياب العرق وتشوش الوعي هي حالة طارئة تستلزم الإسعاف."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "أعراض تستدعي التقييم الطبي الفوري في أثناء الرحلة",
+            "items": [
+              "حمى مرتفعة فوق 38.5 درجة مئوية خاصة بعد زيارة مناطق الملاريا",
+              "إسهال دموي أو غياب القدرة على الإماهة بسبب التقيؤ المتكرر",
+              "ضيق تنفس مفاجئ أو ألم صدري في أثناء أو بعد رحلة طيران طويلة",
+              "طفح جلدي سريع الانتشار مصحوب بحمى بعد عودة من منطقة استوائية",
+              "ارتباك ذهني أو فقدان وعي في مناخ حار"
+            ]
+          }
+        },
+        {
+          "h2": "بعد العودة من السفر: متى تراجع الطبيب؟",
+          "paras": [
+            "بعض الأمراض المرتبطة بالسفر لا تظهر أعراضها على الفور بل تحتاج إلى فترة حضانة. الملاريا مثلا يمكن أن تظهر بعد أسبوعين إلى شهر من العودة. التيفوئيد تظهر أعراضه عادة بعد أسبوع إلى ثلاثة أسابيع من التعرض. لهذا إذا أصبت بحمى أو أعراض مرضية خلال شهر من عودتك من منطقة ذات خطر وبائي، أخبر الطبيب بتفاصيل سفرك وهذا يُغير المسار كله.",
+            "الطفيليات المعوية مثل الجيارديا والأميبا قد تُسبب أعراضا مزمنة خفيفة تبدأ بعد أسابيع من العودة وتُشخَّص بتحليل البراز. إذا استمر اضطراب الجهاز الهضمي أكثر من أسبوعين بعد العودة من وجهة في دولة نامية فالتقييم الطبي ضروري.",
+            "قدّم لطبيبك دائما معلومة أنك مسافر حديث عند طلب أي تقييم بعد رحلة. هذه المعلومة تفتح قائمة كاملة من التشخيصات التي لن تُطرح إذا لم يعلم بسفرك. كثير من الحميات الاستوائية تُعالج بكفاءة عالية إذا شُخّصت مبكرا وتُفضي إلى مضاعفات خطيرة إذا تأخر التشخيص لأن الطبيب لم يُدرج السفر ضمن احتمالاته. لا تنتظر حتى يسألك بل ابدأ أنت بذكر الرحلة في أول جملة."
+          ]
+        }
+      ],
+      "tie": "استخدم تطبيق سهتك لتسجيل أي أعراض ظهرت خلال رحلتك أو بعدها مع تاريخ ظهورها ووجهتك، مما يُسهل على الطبيب وضع الصورة الكاملة إذا احتجت إلى تقييم لاحق.",
+      "faqs": [
+        {
+          "q": "هل يحتاج المسافر من منطقة الخليج إلى تطعيمات إضافية لزيارة أوروبا؟",
+          "a": "في الغالب لا، إذا كانت تطعيماتك الروتينية محدّثة كالتيتانوس والحصبة. أوروبا منطقة ذات خطر وبائي منخفض للغاية ولا تشترط أي تطعيمات إضافية للدخول. لكن إذا كانت رحلتك تمر بمناطق ذات خطر أعلى قبل أوروبا فقد تختلف الحاجة."
+        },
+        {
+          "q": "هل يمكن السفر أثناء الحمل؟",
+          "a": "السفر بالطائرة آمن في الغالب حتى الأسبوع 36 للحمل غير المعقد. لكن الفترة المثالية هي الثلث الثاني بين الأسبوع 18 و24. تجنبي السفر إلى مناطق موبوءة بالملاريا أو زيكا أثناء الحمل. استشيري طبيبك قبل أي سفر طويل أو إلى مناطق عالية الخطر."
+        },
+        {
+          "q": "هل صابون الأيدي يكفي للوقاية من إسهال المسافر؟",
+          "a": "غسل اليدين بالصابون مهم جدا وضروري، لكنه ليس وحده كافيا. الخطر الأكبر يأتي من الطعام والماء الملوثين. الجمع بين غسل اليدين والانتباه لمصادر الطعام والشراب يُقلل الخطر بشكل كبير."
+        },
+        {
+          "q": "هل المياه المعدنية المعبأة آمنة دائما في السفر؟",
+          "a": "المياه المعبأة آمنة إذا كان الغطاء مُحكما وغير مكسور. تجنب فتح الزجاجة أمامك بنفسك إذا كانت قد فتحت مسبقا. بعض الدول تُعاد فيها تعبئة الزجاجات بمياه محلية وهي ظاهرة موثقة في مناطق بعينها. الماء المغلي يبقى الخيار الأضمن عند أي شك."
+        },
+        {
+          "q": "هل أدوية الوقاية من الملاريا آمنة لفترات طويلة؟",
+          "a": "أدوية الوقاية المعتمدة كالدوكسيسيكلين وأتوفاكون-بروغوانيل آمنة لأشهر عند الاستخدام الصحيح تحت إشراف طبي. الدوكسيسيكلين يزيد حساسية الجلد للشمس، لذلك يحتاج واقي شمس مستمر. استشر طبيب طب السفر لاختيار الدواء المناسب لوجهتك وحالتك الصحية."
+        },
+        {
+          "q": "هل التأمين الصحي للسفر ضروري؟",
+          "a": "نعم، وهو من أفضل القرارات التي يمكن اتخاذها قبل السفر. تكلفة علاج حالة طبية طارئة في دول كالولايات المتحدة أو أوروبا بدون تغطية تأمينية يمكن أن تكون ضخمة. تأكد من أن التأمين يشمل الإخلاء الطبي إذا احتجت إلى العودة إلى بلدك للعلاج."
+        },
+        {
+          "q": "هل يمكن حمل أقلام الأنسولين في حقيبة الدخول بالطائرة؟",
+          "a": "نعم، يُسمح بحمل الأنسولين وأقلام الحقن والإبر في حقيبة اليد على متن الطائرة بموجب قواعد الطيران الدولية. الاحتفاظ بالأنسولين في حقيبة اليد أفضل من الشحن لأن المقصورة السفلى قد تكون باردة جدا أو دافئة جدا اعتمادا على الرحلة."
+        }
+      ]
+    },
+    "en": {
+      "title": "Travel health: vaccines, medicines and what to pack",
+      "desc": "Good preparation prevents most travel illness. Learn which vaccines you need, how to carry medicines across borders safely, and what belongs in your travel kit.",
+      "keywords": "travel health, travel vaccines, traveler diarrhea, pre-travel preparation, travel medicine kit, medication on planes, malaria prevention travel",
+      "h1": "Travel health: how to prepare before you go and stay well when you get there",
+      "takeaways": [
+        "Start health preparation four to six weeks before travel to allow time for multi-dose vaccines and medical documentation.",
+        "Traveller's diarrhoea affects up to half of all travellers to high-risk regions and is mostly preventable with simple food and water precautions.",
+        "Prescription medications need official documentation to cross borders without problems, particularly opioids, psychotropics and insulin.",
+        "Travellers from Arab countries need specific attention to their vaccination status and the requirements of their destination.",
+        "A small travel first-aid kit handles most minor medical situations without needing to find a pharmacy in an unfamiliar country."
+      ],
+      "sections": [
+        {
+          "h2": "When should you start health preparation for a trip?",
+          "paras": [
+            "Many travellers think about health preparation two or three days before departure, which is enough for short trips to low-risk destinations. But if your destination requires specific vaccinations, the ideal time to start is four to six weeks before travel. Some vaccines require multiple doses spaced weeks apart, and others take two to three weeks to reach full protection after the final dose.",
+            "A review published in the Sultan Qaboos University Medical Journal in 2020 examined travel health services in the Middle East region and identified a clear gap between the importance of pre-travel medical preparation and actual practice among regional travellers. Many do not know that specialist travel medicine services exist, or underestimate their relevance to their specific trip.",
+            "The first step is defining the trip: tourism in Europe or the Gulf does not require the same preparation as travel to sub-Saharan Africa or parts of Southeast Asia. The higher the epidemiological risk of the destination, the more important early preparation becomes, and the larger the difference early action makes."
+          ],
+          "visual": {
+            "type": "timeline",
+            "title": "Pre-travel health preparation schedule",
+            "items": [
+              {"when": "6 to 8 weeks before", "what": "Visit a travel medicine clinic or consult a specialist. Identify required vaccines. Begin multi-dose vaccine schedules"},
+              {"when": "4 to 6 weeks before", "what": "Complete core vaccinations. Obtain prescriptions for travel medications. Arrange medical letters for any controlled medicines"},
+              {"when": "1 to 2 weeks before", "what": "Review medications and documents. Update your medication list in English for emergency use abroad"},
+              {"when": "Day before departure", "what": "Check no medication has expired. Save emergency phone numbers for your destination country"},
+              {"when": "During the trip", "what": "Follow food and water precautions. Stay hydrated. Apply sun protection and insect repellent as needed"}
+            ]
+          }
+        },
+        {
+          "h2": "Vaccines: which are mandatory and which are recommended?",
+          "paras": [
+            "Travel vaccines fall into three groups: routine vaccines that everyone should have regardless of travel, such as tetanus and measles; required vaccines that specific countries demand for entry, most notably yellow fever for travel to endemic zones; and recommended vaccines that protect the traveller based on destination risk.",
+            "A 2023 study in the Journal of Travel Medicine assessing travel vaccine priorities by incidence and impact concluded that typhoid, hepatitis A and hepatitis B vaccines remain among the highest priorities for travellers from the Arab world heading to Africa and Asia, given the disease burden in settings where food and water quality cannot be guaranteed. All three are preventable conditions with effective vaccines.",
+            "Travellers to sub-Saharan Africa generally need a yellow fever vaccine and an international certificate as proof. Those visiting rural areas of malaria-endemic regions need malaria prophylaxis in addition to personal protection measures. Hajj and Umrah pilgrims are required by Saudi Arabia to present proof of meningococcal vaccination, which must meet the specific serotypes specified in the current requirements."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Key travel vaccines and their priority",
+            "head": ["Vaccine", "Main risk regions", "Notes"],
+            "rows": [
+              ["Typhoid", "Africa, South Asia, parts of Middle East", "Partial protection only, still observe food precautions"],
+              ["Hepatitis A", "All low and middle income countries", "Excellent protection, two doses"],
+              ["Hepatitis B", "Areas with healthcare infection risk", "Three doses over 6 months"],
+              ["Yellow fever", "Endemic Africa and Latin America", "International certificate mandatory for some countries"],
+              ["Meningococcal", "African meningitis belt, Hajj and Umrah", "Mandatory for pilgrims, specific serogroups required"]
+            ]
+          }
+        },
+        {
+          "h2": "Traveller's diarrhoea: the most common and most preventable problem",
+          "paras": [
+            "Traveller's diarrhoea is the most common travel-related health problem worldwide. It affects between 20 and 50 percent of travellers to high-risk regions. The cause is almost always contaminated food or water, not climate change, mineral water differences or tiredness as popular belief holds. Bacteria are responsible for the majority of cases, with viruses and parasites accounting for most of the remainder.",
+            "A review published in Current Opinion in Infectious Diseases in 2010 documented that the large majority of traveller's diarrhoea cases are preventable with straightforward precautions: eating only thoroughly cooked hot food, avoiding street food of uncertain preparation time, choosing sealed bottled water or water that has been boiled, and avoiding ice cubes made from tap water. The phrase used in travel medicine is: cook it, boil it, peel it or leave it.",
+            "If diarrhoea strikes during the trip, the primary treatment is oral rehydration to replace lost fluids and salts. Oral rehydration solution sachets are ideal when available. A 2017 analysis in Travel Medicine and Infectious Disease cautioned against routine antibiotic self-treatment for typical traveller's diarrhoea because it accelerates antibiotic resistance and may not shorten illness in mild cases. Antibiotics are warranted when diarrhoea is severe, bloody or accompanied by high fever, or when symptoms persist more than 48 hours."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "Food and water safety rules when travelling",
+            "items": [
+              "Cook it, boil it, peel it or leave it: this single rule covers the essentials",
+              "Avoid cold street food or anything that has sat out at room temperature for an uncertain time",
+              "Drink sealed bottled water or water that has been boiled and cooled",
+              "Decline ice cubes in drinks unless you are confident they are made from clean water",
+              "Wash hands with soap before eating and after using any bathroom facility outside your hotel",
+              "Pack ORS sachets in your hand luggage to use immediately if diarrhoea begins"
+            ]
+          }
+        },
+        {
+          "h2": "Carrying medicines across borders: how to avoid problems",
+          "paras": [
+            "This is an area where Arab travellers are frequently caught off guard, because regulations differ sharply between countries. A medicine available over the counter in your home country may be controlled or prohibited at your destination. Prescription pain relievers, psychotropic medications and sedatives that a person carries legally under a valid prescription may be classified as controlled substances subject to strict limits or outright prohibition in another country.",
+            "Tramadol, for example, is classified differently across jurisdictions. Patients carrying it for a legitimate chronic pain condition have encountered serious problems at airports and borders. Several Gulf countries and a number of Asian countries apply very strict rules around opioids and strong pain medicines that can result in confiscation, detention or worse for an unsuspecting traveller.",
+            "For protection, always carry the original prescription with a doctor's official stamp, a covering letter in English explaining your medical condition and treatment, and if possible a translation into the language of your destination country. Check the import requirements for your medication at the destination country's embassy or official health ministry website in advance. Keep all medicines in their original packaging with the pharmacy label intact, and if the trip is long enough, consider registering with your destination country's health ministry if they offer a pre-clearance system for controlled substances."
+          ]
+        },
+        {
+          "h2": "Malaria: when you need prevention and what it involves",
+          "paras": [
+            "Malaria is not a risk at every destination, but it remains a genuine and serious threat in specific areas of sub-Saharan Africa, parts of Southeast Asia, Latin America and South Sudan. A traveller from the Gulf or the Arab world visiting these regions typically has no prior immunity to the disease, which can make the clinical course more severe than in populations with lifetime exposure.",
+            "Prevention rests on three pillars: antimalarial medication prescribed and supervised by a doctor before, during and after travel; personal protection with insect repellent applied to exposed skin particularly in the evenings and at night when the Anopheles mosquito is most active; and sleeping under an insecticide-treated bed net when staying in rural or high-risk settings.",
+            "Common antimalarial drugs include chloroquine in regions where resistance is low, and atovaquone-proguanil or doxycycline in other regions. The choice depends on the destination, your medical history and any other medications you take. Do not select or start antimalarial medication without guidance from a travel medicine specialist, because each drug has its own side-effect profile, contraindications and timing requirements that differ substantially from one to another."
+          ]
+        },
+        {
+          "h2": "Your travel first-aid kit: the essentials",
+          "paras": [
+            "A small travel first-aid kit in your bag resolves most minor medical situations without the stress of finding a pharmacy in an unfamiliar country, possibly without a shared language. The kit does not need to be large: a compact selection of targeted essentials handles the vast majority of common problems.",
+            "The core items are: a simple pain reliever such as paracetamol; an antidiarrhoeal such as loperamide; oral rehydration sachets; an antibiotic for gastrointestinal infection if your doctor has prescribed one in advance; small sterile wound dressings and an antiseptic; DEET-based insect repellent if your destination warrants it; sunscreen of at least SPF 30; and a thermometer.",
+            "If you take regular medicines for a chronic condition such as hypertension, diabetes or thyroid disease, carry enough supply for the full duration of the trip plus several days of reserve. A delayed flight or lost luggage should not coincide with running out of a medication that cannot be stopped abruptly. Separately, carry a written list of all your medications with doses, diagnoses and your doctor's contact details in English for any emergency encounter with a foreign health system."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Travel first-aid kit: the essentials",
+            "head": ["Item", "Purpose", "Note"],
+            "rows": [
+              ["Paracetamol", "Fever and pain relief", "Safe for most people and few drug interactions"],
+              ["Loperamide (Imodium)", "Reduce acute diarrhoea", "Do not use with bloody diarrhoea or high fever"],
+              ["ORS sachets", "Oral rehydration", "Add to water and drink after each loose stool"],
+              ["Sterile dressings and antiseptic", "Wounds and cuts", "Add a mild skin antiseptic such as povidone-iodine"],
+              ["DEET insect repellent", "Mosquito and insect protection", "20 to 30 percent concentration is effective and safe for adults"],
+              ["Medication list in English", "Emergency medical care abroad", "Include dose, diagnosis and prescribing doctor"]
+            ]
+          }
+        },
+        {
+          "h2": "Travelling with a chronic condition",
+          "paras": [
+            "Travelling with a chronic condition such as diabetes, heart disease, kidney disease or epilepsy requires planning beyond simply packing the medication. Before departure, consult your doctor to confirm your condition is stable and that you are a suitable candidate for travel, and to obtain a medical summary letter in English describing your diagnoses and treatments.",
+            "Travellers with diabetes face a particular challenge with insulin storage. Insulin degrades at high temperatures, and the interior of a parked car in summer sun in a warm country is sufficient to ruin a supply in hours. Carry insulin in a cool case throughout the journey and store it in air conditioning at the destination, not in a checked bag where aircraft hold temperatures can swing unpredictably in both directions.",
+            "Those taking anticoagulants such as warfarin should carry a medical alert card and their most recent INR result. Long-haul flights over six hours carry an elevated venous clot risk, particularly for people with additional risk factors. Discuss with your doctor whether prophylactic measures such as low-molecular-weight heparin are appropriate for the specific journey. Moving regularly during the flight and staying well hydrated are the minimum baseline for everyone."
+          ]
+        },
+        {
+          "h2": "Sun, heat and insects: practical protection",
+          "paras": [
+            "Sunscreen and insect repellent are not optional extras in tropical and subtropical destinations. Apply a sunscreen of at least SPF 30 to exposed skin twenty minutes before going outside and reapply every two hours or after swimming and sweating. Darker skin tones are not immune to sunburn at tropical latitudes, and any skin cancer risk accumulates with unprotected UV exposure regardless of baseline skin colour.",
+            "DEET-based repellents at 20 to 30 percent concentration are effective and safe for adults, providing protection for several hours. Picaridin is an alternative with similar efficacy and a lighter scent. Neither DEET nor Picaridin should be applied to infants under two months of age. Consult a paediatrician before using repellents on young children.",
+            "Heat exhaustion is common when visiting humid tropical climates, particularly when arriving after a journey from a cooler environment. The early signs are heavy sweating, dizziness and nausea. Move immediately to a cool indoor space and drink cold fluids slowly. True heat stroke, characterised by very high body temperature, cessation of sweating, confusion or loss of consciousness, is a medical emergency requiring immediate cooling and calling emergency services."
+          ]
+        },
+        {
+          "h2": "After you return: when to see a doctor",
+          "paras": [
+            "Some travel-related illnesses do not appear immediately but have incubation periods that extend well beyond the return date. Malaria can present two weeks to a month after exposure. Typhoid typically appears one to three weeks after ingestion. For this reason, if you develop fever or unexplained symptoms within a month of returning from a region with elevated disease risk, tell your doctor the full travel history. This single detail redirects the diagnostic workup completely.",
+            "Intestinal parasites such as Giardia and Entamoeba can cause chronic low-grade symptoms beginning weeks after return and are diagnosed by stool examination. If digestive disturbance persists for more than two weeks after returning from a developing country destination, medical evaluation is warranted and a stool analysis should be part of it.",
+            "Always proactively mention your travel history at any medical consultation in the weeks after a trip. Many tropical illnesses are treated effectively and completely when caught early, and lead to serious complications when diagnosis is delayed because no one asked about recent travel. The information costs nothing to give and can make an enormous difference to the clinical outcome."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "Symptoms requiring prompt medical assessment on return from travel",
+            "items": [
+              "Fever above 38.5 degrees Celsius within four weeks of returning from a malaria-endemic area",
+              "Bloody diarrhoea or inability to keep fluids down due to repeated vomiting",
+              "Sudden shortness of breath or chest pain during or after a long-haul flight",
+              "A rapidly spreading skin rash with fever after returning from a tropical destination",
+              "Confusion or reduced consciousness in a hot climate or on return"
+            ]
+          }
+        }
+      ],
+      "tie": "Use Sihtak to log any symptoms that appear during or after travel, with dates and your destination, making it straightforward for any doctor you consult to piece together the timeline and exposure history.",
+      "faqs": [
+        {
+          "q": "Do Gulf residents travelling to Europe need any extra vaccines?",
+          "a": "Generally no, provided routine vaccinations such as tetanus and measles are up to date. Europe is a very low epidemiological risk destination and imposes no entry vaccination requirements. If the itinerary passes through higher-risk regions before Europe, the picture changes and specific vaccines may be needed for those transit stages."
+        },
+        {
+          "q": "Is it safe to travel by air during pregnancy?",
+          "a": "Air travel is generally safe until about week 36 of an uncomplicated pregnancy. The safest period is the second trimester between weeks 18 and 24. Avoid travel to destinations with malaria, Zika or other vector-borne diseases during any stage of pregnancy. Consult your obstetrician before any long-haul travel or travel to higher-risk destinations."
+        },
+        {
+          "q": "Does handwashing prevent traveller's diarrhoea on its own?",
+          "a": "Handwashing with soap is essential and reduces risk substantially, but it is not sufficient on its own. The larger risk comes from contaminated food and water consumed before you wash your hands. Combining careful hand hygiene with attention to food and drink sources gives the best combined protection."
+        },
+        {
+          "q": "Is bottled mineral water always safe when travelling?",
+          "a": "Commercially sealed bottled water is safe when the seal is intact and unbroken before you open it. Open it yourself in front of the vendor whenever possible. In some regions, bottles are refilled with local water and resealed, a documented practice in a limited number of markets. When in genuine doubt, boiled and cooled water remains the most reliable option."
+        },
+        {
+          "q": "Are antimalarial medications safe for long trips?",
+          "a": "Approved antimalarials such as atovaquone-proguanil and doxycycline are safe for months when used correctly under medical supervision. Doxycycline increases skin sensitivity to sunlight and requires consistent sun protection. Consult a travel medicine specialist to choose the right drug for your specific destination, trip duration and personal medical history."
+        },
+        {
+          "q": "Is travel health insurance worth buying?",
+          "a": "Yes, and it is one of the most valuable preparations you can make before travelling abroad. The cost of emergency medical treatment in countries such as the United States or across much of Europe without insurance coverage can be very high. Ensure the policy includes medical evacuation cover, which pays for repatriation to your home country for treatment if needed."
+        },
+        {
+          "q": "Can I bring insulin pens in my hand luggage on a flight?",
+          "a": "Yes. International aviation rules permit insulin, injection pens, needles and related diabetes supplies in cabin baggage. Keeping insulin in hand luggage is preferable to checking it in the hold, where temperatures in the cargo compartment can be unpredictably very cold or very warm depending on the route and aircraft type, both of which can damage insulin."
+        }
+      ]
+    }
+  }
+}

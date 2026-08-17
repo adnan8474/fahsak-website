@@ -1,0 +1,318 @@
+{
+  "slug": "troponin-heart-attack-test",
+  "category": "lab-tests",
+  "chip_ar": "فهم التحاليل",
+  "chip_en": "Understanding Lab Tests",
+  "date_iso": "2026-07-22",
+  "sources": [
+    {"label": "Westwood M, Ramaekers B, Grimm S et al: High-sensitivity troponin assays for early rule-out of acute myocardial infarction in people with acute chest pain: a systematic review and economic evaluation, Health technology assessment (Winchester, England), 2021", "url": "https://pubmed.ncbi.nlm.nih.gov/34061019/"},
+    {"label": "Bellolio F, Gottlieb M, Body R et al: Evaluating patients with chest pain in the emergency department, BMJ (Clinical research ed.), 2025", "url": "https://pubmed.ncbi.nlm.nih.gov/40154972/"},
+    {"label": "Gibbs J, McCord J: Chest Pain Evaluation in the Emergency Department: Risk Scores and High-Sensitivity Cardiac Troponin, Current cardiology reports, 2020", "url": "https://pubmed.ncbi.nlm.nih.gov/32472247/"},
+    {"label": "Bhatti Y, Stevenson A, Weerasuriya S et al: Reducing avoidable chest pain admissions and implementing high-sensitivity troponin testing, BMJ open quality, 2019", "url": "https://pubmed.ncbi.nlm.nih.gov/31909208/"},
+    {"label": "ALAhmadi AF, ALSaedi MF, Alahmadi AE et al: Pre-hospital delay among patients with acute myocardial infarction in Saudi Arabia. A cross-sectional study, Saudi medical journal, 2020", "url": "https://pubmed.ncbi.nlm.nih.gov/32789422/"},
+    {"label": "Buntine PG, Sze S, Aldridge ES et al: High-sensitivity troponin T use in non-chest pain presentations in the emergency department, Emergency medicine Australasia : EMA, 2020", "url": "https://pubmed.ncbi.nlm.nih.gov/32743981/"}
+  ],
+  "content": {
+    "ar": {
+      "title": "تروبونين: التحليل الذي يؤكد النوبة القلبية",
+      "desc": "دليل شامل لتحليل التروبونين عالي الحساسية: ما يقيسه، لماذا يتكرر على مدى ساعات، ولماذا ألم الصدر يعني الذهاب للطوارئ فورا وليس حجز موعد في مختبر.",
+      "keywords": "تحليل تروبونين, نوبة قلبية, احتشاء عضلة القلب, ألم الصدر, تروبونين عالي الحساسية, hsTnI, hsTnT, علامات النوبة القلبية",
+      "h1": "تروبونين: التحليل الذي يكشف النوبة القلبية بدقة",
+      "takeaways": [
+        "التروبونين بروتين يتسرب من عضلة القلب عند تضررها، وارتفاعه في الدم يؤكد وجود ضرر في القلب.",
+        "تحاليل التروبونين عالية الحساسية تكتشف النوبة القلبية في غضون ساعة إلى ثلاث ساعات من الأعراض.",
+        "التحليل يُكرر على فترات زمنية محددة وليس مرة واحدة، لأن مستوى التروبونين يرتفع تدريجيا بعد النوبة.",
+        "ألم الصدر المشتبه به يعني الذهاب للطوارئ فورا وليس حجز موعد في مختبر خارجي.",
+        "التروبونين قد يرتفع لأسباب غير النوبة القلبية، والطبيب هو من يفسر النتيجة مع بقية الصورة."
+      ],
+      "sections": [
+        {
+          "h2": "ما هو التروبونين ولماذا يكشف أمراض القلب؟",
+          "paras": [
+            "التروبونين (Troponin) بروتين دقيق موجود داخل خلايا عضلة القلب، وهو جزء من الجهاز الذي يتحكم في تقلص هذه العضلة وانبساطها. في الظروف الطبيعية، يبقى التروبونين داخل خلايا القلب ولا يصل بكميات قابلة للقياس إلى مجرى الدم. لكن عندما تتعرض خلايا القلب لضرر، سواء بسبب انسداد أحد الشرايين التاجية أو أي سبب آخر، تتحطم جدران هذه الخلايا وتطلق التروبونين إلى الدم.",
+            "لأن التروبونين خاص بعضلة القلب بشكل شبه مطلق، فإن ارتفاعه في الدم يُعتبر دليلا قويا على أن شيئا ما يسبب ضررا للقلب. هذا ما يجعله التحليل الأكثر دقة وموثوقية لتشخيص النوبة القلبية (Acute myocardial infarction) منذ اكتشاف الجيل الجديد منه عالي الحساسية (High-sensitivity troponin).",
+            "قبل ظهور التروبونين، اعتمد الأطباء على تحاليل أقل دقة مثل CK-MB وLDH لتشخيص النوبة القلبية، وكانت تحتاج وقتا أطول لتعطي نتيجة واضحة. التروبونين عالي الحساسية غير ذلك كله: فهو يمكن أن يكشف كميات بالغة الصغر من البروتين في الدم خلال ساعة إلى ساعتين من بدء أعراض النوبة في كثير من الحالات، مما يسرع القرار الطبي ويوفر الوقت الثمين."
+          ]
+        },
+        {
+          "h2": "لماذا يُكرر التحليل على مدى ساعات؟",
+          "paras": [
+            "التروبونين لا يرتفع في الدم فور بداية الألم. يستغرق الأمر وقتا حتى تتحطم خلايا القلب المتضررة وتطلق محتواها إلى مجرى الدم. عادة يبدأ ارتفاع التروبونين بعد ساعة إلى ثلاث ساعات من بدء الأعراض، ويصل إلى ذروته بين 12 و24 ساعة، ثم يعود للانخفاض تدريجيا خلال أيام. هذا المنحنى الزمني هو ما يجعل تكرار التحليل ضروريا.",
+            "البروتوكول المعتمد في معظم المستشفيات هو قياس التروبونين عند الوصول، ثم إعادة القياس بعد ساعة إلى ثلاث ساعات. إذا كان المستوى الأول طبيعيا والمستوى الثاني طبيعيا أيضا ولم يرتفع، فإن النوبة القلبية تكون مستبعدة في معظم الحالات. لكن إذا ارتفع التروبونين بين القياسين الأول والثاني، فهذا الارتفاع التدريجي هو نفسه تأكيد للتشخيص، بصرف النظر عن القيمة المطلقة.",
+            "مراجعة منهجية واسعة نُشرت عام 2021 في مجلة Health Technology Assessment أكدت أن بروتوكولات قياس التروبونين عالي الحساسية مرتين على فترة ساعة إلى ثلاث ساعات يمكنها استبعاد النوبة القلبية بأمان لدى غالبية مرضى ألم الصدر الذين يصلون لطوارئ المستشفى. هذا ما يتيح للأطباء الإفراج بأمان عن المرضى الذين يعانون من ألم الصدر من غير أصل قلبي."
+          ],
+          "visual": {
+            "type": "timeline",
+            "title": "كيف يرتفع التروبونين بعد النوبة القلبية",
+            "items": [
+              {"when": "الساعة 0", "what": "بداية ألم الصدر"},
+              {"when": "1 إلى 3 ساعات", "what": "يبدأ التروبونين بالارتفاع في الدم"},
+              {"when": "6 إلى 12 ساعة", "what": "ارتفاع واضح وقابل للقياس"},
+              {"when": "12 إلى 24 ساعة", "what": "يصل التروبونين لذروته"},
+              {"when": "3 إلى 7 أيام", "what": "يعود التروبونين للانخفاض التدريجي"}
+            ]
+          }
+        },
+        {
+          "h2": "ما هو المعدل الطبيعي للتروبونين ومتى يكون مرتفعا؟",
+          "paras": [
+            "المعدل الطبيعي للتروبونين يختلف اختلافا كبيرا بين الأجهزة والمختبرات المختلفة، لذلك لا يوجد رقم واحد صحيح لجميع المختبرات. الوحدات المستخدمة عادة هي نانوغرام لكل لتر (ng/L) أو بيكوغرام لكل ملليلتر (pg/mL)، وهما متكافئتان. ما يهم دائما هو القيمة المرجعية المطبوعة في ورقة نتيجتك من المختبر الذي أجريت فيه التحليل.",
+            "الحد الأعلى الطبيعي للتروبونين عالي الحساسية يقع عادة في مستوى النسبة المئوية 99 من سكان صحيحي القلب، وهو المعيار الطبي المعتمد. أي مستوى فوق هذا الحد يُعتبر مرتفعا ويستدعي تقييما طبيا. لكن الارتفاع الطفيف وحده ليس تشخيصا للنوبة القلبية، لأن التغير بين قياسين متتاليين هو ما يؤكد الأذى الحاد.",
+            "من المهم فهم أن التروبونين عالي الحساسية يمكنه اكتشاف كميات بالغة الصغر من الضرر القلبي، أصغر بكثير مما كانت تكتشفه الأجيال السابقة. هذا يعني أنه قد يكون مرتفعا قليلا في حالات ليست نوبة قلبية كلاسيكية، مثل قصور القلب المزمن أو الجلطة الرئوية أو الرياضة المكثفة الشديدة. التفسير الصحيح يتطلب دائما قراءة النتيجة في سياق الأعراض والمعطيات الأخرى."
+          ],
+          "visual": {
+            "type": "range-scale",
+            "title": "مستوى التروبونين عالي الحساسية (مثال توضيحي)",
+            "label": "hsTnI",
+            "unit": "ng/L",
+            "min": 0,
+            "max": 100,
+            "zones": [
+              {"to": 26, "tone": "good", "label": "طبيعي"},
+              {"to": 52, "tone": "warn", "label": "مشتبه به"},
+              {"to": 100, "tone": "bad", "label": "مرتفع"}
+            ],
+            "marker": {"value": 15, "label": "مثال: ضمن الطبيعي"},
+            "source": "Gibbs J, McCord J: Chest Pain Evaluation and High-Sensitivity Troponin, Current cardiology reports, 2020",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/32472247/"
+          }
+        },
+        {
+          "h2": "لماذا لا تحجز موعدا في مختبر خارجي إذا كنت تشك بنوبة قلبية؟",
+          "paras": [
+            "هذه النقطة قد تنقذ حياتك. ألم الصدر المصحوب بضيق التنفس أو الغثيان أو التعرق أو الإحساس بالثقل في الصدر أو الألم الممتد للذراع أو الفك ليس حالة تنتظر فيها موعدا في مختبر. هذه الأعراض تستدعي الذهاب للطوارئ فورا أو الاتصال بالإسعاف، لأن التشخيص والعلاج يجب أن يسيرا معا وليس متتاليين.",
+            "في الطوارئ، يؤخذ التروبونين ضمن منظومة متكاملة تشمل رسم القلب (ECG)، وقياس ضغط الدم ومعدل نبضات القلب، والأعراض والتاريخ الطبي، ونتائج التحليل من أكثر من قياس. الكشف المبكر عن النوبة القلبية وعلاجها بفتح الشريان المسدود خلال الساعات الأولى هو ما يوقف الضرر ويحافظ على عضلة القلب.",
+            "دراسة نُشرت في المجلة الطبية السعودية عام 2020 وثقت التأخر الكبير قبل الوصول للمستشفى لدى مرضى النوبة القلبية في المملكة العربية السعودية، وربطت هذا التأخير بنتائج أسوأ على المدى البعيد. هذا يعكس نمطا موثقا في المنطقة العربية بأسرها، حيث يميل كثيرون إلى الانتظار أو استشارة الأهل قبل التوجه للطوارئ. الوقت في النوبة القلبية هو عضلة قلب: كل دقيقة تأخير تعني المزيد من الخلايا التالفة بشكل دائم."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "توجه للطوارئ فورا إذا كان لديك",
+            "items": [
+              "ألم أو ضغط أو ثقل في منتصف الصدر يدوم أكثر من دقيقتين",
+              "ألم يمتد للذراع اليسرى أو الفك أو الكتف أو الظهر",
+              "ضيق في التنفس مصاحب لألم الصدر",
+              "تعرق بارد أو غثيان مصاحب لألم الصدر",
+              "إغماء أو دوار مفاجئ",
+              "خفقان قلب سريع ومفاجئ مع ألم الصدر"
+            ]
+          }
+        },
+        {
+          "h2": "ما الأسباب الأخرى التي ترفع التروبونين غير النوبة القلبية؟",
+          "paras": [
+            "التروبونين ليس خاصا بالنوبة القلبية وحدها، وإن كان أكثر تخصصا من كثير من التحاليل الأخرى. أي ضرر لعضلة القلب من أي سبب يؤدي إلى ارتفاعه. هذا يشمل التهاب عضلة القلب (Myocarditis)، وهو حالة يمكن أن يسببها فيروس أو بكتيريا أو حتى أمراض مناعية، وقصور القلب الحاد، والانصمام الرئوي (Pulmonary embolism) حيث يرتفع التروبونين بسبب الضغط المرتفع على البطين الأيمن للقلب، وبعض حالات السكتة الدماغية الشديدة التي تؤثر على مراكز التحكم العصبي في القلب.",
+            "الجلطة الرئوية من الأسباب المهمة التي كثيرا ما يُخطئ في تفسيرها: المريض يصل بضيق التنفس وألم الصدر وتروبونين مرتفع فيُظن أن له نوبة قلبية، لكن ECG يكشف نمطا مختلفا وفحص CT للصدر يؤكد الجلطة الرئوية. هذا يؤكد مجددا أن الطبيب لا يفسر التروبونين بمعزل عن بقية الصورة السريرية، وأن التشخيص الصحيح يتطلب تكامل جميع المعطيات.",
+            "رياضيون يمارسون تمارين مكثفة جدا كسباقات الماراثون أو التدريب المتواصل قد يرون ارتفاعا طفيفا في التروبونين بعد المجهود المفرط، وهذا عادة مؤقت ويعود للطبيعي خلال ساعات دون علاج. الأمراض الكلوية الشديدة أيضا قد تسبب ارتفاعا مزمنا في التروبونين لأن الكلى تلعب دورا في إزالته من الدم. أيضا قد يرتفع التروبونين خلال نوبة الرجفان الأذيني الحادة أو التهاب التامور (Pericarditis) وهو التهاب الغشاء المحيط بالقلب. لهذه الأسباب مجتمعة، قراءة نتيجة التروبونين في عيادة خارجية دون أعراض حادة تتطلب تفسيرا دقيقا من الطبيب قبل إصدار أي حكم."
+          ]
+        },
+        {
+          "h2": "الفرق بين التروبونين I وTroponin T: هل يهم النوع؟",
+          "paras": [
+            "التروبونين الجديد عالي الحساسية يأتي في نوعين رئيسيين: TnI أو التروبونين I، وTnT أو التروبونين T. كلاهما مؤشران موثوقان على ضرر القلب وكلاهما يُستخدم في المستشفيات حول العالم. الفرق يكمن في الكاشف الكيميائي الذي يستخدمه الجهاز لقياسه، وليس في المعنى السريري للنتيجة.",
+            "القيم المرجعية الطبيعية لكل نوع مختلفة، لذلك لا يصح مقارنة نتيجة TnI من مختبر بنتيجة TnT من مختبر آخر. ما يصح مقارنته هو نتائج نفس النوع من نفس المختبر على فترات زمنية مختلفة للمريض ذاته.",
+            "ما يجب أن تسأل عنه ليس نوع التروبونين بل ما إذا كانت النتيجة تفسر بشكل صحيح مع أعراضك. إذا كنت في الطوارئ بشكوى قلبية، فالطاقم الطبي يختار الجهاز المناسب ويفسر النتيجة بناء على بروتوكول محدد. إذا وجدت نتيجة تروبونين قديمة في أوراقك المنزلية ولا تعرف ما تعنيه، اسأل طبيبك عن السياق الذي أُجري فيه."
+          ]
+        },
+        {
+          "h2": "هل ارتفاع التروبونين يعني دائما أن عندي نوبة قلبية؟",
+          "paras": [
+            "ليس بالضرورة، لكنه دائما يعني أن شيئا يضر بعضلة قلبك وأن هذا يستحق تقييما طبيا عاجلا. طبيبك سيضع نتيجة التروبونين في سياقها الكامل: هل الأعراض تتوافق مع نوبة قلبية؟ هل ECG يُظهر نمطا مثيرا للشك؟ هل التروبونين يرتفع بشكل حاد بين قياسين أم يبقى مستقرا عند مستوى منخفض قليلا؟ جميع هذه المعلومات مجتمعة هي ما يبني التشخيص.",
+            "النوبة القلبية أو احتشاء عضلة القلب (AMI) يُشخص بارتفاع تدريجي وسريع في التروبونين مصحوبا بأعراض وعلامات متوافقة. أما ارتفاع مزمن ومستقر للتروبونين، كما يحدث في قصور القلب المزمن أو مرض الكلى، فيُشير إلى ضرر مستمر لكنه ليس نوبة قلبية حادة.",
+            "إذا ارتفع تروبونينك في تحليل روتيني وأنت بدون أعراض قلبية، لا تنزعج، لكن لا تتجاهل الأمر أيضا. راجع طبيبك ليشرح لك في أي سياق أُجري التحليل وما هي الخطوة التالية المناسبة. مجلة BMJ نشرت عام 2025 مراجعة شاملة أكدت أن تقييم ألم الصدر في طوارئ المستشفى يعتمد على التروبونين عالي الحساسية كركيزة أساسية ضمن تقييم متكامل وليس كاختبار مستقل."
+          ]
+        },
+        {
+          "h2": "ما الخطوة التالية بعد تأكيد النوبة القلبية؟",
+          "paras": [
+            "تأكيد النوبة القلبية بارتفاع التروبونين يحرك سلسلة من الإجراءات الطبية العاجلة. أهمها فتح الشريان المسدود إما بالقثطرة القلبية وتركيب دعامة (Stent)، أو بالأدوية المذيبة للجلطات في المراكز التي لا تتوفر فيها القثطرة. كلما كان هذا التدخل أسرع، كلما كان الضرر أقل والتعافي أفضل. في دول المنطقة، يتباين توفر القثطرة الطارئة من مدينة لأخرى، لذلك تعرف مسبقا على المستشفيات القادرة على إجرائها في منطقة سكنك.",
+            "بعد النوبة، تبقى مستويات التروبونين مرتفعة لأيام ويستخدمها الأطباء لتقدير حجم الضرر الذي أصاب عضلة القلب. مريض تعافى من نوبة قلبية قد يجد تروبونينه مرتفعا قليلا في تحاليل المتابعة لأسابيع، وهذا أمر طبيعي في سياق التعافي وليس مؤشرا على نوبة جديدة. الطبيب هو من يميز بين الارتفاع المتبقي من النوبة السابقة وأي ارتفاع جديد مثير للقلق.",
+            "العلاج طويل الأمد بعد النوبة يشمل عادة أدوية لتخفيف تجلط الدم ولتحسين وظيفة القلب وللحفاظ على مستوى الكوليسترول والضغط تحت السيطرة. في مناطق يعاني فيها التوريد الدوائي من انقطاعات، من المهم جدا الاحتفاظ بقائمة مكتوبة بأدويتك بأسمائها العلمية وليس فقط التجارية. المتابعة المنتظمة مع طبيب القلب بعد النوبة ليست اختيارية، بل هي ما يجعل الفرق الحقيقي بين التعافي التام والإصابة بنوبة أخرى."
+          ]
+        }
+      ],
+      "tie": "مع تطبيق صحتك يمكنك الاحتفاظ بسجل لتحاليل القلب الخاصة بك: امسح ورقة نتائج التروبونين أو وظائف القلب بعد الخروج من المستشفى ليحتفظ بها التطبيق ويتابع مستويات تعافيك. ضع تذكيرات لمواعيد جرعات الأدوية بعد النوبة القلبية، وليس فقط تروبونينك بل قائمة أدويتك الكاملة. يبقى هذا أداة مساعدة لا تغني عن متابعة طبيب القلب.",
+      "faqs": [
+        {
+          "q": "هل أستطيع إجراء تحليل التروبونين في مختبر خارجي للتحقق من قلبي؟",
+          "a": "إذا كان لديك أعراض مثل ألم الصدر أو ضيق التنفس الآن، لا تذهب للمختبر بل توجه مباشرة للطوارئ. أما إذا طلب طبيبك التحليل بشكل اختياري في إطار فحص دوري بدون أعراض، فهذا أمر مختلف وتتبع تعليمات طبيبك."
+        },
+        {
+          "q": "هل ارتفاع التروبونين البسيط دائما يعني نوبة قلبية؟",
+          "a": "لا. ارتفاع التروبونين يعني أن هناك ضررا ما في عضلة القلب، لكن هذا الضرر قد يكون من أسباب عدة غير النوبة القلبية. طبيبك يقيّم النتيجة مع الأعراض والتغير بين قياسين متتاليين ورسم القلب لتحديد السبب."
+        },
+        {
+          "q": "لماذا يأخذ الطبيب العينة أكثر من مرة؟",
+          "a": "لأن التروبونين يرتفع تدريجيا بعد النوبة وليس دفعة واحدة. قياس مرة واحدة قد يكون طبيعيا في الساعات الأولى حتى لو كانت هناك نوبة قلبية بدأت للتو. القياس المتكرر على فترة ساعة إلى ثلاث ساعات يكشف هذا الارتفاع التدريجي."
+        },
+        {
+          "q": "هل ممارسة الرياضة الشاقة ترفع التروبونين؟",
+          "a": "نعم، التمارين المكثفة جدا كالماراثون قد ترفع التروبونين بشكل مؤقت. لكن هذا الارتفاع عادة يكون طفيفا ويعود للطبيعي بسرعة دون أعراض قلبية. إذا كنت رياضيا وظهر تروبونين مرتفع عليك، أخبر طبيبك بنشاطك الرياضي الأخير."
+        },
+        {
+          "q": "هل قصور الكلى يرفع التروبونين؟",
+          "a": "نعم، مرضى أمراض الكلى المتقدمة غالبا لديهم مستوى تروبونين مرتفع قليلا بشكل مزمن، حتى بدون نوبة قلبية حادة. هذا يجعل تفسير التروبونين في هذه المجموعة أكثر تعقيدا ويتطلب خبرة إضافية من الطبيب."
+        },
+        {
+          "q": "كم من الوقت يبقى التروبونين مرتفعا بعد النوبة القلبية؟",
+          "a": "عادة يبقى مرتفعا لمدة 3 إلى 7 أيام، ثم ينخفض تدريجيا. حجم الارتفاع ومدته يعكسان جزئيا حجم الضرر الذي أصاب العضلة. طبيبك يستخدم هذه المعلومة للحكم على خطورة النوبة."
+        },
+        {
+          "q": "هل يمكن أن تكون نوبتي قلبية وتروبونيني طبيعيا؟",
+          "a": "إذا وصلت للطوارئ خلال الساعة الأولى من الأعراض، قد يكون التروبونين لا يزال طبيعيا لأنه لم يرتفع بعد. هذا سبب آخر لأهمية القياس المتكرر. رسم القلب (ECG) قد يكشف النوبة مبكرا حتى قبل ارتفاع التروبونين في بعض أنواع النوبات."
+        }
+      ]
+    },
+    "en": {
+      "title": "Troponin: the test that confirms a heart attack",
+      "desc": "A full guide to high-sensitivity troponin: what it measures, why it is repeated over hours, and why chest pain means going to emergency rather than booking a lab appointment.",
+      "keywords": "troponin test, heart attack, acute myocardial infarction, chest pain, high sensitivity troponin, hsTnI hsTnT, cardiac troponin, heart attack symptoms",
+      "h1": "Troponin: the test that detects a heart attack with precision",
+      "takeaways": [
+        "Troponin is a protein that leaks from heart muscle cells when they are damaged, and a rising level in the blood is strong evidence of cardiac injury.",
+        "High-sensitivity troponin tests can detect a heart attack within one to three hours of symptoms starting.",
+        "The test is always repeated at intervals, not done once, because troponin rises gradually after the event rather than all at once.",
+        "Suspected chest pain means going directly to the emergency department, not booking a laboratory appointment.",
+        "Troponin can rise for reasons other than a heart attack, and the doctor interprets the result as part of the full clinical picture."
+      ],
+      "sections": [
+        {
+          "h2": "What is troponin and why does it reveal heart damage?",
+          "paras": [
+            "Troponin is a fine protein found inside heart muscle cells, forming part of the system that controls how the muscle contracts and relaxes. Under normal conditions, troponin stays inside heart cells and does not reach measurable concentrations in the bloodstream. But when heart cells are damaged, whether by a blocked coronary artery or any other cause, the cell walls break down and release troponin into the blood.",
+            "Because troponin is almost exclusively specific to heart muscle, a rising level in the blood is strong evidence that something is causing damage to the heart. This makes it the most accurate and reliable test for diagnosing acute myocardial infarction (a heart attack) since the development of the modern high-sensitivity generation of the test.",
+            "Before troponin became widely available, doctors relied on less precise tests such as CK-MB and LDH for heart attack diagnosis, and these took longer to give a clear result. High-sensitivity troponin changed everything: it can detect vanishingly small amounts of the protein in the blood within one to two hours of symptoms starting in many cases, which speeds the medical decision and preserves precious time."
+          ]
+        },
+        {
+          "h2": "Why is the test repeated over hours?",
+          "paras": [
+            "Troponin does not rise the moment chest pain starts. It takes time for damaged heart cells to break down and release their contents into the bloodstream. Troponin typically begins to rise one to three hours after symptoms start, peaks between 12 and 24 hours, then falls gradually over several days. This time curve is exactly what makes repeated sampling necessary.",
+            "The protocol used in most hospitals is to measure troponin on arrival and then again one to three hours later. If the first level is normal and the second is also normal with no significant rise between them, a heart attack can be ruled out in most cases. But if troponin rises between the first and second measurement, this rise itself is confirmation of the diagnosis, regardless of the absolute number reached.",
+            "A large systematic review published in 2021 in Health Technology Assessment confirmed that high-sensitivity troponin protocols using two measurements one to three hours apart can safely rule out a heart attack in the majority of patients arriving at emergency with chest pain. This is what allows doctors to discharge safely the patients whose chest pain does not have a cardiac origin."
+          ],
+          "visual": {
+            "type": "timeline",
+            "title": "How troponin rises after a heart attack",
+            "items": [
+              {"when": "Hour 0", "what": "Chest pain begins"},
+              {"when": "1 to 3 hours", "what": "Troponin begins rising in the blood"},
+              {"when": "6 to 12 hours", "what": "Clear and measurable elevation"},
+              {"when": "12 to 24 hours", "what": "Troponin reaches its peak"},
+              {"when": "3 to 7 days", "what": "Troponin gradually returns towards normal"}
+            ]
+          }
+        },
+        {
+          "h2": "What is a normal troponin level and when is it raised?",
+          "paras": [
+            "The normal troponin level varies considerably between analysers and laboratories, so there is no single number that applies across all labs. Units are usually nanograms per litre (ng/L) or picograms per millilitre (pg/mL), which are equivalent. What always matters is the reference range printed on your own result sheet from the laboratory where the test was performed.",
+            "The upper normal limit for high-sensitivity troponin is set at the 99th percentile of a healthy reference population, which is the accepted medical standard. Any level above this limit is considered raised and warrants medical assessment. But a mildly raised value alone does not diagnose a heart attack. The change between two measurements taken in sequence is what confirms acute injury.",
+            "It is important to understand that high-sensitivity troponin can detect extremely small amounts of cardiac damage, far smaller than previous generations of the test could find. This means it may be slightly raised in conditions that are not a classic heart attack, including chronic heart failure, pulmonary embolism, and after extreme physical exertion. Correct interpretation always requires reading the result in the context of symptoms and other clinical information."
+          ],
+          "visual": {
+            "type": "range-scale",
+            "title": "High-sensitivity troponin level (illustrative example)",
+            "label": "hsTnI",
+            "unit": "ng/L",
+            "min": 0,
+            "max": 100,
+            "zones": [
+              {"to": 26, "tone": "good", "label": "Normal"},
+              {"to": 52, "tone": "warn", "label": "Borderline"},
+              {"to": 100, "tone": "bad", "label": "Raised"}
+            ],
+            "marker": {"value": 15, "label": "Example: within normal"},
+            "source": "Gibbs J, McCord J: Chest Pain Evaluation and High-Sensitivity Troponin, Current cardiology reports, 2020",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/32472247/"
+          }
+        },
+        {
+          "h2": "Why must you go to emergency rather than a lab if you suspect a heart attack?",
+          "paras": [
+            "This point can save your life. Chest pain with shortness of breath, nausea, sweating, a feeling of heaviness, or pain spreading to the arm or jaw is not a situation in which you wait for a lab appointment. These symptoms require going directly to an emergency department or calling an ambulance, because diagnosis and treatment must happen together, not one after the other.",
+            "In the emergency department, troponin is taken as part of a full assessment that includes an ECG, blood pressure and heart rate, your symptoms and medical history, and results from more than one blood sample. Early detection of a heart attack and reopening a blocked artery within the first hours is what stops the damage and preserves heart muscle.",
+            "A study published in the Saudi Medical Journal in 2020 documented substantial delays before hospital arrival among heart attack patients in Saudi Arabia, and linked this delay to worse long-term outcomes. This reflects a well-documented pattern across the Arab world, where many people wait or consult family members before going to emergency. Time in a heart attack is heart muscle: every minute of delay means more cells damaged permanently."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "Go to emergency immediately if you have",
+            "items": [
+              "Pain, pressure, or heaviness in the centre of the chest lasting more than two minutes",
+              "Pain spreading to the left arm, jaw, shoulder, or back",
+              "Shortness of breath with chest pain",
+              "Cold sweating or nausea alongside chest pain",
+              "Fainting or sudden severe dizziness",
+              "Sudden rapid heartbeat with chest pain"
+            ]
+          }
+        },
+        {
+          "h2": "What other conditions raise troponin besides a heart attack?",
+          "paras": [
+            "Troponin is not exclusive to heart attacks, though it is far more specific than many other tests. Any damage to heart muscle from any cause leads to its release. This includes myocarditis (inflammation of the heart muscle), acute heart failure, pulmonary embolism where troponin rises because of elevated pressure on the right ventricle, and some severe strokes.",
+            "Pulmonary embolism is an important cause that is frequently misread: the patient arrives with shortness of breath and chest pain and a raised troponin, which initially looks like a heart attack, but the ECG shows a different pattern and further imaging confirms the lung clot. This is another reminder that the doctor does not interpret troponin in isolation from the rest of the clinical picture.",
+            "Endurance athletes performing extreme exercise such as marathon running may show a mildly raised troponin after the effort, which typically normalises within hours without treatment. Severe kidney disease can also cause a chronically mildly raised troponin because the kidneys play a role in clearing it from the blood. For all these reasons, finding a raised troponin result in a routine outpatient test without acute symptoms requires careful interpretation from a doctor before any conclusion is drawn."
+          ]
+        },
+        {
+          "h2": "Troponin I versus Troponin T: does the type matter?",
+          "paras": [
+            "The high-sensitivity troponin test comes in two main types: TnI (troponin I) and TnT (troponin T). Both are reliable markers of cardiac damage and both are used in hospitals worldwide. The difference lies in the chemical detector that the analyser uses, not in the clinical meaning of a raised result.",
+            "The normal reference ranges for each type differ, so you cannot compare a TnI result from one laboratory with a TnT result from another. What is valid to compare is the same type of test from the same laboratory in the same patient on different occasions over time.",
+            "The question you need to ask is not which type of troponin was measured, but whether the result is being interpreted correctly alongside your symptoms. If you are in emergency with a cardiac complaint, the clinical team selects the appropriate analyser and interprets the result using an established protocol. If you find an old troponin result in your medical papers and do not know what it means, ask your doctor in what context it was measured."
+          ]
+        },
+        {
+          "h2": "Does a raised troponin always mean a heart attack?",
+          "paras": [
+            "Not necessarily, but it always means that something is damaging your heart muscle and that an urgent medical assessment is needed. Your doctor will place the troponin result in its full context: do the symptoms fit a heart attack? Does the ECG show a worrying pattern? Is troponin rising sharply between two measurements or holding steady at a mildly raised level? All of this information together builds the diagnosis.",
+            "A heart attack (acute myocardial infarction) is diagnosed by a rapid and substantial rise in troponin alongside compatible symptoms and signs. A chronically mildly raised troponin, as occurs in chronic heart failure or kidney disease, points to ongoing damage but not to an acute event.",
+            "If your troponin comes back raised on a routine test and you have no cardiac symptoms, do not panic but do not ignore it either. Ask your doctor to explain the context in which it was measured and what the appropriate next step is. A 2025 BMJ review confirmed that assessment of chest pain in emergency departments now relies on high-sensitivity troponin as a cornerstone tool within an integrated assessment, never as a standalone test."
+          ]
+        },
+        {
+          "h2": "What happens after a confirmed heart attack?",
+          "paras": [
+            "Confirming a heart attack through rising troponin triggers a chain of urgent medical actions. The most important is reopening the blocked artery, either by coronary angioplasty and a stent, or by clot-dissolving medicines in centres where angioplasty is not immediately available. The faster this intervention, the less damage is done and the better the recovery.",
+            "After the event, troponin levels remain raised for several days and doctors use them to estimate the extent of damage to the heart muscle. A patient recovering from a heart attack may find their troponin still mildly raised in follow-up tests for weeks, and this is normal during the healing phase.",
+            "Long-term treatment after a heart attack typically includes medicines to reduce platelet clumping, improve heart function, and keep cholesterol and blood pressure under control. These are usually given as a combination and stopping any of them without medical advice can substantially raise the risk of a second event. In parts of the Arab world where medicine supply is intermittent, carrying a written list of your medicines with their generic names rather than brand names is an important safety step.",
+            "Regular follow-up with a cardiologist after a heart attack is not optional. It is what makes the difference between recovery and having another event. Cardiac rehabilitation where available has been shown to reduce the risk of a further heart attack and improve quality of life, and asking your cardiologist whether this is offered locally is well worth doing."
+          ]
+        }
+      ],
+      "tie": "With the Sihtak app you can keep a record of your cardiac test results: scan your troponin or heart function report after leaving hospital so the app stores the values and lets you track your recovery over time. Set reminders for your post-heart-attack medicines and your follow-up appointments. This remains a helpful tool and does not replace regular monitoring with your cardiologist.",
+      "faqs": [
+        {
+          "q": "Can I get a troponin test at an outside laboratory to check my heart?",
+          "a": "If you have symptoms such as chest pain or shortness of breath right now, do not go to a laboratory. Go directly to the emergency department. If your doctor has ordered the test on a routine basis with no acute symptoms, that is a different situation and you follow your doctor's instructions."
+        },
+        {
+          "q": "Does a mildly raised troponin always mean a heart attack?",
+          "a": "No. A raised troponin means there is some damage to heart muscle, but the cause may be any of several conditions other than a heart attack. Your doctor assesses the result alongside your symptoms, the change between two measurements, and the ECG to determine what is actually happening."
+        },
+        {
+          "q": "Why does the doctor take blood more than once?",
+          "a": "Because troponin rises gradually after a heart attack rather than all at once. A single test in the first hour may still be normal even if a heart attack has just started. Repeating the test one to three hours later reveals this progressive rise, which is how the diagnosis is confirmed or excluded."
+        },
+        {
+          "q": "Does intense exercise raise troponin?",
+          "a": "Yes, very demanding exercise such as marathon running can cause a temporary modest rise in troponin. This usually normalises rapidly without treatment and causes no symptoms. If you are an athlete and your troponin is raised, tell your doctor about your recent training so the level can be interpreted correctly."
+        },
+        {
+          "q": "Does kidney disease raise troponin?",
+          "a": "Yes, patients with advanced kidney disease often have a chronically mildly raised troponin even without an acute heart attack, because the kidneys help clear troponin from the blood. This makes interpretation more complex in this group and requires extra care from the doctor."
+        },
+        {
+          "q": "How long does troponin stay raised after a heart attack?",
+          "a": "It typically stays raised for 3 to 7 days before gradually returning towards normal. The height and duration of the elevation partly reflect the size of the area of heart muscle that was damaged. Your doctor uses this information to judge how serious the event was."
+        },
+        {
+          "q": "Can I have a heart attack with a normal troponin?",
+          "a": "If you arrive at emergency within the first hour of symptoms, troponin may still be normal because it has not yet risen. This is another reason why the test is repeated. The ECG can also reveal a heart attack in some types of presentation even before troponin rises, which is why both are always done together."
+        }
+      ]
+    }
+  }
+}

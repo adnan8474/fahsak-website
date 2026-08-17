@@ -1,496 +1,350 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Sihtak content engine.
+Sihtak article page builder.
 
-Reads content/articles.json (a list of bilingual article objects) and:
-  - writes /articles/<slug>/index.html         (Arabic page)
-  - writes /en/articles/<slug>/index.html       (English page)
-  - inserts new cards into /articles/index.html and /en/articles/index.html hubs
-  - inserts <url> entries into sitemap.xml
-  - inserts <item> entries into articles/feed.xml
+Reads content/articles.json and writes, for every article:
+  /articles/<slug>/index.html        Arabic
+  /en/articles/<slug>/index.html     English
 
-Idempotent: re-running skips articles whose slug is already wired in.
-No network, no deploy. Run:  python build_content.py
+Hubs, category pages, sitemaps and the feed are NOT written here. They are
+regenerated wholesale from data by build_site.py, which must run after this.
+
+Run:  python build_content.py && python build_site.py
 """
-import os, json, html, datetime
+import os, json, datetime
 
-BASE = os.path.dirname(os.path.abspath(__file__))
+from build_chrome import (
+    BASE, SITE, AUTHOR, AUTHOR_URL, OG_IMAGE, PLAY, APPSTORE, L, CAT_BY_ID,
+    cat_url, cat_name, fmt_date, e, nav, footer, head, card, jd,
+    ORG_LD, PERSON_LD, SCRIPT_BLOCK, load_articles,
+)
+import build_visuals
+
 DATA = os.path.join(BASE, "content", "articles.json")
 
-AUTHOR = "Adnan Alrefai"
-OG_IMAGE = "https://www.sihtak.com/og-image.png"
-PLAY = "https://play.google.com/store/apps/details?id=com.sihhati.app"
-APPSTORE = "https://apps.apple.com/us/app/sihtak-%D8%B5%D8%AD%D8%AA%D9%83/id6764330989"
 
-# ---- per-language chrome ------------------------------------------------------
-L = {
-    "ar": {
-        "htmltag": '<html lang="ar" dir="rtl" data-theme="light">',
-        "site": "صحتك",
-        "nav_articles": "/articles/", "nav_articles_label": "المقالات",
-        "download": "حمّل الآن",
-        "takeaways_h": "باختصار",
-        "related_h": "مقالات ذات صلة",
-        "faq_h": "أسئلة شائعة",
-        "sources_h": "المصادر",
-        "byline": "بقلم",
-        "read_suffix": "دقائق قراءة",
-        "disclaimer": "هذا المحتوى للتثقيف الصحي فقط ولا يغني عن استشارة الطبيب. إذا كانت لديك أعراض تقلقك فراجع طبيبك.",
-        "cta_h": "جرّب صحتك مجاناً",
-        "cta_p": "مساعد صحي ذكي يفهم تحاليلك وأدويتك ويتابع صحة عائلتك. مجاني بالكامل وبدون إعلانات.",
-        "cta_b1": "حمّل من Google Play", "cta_b2": "حمّل من App Store",
-        "base": "/articles/", "hub": "https://www.sihtak.com/articles/",
-        "crumb_home": "الرئيسية", "crumb_articles": "المقالات",
-        "oglocale": "ar_SA", "oglocale_alt": "en_US",
-    },
-    "en": {
-        "htmltag": '<html lang="en" dir="ltr" data-theme="light">',
-        "site": "Sihtak",
-        "nav_articles": "/en/articles/", "nav_articles_label": "Articles",
-        "download": "Download",
-        "takeaways_h": "In short",
-        "related_h": "Related articles",
-        "faq_h": "Frequently asked questions",
-        "sources_h": "Sources",
-        "byline": "By",
-        "read_suffix": "min read",
-        "disclaimer": "This content is for health education only and is not a substitute for medical advice. If you have symptoms that worry you, see your doctor.",
-        "cta_h": "Try Sihtak for free",
-        "cta_p": "A smart health assistant that understands your labs and medications and looks after your family's health. Completely free, no ads.",
-        "cta_b1": "Get it on Google Play", "cta_b2": "Download on the App Store",
-        "base": "/en/articles/", "hub": "https://www.sihtak.com/en/articles/",
-        "crumb_home": "Home", "crumb_articles": "Articles",
-        "oglocale": "en_US", "oglocale_alt": "ar_SA",
-    },
-}
-
-THEME_ICONS = (
-    '<button class="theme-btn" onclick="toggleTheme()" aria-label="Toggle light/dark mode">'
-    '<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="theme-icon-sun"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg>'
-    '<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="theme-icon-moon" style="display:none"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>'
-    '</button>'
-)
-
-SCRIPT_BLOCK = """  <script>
-    function applyTheme(theme) {
-      var html = document.documentElement;
-      if (theme === 'light') { html.setAttribute('data-theme', 'light'); }
-      else { html.removeAttribute('data-theme'); }
-      var sunIcon = document.querySelector('.theme-icon-sun');
-      var moonIcon = document.querySelector('.theme-icon-moon');
-      if (sunIcon && moonIcon) {
-        sunIcon.style.display = theme === 'light' ? 'none' : 'block';
-        moonIcon.style.display = theme === 'light' ? 'block' : 'none';
-      }
-      var metaTheme = document.getElementById('meta-theme-color');
-      if (metaTheme) metaTheme.content = theme === 'light' ? '#ffffff' : '#030303';
-      localStorage.setItem('sihtak-theme', theme);
-    }
-    function toggleTheme() {
-      var current = document.documentElement.hasAttribute('data-theme') ? 'light' : 'dark';
-      applyTheme(current === 'light' ? 'dark' : 'light');
-    }
-    applyTheme(localStorage.getItem('sihtak-theme') === 'dark' ? 'dark' : 'light');
-    var observer = new IntersectionObserver(function(entries) {
-      entries.forEach(function(entry) {
-        if (entry.isIntersecting) { entry.target.classList.add('visible'); observer.unobserve(entry.target); }
-      });
-    }, { threshold: 0.08, rootMargin: '0px 0px -30px 0px' });
-    document.querySelectorAll('.reveal').forEach(function(el) { observer.observe(el); });
-  </script>
-</body>
-</html>
-"""
-
-FOOTER = {
-    "ar": """  <footer class="footer" role="contentinfo">
-    <div class="footer-inner">
-      <div class="footer-top">
-        <div class="footer-brand-section">
-          <div class="footer-logo-row">
-            <img src="/icon.png" alt="" width="40" height="40">
-            <span>صحتك</span>
-          </div>
-          <p class="footer-tag">مساعدك الصحي الذكي، مجاني وبدون إعلانات.</p>
-          <a href="{play}" class="btn btn-primary btn-sm" target="_blank" rel="noopener">حمّل الآن</a>
-        </div>
-        <div class="footer-col">
-          <h4>التطبيق</h4>
-          <ul class="footer-links">
-            <li><a href="/#features">المزايا</a></li>
-            <li><a href="/articles/">المقالات</a></li>
-            <li><a href="/#faq">أسئلة شائعة</a></li>
-          </ul>
-        </div>
-        <div class="footer-col">
-          <h4>قانوني</h4>
-          <ul class="footer-links">
-            <li><a href="/privacy">سياسة الخصوصية</a></li>
-            <li><a href="/terms">شروط الاستخدام</a></li>
-            <li><a href="/contact">تواصل معنا</a></li>
-          </ul>
-        </div>
-      </div>
-      <div class="footer-bottom">
-        <p class="footer-copy">&copy; 2026 Sihtak. جميع الحقوق محفوظة.</p>
-        <p class="footer-creator" style="font-size:13px;color:var(--text-d);margin-top:6px;"><span>صُنع بواسطة</span> <strong style="color:var(--text-m);">Adnan Alrefai</strong></p>
-        <p class="footer-owner" style="font-size:13px;color:var(--text-d);margin-top:4px;"><span>منتج من</span> <a href="https://poctify.com" target="_blank" rel="noopener" style="color:var(--text-m);font-weight:600;text-decoration:none;">POCTIFY LTD</a></p>
-        <p style="font-size:13px;color:var(--text-d);margin-top:4px;">تابعنا على <a href="https://instagram.com/sihtak_app" style="color:var(--teal);font-weight:600;" target="_blank" rel="noopener">@sihtak_app</a></p>
-      </div>
-    </div>
-  </footer>
-""".replace("{play}", PLAY),
-    "en": """  <footer class="footer" role="contentinfo">
-    <div class="footer-inner">
-      <div class="footer-top">
-        <div class="footer-brand-section">
-          <div class="footer-logo-row">
-            <img src="/icon.png" alt="" width="40" height="40">
-            <span>Sihtak</span>
-          </div>
-          <p class="footer-tag">Your smart health companion, free with no ads.</p>
-          <a href="{play}" class="btn btn-primary btn-sm" target="_blank" rel="noopener">Download</a>
-        </div>
-        <div class="footer-col">
-          <h4>App</h4>
-          <ul class="footer-links">
-            <li><a href="/#features">Features</a></li>
-            <li><a href="/en/articles/">Articles</a></li>
-            <li><a href="/#faq">FAQ</a></li>
-          </ul>
-        </div>
-        <div class="footer-col">
-          <h4>Legal</h4>
-          <ul class="footer-links">
-            <li><a href="/privacy">Privacy Policy</a></li>
-            <li><a href="/terms">Terms of Service</a></li>
-            <li><a href="/contact">Contact Us</a></li>
-          </ul>
-        </div>
-      </div>
-      <div class="footer-bottom">
-        <p class="footer-copy">&copy; 2026 Sihtak. All rights reserved.</p>
-        <p class="footer-creator" style="font-size:13px;color:var(--text-d);margin-top:6px;"><span>Built by</span> <strong style="color:var(--text-m);">Adnan Alrefai</strong></p>
-        <p class="footer-owner" style="font-size:13px;color:var(--text-d);margin-top:4px;"><span>A product of</span> <a href="https://poctify.com" target="_blank" rel="noopener" style="color:var(--text-m);font-weight:600;text-decoration:none;">POCTIFY LTD</a></p>
-        <p style="font-size:13px;color:var(--text-d);margin-top:4px;">Follow us on <a href="https://instagram.com/sihtak_app" style="color:var(--teal);font-weight:600;" target="_blank" rel="noopener">@sihtak_app</a></p>
-      </div>
-    </div>
-  </footer>
-""".replace("{play}", PLAY),
-}
-
-MONTHS_EN = ["", "January", "February", "March", "April", "May", "June",
-             "July", "August", "September", "October", "November", "December"]
+# --------------------------------------------------------------------------
+# normalisation: authors supply the minimum, the builder derives the rest
+# --------------------------------------------------------------------------
+def normalise(a):
+    a.setdefault("date_iso", datetime.date.today().isoformat())
+    a["date_ar"] = a.get("date_ar") or fmt_date(a["date_iso"], "ar")
+    a["date_en"] = a.get("date_en") or fmt_date(a["date_iso"], "en")
+    cat = CAT_BY_ID.get(a.get("category"))
+    if cat and not a.get("icon"):
+        a["icon"] = cat["icon"]
+    if not a.get("read_min"):
+        words = 0
+        c = a["content"]["en"]
+        for s in c["sections"]:
+            words += sum(len(p.split()) for p in s.get("paras", []))
+            words += sum(len(x.split()) for x in s.get("list", []) or [])
+        a["read_min"] = max(3, round(words / 210))
+    return a
 
 
-def e(s, quote=False):
-    return html.escape(str(s), quote=quote)
-
-
-def card_meta(lang, a):
-    if lang == "ar":
-        return f'{a["date_ar"]} · {a["read_min"]} دقائق قراءة'
-    return f'{a["date_en"]} · {a["read_min"]} min read'
-
-
-def card_html(lang, a):
+# --------------------------------------------------------------------------
+# page fragments
+# --------------------------------------------------------------------------
+def breadcrumbs(lang, a):
+    o = L[lang]
     c = a["content"][lang]
-    chip = a["chip_ar"] if lang == "ar" else a["chip_en"]
-    href = f'{L[lang]["base"]}{a["slug"]}/'
+    cid = a.get("category")
+    mid = ""
+    if cid:
+        mid = (f'        <li><a href="{cat_url(lang, cid)}">{e(cat_name(lang, cid))}</a></li>\n')
     return (
-        f'        <a class="art-card reveal" href="{href}">\n'
-        f'          <div class="art-card-icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">{a["icon"]}</svg></div>\n'
-        f'          <span class="art-chip">{e(chip)}</span>\n'
-        f'          <h3>{e(c["title"])}</h3>\n'
-        f'          <p>{e(c["desc"])}</p>\n'
-        f'          <span class="art-card-meta">{card_meta(lang, a)}</span>\n'
-        f'        </a>\n'
+        '    <nav class="art-crumbs" aria-label="Breadcrumb">\n'
+        '      <ol>\n'
+        f'        <li><a href="/">{o["crumb_home"]}</a></li>\n'
+        f'        <li><a href="{o["nav_articles"]}">{o["crumb_articles"]}</a></li>\n'
+        + mid +
+        f'        <li><span aria-current="page">{e(c["h1"])}</span></li>\n'
+        '      </ol>\n'
+        '    </nav>\n'
     )
 
 
-def related_cards(lang, a, articles):
-    i = next((k for k, x in enumerate(articles) if x["slug"] == a["slug"]), 0)
-    rotated = articles[i + 1:] + articles[:i]
-    others = rotated[:4]
-    return "".join(card_html(lang, x) for x in others)
+def lead_image(a):
+    img = a.get("lead_image")
+    if not img:
+        return ""
+    credit = ""
+    if img.get("credit"):
+        label = e(img["credit"])
+        if img.get("credit_url"):
+            label = (f'<a href="{e(img["credit_url"], True)}" target="_blank" '
+                     f'rel="noopener nofollow">{label}</a>')
+        credit = f'      <p class="viz-credit">{label}</p>\n'
+    return (
+        '    <div class="art-lead reveal">\n'
+        f'      <img src="{e(img["src"], True)}" alt="{e(img.get("alt", ""), True)}" '
+        'width="1200" height="675" fetchpriority="high" decoding="async">\n'
+        + credit +
+        '    </div>\n'
+    )
+
+
+def toc(lang, a):
+    secs = a["content"][lang]["sections"]
+    if len(secs) < 4:
+        return ""
+    items = "".join(
+        f'          <li><a href="#s{i}">{e(s["h2"])}</a></li>\n'
+        for i, s in enumerate(secs, 1)
+    )
+    return (
+        f'      <details class="art-toc reveal" open>\n'
+        f'        <summary>{L[lang]["toc_h"]}</summary>\n'
+        f'        <ol>\n{items}        </ol>\n'
+        '      </details>\n'
+    )
+
+
+def author_box(lang):
+    o = L[lang]
+    return (
+        '      <aside class="art-author reveal">\n'
+        '        <div class="art-author-avatar" aria-hidden="true">AA</div>\n'
+        '        <div class="art-author-body">\n'
+        f'          <h3><a href="/author/">{AUTHOR}</a></h3>\n'
+        f'          <p class="art-author-role">{o["author_role"]}</p>\n'
+        f'          <p class="art-author-bio">{o["author_bio"]}</p>\n'
+        '        </div>\n'
+        '      </aside>\n'
+    )
 
 
 def body_html(lang, a):
     c = a["content"][lang]
+    o = L[lang]
     out = []
-    # takeaways
+
     lis = "".join(f'          <li>{e(t)}</li>\n' for t in c["takeaways"])
-    out.append(f'      <aside class="art-takeaways reveal">\n        <h2>{L[lang]["takeaways_h"]}</h2>\n        <ul>\n{lis}        </ul>\n      </aside>\n')
-    # sections
-    for s in c["sections"]:
+    out.append(f'      <aside class="art-takeaways reveal">\n        <h2>{o["takeaways_h"]}</h2>\n'
+               f'        <ul>\n{lis}        </ul>\n      </aside>\n')
+
+    out.append(toc(lang, a))
+
+    for i, s in enumerate(c["sections"], 1):
         out.append('      <section class="reveal">\n')
-        out.append(f'        <h2>{e(s["h2"])}</h2>\n')
-        for p in s["paras"]:
+        out.append(f'        <h2 id="s{i}">{e(s["h2"])}</h2>\n')
+        for p in s.get("paras", []):
             out.append(f'        <p>{e(p)}</p>\n')
         if s.get("list"):
             items = "".join(f'          <li>{e(li)}</li>\n' for li in s["list"])
             out.append(f'        <ul class="art-list">\n{items}        </ul>\n')
+        out.append(build_visuals.render_all(lang, s))
         out.append('      </section>\n')
-    # app tie-in
+
     out.append(f'      <section class="art-tie reveal">\n        <p>{e(c["tie"])}</p>\n      </section>\n')
-    # CTA
+
     out.append(
         '      <aside class="art-cta reveal">\n'
         '        <img src="/icon.png" alt="Sihtak app icon" width="56" height="56">\n'
         '        <div class="art-cta-text">\n'
-        f'          <h3>{L[lang]["cta_h"]}</h3>\n'
-        f'          <p>{L[lang]["cta_p"]}</p>\n'
+        f'          <h3>{o["cta_h"]}</h3>\n'
+        f'          <p>{o["cta_p"]}</p>\n'
         '        </div>\n'
         '        <div class="art-cta-btns">\n'
-        f'          <a href="{PLAY}" class="btn btn-primary btn-sm" target="_blank" rel="noopener">{L[lang]["cta_b1"]}</a>\n'
-        f'          <a href="{APPSTORE}" class="btn btn-ghost btn-sm" target="_blank" rel="noopener">{L[lang]["cta_b2"]}</a>\n'
+        f'          <a href="{PLAY}" class="btn btn-primary btn-sm" target="_blank" rel="noopener">{o["cta_b1"]}</a>\n'
+        f'          <a href="{APPSTORE}" class="btn btn-ghost btn-sm" target="_blank" rel="noopener">{o["cta_b2"]}</a>\n'
         '        </div>\n'
         '      </aside>\n'
     )
-    # FAQ
-    faqs = []
-    for f in c["faqs"]:
-        faqs.append(
-            '        <details class="art-faq-item">\n'
-            f'          <summary>{e(f["q"])}</summary>\n'
-            f'          <p>{e(f["a"])}</p>\n'
-            '        </details>\n'
-        )
-    out.append(f'      <section class="art-faq reveal">\n        <h2>{L[lang]["faq_h"]}</h2>\n{"".join(faqs)}      </section>\n')
-    # Sources (research pieces)
+
+    faqs = "".join(
+        '        <details class="art-faq-item">\n'
+        f'          <summary>{e(f["q"])}</summary>\n'
+        f'          <p>{e(f["a"])}</p>\n'
+        '        </details>\n'
+        for f in c["faqs"]
+    )
+    out.append(f'      <section class="art-faq reveal">\n        <h2>{o["faq_h"]}</h2>\n{faqs}      </section>\n')
+
     src = a.get("sources") or []
     if src:
-        items = "".join(
-            f'          <li><a href="{s["url"]}" target="_blank" rel="noopener">{e(s["label"])}</a></li>\n'
-            for s in src
-        )
-        out.append(f'      <section class="reveal">\n        <h2>{L[lang]["sources_h"]}</h2>\n        <ul class="art-list">\n{items}        </ul>\n      </section>\n')
-    # disclaimer
-    out.append(f'      <p class="art-disclaimer">{L[lang]["disclaimer"]}</p>\n')
+        # A thesis or a print journal often has no stable URL we can trust. The
+        # citation is still worth showing, so it renders as plain text rather
+        # than being dropped or given a guessed link.
+        def _cite(s):
+            label = e(s["label"])
+            if not s.get("url"):
+                return f'          <li>{label}</li>\n'
+            return (f'          <li><a href="{e(s["url"], True)}" target="_blank" '
+                    f'rel="noopener nofollow">{label}</a></li>\n')
+
+        items = "".join(_cite(s) for s in src)
+        out.append(f'      <section class="reveal">\n        <h2>{o["sources_h"]}</h2>\n'
+                   f'        <ul class="art-list">\n{items}        </ul>\n      </section>\n')
+
+    out.append(f'      <p class="art-disclaimer">{o["disclaimer"]}</p>\n')
+    out.append(author_box(lang))
     return "".join(out)
 
 
+# --------------------------------------------------------------------------
+# structured data
+# --------------------------------------------------------------------------
 def ldjson(lang, a):
     c = a["content"][lang]
-    url = f'https://www.sihtak.com{L[lang]["base"]}{a["slug"]}/'
-    art = {
-        "@context": "https://schema.org", "@type": "Article",
-        "headline": c["h1"], "description": c["desc"], "inLanguage": lang,
-        "datePublished": a["date_iso"], "dateModified": a["date_iso"],
-        "mainEntityOfPage": url, "image": OG_IMAGE,
-        "author": {"@type": "Person", "name": AUTHOR},
-        "publisher": {"@type": "Organization", "name": "Sihtak", "url": "https://www.sihtak.com",
-                      "logo": {"@type": "ImageObject", "url": "https://www.sihtak.com/icon.png"}},
+    url = f'{SITE}{L[lang]["base"]}{a["slug"]}/'
+    cid = a.get("category")
+    img = OG_IMAGE
+    if a.get("lead_image", {}).get("src"):
+        img = SITE + a["lead_image"]["src"]
+
+    page = {
+        "@type": "MedicalWebPage",
+        "@id": url + "#page",
+        "url": url,
+        "name": c["h1"],
+        "headline": c["h1"],
+        "description": c["desc"],
+        "inLanguage": lang,
+        "datePublished": a["date_iso"],
+        "dateModified": a.get("updated_iso") or a["date_iso"],
+        "lastReviewed": a.get("updated_iso") or a["date_iso"],
+        "image": {"@type": "ImageObject", "url": img, "width": 1200, "height": 630},
+        "author": {"@id": f"{SITE}/#adnan"},
+        "publisher": {"@id": f"{SITE}/#org"},
+        "isPartOf": {"@id": f"{SITE}/#website"},
+        "audience": {"@type": "Patient"},
+        "isAccessibleForFree": True,
     }
-    faq = {"@context": "https://schema.org", "@type": "FAQPage",
-           "mainEntity": [{"@type": "Question", "name": f["q"],
-                           "acceptedAnswer": {"@type": "Answer", "text": f["a"]}} for f in c["faqs"]]}
-    crumb = {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [
-        {"@type": "ListItem", "position": 1, "name": L[lang]["crumb_home"], "item": "https://www.sihtak.com/"},
+    if cid:
+        page["about"] = {"@type": "Thing", "name": cat_name(lang, cid)}
+    if a.get("sources"):
+        page["citation"] = [
+            {k: v for k, v in
+             (("@type", "CreativeWork"), ("name", s["label"]), ("url", s.get("url")))
+             if v}
+            for s in a["sources"]
+        ]
+
+    faq = {
+        "@type": "FAQPage",
+        "@id": url + "#faq",
+        "mainEntity": [
+            {"@type": "Question", "name": f["q"],
+             "acceptedAnswer": {"@type": "Answer", "text": f["a"]}}
+            for f in c["faqs"]
+        ],
+    }
+
+    crumbs = [
+        {"@type": "ListItem", "position": 1, "name": L[lang]["crumb_home"], "item": f"{SITE}/"},
         {"@type": "ListItem", "position": 2, "name": L[lang]["crumb_articles"], "item": L[lang]["hub"]},
-        {"@type": "ListItem", "position": 3, "name": c["h1"], "item": url},
-    ]}
-    j = lambda d: json.dumps(d, ensure_ascii=False, separators=(", ", ": "))
-    return (f'  <script type="application/ld+json">{j(art)}</script>\n'
-            f'  <script type="application/ld+json">{j(faq)}</script>\n'
-            f'  <script type="application/ld+json">{j(crumb)}</script>\n')
+    ]
+    if cid:
+        crumbs.append({"@type": "ListItem", "position": 3, "name": cat_name(lang, cid),
+                       "item": SITE + cat_url(lang, cid)})
+    crumbs.append({"@type": "ListItem", "position": len(crumbs) + 1, "name": c["h1"], "item": url})
+
+    graph = {
+        "@context": "https://schema.org",
+        "@graph": [
+            ORG_LD,
+            PERSON_LD,
+            {"@type": "WebSite", "@id": f"{SITE}/#website", "url": SITE,
+             "name": "Sihtak", "publisher": {"@id": f"{SITE}/#org"}},
+            page, faq,
+            {"@type": "BreadcrumbList", "@id": url + "#crumbs", "itemListElement": crumbs},
+        ],
+    }
+    return f'  <script type="application/ld+json">{jd(graph)}</script>\n'
+
+
+# --------------------------------------------------------------------------
+def related(lang, a, articles):
+    """Same category first: topical clusters beat a global rotation both for
+    the reader and for how Google reads the internal link graph."""
+    cid = a.get("category")
+    same = [x for x in articles if x["slug"] != a["slug"] and x.get("category") == cid]
+    other = [x for x in articles if x["slug"] != a["slug"] and x.get("category") != cid]
+    picked = (same + other)[:4]
+    heading = L[lang]["related_h"]
+    if cid and len(same) >= 3:
+        heading = f'{L[lang]["more_in_h"]} {cat_name(lang, cid)}'
+    return (
+        '    <section class="art-related">\n'
+        f'      <h2 class="reveal">{heading}</h2>\n'
+        '      <div class="art-grid">\n'
+        + "".join(card(lang, x) for x in picked) +
+        '      </div>\n'
+        '    </section>\n'
+        '  </main>\n'
+    )
 
 
 def page(lang, a, articles):
     c = a["content"][lang]
     o = L[lang]
     slug = a["slug"]
-    url = f'https://www.sihtak.com{o["base"]}{slug}/'
-    ar_url = f'https://www.sihtak.com/articles/{slug}/'
-    en_url = f'https://www.sihtak.com/en/articles/{slug}/'
-    other_href = (f'/en/articles/{slug}/' if lang == "ar" else f'/articles/{slug}/')
-    other_label = ("EN" if lang == "ar" else "عربي")
-    chip = a["chip_ar"] if lang == "ar" else a["chip_en"]
-    if lang == "ar":
-        byline = f'{o["byline"]} <bdi><strong>{AUTHOR}</strong></bdi> · {a["date_ar"]} · {a["read_min"]} {o["read_suffix"]}'
-    else:
-        byline = f'{o["byline"]} <bdi><strong>{AUTHOR}</strong></bdi> · {a["date_en"]} · {a["read_min"]} {o["read_suffix"]}'
+    url = f'{SITE}{o["base"]}{slug}/'
+    ar_url = f'{SITE}/articles/{slug}/'
+    en_url = f'{SITE}/en/articles/{slug}/'
+    other_href = f'/en/articles/{slug}/' if lang == "ar" else f'/articles/{slug}/'
+    cid = a.get("category")
+    chip = cat_name(lang, cid) or a.get(f"chip_{lang}", "")
+    date_txt = a["date_ar"] if lang == "ar" else a["date_en"]
+    byline = (f'{o["byline"]} <bdi><strong>{AUTHOR}</strong></bdi> · {date_txt} · '
+              f'{a["read_min"]} {o["read_suffix"]}')
+    og_img = SITE + a["lead_image"]["src"] if a.get("lead_image", {}).get("src") else None
 
-    head = []
-    head.append("<!DOCTYPE html>\n" + o["htmltag"] + "\n<head>\n")
-    head.append('  <script async src="https://www.googletagmanager.com/gtag/js?id=G-JGTTBKMM4G"></script>\n')
-    head.append('  <script>\n    window.dataLayer = window.dataLayer || [];\n    function gtag(){dataLayer.push(arguments);}\n    gtag(\'js\', new Date());\n    gtag(\'config\', \'G-JGTTBKMM4G\');\n  </script>\n')
-    head.append('  <script src="/analytics.js" defer></script>\n')
-    head.append('  <meta charset="UTF-8">\n  <meta name="viewport" content="width=device-width, initial-scale=1.0">\n')
-    head.append(f'  <title>{e(c["title"])} | {o["site"]}</title>\n')
-    head.append(f'  <meta name="description" content="{e(c["desc"], quote=True)}">\n')
-    head.append(f'  <meta name="keywords" content="{e(c["keywords"], quote=True)}">\n')
-    head.append(f'  <meta name="author" content="{AUTHOR}">\n')
-    head.append('  <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">\n')
-    head.append(f'  <link rel="canonical" href="{url}">\n')
-    head.append(f'  <link rel="alternate" hreflang="ar" href="{ar_url}">\n')
-    head.append(f'  <link rel="alternate" hreflang="en" href="{en_url}">\n')
-    head.append(f'  <link rel="alternate" hreflang="x-default" href="{ar_url}">\n')
-    head.append(f'  <meta property="og:title" content="{e(c["title"], quote=True)} | {o["site"]}">\n')
-    head.append(f'  <meta property="og:description" content="{e(c["desc"], quote=True)}">\n')
-    head.append('  <meta property="og:type" content="article">\n')
-    head.append(f'  <meta property="og:url" content="{url}">\n')
-    head.append(f'  <meta property="og:image" content="{OG_IMAGE}">\n')
-    head.append('  <meta property="og:site_name" content="Sihtak">\n')
-    head.append(f'  <meta property="og:locale" content="{o["oglocale"]}">\n')
-    head.append(f'  <meta property="og:locale:alternate" content="{o["oglocale_alt"]}">\n')
-    head.append('  <meta name="twitter:card" content="summary_large_image">\n  <meta name="twitter:site" content="@sihtak_app">\n')
-    head.append(f'  <meta name="twitter:image" content="{OG_IMAGE}">\n')
-    head.append('  <link rel="manifest" href="/manifest.json">\n  <meta name="theme-color" content="#ffffff" id="meta-theme-color">\n')
-    head.append('  <link rel="icon" type="image/png" href="/icon.png">\n  <link rel="apple-touch-icon" href="/icon.png">\n')
-    head.append('  <link rel="stylesheet" href="/style.css">\n  <link rel="stylesheet" href="/articles/article.css">\n')
-    head.append(ldjson(lang, a))
-    head.append('  <link rel="preconnect" href="https://fonts.googleapis.com">\n  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>\n')
-    head.append('  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Tajawal:wght@400;500;700;800&display=swap" rel="stylesheet">\n')
-    head.append("  <script>(function(){var t=localStorage.getItem('sihtak-theme');if(t!=='dark'){document.documentElement.setAttribute('data-theme','light');}})();</script>\n")
-    head.append("</head>\n<body>\n")
-
-    nav = (
-        '  <nav class="nav" role="navigation" aria-label="Main navigation">\n'
-        '    <div class="nav-inner">\n'
-        '      <a href="/" class="nav-brand" aria-label="Sihtak Home">\n'
-        '        <img src="/icon.png" alt="" class="nav-logo" width="36" height="36">\n'
-        f'        <span class="nav-name">{o["site"]}</span>\n'
-        '      </a>\n'
-        '      <div class="nav-actions">\n'
-        f'        <a href="{o["nav_articles"]}" class="art-nav-link">{o["nav_articles_label"]}</a>\n'
-        f'        <a href="{"/tools/" if lang == "ar" else "/en/tools/"}" class="art-nav-link">{"الأدوات" if lang == "ar" else "Tools"}</a>\n'
-        f'        {THEME_ICONS}\n'
-        f'        <a class="lang-btn" href="{other_href}" aria-label="Switch language">{other_label}</a>\n'
-        f'        <a href="{PLAY}" class="btn btn-primary btn-sm" target="_blank" rel="noopener"><span>{o["download"]}</span></a>\n'
-        '      </div>\n'
-        '    </div>\n'
-        '  </nav>\n'
-    )
+    chip_html = (f'<a class="art-chip" href="{cat_url(lang, cid)}">{e(chip)}</a>'
+                 if cid else f'<span class="art-chip">{e(chip)}</span>')
 
     hero = (
         '  <main class="art-page">\n'
+        + breadcrumbs(lang, a) +
         '    <header class="art-hero">\n'
         '      <img src="/images/dna-helix.svg" alt="" class="hero-deco" aria-hidden="true" width="200" height="600">\n'
         '      <div class="art-hero-inner reveal">\n'
-        f'        <div class="art-hero-icon"><svg width="30" height="30" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">{a["icon"]}</svg></div>\n'
-        f'        <span class="art-chip">{e(chip)}</span>\n'
+        f'        <div class="art-hero-icon"><svg width="30" height="30" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">{a.get("icon", "")}</svg></div>\n'
+        f'        {chip_html}\n'
         f'        <h1>{e(c["h1"])}</h1>\n'
         f'        <p class="art-meta">{byline}</p>\n'
         '      </div>\n'
         '    </header>\n'
+        + lead_image(a) +
         '    <article class="art-body">\n'
     )
 
-    related = (
-        '    <section class="art-related">\n'
-        f'      <h2 class="reveal">{o["related_h"]}</h2>\n'
-        '      <div class="art-grid">\n'
-        f'{related_cards(lang, a, articles)}'
-        '      </div>\n'
-        '    </section>\n'
-        '  </main>\n'
+    return (
+        head(lang, title=c["title"], desc=c["desc"], url=url, ar_url=ar_url, en_url=en_url,
+             keywords=c.get("keywords", ""), og_type="article", og_image=og_img,
+             extra_ld=ldjson(lang, a))
+        + nav(lang, other_href)
+        + hero
+        + body_html(lang, a)
+        + "    </article>\n"
+        + related(lang, a, articles)
+        + footer(lang)
+        + SCRIPT_BLOCK
     )
-
-    return ("".join(head) + nav + hero + body_html(lang, a) +
-            "    </article>\n" + related + FOOTER[lang] + SCRIPT_BLOCK)
-
-
-def write_pages(articles):
-    for a in articles:
-        for lang in ("ar", "en"):
-            d = os.path.join(BASE, ("articles" if lang == "ar" else os.path.join("en", "articles")), a["slug"])
-            os.makedirs(d, exist_ok=True)
-            with open(os.path.join(d, "index.html"), "w", encoding="utf-8") as fh:
-                fh.write(page(lang, a, articles))
-            print(f"  page  {lang}  {a['slug']}")
-
-
-def insert_hub(lang, articles):
-    path = os.path.join(BASE, ("articles" if lang == "ar" else os.path.join("en", "articles")), "index.html")
-    with open(path, encoding="utf-8") as fh:
-        htmltext = fh.read()
-    new = [a for a in articles if f'{L[lang]["base"]}{a["slug"]}/"' not in htmltext]
-    if not new:
-        print(f"  hub   {lang}  (nothing new)")
-        return
-    cards = "".join(card_html(lang, a) for a in new)
-    marker = '<div class="art-grid">\n'
-    idx = htmltext.index(marker) + len(marker)
-    htmltext = htmltext[:idx] + cards + htmltext[idx:]
-    with open(path, "w", encoding="utf-8") as fh:
-        fh.write(htmltext)
-    print(f"  hub   {lang}  +{len(new)} cards")
-
-
-def insert_sitemap(articles):
-    path = os.path.join(BASE, "sitemap.xml")
-    with open(path, encoding="utf-8") as fh:
-        xml = fh.read()
-    blocks = []
-    for a in articles:
-        for base in ("/articles/", "/en/articles/"):
-            loc = f"https://www.sihtak.com{base}{a['slug']}/"
-            if loc in xml:
-                continue
-            blocks.append(
-                "  <url>\n"
-                f"    <loc>{loc}</loc>\n"
-                f'    <xhtml:link rel="alternate" hreflang="ar" href="https://www.sihtak.com/articles/{a["slug"]}/"/>\n'
-                f'    <xhtml:link rel="alternate" hreflang="en" href="https://www.sihtak.com/en/articles/{a["slug"]}/"/>\n'
-                f'    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.sihtak.com/articles/{a["slug"]}/"/>\n'
-                f"    <lastmod>{a['date_iso']}</lastmod>\n"
-                "    <changefreq>monthly</changefreq>\n"
-                "    <priority>0.8</priority>\n"
-                "  </url>\n"
-            )
-    if not blocks:
-        print("  sitemap (nothing new)")
-        return
-    xml = xml.replace("</urlset>", "".join(blocks) + "</urlset>")
-    with open(path, "w", encoding="utf-8") as fh:
-        fh.write(xml)
-    print(f"  sitemap +{len(blocks)} urls")
-
-
-def insert_feed(articles):
-    path = os.path.join(BASE, "articles", "feed.xml")
-    with open(path, encoding="utf-8") as fh:
-        xml = fh.read()
-    items = []
-    for a in articles:
-        link = f"https://www.sihtak.com/articles/{a['slug']}/"
-        if link in xml:
-            continue
-        c = a["content"]["ar"]
-        d = datetime.date.fromisoformat(a["date_iso"])
-        pub = d.strftime("%a, %d %b %Y") + " 08:00:00 GMT"
-        items.append(
-            "    <item>\n"
-            f"      <title>{e(c['title'])}</title>\n"
-            f"      <link>{link}</link>\n"
-            f"      <guid>{link}</guid>\n"
-            f"      <pubDate>{pub}</pubDate>\n"
-            f"      <description>{e(c['desc'])}</description>\n"
-            "    </item>\n"
-        )
-    if not items:
-        print("  feed    (nothing new)")
-        return
-    anchor = "    <language>ar</language>\n"
-    idx = xml.index(anchor) + len(anchor)
-    xml = xml[:idx] + "".join(items) + xml[idx:]
-    with open(path, "w", encoding="utf-8") as fh:
-        fh.write(xml)
-    print(f"  feed    +{len(items)} items")
 
 
 def main():
     with open(DATA, encoding="utf-8") as fh:
-        articles = json.load(fh)
-    print(f"Loaded {len(articles)} article(s) from articles.json")
-    write_pages(articles)
-    insert_hub("ar", articles)
-    insert_hub("en", articles)
-    insert_sitemap(articles)
-    insert_feed(articles)
-    print("Done.")
+        raw = json.load(fh)
+    for a in raw:
+        normalise(a)
+    with open(DATA, "w", encoding="utf-8") as fh:
+        json.dump(raw, fh, ensure_ascii=False, indent=1)
+
+    everything = load_articles()
+    print(f"Building {len(raw)} article(s); {len(everything)} total in the index")
+    for a in raw:
+        for lang in ("ar", "en"):
+            d = os.path.join(BASE, "articles" if lang == "ar" else os.path.join("en", "articles"),
+                             a["slug"])
+            os.makedirs(d, exist_ok=True)
+            with open(os.path.join(d, "index.html"), "w", encoding="utf-8") as fh:
+                fh.write(page(lang, a, everything))
+    print("  pages written for both languages")
+    print("Now run: python build_site.py")
 
 
 if __name__ == "__main__":

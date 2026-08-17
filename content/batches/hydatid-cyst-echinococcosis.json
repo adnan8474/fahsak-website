@@ -1,0 +1,366 @@
+{
+  "slug": "hydatid-cyst-echinococcosis",
+  "category": "infectious-diseases",
+  "chip_ar": "أمراض معدية",
+  "chip_en": "Infectious Diseases",
+  "date_iso": "2026-07-08",
+  "sources": [
+    {
+      "label": "Brunetti E, Kern P, Vuitton DA et al: Expert consensus for the diagnosis and treatment of cystic and alveolar echinococcosis in humans, Acta tropica, 2010",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19931502/"
+    },
+    {
+      "label": "Pavlidis ET, Galanis IN, Pavlidis TE et al: Current considerations for the management of liver echinococcosis, World journal of gastroenterology, 2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40093668/"
+    },
+    {
+      "label": "Mihmanli M, Idiz UO, Kaya C et al: Current status of diagnosis and treatment of hepatic echinococcosis, World journal of hepatology, 2016",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27729953/"
+    },
+    {
+      "label": "Velasco-Tirado V, Alonso-Sardon M, Lopez-Bernus A et al: Medical treatment of cystic echinococcosis: systematic review and meta-analysis, BMC infectious diseases, 2018",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29976137/"
+    },
+    {
+      "label": "Smego RA Jr, Bhatti S, Khaliq AA et al: Percutaneous aspiration-injection-reaspiration drainage plus albendazole or mebendazole for hepatic cystic echinococcosis: a meta-analysis, Clinical infectious diseases, 2003",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/14523772/"
+    },
+    {
+      "label": "Ito A, Nakao M, Lavikainen A et al: Cystic echinococcosis: Future perspectives of molecular epidemiology, Acta tropica, 2017",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27237060/"
+    },
+    {
+      "label": "World Health Organization: Echinococcosis fact sheet",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/echinococcosis"
+    }
+  ],
+  "content": {
+    "ar": {
+      "title": "الكيس المائي: مرض الديدان الشريطية من الكلاب والأغنام",
+      "desc": "الكيس المائي (Hydatid cyst) مرض طفيلي شائع في سوريا والعراق والأردن وشمال أفريقيا. تعرف على أسبابه وأعراضه وكيفية تشخيصه وعلاجه الآمن.",
+      "keywords": "الكيس المائي, داء المشوكات, echinococcosis, طفيلي الكلاب, كيس الكبد, طفيلي الأغنام, الديدان الشريطية, علاج الكيس المائي",
+      "h1": "الكيس المائي: الطفيلي الخفي الذي ينمو ببطء في الكبد والرئة",
+      "takeaways": [
+        "الكيس المائي ناتج عن طفيلي يُدعى المشوكة الحبيبية (Echinococcus granulosus) وينتشر عبر براز الكلاب المصابة.",
+        "يُصاب الكبد في ثلاثة أرباع الحالات تقريبا، وقد ينمو الكيس سنوات دون أي أعراض.",
+        "لا يجوز ثقب الكيس دون تحضير طبي دقيق، لأن تسرب سائله يُسبب ردود فعل خطيرة.",
+        "التشخيص يعتمد على الصور الإشعاعية وتحاليل الدم، والعلاج غالبا جراحي أو بزل موجه.",
+        "الوقاية تبدأ بغسل اليدين وطهي الطعام جيدا وعدم السماح للكلاب بأكل أحشاء الأغنام."
+      ],
+      "sections": [
+        {
+          "h2": "ما هو الكيس المائي وكيف يصل إلى جسمك؟",
+          "paras": [
+            "الكيس المائي (Hydatid cyst) مرض طفيلي تسببه دودة شريطية صغيرة تُسمى المشوكة الحبيبية (Echinococcus granulosus). هذه الديدان تعيش في أمعاء الكلاب المصابة وتُرسخ جذورها في بطانتها، وتخرج بيوضها الدقيقة جدا مع براز الكلب لتلوث التربة والماء والنباتات من حوله. البيوض صغيرة جدا لدرجة أنها غير مرئية بالعين المجردة.",
+            "يُصاب الإنسان حين يبتلع هذه البيوض، سواء بلمس كلب مصاب ثم وضع اليد في الفم قبل غسلها، أو بتناول خضروات أو فواكه ملوثة بتربة تحتوي على البيوض، أو شرب ماء غير معالج من ينابيع أو آبار في مناطق ريفية. لا تنتقل العدوى من إنسان لآخر مطلقا. الأغنام والماشية هي المضيفات الوسيطة الرئيسية في هذه الدورة، إذ تبتلع البيوض أثناء الرعي وتتطور اليرقات في أحشائها، ثم تأكل الكلاب هذه الأحشاء الخام فتُكمل الدورة.",
+            "بعد الابتلاع تفقس البيضة في الأمعاء وتنفذ اليرقة الصغيرة عبر جدار الأمعاء إلى مجرى الدم. من هناك تنتقل إلى الكبد في أغلب الأحيان لأنه أول عضو يتلقى الدم القادم من الأمعاء، أو تتخطاه وتستقر في الرئة أو نادرا في العظام والدماغ والقلب. تبدأ اليرقة بتكوين جدار خارجي صلب حول نفسها وكيس مملوء بسائل يحتوي على آلاف اليرقات الجديدة. هذا الكيس يكبر ببطء شديد، بمعدل سنتيمتر أو أقل في السنة، وقد يمر عقد كامل قبل أن تبدأ الأعراض."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "كيف تنتقل العدوى: دورة حياة الطفيلي",
+            "items": [
+              "الكلب المصاب يطرح بيوض الطفيلي مع برازه في البيئة",
+              "التربة والماء والنباتات تتلوث بهذه البيوض",
+              "الإنسان يبتلع البيوض عبر اليدين الملوثتين أو الطعام الملوث",
+              "اليرقة تخترق جدار الأمعاء وتصل إلى الكبد عبر الدم",
+              "يتشكل الكيس ببطء على مدى أشهر وسنوات"
+            ]
+          }
+        },
+        {
+          "h2": "من الأكثر عرضة للإصابة؟",
+          "paras": [
+            "يُعد داء المشوكات شائعا في المناطق التي يختلط فيها الإنسان بالأغنام والكلاب، وهذا النمط واسع الانتشار في سوريا والعراق والأردن والمغرب وتونس وليبيا والسودان. المجتمعات الريفية التي تربي الأغنام والماشية، وتعتمد على الكلاب في رعيها وحراسة منازلها، هي الأعلى خطرا. في سوريا والعراق تحديدا اختل الرقابة البيطرية في مناطق النزاع مما جعل الكلاب الضالة أكثر انتشارا وأقل خضوعا لبرامج التطفيل الدورية.",
+            "الأطفال أكثر عرضة للإصابة لأنهم يمسون الكلاب ويلعبون في التراب دون أن يغسلوا أيديهم بانتظام. العمال الزراعيون وأصحاب المذابح والمناطق التي تعتمد على مياه الري المفتوحة هم أيضا في خطر أعلى. شرب الماء من آبار غير محكمة الغطاء في القرى التي تمر بها قطعان الأغنام يُشكل مسارا إضافيا للعدوى.",
+            "ينتشر المرض في المناطق الريفية أكثر بكثير من المدن، لكن المهاجرين من المناطق الريفية قد يأتون معهم بعدوى صامتة اكتسبوها في طفولتهم ولا تُكتشف إلا عند إجراء فحوصات لأسباب أخرى. كثيرون يكتشفون الكيس مصادفة أثناء فحص صدى لسبب آخر تماما، مما يعني أن الأرقام الفعلية للإصابة أعلى مما تُوثقه السجلات الطبية الرسمية."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "warn",
+            "title": "الفئات الأكثر عرضة للإصابة",
+            "items": [
+              "سكان المناطق الريفية الذين يربون الأغنام ويتعاملون مع الكلاب",
+              "الأطفال الذين يلعبون مع الكلاب دون غسل اليدين",
+              "العمال في المذابح أو مزارع الماشية",
+              "من يشربون مياها من ينابيع غير معالجة في المناطق الريفية"
+            ]
+          }
+        },
+        {
+          "h2": "ما هي أعراض الكيس المائي؟",
+          "paras": [
+            "المشكلة الكبرى في هذا المرض أنه قد يظل صامتا لسنوات طويلة جدا. كيس الكبد لا يسبب عادة أعراضا حتى يصل إلى حجم كبير يضغط على الأنسجة المحيطة أو على القنوات الصفراوية. قد تمر عشر سنوات أو أكثر بين العدوى الأولى وظهور أول عرض، وبعض الكيسات تُكتشف عرضا أثناء صدى روتيني للبطن أُجري لسبب مختلف تماما.",
+            "حين تبدأ الأعراض، يشكو كثير من المرضى من ثقل أو ألم خفيف في الجانب الأيمن من البطن أسفل القفص الصدري، وقد يلاحظون انتفاخا ملموسا في هذه المنطقة. إذا أثر الكيس على القنوات الصفراوية قد يظهر اصفرار في الجلد والعينين (يرقان)، أو حكة مزمنة في الجلد، أو تغير في لون البول نحو الاصفرار الداكن. الكيس الكبير قد يضغط أيضا على المعدة ويُسبب شعورا بالامتلاء المبكر أثناء الأكل أو غثيانا متكررا.",
+            "كيسات الرئة تُسبب سعالا مزمنا لا يستجيب للمضادات الحيوية العادية، وضيقا في التنفس، وأحيانا بصاق دم إذا انفجر الكيس داخل القصبات الهوائية. الخطر الأكبر هو انفجار الكيس التلقائي سواء في البطن أو الصدر، وهو ما يُسبب ألما حادا مفاجئا وقد يؤدي إلى تفاعل تحسسي شديد يهدد الحياة يُسمى الصدمة التأقية (Anaphylaxis). أشار إجماع خبراء منظمة الصحة العالمية الصادر في مجلة Acta Tropica عام 2010 إلى أن انفجار الكيس وانتشار الكيسات البنت هما أخطر مضاعفات المرض وأصعبها علاجا."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "موقع الكيس وأعراضه الشائعة",
+            "head": ["موقع الكيس", "الأعراض الشائعة", "العلامة التحذيرية الرئيسية"],
+            "rows": [
+              ["الكبد (75% من الحالات)", "ثقل في البطن العلوي الأيمن، انتفاخ", "اصفرار الجلد أو ألم حاد مفاجئ"],
+              ["الرئة (15-20%)", "سعال مزمن، ضيق التنفس", "بصاق مائل للأبيض أو دم"],
+              ["مواضع أخرى نادرة", "أعراض حسب الموقع (عظام، دماغ)", "كسر تلقائي أو صداع شديد"]
+            ]
+          }
+        },
+        {
+          "h2": "كيف يُشخَّص الكيس المائي؟",
+          "paras": [
+            "الخطوة الأولى في التشخيص عادة هي الصدى الصوتي (Ultrasound) للبطن، وهو متاح على نطاق واسع في معظم المستشفيات والعيادات الإقليمية. الكيس المائي له شكل مميز في الصدى يختلف عن كيسات الكبد البسيطة الأخرى، وقد وضعت منظمة الصحة العالمية تصنيفا موحدا له من CE1 إلى CE5 يصف مراحل نشاطه البيولوجي وهو حجر أساس في تحديد طريقة العلاج. CE1 وCE2 كيسات نشطة تحتوي على يرقات حية، بينما CE4 وCE5 تدل على كيس خامل أو ميت.",
+            "التصوير بالرنين المغناطيسي (MRI) والتصوير المقطعي (CT) يُستخدمان لتحديد حجم الكيس وعلاقته بالأوعية الدموية والقنوات الصفراوية بدقة أعلى، وهما ضروريان في التخطيط للعمليات الجراحية وتحديد ما إذا كانت الكيسات متعددة. الكشف عن كيس واحد يستوجب فحص الجسم كله للتأكد من عدم وجود كيسات أخرى خُفية.",
+            "تحاليل الدم تشمل فحص الأجسام المضادة (Serology) للمشوكة عبر اختبار ELISA أو الهيم اغلوتينيشن، لكنها قد تكون سلبية في ما يصل إلى ربع الحالات خاصة في كيسات الرئة أو المتكلسة، وليست كافية وحدها للتشخيص. فحص تعداد الدم الكامل (CBC) قد يُظهر ارتفاعا في خلايا الحمضات (Eosinophils)، وهو مؤشر غير مباشر على وجود طفيلي في الجسم رغم أنه غير نوعي. التشخيص الأكيد يعتمد على مجموع الصورة الإكلينيكية والإشعاعية والمصلية معا لا على أي فحص بمفرده."
+          ]
+        },
+        {
+          "h2": "لماذا لا يجوز ثقب الكيس دون تحضير دقيق؟",
+          "paras": [
+            "هذه النقطة حاسمة ويجب أن يعرفها كل مريض: سائل الكيس المائي يحتوي على آلاف اليرقات الحية ومواد شديدة التحسيس. إذا انسكب هذا السائل داخل جوف البطن أو الصدر، سواء بسبب رضة خارجية أو ثقب غير مدروس، فإن النتيجة قد تكون تلويثا واسعا ينتشر فيه الطفيلي في أنحاء البطن كلها، أو ردة فعل تحسسية حادة (Anaphylaxis) تهدد الحياة.",
+            "لذلك لا يجوز للطبيب المعالج ثقب الكيس أو تصريفه إلا بعد إعطاء المريض دواء الألبيندازول (Albendazole) لأسبوعين على الأقل قبل الإجراء، وبعد الاستعداد لأي تفاعل تحسسي محتمل. حتى الإجراء المعروف بـ PAIR (بزل واستنشاق وحقن وإعادة استنشاق) الذي يُجرى بإبرة موجهة بالموجات الصوتية يتطلب هذه الاحتياطات.",
+            "إذا تعرضت لضربة قوية في البطن وكنت تعرف أن لديك كيسا مائيا، أو إذا شعرت بألم مفاجئ حاد مع ضيق في التنفس أو طفح جلدي، فاطلب العناية الطارئة فورا دون تأخير."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "اطلب الطوارئ فورا إذا",
+            "items": [
+              "شعرت بألم حاد مفاجئ في البطن أو الصدر مع معرفتك بوجود الكيس",
+              "ظهر طفح جلدي أو تورم في الوجه أو ضيق في التنفس بعد أي إجراء على الكيس",
+              "سعلت كميات كبيرة من سائل أبيض أو مالح الطعم",
+              "اصفر جسمك بشكل مفاجئ مصحوبا بألم في البطن العلوي الأيمن"
+            ]
+          }
+        },
+        {
+          "h2": "ما هي خيارات العلاج؟",
+          "paras": [
+            "قرار العلاج يعتمد بشكل كبير على حجم الكيس ومرحلته ومكانه وصحة المريض العامة. وفقا لإجماع خبراء منظمة الصحة العالمية الصادر عام 2010، هناك ثلاثة مسارات رئيسية للعلاج.",
+            "الجراحة كانت العلاج التقليدي لعقود طويلة وما زالت الخيار الأمثل في الكيسات الكبيرة أو المعقدة أو التي ضغطت على أوعية دموية رئيسية. يفتح الجراح البطن ويُزيل الكيس مع حرص شديد على عدم تسرب محتواه، غالبا مع حقن محلول مبيد للطفيلي داخل الكيس أولا.",
+            "إجراء PAIR (Puncture-Aspiration-Injection-Re-aspiration) هو بديل أقل توغلا يُجرى بإبرة دقيقة موجهة بالموجات الصوتية. تُشفط محتويات الكيس وتُعوض بمحلول مبيد للطفيليات ثم تُشفط ثانية. يُفضل للكيسات غير المعقدة في مراكز متخصصة. أشارت دراسة مراجعة منهجية نُشرت عام 2003 إلى أن الجمع بين PAIR والألبيندازول يُعطي نتائج جيدة في الكيسات المناسبة. الألبيندازول وحده يُستخدم عند الكيسات الصغيرة جدا أو حين يتعذر أي إجراء جراحي، لكنه نادرا ما يُزيل الكيس كليا."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "خيارات علاج الكيس المائي",
+            "head": ["طريقة العلاج", "متى تُستخدم", "ملاحظة مهمة"],
+            "rows": [
+              ["الجراحة المفتوحة", "الكيسات الكبيرة أو المعقدة", "يُعطى الألبيندازول قبلها وبعدها"],
+              ["PAIR (بزل موجه)", "الكيسات غير المعقدة المناسبة", "يتطلب مركزا متخصصا"],
+              ["الألبيندازول وحده", "الكيسات الصغيرة أو عند تعذر الجراحة", "المتابعة إلزامية لسنوات"]
+            ]
+          }
+        },
+        {
+          "h2": "الوقاية: كيف تحمي أسرتك؟",
+          "paras": [
+            "الوقاية من الكيس المائي تبدأ بقطع دورة حياة الطفيلي عند الحلقة الضعيفة. أهم إجراء هو منع الكلاب من الوصول إلى أحشاء الأغنام والماشية عند الذبح. في المجتمعات الريفية التي تعتمد على الذبح المنزلي في المناسبات والأعياد، يجب دفن الأعضاء الداخلية في حفرة عميقة أو حرقها وليس إلقاؤها في العراء حيث تصل إليها الكلاب، لأن هذه هي اللحظة التي تُكمل فيها الدورة ويُصبح الكلب ناقلا للمرض.",
+            "غسل اليدين جيدا بالصابون والماء بعد ملامسة الكلاب أو التربة أو قبل تناول الطعام هو الحاجز الشخصي الأول أمام انتقال البيوض إلى الفم. الخضروات والفواكه التي تُؤكل نيئة يجب نقعها وغسلها بعناية بماء نظيف. مياه الشرب في المناطق الريفية التي ترعى فيها الأغنام يجب غليها أو تعقيمها بالكلور قبل الشرب.",
+            "في المناطق الموبوءة، تُجري بعض الدول برامج دورية لإعطاء الكلاب عقار البراسيكوانتيل (Praziquantel) كل ستة أسابيع للقضاء على الطفيلي في أمعائها قبل أن تُكمل دورتها. هذا التدخل على مستوى المجتمع هو من أنجع الاستراتيجيات المعروفة في خفض معدلات الإصابة البشرية. إذا كنت تُربي كلبا في بيئة ريفية، فاستشر طبيبا بيطريا حول برنامج مكافحة الطفيليات المناسب."
+          ]
+        },
+        {
+          "h2": "ماذا تتوقع بعد العلاج؟",
+          "paras": [
+            "علاج الكيس المائي لا ينتهي بالعملية الجراحية أو الإجراء الطبي. المتابعة الطويلة الأمد ضرورية لأن الطفيلي يمكن أن يعود (Recurrence) في حالات تتراوح بين 2 و25 بالمئة حسب طريقة العلاج وظروف كل مريض. وتشير مراجعة منهجية نُشرت في مجلة BMC Infectious Diseases عام 2018 إلى أن الألبيندازول يُقلل بشكل ملحوظ من نسب العود حين يُعطى قبل وبعد أي إجراء على الكيس.",
+            "الموجات الصوتية والتصوير الإشعاعي كل ستة أشهر في السنتين الأوليين ثم سنويا لمدة خمس سنوات على الأقل هو النظام القياسي للمتابعة. في كثير من المرضى يتبقى ما يُسمى بالتجويف المتبقي أو الكيس الخامل الميت الذي يظهر في الصدى لسنوات لكنه لا يحتاج إلى تدخل. ما يهم هو التأكد الدوري من أنه لم يتحول إلى نشاط بيولوجي مجددا.",
+            "إذا عولجت في مستشفى حكومي في منطقة ذات إمكانيات محدودة، اسأل طبيبك صراحة عن جدول المتابعة وكيف يمكنك إجراء الصدى الدوري في منطقتك. احتفظ بنسخة من تقرير التصوير الأخير معك دائما حتى لو انتقلت من مدينة إلى أخرى أو سافرت، لأن الطبيب الجديد يحتاج إلى مقارنة صور الكيس الحالية بالسابقة لتقييم مسار المرض."
+          ]
+        }
+      ],
+      "tie": "إذا كنت في منطقة ريفية وتعيش مع كلاب أو تتعامل مع الأغنام، فاستخدم سهتك لتسجيل أعراضك وتاريخك الصحي ومواعيد مراجعاتك بعد العلاج، حتى يكون لديك سجل طبي كامل في يدك في أي وقت.",
+      "faqs": [
+        {
+          "q": "هل الكيس المائي معدٍ من إنسان لآخر؟",
+          "a": "لا، الكيس المائي لا ينتقل من إنسان إلى آخر. العدوى تأتي دائما من البيئة الملوثة بالطفيلي، تحديدا عبر براز الكلاب المصابة الذي يلوث التربة والطعام والماء. المريض المصاب بالكيس لا يُشكل خطرا على من يعيشون معه."
+        },
+        {
+          "q": "هل يمكن أن يختفي الكيس المائي وحده دون علاج؟",
+          "a": "أحيانا يتكلس الكيس القديم ويُصبح خاملا من تلقاء نفسه، وهذا يُعني أن الطفيلي ميت ولم يعد نشطا. لكن هذا لا يحدث بصورة يمكن التنبؤ بها، وحتى الكيس المتكلس قد يحتاج للمراقبة. لا تتجاهل الكيس حتى لو كنت لا تشعر بأي أعراض."
+        },
+        {
+          "q": "هل الجراحة خطرة في علاج الكيس المائي؟",
+          "a": "الجراحة آمنة في مراكز متخصصة ذات خبرة بهذا المرض. الخطر الرئيسي هو انفجار الكيس أثناء الجراحة مما قد يُسبب تفاعلا تحسسيا وانتشار الطفيلي. لذلك يُعطى الألبيندازول قبل الجراحة للحد من هذا الخطر، ويحرص الجراح الخبير على التعامل مع الكيس باحتياطات خاصة."
+        },
+        {
+          "q": "هل يمكن أن يكون الكيس في أكثر من مكان في نفس الوقت؟",
+          "a": "نعم، الإصابة المتعددة ممكنة، فقد يكون هناك أكثر من كيس في الكبد في آن واحد، أو كيس في الكبد وآخر في الرئة. يشير الخبراء إلى أن إصابة أكثر من عضو تحدث في ما يزيد على 10 بالمئة من الحالات. هذا يجعل التقييم الإشعاعي الكامل للجسم ضروريا عند اكتشاف أي كيس."
+        },
+        {
+          "q": "كيف أعرف إن كان الكيس الذي وجدوه بالصدفة يحتاج لعلاج؟",
+          "a": "قرار العلاج يعتمد على حجم الكيس ومرحلته وموقعه ووجود أعراض من عدمها. الأطباء يُصنفون الكيس وفق نظام منظمة الصحة العالمية CE1-CE5، والكيسات الخاملة أو الصغيرة جدا قد تُكتفى بمراقبتها. لا تتخذ قرار العلاج أو تأجيله بمفردك، استشر طبيبا متخصصا."
+        },
+        {
+          "q": "هل ألبيندازول دواء يُصرف بحرية في الصيدليات؟",
+          "a": "الألبيندازول متاح في صيدليات كثيرة في المنطقة العربية، وقد يُصرف بدون وصفة في بعض الدول. لكن استخدامه للكيس المائي يتطلب إشرافا طبيا دقيقا لتحديد الجرعة المناسبة وفترة العلاج والمتابعة، ولا يجوز تناوله ذاتيا دون تشخيص مؤكد."
+        },
+        {
+          "q": "هل هناك لقاح أو دواء وقائي للإنسان؟",
+          "a": "حتى الآن لا يوجد لقاح مرخص للاستخدام البشري ضد داء المشوكات. الوقاية تعتمد كليا على السلوك الصحيح: غسل اليدين، وطهي الطعام، ومنع الكلاب من أكل أحشاء الحيوانات، ومعالجة الكلاب دوريا من الطفيليات في المجتمعات الريفية."
+        }
+      ]
+    },
+    "en": {
+      "title": "Hydatid Cyst: The Tapeworm Disease from Dogs and Sheep",
+      "desc": "Hydatid cyst (echinococcosis) is common in Syria, Iraq, Jordan and North Africa. Learn its causes, symptoms, diagnosis and why the cyst must never be punctured carelessly.",
+      "keywords": "hydatid cyst, echinococcosis, Echinococcus granulosus, tapeworm, liver cyst, sheep farming disease, PAIR procedure, albendazole hydatid",
+      "h1": "Hydatid Cyst: The Slow-Growing Tapeworm Parasite in Your Liver or Lung",
+      "takeaways": [
+        "Hydatid disease is caused by the tapeworm Echinococcus granulosus and spread through the eggs in infected dog faeces.",
+        "The liver is affected in about three quarters of cases, and a cyst can grow for years before causing any symptoms.",
+        "The cyst must never be punctured without careful medical preparation, because leaking fluid triggers dangerous allergic reactions.",
+        "Diagnosis relies on ultrasound imaging and blood tests, and treatment is usually surgical or guided drainage.",
+        "Prevention starts with handwashing, cooking food thoroughly, and stopping dogs from eating raw sheep organs."
+      ],
+      "sections": [
+        {
+          "h2": "What is hydatid disease and how do you get it?",
+          "paras": [
+            "Hydatid disease, also called cystic echinococcosis, is caused by a small tapeworm called Echinococcus granulosus. Adult worms live in the intestines of infected dogs and shed their eggs in dog faeces, which contaminate soil, water and vegetation.",
+            "Humans become infected by swallowing these eggs, typically by touching an infected dog and then putting their hands near their mouth, by eating raw vegetables or fruit contaminated by infected soil, or by drinking untreated water in rural areas. Sheep and cattle are the main intermediate hosts in the parasite's life cycle: they ingest eggs from pasture, the parasite develops in their organs, and dogs become infected when they eat raw offal from these animals.",
+            "Once swallowed, eggs hatch in the intestine and the larvae penetrate the gut wall into the bloodstream. They travel most often to the liver, and less commonly to the lungs, and rarely to the bones, brain or heart. The larva then begins forming a slow-growing cyst that may remain small for years before it causes any trouble."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "How infection spreads: the parasite's life cycle",
+            "items": [
+              "Infected dog sheds tapeworm eggs in faeces into the environment",
+              "Soil, water and vegetables become contaminated with eggs",
+              "A person swallows eggs from contaminated hands or food",
+              "Larva penetrates the gut wall and reaches the liver through the bloodstream",
+              "A cyst forms slowly over months to years inside the organ"
+            ]
+          }
+        },
+        {
+          "h2": "Who is most at risk?",
+          "paras": [
+            "Echinococcosis is consistently most common in areas where people live closely with sheep and dogs, a pattern seen widely across Syria, Iraq, Jordan, Morocco, Tunisia, Libya and Sudan. Rural communities that keep sheep and rely on working dogs to herd them carry the highest burden. In Syria and Iraq specifically, disruption of veterinary oversight during years of conflict has led to a greater number of stray dogs and less regular deworming, which increases the reservoir of infection in the environment.",
+            "Children are particularly vulnerable because they pet dogs and play in soil without reliably washing their hands afterwards. Slaughterhouse workers, farmers, shepherds and anyone living near open irrigation canals in endemic areas are also at elevated risk. Drinking water from uncovered wells or springs in villages where sheep graze provides another route for egg ingestion.",
+            "The World Health Organization classifies echinococcosis as one of the neglected tropical diseases that disproportionately affect poor and food-insecure populations. Migrants from endemic rural regions may arrive in cities carrying a silent infection acquired in childhood, only discovered incidentally when imaging is performed for another reason entirely. This means the true burden of disease is likely considerably higher than official case counts suggest."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "warn",
+            "title": "Groups at higher risk",
+            "items": [
+              "Rural residents who keep sheep and work with dogs",
+              "Children who play with dogs without washing hands",
+              "Slaughterhouse workers or people handling raw livestock organs",
+              "Anyone drinking from untreated springs or open canals in endemic areas"
+            ]
+          }
+        },
+        {
+          "h2": "What symptoms does a hydatid cyst cause?",
+          "paras": [
+            "The most difficult aspect of this disease is its silence. A liver cyst typically causes no symptoms until it grows large enough to press on surrounding tissue or on the bile ducts. A gap of ten years or more between initial infection and the first symptom is not unusual.",
+            "When symptoms do appear, people most commonly describe a dull heaviness or ache in the right upper abdomen, below the ribcage, sometimes with a visible swelling in that area. If the cyst compresses the bile ducts, jaundice can develop alongside itching and dark urine. A lung cyst typically causes a persistent cough, breathlessness and occasionally coughing up blood if the cyst ruptures into the airways.",
+            "The most serious event is spontaneous rupture of the cyst, either in the abdomen or the chest. This causes sudden severe pain and can trigger a life-threatening anaphylactic reaction as cyst fluid, which is rich in allergens and live larvae, spills into the body cavity. According to a 2010 expert consensus published in Acta Tropica, rupture and secondary seeding of daughter cysts are the two complications that most complicate subsequent treatment."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Where cysts form and what symptoms they cause",
+            "head": ["Cyst location", "Common symptoms", "Main warning sign"],
+            "rows": [
+              ["Liver (about 75% of cases)", "Right upper abdominal heaviness, swelling", "Sudden severe pain or jaundice"],
+              ["Lung (15-20% of cases)", "Persistent cough, breathlessness", "Coughing white salty fluid or blood"],
+              ["Rare sites (bone, brain)", "Symptoms by location", "Spontaneous fracture or severe headache"]
+            ]
+          }
+        },
+        {
+          "h2": "How is it diagnosed?",
+          "paras": [
+            "Ultrasound of the abdomen is the first imaging tool used and is widely available in most hospitals and clinics across the Arab world. The WHO has established a standardised classification of liver cysts from CE1 to CE5 based on their ultrasound appearance and biological activity. CE1 and CE2 indicate active cysts with live larvae. CE3 marks a transitional stage. CE4 and CE5 are degenerate or calcified cysts where the parasite is likely dead and intervention may not be needed. Knowing the stage is essential because it directly determines the most appropriate treatment approach.",
+            "CT scanning and MRI provide greater anatomical detail about the cyst's relationship to blood vessels, bile ducts and adjacent organs, and are required before planning surgery or any guided procedure. When one cyst is found, whole-body imaging is advisable to rule out cysts at other sites, since multiple organ involvement occurs in more than 10 percent of cases according to published series.",
+            "Blood tests for antibodies against Echinococcus, tested by ELISA or indirect haemagglutination, support the diagnosis but can be falsely negative in up to a quarter of cases, particularly for lung or calcified cysts, so a negative blood test does not rule out the disease. A full blood count (CBC) may show a raised eosinophil count, which is a non-specific marker of parasitic infection. The definitive diagnosis rests on combining the imaging findings, serology results, clinical history and epidemiological exposure rather than any single test in isolation."
+          ]
+        },
+        {
+          "h2": "Why must the cyst never be punctured carelessly?",
+          "paras": [
+            "This is the single most important practical point for any patient who knows they have a hydatid cyst. The fluid inside the cyst contains thousands of live larvae and highly allergenic proteins. If this fluid leaks into the abdominal or chest cavity, whether from an external blow, an unplanned puncture, or a spontaneous rupture, the consequences can be catastrophic: widespread seeding of new daughter cysts throughout the body cavity, and an anaphylactic shock reaction that can kill within minutes.",
+            "For this reason, no drainage or aspiration procedure should be attempted without giving albendazole for at least two weeks beforehand to reduce larval viability, and without having full resuscitation equipment ready in case of anaphylaxis. Even the minimally invasive PAIR procedure (Puncture-Aspiration-Injection-Re-aspiration), performed with a fine needle guided by ultrasound, follows these strict precautions. A meta-analysis published in Clinical Infectious Diseases found good outcomes when PAIR was combined with albendazole in appropriately selected cysts.",
+            "If you know you have a hydatid cyst and you experience a sudden severe abdominal or chest pain, or develop a rash, facial swelling or breathlessness, treat it as an emergency and seek hospital care immediately."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "Seek emergency care immediately if",
+            "items": [
+              "You have a known hydatid cyst and suddenly develop severe abdominal or chest pain",
+              "A rash, facial swelling or breathlessness develops during or after any procedure on the cyst",
+              "You cough up large amounts of white or salty-tasting fluid",
+              "You develop sudden jaundice alongside pain in the right upper abdomen"
+            ]
+          }
+        },
+        {
+          "h2": "What are the treatment options?",
+          "paras": [
+            "The treatment decision depends on cyst size, WHO stage, location and the patient's overall health. The 2010 WHO expert consensus defines three main approaches. Surgery, either open or laparoscopic, remains the standard for large, complicated or vascular cysts. The surgeon removes the cyst with great care to avoid spilling contents, usually after injecting a scolicide solution inside the cyst first. Albendazole is given before and after surgery to reduce recurrence.",
+            "The PAIR procedure, in which the cyst is punctured with a fine needle under ultrasound guidance, its contents aspirated, a scolicide injected and then re-aspirated, is a less invasive alternative suitable for uncomplicated CE1 and CE3a cysts in specialised centres. The 2018 systematic review published in BMC Infectious Diseases confirmed that PAIR with albendazole achieves good treatment outcomes in carefully selected patients.",
+            "Albendazole alone may be used for very small cysts or when any intervention is too risky, but it rarely achieves complete cure and long-term follow-up is essential. The option of a watch-and-wait approach, with regular ultrasound monitoring but no active intervention, is appropriate for CE4 and CE5 cysts that are already degenerate or calcified and are unlikely to be biologically active."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Treatment options for hydatid cyst",
+            "head": ["Treatment", "When used", "Key note"],
+            "rows": [
+              ["Open or laparoscopic surgery", "Large or complicated cysts", "Albendazole given before and after"],
+              ["PAIR guided procedure", "Uncomplicated CE1/CE3a cysts", "Requires a specialised centre"],
+              ["Albendazole alone", "Very small cysts or high surgical risk", "Long follow-up is mandatory"],
+              ["Watch and wait", "Degenerate or calcified CE4/CE5 cysts", "Regular ultrasound monitoring"]
+            ]
+          }
+        },
+        {
+          "h2": "How can you prevent it?",
+          "paras": [
+            "Prevention means breaking the parasite's life cycle at the weakest point, which is the moment when dogs gain access to sheep offal. The single most effective household measure in sheep-farming communities is preventing dogs from eating raw internal organs at the time of home slaughter, which is common during religious festivals and family occasions. Organs must be buried in a deep hole or burned rather than discarded in the open where dogs can easily reach them. This one change has driven major reductions in echinococcosis incidence in countries that have managed to implement it consistently.",
+            "For individuals, washing hands thoroughly with soap and water after touching dogs, after working in soil, and before handling food or eating, is the primary personal barrier against swallowing eggs. Raw vegetables and fruit should be rinsed carefully with clean water before being eaten uncooked. In villages where sheep graze near water sources, drinking water from springs or open wells should be boiled or chemically treated, since flooding or animal contamination can introduce eggs into water supplies.",
+            "At the community level, regularly deworming dogs with praziquantel every four to six weeks is one of the most effective public health interventions for cutting the reservoir of infection in the environment. Where national dog-deworming programmes exist, complementing them by proper disposal of slaughter waste makes the overall effort far more effective. If you keep a dog in a rural area with livestock, ask a local veterinarian about an appropriate deworming programme and follow it consistently throughout the year."
+          ]
+        },
+        {
+          "h2": "What to expect after treatment",
+          "paras": [
+            "Treatment does not end with surgery or the PAIR procedure. Long-term follow-up is essential because recurrence, meaning regrowth from residual material or spillage during the procedure, occurs in roughly 2 to 25 percent of cases depending on technique, cyst stage and individual circumstances. A 2018 systematic review published in BMC Infectious Diseases confirmed that albendazole given before and after any intervention significantly reduces recurrence rates, and it is typically continued for several months following surgery.",
+            "The standard monitoring schedule is ultrasound imaging every six months for the first two years after treatment, then annually for at least five years in total. Many patients retain a residual cavity or calcified remnant where the cyst was, and this can be visible on imaging for years. What matters is confirming at each follow-up that the remnant is not showing signs of renewed biological activity. A previously calcified cyst that begins to change shape or develop new internal structures warrants medical reassessment.",
+            "If you are treated at a hospital with limited imaging resources, ask your doctor directly for a written follow-up plan and find out where in your region you can access regular abdominal ultrasound. Always carry a copy of your most recent imaging report with you, especially if you move between cities or travel, because any new doctor caring for you needs to compare current images against previous ones to assess whether the disease is progressing or remaining stable. Keeping a personal health record that travels with you is one of the most practical things you can do to protect your own care continuity."
+          ]
+        }
+      ],
+      "tie": "Use Sihtak to log your symptoms, store your imaging dates and track follow-up appointments after hydatid cyst treatment, so your medical record travels with you wherever you are.",
+      "faqs": [
+        {
+          "q": "Can hydatid disease spread from one person to another?",
+          "a": "No. Hydatid disease cannot spread between people. Infection always comes from the environment, specifically from eggs shed by infected dogs. A person with a hydatid cyst poses no infection risk to people living with them."
+        },
+        {
+          "q": "Can a hydatid cyst go away on its own without treatment?",
+          "a": "Some older cysts calcify over time as the parasite dies, and these degenerate cysts may be safely watched rather than treated. However, this cannot be predicted reliably, and even calcified cysts still need monitoring. Never assume a cyst is harmless just because it causes no current symptoms."
+        },
+        {
+          "q": "Is the surgery dangerous?",
+          "a": "Surgery is safe in centres experienced with this disease. The main intraoperative risk is spillage of cyst contents, which is why albendazole is given beforehand and the surgeon uses a careful technique to contain the cyst throughout. Outcomes in experienced hands are generally very good."
+        },
+        {
+          "q": "Can a person have hydatid cysts in more than one organ at the same time?",
+          "a": "Yes. Multiple cysts are possible, and more than one organ can be involved simultaneously. This is why thorough whole-body imaging is recommended when a cyst is discovered, to make sure no other sites have been missed before treatment is planned."
+        },
+        {
+          "q": "Is albendazole available at pharmacies without a prescription?",
+          "a": "Albendazole is available in many pharmacies across the Arab world and may be dispensed without a prescription in some countries. However, using it for hydatid disease requires medical supervision to determine the correct dose, duration and follow-up. Taking it without a confirmed diagnosis is not safe."
+        },
+        {
+          "q": "What does the ultrasound classification CE1 to CE5 mean?",
+          "a": "The WHO classification describes the biological activity of the cyst. CE1 and CE2 are active cysts with living larvae. CE3 is in transition. CE4 and CE5 are degenerate or calcified cysts where the parasite is likely dead. The stage determines which treatment, if any, is needed."
+        },
+        {
+          "q": "Is there a vaccine to prevent hydatid disease in humans?",
+          "a": "No vaccine is currently licensed for use in humans against echinococcosis. A veterinary vaccine exists for sheep, which is used in some national control programmes to interrupt the parasite's life cycle. Human prevention relies entirely on behaviour: handwashing, clean food and water, and stopping dogs from eating raw animal organs."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,388 @@
+{
+  "slug": "paracetamol-safe-use",
+  "category": "medicines",
+  "chip_ar": "الأدوية",
+  "chip_en": "Medicines",
+  "date_iso": "2026-07-18",
+  "sources": [
+    {
+      "label": "Chidiac AS, Buckley NA, Noghrehchi F et al: Paracetamol (acetaminophen) overdose and hepatotoxicity: mechanism, treatment, prevention measures, and estimates of burden of disease, Expert opinion on drug metabolism and toxicology, 2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37436926/"
+    },
+    {
+      "label": "Chiew AL, Gluud C, Brok J et al: Interventions for paracetamol (acetaminophen) overdose, The Cochrane database of systematic reviews, 2018",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29473717/"
+    },
+    {
+      "label": "Miller TJ 4th, Qiu L, Nevin A et al: Too Much of a Good Thing: Inadvertent Acetaminophen Overdose in a Low-Weight Elderly Patient, Clinical case reports, 2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41018992/"
+    },
+    {
+      "label": "Ghanem CI, Perez MJ, Manautou JE et al: Acetaminophen from liver to brain: New insights into drug pharmacological action and toxicity, Pharmacological research, 2016",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26921661/"
+    },
+    {
+      "label": "Dong V, Nanchal R, Karvellas CJ et al: Pathophysiology of Acute Liver Failure, Nutrition in clinical practice, 2020",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31840297/"
+    },
+    {
+      "label": "World Health Organization: Model List of Essential Medicines, 23rd edition, 2023",
+      "url": "https://www.who.int/publications/i/item/WHO-MHP-HPS-EML-2023.02"
+    }
+  ],
+  "content": {
+    "ar": {
+      "title": "باراسيتامول: الجرعة الآمنة وخطر الجرعة الزائدة",
+      "desc": "دليل عملي لاستخدام الباراسيتامول بأمان: الجرعة الصحيحة حسب الوزن والعمر، لماذا الجرعة الزائدة تضر الكبد، وكيف تكتشف الخطر الخفي في أدوية البرد.",
+      "keywords": "باراسيتامول, بنادول, أسيتامينوفين, جرعة باراسيتامول, باراسيتامول للأطفال, جرعة زائدة باراسيتامول, باراسيتامول والكبد",
+      "h1": "باراسيتامول: الجرعة الآمنة والخطر الخفي في أدوية البرد",
+      "takeaways": [
+        "الباراسيتامول آمن عند الجرعة الصحيحة، لكن الجرعة الزائدة تُسبب فشلاً كبدياً حاداً حتى لو لم تشعر بأعراض فورية.",
+        "الحد الأقصى للبالغين هو 4 غرام يومياً، وينخفض إلى 3 غرام أو أقل لمن يشربون الكحول أو عندهم مشاكل في الكبد.",
+        "الخطر الخفي هو تناول أدوية برد أو إنفلونزا تحتوي على باراسيتامول في نفس الوقت مع حبة باراسيتامول أخرى.",
+        "الجرعة الصحيحة للطفل تعتمد على وزنه لا على عمره، وعليك قراءة الملصق بعناية.",
+        "إذا أخذ شخص ما جرعة زائدة من الباراسيتامول فاذهب لطوارئ المستشفى فوراً حتى لو كان يبدو بخير."
+      ],
+      "sections": [
+        {
+          "h2": "ما هو الباراسيتامول وكيف يعمل؟",
+          "paras": [
+            "الباراسيتامول، المعروف في أمريكا باسم أسيتامينوفين (Acetaminophen)، هو مسكن للألم وخافض للحرارة يُستخدم على مستوى العالم. تجده في الصيدليات باسم بنادول وكالبول وعشرات الأسماء التجارية الأخرى، وهو موجود في قائمة منظمة الصحة العالمية للأدوية الأساسية. يمكن شراؤه دون وصفة في معظم دول منطقتنا، مما يجعل الإلمام بطريقة استخدامه الصحيحة مسؤولية الفرد نفسه.",
+            "يعمل الباراسيتامول بتثبيط إنزيمات تسمى السيكلوأوكسيجيناز (COX) في الجهاز العصبي المركزي، مما يقلل الإحساس بالألم. كذلك يؤثر على مراكز التحكم في الحرارة في الدماغ فيخفض ارتفاع الحرارة. الميزة الكبرى أنه لا يهيج المعدة كما تفعل مضادات الالتهاب غير الستيرويدية مثل الإيبوبروفين، وهذا يجعله الخيار الأول لمن يعانون من حساسية في المعدة.",
+            "رغم بساطته وانتشاره، فإن الباراسيتامول يحمل خطراً حقيقياً عند إساءة الاستخدام. الفارق بين الجرعة العلاجية وجرعة الضرر أضيق مما يتصوره كثيرون، وهذا هو السبب في أن الجرعة الزائدة منه تُعد سبباً رئيسياً لفشل الكبد الحاد في كثير من دول العالم. المفارقة أن أخطر حالات التسمم به ليست بسبب محاولات أذى النفس بل بسبب خطأ حسابي بسيط."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "الباراسيتامول: بعض الأسماء التجارية الشائعة في المنطقة",
+            "head": ["الاسم التجاري", "الشكل", "ملاحظة"],
+            "rows": [
+              ["بنادول", "أقراص وشراب وتحاميل", "الأكثر انتشاراً"],
+              ["باراسيتامول جنيس", "أقراص", "متاح بوصفة وبدونها"],
+              ["بنادول برد وإنفلونزا", "أقراص مركبة", "يحتوي على باراسيتامول مع أدوية أخرى"],
+              ["أدفيل كولد", "أقراص مركبة", "يحتوي على إيبوبروفين لا باراسيتامول"]
+            ]
+          }
+        },
+        {
+          "h2": "الجرعة الآمنة للبالغين: الأرقام التي عليك معرفتها",
+          "paras": [
+            "الجرعة العلاجية المعتادة للبالغين هي 500 إلى 1000 ملغ في المرة الواحدة، مع فاصل زمني لا يقل عن أربع ساعات بين الجرعات. الحد الأقصى المسموح به يومياً للشخص السليم هو 4 غرام، أي ما يعادل ثماني أقراص بتركيز 500 ملغ أو أربعة أقراص بتركيز 1000 ملغ. هذا الحد يُعدّ قيداً ثابتاً لا يُستثنى منه.",
+            "هذا الحد الأقصى ينخفض بشكل ملحوظ في حالات معينة. من يعاني من أمراض الكبد الموجودة مسبقاً، أو من يتناول أدوية تُرهق الكبد، أو من يشرب الكحول بانتظام، يجب أن يبقى أقل من 2 إلى 3 غرام يومياً. كذلك المسنون والأشخاص ذوو الوزن المنخفض أكثر عرضة للضرر من نفس الجرعة لأن كمية الدواء نسبة إلى وزن الجسم تكون أعلى. دراسة سريرية نُشرت عام 2025 وصفت حالة جرعة زائدة غير مقصودة في مريضة كبيرة في السن كانت جرعتها ضمن ما يُعتبر آمناً للبالغ العادي.",
+            "ما يُغفله كثير من الناس هو أن 4 غرام يومياً تعني الإجمالي من كل المصادر، لا فقط الحبوب التي تتناولها بوعي. أقراص البرد والإنفلونزا وبعض أدوية الصداع المركبة تحتوي على باراسيتامول. إضافة حبة باراسيتامول بجانبها دون قراءة الملصق قد تُدخلك في نطاق الجرعة الخطرة دون أن تدري. القراءة المتأنية للملصق ثوانٍ قليلة لكنها مهمة."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "الحد الأقصى اليومي حسب الفئة",
+            "head": ["الفئة", "الحد الأقصى اليومي", "ملاحظة"],
+            "rows": [
+              ["بالغ سليم", "4 غرام (8 أقراص 500 ملغ)", "لا تتجاوز"],
+              ["كبار السن", "2-3 غرام", "الكبد أبطأ في المعالجة"],
+              ["أمراض الكبد", "2 غرام أو أقل بوصفة", "استشر طبيبك دائماً"],
+              ["شارب الكحول بانتظام", "أقل من 2 غرام", "خطر أعلى بكثير"]
+            ]
+          }
+        },
+        {
+          "h2": "جرعة الأطفال: الوزن هو المعيار لا العمر",
+          "paras": [
+            "أكثر الأخطاء شيوعاً عند إعطاء الباراسيتامول للأطفال هي الاعتماد على العمر وحده لتحديد الجرعة. المعيار الصحيح هو الوزن. الجرعة الموصى بها هي 10 إلى 15 ملغ لكل كيلوغرام من وزن الطفل في المرة الواحدة، وتُعطى كل 4 إلى 6 ساعات، بحد أقصى أربع جرعات في اليوم.",
+            "طفل يزن 15 كيلوغراماً يحتاج 150 إلى 225 ملغ في المرة الواحدة. إذا أعطيته ملعقة شراب تحتوي 250 ملغ تكون الجرعة مقبولة، لكن إذا أعطيته قرصاً كاملاً للبالغين بـ500 ملغ فتكون الجرعة ضعف ما يحتاج. وهذا ما يحدث حين يُقدّر الآباء الجرعة بالعين دون وزن، وهو خطأ شائع عند الحمى الليلية حين يكون الأهل متعبين.",
+            "اقرأ الملصق بعناية واستخدم المقياس المرفق مع الدواء لا ملاعق المطبخ. حجم ملعقة الشاي المنزلية يتفاوت بين 3 و7 مليلتر، بينما الملعقة الطبية القياسية 5 مليلتر بالضبط. هذا الفارق البسيط يُفضي إلى جرعة زائدة متراكمة حين تُكرر على مدار اليوم.",
+            "إذا لم تكن متأكداً من الجرعة الصحيحة لطفلك اسأل الصيدلاني. هذا جزء أساسي من عمله وسيحسب لك الجرعة من وزن الطفل ويُريك الخط الصحيح على السرنجة أو الكوب القياسي. لا تتردد في طرح السؤال حتى لو بدا بسيطاً."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "جرعة الباراسيتامول للأطفال بحسب الوزن",
+            "head": ["وزن الطفل", "الجرعة الواحدة (ملغ)", "ملاحظة"],
+            "rows": [
+              ["10 كغ", "100 - 150 ملغ", "كل 4-6 ساعات"],
+              ["15 كغ", "150 - 225 ملغ", "كل 4-6 ساعات"],
+              ["20 كغ", "200 - 300 ملغ", "كل 4-6 ساعات"],
+              ["30 كغ", "300 - 450 ملغ", "كل 4-6 ساعات"]
+            ]
+          }
+        },
+        {
+          "h2": "الخطر الخفي: الباراسيتامول في أدوية البرد",
+          "paras": [
+            "هذا هو السبب الأكثر شيوعاً للجرعة الزائدة غير المقصودة من الباراسيتامول في جميع أنحاء العالم. أدوية البرد والإنفلونزا كثيراً ما تحتوي على باراسيتامول كجزء من تركيبتها المركبة. الشخص الذي يأخذ قرصي بنادول برد وإنفلونزا ثم يضيف قرص باراسيتامول عادي لأنه لا يزال يحس بالصداع يكون قد تجاوز الحد الآمن دون أن يدري.",
+            "مراجعة نُشرت عام 2023 في مجلة متخصصة في سمية الأدوية أشارت إلى أن الجرعة الزائدة غير المقصودة من الباراسيتامول، ومنها تلك الناجمة عن التداخل مع أدوية مركبة، تُمثل نسبة كبيرة من حالات فشل الكبد الحاد المرتبطة بهذا الدواء. الخطير في هذا أن المريض في أغلب الأحيان لا يبلغ الطبيب عن كل ما تناوله.",
+            "الحل بسيط: قبل أي دواء للبرد أو الإنفلونزا أو الصداع أو الألم ابحث في قائمة المكونات عن كلمة Paracetamol أو Acetaminophen. إذا وجدتها فاحسب الكمية ضمن حصتك اليومية ولا تأخذ باراسيتامولاً منفرداً في نفس الوقت. إذا لم تكن متأكداً اسأل الصيدلاني."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "warn",
+            "title": "أدوية قد تحتوي على باراسيتامول بدون أن تتوقع ذلك",
+            "items": [
+              "أدوية البرد والإنفلونزا المركبة (بنادول كولد، ثيرافلو وغيرها)",
+              "بعض أدوية الصداع النصفي المركبة",
+              "بعض الأدوية المخدرة الخفيفة للألم الحاد التي تجمع بين كودين وباراسيتامول",
+              "بعض سيروب السعال المركب"
+            ]
+          }
+        },
+        {
+          "h2": "ماذا يحدث للكبد عند الجرعة الزائدة؟",
+          "paras": [
+            "الكبد هو المحطة الرئيسية لتفكيك الباراسيتامول. في الظروف الطبيعية تُحوّله إنزيمات الكبد إلى مواد غير ضارة تُطرح في البول. لكن حين تتجاوز الجرعة قدرة هذه المسارات الطبيعية، ينتج مادة وسيطة سامة تسمى NAPQI تتراكم وتُلحق ضرراً مباشراً بخلايا الكبد.",
+            "دراسة شاملة نُشرت عام 2016 في مجلة Pharmacological Research وصفت هذه الآلية بالتفصيل وأكدت أن ضرر الكبد يكون عادة غير ملحوظ في أول 24 ساعة. المريض قد يشعر ببعض الغثيان والتعب ثم يتحسن ظاهرياً، فيعتقد أن الأمر انتهى. لكن في الواقع يكون تدمير الكبد قد بدأ بصمت، وتظهر أعراض الفشل الحقيقي بعد 48 إلى 72 ساعة حين يكون العلاج أصعب بكثير.",
+            "هذا التأخر في الأعراض هو ما يجعل الجرعة الزائدة من الباراسيتامول خطيرة بشكل مختلف عن كثير من الأدوية الأخرى. الشخص الذي يبدو بخير بعد الجرعة الزائدة ليس بخير بالضرورة، وهذا هو السبب في أن أي جرعة زائدة مشتبه بها تستوجب التوجه الفوري للطوارئ."
+          ]
+        },
+        {
+          "h2": "أعراض التسمم بالباراسيتامول وكيف يُعالج",
+          "paras": [
+            "في الساعات الأولى بعد الجرعة الزائدة قد يشعر الشخص بالغثيان والقيء وألم خفيف في البطن. ثم تمر مرحلة تحسن ظاهري قد تمتد يوماً أو يومين. بعدها يبدأ الفشل الكبدي في الظهور باليرقان وألم شديد في الجهة اليمنى العلوية من البطن وتدهور حالة المريض. اليرقان يكون واضحاً بالنظر للعيون ولون الجلد.",
+            "العلاج الرئيسي هو N-أسيتيل سيستئين (N-Acetylcysteine)، وهو يعمل بتوفير مادة تُقيّد المادة السامة وتمنع تراكمها. يُعطى وريدياً في المستشفى ويتطلب مراقبة مستمرة. مراجعة كوكران عام 2018 تؤكد فاعليته حين يُعطى مبكراً، والبروتوكول الطبي يحدد بالساعة متى يبدأ الجسم في الاستجابة له.",
+            "لا تنتظر ظهور الأعراض ولا تقل إن الشخص يبدو بخير. إذا ابتلع شخص جرعة أكبر مما يجب من الباراسيتامول، سواء بالقصد أو الخطأ، التوجه فوراً لطوارئ أقرب مستشفى ومعك علبة الدواء أو اسمه وكميته التقريبية. إخبار الطاقم الطبي بكل تفاصيل ما تناوله الشخص خلال الأربع والعشرين ساعة الماضية ضروري لتحديد خطة العلاج."
+          ],
+          "visual": {
+            "type": "timeline",
+            "title": "ما يحدث بعد جرعة زائدة من الباراسيتامول",
+            "items": [
+              {"when": "0-24 ساعة", "what": "غثيان وقيء خفيف، قد يبدو الأمر عابراً"},
+              {"when": "24-48 ساعة", "what": "تحسن ظاهري مؤقت يوهم بأن الأمر انتهى"},
+              {"when": "48-72 ساعة", "what": "يرقان وألم في البطن وبداية الفشل الكبدي"},
+              {"when": "بعد 72 ساعة", "what": "فشل كبدي حاد يحتاج رعاية مكثفة"}
+            ]
+          }
+        },
+        {
+          "h2": "استخدام الباراسيتامول في الحمل والرضاعة",
+          "paras": [
+            "الباراسيتامول هو المسكن الأول الذي يُوصى به للحوامل لأنه أكثر أماناً من مضادات الالتهاب غير الستيرويدية. منظمة الصحة العالمية تُدرجه كدواء أساسي ويُستخدم على مستوى واسع لعلاج ألم الظهر والحمى أثناء الحمل. الحوامل في منطقتنا يجدنه متاحاً دون وصفة في معظم الصيدليات، وهذا يزيد أهمية معرفة حدوده الآمنة.",
+            "مع ذلك توالت دراسات خلال السنوات الأخيرة تُثير تساؤلات حول الاستخدام المزمن والمطوّل خلال الحمل وعلاقته المحتملة بتطور الجنين. القاعدة المنطقية هي استخدامه بأقل جرعة فعالة ولأقصر وقت ممكن، والاكتفاء به لحالات الألم والحرارة الحقيقية لا بشكل احترازي. ومناقشة أي استخدام منتظم مع الطبيب المتابع للحمل.",
+            "في فترة الرضاعة ينتقل الباراسيتامول إلى حليب الأم بكميات ضئيلة جداً وعموماً يُعدّ آمناً للاستخدام العرضي. النصيحة نفسها تنطبق هنا: أقل جرعة لأقصر مدة. إذا كنت بحاجة لاستخدامه بانتظام أثناء الرضاعة ناقشي ذلك مع طبيبك لمعرفة ما إذا كان الألم يستحق معالجة مختلفة.",
+            "لا يوجد سبب للاعتقاد بأن الجرعة العرضية الواحدة أو الجرعتين أثناء الحمل تُشكّل خطراً، لأن نسبة كبيرة من النساء يستخدمنه خلال الحمل. الاهتمام يتمركز على الاستخدام المطوّل أو الجرعات العالية. الشفافية مع طبيبك أهم أداة هنا."
+          ]
+        },
+        {
+          "h2": "متى لا يُستخدم الباراسيتامول؟ والتفاعلات الدوائية",
+          "paras": [
+            "الباراسيتامول لا يُوصف عادة للأشخاص الذين يعانون من أمراض الكبد النشطة الحادة، كالتهاب الكبد الفيروسي الحاد أو تليف الكبد المتقدم، إلا بجرعات منخفضة جداً وتحت إشراف طبي. وهذا أمر مهم في منطقتنا حيث التهاب الكبد الفيروسي شائع نسبياً. كذلك يُعطى بحذر لمن يعانون من نقص حاد في إنزيم G6PD.",
+            "من حيث التفاعلات الدوائية، الأكثر أهمية هي مجموعة مضادات التخثر مثل الوارفارين. الباراسيتامول يمكن أن يرفع تأثير الوارفارين إذا استُخدم بجرعات عالية لأيام متتالية، مما يزيد خطر النزيف. من يتناول الوارفارين أو أدوية مشابهة يجب إخبار طبيبه عند الحاجة لأي مسكن ألم حتى يختار الأنسب.",
+            "التنبيه لمن يعانون من مشاكل في الكلى: الباراسيتامول آمن عموماً وأفضل من الإيبوبروفين لمن عندهم كلى ضعيفة، وهذا هو سبب توصية الأطباء به عادة في هذه الحالات. لكن الجرعات العالية والمتكررة لفترات طويلة يمكن أن تُحمّل الكلى أيضاً. أن يكون أفضل من البديل لا يعني أنه بلا حدود.",
+            "وفي كل الأحوال القاعدة الأكثر أماناً هي: قرأ الملصق قبل كل جرعة، أحسب إجمالي ما تتناوله من كل مصادر الدواء، ولا تتجاوز الحد الأقصى المناسب لحالتك الصحية. هذه الثوانٍ القليلة قد تكون الفارق."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "توجه لطوارئ المستشفى فوراً إذا",
+            "items": [
+              "تناول شخص ما جرعة كبيرة من الباراسيتامول سواء بقصد أو خطأ",
+              "ظهر يرقان أو اصفرار العينين بعد استخدام الباراسيتامول",
+              "ألم شديد مفاجئ في الجهة اليمنى العلوية من البطن",
+              "أخذ طفل جرعة مجهولة من حبوب أحد البالغين"
+            ]
+          }
+        }
+      ],
+      "tie": "في تطبيق صحتك يمكنك تسجيل أدويتك اليومية ومواعيدها حتى لا تنسى الجرعة السابقة وتأخذ أخرى قبل الوقت. يمكنك أيضاً سؤال المساعد الصحي الذكي عن مكونات أي دواء مركب إذا لم تكن متأكداً مما يحتوي عليه.",
+      "faqs": [
+        {
+          "q": "كم جرعة الباراسيتامول المسموحة في اليوم للبالغ؟",
+          "a": "الحد الأقصى للشخص البالغ السليم هو 4 غرام يومياً أي 8 أقراص بتركيز 500 ملغ. هذا الحد ينخفض إلى 2-3 غرام عند من عندهم مشاكل في الكبد أو يشربون الكحول بانتظام."
+        },
+        {
+          "q": "هل الباراسيتامول مضر للكبد دائماً؟",
+          "a": "لا، الباراسيتامول آمن جداً عند الجرعة الصحيحة. الضرر يحدث فقط عند تجاوز الجرعة الآمنة، وهنا يُنتج الكبد مادة سامة تتراكم وتُلحق الضرر بخلاياه."
+        },
+        {
+          "q": "هل يمكن أخذ باراسيتامول مع دواء برد وإنفلونزا في نفس الوقت؟",
+          "a": "يعتمد الأمر على ما يحتويه دواء البرد. كثير من أدوية البرد تحتوي على باراسيتامول بالفعل، وإضافة قرص باراسيتامول منفرد قد يتجاوز الحد اليومي. اقرأ الملصق دائماً وابحث عن كلمة Paracetamol أو Acetaminophen في المكونات."
+        },
+        {
+          "q": "كيف أحسب جرعة الباراسيتامول لطفلي؟",
+          "a": "الجرعة الصحيحة هي 10-15 ملغ لكل كيلوغرام من وزن الطفل. مثلاً طفل وزنه 20 كيلوغراماً يحتاج 200-300 ملغ في المرة الواحدة كل 4-6 ساعات. لا تعتمد على العمر وحده لأن الأطفال يتفاوتون في الوزن."
+        },
+        {
+          "q": "ماذا أفعل إذا تناول طفلي أكثر من الجرعة المسموحة؟",
+          "a": "اذهب لطوارئ المستشفى فوراً ومعك علبة الدواء أو اسمه والكمية التقريبية التي تناولها. لا تنتظر ظهور أعراض لأن الضرر الكبدي يبدأ قبل أن يشعر الطفل بشيء."
+        },
+        {
+          "q": "هل الباراسيتامول آمن أثناء الحمل؟",
+          "a": "نعم للاستخدام العرضي وبأقل جرعة فعالة. الباراسيتامول هو المسكن الأول الموصى به للحوامل وهو أفضل من مضادات الالتهاب. للاستخدام المنتظم ناقشي الأمر مع طبيبك."
+        },
+        {
+          "q": "ما الفرق بين الباراسيتامول والإيبوبروفين؟",
+          "a": "الباراسيتامول مسكن وخافض حرارة ولا يُقلل الالتهاب ولا يهيج المعدة. الإيبوبروفين مضاد التهاب أيضاً لكنه يهيج المعدة ويؤثر على الكلى والضغط وليس آمناً في الحمل. الاختيار بينهما يعتمد على طبيعة الألم والحالة الصحية."
+        },
+        {
+          "q": "هل الجرعة الزائدة من الباراسيتامول خطيرة حتى لو لا أشعر بشيء؟",
+          "a": "نعم وهذا هو المخيف في الأمر. الضرر الكبدي يبدأ دون أعراض واضحة في أول 24-48 ساعة. إذا أخذت جرعة أكبر مما يجب لا تنتظر الأعراض بل اذهب للطوارئ فوراً."
+        }
+      ]
+    },
+    "en": {
+      "title": "Paracetamol: The Safe Dose and the Hidden Overdose Risk",
+      "desc": "A practical guide to using paracetamol safely: correct dosing by weight and age, why overdose damages the liver silently, and how to spot the hidden danger in cold remedies.",
+      "keywords": "paracetamol, acetaminophen, paracetamol dosage, paracetamol overdose, paracetamol for children, paracetamol liver damage, paracetamol and cold medicine",
+      "h1": "Paracetamol: The Safe Dose and the Hidden Danger in Cold Medicines",
+      "takeaways": [
+        "Paracetamol is safe at the right dose, but overdose causes acute liver failure even when you feel no immediate symptoms.",
+        "The maximum for adults is 4 grams per day, falling to 3 grams or less for people with liver problems or regular alcohol use.",
+        "The hidden danger is taking cold or flu remedies that already contain paracetamol alongside a separate paracetamol tablet.",
+        "The correct dose for a child depends on their weight, not their age.",
+        "If someone has taken too much paracetamol, go to an emergency department immediately, even if they feel fine."
+      ],
+      "sections": [
+        {
+          "h2": "What is paracetamol and how does it work?",
+          "paras": [
+            "Paracetamol, sold as acetaminophen in the United States, is a pain reliever and fever reducer used worldwide. It is sold under dozens of brand names including Panadol, Tylenol, and Calpol, and it appears on the World Health Organization's list of essential medicines. In most countries across the Middle East and North Africa it is available without a prescription, which means the responsibility for safe use rests entirely with the person taking it.",
+            "It works by blocking enzymes called cyclooxygenases in the central nervous system, which reduces the perception of pain. It also acts on the brain's temperature-control centres to bring down a fever. Its key advantage over anti-inflammatory drugs such as ibuprofen is that it does not irritate the stomach lining and does not affect platelet function, which makes it the safer option for people with stomach problems or those who need to take blood-thinning medicines.",
+            "Despite how familiar and ordinary it seems, paracetamol carries a real risk when misused. The gap between a therapeutic dose and a harmful one is narrower than most people assume, and paracetamol overdose is one of the leading causes of acute liver failure in countries where good data exist. The paradox is that the most dangerous cases are not intentional ones: they happen to people who are simply treating a cold and do not realise how much they have taken across all their medicines."
+          ]
+        },
+        {
+          "h2": "The safe adult dose: the numbers you need to know",
+          "paras": [
+            "The standard therapeutic dose for adults is 500 to 1000 milligrams per dose, with at least four hours between doses. The maximum daily limit for a healthy adult is 4 grams, which equals eight standard 500 mg tablets or four 1000 mg tablets. Taking more than this in any 24-hour period carries a risk of liver damage.",
+            "This maximum drops significantly in certain groups. People with pre-existing liver disease, those taking medicines that stress the liver, and those who drink alcohol regularly should stay below 2 to 3 grams per day. Older adults and people with low body weight are also at higher risk of harm from the same dose because the amount of drug relative to body weight is higher.",
+            "What many people miss is that the 4-gram-per-day total means all sources combined, not just the tablets taken consciously. Cold and flu medicines, combination headache tablets, and some compound pain relievers all contain paracetamol. Adding a separate paracetamol tablet to them without reading the label can push you into the harmful range without realising it."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Maximum safe daily dose by group",
+            "head": ["Group", "Daily maximum", "Note"],
+            "rows": [
+              ["Healthy adult", "4 g (8 tablets of 500 mg)", "Do not exceed"],
+              ["Older adults", "2 to 3 g", "Liver processes it more slowly"],
+              ["Liver disease", "2 g or less, with medical guidance", "Always ask your doctor"],
+              ["Regular alcohol use", "Under 2 g", "Risk is substantially higher"]
+            ]
+          }
+        },
+        {
+          "h2": "Children's dose: weight is the measure, not age",
+          "paras": [
+            "The most common mistake parents make when giving paracetamol to children is relying on age alone. The correct measure is weight. The recommended dose is 10 to 15 milligrams per kilogram of body weight per dose, given every 4 to 6 hours, with a maximum of four doses in 24 hours.",
+            "A child weighing 15 kilograms needs 150 to 225 mg per dose. A full adult 500 mg tablet would give more than twice what they need. This is how paracetamol overdose in children most often happens, not through dramatic mistakes but through miscalculation by a parent who doses by eye rather than by weight.",
+            "Read the label carefully and use the measuring device included with the medicine, not a kitchen spoon. A domestic teaspoon can hold anywhere from 3 to 7 millilitres depending on its shape, while a standard 5 ml measuring spoon is exact. Repeated over a day, that variation adds up to a meaningful difference in total dose.",
+            "If you are unsure about the right amount for your child, ask the pharmacist. They can calculate the dose from your child's weight and show you exactly which mark on the syringe or cup to use."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Paracetamol dose for children by weight",
+            "head": ["Child weight", "Single dose (mg)", "Frequency"],
+            "rows": [
+              ["10 kg", "100 to 150 mg", "Every 4 to 6 hours"],
+              ["15 kg", "150 to 225 mg", "Every 4 to 6 hours"],
+              ["20 kg", "200 to 300 mg", "Every 4 to 6 hours"],
+              ["30 kg", "300 to 450 mg", "Every 4 to 6 hours"]
+            ]
+          }
+        },
+        {
+          "h2": "The hidden danger: paracetamol inside cold and flu medicines",
+          "paras": [
+            "This is the most common cause of unintentional paracetamol overdose worldwide. Cold and flu combination medicines very often contain paracetamol as one of their ingredients. A person who takes two Panadol Cold and Flu tablets and then adds a separate paracetamol tablet because the headache persists has exceeded the safe daily limit without any unusual behaviour.",
+            "A 2023 review published in a specialist pharmacology journal noted that unintentional overdose, including cases caused by overlap with combination products, accounts for a substantial proportion of paracetamol-related acute liver failure. A significant part of the problem is that patients often do not tell doctors about everything they have taken, so the cause of liver injury goes unrecognised at first.",
+            "The solution is straightforward. Before any cold, flu, headache, or pain medicine, check the ingredients list for the words Paracetamol or Acetaminophen. If you find it, count that dose against your daily allowance and do not take additional paracetamol alongside it. If you are unsure, ask the pharmacist before you leave the counter."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "warn",
+            "title": "Medicines that may already contain paracetamol",
+            "items": [
+              "Cold and flu combination tablets (Panadol Cold, Theraflu, Lemsip and similar brands)",
+              "Some combination migraine tablets",
+              "Some prescription compound pain medicines combining codeine with paracetamol",
+              "Some combination cough syrups"
+            ]
+          }
+        },
+        {
+          "h2": "What happens to the liver in an overdose?",
+          "paras": [
+            "The liver is the main site where paracetamol is broken down. Under normal conditions, liver enzymes convert it into harmless compounds that leave the body in urine. When the dose exceeds the liver's processing capacity, a toxic intermediate called NAPQI accumulates. NAPQI binds to liver cell proteins and causes direct cell death.",
+            "A detailed 2016 study published in Pharmacological Research described this mechanism and confirmed that liver damage is typically invisible in the first 24 hours. The person may feel nausea and tiredness and then seem to improve, leading them or those around them to believe the crisis has passed. In reality, destruction of liver tissue has begun silently, and the signs of real liver failure emerge 48 to 72 hours later when treatment is much harder.",
+            "This delay in symptoms is what makes paracetamol overdose uniquely dangerous compared with many other drugs. Feeling fine an hour after a large dose does not mean the liver is fine. This is why any suspected overdose requires immediate emergency care, not watchful waiting at home."
+          ]
+        },
+        {
+          "h2": "Symptoms of paracetamol poisoning and how it is treated",
+          "paras": [
+            "In the first hours after an overdose, the person may feel nausea, vomiting, and mild abdominal discomfort. This is followed by a period of apparent improvement that can last a day or two. After that, liver failure begins to show itself as jaundice, severe pain in the upper right abdomen, and a rapid deterioration in the person's condition.",
+            "The main treatment is N-acetylcysteine, given by intravenous drip in hospital. It works by supplying a compound that neutralises the toxic NAPQI. A 2018 Cochrane review confirmed its effectiveness when given early. Time is the critical variable: the earlier it is given, the more liver tissue it saves.",
+            "Do not wait for symptoms to appear and do not reassure yourself that the person looks well. If someone has taken more paracetamol than is safe, whether intentionally or by accident, go straight to the nearest hospital emergency department and bring the medicine packet or its name and the approximate quantity taken."
+          ],
+          "visual": {
+            "type": "timeline",
+            "title": "What happens after a paracetamol overdose",
+            "items": [
+              {"when": "0 to 24 hours", "what": "Nausea and vomiting, may seem mild and passing"},
+              {"when": "24 to 48 hours", "what": "Apparent improvement that creates a false sense of safety"},
+              {"when": "48 to 72 hours", "what": "Jaundice and upper right abdominal pain as liver failure begins"},
+              {"when": "After 72 hours", "what": "Severe liver failure requiring intensive care if untreated"}
+            ]
+          }
+        },
+        {
+          "h2": "Using paracetamol in pregnancy and breastfeeding",
+          "paras": [
+            "Paracetamol is the first-choice pain reliever recommended during pregnancy precisely because it is safer than non-steroidal anti-inflammatory drugs. The World Health Organization includes it as an essential medicine, and it is widely used for back pain and fever in pregnancy. In Jordan, Egypt, and across the Gulf region it is routinely used during pregnancy and familiar to most women.",
+            "That said, a number of studies in recent years have raised questions about prolonged and frequent use during pregnancy and its possible effects on fetal development. The sensible rule is to use the lowest effective dose for the shortest time needed, and to reserve it for genuine pain or fever rather than as a routine comfort measure. Discuss any regular use with the doctor following your pregnancy.",
+            "There is no good reason to be alarmed by an occasional dose or two during pregnancy, since the vast majority of women who have used paracetamol in pregnancy have healthy babies. The concern centres on chronic use at higher doses. Being transparent with your doctor about what you take is the most useful safeguard.",
+            "During breastfeeding, paracetamol passes into breast milk in very small quantities and is generally considered safe for occasional use. If you need it regularly while breastfeeding, discuss this with your doctor so the underlying pain or condition can be addressed properly."
+          ]
+        },
+        {
+          "h2": "When not to use paracetamol and drug interactions to know",
+          "paras": [
+            "Paracetamol is generally avoided in people with active severe liver disease, such as acute viral hepatitis or advanced cirrhosis, except at very low doses under medical supervision. This is worth noting in a region where hepatitis B and C are more prevalent than in Western Europe. People with severe G6PD enzyme deficiency may also need extra caution, and this condition is more common in some Middle Eastern populations.",
+            "The most important drug interaction to know about is with warfarin and other oral anticoagulants. Paracetamol at higher doses taken over several consecutive days can amplify the blood-thinning effect of warfarin and raise the risk of serious bleeding. Anyone on warfarin or similar medicines should always tell their doctor or pharmacist before starting any pain reliever, even one sold without a prescription.",
+            "For people with kidney problems, paracetamol is generally safer than ibuprofen and is usually what doctors prefer in this group. However, very high and very frequent doses over a long period do add some burden to the kidneys as well. Being the better option does not mean unlimited use.",
+            "As a general principle, no medicine is completely without effect at any dose. The goal is to match the dose to the need, use it for the shortest effective time, and keep your doctor informed about what you take regularly. Paracetamol is genuinely one of the safest medicines available when those conditions are met."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "Go to a hospital emergency department immediately if",
+            "items": [
+              "Someone has taken a large dose of paracetamol whether intentionally or by mistake",
+              "Jaundice or yellowing of the eyes appears after paracetamol use",
+              "Sudden severe pain in the upper right part of the abdomen",
+              "A child has swallowed an unknown amount of an adult's tablets"
+            ]
+          }
+        }
+      ],
+      "tie": "In the Sihtak app you can log your daily medicines and their times so you never lose track of how many doses you have taken. You can also ask the health assistant to check whether a combination medicine already contains paracetamol before taking anything alongside it.",
+      "faqs": [
+        {
+          "q": "What is the maximum safe daily dose of paracetamol for an adult?",
+          "a": "For a healthy adult the maximum is 4 grams per day, which is eight standard 500 mg tablets. This drops to 2 to 3 grams for people with liver problems or who drink alcohol regularly."
+        },
+        {
+          "q": "Does paracetamol always damage the liver?",
+          "a": "No. Paracetamol is very safe at the correct dose. Liver damage only occurs when the dose exceeds the liver's processing capacity, causing a toxic by-product to accumulate. At therapeutic doses this does not happen in healthy people."
+        },
+        {
+          "q": "Can I take paracetamol with a cold and flu medicine at the same time?",
+          "a": "It depends on the cold medicine. Many cold and flu products already contain paracetamol, so adding a separate tablet may push you over the safe daily limit. Always read the ingredient list and look for the words Paracetamol or Acetaminophen before combining products."
+        },
+        {
+          "q": "How do I calculate the right dose of paracetamol for my child?",
+          "a": "The correct dose is 10 to 15 mg per kilogram of the child's body weight. A child weighing 20 kg needs 200 to 300 mg per dose. Do not rely on age alone because children of the same age vary considerably in weight."
+        },
+        {
+          "q": "What should I do if my child takes too much paracetamol?",
+          "a": "Go to the hospital emergency department immediately and bring the medicine packet. Do not wait for symptoms to appear because liver damage begins before the child feels unwell."
+        },
+        {
+          "q": "Is paracetamol safe during pregnancy?",
+          "a": "For occasional use at the lowest effective dose, yes. It is the preferred pain reliever in pregnancy and is safer than anti-inflammatory drugs. For regular use during pregnancy, discuss with your doctor."
+        },
+        {
+          "q": "What is the difference between paracetamol and ibuprofen?",
+          "a": "Paracetamol relieves pain and reduces fever without reducing inflammation and without irritating the stomach. Ibuprofen also reduces inflammation but can irritate the stomach, affect the kidneys and blood pressure, and is not safe in the third trimester of pregnancy. The choice depends on the type of pain and your health situation."
+        },
+        {
+          "q": "Is a paracetamol overdose dangerous even if I feel fine?",
+          "a": "Yes, and this is the critical point. Liver damage begins before any symptoms appear. Feeling well in the first 24 hours after a large dose does not mean the liver is safe. Any suspected overdose requires immediate hospital care, not a wait-and-see approach."
+        }
+      ]
+    }
+  }
+}

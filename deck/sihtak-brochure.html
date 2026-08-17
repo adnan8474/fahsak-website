@@ -1,0 +1,427 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>صحتك — Sihtak</title>
+<link href="https://fonts.googleapis.com/css2?family=Tajawal:wght@400;500;700;800;900&family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+@page{size:A4 portrait;margin:0}
+html,body{width:210mm;font-family:'Tajawal','Inter',sans-serif;color:#0f172a;-webkit-print-color-adjust:exact;print-color-adjust:exact}
+
+.page{
+  width:210mm;min-height:297mm;padding:20mm 18mm;
+  page-break-after:always;position:relative;overflow:hidden;
+}
+.page:last-child{page-break-after:auto}
+
+/* Page backgrounds */
+.page--hero{background:linear-gradient(160deg,#f0fdfa 0%,#ffffff 40%,#f0fdf4 100%);display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center}
+.page--white{background:#ffffff}
+.page--light{background:#f8fafc}
+.page--teal{background:linear-gradient(160deg,#0d9488 0%,#0f766e 100%);color:#ffffff}
+
+/* Hero */
+.hero-logo{width:72px;height:72px;border-radius:18px;box-shadow:0 8px 32px rgba(13,148,136,.2);margin-bottom:20px}
+.hero-title{font-size:42px;font-weight:900;line-height:1.15;margin-bottom:8px}
+.hero-title .teal{color:#0d9488}
+.hero-sub{font-size:16px;color:#475569;line-height:1.8;max-width:420px;margin:0 auto 28px}
+.hero-chips{display:flex;gap:8px;flex-wrap:wrap;justify-content:center;margin-bottom:32px}
+.hero-chip{background:#ffffff;border:1px solid #e2e8f0;border-radius:100px;padding:6px 14px;font-size:11px;font-weight:700;color:#0f172a;box-shadow:0 1px 4px rgba(0,0,0,.04)}
+.hero-phones{display:flex;gap:10px;justify-content:center;align-items:flex-end}
+.hero-phones img{border-radius:18px;box-shadow:0 12px 40px rgba(0,0,0,.12);border:1px solid rgba(0,0,0,.06)}
+.hero-phones .p-lg{width:140px}
+.hero-phones .p-sm{width:110px}
+
+/* Section header */
+.sec-label{display:inline-flex;align-items:center;gap:6px;font-size:11px;font-weight:700;color:#0d9488;background:rgba(13,148,136,.08);padding:6px 14px;border-radius:100px;margin-bottom:10px}
+.sec-title{font-size:28px;font-weight:900;line-height:1.2;margin-bottom:8px}
+.sec-sub{font-size:13px;color:#475569;line-height:1.7;max-width:500px}
+.sec-head{margin-bottom:24px}
+
+/* Feature row */
+.feat-row{display:flex;gap:28px;align-items:center;margin-bottom:28px}
+.feat-row--rev{flex-direction:row-reverse}
+.feat-text{flex:1}
+.feat-text h3{font-size:20px;font-weight:800;margin-bottom:6px;line-height:1.3}
+.feat-text p{font-size:12px;color:#475569;line-height:1.7;margin-bottom:10px}
+.feat-phones{display:flex;gap:8px;flex-shrink:0;align-items:center}
+.feat-phones img{border-radius:16px;box-shadow:0 8px 24px rgba(0,0,0,.1);border:1px solid rgba(0,0,0,.05)}
+.fp-lg{width:130px}
+.fp-md{width:115px}
+.fp-sm{width:100px}
+
+/* Check list */
+.checks{list-style:none;display:flex;flex-direction:column;gap:5px}
+.checks li{display:flex;align-items:flex-start;gap:6px;font-size:11px;color:#475569;line-height:1.5}
+.checks li::before{content:'✓';color:#0d9488;font-weight:800;flex-shrink:0}
+
+/* Benefit grid */
+.b-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:10px}
+.b-card{background:#ffffff;border:1px solid #e2e8f0;border-radius:12px;padding:14px 12px;text-align:center}
+.b-icon{font-size:22px;margin-bottom:6px}
+.b-card h4{font-size:12px;font-weight:800;margin-bottom:3px}
+.b-card p{font-size:9.5px;color:#64748b;line-height:1.5}
+
+/* White text variants */
+.page--teal .sec-label{background:rgba(255,255,255,.15);color:#ffffff}
+.page--teal .sec-sub{color:rgba(255,255,255,.8)}
+.page--teal .checks li{color:rgba(255,255,255,.85)}
+.page--teal .checks li::before{color:#5eead4}
+.page--teal .feat-text p{color:rgba(255,255,255,.8)}
+.page--teal .b-card{background:rgba(255,255,255,.1);border-color:rgba(255,255,255,.15)}
+.page--teal .b-card h4{color:#ffffff}
+.page--teal .b-card p{color:rgba(255,255,255,.7)}
+
+/* Footer strip */
+.page-footer{position:absolute;bottom:12mm;left:18mm;right:18mm;display:flex;justify-content:space-between;align-items:center;font-size:9px;color:#94a3b8;border-top:1px solid #e2e8f0;padding-top:8px}
+.page--teal .page-footer{color:rgba(255,255,255,.5);border-color:rgba(255,255,255,.15)}
+
+/* CTA page */
+.cta-center{display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;height:100%}
+.cta-title{font-size:36px;font-weight:900;margin-bottom:12px}
+.cta-sub{font-size:15px;color:rgba(255,255,255,.8);margin-bottom:32px;max-width:380px;line-height:1.7}
+.cta-box{background:rgba(255,255,255,.12);border:1px solid rgba(255,255,255,.2);border-radius:16px;padding:20px 32px;text-align:center}
+.cta-box a{color:#5eead4;text-decoration:none;font-weight:700;font-size:18px;display:block;margin-bottom:4px}
+.cta-box span{color:rgba(255,255,255,.6);font-size:12px}
+
+.en{font-family:'Inter','Tajawal',sans-serif;direction:ltr;display:inline}
+</style>
+</head>
+<body>
+
+<!-- PAGE 1: HERO -->
+<div class="page page--hero">
+  <img src="screens/../icon.png" alt="صحتك" class="hero-logo">
+  <h1 class="hero-title">كل صحتك في<br><span class="teal">تطبيق واحد</span></h1>
+  <p class="hero-sub">مساعد صحي ذكي يتحدث معك بالصوت، يمسح تحاليلك، يتابع أدويتك، ويدير صحة عائلتك بالكامل — مجاناً</p>
+  <div class="hero-chips">
+    <div class="hero-chip">🤖 ذكاء اصطناعي صوتي</div>
+    <div class="hero-chip">🔬 ماسح تحاليل</div>
+    <div class="hero-chip">💊 متابعة أدوية</div>
+    <div class="hero-chip">👨‍👩‍👧 صحة العائلة</div>
+    <div class="hero-chip">🌙 عربي + English</div>
+  </div>
+  <div class="hero-phones">
+    <img src="screens/IMG_6510.PNG" alt="" class="p-sm">
+    <img src="screens/IMG_6621.PNG" alt="" class="p-lg">
+    <img src="screens/IMG_6624.PNG" alt="" class="p-sm">
+  </div>
+  <div class="page-footer">
+    <span>sihtak.com</span>
+    <span>صحتك — <span class="en">Sihtak</span> © 2026</span>
+  </div>
+</div>
+
+<!-- PAGE 2: AI ASSISTANT -->
+<div class="page page--white">
+  <div class="sec-head">
+    <div class="sec-label">🤖 المساعد الذكي</div>
+    <h2 class="sec-title">تحدّث مع طبيبك الذكي</h2>
+    <p class="sec-sub">مساعد يفهم أدويتك وتحاليلك بالكامل. اسأله بالصوت أو الكتابة بالعربي أو الإنجليزي.</p>
+  </div>
+
+  <div class="feat-row">
+    <div class="feat-text">
+      <h3>🎙️ محادثة صوتية</h3>
+      <p>تحدّث بالصوت — يعرف أدويتك وتحاليلك وأعراضك ويردّ بالعربي أو الإنجليزي</p>
+      <ul class="checks">
+        <li>تحويل صوت لنص فوري</li>
+        <li>يعرف ملفك الصحي بالكامل</li>
+        <li>قاطعه بأي وقت أثناء الكلام</li>
+      </ul>
+    </div>
+    <div class="feat-phones">
+      <img src="screens/IMG_6522.PNG" alt="" class="fp-md">
+      <img src="screens/IMG_6510.PNG" alt="" class="fp-md">
+    </div>
+  </div>
+
+  <div class="feat-row feat-row--rev">
+    <div class="feat-text">
+      <h3>💊 فحص تفاعلات الأدوية</h3>
+      <p>يفحص أدويتك تلقائياً ويكشف التفاعلات الخطيرة مع مصادر طبية موثوقة</p>
+      <ul class="checks">
+        <li>فحص بضغطة واحدة لكل أدويتك</li>
+        <li>مصادر من Mayo Clinic و MedlinePlus</li>
+        <li>يكتشف أنماطاً مقلقة في صحتك</li>
+      </ul>
+    </div>
+    <div class="feat-phones">
+      <img src="screens/IMG_6624.PNG" alt="" class="fp-md">
+      <img src="screens/IMG_6625.PNG" alt="" class="fp-md">
+    </div>
+  </div>
+
+  <div class="page-footer">
+    <span>sihtak.com</span>
+    <span>٢ / ٧</span>
+  </div>
+</div>
+
+<!-- PAGE 3: LAB SCANNER + SYMPTOMS -->
+<div class="page page--light">
+  <div class="sec-head">
+    <div class="sec-label">🔬 تشخيص ذكي</div>
+    <h2 class="sec-title">صوّر تحاليلك أو اوصف أعراضك</h2>
+    <p class="sec-sub">الذكاء الاصطناعي يحلل نتائج تحاليلك من الصورة أو يشخّص أعراضك مع مستوى الطوارئ</p>
+  </div>
+
+  <div class="feat-row">
+    <div class="feat-text">
+      <h3>📷 ماسح التحاليل الذكي</h3>
+      <p>صوّر تقرير تحاليلك والذكاء الاصطناعي يحلله فوراً</p>
+      <ul class="checks">
+        <li>يقرأ ١٨+ تحليل من صورة واحدة</li>
+        <li>تصنيف مستوى الخطورة (منخفض/متوسط/عالي)</li>
+        <li>يراعي أدويتك الحالية بالتحليل</li>
+        <li>توصيات عملية وخطوات تالية</li>
+      </ul>
+    </div>
+    <div class="feat-phones">
+      <img src="screens/IMG_6626.PNG" alt="" class="fp-lg">
+    </div>
+  </div>
+
+  <div class="feat-row feat-row--rev">
+    <div class="feat-text">
+      <h3>🩺 فحص الأعراض الذكي</h3>
+      <p>اوصف أعراضك بكلماتك — ٥ أسباب محتملة مع تصنيف الطوارئ</p>
+      <ul class="checks">
+        <li>أخضر (رعاية ذاتية) · أصفر (راجع طبيب) · أحمر (طوارئ)</li>
+        <li>خطوات علاج فورية</li>
+        <li>تحذيرات العلامات الخطيرة</li>
+        <li>مصادر من Mayo Clinic و NHS</li>
+      </ul>
+    </div>
+    <div class="feat-phones">
+      <img src="screens/IMG_6639.PNG" alt="" class="fp-md">
+      <img src="screens/IMG_6640.PNG" alt="" class="fp-md">
+    </div>
+  </div>
+
+  <div class="page-footer">
+    <span>sihtak.com</span>
+    <span>٣ / ٧</span>
+  </div>
+</div>
+
+<!-- PAGE 4: HEALTH TRACKING -->
+<div class="page page--white">
+  <div class="sec-head">
+    <div class="sec-label">📊 متابعة الصحة</div>
+    <h2 class="sec-title">راقب كل جوانب صحتك</h2>
+    <p class="sec-sub">علامات حيوية، تغذية، نوم، تمارين، دورة شهرية — كل شيء مع Apple Health</p>
+  </div>
+
+  <div class="feat-row">
+    <div class="feat-text">
+      <h3>❤️ العلامات الحيوية والنوم</h3>
+      <ul class="checks">
+        <li>ضغط الدم، نبض القلب، سكر الدم، حرارة</li>
+        <li>رسم بياني أسبوعي مع إحصائيات</li>
+        <li>تتبع جودة النوم والاستيقاظات</li>
+      </ul>
+    </div>
+    <div class="feat-phones">
+      <img src="screens/IMG_6642.PNG" alt="" class="fp-md">
+      <img src="screens/IMG_6641.PNG" alt="" class="fp-md">
+    </div>
+  </div>
+
+  <div class="feat-row feat-row--rev">
+    <div class="feat-text">
+      <h3>🥗 التغذية</h3>
+      <ul class="checks">
+        <li>سعرات ومغذيات يومية مع حلقة تقدم</li>
+        <li>ماسح باركود للأطعمة المعلبة</li>
+        <li>قاعدة بيانات أطعمة ومطاعم</li>
+      </ul>
+    </div>
+    <div class="feat-phones">
+      <img src="screens/IMG_6661.PNG" alt="" class="fp-md">
+      <img src="screens/IMG_6638.PNG" alt="" class="fp-md">
+    </div>
+  </div>
+
+  <div class="feat-row">
+    <div class="feat-text">
+      <h3>🌙 صحة المرأة و Apple Health</h3>
+      <ul class="checks">
+        <li>تقويم الدورة الشهرية مع توقع الخصوبة</li>
+        <li>تسجيل أعراض ومزاج يومي</li>
+        <li>مزامنة ١٠ مقاييس من Apple Health</li>
+      </ul>
+    </div>
+    <div class="feat-phones">
+      <img src="screens/IMG_6630.PNG" alt="" class="fp-sm">
+      <img src="screens/IMG_6631.PNG" alt="" class="fp-sm">
+      <img src="screens/IMG_6635.PNG" alt="" class="fp-sm">
+    </div>
+  </div>
+
+  <div class="page-footer">
+    <span>sihtak.com</span>
+    <span>٤ / ٧</span>
+  </div>
+</div>
+
+<!-- PAGE 5: PASSPORT + DIRECTORY -->
+<div class="page page--light">
+  <div class="sec-head">
+    <div class="sec-label">🛂 الجواز الصحي والدليل</div>
+    <h2 class="sec-title">شارك ملفك الصحي وابحث عن مقدمي الخدمة</h2>
+  </div>
+
+  <div class="feat-row">
+    <div class="feat-text">
+      <h3>📱 جواز صحي رقمي</h3>
+      <p>رمز QR يمسحه طبيبك فوراً + تقرير PDF ترسله بالواتساب</p>
+      <ul class="checks">
+        <li>QR بدون تحميل تطبيق — الطبيب يمسح ويرى</li>
+        <li>تقرير PDF من ٤ صفحات</li>
+        <li>ملخص الأدوية والتحاليل والحساسية</li>
+        <li>زر طوارئ SOS باتصال فوري</li>
+      </ul>
+    </div>
+    <div class="feat-phones">
+      <img src="screens/IMG_6643.PNG" alt="" class="fp-md">
+      <img src="screens/IMG_6644.PNG" alt="" class="fp-md">
+    </div>
+  </div>
+
+  <div class="feat-row feat-row--rev">
+    <div class="feat-text">
+      <h3>🏥 دليل شامل</h3>
+      <p>ابحث عن أطباء ومختبرات وصيدليات مع التقييم والخدمات والتواصل المباشر</p>
+      <ul class="checks">
+        <li>٣ أقسام: أطباء، مختبرات، صيدليات</li>
+        <li>بحث وترتيب حسب التقييم أو المسافة</li>
+        <li>حجز مواعيد وطلب فحوصات</li>
+        <li>مقارنة أسعار التحاليل</li>
+      </ul>
+    </div>
+    <div class="feat-phones">
+      <img src="screens/IMG_6633.PNG" alt="" class="fp-lg">
+    </div>
+  </div>
+
+  <div style="margin-top:20px">
+    <h3 style="font-size:18px;font-weight:800;margin-bottom:12px">٥٠+ ميزة — كل شيء في مكان واحد</h3>
+    <div style="display:flex;gap:6px">
+      <img src="screens/IMG_6627.PNG" alt="" style="width:115px;border-radius:12px;box-shadow:0 4px 16px rgba(0,0,0,.08);border:1px solid rgba(0,0,0,.05)">
+      <img src="screens/IMG_6628.PNG" alt="" style="width:115px;border-radius:12px;box-shadow:0 4px 16px rgba(0,0,0,.08);border:1px solid rgba(0,0,0,.05)">
+      <img src="screens/IMG_6629.PNG" alt="" style="width:115px;border-radius:12px;box-shadow:0 4px 16px rgba(0,0,0,.08);border:1px solid rgba(0,0,0,.05)">
+    </div>
+  </div>
+
+  <div class="page-footer">
+    <span>sihtak.com</span>
+    <span>٥ / ٧</span>
+  </div>
+</div>
+
+<!-- PAGE 6: DOCTOR + PHARMACY + LAB -->
+<div class="page page--white">
+  <div class="sec-head">
+    <div class="sec-label">👥 لكل الأدوار</div>
+    <h2 class="sec-title">تطبيق واحد — طبيب، صيدلي، مختبر</h2>
+    <p class="sec-sub">كل مستخدم يفتح التطبيق ويرى لوحته الخاصة حسب دوره</p>
+  </div>
+
+  <!-- Doctor -->
+  <div class="feat-row">
+    <div class="feat-text">
+      <h3>👨‍⚕️ الطبيب</h3>
+      <ul class="checks">
+        <li>قائمة المرضى مع رسائل فورية</li>
+        <li>مسح QR للوصول لملف المريض</li>
+        <li>كتابة وصفات وتسجيل استشارات</li>
+        <li>مكالمات صوتية ومرئية</li>
+      </ul>
+    </div>
+    <div class="feat-phones">
+      <img src="screens/IMG_6600.PNG" alt="" class="fp-lg">
+    </div>
+  </div>
+
+  <!-- Pharmacy -->
+  <div class="feat-row feat-row--rev">
+    <div class="feat-text">
+      <h3>💊 الصيدلي</h3>
+      <ul class="checks">
+        <li>إدارة المخزون مع تتبع الدفعات</li>
+        <li>تنبيهات انتهاء الصلاحية والمخزون المنخفض</li>
+        <li>استقبال طلبات الأدوية وتأكيدها</li>
+        <li>دعم التوصيل مع عنوان المريض</li>
+      </ul>
+    </div>
+    <div class="feat-phones">
+      <img src="screens/IMG_6669.PNG" alt="" class="fp-sm">
+      <img src="screens/IMG_6670.PNG" alt="" class="fp-sm">
+      <img src="screens/IMG_6672.PNG" alt="" class="fp-sm">
+    </div>
+  </div>
+
+  <!-- Lab -->
+  <div class="feat-row">
+    <div class="feat-text">
+      <h3>🔬 المختبر</h3>
+      <ul class="checks">
+        <li>إدخال نتائج مباشرة في ملف المريض</li>
+        <li>استقبال طلبات الفحص وتحديث حالتها</li>
+        <li>قائمة فحوصات مع أسعار وأوقات إنجاز</li>
+        <li>المريض يحصل على النتائج فوراً</li>
+      </ul>
+    </div>
+    <div class="feat-phones">
+      <img src="screens/IMG_6671.PNG" alt="" class="fp-md">
+      <img src="screens/IMG_6626.PNG" alt="" class="fp-md">
+    </div>
+  </div>
+
+  <div class="page-footer">
+    <span>sihtak.com</span>
+    <span>٦ / ٧</span>
+  </div>
+</div>
+
+<!-- PAGE 7: CTA -->
+<div class="page page--teal">
+  <div class="cta-center">
+    <img src="screens/../icon.png" alt="" style="width:64px;height:64px;border-radius:16px;margin-bottom:24px;box-shadow:0 8px 32px rgba(0,0,0,.2)">
+    <h2 class="cta-title">جرّب صحتك اليوم</h2>
+    <p class="cta-sub">قريباً على App Store — سجّل الآن للتجربة المبكرة. مجاني بالكامل، بدون إعلانات، بدون بيع بيانات.</p>
+
+    <div class="cta-box" style="margin-bottom:20px">
+      <a href="mailto:contact@sihtak.com">contact@sihtak.com</a>
+      <span>للتسجيل بالتجربة المبكرة</span>
+    </div>
+
+    <div class="cta-box" style="margin-bottom:20px">
+      <a href="https://wa.me/447440487115" dir="ltr">+44 744 048 7115</a>
+      <span>واتساب</span>
+    </div>
+
+    <div class="cta-box">
+      <a href="https://www.sihtak.com">sihtak.com</a>
+      <span>الموقع الرسمي</span>
+    </div>
+
+    <div style="margin-top:40px;display:flex;gap:12px;flex-wrap:wrap;justify-content:center">
+      <div class="hero-chip" style="background:rgba(255,255,255,.12);border-color:rgba(255,255,255,.2);color:#fff">١٠٠+ شاشة</div>
+      <div class="hero-chip" style="background:rgba(255,255,255,.12);border-color:rgba(255,255,255,.2);color:#fff">١٧٥ واجهة برمجية</div>
+      <div class="hero-chip" style="background:rgba(255,255,255,.12);border-color:rgba(255,255,255,.2);color:#fff">٦ أدوار مختلفة</div>
+      <div class="hero-chip" style="background:rgba(255,255,255,.12);border-color:rgba(255,255,255,.2);color:#fff">عربي + English</div>
+      <div class="hero-chip" style="background:rgba(255,255,255,.12);border-color:rgba(255,255,255,.2);color:#fff">يعمل بدون إنترنت</div>
+    </div>
+  </div>
+  <div class="page-footer">
+    <span style="color:rgba(255,255,255,.4)">صنع بواسطة عدنان الرفاعي</span>
+    <span style="color:rgba(255,255,255,.4)">٧ / ٧</span>
+  </div>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,344 @@
+{
+  "slug": "ibuprofen-nsaids-risks",
+  "category": "medicines",
+  "chip_ar": "الأدوية",
+  "chip_en": "Medicines",
+  "date_iso": "2026-08-05",
+  "sources": [
+    {
+      "label": "Domper Arnal MJ, Hijos-Mallada G, Lanas A et al: Gastrointestinal and cardiovascular adverse events associated with NSAIDs, Expert opinion on drug safety, 2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34376069/"
+    },
+    {
+      "label": "Gkiouras K, Myrogiannis I, Kouvelas D et al: Is ibuprofen associated with upper gastrointestinal bleeding? A systematic review and meta-analysis, Inflammopharmacology, 2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40728676/"
+    },
+    {
+      "label": "Ljungman C, Kahan T, Schioler L et al: Non-steroidal anti-inflammatory drugs and blood pressure control in patients treated for hypertension: results from the Swedish primary care cardiovascular database, Blood pressure, 2017",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28276722/"
+    },
+    {
+      "label": "Nissen SE, Yeomans ND, Solomon DH et al: Cardiovascular Safety of Celecoxib, Naproxen, or Ibuprofen for Arthritis, The New England journal of medicine, 2016",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27959716/"
+    },
+    {
+      "label": "Chang RW, Tompkins DM, Cohn SM et al: Are NSAIDs Safe? Assessing the Risk-Benefit Profile of Nonsteroidal Anti-inflammatory Drug Use in Postoperative Pain Management, The American surgeon, 2021",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33238721/"
+    },
+    {
+      "label": "Keen MU, Aeddula NR: Analgesic Nephropathy, StatPearls, 2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31082145/"
+    }
+  ],
+  "content": {
+    "ar": {
+      "title": "إيبوبروفين ومضادات الالتهاب: من يجب أن يتجنبها؟",
+      "desc": "دليل عملي لمضادات الالتهاب غير الستيرويدية: أضرارها على المعدة والكلى وضغط الدم، والحالات التي تستوجب تجنبها تماماً مع بدائل أكثر أماناً.",
+      "keywords": "إيبوبروفين, مضادات الالتهاب, ديكلوفيناك, ابوبروفين والمعدة, ابوبروفين والكلى, مضادات الالتهاب وضغط الدم, بديل الإيبوبروفين",
+      "h1": "إيبوبروفين ومضادات الالتهاب: من يجب أن يتجنبها؟",
+      "takeaways": [
+        "مضادات الالتهاب غير الستيرويدية كالإيبوبروفين والديكلوفيناك تُسبب تهيجاً في المعدة وقد تُؤدي لقرحة ونزيف.",
+        "تضر بوظيفة الكلى خاصة عند من لديهم كلى ضعيفة أو يعانون من الجفاف أو يتناولون أدوية ضغط الدم.",
+        "ترفع ضغط الدم وقد تُفاقم مشاكل القلب والأوعية الدموية لدى من لديهم خطر موجود.",
+        "تُمنع تماماً في الأشهر الأخيرة من الحمل وعند الإصابة بحمى الضنك أو جدري الماء.",
+        "باراسيتامول هو البديل الأول الأكثر أماناً للكثيرين، لكن كل مسكن له مكانه المناسب."
+      ],
+      "sections": [
+        {
+          "h2": "ما هي مضادات الالتهاب غير الستيرويدية وما الفرق بين أنواعها؟",
+          "paras": [
+            "مضادات الالتهاب غير الستيرويدية (NSAIDs) هي مجموعة من الأدوية تشمل الإيبوبروفين (Ibuprofen) والديكلوفيناك (Diclofenac) والنابروكسين (Naproxen) والكيتوبروفين وغيرها. تجدها في الصيدليات بعشرات الأسماء التجارية كبروفين وفولتارين وكيتوفين، وكثير منها يُباع بدون وصفة طبية في دول المنطقة مما يجعل الوعي بمخاطرها مسؤولية الفرد.",
+            "جميعها تعمل بتثبيط إنزيمات تسمى السيكلوأوكسيجيناز (COX-1 و COX-2). هذه الإنزيمات مسؤولة عن إنتاج مواد تُسمى البروستاغلاندينات التي تُسبب الالتهاب والألم والحرارة. بتثبيطها تُقلل المضادات الألم وتخفض الحرارة وتُقلل الانتفاخ معاً، وهذا ما يجعلها مختلفة عن الباراسيتامول الذي لا يُقلل الالتهاب الحقيقي.",
+            "المشكلة أن البروستاغلاندينات التي تُثبطها هذه الأدوية ليست فقط مسؤولة عن الألم، بل لها دور وقائي في تبطين المعدة وصون وظيفة الكلى والتحكم في التوازن السائل في الجسم. لذلك عندما تُثبّط هذه الإنزيمات تُضعف هذه الوظائف الحيوية في آنٍ واحد مما يُفسر معظم أعراضها الجانبية.",
+            "فهم هذه الآلية يُساعد على استيعاب لماذا قد يُفيد الدواء نفسه شخصاً مع آلام المفاصل ويُلحق الضرر بشخص آخر عنده ضعف في الكلى. الدواء يؤثر على منظومة بيولوجية لها أدوار متعددة في الجسم، وليس فقط على الهدف الذي تريد منه الوصول إليه."
+          ]
+        },
+        {
+          "h2": "ماذا تفعل بالمعدة؟ القرحة والنزيف",
+          "paras": [
+            "تهيج المعدة هو أكثر أعراض مضادات الالتهاب شيوعاً. تُضعف هذه الأدوية طبقة المخاط التي تحمي جدار المعدة من حمضها الخاص، مما يجعلها عرضة للتآكل. الشخص الذي يأخذها على معدة فارغة أو يأخذها بانتظام لفترة طويلة في خطر أكبر بكثير من الذي يأخذ جرعة واحدة بعد وجبة.",
+            "مراجعة منهجية وتحليل إحصائي شامل نُشرا عام 2025 في مجلة Inflammopharmacology أكدا وجود علاقة مباشرة بين استخدام الإيبوبروفين وزيادة خطر النزيف في الجهاز الهضمي العلوي. هذا الخطر يتصاعد مع الجرعة ومع مدة الاستخدام، وهو أعلى عند من لديهم قرحة سابقة أو يستخدمون أسبرين أو كورتيزون في نفس الوقت. كذلك يزيد عند المدخنين والمسنين.",
+            "الأعراض التحذيرية التي تستوجب التوقف فوراً والتوجه للطبيب هي ألم حارق في المعدة يشتد بين الوجبات، وبراز داكن أسود اللون أو يحتوي على دم، وقيء يشبه القهوة. هذه العلامات تُشير إلى نزيف في المعدة وتستوجب التوجه لأقرب طوارئ."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "أعراض تستوجب إيقاف الدواء والتوجه للطبيب فوراً",
+            "items": [
+              "ألم شديد أو حرقة في المعدة مع الاستخدام",
+              "براز أسود داكن أو يحتوي على دم ظاهر",
+              "قيء يشبه القهوة أو يحتوي على دم",
+              "ألم شديد مفاجئ في البطن مع تصلب"
+            ]
+          }
+        },
+        {
+          "h2": "كيف تضر بالكلى؟ ومن هم في خطر أكبر؟",
+          "paras": [
+            "الكلى تعتمد على البروستاغلاندينات لتنظيم تدفق الدم إليها، خاصة في حالات الجفاف أو انخفاض ضغط الدم أو الأمراض الكبرى. حين تُثبّط مضادات الالتهاب هذه البروستاغلاندينات تُقلل الدم الواصل للكلى، مما قد يُسبب انخفاضاً مؤقتاً في وظيفتها أو يُفاقم ضعفاً موجوداً مسبقاً. الخطر يتصاعد كلما طالت فترة الاستخدام.",
+            "الأشخاص الأكثر عرضة للضرر الكلوي من مضادات الالتهاب هم: من لديهم كلى ضعيفة أصلاً، ومرضى السكري وضغط الدم اللذان يضعفان الكلى تدريجياً، والمسنون، والجفاف أياً كان سببه، ومن يستخدمون مدرات البول أو بعض أدوية ضغط الدم مثل مثبطات ACE. في هذه الحالات قد يؤدي حتى الاستخدام قصير المدى لضرر ملحوظ في وظائف الكلى.",
+            "مرجع StatPearls الطبي يشير إلى أن الاعتلال الكلوي الناجم عن المسكنات من الحالات الموثقة والمتراكمة في الأدبيات الطبية، وأن تجنب مضادات الالتهاب عند من لديهم خطر كلوي هو توصية طبية صريحة. إذا كنت تعاني من أمراض الكلى أو السكري أو ضغط الدم غير المسيطر عليه فاستشر طبيبك قبل أخذ أي دواء من هذه المجموعة.",
+            "علامات تراجع وظيفة الكلى التي قد تظهر أثناء استخدام مضادات الالتهاب تشمل تورم الوجه والساقين وانخفاض كمية البول أو تلونه بلون داكن غير معتاد. إذا لاحظت أياً من هذه الأعراض خلال فترة الاستخدام فأوقف الدواء وتوجه للطبيب."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "من هم في خطر أعلى من مضادات الالتهاب؟",
+            "head": ["الحالة", "الخطر الأساسي", "البديل الأفضل عادة"],
+            "rows": [
+              ["أمراض الكلى", "تفاقم الوظيفة الكلوية", "باراسيتامول بإشراف طبي"],
+              ["ارتفاع ضغط الدم", "رفع الضغط وإضعاف مدرات البول", "باراسيتامول"],
+              ["قرحة أو نزيف معدي سابق", "نزيف جديد", "باراسيتامول"],
+              ["الحمل في الثلث الثالث", "إغلاق قناة شرياني في الجنين", "ممنوعة تماماً"],
+              ["مرضى القلب والشرايين", "رفع خطر النوبات القلبية", "باراسيتامول أو تقييم طبي"]
+            ]
+          }
+        },
+        {
+          "h2": "مضادات الالتهاب وضغط الدم: العلاقة التي يتجاهلها كثيرون",
+          "paras": [
+            "مضادات الالتهاب ترفع ضغط الدم بآليات متعددة، منها تثبيط إنتاج البروستاغلاندينات التي تُوسّع الأوعية الدموية وتساعد الكلى على التخلص من الصوديوم والماء. حين تُثبط هذه الإنزيمات يرتفع ضغط الدم تدريجياً ويتراكم السائل في الجسم محدثاً انتفاخاً في الأطراف.",
+            "دراسة سويدية كبيرة نُشرت عام 2017 في مجلة Blood Pressure تابعت مرضى ضغط الدم ووجدت أن من يستخدمون مضادات الالتهاب بانتظام يعانون من تحكم أسوأ في ضغط الدم مقارنة بمن لا يستخدمونها. الخطر ليس نظرياً بل يُقاس في أرقام ضغط الدم اليومية عند العيادة.",
+            "مرضى ضغط الدم الذين يأخذون أدوية مثل مثبطات ACE أو حاصرات مستقبلات الأنجيوتنسين أو مدرات البول يواجهون خطراً مضاعفاً: مضادات الالتهاب تُضعف فاعلية أدويتهم وترفع ضغطهم في الوقت نفسه. هذا التفاعل الدوائي مهم ومدروس ويُغفله كثير من الناس حين يشترون الدواء من الصيدلية دون وصفة.",
+            "إذا كنت تتناول أدوية ضغط الدم وتحتاج مسكناً للألم فأخبر الصيدلاني بجميع أدويتك قبل اختيار أي منتج. في أغلب الأحيان سيوجهك للباراسيتامول كخيار أكثر أماناً لحالتك."
+          ]
+        },
+        {
+          "h2": "حمى الضنك وجدري الماء: لماذا الإيبوبروفين ممنوع؟",
+          "paras": [
+            "في حالات حمى الضنك يُمنع الإيبوبروفين وجميع مضادات الالتهاب غير الستيرويدية منعاً صريحاً. حمى الضنك تُسبب انخفاضاً حاداً في الصفائح الدموية المسؤولة عن إيقاف النزيف وتجلط الدم. مضادات الالتهاب تمنع الصفائح من الالتصاق معاً وتُضعف وظيفتها بشكل إضافي. الجمع بين الاثنين يرفع خطر النزيف الداخلي الخطير بشكل حقيقي.",
+            "حمى الضنك تنتشر في بعض مناطق المشرق العربي واليمن والسودان والسودان خاصة في موسم الأمطار. الدواء الوحيد الآمن لخفض الحرارة في حمى الضنك هو الباراسيتامول. إذا اشتبهت بالإصابة بحمى الضنك وكنت تتناول إيبوبروفين أوقفه فوراً وتوجه للطبيب أو أقرب مستشفى لتقييم الحالة وإجراء تحليل الصفائح الدموية.",
+            "الحال مشابهة مع جدري الماء، والتوصية العامة لعائلات الأطفال المصابين هي تجنب مضادات الالتهاب والاكتفاء بالباراسيتامول لتخفيف الحرارة والألم. الحكاية لا تنتهي عند المريض نفسه: لا تُعطِ مضادات الالتهاب لطفل مصاب بأي مرض فيروسي حاد قبل مراجعة الطبيب.",
+            "هذا التنبيه مهم بشكل خاص في فصل الصيف وموسم الأمطار في المنطقة حين تنتشر الأمراض الفيروسية. الحمى التي تصاحبها آلام في المفاصل والعينين وطفح جلدي في مناطق موبوءة بالبعوض تستوجب استبعاد حمى الضنك قبل إعطاء أي دواء."
+          ]
+        },
+        {
+          "h2": "الحمل والرضاعة: التحذيرات الصريحة",
+          "paras": [
+            "مضادات الالتهاب غير الستيرويدية ممنوعة بشكل صريح في الثلث الثالث من الحمل لأنها قد تتسبب في إغلاق مبكر لقناة شريانية مهمة في قلب الجنين تسمى القناة الشريانية، وقد تُقلل من كمية السائل الأمنيوسي المحيط بالجنين بسبب تأثيرها على كلى الجنين. هذا يُشكل خطراً حقيقياً على القلب والجهاز الوظيفي للجنين.",
+            "في الثلثين الأول والثاني بعض الدراسات أثارت قلقاً محتملاً من الاستخدام المنتظم، لكن الأدلة أضعف وغير حاسمة. القاعدة العامة الأسلم هي تجنبها أثناء الحمل ما أمكن واستبدالها بالباراسيتامول الذي يُعدّ المسكن الأكثر أماناً للحامل. إذا كان هناك حالة التهابية حقيقية تستوجب مضاد التهاب فهذا قرار يتخذه الطبيب بعد موازنة المخاطر والفوائد.",
+            "أثناء الرضاعة تنتقل مضادات الالتهاب إلى حليب الأم بكميات ضئيلة. بعضها كالإيبوبروفين يُعدّ مقبولاً للاستخدام العرضي القصير أثناء الرضاعة حين تكون الحاجة ملحة. لكن أي استخدام منتظم خلال الرضاعة يستوجب مناقشة مع الطبيب المتابع للتأكد من أن الخيار آمن ومناسب لمرحلة الرضاعة."
+          ]
+        },
+        {
+          "h2": "البدائل الأكثر أماناً: متى تختار الباراسيتامول؟",
+          "paras": [
+            "لا يعني وجود مخاطر لمضادات الالتهاب أنها عديمة الفائدة. لبعض الحالات مثل التهاب المفاصل الروماتيزمي في أوقات التفاقم، والتهاب الأوتار والأكياس المصلية، وبعض أوجاع الظهر ذات الطابع الالتهابي، تكون أكثر فاعلية من الباراسيتامول لأنها تعالج الالتهاب نفسه لا فقط الإحساس بالألم. المهم هو استخدامها في مكانها الصحيح وبأقل جرعة لأقصر وقت ممكن.",
+            "الباراسيتامول هو الاختيار الأول لمعظم الآلام البسيطة والحرارة عند من لديهم مشاكل معدية أو كلوية أو يستخدمون أدوية ضغط الدم. كما أنه البديل الوحيد المناسب أثناء الحمل وفي حمى الضنك وجدري الماء. لا يُقلل الالتهاب لكنه يُخفف الألم ويخفض الحرارة بأمان أكبر لهذه الفئات.",
+            "الحرارة السطحية كالكمادات الدافئة والباردة تساعد في تخفيف الألم العضلي والمفصلي الموضعي دون أي أثر جانبي على الجسم. الكمادة الدافئة مناسبة للتوتر العضلي المزمن وآلام الظهر، بينما الكمادة الباردة أكثر فاعلية في الإصابات الحادة والتورم الطازج.",
+            "بعض الكريمات الموضعية المحتوية على مضادات التهاب كالديكلوفيناك الجيل تُعطي راحة محلية جيدة في المناطق القريبة من السطح كالركبة والكتف والرسغ، مع امتصاص جهازي أقل بكثير من الحبوب. هذا يجعلها خياراً وسطاً معقولاً لمن يحتاج مفعول مضاد الالتهاب لكنه يريد تقليل الأثر على المعدة والكلى."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "أوقف مضادات الالتهاب وتحدث مع طبيبك إذا",
+            "items": [
+              "اكتشفت أن لديك أمراض كلوية أو ارتفاعاً في الكرياتينين",
+              "تناولت مدرات بول أو أدوية ضغط دم من نوع ACE/ARB",
+              "لاحظت انتفاخاً في الساقين أو قدمين بعد استخدامها",
+              "أنت حامل أو تشكّ في الحمل",
+              "تصاب أو تشتبه في الإصابة بحمى الضنك"
+            ]
+          }
+        },
+        {
+          "h2": "الاستخدام الصحيح عند الحاجة إليها فعلاً",
+          "paras": [
+            "إذا قرر الطبيب أو الصيدلاني أن مضادات الالتهاب هي الأنسب لحالتك فهناك طريقة للاستخدام تُقلل المخاطر. دائماً تناولها بعد الأكل أو مع كوب كبير من الماء لأن الطعام يُقلل التهيج المباشر لجدار المعدة. على معدة فارغة يرتفع خطر الأذى المعدي بشكل ملحوظ.",
+            "استخدم أقل جرعة تُحقق الراحة المطلوبة وليس الجرعة القصوى المسموحة. كثير من الناس يأخذون جرعة البالغ الكاملة من البداية بينما نصف الجرعة أو ثلاثة أرباعها يكفي لأنواع كثيرة من الألم. حدد لنفسك مدة استخدام قصيرة لا تزيد على ثلاثة إلى خمسة أيام ما لم يوصِ طبيبك بخلاف ذلك.",
+            "لا تجمع بين نوعين من مضادات الالتهاب في نفس الوقت، كأن تأخذ إيبوبروفين وديكلوفيناك معاً. هذا يُضاعف الأضرار دون أن يُضاعف الفائدة. كذلك تجنب الجمع بينها وبين الأسبرين الذي يُستخدم لصحة القلب لأن هذا التركيب يرفع خطر النزيف المعدي بشكل كبير.",
+            "قاعدة بسيطة للحفظ: مضادات الالتهاب للالتهاب الحقيقي الموثق لفترة قصيرة تحت الإشراف المناسب. الباراسيتامول للألم والحرارة البسيطة وللحالات التي تستوجب الحذر مثل أمراض الكلى والحمل وضغط الدم. والاستشارة قبل أي استخدام مطوّل أمر ليس اختيارياً."
+          ]
+        }
+      ],
+      "tie": "في تطبيق صحتك يمكنك تسجيل تاريخك الصحي وأدويتك الدائمة حتى يُساعدك المساعد الصحي الذكي في اختيار المسكن الأنسب لك. إذا لم تكن متأكداً من أي المسكنات آمن في حالتك اطرح السؤال على المساعد وأخبره بحالاتك الصحية المزمنة.",
+      "faqs": [
+        {
+          "q": "هل الإيبوبروفين آمن للاستخدام اليومي؟",
+          "a": "لا، الإيبوبروفين للاستخدام قصير المدى عند الحاجة. الاستخدام اليومي المزمن يرفع خطر قرحة المعدة والنزيف وضعف الكلى وارتفاع ضغط الدم. إذا كنت تحتاج مسكناً يومياً استشر طبيبك."
+        },
+        {
+          "q": "هل يمكن أخذ الإيبوبروفين مع الباراسيتامول في نفس الوقت؟",
+          "a": "نعم يمكن تناولهما معاً لأنهما يعملان بآليات مختلفة. هذا الجمع مسموح به لفترات قصيرة وقد يُعطي راحة أكبر لبعض أنواع الألم. اتبع الجرعة الموصى بها لكل منهما ولا تتجاوزها."
+        },
+        {
+          "q": "هل مضادات الالتهاب خطيرة على الكلى؟",
+          "a": "تُسبب ضغطاً على الكلى خاصة عند من لديهم ضعف كلوي مسبق أو يعانون من جفاف أو يستخدمون أدوية ضغط الدم. للشخص السليم المتوازن في الترطيب الاستخدام القصير عادة آمن."
+        },
+        {
+          "q": "لماذا لا يؤخذ الإيبوبروفين في حمى الضنك؟",
+          "a": "حمى الضنك تُقلل الصفائح الدموية المسؤولة عن إيقاف النزيف، ومضادات الالتهاب تُضعف وظيفة الصفائح أيضاً. الجمع يرفع خطر النزيف الداخلي الخطير. الباراسيتامول هو الوحيد الآمن لخفض الحرارة في هذه الحالة."
+        },
+        {
+          "q": "هل يمكن للمريض بضغط الدم أخذ الإيبوبروفين؟",
+          "a": "يُفضل تجنبه. مضادات الالتهاب ترفع ضغط الدم وتُقلل فاعلية أدوية ضغط الدم. الباراسيتامول هو المسكن الأفضل لمرضى ضغط الدم. إذا كنت بحاجة لمضاد التهاب ناقش ذلك مع طبيبك."
+        },
+        {
+          "q": "هل الإيبوبروفين آمن أثناء الحمل؟",
+          "a": "ممنوع في الثلث الثالث من الحمل بشكل قاطع. في الثلثين الأول والثاني يُنصح بتجنبه والاستبدال بالباراسيتامول. لا تتناولي أي مضاد التهاب أثناء الحمل دون مناقشة الطبيب."
+        },
+        {
+          "q": "ما أسلم وقت لتناول مضادات الالتهاب؟",
+          "a": "دائماً بعد الطعام أو مع كوب كبير من الماء لتقليل تهيج المعدة. على معدة فارغة ترتفع فرصة الأذى المعدي بشكل ملحوظ."
+        },
+        {
+          "q": "هل الكريمات الموضعية لمضادات الالتهاب أكثر أماناً من الحبوب؟",
+          "a": "نعم بشكل عام. الكريمات الموضعية تُقلل الألم في المنطقة المدهونة مع امتصاص جهازي أقل بكثير، مما يُقلل الأثر على المعدة والكلى. لكنها أقل فاعلية للألم العميق أو المنتشر."
+        }
+      ]
+    },
+    "en": {
+      "title": "Ibuprofen and NSAIDs: Who Should Avoid Them",
+      "desc": "NSAIDs like ibuprofen carry real risks for the stomach, kidneys, and blood pressure. Find out who should avoid them and what is safer to take instead.",
+      "keywords": "ibuprofen risks, NSAIDs side effects, ibuprofen kidney damage, ibuprofen stomach ulcer, ibuprofen blood pressure, NSAIDs pregnancy, ibuprofen alternatives",
+      "h1": "Ibuprofen and NSAIDs: Who Should Avoid Them and What to Take Instead",
+      "takeaways": [
+        "NSAIDs like ibuprofen and diclofenac irritate the stomach lining and can cause ulcers and bleeding with regular use.",
+        "They reduce blood flow to the kidneys and can cause or worsen kidney problems, especially in high-risk people.",
+        "They raise blood pressure and can reduce the effectiveness of blood pressure medicines.",
+        "They are completely contraindicated in the last trimester of pregnancy and during dengue fever.",
+        "Paracetamol is the safer first choice for most people with stomach, kidney, or blood pressure concerns."
+      ],
+      "sections": [
+        {
+          "h2": "What are NSAIDs and how do they work?",
+          "paras": [
+            "Non-steroidal anti-inflammatory drugs, or NSAIDs, are a family of medicines that includes ibuprofen, diclofenac, naproxen, ketoprofen, and many others. They are sold under dozens of brand names across the region, and most are available without a prescription at pharmacies throughout the Middle East.",
+            "They work by blocking enzymes called cyclooxygenases, specifically COX-1 and COX-2. These enzymes produce substances called prostaglandins that are responsible for pain, inflammation, and fever. By blocking this pathway, NSAIDs reduce pain, lower fever, and reduce swelling simultaneously, which is why they are more effective than paracetamol for inflammatory conditions such as arthritis.",
+            "The problem is that the same prostaglandins also protect the stomach lining, maintain blood flow to the kidneys, and regulate fluid balance throughout the body. When NSAIDs suppress this system, they impair all of these functions at once, which is the source of most of their side effects.",
+            "Understanding this mechanism helps explain why the same drug can help one person's back pain while causing serious harm to another person's kidney or stomach. The drug is acting on a system with many roles, not just the one you want it to target."
+          ]
+        },
+        {
+          "h2": "What NSAIDs do to the stomach: ulcers and bleeding",
+          "paras": [
+            "Stomach irritation is the most common side effect of NSAIDs. They weaken the layer of mucus that protects the stomach wall from its own acid, leaving the lining exposed. Someone who takes them on an empty stomach or uses them regularly for weeks is at considerably higher risk than someone who takes a single dose after a meal.",
+            "A 2025 systematic review and meta-analysis published in Inflammopharmacology confirmed a direct association between ibuprofen use and an increased risk of upper gastrointestinal bleeding. This risk rises with dose and duration of use, and is substantially higher in people who have had a previous ulcer or who are also taking aspirin or corticosteroids.",
+            "The warning signs that should prompt you to stop the medicine and see a doctor are a burning or gnawing pain in the upper abdomen that worsens between meals, black or tarry stools, or vomiting that looks like coffee grounds. These point to active bleeding in the stomach and need emergency attention.",
+            "A 2022 review in Expert Opinion on Drug Safety confirmed that gastrointestinal events are the most common serious adverse effect associated with NSAIDs and that combining them with aspirin, other NSAIDs, or steroids multiplies the risk substantially."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "Stop the medicine and see a doctor if you notice",
+            "items": [
+              "Burning or severe pain in the upper abdomen during use",
+              "Black, tarry stools or visible blood in stool",
+              "Vomiting that looks like coffee grounds or contains blood",
+              "Sudden severe abdominal pain with rigidity"
+            ]
+          }
+        },
+        {
+          "h2": "How NSAIDs affect the kidneys and who is most at risk",
+          "paras": [
+            "The kidneys rely on prostaglandins to regulate their own blood supply, particularly when the body is stressed by dehydration, illness, or low blood pressure. When NSAIDs block prostaglandin production, kidney blood flow drops. In healthy people who are well hydrated this is usually tolerated. In higher-risk individuals it can cause acute kidney injury within days.",
+            "The people most at risk of NSAID-related kidney harm are those with pre-existing kidney disease, people with diabetes or high blood pressure that has already affected kidney function, older adults whose kidneys are less adaptable, anyone who is dehydrated for any reason, and people taking diuretics or ACE inhibitors or angiotensin receptor blockers. A 2026 review in StatPearls on analgesic nephropathy notes that this class of drugs is a well-documented cause of progressive kidney damage with long-term use.",
+            "If you have been told your kidneys are not working at full capacity, or if your creatinine or eGFR is outside the normal range, NSAIDs should generally be avoided. Even a short course during a febrile illness, when dehydration is likely, can be enough to tip someone in this group into acute kidney injury.",
+            "The practical advice is straightforward: if you are unsure whether your kidneys can handle an NSAID, ask your doctor or pharmacist. They can check your most recent blood tests and give you a specific answer for your situation."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Who faces higher risk from NSAIDs",
+            "head": ["Condition", "Main risk", "Better alternative"],
+            "rows": [
+              ["Kidney disease", "Acute or worsening kidney failure", "Paracetamol with medical guidance"],
+              ["High blood pressure", "Blood pressure rise, reduced drug efficacy", "Paracetamol"],
+              ["Previous stomach ulcer or bleed", "Repeat bleeding", "Paracetamol"],
+              ["Third trimester pregnancy", "Fetal cardiac and renal effects", "Completely contraindicated"],
+              ["Heart disease or stroke history", "Increased cardiovascular events", "Paracetamol or medical review"]
+            ]
+          }
+        },
+        {
+          "h2": "NSAIDs and blood pressure: the interaction many people miss",
+          "paras": [
+            "NSAIDs raise blood pressure by suppressing prostaglandins that normally dilate blood vessels and help the kidneys excrete sodium and water. When these prostaglandins are blocked, blood pressure tends to rise and fluid is retained. This effect is modest in healthy people but meaningful in someone whose pressure is already elevated.",
+            "A large Swedish registry study published in Blood Pressure in 2017 followed patients with hypertension and found that those who used NSAIDs regularly had significantly worse blood pressure control compared with those who did not. This was true even for people taking multiple antihypertensive medicines.",
+            "The interaction goes further. NSAIDs reduce the effectiveness of several common blood pressure drugs, including ACE inhibitors, angiotensin receptor blockers, and diuretics. A patient on these medicines who adds an over-the-counter ibuprofen is working against their own treatment. This triple interaction of raised pressure, fluid retention, and reduced drug effect is a clinically important one that most patients are never warned about."
+          ]
+        },
+        {
+          "h2": "Dengue fever and chickenpox: why ibuprofen is specifically dangerous",
+          "paras": [
+            "Dengue fever, which is endemic in parts of Yemen, Sudan, and wider East Africa and has seasonal outbreaks across the Levant, causes a severe drop in platelets, the blood cells responsible for clotting. NSAIDs have an additional platelet-inhibiting effect of their own. Combining dengue-related low platelets with the anti-platelet effect of ibuprofen creates a serious risk of internal bleeding that can be life-threatening.",
+            "The World Health Organization and national health authorities in dengue-endemic countries specifically prohibit NSAIDs in dengue and direct patients to paracetamol only for fever control. If you suspect dengue and are taking ibuprofen, stop it immediately and go to a doctor. If you are in a dengue area and develop fever with joint pain and eye pain, assume dengue until proven otherwise and take only paracetamol.",
+            "For chickenpox, the concern in the published literature is particularly strong for aspirin, which is associated with Reye's syndrome when given during viral infections in children. Ibuprofen is generally advised against in children with chickenpox as well, and paracetamol is the safe alternative for fever and discomfort in this setting."
+          ]
+        },
+        {
+          "h2": "Pregnancy and breastfeeding: the clear warnings",
+          "paras": [
+            "NSAIDs are explicitly contraindicated in the third trimester of pregnancy. They can cause premature closure of the ductus arteriosus, an important blood vessel in the fetal heart, and they can reduce the amniotic fluid surrounding the baby by impairing fetal kidney function. These are serious risks to the fetal cardiovascular system and kidneys.",
+            "In the first and second trimesters the evidence is less certain, but a number of studies have raised concerns about regular use and possible effects on fetal development and early labour. The practical recommendation is to avoid NSAIDs throughout pregnancy where possible and to use paracetamol instead, which is the established safer choice for pain and fever during pregnancy.",
+            "During breastfeeding, ibuprofen in particular is considered compatible with breastfeeding at normal doses based on the very small amounts that pass into breast milk. Short-term use for a specific problem such as post-partum pain is generally acceptable. For regular longer-term use during breastfeeding, discuss with your doctor."
+          ]
+        },
+        {
+          "h2": "Safer alternatives and when NSAIDs are the right choice",
+          "paras": [
+            "None of this means NSAIDs are without value. For genuinely inflammatory conditions, including rheumatoid arthritis flares, tendinitis, and certain types of back pain where inflammation is a key component, they are more effective than paracetamol because they treat the underlying inflammation rather than just masking the pain signal. For these uses, taken at the lowest effective dose for the shortest effective time, the benefit-to-risk balance is often reasonable.",
+            "Paracetamol is the better first choice for most simple pain and fever in people who have stomach problems, kidney concerns, high blood pressure, or who are pregnant. It does the same job of pain relief and fever reduction without the stomach, kidney, and cardiovascular effects.",
+            "Topical NSAID creams and gels applied directly to the skin over a painful joint or muscle offer local relief with far lower systemic absorption than oral tablets. This makes them a genuinely useful middle ground for conditions like knee osteoarthritis or localised soft tissue injuries where the area is accessible.",
+            "For musculoskeletal pain, heat and cold packs are underused and genuinely effective for many people. A warm compress on a muscle spasm or a cold pack on an acutely inflamed joint can provide meaningful relief without any pharmacological risk at all."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "Stop NSAIDs and speak to a doctor if you have",
+            "items": [
+              "Newly discovered kidney disease or a rising creatinine level",
+              "Started or changed blood pressure medicines, especially ACE inhibitors or diuretics",
+              "Developed leg or ankle swelling during use",
+              "Become pregnant or are trying to conceive",
+              "Fever with joint pain in a dengue area"
+            ]
+          }
+        },
+        {
+          "h2": "How to use NSAIDs more safely when they are needed",
+          "paras": [
+            "If a doctor or pharmacist has confirmed that an NSAID is the appropriate choice for your situation, there are ways to reduce the risks. Always take them with food or with a large glass of water to reduce the direct irritant effect on the stomach. Taking them on an empty stomach significantly increases the chance of stomach damage.",
+            "Use the lowest dose that gives you relief and not the maximum dose automatically. Many people reach for the full adult dose when half of it would be sufficient. Set yourself a time limit of three to five days unless your doctor has specifically said otherwise, and reassess at that point.",
+            "Never combine two NSAIDs at the same time, such as taking both ibuprofen and diclofenac. This doubles the harm without doubling the benefit. Equally, avoid combining NSAIDs with aspirin used for heart health, as this combination significantly raises the risk of gastrointestinal bleeding.",
+            "A 2021 risk-benefit review published in The American Surgeon noted that the risk profile of NSAIDs is well-characterised and manageable with appropriate patient selection and the lowest effective dose. The key phrase is appropriate patient selection, which means taking the time to consider whether this drug is right for you specifically, not just for pain in general."
+          ]
+        }
+      ],
+      "tie": "In the Sihtak app you can log your existing health conditions and regular medicines so the health assistant can help you choose the safest pain reliever for your specific situation. If you are unsure whether an NSAID is right for you, ask the assistant and include your kidney function, blood pressure, and any medicines you already take.",
+      "faqs": [
+        {
+          "q": "Is ibuprofen safe to take every day?",
+          "a": "No. Ibuprofen is intended for short-term use when needed. Daily use over weeks raises the risk of stomach ulcers, kidney stress, and blood pressure elevation. If you need a daily pain reliever, discuss this with your doctor so the underlying cause can be addressed."
+        },
+        {
+          "q": "Can I take ibuprofen and paracetamol together?",
+          "a": "Yes, the two can be taken together or alternated because they work by different mechanisms. This combination is sometimes used for more severe short-term pain and is generally safe for a few days. Follow the recommended dose for each separately."
+        },
+        {
+          "q": "Are NSAIDs dangerous for the kidneys?",
+          "a": "They reduce blood flow to the kidneys and can cause harm in people with pre-existing kidney problems, diabetes, dehydration, or those taking certain blood pressure medicines. For a healthy well-hydrated person, short-term use is generally safe."
+        },
+        {
+          "q": "Why is ibuprofen forbidden in dengue fever?",
+          "a": "Dengue severely lowers platelet counts, and NSAIDs additionally impair platelet function. Combining these two effects raises the risk of serious internal bleeding. Paracetamol is the only safe fever reducer in dengue."
+        },
+        {
+          "q": "Can someone with high blood pressure take ibuprofen?",
+          "a": "It is best avoided. NSAIDs raise blood pressure and reduce the effectiveness of antihypertensive medicines. Paracetamol is the safer pain reliever for people with hypertension. If an anti-inflammatory is truly needed, discuss with your doctor."
+        },
+        {
+          "q": "Is ibuprofen safe in pregnancy?",
+          "a": "No in the third trimester, where it is contraindicated because of effects on the fetal heart and kidneys. In the first and second trimesters it should also be avoided where possible. Paracetamol is the recommended alternative throughout pregnancy."
+        },
+        {
+          "q": "What is the safest time to take NSAIDs?",
+          "a": "Always with food or with a large glass of water. Taking them on an empty stomach significantly increases the risk of stomach irritation and ulceration."
+        },
+        {
+          "q": "Are topical NSAID creams safer than tablets?",
+          "a": "Generally yes. Topical gels and creams deliver local relief with much lower absorption into the bloodstream, reducing the stomach, kidney, and cardiovascular risks substantially. They are a good option for accessible areas like knees, shoulders, and wrists."
+        }
+      ]
+    }
+  }
+}

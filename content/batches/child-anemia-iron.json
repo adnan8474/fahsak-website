@@ -1,0 +1,451 @@
+{
+  "slug": "child-anemia-iron",
+  "category": "child-health",
+  "chip_ar": "صحة الطفل",
+  "chip_en": "Child Health",
+  "date_iso": "2026-07-08",
+  "sources": [
+    {
+      "label": "Musaiger AO: Iron deficiency anaemia among children and pregnant women in the Arab Gulf countries: the need for action, Nutrition and health, 2002",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12418800/"
+    },
+    {
+      "label": "Lifschitz CH, Miqdady M, Indrio F et al: Practices of Introduction of Complementary Feeding and Iron Deficiency Prevention in the Middle East and North Africa, Journal of pediatric gastroenterology and nutrition, 2018",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30067543/"
+    },
+    {
+      "label": "Ziegler EE: Consumption of cow's milk as a cause of iron deficiency in infants and toddlers, Nutrition reviews, 2011",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22043881/"
+    },
+    {
+      "label": "Samson KLI, Fischer JAJ, Roche ML et al: Iron Status, Anemia, and Iron Interventions and Their Associations with Cognitive and Academic Performance in Adolescents: A Systematic Review, Nutrients, 2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35011099/"
+    },
+    {
+      "label": "Gedfie S, Getawa S, Melku M et al: Prevalence and Associated Factors of Iron Deficiency and Iron Deficiency Anemia Among Under-5 Children: A Systematic Review and Meta-Analysis, Global pediatric health, 2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35832654/"
+    },
+    {
+      "label": "Al-Shameri EA, Al-Shahethi AH, Wafa SW et al: Nutritional status and its determinants in the Eastern Mediterranean region. A review, Saudi medical journal, 2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35414622/"
+    }
+  ],
+  "content": {
+    "ar": {
+      "title": "فقر الدم عند الأطفال: الأسباب والفحوصات والحديد",
+      "desc": "فقر الدم بنقص الحديد شائع جداً عند أطفال منطقتنا ويؤثر على التعلم والنمو. تعرف على الأعراض والفحوصات وأفضل المصادر الغذائية للحديد.",
+      "keywords": "فقر الدم عند الأطفال, نقص الحديد أطفال, تحليل دم طفل, هيموغلوبين منخفض طفل, أعراض فقر الدم, حديد في الطعام للأطفال, حليب بقر وفقر الدم",
+      "h1": "فقر الدم عند الأطفال: لماذا ينتشر في منطقتنا وكيف تعرفه",
+      "takeaways": [
+        "فقر الدم بنقص الحديد هو أكثر اضطرابات التغذية شيوعاً بين الأطفال في منطقة الشرق الأوسط وشمال أفريقيا.",
+        "الاعتماد المفرط على حليب البقر بعد عمر السنة يُعد من أهم أسباب نقص الحديد عند الأطفال الصغار.",
+        "فقر الدم غير المعالج يؤثر سلباً على القدرة على التعلم والتركيز في المدرسة.",
+        "الأطفال بعمر 6 أشهر إلى سنتين والمراهقون هم الأكثر عرضة للخطر.",
+        "معظم الحالات تتحسن بالتغذية الصحيحة أو مكملات الحديد تحت إشراف الطبيب."
+      ],
+      "sections": [
+        {
+          "h2": "ما هو فقر الدم بنقص الحديد وكيف يؤثر على طفلك؟",
+          "paras": [
+            "فقر الدم (Anemia) يعني انخفاض كمية الهيموغلوبين (Hemoglobin) في الدم، وهو البروتين الذي يحمل الأكسجين إلى خلايا الجسم. عندما تنخفض مستويات الحديد في الجسم، لا يستطيع النخاع العظمي إنتاج كمية كافية من كريات الدم الحمراء، فيُصاب الطفل بفقر الدم. الحديد ضروري لبناء الهيموغلوبين، وبدونه تحمل كريات الدم الحمراء أكسجيناً أقل من المعتاد.",
+            "كثير من الأهالي يلاحظون أن طفلهم شاحب اللون أو سريع التعب، لكنهم لا يربطون ذلك بنقص الحديد. والحقيقة أن الأعراض في البداية خفيفة وتتصاعد تدريجياً حتى تبدأ بالتأثير على نشاط الطفل اليومي. طفل يتعب من أي مجهود بسيط أو يرفض اللعب قد يكون يعاني من نقص الحديد دون علم أحد.",
+            "ما يجعل هذا الأمر جدياً هو تأثيره على الدماغ النامي. الحديد ضروري لبناء المايلين، وهو الغطاء الذي يحمي الأعصاب ويسرع توصيل الإشارات العصبية. نقص الحديد في سنوات النمو الأولى قد يترك أثراً طويل الأمد على القدرات المعرفية، وهو ما تؤكده الدراسات التي تتناول أداء الأطفال المصابين بفقر الدم في الاختبارات المدرسية."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "warn",
+            "title": "أعراض تستحق التقييم",
+            "items": [
+              "شحوب الجلد خاصة داخل الجفن السفلي",
+              "تعب واضح أو انخفاض في النشاط البدني",
+              "صعوبة في التركيز والانتباه في المدرسة",
+              "شهية غريبة للأكل مواد غير غذائية مثل الطين أو الثلج",
+              "سرعة التنفس أو ضربات قلب سريعة عند المجهود"
+            ]
+          }
+        },
+        {
+          "h2": "مدى انتشار المشكلة في الشرق الأوسط وشمال أفريقيا",
+          "paras": [
+            "فقر الدم بنقص الحديد ليس مشكلة هامشية في منطقتنا، بل هو تحدٍّ صحي حقيقي يمس شريحة واسعة من الأطفال. أشارت دراسات أجريت في دول الخليج العربي إلى أن نقص الحديد يصيب نسبة ملحوظة من الأطفال دون سن الخامسة، مع تفاوت بين المناطق الحضرية والريفية. في بعض مناطق مصر واليمن وسوريا، تبلغ النسب أعلى مستوياتها نتيجة الأوضاع الاقتصادية وقلة التنوع الغذائي.",
+            "مراجعة نشرتها المجلة الطبية السعودية عام 2022 حول التغذية في منطقة شرق المتوسط أكدت أن نقص الحديد لا يزال من أبرز مشكلات التغذية في المنطقة، مؤثراً بشكل غير متناسب على الأطفال الصغار والنساء. الأطفال الذين يعيشون في مناطق النزاعات أو التهجير هم الأكثر هشاشة، إذ تنعدم فرص الحصول على أطعمة غنية بالحديد وتضطرب العادات الغذائية بشكل كامل.",
+            "دراسة شاملة صدرت عام 2018 في مجلة طب الأطفال وأمراض الجهاز الهضمي والتغذية تناولت عادات إدخال الأطعمة التكميلية في الشرق الأوسط وشمال أفريقيا، وخلصت إلى أن التأخر في إدخال الأطعمة الغنية بالحديد وبعض الممارسات الخاطئة في التغذية تُسهم بشكل مباشر في ارتفاع معدلات نقص الحديد."
+          ],
+          "visual": {
+            "type": "stats",
+            "items": [
+              {
+                "value": "40%+",
+                "label": "من أطفال دون الخامسة في مناطق بالشرق الأوسط مصابون بفقر الدم",
+                "tone": "bad"
+              },
+              {
+                "value": "6-24",
+                "label": "شهراً هو العمر الأعلى خطراً لنقص الحديد",
+                "tone": "warn"
+              }
+            ]
+          }
+        },
+        {
+          "h2": "حليب البقر والسبب الذي يفاجئ كثيراً من الأهالي",
+          "paras": [
+            "من أكثر الأسباب انتشاراً وأقلها توقعاً: الاعتماد المفرط على حليب البقر الطازج في سن ما بين السنة والثلاث سنوات. حليب البقر يحتوي على كمية ضئيلة جداً من الحديد، وهذا القليل لا يُمتص بشكل جيد من الأمعاء. والأسوأ من ذلك أن الحليب يحتوي على بروتينات قد تُهيج بطانة الأمعاء الدقيقة عند الأطفال الصغار، مما يؤدي إلى نزيف خفي يُستنزف معه الحديد من الجسم.",
+            "دراسة مراجعية نشرتها مجلة Nutrition Reviews عام 2011 أوضحت آلية هذه المشكلة بدقة: حليب البقر لا يوفر الحديد الكافي، ويمتلئ به المعدة بسرعة مما يُقلل شهية الطفل للأطعمة الأخرى الغنية بالحديد. نتيجة لذلك، طفل يشرب كميات كبيرة من حليب البقر بعد عمر السنة هو في الغالب طفل لا يأكل كمية كافية من اللحوم والبقوليات والأطعمة الغنية بالحديد.",
+            "التوصية الحالية للأطباء هي ألا يزيد استهلاك حليب البقر عن 480 مل يومياً للأطفال بعمر السنة إلى الثلاث سنوات، وأن يُكمَّل ذلك بنظام غذائي متنوع غني بالحديد. هذه ليست حرباً على الحليب، بل تذكير بأنه وجبة واحدة لا بديل عن تنوع الطعام."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "warn",
+            "title": "تنبيه: الاعتماد المفرط على حليب البقر",
+            "items": [
+              "حليب البقر فقير جداً بالحديد ولا يفي باحتياجات الطفل بعد عمر السنة",
+              "الإفراط في الحليب يُقلل الشهية نحو الأطعمة الغنية بالحديد",
+              "حليب البقر للأطفال الصغار: لا يتجاوز 480 مل يومياً",
+              "لا يُعطى حليب البقر الطازج قبل عمر 12 شهراً أصلاً"
+            ]
+          }
+        },
+        {
+          "h2": "من هم الأطفال الأكثر عرضة لنقص الحديد؟",
+          "paras": [
+            "الخطر لا يتوزع بالتساوي بين الأطفال. الرضع الذين وُلدوا قبل أوانهم أو كان وزنهم منخفضاً عند الولادة لديهم مخزون أقل من الحديد لأن الجنين يكتسب معظم احتياطياته من الحديد في الثلث الأخير من الحمل. الرضاعة الطبيعية الكاملة دون إدخال أطعمة غنية بالحديد بعد عمر ستة أشهر هي سبب شائع آخر في منطقتنا.",
+            "الأطفال في مرحلة النمو السريع، أي من عمر ستة أشهر إلى سنتين، هم الأكثر هشاشة لأن متطلبات الجسم من الحديد تفوق ما يمكن الحصول عليه من كثير من الأنظمة الغذائية الشائعة. المراهقون أيضاً في خطر، خاصة المراهقات اللواتي بدأن دورتهن الشهرية، إذ تُستنزف كميات من الحديد مع كل دورة.",
+            "عوامل تزيد الخطر تشمل: إصابات متكررة بالإسهال أو الطفيليات المعوية كالأنكلستوما، وهي شائعة في بعض مناطق المنطقة. أيضاً، الحميات الغذائية التي تخلو من اللحوم لأسباب اقتصادية أو ثقافية تجعل الطفل يعتمد على الحديد النباتي غير الهيمي (Non-heme iron) الذي يُمتص بكفاءة أقل بكثير من الحديد الحيواني الهيمي (Heme iron)."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "الفئات الأعلى خطراً لنقص الحديد",
+            "head": ["الفئة", "السبب الرئيسي"],
+            "rows": [
+              ["الخدج وصغار الوزن عند الولادة", "مخزون حديد أقل من الأم"],
+              ["الرضع 6-24 شهراً", "نمو سريع مع غذاء غير كافٍ"],
+              ["الأطفال على حليب البقر المفرط", "الحليب يُعيق امتصاص الحديد"],
+              ["المراهقات بعد بدء الدورة", "فقد الحديد مع نزيف الدورة"],
+              ["أطفال مناطق الطفيليات المعوية", "نزيف خفي معوي مزمن"]
+            ]
+          }
+        },
+        {
+          "h2": "كيف يتم تشخيص فقر الدم عند الطفل؟",
+          "paras": [
+            "التشخيص يبدأ بتحليل دم بسيط يُسمى صورة الدم الكاملة (CBC - Complete Blood Count). يقيس هذا التحليل مستوى الهيموغلوبين (Hemoglobin) وحجم كريات الدم الحمراء (MCV - Mean Corpuscular Volume) وعددها. في فقر الدم بنقص الحديد، تكون الكريات الحمراء صغيرة وشاحبة، ويعكس ذلك انخفاض MCV وانخفاض هيموغلوبين.",
+            "منظمة الصحة العالمية تحدد حد التشخيص بانخفاض الهيموغلوبين عن 11 غرام/ديسيليتر للأطفال دون الخامسة، وعن 11.5 غرام/ديسيليتر للأطفال من 5 إلى 11 سنة. مجرد انخفاض الهيموغلوبين لا يثبت أن السبب هو نقص الحديد تحديداً، لذلك يطلب الطبيب في الغالب تحليل الفيريتين (Ferritin) ليقيس مخزون الحديد في الجسم.",
+            "الفيريتين هو البروتين الذي يخزن الحديد داخل الخلايا. مستوى فيريتين منخفض يعني أن مخازن الحديد في الجسم استُنزفت. المشكلة أن الفيريتين يرتفع في حالات الالتهاب حتى لو كان الحديد منخفضاً في الواقع، لذلك يفسر الطبيب هذا التحليل بالتزامن مع بقية مؤشرات الالتهاب. في المختبرات البسيطة التي لا تتوفر فيها جميع الفحوصات، يعتمد الأطباء أحياناً على تحليل CBC وحده لبدء العلاج التجريبي."
+          ],
+          "visual": {
+            "type": "range-scale",
+            "title": "مستوى الهيموغلوبين عند الأطفال 6 أشهر - 5 سنوات",
+            "label": "Hemoglobin",
+            "unit": "g/dL",
+            "min": 6,
+            "max": 14,
+            "zones": [
+              {"to": 8, "tone": "bad", "label": "شديد"},
+              {"to": 11, "tone": "warn", "label": "فقر دم"},
+              {"to": 14, "tone": "good", "label": "طبيعي"}
+            ],
+            "marker": {"value": 9.5, "label": "مثال على نتيجة منخفضة"},
+            "source": "World Health Organization: Haemoglobin concentrations for the diagnosis of anaemia",
+            "source_url": "https://www.who.int/publications/i/item/WHO-NMH-NHD-MNM-11.1"
+          }
+        },
+        {
+          "h2": "أفضل الأطعمة الغنية بالحديد للأطفال في مطبخنا",
+          "paras": [
+            "الحديد في الغذاء على نوعين: الحديد الهيمي (Heme iron) الموجود في اللحوم والدواجن والأسماك، ويُمتص بنسبة تتراوح بين 15 و35 بالمئة. والحديد غير الهيمي (Non-heme iron) الموجود في البقوليات والحبوب والخضار الورقية، ويُمتص بنسبة أقل تتراوح بين 2 و20 بالمئة فقط. الفرق كبير، ولهذا يحتاج الأطفال الذين لا يأكلون اللحوم إلى كميات أكبر من الأطعمة النباتية ليحصلوا على ما يكفيهم.",
+            "في المطبخ العربي، المصادر الجيدة للحديد متعددة ومتاحة: الكبدة (خاصة كبد الدجاج والبقر) من أغنى مصادر الحديد على الإطلاق، وكميات صغيرة منها تُحدث فرقاً ملحوظاً. العدس بكل أنواعه والحمص والفاصوليا مصادر نباتية ممتازة. السبانخ والبروكلي غنيان بالحديد لكن الجسم لا يمتصهما بسهولة، والحل هو تناولهما مع غذاء غني بفيتامين C كالليمون أو الطماطم لتعزيز الامتصاص.",
+            "نقطة عملية مهمة: الشاي والقهوة يُقللان امتصاص الحديد بشكل ملحوظ إذا شُربا مع الوجبة أو بعدها بقليل. في كثير من المنازل في المنطقة، يُعطى الأطفال الصغار شاي الزعتر أو الشاي الأسود بعد الأكل مباشرة، وهذا يُعيق امتصاص الحديد. الأفضل تأخير الشاي ساعة على الأقل بعد الوجبة."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "مصادر الحديد في الأطعمة المتاحة إقليمياً",
+            "head": ["الطعام", "الحديد تقريباً لكل 100 غرام", "نصيحة"],
+            "rows": [
+              ["كبدة البقر أو الدجاج", "6-10 مغ", "مرة واحدة أسبوعياً للأطفال فوق السنة"],
+              ["العدس المطبوخ", "3.3 مغ", "مع عصير الليمون لتحسين الامتصاص"],
+              ["الحمص المطبوخ", "2.9 مغ", "منتظم في وجبات الطفل"],
+              ["السبانخ المطبوخ", "3.6 مغ", "يُفضل مع طماطم أو ليمون"],
+              ["لحم البقر المطبوخ", "2.6 مغ", "الحديد الهيمي يُمتص بكفاءة عالية"]
+            ]
+          }
+        },
+        {
+          "h2": "متى يحتاج الطفل لمكملات الحديد؟",
+          "paras": [
+            "لا تبدأ بإعطاء طفلك مكملات الحديد قبل أن تراجع الطبيب. الحديد الزائد يمكن أن يكون ضاراً، وبعض الأطفال لديهم حالات وراثية كالثلاسيميا (Thalassemia) التي تتشابه أعراضها مع فقر الدم بنقص الحديد لكن العلاج بالحديد يضرهم. التشخيص الصحيح ضروري قبل أي تدخل.",
+            "عندما يثبت التشخيص أن الطفل يعاني من نقص الحديد، يصف الطبيب عادةً قطرات أو شراب الحديد. يكون الطعم مر وقد يُغيّر الطفل لون برازه إلى اللون الداكن، وهذا أمر طبيعي. يجب تناول مكمل الحديد على معدة فارغة أو مع عصير برتقال لتعزيز الامتصاص، وتجنب تناوله مع الحليب أو الشاي لأنهما يُعيقان امتصاصه.",
+            "عادةً يحتاج الطفل إلى استمرار العلاج لمدة 3 إلى 6 أشهر حتى بعد ارتفاع الهيموغلوبين للمستوى الطبيعي، لأن الجسم يحتاج وقتاً لإعادة بناء مخازن الحديد. التوقف المبكر عن العلاج يعيد المشكلة سريعاً. زيارات المتابعة مع الطبيب ضرورية للتحقق من ارتفاع مستوى الهيموغلوبين وتعديل الجرعة إن لزم."
+          ]
+        },
+        {
+          "h2": "كيف يؤثر فقر الدم على التعلم والنمو؟",
+          "paras": [
+            "هذا ما يجعل المشكلة أكثر من مجرد شحوب في الوجه. مراجعة منهجية نشرتها مجلة Nutrients عام 2022 تناولت الأبحاث المتعلقة بتأثير نقص الحديد على الأداء المعرفي والأكاديمي لدى المراهقين، وخلصت إلى وجود ارتباط واضح بين نقص الحديد وانخفاض الأداء في الاختبارات والقدرة على التركيز والانتباه.",
+            "الأمر الأهم أن الدماغ في سنوات الطفولة الأولى يمر بمرحلة نمو حرجة. نقص الحديد في هذه المرحلة يؤثر على بناء الأعصاب ويُقلل من كفاءة نقل الإشارات بين خلايا الدماغ. بعض الدراسات تشير إلى أن آثار نقص الحديد المبكر قد تستمر حتى بعد معالجة الأنيميا، ولهذا فالوقاية أهم من العلاج.",
+            "عملياً، إذا كان طفلك في سن المدرسة ولاحظت صعوبة في التركيز أو تراجعاً في المستوى الدراسي مع أعراض الإرهاق والشحوب، فإن تحليل الدم يستحق المحاولة قبل أي تشخيص آخر. الأنيميا سبب قابل للعلاج ينبغي استبعاده مبكراً."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "متى تذهب للطبيب فوراً",
+            "items": [
+              "الطفل يتنفس بسرعة أو يبدو مجهداً جداً في الراحة",
+              "الهيموغلوبين أقل من 7 غرام/ديسيليتر في نتيجة التحليل",
+              "شحوب شديد داخل الجفن السفلي أو اللسان",
+              "تسرع في ضربات القلب أو وجود طنين قلبي",
+              "أي اشتباه بنقص حديد عند طفل أقل من سنة"
+            ]
+          }
+        },
+        {
+          "h2": "الوقاية: كيف تحمي طفلك قبل ظهور المشكلة؟",
+          "paras": [
+            "الوقاية أسهل وأرخص من العلاج. أهم خطوة هي إدخال الأطعمة الغنية بالحديد مع بداية التغذية التكميلية في عمر ستة أشهر، ولا تنتظر حتى يأكل الطفل بشهية جيدة. الكبدة المهروسة أو العدس الناعم أو اللحم المطحون أطعمة مناسبة لهذا العمر وغنية بالحديد.",
+            "الأطفال المولودون قبل أوانهم قد يحتاجون لمكملات الحديد منذ عمر الشهر الأول بناءً على نصيحة الطبيب، لأن مخازنهم تكونت في مدة أقصر. الأطفال الذين يرضعون رضاعة طبيعية كاملة يحتاجون إلى أطعمة غنية بالحديد بشكل أبكر ممن يأخذون حليب اصطناعياً مدعماً بالحديد، لأن الحديد في حليب الأم رغم امتصاصه الممتاز، يكفي الطفل فقط حتى عمر ستة أشهر.",
+            "في حالة الأطفال أكبر سناً، الفحص الدوري للدم في زيارات الطبيب المنتظمة يُتيح اكتشاف المشكلة مبكراً. لا تنتظر الأعراض الواضحة، لأن الجسم يُعوّض نقص الحديد لفترة طويلة قبل أن يظهر فقر الدم الكامل في التحاليل."
+          ]
+        }
+      ],
+      "tie": "إذا شككت أن طفلك يعاني من نقص الحديد، يمكنك تسجيل أعراضه اليومية في تطبيق سهتك ومشاركة الملاحظات مع طبيبه في الزيارة القادمة، مما يساعد الطبيب على بناء صورة أوضح عن حالة الطفل بمرور الوقت.",
+      "faqs": [
+        {
+          "q": "ما هي أعراض فقر الدم عند الأطفال الصغار؟",
+          "a": "أكثر الأعراض شيوعاً هي شحوب الجلد خاصة داخل الجفن السفلي أو الشفاه، والإرهاق السريع حتى مع النشاط البسيط. قد يبكي الطفل كثيراً ويكون سريع الانفعال ويأكل بشهية ضعيفة. بعض الأطفال يميلون لأكل مواد غير غذائية كالطين أو الجص أو الثلج وهذا يُسمى شهوة التراب (Pica) ويشير إلى نقص معدني. الأعراض تتصاعد تدريجياً لذلك يُستحسن إجراء تحليل دم دوري."
+        },
+        {
+          "q": "هل يمكن أن يحصل طفلي على الحديد الكافي بدون لحم؟",
+          "a": "نعم لكن يستلزم ذلك جهداً في التخطيط. المصادر النباتية كالعدس والحمص والسبانخ تحتوي على الحديد لكن امتصاصه أقل كفاءة من الحديد الموجود في اللحوم. لتعزيز الامتصاص، قدم دائماً هذه الأطعمة مع مصدر لفيتامين C كالليمون أو عصير البرتقال أو الطماطم، وتجنب إعطاء الطفل الشاي أو الحليب مباشرة بعد الأكل."
+        },
+        {
+          "q": "كم من الوقت يستغرق علاج فقر الدم بالحديد؟",
+          "a": "يرتفع الهيموغلوبين عادةً للمستوى الطبيعي خلال 6 إلى 8 أسابيع من بدء العلاج بمكملات الحديد، لكن يجب الاستمرار في العلاج لمدة 3 إلى 6 أشهر بعد التطبيع لإعادة بناء مخازن الحديد في الجسم. التوقف المبكر يُعيد الأنيميا خلال أشهر قليلة."
+        },
+        {
+          "q": "هل الثلاسيميا هي نفسها فقر الدم بنقص الحديد؟",
+          "a": "لا. الثلاسيميا (Thalassemia) مرض وراثي يؤثر على بنية الهيموغلوبين، وتبدو نتائجه في التحليل متشابهة مع فقر الدم بنقص الحديد. إعطاء الحديد لطفل مصاب بالثلاسيميا يمكن أن يُلحق به ضرراً. لهذا لا تعطِ طفلك مكملات الحديد قبل مراجعة الطبيب والتأكد من التشخيص الصحيح."
+        },
+        {
+          "q": "هل فقر الدم يؤثر على نمو الطفل؟",
+          "a": "نعم، نقص الحديد يُعيق نمو الجسم والدماغ معاً. الأطفال المصابون بفقر دم مزمن قد يكون نموهم الطولي والوزني أبطأ من أقرانهم. الأهم من ذلك التأثير على نمو الدماغ في السنوات الأولى، وهو ما قد ينعكس على الأداء المعرفي والمدرسي لاحقاً إذا لم يُعالج مبكراً."
+        },
+        {
+          "q": "ما كمية الحليب المناسبة للطفل بين السنة والثلاث سنوات؟",
+          "a": "التوصية الطبية الحالية هي ألا تتجاوز كمية حليب البقر 480 مل يومياً للأطفال في هذا العمر، وأن يتوفر في نظامهم الغذائي مصادر متنوعة من الحديد من اللحوم والبقوليات. الإفراط في الحليب يُشبع الطفل ويُقلل شهيته لبقية الطعام، مما يُعرّضه لنقص الحديد وغيره من العناصر."
+        },
+        {
+          "q": "هل يمكن الوقاية من فقر الدم عند الرضيع الذي يرضع طبيعياً؟",
+          "a": "حليب الأم يحتوي على كمية قليلة من الحديد يُمتص بكفاءة ممتازة وتكفي حتى عمر ستة أشهر. بعد ذلك يجب البدء بإدخال أطعمة غنية بالحديد كاللحوم المهروسة والعدس والمهروسات الغنية بالحديد. الأطفال المولودون قبل أوانهم قد يحتاجون لمكملات الحديد من الشهر الأول حسب توصية الطبيب."
+        }
+      ]
+    },
+    "en": {
+      "title": "Anaemia in children: causes, testing and iron",
+      "desc": "Iron deficiency anaemia is among the most common nutritional problems for children in the Middle East. Learn the signs, what tests to ask for, and which foods help most.",
+      "keywords": "anaemia in children, iron deficiency children, child haemoglobin low, ferritin child, cow's milk iron deficiency, iron foods for children, child anemia symptoms",
+      "h1": "Anaemia in children: why it is so common in our region and what to do about it",
+      "takeaways": [
+        "Iron deficiency anaemia is the most common nutritional disorder affecting children in the Middle East and North Africa.",
+        "Giving young children too much cow's milk after the age of one is one of the leading causes of iron deficiency, and it surprises many parents.",
+        "Untreated anaemia impairs a child's ability to learn, concentrate and grow.",
+        "Children aged 6 months to 2 years and teenage girls are at highest risk.",
+        "Most cases improve with the right diet or iron supplements under a doctor's supervision."
+      ],
+      "sections": [
+        {
+          "h2": "What is iron deficiency anaemia and how does it affect your child?",
+          "paras": [
+            "Anaemia means there is not enough haemoglobin (Hemoglobin) in the blood. Haemoglobin is the protein inside red blood cells that carries oxygen to every organ and muscle in the body. When iron stores run low, the bone marrow cannot make enough healthy red blood cells, and your child's tissues start receiving less oxygen than they need. The result is a child who tires easily, looks pale, and struggles to keep up with other children their age.",
+            "Many parents notice the pallor or the fatigue but do not connect it to iron. The symptoms build slowly, so by the time they are obvious the deficiency has often been present for months. A child who stops wanting to run around, who seems always sleepy, or who cries more than usual may simply need their blood checked before anything else.",
+            "The reason this matters beyond tiredness is the developing brain. Iron is essential for building myelin, the insulating sheath around nerve fibres that allows the brain to process and transmit signals quickly. A shortage of iron during the early years of life can leave a lasting mark on cognitive ability, and this is reflected in a body of research linking childhood anaemia to lower school performance."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "warn",
+            "title": "Signs that deserve a blood test",
+            "items": [
+              "Pale skin, especially the inner lower eyelid",
+              "Unusual tiredness or low interest in play",
+              "Difficulty concentrating at school",
+              "Craving non-food items such as ice, clay or sand (called pica)",
+              "Rapid breathing or fast heartbeat on mild effort"
+            ]
+          }
+        },
+        {
+          "h2": "How common is the problem across the Middle East?",
+          "paras": [
+            "Iron deficiency anaemia is not a fringe problem in this region. Research on children in Gulf countries documented in the Nutrition and Health journal found that iron deficiency anaemia was affecting a significant proportion of children under five, with the burden higher in lower-income and rural populations. In parts of Yemen, Sudan and Syria, rates are among the highest in the world, driven by food insecurity and disrupted feeding practices.",
+            "A 2022 review in the Saudi Medical Journal covering nutritional status across the Eastern Mediterranean confirmed that iron deficiency remains one of the dominant nutritional problems in the region, with children under five and women bearing the largest share. Children living in areas of conflict or displacement face the greatest risk, since access to iron-rich foods disappears and feeding routines collapse.",
+            "A 2018 study in the Journal of Pediatric Gastroenterology and Nutrition specifically examined complementary feeding practices across the Middle East and North Africa, and found that delays in introducing iron-rich solid foods and reliance on low-iron staples were directly contributing to the high rates of iron deficiency seen in the region."
+          ],
+          "visual": {
+            "type": "stats",
+            "items": [
+              {
+                "value": "40%+",
+                "label": "of children under five in parts of the MENA region affected by anaemia",
+                "tone": "bad"
+              },
+              {
+                "value": "6 to 24",
+                "label": "months: the highest-risk window for iron deficiency",
+                "tone": "warn"
+              }
+            ]
+          }
+        },
+        {
+          "h2": "The cow's milk problem that surprises most parents",
+          "paras": [
+            "One of the most common and least expected causes of iron deficiency in toddlers is too much cow's milk. Cow's milk contains very little iron, and what little is there is poorly absorbed. A 2011 review in Nutrition Reviews explained the mechanism clearly: cow's milk protein can irritate the lining of a young child's small intestine, causing microscopic blood loss that steadily drains iron from the body. On top of this, a stomach full of milk leaves a child with little appetite for the iron-rich foods they actually need.",
+            "The practical result is that a toddler drinking large volumes of cow's milk every day is almost certainly not eating enough meat, lentils, or other iron-rich foods. Their iron intake from the milk itself is negligible, but the milk fills them up and crowds out everything else. This is not a reason to remove dairy from a child's diet, but it is a strong reason to set a limit.",
+            "Current guidance is that cow's milk should not exceed about 480 ml per day for children between one and three years of age. Cow's milk should not be given at all before 12 months. Within those limits, dairy is a nutritious part of a child's diet. Beyond them, it becomes a contributor to iron deficiency."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "warn",
+            "title": "Cow's milk and iron: the key limits",
+            "items": [
+              "No cow's milk before 12 months of age",
+              "Maximum 480 ml per day between 1 and 3 years",
+              "Milk fills small stomachs and displaces iron-rich foods",
+              "Cow's milk protein can cause slow intestinal blood loss in young children"
+            ]
+          }
+        },
+        {
+          "h2": "Which children are at highest risk?",
+          "paras": [
+            "Risk is not evenly distributed. Babies born prematurely or with low birth weight enter the world with smaller iron stores, because the fetus builds most of its reserves in the last trimester of pregnancy. A baby born at 34 weeks has missed six weeks of that process. Fully breastfed infants who do not receive iron-rich complementary foods from six months onward are another well-documented high-risk group, because breast milk, while well-absorbed, cannot by itself meet the growing baby's iron needs after that point.",
+            "Children aged 6 months to 2 years are in the highest-risk window because their growth demands outstrip what most typical regional diets supply. Teenage girls who have started their period face another surge in risk, since menstrual blood loss drains iron every month and most diets do not compensate for it.",
+            "Additional risk factors common in this region include repeated episodes of diarrhoea and intestinal parasites such as hookworm, which cause slow blood loss in the gut. Children from families who eat little meat for economic or cultural reasons rely entirely on non-heme iron from plant foods, which is absorbed at a much lower efficiency than the heme iron (Heme iron) found in meat and offal."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Children at highest risk of iron deficiency",
+            "head": ["Group", "Main reason"],
+            "rows": [
+              ["Premature or low birth weight babies", "Smaller iron stores from birth"],
+              ["Infants aged 6 to 24 months", "Rapid growth with inadequate diet"],
+              ["Toddlers on excessive cow's milk", "Milk displaces iron-rich foods"],
+              ["Teenage girls after first period", "Monthly blood loss drains iron"],
+              ["Children in hookworm-endemic areas", "Chronic low-level gut blood loss"]
+            ]
+          }
+        },
+        {
+          "h2": "How is anaemia diagnosed in children?",
+          "paras": [
+            "Diagnosis starts with a full blood count (CBC), which measures haemoglobin levels and red blood cell size (MCV, Mean Corpuscular Volume). In iron deficiency anaemia, red blood cells are small and pale, reflected by a low MCV and low haemoglobin. The World Health Organization defines anaemia in children under five as haemoglobin below 11 g/dL, and in children aged 5 to 11 as below 11.5 g/dL.",
+            "A low haemoglobin alone does not confirm that iron is the cause. The doctor will usually add a ferritin (Ferritin) test to measure the body's stored iron. Low ferritin means the iron reserves have been depleted. A complication worth knowing is that ferritin is an acute-phase protein: it rises with any inflammation, so a normal ferritin does not always rule out iron deficiency in a child who is also fighting an infection. Your doctor will read it alongside other markers. In smaller clinics across the region where the full panel is not available, physicians sometimes start an empirical trial of iron supplements and judge the response by repeat haemoglobin four to six weeks later.",
+            "If your child's haemoglobin comes back low, ask the lab for the MCV and ferritin as well. Knowing both helps your doctor distinguish iron deficiency from other causes of anaemia such as thalassaemia or folate deficiency, which require completely different approaches."
+          ],
+          "visual": {
+            "type": "range-scale",
+            "title": "Haemoglobin reference range for children aged 6 months to 5 years",
+            "label": "Hemoglobin",
+            "unit": "g/dL",
+            "min": 6,
+            "max": 14,
+            "zones": [
+              {"to": 8, "tone": "bad", "label": "Severe"},
+              {"to": 11, "tone": "warn", "label": "Anaemia"},
+              {"to": 14, "tone": "good", "label": "Normal"}
+            ],
+            "marker": {"value": 9.5, "label": "Example low result"},
+            "source": "World Health Organization: Haemoglobin concentrations for the diagnosis of anaemia",
+            "source_url": "https://www.who.int/publications/i/item/WHO-NMH-NHD-MNM-11.1"
+          }
+        },
+        {
+          "h2": "The best iron-rich foods for children in a regional kitchen",
+          "paras": [
+            "Dietary iron comes in two forms. Heme iron (Heme iron), found in meat, poultry and fish, is absorbed at 15 to 35 percent. Non-heme iron (Non-heme iron) from lentils, chickpeas, beans and leafy vegetables is absorbed at only 2 to 20 percent, depending on what else is eaten with it. This gap explains why children who eat no meat need considerably larger portions of plant foods to get the same amount of iron, and why pairing plant-based iron with vitamin C is so effective at narrowing that gap.",
+            "In a typical Arab kitchen, excellent iron sources are available and affordable. Liver, especially chicken and beef liver, is among the richest food sources of iron anywhere and a small serving once a week makes a real difference for a young child. Lentils in all forms and chickpeas are outstanding plant sources. Spinach and other dark leafy greens contain iron but it is poorly absorbed on its own. The fix is simple: serve them with a squeeze of lemon juice or alongside tomatoes, and absorption improves noticeably.",
+            "One practical point that is often missed: tea and coffee significantly reduce iron absorption when drunk with or shortly after a meal. In many households across the region, young children are given herbal tea or black tea after eating as a matter of habit. Waiting at least an hour after a meal before giving tea protects the iron that the meal delivered. Calcium from dairy also competes with iron absorption, which is another reason not to wash down an iron-rich meal with a glass of milk."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Iron content in common regional foods",
+            "head": ["Food", "Iron per 100 g (approx.)", "Tip"],
+            "rows": [
+              ["Beef or chicken liver", "6 to 10 mg", "Once a week for children over 1 year"],
+              ["Cooked lentils", "3.3 mg", "Add lemon juice to boost absorption"],
+              ["Cooked chickpeas", "2.9 mg", "A regular part of the child's diet"],
+              ["Cooked spinach", "3.6 mg", "Serve with tomato or lemon"],
+              ["Cooked beef", "2.6 mg", "Heme iron absorbs at high efficiency"]
+            ]
+          }
+        },
+        {
+          "h2": "When does a child need iron supplements?",
+          "paras": [
+            "Do not start iron supplements before seeing a doctor. Excess iron can be harmful, and some children carry conditions such as thalassaemia (Thalassemia) that mimic iron deficiency on a blood test but are made worse by iron supplementation. Getting the right diagnosis first protects your child.",
+            "When iron deficiency is confirmed, the doctor will usually prescribe iron drops or syrup. The taste is often bitter and the stool may turn dark green or black, which is normal and not a reason to stop. Iron supplements work best on an empty stomach or with a small glass of orange juice, which boosts absorption. Avoid giving them with milk, tea or calcium-containing foods, as these block absorption.",
+            "Treatment usually continues for 3 to 6 months after the haemoglobin has returned to normal, because the body needs that extra time to refill its iron stores. Stopping too early is the most common reason for the anaemia coming straight back. Follow-up blood tests, usually at 4 to 6 weeks after starting, confirm that the haemoglobin is rising as expected and allow the doctor to adjust the dose."
+          ]
+        },
+        {
+          "h2": "How does anaemia affect learning and growth?",
+          "paras": [
+            "The consequences go well beyond a pale face. A 2022 systematic review in the journal Nutrients examined the evidence on iron status, anaemia and academic performance in young people, and found a consistent link between iron deficiency and lower scores on tests of attention, memory and school achievement. The effect was seen even in children who were iron-deficient but not yet fully anaemic, meaning the impact on thinking begins before the haemoglobin falls below the diagnostic threshold.",
+            "The underlying reason is that the brain in early childhood is in a critical window of development. Iron is needed to synthesise myelin, the protective coating around nerve fibres, and to produce neurotransmitters that govern mood and attention. A deficiency during this period can disrupt the architecture of the brain itself, not just slow it down temporarily, and some studies suggest that effects on cognition may persist even after the anaemia is treated.",
+            "In practical terms, if your school-age child is falling behind in class, seems distracted or irritable, and also looks tired or pale, a blood test is worth doing before any other explanation is explored. Anaemia is one of the most treatable causes of those symptoms, and it is regularly missed because the connection between the blood and the brain is not obvious to most parents."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "Go to a doctor today if",
+            "items": [
+              "Your child's haemoglobin is below 7 g/dL on a test result",
+              "The child breathes quickly or looks exhausted even at rest",
+              "Severe pallor of the inner eyelid, lips or tongue",
+              "Fast or irregular heartbeat",
+              "Any suspicion of anaemia in a child under one year old"
+            ]
+          }
+        },
+        {
+          "h2": "Prevention: protecting your child before problems start",
+          "paras": [
+            "Prevention is simpler and cheaper than treatment. The most important step is to introduce iron-rich complementary foods at six months of age rather than waiting for the child to show obvious interest. Pureed liver, soft-cooked lentils and minced meat are all appropriate from six months and provide far more iron than rice or bread-based weaning foods. A 2018 review in the Journal of Pediatric Gastroenterology and Nutrition noted that delayed introduction of these foods was a key driver of iron deficiency across the MENA region.",
+            "Premature infants often need iron supplementation from as early as one month of age, at a dose that the neonatologist or paediatrician will specify. Do not assume that a supplement given in hospital will continue automatically after discharge. Ask the doctor about it at every follow-up visit in the first year.",
+            "For older children, routine blood checks at well-child visits allow the doctor to spot falling haemoglobin before full anaemia develops. Do not wait for visible symptoms. The body compensates for iron deficiency for a long time before the haemoglobin falls below the diagnostic threshold, and by the time symptoms are obvious the deficiency has often been present for many months."
+          ]
+        }
+      ],
+      "tie": "If you think your child might have low iron, use the Sihtak app to record their daily energy levels and appetite week by week. That log gives your doctor a timeline to work from and helps connect patterns you might not otherwise notice.",
+      "faqs": [
+        {
+          "q": "What are the signs of anaemia in a young child?",
+          "a": "The most common signs are pallor of the skin, particularly inside the lower eyelid, fatigue and low interest in play, poor appetite, and in some children a craving for non-food items like clay or ice, which is called pica. Young children with anaemia may also be unusually irritable or tearful. Because symptoms build gradually, many parents do not realise the connection until a blood test is done."
+        },
+        {
+          "q": "Can a child get enough iron without eating meat?",
+          "a": "Yes, but it requires consistent planning. Plant foods like lentils, chickpeas, beans and dark leafy vegetables contain iron, but it is absorbed far less efficiently than the iron in meat. Always pair plant-based iron sources with a food rich in vitamin C, such as lemon juice, tomatoes or orange, and avoid giving tea or milk for at least an hour after an iron-rich meal. Children who eat no meat at all may need a supplement, and it is worth checking their haemoglobin every six to twelve months."
+        },
+        {
+          "q": "How long does iron treatment take to work?",
+          "a": "Haemoglobin typically returns to normal within 6 to 8 weeks of starting iron supplements, but treatment should continue for 3 to 6 months beyond that to refill the body's iron stores. Stopping early is the most common reason for the anaemia returning quickly. A follow-up blood test 4 to 6 weeks after starting confirms that the haemoglobin is rising and guides any dose adjustment."
+        },
+        {
+          "q": "Is thalassaemia the same as iron deficiency anaemia?",
+          "a": "No, and the distinction matters. Thalassaemia (Thalassemia) is an inherited condition that affects the structure of haemoglobin, and it produces blood test results that look similar to iron deficiency. However, giving iron supplements to a child with thalassaemia can cause harm by overloading the body with iron. This is one of the main reasons a proper diagnosis must come before any supplementation."
+        },
+        {
+          "q": "How much cow's milk is safe for a toddler each day?",
+          "a": "Current guidance is a maximum of around 480 ml per day for children between one and three years of age. Cow's milk should not be given before 12 months. Within that limit, dairy contributes usefully to a toddler's diet. Beyond it, the milk fills the stomach and crowds out the iron-rich foods the child needs, increasing the risk of iron deficiency substantially."
+        },
+        {
+          "q": "Does iron deficiency affect a child's growth?",
+          "a": "Yes. Chronic iron deficiency is linked to slower height and weight gain, and more importantly to slower brain development during the years when the brain is growing fastest. Research consistently links early iron deficiency to lower performance on tests of attention, memory and school achievement, with some studies suggesting effects that persist even after the anaemia is treated. This is why early detection and treatment matter."
+        },
+        {
+          "q": "Can breastfed babies become anaemic?",
+          "a": "Yes. Breast milk contains small amounts of iron that are well absorbed, and this is sufficient for the first six months. After that, the baby's growth demands outstrip what breast milk alone can supply. Iron-rich complementary foods should be introduced at six months in all breastfed infants. Premature babies may need iron supplements from one month of age, as their stores at birth are smaller. Ask your paediatrician at the first post-discharge visit."
+        }
+      ]
+    }
+  }
+}

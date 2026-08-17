@@ -1,0 +1,351 @@
+{
+  "slug": "grief-and-bereavement",
+  "category": "mental-health",
+  "chip_ar": "الصحة النفسية",
+  "chip_en": "Mental Health",
+  "date_iso": "2026-07-21",
+  "sources": [
+    {
+      "label": "Lundorff M, Holmgren H, Zachariae R et al: Prevalence of prolonged grief disorder in adult bereavement: A systematic review and meta-analysis, Journal of affective disorders, 2017",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28167398/"
+    },
+    {
+      "label": "Killikelly C, Smith KV, Zhou N et al: Prolonged grief disorder, Lancet (London, England), 2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40254022/"
+    },
+    {
+      "label": "Bryant RA, Azevedo S, Yadav S et al: Cognitive Behavior Therapy vs Mindfulness in Treatment of Prolonged Grief Disorder: A Randomized Clinical Trial, JAMA psychiatry, 2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38656428/"
+    },
+    {
+      "label": "Komischke-Konnerup KB, Zachariae R, Boelen PA et al: Grief-focused cognitive behavioral therapies for prolonged grief symptoms: A systematic review and meta-analysis, Journal of consulting and clinical psychology, 2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38573714/"
+    },
+    {
+      "label": "Eisma MC: Prolonged grief disorder in ICD-11 and DSM-5-TR: Challenges and controversies, The Australian and New Zealand journal of psychiatry, 2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36748103/"
+    },
+    {
+      "label": "Moore BS, da Silva JP, Farias M et al: Diagnosing Prolonged Grief Disorder: Cultural Challenges to the DSM-5-TR Criteria, Culture, medicine and psychiatry, 2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40830691/"
+    }
+  ],
+  "content": {
+    "en": {
+      "title": "Grief: what is normal and when it needs help",
+      "desc": "Grief after loss is normal, even when it lasts for years. Learn the difference between natural grief and complicated grief, and what actually helps.",
+      "keywords": "grief, bereavement, loss, mourning, complicated grief, prolonged grief disorder, grief after death, grief help",
+      "h1": "Grief: what is normal, and when it needs extra support",
+      "takeaways": [
+        "Grief is a natural response to loss. There is no correct timeline and no right way to grieve.",
+        "Cultural mourning practices, including extended wakes, communal gathering, and structured mourning periods, provide genuine psychological support.",
+        "Grief that does not ease at all after six months, or that prevents you from functioning in daily life, is called complicated grief and responds to treatment.",
+        "Grief is different from depression, though both can be present at the same time after a major loss.",
+        "Getting professional help for grief is not a sign of weakness or of insufficient love for the person who died."
+      ],
+      "sections": [
+        {
+          "h2": "What grief is, and what it is not",
+          "paras": [
+            "Grief is the natural response to loss. It can follow the death of a person you love, but also the loss of a relationship, a homeland, a role, physical health, or a hoped-for future. When someone close to you dies, grief is not a medical condition, it is a human experience, and many of its most painful expressions are signs that the relationship mattered, not signs that something has gone wrong.",
+            "Grief does not follow a predictable set of stages in a fixed order. The idea of five sequential stages, denial then anger then bargaining then depression then acceptance, became widely known but does not reflect how most people actually grieve. People move between states, return to points they thought they had passed through, experience grief in sudden waves rather than a steady progression, and find that loss changes shape rather than disappearing.",
+            "What most people experience after a significant loss includes: waves of acute sadness triggered by reminders, difficulty sleeping, reduced appetite, difficulty concentrating, a sense that the world is less real, and sometimes physical symptoms like chest tightness or fatigue. These are normal responses to an abnormal disruption. They do not mean something is medically wrong with you, and in most people they ease gradually over months."
+          ]
+        },
+        {
+          "h2": "How long does grief last? The honest answer",
+          "paras": [
+            "Grief has no correct duration. For most people who lose someone close, the most acute pain eases gradually over the first year, with particular difficulty around anniversaries, birthdays, and the first experiences of previously shared occasions. But grief does not end at twelve months and is not supposed to. Most bereaved people carry some grief for years, and many for the rest of their lives, in a form that becomes less sharp and more integrated with daily living.",
+            "A useful distinction is between grief that changes over time and grief that stays completely stuck. The former is normal. The latter is where professional support makes a real difference. A 2017 systematic review and meta-analysis published in the Journal of Affective Disorders, examining results across 14 studies, found that approximately 10 percent of bereaved adults develop what is now called prolonged grief disorder, a state in which the acute grief does not ease and begins to prevent normal functioning.",
+            "Grief after violent, sudden, or traumatic death tends to be more difficult and to take longer than grief after an expected death. Similarly, the loss of a child or a young person tends to produce more sustained and complicated grief than losses that fit within an expected order of life. Neither of these observations means that recovery is not possible. They mean that the support needed may be greater and the timescale longer."
+          ],
+          "visual": {
+            "type": "stats",
+            "items": [
+              {"value": "~10%", "label": "of bereaved adults develop prolonged grief disorder (meta-analysis, Journal of Affective Disorders, 2017)", "tone": "warn"},
+              {"value": "6 months", "label": "is the minimum duration used to identify when grief may need clinical attention", "tone": "info"}
+            ]
+          }
+        },
+        {
+          "h2": "Cultural mourning practices: protective, not performance",
+          "paras": [
+            "Arab mourning traditions vary by country, community, and religion, but many share a structure that modern psychology would recognise as genuinely supportive: communal gathering that prevents isolation, a structured period of mourning that gives permission to grieve openly, the repeated speaking of the deceased's name and qualities, food brought by neighbours and family so that practical survival is not a burden on the bereaved, and religious frameworks that provide meaning and continuity.",
+            "The three-day mourning period common in many Arab communities, the azza, does several things that psychologists now understand to be protective. It brings the bereaved person into continuous human contact at the point of maximum acute pain. It creates a structure that prevents the bereaved from being alone with their grief in an unstructured way. It involves the community in bearing witness to the loss, which reduces the isolation that makes grief more dangerous.",
+            "Extended mourning periods, including the forty-day mark and the one-year commemoration, provide additional opportunities for community to gather around the bereaved, and they give the bereaved themselves a culturally recognised schedule for grief that does not require them to explain or justify what they are still feeling months later. This is valuable in a way that is sometimes underestimated when Western clinical models, which tend to focus on individual therapy, are applied without cultural sensitivity.",
+            "None of this means that traditional mourning practices eliminate the need for professional support. But it does mean that when a bereaved person participates in their community's mourning traditions, they are not retreating into ritual at the expense of healing. For many people, the opposite is true."
+          ]
+        },
+        {
+          "h2": "Grief in the context of war and displacement",
+          "paras": [
+            "Grief after war, displacement, or mass casualty events carries features that make it particularly difficult. Multiple losses at the same time or in quick succession, no opportunity to perform proper burial or mourning rites, uncertainty about whether someone is alive or dead, separation from the community that would normally provide support, and ongoing threat that makes it impossible to move into the recovery phase of grief. These compound the normal burden of loss.",
+            "For families in Syria, Gaza, Yemen, Sudan, and among the Syrian and other diaspora communities living far from home, grief is often layered. The loss of a person is embedded in the loss of a home, a neighbourhood, a way of life, and a sense of safety. Grieving any single element is difficult when all the others are also present. This is a genuine clinical complexity, not a failure of the individuals involved.",
+            "One specific difficulty in the context of war and displacement is that cultural mourning practices may not be possible. The azza requires a home to gather in, food, and community. For a displaced family in a camp or a small apartment in a foreign country, these may not be available. Acknowledging this loss explicitly, the loss of the ability to grieve properly, is itself a legitimate part of the grief and one that a mental health professional working in this context should address."
+          ]
+        },
+        {
+          "h2": "What is complicated grief, and how does it differ from normal grief?",
+          "paras": [
+            "Prolonged grief disorder, sometimes also called complicated grief, is now recognised in both the ICD-11 and DSM-5-TR diagnostic systems. A 2025 review published in the Lancet described it as a persistent and pervasive yearning for or preoccupation with the deceased that continues at a high intensity for at least six months after the loss, causes significant impairment in daily functioning, and is accompanied by emotional pain that shows no sign of easing.",
+            "The key distinction between normal grief and prolonged grief disorder is not the duration of sadness but the trajectory. Normal grief, even when it lasts for years, generally shows some change over time. It may remain present, but it becomes somewhat less acute, and the person is able to engage with daily life even while carrying it. In prolonged grief disorder, the acute phase does not move. The person remains in the state of the earliest days of loss, unable to accept that the death has occurred, unable to imagine a future without the person, and unable to function in work, relationships, or self-care.",
+            "A 2017 meta-analysis found that approximately 10 percent of bereaved adults meet criteria for prolonged grief disorder. Rates are higher after violent or sudden death, after the loss of a child, and in contexts of social isolation or where the loss could not be witnessed or confirmed, as is sometimes the case in conflict settings.",
+            "The difference between grief and clinical depression also matters here. Both involve sadness, withdrawal, and difficulty functioning. But depression involves a pervasive low mood and loss of interest in everything. Grief tends to be more specific: the sadness is directed at the loss, and the bereaved person can still experience moments of positive feeling, engagement with others, and interest in life outside the loss. Both conditions can coexist after a major bereavement, and both respond to appropriate treatment."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Normal grief versus prolonged grief disorder",
+            "head": ["Feature", "Normal grief", "Prolonged grief disorder"],
+            "rows": [
+              ["Duration", "Months to years, gradually changing", "Six months or more with no easing"],
+              ["Functioning", "Disrupted but recovers over time", "Significantly impaired, not recovering"],
+              ["Moments of relief", "Present, even if brief", "Absent or very rare"],
+              ["Acceptance of death", "Develops slowly", "Strongly resisted"],
+              ["Response to support", "Helped by community and time", "May need professional treatment"]
+            ]
+          }
+        },
+        {
+          "h2": "Signs that grief may need professional support",
+          "paras": [
+            "Most bereaved people do not need professional mental health treatment and will move through grief with the support of family, community, and time. But there are signals that suggest professional support would help. The most important of these is a sense, months after the loss, that nothing has changed at all: that the acute pain of the earliest days is exactly as present and as disabling as it was then.",
+            "Other signals include: being unable to talk about the person who died without becoming overwhelmed and unable to continue, completely avoiding any reminder of the person, or conversely being unable to do anything except think about the person and the death. Significant sleep disruption, loss of appetite, and physical health problems that have developed since the loss and that have not improved are also worth mentioning to a doctor.",
+            "If you are having thoughts of suicide or of joining the person who died, those thoughts require urgent attention from a mental health professional. Grief can include passive thoughts like wishing to be with the person who has gone, and a professional can help assess how concerning a thought pattern is and what kind of support is appropriate."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "Seek professional help if",
+            "items": [
+              "Your grief has not changed at all in intensity or quality after six months",
+              "You cannot manage daily tasks such as eating, washing, or caring for dependents",
+              "You are using alcohol or other substances to manage the pain",
+              "You are avoiding all reminders of the person, including family and friends connected to them",
+              "You have thoughts of suicide or of not wanting to continue living"
+            ]
+          }
+        },
+        {
+          "h2": "What actually helps: treatment for complicated grief",
+          "paras": [
+            "For prolonged grief disorder, there is now a solid evidence base for treatment. A 2024 randomised clinical trial published in JAMA Psychiatry compared cognitive behavioural therapy with mindfulness-based therapy in people with prolonged grief disorder and found both produced significant reductions in grief severity. A 2024 systematic review and meta-analysis in the Journal of Consulting and Clinical Psychology, examining 29 trials involving over 2,000 participants, confirmed that grief-focused cognitive behavioural therapies produce meaningful improvements compared to control conditions.",
+            "The specific approach that has been developed for prolonged grief disorder works differently from standard depression therapy. It addresses the particular features of prolonged grief: the difficulty accepting the reality of the loss, the avoidance of reminders, and the inability to imagine a meaningful future without the person. Therapy typically involves work on processing the loss directly, gradually reducing avoidance, and rebuilding engagement with ongoing life.",
+            "Medication, particularly antidepressants, can be helpful when depression accompanies grief or when symptoms are severe enough to prevent engagement in therapy. Medication for grief alone, without accompanying depression, has less clear evidence. A doctor or psychiatrist can assess which approach fits the clinical picture.",
+            "The setting matters. In many parts of the Arab world, access to qualified mental health professionals is limited, and the cost of private therapy is a real barrier. Community-based approaches, peer support groups, and services offered through international NGOs in conflict and displacement settings are options worth exploring. Religious and community leaders, when they are themselves informed about mental health, can serve a genuine supportive role. The key message is that prolonged grief disorder is treatable, and looking for that treatment is not weakness."
+          ]
+        },
+        {
+          "h2": "Supporting someone who is grieving: what helps and what does not",
+          "paras": [
+            "Most people who want to support a bereaved person are uncertain what to do and afraid of saying the wrong thing. The result is often silence or avoidance, which the bereaved person typically experiences as abandonment rather than respect. Presence and acknowledgment matter more than finding the right words.",
+            "What helps: being there consistently over time, not only in the first week. Saying the name of the person who died. Acknowledging the loss directly rather than changing the subject. Offering specific practical help such as meals, childcare, or accompanying someone to an appointment, rather than a general offer that requires the bereaved person to ask. Listening without feeling obliged to fix or explain the loss.",
+            "What does not help: telling someone they should be feeling better by now, or comparing their grief to someone else's. Reminding them that the deceased is in a better place may be sincerely meant and sometimes genuinely comforting, but it can also close down the conversation rather than opening it. Telling someone they should be strong for the children or for their family asks them to suppress the grief rather than process it. Avoiding all mention of the person who died does not protect the bereaved; it erases the person.",
+            "For men in Arab cultural contexts specifically, there is often strong pressure not to cry or show vulnerability in grief. This cultural expectation can leave men more isolated in their mourning and may be one factor in why men in general reach out less for professional support after loss. Acknowledging this directly, both for the person experiencing it and for those around them, is useful."
+          ]
+        },
+        {
+          "h2": "Grief in children: what parents need to know",
+          "paras": [
+            "Children grieve differently from adults, and their grief is often misread. A child who seems to play normally and then suddenly has a crying episode, or who asks unexpected questions about death weeks after a loss, is not showing shallow feelings. Children process grief in shorter bursts, return to normal activity between them, and revisit the loss repeatedly as they develop and understand it differently at different ages.",
+            "Children benefit from honest, age-appropriate explanation rather than euphemism. Telling a child that someone has gone on a journey or gone to sleep can create fear around sleep or travel. Saying that someone has died, using the word directly, and explaining that it means they will not come back, is more frightening in the short term but more reassuring over time because it is the truth.",
+            "Children should generally be included in mourning rituals rather than protected from them. Being present at a funeral, seeing that adults are sad and why, and understanding that grief is a shared community response rather than a secret adult matter gives children a framework for their own feelings. What frightens children most is the mystery of what is happening around them when adults close doors and speak in lowered voices.",
+            "Bereaved children who develop school problems, persistent physical complaints, or who regress in behaviour such as bedwetting after previously being dry may be showing signs of grief that need adult attention. A school counsellor, a paediatrician, or a child psychologist can help assess whether a child is managing within normal limits or whether more support is needed."
+          ]
+        }
+      ],
+      "tie": "Sihtak lets you track your mood and wellbeing over time, which can help you see whether the way you are feeling is gradually changing or has stayed fixed for many months. If you are concerned about your own grief or that of someone close to you, the record you keep in the app is something you can share with a doctor or counsellor.",
+      "faqs": [
+        {
+          "q": "How long is it normal to grieve?",
+          "a": "There is no time limit on grief. Most people find the most acute pain eases over the first year, but grief remains present for years, often lifelong, in a form that becomes less disabling and more integrated. What matters more than duration is whether the grief is changing at all, or whether it has stayed as acute and disabling as the earliest days."
+        },
+        {
+          "q": "What is the difference between grief and depression?",
+          "a": "Grief is a response to a specific loss and usually involves moments of positive feeling alongside the sadness. Depression involves a pervasive low mood across all areas of life, difficulty finding any pleasure in anything, and often guilt or hopelessness. Both can be present after a major bereavement. A doctor or mental health professional can assess which is which."
+        },
+        {
+          "q": "Is it normal to feel angry when someone dies?",
+          "a": "Yes. Anger is a common part of grief, whether directed at medical professionals, at the person who died for leaving, at yourself for something you did or did not do, or at no one in particular. Anger in grief is not shameful and does not need to be explained or justified. It is part of the emotional range of loss."
+        },
+        {
+          "q": "What is prolonged grief disorder?",
+          "a": "Prolonged grief disorder, recognised in both ICD-11 and DSM-5-TR, is a state in which the acute grief does not ease over time and significantly prevents normal functioning. It typically involves intense yearning for the deceased, difficulty accepting that the death has occurred, and an inability to engage with daily life. It affects approximately 10 percent of bereaved people and responds to specific types of therapy."
+        },
+        {
+          "q": "Should I see a doctor about my grief?",
+          "a": "Seeing a doctor is appropriate if your grief has not changed at all in several months, if you cannot manage daily tasks, if you are having thoughts of suicide, or if physical symptoms such as poor sleep and loss of appetite have not improved over time. A doctor can also assess whether depression or another condition is accompanying the grief."
+        },
+        {
+          "q": "Can grief be treated?",
+          "a": "Grief itself does not need treating. Prolonged grief disorder does, and it responds well to treatment. A 2024 randomised trial published in JAMA Psychiatry found that cognitive behavioural therapy produced significant improvements in people with prolonged grief disorder. Other forms of grief-focused therapy also have an evidence base, and medication helps when depression accompanies the grief."
+        },
+        {
+          "q": "How do I support a grieving person without saying the wrong thing?",
+          "a": "Presence matters more than words. Saying the name of the person who died, acknowledging the loss directly rather than avoiding it, and being consistent over time rather than only in the first days are the most helpful things. Offering specific practical help is more useful than a general offer. Listening without trying to fix or explain the loss is what most bereaved people say they most need."
+        },
+        {
+          "q": "Is it normal for grief to come back years later?",
+          "a": "Yes. Grief often resurfaces at anniversaries, births, weddings, or other milestones when the absence of the person is felt acutely again. This is not a sign that you had not grieved properly or that something has gone wrong. It is a sign that the relationship mattered, and that some losses are permanent enough to touch every version of your future."
+        }
+      ]
+    },
+    "ar": {
+      "title": "الحزن على الفقد: ما هو طبيعي ومتى يحتاج مساعدة",
+      "desc": "الحزن بعد الفقد طبيعي حتى لو دام سنوات طويلة. تعرف على الفرق بين الحزن الطبيعي واضطراب الحزن المطوّل، ومتى يحتاج الأمر مساعدة متخصصة، وما الذي يُفيد فعلا.",
+      "keywords": "الحزن، فقدان شخص عزيز، الحداد، الحزن المعقد، اضطراب الحزن المطوّل، الفقد والموت، دعم المحزون، مشاعر الحزن",
+      "h1": "الحزن على الفقد: ما هو طبيعي، ومتى يحتاج دعما إضافيا",
+      "takeaways": [
+        "الحزن استجابة طبيعية للفقد. لا توجد مدة صحيحة ولا طريقة صحيحة وحيدة للحداد.",
+        "طقوس العزاء العربية كالتجمع والاجتماع المطوّل وتذكّر الفقيد توفر دعما نفسيا حقيقيا.",
+        "الحزن الذي لا يتغير نهائيا بعد ستة أشهر وتستمر معه صعوبة ممارسة الحياة اليومية يُسمى الحزن المعقد ويستجيب للعلاج.",
+        "الحزن يختلف عن الاكتئاب، وإن كان كلاهما قد يتعايشان بعد فقد كبير.",
+        "طلب المساعدة المتخصصة في الحزن ليس ضعفا ولا دليلا على قلة المحبة للفقيد."
+      ],
+      "sections": [
+        {
+          "h2": "ما هو الحزن، وما هو ليس منه",
+          "paras": [
+            "الحزن (Grief) هو الاستجابة الطبيعية للفقد. يعقب وفاة من تحب، لكنه يعقب أيضا فقدان علاقة أو وطن أو دور أو صحة أو مستقبل كنت تأمله. حين يموت من هو قريب منك، الحزن ليس حالة طبية، بل تجربة إنسانية، وكثير من أشد مظاهره إيلاما إشارة إلى أن العلاقة كانت تستحق، لا إشارة إلى أن شيئا قد انكسر.",
+            "الحزن لا يسير في مراحل متتالية ثابتة. فكرة المراحل الخمس المتتابعة، الإنكار فالغضب فالمساومة فالاكتئاب فالقبول، انتشرت كثيرا لكنها لا تعكس كيف يحزن أغلب الناس فعلا. الناس يتنقلون بين الحالات ويعودون إلى نقاط ظنوا أنهم تجاوزوها، ويعيشون الحزن في موجات مفاجئة لا في تقدم خطي منتظم، ويجدون أن الفقد يتغير شكله أكثر مما يختفي.",
+            "معظم الناس بعد فقد كبير يعيشون: موجات من الحزن الحاد تُطلقها المذكّرات، وصعوبة في النوم، وتراجع الشهية، وضعف التركيز، وإحساسا بأن العالم أصبح أقل واقعية، وأحيانا أعراضا جسدية كضيق الصدر والإرهاق. هذه استجابات طبيعية لاضطراب غير طبيعي. لا تعني أن شيئا طبيا خطأ فيك، وفي معظم الناس تخف تدريجيا على مدار أشهر."
+          ]
+        },
+        {
+          "h2": "كم يستمر الحزن؟ الإجابة الصادقة",
+          "paras": [
+            "للحزن لا مدة صحيحة. معظم من يفقدون شخصا قريبا يرون الألم الأشد حدة يخف تدريجيا خلال السنة الأولى، مع صعوبة خاصة قرب الذكرى السنوية وأعياد الميلاد والمناسبات المشتركة السابقة. لكن الحزن لا ينتهي عند اثني عشر شهرا ولا يُفترض ذلك. أغلب المحزونين يحملون شيئا من الحزن لسنوات، وكثيرون يحملونه مدى الحياة، في شكل يصبح أقل حدة وأكثر اندماجا مع الحياة اليومية.",
+            "تمييز مفيد بين حزن يتغير بمرور الوقت وحزن يبقى ثابتا ومجمّدا تماما. الأول طبيعي، والثاني هو الموضع الذي يُحدث فيه الدعم المتخصص فارقا حقيقيا. مراجعة منهجية وتحليل مجمّع نُشرا عام 2017 في مجلة Journal of Affective Disorders، شمل نتائج 14 دراسة، وجد أن نحو 10 بالمئة من البالغين المحزونين يُصابون بما يُسمى اليوم اضطراب الحزن المطوّل، وهو حالة لا يخف فيها الحزن الحاد ويبدأ في إعاقة الأداء الطبيعي.",
+            "الحزن بعد الوفاة المفاجئة أو العنيفة أو الصادمة عادة أشد صعوبة وأطول أمدا من الحزن بعد وفاة متوقعة. كذلك فقدان طفل أو شاب غالبا يُنتج حزنا أطول وأكثر تعقيدا من فقدان من سار فقدانه ضمن الترتيب الطبيعي المتوقع للحياة. لا يعني هذا أن التعافي مستحيل. يعني أن الدعم اللازم ربما يكون أكبر والمدة الزمنية أطول."
+          ],
+          "visual": {
+            "type": "stats",
+            "items": [
+              {"value": "~10%", "label": "من البالغين المحزونين يُصابون باضطراب الحزن المطوّل (تحليل مجمّع، 2017)", "tone": "warn"},
+              {"value": "6 أشهر", "label": "هي الحد الأدنى المستخدم لتحديد متى قد يحتاج الحزن اهتماما سريريا", "tone": "info"}
+            ]
+          }
+        },
+        {
+          "h2": "طقوس الحداد العربية: حماية نفسية لا مجرد عادة",
+          "paras": [
+            "تقاليد الحداد العربية تتفاوت بين الأقطار والمجتمعات والأديان، لكن كثيرا منها يتشارك هيكلا قد يعرفه علم النفس الحديث بوصفه داعما حقيقيا: التجمع الجماعي الذي يمنع العزلة، وفترة حداد منظمة تُعطي الإذن بالتعبير الصريح عن الحزن، وتكرار ذكر اسم الفقيد وصفاته، والطعام الذي يحمله الجيران والأسرة حتى لا يكون البقاء العملي عبئا على أسرة المتوفى، والإطار الديني الذي يُقدم المعنى والاستمرار.",
+            "أيام العزاء الثلاثة الشائعة في كثير من المجتمعات العربية تؤدي عدة وظائف يفهمها علماء النفس اليوم بوصفها وقائية. إذ تجلب المحزون في تواصل بشري مستمر عند أشد لحظات ألمه الحاد. وتُنشئ هيكلا يمنعه من الانفراد بحزنه بصورة غير منظمة. وتُشرك المجتمع في الشهادة على الفقد، مما يُخفف العزلة التي تجعل الحزن أخطر.",
+            "فترات الحداد الممتدة كذكرى الأربعين والذكرى السنوية توفر فرصا إضافية لاجتماع المجتمع حول المحزون، وتُعطيه جدولا معترفا به ثقافيا لحزنه لا يستلزم منه شرح ما يشعر به أو تبريره بعد أشهر. وهذا ذو قيمة أحيانا يُستهان بها حين تُطبَّق النماذج السريرية الغربية التي تميل إلى التركيز على العلاج الفردي دون حساسية ثقافية.",
+            "لا يعني هذا أن طقوس الحداد التقليدية تُلغي الحاجة إلى دعم متخصص. لكنه يعني أن المحزون حين يُشارك في طقوس حداد مجتمعه لا يتراجع إلى الطقوس على حساب الشفاء. في كثير من الناس العكس صحيح."
+          ]
+        },
+        {
+          "h2": "الحزن في سياق الحرب والتهجير",
+          "paras": [
+            "الحزن بعد الحرب أو التهجير أو أحداث الضحايا الجماعية يحمل خصائص تجعله أشد صعوبة. خسائر متعددة في وقت واحد أو بتتابع سريع، وغياب إمكانية أداء طقوس الدفن والحداد اللائقة، وغموض مصير من يُجهل إن كان حيا أم ميتا، وانفصال عن المجتمع الذي يُقدم الدعم عادة، وتهديد مستمر يجعل الدخول في مرحلة التعافي من الحزن مستحيلا. هذه العوامل تُضاعف العبء الطبيعي للفقد.",
+            "لأسر في سوريا وغزة واليمن والسودان وبين مجتمعات الشتات السورية وسواها، الحزن كثيرا ما يكون متراكم الطبقات. فقدان الشخص يندمج مع فقدان البيت والحي وأسلوب الحياة والإحساس بالأمان. الحزن على أي عنصر منها صعب حين باقي العناصر حاضرة أيضا. هذا تعقيد سريري حقيقي لا إخفاق من قِبل الأفراد.",
+            "من الصعوبات الخاصة في سياق الحرب والتهجير أن طقوس الحداد الثقافية قد لا تكون متاحة. العزاء يحتاج بيتا للتجمع فيه، وطعاما، ومجتمعا. لعائلة مُهجَّرة في مخيم أو شقة صغيرة في بلد أجنبي، هذا قد لا يكون متاحا. الاعتراف الصريح بهذا الفقد، فقدان القدرة على الحداد اللائق، هو بحد ذاته جزء مشروع من الحزن وشيء ينبغي أن يُعالجه المتخصص في الصحة النفسية العامل في هذا السياق."
+          ]
+        },
+        {
+          "h2": "ما هو الحزن المعقد وكيف يختلف عن الحزن الطبيعي؟",
+          "paras": [
+            "اضطراب الحزن المطوّل (Prolonged Grief Disorder)، المعروف أحيانا بالحزن المعقد، معترف به الآن في نظامَي تشخيص ICD-11 وDSM-5-TR. مراجعة نُشرت عام 2025 في مجلة لانسيت وصفته بأنه اشتياق أو انشغال دائم وشامل بالمتوفى يستمر بشدة عالية لستة أشهر على الأقل بعد الفقد، يُسبب إعاقة ملموسة في الأداء اليومي، ويصحبه ألم عاطفي لا يُبدي أي أثر للتراجع.",
+            "التمييز الجوهري بين الحزن الطبيعي واضطراب الحزن المطوّل ليس في مدة الحزن بل في مساره. الحزن الطبيعي، حتى حين يمتد لسنوات، يُظهر عموما بعض التغيّر بمرور الوقت. قد يبقى حاضرا لكنه يصبح أقل حدة، والشخص يستطيع الانخراط في الحياة اليومية وهو يحمله. في اضطراب الحزن المطوّل لا تتحرك المرحلة الحادة. يبقى الشخص في حالة الأيام الأولى من الفقد، عاجزا عن قبول حدوث الوفاة، عاجزا عن تخيّل مستقبل دون الشخص، عاجزا عن الأداء في العمل أو العلاقات أو رعاية نفسه.",
+            "كشف التحليل المجمّع لعام 2017 أن نحو 10 بالمئة من البالغين المحزونين يستوفون معايير اضطراب الحزن المطوّل. تكون النسب أعلى بعد الوفاة المفاجئة أو العنيفة، وبعد فقدان طفل، وفي سياقات العزلة الاجتماعية أو حين لم يكن بالإمكان شهادة الوفاة أو التأكد منها، كما يحدث أحيانا في النزاعات المسلحة.",
+            "الفرق بين الحزن والاكتئاب السريري مهم هنا أيضا. كلاهما ينطوي على الحزن والانسحاب وصعوبة الأداء. لكن الاكتئاب ينطوي على مزاج منخفض شامل في كل نواحي الحياة وعدم القدرة على إيجاد المتعة في أي شيء. الحزن يميل إلى التحديد أكثر: الحزن موجّه نحو الفقد والمحزون قد يزال يختبر لحظات من المشاعر الإيجابية. الحالتان قد تتعايشان بعد فقد كبير وكلتاهما تستجيب للعلاج المناسب."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "الحزن الطبيعي مقابل اضطراب الحزن المطوّل",
+            "head": ["الجانب", "الحزن الطبيعي", "اضطراب الحزن المطوّل"],
+            "rows": [
+              ["المدة", "أشهر إلى سنوات مع تغيّر تدريجي", "ستة أشهر أو أكثر دون تخفيف"],
+              ["الأداء اليومي", "مضطرب لكن يتعافى بمرور الوقت", "ضعيف ملموس لا يتحسن"],
+              ["لحظات الراحة", "موجودة حتى لو قصيرة", "نادرة جدا أو غائبة"],
+              ["قبول الوفاة", "يتطور ببطء", "مقاوم بشدة"],
+              ["الاستجابة للدعم", "يُساعده المجتمع والوقت", "قد يحتاج علاجا متخصصا"]
+            ]
+          }
+        },
+        {
+          "h2": "علامات تُشير إلى أن الحزن ربما يحتاج دعما متخصصا",
+          "paras": [
+            "معظم المحزونين لا يحتاجون علاجا نفسيا متخصصا ويمرون في الحزن بدعم الأسرة والمجتمع والوقت. لكن ثمة إشارات تُشير إلى أن الدعم المتخصص سيُفيد. أهم هذه الإشارات هو الإحساس بعد أشهر من الفقد بأن شيئا لم يتغير مطلقا، أن ألم الأيام الأولى حاضر تماما وبنفس الإعاقة.",
+            "إشارات أخرى تشمل: عدم القدرة على التحدث عن المتوفى دون الانهيار التام، وتجنّب كل ما يُذكّر به بشكل كامل، أو على النقيض عدم القدرة على فعل أي شيء سوى التفكير في الشخص وطريقة وفاته. اضطراب النوم الملحوظ وفقدان الشهية والمشكلات الصحية الجسدية التي ظهرت منذ الفقد ولم تتحسن تستحق الإشارة إلى الطبيب.",
+            "إن كانت لديك أفكار عن الانتحار أو الانضمام إلى من رحل، تحتاج هذه الأفكار اهتماما عاجلا من متخصص في الصحة النفسية. الحزن قد يتضمن أفكارا سلبية كتمني الكون مع من رحل، واختصاصي يستطيع تقييم مدى جدية هذه الأفكار ونوع الدعم المناسب."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "اطلب مساعدة متخصصة إن",
+            "items": [
+              "لم يتغير حزنك في شدته أو طبيعته بعد ستة أشهر",
+              "لا تستطيع إدارة مهام يومية كالأكل والاعتناء بنفسك أو برعاية من تعتني بهم",
+              "تلجأ إلى الكحول أو مواد أخرى لتحمّل الألم",
+              "تتجنب كل المذكّرات بالشخص بما فيها الأهل والأصدقاء المرتبطون به",
+              "تراودك أفكار عن الانتحار أو عدم الرغبة في الاستمرار"
+            ]
+          }
+        },
+        {
+          "h2": "ما الذي يُفيد فعلا: علاج الحزن المعقد",
+          "paras": [
+            "لاضطراب الحزن المطوّل قاعدة أدلة علاجية راسخة الآن. تجربة عشوائية محكومة نُشرت عام 2024 في مجلة JAMA Psychiatry قارنت العلاج المعرفي السلوكي بالعلاج القائم على اليقظة الذهنية لدى مرضى اضطراب الحزن المطوّل، ووجدت كلاهما يُنتج تراجعا ملحوظا في شدة الحزن. مراجعة منهجية وتحليل مجمّع عام 2024 في مجلة Journal of Consulting and Clinical Psychology، شملت 29 تجربة بأكثر من 2000 مشارك، أكدت أن العلاجات المعرفية السلوكية المركّزة على الحزن تُنتج تحسينات ذات معنى مقارنة بالظروف الضابطة.",
+            "المنهج المحدد المطوَّر لاضطراب الحزن المطوّل يعمل بصورة مختلفة عن العلاج المعرفي السلوكي القياسي للاكتئاب. يُعالج السمات الخاصة باضطراب الحزن المطوّل: صعوبة قبول واقع الفقد، وتجنّب المذكّرات، وعجز الشخص عن تخيّل مستقبل ذي معنى. يشتمل العلاج عادة على العمل على معالجة الفقد مباشرة وخفض التجنّب تدريجيا وإعادة بناء الانخراط في الحياة المستمرة.",
+            "الأدوية، لا سيما مضادات الاكتئاب، قد تُفيد حين يصحب الاكتئابُ الحزنَ أو حين تكون الأعراض شديدة بما يمنع الانخراط في العلاج. للأدوية في الحزن وحده دون اكتئاب مرافق دليل أقل وضوحا. طبيب أو طبيب نفسي يستطيع تقييم المنهج الملائم للصورة السريرية.",
+            "السياق مهم. في كثير من أنحاء العالم العربي، الوصول إلى متخصصين مؤهلين في الصحة النفسية محدود، وتكلفة العلاج الخاص عائق حقيقي. المناهج المجتمعية ومجموعات الدعم بين الأقران والخدمات التي تُتيحها المنظمات الدولية غير الحكومية في سياقات النزاع والتهجير خيارات تستحق الاستكشاف. القادة الدينيون والمجتمعيون المُطلِعون على الصحة النفسية يستطيعون أداء دور داعم حقيقي. الرسالة الجوهرية هي أن اضطراب الحزن المطوّل قابل للعلاج، والسعي إليه ليس ضعفا."
+          ]
+        },
+        {
+          "h2": "كيف تدعم محزونا: ما يُفيد وما لا يُفيد",
+          "paras": [
+            "معظم من يريدون دعم محزون يشعرون بعدم اليقين ويخافون قول الشيء الخطأ. النتيجة الشائعة هي الصمت أو التجنّب، وهو ما يشعر المحزون عادة أنه هجر لا احترام. الحضور والاعتراف أهم من إيجاد الكلمات المثالية.",
+            "ما يُفيد: الحضور باستمرار عبر الوقت لا في الأسبوع الأول فحسب. ذكر اسم الفقيد. الاعتراف بالفقد مباشرة بدل تغيير الموضوع. تقديم مساعدة عملية محددة كالطعام أو رعاية الأطفال أو مرافقة شخص في موعد، بدل عرض مفتوح يُلزم المحزون بطلب المساعدة. الإنصات دون الشعور بالالتزام بإصلاح الفقد أو تفسيره.",
+            "ما لا يُفيد: إخبار شخص أنه كان ينبغي أن يتحسن بحلول الآن، أو مقارنة حزنه بحزن آخرين. تذكيره بأن المتوفى في مكان أفضل قد يكون صادقا ومريحا أحيانا، لكنه قد يُغلق الحديث بدل أن يفتحه. قول إنه ينبغي أن يكون قويا من أجل الأبناء أو الأسرة يطلب منه قمع الحزن لا معالجته. تجنّب ذكر الفقيد لا يحمي المحزون بل يمحو الشخص.",
+            "بالنسبة للرجال في السياقات الثقافية العربية تحديدا، كثيرا ما تكون ثمة ضغوط قوية للحول دون البكاء أو إظهار الهشاشة في الحزن. هذا التوقع الثقافي قد يترك الرجال أكثر عزلة في حدادهم وقد يكون أحد أسباب لجوء الرجال عموما إلى طلب الدعم المتخصص بعد الفقد بشكل أقل. الاعتراف بهذا الأمر صراحة، للشخص المعني ولمن حوله، أمر نافع."
+          ]
+        },
+        {
+          "h2": "الحزن عند الأطفال: ما يحتاج الوالدان معرفته",
+          "paras": [
+            "يحزن الأطفال بصورة مختلفة عن البالغين وحزنهم كثيرا ما يُساء فهمه. طفل يلعب باعتيادية ثم يبكي فجأة، أو يطرح أسئلة غير متوقعة عن الموت بعد أسابيع من فقد ما، لا يُبدي مشاعر سطحية. الأطفال يعالجون الحزن في دفعات أقصر، يعودون إلى النشاط الاعتيادي بينها، ويعودون إلى الفقد مرارا مع نموهم وفهمهم له بصورة مختلفة في أعمار مختلفة.",
+            "يستفيد الأطفال من التفسير الصادق المناسب للعمر أكثر من التلطّف بالمجاز. إخبار طفل بأن أحدا ذهب في رحلة أو نام قد يُنشئ خوفا من النوم أو السفر. قول إن شخصا مات، باستخدام الكلمة مباشرة، وتفسير أن هذا يعني أنه لن يعود، أكثر رعبا على المدى القصير لكن أكثر طمأنينة بمرور الوقت لأنه الحقيقة.",
+            "ينبغي عموما إشراك الأطفال في طقوس الحداد لا حمايتهم منها. الحضور في مراسم الجنازة ورؤية الكبار يحزنون وفهم السبب، وإدراك أن الحزن استجابة مجتمعية مشتركة لا شأن بالغين سري، يُعطي الأطفال إطارا لمشاعرهم. ما يُخيف الأطفال أكثر هو غموض ما يجري حولهم حين يُغلق البالغون الأبواب ويتكلمون بأصوات منخفضة.",
+            "الأطفال المحزونون الذين تظهر عليهم مشكلات في المدرسة أو شكاوى جسدية مستمرة، أو يتراجعون في السلوك كالتبوّل اللاإرادي بعد أن كانوا قد تخلّصوا منه، قد يُظهرون حزنا يحتاج اهتماما بالغا. مرشد مدرسي أو طبيب أطفال أو طبيب نفسي للأطفال يستطيع تقييم ما إذا كان الطفل يتعامل مع الأمر ضمن الحدود الطبيعية أم يحتاج دعما أكبر."
+          ]
+        }
+      ],
+      "tie": "يتيح لك تطبيق صحتك تتبع مزاجك وصحتك النفسية بمرور الوقت، مما يُساعدك على رؤية ما إذا كانت مشاعرك تتغير تدريجيا أو ظلت ثابتة لأشهر عديدة. إن كنت قلقا على حزنك أو على شخص قريب منك، السجل الذي تحتفظ به في التطبيق هو شيء يمكنك مشاركته مع طبيب أو مرشد.",
+      "faqs": [
+        {
+          "q": "كم من الوقت يُعدّ الحزن طبيعيا؟",
+          "a": "لا حد زمني للحزن الطبيعي. معظم الناس يجدون أن الألم الأشد حدة يخف خلال السنة الأولى، لكن الحزن يبقى حاضرا لسنوات وأحيانا مدى الحياة في شكل أقل إعاقة وأكثر اندماجا. الأهم من المدة هو ما إذا كان الحزن يتغير أصلا، أم بقي حادا ومُعيقا كأيامه الأولى."
+        },
+        {
+          "q": "ما الفرق بين الحزن والاكتئاب؟",
+          "a": "الحزن استجابة لفقد محدد ويتضمن عادة لحظات من المشاعر الإيجابية إلى جانب الألم. الاكتئاب ينطوي على مزاج منخفض شامل في كل نواحي الحياة وصعوبة إيجاد المتعة في أي شيء وغالبا ذنب أو يأس. الحالتان قد تتعايشان بعد فقد كبير وطبيب أو متخصص يستطيع التمييز بينهما."
+        },
+        {
+          "q": "هل الغضب جزء طبيعي من الحزن؟",
+          "a": "نعم. الغضب شعور شائع في الحزن، سواء اتجه نحو المنظومة الصحية أو نحو من رحل لتركه، أو نحو نفسك بسبب شيء فعلته أو أغفلته، أو نحو لا أحد بعينه. الغضب في الحزن ليس مخزيا ولا يحتاج تفسيرا أو تبريرا. هو جزء من المدى العاطفي للفقد."
+        },
+        {
+          "q": "ما هو اضطراب الحزن المطوّل؟",
+          "a": "اضطراب الحزن المطوّل (Prolonged Grief Disorder)، المعترف به في ICD-11 وDSM-5-TR، هو حالة لا يخف فيها الحزن الحاد بمرور الوقت ويُعيق الأداء الطبيعي بشكل ملحوظ. يتضمن عادة اشتياقا حادا للفقيد وصعوبة قبول حدوث الوفاة وعجزا عن الانخراط في الحياة. يُصيب نحو 10 بالمئة من المحزونين ويستجيب للعلاج المتخصص."
+        },
+        {
+          "q": "هل أذهب إلى الطبيب بسبب حزني؟",
+          "a": "الذهاب إلى الطبيب مناسب إن لم يتغير حزنك مطلقا لعدة أشهر، أو إن لم تستطع إدارة مهام يومية، أو إن كانت لديك أفكار انتحارية، أو إن لم تتحسن أعراض جسدية كاضطراب النوم وفقدان الشهية بمرور الوقت. يستطيع الطبيب أيضا تقييم ما إذا كان الاكتئاب أو حالة أخرى يصحب الحزن."
+        },
+        {
+          "q": "هل الحزن قابل للعلاج؟",
+          "a": "الحزن الطبيعي لا يحتاج علاجا. اضطراب الحزن المطوّل يحتاجه ويستجيب له جيدا. تجربة عشوائية محكومة نُشرت عام 2024 في JAMA Psychiatry وجدت أن العلاج المعرفي السلوكي يُنتج تحسينات ملحوظة لدى مرضى اضطراب الحزن المطوّل. أشكال أخرى من العلاج المركّز على الحزن لها قاعدة أدلة كذلك."
+        },
+        {
+          "q": "كيف أدعم شخصا محزونا دون أن أقول شيئا خاطئا؟",
+          "a": "الحضور أهم من الكلمات. ذكر اسم الفقيد والاعتراف بالفقد مباشرة بدل تجنبه، والاستمرار في الحضور بمرور الوقت لا في الأيام الأولى فقط. تقديم مساعدة عملية محددة أنفع من عرض مفتوح. الإنصات دون محاولة إصلاح الفقد أو تفسيره هو ما يقول أغلب المحزونين إنهم يحتاجونه أكثر."
+        },
+        {
+          "q": "هل طبيعي أن يعود الحزن بعد سنوات؟",
+          "a": "نعم. الحزن يعود كثيرا عند الذكريات السنوية والمواليد والأعراس وسائر المحطات حين يكون غياب الشخص محسوسا بحدة. هذا ليس دليلا على أنك لم تحزن كما ينبغي أو أن شيئا قد أخطأ. هو دليل على أن العلاقة كانت ذات قيمة وأن بعض الخسائر دائمة بما يكفي للمسّ كل نسخة من مستقبلك."
+        }
+      ]
+    }
+  }
+}

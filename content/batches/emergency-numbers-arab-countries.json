@@ -1,0 +1,408 @@
+{
+  "slug": "emergency-numbers-arab-countries",
+  "category": "regional-health",
+  "chip_ar": "الصحة الإقليمية",
+  "chip_en": "Regional Health",
+  "date_iso": "2026-08-05",
+  "sources": [
+    {
+      "label": "UAE Government official portal: Handling emergencies. u.ae official services",
+      "url": "https://u.ae/en/information-and-services/justice-safety-and-the-law/handling-emergencies"
+    },
+    {
+      "label": "Syrian Arab News Agency: 307 ambulances serve emergency cases via Hotline 110 in Syria. SANA Health, 2025",
+      "url": "https://sana.sy/en/health/2263249/"
+    },
+    {
+      "label": "Lebanese Red Cross: Volunteer-based emergency medical services. International Federation of Red Cross and Red Crescent Societies",
+      "url": "https://migrationsmartpractices.ifrc.org/smart-practice/volunteer-based-emergency-medical-services-ems-lebanon/"
+    },
+    {
+      "label": "Egyptian Streets: Egypt Announces its Very-Own 112 Hotline for Public Emergencies, 2022",
+      "url": "https://egyptianstreets.com/2022/11/01/112-egypt-announces-its-very-own-911-hotline-for-public-emergencies/"
+    },
+    {
+      "label": "Farhat H, Alinier G, El Aifa K et al: Quality improvement tools to manage emergency callbacks from patients with diabetes in a prehospital setting, BMJ open quality, 2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36599502/"
+    },
+    {
+      "label": "Wikipedia contributors: List of emergency telephone numbers. Wikipedia, The Free Encyclopedia",
+      "url": "https://en.wikipedia.org/wiki/List_of_emergency_telephone_numbers"
+    }
+  ],
+  "content": {
+    "en": {
+      "title": "Emergency numbers in Arab countries and when to call",
+      "desc": "Verified ambulance, police, and fire numbers for Saudi Arabia, UAE, Egypt, Jordan, Lebanon, Syria, Iraq, Kuwait, Qatar, Bahrain, Oman, Morocco, Algeria, and Tunisia.",
+      "keywords": "emergency numbers Arab countries, ambulance number Saudi Arabia, emergency number UAE Egypt Jordan, 911 Arab world, call ambulance Middle East, emergency services Arab countries, what counts as emergency",
+      "h1": "Emergency numbers in Arab countries: verified numbers and when to call",
+      "takeaways": [
+        "The Gulf states have largely unified their emergency lines: Saudi Arabia uses 911, the UAE uses 999 for police and 998 for ambulance, Kuwait and Qatar use 999, Bahrain uses 999, and Oman uses 9999.",
+        "In the Levant: Jordan uses 911, Lebanon's main ambulance line is 140 (Lebanese Red Cross), Syria has launched a unified ambulance line at 110, and Iraq's ambulance number is 122.",
+        "North Africa numbers differ by country: Egypt uses 123 for ambulance and 112 as a unified number, Morocco uses 15 for SAMU, Algeria uses 14 for civil protection, and Tunisia uses 190 for ambulance.",
+        "When you call an ambulance, state the address first, then the patient's age, then the chief complaint. Stay on the line until the dispatcher tells you to hang up.",
+        "If ambulance response is uncertain in your area, do not wait: take the patient by car to the nearest emergency department while someone else calls ahead."
+      ],
+      "sections": [
+        {
+          "h2": "The most important numbers to save right now",
+          "paras": [
+            "Emergency numbers in the Arab world are not as unified as in Europe or North America, where a single number like 112 or 911 reaches all services everywhere. Across Arab countries, different services have different numbers, and these numbers vary from country to country. The table below lists verified numbers for the countries most frequently visited or lived in by this site's readers. Numbers listed here have been cross-checked against official government sources, embassy guidance, and national news agencies.",
+            "One critical point about ambulance response times across the region: in major cities such as Riyadh, Dubai, Amman, and Cairo, response times are often reasonable. In rural areas, smaller towns, conflict-affected zones, and countries with damaged infrastructure, an ambulance may not arrive quickly or at all. Knowing this in advance means having a plan: identify the nearest hospital with an emergency department to your home before you need it, not during a crisis.",
+            "For any cardiac arrest, severe bleeding, stroke, or unconsciousness, the fastest route to a hospital is often to put the patient in a private car while calling the emergency number simultaneously, rather than waiting for an ambulance that may be delayed. The exception is spinal injuries, where moving the patient without a stretcher carries its own risk."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Verified emergency numbers by country",
+            "head": ["Country", "Ambulance", "Police", "Fire / General"],
+            "rows": [
+              ["Saudi Arabia", "997", "911", "998"],
+              ["UAE", "998", "999", "997"],
+              ["Kuwait", "112", "112", "112"],
+              ["Qatar", "999", "999", "999"],
+              ["Bahrain", "999", "999", "999"],
+              ["Oman", "9999", "9999", "9999"],
+              ["Jordan", "911", "911", "911"],
+              ["Lebanon", "140 (Red Cross)", "999 / 112", "175"],
+              ["Egypt", "123 (or 112)", "122 (or 112)", "180 (or 112)"],
+              ["Syria", "110", "112", "113"],
+              ["Iraq", "122", "104", "115"],
+              ["Morocco", "15 (SAMU)", "19", "15"],
+              ["Algeria", "14 (civil protection)", "17", "14"],
+              ["Tunisia", "190 (SAMU)", "197", "198"]
+            ]
+          }
+        },
+        {
+          "h2": "Gulf countries: what to expect when you call",
+          "paras": [
+            "In Saudi Arabia, the Ministry of Interior unified general emergencies under 911 in 2017, while 997 remains the direct line to the Saudi Red Crescent Authority ambulance service and 998 reaches Civil Defence. Most callers dial 911 and are connected to the appropriate service from there. Operators in the major cities speak English and Arabic; in rural areas, Arabic is more reliable.",
+            "In the UAE, 999 reaches the police and the general emergency line, 998 connects to the ambulance service, and 997 connects to Civil Defence. These numbers are consistent across all seven emirates. The UAE has invested heavily in prehospital emergency care and response times in Dubai and Abu Dhabi are among the fastest in the region. From a mobile phone, 112 also works as a universal emergency line across the UAE.",
+            "Kuwait, Qatar, Bahrain, and Oman have all adopted 999 or 9999 as their unified emergency numbers connecting to all services. Oman uses 9999 as the national emergency number and response infrastructure is well developed in Muscat. In smaller cities and rural Oman, response times are longer."
+          ]
+        },
+        {
+          "h2": "Levant countries: ambulance coverage and what you should know",
+          "paras": [
+            "Jordan has unified its emergency services under 911 since 2014. Police, ambulance, and fire all operate through this number and operators are trained to dispatch the relevant service. The Jordan Civil Defence runs the ambulance service and coverage in Amman is reliable, though rural areas can face longer wait times.",
+            "In Lebanon, 140 is the toll-free number of the Lebanese Red Cross ambulance service, which is staffed by around 3,500 trained volunteers across 47 branches. This volunteer-based system is the main pre-hospital care provider across the country and has remained operational throughout periods of conflict and instability that would have disrupted a government-only service. Police emergency is 999 or 112. The Lebanese Civil Defence fire number is 175.",
+            "In Syria, the Ministry of Health launched a centralised ambulance command centre and unified the national ambulance line at 110. According to the Syrian Arab News Agency, 307 ambulances serve all governorates through this hotline. This service has been progressively rebuilt since 2015 and coverage now extends to all major population centres, though access in remote or conflict-adjacent areas may still be limited. Police emergency is 112 and fire is 113."
+          ]
+        },
+        {
+          "h2": "Iraq and Egypt: navigating the systems",
+          "paras": [
+            "In Iraq, the ambulance number is 122, which connects to the Ministry of Health ambulance service in Baghdad and other major governorates. Civil Defence, which handles fire and rescue, is reached at 115. The police emergency number is 104. Iraq also operates a general emergency line at 911 which can route calls to the appropriate service. Coverage and response capacity vary significantly between Baghdad, Erbil, and the Kurdistan Region, which has its own well-developed emergency infrastructure, and more remote governorates.",
+            "Egypt launched 112 as a unified emergency number in November 2022, consolidating previously separate lines. The specific direct lines remain active: 123 for ambulance, 122 for police, and 180 for fire. In practice, dialling 112 from any phone in Egypt connects the caller to a dispatcher who routes the call to the relevant service. Ambulance response in Cairo, Alexandria, and major cities is improving, though the size of Cairo means that a hospital emergency department may be faster in some areas."
+          ]
+        },
+        {
+          "h2": "North Africa: Morocco, Algeria, and Tunisia",
+          "paras": [
+            "In Morocco, the emergency medical system operates through SAMU (Service d'Aide Medicale Urgente), reached at 15. Police emergency is reached at 19. These numbers are consistent across all major Moroccan cities. Ambulance coverage is strongest in Casablanca, Rabat, Marrakech, and Fes.",
+            "In Algeria, the civil protection service handles both fire and emergency medical response and is reached at 14. The SAMU medical emergency line is 16. Police is reached at 17 and gendarmerie at 1055. The general European emergency number 112 also connects to services in Algeria on mobile phones. Response infrastructure is strongest in Algiers and other major northern cities.",
+            "In Tunisia, the emergency medical service SAMU is reached at 190, police at 197, and civil protection and fire at 198. Tunisia has a reasonably well-developed SAMU network across its major regions. From mobile phones, 112 functions as an alternative general emergency line."
+          ]
+        },
+        {
+          "h2": "What to say when you call an ambulance",
+          "paras": [
+            "The first ten seconds of an emergency call determine how fast help arrives. Dispatchers need your address before anything else: a call can be traced to a rough area, but an address gets the vehicle moving toward the right street. State the address clearly and spell any unusual street name. If you are in a building, give the floor and apartment number.",
+            "After the address, give two pieces of information: the age of the patient and the chief complaint in a single sentence. Examples that work: a 58-year-old man with chest pain and difficulty breathing, or a 4-year-old child who has swallowed something and is choking. Do not spend time explaining the medical history during the first call. The dispatcher will ask if they need more detail.",
+            "Stay on the line until the dispatcher explicitly tells you to hang up. While you are on the phone, they can talk you through basic first aid if it is needed and can update the crew. If you cannot stay on the line, make sure someone else is at the location to meet the ambulance and guide them to the patient."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "What to say when you call an ambulance",
+            "items": [
+              "State the full address clearly, including building name, floor, and apartment number",
+              "Give the patient's age",
+              "Describe the main complaint in one sentence",
+              "Stay on the line until the dispatcher says you can hang up",
+              "Send someone to the building entrance to guide the crew directly to the patient"
+            ]
+          }
+        },
+        {
+          "h2": "What counts as an emergency that needs an ambulance?",
+          "paras": [
+            "An ambulance should be called when the patient's life may be at risk and when moving them by private car could cause further harm or when their condition is deteriorating faster than a car journey allows. Situations where calling 911 or the local equivalent is the right choice include: suspected heart attack (chest pain, sweating, arm pain), stroke symptoms (one-sided weakness, speech difficulty, sudden severe headache), unconsciousness or unresponsiveness, severe difficulty breathing at rest, major trauma from a road accident or fall from height, heavy uncontrolled bleeding, suspected spinal injury, severe allergic reaction with throat swelling, and seizure lasting more than five minutes.",
+            "Many presentations do not need an ambulance but do need the emergency department: a painful but stable wound that needs stitching, a child with a fever who is alert and breathing normally, a broken bone where the limb is not pulseless or cold. In these cases, taking the patient by car is appropriate and often faster.",
+            "In some Arab countries, calling an ambulance for a non-life-threatening situation delays resources for people who need them critically. This is not an argument to avoid calling when genuinely uncertain: if you are in doubt, call. But if you know the situation is not immediately life-threatening, going directly to the hospital or an urgent care facility is usually faster and spares resources for more critical cases."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "Call an ambulance immediately for any of these",
+            "items": [
+              "Chest pain with sweating, arm pain, or difficulty breathing",
+              "Sudden one-sided weakness, numbness, or difficulty speaking",
+              "Sudden severe headache unlike any before",
+              "Unconsciousness or unresponsiveness",
+              "Severe difficulty breathing at rest",
+              "Major trauma: road accident, fall from height, stabbing",
+              "Uncontrolled heavy bleeding",
+              "Seizure lasting more than five minutes or repeated seizures"
+            ]
+          }
+        },
+        {
+          "h2": "What to do while waiting for the ambulance to arrive",
+          "paras": [
+            "The minutes between calling the ambulance and its arrival are the most critical in a life-threatening situation. For cardiac arrest, where the heart has stopped and the patient is unresponsive and not breathing normally, begin chest compressions immediately if you know how. Push hard and fast in the centre of the chest, at least 100 times per minute, and do not stop until the ambulance crew takes over. If an automated external defibrillator (AED) is nearby, use it: many malls, airports, and public buildings in the Gulf now have them mounted on walls near elevators.",
+            "For a choking adult who is conscious, give up to five sharp back blows between the shoulder blades and then up to five abdominal thrusts (Heimlich manoeuvre). For a child over one year, use the same sequence with gentler force. For a choking infant under one year, alternate five back blows with five chest thrusts and do not use abdominal thrusts.",
+            "For heavy bleeding, apply firm direct pressure with the cleanest cloth available and do not remove it even if it soaks through. Add more material on top. For a suspected spinal injury after a fall or accident, do not move the patient at all unless there is an immediate threat to life such as fire or a building collapse. Moving a patient with a cervical spine injury without proper immobilisation can cause paralysis."
+          ]
+        },
+        {
+          "h2": "When ambulance response is not reliable: having a plan",
+          "paras": [
+            "In parts of Syria, Yemen, Sudan, and areas affected by conflict or damaged infrastructure, calling an ambulance may not produce a timely response. The advice in this situation is not to wait: identify the nearest functioning hospital with an emergency department before a crisis occurs. Know the route, know whether it is open at night, and if possible know whether it handles the kind of emergency most likely to affect someone in your household, whether that is trauma, a cardiac event, or a childbirth complication.",
+            "For people managing a chronic condition at high risk of acute events, such as diabetes with poor control, heart disease, or a history of seizures, the hospital identification step is not optional. Tell your family members or anyone who lives with you which hospital to go to and how to get there. A brief family agreement on this, made in a calm moment, can prevent a panicked and potentially fatal delay when a crisis occurs.",
+            "NGO and humanitarian medical organisations active in conflict-affected parts of the region, including Doctors Without Borders, the International Medical Corps, and the Syrian American Medical Society, often operate emergency and primary care facilities. Knowing the location of the nearest facility of this type is part of emergency preparedness in areas where government services are unreliable."
+          ]
+        },
+        {
+          "h2": "Emergency preparedness: what to keep at home",
+          "paras": [
+            "Knowing the emergency numbers is the starting point, not the whole plan. A functioning home preparation also includes a first-aid kit with at minimum clean bandages, antiseptic, a thermometer, a pocket mask for rescue breathing, and any prescription medicines needed urgently by household members. Keep prescription quantities sufficient to cover several days so a sudden delay in pharmacy access does not create a medical crisis.",
+            "Write the emergency numbers for your country and the address and phone number of your nearest hospital emergency department on a piece of paper and keep it on the refrigerator or another visible location. In a panic, people forget what they know. A written list removes that problem. Include on the same list the name and dose of any critical medicine taken by anyone in the household, since the ambulance crew will ask.",
+            "Children should know their home address by the time they start school. This is not an exaggeration: a child who can tell an emergency dispatcher their address has already done most of what is needed to get help to the right place. Practising this with young children as a calm factual exercise, not a frightening drill, is one of the most useful things a parent can do."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "Emergency preparedness: five steps to do this week",
+            "items": [
+              "Save the ambulance number for your country in your phone under the name AMBULANCE",
+              "Write the emergency numbers and the address of your nearest hospital on paper and put it on the refrigerator",
+              "Tell every adult in the household which hospital to go to for an emergency",
+              "Check that your first-aid kit has clean bandages, antiseptic, and a thermometer",
+              "Teach any school-age child your home address so they can say it clearly to an emergency dispatcher"
+            ]
+          }
+        }
+      ],
+      "tie": "Sihtak lets you store your household's medical summaries, medicines, and allergy lists in one place. In an emergency, you can show the arriving crew the relevant information immediately without searching for papers.",
+      "faqs": [
+        {
+          "q": "What is the single emergency number for the UAE?",
+          "a": "In the UAE, 999 connects to police and the general emergency line, 998 connects to the ambulance service, and 997 connects to Civil Defence for fire. From a mobile phone, 112 also works as a universal emergency line. For most emergencies, calling 999 or 998 is the fastest route."
+        },
+        {
+          "q": "What number do I call for an ambulance in Egypt?",
+          "a": "Egypt's ambulance number is 123. Egypt also launched a unified emergency number, 112, in November 2022, which connects to all emergency services including ambulance. Both numbers are active."
+        },
+        {
+          "q": "What is Lebanon's emergency ambulance number?",
+          "a": "The main ambulance line in Lebanon is 140, which connects to the Lebanese Red Cross volunteer ambulance service. This is the primary pre-hospital care provider in Lebanon and operates 24 hours a day across 47 branches."
+        },
+        {
+          "q": "How do I call an ambulance in Syria?",
+          "a": "Syria's national ambulance line is 110, operated by the Ministry of Health. The Syrian Arab News Agency confirmed in 2025 that 307 ambulances serve all governorates through this number. Police emergency is 112 and fire is 113."
+        },
+        {
+          "q": "What should I say first when I call emergency services?",
+          "a": "State the address first, then the patient's age, then the main complaint in one sentence. The dispatcher needs the address to send help before they need any medical detail. Stay on the line until they tell you it is safe to hang up."
+        },
+        {
+          "q": "Can I call 112 in Arab countries the same way as in Europe?",
+          "a": "In several Arab countries, 112 works as a mobile-phone emergency line: UAE, Egypt, Kuwait, Algeria, Tunisia, Lebanon, Syria, and Iraq all connect on 112 from a mobile. In Saudi Arabia, the unified number is 911, not 112. In Jordan, it is also 911. Always check the specific number for the country you are in."
+        },
+        {
+          "q": "What if the ambulance takes too long to arrive?",
+          "a": "If the patient is stable enough to be moved, travelling by private car to the nearest hospital emergency department is often faster and is the right choice. The exception is suspected spinal injury after a fall or accident, where moving the patient without proper immobilisation risks paralysis. For cardiac arrest, start chest compressions immediately and do not stop for any reason until the crew arrives."
+        },
+        {
+          "q": "What is the emergency number in Saudi Arabia?",
+          "a": "Saudi Arabia uses 911 as the unified emergency number for police, fire, and ambulance routing. The direct Saudi Red Crescent ambulance line is 997 and Civil Defence is 998. For most callers, dialling 911 is the simplest approach."
+        }
+      ]
+    },
+    "ar": {
+      "title": "أرقام الطوارئ في الدول العربية: متى تتصل وكيف؟",
+      "desc": "أرقام الإسعاف والشرطة والإطفاء الموثّقة في السعودية والإمارات ومصر والأردن ولبنان وسوريا والعراق والكويت وقطر والبحرين وعُمان والمغرب والجزائر وتونس.",
+      "keywords": "أرقام الطوارئ عربي, رقم الإسعاف السعودية, رقم الطوارئ الإمارات مصر الأردن, 911 عربي, الاتصال بالإسعاف الشرق الأوسط, خدمات الطوارئ الدول العربية",
+      "h1": "أرقام الطوارئ في الدول العربية: الأرقام الموثّقة ومتى تتصل",
+      "takeaways": [
+        "دول الخليج وحّدت خطوط طوارئها إلى حد بعيد: السعودية تستخدم 911، الإمارات 999 للشرطة و998 للإسعاف، والكويت وقطر والبحرين تستخدم 999، وعُمان 9999.",
+        "في المشرق العربي: الأردن يستخدم 911، لبنان 140 للإسعاف عبر الصليب الأحمر، وسوريا أطلقت خطاً موحداً للإسعاف على 110، والعراق 122.",
+        "في شمال أفريقيا تتفاوت الأرقام: مصر تستخدم 123 للإسعاف و112 كرقم موحد، والمغرب 15 للسامو، والجزائر 14 للحماية المدنية، وتونس 190 للإسعاف.",
+        "حين تتصل بالإسعاف، اذكر العنوان أولاً، ثم عمر المريض، ثم الشكوى الرئيسية في جملة واحدة، وابقَ على الخط حتى يسمح لك المُبلِّغ بالإغلاق."
+      ],
+      "sections": [
+        {
+          "h2": "أهم الأرقام التي تحتاج حفظها الآن",
+          "paras": [
+            "أرقام الطوارئ في العالم العربي ليست موحّدة كما هي في أوروبا أو أمريكا الشمالية، حيث يكفي رقم واحد كـ112 أو 911 للوصول إلى كل الخدمات في كل مكان. عبر الدول العربية، تعمل كل خدمة في الغالب برقم منفصل، ويتفاوت هذا الرقم من بلد إلى آخر. الجدول أدناه يُدرج أرقاماً موثّقة للدول الأكثر سكناً وزيارةً من قِبل قرّاء هذا الموقع، وقد جرت مقارنة هذه الأرقام بالمصادر الحكومية الرسمية وتوجيهات السفارات ووكالات الأنباء الوطنية.",
+            "نقطة بالغة الأهمية بشأن أوقات استجابة الإسعاف في المنطقة: في المدن الكبرى كالرياض ودبي وعمّان والقاهرة، أوقات الاستجابة مقبولة في الغالب. أما في المناطق الريفية والمدن الصغيرة والمناطق المتضررة من النزاعات والبلدان ذات البنية التحتية المتداعية، فقد يتأخر وصول الإسعاف أو لا يصل أصلاً. معرفة هذا مسبقاً تعني امتلاك خطة: حدّد أقرب مستشفى بقسم طوارئ إلى منزلك قبل أن تحتاجه، لا خلال الأزمة.",
+            "في حالة السكتة القلبية أو النزيف الشديد أو الجلطة الدماغية أو فقدان الوعي، الطريق الأسرع إلى المستشفى كثيراً ما يكون وضع المريض في سيارة خاصة والاتصال بالرقم الطارئ في الوقت ذاته، بدلاً من انتظار إسعاف قد يتأخر. الاستثناء هو إصابات العمود الفقري، حيث تحريك المريض بدون نقّالة قد يُشكّل خطراً بذاته."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "أرقام الطوارئ الموثّقة حسب الدولة",
+            "head": ["الدولة", "الإسعاف", "الشرطة", "الإطفاء / الطوارئ العامة"],
+            "rows": [
+              ["المملكة العربية السعودية", "997", "911", "998"],
+              ["الإمارات العربية المتحدة", "998", "999", "997"],
+              ["الكويت", "112", "112", "112"],
+              ["قطر", "999", "999", "999"],
+              ["البحرين", "999", "999", "999"],
+              ["عُمان", "9999", "9999", "9999"],
+              ["الأردن", "911", "911", "911"],
+              ["لبنان", "140 (الصليب الأحمر)", "999 / 112", "175"],
+              ["مصر", "123 (أو 112)", "122 (أو 112)", "180 (أو 112)"],
+              ["سوريا", "110", "112", "113"],
+              ["العراق", "122", "104", "115"],
+              ["المغرب", "15 (سامو)", "19", "15"],
+              ["الجزائر", "14 (الحماية المدنية)", "17", "14"],
+              ["تونس", "190 (سامو)", "197", "198"]
+            ]
+          }
+        },
+        {
+          "h2": "دول الخليج: ما تتوقعه حين تتصل",
+          "paras": [
+            "في المملكة العربية السعودية، وحّدت وزارة الداخلية حالات الطوارئ العامة تحت رقم 911 منذ 2017، فيما يظل 997 الخط المباشر لإسعاف الهلال الأحمر السعودي، و998 خط الدفاع المدني. غالبية المتصلين يُقرّعون 911 فيُوصَلون إلى الجهة المناسبة. المشغلون في المدن الكبرى يتحدثون العربية والإنجليزية؛ وفي المناطق الريفية، العربية أوثق.",
+            "في الإمارات، 999 يصل إلى الشرطة وخط الطوارئ العام، 998 يتصل بخدمة الإسعاف، و997 يتصل بالدفاع المدني. هذه الأرقام موحّدة عبر الإمارات السبع. الإمارات ضخّت استثمارات كبيرة في الرعاية الطارئة قبل المستشفى، وأوقات الاستجابة في دبي وأبوظبي تُعدّ من أسرع أوقات الاستجابة في المنطقة. من الهاتف المحمول، يعمل 112 أيضاً كخط طوارئ شامل في الإمارات.",
+            "الكويت وقطر والبحرين وعُمان اعتمدت جميعها 999 أو 9999 كأرقام طوارئ موحّدة تصل إلى جميع الخدمات. عُمان تستخدم 9999 كرقم طوارئ وطني وبنيتها التحتية في مسقط متطوّرة. في المدن الأصغر والمناطق الريفية بعُمان، أوقات الاستجابة أطول."
+          ]
+        },
+        {
+          "h2": "دول المشرق: تغطية الإسعاف وما يجب أن تعرفه",
+          "paras": [
+            "الأردن وحّد خدمات الطوارئ تحت رقم 911 منذ 2014. الشرطة والإسعاف والإطفاء جميعهم يعملون عبر هذا الرقم، والمشغلون مُدرَّبون على توجيه المكالمة إلى الجهة المعنية. يُشغّل الدفاع المدني الأردني خدمة الإسعاف، والتغطية في عمّان موثوقة، وإن كانت المناطق الريفية تشهد أوقات انتظار أطول.",
+            "في لبنان، 140 هو الخط المجاني لإسعاف الصليب الأحمر اللبناني المؤلف من نحو 3500 متطوع مُدرَّب في 47 فرعاً. هذا النظام القائم على التطوع هو المُزوّد الرئيسي للرعاية الطارئة قبل المستشفى في البلاد، وقد ظل يعمل خلال فترات الصراع وعدم الاستقرار التي كان يمكن أن تُشلّ خدمة حكومية بالكامل. رقم الشرطة 999 أو 112، والإطفاء والدفاع المدني اللبناني 175.",
+            "في سوريا، أطلقت وزارة الصحة مركزاً مركزياً لتنسيق الإسعاف ووحّدت الخط الوطني على 110. وأفادت وكالة الأنباء السورية الرسمية بأن 307 سيارة إسعاف تخدم جميع المحافظات عبر هذا الخط. الخدمة تُعاد بناؤها منذ 2015 وتغطّي الآن كل مراكز التجمع السكاني الرئيسية، وإن كان الوصول في المناطق النائية أو المحاذية لمناطق الصراع قد يظل محدوداً. رقم الشرطة 112 والإطفاء 113."
+          ]
+        },
+        {
+          "h2": "العراق ومصر: التعامل مع المنظومة",
+          "paras": [
+            "في العراق، رقم الإسعاف 122 الذي يتصل بخدمة إسعاف وزارة الصحة في بغداد وسائر المحافظات الكبرى. الدفاع المدني المسؤول عن الإطفاء والإنقاذ يُتصل به على 115. رقم الشرطة الطارئ 104. يعمل العراق أيضاً على خط طوارئ عام على 911 يُوجّه المكالمات إلى الجهة المناسبة. تتفاوت التغطية وقدرة الاستجابة تفاوتاً ملحوظاً بين بغداد وأربيل وإقليم كردستان الذي طوّر بنيته التحتية للطوارئ بشكل جيد، وبين المحافظات الأبعد.",
+            "أطلقت مصر رقم 112 كرقم طوارئ موحّد في نوفمبر 2022، يجمع الخطوط المنفصلة السابقة. الخطوط المباشرة لا تزال فعّالة: 123 للإسعاف، 122 للشرطة، 180 للإطفاء. من الناحية العملية، الاتصال بـ112 من أي هاتف في مصر يُوصّل المتصل بمُبلِّغ يُحوّل المكالمة إلى الخدمة المعنية. استجابة الإسعاف في القاهرة والإسكندرية والمدن الرئيسية في تحسن مستمر، وإن كان ضخامة القاهرة قد يجعل التوجه المباشر إلى قسم طوارئ المستشفى أسرع في بعض المناطق."
+          ]
+        },
+        {
+          "h2": "شمال أفريقيا: المغرب والجزائر وتونس",
+          "paras": [
+            "في المغرب، يعمل نظام الطوارئ الطبية عبر السامو (SAMU) على الرقم 15. رقم الشرطة 19. هذه الأرقام موحّدة عبر جميع المدن المغربية الكبرى. تغطية الإسعاف الأقوى في الدار البيضاء والرباط ومراكش وفاس.",
+            "في الجزائر، تتولى الحماية المدنية الإطفاء والإسعاف الطبي وتُتصل بها على 14. خط سامو الطبي الطارئ 16. رقم الشرطة 17 والدرك 1055. رقم 112 الأوروبي الطارئ العام يعمل أيضاً في الجزائر من الهواتف المحمولة. البنية التحتية للاستجابة الأقوى في الجزائر العاصمة والمدن الشمالية الكبرى.",
+            "في تونس، رقم سامو للإسعاف 190، رقم الشرطة 197، والحماية المدنية والإطفاء 198. لدى تونس شبكة سامو معقولة التطور عبر أقاليمها الرئيسية. من الهاتف المحمول، يعمل 112 كبديل طارئ عام."
+          ]
+        },
+        {
+          "h2": "ماذا تقول حين تتصل بالإسعاف؟",
+          "paras": [
+            "الثواني العشر الأولى من المكالمة الطارئة تُحدّد سرعة وصول المساعدة. المُبلِّغون يحتاجون عنوانك قبل أي شيء: يمكن تتبّع المكالمة إلى منطقة تقريبية، لكن العنوان يُحرّك المركبة نحو الشارع الصحيح. اذكر العنوان بوضوح واهجَّ أي اسم شارع غير مألوف. إن كنت في مبنى، أعطِ رقم الطابق والشقة.",
+            "بعد العنوان، أعطِ معلومتين: عمر المريض والشكوى الرئيسية في جملة واحدة. أمثلة تُجدي: رجل يبلغ 58 عاماً يعاني ألم صدري وصعوبة في التنفس، أو طفلة تبلغ 4 سنوات ابتلعت شيئاً وتختنق. لا تُضيّع الوقت في شرح التاريخ المرضي خلال المكالمة الأولى. المُبلِّغ سيسأل إن احتاج تفاصيل أكثر.",
+            "ابقَ على الخط حتى يُخبرك المُبلِّغ صراحةً بالإغلاق. طوال وجودك على الهاتف، يستطيع إرشادك في الإسعافات الأولية إن لزم وتحديث فريق الإسعاف. إن لم تستطع البقاء، تأكد من وجود شخص آخر في الموقع ليستقبل السيارة ويُرشد الفريق مباشرةً إلى المريض."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "ماذا تقول حين تتصل بالإسعاف",
+            "items": [
+              "اذكر العنوان الكامل بوضوح: اسم المبنى والطابق ورقم الشقة",
+              "أعطِ عمر المريض",
+              "صف الشكوى الرئيسية في جملة واحدة",
+              "ابقَ على الخط حتى يأذن لك المُبلِّغ بالإغلاق",
+              "أرسل شخصاً إلى مدخل المبنى ليُرشد الفريق مباشرةً إلى المريض"
+            ]
+          }
+        },
+        {
+          "h2": "ما الذي يستوجب استدعاء الإسعاف فعلاً؟",
+          "paras": [
+            "يُستدعى الإسعاف حين تكون حياة المريض في خطر وحين قد يُلحق تحريكه في سيارة خاصة ضرراً إضافياً، أو حين تتدهور حالته بأسرع مما يسمح به وقت الرحلة. المواقف التي يكون فيها الاتصال بالطوارئ الخيار الصحيح تشمل: احتمال نوبة قلبية (ألم صدري مع تعرق وألم في الذراع)، أعراض جلطة دماغية (ضعف في جانب واحد وصعوبة كلام وصداع مفاجئ شديد)، فقدان الوعي، صعوبة شديدة في التنفس في حالة الراحة، إصابة كبرى من حادث سير أو سقوط من ارتفاع، نزيف غزير لا يتوقف، إصابة محتملة في العمود الفقري، تفاعل تحسسي شديد مع تورم في الحلق، ونوبة صرع تستمر أكثر من خمس دقائق.",
+            "مواقف عديدة لا تستلزم إسعافاً لكنها تستلزم قسم الطوارئ: جرح مؤلم لكن مستقر يحتاج خياطة، طفل مع حمى لكنه صاحٍ ويتنفس بشكل طبيعي، كسر عظم وأطراف المريض لا تزال بلون طبيعي ودافئة. في هذه الحالات الذهاب بسيارة خاصة مناسب وأسرع في الغالب.",
+            "في بعض الدول العربية، الاتصال بالإسعاف لحالة غير مهددة للحياة يُؤخّر الموارد عن من يحتاجها أشد. هذا ليس دعوة لتجنّب الاتصال عند الشك الحقيقي: إن شككت، اتصل. لكن إن كنت متأكداً أن الحالة لا تهدد الحياة فوراً، الذهاب مباشرة إلى المستشفى أو مرفق الرعاية العاجلة عادةً أسرع ويحفظ الموارد لأشد الحالات."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "اتصل بالإسعاف فوراً في أي من هذه الحالات",
+            "items": [
+              "ألم صدري مع تعرق أو ألم في الذراع أو صعوبة في التنفس",
+              "ضعف مفاجئ في جانب واحد أو تنميل أو صعوبة في الكلام",
+              "صداع شديد مفاجئ لم تعانِه من قبل",
+              "فقدان الوعي أو عدم الاستجابة",
+              "صعوبة شديدة في التنفس في حالة الراحة",
+              "إصابة كبرى: حادث سير أو سقوط من ارتفاع أو طعنة",
+              "نزيف غزير لا يتوقف عند الضغط المباشر",
+              "نوبة صرع تستمر أكثر من خمس دقائق أو نوبات متكررة"
+            ]
+          }
+        },
+        {
+          "h2": "ماذا تفعل بينما تنتظر وصول الإسعاف؟",
+          "paras": [
+            "الدقائق بين الاتصال ووصول الإسعاف هي الأحرج في أي موقف يهدد الحياة. في حالة السكتة القلبية، حيث يتوقف القلب ويبقى المريض لا يستجيب ولا يتنفس بشكل طبيعي، ابدأ ضغطات الصدر فوراً إن كنت تعلم كيف. اضغط بقوة وبسرعة في مركز الصدر، بما لا يقل عن 100 ضغطة في الدقيقة، ولا تتوقف حتى يتولى فريق الإسعاف. إن وُجد جهاز رفع الرجفان الآلي (AED) في القرب، استخدمه: كثير من المولات والمطارات والمباني العامة في الخليج باتت تُعلّقه على الجدران بالقرب من المصاعد.",
+            "للبالغ البالغ المختنق والواعي، أعطِ ما يصل إلى خمس ضربات حادة بين لوحَي الكتف ثم ما يصل إلى خمس ضغطات بطنية (مناورة هايمليك). للطفل فوق سنة، استخدم التسلسل ذاته بقوة أخف. للرضيع دون سنة، بادل بين خمس ضربات ظهرية وخمس ضغطات صدرية ولا تستخدم ضغطات البطن.",
+            "للنزيف الغزير، طبّق ضغطاً مباشراً محكماً بأنظف قطعة قماش متاحة ولا تُزيلها حتى لو انتقع بالدم. أضف مزيداً من القماش فوقها. لإصابة العمود الفقري المحتملة بعد سقوط أو حادث، لا تُحرّك المريض إطلاقاً إلا في حالة خطر فوري على الحياة كحريق أو انهيار مبنى. تحريك مريض بإصابة في العمود العنقي بدون تثبيت مناسب قد يُسبب الشلل."
+          ]
+        },
+        {
+          "h2": "حين يكون الإسعاف غير موثوق: خطة احتياطية",
+          "paras": [
+            "في أجزاء من سوريا واليمن والسودان والمناطق المتضررة من النزاعات أو البنية التحتية المتدهورة، قد لا يُنتج الاتصال بالإسعاف استجابةً في الوقت المناسب. النصيحة في هذا الموقف ألا تنتظر: حدّد أقرب مستشفى يعمل بقسم طوارئ قبل وقوع الأزمة. اعرف الطريق، واعرف هل يعمل ليلاً، وإن أمكن اعرف هل يستقبل نوع الطارئ الأرجح في بيتك سواء كان حادثة جسدية أو نوبة قلبية أو مشكلة ولادة.",
+            "لمن يُدير حالة مزمنة عالية الخطورة للنوبات الحادة كالسكري السيئ التحكم أو أمراض القلب أو تاريخ من نوبات الصرع، تحديد المستشفى ليس خياراً. أخبر أفراد عائلتك وكل من يعيش معك بأي مستشفى تتجه إليه وكيف تصله. اتفاق عائلي موجز على هذا، في لحظة هادئة، يمنع تأخيراً مذعوراً ومحتمل الخطورة حين تقع الأزمة.",
+            "المنظمات الطبية الإنسانية العاملة في أجزاء المنطقة المتضررة من النزاعات، كأطباء بلا حدود والمجلس الطبي الدولي والجمعية الطبية السورية الأمريكية، تُشغّل في الغالب منشآت للطوارئ والرعاية الأولية. معرفة موقع أقرب منشأة من هذا النوع إليك جزء من التأهب للطوارئ في المناطق التي تكون فيها خدمات الحكومة غير موثوقة."
+          ]
+        },
+        {
+          "h2": "التأهب للطوارئ: ما تُبقيه في المنزل",
+          "paras": [
+            "معرفة أرقام الطوارئ هي نقطة البداية لا الخطة الكاملة. التأهب المنزلي الفعّال يشمل أيضاً حقيبة إسعافات أولية تحتوي على الحد الأدنى: ضمادات نظيفة، ومُعقّم، ومحرار، وقناع إنعاش للتنفس، وأي أدوية موصوفة يحتاجها أحد أفراد المنزل بشكل عاجل. احتفظ بكميات من الأدوية الموصوفة تكفي لأيام عدة حتى لا يُشكّل أي انقطاع مفاجئ في إمكانية الوصول إلى الصيدلية أزمة طبية.",
+            "اكتب أرقام الطوارئ لبلدك وعنوان وهاتف أقرب مستشفى بقسم طوارئ على ورقة وضعها على الثلاجة أو مكان مرئي آخر. في اللحظات المُذعِرة، يُنسي الإنسان ما يعرف. القائمة المكتوبة تُزيل هذه المشكلة. أضف على الورقة ذاتها اسم وجرعة أي دواء حيوي يتناوله أي فرد في المنزل، إذ سيسأل فريق الإسعاف عنه.",
+            "الأطفال ينبغي أن يحفظوا عنوان منزلهم قبل بدء المدرسة. هذا ليس مبالغة: طفل يستطيع إخبار مُبلِّغ الطوارئ بعنوانه قد أنجز بالفعل معظم ما يلزم لإيصال المساعدة إلى المكان الصحيح. ممارسة هذا مع الأطفال الصغار كتمرين هادئ وحقيقي لا كمناورة مُخيفة هو من أكثر الأشياء عملياً يستطيع الوالد تقديمها."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "التأهب للطوارئ: خمس خطوات افعلها هذا الأسبوع",
+            "items": [
+              "احفظ رقم الإسعاف لبلدك في هاتفك تحت اسم 'إسعاف'",
+              "اكتب أرقام الطوارئ وعنوان أقرب مستشفى على ورقة وضعها على الثلاجة",
+              "أخبر كل بالغ في المنزل بأي مستشفى يتجه إليه في حالة طارئة",
+              "تحقق أن حقيبة الإسعافات الأولية تحتوي ضمادات ومُعقّماً ومحراراً",
+              "علّم أي طفل في سن المدرسة عنوان منزلكم حتى يُتقن نطقه لمُبلِّغ الطوارئ"
+            ]
+          }
+        }
+      ],
+      "tie": "تُتيح لك سهتك تخزين الملخصات الصحية لأفراد أسرتك وأدويتهم وقوائم حساسياتهم في مكان واحد. في حالة طارئة، تستطيع إظهار المعلومات ذات الصلة لفريق الإسعاف القادم فوراً دون البحث عن أوراق.",
+      "faqs": [
+        {
+          "q": "ما رقم الطوارئ الموحّد في الإمارات؟",
+          "a": "في الإمارات، 999 يصل إلى الشرطة وخط الطوارئ العام، 998 يتصل بخدمة الإسعاف، و997 بالدفاع المدني للإطفاء. من الهاتف المحمول يعمل أيضاً 112 كخط طوارئ شامل. لمعظم حالات الطوارئ، الاتصال بـ999 أو 998 هو أسرع مسار."
+        },
+        {
+          "q": "ما رقم الإسعاف في مصر؟",
+          "a": "رقم الإسعاف في مصر 123. أطلقت مصر أيضاً رقماً موحداً للطوارئ هو 112 في نوفمبر 2022، يتصل بجميع خدمات الطوارئ بما فيها الإسعاف. كلا الرقمين نشط."
+        },
+        {
+          "q": "ما رقم إسعاف لبنان؟",
+          "a": "الخط الرئيسي للإسعاف في لبنان هو 140، ويصل إلى الصليب الأحمر اللبناني التطوعي. هذه الجهة هي المُزوّد الرئيسي للرعاية الطارئة قبل المستشفى في لبنان وتعمل 24 ساعة يومياً في 47 فرعاً."
+        },
+        {
+          "q": "كيف أتصل بالإسعاف في سوريا؟",
+          "a": "الخط الوطني للإسعاف في سوريا هو 110، تُشغّله وزارة الصحة. أكدت وكالة الأنباء السورية عام 2025 أن 307 سيارة إسعاف تخدم جميع المحافظات عبر هذا الرقم. الشرطة الطارئة 112 والإطفاء 113."
+        },
+        {
+          "q": "ماذا أقول أولاً حين أتصل بخدمات الطوارئ؟",
+          "a": "قل العنوان أولاً، ثم عمر المريض، ثم الشكوى الرئيسية في جملة واحدة. المُبلِّغ يحتاج العنوان ليُرسل المساعدة قبل أي تفاصيل طبية. ابقَ على الخط حتى يُخبرك بأنه آمن الإغلاق."
+        },
+        {
+          "q": "هل يعمل رقم 112 في الدول العربية كما في أوروبا؟",
+          "a": "في عدة دول عربية يعمل 112 كخط طوارئ من الهاتف المحمول: الإمارات ومصر والكويت والجزائر وتونس ولبنان وسوريا والعراق تُوصّل جميعها على 112 من المحمول. في السعودية الرقم الموحّد 911 لا 112. في الأردن أيضاً 911. تحقق دائماً من الرقم المحدد للبلد الذي أنت فيه."
+        },
+        {
+          "q": "ما رقم الطوارئ في المملكة العربية السعودية؟",
+          "a": "السعودية تستخدم 911 كرقم موحّد للشرطة والإطفاء وتوجيه الإسعاف. الخط المباشر لإسعاف الهلال الأحمر السعودي هو 997 والدفاع المدني 998. لمعظم المتصلين، تقريع 911 هو الأبسط."
+        },
+        {
+          "q": "ماذا أفعل إن تأخّر الإسعاف؟",
+          "a": "إن كان المريض في حالة تسمح بتحريكه، الذهاب بسيارة خاصة إلى أقرب قسم طوارئ في مستشفى هو في الغالب الأسرع والخيار الصحيح. الاستثناء هو إصابة العمود الفقري المحتملة بعد سقوط أو حادث، حيث تحريك المريض بدون تثبيت مناسب يُخاطر بالشلل. للسكتة القلبية، ابدأ ضغطات الصدر فوراً ولا تتوقف لأي سبب حتى يصل الفريق."
+        }
+      ]
+    }
+  }
+}

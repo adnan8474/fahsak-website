@@ -1,0 +1,332 @@
+{
+  "slug": "malaria-symptoms-prevention",
+  "category": "infectious-diseases",
+  "chip_ar": "أمراض معدية",
+  "chip_en": "Infectious Diseases",
+  "date_iso": "2026-07-19",
+  "sources": [
+    {
+      "label": "Elkhalifa AME, Abdul-Ghani R, Tamomh AG et al: Hematological indices and abnormalities among patients with uncomplicated falciparum malaria in Kosti city of the White Nile state, Sudan: a comparative study, BMC infectious diseases, 2021",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34059017/"
+    },
+    {
+      "label": "Al-Eryani SM, Irish SR, Carter TE et al: Public health impact of the spread of Anopheles stephensi in the WHO Eastern Mediterranean Region countries in Horn of Africa and Yemen: need for integrated vector surveillance and control, Malaria journal, 2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37337209/"
+    },
+    {
+      "label": "Assada M, Al-Hadi M, Esmail MA et al: Molecular Confirmation of Anopheles stephensi Mosquitoes in the Al Hudaydah Governorate, Yemen, 2021 and 2022, Emerging infectious diseases, 2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38916721/"
+    },
+    {
+      "label": "Wongsrichanalai C, Barcus MJ, Muth S et al: A review of malaria diagnostic tools: microscopy and rapid diagnostic test (RDT), The American journal of tropical medicine and hygiene, 2007",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18165483/"
+    },
+    {
+      "label": "Esu EB, Effa EE, Opie ON et al: Artemether for severe malaria, The Cochrane database of systematic reviews, 2019",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31210357/"
+    },
+    {
+      "label": "Adam M, Nahzat S, Kakar Q et al: Antimalarial drug efficacy and resistance in malaria-endemic countries in HANMAT-PIAM_net countries of the Eastern Mediterranean Region 2016-2020, Tropical medicine and international health, 2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37705047/"
+    },
+    {
+      "label": "World Health Organization: World Malaria Report 2023. WHO, Geneva, 2023"
+    }
+  ],
+  "content": {
+    "ar": {
+      "title": "الملاريا: الأعراض والفحص والوقاية",
+      "desc": "دليل شامل عن الملاريا في السودان واليمن والمنطقة: الأعراض التحذيرية، أنواع الاختبارات السريعة، خطر المتصورة المنجلية، والوقاية بالناموسيات والطارد.",
+      "keywords": "الملاريا, الحمى, المتصورة المنجلية, اختبار الملاريا, الناموسية, الوقاية من الملاريا, السودان واليمن",
+      "h1": "الملاريا: كيف تعرفها وكيف تقيها وماذا تفعل حين تشك فيها",
+      "takeaways": [
+        "الملاريا مرض ينتقل عبر لدغة بعوضة الأنوفيليس الأنثى ويمكن علاجه تماماً إذا اكتُشف مبكراً.",
+        "الملاريا الناجمة عن المتصورة المنجلية (Plasmodium falciparum) هي الأخطر وتستدعي علاجاً فورياً لأنها قد تُودي بالحياة في غضون أيام.",
+        "اختبار التشخيص السريع (RDT) يُعطي نتيجة في خمس عشرة دقيقة وهو موجود في معظم مراكز الرعاية الصحية في المناطق الموبوءة.",
+        "النوم تحت ناموسية مُعالجة بالمبيدات الحشرية هو أكثر طرق الوقاية الفردية فعالية.",
+        "الحمى لدى شخص عاد مؤخراً من منطقة موبوءة بالملاريا يجب أن تُعتبر ملاريا حتى يُثبَت خلاف ذلك."
+      ],
+      "sections": [
+        {
+          "h2": "ما هي الملاريا وكيف تنتقل؟",
+          "paras": [
+            "الملاريا مرض طفيلي تسببه طفيليات من جنس المتصورة (Plasmodium) تنتقل إلى الإنسان عبر لدغة بعوضة الأنوفيليس (Anopheles) الأنثى عند تغذيتها على الدم ليلاً. البعوضة تحمل الطفيليات في غددها اللعابية وتحقنها في الدم عند العضة. من المهم معرفة أن الملاريا لا تنتقل من شخص إلى آخر بالتلامس المباشر أو السعال أو المصافحة.",
+            "هناك أربعة أنواع رئيسية من طفيليات الملاريا تصيب الإنسان: المتصورة المنجلية (Plasmodium falciparum) وهي الأخطر والأكثر شيوعاً في أفريقيا جنوب الصحراء والسودان واليمن، والمتصورة النشيطة (Plasmodium vivax) الأكثر انتشاراً في المناطق ذات المناخ المعتدل وأجزاء من الشرق الأوسط، والمتصورة الملاريا والمتصورة البيضية اللتان تسببان أمراضاً أخف.",
+            "في منطقتنا، السودان واليمن هما أكثر البلدان تضرراً من الملاريا. دراسة نشرت في مجلة Malaria Journal عام 2023 وثّقت انتشار بعوضة الأنوفيليس ستيفنسي (Anopheles stephensi)، وهي أنواع حضري تتكاثر في خزانات المياه والبيئات الحضرية، في اليمن وعدة دول بالمنطقة، مما يرفع خطر انتشار الملاريا في مناطق حضرية لم تكن معروفة بها تقليدياً."
+          ],
+          "visual": {
+            "type": "bar",
+            "title": "انتشار الملاريا السنوي في دول منتقاة بالمنطقة",
+            "unit": "حالة لكل 1000 شخص معرض للخطر",
+            "items": [
+              {"label": "السودان", "value": 71, "tone": "bad"},
+              {"label": "اليمن", "value": 12, "tone": "warn"},
+              {"label": "العراق", "value": 0.1},
+              {"label": "سوريا", "value": 0.05}
+            ],
+            "source": "WHO World Malaria Report 2023"
+          }
+        },
+        {
+          "h2": "ما أعراض الملاريا وكيف تبدأ؟",
+          "paras": [
+            "الأعراض الكلاسيكية للملاريا تبدأ في العادة بين أسبوع وأسبوعين بعد اللدغة الملوثة، وإن كانت المتصورة النشيطة قد تكمن في الكبد لأشهر قبل أن تظهر أعراضها. النوبة الكلاسيكية تمر بثلاث مراحل متتالية: مرحلة البرد مع رجفة شديدة ورعشة حتى في الطقس الحار، ثم مرحلة الحرارة حيث ترتفع درجة الحرارة بشكل مفاجئ وحاد، ثم مرحلة التعرق الغزير مع هبوط درجة الحرارة نحو الطبيعي.",
+            "هذه الدورة في الملاريا بالمتصورة النشيطة تتكرر كل 48 ساعة، وفي الملاريا بالمتصورة المنجلية قد تكون غير منتظمة. الأعراض المصاحبة تشمل: صداع شديد، آلام عضلية، غثيان، قيء، وأحياناً إسهال. تشابه هذه الأعراض مع الأنفلونزا والتيفود وأمراض أخرى يجعل التشخيص المخبري ضرورياً ولا يكفي الاعتماد على العلامات السريرية وحدها.",
+            "الملاريا الدماغية (Cerebral malaria) هي أخطر مضاعفات المتصورة المنجلية وتحدث حين يغزو الطفيلي الأوعية الدموية الدماغية. أعراضها تشمل تشوش الوعي، تشنجات، فقدان الوعي، وتستلزم علاجاً طارئاً في المستشفى. دراسة نشرت في مجلة BMC Infectious Diseases عام 2021 عن مرضى الملاريا في ولاية النيل الأبيض بالسودان وجدت تغيرات دموية واضحة حتى في الحالات غير المعقدة، مما يُوضح لماذا يستدعي كل اشتباه بالملاريا الفحص المخبري الفوري."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "اذهب للطوارئ فوراً إذا ظهرت هذه الأعراض",
+            "items": [
+              "تشوش الوعي أو صعوبة في الاستيقاظ",
+              "تشنجات مع الحمى",
+              "صعوبة في التنفس أو سرعة الأنفاس",
+              "اصفرار الجلد والعيون",
+              "بول داكن اللون مثل لون الكوكاكولا",
+              "حمى شديدة عند طفل في منطقة موبوءة"
+            ]
+          }
+        },
+        {
+          "h2": "كيف تُشخَّص الملاريا؟",
+          "paras": [
+            "التشخيص المخبري إلزامي قبل البدء بأي علاج. هناك ثلاث طرق رئيسية للتشخيص: الفحص المجهري للدم (Blood smear microscopy)، واختبار التشخيص السريع (Rapid Diagnostic Test)، وتفاعل البوليميراز المتسلسل (PCR). الفحص المجهري هو المعيار الذهبي لأنه يُميز نوع الطفيلي ويحدد شدة الإصابة، لكنه يحتاج إلى فني متمرس وقد لا يتوفر في جميع المراكز.",
+            "اختبار التشخيص السريع (RDT) هو الأداة الأكثر شيوعاً في مناطق الموارد المحدودة. يعطي نتيجة خلال خمس عشرة إلى عشرين دقيقة من قطرة دم واحدة من الأصبع، ويستطيع في معظم تصميماته التمييز بين المتصورة المنجلية وغيرها. مراجعة منشورة في مجلة American Journal of Tropical Medicine and Hygiene أكدت أن RDT الجيد يتمتع بحساسية ونوعية عاليتين للمتصورة المنجلية، مما يجعله خياراً ممتازاً في الميدان.",
+            "نقطة مهمة: سلبية نتيجة RDT لا تنفي الملاريا بشكل قاطع في حالة الاشتباه القوي، خاصة حين تكون أعداد الطفيليات منخفضة في بداية المرض. إذا كانت الأعراض متوافقة مع الملاريا وكانت النتيجة سلبية، يجب تكرار الاختبار بعد 24 إلى 48 ساعة أو إجراء الفحص المجهري."
+          ]
+        },
+        {
+          "h2": "كيف تُعالج الملاريا؟",
+          "paras": [
+            "علاج الملاريا يعتمد على نوع الطفيلي ومنطقة الإصابة وشدة الحالة. الملاريا غير المعقدة بالمتصورة المنجلية تُعالج بمزيج علاجي يُسمى العلاج التركيبي بالأرتيميسينين (Artemisinin-based Combination Therapy)، اختصاراً ACT، وهو يشمل أدوية مثل آرتيميثر-لوميفانترين أو آرتيسونات-أموديأكين. يجب إتمام الدورة كاملة حتى لو تحسنت الأعراض بعد يومين.",
+            "الملاريا الشديدة بالمتصورة المنجلية حالة طوارئ تستوجب العلاج الفوري بالأرتيسونات الوريدي في المستشفى. مراجعة كوكران الصادرة عام 2019 أكدت أن الأرتيسونات الوريدي أفضل من الكينين في تقليل الوفيات في الملاريا الشديدة. التأخر في العلاج حتى ساعات قليلة قد يكون الفارق بين النجاة والوفاة.",
+            "الملاريا بالمتصورة النشيطة تحتاج إلى دواء إضافي يُسمى البريماكين للقضاء على الأشكال الكامنة في الكبد التي قد تُسبب انتكاسات بعد أشهر. البريماكين يُعطى بعد قياس مستوى إنزيم G6PD لأن من يعاني من نقصه معرض لفقر دم انحلالي خطير إذا تناول هذا الدواء. انتبه إلى هذه النقطة خاصة في المناطق التي يرتفع فيها معدل نقص G6PD."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "خيارات العلاج حسب نوع الملاريا",
+            "head": ["النوع", "الحالة", "الأساس العلاجي"],
+            "rows": [
+              ["المتصورة المنجلية", "غير معقدة", "ACT (آرتيميثر-لوميفانترين وغيره)"],
+              ["المتصورة المنجلية", "شديدة أو دماغية", "أرتيسونات وريدي في المستشفى"],
+              ["المتصورة النشيطة", "غير معقدة", "كلوروكين أو ACT + بريماكين"],
+              ["المتصورة النشيطة", "مقاومة للكلوروكين", "ACT + بريماكين"]
+            ]
+          }
+        },
+        {
+          "h2": "مقاومة الأدوية: لماذا يجب ألا تأخذ أدوية الملاريا من السوق دون وصفة؟",
+          "paras": [
+            "مقاومة الطفيليات لأدوية الملاريا مشكلة عالمية متصاعدة. الكلوروكين الذي كان فعالاً عالمياً لعقود بات عديم الفائدة ضد المتصورة المنجلية في معظم مناطق الموبوءة به. دراسة صادرة عام 2023 في مجلة Tropical Medicine and International Health غطت دولاً في منطقة الشرق الأوسط وتبين أن أنماط المقاومة تتفاوت بين دولة وأخرى، مما يعني أن الدواء الفعال في مكان ما قد لا يكون فعالاً في مكان آخر.",
+            "أخذ أدوية الملاريا دون تشخيص مؤكد أو من السوق دون وصفة طبية يُسبب مشكلتين: أولاً، الجرعة الخاطئة أو الدواء الخاطئ لا يعالج المرض ويُعطي وقتاً للطفيلي لينتشر ويُعقد الحالة. ثانياً، الجرعات الناقصة تُسرّع تطوير المقاومة. تقليد بعض الناس لجرعات من سمعوها من الجيران أو من الإنترنت خطر حقيقي يُضاف إليه ضعف الرقابة في بعض صيدليات المناطق الموبوءة.",
+            "الوصفة الصحيحة تعتمد على: نوع الطفيلي المؤكد من الفحص المخبري، ووزن المريض خاصة عند الأطفال إذ تُحسب الجرعة بالكيلوغرام، وحالة الحمل لأن بعض الأدوية محظورة في الحمل. لا تأخذ دواء ملاريا تركه شخص آخر بعد علاجه، لأن الجرعة المتبقية قد لا تكفي وستكون عاملاً في تطوير مقاومة.",
+            "وجود الأدوية في الأسواق الشعبية في بعض مناطق السودان واليمن لا يعني أنها موثوقة الجودة أو الجرعة. الأدوية المزيفة أو الناقصة الفعالية مشكلة موثقة في هذه المناطق، وقد تبدو متطابقة مع الأصلية من الخارج. شراء أدوية الملاريا من مرافق صحية حكومية أو صيدليات موثوقة يُقلل هذا الخطر بشكل ملموس."
+          ]
+        },
+        {
+          "h2": "كيف تحمي نفسك وأسرتك من الملاريا؟",
+          "paras": [
+            "الناموسية المشبعة بمبيدات الحشرات (Insecticide-Treated Net) هي أكثر وسائل الوقاية فعالية على مستوى الفرد. بعوضة الأنوفيليس تلدغ في الغالب بين الغسق وشروق الشمس، لذا فإن النوم تحت الناموسية كل ليلة يوفر حماية قوية. يجب أن تكون الناموسية سليمة دون ثقوب وأن تُجدد معالجتها كل ستة أشهر إلى سنة إذا كانت من النوع القابل للمعالجة المتكررة.",
+            "الطارد الحشري (repellent) المحتوي على مادة DEET بتركيز من عشرين إلى خمسين بالمئة يوفر حماية ساعات عدة ويُطبق على الأجزاء المكشوفة من الجسم. ارتداء ملابس ذات أكمام طويلة وتغطية الكاحلين خاصة في ساعات الغسق والفجر يقلل من سطح الجلد المعرض للعضة. تركيب أسلاك على نوافذ المنازل وتصريف مياه الوقوف حول البيت يُقلل من التكاثر المحلي للبعوض.",
+            "الوقاية الدوائية (Chemoprophylaxis) يتناولها المسافرون من المناطق الخالية من الملاريا إلى المناطق الموبوءة. الأدوية المستخدمة تشمل الكلوروكين في المناطق الحساسة، أو دوكسيسيكلين أو أتوفاكون-بروغوانيل في المناطق المقاومة. يجب بدء الوقاية قبل السفر وليس عند الوصول، واستمرارها لأسابيع بعد المغادرة. استشر طبيباً أو مركص صحة السفر قبل التوجه لأي منطقة موبوءة."
+          ]
+        },
+        {
+          "h2": "الملاريا والحمل: خطر مضاعف",
+          "paras": [
+            "الحامل أكثر عرضة للإصابة بالملاريا الشديدة لأن الحمل يُخفف من المناعة، كما أن الملاريا في الحمل ترتبط بمخاطر جسيمة للجنين منها: انخفاض وزن الولادة والولادة المبكرة وفقر الدم الحاد وحتى الوفاة داخل الرحم. تنظيم الصحة العالمي يوصي النساء الحوامل في المناطق الموبوءة بتناول جرعات وقائية منتظمة من السلفادوكسين-بيريميتامين في إطار برامج رعاية الحمل.",
+            "علاج الملاريا أثناء الحمل يستثني بعض الأدوية: الكينين يستخدم في الحالات الشديدة في الثلث الأول لكن مع رصد دقيق، وأدوية ACT معينة تُعطى بعد الثلث الأول في الغالب. البريماكين محظور تماماً أثناء الحمل. لا تأخذي أي دواء ملاريا دون مشورة طبية إن كنت حاملاً.",
+            "الرضاعة الطبيعية لا تمنع علاج الملاريا في أغلب الأحيان، لكن بعض الأدوية تنتقل بكميات صغيرة عبر الحليب. طبيبك سيختار الدواء المناسب مع الأخذ في الاعتبار الرضاعة. لا توقفي الرضاعة لمجرد احتياجك لعلاج الملاريا إلا إذا أوصى الطبيب بذلك.",
+            "الملاريا الأولى أثناء الحمل أكثر خطراً على المرأة التي لم تسبق لها إصابة سابقة ولم تطور أي قدر من المناعة الجزئية. النساء اللواتي هاجرن من مناطق غير موبوءة كالأردن أو لبنان إلى السودان أو اليمن عبر العمل أو الزواج يواجهن هذا الخطر أكثر من اللواتي ولدن في المنطقة. الحرص على الناموسية المُعالجة طوال الليل وارتداء ملابس طويلة في ساعات الغسق أثناء الحمل ليس اختيارياً في المناطق الموبوءة."
+          ]
+        },
+        {
+          "h2": "الملاريا عند العائد من السفر: لا تتجاهل الحمى",
+          "paras": [
+            "الملاريا من أولى التشخيصات التي يجب التفكير فيها عند كل شخص يُصاب بحمى خلال شهر أو شهرين من عودته من منطقة موبوءة، حتى لو تناول الوقاية الدوائية. الوقاية تقلل الخطر بشكل كبير لكنها ليست مئة بالمئة فعالة. قل لطبيبك أين كنت وذاكر أسماء البلدان التي زرتها قبل أن تصف أعراضك.",
+            "أحياناً تبقى المتصورة النشيطة كامنة في الكبد لأشهر أو سنوات ثم تُسبب انتكاسة بعد وقت طويل من العودة. إذا أُصبت بملاريا نشيطة وعولجت، يجب متابعة طبيبك لاستكمال دورة البريماكين اللازمة للقضاء على الأشكال الكبدية ومنع الانتكاس.",
+            "في بعض البلدان العربية غير الموبوءة كالأردن ومصر الكبرى والخليج، قد لا تتوفر إمكانية تشخيص الملاريا في أول مكان صحي تزوره لأنها ليست مرضاً متوقعاً. إذا عدت من سودان أو اليمن أو أي منطقة موبوءة وأصابتك حمى، اذكر تفصيلة السفر بوضوح للطبيب ليعلم أن الملاريا يجب استبعادها."
+          ]
+        }
+      ],
+      "tie": "يساعدك تطبيق صحتك على تسجيل سجل سفرك ونتائج الفحوص المتعلقة بالملاريا، مما يُمكّن طبيبك في أي مكان من فهم تاريخك الطبي الكامل واتخاذ القرار الصحيح بسرعة.",
+      "faqs": [
+        {
+          "q": "هل الملاريا تنتقل من شخص إلى آخر؟",
+          "a": "لا. الملاريا لا تنتقل بالتلامس المباشر أو السعال أو المصافحة أو المشاركة في الطعام. طريقة النقل الوحيدة في الحالات الطبيعية هي لدغة بعوضة الأنوفيليس الأنثى التي تحمل الطفيلي. نقل الدم الملوث ومشاركة الإبر من الحالات النادرة جداً."
+        },
+        {
+          "q": "هل يمكن الإصابة بالملاريا أكثر من مرة؟",
+          "a": "نعم. الإصابة بالملاريا لا تمنح مناعة كاملة ودائمة. المناعة الجزئية تتطور لدى من يعيشون في مناطق موبوءة وتكررت إصابتهم عدة مرات، لكنها تتراجع عند البعد عن المنطقة لفترة. العائدون بعد غياب طويل يكونون عرضة للإصابة الشديدة."
+        },
+        {
+          "q": "ما الفرق بين الملاريا والتيفود؟",
+          "a": "كلاهما يُسبب حمى مستمرة ويمكن أن يكون مربكاً سريرياً. الملاريا أعراضها تأتي بدوريات مع قشعريرة وتعرق، أما التيفود فيكون الصداع والإمساك والطفح الجلدي المميز أكثر بروزاً. التشخيص يُعتمد على الفحص المخبري في الحالتين ولا يجوز الاكتفاء بالاجتهاد السريري."
+        },
+        {
+          "q": "هل الطفل الأصغر يحتاج دواء وقاية من الملاريا في السفر؟",
+          "a": "نعم. الأطفال معرضون للملاريا الشديدة أكثر من البالغين ويجب وقايتهم إذا سافروا لمناطق موبوءة. الجرعة تُحسب بالوزن ويُحدد الدواء المناسب لكل فئة عمرية من قبل الطبيب. الناموسية المُعالجة إلزامية بصرف النظر عن عمر الطفل."
+        },
+        {
+          "q": "هل تُعالج الملاريا تماماً؟",
+          "a": "نعم. الملاريا قابلة للشفاء التام إذا شُخصت بشكل صحيح وعولجت بالأدوية المناسبة والجرعة الكافية. الخطر يأتي من التأخر في التشخيص أو العلاج غير الملائم. الملاريا الدماغية قد تُخلف آثاراً عصبية إذا تأخر علاجها."
+        },
+        {
+          "q": "هل الناموسية تكفي وحدها للوقاية؟",
+          "a": "الناموسية المُعالجة بالمبيدات هي الأكثر فعالية للفرد وتوفر حماية عالية لمن ينام تحتها كل ليلة. لكن الحماية الكاملة تجمع بينها وبين الطارد الحشري وارتداء ملابس طويلة وتصريف مياه الوقوف والوقاية الدوائية للمسافرين. لا شيء منفرداً يوفر حماية مئة بالمئة."
+        },
+        {
+          "q": "كم يستغرق التعافي من الملاريا؟",
+          "a": "مع العلاج الصحيح، تبدأ الحمى في التراجع خلال 24 إلى 48 ساعة وتتحسن الحالة العامة في غضون أسبوع في معظم الحالات غير المعقدة. التعب والضعف قد يستمران أسابيع بعد انتهاء الحمى خاصة إذا كان هناك فقر دم. الملاريا الشديدة تحتاج فترة نقاهة أطول."
+        }
+      ]
+    },
+    "en": {
+      "title": "Malaria: Symptoms, Testing and Prevention",
+      "desc": "Malaria in Sudan, Yemen and the region: warning symptoms, rapid diagnostic tests, the danger of falciparum, and protection with bed nets and repellent.",
+      "keywords": "malaria, Plasmodium falciparum, rapid diagnostic test RDT, malaria prevention, bed nets, malaria Sudan Yemen, fever after travel",
+      "h1": "Malaria: How to Recognise It, How to Prevent It and What to Do When You Suspect It",
+      "takeaways": [
+        "Malaria is a mosquito-borne parasitic disease that is fully treatable when diagnosed early.",
+        "Plasmodium falciparum malaria is the most dangerous form and can be fatal within days if not treated promptly.",
+        "A rapid diagnostic test (RDT) gives a result in fifteen minutes and is available at most health centres in endemic areas.",
+        "Sleeping under an insecticide-treated mosquito net every night is the most effective personal protection measure.",
+        "Fever in anyone who has recently been in a malaria-endemic area must be treated as malaria until proven otherwise."
+      ],
+      "sections": [
+        {
+          "h2": "What is malaria and how does it spread?",
+          "paras": [
+            "Malaria is a parasitic disease caused by Plasmodium species, transmitted to humans through the bite of an infected female Anopheles mosquito when it feeds on blood, predominantly at night. The mosquito injects parasites into the bloodstream through its saliva. Malaria cannot spread from person to person through direct contact, coughing, shaking hands or shared meals.",
+            "There are four Plasmodium species that infect humans: Plasmodium falciparum, the most dangerous and the dominant species in sub-Saharan Africa, Sudan and Yemen; Plasmodium vivax, more common in temperate climates and parts of the Middle East; and Plasmodium malariae and Plasmodium ovale, which cause milder disease. Knowing the species is not just academic: treatment choices differ between them.",
+            "In the Arab world, Sudan and Yemen carry the heaviest malaria burden. A 2023 study in Malaria Journal documented the expansion of Anopheles stephensi, an urban-adapted mosquito that breeds in water storage containers and urban water infrastructure, across Yemen and several other countries in the region. This species raises the risk of malaria in cities that have not traditionally been considered high-risk, including urban centres with dense populations who have little immunity."
+          ],
+          "visual": {
+            "type": "bar",
+            "title": "Malaria incidence in selected countries of the region",
+            "unit": "cases per 1,000 population at risk",
+            "items": [
+              {"label": "Sudan", "value": 71, "tone": "bad"},
+              {"label": "Yemen", "value": 12, "tone": "warn"},
+              {"label": "Iraq", "value": 0.1},
+              {"label": "Syria", "value": 0.05}
+            ],
+            "source": "WHO World Malaria Report 2023"
+          }
+        },
+        {
+          "h2": "What are the symptoms and how do they develop?",
+          "paras": [
+            "Malaria symptoms typically appear one to two weeks after the infective bite, though P. vivax can remain dormant in the liver for months before causing illness. The classic attack passes through three phases: a cold stage with intense shaking chills even in hot weather, a hot stage with a sudden sharp fever rise, and a sweating stage as temperature falls back toward normal. In P. vivax infection this cycle repeats every 48 hours. In P. falciparum the fever pattern is often irregular and less predictable.",
+            "Accompanying symptoms include severe headache, muscle and joint pains, nausea, vomiting and sometimes diarrhoea. The resemblance to influenza, typhoid and other febrile illnesses makes laboratory confirmation essential. Clinical impression alone is not sufficient to diagnose or exclude malaria, and a 2021 study of malaria patients in the White Nile State of Sudan found haematological abnormalities even in uncomplicated falciparum cases, underlining why laboratory testing guides management decisions.",
+            "Cerebral malaria is the most feared complication of P. falciparum, occurring when parasites obstruct the cerebral microvasculature. Signs include clouding of consciousness, seizures and coma. This is a medical emergency where hours matter. A Cochrane review published in 2019 confirmed that intravenous artesunate reduces mortality in severe malaria compared to quinine, making access to this drug at referral hospitals a critical priority."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "Go to the emergency department immediately if",
+            "items": [
+              "There is confusion or difficulty waking the person",
+              "Seizures occur with fever",
+              "There is difficulty breathing or rapid breathing",
+              "The skin or eyes turn yellow",
+              "Urine becomes very dark, almost black",
+              "Any severe fever in a child in a malaria-endemic area"
+            ]
+          }
+        },
+        {
+          "h2": "How is malaria diagnosed?",
+          "paras": [
+            "Laboratory diagnosis is mandatory before starting any treatment. Three methods are available: blood film microscopy, which is the gold standard but requires a skilled microscopist; rapid diagnostic test (RDT), which gives a result in fifteen minutes from a fingerprick blood drop; and PCR, the most sensitive method but available only in reference laboratories. In endemic areas with limited resources, RDT is the workhorse of malaria diagnosis.",
+            "A comprehensive review published in the American Journal of Tropical Medicine and Hygiene confirmed that high-quality RDTs achieve good sensitivity and specificity for P. falciparum, making them a reliable first-line tool in field settings. Most modern RDTs also distinguish falciparum from non-falciparum species, which directly influences the treatment chosen. They are widely stocked by WHO and national malaria programmes across the region.",
+            "A negative RDT does not completely exclude malaria when suspicion is high, particularly if parasitaemia is low in the early days of illness. If symptoms strongly suggest malaria and the RDT is negative, the test should be repeated after 24 to 48 hours, or blood film microscopy should be requested. This point is especially important because falciparum malaria can deteriorate rapidly and a false negative can delay life-saving treatment."
+          ]
+        },
+        {
+          "h2": "How is malaria treated?",
+          "paras": [
+            "Treatment depends on the Plasmodium species, the severity of disease, the patient's age and weight, pregnancy status, and the local drug resistance pattern. Uncomplicated P. falciparum malaria is treated with an artemisinin-based combination therapy (ACT), typically artemether-lumefantrine or artesunate-amodiaquine depending on regional guidelines. The full course must be completed even when the patient feels better after the first dose, because stopping early leaves residual parasites and accelerates resistance.",
+            "Severe P. falciparum malaria requires emergency treatment with intravenous artesunate in a hospital setting. Delay of even a few hours in initiating treatment for cerebral malaria significantly worsens survival outcomes. The 2023 study of antimalarial drug efficacy across Eastern Mediterranean region countries confirmed that resistance patterns vary by country, reinforcing the need for current local guidance rather than generic protocols.",
+            "P. vivax malaria requires an additional drug, primaquine, to clear the dormant liver forms (hypnozoites) that cause relapses months later. Before giving primaquine, G6PD enzyme status must be checked because people with G6PD deficiency can develop severe haemolytic anaemia from this drug. G6PD deficiency is common across the region, particularly in populations from the Arabian Peninsula and Mediterranean countries, making this test essential before prescribing."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Treatment approach by malaria species and severity",
+            "head": ["Species", "Severity", "Standard treatment basis"],
+            "rows": [
+              ["P. falciparum", "Uncomplicated", "Artemisinin-based combination therapy (ACT)"],
+              ["P. falciparum", "Severe or cerebral", "IV artesunate in hospital"],
+              ["P. vivax", "Uncomplicated", "Chloroquine or ACT plus primaquine after G6PD check"],
+              ["P. vivax", "Chloroquine-resistant", "ACT plus primaquine"]
+            ]
+          }
+        },
+        {
+          "h2": "Drug resistance: why you must not self-medicate for malaria",
+          "paras": [
+            "Antimalarial drug resistance is a growing global threat. Chloroquine, once the universal first-line drug for falciparum malaria, is now ineffective against P. falciparum in virtually all endemic regions. The 2023 drug efficacy study across Eastern Mediterranean countries found variable resistance profiles by country, meaning that a drug regimen that works in one country may fail in a neighbouring one.",
+            "Taking antimalarial drugs without a confirmed diagnosis or from a market stall without prescription creates two compounding problems. First, an incorrect drug or incorrect dose for the specific organism involved will fail to clear the infection while giving it time to progress to severe disease. Second, sub-therapeutic dosing, meaning taking less than the full course or using a drug with substandard drug content, drives the selection of resistant parasites. Counterfeit and substandard antimalarials are a documented problem in parts of the region.",
+            "Correct prescribing depends on knowing the species from laboratory testing, calculating the dose from the patient's weight particularly in children, and checking for contraindications including pregnancy and G6PD deficiency. Do not use leftover antimalarials that were prescribed for someone else. A partial course left after a previous illness is both insufficient for a new infection and a contributor to resistance."
+          ]
+        },
+        {
+          "h2": "How to protect yourself and your family from malaria",
+          "paras": [
+            "Sleeping every night under an insecticide-treated bed net (ITN) is the most effective individual protection available. The Anopheles mosquito bites predominantly between dusk and dawn, so the net provides protection during the highest-risk period. The net must be intact with no holes and should be retreated with insecticide every six months to a year if it is not a long-lasting insecticidal net (LLIN). Hanging the net before the child goes to bed rather than after dark is a practical habit that matters.",
+            "Insect repellents containing DEET at twenty to fifty percent concentration provide several hours of protection when applied to exposed skin. Wearing long-sleeved clothing and covering ankles particularly around dusk and dawn reduces the skin surface available for biting. Fitting window screens, eliminating standing water near the home (including water stored in containers without lids), and using indoor residual spraying where programmes offer it all reduce local mosquito density.",
+            "Chemoprophylaxis, meaning taking antimalarial medication before, during and after travel to an endemic area, is recommended for visitors from non-endemic areas. The appropriate drug depends on the destination and its resistance profile: chloroquine for sensitive areas, doxycycline or atovaquone-proguanil for chloroquine-resistant areas. Prophylaxis must start before arrival, not on arrival, and continue for the recommended period after leaving. A travel health clinic or informed physician can advise on the right choice before any trip to an endemic region."
+          ]
+        },
+        {
+          "h2": "Malaria and pregnancy",
+          "paras": [
+            "Pregnancy substantially increases susceptibility to malaria and the risk of severe disease. Malaria in pregnancy is associated with severe anaemia in the mother, low birth weight, preterm delivery and intrauterine death. The WHO recommends intermittent preventive treatment in pregnancy (IPTp) with sulfadoxine-pyrimethamine for pregnant women in high-transmission areas, given at each antenatal visit from the second trimester.",
+            "Treatment choices in pregnancy are restricted by safety concerns. Quinine is used for severe disease in the first trimester under close monitoring. ACT regimens are generally used from the second trimester onward. Primaquine is contraindicated throughout pregnancy. Never self-medicate for malaria during pregnancy: the stakes for both mother and fetus are too high and drug choice must be made by a clinician.",
+            "Breastfeeding is generally compatible with most antimalarial treatment, but some drugs transfer to breast milk in small amounts. A clinician will choose the most appropriate drug accounting for both the infection and breastfeeding status. Do not stop breastfeeding simply because antimalarial treatment is needed unless specifically advised to do so."
+          ]
+        },
+        {
+          "h2": "Fever after travel: do not ignore it",
+          "paras": [
+            "Malaria must be on the list of possibilities for any person who develops fever within one to two months of returning from an endemic area, even if they took prophylaxis. Chemoprophylaxis is highly effective but not one hundred percent protective, and adherence is often imperfect. Tell your doctor precisely where you travelled, naming specific countries and regions, before describing your symptoms, because this information directly changes what diagnoses are considered.",
+            "P. vivax can remain dormant in the liver for months to years and cause relapse long after the initial infection and return from a malaria-endemic area. If you were treated for P. vivax malaria, ask your doctor whether you received a full course of primaquine to eliminate the liver reservoir, because many treatment protocols omit this step, particularly outside specialist settings.",
+            "In Arab countries that are themselves non-endemic, such as Jordan, the Gulf states and large parts of Egypt, local clinicians may not initially consider malaria when a patient presents with fever because they do not see it regularly. If you have recently been in Sudan, Yemen, or any other endemic area, state this clearly and early in any clinical encounter and request that malaria testing be done before any other explanation is accepted."
+          ]
+        }
+      ],
+      "tie": "Sihtak lets you record your travel history alongside symptoms and test results, giving any doctor you see, anywhere, the context they need to consider malaria quickly and act before the situation worsens.",
+      "faqs": [
+        {
+          "q": "Does malaria spread from person to person?",
+          "a": "No. Malaria does not spread through direct contact, coughing, sneezing, or sharing food. The only natural transmission route is the bite of an infected female Anopheles mosquito. Blood transfusion with infected blood and sharing needles are rare routes but highly uncommon compared to mosquito transmission."
+        },
+        {
+          "q": "Can you get malaria more than once?",
+          "a": "Yes. Malaria infection does not confer complete or permanent immunity. People living in endemic areas develop partial immunity over years of repeated exposure, but this immunity wanes when they leave the area. Returnees who have been away for a year or more are vulnerable to severe disease if re-infected."
+        },
+        {
+          "q": "What is the difference between malaria and typhoid fever?",
+          "a": "Both cause sustained fever and can be clinically similar. Malaria classically presents with cyclical chills, fever and sweating, while typhoid more typically features headache, constipation and the characteristic rose-spot rash in some patients. Laboratory testing distinguishes them: malaria requires a blood film or RDT, typhoid requires blood culture. Do not rely on clinical impression alone."
+        },
+        {
+          "q": "Is the malaria rapid test reliable?",
+          "a": "High-quality RDTs are reliable for detecting P. falciparum, with sensitivity and specificity comparable to microscopy in most settings. A negative result is reassuring but not definitive when symptoms strongly suggest malaria and parasitaemia may be low early in the illness. Repeat testing or microscopy should be arranged if clinical suspicion remains high after a negative RDT."
+        },
+        {
+          "q": "Does the malaria bed net need to be treated with insecticide?",
+          "a": "Yes. An untreated bed net provides only a physical barrier, which is useful but much less effective than an insecticide-treated net. The insecticide kills mosquitoes that land on the net, protecting even those who are not fully covered. Long-lasting insecticidal nets (LLINs) maintain efficacy for several years. Older retreatable nets need resoaking in insecticide every six to twelve months."
+        },
+        {
+          "q": "Can malaria be completely cured?",
+          "a": "Yes. Malaria is fully curable with the correct drug, dose and duration of treatment. The risk comes from delayed diagnosis, incorrect drug choice, or incomplete courses. Cerebral malaria may leave neurological consequences if treatment is significantly delayed. Early presentation and correct treatment lead to full recovery in the great majority of cases."
+        },
+        {
+          "q": "How long does recovery from malaria take?",
+          "a": "With correct treatment, fever usually begins to fall within 24 to 48 hours and the general condition improves within one week in uncomplicated disease. Fatigue and weakness can persist for several weeks afterward, particularly if anaemia has developed. Severe malaria requires a longer recovery period and should be managed in hospital until the patient is stable."
+        }
+      ]
+    }
+  }
+}

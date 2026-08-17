@@ -1,0 +1,383 @@
+{
+  "slug": "medication-shortages-coping",
+  "category": "regional-health",
+  "chip_ar": "الصحة الإقليمية",
+  "chip_en": "Regional Health",
+  "date_iso": "2026-08-05",
+  "sources": [
+    {
+      "label": "Lindenfeld J, Crawford MH, O'Rourke RA et al: Adrenergic responsiveness after abrupt propranolol withdrawal in normal subjects and in patients with angina pectoris, Circulation, 1980",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/7408143/"
+    },
+    {
+      "label": "Fornaro M, Cattaneo CI, De Berardis D et al: Antidepressant discontinuation syndrome: A state-of-the-art clinical review, European neuropsychopharmacology, 2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36345093/"
+    },
+    {
+      "label": "Komminoth M, Donath MY, Hepprich M et al: Glucocorticoid withdrawal and glucocorticoid-induced adrenal insufficiency: Study protocol of the randomized controlled TOASST multicenter trial, PloS one, 2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37018188/"
+    },
+    {
+      "label": "Al-Rousan T, Naja W, Wejse CM et al: Hypertension in Syrian refugees: prevalence, awareness, and access to care in Denmark and Lebanon, Frontiers in public health, 2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40612553/"
+    },
+    {
+      "label": "Falah MM, Daar E, Zahra D et al: Prevalence, experience and awareness of substandard and falsified medicines among the public and healthcare professionals in Jordan, BMJ global health, 2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40412817/"
+    },
+    {
+      "label": "World Health Organization: Ensuring uninterrupted supply of essential medicines during conflict and emergencies",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/substandard-and-falsified-medical-products"
+    }
+  ],
+  "content": {
+    "en": {
+      "title": "When your medicine is unavailable: what to do safely",
+      "desc": "Medicine shortages in Syria, Yemen, Lebanon, and Sudan are common. Learn which drugs are dangerous to stop suddenly, how to find equivalents, and how to ration safely.",
+      "keywords": "medicine shortage Syria Yemen Lebanon, drug shortage Arab world, running out of medication, medicine equivalent by ingredient, cannot find my tablets, drug shortage coping",
+      "h1": "Medicine Shortages: How to Stay Safe When Your Drug Runs Out",
+      "takeaways": [
+        "Some medicines are dangerous to stop suddenly, including beta-blockers, corticosteroids, antiepileptics, antidepressants, and insulin. Stopping these without medical guidance can cause a life-threatening rebound.",
+        "Every medicine has an active ingredient name, which is the generic or international nonproprietary name. Finding that name lets you search for the same drug under a different brand.",
+        "Rationing a medication by taking a smaller dose than prescribed is sometimes necessary in a shortage but carries its own risks and should be discussed with a pharmacist or doctor wherever possible.",
+        "Pharmacists are often the most accessible and knowledgeable resource in a shortage. Ask specifically about equivalent generics, alternative brands, and whether a related drug in the same class is available.",
+        "Keeping a written record of your medicines with the active ingredient name, dose, and indication is the most practical thing you can do before a shortage strikes."
+      ],
+      "sections": [
+        {
+          "h2": "Why medicine shortages happen and who they affect",
+          "paras": [
+            "Medicine shortages in Syria, Yemen, Sudan, and Lebanon are not occasional inconveniences. They are a structural reality driven by conflict, sanctions, import restrictions, collapsing currency, and disrupted supply chains. A 2025 study published in Frontiers in Public Health examining hypertension care among Syrian refugees in Lebanon found that access to antihypertensive medication was seriously impaired, with many patients unable to maintain consistent treatment. This pattern repeats across chronic disease categories including diabetes, epilepsy, and mental health conditions.",
+            "The same shortage dynamic affects countries without active conflict when currency collapses make imported medicines unaffordable, as happened in Lebanon from 2019 onward, and when national regulatory systems cannot process import approvals quickly enough during crises. A 2025 study in BMJ Global Health found that awareness of substandard and falsified medicines in Jordan was high among healthcare professionals, reflecting the pressures that shortages place on supply chains and the substitutions people make when first-line products disappear.",
+            "The people most harmed by shortages are those managing chronic conditions that require daily medication: diabetes, hypertension, epilepsy, heart failure, thyroid disease, psychiatric conditions, and HIV. These are not conditions where missing a few days of tablets is manageable. Some are conditions where stopping medication abruptly is medically dangerous."
+          ]
+        },
+        {
+          "h2": "Which medicines are dangerous to stop suddenly?",
+          "paras": [
+            "This is the most important thing to understand in a shortage. The danger of abrupt stopping varies enormously by drug class, and for some drugs it is not a hypothetical risk but a documented cause of serious medical events. The following drug classes should never be stopped without a plan, and if you are running short, that plan needs to be made before you run out.",
+            "Beta-blockers, which include metoprolol, atenolol, carvedilol, bisoprolol, and propranolol, were among the first drugs where abrupt withdrawal was documented as causing rebound cardiovascular events. A landmark study published in Circulation in 1980 measured a surge in adrenergic responsiveness after abrupt propranolol withdrawal in patients with angina, consistent with reports of worsening chest pain and acute coronary events in those who stopped suddenly. Tapering rather than stopping abruptly is the standard approach.",
+            "Corticosteroids, including prednisone, prednisolone, and dexamethasone taken for more than a few weeks, suppress the adrenal glands. When the tablet is stopped suddenly, the adrenal glands cannot immediately resume their own production of cortisol, which can cause adrenal insufficiency: severe fatigue, low blood pressure, vomiting, and in serious cases collapse. A 2023 protocol paper in PLoS One described this risk formally in the context of designing steroid tapering trials."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Drug classes that must never be stopped abruptly",
+            "head": ["Drug class", "Examples", "Risk of abrupt stop"],
+            "rows": [
+              ["Beta-blockers", "Atenolol, metoprolol, bisoprolol", "Rebound chest pain, heart attack, dangerous blood pressure rise"],
+              ["Corticosteroids (long term)", "Prednisone, prednisolone, dexamethasone", "Adrenal crisis: severe fatigue, collapse, low blood pressure"],
+              ["Antiepileptics", "Phenobarbital, carbamazepine, valproate, levetiracetam", "Seizures, status epilepticus"],
+              ["Insulin", "All types", "Dangerous hyperglycaemia, diabetic ketoacidosis, coma"],
+              ["Antidepressants (especially SSRIs)", "Paroxetine, sertraline, venlafaxine, fluoxetine", "Discontinuation syndrome: dizziness, electric shock sensations, anxiety"],
+              ["Antipsychotics", "Haloperidol, quetiapine, risperidone", "Relapse, rebound psychosis"],
+              ["Benzodiazepines", "Diazepam, clonazepam, alprazolam", "Seizures, severe anxiety, dangerous withdrawal"],
+              ["Blood pressure drugs (some)", "Clonidine, amlodipine", "Severe rebound hypertension with clonidine; abrupt stop of amlodipine usually safer"]
+            ]
+          }
+        },
+        {
+          "h2": "How to find the equivalent of a medicine you cannot get",
+          "paras": [
+            "Every medicine has two names. The brand name is what the manufacturer calls it, for example Glucophage or Concor. The active ingredient name, also called the generic name or the international nonproprietary name (INN), is the actual chemical compound, for example metformin or bisoprolol. The brand name changes by country and manufacturer. The INN is the same everywhere in the world.",
+            "When a specific brand is unavailable, the first step is to find the INN on your packaging. It is usually printed in smaller text below the brand name, or on the box in a section called composition or active ingredient. Once you have the INN, you can ask a pharmacist for any product containing that same molecule at the same or similar dose. The pharmacist can confirm whether what they have is bioequivalent, which means the body absorbs and uses it in the same way.",
+            "Some drug classes tolerate substitution between members more than others. Within the beta-blocker class, for example, atenolol can generally be substituted with metoprolol or bisoprolol at an equivalent dose, because they act on the same receptor with similar effect. Within anticonvulsants, substitution is much more complex because different drugs in the class work through different mechanisms and have different therapeutic windows. For epilepsy in particular, any substitution should ideally involve a doctor."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "How to find an equivalent when your brand is unavailable",
+            "items": [
+              "Find the active ingredient name (INN) on the packaging, usually near the words 'composition' or 'active ingredient'",
+              "Write it down with the dose in milligrams and the frequency",
+              "Ask the pharmacist for any product containing that INN at the same dose",
+              "Ask the pharmacist to confirm it is bioequivalent to your original",
+              "If your condition is epilepsy, diabetes, or a psychiatric condition, confirm with a doctor before switching",
+              "Start the new product exactly as directed and monitor for any different response"
+            ]
+          }
+        },
+        {
+          "h2": "What to do when only partial supply is available",
+          "paras": [
+            "Sometimes a medicine is partially available: you can get enough for two weeks but need treatment for a month. Rationing a medicine by taking less than the prescribed dose is sometimes the only option, and it is better than nothing for most conditions. However, the implications depend entirely on which medicine is being rationed.",
+            "For antihypertensives, taking half the dose is almost always better than taking nothing. Blood pressure control will be incomplete but some control is better than none, and the risk of rebound hypertension from stopping entirely is real. For antiepileptics, any dose reduction risks reducing the level below the therapeutic threshold and precipitating a seizure, which makes this a high-risk strategy. For insulin, dose reduction is genuinely dangerous and the threshold of harm is unpredictable.",
+            "If you are facing a partial supply situation, tell the pharmacist the quantity you have and ask them how to spread it over the longest safe period for your specific drug. A pharmacist who knows the pharmacokinetics of the drug can give practical guidance. For high-risk drugs, prioritising getting any contact with a doctor, whether in person, by phone, or through a telemedicine service, before rationing is important."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "Seek urgent medical help if you experience these after missing doses",
+            "items": [
+              "Chest pain or worsening angina (beta-blocker, nitrate, or aspirin gap)",
+              "Seizure or significant change in seizure frequency (antiepileptic gap)",
+              "Severe confusion, vomiting, or extreme thirst with high blood sugar (insulin or diabetes drug gap)",
+              "Extreme fatigue, dizziness, or collapse (corticosteroid gap)",
+              "Severe rebound anxiety, tremor, or unusual electrical sensations (antidepressant or benzodiazepine gap)"
+            ]
+          }
+        },
+        {
+          "h2": "Specific situations: insulin and diabetes medicines",
+          "paras": [
+            "Insulin shortages are among the most immediately dangerous shortage situations. Insulin-dependent people, whether type 1 or those with type 2 diabetes who have been on insulin for years, cannot simply stop. Without insulin, glucose rises rapidly, leading to diabetic ketoacidosis in type 1 diabetes, which is life-threatening within hours to days if untreated. The first step when insulin supplies are threatened is to contact every pharmacy in accessible range and to contact any diabetes clinic or hospital with an endocrinology service.",
+            "Different types of insulin are not equivalent and substituting between types requires guidance. A short-acting insulin is not interchangeable with a long-acting one without a careful dose recalculation. If the specific formulation has run out but another type is available, a doctor or diabetes nurse who knows your regimen can help convert the doses. Regional WHO and diabetes association guidance for shortage situations sometimes specifies priority allocation of insulin to insulin-dependent patients over those whose diabetes might be managed for a period on oral medication.",
+            "For people with type 2 diabetes on oral medications such as metformin, sitagliptin, or gliclazide, a shortage creates significant but less immediately life-threatening risk. Tightening dietary control, reducing carbohydrate intake, and increasing physical activity can partially compensate for a period. Regular blood glucose monitoring, where a glucometer and strips are available, becomes even more important to track whether the situation is manageable."
+          ]
+        },
+        {
+          "h2": "Specific situations: blood pressure and heart medicines",
+          "paras": [
+            "Uncontrolled hypertension during a medicine shortage significantly increases the risk of stroke and heart attack, particularly in people who already have cardiovascular disease. When a specific antihypertensive is unavailable, pharmacists can often suggest an alternative from the same class or a different class that achieves similar blood pressure lowering. Many antihypertensive classes are available as generics and are relatively inexpensive when imported versions are not available.",
+            "Among blood pressure medicines, clonidine requires particular caution. It has a specific rebound hypertension on abrupt discontinuation that can produce a dangerous blood pressure spike within 24 to 48 hours. If clonidine is your blood pressure medicine and you cannot get it, seek medical advice quickly about how to taper rather than stop. For common blood pressure medicines such as amlodipine or lisinopril, abrupt stopping carries less rebound risk but blood pressure will rise and needs to be monitored.",
+            "For heart failure medicines including ACE inhibitors, diuretics, and digoxin, any gap in therapy can destabilise a condition that was balanced on a specific combination. Weight monitoring at home, watching for ankle swelling, and reducing salt intake aggressively can help buy time. A phone call to any available doctor or nurse is valuable in a heart failure patient facing a medication gap."
+          ]
+        },
+        {
+          "h2": "Specific situations: psychiatric and neurological medicines",
+          "paras": [
+            "The evidence on antidepressant discontinuation syndrome is now comprehensive. A 2023 review in European Neuropsychopharmacology documented that discontinuation syndrome occurs in a significant proportion of people stopping antidepressants, particularly paroxetine and venlafaxine, and can include dizziness, electric shock-like sensations in the head and limbs known as brain zaps, severe anxiety, nausea, and insomnia. These symptoms begin within days of stopping and can last weeks. Tapering slowly is the standard approach, but when medicines run out abruptly in a shortage, the syndrome can be severe.",
+            "For people on antipsychotic medication who face a shortage, the risk of psychiatric relapse is real and can develop quickly. Families supporting someone on antipsychotic treatment should understand that behavioural change, paranoia, or agitation emerging after a medication gap may reflect relapse rather than a new problem. Contact with a psychiatrist or psychiatric nurse should be sought urgently.",
+            "Epilepsy presents the highest acute risk among neurological conditions in a shortage. The antiepileptic drugs most commonly available in resource-limited settings are phenobarbital, carbamazepine, and valproate. Phenobarbital is on the WHO essential medicines list and is usually the most widely available. If your specific drug is unavailable, the closest available equivalent should be discussed with a neurologist, and the transition should be gradual wherever possible."
+          ]
+        },
+        {
+          "h2": "Practical preparation before a shortage strikes",
+          "paras": [
+            "Maintaining a personal medicine record is the single most practical preparation. The record should contain: the brand name of each medicine you take, the active ingredient name (INN), the dose in milligrams, the frequency, and the condition it treats. This record should be on paper as well as in a phone, because phones lose charge and networks fail. It should be with you when you travel and copied to a family member.",
+            "Asking your doctor to prescribe a slightly larger quantity when supplies are available, if this is permitted in your country, builds a short buffer. In countries where prescription quantities are limited, knowing which medicines can be obtained in larger amounts from a hospital pharmacy versus a community pharmacy is worth finding out in advance.",
+            "Building a relationship with a local pharmacist who knows your medicine list is valuable beyond a shortage. Pharmacists in the region often have advance knowledge of upcoming supply problems and can alert regular customers. They can also contact distributors to source specific medicines that are not in their own stock, which is often faster than a patient searching between multiple pharmacies independently."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Your personal medicine card: what to write down",
+            "head": ["What to record", "Example"],
+            "rows": [
+              ["Brand name", "Concor"],
+              ["Active ingredient (INN)", "Bisoprolol"],
+              ["Dose", "5 mg"],
+              ["Frequency", "Once daily in the morning"],
+              ["What it treats", "High blood pressure and heart rate"],
+              ["Prescribing doctor", "Dr Ahmed, internal medicine, tel: 07xxxxxxx"]
+            ]
+          }
+        },
+        {
+          "h2": "Where to find help and information during a shortage",
+          "paras": [
+            "Pharmacists are usually the first and most accessible source of help in a shortage. They know what is in their stock, what is available from their distributors, and what the generic alternatives are. In cities with multiple pharmacies, calling ahead rather than visiting each one saves time. Some pharmacies in Beirut, Damascus, and Amman participate in informal networks that share stock information.",
+            "Hospital outpatient pharmacies and emergency departments often have access to supplies that community pharmacies do not, particularly for essential medicines such as insulin, antiepileptics, and cardiovascular drugs. Presenting to a hospital pharmacy and explaining a shortage situation can access medicines not available elsewhere.",
+            "NGO and humanitarian organisations active in Syria, Yemen, Sudan, and among displaced populations often maintain medicine access programmes. The International Committee of the Red Cross, Medecins Sans Frontieres, and UNHCR all operate medicine supply lines in crisis areas. Being registered with a humanitarian health programme can give access to basic essential medicines even when commercial supply has completely broken down."
+          ]
+        }
+      ],
+      "tie": "Use the Sihtak app to keep your medicine list with active ingredient names, doses, and the condition each one treats. Having this record accurate and up to date is your most useful tool in a shortage.",
+      "faqs": [
+        {
+          "q": "Is it safe to take half my blood pressure tablet when I am running out?",
+          "a": "For most antihypertensive medicines, taking half the dose is substantially safer than stopping entirely. Blood pressure control will be incomplete but partial control reduces the risk of stroke and heart attack compared to no medication at all. Monitor blood pressure at home if a cuff is available. The exception is clonidine, where any abrupt dose change can cause a dangerous rebound spike: seek pharmacist or doctor advice before reducing it."
+        },
+        {
+          "q": "Can I take a different brand of my medicine if my usual one is not available?",
+          "a": "Yes, if the different brand contains the same active ingredient at the same dose. Ask the pharmacist to confirm the active ingredient name matches and that the product is bioequivalent. For most medicines this substitution is safe. For epilepsy medicines and medicines with a narrow therapeutic window such as digoxin, the switch should be confirmed with a doctor."
+        },
+        {
+          "q": "What happens if I stop my antidepressant suddenly because I cannot get it?",
+          "a": "Many antidepressants cause a discontinuation syndrome when stopped abruptly, with symptoms including dizziness, electric shock-like sensations, severe anxiety, nausea, and sleep disturbance. These begin within one to four days of stopping and can last two to four weeks. The syndrome is distressing but not life-threatening. If you are forced to stop abruptly, knowing these symptoms may appear can help you manage them. Tell any doctor you see what happened."
+        },
+        {
+          "q": "What is the most dangerous medicine to run out of?",
+          "a": "Insulin for insulin-dependent diabetes is among the most immediately dangerous, because without it a person with type 1 diabetes can develop ketoacidosis within 24 to 48 hours. Antiepileptic medicines are also acutely dangerous because running out can trigger seizures including status epilepticus. Beta-blockers stopped suddenly in someone with coronary disease can trigger a heart attack. For all of these, exhausting every possible source before running out is essential."
+        },
+        {
+          "q": "How do I find out the active ingredient name of my medicine?",
+          "a": "Look at the packaging for the words composition, active ingredient, or active substance. The generic name is usually printed below the brand name on the box. On a blister pack it may be printed in smaller text. If you cannot find it, a pharmacist can look it up from the brand name, and online medicine databases such as drugs.com also list generic names by brand."
+        },
+        {
+          "q": "What can I do if no pharmacy in my area has my medicine?",
+          "a": "First ask the pharmacist to call their distributors to check availability elsewhere in the region. Next, contact the outpatient pharmacy at the nearest hospital. If you are in a conflict-affected area, ask at any NGO health point about emergency medicine access. If the medicine is life-sustaining and genuinely unavailable, go to an emergency department and explain your situation: hospitals often have reserve supplies of essential medicines not available in community pharmacies."
+        },
+        {
+          "q": "Should I stop corticosteroids if I run out suddenly?",
+          "a": "No. Corticosteroids taken for more than a few weeks suppress the adrenal glands, and stopping suddenly can cause adrenal insufficiency with severe fatigue, low blood pressure, and vomiting. If you are about to run out, seek medical advice about tapering before you do. If you have already stopped suddenly and feel very unwell, go to an emergency department and tell them you have been taking corticosteroids."
+        },
+        {
+          "q": "Can I get medicines from a neighbouring country if they are available there?",
+          "a": "Crossing borders with prescription medicines is regulated and the rules vary significantly by country. Generally, carrying a supply for personal use with a prescription or a letter from a doctor reduces the risk of the medicine being confiscated at the border. Carrying large quantities without documentation may be treated as trafficking. Ask the pharmacist in the country where you obtain the medicine to write on the bag the name of the medicine and the quantity."
+        }
+      ]
+    },
+    "ar": {
+      "title": "دواؤك غير متوفر: ما تفعله بأمان",
+      "desc": "شُح الأدوية في سوريا واليمن ولبنان والسودان واقع شائع. تعرّف على الأدوية الخطيرة إيقافها فجأة وكيف تجد البدائل وكيف تُقنّن الجرعة بأمان.",
+      "keywords": "شُح الدواء سوريا اليمن لبنان, نقص الدواء في العالم العربي, انتهاء الدواء, بديل الدواء بالمادة الفعالة, لا أجد حبوبي, تعامل مع نقص الدواء",
+      "h1": "شُح الأدوية: كيف تحافظ على سلامتك حين ينتهي دواؤك",
+      "takeaways": [
+        "بعض الأدوية خطير إيقافها فجأة، منها حاصرات بيتا والكورتيكوستيرويدات ومضادات الصرع ومضادات الاكتئاب والأنسولين. إيقافها بلا إرشاد طبي قد يُسبب نكساً مهدداً للحياة.",
+        "لكل دواء اسم المادة الفعالة وهو الاسم الدولي غير المحمي (INN). معرفة هذا الاسم تُتيح لك البحث عن الدواء ذاته تحت ماركة مختلفة.",
+        "تقنين الدواء بأخذ جرعة أقل من الموصوفة ضرورة أحياناً لكنه يحمل مخاطره ويُفضَّل مناقشته مع صيدلاني أو طبيب.",
+        "الصيدلاني في أغلب الأحيان أكثر الموارد سهولة وصولاً وأوفرها معرفةً في أزمة الشُّح. اسأله تحديداً عن الأدوية الجنيسة المعادلة والماركات البديلة.",
+        "الاحتفاظ بسجل مكتوب لأدويتك بأسماء المواد الفعالة والجرعات والمؤشرات العلاجية هو أعملي خطوة تستطيع القيام بها قبل وقوع الشُّح."
+      ],
+      "sections": [
+        {
+          "h2": "لماذا تحدث أزمات الشُّح ومن تطال أكثر؟",
+          "paras": [
+            "شُح الأدوية في سوريا واليمن والسودان ولبنان ليس إزعاجاً عرضياً بل واقع هيكلي تُغذّيه النزاعات والعقوبات وقيود الاستيراد وانهيار العملة وتعطّل سلاسل التوريد. دراسة نُشرت عام 2025 في Frontiers in Public Health فحصت الوصول إلى رعاية ارتفاع ضغط الدم في صفوف اللاجئين السوريين في لبنان ووجدت أن الوصول إلى أدوية ضغط الدم كان مُعاقاً بشكل خطير ولم يستطع كثيرون الحفاظ على علاج منتظم. هذا النمط يتكرر عبر فئات الأمراض المزمنة بما فيها السكري والصرع والحالات النفسية.",
+            "ديناميكية الشُّح ذاتها تطال دولاً بلا نزاع نشط حين يجعل انهيار العملة الأدوية المستوردة لا يُطاق ثمنها كما حدث في لبنان منذ 2019، وحين لا تستطيع الأنظمة التنظيمية الوطنية معالجة موافقات الاستيراد بالسرعة الكافية في الأزمات. دراسة نُشرت عام 2025 في BMJ Global Health وجدت أن الوعي بالأدوية الدونية والمزوّرة مرتفع في الأردن في صفوف المهنيين الصحيين مما يعكس الضغوط التي يُحدثها الشُّح على سلاسل التوريد وعلى التعويضات التي يلجأ إليها الناس حين تختفي المنتجات الأولى.",
+            "الأشد تضرراً من الشُّح هم مرضى الأمراض المزمنة التي تستلزم دواءً يومياً: السكري وارتفاع ضغط الدم والصرع وقصور القلب وأمراض الغدة الدرقية والحالات النفسية وفيروس نقص المناعة. هذه ليست حالات يُعدّ فيها تفويت أيام من الحبوب أمراً يمكن احتماله. بعضها حالات يكون فيها إيقاف الدواء فجأة خطيراً طبياً."
+          ]
+        },
+        {
+          "h2": "أي الأدوية خطير إيقافها فجأة؟",
+          "paras": [
+            "هذا أهم ما ينبغي فهمه في أزمة شُح. خطر الإيقاف المفاجئ يتفاوت تفاوتاً هائلاً بين الأصناف الدوائية، وبالنسبة لبعض الأدوية هو ليس خطراً افتراضياً بل سبب موثَّق لأحداث طبية خطيرة. الأصناف التالية لا يجوز إيقافها قط بلا خطة، وإن كنت على وشك النفاد فيجب وضع تلك الخطة قبل أن تنفد.",
+            "حاصرات بيتا (Beta-blockers) التي تشمل الميتوبرولول (Metoprolol) والأتينولول (Atenolol) والكارفيديلول (Carvedilol) والبيسوبرولول (Bisoprolol) والبروبرانولول (Propranolol) كانت من أولى الأدوية التي وُثّق فيها ارتداد قلبي وعائي عند الإيقاف المفاجئ. دراسة رئيسية نُشرت في مجلة Circulation عام 1980 قاست ارتفاعاً حاداً في الاستجابة الأدرينالية بعد إيقاف البروبرانولول مفاجأةً لدى مرضى الذبحة الصدرية، بما يتوافق مع تقارير تفاقُم ألم الصدر وأحداث الشريان التاجي الحادة. التوقف التدريجي لا الإيقاف المفاجئ هو النهج القياسي.",
+            "الكورتيكوستيرويدات بما فيها البريدنيزون (Prednisone) والبريدنيزولون (Prednisolone) والديكساميثازون (Dexamethasone) المأخوذة لأكثر من أسابيع قليلة تُثبّط الغدد الكظرية. حين يُوقَف الدواء فجأة لا تستطيع الغدد الكظرية استئناف إنتاجها للكورتيزول فوراً مما قد يُسبب قصور الكظر: إرهاقاً شديداً وانخفاض ضغط الدم والقيء وفي الحالات الخطيرة الإغماء. ورقة بروتوكول نُشرت عام 2023 في PLoS One وصفت هذا الخطر رسمياً في سياق تصميم تجارب إيقاف الستيرويدات التدريجي."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "أصناف الأدوية التي لا يجوز إيقافها فجأة",
+            "head": ["الصنف الدوائي", "أمثلة", "خطر الإيقاف المفاجئ"],
+            "rows": [
+              ["حاصرات بيتا", "أتينولول، ميتوبرولول، بيسوبرولول", "ألم صدر ارتدادي، نوبة قلبية، ارتفاع خطير في ضغط الدم"],
+              ["كورتيكوستيرويدات (طويلة الأمد)", "بريدنيزون، بريدنيزولون، ديكساميثازون", "أزمة كظرية: إرهاق شديد، إغماء، انخفاض ضغط الدم"],
+              ["مضادات الصرع", "فينوباربيتال، كاربامازيبين، فالبروات، ليفيتيراسيتام", "نوبات صرعية، حالة الصرع الإيقافية"],
+              ["الأنسولين", "جميع الأنواع", "ارتفاع خطير في السكر، الحماض الكيتوني السكري، غيبوبة"],
+              ["مضادات الاكتئاب خاصة SSRIs", "باروكسيتين، سيرترالين، فنلافاكسين، فلوكسيتين", "متلازمة الإيقاف: دوار، صدمات كهربائية، قلق"],
+              ["مضادات الذهان", "هالوبيريدول، كيتيابين، ريسبيريدون", "انتكاس، ذُهان ارتدادي"],
+              ["البنزوديازيبينات", "ديازيبام، كلونازيبام، ألبرازولام", "نوبات صرعية، قلق شديد، انسحاب خطير"],
+              ["بعض أدوية ضغط الدم", "كلونيدين، أملوديبين", "ارتداد ضغط حاد مع الكلونيدين؛ إيقاف الأملوديبين عادةً أقل خطورةً"]
+            ]
+          }
+        },
+        {
+          "h2": "كيف تجد بديل الدواء الذي لا تجده؟",
+          "paras": [
+            "لكل دواء اسمان. اسم الماركة التجارية هو ما يُسمّيه المصنّع مثل غلوكوفاج (Glucophage) أو كونكور (Concor). اسم المادة الفعالة وهو الاسم الجنيسي أو الاسم الدولي غير المحمي (INN) هو المركّب الكيميائي الفعلي مثل الميتفورمين (Metformin) أو البيسوبرولول (Bisoprolol). اسم الماركة يختلف من دولة إلى أخرى ومن مصنّع إلى آخر. أما الاسم الدولي فهو واحد في كل أنحاء العالم.",
+            "حين لا تتوفر ماركة بعينها، الخطوة الأولى هي إيجاد الاسم الدولي (INN) على عبوتك. عادةً يُطبع بنص أصغر أسفل اسم الماركة، أو على الصندوق في قسم يُسمى التركيبة أو المادة الفعالة. حين تحصل على الاسم الدولي يمكنك سؤال الصيدلاني عن أي منتج يحتوي على الجزيئة ذاتها بالجرعة المماثلة أو المقاربة. يستطيع الصيدلاني تأكيد ما إذا كان ما لديه مكافئاً بيولوجياً بمعنى أن الجسم يمتصه ويستخدمه بالطريقة ذاتها.",
+            "بعض الأصناف الدوائية تتحمل التبديل بين أفرادها أكثر من غيرها. في صنف حاصرات بيتا مثلاً يمكن عموماً استبدال الأتينولول بالميتوبرولول أو البيسوبرولول بجرعة معادلة لأنها تعمل على المستقبل ذاته بتأثير مشابه. في صنف مضادات الصرع التبديل أعقد بكثير لأن أدوية مختلفة في الصنف تعمل عبر آليات مختلفة ولها نوافذ علاجية مختلفة. في الصرع تحديداً يُفضَّل أن يشمل أي تبديل طبيباً."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "كيف تجد بديلاً حين لا تجد ماركتك",
+            "items": [
+              "اعثر على الاسم الدولي للمادة الفعالة (INN) على العبوة عادةً بجانب كلمة التركيبة أو المادة الفعالة",
+              "اكتبه مع الجرعة بالملليغرام والتكرار",
+              "اسأل الصيدلاني عن أي منتج يحتوي على هذا الاسم الدولي بالجرعة ذاتها",
+              "اطلب من الصيدلاني تأكيد أنه مكافئ بيولوجياً لمنتجك الأصلي",
+              "إن كانت حالتك الصرع أو السكري أو حالة نفسية تأكد من الطبيب قبل التبديل",
+              "ابدأ المنتج الجديد بالطريقة الموجَّهة تماماً وراقب أي استجابة مختلفة"
+            ]
+          }
+        },
+        {
+          "h2": "ماذا تفعل حين يتوفر الدواء جزئياً فقط؟",
+          "paras": [
+            "أحياناً يكون الدواء متاحاً جزئياً: تستطيع الحصول على ما يكفي لأسبوعين لكنك بحاجته لشهر. تقنين الدواء بأخذ أقل من الجرعة الموصوفة قد يكون الخيار الوحيد وهو أفضل من لا شيء في أغلب الحالات. غير أن الآثار تعتمد كلياً على نوع الدواء المُقنَّن.",
+            "بالنسبة لأدوية ضغط الدم، أخذ نصف الجرعة أكثر أماناً دائماً تقريباً من عدم الأخذ كلياً. السيطرة على الضغط ستكون ناقصة لكن سيطرة جزئية خير من لا سيطرة، وخطر ارتداد الضغط من الإيقاف الكامل حقيقي. بالنسبة لمضادات الصرع أي تخفيض في الجرعة يخاطر بانخفاض المستوى دون العتبة العلاجية وإثارة نوبة مما يجعل هذه استراتيجية عالية الخطورة. بالنسبة للأنسولين تخفيض الجرعة خطير فعلياً والحد الذي يحدث عنده الضرر غير منتظم.",
+            "إن كنت في موقف إمداد جزئي، أخبر الصيدلاني بالكمية التي لديك واسأله عن كيفية توزيعها على أطول فترة آمنة ممكنة لدواؤك تحديداً. صيدلاني يعرف الحركية الدوائية للدواء يستطيع تقديم إرشاد عملي. للأدوية عالية الخطورة إعطاء الأولوية للتواصل مع أي طبيب سواء حضورياً أو هاتفياً أو عبر الطب عن بُعد قبل التقنين أمر مهم."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "اطلب مساعدة طبية عاجلة إن ظهرت هذه الأعراض بعد تفويت جرعات",
+            "items": [
+              "ألم في الصدر أو تفاقُم ذبحة صدرية (فجوة في حاصرات بيتا أو النترات أو الأسبرين)",
+              "نوبة صرعية أو تغيّر ملحوظ في تكرارها (فجوة في مضادات الصرع)",
+              "ارتباك شديد أو قيء أو عطش مفرط مع ارتفاع السكر (فجوة في الأنسولين أو أدوية السكري)",
+              "إرهاق شديد أو دوار أو إغماء (فجوة في الكورتيكوستيرويدات)",
+              "قلق ارتدادي شديد أو ارتجاف أو صدمات كهربائية غير عادية (فجوة في مضادات الاكتئاب أو البنزوديازيبينات)"
+            ]
+          }
+        },
+        {
+          "h2": "حالات بعينها: الأنسولين وأدوية السكري",
+          "paras": [
+            "أزمة الأنسولين تُعدّ من أخطر حالات شُح الدواء على الفور. المرضى المعتمدون على الأنسولين سواء أكانوا من مرضى النوع الأول أم مرضى النوع الثاني الذين على أنسولين منذ سنوات لا يستطيعون ببساطة الإيقاف. بدون الأنسولين يرتفع الغلوكوز بسرعة مما يُؤدي إلى الحماض الكيتوني السكري في مرض السكري من النوع الأول وهو مهدد للحياة خلال ساعات إلى أيام إن لم يُعالج. الخطوة الأولى حين يُهدَّد إمداد الأنسولين هي الاتصال بكل صيدلية في نطاق الوصول وبأي عيادة سكري أو مستشفى به قسم للغدد الصماء.",
+            "أنواع الأنسولين المختلفة ليست متكافئة والتبديل بينها يستلزم إرشاداً. الأنسولين قصير المفعول لا يُعوَّض بالطويل المفعول بلا إعادة حساب دقيقة للجرعة. إن نفد تركيب بعينه لكن نوع آخر متوفر، يستطيع طبيب أو ممرضة السكري التي تعرف نظامك مساعدتك في تحويل الجرعات. توجيهات الشُّح الصادرة عن منظمة الصحة العالمية وجمعيات السكري الإقليمية أحياناً تحدد الأولوية في تخصيص الأنسولين للمرضى المعتمدين عليه قبل من يمكن إدارة سكريهم بأدوية فموية مؤقتاً.",
+            "لمرضى السكري من النوع الثاني على أدوية فموية كالميتفورمين أو السيتاغليبتين أو الغليكلازيد، يُنشئ الشُّح خطراً جسيماً لكنه أقل تهديداً للحياة مباشرةً. تشديد السيطرة الغذائية وتقليل تناول الكربوهيدرات وزيادة النشاط البدني يمكنها التعويض الجزئي لفترة. مراقبة الغلوكوز في الدم بانتظام حيث يتوفر جهاز ق الدم وشرائطه تزداد أهمية لمراقبة إمكانية التحكم في الوضع."
+          ]
+        },
+        {
+          "h2": "حالات بعينها: أدوية ضغط الدم والقلب",
+          "paras": [
+            "ارتفاع ضغط الدم غير المُسيطَر عليه خلال شُح الدواء يرفع خطر السكتة الدماغية والنوبة القلبية بشكل ملحوظ، خاصة لمن لديهم أمراض قلبية وعائية بالفعل. حين لا يتوفر خافض ضغط بعينه كثيراً ما يستطيع الصيدلاني اقتراح بديل من الصنف ذاته أو من صنف مختلف يُحقق خفضاً مماثلاً للضغط. كثير من أصناف أدوية ضغط الدم متاحة كأدوية جنيسة وهي أقل كُلفةً نسبياً.",
+            "بين أدوية ضغط الدم، الكلونيدين (Clonidine) يستلزم حيطة خاصة. له ارتداد ضغطي محدد عند الإيقاف المفاجئ يمكنه إنتاج ارتفاع خطير في الضغط خلال 24 إلى 48 ساعة. إن كان الكلونيدين هو دواء ضغطك ولا تجده فاطلب مشورة طبية بسرعة حول التوقف التدريجي لا المفاجئ. لأدوية ضغط الدم الشائعة كالأملوديبين (Amlodipine) أو الليزينوبريل (Lisinopril) الإيقاف المفاجئ يحمل خطر ارتداد أقل لكن الضغط سيرتفع ويحتاج المراقبة.",
+            "لأدوية قصور القلب بما فيها مثبطات الإنزيم المحوّل للأنجيوتنسين (ACE inhibitors) ومدرّات البول والديغوكسين (Digoxin)، أي فجوة في العلاج قد تُزعزع حالة كانت متوازنة على تركيبة محددة. مراقبة الوزن في المنزل ومراقبة تورم الكاحلين وتقليل الملح بشكل حاد تستطيع كسب بعض الوقت. اتصال هاتفي بأي طبيب أو ممرضة متاح ذو قيمة لمريض قصور القلب الذي يواجه فجوة في الدواء."
+          ]
+        },
+        {
+          "h2": "حالات بعينها: الأدوية النفسية والعصبية",
+          "paras": [
+            "الدليل على متلازمة إيقاف مضادات الاكتئاب بات شاملاً. استعراض نُشر عام 2023 في European Neuropsychopharmacology وثَّق أن متلازمة الإيقاف تحدث لنسبة كبيرة ممن يوقفون مضادات الاكتئاب، خاصة الباروكسيتين (Paroxetine) والفنلافاكسين (Venlafaxine)، وقد تشمل الدوار وأحاسيس شبيهة بالصدمات الكهربائية في الرأس والأطراف وتُعرف بـ brain zaps وقلقاً شديداً وغثياناً واضطراب النوم. تبدأ هذه الأعراض خلال أيام من الإيقاف وقد تستمر أسابيع. التوقف التدريجي البطيء هو النهج القياسي، لكن حين تنفد الأدوية فجأة في أزمة شُح قد تكون المتلازمة شديدة.",
+            "للأشخاص على أدوية مضادة للذُّهان الذين يواجهون شُحاً، خطر الانتكاس النفسي حقيقي ويمكن أن يتطور بسرعة. على العائلات الداعمة لمريض يتناول مضادات الذُّهان أن تفهم أن تغيّر السلوك أو الوهم الاضطهادي أو الهيجان الناشئ بعد فجوة في الدواء قد يعكس انتكاسة لا مشكلة جديدة. يجب طلب التواصل مع طبيب نفسي أو ممرضة نفسية بإلحاح.",
+            "الصرع يُقدّم أعلى خطر حاد بين الحالات العصبية في أزمة الشُّح. مضادات الصرع الأكثر توفراً في بيئات محدودة الموارد هي الفينوباربيتال (Phenobarbital) والكاربامازيبين (Carbamazepine) والفالبروات (Valproate). الفينوباربيتال مُدرج على قائمة الأدوية الأساسية لمنظمة الصحة العالمية وهو عادةً الأكثر انتشاراً. إن كان دواؤك المحدد غير متوفر يُناقَش أقرب بديل متاح مع طبيب أعصاب والانتقال يكون تدريجياً حيثما أمكن."
+          ]
+        },
+        {
+          "h2": "استعداد عملي قبل وقوع الشُّح",
+          "paras": [
+            "الاحتفاظ بسجل شخصي للأدوية هو أعملي إجراء استعدادي. السجل يجب أن يتضمن: اسم الماركة لكل دواء تتناوله واسم المادة الفعالة (INN) والجرعة بالملليغرام والتكرار والحالة التي يُعالجها. هذا السجل يجب أن يكون ورقياً إضافةً إلى نسخة في الهاتف لأن الهواتف تفقد الشحن والشبكات تتعطل. يجب أن يكون معك حين تسافر ومنسوخاً لدى أحد أفراد الأسرة.",
+            "طلب من طبيبك كميةً أكبر قليلاً حين تتوفر الإمدادات إن كان ذلك مسموحاً في بلدك يبني احتياطياً مؤقتاً. في الدول التي تُقيَّد فيها كميات الوصفات، معرفة أي الأدوية يمكن الحصول عليها بكميات أكبر من صيدلية المستشفى مقارنةً بالصيدلية المجتمعية أمر يستحق المعرفة مسبقاً.",
+            "بناء علاقة مع صيدلاني محلي يعرف قائمة أدويتك ذو قيمة تتجاوز أزمة الشُّح. الصيدلانيون في المنطقة كثيراً ما يمتلكون معرفة مسبقة بمشاكل إمداد قادمة ويستطيعون تنبيه عملائهم الدائمين. يمكنهم أيضاً التواصل مع الموزّعين للبحث عن أدوية بعينها غير موجودة في مخزونهم وهذا أغلب الأحيان أسرع من أن يبحث المريض بنفسه بين صيدليات متعددة."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "بطاقة أدويتك الشخصية: ما تكتبه",
+            "head": ["ما تُسجّله", "مثال"],
+            "rows": [
+              ["اسم الماركة", "كونكور"],
+              ["المادة الفعالة (INN)", "بيسوبرولول"],
+              ["الجرعة", "5 ملغ"],
+              ["التكرار", "مرة يومياً صباحاً"],
+              ["ما يُعالجه", "ارتفاع ضغط الدم والنبض"],
+              ["الطبيب الواصف", "د. أحمد، باطنية، هاتف: 07xxxxxxx"]
+            ]
+          }
+        },
+        {
+          "h2": "أين تجد المساعدة والمعلومات خلال أزمة شُح؟",
+          "paras": [
+            "الصيدلاني عادةً المورد الأول والأسهل وصولاً في أزمة الشُّح. يعرف ما في مخزونه وما يتوفر من موزّعيه وما هي البدائل الجنيسة. في المدن التي بها صيدليات متعددة الاتصال هاتفياً قبل الذهاب يوفر الوقت. بعض الصيدليات في بيروت ودمشق وعمان تشترك في شبكات غير رسمية تتبادل معلومات المخزون.",
+            "صيدليات المستشفيات الخارجية وأقسام الطوارئ كثيراً ما تمتلك الوصول إلى إمدادات لا تجدها الصيدليات المجتمعية، خاصةً للأدوية الأساسية كالأنسولين ومضادات الصرع وأدوية القلب والأوعية الدموية. التوجه إلى صيدلية المستشفى وشرح حالة الشُّح يمكن أن يُتيح الوصول إلى أدوية غير متاحة في مكان آخر.",
+            "المنظمات غير الحكومية والإنسانية العاملة في سوريا واليمن والسودان وفي صفوف المهجَّرين تُدير في أغلب الأحيان برامج وصول إلى الدواء. اللجنة الدولية للصليب الأحمر وأطباء بلا حدود والمفوضية السامية للأمم المتحدة لشؤون اللاجئين تُدير خطوط إمداد دوائية في المناطق المأزومة. التسجيل في برنامج صحي إنساني يمكن أن يُتيح الوصول إلى الأدوية الأساسية الجوهرية حتى حين ينهار الإمداد التجاري كلياً."
+          ]
+        }
+      ],
+      "tie": "استخدم تطبيق سهتك للاحتفاظ بقائمة أدويتك مع أسماء المواد الفعالة والجرعات والحالة التي يعالجها كل منها. دقة هذا السجل وتحديثه هو أعملي أداة لديك في أزمة الشُّح.",
+      "faqs": [
+        {
+          "q": "هل يجوز أخذ نصف حبة ضغط الدم حين أوشك أن أنتهي منها؟",
+          "a": "لمعظم أدوية ضغط الدم أخذ نصف الجرعة أكثر أماناً بكثير من التوقف الكامل. السيطرة على الضغط ستكون ناقصة لكن سيطرة جزئية تُقلّل خطر السكتة والنوبة القلبية مقارنةً بعدم الدواء كلياً. راقب الضغط في المنزل إن توفر جهاز. الاستثناء هو الكلونيدين الذي قد يُسبب ارتفاعاً ارتدادياً خطيراً مع أي تغيير مفاجئ في الجرعة: استشر الصيدلاني أو الطبيب قبل تقليله."
+        },
+        {
+          "q": "هل أتناول ماركة مختلفة من دوائي إن لم أجد الماركة المعتادة؟",
+          "a": "نعم إن كانت الماركة المختلفة تحتوي على المادة الفعالة ذاتها بالجرعة ذاتها. اطلب من الصيدلاني تأكيد تطابق اسم المادة الفعالة وأن المنتج مكافئ بيولوجياً. لمعظم الأدوية هذا التبديل آمن. لأدوية الصرع والأدوية ذات النافذة العلاجية الضيقة مثل الديغوكسين يُؤكَّد التبديل مع طبيب."
+        },
+        {
+          "q": "ماذا يحدث إن أوقفت مضاد الاكتئاب فجأة لأنني لم أجده؟",
+          "a": "كثير من مضادات الاكتئاب تُسبب متلازمة إيقاف عند الوقف المفاجئ وأعراضها تشمل الدوار وأحاسيس شبيهة بالصدمات الكهربائية وقلقاً شديداً وغثياناً واضطراب النوم. تبدأ خلال يوم إلى أربعة أيام وقد تستمر أسبوعين إلى أربعة. المتلازمة مُزعجة لكنها غير مهددة للحياة. إن اضطُررت للإيقاف المفاجئ معرفتك بأن هذه الأعراض قد تظهر يساعدك في التعامل معها. أخبر أي طبيب تزوره بما حدث."
+        },
+        {
+          "q": "أي الأدوية أخطر إن نفدت؟",
+          "a": "الأنسولين لمرضى السكري المعتمدين عليه من بين الأخطر فوراً لأن مريض السكري من النوع الأول بدونه قد يُصاب بحماض كيتوني خلال 24 إلى 48 ساعة. مضادات الصرع خطيرة بشكل حاد أيضاً لأن نفادها يمكن أن يُثير نوبات صرعية. حاصرات بيتا الموقوفة فجأة لدى مريض بأمراض شريان تاجي يمكن أن تُسبب نوبة قلبية. لكل هذه يجب استنفاد كل مصدر ممكن قبل النفاد."
+        },
+        {
+          "q": "كيف أعرف اسم المادة الفعالة لدوائي؟",
+          "a": "انظر على العبوة بحثاً عن كلمات التركيبة أو المادة الفعالة أو المادة الفاعلة. الاسم الجنيسي عادةً مطبوع أسفل اسم الماركة على الصندوق. على الشريط البلاستيكي قد يكون مطبوعاً بنص أصغر. إن لم تجده يستطيع الصيدلاني البحث عنه من اسم الماركة، وقواعد بيانات الأدوية الإلكترونية مثل drugs.com تُدرج الأسماء الجنيسة بالاستعلام عن الماركة."
+        },
+        {
+          "q": "ماذا أفعل إن لم تجد أي صيدلية في منطقتي دوائي؟",
+          "a": "أولاً اطلب من الصيدلاني الاتصال بموزّعيه للتحقق من التوفر في مكان آخر بالمنطقة. بعدها تواصل مع صيدلية المستشفى الأقرب. إن كنت في منطقة متأثرة بالنزاع اسأل في أي نقطة صحية تابعة لمنظمة غير حكومية عن برامج الوصول الطارئ للدواء. إن كان الدواء مُنقذاً للحياة وغير متوفر فعلاً اذهب إلى قسم الطوارئ واشرح وضعك. للمستشفيات في أغلب الأحيان احتياطيات من الأدوية الأساسية غير متوفرة في الصيدليات المجتمعية."
+        },
+        {
+          "q": "هل يجب أن أوقف الكورتيزون فجأة إن نفد؟",
+          "a": "لا. الكورتيكوستيرويدات المتناولة لأكثر من أسابيع قليلة تُثبّط الغدد الكظرية، والإيقاف المفاجئ يمكن أن يُسبب قصور الكظر مع إرهاق شديد وانخفاض ضغط الدم والقيء. إن كنت على وشك النفاد اطلب مشورة طبية حول التوقف التدريجي قبل ذلك. إن كنت قد أوقفت فجأة بالفعل وشعرت بتردّي حادّ في حالتك اذهب إلى قسم الطوارئ وأخبرهم أنك كنت تتناول الكورتيكوستيرويدات."
+        },
+        {
+          "q": "هل يمكنني الحصول على الدواء من دولة مجاورة إن كان متوفراً هناك؟",
+          "a": "عبور الحدود بأدوية موصوفة خاضع لأنظمة تتفاوت بشكل كبير بين الدول. بوجه عام حمل كمية للاستخدام الشخصي مع وصفة أو رسالة من طبيب يُقلّل خطر مصادرة الدواء عند الحدود. حمل كميات كبيرة بلا وثائق قد يُعامَل بوصفه تهريباً. اطلب من الصيدلاني في الدولة التي اشتريت منها أن يكتب على الكيس اسم الدواء والكمية."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,380 @@
+{
+  "slug": "gestational-diabetes-guide",
+  "category": "womens-health",
+  "chip_ar": "صحة المراة",
+  "chip_en": "Women's Health",
+  "date_iso": "2026-07-22",
+  "sources": [
+    {
+      "label": "Al-Rifai RH, Abdo NM, Paulo MS et al: Prevalence of Gestational Diabetes Mellitus in the Middle East and North Africa, 2000-2019: A Systematic Review, Meta-Analysis, and Meta-Regression, Frontiers in endocrinology, 2021",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34512543/"
+    },
+    {
+      "label": "Bashir MM, Ahmed LA, Elbarazi I et al: Incidence of gestational diabetes mellitus in the United Arab Emirates; comparison of six diagnostic criteria: The Mutaba'ah Study, Frontiers in endocrinology, 2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36578957/"
+    },
+    {
+      "label": "Vounzoulaki E, Khunti K, Abner SC et al: Progression to type 2 diabetes in women with a known history of gestational diabetes: systematic review and meta-analysis, BMJ (Clinical research ed.), 2020",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32404325/"
+    },
+    {
+      "label": "Rasmussen L, Poulsen CW, Kampmann U et al: Diet and Healthy Lifestyle in the Management of Gestational Diabetes Mellitus, Nutrients, 2020",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33036170/"
+    },
+    {
+      "label": "Keating N, Coveney C, McAuliffe FM et al: Aerobic or Resistance Exercise for Improved Glycaemic Control and Pregnancy Outcomes in Women with Gestational Diabetes Mellitus: A Systematic Review, International journal of environmental research and public health, 2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36078508/"
+    },
+    {
+      "label": "Wani K, Sabico S, Alnaami AM et al: Early-Pregnancy Metabolic Syndrome and Subsequent Incidence in Gestational Diabetes Mellitus in Arab Women, Frontiers in endocrinology, 2020",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32174891/"
+    }
+  ],
+  "content": {
+    "ar": {
+      "title": "سكري الحمل: فحص الغلوكوز وما يليه",
+      "desc": "دليل شامل لسكري الحمل في المنطقة العربية: متى وكيف يُجرى فحص OGTT، وكيف تقرئين النتائج، وما النظام الغذائي المناسب، وخطر الإصابة بسكري النوع الثاني بعد الولادة.",
+      "keywords": "سكري الحمل, فحص السكر للحامل, OGTT الحمل, سكر الحمل علاج, نظام غذائي سكر الحمل, خطر السكري بعد الحمل, اختبار تحمل الغلوكوز",
+      "h1": "سكري الحمل: ما تحتاجين معرفته من الفحص حتى ما بعد الولادة",
+      "takeaways": [
+        "سكري الحمل لا يعني أنك كنت مصابة بالسكري من قبل، بل إن هرمونات الحمل أضعفت استجابة جسمك للأنسولين مؤقتاً.",
+        "المنطقة العربية وشمال أفريقيا لديها من بين أعلى معدلات انتشار سكري الحمل في العالم.",
+        "النظام الغذائي والنشاط البدني يضبطان السكر في أغلب الحالات دون الحاجة للأدوية.",
+        "يختفي سكري الحمل بعد الولادة في معظم الحالات، لكن خطر الإصابة بسكري النوع الثاني يبقى مرتفعاً مدى الحياة.",
+        "الأم التي أصيبت بسكري الحمل تحتاج فحص سكر كل سنة إلى ثلاث سنوات مدى حياتها."
+      ],
+      "sections": [
+        {
+          "h2": "ما هو سكري الحمل وكيف يحدث؟",
+          "paras": [
+            "سكري الحمل (Gestational Diabetes Mellitus, GDM) هو ارتفاع مستوى سكر الدم يُكتشف لأول مرة أثناء الحمل، في امرأة لم يكن لديها سكري من قبل. السبب ليس ضعفاً في البنكرياس ابتداءً، بل إن هرمونات المشيمة، وخاصة هرمون الحمل البشروني واللاكتوجين المشيمي، تسبب مقاومة للأنسولين تزداد تدريجياً كلما تقدم الحمل وكبرت المشيمة.",
+            "في المرأة السليمة يعوّض البنكرياس هذه المقاومة بإنتاج مزيد من الأنسولين. في المرأة التي تبدأ الحمل ولديها احتياطي وظيفي محدود للبنكرياس، أو ترسّبات دهنية مؤثرة، أو مقاومة مسبقة للأنسولين لم تكن مُشخَّصة، لا يعود هذا التعويض كافياً وترتفع مستويات السكر.",
+            "سكري الحمل لا يُسبب أعراضاً واضحة في الغالب. قد تشعرين ببعض العطش أو التعب أو كثرة التبوّل، لكن هذه أعراض شائعة في الحمل الطبيعي. لهذا لا يمكن الاعتماد على الأعراض للكشف عنه، والفحص الدموي ضروري لكل حامل."
+          ],
+          "visual": {
+            "type": "donut",
+            "value": 20,
+            "label": "من الحوامل في المنطقة العربية وشمال أفريقيا قد يُصبن بسكري الحمل حسب المعايير الأكثر حساسية",
+            "tone": "warn",
+            "source": "Al-Rifai RH et al, Frontiers in endocrinology, 2021",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/34512543/"
+          }
+        },
+        {
+          "h2": "لماذا انتشاره مرتفع بشكل خاص في المنطقة؟",
+          "paras": [
+            "مراجعة منهجية وتحليل إحصائي موسع نُشرا عام 2021 في مجلة Frontiers in Endocrinology وشملا دراسات من المنطقة بين عامي 2000 و2019 وجدا أن انتشار سكري الحمل في الشرق الأوسط وشمال أفريقيا يُعدّ من بين الأعلى في العالم. دراسة أجريت في الإمارات عام 2022 (Mutaba'ah Study) ووجدت أن النسبة تتراوح بين 14% و26% حسب معيار التشخيص المستخدم، وهو فارق كبير يعكس غياب توحيد المعايير.",
+            "العوامل التي تزيد الخطر في المنطقة متعددة ومتشابكة: معدلات السمنة مرتفعة جداً في دول الخليج ومصر، وكثير من النساء يبدأن الحمل وهن في سن متقدمة نسبياً، وقلة النشاط البدني في أجواء شديدة الحرارة تُضاف إلى وجبات غنية بالكربوهيدرات المكررة والسكريات.",
+            "دراسة سعودية نُشرت عام 2020 وجدت أن وجود متلازمة التمثيل الغذائي (Metabolic Syndrome) في بداية الحمل يضاعف احتمال الإصابة بسكري الحمل لاحقاً بشكل ملحوظ في النساء العربيات. هذا يعني أن بعض النساء يُصابن بسكري الحمل لأنهن كانت لديهن مقاومة للأنسولين قبل الحمل لم تُكتشف بعد."
+          ]
+        },
+        {
+          "h2": "كيف يُجرى فحص السكر التحملي (OGTT) وما الذي يُقيسه؟",
+          "paras": [
+            "فحص تحمل الغلوكوز الفموي (Oral Glucose Tolerance Test, OGTT) هو الفحص المعياري لتشخيص سكري الحمل، ويُجرى بين الأسبوعين 24 و28 من الحمل في المرأة منخفضة الخطر. النساء ذوات الخطر العالي (كمن لديهن سمنة أو سكري في الحمل السابق أو تاريخ عائلي للسكري) قد يُجرى لهن في وقت أبكر.",
+            "تصومين من الليل (8 إلى 12 ساعة)، ثم تؤخذ منك عينة دم أولى صائمة، ثم تتناولين شراب محلول يحتوي على 75 غراماً من الغلوكوز المذاب في الماء. بعد ساعة تؤخذ عينة ثانية وبعد ساعتين عينة ثالثة. هذا الفحص يمنح الطبيب صورة عن مدى قدرة جسمك على معالجة هذا السكر. بعض المستشفيات في المنطقة لا تزال تستخدم تحميل 100 غرام مع أربع عينات وفق معايير أمريكية قديمة، لذا قد تجدين اختلافاً بين مستشفى وأخرى."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "حدود تشخيص سكري الحمل بفحص OGTT 75 غرام (معايير WHO / IADPSG)",
+            "head": ["وقت العينة", "قيمة السكر (ملمول/لتر)", "قيمة السكر (ملغ/ديسيليتر)", "التفسير"],
+            "rows": [
+              ["صائمة", "5.1 أو أكثر", "92 أو أكثر", "سكري الحمل إذا استوفي معياراً واحداً"],
+              ["بعد ساعة", "10.0 أو أكثر", "180 أو أكثر", "سكري الحمل"],
+              ["بعد ساعتين", "8.5 أو أكثر", "153 أو أكثر", "سكري الحمل"]
+            ]
+          }
+        },
+        {
+          "h2": "ماذا يحدث إذا لم يُعالج سكري الحمل؟",
+          "paras": [
+            "السكر المرتفع في دم الأم يعبر المشيمة ويصل إلى الجنين، فيبدأ البنكرياس الجنيني هو الآخر بإنتاج كميات زائدة من الأنسولين. النتيجة النموذجية هي جنين كبير الحجم (Macrosomia) بوزن يتجاوز 4 كيلوغرامات، مما يُعقّد الولادة ويرفع احتمال الحاجة للقيصرية أو حدوث تمزقات.",
+            "بعد الولادة مباشرة ينقطع إمداد السكر عبر المشيمة فجأة، لكن بنكرياس المولود لا يزال ينتج أنسولين بكميات كبيرة. النتيجة هي انخفاض خطير في سكر دم المولود (Neonatal Hypoglycemia) في الساعات الأولى، وهذا يستدعي مراقبة دقيقة للمولود وإطعامه المبكر. الأطفال الذين يعانون من هذا الانخفاض مرات متكررة دون معالجة سريعة قد يتأثر دماغهم.",
+            "على المدى البعيد، الأطفال المولودون لأمهات أصبن بسكري الحمل لديهم خطر أعلى للإصابة بالسمنة والسكري في مرحلة البلوغ. هذا ليس قدراً محتوماً، لكنه يعني أن التحكم الجيد في سكر الأم أثناء الحمل يحمي طفلها أيضاً على المدى البعيد."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "إشارات تستدعي التقييم الفوري في سكري الحمل",
+            "items": [
+              "حركة الجنين تتراجع أو تتوقف",
+              "سكر الدم الصائم يرتفع إلى 7.0 ملمول/لتر (126 ملغ/ديسيليتر) أو أكثر رغم النظام الغذائي",
+              "صداع شديد مع ضبابية البصر",
+              "ورم مفاجئ في اليدين أو الوجه",
+              "أعراض انخفاض السكر عند الأم: رعشة أو تعرق بارد أو دوار مع أدوية السكر"
+            ]
+          }
+        },
+        {
+          "h2": "النظام الغذائي: ماذا تأكلين وكيف توزعين الوجبات؟",
+          "paras": [
+            "النظام الغذائي هو الركيزة الأولى لعلاج سكري الحمل، وهو يضبط السكر دون أدوية في 70% إلى 80% من الحالات. المبدأ الأساسي ليس منع الكربوهيدرات تماماً، بل اختيار أنواعها الصحيحة وتوزيعها على وجبات أصغر وأكثر تكراراً. ثلاث وجبات رئيسية مع وجبتين أو ثلاث وجبات خفيفة بينها أفضل من وجبتين ضخمتين.",
+            "الكربوهيدرات بطيئة الامتصاص مثل الخبز الكامل الحبة، الأرز البني، العدس، والحمص تُسبب ارتفاعاً أبطأ وأكثر تدرجاً في السكر مقارنة بالخبز الأبيض والأرز الأبيض والحلويات. مراجعة منهجية نُشرت عام 2020 في مجلة Nutrients أكدت أن تنظيم الكربوهيدرات ونوعها يبقى الركيزة الأساسية في إدارة سكري الحمل. في المطبخ المشرقي والمغاربي يمكن الاعتماد على الفريكة والبرغل والقمح المسلوق بدلاً من الأرز الأبيض.",
+            "السكريات المكررة تُرفع بسرعة كبيرة. التمر، العسل، الحلويات الشرقية، عصائر الفاكهة المصفّاة، المشروبات الغازية، كلها ترفع السكر بشكل حاد. هذا لا يعني أن الفاكهة ممنوعة، بل يعني أن يُؤكل التمر مثلاً بشكل محدود (تمرة أو تمرتان) مع وجبة تحتوي على بروتين لتبطئ امتصاصه. الشاي بالسكر والقهوة بالسكر الذي يُشرب بكميات كبيرة يوم كاملاً يُضيف كميات سكر لا يستهان بها."
+          ]
+        },
+        {
+          "h2": "النشاط البدني: الرياضة الآمنة في سكري الحمل",
+          "paras": [
+            "النشاط البدني المعتدل يزيد من حساسية خلايا العضلات للأنسولين، أي أنه يمنح الجسم طريقة إضافية لإدخال السكر إلى الخلايا دون الحاجة لكميات أكبر من الأنسولين. مراجعة منهجية نُشرت عام 2022 وجدت أن الرياضة الهوائية ورياضة المقاومة كلتيهما فعّالتان في تحسين ضبط السكر وتحسين نتائج الحمل في سكري الحمل.",
+            "المشي هو الأسهل والأأمن لمعظم الحوامل. 30 دقيقة من المشي المريح يومياً بعد الوجبة الرئيسية تُساعد في خفض ذروة السكر بعد الأكل. السباحة والتمارين المائية خيار ممتاز في بلدان الخليج والمناطق الحارة. تمارين المقاومة الخفيفة كالسكوات بالجدار أو رفع الأثقال الخفيفة مقبولة كذلك إذا لم تكن هناك مضاعفات في الحمل.",
+            "الرياضة الشديدة أو تلك التي تنطوي على خطر السقوط يجب تجنبها. إذا كنت لم تكوني تمارسين الرياضة قبل الحمل، لا تبدئي ببرنامج مكثف. ابدئي بعشر دقائق يومياً وزيدي تدريجياً. استشيري طبيبك إذا كان لديك نزيف أو قصور عنق الرحم أو أي عامل خطر يمنع النشاط."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "خطوات عملية بعد كل وجبة لخفض السكر",
+            "items": [
+              "انتظري 15 دقيقة بعد الوجبة ثم امشي 20 إلى 30 دقيقة بخطى مريحة",
+              "تجنبي الجلوس مباشرة أو الاستلقاء بعد الأكل",
+              "قيسي سكر الدم بعد ساعتين من بداية الوجبة: الهدف أقل من 6.7 ملمول/لتر (120 ملغ/ديسيليتر)",
+              "سجّلي الوجبة وقراءة السكر في دفتر لتعرفي أي الأطعمة ترفع سكرك بشكل خاص",
+              "بلّغي طبيبك بالقراءات أسبوعياً"
+            ]
+          }
+        },
+        {
+          "h2": "متى تُحتاج الأدوية أو الأنسولين؟",
+          "paras": [
+            "إذا لم يُحقق النظام الغذائي والنشاط البدني بعد أسبوع إلى أسبوعين الأهداف المطلوبة، تبدأ الأدوية. الهدف الذي تسعى إليه الطبيبة عادةً: سكر صائم أقل من 5.3 ملمول/لتر (95 ملغ/ديسيليتر)، وسكر بعد ساعة من الوجبة أقل من 7.8 ملمول/لتر (140 ملغ/ديسيليتر)، وسكر بعد ساعتين أقل من 6.7 ملمول/لتر (120 ملغ/ديسيليتر). هذه الأهداف قد تختلف قليلاً بين بروتوكول مستشفى وآخر لذا اسألي طبيبك عن أهدافك بالتحديد.",
+            "الميتفورمين (Metformin) يُستخدم أحياناً في سكري الحمل وهو خيار مقبول لكنه يعبر المشيمة ويصل إلى الجنين بكميات قابلة للقياس. الأنسولين هو الخيار المفضل عالمياً لأنه لا يعبر المشيمة ويمكن ضبط جرعته بدقة حسب القراءات اليومية. الأنسولين لا يضر الأم ولا الجنين بل يحمي الجنين من ارتفاع السكر الضار، وخوف كثيرات من الحقن لا يجب أن يمنعهن من قبوله إذا كانت نتائجهن تستدعيه.",
+            "الجرعات تُحدد من قِبل الطبيب حسب قراءات السكر اليومية ووزنك وعمر الحمل وليس رقماً ثابتاً. الجرعة تتغير مع تقدم الحمل لأن هرمونات المشيمة تزداد مع الوقت وتستدعي جرعات متصاعدة. إذا بدأت الأنسولين لا تعدّلي الجرعة بنفسك بناءً على ما تقرئينه في الإنترنت. القياس المنتظم وتدوين القراءات والتواصل مع الطبيب هي ما تجعل الأنسولين آمناً وفعّالاً."
+          ]
+        },
+        {
+          "h2": "ماذا يحدث بعد الولادة؟ الخطر الذي لا تعرفه كثيرات",
+          "paras": [
+            "في معظم الحالات يختفي سكري الحمل بعد الولادة خلال أيام إلى أسابيع. لكن هذا لا يعني أنك عُدت لنقطة الصفر. مراجعة منهجية نُشرت في BMJ عام 2020 وضمّت بيانات أكثر من مليون امرأة وجدت أن النساء اللواتي أصبن بسكري الحمل لديهن خطر يبلغ أكثر من عشرة أضعاف لتطوير سكري النوع الثاني لاحقاً مقارنة بمن لم يُصبن به.",
+            "يُوصى بإجراء فحص OGTT أو FBG بعد 6 إلى 12 أسبوعاً من الولادة للتأكد من عودة السكر لمستويات طبيعية. بعدها يُكرر الفحص كل سنة إلى ثلاث سنوات مدى الحياة. كثير من النساء في المنطقة لا تعرفن بهذه التوصية، والطبيب أحياناً لا يذكرها، وهذه فجوة حقيقية في الرعاية.",
+            "الرضاعة الطبيعية تحمي من سكري النوع الثاني بشكل إضافي. الحفاظ على وزن صحي بعد الولادة، والنشاط البدني المستمر، والتقليل من الكربوهيدرات المكررة كلها تُقلل احتمال التحول إلى سكري نوع ثانٍ. الأطفال الذين يُرضعون طبيعياً لمدة أطول أيضاً لديهم خطر أقل للسمنة والسكري لاحقاً."
+          ],
+          "visual": {
+            "type": "timeline",
+            "title": "المتابعة بعد سكري الحمل",
+            "items": [
+              {"when": "بعد 6-12 أسبوعاً من الولادة", "what": "فحص سكر صائم أو OGTT للتأكد من عودة السكر لطبيعته"},
+              {"when": "كل 1-3 سنوات", "what": "فحص سكر دوري مدى الحياة للكشف المبكر عن سكري النوع الثاني"},
+              {"when": "قبل الحمل التالي", "what": "فحص سكر للتأكد من عدم وجود سكري مسبق وتقليل الأخطار"},
+              {"when": "في كل حمل لاحق", "what": "فحص مبكر لسكري الحمل لأن الخطر أعلى في الحمول التالية"}
+            ]
+          }
+        },
+        {
+          "h2": "أسئلة شائعة حول قياس السكر في المنزل",
+          "paras": [
+            "قياس السكر بجهاز القياس المنزلي (Glucometer) هو أداة لا غنى عنها في سكري الحمل. أهداف القياس في الغالب: صائمة أقل من 5.3 ملمول/لتر (95 ملغ/ديسيليتر)، وبعد ساعة من الوجبة أقل من 7.8 ملمول/لتر (140 ملغ/ديسيليتر). بعض الأطباء يفضلون القياس بعد ساعتين وهدفهم أقل من 6.7 ملمول/لتر (120 ملغ/ديسيليتر). استفسري من طبيبك عن أهدافك بالضبط واكتبيها لأنها تختلف بحسب البروتوكول المتبع ودرجة الخطر لديك.",
+            "الأشرطة والإبر مستهلكات ثمنها قد يُثقل الكاهل خاصة في الدول التي تعاني من شح الموارد كسوريا واليمن ولبنان. في هذه الحالة ناقشي مع طبيبك الحد الأدنى من القياسات اليومية التي تكفي لمتابعة وضعك بدلاً من الامتناع عن القياس كلياً. قياس واحد صائماً يومياً وآخر بعد الوجبة الأكثر كربوهيدرات يُعطيك معلومات ذات قيمة حتى وإن لم يكن بإمكانك القياس أربع أو خمس مرات يومياً.",
+            "جهاز القياس المنزلي يعطي قيماً مشابهة لمختبر الدم لكن ليست مطابقة. الفرق المقبول بين الجهاز والمختبر لا يتجاوز 15%. إذا شككتِ في دقة جهازك اصطحبيه في زيارة المختبر وقيسي الاثنين في نفس الوقت وقارني. احتفظي بسجل مؤرخ لكل قراءاتك لأن النمط عبر أيام وأسابيع أهم طبياً من أي قراءة واحدة منعزلة."
+          ]
+        }
+      ],
+      "tie": "سهتاك يتيح لك تسجيل قراءات السكر اليومية وتتبع نمطها عبر الوقت، مما يُسهّل مشاركة بياناتك مع طبيبك في كل زيارة.",
+      "faqs": [
+        {
+          "q": "هل سكري الحمل يعني أنني سأُصاب بالسكري للأبد؟",
+          "a": "لا، في معظم الحالات يختفي سكري الحمل بعد الولادة. لكن إصابتك به تعني أن لديك قابلية أعلى للإصابة بسكري النوع الثاني لاحقاً. الفحص الدوري وتعديل نمط الحياة يُقلّلان هذا الخطر بشكل كبير. النساء اللواتي فقدن الوزن الزائد ومارسن الرياضة بعد سكري الحمل لديهن معدلات تحول أقل بكثير."
+        },
+        {
+          "q": "هل يمكنني أكل الفاكهة في سكري الحمل؟",
+          "a": "نعم، لكن بكميات منتظمة ومع مراعاة التوقيت. الفواكه الطازجة تحتوي على ألياف تُبطئ امتصاص السكر مقارنة بعصائرها. البطيخ والتمر والمانغو والعنب ترفع السكر بشكل أسرع مقارنة بالتفاح والكمثرى والخوخ. حصة فاكهة واحدة مع وجبة فيها بروتين خيار مناسب. راقبي قراءة السكر بعد ساعتين لتعرفي مدى تأثير خياراتك."
+        },
+        {
+          "q": "هل الأنسولين يضر الجنين؟",
+          "a": "لا، الأنسولين البشري لا يعبر المشيمة ولا يصل إلى الجنين. المشكلة الحقيقية هي السكر المرتفع غير المُعالَج الذي يعبر المشيمة ويؤثر على الجنين. الأنسولين هو الخيار الأول عالمياً لسكري الحمل الذي لا يُضبط بالنظام الغذائي."
+        },
+        {
+          "q": "ماذا آكل في رمضان إذا كنت حاملاً ومصابة بسكري الحمل؟",
+          "a": "الصوم في سكري الحمل يحمل مخاطر: انخفاض السكر بين وجبتي الإفطار والسحور، وارتفاع حاد بعد الإفطار إذا أُكل بكميات كبيرة. معظم المراجع الطبية لا تُشجع على الصوم في سكري الحمل المُعالَج بالأنسولين. إذا أردت الصوم فناقشي الأمر مع طبيبك الذي يعرف وضعك بالتفصيل."
+        },
+        {
+          "q": "هل ستكون ولادتي قيصرية بسبب سكري الحمل؟",
+          "a": "ليس بالضرورة. سكري الحمل المضبوط جيداً مع جنين بوزن طبيعي لا يمنع الولادة الطبيعية. الأطباء يُوصون بالقيصرية إذا كان الجنين كبيراً جداً (أكثر من 4000-4500 غرام) أو إذا كانت هناك أسباب أخرى تستدعيها. الهدف من ضبط السكر هو تجنب تكبّر الجنين."
+        },
+        {
+          "q": "متى يجب أن أُجري فحص السكر في الحمل إذا لم أكن أعاني من أعراض؟",
+          "a": "الفحص يُجرى بين الأسبوعين 24 و28 لكل حامل بصرف النظر عن الأعراض، لأن سكري الحمل لا يُسبب أعراضاً واضحة في أغلب الحالات. إذا كان لديك عوامل خطر مثل السمنة أو التاريخ العائلي للسكري أو سكري الحمل في حمل سابق، قد يُجرى الفحص في الثلث الأول أيضاً."
+        },
+        {
+          "q": "هل يختلف تشخيص سكري الحمل بين المستشفيات؟",
+          "a": "نعم، وهذا مشكلة حقيقية. دراسة أجريت في الإمارات وجدت أن نسبة سكري الحمل تتراوح بين 14% و26% في نفس المجتمع حسب المعيار المستخدم. بعض المستشفيات تتبع معايير WHO وIADPSG (75 غرام غلوكوز)، وبعضها يتبع معايير أمريكية قديمة (100 غرام). لذا من المهم أن تعرفي أي معيار يستخدم مستشفاك لتفسري نتيجتك بشكل صحيح."
+        },
+        {
+          "q": "هل الرضاعة الطبيعية مفيدة بعد سكري الحمل؟",
+          "a": "نعم، وبشكل ملحوظ. الرضاعة الطبيعية تستهلك طاقة إضافية مما يُساعد على خسارة الوزن ويُحسّن حساسية الأنسولين. الدراسات تُشير إلى أن الرضاعة الطبيعية المستمرة لمدة أطول ترتبط بانخفاض خطر الإصابة بسكري النوع الثاني لدى الأمهات اللواتي أصبن بسكري الحمل. فائدتها تمتد للطفل أيضاً."
+        }
+      ]
+    },
+    "en": {
+      "title": "Gestational diabetes: the glucose test and what follows",
+      "desc": "What the OGTT test measures, how to read your glucose results, what to eat, and the lifelong type 2 diabetes risk most women are never told about.",
+      "keywords": "gestational diabetes guide, OGTT pregnancy test, gestational diabetes diet, gestational diabetes Arab, blood sugar in pregnancy, gestational diabetes after delivery, type 2 diabetes risk after pregnancy",
+      "h1": "Gestational diabetes: from the glucose test to life after delivery",
+      "takeaways": [
+        "Gestational diabetes is not caused by eating badly. Placental hormones create insulin resistance in every pregnancy, and some women's bodies cannot compensate fully.",
+        "The Middle East and North Africa has among the highest rates of gestational diabetes in the world.",
+        "Diet and gentle exercise control blood sugar in most cases without medication.",
+        "Gestational diabetes resolves after delivery in most cases, but the lifelong risk of type 2 diabetes is more than ten times higher than for women who were never affected.",
+        "Every woman who has had gestational diabetes needs a glucose test every one to three years for the rest of her life."
+      ],
+      "sections": [
+        {
+          "h2": "What is gestational diabetes and how does it happen?",
+          "paras": [
+            "Gestational diabetes (GDM) is high blood sugar first detected during pregnancy in a woman who did not have diabetes before. The cause is not a suddenly failing pancreas. As the placenta grows, it produces hormones, particularly human placental lactogen, that progressively resist the action of insulin. In healthy pregnancies, the pancreas compensates by producing more insulin. In women who begin pregnancy with limited pancreatic reserve, significant body fat, or underlying undiagnosed insulin resistance, this compensation proves insufficient and blood glucose rises.",
+            "Gestational diabetes rarely causes obvious symptoms. You may notice slightly more thirst, tiredness, or frequent urination, but these are common in any pregnancy. This is why symptoms alone cannot be relied on, and a blood glucose test is necessary for every pregnant woman regardless of how she feels.",
+            "Being diagnosed with gestational diabetes does not mean you were doing anything wrong before or during the pregnancy. It reflects a combination of individual physiology and the hormonal demands of pregnancy. Understanding the cause clearly matters because it removes guilt and allows you to focus on what is actually useful, which is managing blood glucose through diet, activity, and when necessary medication."
+          ],
+          "visual": {
+            "type": "donut",
+            "value": 20,
+            "label": "of pregnant women in MENA may be affected when the most sensitive diagnostic criteria are applied",
+            "tone": "warn",
+            "source": "Al-Rifai RH et al, Frontiers in endocrinology, 2021",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/34512543/"
+          }
+        },
+        {
+          "h2": "Why is gestational diabetes so common in the Arab world?",
+          "paras": [
+            "A 2021 systematic review and meta-analysis covering studies from across the Middle East and North Africa between 2000 and 2019, published in Frontiers in Endocrinology, found that GDM prevalence in the region is among the highest globally. A 2022 UAE cohort study, the Mutaba'ah Study, compared six different diagnostic criteria in the same population and found GDM rates ranging from 14% to 26% depending on which criteria were applied. This wide variation reflects the absence of a regionally agreed standard, which has real implications for how results are communicated to patients.",
+            "Several factors converge in the region to raise gestational diabetes risk. Obesity rates in Gulf countries and Egypt are among the highest in the world, and many women begin pregnancy carrying excess weight. A 2020 study of Saudi women, published in Frontiers in Endocrinology, found that the presence of metabolic syndrome at the start of pregnancy significantly increased the likelihood of developing GDM, suggesting that many women already have undiagnosed insulin resistance before conception.",
+            "Physical activity is restricted by extreme summer heat across much of the region, and traditional diets are becoming increasingly reliant on refined carbohydrates, processed food, and sweetened drinks. Later age at first pregnancy also raises risk. These factors compound each other, and the regional health burden from gestational diabetes and its downstream consequences for type 2 diabetes is substantial."
+          ]
+        },
+        {
+          "h2": "How the glucose tolerance test works and what it measures",
+          "paras": [
+            "The oral glucose tolerance test (OGTT) is the standard diagnostic test for gestational diabetes. It is performed between weeks 24 and 28 in women without specific risk factors, and earlier for those with a history of gestational diabetes, obesity, or a strong family history of type 2 diabetes. You fast for 8 to 12 hours, a fasting blood sample is taken, you then drink a solution containing 75 grams of dissolved glucose, and further blood samples are taken at one hour and two hours.",
+            "The one-hour and two-hour samples show how effectively your body clears the glucose load. In a healthy glucose metabolism, the spike after the drink returns to near-fasting levels within two hours. In gestational diabetes, one or more of the three readings exceeds the diagnostic threshold. Some hospitals in the region still use a 100-gram glucose load with four samples following older American criteria, so the thresholds your doctor uses may differ from those below.",
+            "If your result is borderline, it is worth asking which diagnostic standard your hospital follows before assuming the result is normal. The difference between a 1-hour result of 9.8 and 10.0 mmol/L is clinically real when the threshold is 10.0 but may be handled differently by different hospitals."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "GDM diagnostic thresholds: 75g OGTT (WHO/IADPSG criteria)",
+            "head": ["Sample timing", "Blood glucose (mmol/L)", "Blood glucose (mg/dL)", "Interpretation"],
+            "rows": [
+              ["Fasting", "5.1 or above", "92 or above", "GDM if any single threshold is met"],
+              ["1 hour after drink", "10.0 or above", "180 or above", "GDM"],
+              ["2 hours after drink", "8.5 or above", "153 or above", "GDM"]
+            ]
+          }
+        },
+        {
+          "h2": "What happens if gestational diabetes is not managed?",
+          "paras": [
+            "Elevated glucose in the mother's blood crosses the placenta and reaches the baby. The baby's own pancreas responds by producing extra insulin, driving growth. The typical result is macrosomia: a baby weighing above 4 kilograms, which increases the likelihood of a caesarean section, shoulder dystocia during vaginal delivery, and perineal injury. A large baby does not automatically mean a healthy baby.",
+            "In the hours after delivery, the supply of maternal glucose stops abruptly, but the baby's pancreas continues producing elevated insulin. This causes neonatal hypoglycaemia (low blood sugar in the newborn), which requires careful monitoring and early feeding. Repeated or prolonged unrecognised hypoglycaemia can affect the newborn brain.",
+            "Over the longer term, children born to mothers with gestational diabetes carry higher risks of obesity and type 2 diabetes in childhood and adulthood. This is not a certainty for any individual child, but it underlines why controlling blood glucose during pregnancy benefits not only the delivery outcome but also the child's long-term health."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "Seek same-day assessment if you experience",
+            "items": [
+              "Noticeable reduction or cessation of fetal movement",
+              "Fasting blood glucose consistently above 7.0 mmol/L (126 mg/dL) despite dietary changes",
+              "Severe headache with visual disturbance",
+              "Sudden swelling of the hands, face, or around the eyes",
+              "Symptoms of low blood sugar if on medication: shakiness, cold sweats, or dizziness"
+            ]
+          }
+        },
+        {
+          "h2": "What to eat: the diet that controls gestational diabetes",
+          "paras": [
+            "Diet is the first and most effective treatment for gestational diabetes, controlling blood glucose without medication in 70% to 80% of cases. The goal is not to eliminate carbohydrates entirely but to choose slower-releasing types and spread them across smaller, more frequent meals. Three main meals with two or three planned snacks between them produce a steadier glucose curve than two large meals. A 2020 review in Nutrients confirmed that carbohydrate quality and distribution remain the cornerstone of GDM management.",
+            "Slow-release carbohydrates (whole grains, legumes, freekeh, bulgur, chickpeas, lentils) cause a more gradual glucose rise than white rice, white bread, and sugary foods. In Levantine and North African cooking, freekeh or bulgur can replace white rice; ful medames (fava beans) and hummus are naturally high in protein and fibre. The problem is not traditional food itself but the shift toward refined, processed versions of those dishes.",
+            "Concentrated sugars require particular care. Dates, honey, fruit juice, sweetened tea and coffee, soft drinks, and Arabic pastries all raise blood glucose sharply. This does not mean fruit is forbidden, but a single date or two taken with a meal containing protein and fibre is very different from three or four dates on an empty stomach. Sweetened tea taken repeatedly through the day adds a significant glucose load that many women do not account for when they describe their diet to their doctor."
+          ]
+        },
+        {
+          "h2": "Exercise: safe physical activity in gestational diabetes",
+          "paras": [
+            "Physical activity increases muscle cells' sensitivity to insulin, allowing glucose to enter cells without requiring as much insulin from the pancreas. A 2022 systematic review found that both aerobic exercise and resistance training improve glycaemic control and pregnancy outcomes in gestational diabetes. The effect begins after a single session and is cumulative with consistent activity.",
+            "Walking is the simplest and safest option for most pregnant women. A 30-minute walk at a comfortable pace after the main meal helps flatten the post-meal glucose peak. Swimming and water aerobics are particularly practical in hot-climate countries. Light resistance exercises such as wall squats or gentle weight training are also acceptable when there are no obstetric contraindications. Exercise does not need to be strenuous to be effective in gestational diabetes.",
+            "Avoid exercises that carry a fall risk, involve lying flat on the back after the first trimester, or require high abdominal pressure. If you were not exercising regularly before pregnancy, do not start an intensive programme. Begin with 10-minute walks and increase gradually. Always check with your doctor if you have placenta praevia, cervical incompetence, preterm labour risk, or any other condition that might restrict activity."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "A practical post-meal routine to manage blood sugar",
+            "items": [
+              "Wait 15 minutes after eating, then walk for 20 to 30 minutes at a comfortable pace",
+              "Avoid sitting or lying down immediately after a meal",
+              "Test blood glucose 2 hours after the start of the meal: aim for below 6.7 mmol/L (120 mg/dL)",
+              "Log the meal and the reading so you can identify which foods spike your glucose most",
+              "Share your readings with your doctor or midwife at least weekly"
+            ]
+          }
+        },
+        {
+          "h2": "When is medication or insulin needed?",
+          "paras": [
+            "If diet and exercise do not achieve blood glucose targets after one to two weeks, medication is started. Typical targets are: fasting glucose below 5.3 mmol/L (95 mg/dL), one-hour post-meal glucose below 7.8 mmol/L (140 mg/dL), and two-hour post-meal glucose below 6.7 mmol/L (120 mg/dL). Your doctor may set slightly different thresholds based on local protocol.",
+            "Metformin is sometimes used in gestational diabetes and is an accepted option, though it crosses the placenta. Insulin is the globally preferred treatment because it does not cross the placenta, its dose can be adjusted precisely to daily glucose readings, and its safety record in pregnancy is extensive. Fear of injections is a common and understandable barrier, but insulin is not a sign of failure and does not indicate a more serious form of the condition. It simply means your body's response to diet and activity alone was not sufficient.",
+            "Insulin dose is calculated by your doctor based on your glucose readings, your weight, and how far along the pregnancy is. It changes as the pregnancy progresses and placental hormones intensify. Never adjust your insulin dose on your own. Bring your glucose log to every appointment so your doctor has the data needed to make precise adjustments."
+          ]
+        },
+        {
+          "h2": "After delivery: the risk that most women are never told about",
+          "paras": [
+            "In most cases gestational diabetes resolves within days to weeks of delivery. The glucose test taken six to twelve weeks postpartum usually returns to normal. However, resolving does not mean the risk is gone. A 2020 BMJ systematic review and meta-analysis covering over one million women found that women with a history of gestational diabetes have more than ten times the risk of developing type 2 diabetes compared with women who were not affected.",
+            "The recommended schedule is a glucose test six to twelve weeks after delivery to confirm resolution, then repeat testing every one to three years for life. Many women in the Arab world are never told about this recommendation, and many doctors do not mention it at the postpartum visit. If your doctor has not raised it, ask specifically: what is my follow-up plan for diabetes screening?",
+            "Breastfeeding for longer periods is associated with lower rates of progression to type 2 diabetes in mothers with a history of gestational diabetes, in addition to its well-established benefits for the baby. Returning to a healthy body weight after delivery, maintaining regular physical activity, and reducing refined carbohydrates are the three lifestyle changes with the best evidence for preventing type 2 diabetes in this high-risk group."
+          ],
+          "visual": {
+            "type": "timeline",
+            "title": "Follow-up schedule after gestational diabetes",
+            "items": [
+              {"when": "6-12 weeks postpartum", "what": "Fasting glucose or OGTT to confirm resolution of gestational diabetes"},
+              {"when": "Every 1-3 years", "what": "Repeat glucose screening for life to catch type 2 diabetes early"},
+              {"when": "Before next pregnancy", "what": "Glucose test to confirm no pre-existing diabetes before conception"},
+              {"when": "Every subsequent pregnancy", "what": "Early GDM screening, as risk is significantly higher after a first episode"}
+            ]
+          }
+        },
+        {
+          "h2": "Home glucose monitoring: the practical questions",
+          "paras": [
+            "A home glucometer is an essential tool when gestational diabetes is diagnosed. Typical targets for home monitoring are: fasting below 5.3 mmol/L (95 mg/dL) and one to two hours after meals below 7.8 or 6.7 mmol/L respectively, depending on your doctor's preference. Ask your doctor for your specific targets in writing, because they vary between protocols.",
+            "Test strips and lancets are a recurring cost that can be a real barrier, particularly in resource-limited settings. If cost is a concern, discuss with your doctor the minimum number of daily readings that give enough information to manage your glucose safely, rather than stopping monitoring altogether. Even fasting readings alone and one post-meal reading per day provide meaningful data.",
+            "A home glucometer typically reads 10 to 15% lower or higher than a laboratory venous sample, which is within the accepted range. If you are uncertain whether your device is accurate, bring it to your next laboratory blood draw and compare both readings taken at the same time. Keep a dated log of all readings, because the pattern over days and weeks is more informative than any single number."
+          ]
+        }
+      ],
+      "tie": "Sihtak lets you log your daily blood glucose readings and track the pattern over time, making it straightforward to share your data with your doctor at every appointment.",
+      "faqs": [
+        {
+          "q": "Does gestational diabetes mean I will have diabetes permanently?",
+          "a": "No. In the vast majority of cases, gestational diabetes resolves after delivery. However, having gestational diabetes means your lifetime risk of type 2 diabetes is significantly elevated, more than ten times higher than for women who were not affected. Regular glucose testing and sustained lifestyle changes after delivery substantially reduce that risk."
+        },
+        {
+          "q": "Can I eat fruit if I have gestational diabetes?",
+          "a": "Yes, but portion size and type matter. Whole fruit contains fibre that slows glucose absorption compared to fruit juice. Watermelon, dates, mango, and grapes raise glucose faster than apples, pears, or plums. A single portion of fruit eaten with a protein-containing meal or snack is a reasonable approach. Check your two-hour reading after different fruits to see how your body responds."
+        },
+        {
+          "q": "Is insulin safe for the baby?",
+          "a": "Yes. Human insulin does not cross the placenta and does not reach the baby. The real risk to the baby is uncontrolled high blood glucose, which does cross the placenta. Insulin is the preferred first-choice medication for gestational diabetes that cannot be controlled by diet, precisely because it is safe and effective without affecting the baby directly."
+        },
+        {
+          "q": "Can I fast during Ramadan if I have gestational diabetes?",
+          "a": "Fasting with gestational diabetes carries real risks: low blood sugar between iftar and suhoor, and a sharp glucose spike after a large iftar meal. Most medical guidance does not encourage fasting in gestational diabetes managed with insulin, because the timing of meals is a critical part of glucose management. If you wish to fast, discuss it with your doctor before Ramadan begins, as the answer depends on your current glucose control and whether you are on medication."
+        },
+        {
+          "q": "Will I need a caesarean because of gestational diabetes?",
+          "a": "Not necessarily. Well-controlled gestational diabetes with a baby of normal size does not in itself require a caesarean section. Caesarean delivery is recommended when the baby's estimated weight exceeds 4,000 to 4,500 grams, or when other obstetric reasons apply. Controlling blood glucose throughout pregnancy is specifically aimed at preventing fetal overgrowth and keeping delivery options open."
+        },
+        {
+          "q": "When should I have the glucose tolerance test?",
+          "a": "Between weeks 24 and 28 for all pregnant women, regardless of symptoms, because gestational diabetes rarely produces noticeable symptoms. If you have risk factors such as obesity, a previous episode of gestational diabetes, polycystic ovary syndrome, or a family history of type 2 diabetes, your doctor may test in the first trimester as well."
+        },
+        {
+          "q": "Why might two hospitals give different results for the same test?",
+          "a": "Because they use different diagnostic criteria. The WHO and IADPSG recommend a 75-gram glucose load with three readings; some hospitals use a 100-gram load with four readings and different thresholds. A UAE study found that the same population showed gestational diabetes rates ranging from 14% to 26% depending on which criteria were applied. Ask your hospital which standard they follow so you can interpret your result correctly."
+        },
+        {
+          "q": "Is breastfeeding recommended after gestational diabetes?",
+          "a": "Yes, and it has specific benefits beyond infant nutrition. Breastfeeding for longer periods is associated with lower rates of progression to type 2 diabetes in mothers with a history of gestational diabetes. It also helps with postpartum weight management. Children who are breastfed for longer have a lower risk of obesity and diabetes later in life."
+        }
+      ]
+    }
+  }
+}

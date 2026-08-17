@@ -1,0 +1,369 @@
+{
+  "slug": "child-asthma-guide",
+  "category": "child-health",
+  "chip_ar": "صحة الطفل",
+  "chip_en": "Child Health",
+  "date_iso": "2026-08-04",
+  "sources": [
+    {
+      "label": "Alahmadi TS, Hegazi MA, Alsaedi H et al: Prevalence and Risk Factors of Asthma in Children and Adolescents in Rabigh, Western Saudi Arabia, Children (Basel, Switzerland), 2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36832375/"
+    },
+    {
+      "label": "Alomary SA, Althagafi WA, Al Madani AJ et al: The burden of asthma among children and adolescents in Saudi Arabia: A national cross-sectional survey, The journal of allergy and clinical immunology. Global, 2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37779544/"
+    },
+    {
+      "label": "Litt HK, Press VG, Hull A et al: Association between inhaler technique and confidence among hospitalized children with asthma, Respiratory medicine, 2020",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33152551/"
+    },
+    {
+      "label": "Bush A, Griffiths C: Improving treatment of asthma attacks in children, BMJ (Clinical research ed.), 2017",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29288167/"
+    },
+    {
+      "label": "Illi S, von Mutius E: House-dust mite allergen exposure and the development of asthma in children, Annals of allergy, asthma & immunology, 2003",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12546328/"
+    },
+    {
+      "label": "Kimel LS: Assisting Students With Asthma Inhaler Technique and Knowledge, NASN school nurse (Print), 2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35100908/"
+    }
+  ],
+  "content": {
+    "en": {
+      "title": "Asthma in children: inhalers, spacers and school",
+      "desc": "A practical guide to childhood asthma covering spacer technique, dust and smoke triggers, school action plans, and when to seek emergency help.",
+      "keywords": "child asthma inhaler spacer, asthma children symptoms, asthma triggers home dust smoke, asthma school action plan, childhood asthma Middle East, asthma attack child emergency",
+      "h1": "Asthma in children: inhalers, spacers, school plans and when to worry",
+      "takeaways": [
+        "Correct spacer technique delivers far more medicine to the lungs than an inhaler without a spacer, especially in children under 8.",
+        "Dust mites, tobacco smoke, and shisha smoke at home are among the most modifiable triggers for children in the Arab world.",
+        "A written school action plan means that teachers and school nurses know exactly what to do when a child has symptoms.",
+        "A blue reliever inhaler (salbutamol) treats symptoms. A brown or orange preventer inhaler (steroid) prevents them. Both have different roles.",
+        "If a child cannot speak in sentences, is not improving after a reliever dose, or is breathing very fast, go to hospital immediately."
+      ],
+      "sections": [
+        {
+          "h2": "What is asthma and what happens during an attack?",
+          "paras": [
+            "Asthma is a chronic condition of the airways, the tubes that carry air in and out of the lungs. In a child with asthma, these airways are persistently inflamed, meaning they are sensitive and prone to swelling. When exposed to a trigger such as dust, cold air, or a respiratory infection, the muscles around the airways tighten, the lining swells, and extra mucus is produced. The result is the familiar picture: a tight chest, a persistent cough, wheezing (a whistling sound when breathing out), and shortness of breath.",
+            "Between episodes, many children with asthma feel and look completely normal. This is one of the reasons asthma is sometimes diagnosed late: a child who coughs every night or gets wheezy with exercise may be accepted as normal by a family who has not seen what adequate treatment looks like.",
+            "A 2023 study of children and adolescents in western Saudi Arabia found asthma present in a significant proportion of those assessed, consistent with global patterns that show higher rates in arid, dusty environments. A national cross-sectional survey of Saudi children published in 2022 confirmed asthma is a leading cause of school absences and unplanned hospital visits in the region, underscoring that this is not a mild or occasional problem for many families.",
+            "Asthma is a chronic condition that cannot be cured, but it can be controlled very well with the right treatment and the right understanding of triggers. A child whose asthma is well controlled should be able to sleep through the night without symptoms, exercise normally, and miss no or very little school."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "Go to hospital immediately if your child:",
+            "items": [
+              "Cannot speak in full sentences because of breathlessness",
+              "Is not improving 15 to 20 minutes after a reliever inhaler",
+              "Has blue or pale lips or fingernails",
+              "Is breathing very fast with visible rib movements",
+              "Seems exhausted or confused"
+            ]
+          }
+        },
+        {
+          "h2": "What triggers asthma and which ones are most important at home?",
+          "paras": [
+            "Triggers are things that provoke the airways of a child with asthma into reacting. Common triggers include respiratory infections such as colds and flu, which are the most common trigger of all. House dust mites, which live in mattresses, pillows, carpets, and upholstered furniture, are one of the most studied and modifiable indoor triggers. A 2003 study showed a clear relationship between dust mite allergen levels in the home and the development of asthma in children.",
+            "In Arab households, tobacco smoke and shisha smoke are particularly important regional triggers. Shisha smoke is not safer than cigarette smoke. A single shisha session produces smoke volumes many times greater than a single cigarette, and the chemicals are similar. A child who lives in a home where shisha is smoked regularly is being exposed to a sustained airway irritant that undermines the best medication. This is worth raising directly with families, because the impact can be very large.",
+            "Other common triggers include pollen from plants and trees, mould spores particularly in damp conditions, pet fur and dander, cold air, exercise (which can be managed with a reliever inhaler before activity, not avoided), strong smells from cleaning products, perfumes, and incense, and emotional stress or upset. A child does not have to react to all of these. Most children with asthma have a smaller number of personal triggers, and identifying them is one of the most practical steps a family can take.",
+            "Air pollution from traffic and construction dust is an important outdoor trigger in many Arab cities. On high-pollution days, keeping windows closed and reducing outdoor play during midday hours reduces exposure. Sand and dust storms, common in parts of the Gulf and Iraq, can provoke severe asthma attacks and should prompt families to ensure preventer medicine has been taken and a reliever is immediately accessible."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Common asthma triggers and what you can do about them",
+            "head": ["Trigger", "What helps at home"],
+            "rows": [
+              ["Dust mites", "Encase mattress and pillow in dust-mite covers, wash bedding at 60C weekly"],
+              ["Tobacco or shisha smoke", "No smoking indoors, especially near the child"],
+              ["Mould", "Fix damp, ventilate bathrooms, use extractor fans"],
+              ["Pet fur and dander", "Keep pets out of the child's bedroom"],
+              ["Cold air", "Use reliever inhaler before going outside in cold weather"],
+              ["Exercise", "Use reliever inhaler 10 minutes before activity, do not avoid exercise"]
+            ]
+          }
+        },
+        {
+          "h2": "Understanding inhalers: reliever and preventer",
+          "paras": [
+            "The two main types of inhaler for asthma are the reliever and the preventer, and they work in completely different ways. Understanding this difference is one of the most important things a family can do.",
+            "The reliever inhaler, most commonly salbutamol (also sold as Ventolin or Salamol), is usually blue. It acts quickly, within 3 to 5 minutes, by relaxing the muscles around the airways. It is taken when symptoms appear, or before exercise to prevent exercise-induced symptoms. It is not a long-term fix. Using a reliever more than twice a week for symptoms (not including pre-exercise doses) suggests that asthma is not well controlled and that a preventer inhaler is needed.",
+            "The preventer inhaler contains a low-dose inhaled corticosteroid, most commonly budesonide or fluticasone. It is usually brown, orange, or maroon. It works by reducing the underlying inflammation in the airways and must be taken every day, even when the child feels fine, for it to work. It takes 1 to 2 weeks of daily use to build full effectiveness. Families often stop the preventer when the child seems well, which allows inflammation to return and the next infection or trigger to cause a more severe attack. The preventer does not open the airways; it reduces the tendency for them to close.",
+            "Some children are prescribed a combination inhaler that contains both a preventer steroid and a long-acting bronchodilator in the same device. This simplifies the regimen. A specialist, not a pharmacist or general practitioner alone, should guide this choice."
+          ]
+        },
+        {
+          "h2": "How to use a spacer correctly: the most important practical skill",
+          "paras": [
+            "A spacer is a plastic chamber that attaches to the inhaler and holds the puff of medicine briefly so that the child has time to breathe it in slowly and deeply. Without a spacer, much of the medicine hits the back of the throat and is swallowed rather than reaching the lungs. A 2020 study confirmed that poor inhaler technique is directly associated with worse asthma outcomes in children hospitalised with attacks. With a spacer and correct technique, the lungs receive several times more medicine than without one.",
+            "Children under about 8 years cannot coordinate pressing the inhaler and breathing in at the same time, which makes a spacer not optional but essential. Older children can sometimes manage without one, but using a spacer is almost always more effective. Every child who uses a pressurised metered-dose inhaler (pMDI, the standard pump-type inhaler) should have a spacer.",
+            "A spacer needs to be cleaned correctly or it builds up a static charge that attracts the medicine particles to the walls of the chamber rather than letting them reach the child's lungs. Wash the spacer in warm soapy water, do not rinse it, and let it air dry. This leaves a thin film that reduces static. Replace the spacer every 6 to 12 months or when it is cracked or dirty."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "How to use a spacer correctly",
+            "items": [
+              "Shake the inhaler well for 5 seconds before use",
+              "Attach the inhaler firmly to the back of the spacer",
+              "Ask the child to breathe out gently, then seal their lips around the spacer mouthpiece",
+              "Press the inhaler once to release one puff into the spacer",
+              "The child breathes in slowly and deeply, then holds the breath for 5 to 10 seconds if they can",
+              "Wait 30 to 60 seconds before repeating for a second puff",
+              "If the child is too young for a mouthpiece, use the mask attachment and hold it firmly but gently over nose and mouth"
+            ]
+          }
+        },
+        {
+          "h2": "How many puffs during an attack and when to escalate?",
+          "paras": [
+            "Knowing what to do in the first 20 minutes of an asthma attack can prevent a moderate episode from becoming a severe one. When a child starts wheezing, coughing severely, or complaining of chest tightness, the immediate step is to give the reliever inhaler with a spacer. Give 2 to 4 puffs, one at a time, and wait. If there is no improvement after 15 to 20 minutes, give another 2 to 4 puffs.",
+            "If the child is not improving after this second round, or if they are getting worse at any point, go to hospital. Do not wait. In severe attacks, up to 10 puffs of salbutamol may be given using a spacer before reaching hospital, one puff at a time, but this does not replace emergency care: it buys time while you travel.",
+            "A 2017 article in the BMJ emphasised that one of the most consistent findings in audit of paediatric asthma deaths was delay in seeking emergency help. The family tried repeated reliever doses at home while the child deteriorated. The lesson is clear: if the first round of reliever does not produce clear improvement within 20 minutes, the child needs to be seen by a medical team. A written asthma action plan, discussed in the next section, makes this clearer and removes the guesswork.",
+            "Children who are having an asthma attack should sit upright, leaning slightly forward. Do not lay them down. Staying calm as the adult matters: a child who sees a parent panicking will breathe faster and feel worse. Reassure them while you give the inhaler and prepare to go to hospital if needed."
+          ]
+        },
+        {
+          "h2": "A school asthma action plan: why it matters and what to put in it",
+          "paras": [
+            "A school asthma action plan is a simple written document that tells teachers and school nurses exactly what to do when a child develops symptoms at school. Studies including a 2022 report in NASN School Nurse confirm that children whose schools have a copy of their action plan are managed more consistently and recover faster from school-day attacks than those without one.",
+            "The action plan should state clearly: the child's name and photograph, their specific triggers if known, the name and dose of their reliever inhaler, how many puffs to give when symptoms appear, when to call the parents, and when to call an ambulance without waiting for the parents. It should also state that the child must be allowed to carry their reliever inhaler on their person, not locked in a bag at reception.",
+            "In many schools in the region, inhalers are taken from children and stored by the teacher or the school nurse, which means the child cannot access them immediately during an attack. This delay is dangerous. The prevailing standard of care worldwide is that children who can self-administer their inhaler should carry it with them and be allowed to use it without having to request permission. Advocate for this with the school directly, and put the instruction in the action plan.",
+            "The action plan should be updated every year or when the treatment changes. The specialist or paediatrician managing the child's asthma can help write it or sign it, which gives it more authority with school administration."
+          ]
+        },
+        {
+          "h2": "Preventer inhalers and long-term control: the daily discipline",
+          "paras": [
+            "The most common reason asthma is poorly controlled in children is not that the medication does not work, but that it is not taken consistently. The preventer inhaler must be taken every day, morning and evening, even when the child is completely well. Families who stop it once the child stops wheezing set the stage for the next flare.",
+            "Building the preventer into an existing daily routine makes it much easier to sustain. Many families find that attaching it to tooth-brushing morning and night, or to the routine before leaving for school and before going to bed, removes the need to remember it separately. A visible reminder, such as keeping the inhaler on the bathroom shelf, helps.",
+            "There is often worry about long-dose steroid inhalers in children, particularly around growth. The inhaled steroids in preventer inhalers are at very low doses compared to oral steroids and the evidence shows that the impact on growth is minimal, typically less than 1 centimetre over long periods, and far outweighed by the benefit of controlled asthma. A child with poorly controlled asthma may also have reduced growth from chronic inflammation and frequent missed school days. Discuss specific concerns with the specialist.",
+            "Rinsing the mouth and spitting after using a preventer inhaler reduces the risk of oral thrush, a fungal infection in the mouth that can occasionally occur with inhaled steroids. Teach children this from the beginning so it becomes automatic."
+          ]
+        },
+        {
+          "h2": "Exercise, sport, and school physical education",
+          "paras": [
+            "Exercise-induced asthma, where symptoms appear during or shortly after physical activity, is very common and leads many families and teachers to restrict a child's sport or PE participation unnecessarily. Exercise is important for all children, including those with asthma, and with the right approach most children can participate fully.",
+            "The key practical step is to use the reliever inhaler 10 to 15 minutes before exercise. This pre-medicates the airways and prevents the exercise-triggered tightening for most children. The child should also have their reliever inhaler available on the sideline during sport, not locked away.",
+            "Some sports are better tolerated than others in asthma. Swimming is generally well tolerated because the air near water is humid and warm. Long-distance running in cold, dry air tends to be a stronger trigger. Indoor sports in dusty environments, such as gymnastics on old mats or football on dusty outdoor pitches, can provoke symptoms. Identifying which activities trigger symptoms allows a more targeted management plan rather than blanket restriction.",
+            "A teacher who understands that a child's need to use their inhaler before PE is a medical requirement, not an attempt to avoid exercise, makes an enormous practical difference. Including this point in the school action plan, and discussing it with the PE teacher directly, is worth the effort."
+          ]
+        },
+        {
+          "h2": "When asthma is difficult to control: reviewing the plan",
+          "paras": [
+            "If a child is using their reliever inhaler more than twice a week for symptoms, waking at night with coughing or wheezing more than once a week, or missing school regularly because of asthma, the treatment plan needs reviewing. This is not a failure of the child or the parents. It usually means that the preventer dose needs adjusting, that there is an unidentified trigger, that the inhaler technique is not correct, or that a different type of preventer or a combination inhaler is needed.",
+            "Annual reviews with a specialist or a trained paediatric nurse are the best way to stay on top of asthma control. In these reviews, the clinician will check inhaler technique, ask about the frequency of symptoms and reliever use, assess growth, and consider whether the current treatment step is still appropriate.",
+            "Some children outgrow asthma as the airways mature during adolescence. Others continue to have asthma into adulthood. It is not possible to predict this reliably in an individual child, so continuing treatment and monitoring is important even if symptoms seem to have disappeared for a period."
+          ]
+        }
+      ],
+      "tie": "Use Sihtak to log your child's asthma symptoms, reliever use, and nights disturbed each week. This data, over a month or two, is the most useful thing you can bring to a review appointment. A pattern that shows symptoms worsening at weekends or after visiting a particular house can point directly to a trigger that has not been identified.",
+      "faqs": [
+        {
+          "q": "Does my child need to use the inhaler every day even when they feel fine?",
+          "a": "If they have a preventer inhaler, yes. The preventer works by reducing inflammation every day. It is not taken for symptoms; it is taken to prevent symptoms. Stopping it when the child is well is the most common reason asthma flares up again. The reliever inhaler is only used when symptoms appear or before exercise."
+        },
+        {
+          "q": "Is asthma hereditary?",
+          "a": "There is a strong genetic component to asthma. If one parent has asthma, a child has a roughly 25 percent higher chance of developing it. If both parents have asthma or allergies, the risk is higher still. But genes are not the whole story: many children with no family history develop asthma, and many children from affected families do not. Environmental exposures also play a major role."
+        },
+        {
+          "q": "Can we use one spacer for the whole family to save money?",
+          "a": "No. Spacers should not be shared between people. Each child needs their own spacer to prevent cross-infection. Spacers are not expensive and are usually available at pharmacies. In many countries they are dispensed with the initial inhaler prescription."
+        },
+        {
+          "q": "My child had asthma as a young child. Now at age 10 they seem fine. Do they still have it?",
+          "a": "Some children do appear to grow out of asthma symptoms during primary school years, but the underlying tendency of the airways to be sensitive often remains. Many of these children see their asthma return in adolescence or early adulthood, particularly when they start smoking or are exposed to new triggers. A follow-up review with a specialist, even if the child seems symptom-free, is worthwhile."
+        },
+        {
+          "q": "Is it safe to fly with an asthmatic child?",
+          "a": "Yes, with preparation. Carry all inhalers in hand luggage, not in the hold. Bring a letter from the doctor describing the condition and the medication. Keep the reliever inhaler accessible throughout the flight. The cabin air is dry, which can be a trigger for some children, so staying hydrated helps. Check the airline's policy on nebulisers if the child uses one."
+        },
+        {
+          "q": "Why does my child cough at night but not during the day?",
+          "a": "Asthma symptoms, especially coughing, are typically worse in the early hours of the morning because of natural changes in the level of cortisol in the body, cooler bedroom temperatures, and lying flat, which affects how the airways drain. Night coughing that disturbs sleep more than once a week is a sign that asthma is not well controlled and the treatment plan should be reviewed."
+        },
+        {
+          "q": "Can a child have asthma even if the peak flow or spirometry test is normal?",
+          "a": "Yes. Lung function tests are often normal between episodes in children with mild to moderate asthma. The diagnosis is usually made on the pattern of symptoms (wheeze, cough, chest tightness that comes and goes) and the response to a trial of reliever treatment, not on a single test result. A specialist can arrange a provocation test or a trial of treatment to clarify the picture."
+        },
+        {
+          "q": "My child has been prescribed a nebuliser for home use. Is that better than an inhaler with a spacer?",
+          "a": "Not for routine use. Studies consistently show that a reliever inhaler with a well-used spacer delivers as much medicine as a nebuliser for most children, is faster, and requires no electricity. Nebulisers have a role in hospital management of severe attacks and for some children who cannot use a spacer at all. For home management of mild to moderate episodes, an inhaler with a spacer is the recommended approach."
+        }
+      ]
+    },
+    "ar": {
+      "title": "الربو عند الأطفال: البخاخات والكراهب والمدرسة",
+      "desc": "دليل عملي لربو الأطفال يشمل تقنية الكراهب، ومحفزات الغبار والدخان في البيت، وخطة المدرسة، ومتى تطلب مساعدة طارئة.",
+      "keywords": "ربو أطفال بخاخ كراهب, أعراض الربو عند الأطفال, محفزات الربو غبار دخان, خطة ربو المدرسة, ربو الطفولة الشرق الأوسط, نوبة ربو الطفل طارئ",
+      "h1": "الربو عند الأطفال: البخاخات والكراهب وخطة المدرسة ومتى تقلق",
+      "takeaways": [
+        "الاستخدام الصحيح للكُراهب (Spacer) يُوصل كميات أكبر بكثير من الدواء إلى الرئتين مقارنةً بالبخاخ وحده، ولا سيما عند الأطفال دون الثامنة.",
+        "عث الغبار (Dust Mites) ودخان التبغ والأرجيلة في المنزل من أبرز المحفزات القابلة للتعديل لدى أطفال العالم العربي.",
+        "خطة الربو المدرسية المكتوبة تُمكّن المعلمين والممرضين من معرفة ما يجب فعله بالضبط حين يُصاب الطفل بالأعراض.",
+        "البخاخ الأزرق المُخفِّف (Salbutamol) يُعالج الأعراض، والبخاخ البني أو البرتقالي الواقي (Steroid) يمنعها. لكل منهما دور مختلف.",
+        "إن لم يستطع الطفل التكلم بجمل كاملة، أو لم يتحسن بعد جرعة المُخفِّف، أو كان تنفسه سريعاً جداً، اذهب فوراً إلى المستشفى."
+      ],
+      "sections": [
+        {
+          "h2": "ما هو الربو وما الذي يحدث خلال النوبة؟",
+          "paras": [
+            "الربو (Asthma) حالة مزمنة في مجاري الهواء، وهي الأنابيب التي تنقل الهواء داخل الرئتين وخارجهما. في الطفل المصاب بالربو، تكون هذه المجاري ملتهبة باستمرار، أي حساسة وعرضة للتورم. عند التعرض لمحفز كالغبار أو الهواء البارد أو عدوى تنفسية، تنقبض العضلات المحيطة بمجاري الهواء ويتورم بطانها ويتكاثر المخاط. النتيجة هي الصورة المعروفة: ضيق في الصدر، وسعال متواصل، وصفير (صوت أزيز عند الزفير)، وضيق في التنفس.",
+            "بين النوبات، يبدو كثير من الأطفال المصابين بالربو طبيعيين تماماً. هذا أحد أسباب تأخر التشخيص: طفل يسعل كل ليلة أو يُصدر أزيزاً عند الحركة قد يُعدّ 'طبيعياً' من أسرة لم ترَ يوماً كيف يبدو الطفل مع العلاج المناسب.",
+            "دراسة أُجريت عام 2023 على أطفال ومراهقين في منطقة رابغ غرب المملكة العربية السعودية وجدت وجود الربو لدى نسبة ملحوظة من المشمولين بالتقييم، وهو ما يتسق مع الأنماط العالمية التي تُظهر معدلات أعلى في البيئات الجافة والمغبرة. مسح وطني شامل للأطفال السعوديين نُشر عام 2022 أكد أن الربو يُعدّ من أبرز أسباب الغياب عن المدرسة وزيارات المستشفى غير المخططة في المنطقة.",
+            "الربو حالة مزمنة لا علاج شافياً لها، لكن يمكن السيطرة عليها بشكل جيد جداً بالعلاج المناسب وفهم المحفزات. الطفل الذي يُسيطر على ربوه ينبغي أن ينام ليله بلا أعراض، ويمارس الرياضة بشكل طبيعي، ويتغيب عن المدرسة بحد أدنى أو لا يتغيب إطلاقاً."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "اذهب إلى المستشفى فوراً إذا كان طفلك:",
+            "items": [
+              "لا يستطيع الكلام بجمل كاملة بسبب ضيق التنفس",
+              "لا يتحسن بعد 15 إلى 20 دقيقة من استخدام البخاخ المُخفِّف",
+              "شفتاه أو أظافره زرقاء أو شاحبة اللون",
+              "يتنفس بسرعة مع رؤية حركة الأضلاع",
+              "يبدو منهكاً أو مرتبكاً"
+            ]
+          }
+        },
+        {
+          "h2": "ما الذي يُحفّز الربو وأيها أهم في البيئة المنزلية؟",
+          "paras": [
+            "المحفزات هي الأشياء التي تدفع مجاري هواء الطفل المصاب بالربو إلى التفاعل. تشمل المحفزات الشائعة: العدوى التنفسية كنزلات البرد والإنفلونزا، وهي أكثر المحفزات شيوعاً. وعث الغبار (House Dust Mites) الذي يعيش في المراتب والوسائد والسجاد والمفروشات، وهو من أكثر المحفزات الداخلية المدروسة والقابلة للتعديل. أظهرت دراسة عام 2003 علاقة واضحة بين مستويات مستضدات عث الغبار في المنزل وتطور الربو عند الأطفال.",
+            "في البيوت العربية، يُعدّ دخان التبغ والأرجيلة من أبرز المحفزات الإقليمية. دخان الأرجيلة ليس أقل خطراً من دخان السيجارة. جلسة أرجيلة واحدة تُنتج كميات من الدخان تفوق بكثير ما تُنتجه سيجارة واحدة، والمواد الكيميائية متشابهة. الطفل الذي يعيش في منزل تُدخَّن فيه الأرجيلة بانتظام يتعرض لمهيّج مستمر لمجاري هوائه يُقوّض أفضل أدوية.",
+            "من المحفزات الشائعة الأخرى: حبوب اللقاح من النباتات والأشجار، والعفن ولا سيما في الظروف الرطبة، ووبر الحيوانات الأليفة ومفرزاتها الجلدية، والهواء البارد، والرياضة (التي يمكن التعامل معها بجرعة من المُخفِّف قبل النشاط لا تجنبها)، والروائح الشديدة من منتجات التنظيف والعطور والبخور، والضغط النفسي. لا يتفاعل الطفل مع جميع هذه المحفزات بالضرورة. لدى معظم الأطفال المصابين بالربو عدد أصغر من المحفزات الشخصية، وتحديدها من أكثر الخطوات العملية التي تستطيع الأسرة اتخاذها.",
+            "تلوث الهواء من حركة السيارات وغبار البناء محفز خارجي مهم في كثير من المدن العربية. في أيام التلوث الشديد، إغلاق النوافذ وتقليل اللعب الخارجي خلال ساعات الظهيرة يُقلل التعرض. العواصف الرملية والغبارية، الشائعة في أجزاء من الخليج والعراق، قد تُثير نوبات ربو حادة وينبغي أن تدفع الأسر إلى التأكد من أخذ الدواء الواقي وجاهزية المُخفِّف."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "محفزات الربو الشائعة وما يمكن فعله في البيت",
+            "head": ["المحفز", "ما يُساعد في البيت"],
+            "rows": [
+              ["عث الغبار", "تغطية المرتبة والوسادة بأغطية واقية، غسل الفراش أسبوعياً عند 60 درجة"],
+              ["دخان التبغ أو الأرجيلة", "عدم التدخين داخل البيت ولا سيما بالقرب من الطفل"],
+              ["العفن", "إصلاح الرطوبة، تهوية الحمامات، استخدام مراوح شفط"],
+              ["وبر الحيوانات الأليفة", "إبعاد الحيوانات عن غرفة الطفل"],
+              ["الهواء البارد", "استخدام المُخفِّف قبل الخروج في الطقس البارد"],
+              ["الرياضة", "استخدام المُخفِّف قبل 10 دقائق من النشاط، لا تجنب الرياضة"]
+            ]
+          }
+        },
+        {
+          "h2": "فهم البخاخات: المُخفِّف والواقي",
+          "paras": [
+            "هناك نوعان رئيسيان من بخاخات الربو: المُخفِّف (Reliever) والواقي (Preventer)، ويعملان بطريقتين مختلفتين تماماً. فهم هذا الفرق من أهم الأشياء التي تستطيع الأسرة القيام بها.",
+            "بخاخ المُخفِّف، الأكثر شيوعاً هو سالبوتامول (Salbutamol)، المعروف أيضاً باسم Ventolin أو Salamol، وهو في الغالب أزرق اللون. يعمل بسرعة خلال 3 إلى 5 دقائق برخاء العضلات المحيطة بمجاري الهواء. يُستخدم عند ظهور الأعراض أو قبل الرياضة للوقاية من الأعراض المحفوزة بالنشاط. ليس علاجاً طويل الأمد. استخدام المُخفِّف أكثر من مرتين في الأسبوع للأعراض (غير حسبة جرعة الوقاية قبل الرياضة) يُشير إلى أن الربو غير مضبوط وأن بخاخاً واقياً ضروري.",
+            "بخاخ الواقي يحتوي على كورتيزون استنشاقي بجرعة منخفضة، الأكثر شيوعاً بوديزونيد (Budesonide) أو فلوتيكازون (Fluticasone). هو في الغالب بني أو برتقالي أو خمري اللون. يعمل بتقليل الالتهاب في مجاري الهواء ويجب أخذه يومياً حتى حين يكون الطفل بخير ليعمل. يستغرق 1 إلى 2 أسبوع من الاستخدام اليومي لتتشكل فعاليته الكاملة. كثيراً ما تتوقف الأسر عن الواقي حين يبدو الطفل بخير، فيعود الالتهاب وتتسبب العدوى أو المحفز التالي في نوبة أشد. الواقي لا يفتح مجاري الهواء، بل يُقلل استعدادها للانقباض.",
+            "بعض الأطفال يُوصف لهم بخاخ مشترك يحتوي على الواقي الكورتيزوني ومُوسِّع طويل المفعول في جهاز واحد. هذا يُبسّط النظام العلاجي. متخصص لا صيدلاني أو طبيب عام وحده يجب أن يُوجّه هذا الاختيار."
+          ]
+        },
+        {
+          "h2": "كيف تستخدم الكُراهب بشكل صحيح: أهم مهارة عملية",
+          "paras": [
+            "الكُراهب (Spacer) غرفة بلاستيكية صغيرة تُثبَّت على البخاخ وتحتجز بخة الدواء لفترة قصيرة تتيح للطفل وقتاً لاستنشاقها ببطء وعمق. بدون الكُراهب، يضرب كثير من الدواء مؤخرة الحلق ويُبتلع بدلاً من الوصول للرئتين. دراسة 2020 أكدت أن ضعف تقنية الاستنشاق مرتبط مباشرةً بنتائج أسوأ للأطفال المستشفَيين بسبب نوبات الربو. مع الكُراهب والتقنية الصحيحة، تستقبل الرئتان كميات أضعاف ما تستقبله بدونه.",
+            "الأطفال دون سن الثامنة تقريباً لا يستطيعون تنسيق الضغط على البخاخ والشهيق في الوقت ذاته، مما يجعل الكُراهب لا خياراً اختيارياً بل ضرورة. الأطفال الأكبر قد يستطيعون أحياناً الاستغناء عنه، لكن الكُراهب في الغالب أكثر فعالية. كل طفل يستخدم بخاخاً ضغطياً قياسياً (pMDI، البخاخ المضخة المعتاد) يجب أن يملك كُراهب.",
+            "يحتاج الكُراهب تنظيفاً صحيحاً وإلا تراكمت فيه شحنة كهرباء ساكنة تشد جزيئات الدواء إلى جدران الغرفة بدلاً من السماح لها بالوصول إلى رئتي الطفل. اغسل الكُراهب بماء دافئ وصابون، لا تشطفه، واتركه يجف في الهواء. يترك هذا طبقة رقيقة تُقلل الشحنة الكهربائية. استبدل الكُراهب كل 6 إلى 12 شهراً أو حين يتشقق أو يتسخ."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "كيف تستخدم الكُراهب بشكل صحيح",
+            "items": [
+              "رج البخاخ جيداً لمدة 5 ثوان قبل الاستخدام",
+              "ثبّت البخاخ بإحكام في مؤخرة الكُراهب",
+              "اطلب من الطفل الزفير برفق، ثم إغلاق شفتيه حول فوهة الكُراهب",
+              "اضغط على البخاخ مرة واحدة لإطلاق بخة واحدة داخل الكُراهب",
+              "يشهق الطفل ببطء وعمق ثم يحبس نفسه 5 إلى 10 ثوان إن استطاع",
+              "انتظر 30 إلى 60 ثانية قبل تكرار البخة الثانية",
+              "إن كان الطفل صغيراً جداً للفوهة، استخدم قناع الوجه وثبّته بلطف على الأنف والفم"
+            ]
+          }
+        },
+        {
+          "h2": "كم بخة خلال النوبة ومتى تتصاعد إلى المستشفى؟",
+          "paras": [
+            "معرفة ما يجب فعله في أول 20 دقيقة من نوبة الربو يمكنها أن تحول دون تحول النوبة المتوسطة إلى حادة. حين يبدأ الطفل بالصفير أو السعال الشديد أو الشكوى من ضيق الصدر، الخطوة الفورية هي إعطاء بخاخ المُخفِّف مع الكُراهب. أعطِ 2 إلى 4 بخات بخة بخة، وانتظر. إن لم يكن هناك تحسن بعد 15 إلى 20 دقيقة، أعطِ 2 إلى 4 بخات أخرى.",
+            "إن لم يتحسن الطفل بعد هذه الجولة الثانية، أو إذا كان يتراجع في أي لحظة، اذهب فوراً إلى المستشفى. لا تنتظر. في النوبات الحادة، قد تُعطى حتى 10 بخات من سالبوتامول (Salbutamol) بالكُراهب بخة بخة قبل الوصول للمستشفى، لكن هذا لا يحل محل الرعاية الطارئة: إنما يشتري وقتاً خلال التنقل.",
+            "مقال نُشر عام 2017 في مجلة BMJ أكد أن أحد أكثر نتائج مراجعات وفيات الربو عند الأطفال اتساقاً كان التأخر في طلب المساعدة الطارئة. الأسرة حاولت تكرار جرعات المُخفِّف في البيت بينما كان الطفل يتدهور. الدرس واضح: إن لم تُنتج الجولة الأولى من المُخفِّف تحسناً واضحاً خلال 20 دقيقة، يحتاج الطفل لفريق طبي. خطة الربو المكتوبة التي نناقشها في القسم التالي تُوضح هذا وتُزيل التخمين.",
+            "الطفل خلال نوبة الربو يجب أن يجلس مستقيماً مائلاً للأمام قليلاً. لا تضعه مستلقياً. بقاؤك هادئاً كبالغ مهم: الطفل الذي يرى والديه مذعوبَين يتنفس أسرع ويشعر بحال أسوأ. طمئنه بينما تعطيه البخاخ وتستعد للذهاب إلى المستشفى إن احتاج."
+          ]
+        },
+        {
+          "h2": "خطة الربو المدرسية: لماذا تهم وماذا تضع فيها؟",
+          "paras": [
+            "خطة الربو المدرسية وثيقة مكتوبة بسيطة تُخبر المعلمين والممرضة المدرسية بما يجب فعله بالضبط حين تظهر على الطفل أعراض الربو في المدرسة. دراسات تشمل تقريراً نُشر عام 2022 في NASN School Nurse تؤكد أن الأطفال الذين تملك مدارسهم نسخة من خطة الربو يُدارون بشكل أكثر اتساقاً ويتعافون أسرع من النوبات التي تحدث خلال اليوم الدراسي مقارنةً بالذين لا تملك مدارسهم خطة.",
+            "يجب أن تذكر الخطة بوضوح: اسم الطفل وصورته، ومحفزاته المعروفة إن وجدت، واسم بخاخ المُخفِّف وجرعته، وعدد البخات التي تُعطى حين تظهر الأعراض، ومتى يُتصل بالوالدين، ومتى تُستدعى سيارة الإسعاف دون انتظار الوالدين. يجب أن تذكر أيضاً أنه يُسمح للطفل بحمل بخاخ المُخفِّف معه شخصياً لا مخزناً في حقيبة عند الاستقبال.",
+            "في كثير من المدارس في المنطقة، يُؤخذ البخاخ من الطفل ويُحفظ لدى المعلم أو الممرضة، مما يعني عدم قدرة الطفل على الوصول إليه فوراً خلال النوبة. هذا التأخير خطير. المعيار العالمي السائد للرعاية هو أن الأطفال القادرين على استخدام البخاخ بمفردهم يحملونه معهم ويُتاح لهم استخدامه دون الحاجة لطلب إذن. دافع عن هذا مع المدرسة مباشرةً، وأدرج هذا التعليمات في الخطة.",
+            "يجب تحديث الخطة سنوياً أو عند تغير العلاج. الطبيب المتخصص أو طبيب الأطفال الذي يتابع ربو الطفل يمكنه المساعدة في كتابتها أو التوقيع عليها، مما يُعطيها صلاحية أكبر مع إدارة المدرسة."
+          ]
+        },
+        {
+          "h2": "بخاخات الواقي والسيطرة طويلة الأمد: الانضباط اليومي",
+          "paras": [
+            "أكثر أسباب السيطرة السيئة على الربو عند الأطفال ليس أن الدواء لا يعمل، بل أنه لا يُؤخذ بانتظام. بخاخ الواقي يجب أخذه يومياً، صباحاً ومساءً، حتى حين يكون الطفل بخير تماماً. الأسر التي تتوقف عنه بمجرد توقف الأزيز تُمهّد الطريق للنوبة التالية.",
+            "إدراج الواقي ضمن روتين يومي قائم يُسهّل الاستمرارية كثيراً. كثير من الأسر تجد أن ربطه بتفريش الأسنان صباحاً ومساءً، أو بالروتين قبل الذهاب للمدرسة وقبل النوم، يُزيل الحاجة لتذكره بشكل منفصل. تذكير مرئي كوضع البخاخ على رف الحمام يُساعد.",
+            "كثيراً ما تكون لدى الأسر مخاوف حول الكورتيزون الاستنشاقي ولا سيما حول تأثيره على النمو. الكورتيزون الاستنشاقي في بخاخات الواقي يُعطى بجرعات منخفضة جداً مقارنةً بالكورتيزون الفموي، والأدلة تُظهر أن تأثيره على النمو هامشي، في الغالب أقل من سنتيمتر على مدى فترات طويلة، وأقل بكثير من فائدة الربو المضبوط. الطفل ذو الربو غير المضبوط قد يعاني هو نفسه من تأخر في النمو بسبب الالتهاب المزمن وكثرة الغياب عن المدرسة. ناقش المخاوف المحددة مع المتخصص.",
+            "شطف الفم والبصق بعد استخدام بخاخ الواقي يُقلل من خطر مَضِّ الفم (Oral Thrush)، وهو عدوى فطرية في الفم قد تحدث أحياناً مع الكورتيزون الاستنشاقي. علّم الأطفال هذه العادة منذ البداية لتصبح تلقائية."
+          ]
+        },
+        {
+          "h2": "الرياضة والتمارين والتربية البدنية في المدرسة",
+          "paras": [
+            "ربو الجهد (Exercise-Induced Asthma)، الذي تظهر فيه الأعراض خلال النشاط البدني أو بُعيده، شائع جداً ويدفع كثيراً من الأسر والمعلمين إلى تقييد مشاركة الطفل في الرياضة أو التربية البدنية دون ضرورة. الرياضة مهمة لجميع الأطفال بمن فيهم المصابون بالربو، ومع الأسلوب الصحيح يستطيع معظمهم المشاركة الكاملة.",
+            "الخطوة العملية الرئيسية هي استخدام بخاخ المُخفِّف قبل الرياضة بـ 10 إلى 15 دقيقة. هذا يُجهّز مجاري الهواء مسبقاً ويمنع الانقباض المحفوز بالنشاط لدى معظم الأطفال. يجب أن يكون بخاخ المُخفِّف متاحاً على حافة الملعب خلال النشاط الرياضي لا مغلقاً في مكان ما.",
+            "بعض الرياضات يُتحمَّل أفضل من غيرها في الربو. السباحة في الغالب جيدة التحمل لأن الهواء قرب الماء رطب ودافئ. الجري على مسافات طويلة في هواء بارد جاف يميل لأن يكون محفزاً أشد. الرياضات الداخلية في بيئات مغبرة كالجمباز على سجادات قديمة أو كرة القدم على ملاعب ترابية يمكن أن تُثير الأعراض. تحديد الأنشطة التي تُثير الأعراض يُتيح خطة إدارة مُستهدَفة بدلاً من القيود الشاملة.",
+            "المعلم الذي يفهم أن حاجة الطفل لاستخدام بخاخه قبل التربية البدنية متطلب طبي لا محاولة للتهرب من الرياضة يُحدث فارقاً عملياً هائلاً. إدراج هذه النقطة في خطة الربو المدرسية ومناقشتها مع معلم التربية البدنية مباشرةً يستحق الجهد."
+          ]
+        },
+        {
+          "h2": "حين يصعب ضبط الربو: مراجعة الخطة",
+          "paras": [
+            "إن كان الطفل يستخدم بخاخ المُخفِّف أكثر من مرتين في الأسبوع للأعراض، أو يصحو ليلاً بسعال أو أزيز أكثر من مرة في الأسبوع، أو يتغيب عن المدرسة بانتظام بسبب الربو، فخطة العلاج تحتاج مراجعة. هذا ليس إخفاقاً من الطفل أو الأسرة. في الغالب يعني أن جرعة الواقي تحتاج للتعديل، أو أن ثمة محفزاً لم يُكتشف، أو أن تقنية استخدام البخاخ غير صحيحة، أو أن نوعاً مختلفاً من الواقي أو بخاخاً مشتركاً هو الأنسب.",
+            "المراجعات السنوية مع متخصص أو ممرضة أطفال مُدرَّبة هي أفضل طريقة لمتابعة ضبط الربو. في هذه المراجعات، يتحقق الطبيب من تقنية الاستنشاق، ويسأل عن تكرار الأعراض واستخدام المُخفِّف، ويُقيّم النمو، ويدرس ما إذا كانت الخطوة العلاجية الحالية لا تزال مناسبة.",
+            "بعض الأطفال يتجاوزون الربو مع نضج مجاري الهواء خلال المراهقة. آخرون يحملونه إلى مرحلة البلوغ. لا يمكن التنبؤ بهذا بشكل موثوق لدى طفل بعينه، لذا يبقى الاستمرار في العلاج والمتابعة مهماً حتى إن بدت الأعراض قد اختفت لفترة."
+          ]
+        }
+      ],
+      "tie": "استخدم تطبيق سهتك لتسجيل أعراض ربو طفلك واستخدام المُخفِّف وعدد الليالي المُقطَّعة في الأسبوع. هذه البيانات على مدى شهر أو شهرين هي أكثر شيء نافع تُحضره معك في موعد المراجعة. نمط يُظهر تفاقم الأعراض في عطلة نهاية الأسبوع أو بعد زيارة منزل بعينه قد يُشير مباشرةً إلى محفز لم يُكتشف بعد.",
+      "faqs": [
+        {
+          "q": "هل يجب أن يأخذ طفلي البخاخ يومياً حتى حين يشعر بخير؟",
+          "a": "إن كان لديه بخاخ واقٍ، نعم. يعمل الواقي بتقليل الالتهاب كل يوم. لا يُؤخذ للأعراض بل لمنع الأعراض. إيقافه حين يكون الطفل بخير هو أكثر أسباب عودة الربو شيوعاً. بخاخ المُخفِّف فقط يُستخدم حين تظهر الأعراض أو قبل الرياضة."
+        },
+        {
+          "q": "هل الربو وراثي؟",
+          "a": "للربو مكون وراثي قوي. إن كان أحد الوالدين مصاباً بالربو، فإن احتمال إصابة الطفل به يرتفع بنحو 25 بالمئة. إن كان كلا الوالدين مصابَين بالربو أو الحساسية فاحتمال الإصابة أعلى. لكن الجينات ليست القصة كاملها: كثير من الأطفال دون تاريخ عائلي يُصابون بالربو، وكثير من أطفال الأسر المتأثرة لا يُصابون. التعرض البيئي يؤدي دوراً كبيراً أيضاً."
+        },
+        {
+          "q": "هل يمكننا مشاركة كُراهب واحد بين أفراد الأسرة لتوفير الثمن؟",
+          "a": "لا. الكُراهب لا يجوز تشاركه بين الأشخاص لمنع انتقال العدوى. لكل طفل كُراهب خاص به. الكُراهب ليس مكلفاً وغالباً متوفر في الصيدليات، وفي كثير من الدول يُصرَف مع وصفة البخاخ الأولى."
+        },
+        {
+          "q": "كان طفلي مصاباً بالربو صغيراً والآن في العاشرة يبدو بخير. هل ما زال لديه ربو؟",
+          "a": "بعض الأطفال يبدو أنهم يتجاوزون أعراض الربو خلال سنوات المرحلة الابتدائية، لكن الاستعداد الكامن في مجاري الهواء يبقى في الغالب. كثير من هؤلاء الأطفال يرون الربو يعود في المراهقة أو أوائل البلوغ، ولا سيما إن بدأوا التدخين أو تعرضوا لمحفزات جديدة. مراجعة متابعة مع متخصص حتى إن بدا الطفل بلا أعراض أمر يستحق المتابعة."
+        },
+        {
+          "q": "هل السفر بالطائرة آمن للطفل المصاب بالربو؟",
+          "a": "نعم مع التحضير. احمل جميع البخاخات في حقيبة اليد لا في الحقائب المسجَّلة. أحضر رسالة من الطبيب تصف الحالة والدواء. أبقِ بخاخ المُخفِّف في متناولك طوال الرحلة. هواء الطائرة جاف وقد يكون محفزاً لبعض الأطفال، لذا تناول كميات كافية من الماء يساعد. تحقق من سياسة شركة الطيران بشأن أجهزة البخر (Nebuliser) إن كان الطفل يستخدم واحداً."
+        },
+        {
+          "q": "لماذا يسعل طفلي ليلاً لكن لا يسعل نهاراً؟",
+          "a": "أعراض الربو، ولا سيما السعال، تكون أشد عادةً في الساعات الأولى من الصباح بسبب التغيرات الطبيعية في مستوى الكورتيزون في الجسم، ودرجة حرارة غرفة النوم الأبرد، والاستلقاء الذي يؤثر على تصريف مجاري الهواء. السعال الليلي الذي يُقطع النوم أكثر من مرة في الأسبوع علامة على أن الربو غير مضبوط وينبغي مراجعة خطة العلاج."
+        },
+        {
+          "q": "هل يمكن أن يعاني طفلي من الربو حتى إن كانت فحوصات ذروة التدفق (Peak Flow) أو حلزونية الرئة (Spirometry) طبيعية؟",
+          "a": "نعم. فحوصات وظائف الرئة كثيراً ما تكون طبيعية بين النوبات لدى الأطفال المصابين بربو خفيف إلى متوسط. يُبنى التشخيص في الغالب على نمط الأعراض (أزيز، سعال، ضيق صدر تذهب وتجيء) وعلى الاستجابة لتجربة علاجية من المُخفِّف، لا على نتيجة فحص واحدة. يمكن للمتخصص ترتيب اختبار استفزاز أو تجربة علاجية لتوضيح الصورة."
+        },
+        {
+          "q": "وُصف لطفلي جهاز بخر (Nebuliser) للاستخدام في البيت. هل هو أفضل من البخاخ مع الكُراهب؟",
+          "a": "ليس للاستخدام الاعتيادي. تُظهر الدراسات باستمرار أن بخاخ المُخفِّف مع الكُراهب المستخدَم بشكل صحيح يُوصل كميات من الدواء مماثلة لجهاز البخر لمعظم الأطفال، وأسرع، ولا يحتاج كهرباء. لجهاز البخر دور في إدارة النوبات الحادة في المستشفى وعند بعض الأطفال غير القادرين على الكُراهب إطلاقاً. لإدارة الحالات الخفيفة إلى المتوسطة في البيت، البخاخ مع الكُراهب هو الأسلوب الموصى به."
+        }
+      ]
+    }
+  }
+}

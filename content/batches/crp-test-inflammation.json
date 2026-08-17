@@ -1,0 +1,414 @@
+{
+  "slug": "crp-test-inflammation",
+  "category": "lab-tests",
+  "chip_ar": "فهم التحاليل",
+  "chip_en": "Understanding Lab Tests",
+  "date_iso": "2026-07-15",
+  "sources": [
+    {
+      "label": "Ridker PM: Clinical application of C-reactive protein for cardiovascular disease detection and prevention, Circulation, 2003",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12551853/"
+    },
+    {
+      "label": "Pepys MB, Hirschfield GM: C-reactive protein: a critical update, Journal of Clinical Investigation, 2003",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12813013/"
+    },
+    {
+      "label": "Sproston NR, Ashworth JJ: Role of C-reactive protein at sites of inflammation and infection, Frontiers in Immunology, 2018",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29706967/"
+    },
+    {
+      "label": "Al Asmari AK, Al Shehri HA, Khan HA et al: Serum Levels of Proinflammatory Biomarkers in Military Recruits with and without Metabolic Syndrome, Mediators of inflammation, 2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37168278/"
+    },
+    {
+      "label": "Pearson TA et al: Markers of inflammation and cardiovascular disease, AHA/CDC scientific statement, Circulation, 2003",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12551878/"
+    },
+    {
+      "label": "NHS: Blood tests, NHS UK",
+      "url": "https://www.nhs.uk/conditions/blood-tests/"
+    }
+  ],
+  "content": {
+    "ar": {
+      "title": "تحليل CRP: ماذا يعني ارتفاع علامة الالتهاب؟",
+      "desc": "شرح واضح لتحليل البروتين التفاعلي C: الفرق بين CRP العادي وhs-CRP لصحة القلب، وماذا تعني مستوياته المختلفة، ومتى تكون النتيجة مقلقة حقاً.",
+      "keywords": "تحليل CRP, البروتين التفاعلي C, ارتفاع CRP, hs-CRP, علامة الالتهاب, تحليل الالتهاب, CRP طبيعي, CRP مرتفع اسباب, خطر القلب CRP, تحليل الدم الالتهاب",
+      "h1": "تحليل CRP: ماذا يُخبرك عن الالتهاب في جسمك وكيف تقرأ نتيجتك؟",
+      "takeaways": [
+        "CRP هو بروتين تُفرزه الكبد استجابةً لأي التهاب في الجسم، ويرتفع بسرعة كبيرة خلال ساعات من بداية العدوى أو الإصابة.",
+        "نتيجة CRP المرتفعة تُثبت أن هناك التهاباً في مكان ما، لكنها لا تُحدد مكانه ولا سببه، وهنا تبدأ مهمة الطبيب.",
+        "hs-CRP هو إصدار أكثر حساسية من التحليل العادي، يُستخدم تحديداً لتقييم خطر أمراض القلب والأوعية الدموية.",
+        "CRP العادي ينخفض بسرعة عند زوال السبب، وهذا يُجعله مفيداً لمتابعة الاستجابة للعلاج مثل المضادات الحيوية.",
+        "ارتفاع CRP الخفيف والمزمن بدون عدوى واضحة يستحق تحقيقاً طبياً خاصةً إذا صاحبته أعراض مستمرة."
+      ],
+      "sections": [
+        {
+          "h2": "ما هو CRP ولماذا يُفرزه جسمك؟",
+          "paras": [
+            "البروتين التفاعلي C أو CRP (C-Reactive Protein) هو بروتين تُنتجه خلايا الكبد استجابةً لإشارات الالتهاب. عندما يتعرض جسمك لعدوى أو إصابة أو أي ضرر يستدعي استجابة مناعية، تُرسل الخلايا المتضررة إشارات كيميائية إلى الكبد تأمره بإنتاج هذا البروتين بسرعة كبيرة.",
+            "ما يُميّز CRP هو سرعة ارتفاعه: يبدأ بالارتفاع في غضون ست ساعات من بداية الالتهاب ويبلغ ذروته خلال يومين. هذه السرعة تجعله مفيداً جداً في تشخيص العدوى الحادة ومتابعة الاستجابة للعلاج. حين يزول الالتهاب، ينخفض CRP بسرعة مشابهة. هذا ما يُميّزه عن تحليل ESR الذي يبقى مرتفعاً لأسابيع حتى بعد الشفاء.",
+            "وظيفة CRP الأصلية في الجسم هي الارتباط ببعض الجراثيم والخلايا التالفة وتنشيط الجهاز المناعي لتدميرها. هو إذن جزء من استجابة الدفاع الطبيعية، لكن قياسه في الدم يمنحنا نافذة لمعرفة ما إذا كانت هذه الاستجابة نشطة أم لا.",
+            "على خلاف كثير من التحاليل الأخرى التي تعكس تغيرات بطيئة، يتميز CRP بأنه مؤشر آني وحساس. هذا يجعله مفيداً في غرف الطوارئ حيث يحتاج الأطباء سريعاً إلى معرفة ما إذا كان المريض يعاني من التهاب حاد أم لا، كما يُفيد في المتابعة اليومية لاستجابة المريض للعلاج."
+          ]
+        },
+        {
+          "h2": "ما الفرق بين CRP العادي وhs-CRP؟",
+          "paras": [
+            "عندما تُطلب من طبيبك تحليل CRP، قد يختار أحد نوعين مختلفين لهما غرضان مختلفان. فهم هذا الفرق يُساعدك على قراءة ورقة نتيجتك بشكل صحيح.",
+            "CRP القياسي العادي يقيس مستوى البروتين في نطاق واسع، ويُستخدم للكشف عن الالتهابات الحادة مثل العدوى البكتيرية، والنوبات الروماتيزمية، وحالات الطوارئ. أما hs-CRP (high-sensitivity CRP) فهو إصدار أكثر دقة يقيس مستويات أخفض بكثير من CRP، يُستخدم خصيصاً لتقييم خطر أمراض القلب التاجية والجلطات على المدى البعيد. دراسة Ridker المنشورة في مجلة Circulation عام 2003 أثبتت أن ارتفاع hs-CRP يُعدّ مؤشراً مستقلاً لخطر الإصابة بأمراض القلب.",
+            "الفحصان لا يُبدّلان بعضهما: CRP القياسي لا يُعطي دقة كافية لتقييم خطر القلب، وhs-CRP لا يُستخدم لتشخيص العدوى الحادة. اسأل طبيبك أي نوع طلب وما الغرض منه.",
+            "من المفيد أن تعرف أن تكلفة التحليل متشابهة في معظم مختبرات المنطقة، وكلا النوعين متاحان في المدن الكبرى. في المدن الأصغر قد لا يتوفر hs-CRP في جميع المختبرات، وفي هذه الحالة يُرسل الطبيب العينة إلى مختبر مرجعي."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "CRP العادي مقابل hs-CRP: متى يُستخدم كل منهما؟",
+            "head": ["الخاصية", "CRP العادي", "hs-CRP"],
+            "rows": [
+              ["النطاق القياسي", "0 - 200 mg/L", "0 - 10 mg/L"],
+              ["الغرض الرئيسي", "تشخيص العدوى والالتهاب الحاد", "تقييم خطر أمراض القلب"],
+              ["متى يرتفع؟", "فوق 10 mg/L في العدوى", "فوق 3 mg/L يشير لخطر قلبي مرتفع"],
+              ["ارتفاع واضح يعني؟", "عدوى أو التهاب نشط", "التهاب مزمن خفيف يزيد خطر القلب"],
+              ["يُطلب في", "الطوارئ والمتابعة العلاجية", "الفحص الدوري لخطر القلب والأوعية"]
+            ]
+          }
+        },
+        {
+          "h2": "كيف تقرأ نتيجة CRP وما المستويات المختلفة؟",
+          "paras": [
+            "قيمة CRP تُكتب عادةً بوحدة mg/L أو mg/dL. تأكد من الوحدة على ورقة نتيجتك قبل مقارنة الرقم، لأن الالتباس بين الوحدتين شائع. القيمة بـ mg/dL تساوي القيمة بـ mg/L مقسومةً على عشرة.",
+            "الجدول أدناه يُلخص المستويات الأكثر استخداماً في الممارسة الطبية لـ CRP القياسي. هذه أرقام توجيهية وليست قاطعة، لأن السياق الطبي يهم دائماً: CRP عند 50 mg/L في شخص يتعافى من عملية جراحية أمر متوقع تماماً، بينما نفس الرقم في شخص لا يعاني من أي عرض واضح يستدعي التحقيق.",
+            "دراسة أجراها Al Asmari وزملاؤه على عسكريين سعوديين ونُشرت في مجلة Mediators of Inflammation عام 2023 وجدت أن مستويات CRP ترتفع بشكل ملحوظ عند الأفراد الذين يعانون من متلازمة الأيض، وهي مجموعة تشمل السمنة وارتفاع السكر وضغط الدم وارتفاع الدهون، مؤكدةً أهمية هذا التحليل في الفحوصات الدورية لهذه الفئة.",
+            "نتيجة CRP الحدية، أي قيمة بين 10 و40 mg/L بدون أعراض واضحة، تستحق مراجعة طبيبك لكنها لا تستدعي قلقاً فورياً. الطبيب سيُقيّم الصورة الكاملة ويقرر ما إذا كانت هناك حاجة لتحاليل إضافية."
+          ],
+          "visual": {
+            "type": "range-scale",
+            "title": "مستوى CRP القياسي وتفسيره",
+            "label": "CRP",
+            "unit": "mg/L",
+            "min": 0,
+            "max": 200,
+            "zones": [
+              {"to": 10, "tone": "good", "label": "طبيعي"},
+              {"to": 40, "tone": "warn", "label": "التهاب خفيف"},
+              {"to": 100, "tone": "bad", "label": "التهاب واضح"},
+              {"to": 200, "tone": "bad", "label": "التهاب شديد"}
+            ],
+            "source": "Pepys MB, Hirschfield GM: C-reactive protein, Journal of Clinical Investigation, 2003",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/12813013/"
+          }
+        },
+        {
+          "h2": "ارتفاع CRP يقول إن هناك التهاباً، لكنه لا يقول أين ولا لماذا",
+          "paras": [
+            "هذه النقطة هي الأكثر سوء فهماً في تحليل CRP: الرقم المرتفع يُؤكد وجود التهاب نشط في مكان ما من جسمك، لكنه لا يُخبرك بالعضو المصاب ولا بالسبب. عدوى بكتيرية في الرئتين، أو التهاب مفاصل روماتيزمي، أو ضربة في العضل، أو حتى احتشاء عضلة القلب، كلها قد تُعطي قيمة CRP مرتفعة متشابهة.",
+            "هذا هو السبب في أن CRP دائماً يُفسَّر مع بقية التحاليل ومع الأعراض ولا يُفسَّر بمعزل. الطبيب الذي يرى CRP مرتفعاً يبحث عن السبب عبر الفحص السريري والتحاليل الأخرى والأشعة إذا لزم الأمر.",
+            "ورقة النتيجة التي تحملها مع ارتفاع CRP هي نقطة بداية البحث وليست نهايته. لا تقلق من الرقم وحده، لكن لا تتجاهله أيضاً. من الأخطاء الشائعة في المنطقة أن يشتري الشخص مضادات حيوية من الصيدلية بدون وصفة استناداً إلى ارتفاع CRP وحده، وهذا غير صحيح لأن سبب الارتفاع قد يكون فيروسياً أو روماتيزمياً ولا يستجيب للمضادات الحيوية أصلاً."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "أسباب شائعة لارتفاع CRP حسب المستوى",
+            "head": ["مستوى CRP", "الأسباب الشائعة"],
+            "rows": [
+              ["1 - 10 mg/L (خفيف)", "السمنة، التدخين، السكري، إجهاد خفيف، نشاط بدني مكثف"],
+              ["10 - 40 mg/L", "عدوى فيروسية، التهابات مزمنة، أمراض روماتيزمية خفيفة"],
+              ["40 - 100 mg/L", "عدوى بكتيرية معتدلة، نوبة روماتيزمية، التهاب ما بعد جراحة"],
+              ["فوق 100 mg/L", "عدوى بكتيرية شديدة، إنتان الدم، احتشاء القلب، أمراض روماتيزمية حادة"]
+            ]
+          }
+        },
+        {
+          "h2": "hs-CRP وخطر القلب: ما الذي تعنيه الأرقام؟",
+          "paras": [
+            "إذا طلب طبيبك hs-CRP ضمن فحص قلبي وعائي، يُفسَّر الرقم وفق فئات مختلفة عن CRP القياسي. البيان العلمي المشترك الصادر عن جمعية القلب الأمريكية ومراكز السيطرة على الأمراض CDC عام 2003 وضع إطاراً واضحاً لتفسير hs-CRP في تقييم خطر القلب.",
+            "مستوى hs-CRP أقل من 1 mg/L يعني خطراً منخفضاً. بين 1 و3 mg/L يعني خطراً متوسطاً يستحق الانتباه. فوق 3 mg/L يعني خطراً مرتفعاً يُضاف إلى عوامل الخطر الأخرى كالكوليسترول وضغط الدم والسكري والتدخين. الطبيب يضع هذا الرقم في سياق الصورة الكاملة لصحة قلبك.",
+            "hs-CRP ليس تحليلاً للتشخيص، بل أداة لتقدير المخاطر. ارتفاعه لا يعني أن لديك مرض قلب، بل يعني أن الاهتمام بعوامل نمط الحياة كالوزن والنشاط البدني والإقلاع عن التدخين سيُقلل هذا الخطر.",
+            "الجدير بالذكر أن hs-CRP يُستخدم أحياناً بجانب حساب درجة خطر القلب العشري، أي احتمال الإصابة بحدث قلبي خلال عشر سنوات. في الحالات الحدية حيث يتردد الطبيب في البدء بعلاج الكوليسترول أو لا، قد يُضيف hs-CRP معلومة إضافية تُساعد في اتخاذ القرار."
+          ],
+          "visual": {
+            "type": "range-scale",
+            "title": "hs-CRP وخطر أمراض القلب",
+            "label": "hs-CRP",
+            "unit": "mg/L",
+            "min": 0,
+            "max": 10,
+            "zones": [
+              {"to": 1, "tone": "good", "label": "خطر منخفض"},
+              {"to": 3, "tone": "warn", "label": "خطر متوسط"},
+              {"to": 10, "tone": "bad", "label": "خطر مرتفع"}
+            ],
+            "source": "Pearson TA et al, AHA/CDC scientific statement, Circulation 2003",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/12551878/"
+          }
+        },
+        {
+          "h2": "كيف يُساعد CRP في متابعة العلاج؟",
+          "paras": [
+            "إحدى أهم فوائد CRP العملية هي استخدامه لمتابعة الاستجابة للعلاج، وخاصةً للمضادات الحيوية في العدوى البكتيرية. حين يبدأ العلاج بالمضادات الحيوية، يجب أن يبدأ CRP بالانخفاض خلال يومين إلى ثلاثة أيام. استمرار ارتفاعه رغم العلاج يُنبّه الطبيب إلى احتمال فشل الدواء أو وجود مضاعفات.",
+            "في أمراض الروماتيزم المزمنة مثل التهاب المفاصل الروماتيزمي (Rheumatoid Arthritis) والتهاب الأوعية وداء كرون، يُستخدم CRP بانتظام لمتابعة نشاط المرض وتأثير الأدوية. انخفاض CRP مع تحسن الأعراض يُؤكد أن العلاج يعمل.",
+            "لهذا يطلب بعض الأطباء تحليل CRP بشكل متكرر خلال مرحلة العلاج وليس مرة واحدة فقط. فهم هذه الوظيفة المتابعية لـ CRP يُساعدك على تقبّل تكرار التحليل دون قلق."
+          ],
+          "visual": {
+            "type": "timeline",
+            "title": "كيف يتغير CRP خلال عدوى بكتيرية علاجها صحيح",
+            "items": [
+              {"when": "اليوم 0", "what": "بداية العدوى وأعراضها، CRP يبدأ بالارتفاع"},
+              {"when": "اليوم 1 - 2", "what": "CRP يصل ذروته، تبدأ المضادات الحيوية"},
+              {"when": "اليوم 3 - 5", "what": "CRP يبدأ بالانخفاض مع تحسن الأعراض"},
+              {"when": "اليوم 7 - 10", "what": "CRP يعود إلى الطبيعي مع اكتمال الشفاء"}
+            ]
+          }
+        },
+        {
+          "h2": "هل يُمكن خفض CRP المرتفع؟",
+          "paras": [
+            "إذا كان CRP مرتفعاً بسبب عدوى حادة، فخفضه يعني علاج العدوى. لكن إذا كان مرتفعاً بشكل خفيف ومزمن مرتبطاً بنمط الحياة، فبعض التغييرات الموثقة تُساعد على تخفيضه.",
+            "إنقاص الوزن الزائد وزيادة النشاط البدني، والإقلاع عن التدخين، والتحكم بالسكر وضغط الدم، كلها تُساهم في تخفيض مستويات CRP المزمنة. النظام الغذائي الغني بالزيوت النباتية والخضروات والبقوليات والسمك، كما في المطبخ المتوسطي والشامي التقليدي، يرتبط بمستويات CRP أقل في الدراسات المقارنة.",
+            "لا توجد مكملات غذائية مُثبتة طبياً لخفض CRP بدلاً من علاج السبب. استشر طبيبك إذا وجدت CRP مرتفعاً باستمرار وناقشه حول أسبابه المحتملة والخطوات العملية المناسبة لحالتك.",
+            "تذكر أن هدفك ليس تخفيض رقم CRP في ورقة التحليل بأي طريقة، بل فهم لماذا هو مرتفع ومعالجة السبب الحقيقي. أحياناً يكون الارتفاع إشارة مهمة تقود إلى اكتشاف حالة كانت خفية وتستحق العلاج."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "راجع طبيبك في أقرب وقت إذا كان CRP",
+            "items": [
+              "مرتفعاً فوق 100 mg/L مع حمى وتدهور حال صحية عام",
+              "مستمراً في الارتفاع بعد أسبوع من بدء المضادات الحيوية",
+              "مرتفعاً بشكل متكرر في أكثر من تحليل دون سبب واضح",
+              "مصحوباً بألم صدري أو ضيق نفس أو تورم مفاصل جديد"
+            ]
+          }
+        },
+        {
+          "h2": "هل يختلف CRP بين المختبرات وكيف تُفسّر نتيجتك؟",
+          "paras": [
+            "تختلف نتائج CRP أحياناً بين مختبرين مختلفين، وهذا يُربك كثيراً من المرضى. الأجهزة المختلفة تستخدم تقنيات قياس متباينة، وقد تُعطي قيماً تختلف ببضعة أرقام على نفس العينة. في الغالب الفرق لا يُغير القرار الطبي، لكن إذا كان مستوى CRP قريباً من الحد الطبيعي فقد يبدو التحليل مختلفاً بين مختبرين.",
+            "للحصول على أفضل متابعة، أجرِ التحليل في نفس المختبر كلما أمكن إذا كنت تتابع حالة مزمنة. إذا غيّرت مختبراً، أخبر طبيبك وأحضر نتائجك القديمة للمقارنة.",
+            "هناك تفاوت آخر يجب معرفته: بعض المختبرات في المنطقة تستخدم وحدة mg/dL بدلاً من mg/L الأكثر شيوعاً دولياً. CRP عند 0.5 mg/dL هو نفسه 5 mg/L، وهو طبيعي. لكن إذا قرأت 0.5 وظننته mg/L فستقلق من غير سبب. تحقق دائماً من الوحدة قبل أي استنتاج."
+          ]
+        }
+      ],
+      "tie": "بتطبيق صحتك تستطيع حفظ قيم CRP مع التواريخ وتتبع تغيراتها عبر الوقت لمعرفة ما إذا كانت تنخفض مع العلاج أم تبقى مرتفعة. هذه المتابعة البسيطة تُفيد كثيراً في المراجعات الدورية مع طبيبك.",
+      "faqs": [
+        {
+          "q": "هل يحتاج تحليل CRP للصيام المسبق؟",
+          "a": "لا يحتاج CRP إلى صيام. يُمكن إجراؤه في أي وقت من اليوم. إذا طلب الطبيب تحاليل أخرى في نفس الوقت كالسكر والدهون، فالصيام يكون لأجلها وليس لـ CRP."
+        },
+        {
+          "q": "CRP عندي طبيعي لكن أشعر بأعراض التهاب، ما التفسير؟",
+          "a": "CRP الطبيعي لا يستبعد كل الالتهابات. بعض الأمراض الروماتيزمية المبكرة والتهاب الكبد الفيروسي وبعض أمراض المناعة الذاتية قد تُعطي CRP طبيعياً رغم وجود التهاب نشط. تحاليل أخرى مثل ESR واختبارات محددة قد تكشف ما يفوت CRP."
+        },
+        {
+          "q": "هل ارتفاع CRP بسبب الزكام أم الإنفلونزا يحتاج علاجاً بالمضادات الحيوية؟",
+          "a": "الزكام والإنفلونزا عدوى فيروسية والمضادات الحيوية لا تُجدي فيهما. CRP قد يرتفع قليلاً في العدوى الفيروسية، لكنه عادةً أقل ارتفاعاً من العدوى البكتيرية. قرار المضاد الحيوي يتخذه الطبيب بعد تقييم المريض وليس بناءً على رقم CRP وحده."
+        },
+        {
+          "q": "ما الفرق في النتيجة بين mg/L وmg/dL؟",
+          "a": "القيمة بـ mg/dL تساوي القيمة بـ mg/L مقسومةً على 10. فمثلاً CRP عند 50 mg/L يساوي 5 mg/dL. تأكد دائماً من الوحدة المكتوبة على ورقتك لأن الخلط بين الوحدتين يُعطي انطباعاً خاطئاً عن مستوى النتيجة."
+        },
+        {
+          "q": "هل يرتفع CRP أثناء الحمل؟",
+          "a": "نعم، يرتفع CRP بشكل طفيف خلال الحمل الطبيعي نتيجة التغيرات الالتهابية المصاحبة له. لهذا يُفسَّر CRP بحذر أكبر عند الحوامل، وأي ارتفاع ملحوظ يُقيّمه الطبيب في سياق الأعراض وليس بالمقارنة مع قيم النساء غير الحوامل."
+        },
+        {
+          "q": "هل يمكن أن يكون CRP طبيعياً وأنا مصاب بعدوى بكتيرية؟",
+          "a": "نادراً في بداية العدوى جداً، لأن CRP يحتاج ست ساعات على الأقل للارتفاع. إذا سُحبت العينة في الساعات الأولى من بداية العرض قد تجد CRP طبيعياً رغم العدوى الحادة. لهذا أحياناً يُكرر الطبيب التحليل بعد 24 ساعة."
+        },
+        {
+          "q": "هل ارتفاع hs-CRP يعني أن لدي مرض قلب؟",
+          "a": "لا، hs-CRP هو مؤشر للخطر وليس دليلاً على مرض قلب قائم. مستوى مرتفع يعني أن خطر الإصابة بأمراض القلب في المستقبل أعلى من المتوسط، وهذا يُحفّز على تحسين عوامل الخطر الأخرى كالوزن والنشاط والإقلاع عن التدخين. قرار العلاج الدوائي إن وجد يتخذه الطبيب بعد تقييم صورة الخطر الكاملة."
+        }
+      ]
+    },
+    "en": {
+      "title": "CRP Test: What a High Inflammation Marker Actually Means",
+      "desc": "CRP test explained: standard CRP vs hs-CRP for cardiac risk, what each level means, and when a high inflammation marker needs urgent medical attention.",
+      "keywords": "CRP test, C-reactive protein, high CRP, hs-CRP, inflammation marker, CRP blood test, normal CRP, causes of high CRP, cardiac risk CRP, inflammation blood test",
+      "h1": "CRP Test: What Raised Inflammation Actually Tells You and How to Read Your Result",
+      "takeaways": [
+        "CRP is a protein the liver releases in response to any inflammation in the body, and it rises very quickly, within hours of infection or injury.",
+        "A raised CRP confirms that inflammation is present somewhere, but it does not identify where or why. That is where the doctor's assessment begins.",
+        "hs-CRP is a more sensitive version of the test, used specifically to estimate the long-term risk of heart disease and stroke.",
+        "Standard CRP drops quickly once the cause resolves, which makes it useful for monitoring the response to treatment such as antibiotics.",
+        "A mildly and persistently raised CRP without obvious infection deserves medical investigation, particularly if it accompanies ongoing symptoms."
+      ],
+      "sections": [
+        {
+          "h2": "What is CRP and why does your body make it?",
+          "paras": [
+            "C-reactive protein, or CRP, is a protein produced by liver cells in response to inflammation signals. When your body faces infection, tissue injury or any event that triggers an immune response, damaged cells send chemical messages to the liver instructing it to produce this protein rapidly.",
+            "What makes CRP particularly useful is how quickly it moves. It begins rising within six hours of the start of inflammation and peaks within about 48 hours. This speed makes it valuable for diagnosing acute infections and monitoring treatment response. When inflammation resolves, CRP falls at a comparable speed, which is what distinguishes it from the ESR test, which can remain elevated for weeks after recovery.",
+            "CRP's natural role in the body is to bind certain bacteria and damaged cells, activating the immune system to clear them. Measuring it in blood gives a window into whether this defensive response is currently active.",
+            "Unlike many other blood markers that change slowly over weeks, CRP is an immediate, sensitive indicator. This makes it useful in emergency settings where doctors need to know quickly whether active inflammation is present, and in treatment monitoring where the question is whether a course of antibiotics or anti-inflammatory medication is working."
+          ]
+        },
+        {
+          "h2": "What is the difference between standard CRP and hs-CRP?",
+          "paras": [
+            "When your doctor orders a CRP test, they may choose one of two distinct versions that serve different purposes. Understanding the difference helps you read your result correctly.",
+            "Standard CRP measures the protein across a wide range and is used to detect acute inflammation such as bacterial infection, rheumatic flares and post-surgical states. High-sensitivity CRP, written hs-CRP, measures far lower concentrations and is used specifically to estimate the risk of coronary heart disease and stroke over the long term. A 2003 paper by Ridker in Circulation demonstrated that elevated hs-CRP is an independent predictor of cardiovascular events, separate from cholesterol levels.",
+            "The two tests are not interchangeable. Standard CRP lacks the precision to assess cardiac risk, and hs-CRP is not used to diagnose acute infection. Ask your doctor which one was ordered and what it is intended to tell them.",
+            "In practical terms, hs-CRP may not be available in smaller private laboratories in some parts of the region. If your doctor requests it and it is not available locally, the sample is usually sent to a reference laboratory, which adds a day or two to the result turnaround."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Standard CRP versus hs-CRP: when each is used",
+            "head": ["Feature", "Standard CRP", "hs-CRP"],
+            "rows": [
+              ["Measurement range", "0 - 200 mg/L", "0 - 10 mg/L"],
+              ["Main purpose", "Diagnosing acute infection and inflammation", "Estimating long-term cardiac risk"],
+              ["When is it raised?", "Above 10 mg/L in infection", "Above 3 mg/L suggests elevated cardiac risk"],
+              ["A high result means", "Active infection or inflammation", "Chronic low-grade inflammation raising heart risk"],
+              ["Ordered in", "Emergency and treatment monitoring", "Routine cardiovascular risk assessment"]
+            ]
+          }
+        },
+        {
+          "h2": "How to read a CRP result and what the levels mean",
+          "paras": [
+            "CRP is usually reported in mg/L or mg/dL. Check which unit your report uses before comparing numbers, because confusion between the two is common and makes the same result look ten times different. A value in mg/dL is the mg/L figure divided by ten.",
+            "The ranges below are widely used in clinical practice for standard CRP. These are guidance figures, not hard rules, because clinical context always matters. A CRP of 50 mg/L in someone recovering from surgery is entirely expected, whereas the same number in someone with no obvious source needs investigation.",
+            "A 2023 study by Al Asmari and colleagues, published in Mediators of Inflammation, measured CRP and other inflammatory biomarkers in Saudi military recruits with and without metabolic syndrome. It found significantly raised CRP in those with metabolic syndrome, which includes obesity, raised blood sugar, high blood pressure and abnormal lipids. This finding supports the inclusion of CRP in routine screening for people who carry these risk factors, which are very common in the region.",
+            "A borderline result, meaning a value between 10 and 40 mg/L with no obvious symptoms, warrants a conversation with your doctor but does not require immediate alarm. They will assess the full picture and decide whether additional tests are needed."
+          ],
+          "visual": {
+            "type": "range-scale",
+            "title": "Standard CRP level and interpretation",
+            "label": "CRP",
+            "unit": "mg/L",
+            "min": 0,
+            "max": 200,
+            "zones": [
+              {"to": 10, "tone": "good", "label": "Normal"},
+              {"to": 40, "tone": "warn", "label": "Mild"},
+              {"to": 100, "tone": "bad", "label": "Moderate"},
+              {"to": 200, "tone": "bad", "label": "High"}
+            ],
+            "source": "Pepys MB, Hirschfield GM: C-reactive protein, Journal of Clinical Investigation, 2003",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/12813013/"
+          }
+        },
+        {
+          "h2": "A raised CRP says there is inflammation, not where or why",
+          "paras": [
+            "This is the most commonly misunderstood thing about CRP: a high number confirms that active inflammation is present somewhere in the body, but it tells you nothing about which organ is involved or what is causing it. A bacterial pneumonia, a rheumatoid flare, a muscle injury and a heart attack can all produce similar CRP values.",
+            "This is why CRP is always interpreted alongside other tests and your symptoms, never in isolation. When your doctor sees a raised CRP, it tells them to look for the cause, using the physical examination, other blood tests, and imaging if needed.",
+            "One common and avoidable mistake in the region is buying antibiotics from a pharmacy without a prescription based on a raised CRP alone. The cause may be viral or rheumatic, in which case antibiotics do nothing and may cause harm. The CRP result is a prompt to see a doctor, not a prescription in itself.",
+            "The report in your hand is the beginning of an investigation, not the end of it. Do not panic about the number alone, but do not ignore it either."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Common causes of raised CRP by level",
+            "head": ["CRP level", "Common causes"],
+            "rows": [
+              ["1 - 10 mg/L (mild)", "Obesity, smoking, diabetes, mild physical stress, intense exercise"],
+              ["10 - 40 mg/L", "Viral infection, chronic inflammatory conditions, mild rheumatic disease"],
+              ["40 - 100 mg/L", "Moderate bacterial infection, rheumatic flare, post-surgical inflammation"],
+              ["Above 100 mg/L", "Severe bacterial infection, sepsis, heart attack, acute rheumatic disease"]
+            ]
+          }
+        },
+        {
+          "h2": "hs-CRP and heart risk: what do the numbers mean?",
+          "paras": [
+            "If your doctor ordered hs-CRP as part of a cardiovascular assessment, the result is interpreted using different thresholds from standard CRP. The joint scientific statement by the American Heart Association and the CDC published in Circulation in 2003 set out a clear framework for using hs-CRP in cardiac risk assessment.",
+            "An hs-CRP below 1 mg/L corresponds to low cardiac risk. Between 1 and 3 mg/L corresponds to intermediate risk and warrants attention alongside other risk factors. Above 3 mg/L indicates elevated risk, which adds to the weight of other factors such as cholesterol, blood pressure, diabetes and smoking when the doctor calculates the overall picture.",
+            "hs-CRP is a risk estimation tool, not a diagnostic test. A raised result does not mean you have heart disease. It means that addressing lifestyle factors, including weight, activity, and smoking, will meaningfully reduce your overall cardiovascular risk."
+          ],
+          "visual": {
+            "type": "range-scale",
+            "title": "hs-CRP and cardiovascular risk",
+            "label": "hs-CRP",
+            "unit": "mg/L",
+            "min": 0,
+            "max": 10,
+            "zones": [
+              {"to": 1, "tone": "good", "label": "Low risk"},
+              {"to": 3, "tone": "warn", "label": "Intermediate"},
+              {"to": 10, "tone": "bad", "label": "High risk"}
+            ],
+            "source": "Pearson TA et al, AHA/CDC scientific statement, Circulation 2003",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/12551878/"
+          }
+        },
+        {
+          "h2": "How CRP helps monitor treatment",
+          "paras": [
+            "One of the most practical uses of CRP is tracking the response to treatment, particularly antibiotics in bacterial infections. When antibiotics begin working, CRP should start to fall within two to three days. If it remains elevated despite treatment, the doctor is alerted that the antibiotic may be failing or that a complication has developed.",
+            "In chronic inflammatory diseases such as rheumatoid arthritis, vasculitis and Crohn's disease, CRP is measured regularly to track disease activity and the effect of medications. A falling CRP alongside improving symptoms confirms that treatment is working.",
+            "This is why some doctors request CRP repeatedly during a treatment course rather than just once. Understanding this monitoring role helps you make sense of repeat testing without anxiety."
+          ],
+          "visual": {
+            "type": "timeline",
+            "title": "How CRP changes during a treated bacterial infection",
+            "items": [
+              {"when": "Day 0", "what": "Infection begins, CRP starts rising within hours"},
+              {"when": "Day 1 - 2", "what": "CRP peaks, antibiotics are started"},
+              {"when": "Day 3 - 5", "what": "CRP begins to fall as symptoms improve"},
+              {"when": "Day 7 - 10", "what": "CRP returns to normal as recovery completes"}
+            ]
+          }
+        },
+        {
+          "h2": "Can a raised CRP be lowered?",
+          "paras": [
+            "If CRP is high because of an acute infection, treating the infection brings it down. If it is mildly and chronically raised in association with lifestyle factors, several evidence-based changes are known to help.",
+            "Losing excess weight, increasing physical activity, stopping smoking, and controlling blood sugar and blood pressure all contribute to reducing chronic CRP levels. A diet rich in vegetables, legumes, fish and plant-based oils, the kind found in traditional Levantine and North African cooking, is consistently associated with lower CRP in comparative studies.",
+            "There are no dietary supplements with good evidence for lowering CRP as a substitute for addressing the underlying cause. If you find your CRP persistently elevated, discuss it with your doctor to identify the reason and the most practical steps for your situation."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "See your doctor urgently if your CRP is",
+            "items": [
+              "Above 100 mg/L with fever and general deterioration",
+              "Still rising after one week of antibiotic treatment",
+              "Persistently elevated on two or more tests without a clear cause",
+              "Accompanied by chest pain, breathlessness or new joint swelling"
+            ]
+          }
+        },
+        {
+          "h2": "Does the CRP result vary between laboratories?",
+          "paras": [
+            "CRP results can differ slightly between two laboratories, which confuses many patients. Different analysers use different measurement technologies and may produce values a few points apart on the same blood sample. In most cases the difference does not change the clinical decision, but if your level is close to the normal threshold it may appear normal at one laboratory and mildly elevated at another.",
+            "For the most consistent monitoring when following a chronic condition, use the same laboratory over time and bring your previous results to every appointment. If you change laboratories, tell your doctor so they can account for any systematic difference in how each machine is calibrated.",
+            "One practical point specific to this region: some laboratories report CRP in mg/dL rather than the internationally more common mg/L. A result of 0.5 mg/dL is the same as 5 mg/L, which is entirely normal. Always check the unit printed on your report before drawing any conclusion about whether your level is elevated."
+          ]
+        }
+      ],
+      "tie": "The Sihtak app lets you save your CRP results with dates and track whether they are rising or falling with treatment, giving you and your doctor a clear picture at every review. The AI assistant can explain what your specific result means in plain language without diagnosing.",
+      "faqs": [
+        {
+          "q": "Do I need to fast before a CRP test?",
+          "a": "No, CRP does not require fasting. The test can be done at any time of day. If your doctor requests additional tests such as fasting glucose or lipids at the same visit, the fasting is for those tests and not for CRP."
+        },
+        {
+          "q": "My CRP is normal but I feel inflamed. How is that possible?",
+          "a": "A normal CRP does not rule out all inflammatory conditions. Some early rheumatic diseases, viral hepatitis and certain autoimmune conditions can produce a normal CRP even when active inflammation is present. Other tests such as ESR and specific antibody panels may detect what CRP misses."
+        },
+        {
+          "q": "My CRP is raised from a cold. Does that mean I need antibiotics?",
+          "a": "Colds and influenza are viral infections, and antibiotics do nothing against viruses. CRP can rise slightly in viral illness, but it typically rises less dramatically than in bacterial infection. The decision to prescribe antibiotics is made by the doctor based on a clinical assessment, not on the CRP number alone."
+        },
+        {
+          "q": "What is the difference between mg/L and mg/dL?",
+          "a": "A result in mg/dL equals the mg/L value divided by ten. So CRP of 50 mg/L is the same as 5 mg/dL. Always check which unit is printed on your report before comparing numbers, because mixing up the two makes the result look ten times higher or lower than it is."
+        },
+        {
+          "q": "Does CRP rise during pregnancy?",
+          "a": "Yes, CRP rises slightly during a normal pregnancy because of the inflammatory changes that accompany it. This means CRP is interpreted more cautiously in pregnant women, and any noticeable elevation is assessed by the doctor in the context of symptoms rather than compared directly to non-pregnant reference ranges."
+        },
+        {
+          "q": "Can CRP be normal at the very start of a bacterial infection?",
+          "a": "Yes, briefly. CRP needs at least six hours to begin rising. If blood was drawn in the first hours of symptom onset, you may see a normal CRP despite an acute bacterial infection. This is why doctors sometimes repeat the test 24 hours later if clinical suspicion remains high."
+        },
+        {
+          "q": "Does a high hs-CRP mean I have heart disease?",
+          "a": "No. hs-CRP is a risk marker, not a diagnostic test for heart disease. An elevated result means your future cardiovascular risk is above average, which should motivate improving controllable risk factors such as weight, activity levels and smoking. Your doctor will decide whether any drug treatment is appropriate after assessing your full risk profile."
+        }
+      ]
+    }
+  }
+}

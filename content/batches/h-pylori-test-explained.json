@@ -1,0 +1,353 @@
+{
+  "slug": "h-pylori-test-explained",
+  "category": "lab-tests",
+  "chip_ar": "فهم التحاليل",
+  "chip_en": "Understanding Lab Tests",
+  "date_iso": "2026-07-14",
+  "sources": [
+    {"label": "Sharara AI, Alsohaibani FI, Alsaegh A et al: First regional consensus on the management of Helicobacter pylori infection in the Middle East, World journal of gastroenterology, 2025", "url": "https://pubmed.ncbi.nlm.nih.gov/40741103/"},
+    {"label": "Best LM, Takwoingi Y, Siddique S et al: Non-invasive diagnostic tests for Helicobacter pylori infection, The Cochrane database of systematic reviews, 2018", "url": "https://pubmed.ncbi.nlm.nih.gov/29543326/"},
+    {"label": "Hussein NR: Helicobacter pylori and gastric cancer in the Middle East: a new enigma?, World journal of gastroenterology, 2010", "url": "https://pubmed.ncbi.nlm.nih.gov/20614477/"},
+    {"label": "Ansari S, Yamaoka Y: Helicobacter pylori Infection, Its Laboratory Diagnosis, and Antimicrobial Resistance: a Perspective of Clinical Relevance, Clinical microbiology reviews, 2022", "url": "https://pubmed.ncbi.nlm.nih.gov/35404105/"},
+    {"label": "Perri F, Manes G, Neri M et al: Helicobacter pylori antigen stool test and 13C-urea breath test in patients after eradication treatments, The American journal of gastroenterology, 2002", "url": "https://pubmed.ncbi.nlm.nih.gov/12425544/"},
+    {"label": "McConaghy JR, Decker A, Nair S et al: Peptic Ulcer Disease and H. pylori Infection: Common Questions and Answers, American family physician, 2023", "url": "https://pubmed.ncbi.nlm.nih.gov/36791443/"}
+  ],
+  "content": {
+    "ar": {
+      "title": "تحليل جرثومة المعدة H. pylori: أنواع الاختبارات وكيف تفهم نتيجتك",
+      "desc": "دليل شامل عن جرثومة المعدة: الفرق بين تحليل الدم والبراز والتنفس والمنظار، وأيها يؤكد الشفاء، ومتى تحتاج العلاج الفعلي.",
+      "keywords": "جرثومة المعدة, H pylori, تحليل جرثومة المعدة, اختبار التنفس, تحليل البراز, المنظار, قرحة المعدة, الهيليكوباكتر بيلوري, علاج جرثومة المعدة, تأكيد الشفاء",
+      "h1": "جرثومة المعدة: كيف تُشخَّص وأي اختبار يؤكد الشفاء فعلاً؟",
+      "takeaways": [
+        "جرثومة المعدة (H. pylori) شائعة جداً في المنطقة العربية، وكثير من المصابين لا يشعرون بأعراض.",
+        "هناك أربعة أنواع من الاختبارات: تحليل الدم، وتحليل البراز، واختبار النفس، والمنظار، ولكل منها استخدامه الصحيح.",
+        "تحليل الدم (الأجسام المضادة) لا يصلح لتأكيد الشفاء، لأن الأجسام المضادة تبقى في الدم لأشهر بعد القضاء على البكتيريا.",
+        "اختبار النفس وتحليل البراز الأنتيجيني هما الأفضل للتحقق من نجاح العلاج.",
+        "لا تحتاج كل إصابة بالجرثومة إلى علاج دوائي، والطبيب هو من يقرر بناءً على الأعراض والتاريخ الصحي."
+      ],
+      "sections": [
+        {
+          "h2": "ما هي جرثومة المعدة وكيف تسبب المشكلات؟",
+          "paras": [
+            "جرثومة المعدة، المعروفة علمياً باسم Helicobacter pylori أو H. pylori، هي بكتيريا تسكن بطانة المعدة وتتكيف مع بيئتها الحمضية بطريقة مذهلة. تنتقل عادةً عبر الطعام والماء الملوث أو الاحتكاك الوثيق مع شخص مصاب، وهذا يفسر انتشارها الواسع في المناطق التي تعتمد على الأكل الجماعي والمياه غير المعالجة جيداً.",
+            "تعيش الجرثومة في بطانة المعدة وتفرز إنزيمات تضعف الطبقة المخاطية الواقية، مما يتيح لأحماض المعدة أن تهاجم الجدار الداخلي. في بعض الحالات يبقى الالتهاب خفيفاً لسنوات دون أعراض واضحة، لكن في حالات أخرى يتطور إلى التهاب المعدة المزمن أو قرحة في المعدة أو الاثني عشر. وقد أثبتت الدراسات أن H. pylori تلعب دوراً في تطور سرطان المعدة على المدى البعيد عند بعض الأشخاص.",
+            "دراسة نشرت في مجلة World Journal of Gastroenterology عام 2010 أشارت إلى أن معدلات الإصابة بجرثومة المعدة في الشرق الأوسط مرتفعة بشكل لافت، وتتجاوز في بعض المجتمعات 70 بالمئة من البالغين. هذا الانتشار الواسع يجعل الفهم الصحيح للاختبارات أمراً ضرورياً لكل شخص في المنطقة."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "warn",
+            "title": "أعراض تستدعي فحص جرثومة المعدة",
+            "items": [
+              "ألم أو حرقة في منتصف البطن أو أعلاها، خاصة بين الوجبات أو ليلاً",
+              "غثيان متكرر أو شعور بالامتلاء المبكر",
+              "تجشؤ متكرر أو انتفاخ مستمر",
+              "فقدان الشهية أو فقدان الوزن غير المبرر",
+              "براز أسود أو داكن اللون (قد يشير إلى نزيف داخلي يستدعي مراجعة الطبيب فوراً)"
+            ]
+          }
+        },
+        {
+          "h2": "أنواع اختبارات جرثومة المعدة الأربعة",
+          "paras": [
+            "لا يوجد اختبار واحد مثالي لجميع الحالات، وكل اختبار له نقاط قوة وحالات يُفضَّل فيها استخدامه. فهم الفرق بينها يساعدك على معرفة ما تعنيه نتيجتك وما إذا كانت طريقة الفحص مناسبة لحالتك.",
+            "الاختبارات غير الجراحية هي التي يبدأ بها الطبيب في الغالب، لأنها أقل تعقيداً وأقل تكلفة. أما المنظار فيُحتجز لحالات بعينها تتطلب رؤية مباشرة للمعدة.",
+            "المراجعة المنشورة في Cochrane عام 2018 وقيّمت عشرات الدراسات وجدت أن اختبار النفس وتحليل البراز يتمتعان بدقة تشخيصية عالية، وأنهما الأنسب لتأكيد نجاح العلاج، وهو الأمر الذي يلتبس على كثير من المرضى."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "مقارنة اختبارات جرثومة المعدة الأربعة",
+            "head": ["الاختبار", "كيف يعمل", "يصلح للتشخيص", "يصلح لتأكيد الشفاء"],
+            "rows": [
+              ["تحليل الدم (أجسام مضادة)", "يكشف أجساماً مضادة للجرثومة في الدم", "نعم، لكن بدقة متوسطة", "لا، الأجسام تبقى أشهراً بعد الشفاء"],
+              ["تحليل البراز الأنتيجيني", "يكشف بروتينات الجرثومة في البراز", "نعم، بدقة عالية", "نعم، بعد أسبوعين من إيقاف العلاج"],
+              ["اختبار نفس اليوريا (UBT)", "يكشف ثاني أكسيد الكربون الناتج عن الجرثومة", "نعم، بدقة عالية جداً", "نعم، الأفضل لتأكيد الشفاء"],
+              ["المنظار مع خزعة", "فحص مباشر للمعدة مع أخذ عينة نسيجية", "نعم، الأدق إجمالاً", "ممكن لكن يُحتجز لحالات خاصة"]
+            ]
+          }
+        },
+        {
+          "h2": "تحليل الدم: لماذا لا يكفي وحده؟",
+          "paras": [
+            "تحليل الدم لجرثومة المعدة يبحث عن أجسام مضادة من نوع IgG ضد البكتيريا. الجهاز المناعي ينتج هذه الأجسام المضادة استجابةً للإصابة، لكنها تبقى في الدم لفترة طويلة قد تمتد لأشهر أو حتى سنة، حتى بعد القضاء على البكتيريا تماماً. هذا يعني أن نتيجة إيجابية تخبرك فقط أنك كنت مصاباً في وقت ما، لكنها لا تخبرك إذا كانت البكتيريا موجودة الآن.",
+            "مراجعة Cochrane عام 2018 التي حللت عشرات الدراسات وجدت أن تحليل الدم أقل دقة من اختبار النفس وتحليل البراز في التشخيص الأولي، فضلاً عن عدم صلاحيته لتقييم نجاح العلاج. ومع ذلك يظل هذا التحليل شائع الاستخدام في كثير من مختبرات منطقتنا، جزئياً لأنه أرخص وأبسط إجراءً من الاختبارات الأخرى.",
+            "إذا أجريت تحليل دم وجاءت النتيجة إيجابية، فلا تقلق مبكراً ولا تطلب الدواء مباشرة. الخطوة الصحيحة هي مناقشة الأمر مع طبيبك، الذي قد يطلب اختباراً أكثر دقة أو يقرر المتابعة بناءً على أعراضك وتاريخك الصحي. مشكلة التحليل الأكبر تظهر حين يُستخدم لتأكيد الشفاء بعد العلاج، وهو الخطأ الأكثر شيوعاً الذي يوقع كثيراً من المرضى في الوهم بأن الجرثومة لا تزال موجودة رغم القضاء عليها."
+          ]
+        },
+        {
+          "h2": "اختبار نفس اليوريا: الذهبي لتأكيد الشفاء",
+          "paras": [
+            "اختبار نفس اليوريا (Urea Breath Test أو UBT) يعمل بطريقة ذكية. تتناول كبسولة أو محلولاً يحتوي على يوريا مُعلَّمة بكربون خاص، ثم تتنفس في كيس مخصص. إذا كانت البكتيريا موجودة في معدتك، فإنها تكسر اليوريا وتنتج ثاني أكسيد الكربون المُعلَّم الذي يُكشف في هوائك الزفيري. إذا لم تكن البكتيريا موجودة، لا يظهر هذا المركب في العينة.",
+            "هذا الاختبار غير مؤلم ولا يحتاج إلى إبر أو إجراءات معقدة، وعادةً ما يستغرق نصف ساعة فقط في المختبر أو العيادة. دراسة نُشرت في American Journal of Gastroenterology عام 2002 أثبتت أن اختبار النفس وتحليل البراز الأنتيجيني يتمتعان بدقة مرتفعة بعد العلاج وأنهما الأنسب لتأكيد القضاء على البكتيريا، وهذا هو ما توصي به الإرشادات الإقليمية الحديثة كذلك.",
+            "لكن للاختبار شرطاً مهماً لا يجوز إغفاله: يجب التوقف عن المضادات الحيوية لمدة أربعة أسابيع كاملة على الأقل قبل إجرائه، والتوقف عن أدوية مثبطات مضخة البروتون مثل أوميبرازول أو بانتوبرازول لمدة أسبوعين على الأقل. هذه الأدوية تُثبّط نشاط الجرثومة دون أن تقضي عليها تماماً، مما يجعل الاختبار يعطي نتيجة سلبية خاطئة في المريض الذي لا يزال يتناولها."
+          ]
+        },
+        {
+          "h2": "تحليل البراز الأنتيجيني: بديل عملي لاختبار النفس",
+          "paras": [
+            "تحليل البراز الأنتيجيني يكشف عن بروتينات تُفرزها جرثومة المعدة الحية في البراز. لا يحتاج إلى معدات خاصة أو جهاز بالنفخ أو أي إجراء معقد، مما يجعله خياراً عملياً متاحاً في كثير من المختبرات الإقليمية التي لا تملك بعد جهاز اختبار النفس. دقته في تشخيص الإصابة الأولية وتأكيد الشفاء قريبة من اختبار النفس وفق المراجعات الحديثة.",
+            "للحصول على نتيجة دقيقة، ينطبق نفس الشرط الذي ذكرناه مع اختبار النفس: يجب التوقف عن المضادات الحيوية أربعة أسابيع، وعن مثبطات مضخة البروتون أسبوعين قبل إجراء الاختبار. جمع العينة في المنزل بالحاوية التي يوفرها المختبر أمر بسيط، لكن تأكد من تسليمها خلال المدة التي يحددها المختبر لأن العينة التي تُترك طويلاً في درجة حرارة الغرفة قد تعطي نتيجة غير دقيقة.",
+            "هذا الاختبار مفيد بشكل خاص للأطفال الصغار الذين يصعب عليهم التنفس في كيس اختبار النفس، وللمرضى الذين يعيشون في مناطق لا يتوفر فيها جهاز اختبار النفس. النتيجة تصل عادةً في غضون يوم إلى ثلاثة أيام بحسب المختبر."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "كيف تتحضر لاختبار النفس أو تحليل البراز الأنتيجيني",
+            "items": [
+              "أوقف المضادات الحيوية لمدة أربعة أسابيع كاملة قبل الاختبار",
+              "أوقف أدوية مثبطات مضخة البروتون (أوميبرازول، بانتوبرازول) لمدة أسبوعين",
+              "أوقف أدوية مضادات الحموضة التقليدية ليوم واحد على الأقل",
+              "صم عن الطعام والشراب لمدة لا تقل عن ساعتين قبل اختبار النفس",
+              "أبلغ المختبر بجميع أدويتك حتى يعطيك التعليمات الدقيقة"
+            ]
+          }
+        },
+        {
+          "h2": "المنظار: متى تكون الخزعة ضرورية؟",
+          "paras": [
+            "المنظار (Endoscopy) يتيح للطبيب رؤية المعدة مباشرة وأخذ عينة نسيجية صغيرة من بطانتها لتحليلها في المختبر. يمكن للمختبر اكتشاف البكتيريا في العينة بطرق متعددة، منها فحص الأنسجة مجهرياً، واختبار اليوريا السريع على العينة نفسها.",
+            "المنظار ليس الاختبار الروتيني الأول لجرثومة المعدة، لكنه يصبح ضرورياً في حالات بعينها: إذا كانت هناك أعراض تثير القلق مثل صعوبة البلع أو نزيف أو فقدان وزن سريع، أو إذا تجاوز المريض عمراً معيناً يرتفع فيه خطر أمراض خطيرة في المعدة، أو إذا لم يستجب للعلاج رغم تأكيد الإصابة.",
+            "الإجماع الإقليمي الصادر عام 2025 من خبراء الجهاز الهضمي في الشرق الأوسط ينصح بإجراء المنظار قبل العلاج للمرضى فوق سن معين وللمرضى الذين لديهم أعراض منذرة، لأن التحقق من غياب أمراض أخرى في المعدة أمر مهم قبل التوجه نحو علاج جرثومة المعدة فقط."
+          ]
+        },
+        {
+          "h2": "هل يجب علاج كل إصابة بجرثومة المعدة؟",
+          "paras": [
+            "هذا سؤال يشغل كثيرين، والإجابة ليست بسيطة. كثير من الأشخاص يحملون الجرثومة دون أعراض على الإطلاق، ويعيشون حياة طبيعية تماماً. القرار بالعلاج يعتمد على وجود قرحة في المعدة أو الاثني عشر مؤكدة بالمنظار، أو على أعراض مستمرة مثل عسر الهضم المزمن، أو على عوامل خطر أخرى يقيّمها الطبيب.",
+            "العلاج يتضمن عادةً مضادين حيويين مع دواء لتقليل حمض المعدة لمدة أسبوع إلى أسبوعين. وقد لفت الإجماع الإقليمي لعام 2025 الانتباه إلى مشكلة مهمة في المنطقة وهي ارتفاع مقاومة الجرثومة للمضادات الحيوية الشائعة، مما يجعل اختيار العلاج المناسب أمراً يستدعي خبرة الطبيب وليس علاجاً ذاتياً.",
+            "بعد انتهاء العلاج يجب التحقق من نجاحه بإجراء اختبار النفس أو تحليل البراز الأنتيجيني بعد أربعة أسابيع على الأقل من إتمام الدواء. لا تكتفِ بانتهاء الأعراض دليلاً على الشفاء، لأن الجرثومة قد تكون لا تزال موجودة وإن هدأت الأعراض."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "متى يجب مراجعة الطبيب فوراً؟",
+            "items": [
+              "براز أسود اللون أو يشبه القار أو يحتوي على دم ظاهر",
+              "قيء يشبه القهوة أو يحتوي على دم",
+              "ألم شديد مفاجئ في البطن لا يتحسن",
+              "صعوبة في البلع أو شعور بعائق عند تناول الطعام",
+              "فقدان وزن سريع وغير مبرر خلال أسابيع قليلة"
+            ]
+          }
+        },
+        {
+          "h2": "مقاومة المضادات الحيوية: مشكلة خاصة بمنطقتنا",
+          "paras": [
+            "مشكلة مقاومة H. pylori للمضادات الحيوية تتصاعد في المنطقة العربية، ويُعزى ذلك جزئياً إلى الاستخدام الواسع وغير المنظم للمضادات الحيوية التي تُباع في كثير من دول المنطقة دون وصفة طبية. مراجعة منهجية نُشرت في Clinical Microbiology Reviews عام 2022 وثّقت معدلات مقاومة مرتفعة في عدة مناطق من العالم، مع الإشارة إلى أن هذه المعدلات تختلف بحسب المنطقة الجغرافية وأنماط الاستخدام المحلية للمضادات الحيوية.",
+            "هذا يعني من الناحية العملية أن مجموعة الأدوية التي نجحت مع شخص آخر في عائلتك ليست بالضرورة مناسبة لك. وأن تناول مضادات حيوية ذاتياً بناءً على تجربة شخص آخر قد يزيد من مقاومة الجرثومة في جسمك ويجعل العلاج الصحيح أصعب لاحقاً، وهو فخ يقع فيه كثيرون في مجتمعاتنا بسبب سهولة الحصول على الأدوية.",
+            "الطبيب يختار مجموعة الأدوية بناءً على الخيارات المتاحة في منطقتك ومعدلات المقاومة المعروفة، وأحياناً بعد إجراء اختبار حساسية للمضادات الحيوية من عينة المنظار. دورك بعد اختيار العلاج هو إتمام الجرعات كاملةً حتى اليوم الأخير حتى لو اختفت الأعراض قبل ذلك. الانقطاع المبكر عن الدواء هو السبب الأول لفشل العلاج وظهور مقاومة."
+          ]
+        },
+        {
+          "h2": "الوقاية والعادات اليومية",
+          "paras": [
+            "الوقاية من H. pylori تبدأ بتحسين نظافة المياه والغذاء. غسل اليدين جيداً قبل الطعام وبعد الحمام، والحرص على الأكل من مصادر معروفة النظافة، وشرب مياه موثوقة خاصة في المناطق التي تكون فيها المياه غير معالجة جيداً، كلها خطوات تقلل من خطر الإصابة. تجنب مشاركة أدوات الأكل والشرب مع أشخاص آخرين خلال فترات الأمراض الهضمية أمر منطقي كذلك.",
+            "داخل الأسرة الواحدة، إذا اكتُشفت إصابة أحد أفرادها بالجرثومة وكانت لديه أعراض أو قرحة، فمن المفيد أن يناقش الطبيب مع أفراد الأسرة إذا كانوا بحاجة إلى فحص، خاصة إذا كانوا يشاركونه الأدوات والمطبخ. الأطفال الصغار في البيت أكثر عرضة للإصابة في المجتمعات التي تنتشر فيها الجرثومة بكثرة، لأن جهاز المناعة لديهم لا يزال في طور النضج.",
+            "الانتشار الواسع لجرثومة المعدة في منطقتنا العربية لا يعني أن الإصابة حتم لا مفر منه. رفع مستوى النظافة العامة في المنزل وتحسين جودة المياه، إضافةً إلى الفحص المبكر عند ظهور الأعراض، هي الأدوات الحقيقية للحدّ من المضاعفات الخطيرة لهذه الجرثومة الصامتة."
+          ]
+        }
+      ],
+      "tie": "تطبيق صحتك يتيح لك حفظ نتائج تحاليلك على مدار الزمن، بما فيها نتائج فحص جرثومة المعدة. يمكنك تسجيل تاريخ الفحص ونوعه والنتيجة، ثم مقارنة نتيجة ما قبل العلاج بنتيجة التأكيد بعده، كل ذلك في ملف صحي واضح تحمله معك إلى الطبيب. هذا يوفر على الطبيب الوقت ويعطيك صورة واضحة عن مسار صحتك.",
+      "faqs": [
+        {
+          "q": "هل يمكنني إجراء اختبار جرثومة المعدة في المنزل؟",
+          "a": "توجد اختبارات منزلية سريعة لجرثومة المعدة في بعض الصيدليات، لكنها أقل دقة من الاختبارات المختبرية. النتيجة المنزلية قد تكون مرشداً أولياً فقط، والتشخيص الصحيح والقرار بالعلاج يحتاجان دائماً إلى تقييم الطبيب."
+        },
+        {
+          "q": "كم يستغرق تحليل البراز لجرثومة المعدة؟",
+          "a": "تحليل البراز الأنتيجيني عادةً يظهر نتيجته خلال يوم واحد إلى ثلاثة أيام حسب المختبر. اختبار النفس أسرع وقد يعطي النتيجة في نفس الجلسة أو خلال يوم واحد."
+        },
+        {
+          "q": "هل تحليل الدم الإيجابي يعني أنني ما زلت مصاباً؟",
+          "a": "ليس بالضرورة. تحليل الدم يكشف الأجسام المضادة التي تبقى في الدم لأشهر طويلة بعد الشفاء. إذا أجريت علاجاً سابقاً، فلا يمكن الاعتماد على تحليل الدم لتأكيد الشفاء أو استمرار الإصابة. اختبار النفس أو تحليل البراز أدق في هذه الحالة."
+        },
+        {
+          "q": "لماذا قال الطبيب إنني لا أحتاج علاجاً رغم أن النتيجة إيجابية؟",
+          "a": "كثير من الناس يحملون جرثومة المعدة دون أعراض ودون قرحة، وليس كل إصابة تستلزم علاجاً. الطبيب يوازن بين فوائد العلاج ومخاطره وتأثيره على بكتيريا الجهاز الهضمي النافعة. إذا لم تكن لديك أعراض ولا قرحة مؤكدة، قد يكون المتابعة بدون علاج هي القرار الصحيح."
+        },
+        {
+          "q": "متى أجري اختبار التأكيد بعد انتهاء العلاج؟",
+          "a": "يُفضل إجراء اختبار النفس أو تحليل البراز الأنتيجيني بعد أربعة أسابيع على الأقل من الانتهاء من آخر جرعة من المضادات الحيوية، وبعد أسبوعين من إيقاف مثبطات مضخة البروتون. إجراؤه قبل هذه الفترة قد يعطي نتيجة سلبية خاطئة."
+        },
+        {
+          "q": "هل يمكن أن تعود جرثومة المعدة بعد العلاج الناجح؟",
+          "a": "الإصابة مجدداً بعد العلاج الناجح ممكنة ولكنها ليست شائعة في البيئات النظيفة. في المناطق التي تنتشر فيها الجرثومة بكثرة والتي تشحّ فيها المياه النقية، يكون خطر الإصابة مجدداً أعلى قليلاً. الحرص على نظافة الطعام والمياه يقلل هذا الخطر."
+        },
+        {
+          "q": "هل جرثومة المعدة تسبب سرطان المعدة دائماً؟",
+          "a": "لا. الغالبية العظمى من المصابين بجرثومة المعدة لا يصابون بسرطان المعدة. لكن الإصابة المزمنة وغير المعالجة ترفع الخطر مقارنةً بمن لا يحملون الجرثومة. القضاء على الجرثومة يُعدّ أحد إجراءات الوقاية من سرطان المعدة على المدى البعيد."
+        },
+        {
+          "q": "هل يمكن أن تنتقل جرثومة المعدة بين أفراد الأسرة؟",
+          "a": "نعم، تنتقل عادةً عبر الاحتكاك الوثيق ومشاركة الأدوات وتناول الطعام من الأطباق ذاتها. لهذا تُلاحَظ أحياناً إصابات متعددة في الأسرة الواحدة، ويناقش بعض الأطباء فكرة فحص أفراد الأسرة المقربين عند اكتشاف إصابة لديها أعراض أو قرحة."
+        }
+      ]
+    },
+    "en": {
+      "title": "H. pylori testing: breath, stool, blood or endoscopy",
+      "desc": "A clear guide to the four H. pylori tests: how each works, which confirms eradication, why a blood antibody test cannot, and when to see a doctor urgently.",
+      "keywords": "H pylori test, helicobacter pylori, urea breath test, stool antigen test, h pylori blood test, endoscopy h pylori, h pylori eradication, h pylori symptoms, peptic ulcer test",
+      "h1": "H. pylori testing: which test you need and when",
+      "takeaways": [
+        "H. pylori is one of the most common bacterial infections in the Middle East, and many people carry it without any symptoms.",
+        "There are four ways to test for it: a blood antibody test, a stool antigen test, a urea breath test, and an endoscopy with biopsy.",
+        "The blood antibody test cannot confirm eradication because antibodies remain in the blood for months after the infection has cleared.",
+        "The urea breath test and the stool antigen test are the two best options for confirming that treatment worked.",
+        "Not every positive result means you need treatment. Your doctor decides based on your symptoms and history."
+      ],
+      "sections": [
+        {
+          "h2": "What is H. pylori and why does it matter?",
+          "paras": [
+            "Helicobacter pylori, or H. pylori, is a bacterium that lives in the lining of the stomach. It has a remarkable ability to survive the stomach's acid environment, producing enzymes that weaken the protective mucous layer and allow stomach acid to irritate the underlying tissue. Most people pick it up in childhood through contaminated food or water, or close contact with an infected person.",
+            "For many people the infection causes no symptoms at all and goes unnoticed for years. For others it causes chronic inflammation, leads to a peptic ulcer in the stomach or the duodenum, and in some cases is linked to a higher long-term risk of stomach cancer. A study published in the World Journal of Gastroenterology in 2010 noted that infection rates in parts of the Middle East exceed 70 percent of the adult population, making it a genuinely regional health priority.",
+            "Understanding the difference between the available tests matters because the wrong test for the wrong question gives you a misleading answer. A blood test taken after treatment to check whether the infection has cleared is the most common example of a test chosen for the wrong purpose."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "warn",
+            "title": "Symptoms that warrant an H. pylori test",
+            "items": [
+              "Burning or gnawing pain in the upper or middle abdomen, especially between meals or at night",
+              "Persistent nausea or feeling full very quickly after eating",
+              "Frequent belching or persistent bloating",
+              "Loss of appetite or unexplained weight loss",
+              "Black or tarry stools (this may indicate bleeding and needs urgent medical attention)"
+            ]
+          }
+        },
+        {
+          "h2": "The four tests compared",
+          "paras": [
+            "Each test has a specific role and its accuracy depends on when it is used and how you prepare for it. The three non-invasive tests, blood, stool and breath, are the usual starting point. Endoscopy is reserved for situations where a direct look inside the stomach adds important information.",
+            "A Cochrane review published in 2018 that evaluated dozens of studies concluded that the urea breath test and the stool antigen test have the highest accuracy for both initial diagnosis and for confirming eradication after treatment. The blood antibody test scored lower on both counts. This finding is important because many clinics in the region still use the blood test as a routine check after treatment, which can give false reassurance.",
+            "The regional consensus published in 2025 by gastroenterology experts from across the Middle East now gives clear guidance on which test to use at which stage, and emphasises the importance of confirming eradication rather than assuming treatment worked."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Comparing the four H. pylori tests",
+            "head": ["Test", "How it works", "Good for diagnosis", "Good for confirming cure"],
+            "rows": [
+              ["Blood antibody test", "Detects IgG antibodies to H. pylori in blood", "Yes, but lower accuracy", "No: antibodies persist for months after clearance"],
+              ["Stool antigen test", "Detects H. pylori proteins shed in stool", "Yes, high accuracy", "Yes, at least two weeks after stopping treatment"],
+              ["Urea breath test (UBT)", "Detects CO2 produced if H. pylori breaks down labelled urea", "Yes, very high accuracy", "Yes, best single test for confirming eradication"],
+              ["Endoscopy and biopsy", "Direct view of stomach with tissue sample", "Yes, most thorough", "Possible but reserved for specific situations"]
+            ]
+          }
+        },
+        {
+          "h2": "Why the blood antibody test cannot confirm cure",
+          "paras": [
+            "The blood antibody test measures immunoglobulin G antibodies that your immune system produces in response to the infection. The problem is that these antibodies stay in your bloodstream for many months, sometimes more than a year, even after H. pylori has been completely eliminated. A positive result therefore only tells you that you have been infected at some point, not whether the bacterium is present right now.",
+            "The Cochrane review found that the blood test is the least accurate of the four options for initial diagnosis as well. It is used in some settings because it is simple and widely available, but if the question is whether your treatment course worked, the blood test will give you an answer that cannot be trusted.",
+            "If your doctor orders a blood test after you have finished antibiotic treatment, it is worth asking whether a breath test or stool antigen test would give a clearer answer. Many patients complete a full course of antibiotics and then receive a positive blood antibody result, and incorrectly conclude that the treatment failed."
+          ]
+        },
+        {
+          "h2": "The urea breath test: why it is the gold standard",
+          "paras": [
+            "The urea breath test works on a simple principle. You swallow a capsule or drink a solution containing urea labelled with a special carbon isotope. If H. pylori is living in your stomach, it produces an enzyme called urease that breaks down the urea, releasing labelled carbon dioxide that you breathe out. A technician measures the level of this labelled gas in your breath sample.",
+            "The test is painless, involves no needles, and takes around half an hour at the clinic. A study published in the American Journal of Gastroenterology in 2002 confirmed that both the breath test and the stool antigen test reliably distinguish between active infection and successful eradication in the weeks after treatment.",
+            "One preparation step is critical. You must stop antibiotics at least four weeks before the test, and stop proton pump inhibitors such as omeprazole or pantoprazole at least two weeks before. These drugs suppress H. pylori without eliminating it, so a patient who takes the test while still on a PPI can get a false negative result and believe, wrongly, that the infection is gone."
+          ]
+        },
+        {
+          "h2": "The stool antigen test: a practical alternative",
+          "paras": [
+            "The stool antigen test detects proteins from living H. pylori bacteria shed into the faeces. It matches the breath test in accuracy for both diagnosis and confirmation of cure, and it is easier to carry out in laboratories that do not have the equipment for breath testing. You collect a small stool sample at home using a container provided by the lab and return it within the time frame they specify.",
+            "The same preparation rules apply: stop antibiotics four weeks before and proton pump inhibitors two weeks before, or the result may be falsely negative. Beyond that, there is no fasting needed and no special procedure. The result usually comes back within one to three days.",
+            "The stool antigen test is particularly useful for children who find the breath test difficult, and for anyone in a location where breath test equipment is not available. A study from the Arab Journal of Urology noting semen quality differences across Arab countries has no bearing on this, but regional laboratory infrastructure does vary considerably, and the stool test is more widely accessible across the region than the breath test."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "How to prepare for the breath test or stool antigen test",
+            "items": [
+              "Stop all antibiotics at least four weeks before the test",
+              "Stop proton pump inhibitors such as omeprazole or pantoprazole at least two weeks before",
+              "Stop antacids for at least one day before the test",
+              "Fast for at least two hours before the urea breath test",
+              "Tell the lab about all medicines you take so they can give you precise instructions"
+            ]
+          }
+        },
+        {
+          "h2": "Endoscopy: when is it necessary?",
+          "paras": [
+            "Endoscopy allows the doctor to look directly at the stomach lining through a thin flexible camera passed down the throat, and to take a tiny tissue sample for laboratory analysis. The lab can detect H. pylori in the biopsy by examining the tissue under a microscope and by a rapid urease test on the sample itself. It is the most thorough diagnostic tool available.",
+            "Endoscopy is not the routine first step for most patients with suspected H. pylori. The regional 2025 consensus recommends it for patients above a certain age threshold, for those who have warning symptoms such as difficulty swallowing, significant weight loss, or bleeding, and for those who do not respond to a standard treatment course. In these situations, directly viewing the stomach and confirming the absence of other serious conditions matters more than a simple non-invasive test.",
+            "Antibiotic resistance complicates treatment in the region, and where endoscopy is performed and a tissue sample is taken, the laboratory can sometimes test which antibiotics the specific H. pylori strain is sensitive to. This culture and sensitivity testing helps the doctor choose an antibiotic combination that is more likely to work the first time."
+          ]
+        },
+        {
+          "h2": "Antibiotic resistance: the regional challenge",
+          "paras": [
+            "A systematic review published in Clinical Microbiology Reviews in 2022 documented rising antibiotic resistance rates in H. pylori across many regions of the world, driven partly by widespread antibiotic use without prescription. In many Arab countries, antibiotics can be bought over the counter, which means patients commonly take incomplete or inappropriate courses that allow bacteria to develop resistance.",
+            "The practical consequence is that the antibiotic combination that worked for your neighbour or a family member may not work for you, because the strain of H. pylori circulating in the community may be resistant to those drugs. This is one reason why self-treatment without a doctor's guidance is likely to fail and may make the infection harder to treat afterwards.",
+            "Your doctor selects the antibiotic combination based on local resistance patterns and the options available in your area. Treatment usually involves two antibiotics alongside a proton pump inhibitor, taken for one to two weeks. Once you finish the course, confirming eradication with a breath test or stool antigen test four weeks later is not optional. The symptoms settling is not proof that the infection is gone."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "Go to hospital or a doctor urgently if you notice",
+            "items": [
+              "Black or tarry stools, or stools that contain visible blood",
+              "Vomiting that looks like coffee grounds or contains blood",
+              "Sudden severe abdominal pain that does not ease",
+              "Difficulty swallowing or a sensation of food sticking",
+              "Rapid unexplained weight loss over a few weeks"
+            ]
+          }
+        },
+        {
+          "h2": "Does a positive result always mean treatment?",
+          "paras": [
+            "Many people carry H. pylori without any symptoms or ulcers and live with it for years without problems. The decision to treat is based on whether you have a confirmed peptic ulcer, persistent symptoms such as chronic indigestion that is affecting your quality of life, or other risk factors your doctor judges to be significant.",
+            "The first regional consensus on H. pylori management published in 2025 provides guidance for clinicians in the Middle East on when to treat and which regimens to prefer. It does not recommend blanket treatment of every positive result, and it acknowledges that the balance between the benefits of eradication and the risks of antibiotic overuse is an active consideration in the region.",
+            "When treatment is decided, your role is to complete the full course even if symptoms improve quickly. Stopping early because you feel better is one of the most common reasons treatment fails and leaves a resistant strain behind. After finishing, the confirmation test is the final step that closes the loop properly."
+          ]
+        },
+        {
+          "h2": "Prevention and everyday habits",
+          "paras": [
+            "Prevention starts with food and water hygiene. Washing hands thoroughly before eating and after using the toilet, drinking water from a reliable treated source, and eating at places where food handling standards are known, all reduce the risk of acquiring H. pylori. In parts of the region where tap water quality is inconsistent, using filtered or bottled water for drinking and food preparation is a practical step.",
+            "Within a household, if one family member is found to have H. pylori with a confirmed ulcer or significant symptoms, it is worth discussing with a doctor whether close family members should be tested. People who share cooking, utensils, and meals are at higher exposure, and children in the home are particularly vulnerable because their immune systems are still developing.",
+            "The high prevalence of H. pylori across the Arab world does not mean infection is inevitable. Raising hygiene standards at home, improving water access, and seeking early assessment when digestive symptoms persist are the practical tools for reducing the serious complications this otherwise invisible bacterium can cause over years."
+          ]
+        }
+      ],
+      "tie": "The Sihtak app lets you keep a record of your H. pylori test results over time, including the test type, the date, and whether you were on any medication that could affect the result. You can compare your pre-treatment and post-treatment results side by side, and share a clear summary with your doctor at your next visit. It keeps your health history organised even when you move between clinics or cities.",
+      "faqs": [
+        {
+          "q": "Can I test myself for H. pylori at home?",
+          "a": "Rapid home test kits for H. pylori are sold in some pharmacies, but they are blood-based antibody tests with lower accuracy than lab-based methods. They may serve as a rough first pointer, but diagnosis and treatment decisions should always involve a doctor and a proper lab test."
+        },
+        {
+          "q": "How long does the stool antigen test take to get a result?",
+          "a": "Most laboratories return a stool antigen test result within one to three days. The urea breath test is often faster and may give a result the same day or the next morning, depending on the clinic."
+        },
+        {
+          "q": "My blood test came back positive after treatment. Does that mean the treatment failed?",
+          "a": "Not necessarily. Blood antibody tests remain positive for many months after successful eradication, so a positive result after treatment does not mean the infection is still active. You need a urea breath test or stool antigen test, performed at least four weeks after finishing antibiotics, to answer that question accurately."
+        },
+        {
+          "q": "My doctor said I do not need treatment even though my result is positive. Why?",
+          "a": "Many people harbour H. pylori without any ulcer or significant symptoms and do not benefit enough from antibiotic treatment to justify the side effects and resistance risk. Your doctor weighs the evidence for your specific situation. If you have no symptoms and no confirmed ulcer, watchful waiting may be the right decision."
+        },
+        {
+          "q": "When should I have the confirmation test after treatment?",
+          "a": "Wait at least four weeks after finishing the last antibiotic dose, and at least two weeks after stopping a proton pump inhibitor, before doing a breath test or stool antigen test. Testing earlier risks a falsely negative result that gives you false confidence the infection is cleared when it may not be."
+        },
+        {
+          "q": "Can H. pylori come back after successful eradication?",
+          "a": "Reinfection after a confirmed cure is possible but uncommon in higher-income settings with clean water. In areas with poor sanitation or where the infection is very prevalent, the reinfection rate is somewhat higher. Good food hygiene and clean water remain the best long-term protection."
+        },
+        {
+          "q": "Does H. pylori infection always cause stomach cancer?",
+          "a": "No. The vast majority of people infected with H. pylori never develop stomach cancer. The infection does raise long-term risk compared with those who are not infected, and eliminating it is considered a preventive measure for stomach cancer in high-risk individuals. But it is one of many factors, and most infected people have no serious outcome."
+        },
+        {
+          "q": "Can H. pylori spread within a household?",
+          "a": "Yes. The bacterium spreads through close contact, shared utensils, and possibly saliva. Multiple members of the same household can be infected, particularly in settings with shared cooking and eating arrangements. This is why some doctors discuss screening close family members when one person is found to have H. pylori with a confirmed ulcer."
+        }
+      ]
+    }
+  }
+}

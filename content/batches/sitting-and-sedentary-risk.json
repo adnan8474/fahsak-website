@@ -1,0 +1,358 @@
+{
+  "slug": "sitting-and-sedentary-risk",
+  "category": "lifestyle",
+  "chip_ar": "نمط الحياة",
+  "chip_en": "Lifestyle",
+  "date_iso": "2026-07-14",
+  "sources": [
+    {"label": "Wu J, Fu Y, Chen D et al: Sedentary behavior patterns and the risk of non-communicable diseases and all-cause mortality: A systematic review and meta-analysis, International journal of nursing studies, 2023", "url": "https://pubmed.ncbi.nlm.nih.gov/37523952/"},
+    {"label": "Pinto AJ, Bergouignan A, Dempsey PC et al: Physiology of sedentary behavior, Physiological reviews, 2023", "url": "https://pubmed.ncbi.nlm.nih.gov/37326297/"},
+    {"label": "Dunstan DW, Kingwell BA, Larsen R et al: Breaking up prolonged sitting reduces postprandial glucose and insulin responses, Diabetes care, 2012", "url": "https://pubmed.ncbi.nlm.nih.gov/22374636/"},
+    {"label": "Yin M, Xu K, Deng J et al: Optimal Frequency of Interrupting Prolonged Sitting for Cardiometabolic Health: A Systematic Review and Meta-Analysis of Randomized Crossover Trials, Scandinavian journal of medicine & science in sports, 2024", "url": "https://pubmed.ncbi.nlm.nih.gov/39630056/"},
+    {"label": "Owen N, Healy GN, Matthews CE et al: Too much sitting: the population health science of sedentary behavior, Exercise and sport sciences reviews, 2010", "url": "https://pubmed.ncbi.nlm.nih.gov/20577058/"},
+    {"label": "World Health Organization: Global action plan on physical activity 2018-2030", "url": "https://www.who.int/publications/i/item/9789241514187"}
+  ],
+  "content": {
+    "ar": {
+      "title": "خطر الجلوس الطويل: ما الذي يحدث لجسمك وكيف تتصدى له",
+      "desc": "الجلوس المتواصل لساعات طويلة يرفع خطر أمراض القلب والسكري والوفاة المبكرة حتى لو كنت تمارس الرياضة. تعرف على ما يقوله العلم وكيف تكسر دورة الجلوس يوميا.",
+      "keywords": "خطر الجلوس الطويل, سلوك الخمول, أمراض الجلوس, مكتب وصحة, نشاط بدني, قطع الجلوس, القلب والسكري, نمط الحياة الخامل",
+      "h1": "الجلوس طوال اليوم: التكلفة الصحية الحقيقية وما يُعوّض عنها",
+      "takeaways": [
+        "الجلوس أكثر من ثماني ساعات يوميا يرفع خطر الوفاة المبكرة وأمراض القلب والسكري بشكل مستقل عن ممارسة الرياضة.",
+        "قطع الجلوس كل ثلاثين دقيقة بحركة بسيطة يقلل ارتفاع الغلوكوز والدهون في الدم بعد الأكل.",
+        "الحياة في مدن الخليج والمدن العربية الكبرى تجمع بين قيادة السيارة وطول ساعات المكتب وقلة المشي، مما يجعل التعرض مزدوجا.",
+        "الحل ليس قضاء ساعات في الصالة الرياضية بل إدخال حركات قصيرة ومتكررة طوال اليوم.",
+        "تطبيق سهل الحفظ: قف أو تمش دقيقتين كل نصف ساعة من الجلوس."
+      ],
+      "sections": [
+        {
+          "h2": "هل الجلوس الطويل خطير فعلا حتى لو كنت بصحة جيدة؟",
+          "paras": [
+            "الإجابة المختصرة: نعم. الجلوس لساعات طويلة متواصلة يُعدّ اليوم عامل خطر مستقلا بحد ذاته، بمعنى أنه يضر حتى لو كنت تمارس الرياضة بانتظام في الصباح أو المساء. هذا ما خلصت إليه مراجعات منهجية نشرت في السنوات الأخيرة ودرست مئات الآلاف من الأشخاص.",
+            "دراسة منهجية نشرتها مجلة International Journal of Nursing Studies عام 2023 وتضمنت بيانات ربطت أنماط الجلوس بالأمراض غير المعدية ووفيات الأسباب الكلية وجدت أن الجلوس المتواصل يرتبط بزيادة واضحة في أمراض القلب والأوعية والسكري من النوع الثاني وبعض أنواع السرطان.",
+            "الخطورة لا تكمن في الجلوس ذاته بوصفه وضعية جسدية، بل في تراكم ساعات الخمول الكامل حيث تتوقف العضلات الكبيرة عن الانقباض تقريبا، مما يُحدث سلسلة من التغيرات الأيضية والهرمونية والأوعية الدموية خلال ساعات قليلة."
+          ],
+          "visual": {
+            "type": "stats",
+            "items": [
+              {"value": "27%", "label": "زيادة في خطر أمراض القلب مع الجلوس المفرط", "tone": "bad"},
+              {"value": "2x", "label": "ضعف خطر الإصابة بالسكري عند الجلوس أكثر من 8 ساعات يوميا", "tone": "warn"},
+              {"value": "30 دقيقة", "label": "الحد الأقصى الموصى به قبل أخذ استراحة حركية", "tone": "info"}
+            ]
+          }
+        },
+        {
+          "h2": "ماذا يحدث داخل الجسم عندما تجلس ساعات طويلة؟",
+          "paras": [
+            "مراجعة علمية شاملة نشرتها مجلة Physiological Reviews عام 2023 رصدت ما يجري فعليا في الجسم خلال الجلوس المطوّل. بعد بضع عشرات من الدقائق من الخمول التام، تنخفض نشاط إنزيم الليباز البروتيني الدهني (Lipoprotein Lipase) في العضلات، وهو الإنزيم المسؤول عن حرق الدهون الثلاثية في الدم. بعبارة أبسط، تتراكم الدهون في الدورة الدموية بدلا من استهلاكها.",
+            "بعد الوجبات يكون هذا الأثر أشد وضوحا. أثبتت دراسة نشرتها مجلة Diabetes Care عام 2012 أن الجلوس المتواصل بعد الغداء يرفع مستوى الغلوكوز والأنسولين في الدم مقارنة بمن يقوم كل عشرين دقيقة لثلاث دقائق خفيفة. وهذا الارتفاع المتكرر يُجهد البنكرياس على المدى البعيد.",
+            "على مستوى الأوعية الدموية، يقل تدفق الدم إلى الساقين عند الجلوس الطويل، ترتفع معه لزوجة الدم، ويزيد احتمال تكون الخثرات الوريدية (Deep Vein Thrombosis) خصوصا عند السفر الطويل بالطائرة أو عند الجلوس بعد عمليات جراحية. أيضا، تضعف عضلات الجذع ومنطقة الحوض بالتدريج بسبب غياب أي حمل عليها، مما يُعدّ من أسباب آلام أسفل الظهر الشائعة. بعبارة أخرى، الجلوس الطويل لا يُنهك القلب والشرايين فحسب، بل يُضعف الهيكل العضلي الذي يحمي العمود الفقري."
+          ],
+          "visual": {
+            "type": "timeline",
+            "title": "ما يحدث في الجسم خلال ساعات الجلوس المتواصل",
+            "items": [
+              {"when": "بعد 20 دقيقة", "what": "يبدأ ضغط على الأقراص الفقرية القطنية ويتراجع تدفق الدم إلى الساقين"},
+              {"when": "بعد 60 دقيقة", "what": "ينخفض نشاط إنزيم حرق الدهون في العضلات بشكل ملحوظ"},
+              {"when": "بعد الوجبة", "what": "يرتفع الغلوكوز والأنسولين في الدم أعلى مما لو تحركت بين الحين والآخر"},
+              {"when": "يوميا لأشهر", "what": "تتراكم آثار تصلب الشرايين وارتفاع الدهون وضعف عضلات الجذع"}
+            ]
+          }
+        },
+        {
+          "h2": "هل ممارسة الرياضة يوميا تمحو أثر الجلوس الطويل؟",
+          "paras": [
+            "هذا هو المفاجأة التي قلبت الطريقة التقليدية في التفكير: لا، ممارسة الرياضة ساعة كاملة في الصباح لا تُلغي آثار الجلوس التسع أو العشر ساعات التالية. يُفرّق العلماء اليوم بين النشاط البدني المنظم (كالمشي والسباحة والجيم) وبين مقدار الجلوس خلال بقية اليوم، وكلاهما له أثر صحي مستقل.",
+            "الشخص الذي يجري ثلاثين دقيقة في الصباح ثم يجلس ثمانية ساعات في المكتب ثم ساعتين أمام التلفاز يُصنَّف علميا بوصفه شخصا نشيطا وخاملا في الوقت ذاته. الدراسات تُظهر أن هذا النمط لا يزال مرتبطا بارتفاع الخطر القلبي الأيضي مقارنة بشخص يتحرك توزيعا منتظما على ساعات يومه وإن كان مجموع نشاطه أقل.",
+            "هذا لا يعني أن الرياضة غير مفيدة، بل العكس تماما. لكنه يعني أن الهدف ليس فقط إضافة وقت رياضة إلى اليوم، بل أيضا تقليل زمن الجلوس المتواصل. الأمران معا يُعطيان أفضل حماية."
+          ]
+        },
+        {
+          "h2": "السياق الإقليمي: لماذا المشكلة مضاعفة في المنطقة العربية؟",
+          "paras": [
+            "تجمع المدن العربية الكبرى عوامل تُراكم الجلوس بشكل غير اعتيادي. الاعتماد شبه الكلي على السيارة، حتى لمسافات يمكن قطعها مشيا، يُلغي الحركة الطبيعية في بداية اليوم ونهايته. الطقس الحار في الخليج يجعل المشي خارجا غير مريح خمسة أشهر أو أكثر في السنة، فتنحصر الحركة في البيئات المكيّفة.",
+            "ثقافة الضيافة التي تدور حول القهوة والشاي في المجالس الطويلة، والسهر المتأخر المصحوب بجلسات ممتدة، وانتشار العمل المكتبي في القطاع الحكومي والمالي يُضاف إليها استخدام مكثف للشاشات ترفيهيا، كل ذلك يعني أن متوسط ساعات الجلوس اليومي في بعض الفئات العمرية يتجاوز عشر ساعات بسهولة.",
+            "منظمة الصحة العالمية تُصنّف نسبة كبيرة من سكان منطقة شرق المتوسط على أنهم غير نشطين بدنيا بما يكفي. التوصيات الدولية تتحدث عن 150 دقيقة من النشاط المعتدل أسبوعيا كحد أدنى، لكن هذا الرقم وحده لا يعكس عدد ساعات الجلوس المتواصل التي تبقى عالية حتى عند من يُحقق هذا الهدف."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "warn",
+            "title": "عوامل تزيد ساعات الجلوس في المنطقة العربية",
+            "items": [
+              "الاعتماد الكلي على السيارة حتى للمسافات القصيرة",
+              "الحرارة الشديدة التي تمنع المشي خارجا أشهرا طويلة",
+              "العمل المكتبي الطويل بدون فترات راحة منظمة",
+              "الجلسات العائلية والاجتماعية الطويلة مساء",
+              "السهر أمام الشاشات حتى ساعات متأخرة"
+            ]
+          }
+        },
+        {
+          "h2": "كيف تكسر دورة الجلوس بطريقة علمية؟",
+          "paras": [
+            "المراجعة المنهجية المنشورة في مجلة Scandinavian Journal of Medicine and Science in Sports عام 2024 وحللت نتائج تجارب عشوائية متقاطعة خلصت إلى أن قطع الجلوس كل 30 دقيقة بحركة خفيفة تستمر دقيقتين إلى ثلاث دقائق يُحقق تحسنا ملموسا في مؤشرات الغلوكوز والأنسولين والضغط بعد الوجبات، ويفوق من حيث الأثر المباشر على الأيض الجلسة الرياضية المكثفة الواحدة يوميا.",
+            "لا يحتاج هذا التحرك إلى معدات أو ملابس رياضية. الوقوف والتمشي خطوات قليلة لإعداد كوب الماء، والوقوف أثناء مكالمة هاتفية، واستخدام درج السلم بدلا من المصعد لطابق واحد، كل هذه الحركات الصغيرة تُحدث أثرا حقيقيا في الكيمياء الداخلية للجسم.",
+            "تطبيق بسيط يمكنك البدء به غدا: اضبط منبها كل ثلاثين دقيقة خلال ساعات العمل، وعند رنينه قم واتمش دقيقتين على الأقل. لا يزعج هذا الإنتاجية، بل تُظهر بعض الدراسات أن قطع الجلوس يحسن التركيز ويقلل الخمول الذهني في فترة ما بعد الظهر."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "قاعدة 30 دقيقة: كيف تطبقها يوميا",
+            "items": [
+              "اضبط منبها صامتا (تنبيه الساعة أو تطبيق) كل 30 دقيقة خلال وقت الجلوس",
+              "عند الرنين قم واتمش دقيقتين: ردهة المكتب أو البيت أو حتى حول طاولتك",
+              "اجعل الماء على بُعد خطوات وليس بجانبك مباشرة حتى تضطر للقيام",
+              "إذا كانت مكالمة هاتفية تتجاوز دقيقتين، أجرها واقفا أو ماشيا",
+              "استخدم السلم بدلا من المصعد لطابق أو طابقين",
+              "في الاجتماعات الطويلة اقترح استراحة وقوف بسيطة كل ساعة"
+            ]
+          }
+        },
+        {
+          "h2": "مكتب المنزل والعمل عن بُعد: هل زاد الوضع سوءا؟",
+          "paras": [
+            "أشارت تقارير ما بعد جائحة كوفيد إلى أن العمل من المنزل أطال ساعات الجلوس بشكل كبير لشريحة واسعة من الناس. في المكتب كان الشخص يتحرك عادة بين الغرف والأدوار والمقهى وسيارة الأجرة. في المنزل قد يمضي ست ساعات لا يتجاوز فيها جهاز الحاسوب.",
+            "إذا كنت تعمل من المنزل، فالحل يحتاج إلى بناء هيكل اصطناعي يُعوّض عن الحركة الطبيعية التي كانت توفرها البيئة المكتبية. جدولة استراحات ثابتة وتحديد وقت للمشي مثلما تُحدد اجتماعات العمل، ووضع الشاشة بعيدة بما يكفي لإجبارك على الوقوف عند استخدام الطابعة أو الاطلاع على ملف ورقي، كلها استراتيجيات بسيطة لكنها فعّالة.",
+            "كرسي الوقوف أو المكتب المتحرك (Standing Desk) خيار يمكن تجربته، لكن الوقوف المتواصل ليس حلا مثاليا هو الآخر لأنه يضغط على مفاصل القدمين والركبتين. المثالي هو التناوب: جلوس نصف ساعة ثم وقوف نصف ساعة ثم المشي دقيقتين، وهكذا."
+          ]
+        },
+        {
+          "h2": "الأطفال والمراهقون: خطر أكبر مما تتخيل",
+          "paras": [
+            "الجيل الذي نشأ مع الشاشات يعاني من مشكلة مختلفة نوعا ما عن مشكلة الجيل الذي يجلس في المكتب: ساعات الشاشة الطويلة في الدراسة والترفيه ساهمت في تراجع حاد في مستوى اللياقة البدنية لدى الأطفال وارتفاع في وزنهم ومعدلات الغلوكوز لديهم في سن مبكرة.",
+            "في السياق الإقليمي، تُضاف حرارة الصيف التي تحبس الأطفال داخل البيوت، وتقليص حصص التربية البدنية في بعض المناهج، وانعدام أماكن اللعب الآمنة في الأحياء الكثيفة. الأطفال الذين يجلسون أمام الشاشة أربع ساعات يوميا أو أكثر يُظهرون مؤشرات أيضية أسوأ بشكل مستمر في الدراسات.",
+            "منظمة الصحة العالمية توصي بألا يزيد وقت الشاشة الترفيهي على ساعتين يوميا للأطفال فوق سن خمس سنوات، مع ساعة على الأقل من النشاط البدني المتوسط إلى المرتفع. تطبيق هذه التوصية يتطلب تدخلا من الوالدين لبناء عادات منذ البداية لا الانتظار حتى تترسخ عادات الخمول."
+          ]
+        },
+        {
+          "h2": "متى تحتاج إلى استشارة طبيب؟",
+          "paras": [
+            "الخمول المزمن لا يُسبب أعراضا مبكرة واضحة في الغالب. هذه هي المشكلة الرئيسية: الجسم يتأذى بصمت لسنوات قبل أن تظهر الأمراض. لا تصحو ذات يوم لتجد غلوكوزا مرتفعا أو ضغطا مرتفعا وتقول إن هذا اليوم بالذات هو السبب، بل تكون التغيرات قد تراكمت شيئا فشيئا. لهذا السبب يُعتبر الفحص الدوري الوقائي أهم أداة للكشف المبكر.",
+            "إذا كانت تجمعك عوامل خطر متعددة مثل الجلوس أكثر من ثماني ساعات يوميا مع زيادة الوزن وارتفاع الضغط أو مؤشرات الدم غير الطبيعية، فاستشر طبيبك حول جدول المتابعة المناسب وما إذا كان الوضع يحتاج إلى إجراء اختبار تحمل الغلوكوز لاكتشاف أي بوادر لمقدمات السكري.",
+            "أما إذا لاحظت تورما في ساق واحدة بعد رحلة طويلة أو جلوس مطوّل، أو ألما في الساق مع احمرار ودفء موضعي، فهذه أعراض محتملة للخثرة الوريدية العميقة وتستوجب التقييم الطبي في نفس اليوم دون تأخير. الخثرات الوريدية قابلة للعلاج الكامل إذا شُخّصت مبكرا، لكنها تتحول إلى حالة طارئة إذا تحركت باتجاه الرئة."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "اطلب تقييما طبيا عاجلا إذا لاحظت",
+            "items": [
+              "تورما مؤلما في ساق واحدة مع احمرار ودفء بعد رحلة طيران طويلة أو جلوس مديد",
+              "ضيقا في التنفس مفاجئا مع ألم صدر دون سبب واضح",
+              "تنميلا أو ضعفا في الساقين لا يزول بعد التحرك"
+            ]
+          }
+        },
+        {
+          "h2": "حساب ساعات جلوسك: الخطوة الأولى للتغيير",
+          "paras": [
+            "معظم الناس يُقلّلون من تقدير ساعات جلوسهم الفعلية. التمرين البسيط التالي يُساعدك على الحصول على صورة حقيقية: خذ ورقة واكتب كل فترات جلوسك في يوم عادي، من وقت الاستيقاظ حتى النوم. ابدأ بالاستيقاظ وإفطارك جالسا، ثم رحلة السيارة إلى العمل، ثم ساعات العمل المكتبي، ثم الغداء جالسا، ثم ساعات المكتب مجددا، ثم السيارة للعودة، ثم الجلوس على الأريكة مساء. اجمعها. ستفاجأ على الأرجح.",
+            "إذا تجاوز المجموع ثماني ساعات يوميا، فأنت ضمن الفئة ذات الخطر المرتفع وفقا للأبحاث. لا يعني هذا أنك ستمرض حتما، بل يعني أن هذا العامل يستحق انتباهك وتعديلا تدريجيا. الخطر يتراكم ببطء وبصمت، وهذا بالضبط ما يجعل التعديل المبكر أكثر قيمة من الانتظار حتى تظهر الأعراض.",
+            "التطبيقات في الهواتف الذكية والساعات الرياضية أصبحت تُذكّر تلقائيا بالوقوف عند اكتشافها جلوسا طويلا. إذا كنت تملك أحدها فعّل هذه الميزة. وإذا لم تملك واحدا، فساعة المطبخ القديمة أو تطبيق المنبه على الهاتف يفي بالغرض تماما. الأداة ليست المهم، المهم هو أنك ستتصرف فعلا عند رنينها.",
+            "التغيير لا يحتاج إلى ثورة في روتينك. ثلاثة أو أربعة وقوفات قصيرة إضافية يوميا، وبعض الحركة الموزعة على ساعات العمل، كافية لإحداث فرق حقيقي في الكيمياء الداخلية لجسمك على المدى البعيد. العضلات لا تحتاج إلى جهد مرهق كي تُعيد تشغيل الإنزيمات الأيضية، تكفيها دقيقتان من الحركة البسيطة كل نصف ساعة. هذا في متناول يدك اليوم."
+          ]
+        }
+      ],
+      "tie": "تطبيق سهتك يتيح لك تسجيل مستوى نشاطك اليومي وساعات جلوسك ضمن سجلك الصحي الشخصي. استخدمه لمتابعة أي تغييرات تطرأ على مؤشرات دمك عند مقارنة الفترات الأكثر نشاطا بالأكثر خمولا.",
+      "faqs": [
+        {
+          "q": "هل الوقوف أمام الحاسوب بدلا من الجلوس أفضل للصحة؟",
+          "a": "الوقوف المتواصل أفضل من الجلوس المتواصل لكنه ليس الحل المثالي. الوقوف لساعات طويلة يُرهق مفاصل القدمين والركبتين وعضلات الظهر. الأفضل هو التناوب بين الجلوس والوقوف والمشي القصير كل نصف ساعة. مكاتب الوقوف القابلة للتعديل مفيدة إذا استُخدمت بهذه الطريقة المتناوبة."
+        },
+        {
+          "q": "كم ساعة جلوس تُعدّ مفرطة؟",
+          "a": "الأبحاث تُشير إلى أن الجلوس أكثر من ثماني ساعات يوميا يرتبط بزيادة ملموسة في الخطر القلبي الأيضي. بعض الدراسات ترصد خطرا ملاحظا عند تجاوز ست ساعات. لكن الأهم من الرقم المطلق هو طول الفترات المتواصلة دون قطع: نصف ساعة متواصلة دون حركة هي الحد الموصى بعدم تجاوزه."
+        },
+        {
+          "q": "هل المشي نصف ساعة يوميا يكفي للتعويض عن يوم جلوس طويل؟",
+          "a": "النشاط المنظم مفيد جدا لكنه لا يُلغي آثار الجلوس الطويل بالكامل. الدراسات تُفرّق بين من يحقق توصيات النشاط الأسبوعية ومن يُضيف إلى ذلك تقليل الجلوس المتواصل. الأفضل هو الجمع بين الأمرين: المشي اليومي والوقوف والتحرك القصير الموزع على ساعات اليوم."
+        },
+        {
+          "q": "هل آلام أسفل الظهر الناتجة عن الجلوس تُشير إلى مشكلة في العمود الفقري؟",
+          "a": "آلام أسفل الظهر المرتبطة بالجلوس الطويل في معظم الحالات لا تعني مشكلة هيكلية خطيرة. غالبا ما تنتج من ضعف عضلات الجذع ووضع جلوس سيئ وضغط مزمن على الأقراص الفقرية. التحرك المنتظم وتمارين تقوية عضلات الظهر والجذع تُحسّن الحالة في أغلب الأحوال. إذا رافق الألم تنميل أو ضعف في القدم أو صعوبة في التحكم في الإخراج فراجع الطبيب."
+        },
+        {
+          "q": "هل الأطفال الذين يلعبون كثيرا بالشاشة في خطر حقيقي؟",
+          "a": "نعم، الأبحاث تُظهر ارتباطا واضحا بين طول وقت الشاشة الترفيهي وارتفاع مؤشرات الغلوكوز والدهون وزيادة الوزن لدى الأطفال. التوصية الدولية هي ألا يتجاوز وقت الشاشة ساعتين يوميا للأطفال فوق الخمس سنوات مع ساعة نشاط بدني يوميا. المقيد هو الشاشة الترفيهية وليس الشاشة التعليمية المصحوبة بحركة."
+        },
+        {
+          "q": "هل الخثرة الوريدية (الجلطة في الساق) شائعة عند الجلوس الطويل؟",
+          "a": "الجلوس المطوّل، خصوصا في رحلات الطيران الطويلة أو بعد الجراحات، يزيد خطر تكون الخثرات الوريدية السطحية والعميقة. المخاطرة مرتفعة عند من لديهم عوامل إضافية كالبدانة واستخدام موانع الحمل الهرمونية وتاريخ عائلي. التحرك والإماهة الكافية خلال الرحلات الطويلة يقللان الخطر. تورم مؤلم في ساق واحدة يستدعي تقييما طبيا فوريا."
+        },
+        {
+          "q": "هل تطبيقات تتبع النشاط مفيدة فعلا في تقليل الجلوس؟",
+          "a": "الدراسات تُشير إلى أن التغذية الراجعة الفورية، كرسالة على الساعة الرياضية تُخبرك بأنك جلست ثلاثين دقيقة، تزيد احتمال الوقوف والتحرك. الأداة وحدها لا تكفي بدون نية للتغيير، لكنها تُحوّل الوعي إلى فعل في اللحظة المناسبة. حتى منبّه بسيط على الهاتف كل نصف ساعة يؤدي الوظيفة ذاتها."
+        }
+      ]
+    },
+    "en": {
+      "title": "Sitting all day: the health cost and what offsets it",
+      "desc": "Sitting for long stretches raises heart disease and diabetes risk even if you exercise daily. Learn what the evidence shows and practical ways to break the sitting cycle.",
+      "keywords": "sedentary risk, sitting too much, office health, break sitting, sedentary behavior, cardiovascular risk, physical inactivity, desk job health",
+      "h1": "Sitting all day: the real health cost and what actually offsets it",
+      "takeaways": [
+        "Sitting for more than eight hours a day raises the risk of heart disease, type 2 diabetes and early death, even in people who exercise regularly.",
+        "Breaking sitting every thirty minutes with two to three minutes of light movement measurably improves blood glucose and blood fat levels after meals.",
+        "Structured exercise, while essential, does not fully cancel the harm of prolonged unbroken sitting: both matter independently.",
+        "Car-dependent, office-bound life in Arab cities means many people accumulate ten or more hours of sitting daily without realising it.",
+        "The practical target is simple: stand or walk for two minutes every half hour, and build movement into the structure of your day."
+      ],
+      "sections": [
+        {
+          "h2": "Is prolonged sitting really dangerous if you are otherwise healthy?",
+          "paras": [
+            "The short answer is yes. Extended unbroken sitting is now classified as an independent risk factor, meaning it causes harm even if you work out every morning. This conclusion comes from large systematic reviews covering hundreds of thousands of participants over years of follow-up.",
+            "A 2023 meta-analysis published in the International Journal of Nursing Studies, drawing on data linking sedentary patterns to non-communicable diseases and all-cause mortality, found that high levels of sedentary time independently associated with increased risk of cardiovascular disease, type 2 diabetes and certain cancers. The risk was not fully explained by exercise habits.",
+            "The danger is not sitting as a posture in itself. It is the accumulation of hours during which the large muscle groups are almost completely still, triggering a cascade of metabolic, hormonal and vascular changes that unfolds over just a few hours of inactivity."
+          ],
+          "visual": {
+            "type": "stats",
+            "items": [
+              {"value": "27%", "label": "higher cardiovascular risk with high sedentary time", "tone": "bad"},
+              {"value": "2x", "label": "approximate doubling of type 2 diabetes risk above 8 hours sitting daily", "tone": "warn"},
+              {"value": "30 min", "label": "recommended maximum unbroken sitting before a movement break", "tone": "info"}
+            ]
+          }
+        },
+        {
+          "h2": "What happens inside the body during long stretches of sitting?",
+          "paras": [
+            "A comprehensive 2023 review in Physiological Reviews traced the mechanisms in detail. Within a few dozen minutes of complete stillness, the activity of lipoprotein lipase, the enzyme responsible for clearing triglycerides from the blood by burning them in muscle, drops sharply. In plain terms, blood fats accumulate instead of being consumed, even if the person exercised that morning.",
+            "The effect is most pronounced after meals. A study published in Diabetes Care in 2012 showed that sitting continuously after lunch raised blood glucose and insulin substantially compared with breaking sitting every twenty minutes with three minutes of light activity. That repeated glucose spike over years strains the pancreas and drives insulin resistance.",
+            "On the vascular side, blood flow to the legs slows during prolonged sitting, blood viscosity rises, and the risk of deep vein thrombosis (DVT) increases, particularly on long journeys. The postural muscles of the core and pelvis also weaken progressively with sustained sitting, which is one of the main structural contributors to chronic lower back pain. In other words, prolonged sitting does not only tax the heart and arteries, it also gradually dismantles the muscular scaffolding that protects the spine."
+          ],
+          "visual": {
+            "type": "timeline",
+            "title": "What happens in the body during prolonged unbroken sitting",
+            "items": [
+              {"when": "After 20 minutes", "what": "Pressure on lumbar discs increases and blood flow to the legs begins to slow"},
+              {"when": "After 60 minutes", "what": "Muscle lipoprotein lipase activity falls markedly, reducing fat clearance from blood"},
+              {"when": "After a meal", "what": "Blood glucose and insulin peak higher than they would with brief movement breaks"},
+              {"when": "Over months", "what": "Cumulative effects on arterial stiffness, blood fats and core muscle weakness accumulate"}
+            ]
+          }
+        },
+        {
+          "h2": "Does daily exercise cancel out the harm of sitting all day?",
+          "paras": [
+            "This is the finding that has changed how researchers think about physical activity: no, one hour of exercise in the morning does not fully offset nine or ten hours of sitting that follows. Scientists now distinguish between structured physical activity, such as running, swimming or gym work, and total sedentary time during the rest of the day. Both have independent effects on health.",
+            "The person who jogs for thirty minutes at sunrise then sits for eight hours at a desk and two hours in front of a television is classified, biologically, as both active and sedentary at the same time. Studies consistently show this pattern still carries elevated cardiometabolic risk compared with someone whose movement is distributed across the day, even if that person's total exercise minutes are lower.",
+            "This is not an argument against structured exercise, which remains enormously beneficial. It is an argument for adding a second goal alongside it: reducing the length of unbroken sitting periods throughout the day. The two together provide the best protection available."
+          ]
+        },
+        {
+          "h2": "Why the problem is doubled in Arab cities and Gulf countries",
+          "paras": [
+            "Arab cities concentrate sedentary risk in an unusual way. Near-total car dependence, even for distances that could easily be walked, removes the natural movement that used to punctuate the beginning and end of a working day. In Gulf countries, outdoor temperatures above 40 degrees Celsius for five or six months of the year make walking outside impractical and confine movement to air-conditioned environments.",
+            "Long seated social gatherings, late-night television watching, government and financial sector jobs with extended desk hours, and the explosion of screen time for entertainment all layer onto each other. For a significant proportion of working-age adults in the region, total daily sitting time of ten or more hours is unremarkable. The World Health Organization classifies a high proportion of the Eastern Mediterranean population as insufficiently physically active.",
+            "The 150 minutes of moderate activity per week recommended by global guidelines is an important threshold, but it measures only exercise, not sitting time. Meeting that exercise target while still sitting for ten hours a day leaves the sedentary risk largely unaddressed. Both numbers need attention."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "warn",
+            "title": "Factors that pile up sitting hours in the Arab world",
+            "items": [
+              "Near-total car use even for short journeys, removing incidental walking",
+              "Summer heat above 40 degrees Celsius making outdoor movement impractical for months",
+              "Long office hours with few structured breaks",
+              "Extended evening social gatherings seated around tea and coffee",
+              "Heavy late-night screen use for entertainment"
+            ]
+          }
+        },
+        {
+          "h2": "How to break the sitting cycle: what the evidence supports",
+          "paras": [
+            "A 2024 systematic review and meta-analysis in the Scandinavian Journal of Medicine and Science in Sports, analysing randomised crossover trials, concluded that interrupting sitting every 30 minutes with two to three minutes of light movement produces measurable improvements in post-meal glucose, insulin and blood pressure. The immediate metabolic benefit of these frequent short breaks rivalled or exceeded a single sustained exercise session per day in some markers.",
+            "The movement does not need equipment or a change of clothing. Standing up to refill a water glass, walking to a colleague's desk rather than sending a message, taking one flight of stairs instead of the lift, doing brief shoulder rolls by your chair: each of these activates the large postural muscles enough to restart the fat-clearing enzymes and improve blood flow.",
+            "A practical rule you can start tomorrow: set a silent phone alarm every thirty minutes during working hours. When it sounds, stand and walk for at least two minutes. Research on reminders shows this prompt substantially increases the likelihood of actually moving. If you use a smartwatch, the built-in movement reminder does the same job automatically."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "The 30-minute rule: how to apply it every day",
+            "items": [
+              "Set a silent alarm or smartwatch reminder every 30 minutes during sitting periods",
+              "When it fires, stand and walk for at least two minutes, even just down a corridor and back",
+              "Keep water across the room rather than at your desk so reaching it requires standing",
+              "Take phone calls standing or walking whenever the call lasts more than two minutes",
+              "Use one flight of stairs instead of the lift when carrying nothing heavy",
+              "In meetings longer than one hour, suggest a standing stretch break"
+            ]
+          }
+        },
+        {
+          "h2": "Home working: has the situation got worse?",
+          "paras": [
+            "Post-pandemic data suggest that working from home has substantially increased total sitting time for a large segment of workers. In an office, people move between rooms, floors, the canteen and transport. At home, a working day of six hours can pass with the person barely leaving their chair or desk.",
+            "If you work from home, the solution requires constructing an artificial structure that replaces the incidental movement the office environment used to provide. Scheduling fixed break times, designating a physical location for work that differs from the sofa, and setting a hard boundary for a mid-morning and mid-afternoon walk are all practical ways to build movement into the day.",
+            "Sit-stand desks are a useful tool when used alternately rather than as a replacement: standing for a full day carries its own costs in foot and knee joint strain. The optimal pattern across research is rotation, sitting for thirty minutes, standing for twenty to thirty minutes, two minutes of walking, and repeating."
+          ]
+        },
+        {
+          "h2": "Children and teenagers: a growing problem",
+          "paras": [
+            "The generation raised with screens faces a version of this problem that starts earlier than most parents realise. Long hours of screen use for study and entertainment have contributed to measurable declines in children's cardiorespiratory fitness and early rises in blood glucose and overweight in age groups that were not previously at risk.",
+            "In the regional context, summer heat that keeps children indoors, the reduction of physical education in some school curricula, and the absence of safe outdoor play areas in dense urban neighbourhoods compound the problem. Children who sit in front of screens for four or more hours a day consistently show worse metabolic markers in population studies.",
+            "The World Health Organization recommends no more than two hours of recreational screen time per day for children over five years old, alongside at least one hour of moderate-to-vigorous physical activity. Applying this requires active parental involvement in structuring the day, not waiting until sedentary habits are already established."
+          ]
+        },
+        {
+          "h2": "When to see a doctor about sedentary-related symptoms",
+          "paras": [
+            "Chronic sedentary behaviour produces no obvious early symptoms in most people. This is precisely what makes it dangerous: the body sustains quiet damage for years before conditions such as diabetes, hypertension and cardiovascular disease become apparent. Preventive check-ups are therefore the most important detection tool available.",
+            "If you combine high daily sitting time with overweight, elevated blood pressure or abnormal fasting glucose, discuss with your doctor what monitoring schedule is appropriate and whether a glucose tolerance test is warranted. These are not emergency situations but they benefit from a plan.",
+            "Two situations do require prompt medical attention. If you notice painful swelling in one leg, particularly after a long flight or extended sitting, with redness and warmth, this may be a deep vein thrombosis and needs assessment that day. And if you develop sudden unexplained breathlessness with chest pain, call emergency services immediately."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "Seek urgent medical assessment if you notice",
+            "items": [
+              "Painful swelling in one leg with redness and warmth after a long flight or extended sitting period",
+              "Sudden unexplained shortness of breath with chest discomfort for no clear reason",
+              "Leg numbness or weakness that does not resolve after getting up and moving"
+            ]
+          }
+        },
+        {
+          "h2": "Count your sitting hours: the first step to change",
+          "paras": [
+            "Most people substantially underestimate how much they sit each day. A useful exercise is to take any ordinary day and trace it on paper: time seated at the breakfast table, in the car, at the desk, at lunch, at the desk again, in the car again, on the sofa in the evening. Add the total. The number is often a surprise.",
+            "If it exceeds eight hours, you fall into the higher-risk group according to the research. This does not mean illness is certain, but it does mean this factor warrants attention and gradual adjustment. If it reaches ten or twelve hours, the evidence for harm is stronger still.",
+            "Three or four additional short standing breaks per day, distributed across working hours, is a realistic target that costs nothing and requires no equipment. The physiology is not complicated: moving activates the muscles, which restarts fat-clearing enzymes and improves blood flow, and it takes only minutes to matter. Even people who feel they have no time for exercise can usually find two minutes every thirty minutes without it affecting their productivity. Research on cognitive performance suggests those short breaks actually improve afternoon concentration rather than reducing it."
+          ]
+        }
+      ],
+      "tie": "The Sihtak app lets you log your daily activity level and note patterns in how you feel on more active versus more sedentary days. Use it alongside any blood test results to see whether movement changes show up in your metabolic numbers over time.",
+      "faqs": [
+        {
+          "q": "Is standing at a desk better than sitting?",
+          "a": "Standing continuously is better than sitting continuously, but it is not the ideal solution on its own. Sustained standing strains the feet, knees and lower back. The evidence supports alternating between sitting, standing and brief walking in roughly thirty-minute cycles. A sit-stand desk is useful when used in this rotating way rather than as a full replacement for sitting."
+        },
+        {
+          "q": "How many hours of sitting is too many?",
+          "a": "Research consistently identifies a rise in cardiometabolic risk above eight hours of total sitting per day, with some studies finding elevated risk above six hours. Beyond the daily total, the length of unbroken sitting periods matters separately: most guidelines recommend breaking sitting every thirty minutes with at least two minutes of movement."
+        },
+        {
+          "q": "Will thirty minutes of walking each day undo the damage from sitting all day?",
+          "a": "Daily walking is genuinely valuable and reduces risk substantially. However, the research is clear that structured exercise does not fully cancel the independent harm of prolonged unbroken sitting. People who meet global exercise guidelines but also sit for ten or more hours a day still show elevated metabolic risk. The goal is to achieve both: regular exercise and frequent breaks in sitting throughout the day."
+        },
+        {
+          "q": "I have back pain from sitting at a desk. Does that mean something is wrong with my spine?",
+          "a": "Back pain from prolonged sitting in most cases does not reflect a structural spinal problem. It usually arises from weak core muscles, sustained postural loading on the lumbar discs and reduced blood flow to the paraspinal muscles. Regular movement breaks, attention to chair height and screen position, and strengthening exercises for the core and back resolve most desk-related back pain. See a doctor if pain is accompanied by numbness or weakness travelling down the leg, or any difficulty with bladder or bowel control."
+        },
+        {
+          "q": "Can children get health problems from sitting too much?",
+          "a": "Yes. Studies consistently link high recreational screen time in children to worse metabolic markers, lower cardiorespiratory fitness and higher weight, and the effects appear earlier than many parents expect. The World Health Organization recommends limiting recreational screen time to two hours per day for children over five and ensuring at least one hour of physical activity daily. These limits apply to entertainment screens, not movement-based interactive activity."
+        },
+        {
+          "q": "What is deep vein thrombosis and how does sitting cause it?",
+          "a": "Deep vein thrombosis (DVT) is a blood clot that forms in a deep vein, most often in the calf or thigh. Prolonged sitting slows blood flow through the leg veins and slightly increases blood viscosity, both of which raise clotting risk. Long-haul flights and extended post-surgical bed rest are the most recognised triggers. Risk is higher with obesity, hormonal contraception, or a personal or family history of clots. Moving regularly during long journeys and keeping well hydrated reduces risk substantially."
+        },
+        {
+          "q": "Do activity-tracking apps actually help people sit less?",
+          "a": "The evidence suggests that real-time feedback, a prompt on a smartwatch telling you that you have been sitting for thirty minutes, meaningfully increases the likelihood of getting up and moving. The device alone is not sufficient without motivation to act on it, but the prompt converts intention into behaviour at the right moment. A basic phone alarm every thirty minutes achieves the same effect if you act on it consistently."
+        }
+      ]
+    }
+  }
+}

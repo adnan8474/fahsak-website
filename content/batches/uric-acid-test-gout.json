@@ -1,0 +1,361 @@
+{
+  "slug": "uric-acid-test-gout",
+  "category": "lab-tests",
+  "chip_ar": "فهم التحاليل",
+  "chip_en": "Understanding Lab Tests",
+  "date_iso": "2026-08-03",
+  "sources": [
+    {
+      "label": "Hainer BL, Matheson E, Wilkes RT et al: Diagnosis, treatment, and prevention of gout, American family physician, 2014",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25591183/"
+    },
+    {
+      "label": "Clebak KT, Morrison A, Croad JR et al: Gout: Rapid Evidence Review, American family physician, 2020",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33118789/"
+    },
+    {
+      "label": "Yang XH, Zhan XL, Xuan QX et al: Normal serum uric acid gout: a neglected and challenging condition, Frontiers in endocrinology, 2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42369066/"
+    },
+    {
+      "label": "Choi HK: A prescription for lifestyle change in patients with hyperuricemia and gout, Current opinion in rheumatology, 2010",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20035225/"
+    },
+    {
+      "label": "Doherty M: New insights into the epidemiology of gout, Rheumatology (Oxford, England), 2009",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19447779/"
+    },
+    {
+      "label": "Vargas-Santos AB, Neogi T: Management of Gout and Hyperuricemia in CKD, American journal of kidney diseases, 2017",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28456346/"
+    }
+  ],
+  "content": {
+    "ar": {
+      "title": "تحليل حمض اليوريك والنقرس: الأرقام وأساطير الغذاء",
+      "desc": "دليل كامل لفهم تحليل حمض اليوريك (Uric Acid) في الدم، معدلاته الطبيعية، أسباب ارتفاعه، وعلاقته بالنقرس مع تصحيح أساطير الطعام الشائعة.",
+      "keywords": "حمض اليوريك, النقرس, تحليل حمض اليوريك, ارتفاع حمض اليوريك, نوبة النقرس, غذاء النقرس, علاج النقرس, ألوبيورينول, النقرس والمأكولات, حمض البول",
+      "h1": "تحليل حمض اليوريك والنقرس: كيف تقرأ نتيجتك وما الذي يحدث فعلاً في جسمك",
+      "takeaways": [
+        "حمض اليوريك (Uric Acid) مادة طبيعية في الجسم تنتج من هضم البيورينات الموجودة في الطعام وفي خلايا الجسم نفسها.",
+        "النقرس يحدث عندما يتراكم حمض اليوريك ويترسب كبلورات في المفاصل، وخاصة إبهام القدم.",
+        "المفاجأة الكبرى: مستوى حمض اليوريك قد يكون طبيعياً أو منخفضاً أثناء نوبة النقرس الحادة، لذا النتيجة الطبيعية لا تستبعد التشخيص.",
+        "اللحوم والمأكولات البحرية وعصائر الفاكهة والمشروبات السكرية تزيد حمض اليوريك أكثر من التشكيلة الكاملة من البقوليات والخضار.",
+        "دواء الألوبيورينول (Allopurinol) يجب أن يستمر طويل الأمد، والتوقف عنه أثناء نوبة النقرس خطأ شائع يطيل المعاناة."
+      ],
+      "sections": [
+        {
+          "h2": "ما هو حمض اليوريك ومتى يسبب مشكلة؟",
+          "paras": [
+            "حمض اليوريك (Uric Acid) هو المنتج النهائي لتحلل البيورينات (Purines)، وهي مواد موجودة بشكل طبيعي في خلايا الجسم نفسها، وفي كثير من الأطعمة كاللحوم والبقوليات. الجسم ينتج معظم البيورينات داخلياً من تجديد الخلايا، ويحصل على الباقي من الغذاء. المنتج النهائي لهضم كل هذه البيورينات هو حمض اليوريك الذي يُفرز عبر الكلى في البول وكمية صغيرة عبر الأمعاء.",
+            "المشكلة تبدأ عندما يُنتج الجسم كمية زائدة من حمض اليوريك، أو عندما تعجز الكلى عن التخلص منه بكفاءة كافية، فيتراكم في الدم ويرتفع تركيزه تدريجياً. عندما يتجاوز هذا التركيز حداً معيناً، تبدأ بلوراته الإبرية الشكل المسماة بلورات أحادية صوديوم يورات (Monosodium Urate) بالترسب في المفاصل والأنسجة المحيطة، خاصة في الأطراف التي تكون درجة حرارتها أقل من مركز الجسم. هذه البلورات تستفز الجهاز المناعي بشدة وتسبب استجابة التهابية حادة جداً تُعرف بنوبة النقرس، وهي من أشد الآلام المفصلية شدةً على الإطلاق بشهادة من عانوها.",
+            "ليس كل شخص عنده ارتفاع في حمض اليوريك يصاب بالنقرس. كثيرون يحملون مستويات مرتفعة لسنوات أو عقود دون أي أعراض، وهذه الحالة تسمى فرط حمض اليوريك في الدم بدون أعراض (Asymptomatic Hyperuricemia). لكن مع الوقت، وخاصة مع تغيرات مفاجئة في درجة الحرارة كالانتقال بين بيئة حارة وباردة، أو الجفاف الناتج عن قلة السوائل في الأيام الحارة، أو تناول وجبة ثقيلة غنية بالبيورينات، أو تناول بعض الأدوية، تبدأ البلورات بالترسب وتظهر النوبة الأولى فجأة، غالباً في الليل أو فجراً."
+          ],
+          "visual": {
+            "type": "range-scale",
+            "title": "مستويات حمض اليوريك في الدم",
+            "label": "Uric Acid",
+            "unit": "mg/dL",
+            "min": 0,
+            "max": 12,
+            "zones": [
+              {"to": 3.0, "tone": "warn", "label": "منخفض"},
+              {"to": 6.0, "tone": "good", "label": "طبيعي للنساء"},
+              {"to": 7.0, "tone": "good", "label": "طبيعي للرجال"},
+              {"to": 9.0, "tone": "warn", "label": "مرتفع"},
+              {"to": 12, "tone": "bad", "label": "مرتفع جداً"}
+            ],
+            "marker": {"value": 8.5, "label": "مثال: مرتفع"},
+            "source": "Hainer BL et al: Diagnosis, treatment, and prevention of gout, American family physician, 2014",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/25591183/"
+          }
+        },
+        {
+          "h2": "كيف يبدو النقرس وكيف يُشخّص؟",
+          "paras": [
+            "النوبة الحادة للنقرس لها شكل مميز يصعب الخلط معه بعد ما تعرفه جيداً. في معظم الحالات تبدأ ليلاً أو صباحاً باكراً بألم مفاجئ شديد في مفصل واحد، وأكثرها شيوعاً إبهام القدم الكبير في ما يُعرف بـ Podagra. المفصل يصبح أحمر لامعاً منتفخاً ساخناً لدرجة أن لمسة الملاءة وحدها كافية للإحساس بألم لا يُطاق. الألم يبلغ ذروته في أول 24 ساعة ثم يتراجع تدريجياً خلال أيام إلى أسبوعين حتى مع غياب العلاج. المفاصل الأخرى التي قد تتأثر تشمل الكاحل والركبة والمعصم ومفاصل القدم.",
+            "التشخيص يعتمد أساساً على الصورة السريرية والتاريخ الطبي. الوسيلة الأكثر تأكيداً وقطعية هي سحب سائل من المفصل الملتهب وفحصه تحت المجهر بضوء مستقطب لرؤية البلورات الإبرية الخاصة بالنقرس. هذا لا يُجرى في كل الحالات ويعتمد على توافر الخبرة والتسهيلات. الأشعة فوق الصوتية أصبحت مفيدة جداً في الكشف عن ترسبات البلورات في المفاصل حتى قبل ظهور الأعراض، وتُستخدم كذلك لمتابعة استجابة العلاج.",
+            "الأشعة السينية لا تُظهر بلورات النقرس في المراحل المبكرة ولا تفيد كثيراً في التشخيص في البداية. في المراحل المتأخرة من المرض الذي استمر سنوات دون علاج، قد تُظهر تآكلاً مميزاً في العظام المجاورة للمفصل، أو ترسبات صلبة تحت الجلد تُسمى عقد التوفاء (Tophi) وتبدو كبثور بيضاء صلبة حول المفاصل والأوتار. وجودها يدل على مرض متقدم يحتاج علاجاً مكثفاً."
+          ]
+        },
+        {
+          "h2": "الحقيقة المفاجئة: حمض اليوريك قد يكون طبيعياً أثناء نوبة النقرس",
+          "paras": [
+            "هذه معلومة تفاجئ كثيرين وتسبب ارتباكاً حقيقياً. خلال النوبة الحادة للنقرس، قد تنخفض مستويات حمض اليوريك في الدم إلى الحد الطبيعي أو حتى أقل. السبب هو أن الالتهاب الحاد يزيد إفراز الكلى لحمض اليوريك، كما أن البلورات الراسبة في المفصل تُعزل كمية من حمض اليوريك خارج مجرى الدم.",
+            "دراسة نُشرت في Frontiers in Endocrinology عام 2026 أشارت تحديداً إلى ما يسمى النقرس ذو حمض اليوريك الطبيعي (Normouricemic Gout) وأكدت أن هذه الحالة مُهملة وتستحق اهتماماً أكبر في التشخيص. معناه في الممارسة: إذا كانت الأعراض تشير بوضوح للنقرس، فنتيجة حمض اليوريك الطبيعية لا تستبعد التشخيص ولا تعني أن المشكلة شيء آخر.",
+            "التوقيت الأمثل لقياس حمض اليوريك هو بعد أسبوعين إلى أربعة أسابيع من انتهاء النوبة الحادة وهدوء الالتهاب. في هذا الوقت يكون المستوى في الدم أكثر تمثيلاً للحقيقة ويساعد الطبيب على تحديد الأهداف العلاجية."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "warn",
+            "title": "نتيجة طبيعية لحمض اليوريك أثناء النوبة لا تستبعد النقرس",
+            "items": [
+              "قياس حمض اليوريك أثناء نوبة حادة قد يعطي نتيجة طبيعية أو منخفضة",
+              "أفضل توقيت لقياسه هو بعد أسبوعين إلى أربعة أسابيع من انتهاء النوبة",
+              "التشخيص يعتمد على الأعراض والتاريخ الطبي وليس على رقم واحد فقط"
+            ]
+          }
+        },
+        {
+          "h2": "الأطعمة التي ترفع حمض اليوريك فعلاً مقابل الأساطير",
+          "paras": [
+            "مأكل النقرس من أكثر المواضيع التي تنتشر فيها الأساطير. الحقيقة العلمية أدق مما يُشاع. البيورينات الموجودة في اللحوم الحمراء وخاصة الأعضاء الداخلية كالكبد والكلى، وفي المأكولات البحرية كالروبيان والمحار وسمك الأنشوجة والرنجة، وفي اللحم المصنّع كالنقانق والسلامي، هي الأعلى تأثيراً على رفع حمض اليوريك في الدم. مراجعة نُشرت في Current Opinion in Rheumatology عام 2010 وضّحت بالأرقام أن المأكولات البحرية وقد تكون أكثر خطورة على مرضى النقرس من اللحوم الحمراء.",
+            "المفاجأة للكثيرين هي أن الفركتوز السكر الموجود في عصائر الفاكهة المصنّعة والمشروبات السكرية هو أحد الأسباب الرئيسية لارتفاع حمض اليوريك، ليس لأنه يحتوي بيورينات، بل لأن الكبد يحول الفركتوز إلى بيورينات في عملية استقلابية مباشرة. مريض النقرس الذي يبتعد عن اللحوم لكن يشرب علب العصير يومياً قد يزيد حمضه البولي دون أن يفهم السبب.",
+            "في المقابل، البقوليات كالعدس والفاصولياء والحمص رغم احتوائها على بيورينات، لا تزيد خطر النقرس بنفس الدرجة في الدراسات الحديثة. وكذلك الخضار الغنية ببيورينات كالسبانخ والفطر. المشروبات الكحولية وخاصة البيرة تحمل تأثيراً مزدوجاً: بيورينات مباشرة وتثبيط إفراز الكلى لحمض اليوريك."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "الأطعمة وتأثيرها على حمض اليوريك",
+            "head": ["الفئة", "التأثير على حمض اليوريك", "النصيحة العملية"],
+            "rows": [
+              ["الأعضاء الداخلية (كبد, كلى)", "مرتفع جداً", "تجنّب أو قلّل بشدة"],
+              ["مأكولات بحرية (روبيان, أنشوجة, محار)", "مرتفع", "قلّل بشكل ملحوظ"],
+              ["لحوم حمراء", "متوسط إلى مرتفع", "اعتدل في الكمية"],
+              ["عصائر الفاكهة والمشروبات السكرية", "مرتفع (عبر الفركتوز)", "تجنّب"],
+              ["البقوليات (عدس, حمص, فاصولياء)", "منخفض التأثير", "يمكن تناولها باعتدال"],
+              ["الخضار (حتى السبانخ والفطر)", "منخفض التأثير", "لا قيود"],
+              ["منتجات الألبان منخفضة الدهون", "وقائي, يقلل الخطر", "تشجَّع"]
+            ]
+          }
+        },
+        {
+          "h2": "علاج النوبة الحادة: ماذا يفعل الطبيب؟",
+          "paras": [
+            "هدف علاج النوبة الحادة هو إيقاف الالتهاب وتخفيف الألم بأسرع وقت ممكن. الخيارات الرئيسية هي مضادات الالتهاب غير الستيرويدية (NSAIDs) مثل الإيبوبروفين أو الإندوميتاسين، أو دواء الكولشيسين (Colchicine) الذي له تاريخ طويل في علاج النقرس، أو الكورتيزون إذا تعذّر الخياران الأولان. الخيار يعتمد على صحة الكلى والكبد والأدوية الأخرى التي تأخذها.",
+            "تبريد المفصل بثلج ملفوف في قماش يساعد على تخفيف الألم في الأيام الأولى. الراحة مطلوبة لكن لا يجب التخلي عن الحركة كلياً. الاكتشاف الثابت هو أن شرب الماء الكافي يُسرّع زوال النوبة لأن التمييع يساعد الكلى على التخلص من حمض اليوريك.",
+            "الخطأ الكارثي الذي يقع فيه كثيرون هو أن يبدأوا دواء الألوبيورينول (Allopurinol) أو يوقفوه أثناء النوبة الحادة. هذا يزعزع مستويات حمض اليوريك ويُطيل النوبة أو يشعلها. دواء خفض حمض اليوريك لا يُبدأ ولا يُوقف أثناء النوبة بل بعد هدوئها."
+          ]
+        },
+        {
+          "h2": "متى يجب العلاج بدواء طويل الأمد؟",
+          "paras": [
+            "ليس كل شخص عنده ارتفاع في حمض اليوريك يحتاج علاجاً دوائياً طويل الأمد. الطبيب يقرر بناءً على عدة عوامل متكاملة: كم مرة تكررت النوبات في العام الواحد، هل توجد عقد التوفاء (Tophi) وهي ترسبات بيضاء صلبة تحت الجلد دلالة على مرض متقدم، هل تأثرت وظائف الكلى بالارتفاع المستمر، وهل توجد حصوات بولية من اليوريك. مراجعة نُشرت في American Family Physician عام 2020 حددت نوبتين أو أكثر في السنة أو أي دليل على عقد التوفاء أو مشاركة الكلى كمعيار لبدء العلاج الدوائي الوقائي.",
+            "عندما يُقرر البدء بعلاج خفض حمض اليوريك، الدواء الأول المستخدم في معظم الحالات هو ألوبيورينول (Allopurinol) الذي يثبط إنزيم أكسيداز الزانثين ويقلل من إنتاج الجسم لحمض اليوريك. الهدف المعياري علمياً هو الوصول إلى مستوى حمض اليوريك أقل من 6 ملغ/ديسيليتر في الدم، وأحياناً أقل من 5 عند المرضى الذين لديهم عقد توفاء كثيرة، لأن ذوبان البلورات يتطلب مستوى دماً يبقى تحت حد التشبع.",
+            "الألوبيورينول يُبدأ دائماً بجرعة منخفضة جداً وترفع تدريجياً على مدى أسابيع لتجنب تحريض نوبة حادة بسبب التغير المفاجئ في مستوى حمض اليوريك. يكمل كثير من المرضى علاجهم مدى الحياة وهو دواء آمن ومتاح وزهيد الثمن في معظم دول المنطقة. التوقف عن الدواء بمجرد تحسن نتيجة التحليل أو هدوء الأعراض يؤدي حتماً إلى عودة الترسبات وعودة النوبات، أحياناً في أشهر معدودة فقط."
+          ]
+        },
+        {
+          "h2": "النقرس والكلى والأدوية الأخرى: روابط مهمة",
+          "paras": [
+            "النقرس وحصوات الكلى مرتبطان ارتباطاً وثيقاً. حمض اليوريك يمكن أن يترسب في الكلى ويشكل حصوات من اليوريك، وهي حصوات لا تظهر على الأشعة السينية العادية وتحتاج فحصاً بالأمواج فوق الصوتية أو الطبقي المحوري. الجفاف وحرارة المناخ وقلة شرب الماء عوامل رئيسية في تكوين هذه الحصوات في المنطقة.",
+            "بعض الأدوية الشائعة ترفع حمض اليوريك بشكل ملحوظ. مدرات البول الثيازيدية (Thiazide Diuretics) المستخدمة لعلاج ضغط الدم، والأسبرين بالجرعات المنخفضة، وبعض أدوية التبرع بالأعضاء كالسيكلوسبورين، كلها يمكن أن ترفع حمض اليوريك وتستدعي مراقبة أكثر. دراسة نُشرت في American Journal of Kidney Diseases عام 2017 بحثت تحديداً إدارة النقرس عند مرضى الكلى الذين هم الفئة الأكثر تعقيداً.",
+            "مرض النقرس والمتلازمة الأيضية (السمنة وضغط الدم وارتفاع الدهون والسكري) يتشاركون في عوامل الخطر ويتفاقمون معاً. علاج النقرس وحده دون معالجة السمنة وضبط السكر وتقليل المشروبات السكرية هو علاج ناقص."
+          ]
+        },
+        {
+          "h2": "تغييرات الحياة التي تصنع فرقاً حقيقياً",
+          "paras": [
+            "تغيير نمط الحياة وحده لا يعالج النقرس الراسخ، لكنه يُقلل من تكرار النوبات ويدعم فعالية الدواء. أهم خطوة هي شرب كميات كبيرة من الماء يومياً لا تقل عن ليترين إلى ليترين ونصف، لأن التمييع يساعد الكلى على إفراز حمض اليوريك. في الدول الحارة حيث يُفقد كثير من السوائل بالتعرق، قد يحتاج المرضى لأكثر من ذلك.",
+            "إنقاص الوزن الزائد تدريجياً يُسهم في خفض حمض اليوريك، لكن الأنظمة الغذائية الصارمة جداً والتي تسبب تحلل الأنسجة بسرعة قد تزيد حمض اليوريك مؤقتاً. لذا يُنصح بالإنقاص التدريجي وليس الحمية القاسية المفاجئة. ممارسة الرياضة المعتدلة بانتظام تساعد أيضاً دون إجهاد المفاصل.",
+            "التخلي عن المشروبات السكرية وعصائر الفاكهة المصنعة والاستعاضة عنها بالماء والقهوة غير المحلاة هو من أكثر التغييرات فعالية. الكافيين في القهوة من المثير للاهتمام أنه ارتبط في بعض الدراسات بتقليل خطر النقرس وليس بزيادته. الشاي غير محلى ليس له تأثير واضح على حمض اليوريك."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "اطلب تقييماً طبياً عاجلاً عند",
+            "items": [
+              "ألم مفصلي حاد مفاجئ مع احمرار وتورم شديد وحمى عالية في نفس الوقت لأن هذا قد يكون التهاب مفصل إنتاني",
+              "نوبات نقرس متكررة أكثر من مرتين في السنة تدل على الحاجة لعلاج طويل الأمد",
+              "وجود كتل أو بثور بيضاء تحت الجلد حول المفاصل وهي عقد التوفاء",
+              "ألم في الخاصرة أو ظهور دم في البول مع نقرس معروف لأنها قد تشير لحصوة كلوية"
+            ]
+          }
+        }
+      ],
+      "tie": "تطبيق صحتك يساعدك على تتبع نتائج تحليل حمض اليوريك على مدار الزمن وملاحظة التغيرات مع العلاج أو تغيير الغذاء. يمكنك أيضاً تسجيل مواعيد النوبات وربطها بالأنشطة والمأكولات لتعرف محركاتك الشخصية وتتجنبها. المساعد الذكي يشرح ما يعنيه كل رقم بلغة واضحة.",
+      "faqs": [
+        {
+          "q": "هل ارتفاع حمض اليوريك يعني أنني سأصاب بالنقرس حتماً؟",
+          "a": "لا. كثير من الأشخاص لديهم حمض يوريك مرتفع لسنوات دون أن يُصابوا بالنقرس. لكن المستوى المرتفع يزيد الخطر. الطبيب يقيّم الحالة كاملة ويقرر متى يبدأ العلاج الوقائي بناءً على عوامل أخرى."
+        },
+        {
+          "q": "لماذا يعود النقرس رغم أخذ الدواء؟",
+          "a": "في أغلب الحالات يعود النقرس لأن الدواء لم يُستمر بشكل كافٍ أو الجرعة لم تصل للهدف. الهدف هو خفض حمض اليوريك إلى أقل من 6 ملغ/ديسيليتر. التحقق من مستوى حمض اليوريك بانتظام والتعديل مع الطبيب ضروري."
+        },
+        {
+          "q": "هل يمكنني أكل البقوليات وأنا مصاب بالنقرس؟",
+          "a": "نعم. الأبحاث الحديثة أكدت أن البقوليات كالعدس والحمص والفاصولياء لا تزيد خطر نوبات النقرس بشكل ملحوظ مقارنة باللحوم والمأكولات البحرية. يمكن تناولها باعتدال كجزء من نظام غذائي صحي."
+        },
+        {
+          "q": "هل يجب الصيام قبل تحليل حمض اليوريك؟",
+          "a": "يُفضّل الصيام من 4 إلى 8 ساعات قبل التحليل لأن الأكل وخاصة الأطعمة الغنية بالبيورينات يمكن أن يرفع المستوى مؤقتاً. اسأل المختبر عن التعليمات المحددة."
+        },
+        {
+          "q": "هل الكولشيسين آمن على المدى الطويل؟",
+          "a": "الكولشيسين بالجرعات الوقائية المنخفضة آمن لمعظم الناس على المدى الطويل وقد استُخدم لهذا الغرض لعقود. الجرعات العالية المستخدمة في النوبة الحادة قد تسبب آلاماً في البطن أو إسهالاً. الجرعة الوقائية المنخفضة أقل بكثير في الآثار الجانبية."
+        },
+        {
+          "q": "هل الفواكه ترفع حمض اليوريك؟",
+          "a": "الفاكهة الطازجة كاملة ليس لها تأثير كبير. المشكلة في عصائر الفاكهة المصنعة والمركزة التي تحتوي على كميات كبيرة من الفركتوز، وهو السكر الذي يزيد إنتاج الجسم لحمض اليوريك. تناول الفاكهة كاملة باعتدال مقبول."
+        },
+        {
+          "q": "كم يستغرق العلاج حتى تنتهي النوبة؟",
+          "a": "مع العلاج المناسب، يبدأ الألم في التراجع خلال 24 إلى 48 ساعة وتنتهي النوبة خلال 5 إلى 10 أيام في الغالب. بدون علاج قد تستمر أسبوعين. تبريد المفصل والراحة وشرب الماء الوفير يُسرّعان التعافي."
+        }
+      ]
+    },
+    "en": {
+      "title": "Uric acid test and gout: the numbers and the diet myths",
+      "desc": "Read your uric acid result correctly, understand gout attacks, and learn why a normal result during a flare does not rule out gout. Includes diet facts versus myths.",
+      "keywords": "uric acid test, gout, hyperuricemia, uric acid normal range, gout diet, gout attack, allopurinol, uric acid foods, gout treatment, serum uric acid, gout diagnosis",
+      "h1": "Uric acid test and gout: what your number means and what actually causes the attacks",
+      "takeaways": [
+        "Uric acid is a normal metabolic waste product. Problems begin when it accumulates in the blood and crystallises in the joints, causing gout.",
+        "A critical point: uric acid levels often fall to normal or below during an acute gout attack, so a normal result does not rule out the diagnosis.",
+        "The best time to measure uric acid is two to four weeks after the attack has fully settled, not during or immediately after it.",
+        "Organ meats, seafood, sugary drinks and fruit juice raise uric acid far more than most vegetables and legumes, which are safer than often thought.",
+        "Allopurinol must be taken long-term to prevent attacks. Stopping it during a flare is a common mistake that prolongs the suffering."
+      ],
+      "sections": [
+        {
+          "h2": "What is uric acid and when does it become a problem?",
+          "paras": [
+            "Uric acid is the end product of purine breakdown. Purines are compounds found naturally in the body's own cells and in many foods. Most uric acid is excreted by the kidneys into the urine, with a smaller amount leaving through the intestines. The problem begins when the body produces more uric acid than the kidneys can clear, causing it to accumulate and concentrate in the blood until the surrounding tissues become supersaturated.",
+            "Once blood uric acid levels exceed a saturation threshold, needle-shaped crystals called monosodium urate begin to precipitate in joints and surrounding soft tissues. These crystals provoke an intense immune response, triggering an acute inflammatory attack known as a gout flare. A well-established review in American Family Physician describes gout as one of the most painful conditions a joint can suffer, with the pain reaching its peak within the first 24 hours.",
+            "Not everyone with elevated uric acid develops gout. Many people carry raised levels for years without any symptoms, a state called asymptomatic hyperuricemia. Over time, particularly with triggers such as a sudden temperature change, dehydration, an unusually rich meal or certain medications, crystals begin to deposit and a first attack appears, often in the middle of the night."
+          ],
+          "visual": {
+            "type": "range-scale",
+            "title": "Where your uric acid result sits",
+            "label": "Uric Acid",
+            "unit": "mg/dL",
+            "min": 0,
+            "max": 12,
+            "zones": [
+              {"to": 3.0, "tone": "warn", "label": "Low"},
+              {"to": 6.0, "tone": "good", "label": "Normal (women)"},
+              {"to": 7.0, "tone": "good", "label": "Normal (men)"},
+              {"to": 9.0, "tone": "warn", "label": "High"},
+              {"to": 12, "tone": "bad", "label": "Very high"}
+            ],
+            "marker": {"value": 8.5, "label": "Example high result"},
+            "source": "Hainer BL et al: Diagnosis, treatment, and prevention of gout, American family physician, 2014",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/25591183/"
+          }
+        },
+        {
+          "h2": "What does a gout attack look and feel like?",
+          "paras": [
+            "An acute gout flare has a distinctive presentation that is difficult to mistake once you have experienced or seen it. It typically begins overnight or in the early morning with a sudden and severe pain in a single joint. The big toe is affected in more than half of all first attacks, a presentation called podagra. The joint becomes brilliantly red, swollen, warm and intensely tender, to the point where the weight of a bedsheet can be unbearable. The pain reaches its maximum within 24 hours and then subsides over days to two weeks even without treatment.",
+            "Diagnosis rests primarily on the clinical picture and medical history. The most definitive confirmation is aspirating fluid from the inflamed joint and examining it under polarising light microscopy to see the characteristic negatively birefringent needle-shaped crystals. This is not performed in every case and depends on local facilities and expertise. Ultrasound can now detect crystal deposits in joints even before symptoms appear, which is useful in monitoring treatment response.",
+            "Plain X-rays are unhelpful in early gout and show only soft tissue swelling. In advanced, long-standing disease they may reveal bony erosions and calcified tophi, deposits of crystallised urate that form under the skin around joints and tendons and look like firm white or chalky nodules."
+          ]
+        },
+        {
+          "h2": "The key point: uric acid may be normal during an attack",
+          "paras": [
+            "This finding surprises many people and causes real diagnostic confusion. During an acute gout flare, serum uric acid levels frequently fall to the normal range or even below it. The explanation is that the acute inflammatory response increases urinary uric acid excretion, and the crystal deposits in the joint sequester some of the uric acid away from the bloodstream, both of which reduce the measured blood level.",
+            "A 2026 paper in Frontiers in Endocrinology addressed this directly, naming the phenomenon normouricemic gout and arguing that it is underrecognised and underdiagnosed because clinicians dismiss gout when the uric acid result is normal. The practical implication is clear: if the clinical picture strongly suggests gout, a normal uric acid result during the attack does not rule out the diagnosis and should not prompt a search for an alternative explanation.",
+            "The ideal time to measure uric acid for diagnostic and treatment planning purposes is two to four weeks after the flare has completely settled and inflammation has resolved. At that point the level is more representative of the true chronic state and gives the doctor an accurate basis for deciding whether and how aggressively to treat."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "warn",
+            "title": "A normal uric acid during an attack does not rule out gout",
+            "items": [
+              "Uric acid levels often drop to normal during an acute flare due to increased renal excretion",
+              "The best time to measure is two to four weeks after the attack fully settles",
+              "Diagnosis relies on clinical symptoms and history, not on a single blood result"
+            ]
+          }
+        },
+        {
+          "h2": "Which foods actually raise uric acid, and which are myths",
+          "paras": [
+            "The dietary management of gout is one of the most myth-filled areas in medicine. The evidence is more nuanced than the blanket advice patients often receive. Organ meats such as liver, kidney and brain, and certain seafood including shrimp, anchovy, herring and mussels, have the strongest and most consistent evidence for raising uric acid and triggering attacks. A review in Current Opinion in Rheumatology demonstrated that seafood may carry a similar or greater risk per serving than red meat for gout sufferers.",
+            "The finding that surprises most patients is that fructose, the sugar in commercially produced fruit juices and sugary soft drinks, is a significant independent driver of raised uric acid. This is not because juice contains purines, but because the liver converts fructose to purines as part of its metabolic processing of the sugar. A patient who conscientiously avoids red meat but drinks two glasses of packaged juice every day may be raising their uric acid without knowing why.",
+            "By contrast, legumes such as lentils, chickpeas and fava beans, despite containing purines, have not been shown in well-conducted studies to meaningfully increase gout risk. The same applies to most vegetables including spinach, mushrooms and asparagus, which were traditionally restricted but no longer are under current guidelines. Low-fat dairy products appear to have a protective effect, reducing uric acid levels and gout risk, making them a genuinely useful dietary element."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Foods and their effect on uric acid",
+            "head": ["Food group", "Effect on uric acid", "Practical advice"],
+            "rows": [
+              ["Organ meats (liver, kidney)", "Very high", "Avoid or strictly limit"],
+              ["Seafood (shrimp, anchovy, mussels)", "High", "Reduce significantly"],
+              ["Red meat", "Moderate to high", "Moderate portions"],
+              ["Fruit juice and sugary drinks", "High (via fructose)", "Avoid"],
+              ["Legumes (lentils, chickpeas, beans)", "Low impact", "Fine in moderation"],
+              ["Vegetables (even spinach, mushrooms)", "Low impact", "No restriction needed"],
+              ["Low-fat dairy", "Protective, lowers uric acid", "Encouraged"]
+            ]
+          }
+        },
+        {
+          "h2": "Treating an acute attack: what your doctor will do",
+          "paras": [
+            "The goal in an acute flare is to stop the inflammation and relieve pain as quickly as possible. The main options are non-steroidal anti-inflammatory drugs (NSAIDs) such as indomethacin or naproxen, colchicine taken in a specific dosing regimen that has been refined over decades of use, or a short course of oral corticosteroids when NSAIDs and colchicine cannot be used due to kidney disease or drug interactions. The choice depends on your kidney function, liver health and other medications.",
+            "Applying ice wrapped in a cloth to the affected joint reduces pain during the first few days. Rest is appropriate but complete immobilisation is unnecessary. Drinking abundant water, at least two to three litres per day, helps the kidneys flush uric acid more efficiently and is a simple and effective adjunct to medication.",
+            "The most damaging mistake is to start or stop urate-lowering therapy such as allopurinol during an acute attack. Changing the serum uric acid level rapidly in either direction destabilises crystal deposits in the joints and provokes further flares or extends the current one. Allopurinol and similar drugs should neither be started nor stopped during a flare, and any adjustment should wait until the attack has fully resolved."
+          ]
+        },
+        {
+          "h2": "When does gout need long-term medication?",
+          "paras": [
+            "Not everyone with gout or hyperuricemia needs lifelong medication. Your doctor will consider several factors: how often flares occur, whether tophi are present as deposits visible or palpable under the skin, whether kidney function is affected, and whether uric acid kidney stones have formed. A 2020 rapid evidence review in American Family Physician set out the criteria: in general, two or more flares per year, or any evidence of tophi or kidney involvement, are indications to start long-term urate-lowering treatment.",
+            "Allopurinol is the first-line medication in most settings. It inhibits the enzyme xanthine oxidase, which is the rate-limiting step in uric acid synthesis, and reduces the body's daily production. The target is a serum uric acid below 6 mg/dL in most patients, and below 5 mg/dL in those with tophi, because crystal dissolution requires sustained undersaturation. Allopurinol is always started at a low dose and increased gradually to avoid precipitating an attack through rapid shifts in serum uric acid.",
+            "Many patients will take allopurinol for the rest of their lives. This can feel daunting, but the alternative is recurrent attacks that become more frequent and affect more joints over time, eventual tophaceous deposits that damage cartilage and bone, and the added risk of kidney stone disease. The medication is generally well tolerated, inexpensive and available in most regional pharmacies."
+          ]
+        },
+        {
+          "h2": "Gout, the kidneys, and medications that raise uric acid",
+          "paras": [
+            "Gout and kidney disease are tightly linked in both directions. High uric acid damages the kidneys over time, and impaired kidneys fail to clear uric acid efficiently, creating a cycle that worsens both conditions. A 2017 paper in the American Journal of Kidney Diseases examined the specific challenge of managing gout in chronic kidney disease, noting that both colchicine and allopurinol require dose adjustments in this group and that some uricosuric agents are contraindicated.",
+            "Uric acid kidney stones are a direct consequence of sustained high uric acid levels. Unlike calcium stones, uric acid stones are radiolucent and do not appear on plain X-rays, requiring ultrasound or CT to diagnose. Dehydration in a hot climate is a major contributor to their formation, and adequate daily fluid intake is the single most important preventive measure, alongside keeping urine pH slightly alkaline with dietary adjustment or sodium bicarbonate.",
+            "Several common medications raise uric acid as a side effect and can trigger gout in susceptible individuals. Thiazide diuretics used for blood pressure, low-dose aspirin, ciclosporin used after organ transplantation, and pyrazinamide used in tuberculosis treatment are the main culprits. If you are on any of these and have new joint pain, tell your doctor, because the medication context changes the management."
+          ]
+        },
+        {
+          "h2": "Lifestyle changes that genuinely reduce gout attacks",
+          "paras": [
+            "Lifestyle modification alone is unlikely to normalise uric acid when levels are substantially elevated, but it meaningfully reduces the frequency of attacks and enhances the effect of medication. The single most impactful change is maintaining high fluid intake, at least two to two and a half litres of water per day. In hot climates where sweat losses are constant, this requirement is higher, and gout patients who work outdoors or experience regular sweating need to be particularly attentive.",
+            "Gradual weight loss, for those carrying excess weight, lowers uric acid and improves the metabolic syndrome components that coexist with gout. The emphasis on gradual is important: very rapid weight loss through extreme dietary restriction causes rapid tissue breakdown that temporarily raises uric acid and can trigger a flare. Aim for steady loss of half a kilogram to one kilogram per week rather than crash dieting.",
+            "Replacing sugary drinks and commercially packaged fruit juice with water or unsweetened drinks is one of the most effective and least difficult dietary changes. Coffee, interestingly, has been associated in several observational studies with reduced gout risk rather than increased risk, and there is no good reason to restrict it. The contribution of plain unsweetened tea to uric acid levels is minimal and not worth restricting."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "Seek urgent medical assessment if you have",
+            "items": [
+              "Sudden severe joint pain with fever above 38.5 degrees, as this may be septic arthritis requiring emergency treatment",
+              "Gout attacks occurring more than twice a year, indicating a need for long-term preventive medication",
+              "Visible white nodules under the skin around joints, which are tophi indicating advanced disease",
+              "Flank pain or blood in urine alongside known gout, which may indicate uric acid kidney stones"
+            ]
+          }
+        }
+      ],
+      "tie": "The Sihtak app lets you log your uric acid results over time and track whether they are responding to medication or dietary changes. You can also record when attacks occur and note what you ate or did in the days before, helping you identify your own personal triggers. The AI assistant explains where your number sits and what it means for your management.",
+      "faqs": [
+        {
+          "q": "Does a high uric acid result mean I will definitely get gout?",
+          "a": "No. Many people carry elevated uric acid levels for years or decades without ever developing a gout attack. The level increases the risk, but other factors including genetics, kidney function, hydration and medication also determine whether crystals form. Your doctor weighs these factors together before recommending treatment."
+        },
+        {
+          "q": "Why does gout keep coming back despite taking medication?",
+          "a": "Recurrence usually means the uric acid level has not been brought low enough or the medication has not been taken consistently. The target is a serum uric acid below 6 mg/dL. Regular monitoring and dose adjustment with your doctor, rather than stopping medication when you feel better, is the path to prevention."
+        },
+        {
+          "q": "Can I eat lentils and chickpeas if I have gout?",
+          "a": "Yes. Current evidence is clear that legumes such as lentils, chickpeas and fava beans do not meaningfully increase gout attack risk despite containing some purines. They can be eaten in moderation as part of a healthy diet. The main dietary restrictions are organ meats, certain seafood and sugary drinks."
+        },
+        {
+          "q": "Do I need to fast before a uric acid test?",
+          "a": "Fasting for four to eight hours before the test is generally recommended, because eating a purine-rich meal can temporarily raise the measured level. Ask your laboratory for specific instructions. Remember also that the best time for an accurate baseline measurement is two to four weeks after any acute flare has fully resolved."
+        },
+        {
+          "q": "Is colchicine safe to take long-term for prevention?",
+          "a": "Colchicine in the low doses used for long-term prevention is well tolerated by most people and has been used for this purpose for decades. The higher doses used during acute attacks are more likely to cause gastrointestinal side effects such as diarrhoea and abdominal pain. Dose adjustment is needed in kidney disease."
+        },
+        {
+          "q": "Does fresh fruit raise uric acid?",
+          "a": "Whole fresh fruit has little meaningful impact on uric acid levels in most people. The concern is with commercially produced fruit juice and sugary drinks, which are concentrated sources of fructose. Fructose is converted to purines in the liver and raises uric acid independently of dietary purine intake. Whole fruit eaten in moderation is fine."
+        },
+        {
+          "q": "How long does a gout attack last with treatment?",
+          "a": "With appropriate anti-inflammatory treatment started promptly, pain begins to ease within 24 to 48 hours and the attack resolves fully within five to ten days in most cases. Without treatment, attacks can last two weeks or longer. Ice, rest and high fluid intake alongside medication all help speed recovery."
+        }
+      ]
+    }
+  }
+}

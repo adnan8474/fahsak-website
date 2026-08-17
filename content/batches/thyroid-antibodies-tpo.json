@@ -1,0 +1,341 @@
+{
+  "slug": "thyroid-antibodies-tpo",
+  "category": "lab-tests",
+  "chip_ar": "فهم التحاليل",
+  "chip_en": "Understanding Lab Tests",
+  "date_iso": "2026-07-28",
+  "sources": [
+    {
+      "label": "Medici M, Porcu E, Pistis G et al: Identification of novel genetic loci associated with thyroid peroxidase antibodies and clinical thyroid disease, PLoS genetics, 2014",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24586183/"
+    },
+    {
+      "label": "Biondi B, Cappola AR, Cooper DS et al: Subclinical Hypothyroidism: A Review, JAMA, 2019",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31287527/"
+    },
+    {
+      "label": "Collet TH, Bauer DC, Cappola AR et al: Thyroid antibody status, subclinical hypothyroidism, and the risk of coronary heart disease, The Journal of clinical endocrinology and metabolism, 2014",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24915118/"
+    },
+    {
+      "label": "Gill S, Cheed V, Morton VAH et al: Evaluating the Progression to Hypothyroidism in Preconception Euthyroid Thyroid Peroxidase Antibody-Positive Women, The Journal of clinical endocrinology and metabolism, 2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36103260/"
+    },
+    {
+      "label": "Gaitonde DY, Rowley KD, Sweeney LB et al: Hypothyroidism: an update, American family physician, 2012",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22962987/"
+    },
+    {
+      "label": "Osowiecka K, Myszkowska-Ryciak J: The Influence of Nutritional Intervention in the Treatment of Hashimoto Thyroiditis, a Systematic Review, Nutrients, 2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36839399/"
+    }
+  ],
+  "content": {
+    "ar": {
+      "title": "أجسام الغدة الدرقية المضادة: anti-TPO وanti-Tg وما تعنيه",
+      "desc": "دليل لفهم نتائج أجسام الغدة الدرقية المضادة anti-TPO وanti-Tg، وما تعنيه حين يكون TSH طبيعياً، ومتى تستدعي متابعة دورية دون علاج فوري.",
+      "keywords": "anti-TPO, anti-Tg, أجسام مضادة للغدة الدرقية, هاشيموتو, قصور الغدة الدرقية, المناعة الذاتية, TSH طبيعي مع أجسام مضادة, الغدة الدرقية والحمل, تحليل الغدة الدرقية",
+      "h1": "أجسام الغدة الدرقية المضادة: ما تعنيه anti-TPO وanti-Tg عندما يكون TSH طبيعياً",
+      "takeaways": [
+        "anti-TPO وanti-Tg هما أجسام مضادة يُنتجها الجهاز المناعي خطأً ضد الغدة الدرقية الخاصة بك، ووجودها يعني مرضاً مناعياً ذاتياً في الغدة يُسمى هاشيموتو.",
+        "ارتفاع هذه الأجسام مع TSH طبيعي لا يعني بالضرورة علاجاً فورياً، لكنه يستدعي متابعة سنوية لأن الغدة قد تتضرر ببطء مع الوقت.",
+        "النساء أكثر عرضة للإصابة بمرض هاشيموتو بنسبة تفوق الرجال بحوالي سبعة إلى واحد.",
+        "وجود anti-TPO أثناء الحمل يرفع خطر الإجهاض والقصور اللاحق للولادة وينبغي مناقشته مع الطبيب المشرف.",
+        "لا علاج موثوقاً علمياً يُزيل هذه الأجسام، لكن السيطرة على TSH إذا ارتفع تحمي الغدة وتحسن الأعراض."
+      ],
+      "sections": [
+        {
+          "h2": "ما هي أجسام الغدة الدرقية المضادة؟",
+          "paras": [
+            "الجهاز المناعي يحمي الجسم من الميكروبات والأمراض عبر إنتاج أجسام مضادة (Antibodies) تستهدف الغزاة الخارجيين. في بعض الحالات يحدث خطأ ويبدأ الجهاز المناعي في استهداف خلايا الجسم نفسه، وهو ما يُسمى المناعة الذاتية. عندما يحدث هذا الخطأ في الغدة الدرقية (Thyroid)، يتشكل ما يُسمى مرض المناعة الذاتية للغدة الدرقية، وهو من أكثر أمراض المناعة الذاتية شيوعاً في العالم.",
+            "anti-TPO هو جسم مضاد يستهدف إنزيم بيروكسيداز الغدة الدرقية (Thyroid Peroxidase)، وهو إنزيم لا غنى عنه في إنتاج هرموني الغدة T3 وT4. anti-Tg يستهدف مادة الثيروغلوبولين (Thyroglobulin) وهي البروتين الذي تُخزّن فيه الغدة هرموناتها قبل إطلاقها في مجرى الدم. ارتفاع أي منهما أو كليهما يُشير إلى عملية مناعية ذاتية تستهدف الغدة. لكن الغدة تستطيع مقاومة هذا الهجوم والاستمرار في العمل بشكل طبيعي لسنوات طويلة.",
+            "الشكل الأكثر شيوعاً لهذه الحالة هو التهاب الغدة الدرقية هاشيموتو (Hashimoto's Thyroiditis)، الذي يتميز بارتفاع anti-TPO. مع الوقت وببطء شديد قد يتراجع نشاط الغدة ويبدأ TSH في الارتفاع. لكن كثيراً من الأشخاص يعيشون عقوداً مع ارتفاع الأجسام المضادة دون أي تأثر على TSH. لا توجد طريقة موثوقة للتنبؤ مسبقاً بمن سيتطور ومن لن يتطور، وهذا بالضبط ما يجعل المتابعة الدورية أهم من افتراض نتيجة معينة."
+          ]
+        },
+        {
+          "h2": "ارتفاع anti-TPO مع TSH طبيعي: ماذا يعني؟",
+          "paras": [
+            "هذا هو السيناريو الذي يُربك كثيراً من الناس ويُلقي بهم في دوامة من القلق: نتيجة anti-TPO مرتفعة لكن TSH ضمن المدى الطبيعي. الإجابة المختصرة: الغدة لا تزال تعمل بكفاءة رغم وجود هجوم مناعي عليها. لكن هذا لا يعني تجاهل الأمر تماماً.",
+            "دراسة نُشرت في مجلة JAMA عام 2019 راجعت الأدلة حول قصور الغدة الدرقية تحت الإكلينيكي ووجود الأجسام المضادة، وخلصت إلى أن وجود anti-TPO لدى شخص بـ TSH طبيعي يُضاعف خطر التطور نحو قصور الغدة الدرقية الكامل في السنوات القادمة مقارنة بمن لا يملك هذه الأجسام.",
+            "دراسة نُشرت في مجلة Journal of Clinical Endocrinology and Metabolism عام 2022 تابعت نساء كانت TSH لديهن طبيعية لكنهن حملن anti-TPO قبل الحمل، ووجدت أن نسبة ملحوظة منهن تطوّر لديهن قصور غدة دوران الحمل. هذا يُبرز أهمية المتابعة على المدى البعيد وليس الاطمئنان لنتيجة واحدة."
+          ],
+          "visual": {
+            "type": "timeline",
+            "title": "كيف يتطور مرض هاشيموتو عبر الزمن",
+            "items": [
+              {"when": "المرحلة الأولى", "what": "anti-TPO مرتفع، TSH طبيعي، لا أعراض واضحة"},
+              {"when": "سنوات لاحقة", "what": "TSH يرتفع تدريجياً إلى ما فوق الطبيعي (قصور تحت إكلينيكي)"},
+              {"when": "مراحل متقدمة", "what": "TSH مرتفع بوضوح، T4 منخفض، ظهور أعراض القصور الكامل"},
+              {"when": "العلاج", "what": "ليفوثيروكسين يُعيد TSH للطبيعي ويُحسن الأعراض"}
+            ]
+          }
+        },
+        {
+          "h2": "ما الفرق بين anti-TPO وanti-Tg؟",
+          "paras": [
+            "كلاهما جسمان مضادان ضد الغدة الدرقية، لكنهما يستهدفان بروتينات مختلفة. anti-TPO أكثر حساسية وخصوصية لتشخيص هاشيموتو وهو الذي يُطلب أولاً في الغالب. anti-Tg قد يرتفع في بعض الحالات التي يكون فيها anti-TPO طبيعياً، وهو مفيد أيضاً لمتابعة مرضى سرطان الغدة الدرقية بعد استئصالها.",
+            "ارتفاع anti-Tg وحده دون anti-TPO أقل دلالة على هاشيموتو بشكل عام. بعض الأشخاص الأصحاء تماماً قد يملكون anti-Tg منخفضاً بشكل إيجابي دون أن يكون لديهم مرض. لهذا السبب يُفسّر الطبيب النتيجتين معاً وليس كل منهما بمعزل عن الأخرى وعن صورة المريض الكاملة.",
+            "تُختلف أيضاً القيم المرجعية بين المختبرات تبعاً للطريقة والجهاز المستخدمين. لهذا لا يوجد رقم واحد يُعتبر مرتفعاً في كل مختبر. ما يُعتبر مرتفعاً في مختبر ما قد يكون في الحد الأعلى من الطبيعي في مختبر آخر. المهم هو مقارنة نتيجتك بالمدى المرجعي المكتوب في تقرير مختبرك تحديداً."
+          ]
+        },
+        {
+          "h2": "أعراض هاشيموتو: متى تظهر وكيف تتعرف عليها؟",
+          "paras": [
+            "في كثير من الحالات لا توجد أعراض واضحة في المراحل الأولى، وتُكتشف الأجسام المضادة صدفة خلال تحليل شامل. لكن حين تبدأ الغدة في التراجع تظهر أعراض تشبه أعراض قصور الغدة الدرقية بشكل عام: التعب غير المبرر، وزيادة الوزن رغم عدم تغيير النظام الغذائي، والإحساس بالبرد بشكل مبالغ فيه، وجفاف الجلد والشعر، وبطء الذاكرة والتفكير، والإمساك، وانتظام الدورة الشهرية عند النساء.",
+            "المشكلة أن هذه الأعراض غير محددة وتشترك فيها أمراض عديدة. لا يمكن الاعتماد على الأعراض وحدها لتشخيص هاشيموتو أو قصور الغدة. التحليل هو الأداة الوحيدة الموثوقة. بعض الناس يعزون التعب وزيادة الوزن لهاشيموتو وحده بينما يكون TSH طبيعياً، وهنا ينبغي البحث عن أسباب أخرى أيضاً.",
+            "إذا كانت لديك أجسام مضادة مرتفعة وأعراض تزعجك، الخطوة الأولى هي قياس TSH. إذا كان مرتفعاً فقد حان وقت العلاج. إذا كان طبيعياً يبحث الطبيب عن أسباب أخرى للأعراض ويضع متابعة لـ TSH على أساس سنوي."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "warn",
+            "title": "متابع طبية عاجلة إذا ظهرت هذه الأعراض مع أجسام مضادة مرتفعة",
+            "items": [
+              "تعب شديد يمنعك من ممارسة نشاطاتك اليومية المعتادة",
+              "زيادة وزن سريعة غير مبررة خلال أسابيع",
+              "بطء في ضربات القلب أو ضيق في التنفس غير معهود",
+              "تورم في الرقبة أو منطقة الغدة الدرقية"
+            ]
+          }
+        },
+        {
+          "h2": "النساء والأجسام المضادة للغدة: ما العلاقة بالحمل؟",
+          "paras": [
+            "النساء أكثر عرضة لمرض هاشيموتو من الرجال بنسبة تتراوح بين سبعة إلى واحد، وهو أكثر شيوعاً في مرحلة الخصوبة بين سن العشرين والخمسين. وجود anti-TPO لدى المرأة الحامل يستدعي انتباهاً خاصاً لأنه يرتبط بزيادة خطر الإجهاض التلقائي في الثلث الأول من الحمل، وبارتفاع خطر قصور الغدة الدرقية خلال الحمل وبعد الولادة، وهو ما قد يُؤثر على نمو الجنين إذا لم يُعالج.",
+            "دراسة منشورة في JCEM عام 2022 وجدت أن النساء اللواتي يحملن anti-TPO مع TSH طبيعي قبل الحمل كنّ أكثر عرضة لتطوير قصور غدة درقية خلال الحمل أو في فترة ما بعد الولادة. هذا يعني أن وجود الجسم المضاد يُوجب قياس TSH دورياً خلال الحمل حتى في غياب الأعراض الكاملة، لأن TSH يتغير طبيعياً خلال الحمل ويحتاج لنطاقات مرجعية خاصة بكل ثلث.",
+            "إذا كنت تخططين للحمل وتحملين anti-TPO مرتفعاً، ناقشي الأمر مع طبيبك قبل الحمل. لا يعني ذلك أنك لن تحملي أو أن الحمل محفوف بالمخاطر بالضرورة. معظم النساء اللواتي لديهن أجسام مضادة درقية يحملن وينجبن بشكل طبيعي، لكنهن يحتجن لمتابعة أدق. المتابعة الدقيقة لـ TSH خلال الحمل ضرورة وليست خياراً."
+          ]
+        },
+        {
+          "h2": "هل يوجد علاج لارتفاع الأجسام المضادة نفسها؟",
+          "paras": [
+            "لا يوجد علاج موثوق طبياً يُزيل anti-TPO أو يُخفّضه بشكل دائم ومضمون. مراجعة علمية شاملة نُشرت في مجلة Nutrients عام 2023 فحصت الأدلة على تأثير التدخلات الغذائية في هاشيموتو، وخلصت إلى أن التعديلات الغذائية كتقليل الغلوتين وبعض المكملات كالسيلينيوم قد تُخفّض الأجسام المضادة قليلاً في بعض الدراسات الصغيرة، لكن الأدلة لا تزال غير كافية للتوصية بها بشكل قاطع لجميع المرضى ولا ينبغي اعتبارها بديلاً عن المتابعة الطبية.",
+            "الهدف الرئيسي من الإدارة الطبية هو متابعة TSH وعلاجه إن ارتفع عن الطبيعي. دواء الليفوثيروكسين لا يُعالج هاشيموتو نفسه ولا يُخفّض الأجسام المضادة بشكل مباشر، لكنه يُعوّض النقص الهرموني ويُحسّن الأعراض ويحمي القلب والدماغ والعظام من تداعيات قصور الغدة على المدى الطويل. عند الأخذ بالجرعة الصحيحة يُعيد TSH إلى نطاقه الطبيعي ويُخفّف الأعراض في معظم الحالات.",
+            "الادعاءات التسويقية حول مكملات غذائية أو أعشاب تُعالج هاشيموتو منتشرة جداً في المنطقة العربية، خاصة عبر وسائل التواصل الاجتماعي. كن حذراً من أي منتج يدّعي تصحيح المناعة الذاتية للغدة أو إزالة الأجسام المضادة. بعض هذه المنتجات تحتوي على اليود بكميات مفرطة قد تُسرّع تراجع الغدة عند من يعانون من هاشيموتو. استشر طبيبك قبل أخذ أي مكمل يُدّعى أنه مفيد لهاشيموتو، وأخبره بكل ما تتناوله."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "مقارنة: anti-TPO مقابل anti-Tg",
+            "head": ["الخاصية", "anti-TPO", "anti-Tg"],
+            "rows": [
+              ["ما يستهدفه", "إنزيم بيروكسيداز الغدة", "بروتين الثيروغلوبولين"],
+              ["حساسيته لهاشيموتو", "عالية (الأكثر شيوعاً)", "متوسطة"],
+              ["يُطلب أولاً؟", "نعم في الغالب", "كتحليل مكمل أو للمتابعة بعد الاستئصال"],
+              ["قيمته في سرطان الغدة", "محدودة", "مهمة جداً لمتابعة ما بعد الاستئصال"]
+            ]
+          }
+        },
+        {
+          "h2": "المتابعة: كم مرة وأي تحاليل؟",
+          "paras": [
+            "إذا كانت anti-TPO مرتفعة مع TSH طبيعي، ينصح معظم الأطباء بإعادة قياس TSH مرة في السنة على الأقل. لا حاجة لإعادة قياس الأجسام المضادة نفسها بشكل متكرر لأن التغيير في قيمتها لا يُغيّر قرار العلاج بشكل عام. ما يهم هو مراقبة TSH وهو العلامة التي تُخبر ما إذا كانت الغدة لا تزال تؤدي مهمتها.",
+            "إذا بدأ TSH في الارتفاع تدريجياً فوق الطبيعي، هذه علامة على أن الغدة تفقد قدرتها ببطء. يُضاف في هذه المرحلة قياس T4 الحرة لتقييم مدى قدرة الغدة على تعويض الطلب المتزايد. بعض الأطباء يُقررون البدء بالعلاج عند TSH فوق 10 وحده، وآخرون عند TSH بين 4 و10 إذا رافقته أعراض واضحة. هذا القرار فردي يُراعي عمر المريض وأعراضه وخطره القلبي وخططه الإنجابية.",
+            "من الجدير بالذكر أن بعض مختبرات المنطقة لا تُجري هذه التحاليل بدقة مقننة وقد تتفاوت نتائجها من مختبر لآخر. إذا أتت نتيجة anti-TPO مرتفعة لديك ولم يكن هناك ارتفاع في TSH ولا أعراض مزعجة، فمن المعقول إعادة التحليل في مختبر معتمد آخر قبل البدء بأي تدخل أو القلق المفرط."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "خطوات بعد اكتشاف anti-TPO مرتفع",
+            "items": [
+              "تحقق من TSH: إذا كان طبيعياً لا تحتاج علاجاً الآن",
+              "اطلب من طبيبك تحديد تكرار متابعة TSH (عادة سنوياً)",
+              "إذا كنت امرأة تخططين للحمل، ناقشي الأمر مع طبيبك مبكراً",
+              "لا تبدأ أي مكمل يُدّعى أنه يُعالج هاشيموتو دون استشارة",
+              "إذا بدأت أعراض القصور (تعب، زيادة وزن، برودة) راجع الطبيب لقياس TSH"
+            ]
+          }
+        },
+        {
+          "h2": "أسئلة شائعة حول هاشيموتو في المنطقة",
+          "paras": [
+            "يشيع في بعض الدول خاصة سوريا ولبنان والعراق والأردن التشخيص بهاشيموتو استناداً إلى تضخم الغدة أو الأعراض فقط دون تحاليل كافية. التشخيص الصحيح يتطلب على الأقل قياس TSH وanti-TPO، ويُفضّل إضافة T4 الحرة إذا كان TSH خارج النطاق الطبيعي. التشخيص من التحليل السريري أو الموجات الصوتية وحدها قد يكون مثيراً للشك لكنه يفتقر للدقة الكافية لاتخاذ قرارات علاجية.",
+            "كذلك يسأل كثيرون عما إذا كان الغلوتين يُسبب هاشيموتو أو يُسيء له. الأدلة تُشير إلى وجود ارتباط محتمل بين الداء البطني (Celiac Disease) وهاشيموتو، وبعض المرضى يُفيدون بتحسن بعد الابتعاد عن الغلوتين. لكن تحريم الغلوتين على كل مريض هاشيموتو دون تشخيص داء بطني مؤكد لا يستند لأدلة كافية ويُفرض تبعات غذائية واجتماعية غير ضرورية في كثير من الحالات. إذا كنت تريد استكشاف هذا الخيار، ابدأ بتحليل الداء البطني أولاً.",
+            "مرض هاشيموتو لا يعني نهاية الغدة الدرقية ولا الحكم بالعلاج مدى الحياة حتماً. كثير من المرضى يعيشون عقوداً مع الأجسام المضادة ودون تغيير في TSH أو أعراض مزعجة. ما يختلف من شخص لآخر هو سرعة التطور، وهذا ما تُجيب عليه المتابعة الدورية. الهدف ليس الخوف من التشخيص بل فهمه ومتابعته بذكاء، والتدخل فقط حين يستحق الأمر ذلك استناداً للأرقام وليس للقلق."
+          ]
+        }
+      ],
+      "tie": "تطبيق صحتك يتيح لك تسجيل نتائج TSH وanti-TPO عبر الوقت ومتابعة أي تغيّر في الاتجاه. المساعد الذكي يوضح لك معنى نتائجك وينبّهك حين يستحق التغيير مناقشة الطبيب.",
+      "faqs": [
+        {
+          "q": "هل ارتفاع anti-TPO يعني أنني سأُصاب بقصور الغدة الدرقية حتماً؟",
+          "a": "ليس حتماً. بعض الناس يملكون anti-TPO مرتفعاً لسنوات طويلة دون أن يتأثر TSH. لكن الخطر أعلى من المتوسط ولهذا تُنصح بمتابعة سنوية لـ TSH."
+        },
+        {
+          "q": "هل يمكن أن تتحسن الأجسام المضادة من تلقاء نفسها؟",
+          "a": "في بعض الأحيان تنخفض قليلاً مع الوقت لكنها نادراً ما تختفي كلياً. الهدف ليس تصفير الأجسام المضادة بل مراقبة TSH والتدخل حين يرتفع."
+        },
+        {
+          "q": "هل نظام غذائي معين يُعالج هاشيموتو؟",
+          "a": "لا يوجد نظام غذائي مُثبت يُعالج هاشيموتو. بعض الدراسات أشارت لتأثير محدود للسيلينيوم في تخفيض الأجسام المضادة لكن الأدلة غير حاسمة. الإجراء الموثوق الوحيد هو متابعة TSH وعلاجه حين يلزم."
+        },
+        {
+          "q": "لماذا تُطلب anti-Tg أحياناً بدون anti-TPO؟",
+          "a": "anti-Tg مهمة بشكل خاص لمتابعة مرضى سرطان الغدة الدرقية بعد الاستئصال الكامل، حيث يُستخدم الثيروغلوبولين كعلامة على بقايا أنسجة الغدة. في سياق هاشيموتو، anti-TPO هو التحليل الأهم."
+        },
+        {
+          "q": "هل يحتاج كل شخص مصاب بهاشيموتو للعلاج بالليفوثيروكسين؟",
+          "a": "لا. العلاج يُقرر بناء على TSH وليس على الأجسام المضادة. إذا كان TSH طبيعياً لا يُوصف العلاج في الغالب. حين يرتفع TSH بشكل واضح يُقرر الطبيب البدء بالعلاج."
+        },
+        {
+          "q": "هل التوتر يرفع anti-TPO؟",
+          "a": "التوتر الشديد قد يُفاقم أمراض المناعة الذاتية عموماً، لكن قياس anti-TPO بعد فترة توتر مكثف ليس مثالياً. إعادة التحليل في وقت أهدأ تُعطي صورة أدق. التوتر لا يُسبب هاشيموتو لكنه قد يُنبّه نشاطه."
+        },
+        {
+          "q": "هل يمكن أن تكون أعراضي من هاشيموتو مع TSH طبيعي؟",
+          "a": "ممكن لكنه أقل شيوعاً. بعض الأطباء يعتبرون أن وجود الأجسام المضادة مع بعض الأعراض قد يستحق علاجاً تجريبياً بجرعة صغيرة من الليفوثيروكسين، لكن هذا ليس إجماعاً علمياً. المتابعة والحوار مع طبيبك هو الطريق."
+        }
+      ]
+    },
+    "en": {
+      "title": "Thyroid antibodies: anti-TPO, anti-Tg and what they predict",
+      "desc": "What raised anti-TPO and anti-Tg mean when TSH is normal, how Hashimoto progresses, pregnancy implications, and why monitoring beats immediate treatment.",
+      "keywords": "anti-TPO antibodies, anti-Tg antibodies, Hashimoto thyroiditis, thyroid autoimmune disease, subclinical hypothyroidism, TPO antibody normal TSH, thyroid antibodies pregnancy, thyroid autoimmune test",
+      "h1": "Thyroid antibodies: what anti-TPO and anti-Tg mean when your TSH is normal",
+      "takeaways": [
+        "Anti-TPO and anti-Tg are antibodies the immune system produces mistakenly against your own thyroid gland. Their presence signals autoimmune thyroid disease, most commonly Hashimoto thyroiditis.",
+        "Raised antibodies with a normal TSH do not always mean immediate treatment is needed, but they do mean annual TSH monitoring because the gland may slowly decline over years.",
+        "Women are around seven times more likely to develop Hashimoto thyroiditis than men.",
+        "Anti-TPO in pregnancy raises the risk of miscarriage and postpartum thyroid failure and should be discussed with whoever is managing the pregnancy.",
+        "No reliably proven treatment eliminates these antibodies, but controlling TSH when it rises protects the body and improves symptoms."
+      ],
+      "sections": [
+        {
+          "h2": "What are thyroid antibodies?",
+          "paras": [
+            "The immune system protects the body from infection by producing antibodies that target foreign invaders. In some people, the immune system makes an error and starts attacking the body's own tissues, a process called autoimmunity. When this happens to the thyroid gland, the result is called autoimmune thyroid disease, and it is one of the most common autoimmune conditions worldwide.",
+            "Anti-TPO is an antibody that targets thyroid peroxidase, an enzyme the thyroid gland uses to produce its hormones T3 and T4. Anti-Tg targets thyroglobulin, the protein in which the gland stores its hormones before releasing them into the bloodstream. A raised level of either, or both, indicates that the immune system is mounting an attack on the thyroid gland. The gland may continue working normally for years despite this attack, which is why having raised antibodies does not automatically mean you are ill right now.",
+            "The most common form of this condition is Hashimoto thyroiditis, which is characterised by raised anti-TPO and a gradual, often very slow decline in thyroid function. Many people live for years or even decades with raised antibodies and a normal TSH. Others progress to subclinical and then overt hypothyroidism over time. Genetic studies published in PLoS Genetics in 2014 identified specific gene variants that influence the level of thyroid antibodies and the risk of progressing to clinical thyroid disease, confirming the hereditary component of this condition. There is no reliable way to predict for any individual how quickly things will progress, which is precisely why monitoring matters more than assuming an outcome."
+          ]
+        },
+        {
+          "h2": "Raised anti-TPO with a normal TSH: what does it mean in practice?",
+          "paras": [
+            "This is the scenario that causes the most confusion: a raised anti-TPO but a TSH in the normal range. The short answer is that the thyroid is still working adequately despite an ongoing immune attack. But this does not mean the situation can be dismissed entirely.",
+            "A review published in JAMA in 2019 on subclinical hypothyroidism examined evidence on patients with raised antibodies and found that the presence of anti-TPO significantly increases the long-term risk of progression to overt hypothyroidism compared to people with no antibodies. The risk is not certain for any individual, but it is real and measurable at a population level.",
+            "A study published in the Journal of Clinical Endocrinology and Metabolism in 2022 followed women who were anti-TPO positive with normal TSH before conception and found that a significant proportion developed thyroid insufficiency during or after pregnancy. This is the main reason why raised antibodies with a normal TSH warrants annual TSH follow-up rather than a single reassuring result and nothing further."
+          ],
+          "visual": {
+            "type": "timeline",
+            "title": "How Hashimoto thyroiditis progresses over time",
+            "items": [
+              {"when": "Early stage", "what": "Anti-TPO raised, TSH normal, no obvious symptoms"},
+              {"when": "Later years", "what": "TSH begins rising above normal (subclinical hypothyroidism)"},
+              {"when": "Advanced stage", "what": "TSH clearly elevated, free T4 falls, symptoms of full hypothyroidism appear"},
+              {"when": "Treatment", "what": "Levothyroxine restores TSH to normal and improves symptoms"}
+            ]
+          }
+        },
+        {
+          "h2": "What is the difference between anti-TPO and anti-Tg?",
+          "paras": [
+            "Both are antibodies against the thyroid but they target different proteins. Anti-TPO is more sensitive and specific for Hashimoto thyroiditis and is typically the first test ordered. Anti-Tg may be raised in some cases where anti-TPO is normal and is also clinically important in monitoring patients after total thyroid removal for cancer, where thyroglobulin serves as a tumour marker.",
+            "A raised anti-Tg in isolation, without raised anti-TPO, is less specific for Hashimoto and can occasionally be found at low levels in otherwise healthy people. The two results are interpreted together and alongside the clinical picture, not in isolation. One number never tells the whole story.",
+            "Reference ranges for these antibodies differ between laboratories depending on the method and instrument used, which is one reason why results from different labs should be interpreted with caution when comparing them over time. Always compare your result to the reference range printed on your own laboratory report."
+          ]
+        },
+        {
+          "h2": "Symptoms of Hashimoto: when do they appear and how do you recognise them?",
+          "paras": [
+            "In many cases there are no obvious symptoms in the early stages and the antibodies are found by chance on a routine panel. When the gland begins to slow down, the symptoms that appear are the same as those of hypothyroidism generally: unexplained fatigue, weight gain despite no change in diet, feeling unusually cold, dry skin and hair, mental fogginess, constipation and irregular periods in women.",
+            "The difficulty is that these symptoms are non-specific and shared by many other conditions. It is not possible to diagnose Hashimoto or hypothyroidism from symptoms alone. Some people attribute their fatigue and weight gain entirely to Hashimoto when TSH is normal, and in that situation other causes also deserve investigation.",
+            "If you have raised antibodies and symptoms that bother you, the first step is measuring TSH. If TSH is elevated, treatment may be appropriate. If it is normal, the doctor will look for other explanations for the symptoms and establish a schedule for annual TSH monitoring."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "warn",
+            "title": "See a doctor promptly if you have raised antibodies and notice",
+            "items": [
+              "Severe fatigue that prevents your usual daily activities",
+              "Rapid unexplained weight gain over a few weeks",
+              "A slowed heart rate or unusual shortness of breath",
+              "Swelling in the neck area around the thyroid gland"
+            ]
+          }
+        },
+        {
+          "h2": "Women and thyroid antibodies: what is the link with pregnancy?",
+          "paras": [
+            "Women are around seven times more likely to develop Hashimoto thyroiditis than men, and the condition is most common during the reproductive years. The presence of anti-TPO in a woman who is pregnant or planning to conceive deserves special attention because it is associated with an increased risk of miscarriage in the first trimester and with postpartum thyroiditis in the months after delivery.",
+            "A 2022 study in the Journal of Clinical Endocrinology and Metabolism found that women who were anti-TPO positive with a normal TSH before conception had a notably higher rate of developing thyroid insufficiency during pregnancy or in the postpartum period. This means that even a normal pre-pregnancy TSH does not fully reassure in the presence of raised antibodies. TSH should be checked at the first antenatal visit and monitored through the pregnancy.",
+            "If you are planning a pregnancy and have raised anti-TPO, raise this with your doctor before conception. It does not mean pregnancy is unsafe or that problems are inevitable, but it does mean that close TSH monitoring throughout the pregnancy is necessary rather than optional."
+          ]
+        },
+        {
+          "h2": "Is there any treatment that reduces the antibodies themselves?",
+          "paras": [
+            "No reliably proven medical treatment eliminates anti-TPO or reduces it permanently. A systematic review published in the journal Nutrients in 2023 examined the evidence for nutritional interventions in Hashimoto thyroiditis and found that dietary modifications such as reducing gluten and certain supplements including selenium showed modest antibody reductions in some studies, but the evidence is not strong enough to recommend these universally for all patients.",
+            "The main goal of management is monitoring TSH and treating it with levothyroxine when it rises above normal. Levothyroxine does not treat Hashimoto itself and does not lower the antibodies, but it compensates for the hormonal deficit, improves symptoms and protects the body from the consequences of hypothyroidism.",
+            "Marketing claims about supplements and herbal products that promise to correct thyroid autoimmunity are widely circulated in the region. Be cautious about any product claiming to fix Hashimoto. Some preparations contain iodine in amounts that can actually accelerate thyroid decline in people with autoimmune thyroid disease. Discuss any supplement with your doctor before starting."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Anti-TPO versus anti-Tg at a glance",
+            "head": ["Feature", "Anti-TPO", "Anti-Tg"],
+            "rows": [
+              ["Target", "Thyroid peroxidase enzyme", "Thyroglobulin protein"],
+              ["Sensitivity for Hashimoto", "High (most commonly raised)", "Moderate"],
+              ["Ordered first?", "Yes, in most cases", "As a supplement or post-thyroidectomy"],
+              ["Role in thyroid cancer monitoring", "Limited", "Very important after total removal"]
+            ]
+          }
+        },
+        {
+          "h2": "Follow-up: how often and which tests?",
+          "paras": [
+            "If anti-TPO is raised with a normal TSH, most guidelines recommend measuring TSH once a year. There is no need to retest the antibodies themselves frequently because a change in their level does not usually change the treatment decision. What matters is tracking TSH.",
+            "If TSH begins rising above the normal range, this signals that the gland is gradually losing capacity. Free T4 is added at this point to assess whether the gland can still compensate for the demand. Some doctors start treatment when TSH exceeds 10, others when it is between 4 and 10 alongside clear symptoms. The decision is individualised and takes into account age, symptoms, cardiovascular risk and plans for pregnancy.",
+            "Some laboratories in the region do not perform these assays to standardised protocols and results may vary. If your anti-TPO is raised but TSH is consistently normal and you have no symptoms, it is worth repeating the antibody test at a well-equipped accredited laboratory before drawing firm conclusions."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "Steps after discovering a raised anti-TPO",
+            "items": [
+              "Check your TSH: if it is normal, you do not need treatment right now",
+              "Ask your doctor how often to repeat TSH (usually yearly)",
+              "If you are a woman planning pregnancy, discuss this with your doctor before conceiving",
+              "Do not start any supplement claiming to treat Hashimoto without medical advice",
+              "If fatigue, weight gain or cold intolerance begin, see your doctor and repeat TSH"
+            ]
+          }
+        },
+        {
+          "h2": "Hashimoto thyroiditis in the regional context",
+          "paras": [
+            "In several countries in the Levant and wider Arab region, Hashimoto is sometimes diagnosed based on thyroid enlargement or symptoms alone without adequate laboratory testing. A correct diagnosis requires at minimum a TSH and anti-TPO measurement, with free T4 added if TSH is abnormal. A clinical impression alone, while sometimes accurate, lacks the precision needed to guide management decisions. The same applies to ultrasound findings of thyroid heterogeneity, which may support but cannot confirm the diagnosis without the blood tests.",
+            "Many patients in the region ask about the gluten and Hashimoto connection. Evidence does show an association between coeliac disease and Hashimoto thyroiditis, and some patients report symptom improvement after eliminating gluten. However, recommending a gluten-free diet to every Hashimoto patient without a confirmed coeliac diagnosis is not supported by sufficient evidence, and a gluten-free diet has nutritional implications and costs of its own. If you want to explore this, test for coeliac disease first before committing to the diet.",
+            "Hashimoto thyroiditis does not mean the thyroid will inevitably fail or that lifelong medication is certain. Many people live for decades with raised antibodies and a stable TSH. What varies between individuals is the speed of progression, and this is exactly what regular monitoring captures. The goal is not to fear the diagnosis but to understand it, track it intelligently, and intervene only when the evidence and your symptoms call for it. A person whose TSH stays normal for years is not untreated for a disease: they are under appropriate surveillance for a condition that has not yet required treatment."
+          ]
+        }
+      ],
+      "tie": "The Sihtak app lets you log your TSH and antibody results over time and watch for any change in trend. The AI assistant can explain what your numbers mean in the context of your wider thyroid history and remind you when a repeat TSH is due.",
+      "faqs": [
+        {
+          "q": "Does raised anti-TPO mean I will definitely develop hypothyroidism?",
+          "a": "Not definitely. Some people have raised anti-TPO for decades without their TSH changing. But the risk is higher than average, which is why annual TSH monitoring is recommended rather than dismissing the result."
+        },
+        {
+          "q": "Can the antibodies improve on their own?",
+          "a": "They sometimes fall slightly over time but rarely disappear entirely. The goal is not to zero the antibody level but to monitor TSH and treat it if it rises. The antibody number by itself does not drive the treatment decision."
+        },
+        {
+          "q": "Does a special diet treat Hashimoto?",
+          "a": "No diet has been proven to treat Hashimoto. Some studies show a modest reduction in antibodies with selenium supplementation or gluten reduction, but the evidence is not strong enough to recommend these universally. The only evidence-based intervention remains treating TSH with levothyroxine when it rises."
+        },
+        {
+          "q": "Why is anti-Tg sometimes ordered without anti-TPO?",
+          "a": "Anti-Tg is particularly important for monitoring thyroid cancer patients after total thyroidectomy, where thyroglobulin levels serve as a tumour marker. In the Hashimoto context, anti-TPO is the more clinically useful test."
+        },
+        {
+          "q": "Does every person with Hashimoto need levothyroxine?",
+          "a": "No. Treatment is decided based on TSH, not on the antibody level. If TSH is consistently normal, most guidelines do not recommend starting treatment. When TSH rises clearly above normal, the doctor decides whether to begin levothyroxine."
+        },
+        {
+          "q": "Can stress raise anti-TPO?",
+          "a": "Severe stress can worsen autoimmune conditions in general, and testing during an intensely stressful period may give a less representative result. Stress does not cause Hashimoto but may aggravate existing immune activity. A repeat test in a calmer period gives a more reliable picture."
+        },
+        {
+          "q": "Can I have Hashimoto symptoms with a normal TSH?",
+          "a": "It is possible but less common. Some doctors offer a cautious trial of low-dose levothyroxine for symptom relief when antibodies are raised and TSH is at the upper end of normal with clear symptoms, but this is not universally agreed. Open discussion with your doctor is the right path."
+        }
+      ]
+    }
+  }
+}

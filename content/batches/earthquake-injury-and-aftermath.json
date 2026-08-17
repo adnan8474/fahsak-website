@@ -1,0 +1,380 @@
+{
+  "slug": "earthquake-injury-and-aftermath",
+  "category": "regional-health",
+  "chip_ar": "الصحة بعد الزلزال",
+  "chip_en": "Earthquake Aftermath",
+  "date_iso": "2026-07-18",
+  "sources": [
+    {
+      "label": "Kurt et al., A Retrospective Study of 377 Patients with Crush Syndrome After the Turkiye-Syria Earthquakes, Medical Science Monitor, 2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39127884/"
+    },
+    {
+      "label": "Doven et al., The 2023 Turkiye-Syria earthquakes: pediatric victims with crush syndrome and acute kidney injury, Pediatric Nephrology, 2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38358551/"
+    },
+    {
+      "label": "Yesil et al., Analysis of wound infections among pediatric patients following the 2023 Turkiye-Syria earthquakes, Pediatric Surgery International, 2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39017929/"
+    },
+    {
+      "label": "Mavrouli et al., The Impact of Earthquakes on Public Health: Infectious Diseases in the Post-Disaster Period, Microorganisms, 2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36838384/"
+    },
+    {
+      "label": "World Health Organization: Emergency preparedness and response, crush injury and crush syndrome, WHO 2002"
+    },
+    {
+      "label": "Narrative review: tetanus after natural disasters in developing countries, PubMed, 2011",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21357910/"
+    }
+  ],
+  "content": {
+    "ar": {
+      "title": "بعد الزلزال: الإصابات ومتلازمة السحق والمخاطر الصحية",
+      "desc": "دليل عملي لفهم إصابات الزلازل والوقاية منها: متلازمة السحق الخطيرة وأسبابها، والتهابات الجروح، ومخاطر المياه والمأوى، والصحة النفسية بعد الكارثة.",
+      "keywords": "إصابات الزلزال, متلازمة السحق, الكسور والحطام, سحق العضلات الكلى, التيتانوس بعد الزلزال, الصحة بعد الكارثة, زلزال سوريا, الإسعاف الأولي الزلزال",
+      "h1": "بعد الزلزال: كيف تفهم الإصابات وتحافظ على صحتك في الأيام الحرجة",
+      "takeaways": [
+        "متلازمة السحق قد تقتل شخصا بعد إنقاذه من تحت الأنقاض، ليس بالإصابة نفسها بل بفشل الكلى الناجم عن تسمم الدم بمواد العضلات المتلفة.",
+        "أي جرح مفتوح بعد الزلزال يستحق تنظيفا فوريا وتقييما لتطعيم التيتانوس، حتى لو بدا بسيطا.",
+        "مياه الشبكة بعد الزلزال ملوثة غالبا حتى تصدر جهة الاختصاص تأكيدا رسميا بسلامتها، اغلها قبل شربها.",
+        "الأمراض المزمنة تتفاقم في ظروف الكارثة خاصة عند انقطاع الأدوية. حدد هذه الحالات أولا في أي مركز طبي ميداني.",
+        "الأعراض النفسية بعد الزلزال شائعة جدا وتستحق الاعتراف والرعاية مثلها مثل الجروح الجسدية."
+      ],
+      "sections": [
+        {
+          "h2": "ما هي الإصابات الأكثر شيوعا بعد الزلزال؟",
+          "paras": [
+            "الزلازل تُحدث نمطا مميزا من الإصابات يختلف عن حوادث السيارات أو الحروق. الكسور بكل أنواعها هي الأكثر شيوعا، يليها الجروح الجلدية الناجمة عن الزجاج والحطام. إصابات الرأس والصدر والبطن تحدث عند انهيار السقف والجدران مباشرة على الشخص. تشوهات الأطراف من سقوط الحطام الثقيل قد تستلزم بتراً في الحالات الشديدة.",
+            "دراسة أجرتها مجلة Medical Science Monitor عام 2024 وشملت 377 مريضا من ضحايا زلزال تركيا وسوريا في فبراير 2023 وجدت أن متوسط وقت الإنقاذ من تحت الأنقاض بلغ نحو 20 ساعة، وأن حدة الإصابة ترتبط ارتباطا مباشرا بطول مدة الانحصار. الأطراف السفلية كانت الأكثر إصابة في 60% من الحالات.",
+            "إصابات الأطفال لها طابع مختلف نسبيا. دراسة تركّزت على الحالات الاطفالية بعد زلزال 2023 ونشرتها مجلة Pediatric Nephrology وجدت أن الأطفال أقل عرضة لمتلازمة السحق من البالغين بحكم صغر حجم الكتلة العضلية، لكنهم أكثر عرضة للجفاف الشديد وسوء التغذية خلال فترات الانتظار الطويلة تحت الأنقاض."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "أنواع الإصابات الشائعة في الزلازل وأولويات العلاج",
+            "head": ["نوع الإصابة", "الأولوية", "ما يجب فعله"],
+            "rows": [
+              ["نزيف شديد", "عاجل جدا", "ضغط مباشر مستمر مع طلب النجدة"],
+              ["كسر مع اضطراب وعي", "عاجل جدا", "لا تحرك المصاب، استدع الإسعاف"],
+              ["متلازمة السحق المشتبهة", "عاجل", "نقل فوري لمستشفى بوحدة كلى"],
+              ["جروح مفتوحة", "مهم", "تنظيف فوري وتقييم التيتانوس"],
+              ["كسور الأطراف المستقرة", "مهم", "تثبيت مؤقت وانتقال للمستشفى"]
+            ]
+          }
+        },
+        {
+          "h2": "متلازمة السحق (Crush Syndrome): لماذا تقتل بعد الإنقاذ؟",
+          "paras": [
+            "متلازمة السحق (Crush Syndrome) هي المشكلة الطبية الأكثر خطورة الخاصة بضحايا الزلازل، وهي تختلف اختلافا جوهريا عن الإصابة الظاهرة. حين تبقى مجموعة عضلات كبيرة مضغوطة تحت الحطام لأكثر من أربع ساعات، تبدأ خلايا العضلات في الموت وتُطلق في مجرى الدم مادة تُسمى الميوغلوبين (Myoglobin). هذه المادة سامة للكلى وتسبب انسداد أنابيبها الدقيقة.",
+            "الخطر الأكبر يحدث بعد الإنقاذ وليس قبله. عند إزالة الضغط عن الأطراف المسحوقة، يتدفق الميوغلوبين والسوائل المتراكمة فجأة إلى مجرى الدم العام فتنخفض ضغط الدم بشكل حاد وتتعرض الكلى لضربة مزدوجة. هذه اللحظة تُعرف طبيا بـ Reperfusion Injury، وبدون تحضير طبي مسبق قد تكون قاتلة.",
+            "في دراسة الـ 377 مريضا التي أجراها Kurt وزملاؤه، طوّر أكثر من 50% من مرضى متلازمة السحق قصورا حادا في الكلى (Acute Kidney Injury)، واحتاج نسبة كبيرة منهم إلى غسيل كلى مؤقت. معدل الوفيات بلغ نحو 16% رغم توافر الرعاية في المستشفيات. هذا الرقم يُظهر مدى خطورة هذه الحالة حتى مع العلاج."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "اشتبه في متلازمة السحق إذا رأيت هذه العلامات بعد الإنقاذ",
+            "items": [
+              "بول لونه بني داكن أو لون الشاي بعد الخروج من تحت الأنقاض",
+              "تورم شديد ومتسارع في أطراف كانت محاصرة",
+              "انخفاض حاد في ضغط الدم رغم غياب نزيف ظاهر",
+              "انخفاض أو غياب تام للبول رغم إعطاء سوائل",
+              "ارتباك ذهني أو فقدان وعي بعد فترة من الوضوح الذهني"
+            ]
+          }
+        },
+        {
+          "h2": "إصابات الجروح والتيتانوس: لماذا الجرح البسيط خطير؟",
+          "paras": [
+            "الجروح الناجمة عن حطام الزلازل مختلفة عن الجروح العادية. الغبار والتربة والعوارض الخشبية المتعفنة والحديد الصدئ كلها ملوثات تزيد احتمالية عدوى الجرح بشكل كبير. دراسة نشرتها مجلة Pediatric Surgery International عام 2024 وحللت جروح الأطفال بعد زلزال 2023 وجدت أن أكثر من 20% من الجروح تطورت إلى عدوى موضعية أو جهازية رغم تلقيها الرعاية الأولية في المستشفى.",
+            "التيتانوس (Tetanus) هو الخطر الرئيسي من جروح التربة والحطام. البكتيريا المسببة له تعيش في التربة وتتكاثر في البيئات عديمة الأوكسجين مثل الجروح العميقة. لقاح التيتانوس يحمي بشكل فعّال إذا كان محدّثا. الشخص الذي لم يأخذ جرعة معززة خلال السنوات العشر الماضية يحتاج إليها فورا عند أي إصابة بجرح مفتوح بعد الزلزال.",
+            "لتنظيف جرح في ظروف شحيحة: اغسله بكمية وفيرة من الماء النظيف (أو الماء المغلي بعد تبريده) واضغط بقوة لطرد الحطام والتربة. لا تضع تراباً أو عسلاً أو أي مادة شعبية على الجرح، فهذه ممارسات شائعة تزيد خطر العدوى وتُصعّب التقييم الطبي. ثم غطه بضمادة نظيفة وتوجه إلى أقرب مركز طبي لتلقي العلاج المناسب وتقييم التطعيم."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "كيف تنظف جرحا في ظروف الطوارئ",
+            "items": [
+              "اغسل يديك أو ارتدِ قفازات قبل لمس الجرح إن أمكن",
+              "اضغط على الجرح بقماش نظيف لوقف النزيف أولا",
+              "اغسل الجرح بكمية كبيرة من الماء النظيف أو المغلي بعد تبريده",
+              "أزِل قطع الحطام الكبيرة الظاهرة برفق، ولا تنبش الجرح عمقا",
+              "لا تضع تراباً أو أعشاباً أو عسلاً على الجرح",
+              "غطِّ الجرح بضمادة نظيفة وتوجه فوراً للتقييم الطبي"
+            ]
+          }
+        },
+        {
+          "h2": "مخاطر المياه والغذاء بعد الزلزال",
+          "paras": [
+            "الزلازل تُحدث تشققات في أنابيب الصرف الصحي وخطوط المياه في نفس الوقت، مما يجعل خلط مياه الشرب بمياه الصرف أمرا شائعا في الأيام الأولى. الكوليرا والتيفوئيد والإسهال البكتيري والالتهابات الفيروسية المعوية كلها تنتشر عبر المياه الملوثة. قاعدة أساسية: لا تشرب ماء الشبكة حتى تُصدر السلطات المختصة تأكيدا رسميا بسلامته.",
+            "مراجعة علمية نشرتها مجلة Microorganisms عام 2023 حول الأمراض المعدية بعد الكوارث وجدت أن الوباءات ما بعد الزلزال ترتفع بشكل ملحوظ حين تصبح المراحيض والمياه متجاورين بالتلوث، كما حدث في عدة كوارث سابقة. المناطق ذات البنية التحتية الهشة أصلا هي الأكثر عرضة لهذه الوباءات.",
+            "لتعقيم المياه في ظروف الطوارئ: الغليان لمدة دقيقة كاملة (ثلاث دقائق إذا كنت فوق 2000 متر من سطح البحر) هو الأكثر موثوقية. إذا لم يكن الغلي ممكنا، يمكن إضافة كلور تجاري بنسبة محددة حسب التركيز المتاح. تحقق من المنظمات الصحية الميدانية لمعرفة مصادر المياه الآمنة المعتمدة في منطقتك.",
+            "في ما يخص الغذاء، تجنب كل طعام مطبوخ أو مخزّن في الثلاجة إذا انقطع التيار الكهربائي لأكثر من أربع ساعات. الطعام الساخن أو المغلي مباشرة قبل الأكل هو الأكثر أمانا. الأطعمة المعلبة آمنة ما لم تكن العبوة منتفخة أو صدئة أو مكسورة. حين الشك، تجنب الأكل واستبدله بما تقدمه المنظمات الإغاثية."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "تعقيم المياه في ظروف الطوارئ",
+            "head": ["الطريقة", "الكفاءة", "ملاحظات"],
+            "rows": [
+              ["الغليان لدقيقة كاملة", "عالية جدا", "الأفضل والأوثق في الحالات الطارئة"],
+              ["الكلورة (قطرات كلور)", "عالية", "لا تقتل بعض الطفيليات كالكريبتوسبوريديوم"],
+              ["فلترة + كلورة", "عالية جدا", "أفضل مزيج عند توفر الفلتر"],
+              ["المياه المعبأة المغلقة", "آمنة إذا غير مكسورة", "تحقق من سلامة ختم العبوة"]
+            ]
+          }
+        },
+        {
+          "h2": "الأمراض المزمنة في ظروف الكارثة",
+          "paras": [
+            "الشخص المصاب بمرض مزمن كالسكري أو ضغط الدم أو مرض القلب أو الصرع يواجه خطرا مضاعفا في ظروف الزلازل. التوتر الشديد يرفع ضغط الدم وسكر الدم بشكل ملحوظ. انقطاع الأدوية لأيام قد يُفضي إلى أزمات تستدعي الإنعاش. ضياع أجهزة القياس كجهاز قياس السكر أو الضغط يُفقد المريض القدرة على متابعة حالته. مرضى الربو يجب أن يحتفظوا بالبخاخة الموسّعة (الموسّع القصبي) معهم في أي وقت لأن الغبار والتوتر الناجمان عن الزلزال يستفزّان نوبات الربو بشكل ملحوظ.",
+            "في أي مركز طبي ميداني تصل إليه، أول ما تفعله هو إبلاغ العاملين بأمراضك المزمنة وأسماء أدويتك الاعتيادية. المراكز الميدانية المنظمة تحتفظ في الغالب بمخزون من الأدوية الأساسية كالأنسولين وأدوية ضغط الدم وعلاج الصرع. الوصول المبكر إلى هذه المراكز قد ينقذ حياة مريض مزمن كما قد ينقذها للمصاب بجرح رضي.",
+            "مرضى الأنسولين يواجهون تحديا إضافيا: الأنسولين يفقد فاعليته عند التعرض لحرارة شديدة. الأنسولين المحفوظ في سيارة تحت الشمس أو في خيمة ساخنة قد يصبح غير فعّال دون أن يبدو مختلفا في المظهر. تحقق من مؤشرات درجة الحرارة إن وجدت، وإذا كنت تتلقى الأنسولين ولا يتحسن مستوى السكر بجرعتك المعتادة فاستشر طبيبا ميدانيا فورا.",
+            "مرضى الغسيل الكلوي (Dialysis) يمثّلون حالات بالغة الخطورة في ظروف الزلازل لأن ماكينات الغسيل تعتمد على كهرباء مستمرة ومياه معقمة وطاقم متخصص. إذا كنت تعرف مريض غسيل كلى في منطقة الكارثة، أبلغ الفرق الطبية عنه كأولوية قصوى لأن غياب جلسة غسيل واحدة عن موعدها يُهدد الحياة."
+          ]
+        },
+        {
+          "h2": "المخاطر الصحية في مخيمات الإيواء",
+          "paras": [
+            "الإيواء المؤقت يجمع أعدادا كبيرة في مساحات محدودة التهوية، وهو بيئة مثالية لانتشار الأمراض التنفسية كالتهاب الرئة والحصبة والسعال الديكي. الاكتظاظ مع ضعف المرافق الصحية يُعرض الجميع لمخاطر الأمراض المعوية. الحشرات ولا سيما البعوض والقمل والجرب تنتشر بسرعة في هذه البيئات.",
+            "مبادئ الوقاية الأساسية في مخيمات الإيواء: غسل اليدين بالصابون قبل الأكل وبعد استخدام دورة المياه، والنوم تحت ناموسية إن أمكن، وتجنب مشاركة الأدوات الشخصية كالمناشف والأكواب، وتغيير الملابس وغسلها بانتظام. بلّغ العاملين في المخيم فورا عن أي حالة مرض تنفسي في خيمتك حتى يُتخذ إجراء الحجر المناسب.",
+            "في مخيمات الإيواء، الجرب (Scabies) ينتشر من خلال اللمس المباشر أو مشاركة الفراش والملابس. الأعراض الأساسية هي حكة شديدة تزداد ليلا وطفح بين الأصابع والمعصمين والخاصرتين. العلاج متاح وفعّال لكن يجب تطبيقه على كل أفراد الأسرة في وقت واحد، وإلا تكرر العدوى. أبلغ الطاقم الطبي عند أي اشتباه بدلا من تجاهل الأعراض."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "warn",
+            "title": "أبلغ الطاقم الطبي فوراً إذا ظهرت هذه الأعراض في مخيم الإيواء",
+            "items": [
+              "حمى فوق 38.5 درجة مع طفح جلدي (قد يكون حصبة)",
+              "إسهال دموي أو ما يزيد على 5 مرات في اليوم عند طفل",
+              "صفراء (اصفرار الجلد والعينين) في أي شخص",
+              "تصلب الرقبة مع صداع شديد وحمى (تستدعي استبعاد التهاب السحايا)"
+            ]
+          }
+        },
+        {
+          "h2": "الصحة النفسية بعد الزلزال: ما هو طبيعي وما يستحق الرعاية",
+          "paras": [
+            "الزلزال تجربة صادمة بكل معنى الكلمة: فجائية وعنيفة وتستهدف المكان الذي تشعر فيه بالأمان وهو البيت. الاستجابة النفسية الأولى تشمل الذعر والإنكار والخدر العاطفي، وهذه ردود فعل طبيعية لا تشير بذاتها إلى اضطراب نفسي. الأيام الأولى تكون الطاقة النفسية والجسدية مركّزة على البقاء، ولا ينبغي تفسير غياب المشاعر الآن على أنه علامة مرضية. كثير من الناجين يصفون شعورا بالذهول والتبلّد في الساعات الأولى، وهذا الشعور يزول تدريجيا مع بدء الاستقرار النسبي.",
+            "في الأسابيع التي تلي الكارثة، قد تبدأ أعراض أكثر مثابرة: الكوابيس المتكررة لمشاهد الزلزال، والقفز الدفاعي عند أي صوت مفاجئ، وصعوبة التركيز، والشعور بأن الخطر ما زال حاضرا حتى في بيئة آمنة. هذه أعراض اضطراب ما بعد الصدمة (PTSD) وتستجيب للعلاج النفسي المتخصص.",
+            "للأطفال الذين شهدوا الزلزال، انتبه لتراجع في المهارات التي اكتسبوها مثل الكلام أو السيطرة على التبول، والخوف المفرط من الظلام أو الأصوات العالية، ورفض النوم بمفردهم، والشكاوى الجسدية المتكررة بدون سبب عضوي. هذه علامات صادمة نفسية تستجيب جيدا للتدخل المبكر والروتين المنتظم والطمأنة الصادقة.",
+            "الحزن والبكاء على ما فُقد من منزل وممتلكات وأحبّاء هو استجابة مشروعة وصحية وليست مرضا. المشكلة تنشأ حين تستمر الأعراض المؤلمة لأسابيع وتمنع الشخص من استعادة وظائفه الأساسية. في هذه الحالة، طلب المساعدة النفسية ليس تقبّلا للضعف بل هو استثمار في القدرة على إعادة البناء. ابحث عن خدمات الدعم النفسي التي تقدمها المنظمات الصحية الميدانية، فكثير منها يقدم جلسات جماعية تخصصية للناجين من الكوارث الطبيعية."
+          ]
+        },
+        {
+          "h2": "تطبيق سهلتك بعد الكارثة",
+          "paras": [
+            "في الفوضى التي تعقب الزلزال، معظم الناس يفقدون وثائقهم الطبية. تطبيق سهلتك يتيح لك تخزين سجلك الطبي ونتائج تحاليلك وقائمة أدويتك في مكان واحد على هاتفك يصل إليه أي طبيب ميداني بسرعة. في ظروف الطوارئ هذه، القدرة على إثبات حالتك الطبية بشكل موثق وسريع قد تحدث فارقا حقيقيا في الرعاية التي تتلقاها. المعلومات الطبية المحفوظة رقميا لا تُتلف بانهيار المبنى ولا تضيع في فوضى الإجلاء، وهذا ما يجعلها ذات قيمة استثنائية تحديدا في مثل هذه الأوضاع."
+          ]
+        }
+      ],
+      "tie": "سهلتك يساعدك على حفظ سجلك الطبي وأدويتك وتحاليلك في مكان واحد آمن على هاتفك. في أعقاب أي كارثة تفقد فيها وثائقك، يصبح هذا السجل الرقمي أحد أهم ما تحتاجه لاستمرار رعايتك الصحية.",
+      "faqs": [
+        {
+          "q": "كيف أعرف أن شخصا ما مصاب بمتلازمة السحق؟",
+          "a": "العلامات الرئيسية هي: بول لون بني داكن يشبه الشاي، تورم سريع في الأطراف التي كانت محاصرة، وانخفاض ضغط الدم رغم غياب نزيف ظاهر. أي شخص كان محاصرا تحت الحطام لأكثر من أربع ساعات يجب أن يُعامل على أساس احتمال وجود متلازمة السحق حتى يثبت خلاف ذلك. نقله فورا إلى مستشفى مزود بإمكانيات غسيل الكلى أمر حيوي."
+        },
+        {
+          "q": "ما الإجراء الصحيح عند العثور على شخص تحت الأنقاض؟",
+          "a": "أولا: لا تسحبه بقوة إذا كان الحطام يضغط على جسمه منذ وقت طويل. نادِ طاقم الإنقاذ المتخصص. حافظ على تواصله معك بالكلام. إذا كان يتنفس وليس في خطر وشيك، أبقه مستلقيا، غطّه إن كان الجو باردا، وأعطه ماء نظيفا بكميات صغيرة إذا لم يشكو من ألم في البطن. السحب المتسرع قد يُطلق موجة من الموغلوبين إلى الدم فجأة."
+        },
+        {
+          "q": "هل مياه الشبكة آمنة للشرب بعد الزلزال؟",
+          "a": "لا، حتى تُصدر الجهات المختصة تأكيدا رسميا. الزلازل تُتلف الأنابيب وتُسرّب مياه الصرف في خطوط المياه الرئيسية. اغلِ الماء دقيقة كاملة قبل الشرب وترك الطعام والغسيل. استخدم المياه المعبأة أو توزيعات المياه المعقمة من المنظمات الإغاثية ما أمكن."
+        },
+        {
+          "q": "ماذا أفعل إذا كان أحد أفراد أسرتي يأخذ أدوية مزمنة وانقطع عنها؟",
+          "a": "اذهب فورا إلى أقرب مركز طبي ميداني وأبلغهم بالدواء والجرعة. المراكز الميدانية المنظمة تحتفظ بمخزون من الأدوية الأساسية. لا تتوقف عن الأنسولين أو أدوية ضغط الدم أو أدوية القلب أو أدوية الصرع دون بديل. إذا كان الدواء المحدد غير متوفر، اطلب من الطبيب بديلا بنفس الفئة الدوائية."
+        },
+        {
+          "q": "كيف أحمي أطفالي من الأمراض في مخيم الإيواء؟",
+          "a": "الغسيل المتكرر لليدين بالصابون هو التدخل الأول. تأكد من حصول أطفالك على لقاح الحصبة إن لم يكونوا قد أخذوه، لأن الحصبة تنتشر بسرعة في الأماكن المكتظة. استخدم الناموسية للنوم لتجنب البعوض. لا تشارك الأكواب أو الأدوات. بلّغ الطاقم الطبي فورا عن أي حمى أو طفح أو إسهال شديد في طفل."
+        },
+        {
+          "q": "هل الخوف والكوابيس بعد الزلزال طبيعية؟",
+          "a": "نعم، في الأيام والأسابيع الأولى هي استجابة طبيعية جدا لتجربة مخيفة. لكن إذا استمرت الكوابيس لأكثر من شهر وأصبحت تعيق قدرتك على النوم والعمل والتفكير، أو إذا بدأت تتجنب كل ما يذكرك بالزلزال، فهذه علامات تستحق التقييم من متخصص نفسي. العلاج المبكر يعطي أفضل النتائج."
+        },
+        {
+          "q": "هل التيتانوس خطر فعلي من جروح الزلازل؟",
+          "a": "نعم. بكتيريا التيتانوس تعيش في التربة وتُشكّل خطرا حقيقيا من الجروح العميقة الملوثة بالتراب والحطام. إذا لم تأخذ جرعة معززة (Booster) خلال السنوات العشر الماضية، أو إذا كانت جرعتك غير مكتملة، فأنت بحاجة إلى جرعة فورا عند أي إصابة بجرح مفتوح. المراكز الطبية الميدانية تحتفظ عادة بلقاح التيتانوس."
+        },
+        {
+          "q": "لماذا يكون بول الناجي من تحت الأنقاض بلون داكن؟",
+          "a": "اللون الداكن ناتج عن الميوغلوبين (Myoglobin)، وهو بروتين يُطلقه العضلات المتلفة بسبب الضغط الطويل. هذا البروتين يُفرز عبر الكلى ويعطي البول اللون البني أو لون الشاي. ظهور هذا اللون علامة تحذيرية خطيرة تعني أن الكلى في خطر وتستدعي علاجا طارئا بسوائل وريدية فورية."
+        }
+      ]
+    },
+    "en": {
+      "title": "After an earthquake: injuries, crush syndrome and health risks",
+      "desc": "What to know about earthquake injuries, crush syndrome, wound care, water safety and mental health aftermath. A practical guide for survivors and those caring for them.",
+      "keywords": "earthquake injury, crush syndrome, rhabdomyolysis, tetanus earthquake, wound care disaster, water safety earthquake, Syria Turkey earthquake 2023, post-earthquake mental health",
+      "h1": "After an earthquake: understanding injuries, crush syndrome and the health risks that follow",
+      "takeaways": [
+        "Crush syndrome can kill someone after rescue, not from the injury itself but from kidney failure caused by toxins released from damaged muscle.",
+        "Any open wound from earthquake debris needs immediate cleaning and a tetanus assessment, even if it looks minor.",
+        "Tap water is usually unsafe to drink after a major earthquake until authorities confirm otherwise. Boil it.",
+        "Chronic conditions worsen rapidly when medicines are interrupted during a disaster. Identify these priorities at any field medical centre.",
+        "Psychological symptoms after an earthquake are very common and deserve recognition and care just as physical injuries do."
+      ],
+      "sections": [
+        {
+          "h2": "What injuries are most common after an earthquake?",
+          "paras": [
+            "Earthquakes produce a recognisable pattern of injuries that differs from road traffic accidents or burns. Fractures of all kinds are most frequent, followed by lacerations from glass and structural debris. Head, chest and abdominal injuries occur when ceilings and walls collapse directly onto people. Limb crush injuries from heavy falling debris can require amputation in the most severe cases.",
+            "A study published in Medical Science Monitor in 2024, covering 377 patients from the February 2023 Turkiye-Syria earthquake, found that the median time of rescue from rubble was approximately 20 hours. The severity of injury correlated directly with the duration of entrapment. Lower limb injuries were present in 60% of cases, making them the most common anatomical site affected.",
+            "Children show a somewhat different injury profile. Research focused on paediatric cases from the 2023 earthquake, published in Pediatric Nephrology, found that children are less vulnerable to the most severe form of crush syndrome than adults because of their smaller muscle mass, but they are more prone to severe dehydration and malnutrition during extended waiting periods under rubble. This distinction matters for triage and for the type of intravenous fluid support they need on rescue."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Common earthquake injuries and treatment priorities",
+            "head": ["Injury type", "Priority", "What to do"],
+            "rows": [
+              ["Severe uncontrolled bleeding", "Immediate", "Direct firm pressure, call for help"],
+              ["Fracture with altered consciousness", "Immediate", "Do not move patient, call ambulance"],
+              ["Suspected crush syndrome", "Urgent", "Transfer immediately to hospital with dialysis"],
+              ["Open wounds with contamination", "Important", "Irrigate immediately, assess tetanus status"],
+              ["Stable limb fractures", "Important", "Immobilise temporarily, transfer to hospital"]
+            ]
+          }
+        },
+        {
+          "h2": "Crush syndrome: why it kills after rescue",
+          "paras": [
+            "Crush syndrome is the most dangerous medical complication specific to earthquake survivors, and it is fundamentally different from visible injury. When a large muscle group remains compressed under debris for more than four hours, muscle cells begin to die and release a protein called myoglobin into the bloodstream. Myoglobin is toxic to the kidneys and blocks the delicate tubules that filter the blood.",
+            "The greatest danger occurs after rescue, not before. When pressure is released from a crushed limb, myoglobin and accumulated fluid surge suddenly into the general circulation. Blood pressure drops sharply and the kidneys face a double assault. This moment is called reperfusion injury, and without prior medical preparation it can be fatal even in someone who was alert and speaking moments before.",
+            "In the retrospective study of 377 patients by Kurt and colleagues, more than 50% of crush syndrome patients developed acute kidney injury, and a large proportion required temporary dialysis. The mortality rate reached approximately 16% despite hospital-level care. That figure illustrates how dangerous this condition is even with treatment, and why rapid transfer to a facility with renal support is the single most important intervention."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "Suspect crush syndrome after rescue if you see these signs",
+            "items": [
+              "Dark brown urine the colour of tea in the hours after rescue from rubble",
+              "Rapid and severe swelling of a limb that was trapped",
+              "Sharp drop in blood pressure with no visible source of bleeding",
+              "Reduced or absent urine output despite giving fluids",
+              "Confusion or loss of consciousness after a period of mental clarity"
+            ]
+          }
+        },
+        {
+          "h2": "Wound infections and tetanus: why a minor cut is not minor",
+          "paras": [
+            "Wounds from earthquake debris are different from ordinary lacerations. Concrete dust, contaminated soil, rotting wood and corroded metal all raise the infection risk substantially. A study in Pediatric Surgery International published in 2024, which analysed wounds in children after the 2023 earthquake, found that over 20% of wounds progressed to local or systemic infection despite receiving initial care at hospital. This rate underscores how highly contaminated earthquake wound environments are.",
+            "Tetanus is the principal danger from soil-contaminated wounds. The causative bacterium lives in soil and multiplies in low-oxygen environments such as deep puncture wounds. The tetanus vaccine provides reliable protection when up to date. Anyone who has not received a booster in the past ten years, or whose vaccination history is incomplete, needs a dose as soon as possible after any open wound sustained in earthquake rubble.",
+            "To clean a wound in resource-limited conditions: irrigate it with a generous volume of clean water or boiled water that has been allowed to cool, pressing firmly to flush debris and soil out. Do not apply soil, honey or any traditional remedy to the wound. These practices are common in the region but increase infection risk and make medical assessment harder. Cover the wound with a clean dressing and reach a medical post as quickly as possible for proper evaluation and tetanus status review."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "How to clean a wound in emergency conditions",
+            "items": [
+              "Wash your hands or use gloves before touching the wound if possible",
+              "Press a clean cloth firmly over the wound to stop any bleeding first",
+              "Irrigate the wound with a large volume of clean or boiled cooled water",
+              "Gently remove visible large pieces of debris. Do not probe deep into the wound",
+              "Do not apply soil, herbs, honey or any other home remedy",
+              "Cover with a clean dressing and go to a medical post for assessment"
+            ]
+          }
+        },
+        {
+          "h2": "Water and food safety after an earthquake",
+          "paras": [
+            "Earthquakes crack sewage pipes and water mains simultaneously, making contamination of drinking water with sewage common in the immediate aftermath. Cholera, typhoid, bacterial diarrhoea and viral gastroenteritis all spread through contaminated water. The basic rule is: do not drink tap water until authorities issue an official confirmation that it is safe.",
+            "A scientific review published in Microorganisms in 2023 on infectious disease after disasters found that post-earthquake disease outbreaks rise sharply when toilets and water sources become cross-contaminated, as occurred in several historical earthquakes. Areas with already fragile infrastructure before the earthquake are most vulnerable to waterborne outbreaks in the days that follow.",
+            "To purify water in emergency conditions: boiling for one full minute (three minutes at altitudes above 2000 metres) is the most reliable method. If boiling is not possible, adding household bleach at the correct concentration is effective against most bacterial and viral pathogens, though not against all parasites. Check with any field health organisation for sources of certified safe water in your specific area."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Water purification options in emergency conditions",
+            "head": ["Method", "Effectiveness", "Notes"],
+            "rows": [
+              ["Boiling for one full minute", "Very high", "Best and most reliable option in emergencies"],
+              ["Chlorine drops or tablets", "High", "Does not kill some parasites such as Cryptosporidium"],
+              ["Filtration combined with chlorination", "Very high", "Best combination when a filter is available"],
+              ["Sealed commercially bottled water", "Safe if seal intact", "Check the seal has not been broken"]
+            ]
+          }
+        },
+        {
+          "h2": "Chronic conditions in a disaster",
+          "paras": [
+            "A person with diabetes, hypertension, heart disease or epilepsy faces compounded risks during an earthquake. Acute stress raises blood pressure and blood glucose significantly. A break in medication for even a few days can trigger crises that require resuscitation. Loss of monitoring equipment such as a glucose meter or blood pressure cuff removes the ability to track the condition.",
+            "At any field medical centre you reach, the first thing you should do is tell the staff about your chronic conditions and the names of your usual medications. Organised field facilities typically stock reserves of essential drugs including insulin, antihypertensives and antiepileptics. Early contact with a field medical centre can be as life-saving for someone with a chronic disease as it is for someone with a traumatic injury.",
+            "Insulin users face an additional challenge. Insulin loses its effectiveness when exposed to extreme heat. Insulin stored in a car under direct sun or inside a hot tent may become inactive without any visible change in appearance. If you use insulin and your blood glucose is not responding to your usual dose in post-earthquake conditions, alert a field doctor immediately, as the most likely explanation is heat-degraded insulin.",
+            "Dialysis patients represent a critical priority in any earthquake response. Dialysis machines depend on continuous electricity, sterile water supplies and trained staff. If you know of a dialysis patient in a disaster-affected area, report them to medical teams as an urgent priority. Missing even one scheduled session puts the patient's life at immediate risk from electrolyte accumulation and fluid overload."
+          ]
+        },
+        {
+          "h2": "Health risks in temporary shelters",
+          "paras": [
+            "Temporary shelters concentrate large numbers of people in poorly ventilated spaces, creating near-ideal conditions for the spread of respiratory infections such as pneumonia, measles and whooping cough. Crowding combined with inadequate sanitation exposes everyone to enteric disease. Insects, particularly mosquitoes, lice and scabies mites, spread rapidly in shelter environments.",
+            "Core prevention principles in temporary shelter: wash hands with soap before eating and after using the toilet; sleep under a mosquito net where available; avoid sharing personal items such as towels and cups; change and wash clothing regularly. Report any respiratory illness within your tent or shelter area to the health team immediately so that appropriate isolation can be arranged before an infection spreads to the wider population.",
+            "Measles in particular spreads explosively in crowded settings. If children in the shelter have not been vaccinated, ask about emergency measles vaccination as a priority. Health organisations responding to major earthquakes typically include measles vaccine in their first-response supplies, and even a single dose provides substantial protection.",
+            "Scabies spreads through direct skin contact and shared bedding or clothing. The main symptoms are intense itch that worsens at night and a rash between the fingers, on the wrists and around the waist. Treatment is effective but must be applied to every member of the household simultaneously or re-infection follows immediately. Report any suspected case to the medical team rather than treating it privately and incompletely."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "warn",
+            "title": "Report to the medical team immediately if you see these in a shelter",
+            "items": [
+              "Fever above 38.5 degrees with a rash (could indicate measles)",
+              "Bloody diarrhoea or more than 5 watery stools per day in a child",
+              "Yellow skin or eyes (jaundice) in any person",
+              "Stiff neck with severe headache and fever (requires ruling out meningitis)"
+            ]
+          }
+        },
+        {
+          "h2": "Mental health after an earthquake: what is normal and what needs care",
+          "paras": [
+            "An earthquake is a traumatic experience in every sense. It is sudden, violent, and it strikes the place where people feel safest. The immediate psychological response includes panic, disbelief and emotional numbness, all of which are normal reactions rather than signs of a mental health disorder. In the first days, psychological and physical energy is focused on survival, and the absence of obvious emotional response should not be interpreted as pathological.",
+            "In the weeks that follow, more persistent symptoms may emerge: repeated nightmares of earthquake scenes, a startle response to any sudden noise, difficulty concentrating, and a persistent sense of danger even in objectively safe surroundings. These are symptoms of post-traumatic stress disorder and they respond well to specialist psychological treatment. Early intervention gives the best outcomes.",
+            "In children who witnessed the earthquake, watch for regression in already-acquired skills such as speech or bladder control, excessive fear of darkness or loud sounds, refusal to sleep alone, and repeated physical complaints without an organic cause. These are trauma signs that respond well to early intervention, consistent routine and honest reassurance. Avoid dismissing or minimising what the child experienced.",
+            "Grief for what has been lost, whether a home, belongings or loved ones, is a legitimate and healthy response and is not in itself a disorder. The problem arises when painful symptoms persist for weeks and prevent the person from recovering basic function. At that point, seeking psychological help is not an admission of weakness. It is an investment in the capacity to rebuild."
+          ]
+        },
+        {
+          "h2": "Using the Sihtak app in an emergency",
+          "paras": [
+            "In the chaos that follows an earthquake, most people lose their medical documents. The Sihtak app allows you to store your medical history, test results and medication list in one place on your phone that any field doctor can access quickly. In emergency conditions, the ability to say with documented certainty what conditions you have and what medicines you take at what dose is a practical tool that directly affects the care you receive."
+          ]
+        }
+      ],
+      "tie": "Sihtak helps you store your medical history, medication list and test results in one secure place on your phone. After a disaster when documents are lost, that digital record becomes one of the most useful tools you have for continuing your care.",
+      "faqs": [
+        {
+          "q": "How do I recognise crush syndrome in someone rescued from rubble?",
+          "a": "The key signs are dark brown urine resembling tea, rapid swelling of limbs that were trapped, and a fall in blood pressure with no visible source of bleeding. Anyone trapped under debris for more than four hours should be treated as a potential crush syndrome patient until proven otherwise. Transfer to a hospital with dialysis capability is the single most important step."
+        },
+        {
+          "q": "What is the right way to handle someone found under rubble?",
+          "a": "Do not pull the person forcefully if debris has been pressing on their body for a prolonged period. Call specialist rescue teams. Keep the person talking if conscious. If they are breathing and not in immediate danger, keep them lying flat, cover them if cold, and offer small amounts of clean water if they do not complain of abdominal pain. Hasty extraction can release a sudden surge of myoglobin into the circulation."
+        },
+        {
+          "q": "Is tap water safe after an earthquake?",
+          "a": "No, not until authorities issue a formal confirmation. Earthquakes damage pipes and can mix sewage into drinking water mains. Boil water for one full minute before drinking, cooking or washing food. Use bottled water with intact seals or distributions from relief organisations where available."
+        },
+        {
+          "q": "What if a family member misses their chronic disease medicine during a disaster?",
+          "a": "Go immediately to the nearest field medical centre and tell them the medicine name and dose. Organised field facilities stock reserves of essential medicines. Never stop insulin, blood pressure medicines, heart medicines or antiepileptics without a replacement. If the specific drug is unavailable, ask the doctor for an alternative from the same drug class."
+        },
+        {
+          "q": "How do I protect my children from disease in a shelter?",
+          "a": "Frequent handwashing with soap is the single most effective intervention. Make sure your children have received measles vaccine if not already done, as measles spreads explosively in crowded spaces. Use mosquito nets for sleeping. Do not share cups or utensils. Report any fever, rash or severe diarrhoea in a child to the medical team immediately."
+        },
+        {
+          "q": "Is fear and nightmares after an earthquake normal?",
+          "a": "Yes, in the first days and weeks they are a very normal response to a frightening experience. If nightmares persist beyond a month and begin to prevent you from sleeping or functioning, or if you find yourself avoiding everything that reminds you of the earthquake, these signs deserve evaluation by a mental health professional. Early treatment produces the best outcomes."
+        },
+        {
+          "q": "Is tetanus a real risk from earthquake wounds?",
+          "a": "Yes. Tetanus bacteria live in soil and present a genuine risk from deep wounds contaminated with soil and debris. If you have not received a booster in the past ten years, or if your vaccination history is incomplete, you need a booster as soon as possible after any open wound. Field medical centres routinely carry tetanus vaccine."
+        },
+        {
+          "q": "Why does urine turn dark after being trapped under rubble?",
+          "a": "The dark colour is caused by myoglobin, a protein released from muscle cells damaged by prolonged compression. The kidneys filter and excrete it, giving urine a brown or tea-coloured appearance. This sign indicates that the kidneys are under serious threat and that urgent intravenous fluid treatment is needed immediately."
+        }
+      ]
+    }
+  }
+}

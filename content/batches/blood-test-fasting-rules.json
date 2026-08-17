@@ -1,0 +1,342 @@
+{
+  "slug": "blood-test-fasting-rules",
+  "category": "lab-tests",
+  "chip_ar": "تحاليل مخبرية",
+  "chip_en": "Lab Tests",
+  "date_iso": "2026-06-28",
+  "sources": [
+    {"label": "Pancholia AK, Kabra NK, Gupta R et al: Laboratory evaluation of lipid parameters in clinical practice, Indian heart journal, 2024", "url": "https://pubmed.ncbi.nlm.nih.gov/38431087/"},
+    {"label": "de Vries M, Klop B, Castro Cabezas M et al: The use of the non-fasting lipid profile for lipid-lowering therapy in clinical practice, Atherosclerosis, 2014", "url": "https://pubmed.ncbi.nlm.nih.gov/24814412/"},
+    {"label": "Pinto VEN, Santos PCJL, Pimentel EB et al: Impact of fasting on lipid profile assessment of Brazilian adults, Archives of endocrinology and metabolism, 2025", "url": "https://pubmed.ncbi.nlm.nih.gov/41165455/"},
+    {"label": "Al-Hariri M, Khan S, Albaker W et al: Impact of Knowledge and Practice on Fasting Blood Glucose Levels among Diabetics During Ramadan Fasting, Journal of epidemiology and global health, 2019", "url": "https://pubmed.ncbi.nlm.nih.gov/31854171/"},
+    {"label": "Bergman M, Abdul-Ghani M, DeFronzo RA et al: Review of methods for detecting glycemic disorders, Diabetes research and clinical practice, 2020", "url": "https://pubmed.ncbi.nlm.nih.gov/32497744/"},
+    {"label": "Nordin N, Ab Rahim SN, Wan Omar WFA et al: Preanalytical Errors in Clinical Laboratory Testing at a Glance: Source and Control Measures, Cureus, 2024", "url": "https://pubmed.ncbi.nlm.nih.gov/38559530/"}
+  ],
+  "content": {
+    "ar": {
+      "title": "أي تحاليل الدم تحتاج صياماً وكم ساعة؟",
+      "desc": "دليل عملي يشرح التحاليل التي تشترط الصيام وتلك التي لا تشترطه، ومدة الصيام لكل منها، وهل يُسمح بالماء والقهوة والدواء، مع نصائح لوقت رمضان.",
+      "keywords": "صيام تحاليل الدم, تحليل السكر صيام, تحليل الدهون صيام, مدة الصيام قبل التحليل, هل يُسمح بالماء, تحاليل بدون صيام, الصيام ورمضان, صيام HbA1c, صيام الكوليسترول",
+      "h1": "أي تحاليل الدم تحتاج صياماً؟ وكم ساعة تصوم قبلها؟",
+      "takeaways": [
+        "سكر الدم الصيامي وتحليل الدهون الكامل يحتاجان إلى 8 إلى 12 ساعة صيام، الماء وحده مسموح.",
+        "تحليل HbA1c لا يحتاج أي صيام، بل يمكن إجراؤه في أي وقت من اليوم.",
+        "كثير من التحاليل الشائعة كصورة الدم الكاملة وفصيلة الدم والغدة الدرقية لا تتأثر بالأكل.",
+        "القهوة والشاي وعصير الفاكهة تُفسد نتيجة سكر الصيام حتى لو كانت بدون سكر، أما الماء فلا يضر.",
+        "في رمضان، يمكن إجراء تحاليل الصيام في الساعات الأولى بعد الفجر، أو قبيل السحور مباشرة."
+      ],
+      "sections": [
+        {
+          "h2": "لماذا يطلب المختبر الصيام أصلاً؟",
+          "paras": [
+            "عندما تأكل أو تشرب، يدخل الجلوكوز والدهون والمواد الأخرى إلى مجرى دمك ويغيّر تركيزاتها لساعات. هذا التغيّر الطبيعي هو ما يجعل بعض التحاليل غير موثوقة إذا أُجريت بعد وجبة مباشرة. أما التحاليل التي لا تتأثر بما أكلته فلا داعي للصيام قبلها.",
+            "الهدف من الصيام ليس إزعاجك، بل ضبط ظروف القياس حتى تكون نتيجتك قابلة للمقارنة بالنطاقات المرجعية التي وُضعت على حالة الصيام. نتيجة خاطئة بسبب وجبة سابقة قد تؤدي إلى تشخيص خاطئ أو علاج غير ضروري.",
+            "فهم أي التحاليل تشترط الصيام يساعدك على التخطيط لموعد المختبر بدقة، وتجنّب إعادة التحليل بسبب خطأ بسيط. الجدول أدناه يلخّص أشيع التحاليل مع شرط الصيام لكل منها."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "التحاليل الشائعة وشرط الصيام",
+            "head": ["التحليل", "هل يحتاج صياماً؟", "المدة"],
+            "rows": [
+              ["سكر الدم الصيامي (Fasting Glucose)", "نعم", "8 إلى 12 ساعة"],
+              ["تحليل الدهون الكامل (Lipid Panel)", "يُفضّل", "9 إلى 12 ساعة"],
+              ["HbA1c (السكر التراكمي)", "لا", "في أي وقت"],
+              ["صورة الدم الكاملة (CBC)", "لا", "في أي وقت"],
+              ["هرمونات الغدة الدرقية TSH", "لا", "في أي وقت"],
+              ["وظائف الكلى وحمض اليوريك", "لا", "في أي وقت"],
+              ["وظائف الكبد ALT و AST", "لا", "في أي وقت"],
+              ["تحمّل السكر OGTT", "نعم", "8 إلى 12 ساعة"],
+              ["الحديد وفيريتين (Ferritin)", "يُفضّل", "8 ساعات"],
+              ["فيتامين D", "لا", "في أي وقت"]
+            ]
+          }
+        },
+        {
+          "h2": "سكر الدم: أيهما تحتاج الصيام وأيهما لا يحتاج؟",
+          "paras": [
+            "سكر الدم الصيامي (Fasting Glucose) يحتاج إلى 8 إلى 12 ساعة صيام، ويُجرى عادةً في الصباح. هذا القياس يعكس مستوى السكر في حالة الراحة الكاملة، وهو الأساس في تشخيص مرض السكري ومقدّماته. أما إذا أكلت قبل التحليل فستكون النتيجة مرتفعة بشكل طبيعي ولن تعكس حالتك الفعلية.",
+            "تحليل HbA1c أو ما يُعرف بالسكر التراكمي (Glycated Haemoglobin) مختلف تماماً: فهو يقيس متوسط مستوى السكر على مدى الأشهر الثلاثة الماضية عبر ارتباطه بخلايا الدم الحمراء، ولا يتغيّر بوجبة واحدة. لذلك يمكن إجراؤه في أي وقت من اليوم دون أي صيام. دراسة نُشرت في مجلة Diabetes Research and Clinical Practice عام 2020 تؤكد أن قياسات HbA1c و OGTT هي المعيار الذهبي لاكتشاف اضطرابات السكر.",
+            "اختبار تحمّل الجلوكوز OGTT (Oral Glucose Tolerance Test) الذي يُجرى لتشخيص السكري في الحمل أو للحالات المشتبه بها، يحتاج بدوره إلى 8 إلى 12 ساعة صيام قبله. خلال الاختبار يُعطيك المختبر محلول سكر للشرب ويقيس استجابة جسمك على مدى ساعتين."
+          ]
+        },
+        {
+          "h2": "تحليل الدهون: هل يشترط الصيام فعلاً؟",
+          "paras": [
+            "تحليل الدهون الكامل (Lipid Panel) يشمل الكوليسترول الكلي، LDL، HDL، والدهون الثلاثية (Triglycerides). الكوليسترول الكلي و HDL لا تتأثر كثيراً بالوجبة الأخيرة، لكن الدهون الثلاثية ترتفع بشكل ملحوظ بعد الأكل وقد تُضاعف قيمتها خلال ساعات. ولأن LDL يُحسب عادةً بمعادلة تعتمد على الدهون الثلاثية، فإن الوجبة تؤثر عليها أيضاً.",
+            "مراجعة نُشرت في مجلة Indian Heart Journal عام 2024 تؤكد أن الصيام من 9 إلى 12 ساعة يُعطي نتائج أكثر دقة واستقراراً لقياس الدهون، خاصة عند الأشخاص الذين يُراقَب علاجهم بالأدوية أو الذين يجرون التحليل للمرة الأولى للتشخيص.",
+            "في المقابل، بعض الإرشادات الحديثة تقبل قياس الدهون دون صيام كاختبار أولي للفرز، وبعض العيادات في أوروبا تفعل ذلك. لكن في سياق المنطقة العربية حيث كثير من المختبرات لا تذكر ما إذا كان التحليل صيامي أم لا، الأفضل دائماً أن تصوم 9 إلى 12 ساعة لتكون النتيجة قابلة للتفسير بثقة."
+          ]
+        },
+        {
+          "h2": "ما الذي يُعتبر كسراً للصيام؟",
+          "paras": [
+            "الماء وحده لا يكسر الصيام المطلوب لأغراض التحاليل. في الواقع، شرب الماء الكافي يساعد على جعل الوريد أوضح وأسهل في أخذ العيّنة، ويقلّل من الشعور بالدوار لمن يعانون من انخفاض السكر بعد صيام طويل. لا تجوع نفسك عن الماء قبل التحليل، هذا خطأ شائع لا فائدة منه.",
+            "أما القهوة والشاي حتى لو كانا بدون سكر، فهما يحفّزان إفراز الأنسولين وبعض الهرمونات وقد يؤثران على مستوى الجلوكوز قليلاً، لذلك تجنّبهما قبل تحاليل السكر والدهون. عصير الفاكهة، حتى الطبيعي والطازج منه، يحتوي على سكريات سريعة الامتصاص تدخل مجرى الدم في دقائق وتجنّبه واجب تماماً. أي طعام أو مشروب يحتوي على سعرات يكسر الصيام، بما في ذلك علكة السكر ومكمّلات البروتين.",
+            "التدخين قبل تحليل الصيام أيضاً قد يؤثر على مستويات الجلوكوز والكوليسترول والقدرة على التروية، ومن الأفضل تجنبه خلال فترة الصيام. الدراسة المنشورة في مجلة Cureus عام 2024 حول الأخطاء السابقة للتحليل تُظهر أن الإخفاق في الصيام الصحيح هو أحد أشيع أسباب نتائج السكر الزائف والمتضاربة.",
+            "بالنسبة للأدوية، الغالبية العظمى منها يجب أن تُؤخذ في موعدها المعتاد حتى لو كنت صائماً للتحليل، ومن المهم جداً أن تستمر في دواء ضغط الدم أو الغدة الدرقية أو القلب في وقته المعتاد. الاستثناء الرئيسي هو بعض حبوب السكري التي تخفّض الجلوكوز؛ قد يطلب منك الطبيب تأجيل أخذها حتى بعد التحليل حتى لا تنخفض النتيجة بشكل مصطنع لا يعكس حالتك الفعلية. اسأل طبيبك أو الصيدلاني تحديداً عن دوائك قبل التحليل."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "warn",
+            "title": "ما يكسر الصيام وما لا يكسره",
+            "items": [
+              "يكسر الصيام: الطعام، القهوة والشاي، العصير، الحليب، الحبوب والمكمّلات الغذائية.",
+              "لا يكسر الصيام: الماء العادي، أدويتك المعتادة (إلا ما نصحك الطبيب بتأجيله).",
+              "إذا شككت، اتصل بالمختبر قبل الموعد وأبلغهم بما شربته أو أكلته."
+            ]
+          }
+        },
+        {
+          "h2": "كيف تستعد بشكل صحيح ليلة التحليل وصباحه؟",
+          "paras": [
+            "العشاء قبل يوم التحليل يجب أن يكون خفيفاً وفي حدود المعتاد. لا داعي لتناول وجبة دسمة استعداداً للصيام، لأن الوجبة الدسمة ذاتها قد تجعل الدهون الثلاثية مرتفعة في اليوم التالي حتى بعد صيام 12 ساعة، مما يُعطي نتيجة مضلّلة. انتهِ من طعامك في حدود التاسعة أو العاشرة مساءً إذا كان موعدك في الصباح الباكر.",
+            "في الصباح، استيقظ واشرب كأساً من الماء، ثم توجّه مباشرة إلى المختبر دون أكل. معظم المختبرات تبدأ أخذ العيّنات مبكراً للاستفادة من حالة الصيام الليلي، والطابور يكون أقل ازدحاماً قبل الساعة الثامنة صباحاً عادةً. من المفيد أن تحمل معك وجبة خفيفة لتتناولها فور الانتهاء من التحليل، خاصة إذا كنت تعاني من الدوار أو انخفاض السكر أو كنت على أدوية أنسولين.",
+            "إذا تجاوز صيامك 16 ساعة لأي سبب، أبلغ المختبر قبل أخذ العيّنة. الصيام المطوّل جداً يرفع أجسام الكيتون في الدم ويؤثر على قراءات الجلوكوز وبعض التحاليل الأخرى بطريقة لا تعكس حالتك المعتادة. الهدف هو 8 إلى 12 ساعة لا أكثر. إذا كنت مصاباً بالسكري وصمت مدة طويلة، تحقق من سكرك في المنزل قبل المغادرة للتأكد من أنك لست في منطقة انخفاض السكر."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "خطوات الاستعداد لتحاليل تحتاج صياماً",
+            "items": [
+              "اختر موعداً صباحياً لتستفيد من الصيام الليلي الطبيعي.",
+              "تناول عشاءً خفيفاً ومعتاداً، وتجنّب الوجبات الدسمة جداً.",
+              "بعد العشاء، لا طعام ولا مشروبات إلا الماء.",
+              "خذ أدويتك المعتادة مع الماء، إلا إذا أخبرك طبيبك بغير ذلك.",
+              "اشرب الماء بشكل كافٍ حتى لا تشعر بالعطش.",
+              "في الصباح، توجّه للمختبر مباشرة بعد الاستيقاظ.",
+              "احمل معك وجبة للأكل فور انتهاء التحليل."
+            ]
+          }
+        },
+        {
+          "h2": "التحاليل التي لا تحتاج صياماً على الإطلاق",
+          "paras": [
+            "صورة الدم الكاملة (CBC) لا تتأثر بما أكلته، لأنها تقيس خلايا الدم الحمراء والبيضاء والصفائح وليس التركيزات الكيميائية. يمكنك إجراؤها في أي وقت من اليوم دون أي استعداد مسبق. كذلك تحليل فصيلة الدم لا علاقة له بالطعام وتوقيت أخذه غير مقيّد.",
+            "هرمونات الغدة الدرقية TSH وT4 وT3 لا تتأثر بالوجبات وتُجرى في أي وقت. كذلك وظائف الكلى مثل الكرياتينين واليوريا ووظائف الكبد مثل ALT وAST وإنزيمات الكبد الأخرى لا تتأثر بوجبة مفردة وتُجرى دون صيام. تحليل الكرياتينين مثلاً يعكس إنتاج العضلات لا ما أكلته في الصباح.",
+            "فيتامين D، البروتين التفاعلي CRP، سرعة الترسيب ESR، الهرمونات التناسلية كـ FSH وLH والتستوستيرون، اختبارات وظائف الغدة الكظرية، اختبارات التخثر والإنزيمات القلبية كالتروبونين، كلها لا تستوجب صياماً. معظم علامات السرطان المنتشرة كـ PSA وCEA وCA-125 لا تستلزم صياماً أيضاً. احرص دائماً على سؤال المختبر عند الحجز ليؤكد لك شرط الصيام بحسب التحليل المطلوب تحديداً."
+          ]
+        },
+        {
+          "h2": "الصيام ورمضان: كيف تتعامل مع تحاليلك؟",
+          "paras": [
+            "في شهر رمضان يكون المسلم صائماً من الفجر إلى الغروب، وهذا يخلق فرصة مثالية لإجراء تحاليل الصيام في الساعات الأولى بعد الفجر. في هذا التوقيت يكون الجسم قد صام ما بين 8 إلى 10 ساعات أو أكثر إذا كان السحور مبكراً، وهو وقت كافٍ لغالبية التحاليل.",
+            "دراسة نُشرت في مجلة Journal of Epidemiology and Global Health عام 2019 تناولت إدارة تحاليل السكر في رمضان وأظهرت أن القياس في الساعات الأولى من الصباح بعد الفجر يعطي نتائج موثوقة قابلة للمقارنة بنتائج الصيام الاعتيادي.",
+            "إذا لم يكن بإمكانك الذهاب إلى المختبر صباحاً في رمضان، فالخيار الثاني هو الذهاب قبيل الإفطار بساعة أو ساعتين، إذ تكون مدة الصيام في ذروتها. لكن تجنّب التحاليل في المساء بعد الإفطار. للحالات المعقدة كمتابعة علاج السكري وتعديل الجرعات في رمضان، لا غنى عن متابعة الطبيب الذي قد يطلب تحاليل بروتوكول خاص."
+          ]
+        },
+        {
+          "h2": "متى يجب أن تبلّغ المختبر بما أكلته؟",
+          "paras": [
+            "إذا نسيت الصيام وتناولت طعاماً أو شراباً قبل موعد تحليل يستلزم الصيام، أبلغ موظف المختبر فوراً ولا تحاول إخفاء الأمر. موظف المختبر سيرشدك إما لإعادة الجدولة أو لإجراء التحليل مع ملاحظة أنه غير صيامي وتفسيره على هذا الأساس.",
+            "النتيجة الخاطئة أسوأ بكثير من إعادة التحليل. سكر مرتفع ظاهرياً بعد وجبة قد يؤدي طبيبك إلى تشخيص السكري دون مبرر. وكوليسترول مرتفع بعد وجبة دسمة قد يؤدي إلى وصف دواء غير لازم. الشفافية مع المختبر تصب في مصلحتك دائماً.",
+            "في المختبرات المنظّمة يُدوَّن دائماً حالة الصيام على طلب التحليل أو في سجل النتيجة. هذا التفصيل مهم للطبيب عند التفسير. إذا كانت نتائجك مفاجئة لطبيبك أو مخالفة لما يتوقعه، من أول الأسئلة التي سيطرحها: هل كنت صائماً؟"
+          ]
+        },
+        {
+          "h2": "أسئلة تطرحها دائماً عند حجز موعد التحليل",
+          "paras": [
+            "عند الاتصال بالمختبر لحجز موعد أو عند تسليم طلب التحليل، اسأل دائماً ثلاثة أسئلة: هل هذا التحليل يحتاج صياماً؟ كم ساعة الصيام المطلوبة؟ هل يجب تأجيل أي من أدويتي؟ هذه الأسئلة توفّر عليك جهد إعادة التحليل وتضمن أن النتيجة التي ستحملها إلى طبيبك قابلة للتفسير الصحيح.",
+            "بعض المختبرات تطبع تعليمات الصيام على ورقة طلب التحليل، لكن ليس جميعها. وفي المختبرات الصغيرة المنتشرة في كثير من مدن المنطقة العربية، كثيراً ما لا يُذكر هذا بوضوح. إذا كان طبيبك قد طلب مجموعة تحاليل فيها بعضها صيامي وبعضها لا، فالأسلم أن تصوم للكل وتجريها في نفس الموعد الصباحي، بدلاً من تقسيم الزيارات.",
+            "تذكّر أن النطاقات المرجعية المطبوعة على تقرير التحليل وُضعت في الغالب لحالة الصيام عندما يكون الصيام شرطاً. نتيجة تقع في النطاق الطبيعي تكون مطمئنة حقاً فقط إذا أُجري التحليل في الظروف الصحيحة. الاستعداد الجيد قبل التحليل هو أصغر جهد تبذله لأكبر تأثير على دقة نتيجتك."
+          ]
+        }
+      ],
+      "tie": "في تطبيق صحتك يمكنك تسجيل نتائج تحاليلك مع ملاحظة ما إذا كانت تحاليل صيامي أم لا، وذلك يساعد طبيبك على تفسيرها بشكل صحيح عند مراجعتها معه. يمكنك أيضاً استخدام مساعد الذكاء الاصطناعي في التطبيق للسؤال عن شروط الصيام لتحليل معين قبل موعدك.",
+      "faqs": [
+        {
+          "q": "هل شرب الماء يكسر الصيام قبل تحاليل الدم؟",
+          "a": "لا، الماء العادي لا يكسر الصيام المطلوب لأغراض التحاليل المخبرية. بل يُنصح بالشرب الكافي لأن الجفاف يجعل الوريد أصغر ويصعّب أخذ العيّنة. امتنع فقط عن الماء المنكّه أو المحلّى."
+        },
+        {
+          "q": "هل يمكنني أخذ حبوبي مع الماء خلال فترة الصيام؟",
+          "a": "نعم في الغالب. معظم الأدوية تُؤخذ في موعدها المعتاد مع الماء ولا تؤثر على نتائج التحاليل. الاستثناء هو بعض أدوية السكري التي قد يطلب منك طبيبك تأجيلها حتى بعد التحليل. اسأل طبيبك أو الصيدلاني عن دوائك تحديداً."
+        },
+        {
+          "q": "هل تحليل HbA1c (السكر التراكمي) يحتاج صياماً؟",
+          "a": "لا، تحليل HbA1c يمكن إجراؤه في أي وقت من اليوم بغض النظر عن آخر وجبة. فهو يقيس متوسط مستوى السكر على مدى ثلاثة أشهر لا مستواه اللحظي، لذلك لا يتأثر بوجبة واحدة أو حتى بيوم كامل من الأكل."
+        },
+        {
+          "q": "كم ساعة أحتاج للصيام قبل تحليل الكوليسترول؟",
+          "a": "يُوصى بالصيام من 9 إلى 12 ساعة قبل تحليل الدهون الكامل الذي يشمل الكوليسترول والدهون الثلاثية. الساعة العاشرة تعطي نتائج مستقرة لمعظم الناس. الكوليسترول الكلي و HDL لا يتأثران كثيراً بالأكل، لكن الدهون الثلاثية ترتفع بشكل واضح بعد الوجبة وتؤثر على حساب LDL."
+        },
+        {
+          "q": "إذا كنت صائماً في رمضان، متى هو الوقت الأفضل لإجراء تحاليل الدم؟",
+          "a": "أفضل وقت هو الساعات الأولى بعد الفجر، حيث تكون قد صمت ما بين 8 إلى 10 ساعات أو أكثر. الخيار الثاني هو قبيل الإفطار بساعة أو ساعتين عندما تكون مدة الصيام في أقصاها. تجنّب التحاليل في المساء بعد الإفطار."
+        },
+        {
+          "q": "ماذا يحدث إذا أكلت قبل تحليل يشترط الصيام؟",
+          "a": "أبلغ موظف المختبر فوراً ولا تخفِ الأمر. بعض التحاليل قد تُجرى مع تدوين ملاحظة بأنها غير صيامية، وبعضها يُفضّل تأجيله. الصمت عن أنك أكلت قد يؤدي إلى تفسير خاطئ للنتائج وتشخيص أو علاج غير لازم."
+        },
+        {
+          "q": "هل يجب الصيام قبل تحليل وظائف الكبد والكلى؟",
+          "a": "لا، تحاليل وظائف الكبد كـ ALT وAST والبيليروبين ووظائف الكلى كالكرياتينين واليوريا لا تتأثر بوجبة مفردة ويمكن إجراؤها في أي وقت. بعض المختبرات تطلب صياماً خفيفاً للحصول على قراءات أكثر اتساقاً، لكنه ليس شرطاً لازماً لهذه التحاليل."
+        },
+        {
+          "q": "هل القهوة السوداء بدون سكر تكسر الصيام؟",
+          "a": "نعم، من منظور التحاليل المخبرية. حتى القهوة السوداء بدون سكر تحفّز إفراز هرمونات وأنسولين وقد تؤثر على مستوى الجلوكوز والكوليسترول. الماء العادي هو الوحيد المسموح به بلا قيود. أجّل قهوتك الصباحية حتى بعد أخذ العيّنة."
+        }
+      ]
+    },
+    "en": {
+      "title": "Which Blood Tests Need Fasting, and for How Long",
+      "desc": "Which tests need fasting, how many hours, and whether water, coffee and medicines count. Includes guidance for Ramadan and what to do if you forgot to fast.",
+      "keywords": "blood test fasting rules, fasting glucose test, fasting lipid panel, how long to fast before blood test, can I drink water before blood test, tests without fasting, Ramadan blood test, HbA1c fasting, cholesterol test fasting",
+      "h1": "Which Blood Tests Need Fasting, and for How Long?",
+      "takeaways": [
+        "Fasting glucose and a full lipid panel need 8 to 12 hours of fasting. Plain water is always allowed.",
+        "HbA1c (the three-month average sugar) needs no fasting at all and can be done at any time of day.",
+        "Many common tests including a full blood count, thyroid hormones and liver enzymes are not affected by food and need no fasting.",
+        "Coffee and fruit juice affect glucose levels even without added sugar. Only plain water is safe during a fasting window.",
+        "During Ramadan, the early hours after dawn or the hour before iftar are ideal times for fasting blood tests."
+      ],
+      "sections": [
+        {
+          "h2": "Why does the lab ask you to fast?",
+          "paras": [
+            "When you eat or drink, glucose, fats and other substances enter your bloodstream and change their concentrations for hours. This normal shift is what makes some tests unreliable if they are drawn immediately after a meal. Tests that are not affected by what you ate need no special preparation.",
+            "Fasting is not designed to inconvenience you. Its purpose is to standardise the measurement conditions so your result can be compared against the reference ranges, which were established on fasting samples. A result that is falsely high because of a recent meal can lead to an unnecessary diagnosis or treatment.",
+            "Knowing which tests require fasting helps you plan your lab appointment correctly and avoid the frustration of repeating a test because of a simple preparation error. The table below summarises the most common tests and their fasting requirements."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Common tests and their fasting requirement",
+            "head": ["Test", "Fasting needed?", "Duration"],
+            "rows": [
+              ["Fasting Glucose", "Yes", "8 to 12 hours"],
+              ["Lipid Panel (cholesterol + triglycerides)", "Preferred", "9 to 12 hours"],
+              ["HbA1c (glycated haemoglobin)", "No", "Any time"],
+              ["Full Blood Count (CBC)", "No", "Any time"],
+              ["Thyroid hormones (TSH, T4)", "No", "Any time"],
+              ["Kidney function (creatinine, urea)", "No", "Any time"],
+              ["Liver enzymes (ALT, AST)", "No", "Any time"],
+              ["Glucose Tolerance Test (OGTT)", "Yes", "8 to 12 hours"],
+              ["Iron and ferritin", "Preferred", "8 hours"],
+              ["Vitamin D", "No", "Any time"]
+            ]
+          }
+        },
+        {
+          "h2": "Glucose tests: which ones need fasting and which do not?",
+          "paras": [
+            "Fasting glucose requires 8 to 12 hours without food or caloric drinks, and is usually drawn in the morning. It measures your sugar level in a resting state, which is the baseline used to diagnose diabetes and pre-diabetes. If you have eaten before the test, the result will be naturally higher and will not reflect your actual metabolic state.",
+            "HbA1c, also called glycated haemoglobin, works very differently. It measures the average blood sugar level over the past three months by looking at how much glucose has bonded to your red blood cells. Because this average does not change after a single meal, you can have HbA1c measured at any time of day without any fasting. A 2020 review in Diabetes Research and Clinical Practice confirmed that HbA1c and the glucose tolerance test are the gold standards for detecting glucose disorders.",
+            "The oral glucose tolerance test, OGTT, which is used to diagnose gestational diabetes and borderline cases, also requires 8 to 12 hours of fasting beforehand. During the test the lab gives you a sugary drink and measures your body's response over two hours. You must arrive fasted and remain in the lab during the testing period."
+          ]
+        },
+        {
+          "h2": "Does the cholesterol test really need fasting?",
+          "paras": [
+            "A full lipid panel includes total cholesterol, LDL, HDL and triglycerides. Total cholesterol and HDL are not greatly affected by a recent meal, but triglycerides rise sharply after eating and can be double their usual level for several hours. Because LDL is usually calculated using a formula that depends on triglycerides, a post-meal sample distorts LDL as well.",
+            "A 2024 review in the Indian Heart Journal confirmed that 9 to 12 hours of fasting produces more accurate and reproducible lipid results, particularly for patients whose treatment is being monitored or who are having their first ever test for cardiovascular risk assessment. A 2025 study in Archives of Endocrinology and Metabolism found that fasting consistently lowered triglyceride readings compared with non-fasting, with clinically significant differences in some participants.",
+            "Some newer European guidelines accept non-fasting lipid tests for initial screening. However, in the context of Arab-world laboratories, where it is often unclear from the report whether the sample was fasting or not, the safest approach is to fast for 9 to 12 hours so the result can be interpreted with confidence. If you are monitoring treatment with a statin or fibrate, always fast."
+          ]
+        },
+        {
+          "h2": "What actually breaks a fast for blood tests?",
+          "paras": [
+            "Plain water does not break a fasting requirement for laboratory tests. Drinking adequate water is actively helpful because dehydration makes veins smaller and harder to access. Do not deprive yourself of water before a blood test. This is a common mistake that makes the procedure harder and has no benefit.",
+            "Coffee and tea, even without sugar, stimulate insulin secretion and can marginally affect glucose levels, so avoid them before glucose tests. Fruit juice, even fresh, contains fast-absorbing sugars and must be avoided. Any drink containing calories breaks the fast. A 2024 paper in Cureus reviewing preanalytical errors noted that failing to fast correctly is one of the most common causes of falsely elevated glucose results.",
+            "Smoking before a fasting test can affect glucose and cholesterol readings and is best avoided during the fasting window. Regarding medicines, the vast majority should be taken at their usual time even during a fasting period. The main exception is glucose-lowering tablets that may suppress the result; your doctor will tell you if a specific medicine should be delayed until after the test."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "warn",
+            "title": "What breaks a fast and what does not",
+            "items": [
+              "Breaks the fast: any food, coffee or tea, juice, milk, dietary supplements.",
+              "Does not break the fast: plain water, your usual medicines (unless your doctor says otherwise).",
+              "When in doubt: call the lab before your appointment and tell them exactly what you consumed."
+            ]
+          }
+        },
+        {
+          "h2": "How to prepare the evening before and the morning of the test",
+          "paras": [
+            "The evening before a fasting test, eat a normal, light supper. There is no benefit in eating a large meal beforehand, and a very fatty dinner can leave triglycerides elevated even after 12 hours of fasting, producing a misleadingly high result the next morning. Aim to finish eating by 9 or 10 pm if your appointment is in the early morning.",
+            "In the morning, drink a glass of plain water and head to the lab without eating. Most labs open early to take advantage of the natural overnight fast, and the queue is usually shorter before 8 am. Bring a light snack or a small meal to eat immediately after the test, especially if you are prone to feeling dizzy or lightheaded after prolonged fasting or if you take insulin.",
+            "If your fasting period has exceeded 16 hours for any reason, tell the lab before the sample is taken. Very prolonged fasting raises ketone bodies in the blood and can affect glucose and other measurements in ways that do not reflect your usual metabolic state. The target is 8 to 12 hours, not more. If you are diabetic and have been fasting for a long time without any food, also check your glucose at home before leaving, as you may need a small amount of food to avoid hypoglycaemia on the way."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "How to prepare for a fasting blood test",
+            "items": [
+              "Book an early morning appointment to use your natural overnight fast.",
+              "Eat a light, normal supper the evening before.",
+              "Stop eating and drinking everything except plain water after supper.",
+              "Take your usual medicines with water in the morning unless your doctor advised otherwise.",
+              "Drink plain water freely to stay hydrated.",
+              "Go to the lab as soon as possible after waking.",
+              "Bring food to eat immediately after the sample is taken."
+            ]
+          }
+        },
+        {
+          "h2": "Tests that need no fasting at all",
+          "paras": [
+            "A full blood count, or CBC, measures red cells, white cells and platelets. These cell counts are not affected by what you ate, so the test can be done at any time of day with no preparation. The same applies to blood group and rhesus typing.",
+            "Thyroid hormones including TSH, free T4 and free T3 are not affected by meals and can be measured at any time. Kidney function tests including creatinine and blood urea, and liver enzymes including ALT and AST, also do not require fasting because a single meal does not meaningfully change these values.",
+            "Other tests with no fasting requirement include vitamin D, CRP (C-reactive protein), ESR (erythrocyte sedimentation rate), reproductive hormones such as FSH, LH and testosterone, clotting tests, cardiac enzymes such as troponin, most tumour markers and most thyroid antibodies. Always confirm with the lab at the time of booking, because the specific panel your doctor has requested will determine the rules."
+          ]
+        },
+        {
+          "h2": "Fasting during Ramadan: timing your blood tests",
+          "paras": [
+            "During Ramadan, Muslims fast from dawn to sunset. This creates an ideal natural fasting window for blood tests. The early hours after the Fajr prayer are the best time, when the body has already been fasting for 8 to 10 hours or more since the last suhoor meal.",
+            "A 2019 study in the Journal of Epidemiology and Global Health that examined glucose management during Ramadan confirmed that early morning fasting measurements in Ramadan are reliable and comparable to standard fasting values, provided the patient had a normal suhoor and did not eat again.",
+            "If you cannot reach the lab in the morning, a second option is the hour or two before iftar, when fasting duration is at its longest. Avoid tests in the evening after iftar. For complex cases such as adjusting insulin or other diabetes medicines during Ramadan, your doctor may want a specific monitoring protocol rather than standard fasting tests."
+          ]
+        },
+        {
+          "h2": "Always tell the lab if you forgot to fast",
+          "paras": [
+            "If you forgot to fast and ate or drank something before a test that required fasting, tell the lab technician immediately and do not try to hide it. The technician will either reschedule you or note on the request form that the sample is non-fasting, so the result can be interpreted correctly.",
+            "A falsely high glucose result from a post-meal sample can lead a doctor to diagnose diabetes in someone who does not have it. A falsely elevated triglyceride from a fatty breakfast can prompt an unnecessary prescription. Transparency protects you, and a repeated test is far less costly than a wrong diagnosis.",
+            "In well-organised labs the fasting status is always documented on the test request and appears on the report. If your results surprise your doctor or contradict what was expected, the fasting question will be among the first things asked. Knowing and telling the truth saves everyone time."
+          ]
+        },
+        {
+          "h2": "Questions to ask the lab every time you book a test",
+          "paras": [
+            "When booking a lab appointment by phone or handing in a test request in person, three questions protect you from a wasted journey. First: does this test need fasting? Second: how many hours of fasting are required? Third: should I delay any of my regular medicines? These three questions take under a minute and prevent the frustration of repeating the test.",
+            "Some labs print fasting instructions on the request form, but many do not, particularly smaller private labs that are common across the Arab world. If your doctor has ordered a panel that mixes fasting and non-fasting tests, the safest approach is to fast for all of them and book a single early morning appointment, so everything is done in one visit.",
+            "Remember that the reference ranges printed on your lab report are set for fasting samples where fasting is required. A result labelled as normal is only truly reassuring if the collection conditions matched those used to build the reference range. Taking responsibility for your preparation is a small action with a large effect on the reliability of your results."
+          ]
+        }
+      ],
+      "tie": "You can log your test results in the Sihtak app and note whether each was fasting or non-fasting. This helps your doctor interpret the results correctly when you review them together. The AI assistant in the app can also answer questions about fasting requirements for a specific test before your appointment.",
+      "faqs": [
+        {
+          "q": "Does drinking water break a fast before a blood test?",
+          "a": "No. Plain water does not break the fasting requirement for laboratory tests. Drinking enough water is actually encouraged because dehydration makes veins smaller and harder to access. Only flavoured or sweetened water counts as breaking the fast."
+        },
+        {
+          "q": "Can I take my medicines during the fasting period?",
+          "a": "Yes, in most cases. Most medicines should be taken at their usual time with a small amount of water and will not affect your test results. The main exception is some glucose-lowering tablets that your doctor may ask you to delay until after the blood draw. Ask your doctor or pharmacist specifically about your medicines before the test."
+        },
+        {
+          "q": "Does HbA1c need fasting?",
+          "a": "No. HbA1c measures your average blood sugar over the past three months by looking at how much glucose is attached to your red blood cells. A single meal does not change this average, so the test can be done at any time of day without any preparation."
+        },
+        {
+          "q": "How many hours do I need to fast before a cholesterol test?",
+          "a": "Nine to 12 hours of fasting is recommended before a full lipid panel. Ten hours is a practical middle ground for most people. Total cholesterol and HDL are not greatly affected by a meal, but triglycerides can double after eating and will distort the LDL calculation if the sample is not fasting."
+        },
+        {
+          "q": "When is the best time for a blood test during Ramadan?",
+          "a": "The early hours after Fajr prayer are best, when you have been fasting for 8 to 10 hours or more since suhoor. If that is not possible, the hour or two before iftar also works because the fast is at its longest. Avoid blood tests in the evening after the iftar meal."
+        },
+        {
+          "q": "What happens if I eat before a fasting blood test?",
+          "a": "Tell the lab technician right away. Do not try to hide it. Depending on the test, the lab may reschedule you or document the result as non-fasting. A falsely high glucose or triglyceride from a recent meal can lead to an incorrect diagnosis. Honesty takes two minutes and can prevent weeks of unnecessary worry or treatment."
+        },
+        {
+          "q": "Do liver or kidney function tests need fasting?",
+          "a": "No. Liver enzymes such as ALT and AST, and kidney function markers such as creatinine and blood urea, are not meaningfully changed by a single meal and can be tested at any time of day. Some labs request light fasting for consistency, but it is not a strict requirement for these tests."
+        },
+        {
+          "q": "Does black coffee without sugar break the fast for a glucose test?",
+          "a": "Yes, from a laboratory perspective. Even black coffee without sugar stimulates hormone and insulin secretion and can affect glucose and cholesterol readings. Plain water is the only drink with no effect. Save your morning coffee until after the blood draw."
+        }
+      ]
+    }
+  }
+}

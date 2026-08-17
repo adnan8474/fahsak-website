@@ -1,0 +1,406 @@
+{
+  "slug": "osteoporosis-bone-health",
+  "category": "chronic-conditions",
+  "chip_ar": "أمراض مزمنة",
+  "chip_en": "Chronic conditions",
+  "date_iso": "2026-07-14",
+  "sources": [
+    {
+      "label": "Chakhtoura M, Rahme M, Chamoun N et al: Vitamin D in the Middle East and North Africa, Bone reports, 2018",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29955632/"
+    },
+    {
+      "label": "Al Attia HM, Ibrahim MA: The high prevalence of vitamin D inadequacy and dress style of women in the sunny UAE, Archives of osteoporosis, 2012",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23150183/"
+    },
+    {
+      "label": "LeBoff MS, Greenspan SL, Insogna KL et al: The clinician's guide to prevention and treatment of osteoporosis, Osteoporosis international, 2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35478046/"
+    },
+    {
+      "label": "Eastell R, Rosen CJ, Black DM et al: Pharmacological Management of Osteoporosis in Postmenopausal Women: An Endocrine Society Clinical Practice Guideline, Journal of clinical endocrinology and metabolism, 2019",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30907953/"
+    },
+    {
+      "label": "World Health Organization: WHO Scientific Group on the Assessment of Osteoporosis at Primary Health Care Level, Geneva, 2004"
+    },
+    {
+      "label": "Al-Musharaf S, Fouda MA, Turkestani IZ et al: Vitamin D Deficiency Prevalence and Predictors in Early Pregnancy among Arab Women, Nutrients, 2018",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29662044/"
+    }
+  ],
+  "content": {
+    "ar": {
+      "title": "هشاشة العظام: الكسور وفحص DEXA والوقاية",
+      "desc": "دليل شامل لهشاشة العظام: معنى نتيجة T-score، دور فيتامين D والكالسيوم، والوقاية من الكسور لدى المرأة في منطقتنا.",
+      "keywords": "هشاشة العظام، فحص DEXA، T-score، كثافة العظام، فيتامين D، الكالسيوم، كسر الورك، الوقاية من الكسور، انقطاع الطمث، النساء",
+      "h1": "هشاشة العظام: ما الذي يعنيه فحص DEXA وكيف تحمي عظامك",
+      "takeaways": [
+        "هشاشة العظام تعني أن العظام أصبحت أقل كثافة وأكثر عرضة للكسر، وكثير منها لا يُكتشف إلا بعد وقوع الكسر.",
+        "فحص DEXA يقيس كثافة العظام ويعطيك نتيجة تسمى T-score، فإذا كانت أقل من 2.5- فهذا يعني هشاشة العظام.",
+        "نقص فيتامين D شائع جداً في منطقتنا رغم وفرة الشمس، وهو أحد أهم أسباب هشاشة العظام.",
+        "التمارين التي تحمل ثقل الجسم والكالسيوم الكافي من الطعام يقللان من خطر الكسور.",
+        "تراجع مستوى هرمون الاستروجين بعد انقطاع الطمث يسرّع فقدان الكثافة العظمية لدى المرأة بشكل ملحوظ."
+      ],
+      "sections": [
+        {
+          "h2": "ما هي هشاشة العظام وكيف تصيب العظام بصمت؟",
+          "paras": [
+            "هشاشة العظام (Osteoporosis) حالة تتراجع فيها كثافة العظام وقوتها تدريجياً، حتى تصبح أشبه بإسفنج ذي ثقوب كبيرة بدلاً من أن تكون صلبة ومتراصة. هذا التغيير لا يُسبب أي ألم في مراحله الأولى، ولهذا يُوصف بأنه مرض صامت، إذ يكتشفه كثيرون عن طريق كسر بسيط ناجم عن سقطة خفيفة، أو حتى عطسة قوية في حالات شديدة. المشكلة الكبرى أن الألم والأعراض لا تظهر حتى يكون الضرر كبيراً ويصعب تعويضه بالكامل.",
+            "العظام نسيج حي يتجدد باستمرار: خلايا تُسمى الخلايا الهاضمة للعظم (Osteoclasts) تكسر العظم القديم، وخلايا أخرى تُسمى الخلايا البانية للعظم (Osteoblasts) تبني جديداً مكانه. حتى سن الثلاثين تقريباً، يكون البناء أسرع من الهدم، وتصل العظام إلى أقصى كثافتها وهو ما يسمى ذروة الكثافة العظمية. بعد ذلك يبدأ الميزان يميل نحو الهدم تدريجياً، وفي النساء بعد انقطاع الطمث يتسارع هذا الفقدان بسبب انخفاض هرمون الاستروجين الذي كان يُقيّد نشاط الخلايا الهاضمة.",
+            "الكسور الأكثر شيوعاً في هشاشة العظام هي كسر الرسغ، وكسور الفقرات التي قد تقع بشكل صامت أو تُسبب ألماً حاداً مفاجئاً في الظهر، وكسر عنق الفخذ (الورك). كسر عنق الفخذ خاصة مقلق لأنه يتطلب جراحة في الغالب، وقد يؤثر على القدرة على المشي واستقلالية الشخص في حياته اليومية. في البيئات التي تكون فيها الرعاية الجراحية محدودة أو مكلفة، يتحول كسر الورك إلى تهديد جدي لنوعية الحياة."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "warn",
+            "title": "من الأكثر عرضة للإصابة؟",
+            "items": [
+              "النساء بعد انقطاع الطمث، خاصة إذا حدث مبكراً قبل سن 45",
+              "من يعانون من نقص فيتامين D أو الكالسيوم لفترات طويلة",
+              "من يتناولون الكورتيزون بجرعات عالية لأكثر من 3 أشهر",
+              "من لديهم تاريخ عائلي لهشاشة العظام أو كسور الورك",
+              "المدخنون وكثيرو استهلاك الكحول، والأشخاص قليلو النشاط البدني"
+            ]
+          }
+        },
+        {
+          "h2": "كيف يقرأ الطبيب نتيجة فحص DEXA وما معنى T-score؟",
+          "paras": [
+            "فحص DEXA (Dual-energy X-ray Absorptiometry) هو التصوير المعياري لقياس كثافة العظام، ويتم في الغالب على منطقتين: العمود الفقري القطني وعنق الفخذ. لا يسبب أي ألم على الإطلاق، ويستغرق ما بين 15 و20 دقيقة فقط، والجرعة الإشعاعية فيه ضئيلة جداً تُقارن بأقل من جرعة صورة صدر عادية. تأتي النتيجة في صورة رقم يُعرف بـ T-score، وهو مقارنة لكثافة عظامك بكثافة شخص بالغ صحيح عند ذروة كثافته العظمية.",
+            "T-score بين صفر وناقص واحد يعني كثافة عظام ضمن المعدل الطبيعي. أما الرقم بين ناقص واحد وناقص 2.5 فيعني مرحلة «قلة الكثافة العظمية» (Osteopenia)، وهي تحذير مبكر يستوجب التدخل الوقائي بتغيير نمط الحياة وربما علاج دوائي. عندما يصل T-score إلى ناقص 2.5 أو أقل، فهذا هو حد تشخيص هشاشة العظام وفق منظمة الصحة العالمية.",
+            "قد يحسب الطبيب أيضاً درجة FRAX، وهو نظام يقدّر احتمال تعرضك لكسر خلال العشر سنوات القادمة بناء على عوامل متعددة غير الكثافة وحدها، مثل العمر ووزن الجسم وتاريخ الكسور في العائلة وعوامل أخرى. يساعد هذا الحساب الطبيب على تحديد ما إذا كانت فائدة العلاج الدوائي تفوق مخاطره في حالتك بالذات."
+          ],
+          "visual": {
+            "type": "range-scale",
+            "title": "ما الذي يعنيه رقم T-score؟",
+            "label": "T-score",
+            "unit": "",
+            "min": -4,
+            "max": 1,
+            "zones": [
+              {"to": -2.5, "tone": "bad", "label": "هشاشة"},
+              {"to": -1.0, "tone": "warn", "label": "قلة كثافة"},
+              {"to": 1, "tone": "good", "label": "طبيعي"}
+            ],
+            "marker": {"value": -2.8, "label": "مثال: -2.8"},
+            "source": "World Health Organization: Assessment of Osteoporosis at Primary Health Care Level, 2004"
+          }
+        },
+        {
+          "h2": "لماذا تعاني المرأة في منطقتنا من هشاشة العظام رغم الشمس الوفيرة؟",
+          "paras": [
+            "ربما يبدو متناقضاً أن تكون هشاشة العظام شائعة في بلاد لا تعرف شحّ الشمس، لكن دراسات متعددة أثبتت أن نقص فيتامين D واسع الانتشار في المنطقة. ففي الإمارات، وجدت دراسة نشرتها مجلة Archives of Osteoporosis عام 2012 أن نقص فيتامين D يطال نسبة عالية جداً من النساء، وأن أسلوب اللباس الذي يقلل من تعرض الجلد للشمس كان من أبرز العوامل المرتبطة بهذا النقص. وقد جاءت هذه النتيجة من بلد يزيد فيه عدد أيام الشمس السنوية عن 300 يوم.",
+            "كذلك يُسهم الإقامة الطويلة في الفضاءات المغلقة المكيفة، واستخدام واقيات الشمس عالية العامل، وقلة النشاط البدني الخارجي، وبشرة أغمق اللون التي تحتاج وقتاً أطول لإنتاج الفيتامين في تقليل إنتاج فيتامين D في الجسم. وبحسب مراجعة شاملة نشرت في Bone Reports عام 2018 وغطّت دول الشرق الأوسط وشمال أفريقيا، فإن نقص فيتامين D يمتد عبر جميع الفئات العمرية والجنسين في المنطقة.",
+            "يُضاف إلى ذلك أن النساء بعد انقطاع الطمث يفقدن ما بين 1 و3 بالمئة من كثافة العظام سنوياً في السنوات الخمس إلى العشر الأولى بعد التوقف، وهو ما يُمثّل الفترة الأخطر على الإطلاق. وفي بيئة يكون فيها مخزون فيتامين D أصلاً منخفضاً من سنوات، يكون هذا الفقدان أسرع وتداعياته على العظام أشد. هذا التضافر بين انخفاض الاستروجين والنقص المزمن في فيتامين D يجعل المرأة في منطقتنا أكثر عرضة مما يتوقعه كثيرون."
+          ],
+          "visual": {
+            "type": "stats",
+            "items": [
+              {"value": "80%+", "label": "من النساء في بعض دول الخليج يعانين نقص فيتامين D وفق Bone Reports 2018", "tone": "warn"},
+              {"value": "1-3%", "label": "من كثافة العظام يُفقد سنوياً في السنوات الأولى بعد انقطاع الطمث", "tone": "bad"}
+            ]
+          }
+        },
+        {
+          "h2": "دور الكالسيوم وفيتامين D: الكميات والمصادر الغذائية",
+          "paras": [
+            "الكالسيوم اللبنة الأساسية لبناء العظم، وفيتامين D هو الذي يسمح للمعدة بامتصاصه من الغذاء. بدون فيتامين D، حتى لو أكلت كميات كافية من الكالسيوم فلن يُفيدك كثيراً. تحتاج المرأة البالغة إلى ما بين 1,000 و1,200 ملليغرام من الكالسيوم يومياً، ويرتفع هذا الرقم بعد انقطاع الطمث وعند كبار السن.",
+            "أفضل مصادر الكالسيوم الغذائية التي تناسب طبيعة أكلنا هي: الحليب ومنتجاته كالجبن واللبن، والسردين والسلمون المعلب بعظامه، والسمسم واللوز، والخضراوات الورقية الداكنة كالقرنبيط والكرنب. ربع كوب من السمسم يحتوي على ما يقارب 350 ملليغراماً من الكالسيوم.",
+            "أما فيتامين D فيكفي التعرض للشمس المباشرة على الذراعين والساقين لمدة 15 إلى 30 دقيقة يومياً بين العاشرة صباحاً والثانية ظهراً في غير الصيف الحارق. في فصل الصيف أو لمن يلتزم بالتغطية الكاملة قد يلزم المكمل الغذائي بعد قياس المستوى في الدم."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "مصادر الكالسيوم الغذائية الشائعة في منطقتنا",
+            "head": ["الغذاء", "الحجم", "الكالسيوم تقريباً (ملغ)"],
+            "rows": [
+              ["كوب حليب كامل الدسم", "250 مل", "300"],
+              ["كوب لبن (زبادي)", "250 مل", "280"],
+              ["30 غرام جبن أبيض", "قطعة متوسطة", "200"],
+              ["ربع كوب سمسم", "40 غرام", "350"],
+              ["علبة سردين بعظامه", "100 غرام", "380"],
+              ["كوب قرنبيط مطبوخ", "180 غرام", "60"]
+            ]
+          }
+        },
+        {
+          "h2": "ما هي التمارين التي تقوي العظام فعلاً؟",
+          "paras": [
+            "ليست كل التمارين متساوية في تأثيرها على العظام. التمارين التي تفيد العظام هي تلك التي تضع ثقلاً على الهيكل العظمي، كالمشي، والجري الخفيف، والرقص، وتمارين المقاومة والأثقال الخفيفة. هذه التمارين تُنبّه خلايا بناء العظم على التجدد وتقوية البنية.",
+            "السباحة وركوب الدراجة الثابتة مفيدة للقلب والعضلات، لكن تأثيرهما على كثافة العظام أقل لأنهما لا يحملان ثقل الجسم. ومع ذلك يبقيان مفيدين في تقوية العضلات التي تحمي المفاصل.",
+            "تمارين التوازن والتنسيق مثل اليوغا أو الـ Tai Chi تفيد بطريقة أخرى: تقلل من احتمالية السقوط، وهي المسبب المباشر لكثير من كسور هشاشة العظام. يُنصح بممارسة التمارين التي تحمل وزن الجسم لمدة لا تقل عن 30 دقيقة أغلب أيام الأسبوع."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "أفضل خطة تمرين لصحة العظام",
+            "items": [
+              "المشي السريع لمدة 30 دقيقة يومياً على الأقل في أغلب أيام الأسبوع",
+              "تمارين المقاومة بأوزان خفيفة مرتين إلى ثلاث في الأسبوع",
+              "تمارين التوازن كاليوغا أو الوقوف على قدم واحدة لتقليل خطر السقوط",
+              "تجنب الجلوس المطوّل وفترات الراحة الكاملة خلال مراحل العلاج"
+            ]
+          }
+        },
+        {
+          "h2": "متى يلجأ الطبيب إلى الأدوية وما هي خياراتك؟",
+          "paras": [
+            "ليس كل من لديه T-score منخفض يحتاج إلى دواء فوراً. يقيّم الطبيب درجة FRAX إلى جانب T-score ليقرر. إذا كان خطر الكسر خلال عشر سنوات يتجاوز حداً معيناً، أو كان T-score أقل من 2.5- مع عوامل خطر إضافية، تكون فائدة الدواء أكبر من الخطر.",
+            "أكثر الأدوية شيوعاً هي مجموعة البيسفوسفونات (Bisphosphonates) مثل اليندرونات (Alendronate)، وتؤخذ عادةً مرة أسبوعياً صباحاً على معدة فارغة مع كوب كامل من الماء والبقاء في وضع جلوس مستقيم لنصف ساعة. هذه الأدوية تُثبط خلايا هدم العظم، وتُثبت أنها تُقلل الكسور بشكل ملموس وفق مراجعة منشورة في مجلة Osteoporosis International عام 2022.",
+            "ثمة أيضاً أدوية حقنية أحدث مثل الديناسوماب (Denosumab) تُعطى كل ستة أشهر، وأدوية بانية للعظام مثل التيريباراتيد (Teriparatide). يختار طبيبك الأنسب بناء على وضعك الصحي وتاريخك المرضي. لا تتوقفي عن أي دواء من هذه الأدوية بمجرد تحسن النتيجة بدون مراجعة طبيبك، لأن التوقف المفاجئ قد يُعكس الفائدة."
+          ]
+        },
+        {
+          "h2": "كيف تمنعين السقوط في المنزل؟",
+          "paras": [
+            "أكثر كسور هشاشة العظام ناجمة عن سقطات في المنزل، وليس عن حوادث خارجية. الحمام خاصة يُمثّل خطراً كبيراً: الأرضيات الرطبة والغياب عن مقبض للدعم هي مسببات شائعة للسقوط. تركيب قضبان تمسك في الحمام وبجانب المرحاض، وسجاد مانع للانزلاق، يُقلل هذا الخطر.",
+            "النظر السيئ يرفع خطر السقوط، لذا راجعي طبيب العيون بانتظام وتأكدي أن نظارتك محدّثة. الإضاءة الكافية في الممرات والسلالم ليلاً مهمة أيضاً. بعض الأدوية كالمهدئات وأدوية ضغط الدم قد تسبب دواراً، فإذا كنت تتناولينها فأخبري طبيبك إذا شعرت بعدم الثبات.",
+            "الحذاء ذو النعل المانع للانزلاق أفضل من الشبشب أو الجوارب المفردة. والمشي بعكاز أو عصا مشي ليس ضعفاً، بل استثمار في سلامة عظامك."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "اطلبي تقييماً طبياً عاجلاً إذا",
+            "items": [
+              "وقعت سقطة وتألمين في الورك أو الظهر أو الرسغ حتى لو بدا الألم خفيفاً",
+              "ارتفاعك تراجع أكثر من 3 سنتيمترات مقارنة بشبابك (قد يدل على كسور فقرية صامتة)",
+              "ظهر ألم حاد مفاجئ في الظهر دون سبب واضح، قد يكون كسراً ضغطياً في الفقرات",
+              "تناولت الكورتيزون بجرعات عالية لأكثر من 3 أشهر ولم تُقيَّم كثافة عظامك بعد"
+            ]
+          }
+        },
+        {
+          "h2": "هشاشة العظام والرجل: حالة يغفل عنها الجميع",
+          "paras": [
+            "رغم أن المرأة أكثر إصابة، فإن الرجل ليس بمنأى عن هشاشة العظام. واحد من كل خمسة رجال فوق سن الخمسين يتعرض لكسر مرتبط بهشاشة العظام خلال حياته. وللأسف، تُشخَّص هذه الحالة لدى الرجال بتأخر أكبر لأن الجميع يعتقد أنها مرض نسائي.",
+            "أسباب هشاشة العظام لدى الرجل تشمل انخفاض هرمون التستوستيرون المرتبط بالتقدم في السن، وتناول أدوية معينة، والإفراط في الكحول، والإقامة الطويلة في الفراش. فحص DEXA ومتابعة كثافة العظام تنطبق بالقدر ذاته على الرجال فوق سن السبعين أو أولئك الذين لديهم عوامل خطر.",
+            "القاعدة العملية تبقى واحدة: تمارين حمل الوزن، كالسيوم كافٍ، فيتامين D مناسب، وتجنب عوامل الخطر القابلة للتعديل مثل التدخين."
+          ]
+        },
+        {
+          "h2": "متابعة النتائج: كم مرة تكرر فحص DEXA؟",
+          "paras": [
+            "ليس هناك حاجة لإجراء فحص DEXA كل عام ما لم يتغير وضعك الصحي تغيراً كبيراً. عادةً، إذا كانت النتائج في منطقة طبيعية أو قلة الكثافة البسيطة، يكفي تكراره كل سنتين إلى ثلاث. أما إذا بدأت علاجاً دوائياً، فقد ينصح الطبيب بتكراره بعد سنتين لمتابعة الاستجابة.",
+            "فيتامين D25 هو فحص الدم الذي يقيس مخزون فيتامين D في جسمك. يُنصح بقياسه قبل البدء بأي مكمل غذائي، ثم متابعته للتأكد من الوصول إلى مستوى كافٍ يتراوح بين 30 و50 نانوغرام لكل ملليلتر.",
+            "استخدام تطبيق Sihtak لتسجيل نتائج DEXA وفحوصات فيتامين D يساعدك على رؤية التغير عبر الزمن ومناقشة الطبيب بمعلومات دقيقة."
+          ]
+        }
+      ],
+      "tie": "يمكنك تسجيل نتائج DEXA ومستوى فيتامين D ونتائج تحليل الكالسيوم في تطبيق سهتاك ومتابعة التغير من زيارة لأخرى. هذا يساعدك على التحدث مع طبيبك بمعلومات واضحة في كل مرة.",
+      "faqs": [
+        {
+          "q": "هل هشاشة العظام مؤلمة؟",
+          "a": "عادةً لا تسبب هشاشة العظام ألماً بحد ذاتها في مراحلها الأولى. الألم يظهر في الغالب عند حدوث كسر، خاصة كسور الفقرات التي قد تنشأ بشكل صامت. لهذا يُسمى المرض بـالمرض الصامت، وهو سبب رئيسي للتشخيص المتأخر."
+        },
+        {
+          "q": "هل يمكن عكس هشاشة العظام بالكامل؟",
+          "a": "الأدوية الحديثة يمكنها إيقاف فقدان الكثافة العظمية وحتى تحسينها بدرجات ملموسة، لكن استعادة الكثافة الكاملة التي كانت في سن الثلاثين أمر نادر. الهدف الرئيسي هو تقليل خطر الكسور والحفاظ على الاستقلالية في الحركة."
+        },
+        {
+          "q": "هل أحتاج إلى فحص DEXA وأنا دون الخمسين؟",
+          "a": "إذا كانت لديك عوامل خطر مبكرة مثل أمراض تؤثر على امتصاص الكالسيوم، أو تناول الكورتيزون لفترة طويلة، أو انقطاع الطمث المبكر قبل 45 عاماً، فقد يكون الفحص مناسباً قبل الخمسين. في الحالات الطبيعية تُوصي معظم الإرشادات ببدء الفحص عند سن 65 للمرأة."
+        },
+        {
+          "q": "هل يكفي شرب الحليب وحده للوقاية من هشاشة العظام؟",
+          "a": "الحليب مصدر جيد للكالسيوم، لكنه لا يكفي وحده. تحتاج إلى مستوى كافٍ من فيتامين D لامتصاص الكالسيوم، وإلى التمارين لتحفيز العظام على التجدد. الوقاية تحتاج إلى نهج متكامل."
+        },
+        {
+          "q": "هل دواء البيسفوسفونات آمن؟",
+          "a": "نعم لمعظم الناس عند الاستخدام الصحيح. قد يسبب تهيجاً في المريء إذا لم يُؤخذ على معدة فارغة مع كوب ماء كبير والجلوس مستقيماً بعده. يُراجع الطبيب الاستمرار في تناوله عادةً كل 5 سنوات أو أقل وفق حالتك."
+        },
+        {
+          "q": "هل التوتر والضغط النفسي يؤثران على العظام؟",
+          "a": "نعم، بشكل غير مباشر. التوتر المزمن يُحفز إفراز الكورتيزول وهو ما يسرّع فقدان كثافة العظام. كما قد يؤدي إلى قلة النشاط البدني وضعف التغذية، وكلاهما يُضر بصحة العظام."
+        },
+        {
+          "q": "هل يمكنني الحمل إذا كنت أتلقى علاجاً لهشاشة العظام؟",
+          "a": "بعض أدوية هشاشة العظام مثل البيسفوسفونات تُخزن في العظام لفترة طويلة وتحتاج إلى فترة إيقاف قبل الحمل. إذا كنت في سن الإنجاب وتعالجين هشاشة العظام، ناقشي ذلك مع طبيبك قبل التخطيط للحمل."
+        }
+      ]
+    },
+    "en": {
+      "title": "Osteoporosis: bone loss, DEXA scans and prevention",
+      "desc": "Understand your DEXA T-score, why vitamin D deficiency drives bone loss across the Middle East, and what calcium, exercise and medication can do to prevent fractures.",
+      "keywords": "osteoporosis, DEXA scan, T-score, bone density, vitamin D, calcium, hip fracture prevention, postmenopausal bone loss, Middle East, osteopenia",
+      "h1": "Osteoporosis: what your DEXA result means and how to protect your bones",
+      "takeaways": [
+        "Osteoporosis means your bones have become less dense and more likely to fracture, often without any warning until a break occurs.",
+        "A DEXA scan gives you a T-score: below -2.5 means osteoporosis, between -1.0 and -2.5 means osteopenia, which is an early warning.",
+        "Vitamin D deficiency is widespread across the Middle East despite high sun exposure, and is one of the most important drivers of bone loss.",
+        "Weight-bearing exercise and adequate dietary calcium significantly reduce fracture risk when started early and maintained.",
+        "The drop in oestrogen at menopause accelerates bone loss by 1 to 3 percent per year in the first decade, making this the most critical period for intervention."
+      ],
+      "sections": [
+        {
+          "h2": "What is osteoporosis and why does it go unnoticed for so long?",
+          "paras": [
+            "Osteoporosis (from the Greek for porous bone) is a condition in which the internal structure of bone becomes progressively less dense and more porous, like a sponge with widening holes. The bone looks normal from the outside but can no longer absorb impact well. Because this process is entirely painless until a fracture happens, most people are diagnosed only after a minor fall breaks a wrist, a vertebra collapses under ordinary load, or a hip fracture happens from a standing height.",
+            "Bone is a living tissue that constantly renews itself. Specialised cells called osteoclasts break down old bone and osteoblasts build new bone in its place. Until around age 30, the building outpaces the breakdown and bones reach their peak density. After that the balance tips slowly towards loss, and in women after menopause the loss accelerates sharply because oestrogen, which normally restrains osteoclast activity, drops away.",
+            "The fractures most commonly linked to osteoporosis are the wrist, the vertebrae of the spine, and the hip. A hip fracture is particularly serious because it almost always requires surgery and can permanently affect a person's ability to walk independently. In settings where surgical care is limited, this represents a significant threat to quality of life."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "warn",
+            "title": "Who is at higher risk?",
+            "items": [
+              "Women after menopause, especially if menopause occurred before age 45",
+              "Anyone with longstanding vitamin D or calcium deficiency",
+              "People taking oral corticosteroids at higher doses for more than 3 months",
+              "Those with a parent or sibling who had a hip fracture",
+              "Smokers, those with low body weight, and people with very little physical activity"
+            ]
+          }
+        },
+        {
+          "h2": "How to read your DEXA result: what is a T-score?",
+          "paras": [
+            "A DEXA (Dual-energy X-ray Absorptiometry) scan is the standard test for measuring bone mineral density. It is painless, takes about 15 minutes, and uses a very small amount of radiation, far less than a chest X-ray. The scan is usually done at two sites: the lumbar spine and the femoral neck (top of the thighbone). The result is expressed as a T-score, which compares your bone density to that of a healthy young adult at their peak bone mass.",
+            "A T-score between 0 and -1.0 is normal. Between -1.0 and -2.5 is osteopenia, which means lower than average density but not yet at the fracture threshold. This is a warning stage: with lifestyle changes and sometimes medication, it is possible to prevent progression to osteoporosis. A T-score of -2.5 or lower is the World Health Organization's diagnostic threshold for osteoporosis.",
+            "Your doctor may also calculate a FRAX score alongside the T-score. FRAX estimates your probability of a major fracture over the next ten years using age, weight, family history, and other factors as well as bone density. This helps decide whether medication is warranted, because two people with the same T-score can have very different fracture risk depending on their other characteristics."
+          ],
+          "visual": {
+            "type": "range-scale",
+            "title": "Where your T-score sits",
+            "label": "T-score",
+            "unit": "",
+            "min": -4,
+            "max": 1,
+            "zones": [
+              {"to": -2.5, "tone": "bad", "label": "Osteoporosis"},
+              {"to": -1.0, "tone": "warn", "label": "Osteopenia"},
+              {"to": 1, "tone": "good", "label": "Normal"}
+            ],
+            "marker": {"value": -2.8, "label": "Example: -2.8"},
+            "source": "World Health Organization: Assessment of Osteoporosis at Primary Health Care Level, 2004"
+          }
+        },
+        {
+          "h2": "Why is bone loss so common across the sunny Middle East?",
+          "paras": [
+            "It seems paradoxical that a region with so much sunlight should have such high rates of vitamin D deficiency, yet multiple studies confirm this is the case. A 2012 study published in Archives of Osteoporosis found very high rates of vitamin D inadequacy among women in the UAE, with clothing style being a significant predictor. A 2018 review in Bone Reports covering the entire Middle East and North Africa region confirmed that deficiency was widespread across all age groups and both sexes.",
+            "Several factors explain this. Full-body covering limits sun exposure of the skin, which is where the body makes vitamin D through ultraviolet light. Prolonged hours in air-conditioned indoor spaces, high SPF sunscreen use, and low levels of outdoor physical activity all compound the problem. Darker skin tones, which are common in the region, also require longer sun exposure to produce the same amount of vitamin D as lighter skin.",
+            "Women entering menopause are hit by a double burden: oestrogen loss accelerates bone breakdown at exactly the time that vitamin D stores may already be low from years of indoor life and limited sun exposure. This combination makes the first decade after menopause the highest-risk period for bone loss in regional women."
+          ],
+          "visual": {
+            "type": "stats",
+            "items": [
+              {"value": "80%+", "label": "of women in some Gulf countries have vitamin D inadequacy (Bone Reports 2018)", "tone": "warn"},
+              {"value": "1-3%", "label": "of bone density is lost per year in the first decade after menopause", "tone": "bad"}
+            ]
+          }
+        },
+        {
+          "h2": "Calcium and vitamin D: how much and where to get it",
+          "paras": [
+            "Calcium is the main mineral in bone, and vitamin D is what allows your intestine to absorb calcium from food. Without adequate vitamin D, even a calcium-rich diet does little good. Adult women need around 1,000 to 1,200 milligrams of calcium per day, and the upper end of that range applies after menopause and in older adults of both sexes.",
+            "Good dietary sources that fit easily into regional eating patterns include: dairy products such as milk, yoghurt and white cheese; tinned sardines and salmon eaten with their soft bones; sesame seeds and almonds; and dark leafy vegetables such as broccoli and kale. A quarter cup of sesame seeds provides around 350 milligrams of calcium, making tahini and sesame-sprinkled bread surprisingly valuable.",
+            "For vitamin D, direct skin exposure to sunlight for 15 to 30 minutes daily on the arms and legs during midday hours outside the peak summer heat is the most reliable source. Those who wear full covering, spend most of the day indoors, or live at high altitude during winter may need a supplement. The appropriate dose should be guided by a blood test (25-hydroxyvitamin D), not guesswork, because high-dose supplementation without monitoring carries its own risks."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Calcium content of common regional foods",
+            "head": ["Food", "Portion", "Calcium (mg approx.)"],
+            "rows": [
+              ["Full-fat cow's milk", "250 ml (1 cup)", "300"],
+              ["Plain yoghurt", "250 ml (1 cup)", "280"],
+              ["White cheese", "30 g (small slice)", "200"],
+              ["Sesame seeds", "40 g (quarter cup)", "350"],
+              ["Tinned sardines with bones", "100 g", "380"],
+              ["Cooked broccoli", "180 g (1 cup)", "60"]
+            ]
+          }
+        },
+        {
+          "h2": "Which exercises actually build bone?",
+          "paras": [
+            "Not all exercise is equal for bone health. The exercises that matter most are those that place mechanical load on the skeleton: walking briskly, jogging, dancing, stair climbing, and resistance training with weights. This mechanical stress signals bone-building cells to increase their activity. The Endocrine Society clinical practice guideline, updated in 2019, specifically recommends weight-bearing and muscle-strengthening exercise as a core component of osteoporosis management.",
+            "Swimming and cycling are excellent for cardiovascular fitness and muscle strength but have limited impact on bone density because they support the body's weight rather than challenging it. They are still valuable in the overall picture, particularly for people who find high-impact exercise difficult due to joint problems.",
+            "Balance and coordination training, such as yoga or tai chi, matters for a different reason: it reduces the risk of falls, which are the proximate cause of most osteoporotic fractures. Even a modest improvement in balance can have a significant effect on fracture risk in older adults. Aim for at least 30 minutes of weight-bearing activity on most days of the week."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "An exercise plan for bone health",
+            "items": [
+              "Walk briskly for 30 minutes on most days, outdoors or on a treadmill",
+              "Add light resistance training (weights or bands) two to three times a week",
+              "Include balance exercises such as single-leg standing or yoga to reduce fall risk",
+              "Avoid prolonged bed rest during illness because even short periods reduce bone density"
+            ]
+          }
+        },
+        {
+          "h2": "When does osteoporosis need medication?",
+          "paras": [
+            "Not everyone with a low T-score needs drug treatment immediately. Your doctor weighs the T-score against the FRAX fracture probability and any additional risk factors. If the 10-year risk of a major fracture exceeds a country-specific threshold, or if the T-score is -2.5 or below with other risk factors, medication is likely to do more good than harm.",
+            "The most widely used drugs are the bisphosphonates, which include alendronate (Fosamax), risedronate and zoledronic acid. Oral bisphosphonates are usually taken once weekly on an empty stomach with a full glass of water, staying upright for at least 30 minutes afterwards to prevent oesophageal irritation. A 2022 review in Osteoporosis International confirmed that bisphosphonates significantly reduce the risk of vertebral and hip fractures when taken correctly and consistently.",
+            "Newer injectable options include denosumab (Prolia), given every six months by a healthcare provider, and bone-forming agents such as teriparatide for very high-risk cases. Do not stop any of these medications without consulting your doctor: stopping bisphosphonates abruptly after several years may be safe, but stopping denosumab without a bridging strategy can cause rapid bone loss and rebound fractures."
+          ]
+        },
+        {
+          "h2": "Preventing falls at home: where most fractures actually happen",
+          "paras": [
+            "The majority of osteoporotic fractures follow a fall that would have caused no injury in someone with normal bone density. The bathroom is consistently the most dangerous room: wet floors, no grab rails, and the sudden movement of stepping in or out of the bath or shower are all risk factors. Fitting grab rails beside the toilet and shower, using a non-slip mat, and ensuring adequate lighting in the bathroom overnight are among the most effective single changes you can make.",
+            "Poor vision doubles fall risk, so regular eye checks matter. Some medications, particularly sedatives, strong blood pressure drugs, and some antidepressants, can cause dizziness or orthostatic hypotension (a blood pressure drop on standing). If you are on these medications and feel unsteady, mention it to your doctor rather than accepting it as normal.",
+            "Footwear matters more than most people realise. Sandals and socks without grip are responsible for a disproportionate number of indoor falls. Shoes with a low, wide heel and a non-slip sole, or slippers with a firm sole, are safer choices inside the home."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "Seek medical assessment urgently if",
+            "items": [
+              "You fall and have hip, back or wrist pain, even if it seems mild, because hairline fractures are common",
+              "Your height has decreased by more than 3 centimetres since your younger years, which can indicate silent vertebral fractures",
+              "You have sudden severe back pain with no clear cause, which may be a vertebral compression fracture",
+              "You have taken oral corticosteroids at higher doses for more than 3 months and have not had a DEXA scan"
+            ]
+          }
+        },
+        {
+          "h2": "Osteoporosis in men: a diagnosis that is frequently missed",
+          "paras": [
+            "Osteoporosis is strongly associated with women in most people's minds, and this association leads to underdiagnosis in men. Approximately one in five men over the age of 50 will experience an osteoporosis-related fracture, and hip fractures in men carry a higher mortality risk in the first year than in women, partly because they occur later in life alongside other illnesses.",
+            "Risk factors specific to men include low testosterone, which declines gradually with age and more sharply with certain medications such as androgen deprivation therapy used in prostate cancer treatment. Prolonged alcohol use, low body weight, and long-term corticosteroid therapy are shared risk factors with women. Men over 70 should have a discussion with their doctor about whether a DEXA scan is warranted, and younger men with any of these risk factors should not wait.",
+            "The treatment principles are the same regardless of sex: adequate calcium and vitamin D, weight-bearing exercise, fall prevention, and medication where fracture risk is high enough to justify it. The misconception that this is a women's disease should not delay a man from seeking assessment."
+          ]
+        },
+        {
+          "h2": "Monitoring over time: how often should you repeat the scan?",
+          "paras": [
+            "A DEXA scan does not need to be repeated every year unless your circumstances change significantly. For most people with normal or mildly reduced density, a repeat every two to three years is sufficient. If you have started drug treatment, your doctor will usually suggest a repeat scan after two years to assess the response.",
+            "Your 25-hydroxyvitamin D blood test is the measure of your vitamin D stores. It should be checked before starting any supplement to know what dose is needed, and then rechecked after two to three months to confirm you have reached an adequate level, generally between 30 and 50 nanograms per millilitre. Over-supplementing without testing can lead to vitamin D toxicity, which causes its own problems.",
+            "Keeping a record of your DEXA results alongside your vitamin D and calcium intake over time gives you and your doctor a clearer picture of whether your bone health is stable, improving or declining. The Sihtak app lets you log results from each visit so the trend is visible at a glance."
+          ]
+        }
+      ],
+      "tie": "Log your DEXA T-score, vitamin D level and calcium intake in Sihtak to track trends over time and have clear, dated figures ready for your next clinic visit.",
+      "faqs": [
+        {
+          "q": "Does osteoporosis cause pain?",
+          "a": "Osteoporosis itself is usually painless until a fracture happens. Vertebral fractures can occur silently or with sudden severe back pain. This is why the condition is called the silent disease and why many people are diagnosed only after an unexpected break."
+        },
+        {
+          "q": "Can osteoporosis be reversed?",
+          "a": "Modern medications can stop bone loss and produce measurable improvements in density over two to three years, but fully restoring the peak bone mass of young adulthood is rarely achievable. The realistic goal is reducing fracture risk to a level where normal life continues safely."
+        },
+        {
+          "q": "Do I need a DEXA scan before the age of 50?",
+          "a": "If you have high-risk factors such as early menopause before 45, prolonged corticosteroid use, a malabsorption condition, or a fragility fracture already, a DEXA scan before 50 is warranted. Otherwise most guidelines recommend starting at 65 for women without additional risk factors."
+        },
+        {
+          "q": "Is drinking milk enough to prevent osteoporosis?",
+          "a": "Milk is a useful source of calcium but it is not sufficient on its own. You also need adequate vitamin D to absorb the calcium, and weight-bearing exercise to signal your skeleton to maintain its density. Prevention requires all three components working together."
+        },
+        {
+          "q": "Are bisphosphonates safe for long-term use?",
+          "a": "Yes, for most people when taken correctly. The main side effect with oral forms is oesophageal irritation, which is avoided by taking them on an empty stomach with a large glass of water and staying upright for 30 minutes. After five years, your doctor will usually reassess whether to continue, pause or switch to another treatment."
+        },
+        {
+          "q": "Does stress affect bone density?",
+          "a": "Chronic stress raises cortisol levels, and chronically elevated cortisol accelerates bone breakdown. Stress also tends to reduce physical activity and worsen eating habits, both of which compound the effect on bone health. Managing stress is therefore part of a complete osteoporosis prevention plan."
+        },
+        {
+          "q": "Can men get osteoporosis?",
+          "a": "Yes. One in five men over 50 will have an osteoporosis-related fracture in their lifetime. Men are diagnosed less often because the condition is associated in people's minds with women, but the fracture consequences can be just as serious. Men over 70, or younger men with risk factors such as low testosterone or long-term corticosteroid use, should discuss screening with their doctor."
+        }
+      ]
+    }
+  }
+}

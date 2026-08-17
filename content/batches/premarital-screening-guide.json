@@ -1,0 +1,361 @@
+{
+  "slug": "premarital-screening-guide",
+  "category": "genetic-conditions",
+  "chip_ar": "أمراض وراثية",
+  "chip_en": "Genetic conditions",
+  "date_iso": "2026-07-14",
+  "sources": [
+    {
+      "label": "Al Zuayr SN, Sulimani SM, Abd-Ellatif EE et al: Outcomes of the premarital screening program in Riyadh Region, KSA in 2021-2022: A cross-sectional study, Journal of Taibah University Medical Sciences, 2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39583959/"
+    },
+    {
+      "label": "Bahram S, Haji A, Abdulwahab H et al: Outcome of premarital genetic counseling for couples at risk of hemoglobinopathies in Kingdom of Bahrain, Journal of medical screening, 2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37066693/"
+    },
+    {
+      "label": "Gosadi IM: National screening programs in Saudi Arabia: Overview, outcomes, and effectiveness, Journal of infection and public health, 2019",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31248815/"
+    },
+    {
+      "label": "Belhoul KM, Abdulrahman M, Alraei RF et al: Hemoglobinopathy carrier prevalence in the United Arab Emirates: first analysis of the Dubai Health Authority premarital screening program results, Hemoglobin, 2013",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23647352/"
+    },
+    {
+      "label": "Alswaidi FM, O'Brien SJ: Premarital screening programmes for haemoglobinopathies, HIV and hepatitis viruses: review and factors affecting their success, Journal of medical screening, 2009",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19349527/"
+    },
+    {
+      "label": "Abu-Shaheen A, Heena H, Nofal A et al: Epidemiology of Thalassemia in Gulf Cooperation Council Countries: A Systematic Review, BioMed research international, 2020",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33178817/"
+    }
+  ],
+  "content": {
+    "en": {
+      "title": "Premarital screening: what tests are done and what results mean",
+      "desc": "Premarital screening is mandatory in Saudi Arabia, UAE and Bahrain. Learn what is tested, what carrier-carrier results mean in real odds, and how counselling works.",
+      "keywords": "premarital screening, premarital blood test, thalassemia carrier, sickle cell test before marriage, hepatitis B premarital, HIV premarital test, genetic counselling Arab",
+      "h1": "Premarital screening: understanding every test and what the results really mean",
+      "takeaways": [
+        "Premarital screening tests for blood disorders such as thalassemia and sickle cell disease, and for infectious conditions including hepatitis B, hepatitis C and HIV.",
+        "In Saudi Arabia, the UAE, Bahrain and Qatar the test is legally required before marriage; in other Arab countries it is strongly recommended.",
+        "Finding that both partners carry a gene for the same blood disorder does not mean they cannot marry; it means they should understand the probabilities and have a counselling session.",
+        "If both partners are carriers, each pregnancy has a one-in-four chance of producing a child with the full disease, a one-in-two chance of another carrier, and a one-in-four chance of an unaffected non-carrier.",
+        "A positive hepatitis or HIV result opens a conversation about treatment and transmission prevention, not an automatic bar to marriage."
+      ],
+      "sections": [
+        {
+          "h2": "Why do Arab countries require a premarital blood test?",
+          "paras": [
+            "The Gulf states and several other Arab countries made premarital screening compulsory because certain blood disorders are particularly common in their populations and because the region has elevated rates of consanguineous marriage, which can concentrate inherited disease. Saudi Arabia introduced mandatory premarital screening in 2004, initially covering sickle cell disease and thalassemia. The programme was later extended to include infectious diseases. Similar programmes followed in the UAE, Bahrain, Qatar, Kuwait and Oman.",
+            "A 2024 cross-sectional study published in the Journal of Taibah University Medical Sciences, reviewing outcomes from Riyadh over 2021 to 2022, found that a meaningful proportion of couples presenting for screening had at least one partner who was a carrier for a haemoglobin disorder. Identifying these couples before rather than after marriage allows them to receive genetic counselling and understand what each possible pregnancy outcome means in numerical terms, which they could not do without the test.",
+            "In countries where screening is not compulsory, such as Jordan, Lebanon, Egypt, Syria and Iraq, most doctors strongly recommend it, and many private hospitals and religious institutions offer it or advise couples to undertake it. The test is inexpensive, available at most private laboratories, and takes a few days for results. Whether legally required or chosen voluntarily, the purpose is the same: information, not obstruction."
+          ]
+        },
+        {
+          "h2": "What conditions are screened for?",
+          "paras": [
+            "The core of premarital screening is the haemoglobin electrophoresis test, which identifies whether either partner carries an abnormal haemoglobin gene such as the sickle cell gene (haemoglobin S) or a thalassemia variant. These conditions cause anaemia and are inherited in an autosomal recessive pattern, meaning a child needs two faulty copies to be seriously affected. Carriers, who have only one faulty copy, are usually healthy.",
+            "Most premarital screening programmes in the Gulf also include a complete blood count (CBC), which can flag anaemia and suggest iron deficiency or a blood disorder needing further evaluation. The screening then typically adds tests for three infectious conditions: hepatitis B surface antigen (HBsAg) to detect current hepatitis B infection, hepatitis C antibody, and HIV antibody testing.",
+            "Some countries include additional tests. Qatar and Bahrain have added cystic fibrosis, homocystinuria and spinal muscular atrophy to their screening panels. Rubella immunity testing is sometimes included for women, because rubella infection in the first trimester of pregnancy can cause severe fetal abnormalities. In some centres, a blood group and rhesus type are also recorded, which is relevant if there is a risk of rhesus incompatibility in future pregnancies."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "What is typically covered in premarital screening",
+            "head": ["Category", "Test", "Why it matters"],
+            "rows": [
+              ["Blood disorder", "Haemoglobin electrophoresis", "Identifies carriers of sickle cell or thalassemia"],
+              ["Blood disorder", "Complete blood count (CBC)", "Detects anaemia, flags possible haemoglobin disorder"],
+              ["Infection", "HBsAg (hepatitis B surface antigen)", "Identifies current hepatitis B infection"],
+              ["Infection", "Hepatitis C antibody", "Identifies prior exposure to hepatitis C"],
+              ["Infection", "HIV antibody", "Identifies HIV infection"],
+              ["Additional (some countries)", "Rubella IgG", "Confirms immunity in women before pregnancy"],
+              ["Additional (some countries)", "Blood group and rhesus type", "Relevant to pregnancy management"]
+            ]
+          }
+        },
+        {
+          "h2": "What does a carrier result actually mean?",
+          "paras": [
+            "A carrier result for a blood disorder, for example a carrier of beta-thalassemia or of the sickle cell gene, means the person has one normal copy and one abnormal copy of the relevant gene. Carriers are almost always healthy. They do not have thalassemia major or sickle cell disease. They may have a mild, medically insignificant reduction in their red cell indices, which is often noticed incidentally on a blood count.",
+            "The question becomes clinically significant when both partners are carriers of the same condition. In that situation, each pregnancy has a one-in-four chance of the child inheriting two abnormal copies and developing the full disease, a two-in-four chance of the child being a carrier like the parents, and a one-in-four chance of the child inheriting two normal copies and not being a carrier at all. These are independent probabilities for each pregnancy, not a guarantee: two carrier parents can have three unaffected children in a row, or they can have two affected children from four pregnancies.",
+            "The Saudi national programme, reviewed in a 2019 analysis by Gosadi published in the Journal of Infection and Public Health, showed that identifying carrier couples and providing counselling led a substantial proportion to delay or reconsider marriage, while others proceeded with awareness. Neither outcome is mandated: the information belongs to the couple. Some choose prenatal diagnosis in each pregnancy; others opt for preimplantation genetic diagnosis where available; others decide to proceed and accept the outcomes as they come. The role of the health system is to provide accurate information and experienced counselling, not to make the decision."
+          ],
+          "visual": {
+            "type": "stats",
+            "items": [
+              {"value": "1 in 4", "label": "chance of child with the full disease when both parents carry the same gene", "tone": "bad"},
+              {"value": "1 in 2", "label": "chance of child being a carrier, healthy like parents", "tone": "warn"},
+              {"value": "1 in 4", "label": "chance of child inheriting no abnormal copy at all", "tone": "good"}
+            ]
+          }
+        },
+        {
+          "h2": "What happens when only one partner is a carrier?",
+          "paras": [
+            "If only one partner is a carrier and the other has two normal copies, none of their children will have the full disease. Half the children, on average, will inherit the carrier status (one abnormal copy) and half will inherit two normal copies. This is a reassuring result: no child from this pairing can develop thalassemia major or sickle cell disease from this particular gene.",
+            "However, a child who is a carrier can still pass that gene to their own children in the next generation. This is why carrier status is worth knowing and recording. If that carrier child later has a child with another carrier of the same condition, the grandchildren are back to the one-in-four risk of the full disease. Keeping a note of carrier status in a personal health record, which you can do within the Sihtak app, means this information is available when it is needed in the future.",
+            "It is also possible, though less common, for one partner to carry a gene for one blood disorder and the other partner to carry a gene for a different one. In that case, the risk calculation is specific to the combination, and genetic counselling from a specialist is the right next step to get accurate figures."
+          ]
+        },
+        {
+          "h2": "What do infectious disease results mean?",
+          "paras": [
+            "A positive result for hepatitis B surface antigen means one partner is currently infected with hepatitis B. This does not mean the couple cannot marry, and it does not mean transmission is inevitable, but it opens important medical conversations. The infected partner needs a full hepatitis B workup including viral load (HBV DNA) and liver function assessment, and the uninfected partner should be checked for existing immunity and, if not immune, should receive the hepatitis B vaccine course before or immediately after marriage.",
+            "A positive hepatitis C antibody result means the person has been exposed to the hepatitis C virus at some point. A reactive antibody screen needs to be followed up with an HCV RNA test to determine whether the infection is current or cleared. Hepatitis C is now curable in the vast majority of cases with a short course of direct-acting antiviral drugs, so a positive result, properly followed up and treated, is manageable. Transmission between stable monogamous partners is possible but the risk per year is low.",
+            "An HIV positive result is the one that generates the most anxiety, but the medical picture has changed dramatically. People on effective antiretroviral therapy have a normal or near-normal life expectancy, and with treatment their viral load is suppressed to undetectable levels, which effectively eliminates transmission risk to a partner during unprotected sex. The focus shifts to treatment, monitoring and planning for pregnancy safely. Specialist referral for both partners is essential, and the counselling at this point should be supportive rather than judgemental."
+          ]
+        },
+        {
+          "h2": "What happens after a positive or high-risk result?",
+          "paras": [
+            "In countries where screening is mandatory, the result is issued to the couple with a notation of whether the result is compatible (meaning no significant risk identified), incompatible (meaning both partners carry the same blood disorder gene or an infectious result was found) or requires further work. The word incompatible is a legal and administrative category, not a medical verdict on whether a marriage should proceed. In Saudi Arabia, for example, the couple receives counselling and the results, but proceeding to marriage remains their legal right.",
+            "Genetic counselling after a high-risk result is the key step. An experienced counsellor explains what the numbers mean, what options are available, and what support exists. The session covers prenatal diagnosis, which involves testing a pregnancy at ten to twelve weeks by chorionic villus sampling, and preimplantation genetic diagnosis for those undergoing assisted reproduction. It also covers the realistic outcomes of proceeding without intervention. Good counselling is directive about information and non-directive about decisions.",
+            "Where genetic counselling services are limited, as they are in parts of Syria, Yemen, Sudan and Iraq, a doctor or specialist nurse who is familiar with the conditions can cover the core information. Online resources in Arabic from established health institutions can supplement a brief clinical conversation. The minimum that any couple with a high-risk premarital result should receive is an accurate explanation of the numbers and a follow-up appointment to ask questions."
+          ],
+          "visual": {
+            "type": "timeline",
+            "title": "Steps after receiving your premarital screening results",
+            "items": [
+              {"when": "Result day", "what": "Receive results; both partners review them together with a doctor or counsellor"},
+              {"when": "Week 1 to 2", "what": "Genetic counselling session if either partner is a carrier or if an infectious result was found"},
+              {"when": "Week 2 to 4", "what": "Further testing if needed: HBV DNA, HCV RNA, HIV viral load, specialist referral"},
+              {"when": "Before pregnancy", "what": "Discuss prenatal diagnosis options with an obstetrician or genetics specialist"},
+              {"when": "Each pregnancy", "what": "Chorionic villus sampling or amniocentesis at the appropriate gestation if both partners are carriers"}
+            ]
+          }
+        },
+        {
+          "h2": "How reliable is premarital screening?",
+          "paras": [
+            "Haemoglobin electrophoresis is highly accurate for detecting the most common blood disorder carriers when the test is done at a competent laboratory using a validated method. The analysis published by Belhoul and colleagues in 2013 covering the Dubai Health Authority premarital screening programme found that the programme reliably identified carriers and provided useful epidemiological data on the prevalence of haemoglobin disorders in UAE residents.",
+            "For infectious diseases, the sensitivity and specificity of modern HIV, hepatitis B and hepatitis C tests are very high, but no screening test is perfect. A reactive result is typically repeated before it is acted upon, and a confirmatory test is done before any serious medical or social consequence follows. If you receive a reactive result that surprises you, it is reasonable to ask what confirmation testing has been done before treating it as definitive.",
+            "One limitation of the current haemoglobin electrophoresis approach is that it detects common haemoglobin variants very well but may miss some rarer gene mutations that cause thalassemia. In communities with specific rare variants, DNA-based testing rather than just electrophoresis may be recommended. This is an area where clinical genetics advice adds real value."
+          ]
+        },
+        {
+          "h2": "Where to get screened and what it costs",
+          "paras": [
+            "In Saudi Arabia, the official premarital screening programme is run through government health centres and can be done for a small administrative fee. In the UAE, the Dubai Health Authority and Abu Dhabi Health Services operate the programme. In Bahrain and Qatar, government hospitals offer it. In countries without a formal programme, the tests are available at most private laboratories, typically as a package.",
+            "Where cost is a barrier, the individual tests that form the screen are generally available separately. The complete blood count and haemoglobin electrophoresis are among the most affordable laboratory tests anywhere in the region. Hepatitis B and C tests are also inexpensive at most private labs. HIV testing is available free of charge through public health services in most Arab countries, often at dedicated clinics that offer confidential testing.",
+            "If you live in a country where mandatory premarital screening exists, note that the official result letter issued by the programme is a legal requirement before the marriage contract can be registered. Doing a private test and presenting those results in place of the official certificate is not accepted. Allow adequate time before the planned wedding date, typically at least two to three weeks, to complete the process and receive the official documentation."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "warn",
+            "title": "Practical notes before going for screening",
+            "items": [
+              "In Saudi Arabia, UAE, Bahrain and Qatar, the official premarital certificate is a legal requirement for registering the marriage",
+              "Both partners must attend in person at an approved centre in countries with formal programmes",
+              "Allow at least two to three weeks before the planned wedding date to complete the process",
+              "A carrier result for a blood disorder does not prevent marriage; it is a trigger for counselling",
+              "Keep a copy of your results in a personal health file, as carrier status is relevant information for future pregnancies"
+            ]
+          }
+        },
+        {
+          "h2": "What if the test was done elsewhere and results are from abroad?",
+          "paras": [
+            "If you or your partner had premarital screening done in another country, you should check whether those results are accepted by the official programme in your current country. In Saudi Arabia and the UAE, the official premarital certificate must generally be issued domestically. A prior test done abroad may inform a conversation with a doctor, but will not substitute for the official programme.",
+            "Conversely, if you had screening done in the Gulf and are now marrying in a country without a formal programme, carrying documented results is still valuable. A haematologist or internist in any well-equipped Arab country can review foreign lab results and advise on their interpretation.",
+            "If the results from abroad show a blood disorder carrier finding, bring the original report and the lab's reference method used, because haemoglobin electrophoresis results can be presented in different ways depending on whether high-performance liquid chromatography (HPLC) or cellulose acetate electrophoresis was used. A genetics specialist or haematologist can translate between methods."
+          ]
+        }
+      ],
+      "tie": "Recording your premarital screening results, blood group and any carrier status in Sihtak creates a permanent reference you can share with an obstetrician, midwife or genetic counsellor when planning your first pregnancy.",
+      "faqs": [
+        {
+          "q": "Can we still get married if both of us are carriers?",
+          "a": "Yes. In Saudi Arabia and the other Gulf states with mandatory screening, a carrier-carrier result may be noted as an elevated-risk finding, but the couple retains the legal right to proceed with marriage. The purpose of identifying the result is to ensure the couple receives counselling before making that decision, not to prevent the marriage."
+        },
+        {
+          "q": "We are cousins. Does that change what the screening means?",
+          "a": "If you are related, there is a higher chance that you both carry the same recessive gene without knowing it. For thalassemia and sickle cell in communities where these conditions are more common, the premarital screen is especially informative in this situation. The screen itself is identical; the context of consanguinity is discussed during the counselling that follows the results."
+        },
+        {
+          "q": "What is haemoglobin electrophoresis and is it painful?",
+          "a": "Haemoglobin electrophoresis is a blood test done from a standard venous blood sample, the same type drawn for any blood test. It is not painful beyond the routine needle prick. The test separates different types of haemoglobin and identifies whether any abnormal type, such as haemoglobin S or haemoglobin Barts, is present."
+        },
+        {
+          "q": "My result shows I have sickle cell trait. What does that mean for my health?",
+          "a": "Sickle cell trait means you are a carrier: you have one normal copy of the haemoglobin gene and one copy of the sickle cell gene. Most people with sickle cell trait are entirely healthy and have a normal life expectancy. The trait does not cause the painful crises of sickle cell disease. The only medical significance is for family planning, particularly if your partner also has sickle cell trait or a related haemoglobin variant."
+        },
+        {
+          "q": "If one partner tests positive for hepatitis B, can the other be protected?",
+          "a": "Yes, effectively. The hepatitis B vaccine is highly protective, with more than 95 percent of vaccinated adults developing immunity. If one partner has hepatitis B and the other has not been vaccinated, completing the three-dose vaccine series before marriage significantly reduces transmission risk. Specialist advice should also be sought about antiviral treatment for the infected partner, which further reduces the risk."
+        },
+        {
+          "q": "Does the premarital test screen for all genetic conditions?",
+          "a": "No. The current premarital screening panel covers blood disorders and selected infectious conditions. It does not screen for conditions like Down syndrome, cystic fibrosis (except in Qatar and Bahrain specifically), familial Mediterranean fever, or most other single-gene disorders. If there is a family history of another genetic condition, a separate consultation with a clinical geneticist is needed."
+        },
+        {
+          "q": "What is the difference between a carrier test and a prenatal test?",
+          "a": "A carrier test, done before marriage or conception, looks at the parents' own DNA to identify whether they carry a recessive gene. A prenatal test, done during pregnancy by chorionic villus sampling or amniocentesis, looks at the developing baby's DNA to see which combination it has inherited. The premarital test identifies the risk; the prenatal test tells you what has actually happened in that particular pregnancy."
+        }
+      ]
+    },
+    "ar": {
+      "title": "الفحص قبل الزواج: كل التحاليل وماذا تعني نتائجها",
+      "desc": "الفحص الطبي قبل الزواج إلزامي في السعودية والإمارات والبحرين. تعرف على ما يشمله، وماذا تعني نتيجة الحاملَين بالأرقام الحقيقية، وكيف تسير جلسة الإرشاد الجيني.",
+      "keywords": "فحص قبل الزواج, تحليل ما قبل الزواج, حامل ثلاسيميا, اختبار أنيميا الفول, التهاب كبد قبل الزواج, إرشاد وراثي, السعودية الإمارات",
+      "h1": "الفحص قبل الزواج: فهم كل تحليل وماذا تعني نتائجه فعلاً",
+      "takeaways": [
+        "يكشف الفحص قبل الزواج عن أمراض الدم الوراثية كالثلاسيميا وفقر الدم المنجلي، وعن الأمراض المعدية كالتهاب الكبد B وC وفيروس نقص المناعة HIV.",
+        "في السعودية والإمارات والبحرين وقطر هذا الفحص إلزامي قانونياً قبل توثيق عقد الزواج.",
+        "نتيجة الحاملَين لا تعني المنع من الزواج، بل تعني ضرورة فهم الأرقام الحقيقية والاستفادة من جلسة إرشاد وراثي.",
+        "إذا كان الطرفان حاملَين لنفس الجين المعيب، فاحتمال إنجاب طفل مصاب بالمرض كاملاً هو ربع الحالات في كل حمل على حدة.",
+        "نتيجة الأمراض المعدية تفتح باب العلاج والوقاية، وليست حكماً نهائياً بمنع الزواج."
+      ],
+      "sections": [
+        {
+          "h2": "لماذا تشترط دول عربية إجراء تحليل قبل الزواج؟",
+          "paras": [
+            "اشترطت دول الخليج وعدد من الدول العربية الفحص الطبي قبل الزواج لأن بعض أمراض الدم الوراثية شائعة نسبياً في هذه المجتمعات، وتزيد معدلات زيجات الأقارب من احتمال تركيز هذه الجينات في الذرية. أطلقت المملكة العربية السعودية برنامجها الوطني عام 2004 ليشمل فقر الدم المنجلي والثلاسيميا ثم وسّعته ليضم الأمراض المعدية. تبعتها الإمارات والبحرين وقطر والكويت وعمان ببرامج مماثلة.",
+            "كشفت دراسة مقطعية نُشرت عام 2024 في مجلة جامعة طيبة للعلوم الطبية استعرضت نتائج برنامج الرياض للفحص قبل الزواج خلال عامَي 2021 و2022 أن نسبة ملحوظة من الأزواج المتقدمين للفحص كان أحد طرفيهم على الأقل حاملاً لاضطراب في الهيموغلوبين (Hemoglobin). تحديد هؤلاء الأزواج قبل الزواج لا بعده يُتيح تقديم الإرشاد الجيني وشرح الأرقام الحقيقية لكل نتيجة محتملة.",
+            "في الدول التي لا يكون الفحص فيها إلزامياً كالأردن ولبنان ومصر وسوريا والعراق، يُوصي معظم الأطباء بإجرائه بشدة، وكثير من المستشفيات الخاصة والمرجعيات الدينية تحثّ عليه أو تُيسّر إجراءه. التحليل غير مكلف ومتاح في معظم المختبرات الخاصة وتظهر نتائجه في أيام قليلة."
+          ]
+        },
+        {
+          "h2": "ما الأمراض التي يكشف عنها الفحص؟",
+          "paras": [
+            "محور الفحص هو تحليل رحلان الهيموغلوبين (Hemoglobin Electrophoresis) الذي يكشف ما إذا كان أي من الطرفين يحمل جيناً غير طبيعي كجين الهيموغلوبين المنجلي (HbS) أو أحد أشكال الثلاسيميا (Thalassemia). هذه الأمراض تُورَّث بالنمط الجسمي المتنحي، أي أن الطفل يحتاج نسختين معيبتين كي يصاب بالمرض الكامل. الحاملون الذين يملكون نسخة واحدة فقط يتمتعون عادةً بصحة جيدة.",
+            "تشمل معظم البرامج الخليجية أيضاً صورة الدم الكاملة (CBC) التي تكشف الأنيميا وتُلمّح إلى وجود اضطراب يستوجب التحقق. ثم تُضاف ثلاثة تحاليل لأمراض معدية: مستضد سطح التهاب الكبد B (HBsAg) للكشف عن إصابة فعّالة، وأجسام مضادة للتهاب الكبد C، وأجسام مضادة لفيروس نقص المناعة البشري HIV.",
+            "تُضيف بعض الدول تحاليل إضافية: تضمّنت قطر والبحرين في برنامجيهما الكشف عن التليف الكيسي (Cystic Fibrosis) وهوموسيستينيوريا (Homocystinuria) وضمور العضلات الشوكي (SMA). يُضاف في بعض المراكز اختبار مناعة الحصبة الألمانية للمرأة لأن الإصابة بها في أول الحمل تُسبب تشوهات جسيمة للجنين. كما يُسجَّل فصيلة الدم وعامل الريسوس (Rh) في بعض البرامج لأهميته في متابعة الحمل."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "ما يشمله الفحص قبل الزواج عادةً",
+            "head": ["الفئة", "التحليل", "أهميته"],
+            "rows": [
+              ["أمراض الدم", "رحلان الهيموغلوبين (Hemoglobin Electrophoresis)", "يكشف حاملي الثلاسيميا والهيموغلوبين المنجلي"],
+              ["أمراض الدم", "صورة الدم الكاملة (CBC)", "يكشف الأنيميا ويُلمّح لاضطرابات الهيموغلوبين"],
+              ["أمراض معدية", "HBsAg (مستضد سطح الكبد B)", "يكشف إصابة فعّالة بالتهاب الكبد B"],
+              ["أمراض معدية", "أجسام مضادة للتهاب الكبد C", "يكشف التعرض لفيروس الكبد C"],
+              ["أمراض معدية", "أجسام مضادة HIV", "يكشف الإصابة بفيروس نقص المناعة"],
+              ["إضافي (دول مختارة)", "مناعة الحصبة الألمانية (Rubella IgG)", "تؤكد مناعة المرأة قبل الحمل"],
+              ["إضافي (دول مختارة)", "فصيلة الدم وعامل الريسوس", "مهم لمتابعة الحمل مستقبلاً"]
+            ]
+          }
+        },
+        {
+          "h2": "ماذا تعني نتيجة الحامل بالأرقام الحقيقية؟",
+          "paras": [
+            "نتيجة حامل (Carrier) لأحد أمراض الدم تعني أن الشخص يملك نسخة طبيعية من الجين ونسخة أخرى غير طبيعية. الحاملون أصحّاء في الغالب؛ ليس لديهم ثلاسيميا كبرى أو فقر دم منجلي. قد يُلاحَظ عندهم انخفاض بسيط غير ذي أهمية طبية في بعض مؤشرات صورة الدم.",
+            "المسألة الجوهرية تظهر حين يكون كلا الطرفين حاملَين لنفس المرض. في تلك الحالة، لكل حمل منفصل: احتمال ربع أن يرث الطفل نسختين معيبتين فيُصاب بالمرض الكامل، واحتمال النصف أن يكون حاملاً مثل والديه وصحيح، واحتمال ربع أن يرث نسختين طبيعيتين ولا يكون حاملاً إطلاقاً. هذه الأرقام مستقلة في كل حمل: الزوجان الحاملان قد ينجبان ثلاثة أطفال أصحّاء متتاليين أو طفلين مصابَين من أربعة.",
+            "أظهر البرنامج السعودي الذي استعرضه غوسادي عام 2019 أن تحديد الأزواج المُعرّضين للخطر وتقديم الإرشاد الجيني دفع قسماً منهم إلى إعادة النظر في قرارهم، بينما مضى آخرون في الزواج واعين بالأرقام. لا يفرض النظام أياً من القرارين: المعلومات ملك للزوجين وحدهما."
+          ],
+          "visual": {
+            "type": "stats",
+            "items": [
+              {"value": "1 من 4", "label": "احتمال إصابة الطفل بالمرض كاملاً عند كون الوالدين حاملَين", "tone": "bad"},
+              {"value": "1 من 2", "label": "احتمال أن يكون الطفل حاملاً صحيحاً مثل والديه", "tone": "warn"},
+              {"value": "1 من 4", "label": "احتمال أن يرث الطفل نسختين طبيعيتين تماماً", "tone": "good"}
+            ]
+          }
+        },
+        {
+          "h2": "ماذا يعني أن حاملاً واحداً فقط في الزوجين؟",
+          "paras": [
+            "إذا كان أحد الطرفين فقط حاملاً والآخر يملك نسختين طبيعيتين، فلن يُصاب أي من أبنائهما بالمرض الكامل. نصف الأطفال في المتوسط سيرثون صفة الحامل ونصفهم سيكونون طبيعيين تماماً. هذه نتيجة مطمئنة: لا يمكن لأي طفل من هذا الزواج أن يُصاب بثلاسيميا كبرى أو فقر دم منجلي من هذا الجين تحديداً.",
+            "لكن الطفل الحامل يستطيع بدوره أن ينقل الجين لأبنائه في الجيل القادم. لذلك يستحق تسجيل صفة الحامل في سجل صحي شخصي حتى تكون المعلومة متاحة عند تخطيط الأبناء لزواجهم مستقبلاً.",
+            "يُمكن في بعض الحالات أن يحمل أحد الطرفين جيناً لمرض ما والآخر جيناً لمرض مختلف. هنا حساب الخطر يختلف حسب كل تركيبة، ويحتاج استشارة طبيب وراثة متخصص للحصول على أرقام دقيقة."
+          ]
+        },
+        {
+          "h2": "ماذا تعني نتائج الأمراض المعدية؟",
+          "paras": [
+            "نتيجة إيجابية لمستضد سطح الكبد B (HBsAg) تعني أن أحد الطرفين مُصاب حالياً بالتهاب الكبد B. هذا لا يعني حتماً منع الزواج، ولا يعني حتماً انتقال العدوى للطرف الآخر، لكنه يفتح نقاشات طبية مهمة. يحتاج المُصاب إلى تقييم كامل للتهاب الكبد B بما يشمل الحمل الفيروسي (HBV DNA) ووظائف الكبد، والطرف غير المُصاب يجب التحقق من وجود مناعة لديه، فإن لم تكن يُعطى سلسلة لقاح التهاب الكبد B قبل الزواج أو فور إتمامه.",
+            "نتيجة أجسام مضادة إيجابية لالتهاب الكبد C تعني أن الشخص تعرّض للفيروس في وقت ما. تستلزم النتيجة المشبوهة متابعة بتحليل HCV RNA لتحديد ما إذا كانت الإصابة قائمة أم تعافى منها الجسم. التهاب الكبد C اليوم قابل للشفاء في معظم الحالات بدورة قصيرة من الأدوية المضادة المباشرة (DAAs)، فنتيجته الإيجابية قابلة للتدبير متى تابعها المريض بشكل صحيح.",
+            "نتيجة HIV الإيجابية هي الأكثر إثارة للقلق لكن الصورة الطبية تغيّرت جذرياً. من يتلقى العلاج بمضادات الفيروسات الرجعية المدمجة (ART) لديه عمر متوقع طبيعي أو قريب من الطبيعي، وحين يُضبط الحمل الفيروسي حتى يصبح غير قابل للقياس يصبح خطر انتقاله للشريك شبه منعدم. الإحالة للمتخصص وتقديم الدعم النفسي لكلا الطرفين أهم من أي حكم مسبق."
+          ]
+        },
+        {
+          "h2": "ما الخطوات بعد النتيجة المرتفعة الخطورة؟",
+          "paras": [
+            "في الدول ذات البرامج الإلزامية تُصدر النتيجة مع تصنيف: متوافقة (لا خطر جوهري) أو غير متوافقة (حاملان للجين ذاته أو نتيجة معدية). كلمة غير متوافقة هي تصنيف إداري وقانوني، وليست حكماً طبياً بمنع الزواج. في السعودية مثلاً يحتفظ الزوجان بحقهما القانوني الكامل في المضيّ قدماً بعد الإرشاد.",
+            "جلسة الإرشاد الجيني بعد النتيجة المرتفعة هي الخطوة الأهم. يشرح المُرشد المتخصص الأرقام والخيارات المتاحة كالتشخيص قبل الولادة بأخذ عينة من الزغابات المشيمية بين الأسبوع العاشر والثاني عشر، والتشخيص الجيني قبل الزرع (PGD) لمن يلجأون إلى التلقيح الصناعي. جلسة الإرشاد الجيدة تُوجّه بالمعلومات ولا تُوجّه بالقرارات.",
+            "حين تكون خدمات الإرشاد الجيني محدودة كما في أجزاء من سوريا واليمن والسودان والعراق، يستطيع طبيب أو ممرض متخصص تغطية المعلومات الجوهرية. الحد الأدنى الذي يستحقه أي زوجين وصلت نتيجتهما مرتفعة الخطر هو شرح دقيق للأرقام وموعد متابعة للأسئلة."
+          ],
+          "visual": {
+            "type": "timeline",
+            "title": "خطوات ما بعد الحصول على نتائج الفحص قبل الزواج",
+            "items": [
+              {"when": "يوم النتيجة", "what": "مراجعة النتائج معاً مع طبيب أو مرشد"},
+              {"when": "الأسبوع 1 إلى 2", "what": "جلسة إرشاد جيني إذا كان أحد الطرفين حاملاً أو ظهرت نتيجة معدية"},
+              {"when": "الأسبوع 2 إلى 4", "what": "تحاليل تكميلية عند الحاجة: HBV DNA أو HCV RNA أو إحالة للمتخصص"},
+              {"when": "قبل الحمل", "what": "نقاش خيارات التشخيص قبل الولادة مع متخصص"},
+              {"when": "كل حمل", "what": "أخذ عينة زغابات مشيمية عند الحاجة إذا كان الطرفان حاملَين"}
+            ]
+          }
+        },
+        {
+          "h2": "ما مدى موثوقية الفحص قبل الزواج؟",
+          "paras": [
+            "رحلان الهيموغلوبين (Hemoglobin Electrophoresis) دقيق جداً في الكشف عن حاملي أمراض الدم الأكثر شيوعاً حين يُجرى في مختبر كفء بطريقة موثّقة. أكدت دراسة بلهول وزملائه عام 2013 التي غطّت برنامج هيئة الصحة في دبي أن البرنامج استطاع تحديد الحاملين بدقة وقدّم بيانات وبائية قيّمة عن أمراض الهيموغلوبين بين سكان الإمارات.",
+            "تحاليل الأمراض المعدية لـ HIV والكبد B وC بتقنيات اليوم عالية الحساسية والنوعية، لكن لا اختبار مثالي تماماً. أي نتيجة مشبوهة تُعاد ويُجرى لها تحليل تأكيدي قبل اتخاذ أي إجراء جدي. إذا جاءت نتيجتك مشبوهة وأربكتك، فمن حقك السؤال عن التحاليل التأكيدية التي أُجريت.",
+            "من حدود رحلان الهيموغلوبين أنه يكتشف الأنواع الشائعة من أمراض الهيموغلوبين بكفاءة عالية، لكنه قد يُفوّت طفرات نادرة تُسبب أشكالاً من الثلاسيميا في مجتمعات بعينها. في تلك المجتمعات ذات الطفرات الخاصة، قد يُوصى بالاختبار الجيني المعتمد على تسلسل الحمض النووي بدلاً من الرحلان وحده."
+          ]
+        },
+        {
+          "h2": "أين تجري الفحص وكم تكلفته؟",
+          "paras": [
+            "في المملكة العربية السعودية يُقدَّم الفحص الرسمي عبر مراكز صحة وزارة الصحة بتكلفة إدارية زهيدة. في الإمارات تُدير هيئة صحة دبي وهيئة الصحة في أبوظبي البرنامج. في البحرين وقطر تتولى المستشفيات الحكومية ذلك. في الدول التي تفتقر إلى برنامج رسمي، تتوافر التحاليل في معظم المختبرات الخاصة كحزمة متكاملة.",
+            "حيث يكون التكلفة عائقاً، تستطيع إجراء التحاليل الفردية المكوِّنة للفحص بشكل منفصل. صورة الدم الكاملة ورحلان الهيموغلوبين من أقل التحاليل تكلفةً في معظم أنحاء المنطقة. تحليلا الكبد B وC كذلك غير مكلفَين في المختبرات الخاصة. أما اختبار HIV فتقدمه خدمات الصحة العامة في معظم الدول العربية مجاناً في عيادات مخصصة تضمن السرية.",
+            "إذا كنت في دولة تشترط الفحص إلزامياً، تذكّر أن شهادة النتيجة الرسمية الصادرة عن البرنامج الحكومي هي وثيقة قانونية لازمة لتوثيق عقد الزواج، ولا يُقبل تقديم نتائج من مختبر خاص بديلاً عنها. خصّص وقتاً كافياً قبل موعد الزواج بما لا يقل عن أسبوعين إلى ثلاثة أسابيع لاستكمال الإجراءات."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "warn",
+            "title": "ملاحظات عملية قبل إجراء الفحص",
+            "items": [
+              "في السعودية والإمارات والبحرين وقطر الشهادة الرسمية شرط قانوني لتوثيق عقد الزواج",
+              "في الدول ذات البرامج الرسمية يجب حضور الطرفين شخصياً في مركز معتمد",
+              "خصّص أسبوعين إلى ثلاثة أسابيع قبل موعد الزواج لاستكمال الإجراءات",
+              "نتيجة الحامل لا تمنع الزواج بل تستوجب جلسة إرشاد جيني",
+              "احتفظ بنسخة من نتائجك في ملفك الصحي لأهميتها عند التخطيط لأي حمل مستقبلاً"
+            ]
+          }
+        },
+        {
+          "h2": "ماذا إذا أُجري الفحص في الخارج ووصلت النتائج من بلد آخر؟",
+          "paras": [
+            "إذا أجريت أنت أو شريكك الفحص في دولة أخرى، يجب التحقق من قبول تلك النتائج في البرنامج الرسمي لبلدك الحالي. في السعودية والإمارات تستلزم الشهادة الرسمية عموماً أن تُصدَر من داخل البلد، فنتائج أُجريت في الخارج قد تُفيد في النقاش مع الطبيب لكنها لن تحل محل الشهادة الرسمية.",
+            "على العكس، إذا أجريت الفحص في الخليج وتزوجت لاحقاً في دولة لا يوجد فيها برنامج رسمي، فإن حمل الوثيقة الموثّقة لا يزال ذا قيمة. يستطيع طبيب دم أو باطنية في أي دولة عربية مجهّزة جيداً قراءة النتائج الواردة من الخارج والتعليق عليها.",
+            "إذا كانت النتائج الواردة من الخارج تُظهر صفة حامل لأحد أمراض الدم، فاحرص على إحضار التقرير الأصلي مع ذكر الطريقة المختبرية المستخدمة، لأن نتائج رحلان الهيموغلوبين تختلف في طريقة عرضها بحسب ما إذا كانت الطريقة المستخدمة هي HPLC أو الرحلان الكهربائي على خلات السيليلوز. يستطيع طبيب الوراثة أو الدم الترجمة بين الطريقتين."
+          ]
+        }
+      ],
+      "tie": "تسجيل نتائج فحصك قبل الزواج وفصيلة دمك وصفة الحامل في تطبيق سهتك يُنشئ مرجعاً دائماً يمكنك مشاركته مع طبيب التوليد أو المُرشد الجيني عند التخطيط لأول حمل.",
+      "faqs": [
+        {
+          "q": "هل يمكننا الزواج إذا كان كلانا حاملَين لنفس الجين؟",
+          "a": "نعم. في السعودية ودول الخليج ذات الفحص الإلزامي، قد تُصنَّف النتيجة خطراً مرتفعاً، لكن الزوجين يحتفظان بحقهما القانوني الكامل في المضيّ قدماً. الهدف من تحديد النتيجة هو ضمان تلقيهما الإرشاد الجيني المناسب قبل اتخاذ هذا القرار، لا منع الزواج."
+        },
+        {
+          "q": "نحن أقارب، هل يغيّر ذلك مفهوم الفحص؟",
+          "a": "نعم. الزواج من قريب يرفع احتمال أن يحمل الطرفان الجين المعيب ذاته من دون علم. في المجتمعات التي تنتشر فيها الثلاسيميا أو فقر الدم المنجلي، يكتسب فحص ما قبل الزواج أهمية إضافية في هذا السياق. الفحص نفسه لا يختلف، لكن الإرشاد يُناقش سياق القرابة تفصيلياً."
+        },
+        {
+          "q": "ما رحلان الهيموغلوبين وهل هو مؤلم؟",
+          "a": "رحلان الهيموغلوبين (Hemoglobin Electrophoresis) تحليل يُجرى من عينة دم وريدية عادية مثل أي تحليل دم آخر، وليس مؤلماً سوى وخزة الإبرة المعتادة. يُفرّق التحليل بين أنواع الهيموغلوبين ويكشف أي نوع غير طبيعي كـ HbS أو Hb Barts."
+        },
+        {
+          "q": "نتيجتي تُظهر أنني حامل لصفة الخلية المنجلية، ما معنى ذلك لصحتي؟",
+          "a": "صفة الخلية المنجلية تعني أنك حامل: لديك نسخة طبيعية ونسخة من جين الهيموغلوبين المنجلي. أغلب الحاملين يتمتعون بصحة كاملة وعمر طبيعي ولا يعانون من نوبات فقر الدم المنجلي المؤلمة. الأهمية الوحيدة هي في التخطيط الأسري، خاصةً إذا كان شريكك يحمل نفس الصفة أو صفة ذات صلة."
+        },
+        {
+          "q": "إذا ظهر أن أحد الطرفين مُصاب بالتهاب الكبد B، هل يمكن حماية الآخر؟",
+          "a": "نعم وبفعالية عالية. لقاح التهاب الكبد B يوفر مناعة لأكثر من 95 بالمئة من البالغين المُلقَّحين. إذا كان أحد الطرفين مُصاباً والآخر لم يُلقَّح، فإن إتمام السلسلة الثلاثية من اللقاح قبل الزواج يخفض خطر انتقال العدوى بشكل كبير. يُستحسن كذلك طلب الاستشارة حول العلاج بالأدوية المضادة للفيروسات لتخفيض الحمل الفيروسي."
+        },
+        {
+          "q": "هل يكشف الفحص قبل الزواج عن جميع الأمراض الوراثية؟",
+          "a": "لا. يغطي الفحص الحالي اضطرابات الدم الشائعة وبعض الأمراض المعدية. لا يشمل أمراضاً كمتلازمة داون أو التليف الكيسي (إلا في قطر والبحرين تحديداً) أو حمى البحر المتوسط العائلية أو معظم الأمراض أحادية الجين الأخرى. إذا كان في الأسرة تاريخ لمرض وراثي آخر، تُوصى باستشارة طبيب وراثة طبية بشكل منفصل."
+        },
+        {
+          "q": "ما الفرق بين تحليل الحامل وتحليل ما قبل الولادة؟",
+          "a": "تحليل الحامل يُجرى قبل الزواج أو الإنجاب ويفحص الحمض النووي للوالدين للكشف عن حمل جين متنحٍّ. أما التحليل ما قبل الولادة الذي يُجرى خلال الحمل بأخذ عينة من الزغابات المشيمية أو السائل الأمنيوسي، فيفحص الحمض النووي للجنين النامي ليُحدد أي تركيبة جينية ورثها. الفحص قبل الزواج يُحدد الخطر، والفحص قبل الولادة يُخبرك بما حدث فعلاً في هذا الحمل تحديداً."
+        }
+      ]
+    }
+  }
+}

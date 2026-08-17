@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+
+# Screenshots taken while checking layouts. They live at the repo root, which
+# is the web root, so anything left here gets served publicly.
+/hub_top.png
+/pg_*.png
+
+# Old-domain landing sites. Separate repos with their own Static Web Apps,
+# they just happen to sit in this folder. Never ship them inside sihtak.com.
+/fahsak-co-uk/
+/fahsak-com/

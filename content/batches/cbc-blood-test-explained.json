@@ -1,0 +1,473 @@
+{
+  "slug": "cbc-blood-test-explained",
+  "category": "lab-tests",
+  "chip_ar": "فهم التحاليل",
+  "chip_en": "Understanding Lab Tests",
+  "date_iso": "2026-07-02",
+  "sources": [
+    {
+      "label": "WHO: Haemoglobin concentrations for the diagnosis of anaemia and assessment of severity, 2011",
+      "url": "https://www.who.int/publications/i/item/WHO-NMH-NHD-MNM-11.1"
+    },
+    {
+      "label": "Kassebaum NJ et al: Global, regional, and national prevalence of anaemia by haemoglobin concentration, Lancet Global Health, 2016",
+      "url": "https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(16)30126-7/fulltext"
+    },
+    {
+      "label": "Al-Quaiz JM: Iron deficiency anemia. A study of risk factors, Saudi medical journal, 2001",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11426238/"
+    },
+    {
+      "label": "Braat S, Fielding KL, Han J et al: Haemoglobin thresholds to define anaemia from age 6 months to 65 years: estimates from international data sources, The Lancet. Haematology, 2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38432242/"
+    },
+    {
+      "label": "Alquaiz AM, Gad Mohamed A, Khoja TA et al: Prevalence of anemia and associated factors in child bearing age women in riyadh, saudi arabia, Journal of nutrition and metabolism, 2013",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24205435/"
+    },
+    {
+      "label": "NHS: Blood tests, NHS UK",
+      "url": "https://www.nhs.uk/conditions/blood-tests/"
+    }
+  ],
+  "content": {
+    "ar": {
+      "title": "صورة الدم الكاملة (CBC): ماذا يعني كل سطر؟",
+      "desc": "شرح مبسط لكل اختصار في ورقة صورة الدم الكاملة: WBC وRBC وHGB وHCT وMCV وMCH وPLT، ومتى تكون النتيجة طبيعية، ومتى تراجع الطبيب.",
+      "keywords": "صورة الدم الكاملة, تحليل CBC, هيموغلوبين طبيعي, كريات الدم البيضاء, الصفائح الدموية, فقر الدم, MCV منخفض, WBC مرتفع, تحليل الدم, نتيجة CBC طبيعية",
+      "h1": "صورة الدم الكاملة (CBC): دليلك لفهم كل سطر في ورقة النتيجة",
+      "takeaways": [
+        "صورة الدم الكاملة تقيس ثلاث مجموعات رئيسية: كريات الدم الحمراء المسؤولة عن نقل الأكسجين، وكريات الدم البيضاء المسؤولة عن المناعة، والصفائح الدموية المسؤولة عن التخثر.",
+        "الهيموغلوبين (HGB) هو أهم قيمة للكشف عن فقر الدم، وتختلف حدوده الطبيعية بين الرجال والنساء.",
+        "MCV يخبر طبيبك عن حجم كريات الدم الحمراء، وهذا يساعد في تحديد سبب فقر الدم: نقص الحديد أم نقص فيتامين ب12 أم غير ذلك.",
+        "ارتفاع كريات الدم البيضاء (WBC) يشير عادة إلى عدوى أو التهاب، لكن السبب الدقيق يحتاج إلى تقييم طبي.",
+        "رقم واحد خارج النطاق لا يعني بالضرورة مشكلة خطيرة، فالطبيب ينظر إلى النتائج مجتمعة مع أعراضك وتاريخك الطبي."
+      ],
+      "sections": [
+        {
+          "h2": "ما هي صورة الدم الكاملة ولماذا يطلبها الطبيب؟",
+          "paras": [
+            "صورة الدم الكاملة، التي تُعرف بالإنجليزية باختصار CBC (Complete Blood Count)، هي أكثر تحاليل الدم طلباً في العالم، وهي نقطة البداية في معظم الفحوصات الطبية الروتينية وحالات الطوارئ على حد سواء. تُعطي الطبيب لمحة سريعة عن صحة دمك من خلال عد وقياس مكوناته الثلاثة الرئيسية.",
+            "يطلب الطبيب هذا التحليل في حالات كثيرة: للكشف عن فقر الدم عند شعورك بالتعب والدوار، ولتشخيص العدوى عند ارتفاع الحرارة، ولمتابعة تأثير الأدوية على الدم، أو كجزء من الفحص الدوري السنوي. الأمر البسيط هو أن دمك يحمل معلومات كثيرة عن صحة جسمك بالكامل.",
+            "التحليل لا يحتاج صياماً مسبقاً في الغالب، ولا يستغرق سحب العينة أكثر من دقيقتين. النتائج تصل عادة في نفس اليوم أو في غضون ساعات. تكلفته منخفضة وهو متاح في كل المختبرات الخاصة والحكومية في المنطقة، مما يجعله الخطوة الأولى في أي تقييم طبي بسيط."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "كيف يُؤخذ تحليل CBC",
+            "items": [
+              "لا حاجة للصيام قبل التحليل في معظم الحالات",
+              "تُسحب عينة دم صغيرة من وريد الذراع بإبرة دقيقة",
+              "تُوضع العينة في أنبوب خاص يحتوي على مادة تمنع التخثر",
+              "يُحلل الجهاز العينة ويعد خلايا الدم المختلفة تلقائياً",
+              "تصدر النتائج عادة خلال ساعات في نفس اليوم"
+            ]
+          }
+        },
+        {
+          "h2": "كريات الدم الحمراء: RBC وHGB وHCT",
+          "paras": [
+            "كريات الدم الحمراء (RBC) هي الخلايا المسؤولة عن نقل الأكسجين من رئتيك إلى كل خلية في جسمك. تحتوي على بروتين يُسمى الهيموغلوبين (HGB) يرتبط بالأكسجين ويُعطي الدم لونه الأحمر. عندما تنخفض هذه الكريات أو تنخفض كمية الهيموغلوبين، يُصاب الشخص بفقر الدم.",
+            "الهيموغلوبين هو القيمة الأهم في هذا القسم من التحليل. تختلف القيم الطبيعية بين الرجال والنساء لأسباب فسيولوجية، وتختلف أيضاً عند الحوامل وصغار السن. دراسة نُشرت في مجلة Lancet Haematology عام 2024 بقيادة Braat وزملائه حللت بيانات دولية واسعة لتحديد عتبات الهيموغلوبين الطبيعية عبر مختلف الأعمار، وأكدت أن التعريف يجب أن يأخذ العمر والجنس في الاعتبار.",
+            "الهيماتوكريت (HCT) هو نسبة مئوية تُعبّر عن حجم كريات الدم الحمراء بالنسبة للحجم الكلي للدم. يرتفع وينخفض مع الهيموغلوبين عادةً، وقد يرتفع وحده عند الجفاف الشديد لأن الدم يتركز. بعض مختبرات المنطقة لا تذكر HCT بشكل صريح وتكتفي بـ HGB لأن المعلومة تكاد تكون متطابقة."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "المعدلات الطبيعية لكريات الدم الحمراء",
+            "head": ["القيمة", "الاختصار", "الطبيعي للرجال", "الطبيعي للنساء"],
+            "rows": [
+              ["الهيموغلوبين", "HGB", "13.5 - 17.5 g/dL", "12.0 - 15.5 g/dL"],
+              ["عدد الكريات الحمراء", "RBC", "4.5 - 5.9 مليون/ميكرولتر", "4.1 - 5.1 مليون/ميكرولتر"],
+              ["الهيماتوكريت", "HCT", "41% - 53%", "36% - 46%"]
+            ],
+            "source": "WHO Haemoglobin concentrations for diagnosis of anaemia, 2011"
+          }
+        },
+        {
+          "h2": "هل هيموغلوبينك في النطاق الطبيعي؟",
+          "paras": [
+            "الهيموغلوبين هو المقياس الرئيسي لتشخيص فقر الدم. منظمة الصحة العالمية تُعرّف فقر الدم بانخفاض الهيموغلوبين عن 13 g/dL عند الرجال البالغين وعن 12 g/dL عند النساء غير الحوامل. عند الحوامل يكون الحد 11 g/dL.",
+            "فقر الدم شائع جداً في منطقتنا. دراسة نُشرت عام 2013 في مجلة Journal of Nutrition and Metabolism بقيادة Alquaiz وزملائها وجدت أن ما يقارب ربع النساء في سن الإنجاب في الرياض يعانين من فقر الدم، وأن نقص الحديد هو السبب الأكثر شيوعاً. كذلك وجدت دراسة Al-Quaiz المنشورة في Saudi Medical Journal عام 2001 معدلات مرتفعة من نقص الحديد بين النساء في مراكز الرعاية الأولية بالرياض.",
+            "أعراض فقر الدم تشمل: التعب والإرهاق غير المبرر، الدوار عند الوقوف، شحوب الوجه والشفاه، ضيق النفس عند بذل جهد بسيط، والصداع المتكرر. لكن بعض الأشخاص لا يشعرون بأعراض حتى مع انخفاض ملحوظ في الهيموغلوبين، مما يُبرز أهمية التحليل الدوري. نتيجة حدية يعني قيمة قريبة من الحد الطبيعي السفلي، مثل هيموغلوبين 12.1 g/dL عند امرأة، لا تتطلب علاجاً فورياً لكنها تستدعي مراجعة النظام الغذائي وإعادة التحليل بعد أشهر."
+          ],
+          "visual": {
+            "type": "range-scale",
+            "title": "مستوى الهيموغلوبين عند النساء",
+            "label": "HGB",
+            "unit": "g/dL",
+            "min": 6,
+            "max": 18,
+            "zones": [
+              {"to": 8, "tone": "bad", "label": "فقر شديد"},
+              {"to": 12, "tone": "warn", "label": "فقر الدم"},
+              {"to": 15.5, "tone": "good", "label": "طبيعي"},
+              {"to": 18, "tone": "warn", "label": "مرتفع"}
+            ],
+            "source": "WHO Haemoglobin concentrations for diagnosis of anaemia, 2011",
+            "source_url": "https://www.who.int/publications/i/item/WHO-NMH-NHD-MNM-11.1"
+          }
+        },
+        {
+          "h2": "MCV وMCH: يخبرانك لماذا أنت مصاب بفقر الدم",
+          "paras": [
+            "حين يجد الطبيب أن هيموغلوبينك منخفض، يُوجّهه حجم الكرية (MCV) وكمية الهيموغلوبين في كل كرية (MCH) نحو السبب. هذان الرقمان يُفرّقان بين أنواع فقر الدم المختلفة دون الحاجة فوراً إلى تحاليل إضافية.",
+            "MCV منخفض يعني كريات صغيرة الحجم، وهذا أكثر ما يحدث في نقص الحديد أو بعض أمراض الدم الوراثية مثل الثلاسيميا. الثلاسيميا شائعة جداً في المنطقة، وقد يحمل الشخص صفتها الجينية دون أعراض لكن مع MCV منخفض باستمرار. أما MCV مرتفع فيعني كريات كبيرة، وهذا يحدث في نقص فيتامين ب12 أو فيتامين الفوليك أسيد. عندما يكون MCV طبيعياً رغم انخفاض الهيموغلوبين، قد يشير ذلك إلى فقر دم الأمراض المزمنة أو قصور الكلى.",
+            "MCH هو متوسط كمية الهيموغلوبين في الكرية الواحدة. ينخفض مع MCV عادةً في نقص الحديد، ويُستخدم للتحقق من النتيجة وتأكيدها. الطبيب لا يقرر وصف مكملات الحديد بناءً على MCV وحده بل يطلب تحليل الفيريتين والحديد لتأكيد السبب."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "ماذا يعني MCV في تشخيص فقر الدم؟",
+            "head": ["MCV", "ماذا يشير؟", "السبب الأكثر احتمالاً"],
+            "rows": [
+              ["منخفض (أقل من 80 fL)", "كريات صغيرة", "نقص الحديد أو الثلاسيميا"],
+              ["طبيعي (80 - 100 fL)", "كريات حجمها عادي", "فقر دم الأمراض المزمنة أو قصور الكلى"],
+              ["مرتفع (أكثر من 100 fL)", "كريات كبيرة", "نقص فيتامين ب12 أو حمض الفوليك"]
+            ]
+          }
+        },
+        {
+          "h2": "كريات الدم البيضاء (WBC): جيش المناعة",
+          "paras": [
+            "كريات الدم البيضاء (WBC) هي خلايا الجهاز المناعي التي تدافع عن جسمك ضد الجراثيم والعدوى. المعدل الطبيعي عند البالغين يتراوح بين 4,000 و11,000 خلية في الميكرولتر. ارتفاع هذا الرقم يُسمى كثرة الكريات البيضاء، وانخفاضه يُسمى قلة الكريات البيضاء.",
+            "النتيجة الأهم في قسم WBC ليست المجموع الكلي وحده، بل التوزيع التفصيلي للأنواع المختلفة. النوع الرئيسي هو العدلات (Neutrophils)، وارتفاعها يشير عادةً إلى عدوى بكتيرية. ارتفاع الخلايا الليمفاوية (Lymphocytes) يحدث أكثر في العدوى الفيروسية. ارتفاع الحمضات (Eosinophils) قد يشير إلى حساسية أو طفيليات، وهذا سبب شائع في المنطقة.",
+            "ارتفاع WBC لوحده لا يعني بالضرورة عدوى خطيرة. يمكن أن يرتفع مؤقتاً بسبب الإجهاد الشديد، أو بعد الرياضة المكثفة، أو أثناء الحمل، أو نتيجة بعض الأدوية مثل الكورتيزون. الطبيب هو من يضع هذا الرقم في سياقه الصحيح."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "راجع الطبيب بسرعة إذا كان WBC",
+            "items": [
+              "أقل من 2,000 خلية/ميكرولتر، خاصةً مع حمى أو عدوى متكررة",
+              "أكثر من 30,000 خلية/ميكرولتر دون سبب واضح مثل التهاب حاد",
+              "مصحوباً بكدمات غير مفسرة أو نزيف أو تضخم في الغدد الليمفاوية",
+              "مرتفعاً بشكل متواصل في تحاليل متعددة على مدى أسابيع"
+            ]
+          }
+        },
+        {
+          "h2": "الصفائح الدموية (PLT): مفتاح التخثر والنزيف",
+          "paras": [
+            "الصفائح الدموية (PLT) هي أصغر مكونات الدم، وهي المسؤولة عن وقف النزيف عند تلف الأوعية الدموية. تتجمع في موقع الجرح وتُشكّل الجلطة الأولى التي تسد الجرح. المعدل الطبيعي يتراوح بين 150,000 و400,000 صفيحة في الميكرولتر.",
+            "انخفاض الصفائح (قلة الصفيحات) يمكن أن يتسبب في ميل غير طبيعي للنزيف أو ظهور كدمات بسهولة. يحدث في حالات كثيرة منها: بعض العدوى الفيروسية، وفيروس حمى الضنك (الدنجي) الذي ينتشر في المنطقة، واستخدام بعض الأدوية، أو أمراض المناعة الذاتية. ارتفاع الصفائح يحدث أحياناً بعد الجراحة أو في حالات الالتهاب المزمن.",
+            "قيمة PLT منخفضة في ورقة النتيجة تستحق الانتباه، لكنها لا تعني ذعراً فورياً. كثير من الحالات بسيطة وتتحسن من تلقاء نفسها. الطبيب يقرر إذا كانت تحتاج متابعة بناءً على مستواها ووجود أعراض. نتيجة حدية بين 100,000 و150,000 تستدعي إعادة التحليل بعد أسبوعين وليس تدخلاً طارئاً في الغالب."
+          ],
+          "visual": {
+            "type": "range-scale",
+            "title": "مستوى الصفائح الدموية (PLT)",
+            "label": "PLT",
+            "unit": "ألف/ميكرولتر",
+            "min": 0,
+            "max": 600,
+            "zones": [
+              {"to": 50, "tone": "bad", "label": "خطر نزيف"},
+              {"to": 150, "tone": "warn", "label": "منخفض"},
+              {"to": 400, "tone": "good", "label": "طبيعي"},
+              {"to": 600, "tone": "warn", "label": "مرتفع"}
+            ],
+            "source": "NHS: Blood tests, NHS UK"
+          }
+        },
+        {
+          "h2": "جدول مرجعي: كل اختصار في صورة الدم",
+          "paras": [
+            "ورقة نتيجة CBC تأتي أحياناً بأرقام كثيرة قد تبدو مربكة. الجدول أدناه يُلخص أهم الاختصارات ومعانيها ونطاقاتها الطبيعية لمساعدتك على قراءة ورقتك. تذكر أن القيمة المرجعية على ورقتك هي الأدق لأنها تعتمد على معايرة الجهاز في المختبر الذي أجريت فيه التحليل.",
+            "بعض المختبرات تذكر وحدات مختلفة أو نطاقات مرجعية مختلفة قليلاً، لأن المعايير تختلف بين أجهزة التحليل. لا تقلق إذا كانت الأرقام المرجعية على ورقتك تختلف قليلاً عما تجده في مواقع الإنترنت، الأهم هو مقارنة نتيجتك بالنطاق المكتوب على نفس الورقة.",
+            "إذا أجريت تحليلاً في مختبر مختلف للمقارنة، أخبر طبيبك بذلك. الأجهزة المختلفة تُعطي أحياناً قيماً مختلفة قليلاً على نفس العينة، وهذا أمر معروف علمياً وليس خطأ."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "دليل اختصارات صورة الدم الكاملة",
+            "head": ["الاختصار", "الاسم الكامل", "ما الذي يقيسه؟"],
+            "rows": [
+              ["WBC", "White Blood Cells", "إجمالي كريات الدم البيضاء (المناعة)"],
+              ["RBC", "Red Blood Cells", "عدد كريات الدم الحمراء"],
+              ["HGB", "Haemoglobin", "كمية الهيموغلوبين الناقل للأكسجين"],
+              ["HCT", "Haematocrit", "نسبة الكريات الحمراء من حجم الدم الكلي"],
+              ["MCV", "Mean Corpuscular Volume", "متوسط حجم الكرية الحمراء الواحدة"],
+              ["MCH", "Mean Corpuscular Haemoglobin", "متوسط الهيموغلوبين في كل كرية"],
+              ["PLT", "Platelets", "الصفائح الدموية المسؤولة عن التخثر"],
+              ["NEUT", "Neutrophils", "العدلات، أهم خلايا المناعة ضد البكتيريا"],
+              ["LYMPH", "Lymphocytes", "الخلايا الليمفاوية، مهمة في العدوى الفيروسية"],
+              ["EOS", "Eosinophils", "الحمضات، ترتفع في الحساسية والطفيليات"]
+            ]
+          }
+        },
+        {
+          "h2": "هل تختلف نتائج CBC بين المختبرات وبين الدول؟",
+          "paras": [
+            "سؤال يسمعه الأطباء كثيراً: ماذا أصنع إذا كانت نتيجتي من مختبرين مختلفين مختلفتين؟ الجواب البسيط هو أن الأجهزة المختلفة لها معايرة مختلفة، وهذا فرق ضيق لكنه حقيقي. الفارق عادةً صغير ولا يُغير القرار الطبي، لكن إذا كانت نتيجتك تقع قريبة من حد النطاق، فقد يبدو أنك مريض في مختبر وطبيعي في آخر.",
+            "لهذا السبب يُنصح بمتابعة تحاليلك في نفس المختبر كلما أمكن، خاصةً إذا كنت تتابع حالة مزمنة مثل فقر الدم أو قلة الصفيحات. تاريخ القيم عبر الزمن أكثر أهمية من رقم واحد معزول.",
+            "أما الاختلاف بين دول مختلفة فهو أكبر نسبياً. القيم المرجعية التي تجدها في مواقع أمريكية أو بريطانية قد تختلف عما تطبعه المختبرات في سوريا أو مصر أو السعودية، ليس لأن أحدهما خطأ، بل لأن المعايير البيولوجية تتأثر بعوامل مثل العرق والارتفاع عن سطح البحر والنظام الغذائي. الأساس دائماً هو ورقة نتيجتك."
+          ]
+        },
+        {
+          "h2": "متى تتصل بالطبيب فوراً وليس في الموعد العادي؟",
+          "paras": [
+            "معظم نتائج CBC التي تخرج عن النطاق الطبيعي قليلاً لا تستدعي ذعراً، والطبيب يقيّمها في الموعد الاعتيادي. لكن توجد حالات معينة تستحق الاتصال في نفس اليوم أو التوجه لطوارئ أقرب مستشفى.",
+            "فقر الدم الشديد جداً قد يُسبب خفقان القلب وضيق النفس حتى في الراحة، وهذا يحتاج تقييماً عاجلاً. انخفاض الصفائح الحاد إلى ما دون 20,000 يرفع خطر النزيف الداخلي الخطير. أما ارتفاع WBC الشديد جداً مع تضخم الغدد والحمى، فقد يشير إلى أمراض تحتاج تشخيصاً سريعاً."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "توجه للطوارئ إذا رافق نتيجتك",
+            "items": [
+              "ضيق نفس شديد أو خفقان قلب مع HGB أقل من 7 g/dL",
+              "نزيف لا يتوقف أو كدمات تنتشر بسرعة مع PLT منخفضة",
+              "حمى مع قشعريرة وWBC منخفض جداً أو مرتفع جداً",
+              "صداع شديد مفاجئ أو تشوش في الوعي مع أي نتيجة شاذة"
+            ]
+          }
+        }
+      ],
+      "tie": "تطبيق صحتك يُتيح لك حفظ نتائج صورة الدم بالكامل مع تاريخ التحليل ومقارنتها بنتائج سابقة، حتى تتابع مسار هيموغلوبينك أو صفائحك عبر الوقت وتُري طبيبك الصورة الكاملة. المساعد الذكي يشرح لك معنى أي اختصار تكتبه بلغة بسيطة دون أن يُشخّص أو يحل محل الطبيب.",
+      "faqs": [
+        {
+          "q": "هل يحتاج تحليل CBC للصيام المسبق؟",
+          "a": "لا يحتاج CBC عادةً إلى صيام. الصيام مطلوب لتحاليل السكر والدهون وليس لصورة الدم الكاملة. إذا طلب الطبيب عدة تحاليل في نفس الوقت، اسأله إذا كان الصيام مطلوباً للمجموعة كلها."
+        },
+        {
+          "q": "ما الفرق بين HGB وHCT؟",
+          "a": "الهيموغلوبين (HGB) يقيس الكمية الفعلية للبروتين الناقل للأكسجين في الدم بوحدة الغرام. الهيماتوكريت (HCT) يقيس نسبة حجم الكريات الحمراء من إجمالي حجم الدم كنسبة مئوية. كلاهما يرتفعان وينخفضان معاً عادةً، ويُستخدمان معاً لتأكيد نتيجة فقر الدم."
+        },
+        {
+          "q": "WBC مرتفع عندي لكن لا أشعر بأي أعراض، هل هذا مقلق؟",
+          "a": "ارتفاع WBC بسيط دون أعراض قد يكون مؤقتاً بسبب التوتر أو النشاط البدني أو الدواء. الطبيب يقيّم المستوى وإذا كان الارتفاع معتدلاً قد يطلب إعادة التحليل بعد أسابيع. ارتفاع شديد أو مستمر يحتاج تحقيقاً أعمق."
+        },
+        {
+          "q": "هل MCV منخفض يعني أنني بحاجة إلى حديد؟",
+          "a": "MCV المنخفض يشير إلى كريات صغيرة، وأكثر أسبابه شيوعاً هو نقص الحديد، لكنه قد يحدث أيضاً في الثلاسيميا. الطبيب يطلب تحليل الحديد والفيريتين لتأكيد السبب قبل وصف مكملات الحديد."
+        },
+        {
+          "q": "هل يمكن أن تكون نتائج CBC طبيعية وأنا مريض؟",
+          "a": "نعم، CBC لا يكشف كل الأمراض. بعض حالات العدوى الفيروسية، والأمراض الروماتيزمية، وبعض أمراض الكلى قد تظهر بصورة دم طبيعية في مراحلها الأولى. الأعراض التي تشعر بها مهمة بقدر الأرقام، وأحياناً يحتاج الطبيب تحاليل إضافية لاستكمال الصورة."
+        },
+        {
+          "q": "هل اختلاف النتيجة بين مختبرين يعني أن أحدهما مخطئ؟",
+          "a": "ليس بالضرورة. أجهزة المختبرات المختلفة لها معايرة مختلفة وقد تُعطي قيماً مختلفة قليلاً للعينة نفسها. لهذا يُفضّل متابعة نتائجك في نفس المختبر كلما أمكن، وإذا اضطررت للتحليل في مكان آخر فأخبر طبيبك بذلك."
+        },
+        {
+          "q": "هل الحامل لها معدلات طبيعية مختلفة في CBC؟",
+          "a": "نعم. خلال الحمل يزيد حجم الدم طبيعياً مما يُخفّف تركيز الهيموغلوبين. لذلك تُستخدم قيم مرجعية مختلفة للحامل، وتُعرّف منظمة الصحة العالمية فقر دم الحمل بهيموغلوبين أقل من 11 g/dL وليس 12 g/dL كما في النساء غير الحوامل."
+        }
+      ]
+    },
+    "en": {
+      "title": "CBC Blood Test: What Every Line on the Report Means",
+      "desc": "A plain guide to every abbreviation on your CBC report: WBC, RBC, HGB, HCT, MCV, MCH and PLT, with normal ranges, what falls outside them, and when to call your doctor.",
+      "keywords": "CBC blood test, complete blood count, haemoglobin normal range, white blood cell count, platelets, anaemia, low MCV, high WBC, blood test results, CBC explained",
+      "h1": "CBC Blood Test: A Clear Guide to Every Number on Your Report",
+      "takeaways": [
+        "A CBC measures three main groups: red blood cells that carry oxygen, white blood cells that fight infection, and platelets that stop bleeding.",
+        "Haemoglobin (HGB) is the most important value for detecting anaemia, and the normal range differs between men and women.",
+        "MCV tells your doctor the size of your red cells, which points toward the cause of anaemia: iron deficiency, vitamin B12 shortage or something inherited.",
+        "A raised white cell count usually signals infection or inflammation, but the exact cause needs a clinical assessment.",
+        "One number outside the normal range does not on its own mean a serious problem. Your doctor reads all results together alongside your symptoms and history."
+      ],
+      "sections": [
+        {
+          "h2": "What is a CBC and why does your doctor order it?",
+          "paras": [
+            "The complete blood count, or CBC, is the most frequently ordered blood test in the world and the first thing most doctors reach for whether you are having a routine check or walking into an emergency room. It gives a rapid overview of blood health by counting and measuring its three main components.",
+            "Your doctor may order it to investigate tiredness and dizziness that suggest anaemia, to look for infection when you have a fever, to check how a medicine is affecting your blood, or simply as part of a yearly health screen. Blood carries an enormous amount of information about the whole body in a very small sample.",
+            "You do not need to fast before a CBC in most cases, the blood draw takes about two minutes, and results usually come back the same day. In most clinics and laboratories across the region the cost is low, making it a practical first step whenever something seems off."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "How the CBC is taken",
+            "items": [
+              "No fasting needed in most cases",
+              "A small blood sample is drawn from a vein in your arm",
+              "The sample goes into a tube containing an anti-clotting agent",
+              "An automated analyser counts and measures each cell type",
+              "Results are usually ready within hours on the same day"
+            ]
+          }
+        },
+        {
+          "h2": "Red blood cells: RBC, HGB and HCT",
+          "paras": [
+            "Red blood cells (RBC) carry oxygen from your lungs to every cell in the body. They contain a protein called haemoglobin (HGB) that binds oxygen and gives blood its red colour. When there are too few red cells or the haemoglobin inside them is low, the result is anaemia.",
+            "Haemoglobin is the single most important number in this section of the report. The normal range differs between men and women for physiological reasons, and also differs in pregnant women and children. A 2024 study in The Lancet Haematology by Braat and colleagues analysed international data across age groups to define haemoglobin thresholds, confirming that any cut-off must account for age and sex rather than applying a single universal value.",
+            "Haematocrit (HCT) is a percentage expressing the proportion of the blood volume made up of red cells. It tends to rise and fall alongside haemoglobin, and it may rise alone during severe dehydration because the blood becomes concentrated. Some laboratories in the region report only haemoglobin, which carries essentially the same clinical message."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Normal ranges for red blood cell measures",
+            "head": ["Value", "Abbreviation", "Normal for men", "Normal for women"],
+            "rows": [
+              ["Haemoglobin", "HGB", "13.5 - 17.5 g/dL", "12.0 - 15.5 g/dL"],
+              ["Red blood cell count", "RBC", "4.5 - 5.9 million/µL", "4.1 - 5.1 million/µL"],
+              ["Haematocrit", "HCT", "41% - 53%", "36% - 46%"]
+            ],
+            "source": "WHO Haemoglobin concentrations for diagnosis of anaemia, 2011"
+          }
+        },
+        {
+          "h2": "Where does your haemoglobin sit?",
+          "paras": [
+            "Haemoglobin is the main measure used to diagnose anaemia. The WHO defines anaemia as haemoglobin below 13 g/dL in adult men and below 12 g/dL in non-pregnant women. In pregnant women the threshold falls to 11 g/dL.",
+            "Anaemia is very common across the Middle East. A 2013 study published in the Journal of Nutrition and Metabolism, led by Alquaiz and colleagues in Riyadh, found that nearly a quarter of women of child-bearing age in the capital had anaemia, with iron deficiency as the dominant cause. A 2001 study by Al-Quaiz in the Saudi Medical Journal documented similar patterns in women attending primary care centres in Riyadh. A borderline result, meaning a haemoglobin just above the lower limit of normal, does not usually need immediate treatment but warrants a dietary review and a repeat test after a few months.",
+            "Symptoms of anaemia include unexplained tiredness and fatigue, dizziness on standing, pale skin and lips, shortness of breath on mild exertion, and frequent headaches. Some people feel no symptoms at all even with a meaningfully low haemoglobin, which is why the test catches cases that would otherwise be missed."
+          ],
+          "visual": {
+            "type": "range-scale",
+            "title": "Haemoglobin level in women",
+            "label": "HGB",
+            "unit": "g/dL",
+            "min": 6,
+            "max": 18,
+            "zones": [
+              {"to": 8, "tone": "bad", "label": "Severe anaemia"},
+              {"to": 12, "tone": "warn", "label": "Anaemia"},
+              {"to": 15.5, "tone": "good", "label": "Normal"},
+              {"to": 18, "tone": "warn", "label": "High"}
+            ],
+            "source": "WHO Haemoglobin concentrations for diagnosis of anaemia, 2011",
+            "source_url": "https://www.who.int/publications/i/item/WHO-NMH-NHD-MNM-11.1"
+          }
+        },
+        {
+          "h2": "MCV and MCH: telling you why you are anaemic",
+          "paras": [
+            "When your doctor finds a low haemoglobin, the mean corpuscular volume (MCV) and mean corpuscular haemoglobin (MCH) point toward the cause. These two numbers distinguish between the main types of anaemia without needing additional tests immediately.",
+            "A low MCV means small red cells, which is most often caused by iron deficiency or, in this region, by inherited conditions such as thalassaemia minor. Thalassaemia minor is very common across the Levant, Iraq, Egypt and the Gulf, and someone who carries the trait may have a persistently low MCV without feeling unwell. A high MCV means abnormally large cells, which happens in vitamin B12 or folate deficiency. When MCV is normal despite low haemoglobin, the picture often fits anaemia of chronic disease, such as that seen in chronic kidney disease or ongoing inflammation.",
+            "MCH, the average amount of haemoglobin packed into each cell, usually falls alongside MCV in iron deficiency. It serves as a cross-check to confirm the pattern the MCV is showing. Your doctor will order an iron panel including ferritin before recommending iron supplements, because giving iron when thalassaemia is the cause is unhelpful."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "What MCV tells you about the cause of anaemia",
+            "head": ["MCV", "What it indicates", "Most likely cause"],
+            "rows": [
+              ["Low (below 80 fL)", "Small red cells", "Iron deficiency or thalassaemia"],
+              ["Normal (80 - 100 fL)", "Normal cell size", "Anaemia of chronic disease or kidney failure"],
+              ["High (above 100 fL)", "Large red cells", "Vitamin B12 or folate deficiency"]
+            ]
+          }
+        },
+        {
+          "h2": "White blood cells (WBC): your immune army",
+          "paras": [
+            "White blood cells (WBC) are the immune cells that defend the body against germs and infection. The normal count in adults is roughly 4,000 to 11,000 per microlitre. A count above this is called leucocytosis and below it is called leucopenia.",
+            "The most useful information is not the total count alone but the differential, which breaks WBC down by type. Neutrophils make up most of the total and rise sharply in bacterial infections. Lymphocytes are more important in viral illness and in immune responses. Eosinophils rise in allergies and parasitic infections, both of which are common causes of a mildly raised eosinophil count in this region.",
+            "A mildly elevated WBC without symptoms is not always alarming. It can rise temporarily after intense exercise, during pregnancy, from stress, or as a side effect of corticosteroids. Your doctor puts the number in context with how you feel and what else the report shows."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "See a doctor the same day if your WBC is",
+            "items": [
+              "Below 2,000 per microlitre, especially if you have a fever or repeated infections",
+              "Above 30,000 per microlitre without an obvious cause such as an acute infection",
+              "Accompanied by unexplained bruising, bleeding or swollen lymph nodes",
+              "Persistently abnormal across two or more tests over several weeks"
+            ]
+          }
+        },
+        {
+          "h2": "Platelets (PLT): the clotting key",
+          "paras": [
+            "Platelets (PLT) are the smallest components of blood and the first responders when a blood vessel is damaged. They clump together at the site of a wound to form the initial plug that stops bleeding. The normal range is roughly 150,000 to 400,000 per microlitre.",
+            "A low platelet count, called thrombocytopenia, can cause unusual bruising or bleeding that does not stop easily. It occurs in several conditions common in the region: dengue fever is a well-documented cause of platelet drops, as are certain viral infections, autoimmune conditions and some medications. A raised count often follows surgery or occurs in chronic inflammatory conditions and is usually less concerning.",
+            "A low PLT on a report deserves attention but does not always mean urgent action. A borderline result between 100,000 and 150,000 often warrants a repeat test in two weeks rather than an emergency assessment. Your doctor will decide whether follow-up is needed based on how low the number is and whether you have any symptoms of bleeding."
+          ],
+          "visual": {
+            "type": "range-scale",
+            "title": "Platelet count (PLT)",
+            "label": "PLT",
+            "unit": "thousand/µL",
+            "min": 0,
+            "max": 600,
+            "zones": [
+              {"to": 50, "tone": "bad", "label": "Bleeding risk"},
+              {"to": 150, "tone": "warn", "label": "Low"},
+              {"to": 400, "tone": "good", "label": "Normal"},
+              {"to": 600, "tone": "warn", "label": "High"}
+            ],
+            "source": "NHS: Blood tests, NHS UK"
+          }
+        },
+        {
+          "h2": "A quick reference: every abbreviation on the CBC",
+          "paras": [
+            "A CBC report can carry a lot of numbers. The table below summarises the main abbreviations, what each measures and the typical adult normal range. Always compare your result to the reference range printed on your own report, because this is calibrated to the specific analyser used by that laboratory.",
+            "Some laboratories use different units or slightly different reference ranges because analysers vary in their design. If your reference range differs slightly from what you find online, that is normal. What matters is comparing your result to the range on the same sheet of paper.",
+            "If you have been tested at two different laboratories and gotten slightly different results, tell your doctor rather than trying to decide which one is right. Different analysers can produce results a few points apart on the same blood sample, and your doctor will account for this when making a clinical decision."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "CBC abbreviation guide",
+            "head": ["Abbreviation", "Full name", "What it measures"],
+            "rows": [
+              ["WBC", "White Blood Cells", "Total immune cell count"],
+              ["RBC", "Red Blood Cells", "Number of oxygen-carrying red cells"],
+              ["HGB", "Haemoglobin", "Oxygen-carrying protein in red cells"],
+              ["HCT", "Haematocrit", "Percentage of blood volume that is red cells"],
+              ["MCV", "Mean Corpuscular Volume", "Average size of each red cell"],
+              ["MCH", "Mean Corpuscular Haemoglobin", "Average haemoglobin per red cell"],
+              ["PLT", "Platelets", "Clotting cells that stop bleeding"],
+              ["NEUT", "Neutrophils", "Main bacteria-fighting immune cells"],
+              ["LYMPH", "Lymphocytes", "Key cells in viral and immune responses"],
+              ["EOS", "Eosinophils", "Rise in allergies and parasitic infections"]
+            ]
+          }
+        },
+        {
+          "h2": "Does the CBC result differ between labs and between countries?",
+          "paras": [
+            "A question doctors hear regularly: what should I do if my result from two different laboratories is different? Different analysers are calibrated differently, and the gap between them is real, though usually narrow. For a result that sits comfortably inside the normal range, the difference does not matter. If your result is right on the boundary, however, you might read as normal at one laboratory and slightly low at another.",
+            "This is one reason why following your results at the same laboratory is recommended when you are monitoring a chronic condition such as iron deficiency anaemia or a low platelet count. A trend across several tests at the same lab is far more informative than a single number at a new one.",
+            "Reference ranges published on American or British medical websites may differ from those printed at laboratories in Syria, Egypt or Saudi Arabia. This is not because one set is wrong. Normal values are influenced by local factors including ethnic background, altitude and diet. The range printed on your own report is always the correct one to use for comparison."
+          ]
+        },
+        {
+          "h2": "When do you need urgent attention rather than a routine appointment?",
+          "paras": [
+            "Most CBC results that are mildly outside the normal range can wait for a routine appointment. But some situations call for a same-day call to your doctor or a trip to the emergency department.",
+            "Severely low haemoglobin can cause heart palpitations and breathlessness at rest, and that needs urgent assessment. A platelet count that has dropped acutely below around 20,000 raises the risk of spontaneous internal bleeding. A very high WBC with swollen glands and fever may point to conditions that need rapid diagnosis. Trust your symptoms as much as the numbers: if you feel very unwell, seek help regardless of what the report shows."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "Go to an emergency department if your results come with",
+            "items": [
+              "Severe breathlessness or heart palpitations when HGB is below 7 g/dL",
+              "Active bleeding that will not stop or rapidly spreading bruises with a low PLT",
+              "Fever with chills and a WBC that is very low or very high",
+              "Sudden severe headache or confusion alongside any abnormal result"
+            ]
+          }
+        }
+      ],
+      "tie": "The Sihtak app lets you store your full CBC results with the date of each test and compare them side by side, so you can track your haemoglobin or platelet trend over time and show your doctor the full picture at your next visit. The AI assistant explains any abbreviation you type in plain language, without diagnosing or replacing your doctor.",
+      "faqs": [
+        {
+          "q": "Do I need to fast before a CBC?",
+          "a": "No, a CBC does not require fasting. Fasting is needed for glucose and lipid tests, not for a blood count. If your doctor requests several tests at the same visit, ask whether any of the others require it."
+        },
+        {
+          "q": "What is the difference between HGB and HCT?",
+          "a": "Haemoglobin (HGB) measures the actual amount of the oxygen-carrying protein in your blood, expressed in grams per decilitre. Haematocrit (HCT) measures what percentage of your total blood volume is made up of red cells. They tend to rise and fall together and are both used to confirm a diagnosis of anaemia."
+        },
+        {
+          "q": "My WBC is high but I feel fine. Should I worry?",
+          "a": "A mild WBC elevation without symptoms is often temporary, caused by stress, vigorous exercise or certain medications. Your doctor may ask you to repeat the test in a few weeks. A large or persistent elevation warrants investigation to find the cause."
+        },
+        {
+          "q": "Does a low MCV mean I need iron supplements?",
+          "a": "A low MCV suggests small red cells, and iron deficiency is the most common reason, but thalassaemia minor causes the same picture. Your doctor will order an iron panel including ferritin to confirm the cause before recommending supplements, because giving iron when it is not needed is unhelpful."
+        },
+        {
+          "q": "Can a CBC be normal even when I am genuinely ill?",
+          "a": "Yes. Some viral infections, rheumatological conditions and early kidney disease can produce a normal CBC in their initial stages. Your symptoms matter as much as the numbers, and your doctor may need additional tests to complete the picture."
+        },
+        {
+          "q": "My result differs between two laboratories. Which one is right?",
+          "a": "Different analysers are calibrated differently and can produce slightly different readings on the same sample. This is one reason to follow your results in the same laboratory when possible. If you have tested elsewhere, tell your doctor so they can account for any systematic difference."
+        },
+        {
+          "q": "Do normal CBC ranges differ in pregnancy?",
+          "a": "Yes. Blood volume increases significantly during pregnancy, which dilutes the red cell concentration. The WHO defines anaemia in pregnancy as haemoglobin below 11 g/dL rather than the 12 g/dL threshold used for non-pregnant women, and most laboratories print separate reference ranges for pregnant patients."
+        }
+      ]
+    }
+  }
+}

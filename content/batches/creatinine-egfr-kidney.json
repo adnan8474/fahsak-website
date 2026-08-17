@@ -1,0 +1,421 @@
+{
+  "slug": "creatinine-egfr-kidney",
+  "category": "lab-tests",
+  "chip_ar": "فهم التحاليل",
+  "chip_en": "Understanding Lab Tests",
+  "date_iso": "2026-07-08",
+  "sources": [
+    {
+      "label": "Al-Khader AA, Tamim H, Sulaiman MH et al: What is the most appropriate formula to use in estimating glomerular filtration rate in adult Arabs without kidney disease?, Renal failure, 2008",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18300122/"
+    },
+    {
+      "label": "Osman WM, Jelinek HF, Tay GK et al: Clinical and genetic associations of renal function and diabetic kidney disease in the United Arab Emirates: a cross-sectional study, BMJ open, 2018",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30552240/"
+    },
+    {
+      "label": "Al-Ghamdi S, Abu-Alfa A, Alotaibi T et al: Chronic Kidney Disease Management in the Middle East and Africa: Concerns, Challenges, and Novel Approaches, International journal of nephrology and renovascular disease, 2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37051319/"
+    },
+    {
+      "label": "GBD 2023 Chronic Kidney Disease Collaborators: Global, regional, and national burden of chronic kidney disease in adults, 1990-2023, Lancet, 2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41213283/"
+    },
+    {
+      "label": "Baker M, Perazella MA: NSAIDs in CKD: Are They Safe?, American journal of kidney diseases, 2020",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32479922/"
+    },
+    {
+      "label": "LaForge JM, Urso K, Day JM et al: Non-steroidal Anti-inflammatory Drugs: Clinical Implications, Renal Impairment Risks, and AKI, Advances in therapy, 2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36947330/"
+    }
+  ],
+  "content": {
+    "ar": {
+      "title": "الكرياتينين و eGFR: كيف تقرأ وظائف كليتيك",
+      "desc": "دليل مبسط لفهم تحليل الكرياتينين ومعدل الترشيح الكبيبي (eGFR)، وكيف تؤثر الكتلة العضلية على النتيجة، ومراحل الفشل الكلوي، ومتى تستدعي الأرقام التصرف.",
+      "keywords": "الكرياتينين, eGFR, وظائف الكلى, الفشل الكلوي, مراحل الكلى المزمنة, تحليل وظائف الكلى, ارتفاع الكرياتينين, الجفاف والكلى, مسكنات الألم والكلى, CKD, معدل الترشيح الكبيبي",
+      "h1": "الكرياتينين ومعدل الترشيح الكبيبي: ما تعنيه أرقام وظائف كليتيك",
+      "takeaways": [
+        "الكرياتينين مادة نفايات تنتجها العضلات، وارتفاعه في الدم يعني أن الكليتين تعملان بكفاءة أقل في التخلص منه.",
+        "معدل الترشيح الكبيبي (eGFR) أهم من الكرياتينين وحده لأنه يأخذ في الحسبان العمر والجنس والعرق وكتلة الجسم.",
+        "الجفاف في الطقس الحار يرفع الكرياتينين مؤقتاً، فقراءة واحدة مرتفعة لا تعني بالضرورة مرضاً في الكلى.",
+        "مسكنات الألم المضادة للالتهاب (مثل الآيبوبروفين والديكلوفيناك) تضر الكلى عند الاستخدام المنتظم وينبغي تجنبها إن كان eGFR منخفضاً.",
+        "eGFR أقل من 60 لثلاثة أشهر أو أكثر يعني مرض الكلى المزمن ويستدعي متابعة طبية منتظمة."
+      ],
+      "sections": [
+        {
+          "h2": "ما هو الكرياتينين ولماذا تهتم الكلى بإزالته؟",
+          "paras": [
+            "الكرياتينين (Creatinine) مادة كيميائية تنتجها عضلاتك بشكل طبيعي أثناء نشاطها اليومي، وهي ناتج ثانوي عن تحطيم الكرياتين (Creatine) الذي تستخدمه العضلات لإنتاج الطاقة. يمر الكرياتينين إلى الدم ثم تقوم الكليتان بتصفيته وإخراجه مع البول.",
+            "لأن الجسم يُنتج الكرياتينين بمعدل ثابت نسبياً، فإن مستواه في الدم يعكس مدى كفاءة الكليتين في القيام بعملهما. عندما تتراجع كفاءة الكليتين، يبدأ الكرياتينين في التراكم ويرتفع مستواه في الدم. وهذا ما يجعله علامة مفيدة لوظائف الكلى.",
+            "يعتمد مستوى الكرياتينين الطبيعي على كتلتك العضلية، لذا فهو يختلف بين الرجال والنساء وبين الأشخاص ذوي البنيات الجسدية المختلفة. رجل بعضلات متطورة قد يملك كرياتينين طبيعياً في الجانب الأعلى دون أي مشكلة في الكلى، بينما قد تملك امرأة نحيلة كرياتينين طبيعياً في الجانب الأدنى. هذا هو السبب الرئيسي الذي يجعل eGFR أهم من مجرد الرقم الخام."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "المعدلات الطبيعية للكرياتينين في الدم",
+            "head": ["الفئة", "المدى الطبيعي التقريبي (mg/dL)", "ملاحظة"],
+            "rows": [
+              ["الرجال البالغون", "0.7 – 1.3", "يعتمد على الكتلة العضلية"],
+              ["النساء البالغات", "0.5 – 1.1", "أقل لأن الكتلة العضلية أصغر"],
+              ["كبار السن", "أدنى بقليل من المعدل", "تتراجع الكتلة العضلية مع التقدم في السن"],
+              ["الأطفال", "0.3 – 0.7", "يتفاوت حسب العمر والحجم"]
+            ]
+          }
+        },
+        {
+          "h2": "ما هو eGFR ولماذا هو أهم من الكرياتينين؟",
+          "paras": [
+            "معدل الترشيح الكبيبي التقديري (eGFR - estimated Glomerular Filtration Rate) هو حساب رياضي يقدّر كمية الدم التي تُصفيها كليتاك في دقيقة واحدة. تحسبه المختبرات تلقائياً من مستوى الكرياتينين في دمك مع مراعاة عمرك وجنسك.",
+            "قيمة eGFR الطبيعية تكون فوق 90 مليلتر في الدقيقة لكل 1.73 متر مربع من سطح الجسم. القيمة تتراجع تدريجياً مع التقدم في العمر حتى عند الأصحاء، وهذا أمر طبيعي. لذا فإن السياق العمري مهم جداً في تفسير النتيجة.",
+            "نشرت دراسة سعودية عام 2008 في مجلة Renal Failure اختبرت معادلات حساب eGFR المختلفة على عرب أصحاء، ووجدت أن بعض المعادلات المطورة في دراسات غربية قد لا تعكس بدقة وضع السكان العرب الذين تختلف بنيتهم الجسدية وكتلتهم العضلية. هذا يعني أن نتيجتك ينبغي دائماً أن يفسرها طبيب يعرف وضعك الكامل."
+          ],
+          "visual": {
+            "type": "range-scale",
+            "title": "تفسير قيمة eGFR",
+            "label": "eGFR",
+            "unit": "mL/min/1.73m²",
+            "min": 0,
+            "max": 120,
+            "zones": [
+              {"to": 15, "tone": "bad", "label": "فشل كلوي"},
+              {"to": 30, "tone": "bad", "label": "شديد"},
+              {"to": 45, "tone": "warn", "label": "متوسط"},
+              {"to": 60, "tone": "warn", "label": "خفيف-متوسط"},
+              {"to": 90, "tone": "warn", "label": "خفيف"},
+              {"to": 120, "tone": "good", "label": "طبيعي"}
+            ],
+            "source": "KDIGO 2024 Clinical Practice Guideline for CKD"
+          }
+        },
+        {
+          "h2": "مراحل مرض الكلى المزمن وفق eGFR",
+          "paras": [
+            "مرض الكلى المزمن (Chronic Kidney Disease - CKD) يُشخَّص عندما يكون eGFR أقل من 60 لمدة ثلاثة أشهر أو أكثر، أو عندما توجد علامات أخرى على تضرر الكلى كالبروتين في البول. ينقسم إلى خمس مراحل تساعد الأطباء على اتخاذ قرارات العلاج.",
+            "تقرير عام 2023 في مجلة International Journal of Nephrology and Renovascular Disease خلص إلى أن مرض الكلى المزمن يمثل عبئاً متزايداً في منطقة الشرق الأوسط وأفريقيا، مع قصور واضح في الكشف المبكر ووصول محدود لخدمات الغسيل الكلوي في بعض الدول. ومن أبرز الأسباب في المنطقة: السكري وارتفاع ضغط الدم.",
+            "الخبر الجيد أن المراحل الأولى قابلة للتباطؤ بشكل كبير أو للثبات إذا سُيطر على السبب الجذري. المراحل المتأخرة تحتاج تخطيطاً دقيقاً مع طبيب الكلى لتحديد موعد الغسيل الكلوي أو زرع الكلى."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "مراحل مرض الكلى المزمن",
+            "head": ["المرحلة", "قيمة eGFR", "الوصف", "المتابعة المعتادة"],
+            "rows": [
+              ["G1", "90 أو أكثر", "طبيعي مع علامات ضرر", "سنوياً"],
+              ["G2", "60 – 89", "خفيف", "سنوياً"],
+              ["G3a", "45 – 59", "خفيف إلى متوسط", "كل 6 أشهر"],
+              ["G3b", "30 – 44", "متوسط إلى شديد", "كل 3-4 أشهر"],
+              ["G4", "15 – 29", "شديد", "كل 3 أشهر مع طبيب كلى"],
+              ["G5", "أقل من 15", "فشل كلوي", "خطة غسيل أو زرع"]
+            ]
+          }
+        },
+        {
+          "h2": "لماذا يرتفع الكرياتينين مؤقتاً في المناخ الحار؟",
+          "paras": [
+            "الجفاف الناتج عن الحرارة الشديدة أو التمرين المضني يقلل كمية الدم الواصلة إلى الكلى مؤقتاً، فتتراجع كفاءتها في تصفية الكرياتينين دون أن يكون هناك مرض فعلي في الكلى نفسها. هذا ما يسمى بالارتفاع ما قبل الكلوي (pre-renal) للكرياتينين، وهو يختفي تلقائياً حين يعود الترطيب إلى طبيعته.",
+            "في منطقتنا حيث تصل درجات الحرارة صيفاً إلى ما فوق أربعين درجة مئوية، هذا الارتفاع المؤقت شائع جداً. عمال البناء والزراعة الذين يعملون في الخارج لساعات طويلة معرضون بشكل خاص. المسافرون الذين يصومون في رحلات طويلة، وكذلك من يتعرضون للإسهال أو القيء الشديد، كلهم في خطر مؤقت لارتفاع الكرياتينين لا علاقة له بمرض كلوي حقيقي. ارتوِ جيداً قبل إجراء أي تحليل دم، وأخبر الطبيب إذا كنت تعرضت لحرارة شديدة أو جهد كبير في الأيام السابقة.",
+            "إذا جاءت نتيجتك مرتفعة لأول مرة، اطلب من طبيبك إعادة التحليل بعد أيام من الراحة والترطيب الجيد قبل القلق. قراءة واحدة مرتفعة بسبب الجفاف لا تعني بالضرورة مشكلة دائمة في الكلى. في المقابل، إذا كانت القراءة مرتفعة مرتين أو أكثر بفارق أسابيع قليلة، فهذا يستدعي التقييم الطبي الكامل بما يشمل تحليل البول والمتابعة الدورية."
+          ]
+        },
+        {
+          "h2": "الصلة بمسكنات الألم: خطر يجهله كثيرون",
+          "paras": [
+            "مسكنات الألم المضادة للالتهاب غير الستيرويدية (NSAIDs) كالآيبوبروفين والديكلوفيناك والنابروكسين متاحة بدون وصفة طبية في كثير من دول المنطقة. وهي فعّالة للألم قصير الأمد، لكن الاستخدام المنتظم لها يشكّل خطراً جدياً على الكلى.",
+            "مراجعة علمية نشرتها مجلة Advances in Therapy عام 2023 أكدت أن مضادات الالتهاب غير الستيرويدية تضيّق الأوعية الدموية الكلوية وتقلل تدفق الدم إلى الكلى. وتكون المشكلة أشد لمن يعانون أصلاً من ضعف في وظائف الكلى أو ارتفاع ضغط الدم أو من يأخذون مدرّات البول.",
+            "إذا كان eGFR لديك منخفضاً أو في الحد الأدنى من الطبيعي، استشر طبيبك قبل أخذ أي مسكن من هذه الفئة. الباراسيتامول (أسيتامينوفين) بالجرعة الصحيحة أكثر أماناً على الكلى كخيار بديل، لكن أيضاً لا تتجاوز الجرعة الموصى بها."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "تجنب هذه المسكنات إن كنت تعاني من ضعف وظائف الكلى",
+            "items": [
+              "الآيبوبروفين (Ibuprofen) بأسمائه التجارية المختلفة",
+              "الديكلوفيناك (Diclofenac) والنابروكسين (Naproxen)",
+              "الأسبرين بجرعات كبيرة (مختلف عن الجرعة القلبية المنخفضة)",
+              "أي مسكن يحتوي على مضاد التهاب دون استشارة الطبيب"
+            ]
+          }
+        },
+        {
+          "h2": "الأسباب الشائعة لارتفاع الكرياتينين في المنطقة",
+          "paras": [
+            "السكري وارتفاع ضغط الدم هما السببان الأكثر شيوعاً لمرض الكلى المزمن في منطقة الشرق الأوسط. دراسة نشرت في BMJ Open عام 2018 على سكان الإمارات وجدت ارتباطاً قوياً بين السكري من النوع الثاني وضعف وظائف الكلى حتى في مراحل مبكرة من المرض. السكر المرتفع المستمر يتلف الأوعية الدموية الدقيقة في الكلى ببطء وعلى مدى سنوات، وكثيراً ما يكتشف المريض المشكلة الكلوية فقط عند إجراء تحليل روتيني لا لأنه يشعر بأعراض.",
+            "أسباب أخرى تشمل: التهاب الكلى (Nephritis)، وحصوات الكلى المتكررة، وبعض الأدوية كأدوية الضغط من فئة معينة عند استخدامها مع مدرات البول، وبعض المضادات الحيوية عند تناولها بجرعات عالية. الأمراض الوراثية كمرض الكلية متعدد الكيسات (Polycystic Kidney Disease) أيضاً تؤثر على الوظيفة الكلوية. ومن الأسباب التي كثيراً ما تُهمل: بعض الأعشاب والمستحضرات التقليدية المباعة في أسواق المنطقة والتي ثبت احتواؤها على مواد سامة للكلى.",
+            "الفشل الكلوي الحاد (Acute Kidney Injury - AKI) مختلف عن المزمن: يتطور خلال ساعات أو أيام، وكثيراً ما يكون عكسياً إذا عولجت سببه في وقت مناسب. يحدث بعد جراحة كبرى، أو نزيف حاد، أو تسمم بأدوية، أو جفاف شديد، أو عند إعطاء صبغة للأشعة التشخيصية لمريض لديه وظيفة كلوية متراجعة. التمييز بين النوعين ضروري لتحديد طريقة العلاج."
+          ]
+        },
+        {
+          "h2": "كيف تستعد لتحليل وظائف الكلى؟",
+          "paras": [
+            "لا يحتاج تحليل الكرياتينين لصيام إلزامي في العادة، لكن بعض المراكز تطلبه مع حزمة تحاليل أشمل كصورة الدهون وسكر الدم الصيامي. اسأل الطبيب أو المختبر عند الحجز للتأكد. الأهم هو الحرص على الترطيب الجيد قبل يوم التحليل وفي صباحه، لأن الجفاف حتى البسيط يرفع النتيجة بشكل مضلل.",
+            "إذا كنت تمارس رياضة مكثفة بانتظام أو عملك يتطلب مجهوداً عضلياً كبيراً، أخبر الطبيب لأن كرياتينيك الطبيعي قد يكون أعلى من المرجع المطبوع على ورقة النتائج دون أي مشكلة في الكلى. كذلك أخبره عن أي مسكنات أو مكملات أو أعشاب تتناولها، لأن بعضها يؤثر على القراءة أو يخفي مشكلة كامنة. الدواء الذي لا تحتسبه الطبيب قد يكون هو السبب في ارتفاع القيمة.",
+            "في بعض مناطق المنطقة، قد يكون الوصول إلى مختبرات معتمدة محدوداً. حاول إجراء تحاليل الكلى في مختبر يستخدم معدات معايرة بانتظام، وخاصة إذا كنت تتابع حالة مزمنة. الفرق بين نتائج مختبرات مختلفة قد يكون مضللاً إذا لم تكن المعايرة موحدة. وإذا قررت تغيير المختبر، يُفضّل إجراء التحليل في نفس الوقت من اليوم وبنفس ظروف التحضير حتى تكون المقارنة صحيحة."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "كيف تستعد لتحليل وظائف الكلى",
+            "items": [
+              "اشرب كميات كافية من الماء يوم التحليل وقبله",
+              "تجنب المجهود البدني الشديد ليوم كامل قبل التحليل",
+              "أخبر الطبيب عن كل دواء أو مسكن أو مكمل تأخذه",
+              "أخبر الطبيب إذا كنت تعرضت لحرارة شديدة أو جفاف مؤخراً",
+              "أجرِ التحليل في مختبر معتمد للحصول على نتائج دقيقة قابلة للمقارنة"
+            ]
+          }
+        },
+        {
+          "h2": "أعراض تحتاج عرضها على الطبيب فوراً",
+          "paras": [
+            "في المراحل الأولى من مرض الكلى، لا توجد أعراض في الغالب، وهذا ما يجعل التحاليل الدورية ضرورية لمن يعانون من السكري أو ضغط الدم المرتفع أو من لديهم تاريخ عائلي لأمراض الكلى. المرض الكلوي المزمن يُكتشف صدفة في كثير من الحالات خلال تحليل روتيني، وليس لأن المريض شعر بشيء.",
+            "من الأعراض التي تستدعي الذهاب للطبيب سريعاً: تورم الكاحلين والقدمين مع ضغط الدم المرتفع، وتراجع كمية البول أو توقفه، والتعب الشديد غير المبرر الذي لا تفسره قلة النوم أو الإجهاد، والغثيان المستمر خاصة في الصباح، والحكة في الجلد بدون طفح مرئي، والصداع الشديد مع ارتفاع ضغط الدم، وتغير لون البول إلى داكن أو وجود دم فيه. كل هذه الأعراض قد تكون إشارة لتراكم نفايات في الدم لم تعد الكلى قادرة على التخلص منها.",
+            "الغسيل الكلوي ليس متاحاً بالقدر الكافي في جميع دول المنطقة، وتكاليفه مرتفعة جداً، والانتظار طويل في بعض الأماكن. هذا يجعل الوقاية والكشف المبكر وإبطاء التطور أهم بكثير من العلاج في مرحلة الفشل. كل ما يحافظ على eGFR أعلى من 30 يوفر على المريض سنوات من المعاناة ويؤخر الحاجة إلى الغسيل. السيطرة على السكري وضغط الدم والامتناع عن المسكنات المضادة للالتهاب هي الأدوات الأكثر فاعلية في هذا الشأن."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "اذهب للطبيب فوراً إذا لاحظت",
+            "items": [
+              "توقف البول أو تراجعه بشكل ملحوظ خلال 24 ساعة",
+              "تورم مفاجئ في الوجه أو الساقين أو اليدين",
+              "بول ذو لون داكن أو دموي",
+              "ضيق شديد في التنفس مع تورم الجسم",
+              "ارتباك ذهني أو صعوبة في التركيز مع غثيان شديد"
+            ]
+          }
+        },
+        {
+          "h2": "الأسئلة التي يجب أن تطرحها على طبيبك",
+          "paras": [
+            "كثير من المرضى يتلقون نتائج تحاليل الكلى دون أن يفهموا ما يعنيه كل رقم، أو يخجلون من السؤال عن التفاصيل. من حقك أن تعرف ما تعنيه نتيجتك وما الخطوة التالية. ابدأ بسؤال بسيط: هل هذه النتيجة طبيعية بالنسبة لعمري وحالتي الصحية؟",
+            "إذا كانت eGFR لديك أقل من الطبيعي، اسأل: ما الذي ربما أسبب هذا الانخفاض؟ هل يتراجع مع الوقت أم يبقى ثابتاً؟ هل أحتاج لتحليل إضافي مثل البروتين في البول أو صورة للكلى بالموجات الصوتية؟ وهل هناك أدوية أو عادات أتناولها ينبغي تغييرها؟",
+            "إذا كنت مصاباً بالسكري أو ضغط الدم وكانت وظائف كليتك لا تزال طبيعية، فالسؤال المهم هو: كم مرة يجب أن أجري هذا التحليل لأتأكد أنها لا تتراجع؟ المتابعة المنتظمة ليست دليلاً على مشكلة، بل هي الطريقة الوحيدة لاكتشاف أي تراجع مبكر قبل أن يصبح الأمر صعب الإدارة."
+          ]
+        }
+      ],
+      "tie": "يمكنك في تطبيق صحتك تسجيل نتائج وظائف كليتك مع التاريخ ومقارنتها مع مرور الوقت. المساعد الذكي يشرح لك ما تعنيه أرقام الكرياتينين و eGFR في سياق وضعك الصحي الشامل، ويذكّرك بمواعيد إعادة التحليل إذا كانت المتابعة مطلوبة.",
+      "faqs": [
+        {
+          "q": "هل الكرياتينين المرتفع يعني دائماً مشكلة في الكلى؟",
+          "a": "ليس بالضرورة. الجفاف والمجهود البدني الشديد والكتلة العضلية الكبيرة كلها ترفع الكرياتينين مؤقتاً. قراءة واحدة مرتفعة تحتاج إعادة للتحقق مع طبيبك، ومقارنتها مع eGFR والبروتين في البول."
+        },
+        {
+          "q": "ما الفرق بين الفشل الكلوي الحاد والمزمن؟",
+          "a": "الحاد يتطور خلال ساعات أو أيام وكثيراً ما يكون عكسياً إذا عولج السبب. المزمن يتطور ببطء على مدى أشهر أو سنوات ولا يعكس نفسه بالكامل، لكن يمكن إبطاء تطوره. eGFR دون 60 لمدة ثلاثة أشهر يعني المزمن."
+        },
+        {
+          "q": "هل الشخص النحيل أو المسن يُقرأ eGFR لديه بشكل مختلف؟",
+          "a": "نعم. الكتلة العضلية تقل مع التقدم في العمر وعند النساء والأشخاص النحيلين، فيكون كرياتينيمهم أقل لكن eGFR قد لا يعكس الوظيفة الكلوية الحقيقية بدقة. الطبيب يأخذ هذا في الحسبان عند التفسير."
+        },
+        {
+          "q": "كم مرة يجب أن أجري تحليل وظائف الكلى؟",
+          "a": "إذا كنت مصاباً بالسكري أو ضغط الدم أو لديك تاريخ عائلي لمرض الكلى، يُنصح بتحليل سنوي على الأقل. في حالات CKD مشخصة، يحدد الطبيب التكرار حسب المرحلة وقد يكون كل ثلاثة أشهر."
+        },
+        {
+          "q": "هل يمكنني تناول الآيبوبروفين إذا كانت وظائف كليتي طبيعية؟",
+          "a": "الاستخدام العرضي لمضادات الالتهاب عند الأشخاص الأصحاء مقبول عموماً. المشكلة في الاستخدام المنتظم والطويل أو عند من يعانون من ضغط الدم أو خطر الكلى. استشر طبيبك دائماً إذا كنت تحتاج مسكناً بانتظام."
+        },
+        {
+          "q": "هل ارتفاع ضغط الدم يضر الكلى أم العكس؟",
+          "a": "كلاهما صحيح. ارتفاع الضغط يضر الأوعية الكلوية ويضعف وظيفتها، كما أن ضعف الكلى يرفع ضغط الدم. هذا ما يجعل السيطرة على الضغط من أهم أدوات حماية الكلى."
+        },
+        {
+          "q": "ماذا يعني وجود بروتين في البول مع كرياتينين طبيعي؟",
+          "a": "البروتين في البول (Proteinuria) علامة مبكرة على تضرر الكلى حتى قبل أن يرتفع الكرياتينين أو ينخفض eGFR. إذا كان ثابتاً عبر عدة تحاليل فهو يستدعي التقييم الطبي والمتابعة، ولا يُهمل."
+        }
+      ]
+    },
+    "en": {
+      "title": "Creatinine and eGFR: reading your kidney function results",
+      "desc": "Understand creatinine and eGFR results, why muscle mass matters, the five CKD stages, how hot-climate dehydration causes temporary rises, and the painkiller kidney risk.",
+      "keywords": "creatinine, eGFR, kidney function test, chronic kidney disease, CKD stages, high creatinine, dehydration creatinine, NSAIDs kidneys, kidney failure, glomerular filtration rate, kidney blood test",
+      "h1": "Creatinine and eGFR: what your kidney function numbers actually mean",
+      "takeaways": [
+        "Creatinine is a waste product from muscles, and a high level in the blood means the kidneys are less efficient at clearing it.",
+        "eGFR is a better measure than creatinine alone because it accounts for your age, sex and body size.",
+        "Dehydration in a hot climate can raise creatinine temporarily, so a single high reading does not always mean kidney disease.",
+        "Anti-inflammatory painkillers such as ibuprofen and diclofenac can harm the kidneys with regular use and should be avoided if eGFR is low.",
+        "An eGFR below 60 for three months or more means chronic kidney disease and needs regular medical follow-up."
+      ],
+      "sections": [
+        {
+          "h2": "What is creatinine and why do the kidneys clear it?",
+          "paras": [
+            "Creatinine is a chemical waste product that your muscles produce naturally during daily activity. It is a byproduct of creatine, which muscles use to generate energy. Creatinine passes into the bloodstream and the kidneys filter it out into the urine.",
+            "Because the body produces creatinine at a fairly steady rate, its level in the blood reflects how well the kidneys are doing their job. When kidney efficiency falls, creatinine starts to accumulate and the blood level rises, which is what makes it a useful marker of kidney function.",
+            "Normal creatinine levels depend on muscle mass and differ between men and women and between people of different builds. A muscular man may have a creatinine at the high end of normal with perfectly healthy kidneys, while a slim woman may have a creatinine at the low end of normal. This is the main reason why eGFR matters more than the raw creatinine number on its own."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Approximate normal creatinine ranges",
+            "head": ["Group", "Normal range (mg/dL)", "Note"],
+            "rows": [
+              ["Adult men", "0.7 – 1.3", "Depends on muscle mass"],
+              ["Adult women", "0.5 – 1.1", "Lower because of smaller muscle mass"],
+              ["Older adults", "Slightly below adult range", "Muscle mass decreases with age"],
+              ["Children", "0.3 – 0.7", "Varies with age and size"]
+            ]
+          }
+        },
+        {
+          "h2": "What is eGFR and why does it matter more than creatinine?",
+          "paras": [
+            "The estimated Glomerular Filtration Rate (eGFR) is a calculated number that estimates how much blood your kidneys filter per minute. Laboratories calculate it automatically from your creatinine level together with your age and sex.",
+            "A normal eGFR is above 90 millilitres per minute per 1.73 square metres of body surface area. The value naturally falls a little with age even in healthy people, which is why your age is so important in interpreting the result.",
+            "A 2008 study published in the journal Renal Failure tested different eGFR formulas on healthy Arab adults and found that some equations developed in Western studies may not accurately reflect kidney function in Arab populations, where body build and muscle mass differ. This is one more reason why your result should always be interpreted by a doctor who knows your full picture."
+          ],
+          "visual": {
+            "type": "range-scale",
+            "title": "Reading your eGFR result",
+            "label": "eGFR",
+            "unit": "mL/min/1.73m²",
+            "min": 0,
+            "max": 120,
+            "zones": [
+              {"to": 15, "tone": "bad", "label": "Failure"},
+              {"to": 30, "tone": "bad", "label": "Severe"},
+              {"to": 45, "tone": "warn", "label": "Moderate"},
+              {"to": 60, "tone": "warn", "label": "Mild-mod"},
+              {"to": 90, "tone": "warn", "label": "Mild"},
+              {"to": 120, "tone": "good", "label": "Normal"}
+            ],
+            "source": "KDIGO 2024 Clinical Practice Guideline for CKD"
+          }
+        },
+        {
+          "h2": "The five stages of chronic kidney disease",
+          "paras": [
+            "Chronic Kidney Disease (CKD) is diagnosed when eGFR stays below 60 for three months or more, or when other signs of kidney damage such as protein in the urine are present. It is divided into five stages that help doctors plan treatment.",
+            "A 2023 review in the International Journal of Nephrology and Renovascular Disease concluded that CKD represents a growing burden across the Middle East and Africa, with significant gaps in early detection and limited access to dialysis services in some countries. The leading causes in the region are diabetes and high blood pressure.",
+            "The encouraging reality is that the early stages can be slowed substantially, or even stabilised, if the underlying cause is controlled. Later stages require careful planning with a kidney specialist to decide when dialysis or transplantation is needed."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Chronic kidney disease stages by eGFR",
+            "head": ["Stage", "eGFR value", "Description", "Typical monitoring"],
+            "rows": [
+              ["G1", "90 or above", "Normal with signs of damage", "Yearly"],
+              ["G2", "60 – 89", "Mildly reduced", "Yearly"],
+              ["G3a", "45 – 59", "Mildly to moderately reduced", "Every 6 months"],
+              ["G3b", "30 – 44", "Moderately to severely reduced", "Every 3-4 months"],
+              ["G4", "15 – 29", "Severely reduced", "Every 3 months with nephrologist"],
+              ["G5", "Below 15", "Kidney failure", "Dialysis or transplant planning"]
+            ]
+          }
+        },
+        {
+          "h2": "Why creatinine rises temporarily in a hot climate",
+          "paras": [
+            "Dehydration from extreme heat or heavy exertion reduces the volume of blood reaching the kidneys temporarily, which lowers their efficiency at filtering creatinine without there being any actual kidney disease. This is called a pre-renal rise in creatinine and it reverses once fluid intake is restored.",
+            "In our region where summer temperatures regularly exceed 40 degrees Celsius, this temporary rise is common, particularly among outdoor and agricultural workers who spend long hours in the heat. If you have a high creatinine result and you were dehydrated or physically exhausted before the test, tell your doctor.",
+            "If your result is elevated for the first time, ask your doctor about repeating the test after a few days of adequate rest and good hydration before drawing conclusions. The difference between a transient dehydration effect and a genuine kidney problem is important and a single reading cannot answer it."
+          ]
+        },
+        {
+          "h2": "The painkiller link: a risk many people do not know about",
+          "paras": [
+            "Non-steroidal anti-inflammatory drugs (NSAIDs), which include ibuprofen, diclofenac and naproxen, are available without prescription in many countries in the region. They are effective for short-term pain but regular use carries a genuine risk to the kidneys.",
+            "A review published in the journal Advances in Therapy in 2023 confirmed that NSAIDs narrow the blood vessels supplying the kidneys and reduce renal blood flow. The risk is greatest in people who already have some reduction in kidney function, those with high blood pressure, and those taking diuretics.",
+            "If your eGFR is below normal or at the low end of the normal range, ask your doctor before taking any drug from this class. Paracetamol at the correct dose is generally safer for the kidneys as an alternative, though even paracetamol is harmful in overdose."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "Avoid these if your eGFR is reduced",
+            "items": [
+              "Ibuprofen (sold under many brand names in the region)",
+              "Diclofenac and naproxen",
+              "High-dose aspirin (different from low-dose cardiac aspirin)",
+              "Any anti-inflammatory painkiller without checking with your doctor first"
+            ]
+          }
+        },
+        {
+          "h2": "The most common causes of raised creatinine in the region",
+          "paras": [
+            "Diabetes and high blood pressure are the two most common causes of chronic kidney disease in the Middle East. A study published in BMJ Open in 2018 on people in the UAE found a strong association between type 2 diabetes and reduced kidney function, even in the early stages of the disease. Persistently high blood sugar damages the tiny blood vessels in the kidneys gradually over years.",
+            "Other causes include kidney inflammation (nephritis), recurrent kidney stones, certain medications taken at high doses such as some antibiotics and contrast agents used in scans, and inherited conditions such as polycystic kidney disease. Acute kidney injury is a different and often reversible situation where kidney function falls rapidly over hours or days after a major insult such as surgery, severe bleeding or poisoning by a drug.",
+            "Less commonly recognised but clinically relevant is the herbal remedy risk. Several preparations sold in markets across the region contain compounds with documented kidney toxicity, and patients often do not mention them to doctors because they consider them natural and safe. If you take any herbal preparation regularly, tell your doctor."
+          ]
+        },
+        {
+          "h2": "How to prepare for a kidney function test",
+          "paras": [
+            "Creatinine testing does not usually require fasting on its own, but it is often ordered as part of a broader panel that includes fasting glucose or a lipid profile. Check with the clinic or lab when you book to avoid making an unnecessary second trip. The most important preparation step is making sure you are well hydrated on the day and the evening before, because even mild dehydration produces a misleading result.",
+            "If you exercise heavily or do physically demanding work, mention this to your doctor because your normal creatinine may sit higher than the printed reference range without any kidney problem. A bodybuilder or a construction worker may have a creatinine that would alarm a doctor in a sedentary patient but is perfectly normal for their muscle mass. Also report every painkiller, supplement or herbal remedy you take regularly, as some affect the reading or conceal an underlying problem that needs attention.",
+            "In parts of the region where access to accredited laboratories is limited, try to use a lab that calibrates its equipment regularly, especially if you are monitoring a chronic condition over time. Results from different labs can vary enough to be misleading if their standards differ, and an apparent improvement or worsening may simply reflect a change in the lab rather than a change in your health. If you switch labs, try to do the test at the same time of day and under the same preparation conditions so the comparison holds."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "Preparing for your kidney function test",
+            "items": [
+              "Drink enough water on the day and the day before the test",
+              "Avoid heavy physical exercise for a full day before the test",
+              "Tell your doctor about every medicine, painkiller or supplement you take",
+              "Mention any recent exposure to extreme heat or severe dehydration",
+              "Use an accredited laboratory for results that can be compared over time"
+            ]
+          }
+        },
+        {
+          "h2": "Symptoms that need urgent attention",
+          "paras": [
+            "In the early stages of kidney disease there are usually no symptoms, which is why regular testing is important for anyone with diabetes, high blood pressure or a family history of kidney problems. The disease is frequently discovered by chance on a routine blood test rather than because the person felt unwell. This silent progression is one of the most dangerous features of CKD, because by the time symptoms appear, significant damage has often already occurred.",
+            "Go to a doctor promptly if you notice significant swelling of the ankles, feet or face alongside high blood pressure, a clear drop in urine output, severe unexplained tiredness that sleep does not explain, persistent nausea particularly in the morning, skin itching without a visible rash, a severe headache with raised blood pressure, or urine that has turned dark or contains visible blood. These symptoms may indicate that waste products are accumulating in the blood because the kidneys can no longer clear them efficiently.",
+            "Dialysis access is not uniformly available across the region and its cost is significant, with long waiting times in some countries. This makes prevention, early detection and slowing the progression of kidney disease far more valuable than treatment at the stage of failure. Controlling diabetes and blood pressure and avoiding regular anti-inflammatory painkiller use are the three most effective tools for keeping eGFR stable. Every measure that keeps it above 30 protects years of quality of life and delays or avoids the need for dialysis entirely."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "Go to a doctor urgently if you notice",
+            "items": [
+              "A significant drop or stop in urine output within 24 hours",
+              "Sudden swelling of the face, legs or hands",
+              "Dark-coloured or bloody urine",
+              "Severe breathlessness together with body swelling",
+              "Confusion or difficulty concentrating alongside severe nausea"
+            ]
+          }
+        },
+        {
+          "h2": "Questions to ask your doctor about your results",
+          "paras": [
+            "Many patients receive kidney function results without understanding what each number means, and some feel too embarrassed to ask for an explanation. You are entitled to know what your result means and what the next step is. Start with a simple question: is this result normal for my age and my health situation?",
+            "If your eGFR is below normal, ask what may have caused the drop, whether it is falling over time or staying stable, whether you need additional tests such as a urine protein measurement or an ultrasound of the kidneys, and whether any medicines or habits should be changed to protect your kidney function.",
+            "If you have diabetes or high blood pressure and your kidneys are still functioning normally, the important question is how often you should repeat this test to make sure function is not quietly declining. Regular monitoring is not a sign of a problem. It is the only reliable way to catch any decline early, before it becomes difficult to manage."
+          ]
+        }
+      ],
+      "tie": "The Sihtak app lets you log your creatinine and eGFR results with dates and track them over time. The AI assistant can explain what your numbers mean in the context of your wider health picture and remind you when a repeat test is due.",
+      "faqs": [
+        {
+          "q": "Does a high creatinine always mean kidney disease?",
+          "a": "Not always. Dehydration, intense physical exertion and a large muscle mass can all raise creatinine temporarily. A single high reading needs to be repeated and compared with eGFR and urine protein before drawing conclusions."
+        },
+        {
+          "q": "What is the difference between acute kidney injury and chronic kidney disease?",
+          "a": "Acute kidney injury develops over hours or days and is often reversible when the cause is treated. Chronic kidney disease develops slowly over months or years and does not fully reverse, though its progression can be slowed significantly. An eGFR below 60 for three months or more points to chronic disease."
+        },
+        {
+          "q": "Is eGFR read differently in older people or slim people?",
+          "a": "Yes. Muscle mass decreases with age and is lower in women and slim people, so their creatinine is lower but eGFR may not accurately reflect true kidney function. Your doctor takes this into account when interpreting results."
+        },
+        {
+          "q": "How often should I test my kidney function?",
+          "a": "If you have diabetes, high blood pressure or a family history of kidney disease, at least once a year. With diagnosed CKD the doctor sets the frequency based on stage, and it may be every three months in higher stages."
+        },
+        {
+          "q": "Can I take ibuprofen if my kidneys are normal?",
+          "a": "Occasional use in otherwise healthy people is generally acceptable. The problem is regular or long-term use, and in people with high blood pressure or existing kidney risk. If you need a painkiller regularly, discuss safer options with your doctor."
+        },
+        {
+          "q": "Does high blood pressure damage the kidneys, or do damaged kidneys raise blood pressure?",
+          "a": "Both are true. High blood pressure damages the kidney's blood vessels, and poor kidney function raises blood pressure. This makes controlling blood pressure one of the most important tools for protecting the kidneys."
+        },
+        {
+          "q": "What does protein in the urine mean if my creatinine is normal?",
+          "a": "Proteinuria is an early sign of kidney damage that can appear before creatinine rises or eGFR falls. If it is consistently present across several tests, it needs medical evaluation and monitoring even if other numbers look normal."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,367 @@
+{
+  "slug": "insomnia-treatment-cbt",
+  "category": "mental-health",
+  "chip_ar": "الصحة النفسية",
+  "chip_en": "Mental Health",
+  "date_iso": "2026-08-04",
+  "sources": [
+    {
+      "label": "Trauer JM, Qian MY, Doyle JS et al: Cognitive Behavioral Therapy for Chronic Insomnia: A Systematic Review and Meta-analysis, Annals of internal medicine, 2015",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26054060/"
+    },
+    {
+      "label": "Furukawa Y, Sakata M, Yamamoto R et al: Components and Delivery Formats of Cognitive Behavioral Therapy for Chronic Insomnia in Adults: A Systematic Review and Component Network Meta-Analysis, JAMA psychiatry, 2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38231522/"
+    },
+    {
+      "label": "Kyle SD, Siriwardena AN, Espie CA et al: Clinical and cost-effectiveness of nurse-delivered sleep restriction therapy for insomnia in primary care (HABIT): a pragmatic, superiority, open-label, randomised controlled trial, Lancet (London, England), 2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37573859/"
+    },
+    {
+      "label": "Lader M: Benzodiazepines revisited--will we ever learn?, Addiction (Abingdon, England), 2011",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21714826/"
+    },
+    {
+      "label": "Khaled SM, Petcu C, Al-Thani MA et al: Prevalence and associated factors of DSM-5 insomnia disorder in the general population of Qatar, BMC psychiatry, 2021",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33557765/"
+    },
+    {
+      "label": "Mahmoud IF, Mahmoud KF, Elsahoryi NA et al: Impact of associated factors and adherence to Mediterranean diet on insomnia among Arab men living in Jordan, Scientific reports, 2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39639032/"
+    },
+    {
+      "label": "Matheson EM, Brown BD, DeCastro AO et al: Treatment of Chronic Insomnia in Adults, American family physician, 2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38393799/"
+    }
+  ],
+  "content": {
+    "ar": {
+      "title": "الأرق: كيف تُصلح نومك بدون حبوب",
+      "desc": "لماذا العلاج المعرفي السلوكي للأرق يتفوق على الحبوب المنومة في النتائج طويلة المدى؟ خطوات عملية لتقييد النوم وضبط الحافزية تُجريها بنفسك في البيت.",
+      "keywords": "الأرق المزمن, علاج الأرق بدون دواء, العلاج المعرفي السلوكي للأرق, تقييد النوم, حبوب النوم, البنزوديازيبين والنوم, اضطرابات النوم, كيف أنام بشكل أفضل",
+      "h1": "الأرق المزمن: إصلاح النوم بالعلاج المعرفي السلوكي بدلاً من الحبوب",
+      "takeaways": [
+        "العلاج المعرفي السلوكي للأرق (CBT-I) هو الخيار الأول عالمياً، وتفوق نتائجه الحبوب المنومة على المدى الطويل في عدد من التجارب المنشورة.",
+        "تقييد النوم وضبط الحافزية هما أقوى أدواته، ويمكن تطبيقهما بشكل ذاتي مع توجيه كافٍ.",
+        "الحبوب المنومة كالبنزوديازيبين تُصنع إدماناً جسدياً في أسابيع قليلة، وفي كثير من دول المنطقة تُباع بدون وصفة طبية.",
+        "الأرق المزمن يُعرَّف بصعوبة النوم أو الاستمرار فيه لأكثر من ثلاثة أيام أسبوعياً لمدة لا تقل عن ثلاثة أشهر، وهو غير مجرد 'خفة نوم'.",
+        "النتائج مع العلاج المعرفي السلوكي قد تأتي بطيئة في الأسابيع الأولى ثم تتحسن باستمرار، عكس الحبوب التي تعمل فوراً لكن تفقد فعاليتها."
+      ],
+      "sections": [
+        {
+          "h2": "ما الأرق المزمن فعلاً وكيف نُعرّفه؟",
+          "paras": [
+            "الأرق المزمن (Chronic Insomnia) ليس مجرد ليلة سيئة هنا وأخرى هناك. التعريف الطبي وفق الدليل التشخيصي DSM-5 هو صعوبة في بدء النوم أو الاستمرار فيه أو الاستيقاظ مبكراً مع عدم القدرة على العودة للنوم، وذلك في ثلاثة أيام أو أكثر من كل أسبوع، ولمدة ثلاثة أشهر على الأقل، مع تأثير واضح على الأداء اليومي. الليلة الصعبة الوحيدة ليست أرقاً مزمناً.",
+            "دراسة نشرتها مجلة BMC Psychiatry عام 2021 على سكان قطر وجدت أن نحو عشرة بالمئة من السكان يستوفون معايير الأرق المزمن. دراسة نشرتها مجلة Scientific Reports عام 2024 عن الرجال العرب في الأردن أشارت إلى ارتباط الأرق بعدة عوامل تشمل القلق والنظام الغذائي وأنماط النوم. هذه أرقام تُشير إلى أن الأرق المزمن شائع في المنطقة وليس ظاهرة فردية.",
+            "الأرق المزمن له نوعان رئيسيان: أرق البدء (صعوبة الدخول في النوم) وأرق الصيانة (الاستيقاظ المتكرر في منتصف الليل وصعوبة العودة). كثير من المصابين يعانون من الاثنين معاً. في كلتا الحالتين يبدو الجسم والعقل في حالة تنبّه لا ترحمها حتى وقت النوم."
+          ]
+        },
+        {
+          "h2": "لماذا يفشل كثير منا في علاج أرقنا بأنفسنا؟",
+          "paras": [
+            "ثمة دائرة مفرغة شائعة جداً: الشخص لا يستطيع النوم، فيقضي وقتاً أطول في السرير محاولاً النوم، فيُصبح السرير في ذهنه مكاناً للإحباط والقلق لا للراحة، فيزداد الأرق. كثير من الناس يُقيلون قيلولة طويلة كتعويض فيُضعفون ضغط النوم المتراكم ليلاً. آخرون يُؤخرون ساعة نومهم في نهايات الأسبوع فيُربكون إيقاع الساعة البيولوجية.",
+            "السلوكيات التي نعتقد أنها تساعد غالباً ما تُطيل الأرق. مشاهدة التلفاز أو الجوال حتى آخر لحظة في السرير، ثم محاولة 'إجبار' النفس على النوم، ثم قلق إذا لم يحدث ذلك خلال دقائق، هذه حلقة تُغذّي الأرق لا تُوقفه. الأرق يُصبح في حد ذاته مصدر قلق يُبقي الجهاز العصبي في حالة تنبّه.",
+            "الحل التقليدي كان اللجوء للحبوب المنومة. وهي فعّالة قصيراً لكن مشكلتها الجوهرية أنها لا تُصلح الأنماط التي تُسبّب الأرق بل تتجاوزها مؤقتاً. عندما تتوقف عن أخذ الحبة، تعود الأنماط ذاتها."
+          ]
+        },
+        {
+          "h2": "خطر حبوب النوم المتاحة في الصيدليات",
+          "paras": [
+            "البنزوديازيبينات (Benzodiazepines) مثل الديازيبام والنيترازيبام وأقاربها من حبوب النوم تُصنع اعتماداً جسدياً (physical dependence) في أسابيع قليلة من الاستخدام المنتظم. مراجعة مهمة نشرتها مجلة Addiction عام 2011 وصفت هذه الظاهرة بتفصيل وأشارت إلى أن كثيراً من المرضى لم يُنبَّهوا إلى هذا الخطر حين وُصفت لهم. الجسم يتكيّف معها وتحتاج جرعة أكبر لنفس الأثر، وعند التوقف يظهر الأرق بشكل أشد مما كان، يُسمى أرق الارتداد.",
+            "في كثير من دول المنطقة العربية تُباع مضادات القلق والمهدئات والمساعدات على النوم بدون وصفة طبية أو بوصفة يسهل الحصول عليها. هذا يعني أن الاعتماد عليها لأشهر أو سنوات يحدث بدون أي مراقبة طبية، ويصعّب التوقف عنها لاحقاً.",
+            "حبوب النوم الأحدث كالزولبيديم (Zolpidem) والمساعدات المضادة للهيستامين المتاحة بدون وصفة تحمل مخاوف مختلفة: الزولبيديم له تأثيرات على الذاكرة والتصرف ليلاً موثّقة، والمضادات للهيستامين تفقد فعاليتها سريعاً مع التكيّف. لا توجد حبة نوم آمنة للاستخدام طويل المدى بدون مراقبة."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "warn",
+            "title": "علامات تشير إلى أنك تعتمد على حبوب النوم بشكل مفرط",
+            "items": [
+              "لا تستطيع النوم على الإطلاق ليلة واحدة بدون الحبة",
+              "تحتاج جرعة أكبر مما كانت كافية في البداية",
+              "تشعر بقلق شديد حين تنفد الحبوب أو تنسى أخذها",
+              "حاولت التوقف أكثر من مرة ولم تستطع بسبب الأرق الشديد التالي",
+              "أنت تأخذها منذ أكثر من أربعة أسابيع متواصلة"
+            ]
+          }
+        },
+        {
+          "h2": "ما هو العلاج المعرفي السلوكي للأرق (CBT-I)؟",
+          "paras": [
+            "العلاج المعرفي السلوكي للأرق (Cognitive Behavioral Therapy for Insomnia أو CBT-I) هو برنامج منظّم يُعالج الأسباب التي تُبقي الأرق قائماً، لا مجرد أعراضه. يتضمن عادة خمسة إلى ثمانية جلسات يمكن أن تكون مع معالج أو عبر دليل ذاتي أو تطبيق رقمي موثوق. يُعدّ الخيار الأول عالمياً في إرشادات الكثير من الهيئات الطبية بما فيها المعهد القومي للصحة البريطاني (NHS).",
+            "مراجعة منهجية وتحليل شامل لتسعة عشر تجربة إكلينيكية نشرتها مجلة Annals of Internal Medicine عام 2015 وجدت أن CBT-I يُحسّن بشكل ملحوظ كل المؤشرات الرئيسية: وقت الدخول في النوم، عدد الاستيقاظات الليلية، ووقت الاستيقاظ بعد بدء النوم. والأهم أن النتائج تبقى بعد انتهاء العلاج، عكس الحبوب.",
+            "CBT-I يتكون من أدوات متعددة: تقييد النوم لبناء ضغط النوم من جديد، وضبط الحافزية لإعادة ربط السرير بالنوم لا باليقظة، وتقنيات الاسترخاء، وتصحيح المعتقدات غير الدقيقة عن النوم التي تُغذّي القلق، وتعليم الوقاية من الانتكاس. كل هذه الأدوات تعمل معاً."
+          ]
+        },
+        {
+          "h2": "تقييد النوم: الأداة الأقوى والأصعب",
+          "paras": [
+            "تقييد النوم (Sleep Restriction) يبدو مناقضاً للحدس لكنه أقوى أداة في CBT-I. فكرته: بدلاً من قضاء ثماني أو تسع ساعات في السرير تحاول خلالها النوم وغالباً ما لا تستطيع، تُقلّص الوقت المسموح به في السرير إلى ما يتناسب مع ساعات النوم الفعلية فقط. إذا كنت تنام فعلياً خمس ساعات من أصل ثماني في السرير، تبدأ بالسماح لنفسك بخمس ساعات ونصف فقط في السرير.",
+            "تجربة HABIT التي نشرتها مجلة The Lancet عام 2023 أثبتت أن تقييد النوم المُقدَّم عبر ممرضات في الرعاية الأولية يُحسّن بشكل معتد به نتائج الأرق مقارنة بالرعاية المعتادة. هذا يعني أن الأداة لا تحتاج متخصصاً نفسياً لتطبيقها بشكل مجدٍ.",
+            "في الأسبوع الأول، يشعر كثيرون بتعب شديد لأن الجسم يبدأ في تراكم 'دين النوم' المطلوب لإعادة ضغط النوم لمستويات طبيعية. هذا صعب لكنه عمدي. تدريجياً مع تحسّن الكفاءة، أي نسبة الوقت الفعلي في النوم إلى الوقت في السرير، يُزاد وقت السرير بمقدار خمسة عشر دقيقة أسبوعياً حتى الوصول إلى الوقت المثالي."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "كيف تُطبّق تقييد النوم خطوة بخطوة",
+            "items": [
+              "سجّل ساعات نومك الفعلية في أسبوع عادي (لا مجرد وقت السرير)",
+              "حدّد وقت استيقاظ ثابتاً يومياً بما فيه نهايات الأسبوع، لا تتغيّر",
+              "اضبط وقت النوم بحيث لا تتجاوز ساعات السرير ساعات نومك الفعلية بأكثر من نصف ساعة",
+              "لا تذهب للسرير إلا حين تشعر بنعاس حقيقي لا مجرد تعب أو وقت اعتيادي",
+              "إذا لم تنم بعد عشرين دقيقة، اخرج من السرير واجلس في مكان هادئ حتى يعود النعاس",
+              "كل أسبوع ترتفع نسبة النوم، أضف خمسة عشر دقيقة للوقت المسموح به في السرير"
+            ]
+          }
+        },
+        {
+          "h2": "ضبط الحافزية: إعادة تعليم الدماغ",
+          "paras": [
+            "ضبط الحافزية (Stimulus Control) يهدف إلى كسر الارتباط الذي تشكّل بين السرير واليقظة والإحباط. قاعدته البسيطة: السرير للنوم فقط لا للجوال ولا للتلفاز ولا للقراءة الطويلة ولا للتفكير في مشكلات اليوم. كل نشاط آخر يُمارَس خارج السرير.",
+            "الجانب الثاني منه هو ما يُسمى قاعدة العشرين دقيقة: إذا كنت في السرير ولا تستطيع النوم بعد عشرين دقيقة تقريباً، قُم واجلس في الغرفة المجاورة في ضوء خافت وقم بنشاط هادئ غير مُحفّز كقراءة كتاب ورقي أو الجلوس مع أفكارك. ارجع للسرير فقط حين تشعر بنعاس واضح. هذه الخطوة صعبة ليلاً لكنها تُعيد برمجة الدماغ تدريجياً.",
+            "التحليل المنهجي الذي نشرته مجلة JAMA Psychiatry عام 2024 حول مكوّنات CBT-I وجد أن ضبط الحافزية وتقييد النوم هما المكوّنان الأكثر فعالية بين أدوات البرنامج. الاسترخاء والتعليم النفسي والمراقبة الذاتية مفيدة لكنها تضيف إلى هذين الركيزتين."
+          ]
+        },
+        {
+          "h2": "المعتقدات التي تُغذّي الأرق",
+          "paras": [
+            "جزء مهم من CBT-I هو تصحيح المعتقدات غير الدقيقة عن النوم. من أشيعها وأكثرها ضرراً: 'يجب أن أنام ثماني ساعات وإلا سأكون كارثة غداً'. الحقيقة أن الاحتياج للنوم يتفاوت بين الأشخاص ويختلف مع العمر، وكثير من البالغين يؤدون وظائفهم بشكل طبيعي بست إلى سبع ساعات. القلق على النوم ذاته يمنعه في كثير من الأحيان. الاحتياج للنوم يتفاوت بين ست ساعات وتسع ساعات بحسب الشخص والعمر والوضع الصحي، وليس ثماني ساعات ثابتة للجميع.",
+            "معتقد آخر شائع: 'إذا لم أنم الليلة فسأفشل في كل شيء غداً'. هذا مبالغة جوهرية. الجسم مرن جداً ويمكنه التعويض. الدراسات تُظهر بشكل متسق أن تأثير ليلة سيئة واحدة على الأداء أقل بكثير مما يتصور معظم من يعانون من الأرق. القلق من هذا التأثير أحياناً يُسبّب ضرراً أكبر من الأرق نفسه. التحقق من أفكارنا بدلاً من قبولها حقائق هو مهارة تُكتسب.",
+            "الجزء المعرفي من CBT-I يساعدك على مراقبة هذه الأفكار بدلاً من تصديقها تلقائياً. 'لن أستطيع النوم مطلقاً' يُعاد فحصه بـ 'كم مرة كنت متأكداً من هذا ثم نمت في النهاية؟' هذا الفحص الموضوعي يُقلّل من إثارة الجهاز العصبي في وقت النوم ويُعيد بناء شعور بالكفاءة حيال النوم."
+          ]
+        },
+        {
+          "h2": "كيف تبدأ بنفسك إذا لم تتوفر جلسات معالج؟",
+          "paras": [
+            "CBT-I ذاتي ممكن وموثّق الفعالية. تطبيقات معتمدة مثل Sleepio وSomryst وغيرها تُوجّهك عبر البرنامج بشكل منظّم. كتب موجّهة ذاتياً كـ'Quiet Your Mind and Get to Sleep' بالإنجليزية أثبتت فعاليتها في التجارب. ابدأ دائماً بالأدوات الأساسية: دوّن نومك لأسبوع كامل، ثم طبّق تقييد النوم وضبط الحافزية معاً. الكتب الذاتية الموجّهة المبنية على CBT-I كـ",
+            "التوقع الصحيح يساعدك على الاستمرار. في الأسبوعين الأولين من تقييد النوم تشعر بتعب أكثر لا أقل. هذا طبيعي وليس علامة على فشل الأسلوب. النتائج عادة تبدأ بالظهور في الأسبوع الثالث والرابع ثم تتحسن بشكل ملحوظ بحلول الأسبوع السادس إلى الثامن.",
+            "إذا كان الأرق مصحوباً بأعراض اكتئاب أو قلق شديد أو مرتبطاً بانقطاع التنفس أثناء النوم (وهو اضطراب مختلف تماماً يتسم بالشخير والاستيقاظ بضيق)، فالتقييم الطبي ضروري قبل البدء في CBT-I منفرداً. الأرق الثانوي لحالة طبية أخرى يحتاج علاج السبب الأصلي أولاً قبل أي برنامج سلوكي."
+          ],
+          "visual": {
+            "type": "timeline",
+            "title": "ماذا تتوقع مع العلاج المعرفي السلوكي للأرق",
+            "items": [
+              {
+                "when": "الأسبوع 1 إلى 2",
+                "what": "تعب أكبر أثناء النهار، هذا طبيعي ومتوقع مع تقييد النوم"
+              },
+              {
+                "when": "الأسبوع 3 إلى 4",
+                "what": "تبدأ الكفاءة في التحسن، دخول أسرع في النوم واستيقاظات أقل"
+              },
+              {
+                "when": "الأسبوع 5 إلى 6",
+                "what": "تحسن ملحوظ في جودة النوم وتراجع القلق من وقت النوم"
+              },
+              {
+                "when": "بعد الأسبوع 8",
+                "what": "نتائج ثابتة تتحسن مع الوقت، ويمكن زيادة وقت السرير تدريجياً"
+              }
+            ]
+          }
+        },
+        {
+          "h2": "متى تحتاج تقييماً طبياً قبل أي علاج؟",
+          "paras": [
+            "ثمة حالات يجب فيها رؤية الطبيب قبل محاولة CBT-I بشكل ذاتي، وتجاهلها قد يجعل العلاج غير فعّال أو يُؤخر تشخيصاً مهماً. إذا كان شريكك يُخبرك أنك تشخر بشدة أو تتوقف عن التنفس لحظات خلال النوم، فهذا احتمال انقطاع التنفس أثناء النوم (Sleep Apnea) وهو اضطراب مختلف يحتاج تقييماً خاصاً ولا يُعالجه CBT-I وحده.",
+            "إذا كانت الأعراض بدأت مع دواء جديد أو مع مرض حديث، فتصحيح السبب الطبي أولى. بعض الأدوية كالكورتيزون والمنبّهات وبعض مضادات الاكتئاب تُسبّب أرقاً جانبياً واضحاً يختلف علاجه اختلافاً جذرياً عن الأرق الأساسي. كذلك متلازمة تململ الساقين والتي تتسم بحاجة لا تُقاوَم لتحريك الساقين عند الراحة تستحق تقييماً مستقلاً.",
+            "إذا كان الأرق مصحوباً بمزاج منخفض مستمر أو قلق شديد أو أفكار متطفلة يصعب التحكم فيها، يُفضّل التحدث مع طبيب أو معالج نفسي. الأرق كثيراً ما يصاحب الاكتئاب والقلق ويُفاقمهما، والعلاج قد يحتاج مقاربة مزدوجة."
+          ]
+        }
+      ],
+      "tie": "تطبيق صحتك يساعدك على تتبع جودة نومك يومياً ورصد الأنماط التي تُحسّنه أو تُسيء إليه، وهو المعلومة الأساسية التي يبني عليها العلاج المعرفي السلوكي للأرق.",
+      "faqs": [
+        {
+          "q": "كم يستغرق العلاج المعرفي السلوكي للأرق حتى يُعطي نتائج؟",
+          "a": "معظم الناس يبدأون في ملاحظة تحسن ملموس في الأسبوع الثالث إلى الرابع. البرنامج الكامل يمتد من خمسة إلى ثمانية أسابيع عادة. الأسبوع الأول والثاني يكونان الأصعب مع تقييد النوم، لكن النتائج التي تُبنى بعدها أكثر ثباتاً من نتائج الحبوب التي تختفي بمجرد توقفها."
+        },
+        {
+          "q": "هل يمكن أخذ حبوب النوم مؤقتاً خلال فترة العلاج المعرفي السلوكي؟",
+          "a": "بعض الإرشادات تسمح بهذا في حالات معينة تحت إشراف طبيب، لكن بصفة عامة يُفضّل الفصل بينهما. الحبوب تعمل بآلية مختلفة وقد تُخفّف الضغط الطبيعي الذي يبنيه تقييد النوم. إذا أردت استخدام حبوب في نفس الوقت، أخبر طبيبك واحرص على أن يكون الاستخدام مؤقتاً ومحدوداً."
+        },
+        {
+          "q": "هل ضبط الحافزية يعني ألا أقرأ في السرير أبداً؟",
+          "a": "بصرامة نعم في أثناء علاج الأرق النشط. القراءة الهادئة قصيرة قبل النوم مقبولة عند بعض المعالجين بعد تحسن الحالة. لكن خلال الأسابيع الأولى من العلاج، القاعدة أن كل شيء غير النوم والعلاقة الزوجية يُمارَس خارج السرير. هذا يُسرّع إعادة برمجة الارتباط السرير-نوم."
+        },
+        {
+          "q": "هل CBT-I مناسب لكبار السن؟",
+          "a": "نعم، وهو خيار مفضّل تحديداً عندهم لأن الحبوب المنومة تحمل مخاطر إضافية عند كبار السن كالتعثّر والسقوط وضعف الذاكرة. تقييد النوم يُطبَّق بتعديلات بسيطة للمسنّين مع مراعاة أن احتياج النوم قد ينخفض مع العمر."
+        },
+        {
+          "q": "هل يمكن أن يعود الأرق بعد انتهاء العلاج؟",
+          "a": "ممكن خاصة في أوقات الضغط الشديد. لهذا يشمل CBT-I جزءاً للوقاية من الانتكاس: تعلّم التعرف على علامات عودة الأرق وتطبيق الأدوات في وقتها. كثيرون يُجرون 'دورة مراجعة' مدتها أسبوع أو اثنان بمجرد أن يلاحظوا تدهوراً في النوم بدلاً من انتظاره حتى يُصبح مزمناً من جديد."
+        },
+        {
+          "q": "هل الأعشاب والميلاتونين تُساعد في الأرق المزمن؟",
+          "a": "الميلاتونين يُفيد بشكل أوضح في اضطرابات إيقاع الساعة البيولوجية كاضطراب الرحلات الجوية الطويلة أو لمن يعملون بنوبات ليلية، وليس في الأرق المزمن الأساسي بشكل كبير. الأعشاب كالبابونج والمليسة لها أدلة محدودة جداً. لا تُعالج الأسباب التي يُعالجها CBT-I."
+        },
+        {
+          "q": "متى يكون الأرق طارئاً يستدعي الطبيب فوراً؟",
+          "a": "الأرق وحده نادراً ما يكون طارئاً. لكن إذا رافقته أفكار عن إيذاء النفس فاطلب المساعدة الطبية النفسية في أقرب وقت. وإذا كان مصحوباً بألم شديد أو صعوبة تنفس ليلية أو استيقاظات متكررة مع خفقان قلب سريع، فالتقييم الطبي عاجل لاستبعاد سبب جسدي."
+        }
+      ]
+    },
+    "en": {
+      "title": "Insomnia: fixing sleep without sleeping pills",
+      "desc": "CBT-I outperforms sleeping pills long term. Practical steps on sleep restriction and stimulus control, and the dependence risk of benzodiazepines sold without prescription.",
+      "keywords": "insomnia treatment, CBT-I, cognitive behavioral therapy insomnia, sleep restriction, sleeping pills dependence, benzodiazepine insomnia, chronic insomnia, how to sleep better",
+      "h1": "Chronic insomnia: fixing sleep with CBT-I instead of pills",
+      "takeaways": [
+        "Cognitive Behavioral Therapy for Insomnia (CBT-I) is the international first-line treatment and outperforms sleeping pills in long-term outcomes across multiple published trials.",
+        "Sleep restriction and stimulus control are its two most powerful tools and can be applied with self-guided support without needing a specialist.",
+        "Benzodiazepine sleeping pills create physical dependence within weeks, and in many countries in the region they are sold without a prescription.",
+        "Chronic insomnia is defined as difficulty sleeping three or more nights per week for at least three months with daytime impact. One bad night is not insomnia.",
+        "Results with CBT-I come more slowly than pills in the first two weeks, then improve durably. With pills, the improvement lasts only while you take them."
+      ],
+      "sections": [
+        {
+          "h2": "What chronic insomnia actually is",
+          "paras": [
+            "Chronic insomnia is not occasional poor sleep. The DSM-5 diagnostic definition requires difficulty initiating sleep, maintaining sleep, or waking too early with inability to return to sleep, on three or more nights per week, for at least three months, with a clear negative effect on daytime functioning. A single difficult night is not chronic insomnia, and neither is the normal variability in sleep quality that everyone experiences.",
+            "A study published in BMC Psychiatry in 2021, examining the general population of Qatar, found that approximately ten percent of adults met diagnostic criteria for insomnia disorder. A 2024 study published in Scientific Reports examining Arab men in Jordan identified links between insomnia and anxiety, dietary patterns, and sleep habits. These figures suggest that clinical insomnia is common in the region and affects a substantial proportion of the population.",
+            "Chronic insomnia has two main presentations: sleep onset insomnia, where lying down and trying to sleep is consistently unsuccessful, and sleep maintenance insomnia, where falling asleep is possible but staying asleep is not. Many people experience both simultaneously. In both cases, the nervous system behaves as though it is on alert precisely at the moment sleep is wanted."
+          ]
+        },
+        {
+          "h2": "Why self-managed attempts usually fail",
+          "paras": [
+            "There is a very common vicious cycle. A person cannot sleep, spends longer in bed trying, the bed becomes mentally associated with frustration and wakefulness rather than rest, and the insomnia deepens. Many people compensate with long afternoon naps, which reduce the accumulated sleep pressure that makes falling asleep easy at night. Others shift their sleep timing at weekends, disrupting the biological clock that regulates when the body is ready to sleep.",
+            "The behaviours that seem helpful often sustain the insomnia. Watching television or using a phone until the last moment in bed, then attempting to force sleep, then becoming anxious when it does not happen within a few minutes: this is a loop that feeds insomnia rather than resolving it. The insomnia itself becomes a source of performance anxiety that keeps the nervous system in a state of heightened arousal at the one time when it needs to disengage.",
+            "The traditional solution is sleeping medication. It is effective in the short term but its fundamental problem is that it does not address the patterns causing the insomnia. It bypasses them temporarily. When the medication stops, the same patterns reassert themselves."
+          ]
+        },
+        {
+          "h2": "The risk of sleeping pills available in pharmacies",
+          "paras": [
+            "Benzodiazepines such as diazepam, nitrazepam, and closely related sleeping medications create physical dependence within a few weeks of regular use. A major review published in the journal Addiction in 2011 described this phenomenon in detail and noted that many patients were not adequately warned of this risk when the drugs were first prescribed. The body adapts to the presence of the drug, increasing doses are needed for the same effect, and when the drug is stopped, insomnia returns in a more severe form known as rebound insomnia.",
+            "In many Arab countries, anxiolytics, sedatives, and sleep aids are available without a prescription or with one that is easy to obtain. This means dependence develops over months or years without any medical oversight, and discontinuation becomes increasingly difficult. Patients who were prescribed a sleeping pill for a specific short-term problem find themselves unable to stop.",
+            "Newer sleeping pills such as zolpidem and over-the-counter antihistamine sleep aids carry different concerns. Zolpidem has documented effects on memory and behaviour during the night. Antihistamine sleep aids lose their effectiveness rapidly with tolerance. There is no sleeping pill that is safe for long-term use without medical supervision and monitoring."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "warn",
+            "title": "Signs that you may be over-relying on sleeping pills",
+            "items": [
+              "You cannot sleep even one night without the tablet",
+              "You need a higher dose than when you started for the same effect",
+              "You feel significant anxiety when the pills run out or you forget to take one",
+              "You have tried to stop more than once but the rebound insomnia was too severe",
+              "You have been taking them every night for more than four weeks"
+            ]
+          }
+        },
+        {
+          "h2": "What is CBT-I and why does it work?",
+          "paras": [
+            "Cognitive Behavioral Therapy for Insomnia (CBT-I) is a structured programme that addresses the mechanisms keeping insomnia going rather than just its symptoms. It typically runs over five to eight sessions and can be delivered by a therapist, through a self-guided workbook, or via a validated digital application. It is the recommended first-line treatment in the guidelines of major health bodies including the NHS, the American Academy of Sleep Medicine, and the European Sleep Research Society.",
+            "A systematic review and meta-analysis of nineteen clinical trials published in the Annals of Internal Medicine in 2015 found that CBT-I produced significant improvements in every key sleep measure: time to fall asleep, number of night-time awakenings, and time awake after sleep onset. Critically, the improvements persisted after the treatment ended, unlike the effect of medication which stops when the medication stops.",
+            "CBT-I is built from several tools used together: sleep restriction to rebuild sleep pressure, stimulus control to re-establish the bed as a sleep cue rather than a wakefulness cue, relaxation techniques, correction of inaccurate beliefs about sleep that maintain anxiety, and relapse prevention. A 2024 network meta-analysis published in JAMA Psychiatry confirmed that sleep restriction and stimulus control are the two most active components."
+          ]
+        },
+        {
+          "h2": "Sleep restriction: the hardest and most powerful tool",
+          "paras": [
+            "Sleep restriction sounds counterintuitive but is the strongest single component of CBT-I. The idea is this: instead of spending eight or nine hours in bed trying and mostly failing to sleep, you reduce the time permitted in bed to match only your actual current sleep duration. If you are genuinely sleeping five hours from eight hours in bed, you begin by permitting five and a half hours in bed and no more.",
+            "The HABIT trial published in The Lancet in 2023 showed that sleep restriction delivered by nurses in primary care significantly improved insomnia outcomes compared with usual care. This demonstrates that the technique does not require a specialist psychologist to be applied effectively. It can be learned and implemented with adequate guidance.",
+            "In the first week, most people feel more tired because the body is building the sleep debt needed to restore adequate sleep pressure. This is intentional and expected. As sleep efficiency, the ratio of actual sleep to time in bed, improves, the permitted time in bed is extended by fifteen minutes each week until the person reaches their optimal sleep duration without difficulty."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "How to apply sleep restriction step by step",
+            "items": [
+              "Keep a sleep diary for one week and record actual sleep time (not time in bed)",
+              "Set a fixed daily wake time and keep it every day including weekends, without exception",
+              "Set a bedtime so that time in bed does not exceed actual sleep hours by more than thirty minutes",
+              "Only go to bed when you feel genuinely sleepy, not just tired or because it is your usual time",
+              "If you have not fallen asleep within roughly twenty minutes, get out of bed and sit quietly elsewhere",
+              "Each week your sleep efficiency improves, add fifteen minutes to the permitted time in bed"
+            ]
+          }
+        },
+        {
+          "h2": "Stimulus control: retraining the brain",
+          "paras": [
+            "Stimulus control aims to break the learned association that has formed between the bed and wakefulness, frustration, and anxiety. Its central rule is that the bed is used only for sleep and intimacy. Not for phones, not for television, not for extended reading, not for lying awake thinking about the day. Every other activity happens outside the bed.",
+            "The second element is what is sometimes called the twenty-minute rule. If you are in bed and have not fallen asleep after approximately twenty minutes, get up and sit in another room in dim light doing something quiet and non-stimulating, such as reading a physical book or simply sitting with your thoughts. Return to bed only when sleepiness is obvious. This step is difficult at three in the morning but it is the mechanism by which the brain is gradually reconditioned.",
+            "The 2024 JAMA Psychiatry network meta-analysis found that of all CBT-I components, stimulus control and sleep restriction produced the largest and most consistent effects. Relaxation training, sleep hygiene education, and cognitive work added value, but these two are the core that drives the majority of improvement."
+          ]
+        },
+        {
+          "h2": "The beliefs that keep insomnia going",
+          "paras": [
+            "An important part of CBT-I involves identifying and examining beliefs about sleep that sustain anxiety around bedtime. One of the most common is the conviction that exactly eight hours is required and that anything less will make tomorrow unmanageable. In reality, sleep need varies substantially between individuals and across age, and many adults function well on six to seven hours. The anxiety about achieving a precise number often does more harm than the actual sleep deficit.",
+            "Another common belief is that one poor night will cause failure the next day in every area of life. Research consistently shows that the cognitive and physical effects of a single bad night are substantially less severe than most insomnia sufferers expect. The anticipatory anxiety about those effects, however, is a genuine problem because it activates the nervous system at the precise moment when disengagement is needed.",
+            "The cognitive component of CBT-I teaches you to notice these automatic thoughts rather than accepting them at face value. A thought such as 'I will never sleep properly again' can be examined: how many times was that thought present and yet sleep eventually came? This objective examination reduces the physiological arousal that otherwise peaks at bedtime."
+          ]
+        },
+        {
+          "h2": "Starting CBT-I without access to a therapist",
+          "paras": [
+            "Self-guided CBT-I is both possible and documented to be effective. Digital programmes such as Sleepio and Somryst are validated by clinical trials and guide you through the full protocol. Self-help books designed around the CBT-I framework have similarly shown effectiveness in randomised trials. The key is starting with the two core tools: a week of sleep diary logging followed by implementing sleep restriction and stimulus control simultaneously.",
+            "Setting the right expectation makes it easier to persist through the difficult first weeks. The first two weeks of sleep restriction usually feel harder, not easier, than before treatment began. This is normal and means the technique is working by creating the sleep pressure needed to restore efficient sleep. Results typically begin to appear by week three or four and continue improving through week six to eight.",
+            "If the insomnia is accompanied by symptoms of depression, significant anxiety, or if a partner reports loud snoring and periods of stopped breathing during sleep, a medical assessment is needed before starting self-guided CBT-I. Secondary insomnia caused by an underlying medical or psychiatric condition needs that condition addressed first. Sleep apnoea in particular is a separate disorder that CBT-I alone does not treat."
+          ],
+          "visual": {
+            "type": "timeline",
+            "title": "What to expect across a course of CBT-I",
+            "items": [
+              {
+                "when": "Weeks 1 to 2",
+                "what": "Increased daytime tiredness from sleep restriction; this is expected and means it is working"
+              },
+              {
+                "when": "Weeks 3 to 4",
+                "what": "Sleep efficiency begins to improve, faster sleep onset, fewer night-time awakenings"
+              },
+              {
+                "when": "Weeks 5 to 6",
+                "what": "Marked improvement in sleep quality and reduced bedtime anxiety"
+              },
+              {
+                "when": "After week 8",
+                "what": "Stable results that continue to consolidate; permitted time in bed increased gradually toward personal optimum"
+              }
+            ]
+          }
+        },
+        {
+          "h2": "When to see a doctor before trying CBT-I",
+          "paras": [
+            "There are situations where medical assessment should come before self-guided CBT-I. If your partner tells you that you snore loudly or stop breathing briefly during sleep, this suggests sleep apnoea, which is a distinct disorder requiring its own investigation. Sleep apnoea causes fragmented sleep by design and cannot be corrected by CBT-I alone. It is also associated with cardiovascular risk and deserves proper evaluation.",
+            "If your insomnia began with a new medication or alongside a physical illness, correcting that underlying cause may be the entire solution. Corticosteroids, certain stimulant medications, and some antidepressants cause insomnia as a side effect, and changing the medication regimen may resolve the sleep problem without any further intervention.",
+            "If insomnia is accompanied by persistent low mood, intense anxiety that is difficult to control, or intrusive thoughts, speaking with a doctor or mental health professional is important. Insomnia and depression frequently coexist and reinforce each other, and treatment may need to address both simultaneously. Insomnia that is part of a bipolar disorder picture in particular needs specialist management."
+          ]
+        }
+      ],
+      "tie": "The Sihtak app lets you track your sleep quality every day and identify the patterns that improve or disrupt it, which is the core data that CBT-I is built on.",
+      "faqs": [
+        {
+          "q": "How long before CBT-I produces results?",
+          "a": "Most people notice meaningful improvement by week three or four. The full course typically runs five to eight weeks. The first two weeks are usually the most difficult as sleep restriction creates short-term tiredness. Results built through CBT-I are substantially more durable than those from medication, persisting after the treatment ends rather than disappearing when it stops."
+        },
+        {
+          "q": "Can I take a sleeping pill while doing CBT-I?",
+          "a": "Some guidelines permit this in certain situations under medical supervision. Generally it is better to separate them because sleeping pills reduce the natural pressure that sleep restriction is designed to build. If you want to continue a sleeping pill during CBT-I, discuss it with your doctor and aim for the lowest effective dose with a clear plan for tapering."
+        },
+        {
+          "q": "Does stimulus control mean I can never read in bed?",
+          "a": "Strictly yes, during active treatment. Brief quiet reading before sleep is accepted by some practitioners once insomnia has resolved and sleep is consistently efficient. During the first weeks of treatment, the rule is that everything except sleep and intimacy happens outside the bed. This speeds up the reconditioning of the bed as a sleep signal."
+        },
+        {
+          "q": "Is CBT-I appropriate for older adults?",
+          "a": "Yes, and it is particularly preferred for older adults because sleeping pills carry substantially higher risks in this age group including falls, cognitive impairment, and next-day sedation. Sleep restriction is adjusted for older adults with the awareness that sleep need naturally decreases with age, and the target sleep duration is calibrated accordingly."
+        },
+        {
+          "q": "Can insomnia come back after CBT-I is complete?",
+          "a": "Yes, particularly during periods of high stress. This is why CBT-I includes relapse prevention: recognising early warning signs of returning insomnia and applying the tools promptly. Many people conduct a brief week or two of sleep restriction as soon as they notice a deterioration, rather than waiting until full chronic insomnia has re-established itself."
+        },
+        {
+          "q": "Does melatonin help with chronic insomnia?",
+          "a": "Melatonin is most clearly useful for circadian rhythm disorders such as jet lag or shift work, where the body clock is misaligned with the desired sleep time. For chronic insomnia in which the sleep window is appropriately timed but sleep itself is difficult, melatonin produces modest and inconsistent results in trials. It does not address the conditioned arousal that CBT-I treats."
+        },
+        {
+          "q": "When does insomnia become an emergency?",
+          "a": "Insomnia alone is rarely a medical emergency. However, if it is accompanied by thoughts of self-harm or suicide, seek mental health care promptly. If sleeplessness is accompanied by severe chest pain, shortness of breath, or repeated episodes of rapid heart rate waking you from sleep, urgent medical assessment is needed to exclude a physical cause."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,317 @@
+{
+  "slug": "genetic-counselling-arab-families",
+  "category": "genetic-conditions",
+  "chip_ar": "الصحة الوراثية",
+  "chip_en": "Genetic Health",
+  "date_iso": "2026-07-22",
+  "sources": [
+    {
+      "label": "Shenbagam S, Taylor A, Jain R et al: Genetic counseling in the Middle East: provider perspectives of patient attitudes and cultural challenges, Human genomics, 2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40394611/"
+    },
+    {
+      "label": "Al-Gazali L, Hamamy H, Al-Arrayad S et al: Genetic disorders in the Arab world, BMJ (Clinical research ed.), 2006",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17053236/"
+    },
+    {
+      "label": "Almarri HJ, Koodakkadavath S, Rahma AT et al: Voices in practice: Exploring genetic counseling ethical, cultural, social, and religious dynamics in the UAE, Journal of genetic counseling, 2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41239774/"
+    },
+    {
+      "label": "El Sabeh M, Kassir MF, Ghanem P et al: Consanguinity rates among Syrian refugees in Lebanon: a study on genetic awareness, Journal of biosocial science, 2021",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32398189/"
+    },
+    {
+      "label": "Albar MA: Counselling about genetic disease: an Islamic perspective, Eastern Mediterranean health journal, 1999",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11924100/"
+    },
+    {
+      "label": "Al-Aqeel AI: Ethical guidelines in genetics and genomics: an Islamic perspective, Saudi medical journal, 2005",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16380763/"
+    }
+  ],
+  "content": {
+    "ar": {
+      "title": "الاستشارة الوراثية: من يحتاجها وماذا يحدث فيها",
+      "desc": "كل ما تحتاج معرفته عن الاستشارة الوراثية: من يحتاجها، وما الذي يحدث في الجلسة، وكيف تُساعد الأسر العربية على فهم مخاطر الأمراض الوراثية والخيارات الإنجابية المتاحة.",
+      "keywords": "استشارة وراثية, الأمراض الوراثية, فحص الحاملين, شجرة العائلة الطبية, الوراثة, الزواج المحارمي, فحص ما قبل الزواج, مستشار وراثي",
+      "h1": "الاستشارة الوراثية: دليل عملي للأسرة العربية",
+      "takeaways": [
+        "الاستشارة الوراثية خدمة طبية متخصصة تُساعدك على فهم احتمالية إصابة أبنائك بمرض وراثي وما يمكن فعله حيال ذلك.",
+        "تشمل أسباب طلب الاستشارة: وجود مرض وراثي في الأسرة، أو زواج الأقارب، أو نتيجة غير طبيعية في الفحص الجيني.",
+        "المستشار الوراثي لا يُقرر عنك: دوره تزويدك بالمعلومات الدقيقة لتتخذ قراراتك بشكل مستنير.",
+        "اليقظة الدينية والثقافية جزء من عمل المستشارين الوراثيين في المنطقة، وليس عليك التخلي عن قيمك للاستفادة من الخدمة.",
+        "يمكن إجراء الاستشارة قبل الزواج، أو قبل الحمل، أو خلال الحمل، أو عند ظهور مرض في أحد أفراد الأسرة."
+      ],
+      "sections": [
+        {
+          "h2": "ما الاستشارة الوراثية وما الذي تختلف فيه عن الطبيب العادي؟",
+          "paras": [
+            "حين يُشخَّص طفل بمرض وراثي، أو تظهر نتيجة غير طبيعية في فحص جيني، يُحيلك الطبيب في الغالب إلى مستشار وراثي (Genetic Counsellor) أو طبيب وراثيات (Clinical Geneticist). الفرق بين هذين التخصصين والطبيب العادي ليس في المعرفة الطبية العامة، بل في القدرة على ترجمة المعلومات الجينية المعقدة إلى لغة يفهمها الفرد ويستطيع البناء عليها في قراراته الشخصية والأسرية.",
+            "الاستشارة الوراثية تختلف جوهريا عن أنواع الاستشارة الطبية الأخرى في نقطة واحدة مهمة: المعلومة التي تحصل عليها لا تخصك وحدك. نتيجة تُثبت أنك حامل لجين معطوب تعني أن إخوتك وأبناءك ووالديك قد يكونون في الوضع ذاته. المستشار يساعدك على التفكير في كيفية مشاركة هذه المعلومة مع أفراد أسرتك دون إحراج أو ضغط.",
+            "في المنطقة العربية، تكشف الدراسات أن كثيرا من الأسر لا تعرف أن هذه الخدمة موجودة. مقال نشرته مجلة Human Genomics عام 2025 استعرض وجهات نظر مزودي خدمات الاستشارة الوراثية في منطقة الشرق الأوسط ووثّق أن عقبات الوعي والوصمة الاجتماعية والتصورات الدينية الخاطئة تحول دون استفادة كثير من العائلات التي تحتاج إلى هذه الخدمة فعلا."
+          ]
+        },
+        {
+          "h2": "من يجب أن يطلب استشارة وراثية؟",
+          "paras": [
+            "قائمة الحالات التي توجب طلب الاستشارة الوراثية أوسع مما يتوقع معظم الناس. الحالات الواضحة تشمل: إنجاب طفل مصاب بمرض وراثي معروف كمتلازمة داون أو التهابات الخلايا المنجلية أو بيلة الفينيل كيتون. ووفاة طفل في سن مبكرة دون سبب واضح. ووجود تشوه خلقي في الجنين عند الفحص بالموجات فوق الصوتية.",
+            "حالات أقل وضوحا لكنها بالغة الأهمية تشمل: زواج الأقارب من الدرجة الأولى أو الثانية، حتى لو كانت الأسرة بصحة جيدة في الظاهر. وجود أكثر من فرد في الأسرة يعاني من حالة طبية غير مفهومة أو نادرة. الإجهاض المتكرر ثلاث مرات أو أكثر دون سبب واضح. نتيجة غير طبيعية في فحص ما قبل الولادة أو الكروموسومات.",
+            "دراسة نشرتها مجلة BMJ عام 2006 وأعدها فريق من العلماء العرب وثّقت أن الأمراض الوراثية في العالم العربي تحمل طابعا خاصا بسبب نسب زواج الأقارب المرتفعة، وهي تتجاوز 25% في الأردن والعراق والسودان ومصر وتصل في بعض المجتمعات إلى أكثر من 50%. هذا لا يعني أن زواج الأقارب ضار دائما، بل يعني أن الفحص الوراثي قبل الزواج يكتسب أهمية أكبر في هذه البيئة."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "info",
+            "title": "متى تطلب استشارة وراثية",
+            "items": [
+              "طفل في الأسرة مصاب بمرض وراثي معروف أو تشوه خلقي",
+              "ثلاثة إجهاضات أو أكثر دون سبب طبي واضح",
+              "زواج الأقارب من الدرجة الأولى أو الثانية مع رغبة في الإنجاب",
+              "نتيجة غير طبيعية في فحص الكروموسومات أو فحص ما قبل الولادة",
+              "تاريخ عائلي لأمراض كالهيموفيليا أو الضمور العضلي أو مرض هنتنغتون"
+            ]
+          }
+        },
+        {
+          "h2": "ماذا يحدث في جلسة الاستشارة الوراثية؟",
+          "paras": [
+            "الجلسة الأولى تبدأ بأخذ التاريخ الطبي العائلي التفصيلي على مدى ثلاثة أجيال على الأقل. يُسألك المستشار عن الأمراض الموجودة في أسرتك من جهة الأب والأم معا: من مات مبكرا وكيف؟ هل هناك أطفال توفوا قبل البلوغ؟ هل هناك أمراض متكررة في الجيل ذاته؟ هل ثمة إخوة يعانون من الحالة ذاتها أو حالة مماثلة؟ يُرسم من هذه المعلومات ما يُسمى شجرة العائلة الطبية أو النسب (Pedigree)، وهي أداة بصرية تُظهر نمط انتقال المرض في العائلة إن وُجد، وتُسهل على المستشار تحديد احتمالات الإصابة بدقة.",
+            "بعد رسم الشجرة، يشرح المستشار نمط الوراثة المحتمل: هل المرض جسدي سائد (Autosomal Dominant) بمعنى أن نسخة واحدة معطوبة تكفي لإحداث المرض؟ أم جسدي متنحٍّ (Autosomal Recessive) كما هو الحال في الثلاسيميا وبيلة الفينيل كيتون وكثير من الأمراض الشائعة في المنطقة العربية حيث تُلزم نسختان معطوبتان؟ أم مرتبط بالكروموسوم X كما في الهيموفيليا حيث تُصيب الذكور وتنتقل عبر الإناث؟ فهم هذا النمط هو الأساس الذي تُبنى عليه كل الاحتمالات والنصائح اللاحقة.",
+            "تُقدَّم الاحتمالات بشكل واضح وصادق دون مداهنة. احتمال 25% يعني واحدا من كل أربعة أطفال في المتوسط، لا يعني بالضرورة أن الطفل الأول أو الثاني أو الثالث سيُصاب، بل أن كل حمل يحمل هذه النسبة مستقلة. المستشار لا يُقرر ما يجب فعله: يُعطيك المعلومة وسياقها الكامل ثم يُبقي القرار لك تماما. هذا المبدأ يُسمى التوجيه غير الموجِّه (Non-directive Counselling) وهو ركيزة أخلاقية أساسية في هذا التخصص، يميزه عن أي شكل من أشكال الضغط أو الإلزام."
+          ]
+        },
+        {
+          "h2": "فحص الحاملين: ماذا تعني نتيجة إيجابية؟",
+          "paras": [
+            "فحص الحاملين (Carrier Testing) يُحدد ما إذا كنت تحمل نسخة واحدة من جين معطوب دون أن تُصاب بالمرض. الحامل بصحة جيدة تماما في الغالب، لكنه يمكن أن ينقل الجين المعطوب لأبنائه. إذا كان الزوجان كلاهما حاملَين لنفس الجين المعطوب كما يحدث في الثلاسيميا أو بيلة الفينيل كيتون، فإن احتمال إصابة كل حمل يبلغ 25%.",
+            "نتيجة إيجابية لحامل ليست مرضا. كثيرون يُصدمون حين يُخبَرون أنهم حاملون لجين الثلاسيميا أو الخلايا المنجلية، ظانين أنهم مرضى. الفارق جوهري: الحامل لا يُعاني من المرض، لكنه يحتاج إلى فحص شريكه قبل الزواج أو الحمل.",
+            "في السعودية والإمارات والكويت والبحرين وقطر وعُمان، أصبح فحص الحاملين قبل الزواج إلزاميا أو شبه إلزامي ويشمل الثلاسيميا والخلايا المنجلية وغيرها. الهدف ليس منع الزواج بل تمكين الأزواج من اتخاذ قرارات مستنيرة. دراسة حول الوعي الوراثي في منطقة الشرق الأوسط، نشرتها مجلة Human Genomics عام 2024، وجدت أن الوعي بأهمية فحص الحاملين لا يزال محدودا خارج المدن الكبرى."
+          ],
+          "visual": {
+            "type": "stats",
+            "items": [
+              {"value": "25%", "label": "احتمال إصابة كل حمل إذا كان الوالدان كلاهما حاملَين لنفس الجين المتنحي", "tone": "warn"},
+              {"value": "50%", "label": "احتمال أن يكون الطفل حاملا فقط (غير مصاب) في الوضع نفسه", "tone": "info"},
+              {"value": "25%", "label": "احتمال أن يكون الطفل سليما تماما من الجين المعطوب", "tone": "good"}
+            ]
+          }
+        },
+        {
+          "h2": "الخيارات الإنجابية المتاحة حين يكون كلا الزوجين حاملَين",
+          "paras": [
+            "حين يعلم الزوجان قبل الإنجاب أن كليهما حامل لنفس الجين المعطوب، لا يعني ذلك أن عليهما التوقف عن الإنجاب. بل يعني أن لديهما خيارات يمكن التفكير فيها بصدر مفتوح. الخيار الأول هو الإنجاب الطبيعي مع قبول الاحتمالات وإجراء فحص ما قبل الولادة لمعرفة وضع كل حمل على حدة. كثير من الأسر تختار هذا الطريق.",
+            "الفحص قبل الولادة (Prenatal Diagnosis) يُجرى إما عبر فحص الزغابات المشيمية (CVS) بين الأسبوعين الحادي عشر والثالث عشر، أو بزل السائل الأمنيوسي (Amniocentesis) بعد الأسبوع الخامس عشر. كلاهما يُحدد ما إذا كان الجنين مصابا أو حاملا أو سليما. القرار بعد ذلك يُترك للوالدين وفق قناعاتهما الدينية والأخلاقية. في سياق إسلامي، أجازت كثير من هيئات الفقه الإسلامي المعتمدة الإجهاض العلاجي لأمراض خطيرة قبل الأسبوع الثاني والعشرين، لكن المسألة تبقى خاضعة للاجتهاد الشخصي.",
+            "الخيار الثالث هو التشخيص الوراثي قبل الزرع (PGT) المقرون بالإخصاب المخبري، وفيه تُفحص الأجنة قبل نقلها إلى الرحم لاختيار الأجنة السليمة. هذا الخيار مكلف ولا يضمن الحمل، لكنه يتيح للأسرة الإنجاب دون قلق من إصابة الطفل. أجازته عدة مجالس فقهية إسلامية في السياق الطبي الصحيح. يتوفر في عدد من المراكز الكبرى في السعودية والإمارات ومصر والأردن."
+          ]
+        },
+        {
+          "h2": "الاستشارة الوراثية والإسلام: لا تعارض بينهما",
+          "paras": [
+            "كثيرون في منطقتنا يترددون في طلب الاستشارة الوراثية ظنا أنها تتعارض مع التوكل على الله أو مع حكمة القدر. لكن الفقه الإسلامي المعاصر واضح في هذه المسألة: الأخذ بالأسباب والسعي للحفاظ على النسل الصحيح من أعلى مقاصد الشريعة. الفحص الوراثي والاستشارة أدوات للأخذ بالأسباب لا تعارض معتقدا دينيا.",
+            "نشر الدكتور محمد علي البار ورقة في المجلة الصحية لشرق المتوسط عام 1999 حول الاستشارة الوراثية من منظور إسلامي أكد فيها أن الإسلام يُشجع الوقاية والفهم العلمي للأمراض الوراثية. وأكدت دراسة نشرتها مجلة Saudi Medical Journal عام 2005 أن الاستشارة الوراثية تنسجم مع القيم الإسلامية حين تُقدَّم باحترام القناعات الدينية للمريض.",
+            "مقال نشرته مجلة Journal of Genetic Counseling عام 2025 يستعرض تجارب الممارسين في الإمارات ويُثبت أن المستشارين الوراثيين الناجحين في المنطقة يعملون بشكل مباشر مع القناعات الدينية والثقافية للأسر، لا رغما عنها. الاستشارة ليست إجبارا على قرار، بل إضاءة لخيارات كانت موجودة دائما."
+          ]
+        },
+        {
+          "h2": "كيف تُحضّر لجلسة الاستشارة الوراثية؟",
+          "paras": [
+            "الاستعداد الجيد يجعل الجلسة أكثر فائدة وأقصر وقتا. اجمع قبل الجلسة: نتائج أي فحوصات وراثية أُجريت سابقا لأي فرد في الأسرة، وتقارير الوفاة أو التشخيص إن وُجدت لأطفال توفوا مبكرا، وأسماء الأمراض المزمنة التي تتكرر في أسرتك من الجهتين. إن كنت لا تعرف التفاصيل الدقيقة، اكتب ما تعرفه واترك المستشار يُكمل الصورة.",
+            "يُفضل حضور الاستشارة مع الشريك إن أمكن، خاصة في الاستشارات ما قبل الزواج أو ما قبل الإنجاب. بعض الحالات تتطلب حضور أحد الوالدين أو الأشقاء لفحوصات تكميلية. لا تتردد في اصطحاب شخص تثق به كدعم عاطفي، إذ إن المعلومات التي ستسمعها قد تكون ثقيلة وتحتاج من تُناقشه.",
+            "اكتب أسئلتك مسبقا. من الأسئلة التي يُنصح بطرحها: ما الاحتمال الدقيق لإصابة طفلي القادم؟ هل هناك فحص يمكن إجراؤه الآن لتأكيد التشخيص؟ ما الخيارات المتاحة وما تكلفتها في بلدي؟ هل يجب أن أُخبر إخوتي وأقاربي؟ وما التسلسل الذي يُنصح به لذلك؟"
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "كيف تستعد لجلسة الاستشارة الوراثية",
+            "items": [
+              "اجمع نتائج أي فحوصات وراثية أُجريت لك أو لأفراد أسرتك",
+              "اكتب قائمة بالأمراض المتكررة في أسرتك من جهة الأب والأم",
+              "إن كان هناك طفل توفي مبكرا أو أُصيب بمرض نادر، احضر تقاريره الطبية",
+              "أحضر شريكك أو أحد أفراد الأسرة الموثوقين كدعم",
+              "اكتب أسئلتك قبل الجلسة حتى لا تنساها"
+            ]
+          }
+        },
+        {
+          "h2": "أين تجد خدمات الاستشارة الوراثية في منطقتنا؟",
+          "paras": [
+            "خدمات الوراثة السريرية متاحة في أغلب المستشفيات التعليمية الكبرى في المنطقة، لكنها تتفاوت تفاوتا كبيرا في الجودة والتخصص. في السعودية، توجد مراكز وراثة متخصصة في مستشفى الملك فيصل التخصصي وعدد من مستشفيات وزارة الصحة الكبرى. في الإمارات، قدمت جهات كمستشفى توام في العين نماذج رائدة في الوراثة السريرية على مستوى العالم العربي. في مصر والأردن والكويت والبحرين توجد وحدات وراثة في مستشفيات الجامعات والإحالة الوطنية.",
+            "في دول تعاني من نقص في الخدمات كسوريا واليمن والسودان، يمكن الوصول إلى استشارات عن بُعد عبر مراكز متخصصة في لبنان أو الأردن أو الإمارات. بعض العيادات الإلكترونية المتخصصة في الوراثة تقدم خدمات عن بُعد باللغة العربية. فحوصات الحمض النووي يمكن إجراؤها محليا وإرسال نتائجها للمراجعة.",
+            "لا تتردد في طلب الإحالة من طبيبك المعالج. إن كان طبيبك العام أو طبيب الأطفال لا يُحيلك وأنت تعتقد أنك بحاجة إلى استشارة وراثية، فلك حق طلب هذه الإحالة بشكل صريح. خدمة الاستشارة الوراثية ليست فاخرة أو اختيارية في حالات كثيرة، بل هي جزء أساسي من الرعاية الطبية المناسبة."
+          ]
+        }
+      ],
+      "tie": "تطبيق صحتك يتيح لك بناء سجل صحي عائلي منظم يشمل الأمراض الموجودة في أسرتك وتواريخها. هذا السجل يُختصر الوقت في جلسة الاستشارة الوراثية ويجعلها أكثر دقة وإفادة.",
+      "faqs": [
+        {
+          "q": "هل الاستشارة الوراثية تعني أن علي إجراء فحوصات جينية مكلفة؟",
+          "a": "ليس بالضرورة. كثير من الاستشارات الوراثية تُجرى على أساس التاريخ العائلي والفحوصات الدموية العادية كصورة الدم والكهرباء. الفحوصات الجينية الجزيئية المتخصصة تُطلب فقط حين تكون ضرورية لتأكيد التشخيص أو تحديد النمط الجيني بدقة."
+        },
+        {
+          "q": "هل نتائج الاستشارة الوراثية سرية؟",
+          "a": "نعم، المعلومات التي تُشاركها مع المستشار الوراثي سرية طبيا ولا تُشارك مع أحد بدون إذنك. لكن المستشار سيناقش معك من الأُولى بالمعرفة في أسرتك وكيف يمكن مشاركة المعلومة بطريقة لا تُسبب إشكاليات اجتماعية."
+        },
+        {
+          "q": "أبلغ من العمر 45 عاما ولدي تاريخ عائلي لمرض وراثي. هل الاستشارة مفيدة لي؟",
+          "a": "نعم، لأسباب متعددة. أولا، أبناؤك وأحفادك يستفيدون من معرفة وضعهم الوراثي. ثانيا، بعض الأمراض الوراثية كسرطان الثدي الوراثي وداء القلب العائلي لها علاجات وقائية. ثالثا، فحص شقيقاتك وإخوتك قد يُنقذ حياة أحدهم."
+        },
+        {
+          "q": "هل تزوج الأقارب يعني بالضرورة الحاجة إلى استشارة وراثية؟",
+          "a": "لا يُلزم دائما، لكن يُنصح به خاصة إن كانت الأسرة الممتدة تشهد أمراضا متكررة غير مفهومة. زواج الأقارب يرفع احتمال أن يحمل الزوجان جينا متنحيا واحدا دون علمهما. الفحص المبكر يُمنح طمأنينة، وإن وُجد خطر فإن التخطيط المبكر يُتيح خيارات أفضل."
+        },
+        {
+          "q": "ما الفرق بين المستشار الوراثي وطبيب الوراثيات؟",
+          "a": "طبيب الوراثيات طبيب متخصص يُشخّص الأمراض الوراثية ويُعالجها. المستشار الوراثي متخصص في التواصل والتعليم وتمكين الأسرة من فهم الخيارات. كلاهما يتكاملان، وكثير من المراكز تقدمهما معا. في المنطقة، الشح في كلا التخصصين قائم، لكن الأعداد تتزايد."
+        },
+        {
+          "q": "هل يمكن إجراء الاستشارة الوراثية قبل الزواج وليس فقط بعده؟",
+          "a": "الاستشارة قبل الزواج هي الأمثل، لأنها تُتيح للزوجين أكبر قدر من الخيارات. كثير من دول الخليج تشترط فحص ما قبل الزواج رسميا، وهو خطوة أولى جيدة. لكن الاستشارة الوراثية تذهب أعمق من الفحص الروتيني وتُفيد حتى لو أُجريت بعد الزواج."
+        },
+        {
+          "q": "طفلي أُشخّص بمتلازمة داون. هل يعني ذلك أن كل أطفالي القادمين سيُصابون؟",
+          "a": "ليس بالضرورة. معظم حالات متلازمة داون (نحو 95%) تنشأ من خطأ عشوائي في انقسام الخلية أثناء تكوين البويضة أو الحيوان المنوي، ولا تنتقل بنمط وراثي منتظم. الاحتمال يرتفع مع تقدم عمر الأم. نسبة صغيرة (حوالي 3-4%) مرتبطة بإعادة ترتيب كروموسومي وراثية وتستوجب فحص الوالدين."
+        }
+      ]
+    },
+    "en": {
+      "title": "Genetic counselling: what happens and who should go",
+      "desc": "Who needs genetic counselling, what happens in the session, carrier testing explained, and reproductive options presented with respect for cultural and religious values.",
+      "keywords": "genetic counselling, genetic counseling Arab, carrier testing, pedigree family tree, consanguinity genetic risk, inherited disease Middle East, prenatal diagnosis, clinical geneticist",
+      "h1": "Genetic Counselling: A Practical Guide for Arab Families",
+      "takeaways": [
+        "Genetic counselling is a medical specialty that helps you understand the probability of an inherited condition in your family and what can be done about it.",
+        "Common reasons to be referred include a child diagnosed with a genetic condition, recurrent miscarriage, consanguineous marriage, or an abnormal prenatal test result.",
+        "The counsellor's role is to inform, not to decide. You leave with accurate information and make your own decisions.",
+        "Genetic counselling is compatible with Islamic values and does not require you to abandon religious or cultural beliefs to use the service.",
+        "Counselling can take place before marriage, before conception, during pregnancy, or after a diagnosis in any family member."
+      ],
+      "sections": [
+        {
+          "h2": "What is genetic counselling and how does it differ from a regular appointment?",
+          "paras": [
+            "When a child is diagnosed with an inherited condition, or when a prenatal test returns an unexpected result, a family is usually referred to a genetic counsellor or clinical geneticist. The difference between these specialists and a general physician is not in their medical knowledge: it is in their specific ability to translate complex genetic information into language that a family can act on, and to help them navigate decisions that are simultaneously medical, personal, and often religious.",
+            "Genetic counselling differs from most medical consultations in one important respect: the information you receive does not belong only to you. A result showing that you carry a faulty gene copy means that your siblings, parents, and children may be in the same position. The counsellor helps you think through how to share that information with family members in a way that is honest without being destructive.",
+            "A 2025 paper in Human Genomics examining provider perspectives on genetic counselling in the Middle East found that stigma, limited awareness, and misconceptions about the relationship between genetics and religion are the primary barriers preventing families who genuinely need the service from accessing it. The same paper noted that counsellors working in the region report that the vast majority of families, once engaged, respond positively to accurate information presented respectfully."
+          ]
+        },
+        {
+          "h2": "Who should seek genetic counselling?",
+          "paras": [
+            "The list of situations warranting referral is broader than most people expect. The obvious cases include: a child in the family diagnosed with a known genetic condition such as thalassaemia, sickle cell disease, Down syndrome, or phenylketonuria. A child who died in infancy without a clear cause. A structural abnormality found on an antenatal ultrasound scan. An abnormal chromosome result from amniocentesis or a chorionic villus sample.",
+            "Less obvious but equally important situations include: first or second degree consanguineous marriage with a plan to have children, even when the extended family appears healthy. Three or more unexplained miscarriages. Multiple members of the same family affected by a condition that is not well understood. A personal or family history of conditions known to have a genetic basis, including haemophilia, muscular dystrophy, certain heart muscle diseases, and hereditary cancers.",
+            "A landmark paper published in the BMJ in 2006 by a team of Arab geneticists documented that genetic disorders in the Arab world carry a distinct profile driven by high rates of consanguineous marriage, which exceed 25 percent in Jordan, Iraq, Sudan, and Egypt and reach more than 50 percent in some communities. This does not mean consanguineous marriage is invariably harmful. It does mean that carrier screening before marriage is more valuable in this context than in populations where unrelated couples are the norm."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "info",
+            "title": "When to ask for a genetic counselling referral",
+            "items": [
+              "A child in the family with a diagnosed genetic or chromosomal condition",
+              "Three or more unexplained miscarriages",
+              "Consanguineous marriage with plans to conceive",
+              "Abnormal result on a prenatal chromosome or DNA test",
+              "Family history of haemophilia, muscular dystrophy, or hereditary cancer"
+            ]
+          }
+        },
+        {
+          "h2": "What actually happens in a genetic counselling session?",
+          "paras": [
+            "The first session opens with a detailed family history covering at least three generations. The counsellor asks about conditions on both sides of the family: who died young and from what, whether any children failed to thrive or had unexplained developmental delay, whether any condition seems to reappear in the same generation or skip generations. From these answers the counsellor draws a pedigree, a visual diagram of the family tree that makes inheritance patterns visible at a glance.",
+            "Once the pedigree is drawn, the counsellor explains which inheritance pattern best fits what is seen. Autosomal dominant conditions, where one faulty gene copy is enough to cause disease, appear in every generation and affect both males and females equally. Autosomal recessive conditions, which include thalassaemia, PKU, and many of the common regional conditions, require two faulty copies and typically appear in siblings without an affected parent. X-linked conditions like haemophilia affect males and are carried by females.",
+            "Probabilities are presented clearly and honestly. A 25 percent chance means one in every four pregnancies on average. A 50 percent chance means one in two. The counsellor gives you these numbers and their context, then steps back. This principle is called non-directive counselling and it is a fundamental ethical commitment in the specialty: the counsellor informs, you decide. No reputable genetic counsellor will tell you what reproductive choice to make."
+          ]
+        },
+        {
+          "h2": "Carrier testing: what a positive result means",
+          "paras": [
+            "Carrier testing identifies whether you carry a single faulty copy of a gene without being affected by the associated disease yourself. Carriers are fully healthy. The significance of carrying becomes relevant only in reproduction: if both partners carry a faulty copy of the same autosomal recessive gene, each pregnancy carries a 25 percent chance of inheriting two faulty copies and being affected.",
+            "A positive carrier result is not a diagnosis of disease. This distinction matters enormously because many people who are told they carry the gene for thalassaemia or sickle cell disease believe they have been told they are ill. They have not. What they have been given is information that affects reproductive decisions, not their own health or life expectancy. Carriers live normal healthy lives in almost all autosomal recessive conditions.",
+            "Mandatory or semi-mandatory premarital carrier screening programmes exist in Saudi Arabia, UAE, Kuwait, Bahrain, Qatar, and Oman. They screen primarily for thalassaemia and sickle cell disease. The purpose is not to prevent marriages but to ensure couples make informed decisions. A 2021 study in the Journal of Biosocial Science examining consanguinity and genetic awareness among Syrian refugees in Lebanon found that even among well-educated young adults, understanding of what a carrier result actually means was frequently incomplete, underscoring the need for counselling alongside any screening programme."
+          ],
+          "visual": {
+            "type": "stats",
+            "items": [
+              {"value": "25%", "label": "chance of an affected child when both parents carry the same recessive gene", "tone": "warn"},
+              {"value": "50%", "label": "chance the child will be a healthy carrier but unaffected", "tone": "info"},
+              {"value": "25%", "label": "chance the child inherits no faulty copies and is entirely unaffected", "tone": "good"}
+            ]
+          }
+        },
+        {
+          "h2": "Reproductive options when both partners are carriers",
+          "paras": [
+            "Knowing before or during pregnancy that both partners carry the same recessive gene does not mean ceasing to have children. It means that options exist and can be considered deliberately. The first option is natural conception, accepting the odds and using prenatal diagnosis to assess each individual pregnancy. Many couples choose this path and have healthy children alongside affected ones, adapting their support accordingly.",
+            "Prenatal diagnosis for genetic conditions can be performed by chorionic villus sampling (CVS) between eleven and fourteen weeks of pregnancy, or by amniocentesis from fifteen weeks. Both involve taking a small sample from placental or amniotic fluid and testing foetal DNA. The result tells the family whether this particular pregnancy is affected, a carrier, or entirely unaffected. What they do with that information is their decision, shaped by their own religious convictions and family circumstances.",
+            "Preimplantation genetic testing (PGT) combined with in vitro fertilisation allows embryos to be tested before transfer to the uterus, selecting unaffected embryos for implantation. This avoids any decision about an established pregnancy. It is expensive, does not guarantee a successful pregnancy, and is not available in all countries in the region. However, it is available in specialist centres in Saudi Arabia, UAE, Egypt, and Jordan, and has been permitted under Islamic jurisprudence in the appropriate clinical context by several scholarly councils."
+          ]
+        },
+        {
+          "h2": "Genetic counselling and Islamic values: no contradiction",
+          "paras": [
+            "Many families in the region hesitate to pursue genetic counselling from a concern that it conflicts with tawakkul (trust in God) or with acceptance of divine decree. Islamic scholarship on this question is consistent and clearly established: seeking medical knowledge and taking precautions to protect the health of future generations is a religious duty, not a rejection of faith. The Quran and prophetic tradition repeatedly encourage the pursuit of knowledge and prevention of harm.",
+            "A paper by Dr Mohammed Ali Al-Bar published in the Eastern Mediterranean Health Journal in 1999 reviewed genetic counselling from an Islamic perspective and affirmed that understanding genetic disease and counselling families about it is entirely consistent with Islamic principles. A paper in the Saudi Medical Journal in 2005 by Dr Aida Al-Aqeel extended this analysis to genomics and gene therapy, establishing that Islamic ethics supports the responsible use of genetic knowledge to prevent suffering.",
+            "A 2025 study published in the Journal of Genetic Counseling, based on interviews with practitioners in the UAE, confirmed that successful genetic counselling in the region is not about overriding religious belief but about working within it. Practitioners who engage directly with patients' faith frameworks, rather than treating religion as an obstacle to navigate around, consistently achieve better outcomes in terms of informed decision-making and family engagement."
+          ]
+        },
+        {
+          "h2": "How to prepare for a genetic counselling session",
+          "paras": [
+            "Good preparation makes the session more productive and reduces the number of follow-up appointments needed. Before you go, gather: any previous genetic test results for yourself or any family member, medical records or death certificates for children who died young or had unexplained illness, and the names of any conditions that recur in your extended family on both sides. If you do not know the specific diagnoses, write down what you know and let the counsellor help fill in the picture.",
+            "Attend with your partner if the consultation relates to a shared reproductive decision. Some follow-up tests may require samples from parents or siblings, so knowing who else might be asked to participate helps set expectations. Bringing a trusted family member or friend for emotional support is entirely appropriate: the information you receive may be significant and having someone else present who can listen alongside you is helpful.",
+            "Write your questions down in advance. Useful questions include: what is the exact probability for each pregnancy, what tests are available now to clarify the situation, what options exist in this country and what do they cost, and how should this information be shared with the broader family. The counsellor will work through all of these but having them written prevents important questions from being forgotten in the moment."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "How to prepare for your genetic counselling appointment",
+            "items": [
+              "Gather any previous genetic test results for you or your family members",
+              "List conditions that recur in your extended family on both sides",
+              "Bring medical records for any child who died young or had unexplained illness",
+              "Attend with your partner or a trusted family member for support",
+              "Write your questions down before the appointment"
+            ]
+          }
+        },
+        {
+          "h2": "Where to find genetic counselling services in the region",
+          "paras": [
+            "Clinical genetics and genetic counselling services are available at most major teaching hospitals in the region, though the depth of expertise varies considerably. In Saudi Arabia, specialist genetics centres operate at King Faisal Specialist Hospital in Riyadh and at major Ministry of Health hospitals. The UAE has developed some of the most advanced genetic medicine programmes in the Arab world, particularly through Tawam Hospital in Al Ain, which has served as a regional reference centre. Jordan, Kuwait, Bahrain, and Egypt have genetics units at their leading university and national referral hospitals.",
+            "In countries where services are limited or disrupted, including Syria, Yemen, Sudan, and Lebanon, remote consultation with a genetics centre in Jordan, the UAE, or Egypt is increasingly possible. DNA samples collected locally can be sent to reference laboratories in the region or internationally, with results reviewed via telemedicine. Some specialist genetics clinics offer Arabic-language remote consultations that have expanded access meaningfully in recent years.",
+            "Do not hesitate to ask your general practitioner or paediatrician for a referral specifically to a clinical geneticist or genetic counsellor. If the first doctor does not refer you and you believe you have grounds, you are entitled to request it directly. Genetic counselling is not a luxury service in the situations where it is genuinely indicated: it is the appropriate standard of care."
+          ]
+        }
+      ],
+      "tie": "The Sihtak app lets you build a structured family health record that captures conditions across generations. Bringing this record to a genetic counselling session saves time and helps the counsellor build a more accurate picture of your family's risk profile.",
+      "faqs": [
+        {
+          "q": "Does genetic counselling mean I will need expensive DNA tests?",
+          "a": "Not necessarily. Many genetic counselling consultations are completed on the basis of the family history and standard blood tests such as a full blood count and haemoglobin electrophoresis. Specific DNA tests are ordered only when they are needed to confirm a diagnosis or identify a carrier with certainty, and their cost varies widely by country and hospital sector."
+        },
+        {
+          "q": "Is everything I share in a genetic counselling session confidential?",
+          "a": "Yes, medical confidentiality applies fully. The counsellor will discuss with you who else in your family might benefit from knowing the result and how to approach sharing it, but nothing is communicated to family members or third parties without your consent. The decision about who to tell and when is yours."
+        },
+        {
+          "q": "I am 45 and have a family history of a genetic disease. Is it too late for counselling to help?",
+          "a": "No. Your adult children and siblings may be carriers or at risk themselves and can benefit from testing. Some genetic conditions, including hereditary heart disease and certain cancers, have preventive interventions that are relevant at any age. Knowing the family pattern also helps any future pregnancies in your children's generation."
+        },
+        {
+          "q": "Does consanguineous marriage automatically mean we need genetic counselling?",
+          "a": "Not automatically, but it is strongly advisable if the extended family has any history of unexplained illness, infant death, or conditions known to be genetic. Consanguinity raises the probability that both partners carry the same recessive gene without knowing it. Pre-marital carrier screening is a good first step, but a full counselling session provides much more context than a screening test alone."
+        },
+        {
+          "q": "What is the difference between a genetic counsellor and a clinical geneticist?",
+          "a": "A clinical geneticist is a fully qualified physician who diagnoses and manages genetic conditions. A genetic counsellor is a specialist in communication, education, and psychological support who helps families understand diagnoses and their implications. Both roles are distinct and complementary. Most genetics centres in the region offer both, either in the same clinic or through referral between the two."
+        },
+        {
+          "q": "My child was diagnosed with Down syndrome. Does this mean all my future children will be affected?",
+          "a": "In most cases no. Around 95 percent of Down syndrome cases arise from a random error in cell division during egg or sperm formation and do not follow a standard inheritance pattern. The risk increases with maternal age but is not 100 percent for any age. A small minority of cases involve a chromosomal rearrangement that can be inherited, and a cytogenetics test of both parents will clarify whether that applies to your situation."
+        },
+        {
+          "q": "Can genetic counselling be done before marriage rather than after a problem appears?",
+          "a": "Pre-conception and pre-marriage counselling is the ideal timing, because it preserves the widest range of options. Several Gulf countries have made pre-marital screening a formal requirement, which is a positive first step. Full genetic counselling goes considerably deeper than a routine screening test and is valuable at any point, but earlier is always better."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,432 @@
+{
+  "slug": "child-growth-stunting",
+  "category": "child-health",
+  "chip_ar": "صحة الطفل",
+  "chip_en": "Child Health",
+  "date_iso": "2026-07-22",
+  "sources": [
+    {
+      "label": "Al-Shameri EA, Al-Shahethi AH, Wafa SW et al: Nutritional status and its determinants in the Eastern Mediterranean region. A review, Saudi medical journal, 2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35414622/"
+    },
+    {
+      "label": "Leppäniemi H, Ibrahim E, Abbass MMS et al: Nutrition Profile for Countries of the Eastern Mediterranean Region with Different Income Levels: An Analytical Review, Children (Basel, Switzerland), 2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36832365/"
+    },
+    {
+      "label": "Handryastuti S, Pusponegoro HD, Nurdadi S et al: Comparison of Cognitive Function in Children with Stunting and Children with Undernutrition with Normal Stature, Journal of nutrition and metabolism, 2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35865865/"
+    },
+    {
+      "label": "Cole TJ: Assessment of growth, Best practice & research. Clinical endocrinology & metabolism, 2002",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12464224/"
+    },
+    {
+      "label": "Argyle J: Approaches to detecting growth faltering in infancy and childhood, Annals of human biology, 2003",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12959893/"
+    },
+    {
+      "label": "GBD 2023 Disease and Injury and Risk Factor Collaborators: Burden of 375 diseases and injuries, risk-attributable burden of 88 risk factors, and healthy life expectancy in 204 countries and territories, 1990-2023, Lancet, 2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41092926/"
+    }
+  ],
+  "content": {
+    "ar": {
+      "title": "النمو والتقزم: كيف تقرأ بطاقة نمو طفلك؟",
+      "desc": "التقزم يمس ملايين الأطفال في اليمن والسودان ومناطق النزوح. تعلم كيف تقرأ منحنيات النمو وما معنى تراجع الطفل في الشريحة المئوية.",
+      "keywords": "تقزم الأطفال, بطاقة نمو الطفل, شريحة مئوية نمو, سوء تغذية أطفال, نمو الطفل الطبيعي, منحنى النمو عالمي, أول ألف يوم طفل",
+      "h1": "نمو طفلك وبطاقة النمو: كيف تفهم الأرقام وما الذي يجب أن يقلقك",
+      "takeaways": [
+        "التقزم هو انخفاض طول الطفل عن المعيار المتوقع لعمره، وهو مؤشر على سوء تغذية مزمن لا على جينات أسرية فحسب.",
+        "منطقة الشرق الأوسط وشمال أفريقيا تشهد معدلات تقزم مرتفعة خاصة في اليمن والسودان ومناطق النزوح.",
+        "أول 1000 يوم من حياة الطفل هي النافذة الأهم للوقاية من التقزم وآثاره.",
+        "تراجع الطفل من شريحة مئوية لأخرى أقل يستحق تقييماً طبياً حتى لو لا يزال ضمن المعدل الطبيعي.",
+        "التقزم المبكر يرتبط بانخفاض القدرات المعرفية والأداء المدرسي لاحقاً."
+      ],
+      "sections": [
+        {
+          "h2": "ما هو التقزم وكيف يختلف عن القِصَر الطبيعي؟",
+          "paras": [
+            "التقزم (Stunting) يعني أن طول الطفل أقل بمقدار انحرافين معياريين أو أكثر من الوسيط المتوقع لعمره وجنسه وفق مرجع منظمة الصحة العالمية. بكلام أبسط: الطفل أقصر مما يجب أن يكون عليه بحسب عمره، وهذا القِصَر لم يحدث في يوم وليلة بل راكمه جسمه على مدى أشهر أو سنوات من نقص التغذية أو تكرار الأمراض أو كليهما معاً.",
+            "الفرق بين التقزم والقِصَر الطبيعي مهم جداً. قِصَر الأسرة هو حين يكون الآباء والأجداد قصار القامة ويكون الطفل على نفس المنوال، لكن سرعة نموه تسير بشكل منتظم على منحنى نموه الخاص. التقزم بالمعنى الصحي هو حين يتباطأ نمو الطفل ويتراجع من شريحة مئوية إلى أخرى أقل، مما يدل على أن شيئاً ما يعيق نموه الطبيعي.",
+            "التمييز يهم لأن العلاج مختلف. طفل قصير القامة بحكم الوراثة لا يحتاج تدخلاً غذائياً خاصاً إذا كان ينمو بانتظام. طفل يعاني من التقزم الحقيقي يحتاج تقييماً لأسباب توقف نموه وتدخلاً لمعالجتها قبل انتهاء نافذة النمو الحرجة."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "التقزم مقابل القِصَر الطبيعي",
+            "head": ["المؤشر", "قِصَر طبيعي بالوراثة", "تقزم بسوء التغذية"],
+            "rows": [
+              ["منحنى النمو", "ينمو بانتظام في شريحته", "يتراجع من شريحة لأخرى أقل"],
+              ["وزن الجسم", "عادةً طبيعي لطوله", "غالباً منخفض للعمر أيضاً"],
+              ["الآباء والأجداد", "قصار القامة عموماً", "قد يكون الآباء طوال القامة"],
+              ["التدخل المطلوب", "متابعة فقط", "تقييم وتغذية وعلاج"]
+            ]
+          }
+        },
+        {
+          "h2": "كيف تقرأ بطاقة النمو والشريحة المئوية؟",
+          "paras": [
+            "بطاقة النمو تمثل نتائج الطول والوزن على منحنيات رسمتها منظمة الصحة العالمية بعد قياس آلاف الأطفال الأصحاء في سياقات مثالية من التغذية والرعاية. الرقم الذي يكتبه الطبيب أمام اسم طفلك يعني أن هذه النسبة من الأطفال في نفس العمر يكونون دون هذا الطول. الطفل في الشريحة المئوية الخمسين (50th percentile) يعني أن نصف الأطفال بعمره أطول منه ونصفهم أقصر.",
+            "ما يجب تذكره هو أن أي شريحة بين الثالثة والسابعة والتسعين (3rd و97th percentile) تُعد طبيعية طالما أن الطفل يسير بانتظام على منحنى مستقر. الطفل الذي يولد في الشريحة 10 ويكبر دائماً في الشريحة 10 طفل سليم. المشكلة تبدأ حين يتراجع الطفل من الشريحة 50 إلى الشريحة 20 إلى الشريحة 10 على فترة أشهر، لأن هذا يعني أن نموه تباطأ بشكل ملحوظ.",
+            "الأطباء يتتبعون الطول والوزن معاً في كل زيارة ويحسبون أيضاً مؤشر الطول مقارنة بالوزن (Weight for height Z-score) لتقييم ما إذا كان الطفل يعاني من هزال حاد (Wasting) إضافة إلى التقزم المزمن. الهزال الحاد حالة طارئة تتطلب تدخلاً فورياً، والتقزم المزمن حالة تراكمية تتطلب تدخلاً مستمراً."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "كيف تقرأ منحنى نمو طفلك في خطوات",
+            "items": [
+              "احصل على القياسات المتكررة للطول والوزن من سجل الطفل عند الطبيب",
+              "ارسم نقطة لكل قياس على منحنى نمو منظمة الصحة العالمية وفق عمر الطفل بالأشهر",
+              "لاحظ هل تسير النقاط بشكل موازٍ لمنحنيات الشريحات أم تتراجع نحو الأسفل",
+              "إذا عبر الطفل شريحتين مئويتين نزولاً راجع الطبيب فوراً دون انتظار الزيارة الدورية",
+              "قارن القياسات بين الزيارات وليس بالأرقام المطلقة فقط"
+            ]
+          }
+        },
+        {
+          "h2": "أرقام التقزم في منطقتنا وأين يكمن الخطر الأكبر",
+          "paras": [
+            "مراجعة شاملة نشرتها مجلة Saudi Medical Journal عام 2022 تناولت الوضع الغذائي في منطقة شرق المتوسط وأكدت أن التقزم لا يزال تحدياً صحياً بارزاً يمس الأطفال دون الخامسة في المنطقة، مع تفاوت كبير بين الدول ذات الدخل المرتفع والمنخفض. في الدول التي تعاني من نزاعات مسلحة أو اقتصاديات متعثرة، ترتفع المعدلات بشكل حاد.",
+            "اليمن يُسجّل من بين أعلى معدلات التقزم في العالم، إذ تجاوز نصف الأطفال دون الخامسة في بعض المناطق حد التقزم المعتدل أو الشديد وفق تقارير منظمات الأمم المتحدة خلال سنوات النزاع. السودان ومناطق اللجوء السورية والفلسطينية تُسجّل أرقاماً مشابهة، وهذا ليس مجرد إحصاء فهذه أرواح أطفال وقدرات عقلية ستتأثر لعقود.",
+            "دراسة نُشرت في مجلة Children عام 2023 تناولت ملامح التغذية في دول شرق المتوسط ذات مستويات الدخل المختلفة، وأوضحت أن توافر الغذاء ليس العامل الوحيد، بل إن العادات الغذائية وجودة الرعاية الصحية والنظافة وعدوى الأمعاء المتكررة كلها تُسهم في استمرار مشكلة التقزم حتى في دول ذات دخل متوسط."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "العوامل التي ترفع خطر التقزم في منطقتنا",
+            "items": [
+              "النزاعات المسلحة وانعدام الأمن الغذائي",
+              "الفقر وعدم تنوع الغذاء خاصة في السنتين الأوليين",
+              "عدوى الأمعاء المتكررة كالإسهال والطفيليات",
+              "ممارسات الرضاعة والتغذية التكميلية غير المناسبة",
+              "عدم اكتمال برامج تطعيم الطفل"
+            ]
+          }
+        },
+        {
+          "h2": "أول 1000 يوم: النافذة التي لا تفتح مرة ثانية",
+          "paras": [
+            "مفهوم أول 1000 يوم يشمل فترة الحمل التسعة أشهر وأول سنتين من عمر الطفل. في هذه الفترة تحديداً يحدث 80 بالمئة من نمو الدماغ ويتشكل أساس الجهاز المناعي وتُوضع برامج التمثيل الغذائي للجسم. سوء التغذية في هذه المرحلة يترك آثاراً يصعب عكسها بعد سن الثالثة.",
+            "الغذاء الكافي للأم خلال الحمل يُحدد وزن الطفل عند الولادة وحجم احتياطياته من المغذيات الأساسية. الطفل الذي يُولد بوزن منخفض يبدأ الحياة بعجز مغذياتي يتراكم مع أي نقص في التغذية بعد الولادة. الرضاعة الطبيعية الكاملة حتى ستة أشهر ثم التغذية التكميلية المتنوعة من ستة أشهر حتى سنتين هما الركيزتان الأهم في هذه المرحلة.",
+            "ما يجعل هذه النافذة فريدة هو أن الجسم بعد عمر السنتين أو الثلاث سنوات يصبح أقل قدرة على تعويض النقص السابق. الطفل الذي يعاني من التقزم في عمر الثلاث سنوات يمكن أن يتحسن تغذيته لكن من النادر أن يصل إلى الطول الكامل المتوقع. هذا لا يعني التخلي عن الجهود بعد هذا السن، لكنه يعني أن الوقاية في الأول أهم من أي شيء."
+          ],
+          "visual": {
+            "type": "timeline",
+            "title": "أول 1000 يوم: لماذا هي حرجة؟",
+            "items": [
+              {"when": "الحمل", "what": "تغذية الأم تُحدد وزن الطفل واحتياطياته الغذائية"},
+              {"when": "0-6 أشهر", "what": "الرضاعة الطبيعية تبني المناعة وتؤسس للنمو"},
+              {"when": "6-12 شهراً", "what": "إدخال أطعمة متنوعة غنية بالمغذيات مع استمرار الرضاعة"},
+              {"when": "12-24 شهراً", "what": "تنويع الغذاء ومتابعة منحنى النمو كل شهرين"},
+              {"when": "بعد 24 شهراً", "what": "نافذة التعويض تضيق وتأثير النقص السابق يصبح أصعب عكساً"}
+            ]
+          }
+        },
+        {
+          "h2": "هل التقزم يؤثر على ذكاء الطفل وأداؤه الدراسي؟",
+          "paras": [
+            "نعم، والأدلة على ذلك واضحة. دراسة نُشرت في مجلة Journal of Nutrition and Metabolism عام 2022 قارنت الأداء المعرفي بين أطفال يعانون من التقزم وآخرين بسوء تغذية دون تقزم في الطول، ووجدت أن الأطفال المصابين بالتقزم أظهروا قدرات معرفية أضعف بشكل ملحوظ في الاختبارات القياسية، مما يعني أن التقزم بحد ذاته وليس سوء التغذية عموماً هو المؤشر الأهم للتأثير على الدماغ.",
+            "السبب يعود إلى أن النمو الجسمي المتوقف يعكس نموذجياً نقصاً في مغذيات أساسية للدماغ كالحديد والزنك واليود وبروتينات عالية الجودة، وكلها ضرورية لبناء خلايا الدماغ وتشابكاتها العصبية. الطفل المتقزم في سن الثلاث سنوات يمكن أن يُدخل مدرسة الابتداء في سن السابعة بقدرات أدنى من أقرانه في الفهم والتركيز واللغة.",
+            "هذا لا يعني أن هؤلاء الأطفال محكوم عليهم، فالتدخل المبكر في سن ما قبل المدرسة لا يزال مؤثراً. لكنه يعني أن الاستثمار في تغذية الأطفال في السنوات الأولى هو استثمار في قدرتهم على التعلم لعقود قادمة.",
+            "على الصعيد العملي، الطفل الذي يعاني من التقزم في سن الدراسة يمكن أن يستفيد من برامج تجمع التغذية المحسّنة مع التعليم الداعم. الدراسات التي تتابعت على مدى سنوات وجدت أن تحسين التغذية في مرحلة ما قبل المدرسة أدى إلى ارتفاع ملحوظ في الأداء الأكاديمي لاحقاً. المعلم الجيد يُساعد، لكن المعدة الممتلئة بالغذاء الصحيح تُساعد أكثر."
+          ],
+          "visual": {
+            "type": "stats",
+            "items": [
+              {
+                "value": "155 مليون",
+                "label": "طفل دون الخامسة يعانون من التقزم عالمياً",
+                "tone": "bad"
+              },
+              {
+                "value": "3 سنوات",
+                "label": "عمر ما قبله تكون فرص التعويض الأكبر",
+                "tone": "warn"
+              }
+            ]
+          }
+        },
+        {
+          "h2": "متى يجب القلق وما الذي تسأل عنه الطبيب؟",
+          "paras": [
+            "ليس كل طفل قصير يحتاج إلى تقييم مكثف. المؤشرات التي تستحق مراجعة الطبيب هي: تراجع الطفل من شريحتين مئويتين في الطول أو الوزن في غضون 3 إلى 6 أشهر، أو انخفاض الطفل تحت الشريحة الثالثة (3rd percentile) مع استمرار التراجع، أو إذا لاحظ الوالدان توقف النمو الملحوظ حتى مع الغذاء الكافي.",
+            "عند مراجعة الطبيب، من المفيد أن تأخذ معك سجل قياسات الطفل السابقة إن وُجدت، لأن مقارنة القياسات عبر الزمن أهم من قياس واحد معزول. الطبيب سيبحث عن أسباب طبية محتملة مثل قصور الغدة الدرقية (Hypothyroidism) أو مشاكل امتصاص الأمعاء أو اضطرابات هرمون النمو قبل الاستنتاج بأن السبب غذائي.",
+            "في المناطق التي لا تتوفر فيها بطاقات نمو منتظمة أو زيارات طبية دورية، يمكن للأهل الاعتماد على الملاحظة البسيطة: هل طفلي ينمو بشكل مرئي كل بضعة أشهر؟ هل يكبر ملابسه وحذاءه بانتظام؟ توقف النمو المرئي لمدة 6 أشهر أو أكثر يستحق دائماً تقييماً.",
+            "عندما لا يتوفر طبيب أطفال متخصص في المنطقة، يمكن للممرضة أو مسؤول الرعاية الصحية الأولية قياس الطول والوزن ورسمهما على بطاقة نمو منظمة الصحة العالمية المتاحة مجاناً. هذا الإجراء البسيط يكفي لرصد التراجع مبكراً قبل أن يتحول إلى تقزم لا رجعة فيه."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "مراجع الطبيب فوراً في هذه الحالات",
+            "items": [
+              "الطفل لم ينمو في الطول ملحوظياً منذ 6 أشهر أو أكثر",
+              "تراجع الطفل بشكل ملحوظ في وزنه مع الطول ثابت أو متراجع",
+              "الطفل تحت الشريحة الثالثة في الطول مع استمرار التراجع",
+              "وجود أعراض أخرى مصاحبة مثل إسهال مزمن أو انتفاخ بطن دائم",
+              "الطفل المولود ناقص الوزن لم يُتابع بشكل منتظم"
+            ]
+          }
+        },
+        {
+          "h2": "التغذية في السنتين الأوليين: ما الذي يهم فعلاً؟",
+          "paras": [
+            "في أول ستة أشهر الرضاعة الطبيعية وحدها كافية ومثالية. بعد ذلك تبدأ التغذية التكميلية وهي مرحلة دقيقة كثيراً ما تُخطئ فيها الأسر بحسن نية. الأطعمة الأولى ليست مجرد تجربة مذاق، بل هي محطة تحديد للمسار الغذائي. إدخال الأرز المحلى أو عصائر الفاكهة أولاً دون أطعمة غنية بالبروتين والحديد يُضيع فرصة ذهبية.",
+            "البروتين من اللحوم والبيض والبقوليات ضروري لبناء الأنسجة. الحديد من الكبدة واللحوم والعدس ضروري للدماغ ولكريات الدم. الزنك من اللحوم والمكسرات ضروري للنمو والمناعة. هذه المغذيات لا تُعوَّض بالسكر أو النشا، ومع ذلك يُقدَّم للكثير من الأطفال في منطقتنا شوربة الرز أو العجين أو الخبز المبلول كأول أطعمة.",
+            "التنوع مهم لكنه لا يعني التعقيد. وجبة من العدس مع قليل من الخضار المهروسة ولقمة من الكبدة توفر قيمة غذائية أعلى بكثير من شيكولاتة أو بسكويت معبأ. في ظروف الشح الاقتصادي، البقوليات المتاحة بسعر مناسب هي الخيار الأذكى وليست خياراً ثانياً."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "أطعمة تكميلية مناسبة بحسب عمر الطفل",
+            "head": ["العمر", "الأطعمة المناسبة", "ما يجب تجنبه"],
+            "rows": [
+              ["6 أشهر", "هريس عدس، هريس كبدة مطبوخة، خضار مهروسة", "عصائر، شيكولاتة، ملح، سكر"],
+              ["7-9 أشهر", "لحم مفروم ناعم، بيض مسلوق، حمص مهروس", "عسل، حليب البقر كمشروب رئيسي"],
+              ["10-12 شهراً", "أطعمة عائلية ناعمة، سمك مفتت، بيض كامل", "الأطعمة الصلبة التي قد تُسبب الاختناق"],
+              ["1-2 سنة", "تنويع كامل مع الأسرة مع تقليل الملح والسكر", "المشروبات المحلاة، الوجبات السريعة"]
+            ]
+          }
+        },
+        {
+          "h2": "ما يمكن فعله حتى في ظروف صعبة",
+          "paras": [
+            "كثير من الأهالي في مناطق النزاع أو الفقر يشعرون بالعجز أمام هذه المعطيات. لكن الوقاية من التقزم لا تتطلب غذاءً مكلفاً دائماً. البقوليات كالعدس والفاصوليا رخيصة ومتاحة ومتوازنة غذائياً. البيض مصدر بروتين ممتاز بسعر معقول في معظم المناطق. إعطاء الطفل الأولوية في الطعام المتاح قبل البالغين في حالات الشح له أثر حقيقي.",
+            "التطعيم كامل وفي موعده يحمي الطفل من الأمراض التي تستنزف مخازن المغذيات كالحصبة والإسهال والالتهابات المتكررة. الحماية من الديدان المعوية بالعلاج الدوري المتاح في أغلب المراكز الصحية يُقلل الاستنزاف الخفي للمغذيات. التغيرات الصغيرة الواجبة تتراكم على مدى أشهر وتُحدث فرقاً في منحنى النمو.",
+            "إذا كان طفلك يحضر مركزاً للتغذية العلاجية أو يتلقى مغذيات علاجية جاهزة (RUTF) في ظل أزمة غذائية، اتبع تعليمات الفريق الصحي بدقة ولا تُخفف الجرع. هذه المغذيات صُمِّمت بدقة لتعويض النقص الشديد ولها جداول محددة لا يجب الانحراف عنها.",
+            "التواصل مع مراكز الصحة المجتمعية المتاحة في منطقتك يساعدك على معرفة برامج التكميل الغذائي المتوفرة محلياً. كثير من هذه المراكز توفر مساحيق المغذيات المتعددة المضافة للطعام مجاناً للأطفال دون الخامسة المعرضين للخطر. سؤال بسيط في المركز الصحي قد يفتح باب دعم حقيقي لطفلك."
+          ]
+        }
+      ],
+      "tie": "سجّل قياسات طول طفلك ووزنه كل شهرين في تطبيق سهتك واحتفظ بالسجل عبر الزيارات الطبية. التاريخ المتسلسل للقياسات يُعطي الطبيب صورة أوضح بكثير من قياس واحد منفرد، ويساعد على اكتشاف أي تراجع في النمو بشكل مبكر.",
+      "faqs": [
+        {
+          "q": "كيف أعرف إذا كان طفلي يعاني من التقزم؟",
+          "a": "التقزم يُشخَّص عندما يكون طول الطفل أقل بانحرافين معياريين عن المتوسط لعمره وجنسه وفق مرجع منظمة الصحة العالمية. عملياً، إذا رسم الطبيب نقاط الطول على منحنى النمو ووجد أنها تتراجع من شريحة مئوية لأخرى أقل بمرور الوقت، فهذا مؤشر يستحق التقييم. مجرد أن يكون الطفل تحت الشريحة الخمسين لا يعني بالضرورة تقزماً."
+        },
+        {
+          "q": "هل يمكن أن يتعافى طفل من التقزم بالكامل؟",
+          "a": "التعافي الكامل ممكن إذا جاء التدخل مبكراً، خاصة قبل عمر السنتين. في هذه المرحلة لا يزال للجسم قدرة على اللحاق بمنحنى النمو المتوقع عند توفر التغذية الكافية. بعد عمر الثلاث سنوات، يتحسن الوضع الصحي لكن الوصول للطول الكامل المتوقع يصبح أصعب. هذا لا يعني إهمال التغذية الجيدة في أي مرحلة، لكن الوقاية في السنوات الأولى تبقى الأفضل."
+        },
+        {
+          "q": "هل القصر الطبيعي بالوراثة يمنع التشخيص الصحيح للتقزم؟",
+          "a": "لا. الأطباء يأخذون طول الوالدين بالحسبان عند تقييم النمو، وهناك معادلات تُحسب منها التوقعات الجينية لطول الطفل البالغ. الطفل الذي يتراجع في النمو حتى وإن كان آباؤه قصاراً يحتاج تقييماً، لأن التراجع في المنحنى هو المؤشر الأهم وليس الطول المطلق."
+        },
+        {
+          "q": "ما أهمية التطعيم في الوقاية من التقزم؟",
+          "a": "كبيرة جداً. التطعيم يحمي الطفل من الأمراض التي تستنزف مخزون المغذيات بسرعة كالحصبة والتهابات الجهاز الهضمي. كل نوبة حصبة مثلاً تُسبب فقداً حاداً لالزنك وفيتامين A وقد تُعيق النمو لأسابيع. الطفل المطعم بالكامل لديه فرصة أفضل في النمو الطبيعي حتى مع محدودية الغذاء."
+        },
+        {
+          "q": "ما معنى أن يكون طفلي في الشريحة المئوية العاشرة؟",
+          "a": "أن 90 بالمئة من الأطفال في نفس عمره أطول منه، و10 بالمئة أقصر منه. هذا وحده لا يعني وجود مشكلة طالما أن الطفل ينمو بانتظام على هذه الشريحة ولا يتراجع منها. المقارنة عبر الزمن أهم من الرقم المطلق في أي زيارة واحدة."
+        },
+        {
+          "q": "متى يجب أن يبدأ الطفل بأكل الطعام الصلب؟",
+          "a": "توصية منظمة الصحة العالمية هي بدء التغذية التكميلية عند عمر ستة أشهر مع استمرار الرضاعة الطبيعية. البدء قبل أربعة أشهر يزيد خطر الحساسية والالتهابات، والتأخر بعد سبعة أشهر قد يزيد خطر نقص الحديد والتقزم. الأطعمة الأولى يجب أن تكون غنية بالحديد والبروتين وليس مجرد نشا أو حلو."
+        },
+        {
+          "q": "هل التقزم يؤثر على ذكاء الطفل؟",
+          "a": "الدراسات تُظهر باستمرار ارتباطاً بين التقزم المبكر وانخفاض الأداء في الاختبارات المعرفية ومهارات اللغة والقدرة على الانتباه. الدماغ في سنوات النمو الأولى يتطلب مغذيات محددة كالحديد والزنك واليود والبروتين، وسوء التغذية الذي يسبب التقزم يُعيق نمو الدماغ أيضاً في آنٍ واحد. التدخل المبكر يُقلل هذه التأثيرات لكن لا يُلغيها بالكامل."
+        },
+        {
+          "q": "هل توجد مراكز في منطقتنا تُعالج التقزم الشديد؟",
+          "a": "نعم. تمتلك كثير من دول المنطقة مراكز للتغذية العلاجية المتكاملة (CMAM) تعمل بالتنسيق مع منظمات مثل يونيسف واليونيسيف وبرنامج الغذاء العالمي، وتوفر المغذيات العلاجية الجاهزة للأطفال المصابين بسوء تغذية حاد. إذا شككت أن طفلك يعاني من سوء تغذية حاد، راجع أقرب مركز صحي حكومي أو مستشفى ميداني في منطقتك."
+        }
+      ]
+    },
+    "en": {
+      "title": "Growth and stunting: reading your child's growth chart",
+      "desc": "Stunting is high in Yemen, Sudan and among displaced children. Learn to read growth percentiles and what crossing centiles means for your child.",
+      "keywords": "child stunting, growth chart percentile, child growth faltering, malnutrition children, first 1000 days nutrition, WHO growth chart, child height weight",
+      "h1": "Growth and stunting: how to read your child's growth chart and when to act",
+      "takeaways": [
+        "Stunting means a child's height is significantly below the expected level for their age, reflecting chronic undernutrition rather than family genetics alone.",
+        "The Middle East and North Africa carry a heavy burden of childhood stunting, with Yemen, Sudan and displaced populations bearing the highest rates.",
+        "The first 1000 days from conception to age two are the most important window for preventing stunting and its consequences.",
+        "A child crossing two growth centile lines downward over several months deserves a medical review even if they remain within the normal range.",
+        "Early stunting is consistently linked to lower cognitive ability and poorer school performance in later childhood."
+      ],
+      "sections": [
+        {
+          "h2": "What is stunting and how does it differ from being naturally short?",
+          "paras": [
+            "Stunting is defined as height more than two standard deviations below the median for a child of the same age and sex on the World Health Organization growth reference. In plain terms, the child is shorter than they should be for their age, and that shortfall accumulated over months or years of chronic nutritional stress. It did not happen because of one bad month of feeding, and it cannot be explained by family height alone.",
+            "The distinction between stunting and being constitutionally short matters enormously for how you respond. A child who inherits short stature from short parents will still track steadily along their own growth centile from early infancy. A stunted child typically crosses centiles downward as growth falters, moving from the 50th percentile toward the 20th and then the 10th over months. The direction of travel on the chart is the critical indicator, not the single number on any one visit.",
+            "This difference matters for treatment. A constitutionally short child who is growing regularly does not need nutritional intervention beyond normal family feeding. A child whose growth is faltering needs an assessment of why, and an intervention that reaches them before the critical window for catch-up growth closes."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Stunting versus constitutional short stature",
+            "head": ["Indicator", "Constitutional short stature", "Nutritional stunting"],
+            "rows": [
+              ["Growth trajectory", "Steady along own centile", "Crossing centiles downward"],
+              ["Body weight", "Usually appropriate for height", "Often low for age as well"],
+              ["Family pattern", "Short parents and grandparents", "Parents may be normal height"],
+              ["Response needed", "Regular monitoring only", "Assessment and nutritional support"]
+            ]
+          }
+        },
+        {
+          "h2": "How to read a growth chart",
+          "paras": [
+            "A growth chart plots your child's measurements against curves built from thousands of healthy children measured under optimal conditions of nutrition and care. The percentile number tells you what proportion of children the same age are shorter than your child. A child at the 50th percentile for height is taller than half of children their age and shorter than the other half. A child at the 10th percentile is taller than 10 percent and shorter than 90 percent.",
+            "Any percentile between the 3rd and 97th is considered within the normal range, provided the child is growing steadily along their own curve. A child who sits at the 10th percentile from birth and remains at the 10th percentile at two years is growing normally. The concern arises when a child who was at the 50th percentile at six months has fallen to the 25th at one year and the 10th at eighteen months. Each downward crossing of a major centile line signals that growth has slowed.",
+            "Doctors track height and weight together at every well-child visit and calculate weight-for-height scores to detect wasting (acute malnutrition) separately from stunting (chronic undernutrition). Wasting is an acute emergency requiring immediate action. Stunting is a chronic process requiring sustained intervention. Both can be present in the same child."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "How to read your child's growth chart",
+            "items": [
+              "Collect all previous height and weight measurements from your child's health record",
+              "Plot each measurement on a WHO growth chart for your child's age in months",
+              "Check whether the plotted points run roughly parallel to the centile curves or drift downward",
+              "If your child crosses two major centile lines downward, see a doctor before the next routine visit",
+              "Compare measurements over time, not just the absolute number on a single visit"
+            ]
+          }
+        },
+        {
+          "h2": "Stunting rates across the region: where the burden falls",
+          "paras": [
+            "A 2022 review in the Saudi Medical Journal surveying nutritional status across the Eastern Mediterranean confirmed that stunting remains one of the dominant public health challenges in the region, with substantial variation between higher-income and lower-income countries. Among children under five in countries affected by conflict or economic crisis, rates rise sharply.",
+            "Yemen records some of the highest stunting rates in the world. United Nations agency reports during the years of conflict documented that well over half of children in affected governorates were stunted or at high risk of acute malnutrition. Sudan and Palestinian refugee populations carry similarly elevated burdens, driven by food insecurity, disrupted feeding practices and repeated illness. A 2023 review in the journal Children analysing nutrition profiles across Eastern Mediterranean countries at different income levels found that food availability was only part of the problem; feeding practices, sanitation, access to healthcare and repeated gut infections all contributed to sustaining high rates even in middle-income settings.",
+            "For parents reading this in Syria, Iraq, Lebanon or Yemen, these are not remote statistics. They describe the environment in which millions of children are growing up right now. The most effective thing any individual family can do is protect the first two years of a child's life with sustained breastfeeding, diverse complementary feeding from six months, and timely vaccinations."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "Risk factors that raise stunting rates in the region",
+            "items": [
+              "Armed conflict and food insecurity",
+              "Poverty and poor dietary diversity in the first two years",
+              "Repeated gut infections: diarrhoea, intestinal parasites",
+              "Delayed or inappropriate complementary feeding practices",
+              "Incomplete vaccination schedules"
+            ]
+          }
+        },
+        {
+          "h2": "The first 1000 days: the window that does not reopen",
+          "paras": [
+            "The concept of the first 1000 days covers pregnancy and the first two years of life. During this window, 80 percent of brain growth occurs, the immune system is established, and the body's metabolic programming is set. Undernutrition during this period causes changes that are very difficult to reverse after age three, which is why the language of prevention and early intervention dominates the evidence.",
+            "A mother's nutrition during pregnancy determines the baby's birth weight and their initial reserves of iron, zinc, vitamin D and other key micronutrients. A low birth weight baby starts life with a nutritional deficit that compounds rapidly with any shortfall in feeding after birth. Exclusive breastfeeding for six months followed by diverse complementary foods from six months to two years are the two pillars of nutrition that the evidence consistently returns to.",
+            "What makes this window unusual is that the body's capacity for catch-up growth diminishes sharply after age two to three. A stunted three-year-old can improve with better nutrition, but achieving their full genetically determined height becomes increasingly unlikely. This does not mean abandoning effort after this age, but it does mean that prevention in the first two years is far more efficient than remediation afterward."
+          ],
+          "visual": {
+            "type": "timeline",
+            "title": "The first 1000 days: why each phase matters",
+            "items": [
+              {"when": "Pregnancy", "what": "Maternal nutrition sets birth weight and micronutrient reserves"},
+              {"when": "0 to 6 months", "what": "Exclusive breastfeeding builds immunity and supports brain growth"},
+              {"when": "6 to 12 months", "what": "Iron-rich complementary foods introduced alongside continued breastfeeding"},
+              {"when": "12 to 24 months", "what": "Diet diversifies; growth should be monitored every two months"},
+              {"when": "After 24 months", "what": "Catch-up window narrows; effects of earlier deficits become harder to reverse"}
+            ]
+          }
+        },
+        {
+          "h2": "Does stunting affect intelligence and school performance?",
+          "paras": [
+            "Yes, and the evidence is consistent. A 2022 study published in the Journal of Nutrition and Metabolism compared cognitive performance between children who were stunted and children who were undernourished but had normal height. The stunted children showed significantly lower scores on standardised cognitive tests, suggesting that stunting itself, not just undernutrition in general, is the clearest marker of impaired brain development.",
+            "The biological mechanism is direct. The nutrients that are lacking in a diet that causes stunting, including iron, zinc, iodine and high-quality protein, are exactly the ones the developing brain requires to build new cells, synthesise neurotransmitters and form the myelin sheaths around nerve fibres that enable fast signal transmission. A three-year-old who is stunted may enter primary school at seven with measurably lower capacity for language, memory and sustained attention compared to peers of similar family background who were not stunted.",
+            "This is not a verdict on the child's potential. Early childhood education and continued nutritional support during the preschool years can substantially narrow the gap. But it does mean that investing in nutrition in the first two years is simultaneously an investment in a child's capacity to learn for the next two decades."
+          ],
+          "visual": {
+            "type": "stats",
+            "items": [
+              {
+                "value": "155 million",
+                "label": "children under five affected by stunting worldwide",
+                "tone": "bad"
+              },
+              {
+                "value": "Under 3",
+                "label": "years: the age by which catch-up is most effective",
+                "tone": "warn"
+              }
+            ]
+          }
+        },
+        {
+          "h2": "When should you be concerned and what should you ask the doctor?",
+          "paras": [
+            "Not every short child needs intensive assessment. The signals that warrant a medical review are: a child crossing two major centile lines downward in height or weight over 3 to 6 months; a child falling below the 3rd percentile with a continuing downward trend; or parents who observe that their child has stopped growing visibly despite what seems like adequate feeding. Any of these, alone or together, justifies going to the doctor before the next scheduled visit.",
+            "When you attend, bring any previous measurement records you have. A sequence of measurements over time is far more useful to the clinician than a single data point. The doctor will look for medical causes before concluding that the problem is dietary: hypothyroidism, malabsorption conditions such as coeliac disease, growth hormone deficiency and chronic infections can all cause growth faltering and need to be excluded.",
+            "In communities where routine well-child visits and growth charts are not consistently available, parents can use simple observation as a first screen. Is your child visibly growing every few months? Are they growing out of clothing and footwear regularly? An absence of visible growth over six or more months, even in the absence of illness, is always worth investigating."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "See a doctor without delay if",
+            "items": [
+              "Your child has shown no visible height gain in 6 months or more",
+              "The child is losing weight alongside stable or falling height",
+              "Height is below the 3rd percentile with continuing downward movement",
+              "Accompanied by chronic diarrhoea, persistent abdominal bloating or frequent infections",
+              "A low birth weight baby who has not had regular growth follow-up"
+            ]
+          }
+        },
+        {
+          "h2": "Feeding in the first two years: what actually matters",
+          "paras": [
+            "For the first six months, breastfeeding alone is ideal and sufficient. From six months, complementary feeding begins, and this is a stage where many families make well-intentioned errors that have measurable consequences. The first solid foods are not merely flavour experiences; they are the first opportunity to supply the iron, zinc, protein and other micronutrients that breast milk can no longer fully provide. Starting with sweetened rice or fruit juice instead of iron- and protein-rich foods wastes the opportunity.",
+            "Protein from meat, eggs and legumes builds tissue. Iron from liver, meat and lentils serves the brain and the blood. Zinc from meat and seeds drives growth and immune function. None of these can be substituted by sugar or refined starch, and yet in many regional households the first foods given to babies are a soft bread in warm water, sweetened semolina or plain rice. These are filling and familiar, but they leave critical nutritional gaps.",
+            "Variety does not require expense. A meal of lentils with a small amount of pureed vegetable and a tablespoon of liver provides far more nutritional value than commercial biscuits or packaged snacks. In conditions of economic scarcity, prioritising the available protein and micronutrient-rich foods for the young child before other family members is one of the highest-impact decisions a family can make."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Complementary foods by age",
+            "head": ["Age", "Appropriate foods", "Avoid"],
+            "rows": [
+              ["6 months", "Pureed lentils, cooked liver, mashed vegetables", "Juice, sugar, salt, chocolate"],
+              ["7 to 9 months", "Minced meat, hard-boiled egg, mashed chickpeas", "Honey, cow's milk as main drink"],
+              ["10 to 12 months", "Soft family foods, flaked fish, whole egg", "Choking hazards, hard raw vegetables"],
+              ["1 to 2 years", "Full family variety with reduced salt and sugar", "Sweetened drinks, fast food as staples"]
+            ]
+          }
+        },
+        {
+          "h2": "What you can do even in difficult circumstances",
+          "paras": [
+            "Many parents in conflict-affected or economically constrained settings feel powerless in the face of these recommendations. But preventing stunting does not always require expensive food. Legumes such as lentils, chickpeas and beans are affordable, widely available and nutritionally substantial. Eggs are an excellent protein source at a reasonable cost in most areas. Prioritising these foods for the young child before other household members during scarcity is one of the most effective low-cost interventions that exists.",
+            "Completing the vaccination schedule on time protects the child from diseases that rapidly deplete nutritional stores, particularly measles and rotavirus. A single episode of measles can cause acute zinc and vitamin A deficiency and impair growth for weeks. Regular deworming in areas where intestinal parasites are common is available through most health centres and meaningfully reduces the invisible drain on micronutrients.",
+            "If your child is receiving ready-to-use therapeutic food (RUTF) through a nutrition treatment programme during an acute crisis, follow the protocols exactly. These products are precisely formulated to address severe malnutrition and have specific schedules that should not be modified. Do not dilute the product or share it between children in the household."
+          ]
+        }
+      ],
+      "tie": "Log your child's height and weight every two months in the Sihtak app and keep the record accessible for every medical visit. A running sequence of measurements tells a doctor far more than a single number taken at one appointment, and makes it possible to spot growth faltering weeks or months earlier than a single observation would allow.",
+      "faqs": [
+        {
+          "q": "How do I know if my child is stunted?",
+          "a": "Stunting is diagnosed when a child's height falls more than two standard deviations below the median for their age and sex on the WHO growth reference. In practice, your doctor plots the measurements on a growth chart and checks whether they are tracking parallel to the centile curves or drifting downward over time. Being below the 50th percentile does not by itself indicate stunting; the trajectory matters more than the absolute position."
+        },
+        {
+          "q": "Can a stunted child catch up fully?",
+          "a": "Full catch-up is most achievable when the intervention comes before age two. At that stage the body still has considerable capacity to accelerate growth when nutrition improves. After age three, health and development improve with better nutrition, but reaching the child's full genetic height potential becomes increasingly unlikely. This does not mean later intervention has no value, but it strongly supports the case for prevention in the first two years."
+        },
+        {
+          "q": "What does it mean if my child is on the 10th percentile for height?",
+          "a": "It means that 90 percent of children the same age are taller than your child, and 10 percent are shorter. This is within the normal range. What matters most is whether your child has been tracking around the 10th percentile consistently or has moved there by crossing down from a higher centile. If they have always been around the 10th and are growing steadily, there is no cause for concern."
+        },
+        {
+          "q": "Why does vaccination affect growth?",
+          "a": "Vaccines protect children from infections that deplete nutritional reserves rapidly. Measles, for example, causes acute losses of zinc and vitamin A and can arrest growth for weeks after recovery. A child who completes their vaccine schedule on time has fewer infection-driven nutritional setbacks, which means their stored nutrients go into growth rather than immune response."
+        },
+        {
+          "q": "At what age should complementary foods start?",
+          "a": "The WHO recommendation is to start complementary foods at six months while continuing to breastfeed. Starting before four months increases the risk of allergy and infection. Delaying beyond seven months increases the risk of iron deficiency and growth faltering. The first foods should be iron-rich and protein-containing, not only carbohydrate-based."
+        },
+        {
+          "q": "Does stunting affect intelligence?",
+          "a": "Research consistently shows an association between early stunting and lower performance on cognitive tests, language assessments and measures of school achievement. The brain during the first years of life requires the same micronutrients whose deficiency causes stunting: iron, zinc, iodine and protein. Undernutrition severe enough to impair height growth is usually also severe enough to affect brain development. Early intervention reduces but does not fully eliminate these effects."
+        },
+        {
+          "q": "Are there nutrition centres in the region that treat severe stunting?",
+          "a": "Yes. Many countries in the region operate community-based management of acute malnutrition (CMAM) programmes in coordination with UNICEF, WFP and NGOs, and these provide ready-to-use therapeutic food for children with severe acute malnutrition. If you suspect your child has severe malnutrition, the nearest government health centre or field hospital in your area should be your first contact."
+        },
+        {
+          "q": "How does short stature in parents affect my child's growth expectations?",
+          "a": "Doctors use mid-parental height calculations to estimate a child's genetic height potential, and they apply a range of plus or minus about 8 to 10 centimetres around that estimate. A child of short parents who is tracking below their mid-parental target centile may still be growing normally. What alerts a clinician is a child crossing centiles downward regardless of parental height, because the direction of change, not the starting position, is the marker that matters."
+        }
+      ]
+    }
+  }
+}

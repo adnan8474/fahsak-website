@@ -1,0 +1,1080 @@
+[
+ {
+  "b": 1,
+  "cat": "lab-tests",
+  "slug": "cbc-blood-test-explained",
+  "en": "CBC blood test: what every line on the report means",
+  "angle": "The single most ordered test in the region. Walk the reader line by line down an actual CBC report: WBC, RBC, HGB, HCT, MCV, MCH, PLT. Use a table of every abbreviation, and a range-scale for haemoglobin with separate male and female zones. Anaemia is very common across the region so link the low-haemoglobin path clearly."
+ },
+ {
+  "b": 1,
+  "cat": "lab-tests",
+  "slug": "crp-test-inflammation",
+  "en": "CRP test: what a high inflammation marker actually means",
+  "angle": "CRP is ordered constantly and misunderstood constantly. Distinguish standard CRP from hs-CRP for cardiac risk. Explain that a high CRP says inflammation exists but not where. Range-scale plus a table of typical causes by CRP band."
+ },
+ {
+  "b": 1,
+  "cat": "lab-tests",
+  "slug": "esr-test-explained",
+  "en": "ESR blood test: why it is high and what happens next",
+  "angle": "Often paired with CRP. Explain the Westergren method, why ESR lags behind CRP by days, and the classic regional causes including tuberculosis and brucellosis. Compare ESR and CRP in a table."
+ },
+ {
+  "b": 1,
+  "cat": "lab-tests",
+  "slug": "ferritin-test-iron-stores",
+  "en": "Ferritin test: reading your iron stores correctly",
+  "angle": "Ferritin is the best single measure of iron stores but rises with any inflammation, which misleads people constantly. Range-scale, plus the crucial point that a normal ferritin with a high CRP can still hide iron deficiency. Iron deficiency is very common in regional women."
+ },
+ {
+  "b": 1,
+  "cat": "lab-tests",
+  "slug": "urine-analysis-explained",
+  "en": "Urine analysis: what protein, blood and leukocytes mean",
+  "angle": "Line by line through a urine dipstick and microscopy report. Protein, glucose, ketones, nitrites, leukocyte esterase, blood, casts, crystals. Table of each finding and what it suggests. Cover how to collect a clean midstream sample properly."
+ },
+ {
+  "b": 1,
+  "cat": "lab-tests",
+  "slug": "uric-acid-test-gout",
+  "en": "Uric acid test and gout: the numbers and the diet myths",
+  "angle": "Gout is rising with regional diets. Range-scale for uric acid, honest treatment of which foods actually matter versus folklore, and the point that a normal level during an acute attack does not exclude gout."
+ },
+ {
+  "b": 1,
+  "cat": "lab-tests",
+  "slug": "blood-test-fasting-rules",
+  "en": "Which blood tests need fasting, and for how long",
+  "angle": "Extremely high intent, very practical. Table of common tests against fasting requirement. Cover whether water, coffee, smoking, and medicines are allowed, and the Ramadan angle where people are already fasting. Steps visual for preparing correctly."
+ },
+ {
+  "b": 1,
+  "cat": "lab-tests",
+  "slug": "choosing-a-lab-arab-countries",
+  "en": "How to choose a reliable laboratory in the Arab world",
+  "angle": "A genuine differentiator for this site. Explain accreditation (ISO 15189, CAP), internal quality control, external quality assessment, why the same sample can give two different answers at two labs, and what to actually ask at reception. Written from the author's own field, which is laboratory connectivity."
+ },
+ {
+  "b": 2,
+  "cat": "lab-tests",
+  "slug": "liver-enzymes-alt-ast",
+  "en": "ALT and AST: what raised liver enzymes mean",
+  "angle": "Fatty liver is extremely common in the Gulf and Egypt. Range-scale for ALT, the AST/ALT ratio and what it hints at, hepatitis and medication causes. Distinguish from the wider liver panel."
+ },
+ {
+  "b": 2,
+  "cat": "lab-tests",
+  "slug": "creatinine-egfr-kidney",
+  "en": "Creatinine and eGFR: measuring kidney function",
+  "angle": "Creatinine depends on muscle mass so eGFR matters more. Explain the CKD stages in a table, why dehydration in a hot climate raises creatinine transiently, and the painkiller link."
+ },
+ {
+  "b": 2,
+  "cat": "lab-tests",
+  "slug": "vitamin-d-blood-test",
+  "en": "Vitamin D blood test: how to read your result",
+  "angle": "Deficiency is paradoxically severe across the sunny Middle East. Range-scale in both ng/mL and nmol/L because labs in the region use both, which confuses people constantly. Cite regional prevalence studies."
+ },
+ {
+  "b": 2,
+  "cat": "lab-tests",
+  "slug": "thyroid-antibodies-tpo",
+  "en": "Thyroid antibodies: anti-TPO, anti-Tg and what they predict",
+  "angle": "Sits alongside the existing TSH guide. Autoimmune thyroid disease, what a positive antibody means when TSH is still normal, and monitoring rather than treating."
+ },
+ {
+  "b": 2,
+  "cat": "lab-tests",
+  "slug": "coagulation-tests-inr-pt-ptt",
+  "en": "PT, INR and PTT: understanding clotting tests",
+  "angle": "Essential for anyone on warfarin, which is still widely used regionally. INR target ranges by indication in a table, what makes INR swing including food and antibiotics, and red flags for bleeding."
+ },
+ {
+  "b": 2,
+  "cat": "lab-tests",
+  "slug": "troponin-heart-attack-test",
+  "en": "Troponin: the test that confirms a heart attack",
+  "angle": "Emergency context. High sensitivity troponin, serial testing over hours, and the vital message that chest pain means going to hospital rather than waiting for a lab appointment. Strong red-flag callout."
+ },
+ {
+  "b": 2,
+  "cat": "lab-tests",
+  "slug": "stool-analysis-parasites",
+  "en": "Stool analysis: parasites, blood and what the report means",
+  "angle": "Intestinal parasites remain common regionally. Cover ova and parasite examination, occult blood, and named regional parasites including amoeba and giardia. Practical hygiene and water safety."
+ },
+ {
+  "b": 2,
+  "cat": "lab-tests",
+  "slug": "h-pylori-test-explained",
+  "en": "H. pylori testing: breath, stool, blood or endoscopy",
+  "angle": "H. pylori prevalence is among the highest in the world in parts of the region. Compare the four test types in a table including which confirms eradication, and why the blood antibody test cannot."
+ },
+ {
+  "b": 2,
+  "cat": "lab-tests",
+  "slug": "semen-analysis-explained",
+  "en": "Semen analysis: how to read a male fertility report",
+  "angle": "High search volume, low quality Arabic coverage, and a topic men research privately. WHO reference values in a table, abstinence period, why one abnormal sample means little, and the need to repeat."
+ },
+ {
+  "b": 3,
+  "cat": "chronic-conditions",
+  "slug": "type-2-diabetes-complete-guide",
+  "en": "Type 2 diabetes: a complete guide for the Middle East",
+  "angle": "Cornerstone page. The region has some of the highest prevalence on earth. Diagnosis thresholds, HbA1c targets, complications, and the realities of managing it where insulin supply and clinic access vary. Cite IDF Atlas regional figures with a bar chart comparing regional countries."
+ },
+ {
+  "b": 3,
+  "cat": "chronic-conditions",
+  "slug": "prediabetes-reversing-it",
+  "en": "Prediabetes: the window where you can still turn it around",
+  "angle": "Hopeful, action-oriented, huge audience. The exact HbA1c and fasting glucose bands on a range-scale, the evidence that lifestyle change beats medication at this stage, and a realistic regional food plan."
+ },
+ {
+  "b": 3,
+  "cat": "chronic-conditions",
+  "slug": "diabetic-foot-care",
+  "en": "Diabetic foot: preventing the complication that costs limbs",
+  "angle": "Amputation rates are high regionally. Daily inspection routine as a steps visual, what a neuropathic ulcer looks like, footwear in hot climates, and an urgent red-flag callout."
+ },
+ {
+  "b": 3,
+  "cat": "chronic-conditions",
+  "slug": "diabetic-retinopathy-eyes",
+  "en": "Diabetes and your eyes: catching retinopathy before it blinds",
+  "angle": "Screening intervals as a timeline, the fact that vision loss appears only late, and the availability of screening regionally."
+ },
+ {
+  "b": 3,
+  "cat": "chronic-conditions",
+  "slug": "fatty-liver-disease",
+  "en": "Fatty liver: the silent condition behind rising liver disease",
+  "angle": "Very high and rising regional prevalence tied to obesity and sugary drinks. Grades of fatty liver, the reversibility message, and the link to diabetes. Bar chart of regional prevalence with sources."
+ },
+ {
+  "b": 3,
+  "cat": "chronic-conditions",
+  "slug": "chronic-kidney-disease-stages",
+  "en": "Chronic kidney disease: the five stages explained",
+  "angle": "Diabetes and hypertension are the main causes and both are epidemic regionally. Stage table by eGFR, dialysis access realities, and the painkiller and herbal remedy risk."
+ },
+ {
+  "b": 3,
+  "cat": "chronic-conditions",
+  "slug": "gout-treatment-diet",
+  "en": "Gout: stopping the attacks and preventing the next one",
+  "angle": "Acute attack versus long-term urate lowering, the common mistake of stopping allopurinol during an attack, and regional diet including organ meats and sugary drinks."
+ },
+ {
+  "b": 3,
+  "cat": "chronic-conditions",
+  "slug": "osteoporosis-bone-health",
+  "en": "Osteoporosis: bone loss, DEXA scans and prevention",
+  "angle": "Vitamin D deficiency and low activity make this regionally significant, especially in women. T-score range-scale, calcium and vitamin D, fall prevention."
+ },
+ {
+  "b": 4,
+  "cat": "chronic-conditions",
+  "slug": "asthma-control-guide",
+  "en": "Asthma: getting real control, not just surviving attacks",
+  "angle": "Dust storms and air quality make asthma regionally severe. Controller versus reliever inhaler confusion is the single biggest failure, so make that the core. Red-flag callout for a severe attack."
+ },
+ {
+  "b": 4,
+  "cat": "chronic-conditions",
+  "slug": "gerd-acid-reflux",
+  "en": "Acid reflux and GERD: causes, treatment and when to worry",
+  "angle": "Very high search volume. Lifestyle triggers including late heavy meals which is a regional eating pattern, PPI use and overuse, and alarm symptoms warranting endoscopy."
+ },
+ {
+  "b": 4,
+  "cat": "chronic-conditions",
+  "slug": "ibs-irritable-bowel",
+  "en": "Irritable bowel syndrome: diagnosis by exclusion and living with it",
+  "angle": "Rome criteria in plain words, the essential point that IBS is diagnosed only after excluding parasites and coeliac which matters more regionally, and diet approaches."
+ },
+ {
+  "b": 4,
+  "cat": "chronic-conditions",
+  "slug": "migraine-treatment",
+  "en": "Migraine: triggers, treatment and the painkiller trap",
+  "angle": "Medication overuse headache is rampant where painkillers are sold freely. Trigger diary as a steps visual, acute versus preventive treatment, red flags for a secondary headache."
+ },
+ {
+  "b": 4,
+  "cat": "chronic-conditions",
+  "slug": "hypothyroidism-underactive-thyroid",
+  "en": "Underactive thyroid: symptoms, treatment and monitoring",
+  "angle": "Pairs with the TSH guide. Levothyroxine timing and absorption, why iron and calcium interfere, and re-testing intervals as a timeline."
+ },
+ {
+  "b": 4,
+  "cat": "chronic-conditions",
+  "slug": "hyperthyroidism-overactive-thyroid",
+  "en": "Overactive thyroid: Graves disease and the treatment choices",
+  "angle": "Antithyroid drugs, radioactive iodine, surgery compared in a table. Thyroid storm as a red-flag callout."
+ },
+ {
+  "b": 4,
+  "cat": "chronic-conditions",
+  "slug": "heart-failure-explained",
+  "en": "Heart failure: what it means and how to live with it",
+  "angle": "Ejection fraction explained, daily weight monitoring as the practical self-management tool, salt and fluid, and worsening red flags."
+ },
+ {
+  "b": 4,
+  "cat": "chronic-conditions",
+  "slug": "stroke-warning-signs",
+  "en": "Stroke: recognising it in minutes and what to do",
+  "angle": "Time critical and life saving. Adapt the FAST test with Arabic-language wording that actually works. Timeline of the treatment window. Strong red-flag callout. Address the regional habit of waiting or calling relatives first."
+ },
+ {
+  "b": 5,
+  "cat": "infectious-diseases",
+  "slug": "brucellosis-malta-fever",
+  "en": "Brucellosis (Malta fever): the raw milk infection",
+  "angle": "Classic regional disease, strongly tied to unpasteurised milk and fresh cheese. Undulant fever pattern on a timeline, the long antibiotic course and why people stop too early, and prevention around home dairy."
+ },
+ {
+  "b": 5,
+  "cat": "infectious-diseases",
+  "slug": "hepatitis-b-guide",
+  "en": "Hepatitis B: transmission, testing and living with it",
+  "angle": "Significant regional carrier rates. Decode the confusing serology panel in a table (HBsAg, anti-HBs, anti-HBc, HBeAg), vaccination, and family screening."
+ },
+ {
+  "b": 5,
+  "cat": "infectious-diseases",
+  "slug": "hepatitis-c-cure",
+  "en": "Hepatitis C: now curable, and how treatment works",
+  "angle": "Egypt ran the largest hepatitis C elimination campaign in the world, which is a genuinely regional story. Direct acting antivirals, cure rates, and who should be screened. Cite the Egyptian campaign."
+ },
+ {
+  "b": 5,
+  "cat": "infectious-diseases",
+  "slug": "tuberculosis-symptoms-treatment",
+  "en": "Tuberculosis: symptoms, testing and the full course",
+  "angle": "Latent versus active TB, the six-month regimen and why stopping early creates resistance, and the crowding and displacement drivers regionally."
+ },
+ {
+  "b": 5,
+  "cat": "infectious-diseases",
+  "slug": "typhoid-fever-guide",
+  "en": "Typhoid fever: water, food and the fever that climbs",
+  "angle": "Water and sanitation link. The Widal test and its unreliability, which matters because it is still heavily used regionally and over-diagnosed. Prevention and vaccination."
+ },
+ {
+  "b": 5,
+  "cat": "infectious-diseases",
+  "slug": "schistosomiasis-bilharzia",
+  "en": "Bilharzia (schistosomiasis): the freshwater parasite",
+  "angle": "Deeply Egyptian and Sudanese, tied to the Nile and irrigation canals. Life cycle simply, blood in urine as the classic sign, bladder cancer link, and praziquantel treatment."
+ },
+ {
+  "b": 5,
+  "cat": "infectious-diseases",
+  "slug": "hydatid-cyst-echinococcosis",
+  "en": "Hydatid cyst: the tapeworm disease from dogs and sheep",
+  "angle": "Common in sheep-farming regions of Syria, Iraq, Jordan and North Africa. Slow growing liver and lung cysts, imaging, and why the cyst must not be punctured carelessly."
+ },
+ {
+  "b": 5,
+  "cat": "infectious-diseases",
+  "slug": "antibiotic-resistance-arab-world",
+  "en": "Why antibiotics stop working, and the Arab world's problem",
+  "angle": "Over-the-counter antibiotic sale without prescription is a defining regional health issue. Explain resistance plainly, when antibiotics genuinely do nothing (viral illness), and how to use them correctly. Cite regional resistance surveillance."
+ },
+ {
+  "b": 6,
+  "cat": "infectious-diseases",
+  "slug": "cholera-outbreak-guide",
+  "en": "Cholera: recognising it and preventing death from dehydration",
+  "angle": "Outbreaks in Yemen, Syria and Sudan make this urgently regional. Oral rehydration solution recipe as a steps visual, water treatment, and a red-flag callout on severe dehydration."
+ },
+ {
+  "b": 6,
+  "cat": "infectious-diseases",
+  "slug": "urinary-tract-infection-uti",
+  "en": "Urinary tract infection: symptoms, testing and treatment",
+  "angle": "Very high volume, especially among women. Distinguish simple cystitis from pyelonephritis, when a urine culture is needed, and the resistance problem from repeated self-medication."
+ },
+ {
+  "b": 6,
+  "cat": "infectious-diseases",
+  "slug": "food-poisoning-guide",
+  "en": "Food poisoning: what to do and when it is serious",
+  "angle": "Heat and unreliable cold chains make this regionally frequent, and it spikes at large gatherings and weddings. Timeline by organism, rehydration, and red flags."
+ },
+ {
+  "b": 6,
+  "cat": "infectious-diseases",
+  "slug": "malaria-symptoms-prevention",
+  "en": "Malaria: symptoms, testing and prevention",
+  "angle": "Endemic in Sudan and Yemen, and a travel risk elsewhere. Rapid diagnostic tests, the danger of falciparum, and prevention with nets and repellents."
+ },
+ {
+  "b": 6,
+  "cat": "infectious-diseases",
+  "slug": "dengue-fever-gulf",
+  "en": "Dengue fever: the mosquito illness spreading in the Gulf",
+  "angle": "Rising in Saudi Arabia, Yemen and Sudan. Warning signs of severe dengue as a red-flag callout, the specific danger of taking ibuprofen or aspirin, and mosquito control around the home."
+ },
+ {
+  "b": 6,
+  "cat": "infectious-diseases",
+  "slug": "leishmaniasis-prevention",
+  "en": "Leishmaniasis: preventing the sandfly bite",
+  "angle": "Complements the existing Aleppo boil article by covering prevention and the visceral form (kala-azar) rather than repeating the cutaneous story. Sandfly behaviour, bed nets, and why visceral disease is fatal untreated."
+ },
+ {
+  "b": 6,
+  "cat": "infectious-diseases",
+  "slug": "meningitis-warning-signs",
+  "en": "Meningitis: the signs that mean go to hospital now",
+  "angle": "Hajj-associated meningococcal risk gives this a strong regional hook, and vaccination is mandatory for pilgrims. Neck stiffness, the glass test for the rash, and an urgent callout."
+ },
+ {
+  "b": 6,
+  "cat": "infectious-diseases",
+  "slug": "scabies-treatment",
+  "en": "Scabies: the itch that spreads through a household",
+  "angle": "Common in crowded and displaced settings. Night-time itching, treating the whole household simultaneously, and laundering. Steps visual for permethrin application."
+ },
+ {
+  "b": 7,
+  "cat": "genetic-conditions",
+  "slug": "sickle-cell-disease-guide",
+  "en": "Sickle cell disease: crises, care and carrier status",
+  "angle": "Very high prevalence in the Eastern Province of Saudi Arabia, Bahrain, Oman and parts of the Levant. Pain crises and their triggers including dehydration and heat, hydroxyurea, and carrier testing before marriage."
+ },
+ {
+  "b": 7,
+  "cat": "genetic-conditions",
+  "slug": "g6pd-deficiency-favism",
+  "en": "G6PD deficiency (favism): the foods and drugs to avoid",
+  "angle": "Extremely common regionally and highly searched in Arabic as فوال. A definitive avoid-list table covering fava beans, naphthalene mothballs, and specific drugs. Red-flag callout for haemolytic crisis."
+ },
+ {
+  "b": 7,
+  "cat": "genetic-conditions",
+  "slug": "familial-mediterranean-fever",
+  "en": "Familial Mediterranean fever: recurrent fever and colchicine",
+  "angle": "Named for this region and concentrated in Armenian, Turkish, Arab and Jewish populations. Attack pattern on a timeline, the amyloidosis risk that makes lifelong colchicine essential, and genetic testing."
+ },
+ {
+  "b": 7,
+  "cat": "genetic-conditions",
+  "slug": "premarital-screening-guide",
+  "en": "Premarital screening: what the test covers and what results mean",
+  "angle": "Mandatory in Saudi Arabia and several Gulf states and widely searched. What is screened, what a carrier-carrier result actually means in probability terms, and the counselling that follows. Donut or stats visual for inheritance odds."
+ },
+ {
+  "b": 7,
+  "cat": "genetic-conditions",
+  "slug": "cousin-marriage-genetic-risk",
+  "en": "Cousin marriage and genetic risk: the honest numbers",
+  "angle": "Handled respectfully and factually, not judgementally, because this is culturally central. Baseline versus increased risk in real numbers, which conditions cluster, and what counselling and screening can do. Complements the existing thalassemia article."
+ },
+ {
+  "b": 7,
+  "cat": "genetic-conditions",
+  "slug": "newborn-screening-heel-prick",
+  "en": "Newborn screening: the heel prick test and why it matters",
+  "angle": "Which conditions are screened varies by country in the region, so present that variation. Congenital hypothyroidism, PKU, G6PD, sickle cell. Timeline for when it is done and when results come."
+ },
+ {
+  "b": 7,
+  "cat": "genetic-conditions",
+  "slug": "hemophilia-guide",
+  "en": "Haemophilia: bleeding disorders explained",
+  "angle": "Inheritance pattern, factor replacement availability which is a real regional constraint, and joint protection."
+ },
+ {
+  "b": 7,
+  "cat": "genetic-conditions",
+  "slug": "genetic-counselling-arab-families",
+  "en": "Genetic counselling: what happens and who should go",
+  "angle": "Practical guide to a service many do not know exists. Family tree taking, carrier testing, and reproductive options discussed factually."
+ },
+ {
+  "b": 8,
+  "cat": "womens-health",
+  "slug": "pregnancy-tests-schedule",
+  "en": "Pregnancy tests and scans: the full schedule",
+  "angle": "High volume and highly practical. Trimester-by-trimester timeline of every blood test and scan, what each is looking for, and realistic notes on availability and cost regionally."
+ },
+ {
+  "b": 8,
+  "cat": "womens-health",
+  "slug": "gestational-diabetes-guide",
+  "en": "Gestational diabetes: the glucose test and what follows",
+  "angle": "Regional rates are high. The OGTT explained with a range-scale, diet, and the lifelong type 2 risk afterwards that most women are never told about."
+ },
+ {
+  "b": 8,
+  "cat": "womens-health",
+  "slug": "preeclampsia-warning-signs",
+  "en": "Preeclampsia: the blood pressure danger in pregnancy",
+  "angle": "A leading cause of maternal death regionally. Warning signs including headache, visual disturbance and swelling, blood pressure thresholds, and an urgent red-flag callout."
+ },
+ {
+  "b": 8,
+  "cat": "womens-health",
+  "slug": "anemia-in-pregnancy",
+  "en": "Anaemia in pregnancy: iron, testing and treatment",
+  "angle": "Very high regional prevalence. Haemoglobin thresholds by trimester on a range-scale, oral iron and how to take it so it is absorbed, and when infusion is needed."
+ },
+ {
+  "b": 8,
+  "cat": "womens-health",
+  "slug": "folic-acid-before-pregnancy",
+  "en": "Folic acid: why it must start before you conceive",
+  "angle": "Neural tube defects are relatively common regionally, partly because supplementation starts too late. Timing is the whole message. Timeline visual."
+ },
+ {
+  "b": 8,
+  "cat": "womens-health",
+  "slug": "irregular-periods-causes",
+  "en": "Irregular periods: the common causes and what to test",
+  "angle": "High volume. Thyroid, PCOS, stress, weight, and the tests worth doing. Complements the existing PCOS guide rather than repeating it."
+ },
+ {
+  "b": 8,
+  "cat": "womens-health",
+  "slug": "menopause-guide",
+  "en": "Menopause: symptoms, bone health and treatment options",
+  "angle": "Under-served in Arabic. Symptom timeline, bone and heart consequences, and hormone therapy discussed factually including who should not take it."
+ },
+ {
+  "b": 8,
+  "cat": "womens-health",
+  "slug": "breast-cancer-screening-arab",
+  "en": "Breast cancer screening: self-examination and mammograms",
+  "angle": "Regional presentation is later and at younger ages than in the West, which is the key message. Screening ages by country, self-examination as a steps visual, and addressing the stigma that delays presentation."
+ },
+ {
+  "b": 9,
+  "cat": "womens-health",
+  "slug": "female-infertility-tests",
+  "en": "Female infertility: the tests and what they show",
+  "angle": "Culturally loaded and heavily searched. Hormone panel, AMH, ovulation tracking, tubal patency. Emphasise that male factor accounts for roughly half and must be tested first."
+ },
+ {
+  "b": 9,
+  "cat": "womens-health",
+  "slug": "contraception-options-compared",
+  "en": "Contraception: comparing the options honestly",
+  "angle": "Table comparing effectiveness, side effects and reversibility. Handled factually and respectfully for a regional audience, including birth spacing framing."
+ },
+ {
+  "b": 9,
+  "cat": "womens-health",
+  "slug": "endometriosis-guide",
+  "en": "Endometriosis: why severe period pain is not normal",
+  "angle": "Diagnostic delay averages years globally and longer regionally. Symptoms, diagnosis, and the message that disabling pain warrants investigation."
+ },
+ {
+  "b": 9,
+  "cat": "womens-health",
+  "slug": "uterine-fibroids-guide",
+  "en": "Uterine fibroids: symptoms, testing and treatment choices",
+  "angle": "High prevalence. Heavy bleeding and anaemia link, ultrasound, and the treatment ladder from medication to surgery."
+ },
+ {
+  "b": 9,
+  "cat": "child-health",
+  "slug": "child-vaccination-schedule-arab",
+  "en": "Childhood vaccination schedule across Arab countries",
+  "angle": "Cornerstone page with a comparison table of schedules across several countries, plus catch-up guidance for displaced children who missed doses. Complements the measles article."
+ },
+ {
+  "b": 9,
+  "cat": "child-health",
+  "slug": "child-fever-what-to-do",
+  "en": "Fever in children: when to worry and what to do",
+  "angle": "The most common parental worry. Temperature thresholds by age on a range-scale, correct paracetamol and ibuprofen use by weight not age, and a firm red-flag callout. Address tepid sponging and over-wrapping myths."
+ },
+ {
+  "b": 9,
+  "cat": "child-health",
+  "slug": "child-diarrhoea-dehydration",
+  "en": "Diarrhoea in children: rehydration that prevents death",
+  "angle": "Still a leading child killer regionally. ORS preparation as a steps visual with the exact home recipe, signs of dehydration, and when to go to hospital. Zinc supplementation."
+ },
+ {
+  "b": 9,
+  "cat": "child-health",
+  "slug": "child-anemia-iron",
+  "en": "Anaemia in children: causes, testing and iron",
+  "angle": "Very high regional prevalence with real effects on school performance. Screening ages, dietary iron in regional foods, and the cow's milk overconsumption cause."
+ },
+ {
+  "b": 10,
+  "cat": "child-health",
+  "slug": "child-growth-stunting",
+  "en": "Growth and stunting: reading your child's growth chart",
+  "angle": "Stunting rates are high in Yemen, Sudan and among displaced populations. How to read percentiles, what crossing centiles means, and the critical first 1000 days."
+ },
+ {
+  "b": 10,
+  "cat": "child-health",
+  "slug": "rickets-vitamin-d-children",
+  "en": "Rickets and vitamin D in children",
+  "angle": "Resurgent regionally despite abundant sun, driven by covering, indoor life and prolonged breastfeeding without supplementation. Signs, supplementation doses by age, and prevention."
+ },
+ {
+  "b": 10,
+  "cat": "child-health",
+  "slug": "autism-early-signs",
+  "en": "Autism: early signs and getting an assessment",
+  "angle": "High search volume and high stigma regionally. Developmental red flags by age on a timeline, the value of early intervention, and dispelling the vaccine myth clearly and firmly with sources."
+ },
+ {
+  "b": 10,
+  "cat": "child-health",
+  "slug": "adhd-in-children",
+  "en": "ADHD in children: recognising it and getting help",
+  "angle": "Widely under-recognised and often mislabelled as bad behaviour. Diagnostic criteria in plain words, school strategies, and treatment discussed factually."
+ },
+ {
+  "b": 10,
+  "cat": "child-health",
+  "slug": "child-asthma-guide",
+  "en": "Asthma in children: inhalers, spacers and school",
+  "angle": "Spacer technique is the single highest-value practical content, so make it a steps visual. Dust and shisha smoke exposure at home as regional triggers."
+ },
+ {
+  "b": 10,
+  "cat": "child-health",
+  "slug": "bedwetting-guide",
+  "en": "Bedwetting: what is normal and what helps",
+  "angle": "Common, distressing, and heavily shamed. Age expectations, medical causes to exclude, and a behavioural plan. Explicitly counsel against punishment."
+ },
+ {
+  "b": 10,
+  "cat": "medicines",
+  "slug": "paracetamol-safe-use",
+  "en": "Paracetamol: the safe dose and the hidden overdose risk",
+  "angle": "The most used medicine in the region and the most dangerous when doubled up, because it hides inside combination cold remedies. Weight-based dosing table, maximum daily dose, and a liver-damage red-flag callout."
+ },
+ {
+  "b": 10,
+  "cat": "medicines",
+  "slug": "ibuprofen-nsaids-risks",
+  "en": "Ibuprofen and NSAIDs: who should avoid them",
+  "angle": "Freely sold and freely overused. Kidney, stomach and blood pressure risks, the dengue and chickenpox cautions, and safer alternatives."
+ },
+ {
+  "b": 11,
+  "cat": "medicines",
+  "slug": "antibiotics-when-you-need-them",
+  "en": "Antibiotics: when they help and when they do nothing",
+  "angle": "Pairs with the resistance article but from the patient decision angle. A table of common illnesses against whether antibiotics help, and how to finish or not finish a course per current guidance."
+ },
+ {
+  "b": 11,
+  "cat": "medicines",
+  "slug": "metformin-guide",
+  "en": "Metformin: how it works and handling the side effects",
+  "angle": "First-line diabetes drug everywhere. Taking it with food, the gradual dose increase that avoids most side effects, B12 depletion over years, and Ramadan adjustment."
+ },
+ {
+  "b": 11,
+  "cat": "medicines",
+  "slug": "statins-cholesterol-drugs",
+  "en": "Statins: benefits, muscle pain and the myths",
+  "angle": "Adherence is poor because of fear. Absolute versus relative risk explained honestly, real versus attributed muscle symptoms, and monitoring."
+ },
+ {
+  "b": 11,
+  "cat": "medicines",
+  "slug": "levothyroxine-how-to-take",
+  "en": "Levothyroxine: timing, absorption and why your dose changes",
+  "angle": "Absorption is the whole game: empty stomach, gap from coffee, iron, calcium. Steps visual. Re-testing at six weeks on a timeline."
+ },
+ {
+  "b": 11,
+  "cat": "medicines",
+  "slug": "insulin-types-explained",
+  "en": "Insulin types: rapid, long acting and mixed",
+  "angle": "Table of onset, peak and duration by type. Injection site rotation as a steps visual. Hypoglycaemia red-flag callout. Cold storage in hot climates and during power cuts, which is a real regional problem."
+ },
+ {
+  "b": 11,
+  "cat": "medicines",
+  "slug": "inhaler-technique-guide",
+  "en": "How to use an inhaler properly, with and without a spacer",
+  "angle": "Most people use inhalers wrong, which makes the medicine worthless. Pure steps visuals for MDI, spacer and dry powder devices."
+ },
+ {
+  "b": 11,
+  "cat": "medicines",
+  "slug": "storing-medicines-in-heat",
+  "en": "Storing medicines in a hot climate",
+  "angle": "Genuinely regional and almost unwritten. What heat does to insulin, antibiotics and inhalers, car glove boxes, power cuts, and travel with a cool bag. Table of storage requirements."
+ },
+ {
+  "b": 11,
+  "cat": "medicines",
+  "slug": "counterfeit-medicines-arab",
+  "en": "Counterfeit and substandard medicines: spotting them",
+  "angle": "A serious regional problem, worse where supply chains have broken down. Packaging checks as a steps visual, buying from licensed pharmacies, and reporting. Cite WHO substandard and falsified medicines work."
+ },
+ {
+  "b": 12,
+  "cat": "nutrition",
+  "slug": "iron-rich-foods-arab-diet",
+  "en": "Iron rich foods in the Arab diet",
+  "angle": "Practical companion to the anaemia articles. Table of regional foods by iron content, haem versus non-haem absorption, and the tea-with-meals problem which is a major regional habit that blocks iron."
+ },
+ {
+  "b": 12,
+  "cat": "nutrition",
+  "slug": "zinc-deficiency-guide",
+  "en": "Zinc: deficiency, immunity and supplementation",
+  "angle": "Deficiency is common where diets are cereal-heavy. Signs, food sources, and the role in child diarrhoea."
+ },
+ {
+  "b": 12,
+  "cat": "nutrition",
+  "slug": "salt-intake-blood-pressure",
+  "en": "Salt: how much is too much and where it hides",
+  "angle": "Regional intake is far above WHO limits. Bar chart of hidden salt in regional foods including bread, pickles, processed cheese and stock cubes. Practical reduction steps."
+ },
+ {
+  "b": 12,
+  "cat": "nutrition",
+  "slug": "sugar-in-arabic-sweets",
+  "en": "Sugar in Arabic sweets and drinks: the real numbers",
+  "angle": "Concrete and shareable. Bar chart of sugar grams in named regional items, tea and coffee sugar habits, and what that means for diabetes risk. Non-judgemental and practical about occasions and hospitality."
+ },
+ {
+  "b": 12,
+  "cat": "nutrition",
+  "slug": "dates-health-benefits",
+  "en": "Dates: the real health facts",
+  "angle": "Culturally central and heavily searched. Honest nutrition including sugar content and glycaemic impact for diabetics, fibre and potassium benefits, and the Ramadan role. Correct the exaggerated claims."
+ },
+ {
+  "b": 12,
+  "cat": "nutrition",
+  "slug": "olive-oil-health",
+  "en": "Olive oil: what the evidence actually supports",
+  "angle": "Levantine staple. Separate real evidence from marketing, extra virgin versus refined, smoke point and cooking, and adulteration."
+ },
+ {
+  "b": 12,
+  "cat": "nutrition",
+  "slug": "water-intake-hot-climate",
+  "en": "How much water you actually need in a hot climate",
+  "angle": "Regionally specific and practical. Dehydration signs, urine colour as a range-scale, the outdoor worker risk, and why sugary drinks fail as replacement."
+ },
+ {
+  "b": 12,
+  "cat": "nutrition",
+  "slug": "obesity-in-the-gulf",
+  "en": "Obesity in the Gulf: the numbers and what changed",
+  "angle": "Some of the highest obesity rates in the world. Bar chart across Gulf states with WHO data, the drivers including car dependence, heat limiting activity, and dietary transition. Written without shaming."
+ },
+ {
+  "b": 13,
+  "cat": "nutrition",
+  "slug": "vitamin-supplements-truth",
+  "en": "Vitamin supplements: which ones are worth taking",
+  "angle": "Cuts through a huge and profitable noise. Table of common supplements against actual evidence, who genuinely needs which, and the harm from excess vitamin A and D megadoses."
+ },
+ {
+  "b": 13,
+  "cat": "nutrition",
+  "slug": "mediterranean-diet-arab-version",
+  "en": "The Mediterranean diet, in Levantine and North African food",
+  "angle": "The best evidenced diet in the world is essentially regional food. Reframe familiar dishes rather than importing foreign ones. Practical and affirming."
+ },
+ {
+  "b": 13,
+  "cat": "mental-health",
+  "slug": "depression-symptoms-treatment",
+  "en": "Depression: recognising it and getting treatment",
+  "angle": "Heavy regional stigma. Symptom checklist, the distinction from ordinary sadness, treatment options, and a suicidal-thoughts red-flag callout with the message that help exists."
+ },
+ {
+  "b": 13,
+  "cat": "mental-health",
+  "slug": "anxiety-disorders-guide",
+  "en": "Anxiety: when worry becomes a disorder",
+  "angle": "Very high search volume. Physical symptoms that send people to cardiologists first, which is a strong hook, plus treatment and self-management."
+ },
+ {
+  "b": 13,
+  "cat": "mental-health",
+  "slug": "ptsd-after-war-and-disaster",
+  "en": "PTSD after war, displacement and earthquakes",
+  "angle": "Profoundly regional given Syria, Gaza, Yemen, Sudan and the 2023 earthquake. Symptoms in adults and children, why avoidance sustains it, and what actually helps. Written with care and without pathologising normal grief."
+ },
+ {
+  "b": 13,
+  "cat": "mental-health",
+  "slug": "panic-attacks-guide",
+  "en": "Panic attacks: what is happening and how to stop one",
+  "angle": "High intent, immediately useful. The physiology that explains why it feels like a heart attack, grounding technique as a steps visual, and when to rule out cardiac causes."
+ },
+ {
+  "b": 13,
+  "cat": "mental-health",
+  "slug": "mental-health-stigma-arab",
+  "en": "Mental health stigma in Arab societies, and how to talk about it",
+  "angle": "Meta but valuable and highly shareable. Why people hide symptoms, how to raise it with family, how to find a professional regionally, and confidentiality."
+ },
+ {
+  "b": 13,
+  "cat": "mental-health",
+  "slug": "tramadol-painkiller-addiction",
+  "en": "Painkiller dependence: tramadol and the regional problem",
+  "angle": "A serious and specific regional issue, especially in Egypt. How dependence develops from legitimate pain use, withdrawal, and where to get help. Non-judgemental."
+ },
+ {
+  "b": 14,
+  "cat": "lifestyle",
+  "slug": "shisha-hookah-health-risks",
+  "en": "Shisha: what one session actually does to you",
+  "angle": "Massive regional practice and hugely under-covered. The water-filter myth, the smoke volume equivalent to many cigarettes, carbon monoxide, and shared mouthpiece infection risk. Bar chart comparing exposure with a cited source."
+ },
+ {
+  "b": 14,
+  "cat": "lifestyle",
+  "slug": "heat-stroke-prevention",
+  "en": "Heat exhaustion and heat stroke: prevention and first aid",
+  "angle": "Life saving in Gulf summers, especially for outdoor workers. Distinguish exhaustion from stroke in a table, cooling first aid as a steps visual, and a strong red-flag callout."
+ },
+ {
+  "b": 14,
+  "cat": "lifestyle",
+  "slug": "hajj-umrah-health-guide",
+  "en": "Staying healthy during Hajj and Umrah",
+  "angle": "Enormous seasonal search traffic. Required vaccinations, crowd and respiratory infection, heat, foot care, chronic medication supply, and pre-travel preparation as a timeline."
+ },
+ {
+  "b": 14,
+  "cat": "lifestyle",
+  "slug": "blood-pressure-home-monitoring",
+  "en": "Measuring blood pressure at home correctly",
+  "angle": "Most home readings are taken wrong, which makes them useless. Steps visual for correct technique, cuff size, timing, and a logging schedule. Complements the existing hypertension guide."
+ },
+ {
+  "b": 14,
+  "cat": "lifestyle",
+  "slug": "first-aid-basics-home",
+  "en": "Home first aid: the situations that matter most",
+  "angle": "Choking, burns, bleeding, fainting, seizures. Steps visuals throughout. Correct the dangerous folk remedies for burns which are widespread regionally."
+ },
+ {
+  "b": 14,
+  "cat": "lifestyle",
+  "slug": "dental-health-guide",
+  "en": "Teeth and gums: prevention, and the gum disease diabetes link",
+  "angle": "Under-covered. Brushing and flossing technique, the two-way gum disease and diabetes relationship, and the miswak evidence handled respectfully."
+ },
+ {
+  "b": 14,
+  "cat": "lifestyle",
+  "slug": "eye-strain-screens",
+  "en": "Eye strain, screens and children's vision",
+  "angle": "Rising myopia in children. The 20-20-20 rule, outdoor time evidence, and when a vision check is needed."
+ },
+ {
+  "b": 14,
+  "cat": "lifestyle",
+  "slug": "exercise-in-hot-climates",
+  "en": "Exercising safely when it is 45 degrees outside",
+  "angle": "Regionally specific. Timing, indoor options, mall walking which is a genuine Gulf practice, hydration, and starting from sedentary."
+ },
+ {
+  "b": 15,
+  "cat": "traditional-medicine",
+  "slug": "hijama-cupping-evidence",
+  "en": "Hijama (cupping): what the evidence shows and how to stay safe",
+  "angle": "Enormous Arabic search volume and almost no careful coverage. Treat the practice respectfully, present what evidence exists honestly including where it is weak, and focus hard on safety: sterile single-use blades, bloodborne infection risk, who must avoid it including people on blood thinners and with anaemia or diabetes."
+ },
+ {
+  "b": 15,
+  "cat": "traditional-medicine",
+  "slug": "black-seed-nigella-evidence",
+  "en": "Black seed (habbat al-barakah): evidence and interactions",
+  "angle": "Culturally revered and heavily searched. Cover the real research honestly, the blood sugar and blood pressure lowering effect that genuinely matters because it interacts with medication, and dose sanity."
+ },
+ {
+  "b": 15,
+  "cat": "traditional-medicine",
+  "slug": "honey-health-evidence",
+  "en": "Honey: wound healing, coughs and the diabetes question",
+  "angle": "Where evidence is genuinely good (wound care, child cough over one year) versus overstated. The critical warnings: never under one year because of botulism, and it still raises blood sugar."
+ },
+ {
+  "b": 15,
+  "cat": "traditional-medicine",
+  "slug": "herbal-remedies-drug-interactions",
+  "en": "Herbal remedies that interact with your medicines",
+  "angle": "High value safety content. Table of common regional herbs against the drugs they interfere with, liver toxicity from certain preparations, and the message to tell your doctor what you take."
+ },
+ {
+  "b": 15,
+  "cat": "traditional-medicine",
+  "slug": "weight-loss-herbs-danger",
+  "en": "Slimming herbs and teas: what is really in them",
+  "angle": "Adulteration with undeclared pharmaceuticals including sibutramine is documented and dangerous. Cite regulatory withdrawals. Laxative-based products and electrolyte loss."
+ },
+ {
+  "b": 15,
+  "cat": "traditional-medicine",
+  "slug": "kohl-lead-poisoning",
+  "en": "Kohl and lead: the risk to children",
+  "angle": "Traditional kohl applied to infants' eyes has repeatedly tested high for lead. Genuinely important and under-reported. Symptoms of lead exposure, testing, and safer alternatives. Respectful of the custom."
+ },
+ {
+  "b": 15,
+  "cat": "regional-health",
+  "slug": "medication-shortages-coping",
+  "en": "When your medicine is unavailable: what to do safely",
+  "angle": "Real and constant in Syria, Yemen, Sudan and Lebanon. Which medicines are dangerous to stop abruptly, how to find equivalents by active ingredient rather than brand, and rationing dangers. Table of never-stop-suddenly drug classes."
+ },
+ {
+  "b": 15,
+  "cat": "regional-health",
+  "slug": "air-pollution-dust-storms-health",
+  "en": "Dust storms and air pollution: protecting your lungs",
+  "angle": "Regionally defining. PM10 versus PM2.5, who is most at risk, mask types that actually work, and indoor air during a storm."
+ },
+ {
+  "b": 16,
+  "cat": "regional-health",
+  "slug": "healthcare-in-syria-today",
+  "en": "Navigating healthcare in Syria today",
+  "angle": "Practical map of what exists: public hospitals, private clinics, NGO and charity services, pharmacy-led care. What costs what, where labs are reliable, and how to get chronic-disease care when supply is unstable. Written factually and without politics."
+ },
+ {
+  "b": 16,
+  "cat": "regional-health",
+  "slug": "water-quality-and-disease",
+  "en": "Water quality and the diseases it carries",
+  "angle": "Where supply is intermittent or damaged, waterborne illness follows. Boiling, chlorination and filtration compared in a table, storage tank hygiene, and which diseases track back to water."
+ },
+ {
+  "b": 16,
+  "cat": "regional-health",
+  "slug": "refugee-and-displaced-health",
+  "en": "Health care when you are displaced",
+  "angle": "Continuity of chronic care without records, vaccination catch-up, mental health, and how to keep a personal health record that travels with you. Ties directly to what the app is for."
+ },
+ {
+  "b": 16,
+  "cat": "regional-health",
+  "slug": "earthquake-injury-and-aftermath",
+  "en": "After an earthquake: injuries, crush syndrome and health risks",
+  "angle": "The February 2023 earthquake makes this regionally urgent and it recurs. Crush syndrome and why it kills after rescue, wound infection and tetanus, water and shelter risks, and psychological aftermath."
+ },
+ {
+  "b": 16,
+  "cat": "regional-health",
+  "slug": "health-insurance-arab-countries",
+  "en": "Health insurance across Arab countries: how it works",
+  "angle": "Comparison table of systems in Saudi Arabia, UAE, Egypt, Jordan and Lebanon. What is covered, what is not, and how to read a policy before you need it."
+ },
+ {
+  "b": 16,
+  "cat": "regional-health",
+  "slug": "telemedicine-in-the-middle-east",
+  "en": "Telemedicine: when an online consultation is enough",
+  "angle": "Growing fast regionally. What can and cannot be handled remotely in a table, preparing for a video consultation, prescription and privacy issues."
+ },
+ {
+  "b": 16,
+  "cat": "regional-health",
+  "slug": "understanding-your-medical-report",
+  "en": "How to read a medical report and ask better questions",
+  "angle": "Meta-skill article with broad appeal. Common abbreviations table, what to ask a doctor, how to keep your own records, and getting a second opinion. Strong tie to the app."
+ },
+ {
+  "b": 16,
+  "cat": "regional-health",
+  "slug": "emergency-numbers-arab-countries",
+  "en": "Emergency numbers and when to call an ambulance",
+  "angle": "Table of ambulance and emergency numbers by country, what counts as an emergency, what to say on the call, and what to do while waiting."
+ },
+ {
+  "b": 17,
+  "cat": "traditional-medicine",
+  "slug": "ruqyah-and-modern-medicine",
+  "en": "Spiritual healing and medical treatment: holding both",
+  "angle": "Handled with genuine respect. Many patients use ruqyah alongside or instead of medical care. The message is not to choose one over the other but never to delay diagnosis or stop prescribed treatment. Address exploitative practitioners honestly."
+ },
+ {
+  "b": 17,
+  "cat": "traditional-medicine",
+  "slug": "ginger-turmeric-evidence",
+  "en": "Ginger and turmeric: what the studies actually found",
+  "angle": "Nausea and osteoarthritis evidence for ginger, inflammation research for curcumin and its poor absorption. Blood thinning interaction warning."
+ },
+ {
+  "b": 17,
+  "cat": "traditional-medicine",
+  "slug": "senna-laxatives-safety",
+  "en": "Senna and herbal laxatives: safe use and real harm",
+  "angle": "Widely used regionally, including in slimming teas. Dependence, electrolyte loss, and why chronic constipation needs a cause found rather than a stronger laxative."
+ },
+ {
+  "b": 17,
+  "cat": "traditional-medicine",
+  "slug": "traditional-bone-setting-risks",
+  "en": "Traditional bone setting: the injuries it causes",
+  "angle": "Widely used for fractures regionally and a documented cause of compartment syndrome, malunion and gangrene. Respectful of why people go, clear on what goes wrong, and specific on red flags after any splinting."
+ },
+ {
+  "b": 17,
+  "cat": "traditional-medicine",
+  "slug": "herbal-remedies-in-pregnancy",
+  "en": "Herbal remedies in pregnancy: what to avoid",
+  "angle": "Table of commonly used regional herbs against pregnancy safety. Uterine stimulants, and the false assumption that natural means safe for a fetus."
+ },
+ {
+  "b": 17,
+  "cat": "mental-health",
+  "slug": "insomnia-treatment-cbt",
+  "en": "Insomnia: fixing sleep without sleeping pills",
+  "angle": "Complements the existing sleep article by covering clinical insomnia and CBT-I specifically. Sleep restriction and stimulus control as steps, and the dependence risk of benzodiazepines sold freely regionally."
+ },
+ {
+  "b": 17,
+  "cat": "mental-health",
+  "slug": "burnout-and-work-stress",
+  "en": "Burnout: recognising it before it breaks you",
+  "angle": "Distinguish burnout from depression, the three dimensions, and recovery that is not just a holiday."
+ },
+ {
+  "b": 17,
+  "cat": "mental-health",
+  "slug": "grief-and-bereavement",
+  "en": "Grief: what is normal and when it needs help",
+  "angle": "Regionally resonant given widespread loss. Normal grief trajectory, cultural mourning practices as protective, and the signs of complicated grief needing support."
+ },
+ {
+  "b": 18,
+  "cat": "mental-health",
+  "slug": "child-anxiety-and-fears",
+  "en": "Anxiety in children: signs parents miss",
+  "angle": "Presents as stomach aches, school refusal and clinginess rather than stated worry. Age-appropriate reassurance that does not reinforce avoidance."
+ },
+ {
+  "b": 18,
+  "cat": "mental-health",
+  "slug": "quitting-smoking-guide",
+  "en": "How to actually stop smoking",
+  "angle": "Complements the existing smoking article by being purely practical. Nicotine replacement and medication options, the quit-day plan as a timeline, relapse handling, and the shisha-specific angle."
+ },
+ {
+  "b": 18,
+  "cat": "lifestyle",
+  "slug": "walking-for-health",
+  "en": "Walking: the most realistic exercise there is",
+  "angle": "Evidence for step counts against the 10,000 myth, how to build up, and where to walk when it is too hot or unsafe outdoors."
+ },
+ {
+  "b": 18,
+  "cat": "lifestyle",
+  "slug": "weight-loss-that-works",
+  "en": "Weight loss: what the evidence supports",
+  "angle": "Energy balance honestly, why crash diets fail, the plateau, and evaluation of the injectable weight-loss drugs now widely sought regionally. Non-shaming."
+ },
+ {
+  "b": 18,
+  "cat": "lifestyle",
+  "slug": "sitting-and-sedentary-risk",
+  "en": "Sitting all day: the health cost and what offsets it",
+  "angle": "Car-dependent and office-bound regional life. The evidence on breaking up sitting, and practical office and home changes."
+ },
+ {
+  "b": 18,
+  "cat": "lifestyle",
+  "slug": "back-pain-guide",
+  "en": "Lower back pain: what helps and what makes it worse",
+  "angle": "Extremely high search volume. Movement over bed rest, when imaging is unnecessary, red flags for serious causes, and specific exercises as steps."
+ },
+ {
+  "b": 18,
+  "cat": "lifestyle",
+  "slug": "travel-health-preparation",
+  "en": "Travel health: vaccines, medicines and what to pack",
+  "angle": "Pre-travel timeline, carrying prescription medicines across borders which trips people up regionally, travellers diarrhoea, and a medical kit table."
+ },
+ {
+  "b": 18,
+  "cat": "lifestyle",
+  "slug": "sun-exposure-skin-and-vitamin-d",
+  "en": "Sun exposure: enough vitamin D without the skin damage",
+  "angle": "Resolves the apparent contradiction of vitamin D deficiency in the sunniest region. Exposure needed, sunscreen use, skin cancer signs, and cultural dress factored in honestly."
+ },
+ {
+  "b": 19,
+  "cat": "genetic-conditions",
+  "slug": "down-syndrome-screening",
+  "en": "Down syndrome: screening in pregnancy and what results mean",
+  "angle": "Screening versus diagnostic testing, what a risk ratio actually means, NIPT availability regionally, and the counselling that should accompany it."
+ },
+ {
+  "b": 19,
+  "cat": "genetic-conditions",
+  "slug": "congenital-hypothyroidism-newborn",
+  "en": "Congenital hypothyroidism: why the newborn heel prick matters",
+  "angle": "Entirely preventable intellectual disability if caught in the first weeks. Timeline of screening and treatment start, and the consequence of a missed test."
+ },
+ {
+  "b": 19,
+  "cat": "genetic-conditions",
+  "slug": "cystic-fibrosis-arab-families",
+  "en": "Cystic fibrosis: under-recognised in Arab families",
+  "angle": "Higher than assumed regionally because of consanguinity, and frequently misdiagnosed as recurrent chest infection or failure to thrive. Sweat test, and the salt-loss risk in hot climates."
+ },
+ {
+  "b": 19,
+  "cat": "womens-health",
+  "slug": "postpartum-depression",
+  "en": "Postpartum depression: more than baby blues",
+  "angle": "Under-recognised and stigmatised regionally. Distinguish baby blues from depression on a timeline, screening, and the message that it is treatable and not a failure of motherhood."
+ },
+ {
+  "b": 19,
+  "cat": "womens-health",
+  "slug": "breastfeeding-guide",
+  "en": "Breastfeeding: getting it working and common problems",
+  "angle": "Attachment, supply worries which drive most early formula use, mastitis, and feeding while fasting in Ramadan which is a genuinely regional question."
+ },
+ {
+  "b": 19,
+  "cat": "child-health",
+  "slug": "child-malnutrition-and-feeding",
+  "en": "Child malnutrition: recognising it and refeeding safely",
+  "angle": "Acute in Yemen, Sudan and Gaza. MUAC measurement, distinguishing wasting from stunting, refeeding syndrome danger, and therapeutic feeding programmes."
+ },
+ {
+  "b": 19,
+  "cat": "child-health",
+  "slug": "newborn-jaundice",
+  "en": "Newborn jaundice: normal, and when it is dangerous",
+  "angle": "Very common and occasionally catastrophic, and G6PD deficiency raises the regional stakes. Timeline of normal versus pathological onset, phototherapy, and an urgent red-flag callout."
+ },
+ {
+  "b": 19,
+  "cat": "medicines",
+  "slug": "blood-thinners-warfarin-doacs",
+  "en": "Blood thinners: warfarin, the newer drugs and staying safe",
+  "angle": "Warfarin versus DOACs in a table, INR monitoring, food and drug interactions, bleeding red flags, and what to do before dental or surgical procedures."
+ },
+ {
+  "b": 19,
+  "cat": "medicines",
+  "slug": "painkillers-and-your-kidneys",
+  "en": "Painkillers and your kidneys: the damage nobody warns about",
+  "angle": "Chronic NSAID use is a major and preventable cause of regional kidney disease, driven by free over-the-counter availability. Which painkillers, how much, who is most at risk, and safer options."
+ }
+]

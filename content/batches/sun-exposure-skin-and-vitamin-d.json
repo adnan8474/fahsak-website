@@ -1,0 +1,414 @@
+{
+  "slug": "sun-exposure-skin-and-vitamin-d",
+  "category": "lifestyle",
+  "chip_ar": "نمط الحياة",
+  "chip_en": "Lifestyle",
+  "date_iso": "2026-07-14",
+  "sources": [
+    {
+      "label": "Green RJ, Samy G, Miqdady MS et al: Vitamin D deficiency and insufficiency in Africa and the Middle East, despite year-round sunny days, South African medical journal, 2015",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26447257/"
+    },
+    {
+      "label": "Al-Daghri NM, Al-Saleh Y, Khan N et al: Sun exposure, skin color and vitamin D status in Arab children and adults, The Journal of steroid biochemistry and molecular biology, 2016",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27182012/"
+    },
+    {
+      "label": "Al-Daghri NM: Vitamin D in Saudi Arabia: Prevalence, distribution and disease associations, The Journal of steroid biochemistry and molecular biology, 2018",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28027916/"
+    },
+    {
+      "label": "Wacker M, Holick MF: Sunlight and Vitamin D: A global perspective for health, Dermato-endocrinology, 2013",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24494042/"
+    },
+    {
+      "label": "Holick MF: Biological Effects of Sunlight, Ultraviolet Radiation, Visible Light, Infrared Radiation and Vitamin D for Health, Anticancer research, 2016",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26977036/"
+    },
+    {
+      "label": "Alhamed MS, Alharbi F, Al Joher A et al: Vitamin D Deficiency in Children and Adolescents in Saudi Arabia: A Systematic Review, Cureus, 2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38344540/"
+    },
+    {
+      "label": "World Health Organization: Ultraviolet radiation and health",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/ultraviolet-radiation-and-health"
+    }
+  ],
+  "content": {
+    "ar": {
+      "title": "الشمس وفيتامين د: كيف تستفيد بأمان",
+      "desc": "كيف تحصل على فيتامين د من الشمس دون أن تعرض جلدك للضرر؟ دليل علمي مخصص لمناخ الشرق الأوسط، يشمل أوقات التعرض والوقاية.",
+      "keywords": "فيتامين د, الشمس, نقص فيتامين د, التعرض للشمس, الشرق الأوسط, سرطان الجلد, واقي الشمس, ملابس محتشمة",
+      "h1": "الشمس وفيتامين د: كيف تستفيد بأمان في منطقة مشمسة",
+      "takeaways": [
+        "نقص فيتامين د شائع جداً في الشرق الأوسط رغم وفرة الشمس، بسبب طبيعة الملابس وأسلوب الحياة المنزلي وزاوية الأشعة فوق البنفسجية.",
+        "التعرض لأشعة الشمس من 10 إلى 30 دقيقة في منتصف النهار على الذراعين والساقين كافٍ لإنتاج فيتامين د، لكن الوقت يختلف حسب لون الجلد والموسم.",
+        "واقي الشمس يحمي من سرطان الجلد ولا يجب تجنبه، لكن الجلوس في الظل بعض الوقت قبل وضعه يحقق التوازن.",
+        "الفحص المخبري هو الطريقة الوحيدة لمعرفة مستواك الفعلي من فيتامين د، ولا يمكن تخمينه من لون الجلد أو الوقت الذي تقضيه بالخارج."
+      ],
+      "sections": [
+        {
+          "h2": "لماذا ينقص فيتامين د في أشمس بلاد العالم؟",
+          "paras": [
+            "يبدو الأمر متناقضاً: يعيش كثير من سكان الشرق الأوسط تحت شمس حارقة طوال العام، ومع ذلك تكشف الدراسات أن نقص فيتامين د (Vitamin D) بالغ الانتشار في المنطقة. دراسة نُشرت في المجلة الطبية لجنوب أفريقيا عام 2015 وجدت أن النقص يطال فئات واسعة من السكان في أفريقيا والشرق الأوسط على الرغم من الشمس الدائمة.",
+            "السبب ليس الشمس، بل الطريقة التي نتعامل بها معها. الملابس المحتشمة التي تغطي معظم الجسم، والاعتماد على السيارات بدلاً من المشي، وقضاء ساعات العمل في مكاتب مكيفة، والخروج فقط في ساعات المساء حين يكون الأثر على إنتاج فيتامين د ضعيفاً، كلها عوامل تحرم الجلد من الأشعة التي يحتاجها.",
+            "أضف إلى ذلك أن الأشعة فوق البنفسجية (UVB) التي تصنع فيتامين د لا تخترق الزجاج، ولا تصل بفاعلية كافية عندما تكون زاوية الشمس منخفضة في الصباح الباكر أو المساء. هذا يعني أن النافذة الزمنية الفعلية لإنتاج فيتامين د أقصر مما يظن كثيرون.",
+            "كذلك فإن الجلد الداكن يحتاج إلى وقت تعرض أطول لإنتاج نفس الكمية من فيتامين د مقارنة بالجلد الفاتح، وهو أمر يؤثر على فئات كثيرة في المنطقة."
+          ],
+          "visual": {
+            "type": "stats",
+            "items": [
+              {"value": ">80%", "label": "من النساء السعوديات يعانين نقصاً أو قصوراً في فيتامين د", "tone": "bad"},
+              {"value": "10-30 دقيقة", "label": "التعرض اليومي المطلوب للجلد غير المغطى في منتصف النهار", "tone": "info"}
+            ]
+          }
+        },
+        {
+          "h2": "كيف تصنع الشمس فيتامين د في جسمك؟",
+          "paras": [
+            "فيتامين د ليس فيتاميناً بالمعنى التقليدي، بل هو هرمون يصنعه جسمك بنفسه عندما تتعرض بشرتك لأشعة فوق البنفسجية من نوع UVB. يتحول مركب في الجلد يسمى 7-ديهيدروكوليسترول بفعل هذه الأشعة إلى سلائف فيتامين د، ثم تكمل الكبد والكلى تحويله إلى الشكل النشط.",
+            "الأشعة المسؤولة عن هذا التحول هي UVB فقط، وطولها الموجي يتراوح بين 290 و315 نانومتر. هذه الأشعة حساسة جداً لزاوية سقوط الشمس: عندما تكون الشمس منخفضة في الأفق، تمر الأشعة بمسافة أطول عبر الغلاف الجوي وتمتصها الأوزون بشكل كبير قبل أن تصل إلى الجلد.",
+            "هذا يعني أن الوقت الفعلي لإنتاج فيتامين د يقتصر على ساعات منتصف النهار تقريباً، من 10 صباحاً حتى 3 بعد الظهر في معظم مناطق الشرق الأوسط. التعرض في الصباح الباكر أو المساء، وإن كان لطيفاً على الجلد، لا يفيد كثيراً في إنتاج فيتامين د."
+          ],
+          "visual": {
+            "type": "timeline",
+            "title": "رحلة فيتامين د من الشمس إلى خلاياك",
+            "items": [
+              {"when": "الجلد", "what": "أشعة UVB تحول 7-ديهيدروكوليسترول إلى pre-D3"},
+              {"when": "الدم", "what": "pre-D3 يتحول إلى فيتامين D3 ويصل إلى الكبد"},
+              {"when": "الكبد", "what": "تحويل إلى 25-هيدروكسي فيتامين د (الشكل المقاس في التحليل)"},
+              {"when": "الكلى", "what": "تحويل إلى الشكل النشط 1,25-ديهيدروكسي فيتامين د"}
+            ]
+          }
+        },
+        {
+          "h2": "كم دقيقة من الشمس تحتاج فعلاً؟",
+          "paras": [
+            "لا توجد إجابة واحدة تناسب الجميع، لأن الوقت اللازم يتغير بحسب لون جلدك ووزنك وموقعك الجغرافي والموسم. لكن كقاعدة عامة في مناطق مثل السعودية ومصر والشام والعراق، يكفي تعرض الذراعين والساقين أو الذراعين والوجه للشمس مدة 10 إلى 20 دقيقة يومياً في منتصف النهار، خلال الأشهر الدافئة.",
+            "إذا كان لون جلدك داكناً أو تعيش في شمال المنطقة كتركيا أو شمال سوريا، قد تحتاج إلى 30 دقيقة أو أكثر للوصول إلى نفس الإنتاج. في الشتاء وبالقرب من العروض الجغرافية الأعلى، يضعف إنتاج الجلد بشكل ملحوظ حتى عند التعرض المنتظم، لأن زاوية الأشعة تصبح غير ملائمة لأشهر متتالية.",
+            "ما يهم هو كمية الجلد المكشوف، لا مجرد الجلوس في الشمس بملابس كاملة. الجلوس لساعة على شرفتك وأنت مرتدٍ ملابس محتشمة وتعرض وجهك فقط لن ينتج ما يكفيك. الذراعان والساقان هما أكبر مساحة عملية يمكن تعريضها بسهولة في الحياة اليومية.",
+            "بعد انتهاء وقت التعرض القصير، ارتدِ ثيابك أو ضع واقي الشمس. الهدف هو توازن مدروس، وليس التعرض المفرط الذي يزيد من خطر الإصابة بسرطان الجلد. لا تبق في الشمس أكثر مما تحتاج، لأن الضرر التراكمي يبدأ قبل أن ترى أي أعراض ظاهرة.",
+            "الوزن الزائد يؤثر هو الآخر على مستوى فيتامين د، لأن هذا الفيتامين يذوب في الدهون وقد يتوزع في الأنسجة الدهنية بدلاً من الدم. بمعنى آخر، شخصان يحصلان على نفس قدر التعرض للشمس قد يكون لديهما مستويات مختلفة في الدم إذا كان أحدهما يعاني من زيادة الوزن."
+          ]
+        },
+        {
+          "h2": "واقي الشمس والملابس المحتشمة: هل تسببان النقص؟",
+          "paras": [
+            "نعم، واقي الشمس (Sunscreen) يقلل إنتاج فيتامين د إذا وُضع قبل التعرض مباشرة، لأنه يعمل بحجب أشعة UVB. أما الملابس فتحجب الأشعة تماماً عن المناطق المغطاة. لكن هذا لا يعني أنك يجب أن تتخلى عن الحماية.",
+            "الحل العملي هو التعرض القصير أولاً لمدة 10 إلى 15 دقيقة على الجلد غير المغطى، ثم وضع واقي الشمس أو ارتداء الملابس إذا احتجت البقاء في الشمس لفترة أطول. بهذه الطريقة تحصل على فيتامين د وتحمي جلدك في آن.",
+            "أما المرأة المحجبة أو المنقبة فمن المرجح أن تحتاج إلى مكمل غذائي يومي من فيتامين د، لأن التعرض الكافي أمر عسير من خلال الملابس. الفحص المخبري هو الطريقة الوحيدة لتأكيد ذلك وتحديد ما تحتاجه من جرعة مع الطبيب. لا تتناول مكملات بجرعات عالية دون استشارة طبية لأن الإفراط في فيتامين د له مخاطره.",
+            "الزجاج في نوافذ السيارات والمنازل يحجب أشعة UVB تقريباً بالكامل، لذا فإن الجلوس قرب النافذة أو في سيارة بسقف شفاف لا يساعدك على إنتاج فيتامين د."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "ما الذي يحجب أشعة UVB المنتجة لفيتامين د؟",
+            "head": ["العامل", "درجة الحجب", "الحل العملي"],
+            "rows": [
+              ["الملابس الداكنة والسميكة", "شبه كاملة", "تعريض الذراعين قبل ارتداء الملابس الكاملة"],
+              ["واقي الشمس SPF 30+", "70-95%", "وضعه بعد 10-15 دقيقة من التعرض"],
+              ["زجاج النوافذ", "شبه كاملة", "الخروج للخارج ولو بضع دقائق"],
+              ["ضباب الصحراء والغبار", "جزئية", "اختيار أيام صافية"],
+              ["الصباح الباكر والمساء", "عالية (زاوية منخفضة)", "التعرض بين 10 ص و3 م"]
+            ]
+          }
+        },
+        {
+          "h2": "مخاطر الشمس الزائدة: ما يجب أن تعرفه",
+          "paras": [
+            "الشمس ليست علاجاً مجانياً بلا ثمن. الأشعة فوق البنفسجية من نوع UVA وUVB تتراكم آثارها في الجلد مع مرور السنين، وتسبب شيخوخة الجلد المبكرة وتزيد من خطر الإصابة بسرطان الجلد. منظمة الصحة العالمية صنفت الإشعاع فوق البنفسجي ضمن العوامل المسرطنة من الفئة الأولى.",
+            "الحروق الشمسية المتكررة، حتى تلك الخفيفة التي تحمر الجلد قليلاً دون ألم شديد، تراكمية الضرر وتزيد من خطر الميلانوما وأنواع سرطان الجلد غير الميلانومية. لون الجلد الداكن يمنح حماية طبيعية أكبر بفضل الميلانين، لكنه لا يمنع سرطان الجلد تماماً. الأشخاص ذوو الجلد الداكن يُصابون به أيضاً، ويُشخّص في مراحل أكثر تقدماً لأنه لا يلفت الانتباه بنفس الطريقة.",
+            "أعراض الضربة الشمسية مختلفة عن مجرد حرق الجلد. التعرض المفرط لحرارة الشمس في الصيف يمكن أن يسبب جفافاً شديداً وارتفاع حرارة الجسم فوق 40 درجة مئوية، وهذا خطر مستقل عن الضرر الجلدي يتطلب العناية الفورية بالترطيب والتظليل والإسعاف في الحالات الشديدة.",
+            "الشيخوخة التي تسببها الشمس تختلف عن الشيخوخة الطبيعية. التجاعيد العميقة والبقع الداكنة على الوجه والرقبة والساعدين التي تراها على مزارعين ومشاة كبار في السن هي في الغالب شيخوخة ضوئية ناجمة عن التعرض التراكمي للأشعة فوق البنفسجية. واقي الشمس يمنع هذا الضرر إلى حد كبير."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "اذهب إلى الطبيب إذا لاحظت على جلدك",
+            "items": [
+              "بقعة أو خال تغير شكله أو لونه أو حجمه بمرور الوقت",
+              "جرح أو قرحة على الجلد لا تلتئم خلال أسبوعين",
+              "منطقة جلدية لامعة أو عقيدة صلبة جديدة",
+              "بقعة داكنة غير منتظمة الحواف أو متعددة الألوان"
+            ]
+          }
+        },
+        {
+          "h2": "اعتبارات خاصة بالمنطقة: الحر والملابس والعادات",
+          "paras": [
+            "في صيف الخليج ومصر والعراق، حيث تتخطى درجات الحرارة 45 درجة مئوية، يصبح التعرض للشمس في منتصف النهار خطراً في حد ذاته بسبب الإجهاد الحراري وخطر ضربة الشمس. هنا يكون الفحص المخبري والمكمل الغذائي أكثر أماناً من محاولة توليد فيتامين د عبر الشمس. في هذه الأشهر لا تغامر بالخروج في الذروة الحارة، بل اعتمد على المكمل بجرعة يحددها الطبيب بعد الفحص.",
+            "في الشتاء حين تعتدل الحرارة، تصبح نزهة صباحية متأخرة أو في منتصف النهار خياراً واقعياً ومفيداً. بعض عادات المنطقة مفيدة دون قصد: الجلوس في الفناء الداخلي في ساعات الصباح، واصطحاب الأطفال إلى الساحات الخارجية، والسوق الذي يمشيه بعض الناس في الهواء الطلق. هذه فرص قيمة للتعرض الطبيعي تستحق الحفاظ عليها.",
+            "الرياضيون والعمال في الهواء الطلق عادةً لا يعانون نقص فيتامين د، لكنهم في المقابل أكثر عرضة للضرر الجلدي التراكمي. عامل البناء الذي يعمل في الشمس لثماني ساعات يومياً لديه فيتامين د كافٍ على الأرجح، لكنه يحتاج إلى واقي شمس وقبعة وملابس خفيفة فاتحة لحماية جلده على المدى البعيد.",
+            "الأطفال يحتاجون اهتماماً خاصاً. النمط اليومي الحديث الذي يقضون فيه معظم الوقت داخل المنزل أو في سيارة مكيفة أو أمام شاشة يحرمهم من التعرض الطبيعي. دراسة مراجعية نشرت عام 2024 في مجلة Cureus وجدت نقصاً واسعاً في أوساط الأطفال والمراهقين في السعودية. مراجعة طبيب الأطفال حول ضرورة مكمل فيتامين د أمر مهم، خاصة إذا كان الطفل يقضي معظم وقته داخل البيت.",
+            "كبار السن فئة أخرى مهمة يكثر فيها النقص. مع التقدم في العمر، تقل كفاءة الجلد في تحويل أشعة الشمس إلى فيتامين د، كما تقل القدرة على الحركة الخارجية. للمسنين الذين يبقون في المنزل معظم الوقت، المكمل الغذائي ليس ترفاً بل ضرورة صحية."
+          ]
+        },
+        {
+          "h2": "الأطعمة ومكملات فيتامين د: متى تكون ضرورية؟",
+          "paras": [
+            "الأطعمة الغنية بفيتامين د قليلة في النظام الغذائي العربي التقليدي. الأسماك الدهنية كالسلمون والتونة والسردين هي المصادر الأفضل، يليها صفار البيض ومنتجات الألبان المدعمة بفيتامين د. الكميات الموجودة في الطعام عادةً لا تكفي وحدها إذا كان التعرض للشمس محدوداً.",
+            "المكملات الغذائية ضرورية لكثيرين في المنطقة، خاصة النساء اللواتي يرتدين الحجاب، وكبار السن، والأطفال، وبالغين يعيشون نمط حياة داخلي. الجرعة تختلف بحسب المستوى في الدم وتحدد من قبل الطبيب بعد الفحص.",
+            "لا تبدأ بجرعات عالية من مكملات فيتامين د بناء على توصية من الأصدقاء أو مواقع التواصل. فيتامين د يذوب في الدهون وقابل للتراكم، والجرعات المفرطة يمكن أن ترفع مستويات الكالسيوم في الدم وتضر بالكلى. الفحص أولاً ثم الجرعة المناسبة هو المسار الآمن.",
+            "تذكر أن المستوى في الدم 25-هيدروكسي فيتامين د (25(OH)D) هو المقياس المعياري. المستوى دون 20 نانوغرام/مل يعتبر نقصاً، وبين 20 و30 قصوراً، وفوق 30 كافياً لمعظم الناس. هذه الأرقام تظهر في نتيجة التحليل وهي قابلة للمتابعة بمرور الوقت."
+          ],
+          "visual": {
+            "type": "range-scale",
+            "title": "تفسير نتيجة 25(OH)D في الدم",
+            "label": "25(OH)D",
+            "unit": "ng/mL",
+            "min": 0,
+            "max": 80,
+            "zones": [
+              {"to": 20, "tone": "bad", "label": "نقص"},
+              {"to": 30, "tone": "warn", "label": "قصور"},
+              {"to": 60, "tone": "good", "label": "طبيعي"},
+              {"to": 80, "tone": "warn", "label": "مرتفع"}
+            ],
+            "source": "Holick MF: Biological Effects of Sunlight, Anticancer Research, 2016",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/26977036/"
+          }
+        },
+        {
+          "h2": "خطوات عملية لتحقيق التوازن",
+          "paras": [
+            "الهدف ليس اختيار أحد طرفي النقيض: لا الجلوس في الشمس لساعات دون حماية، ولا الاختباء الكامل عنها. التوازن ممكن وعملي بخطوات بسيطة.",
+            "احرص على فحص مستوى فيتامين د في دمك مرة واحدة على الأقل، خاصة إذا كنت تشعر بتعب مزمن أو ألم في العظام أو تتبع نمط حياة داخلياً. بناء على النتيجة، ناقش طبيبك حول ما إذا كنت تحتاج مكملاً ومقداره.",
+            "في الأيام المعتدلة، خصص 10 إلى 20 دقيقة في منتصف النهار لنزهة قصيرة أو جلوس في الهواء الطلق مع كشف الذراعين. بعدها ضع واقي الشمس إذا أردت الاستمرار في الخارج. هذا الروتين البسيط كافٍ لكثيرين في الأشهر المعتدلة.",
+            "راقب جلدك سنوياً أو كلما لاحظت تغيراً مستجداً في أي بقعة أو خال. سرطان الجلد قابل للشفاء في معظم الحالات إذا اكتُشف مبكراً، والاكتشاف المبكر يبدأ بالملاحظة الذاتية."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "خطة يومية لفيتامين د آمن",
+            "items": [
+              "بين 10 صباحاً و3 بعد الظهر: اخرج 10-20 دقيقة مع كشف الذراعين أو الساقين",
+              "في الحر الشديد أو الشتاء: اعتمد على مكمل فيتامين د بجرعة يحددها طبيبك",
+              "إذا بقيت في الشمس أكثر من 20 دقيقة: ضع واقي شمس SPF 30 على الأقل",
+              "كل 12 شهراً أو عند الشعور بأعراض: افحص مستوى 25(OH)D في الدم",
+              "انتبه لأي تغيير في شامات جلدك وراجع طبيبك عند أي شك"
+            ]
+          }
+        }
+      ],
+      "tie": "تطبيق صحتك يساعدك على تسجيل نتائج تحليل فيتامين د ومتابعة تحسنها مع الوقت، ويذكرك بمواعيد الفحص الدوري حتى لا تنسى.",
+      "faqs": [
+        {
+          "q": "هل يكفي التعرض للشمس من خلف الزجاج لإنتاج فيتامين د؟",
+          "a": "لا. الزجاج يحجب أشعة UVB تقريباً بشكل كامل، وهي الأشعة المسؤولة عن إنتاج فيتامين د في الجلد. الجلوس قرب النافذة أو في سيارة بسقف شفاف لا يفيدك في هذا الشأن، وتحتاج إلى التعرض المباشر للهواء الطلق."
+        },
+        {
+          "q": "هل واقي الشمس يمنع تكوين فيتامين د؟",
+          "a": "نعم إذا وُضع قبل التعرض مباشرة. الحل العملي هو التعرض القصير لمدة 10 إلى 15 دقيقة أولاً على جلد غير محمي، ثم وضع واقي الشمس قبل الاستمرار في الخارج. لا تتخل عن واقي الشمس تماماً لأن مخاطر سرطان الجلد حقيقية."
+        },
+        {
+          "q": "ما أفضل وقت للتعرض للشمس في الصيف في الخليج؟",
+          "a": "في صيف الخليج حيث تتخطى الحرارة 45 درجة، التعرض في منتصف النهار خطر صحي. يُفضل في هذا الموسم الاعتماد على مكمل فيتامين د بعد فحص مستواه، والاحتفاظ بالتعرض الخارجي لفترات الصباح الباكر أو المساء حتى لو كان إنتاج فيتامين د فيها محدوداً."
+        },
+        {
+          "q": "هل يعاني أصحاب الجلد الداكن من نقص فيتامين د أكثر؟",
+          "a": "نعم، الجلد الداكن يحتاج وقت تعرض أطول لإنتاج نفس كمية فيتامين د، بسبب الميلانين الذي يعمل كمرشح طبيعي لأشعة UVB. هذا يعني أن الأشخاص ذوي الجلد الداكن في المناطق ذات أشعة شمس معتدلة هم أكثر عرضة للنقص."
+        },
+        {
+          "q": "ما مستوى فيتامين د الطبيعي في الدم؟",
+          "a": "النتيجة المقاسة هي 25-هيدروكسي فيتامين د (25(OH)D). المستوى فوق 30 نانوغرام/مل (75 نانومول/لتر) يعتبر كافياً لمعظم الناس. بين 20 و30 قصور، وما دون 20 نقص. هذه الأرقام مرسومة عادةً على ورقة التحليل."
+        },
+        {
+          "q": "هل يمكن الحصول على فيتامين د من الأطعمة فقط دون الشمس؟",
+          "a": "صعب جداً في النظام الغذائي المعتاد في المنطقة. الأسماك الدهنية كالسلمون والسردين والتونة هي الأغنى، لكن الكميات المتاحة من الطعام وحده نادراً ما تكفي إذا كان التعرض للشمس محدوداً. المكمل الغذائي عادةً ضروري في هذه الحالة."
+        },
+        {
+          "q": "هل المرأة المحتشمة بحاجة دائماً لمكمل فيتامين د؟",
+          "a": "غالباً نعم، خاصة إذا كانت تقضي معظم وقتها في الداخل. الطريقة الوحيدة للتأكد هي فحص مستوى 25(OH)D في الدم. بعض النساء يحتفظن بمستوى كافٍ إذا تعرضن للشمس على الوجه والكفين يومياً، لكن الفحص يزيل الشك."
+        },
+        {
+          "q": "هل الإفراط في فيتامين د من المكملات مضر؟",
+          "a": "نعم. فيتامين د يذوب في الدهون ويتراكم في الجسم، والجرعات المفرطة ترفع مستوى الكالسيوم في الدم مسببةً غثياناً وإرهاقاً وتكلس في الكلى. لهذا السبب يجب تناول المكملات بجرعة يحددها الطبيب بعد فحص المستوى، لا بجرعات عشوائية."
+        }
+      ]
+    },
+    "en": {
+      "title": "Sun exposure and vitamin D: getting the balance right",
+      "desc": "Why vitamin D deficiency is widespread in the Middle East despite year-round sunshine, how much sun you actually need, and how to protect your skin at the same time.",
+      "keywords": "vitamin D, sun exposure, vitamin D deficiency, Middle East, sunscreen, skin cancer, UVB, modest clothing",
+      "h1": "Sun and vitamin D: how to get enough without harming your skin",
+      "takeaways": [
+        "Vitamin D deficiency is common across the Middle East despite abundant sunshine, driven by indoor lifestyles, covered clothing and UV angle.",
+        "Ten to thirty minutes of midday sun on exposed arms and legs most days is enough for most people to produce adequate vitamin D, but the exact time depends on skin tone and season.",
+        "Sunscreen prevents skin cancer and should not be abandoned; the practical solution is brief unprotected exposure first, then apply protection.",
+        "A blood test is the only way to know your actual vitamin D level. You cannot estimate it from how much time you spend outdoors."
+      ],
+      "sections": [
+        {
+          "h2": "Why vitamin D is low in the world's sunniest region",
+          "paras": [
+            "It sounds like a contradiction: the Middle East is bathed in sunshine for most of the year, yet vitamin D deficiency is widespread across the region. A 2015 review published in the South African Medical Journal found deficiency and insufficiency affecting large proportions of the population in Africa and the Middle East despite year-round sunny days. A 2016 study of Arab children and adults by Al-Daghri and colleagues found that sun exposure patterns and skin tone were key drivers of vitamin D status.",
+            "The sun is not the problem. The way people interact with it is. Modest and full-coverage clothing, air-conditioned offices and car-dependent lifestyles all mean that skin rarely encounters the specific rays that trigger vitamin D production. Going outdoors in the early morning or late afternoon, which is the natural preference when avoiding midday heat, also reduces vitamin D synthesis because the UV angle is unfavourable.",
+            "Glass blocks UVB rays almost completely. Sitting by a window, driving in a car with a glass roof, or working near a sunlit wall provides no vitamin D benefit. Only direct outdoor exposure counts.",
+            "Darker skin tones require longer exposure times to produce the same amount of vitamin D as lighter skin, because melanin acts as a natural UV filter. This means that many people in the region face a double disadvantage: cultural or climate-driven avoidance of midday sun, combined with a skin tone that needs more of it."
+          ],
+          "visual": {
+            "type": "stats",
+            "items": [
+              {"value": ">80%", "label": "of Saudi women have deficiency or insufficiency", "tone": "bad"},
+              {"value": "10-30 min", "label": "of midday sun on bare skin is typically enough", "tone": "info"}
+            ]
+          }
+        },
+        {
+          "h2": "How sunlight makes vitamin D in your body",
+          "paras": [
+            "Vitamin D is less a vitamin and more a hormone that your body manufactures when UVB rays hit bare skin. A compound in the skin called 7-dehydrocholesterol absorbs UVB energy and converts to pre-vitamin D3. This travels to the liver where it becomes 25-hydroxyvitamin D (the form measured in blood tests), and then to the kidneys where it is converted to the active hormone. As Wacker and Holick described in a 2013 review in Dermato-endocrinology, this pathway requires adequate UVB intensity, which is only present during certain hours of the day.",
+            "UVB has a wavelength of 290 to 315 nanometres. When the sun is low in the sky, these rays travel a longer path through the atmosphere and are largely absorbed by the ozone layer before reaching skin. This is why the effective window for vitamin D production is roughly between 10 am and 3 pm across most of the Middle East. Outdoor time at dawn or dusk, while pleasant and thermally sensible, does little for vitamin D.",
+            "The implications matter for daily planning. A walk at 7 am is excellent for well-being and cardiovascular health, but it does not substitute for the midday exposure needed for vitamin D synthesis."
+          ],
+          "visual": {
+            "type": "timeline",
+            "title": "The path from sunlight to active vitamin D",
+            "items": [
+              {"when": "Skin", "what": "UVB converts 7-dehydrocholesterol to pre-D3"},
+              {"when": "Bloodstream", "what": "Pre-D3 converts to vitamin D3, travels to liver"},
+              {"when": "Liver", "what": "Converts to 25(OH)D, the form measured in your blood test"},
+              {"when": "Kidneys", "what": "Final conversion to active 1,25-dihydroxyvitamin D"}
+            ]
+          }
+        },
+        {
+          "h2": "How much sun do you actually need?",
+          "paras": [
+            "There is no single answer because the time required varies with skin tone, body weight, latitude, season, and how much skin is exposed. In most of the Middle East during warm months, exposing the arms and legs (or arms and face) to midday sun for 10 to 20 minutes most days is adequate for lighter-skinned people. Darker skin tones typically need 20 to 30 minutes for equivalent production, because melanin filters the same UVB that drives synthesis.",
+            "In winter or at higher latitudes such as northern Syria, Lebanon, or North Africa above the 35th parallel, UVB intensity drops significantly even on a clear day, and longer outdoor exposure may produce very little vitamin D. The practical threshold is when the UV Index falls below 3, which for most of the region happens in December and January at higher latitudes.",
+            "The amount of skin exposed matters enormously. Sitting in the sun for an hour in full clothing with only your face uncovered will produce very little vitamin D. The forearms and lower legs offer the most practical and socially accessible surface area. After your brief intentional exposure, covering up or applying sunscreen for the rest of your time outdoors is the correct approach to managing both need and risk.",
+            "Body weight also plays a role. Vitamin D is fat-soluble and distributes into adipose tissue. Two people with identical sun exposure can have different blood levels if one carries significantly more body fat. People with higher body weight often need higher supplement doses to reach the same circulating level, which is another reason that testing matters more than estimating."
+          ]
+        },
+        {
+          "h2": "Does sunscreen or covered clothing cause deficiency?",
+          "paras": [
+            "Applied before sun exposure, sunscreen significantly reduces UVB penetration and therefore vitamin D synthesis. Clothing covers completely. This is the mechanism behind the high deficiency rates in covered populations. But the answer is not to abandon sun protection.",
+            "The practical solution is sequencing: allow 10 to 15 minutes of unprotected midday exposure on bare skin, then apply sunscreen if you plan to stay outdoors. That brief window is enough for your skin to initiate synthesis without accumulating meaningful UV damage on that occasion.",
+            "Women who wear full-coverage garments are likely to need a daily vitamin D supplement. A 2024 systematic review in Cureus found high rates of deficiency among children in Saudi Arabia, and covering clothing was among the identified risk factors. For adults in covered clothing, checking a blood level and discussing a supplement dose with a doctor is sensible rather than guessing.",
+            "Do not take high-dose vitamin D supplements based on a friend's recommendation or social media advice. Vitamin D is fat-soluble and accumulates. Excess causes hypercalcaemia, with symptoms including nausea, fatigue and kidney damage. Test first, then dose."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "What blocks vitamin D-producing UVB rays",
+            "head": ["Factor", "How much it blocks", "Practical workaround"],
+            "rows": [
+              ["Full-coverage clothing", "Near complete", "Expose forearms briefly before dressing"],
+              ["Sunscreen SPF 30+", "70-95%", "Apply after 10-15 minutes of initial exposure"],
+              ["Window glass", "Near complete", "Go outside rather than sitting near a window"],
+              ["Desert haze and dust", "Partial", "Choose clear days when possible"],
+              ["Early morning or evening", "High (low UV angle)", "Aim for 10 am to 3 pm window"]
+            ]
+          }
+        },
+        {
+          "h2": "The real risks of too much sun",
+          "paras": [
+            "Sun exposure is not a free medicine without a cost. UVA and UVB rays accumulate damage in skin over years and are the primary cause of premature skin ageing and skin cancer. The World Health Organization classifies ultraviolet radiation as a Group 1 carcinogen, meaning the evidence for a causal link to cancer is strong and consistent.",
+            "Repeated sunburn, even mild reddening that fades after a day, is cumulatively harmful and raises the lifetime risk of melanoma and non-melanoma skin cancers. Darker skin offers more natural protection because melanin absorbs UV, but it does not eliminate the risk. People of all skin tones develop skin cancer, and in darker-skinned people it tends to be diagnosed at a more advanced stage because doctors and patients may not look for it as readily.",
+            "Photoageing is separate from chronological ageing. The deep facial creases, irregular pigmentation and leathery texture seen in older farmers and outdoor workers are primarily caused by decades of UV exposure rather than age itself. Consistent use of sunscreen from early adulthood significantly reduces this accumulation.",
+            "Heat exhaustion and heat stroke are dangers completely independent of UV damage. During Gulf summers, when air temperature exceeds 45 degrees Celsius and humidity is high, midday outdoor exposure risks life-threatening overheating. In those conditions, staying indoors and using supplements is not a concession but the correct clinical choice."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "See a doctor if you notice any of these on your skin",
+            "items": [
+              "A mole or spot that has changed in shape, colour or size over weeks or months",
+              "A sore or ulcer that has not healed after two weeks",
+              "A shiny, pearly bump or firm new nodule",
+              "A dark patch with irregular edges or more than one colour"
+            ]
+          }
+        },
+        {
+          "h2": "Regional realities: heat, clothing and habits",
+          "paras": [
+            "In Gulf summers where temperatures exceed 45 degrees Celsius and humidity is high, midday sun exposure is a heat hazard in its own right and should be avoided. For these months, a vitamin D supplement is more sensible than seeking UV exposure at personal risk. Check a blood level, get a dose recommendation from a doctor, and reserve outdoor activity for very early morning or after sunset when it is thermally safe even if UV output is low.",
+            "In the cooler months, a late-morning walk with forearms exposed is both thermally comfortable and productive for vitamin D. Some traditional habits inadvertently support vitamin D status: sitting in a walled courtyard in the morning, children playing in a garden or schoolyard, men taking tea on an outdoor step. These real-world exposures count and should not be dismissed as too informal.",
+            "Children deserve particular attention because their current lifestyle patterns work against vitamin D production at every point. School hours are spent indoors, the journey to school is usually by car or bus, afternoon leisure is increasingly indoor and screen-based. A 2024 systematic review in Cureus found deficiency affecting a significant proportion of Saudi children and adolescents. If your child's paediatrician has not mentioned vitamin D, it is a reasonable question to raise at the next visit.",
+            "Outdoor workers in construction, agriculture and delivery often have adequate vitamin D from occupational exposure, but they accumulate the highest UV dose and are at greatest risk of long-term skin damage. If you work outdoors, you likely do not need more sun for vitamin D, but you do need consistent sunscreen use, protective clothing and a hat during prolonged shifts.",
+            "Older adults are a third high-risk group. The skin's capacity to synthesise vitamin D from UV declines with age, and mobility limitations mean that many elderly people in the region rarely go outdoors. For them, a daily supplement is not optional but a genuine nutritional necessity."
+          ]
+        },
+        {
+          "h2": "Food sources and when supplements are necessary",
+          "paras": [
+            "The traditional Arab diet contains few rich vitamin D sources. Fatty fish (salmon, sardines, tuna) are the best food sources, followed by egg yolk and fortified dairy products. Even a diet that includes these regularly is unlikely to provide enough vitamin D if sun exposure is limited, because food typically contributes a small fraction of what skin can produce.",
+            "Supplements are appropriate for many people in the region: women with covered clothing, elderly people who go out rarely, children, and those with largely indoor occupations. The correct dose depends on your baseline blood level. A result below 20 ng/mL (50 nmol/L) suggests deficiency needing a therapeutic dose; a result between 20 and 30 ng/mL suggests insufficiency. Above 30 ng/mL is adequate for most people.",
+            "The standard supplement form is cholecalciferol, also written as vitamin D3. It is available over the counter across the region without a prescription, which makes unsupervised high-dose use a real risk. Taking 10,000 IU or more per day without monitoring can cause toxicity. Typical daily maintenance doses are in the range of 1,000 to 2,000 IU for adults, but the right dose for you is a number only your blood result can guide."
+          ],
+          "visual": {
+            "type": "range-scale",
+            "title": "How to read your 25(OH)D blood result",
+            "label": "25(OH)D",
+            "unit": "ng/mL",
+            "min": 0,
+            "max": 80,
+            "zones": [
+              {"to": 20, "tone": "bad", "label": "Deficient"},
+              {"to": 30, "tone": "warn", "label": "Insufficient"},
+              {"to": 60, "tone": "good", "label": "Adequate"},
+              {"to": 80, "tone": "warn", "label": "High"}
+            ],
+            "source": "Holick MF: Biological Effects of Sunlight, Anticancer Research, 2016",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/26977036/"
+          }
+        },
+        {
+          "h2": "A practical daily plan",
+          "paras": [
+            "Balancing vitamin D production and skin protection is not complicated once you understand the mechanism. The goal is not choosing between sun and shade, but managing when and how you expose skin.",
+            "In cool or mild weather, plan a 10 to 20 minute midday walk or sit in the sun with forearms or lower legs exposed before applying sunscreen. In summer heat, use supplements and exercise outdoors only in early morning or evening. Check your blood level at least once, and ask a doctor whether you need a supplement and at what dose.",
+            "Watch your skin. In a region where sun exposure is high and dermatology access can be limited, self-examination matters. Any changing mole, non-healing sore, or new growth should be shown to a doctor."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "Practical daily vitamin D plan",
+            "items": [
+              "Between 10 am and 3 pm: get 10-20 minutes of sun on bare forearms or lower legs",
+              "In extreme summer heat or winter: rely on a supplement at a dose guided by your blood level",
+              "If staying out longer than 20 minutes: apply SPF 30+ sunscreen",
+              "Every 12 months or when you feel persistently tired or achy: check your 25(OH)D level",
+              "Monthly: do a quick self-check of your skin for any new or changing spots"
+            ]
+          }
+        }
+      ],
+      "tie": "Use Sihtak to log your vitamin D blood results over time and set a reminder for your next check. Tracking the number tells you whether your routine is actually working.",
+      "faqs": [
+        {
+          "q": "Can I get vitamin D through a window?",
+          "a": "No. Window glass blocks UVB rays almost completely, and UVB is the specific wavelength your skin uses to produce vitamin D. Sitting beside a sunny window or driving in a glass-roofed car gives you warmth and light but no vitamin D synthesis. You need direct outdoor exposure."
+        },
+        {
+          "q": "Does sunscreen stop vitamin D production?",
+          "a": "Yes, when applied before exposure. The practical answer is to spend 10 to 15 minutes outdoors with bare skin first, then apply sunscreen before staying out longer. Do not abandon sunscreen altogether. The protection it provides against skin cancer and ageing is real and cumulative."
+        },
+        {
+          "q": "What is the best time to get sun in the Gulf summer?",
+          "a": "In peak Gulf summer, midday sun carries serious heat stroke risk and is not advisable. For those months, a vitamin D supplement after checking a blood level is the safer path. Keep outdoor activity for early morning or evening, even if UV synthesis is limited at those times."
+        },
+        {
+          "q": "Does darker skin mean lower vitamin D?",
+          "a": "It means you need more sun exposure to produce the same amount. Melanin acts as a natural filter for UVB. In the Middle East, where outdoor exposure is already limited by culture and climate, people with darker skin are at greater risk of deficiency and should check their level."
+        },
+        {
+          "q": "What is a normal vitamin D blood level?",
+          "a": "The test is 25-hydroxyvitamin D (25(OH)D). A level above 30 ng/mL (75 nmol/L) is considered adequate for most people. Between 20 and 30 is insufficiency, and below 20 is deficiency. These thresholds appear on your lab report."
+        },
+        {
+          "q": "Can food alone give me enough vitamin D?",
+          "a": "Unlikely if your sun exposure is limited. Fatty fish such as salmon, sardines and tuna are the best dietary sources, but the amounts present in a typical diet rarely substitute for what skin can produce with adequate sunlight. A supplement is usually needed for people with limited sun access."
+        },
+        {
+          "q": "Is it safe to take high-dose vitamin D without a test?",
+          "a": "No. Vitamin D is fat-soluble and accumulates in body tissue. Doses of 10,000 IU or more per day without monitoring can cause hypercalcaemia, with symptoms including nausea, weakness, confusion and kidney damage. Always test first and take a dose your doctor recommends based on your result."
+        },
+        {
+          "q": "Do women in hijab always need a supplement?",
+          "a": "Most will benefit from one, but the only way to know is to test. Some women who regularly expose their face and hands to midday sun maintain adequate levels. Others with very limited outdoor exposure will be deficient. A blood test removes the guesswork and guides the right dose."
+        }
+      ]
+    }
+  }
+}

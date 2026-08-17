@@ -1,0 +1,408 @@
+{
+  "slug": "zinc-deficiency-guide",
+  "category": "nutrition",
+  "chip_ar": "التغذية",
+  "chip_en": "Nutrition",
+  "date_iso": "2026-07-14",
+  "sources": [
+    {
+      "label": "Prasad AS: Discovery of human zinc deficiency: its impact on human health and disease, Advances in nutrition (Bethesda, Md.), 2013",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23493534/"
+    },
+    {
+      "label": "Abiaka C, Olusi S, Al-Awadhi A et al: Reference ranges of copper and zinc and the prevalence of their deficiencies in an Arab population aged 15-80 years, Biological trace element research, 2003",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12713027/"
+    },
+    {
+      "label": "Lonnerdal B: Dietary factors influencing zinc absorption, The Journal of nutrition, 2000",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10801947/"
+    },
+    {
+      "label": "Chao HC: Zinc Deficiency and Therapeutic Value of Zinc Supplementation in Pediatric Gastrointestinal Diseases, Nutrients, 2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37836377/"
+    },
+    {
+      "label": "Saper RB, Rash R: Zinc: an essential micronutrient, American family physician, 2009",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20141096/"
+    },
+    {
+      "label": "Gombart AF, Pierre A, Maggini S et al: A Review of Micronutrients and the Immune System-Working in Harmony to Reduce the Risk of Infection, Nutrients, 2020",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31963293/"
+    },
+    {
+      "label": "Nasreddine LM, Kassis AN, Ayoub JJ et al: Nutritional status and dietary intakes of children amid the nutrition transition: the case of the Eastern Mediterranean Region, Nutrition research (New York, N.Y.), 2018",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30122192/"
+    }
+  ],
+  "content": {
+    "ar": {
+      "title": "نقص الزنك: الأعراض والأطعمة والمكملات",
+      "desc": "اكتشف أعراض نقص الزنك وأسبابه في النظام الغذائي العربي، وأفضل المصادر الغذائية، ومتى يكون المكمل الغذائي ضروريا.",
+      "keywords": "نقص الزنك, أعراض نقص الزنك, الزنك والمناعة, مصادر الزنك في الطعام, مكمل الزنك, الزنك والأطفال, الزنك والإسهال",
+      "h1": "الزنك: هل تعاني من نقصه دون أن تعلم؟",
+      "takeaways": [
+        "نقص الزنك شائع في مناطق تعتمد فيها الوجبات على الحبوب والخبز أكثر من اللحوم.",
+        "أبرز علامات النقص هي تأخر التئام الجروح وتساقط الشعر وضعف المناعة وفقدان حاستي الشم والتذوق.",
+        "أغنى مصادر الزنك هي اللحوم والمحار والبقوليات والمكسرات، لكن الزنك في البقوليات يُمتص بصعوبة أكبر.",
+        "الأطفال الذين يعانون من إسهال متكرر يحتاجون للزنك، وهو ما توصي به منظمة الصحة العالمية.",
+        "لا تتناول مكمل الزنك بجرعات كبيرة دون إشراف طبي، لأن الزيادة تسبب مشكلات خاصة بها."
+      ],
+      "sections": [
+        {
+          "h2": "لماذا يُعدّ الزنك ضروريا لجسمك؟",
+          "paras": [
+            "الزنك (Zinc) معدن أساسي يشارك في أكثر من 300 تفاعل إنزيمي داخل خلايا جسمك. يحتاجه الجسم لبناء البروتينات، وتكوين الحمض النووي، وتقسيم الخلايا، ولهذا فهو ضروري بشكل خاص في مراحل النمو السريع كالطفولة والحمل والمراهقة. اكتشف الباحث الدكتور أنندا براساد لأول مرة في ستينيات القرن الماضي أن نقص الزنك يسبب تأخرا ملحوظا في النمو عند أطفال إيران والعراق الذين كانوا يعيشون على نظام غذائي غني بالخبز والفول.",
+            "يلعب الزنك دورا محوريا في عمل الجهاز المناعي، إذ يساعد الخلايا المناعية على التعرف على الجراثيم ومحاربتها. كشفت مراجعة علمية شاملة نشرت في مجلة Nutrients عام 2020 أن نقص الزنك يخفض قدرة الجسم على مقاومة العدوى ويمدد مدة المرض. يعني هذا عمليا أنك قد تُصاب بنزلات برد أكثر تكرارا، أو أن جروحك لا تلتئم بالسرعة المعتادة.",
+            "وظيفة أخرى لا يعرفها كثيرون هي دور الزنك في حاستي الشم والتذوق. حين تغيب هاتان الحاستان أو تضعفان دون سبب واضح، يكون نقص الزنك أحد الأسباب التي يفكر فيها الأطباء. في الوقت ذاته يشارك الزنك في تنظيم مستوى السكر في الدم وفي التئام الجروح الجلدية، ومن هنا تزداد أهميته لمرضى السكري."
+          ],
+          "visual": {
+            "type": "stats",
+            "items": [
+              {"value": "300+", "label": "تفاعل إنزيمي يحتاج الزنك في الجسم", "tone": "info"},
+              {"value": "17%", "label": "من سكان العالم معرضون لنقص الزنك", "tone": "warn"},
+              {"value": "1 من 3", "label": "أطفال في مناطق نامية يعانون من نقص الزنك", "tone": "bad"}
+            ]
+          }
+        },
+        {
+          "h2": "من هم الأكثر عرضة للنقص في منطقتنا؟",
+          "paras": [
+            "نشرت دراسة من الكويت في مجلة Biological Trace Element Research عام 2003 على مجموعة من السكان العرب أن نقص الزنك كان حاضرا بنسبة ملحوظة حتى في مجتمعات ترى نفسها تتغذى جيدا. السبب الجوهري هو أن النظام الغذائي العربي يعتمد اعتمادا كبيرا على الخبز والأرز والعدس والحمص، وهذه الأطعمة تحتوي على مادة تسمى الفيتات (Phytate) التي ترتبط بالزنك وتمنع امتصاصه في الأمعاء.",
+            "الأطفال دون سن الخامسة هم الأكثر ضررا من النقص لأن أجسامهم تنمو بسرعة وتحتاج كميات أكبر نسبيا من الزنك. الحوامل والمرضعات يحتجن بدورهن لكميات إضافية. كذلك يعاني مرضى الأمراض الهضمية المزمنة كداء كرون والاضطرابات الكبدية من صعوبة في امتصاص الزنك. المسنون أيضا أقل قدرة على امتصاصه مع التقدم في العمر.",
+            "السكان المهجّرون أو الذين يعتمدون على مساعدات الإغاثة الغذائية معرضون لخطر خاص، لأن حصص الإغاثة تعتمد في الغالب على الحبوب والبقوليات. وثّقت دراسة حول التغذية في غزة نشرت في مجلة Food and Nutrition Bulletin عام 2020 أن نقص الزنك كان من أبرز الانتقاصات الغذائية في تلك المنطقة."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "warn",
+            "title": "فئات عالية الخطر",
+            "items": [
+              "الأطفال دون الخامسة في مناطق نظامها الغذائي يعتمد على الحبوب",
+              "الحوامل والمرضعات",
+              "مرضى الإسهال المزمن أو التهاب الأمعاء",
+              "كبار السن",
+              "النباتيون الذين لا يتناولون اللحوم أو منتجات البحر"
+            ]
+          }
+        },
+        {
+          "h2": "ما هي أعراض نقص الزنك التي يجب أن تبحث عنها؟",
+          "paras": [
+            "المشكلة في نقص الزنك أن أعراضه غير محددة وتشبه أعراض كثير من الحالات الأخرى، مما يجعل تشخيصه بالأعراض وحدها أمرا صعبا حتى على الأطباء. أبرز ما قد تلاحظه هو أن الجروح الصغيرة تستغرق وقتا أطول من المعتاد حتى تلتئم، أو أن شعرك يتساقط بشكل غير مألوف.",
+            "ضعف الشعور بالروائح والنكهات من الأعراض الكلاسيكية للنقص الشديد. قد تلاحظ أيضا أنك تُصاب بالبرد أو العدوى أكثر من الآخرين، أو أن مناعتك أصبحت أضعف. عند الأطفال قد يظهر النقص كتأخر في النمو وضعف في الشهية وتأخر في النضج الجنسي.",
+            "في الحالات الشديدة يظهر احمرار وتقشر في الجلد خاصة حول الفم والعينين والأعضاء التناسلية، وهو ما يعرفه الأطباء بالتهاب الجلد والأمعاء الأكرالي الناتج عن نقص حاد في الزنك. هذه الحالة نادرة لكنها توضح مدى حاجة الجلد والأمعاء لهذا المعدن.",
+            "من المهم أن تعلم أن أعراض نقص الزنك كثيرا ما تتراكم ببطء على مدى أشهر أو سنوات قبل أن تصبح واضحة. الشخص الذي يتناول نظاما غذائيا يعتمد أساسا على الخبز والأرز دون لحوم كافية منذ سنوات قد يظن أن تعبه وضعف مناعته أمر طبيعي، بينما يكون نقص الزنك أحد المساهمين الرئيسيين في تلك الحالة."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "أعراض نقص الزنك حسب الجهاز",
+            "head": ["الجهاز", "العلامة", "الملاحظة"],
+            "rows": [
+              ["الجهاز المناعي", "عدوى متكررة وبطء الشفاء", "من أبكر العلامات"],
+              ["الجلد", "جروح بطيئة الالتئام وتقشر", "خاصة حول الفم"],
+              ["الشعر", "تساقط مفاجئ غير مبرر", "يتحسن مع العلاج"],
+              ["الحواس", "فقدان الشم والتذوق", "علامة كلاسيكية"],
+              ["النمو (الأطفال)", "تأخر في الطول والوزن", "قابل للتعويض مبكرا"]
+            ]
+          }
+        },
+        {
+          "h2": "أفضل مصادر الزنك في الطعام العربي",
+          "paras": [
+            "المحار البحري هو أعلى مصدر للزنك على الإطلاق، لكنه ليس شائعا في كل مناطق العالم العربي. في المقابل، اللحم البقري والخروف والدجاج مصادر ممتازة ومتوفرة ومألوفة على الطاولة العربية. الكبدة والقلب والكلاوي تحتوي على تركيز عال جدا من الزنك، وهي تؤكل باعتدال في كثير من المطابخ العربية.",
+            "من مصادر الزنك النباتية تبرز البقوليات كالعدس والحمص والفاصولياء، وكذلك المكسرات كالكاجو والمكسرات المشكلة وبذور اليقطين. المشكلة كما أشارت دراسة نشرت في The Journal of Nutrition عام 2000 هي أن الفيتات الموجودة في القشرة الخارجية للحبوب والبقوليات تقلل من امتصاص الزنك إلى ما بين 15 و35 بالمئة من الكمية الموجودة فعلا في الطعام.",
+            "لتحسين امتصاص الزنك من المصادر النباتية، يمكنك نقع البقوليات قبل الطهي وتصفية الماء والطهي في ماء جديد. كذلك يساعد تخمير العجين في صنع الخبز على تقليل الفيتات. تناول اللحوم مع البقوليات في الوجبة ذاتها يحسن امتصاص الزنك من المصدرين معا."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "محتوى الزنك في أطعمة شائعة (لكل 100 غرام مطبوخ)",
+            "head": ["الطعام", "الزنك (مغ)", "جودة الامتصاص"],
+            "rows": [
+              ["لحم بقري مطبوخ", "7 - 8", "عالٍ"],
+              ["لحم خروف", "5 - 6", "عالٍ"],
+              ["كبدة بقري", "5 - 6", "عالٍ"],
+              ["دجاج مطبوخ", "2 - 3", "جيد"],
+              ["عدس مطبوخ", "1 - 1.5", "الفيتات تقلله"],
+              ["حمص مطبوخ", "1 - 1.5", "الفيتات تقلله"],
+              ["بذور يقطين", "6 - 7", "نباتي لكن فيتات عالية"]
+            ]
+          }
+        },
+        {
+          "h2": "الزنك والأطفال والإسهال: صلة وثيقة",
+          "paras": [
+            "توصي منظمة الصحة العالمية بإعطاء أقراص الزنك لكل طفل دون الخامسة يعاني من إسهال حاد، وذلك لمدة عشرة إلى أربعة عشر يوما. السبب أن الإسهال يستنزف مخزون الزنك في الجسم بشكل سريع، كما أن نقص الزنك يجعل الأمعاء أكثر حساسية للعدوى وأبطأ في التعافي مما يطيل مدة الإسهال ويزيد خطر حدوثه مرة أخرى.",
+            "أكدت مراجعة علمية نشرت في مجلة Nutrients عام 2023 أن إضافة الزنك إلى علاج الإسهال الحاد عند الأطفال يقلل من مدة المرض وشدته ويخفض معدل الوفيات في المناطق ذات الدخل المنخفض. هذه الميزة تجعل الزنك أحد أهم أدوات الصحة العامة عند الأطفال في مناطق مثل اليمن والسودان وسوريا وبعض مناطق مصر.",
+            "إذا كان طفلك يعاني من إسهال يتكرر بشكل مقلق أو يبدو نموه أبطأ من الطبيعي، فإن قياس مستوى الزنك في الدم جدير بالطلب عند الطبيب. لكن تجدر الإشارة إلى أن قياس الزنك في الدم لا يعكس دائما الكميات المخزنة في الأنسجة، ويجب تفسيره في سياق الأعراض الكاملة.",
+            "في مناطق مثل اليمن وأجزاء من سوريا والسودان التي تشهد ضغطا هائلا على التغذية، أصبح الزنك جزءا أساسيا من حزم الإغاثة الغذائية الموجهة للأطفال. هذا يعني أن الأطباء والمنظمات الصحية في المنطقة يعرفون جيدا خطورة نقصه ويتعاملون معه كأولوية عملية وليس كقضية نظرية."
+          ]
+        },
+        {
+          "h2": "كيف يُشخَّص النقص وما هو المستوى الطبيعي؟",
+          "paras": [
+            "يُقاس الزنك عادة في بلازما الدم (Serum Zinc أو Plasma Zinc). المستوى الطبيعي عند البالغين يتراوح بشكل عام بين 70 و120 ميكروغراما لكل ديسيلتر، لكن القيم المرجعية تختلف بين المختبرات والأجهزة المختلفة. المهم دائما مقارنة نتيجتك بالمدى المطبوع على ورقة تحليلك أنت.",
+            "المشكلة في هذا الاختبار هي حساسيته لعوامل خارجية كثيرة. أخذ العينة بعد الأكل مباشرة، أو الإصابة بعدوى حادة، أو استخدام أنابيب غير مناسبة لجمع الدم قد تؤثر جميعها على النتيجة. لذلك يفسر الأطباء نتيجة الزنك دائما بجانب الأعراض والتاريخ الغذائي.",
+            "في كثير من الأحيان يبدأ الطبيب علاج نقص الزنك تجريبيا حين تكون الأعراض موحية والتغذية غير كافية، حتى لو كانت قيمة الزنك في الدم ضمن المدى الطبيعي الأدنى. التحسن السريع في الأعراض بعد بدء المكمل يؤكد التشخيص عمليا.",
+            "تجدر الإشارة إلى أن بعض المختبرات في منطقتنا قد لا تقيس الزنك بدقة عالية، لأن هذا التحليل يستلزم أدوات خاصة لتفادي التلوث. إذا كان تحليلك مشكوكا فيه أو جاء في وقت كنت مريضا فيه بعدوى، يمكن طلب إعادة القياس بعد الشفاء مع تفادي الأكل قبل السحب بثماني ساعات على الأقل."
+          ],
+          "visual": {
+            "type": "range-scale",
+            "title": "مستوى الزنك في الدم عند البالغين",
+            "label": "Serum Zinc",
+            "unit": "µg/dL",
+            "min": 0,
+            "max": 150,
+            "zones": [
+              {"to": 60, "tone": "bad", "label": "نقص"},
+              {"to": 70, "tone": "warn", "label": "منخفض"},
+              {"to": 120, "tone": "good", "label": "طبيعي"},
+              {"to": 150, "tone": "warn", "label": "مرتفع"}
+            ],
+            "source": "Saper RB, Rash R: Zinc: an essential micronutrient, American family physician, 2009",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/20141096/"
+          }
+        },
+        {
+          "h2": "متى يكون مكمل الزنك مفيدا ومتى يكون ضارا؟",
+          "paras": [
+            "المكمل الغذائي للزنك مفيد حقا حين يكون هناك نقص موثق أو حالة تستدعيه كالإسهال عند الأطفال أو الحمل مع نظام غذائي فقير. الجرعة اليومية الموصى بها للوقاية تتراوح بين 8 و11 مليغراما للبالغين، وترتفع قليلا خلال الحمل والإرضاع. أنواع الزنك المتوفرة كثيرة منها زنك الغلوكونات وزنك الأسيتات وزنك البيكولينات، والفروق بينها في الامتصاص محدودة عند الاستخدام المعتدل.",
+            "لكن تناول الزنك بجرعات كبيرة على المدى الطويل له مشكلاته الخاصة. الزنك الزائد يتنافس مع النحاس على الامتصاص فيسبب نقص النحاس الذي يؤثر على الأعصاب ومكونات الدم. الجرعات التي تتجاوز 40 مليغراما يوميا للبالغين قد تسبب غثيانا وقيئا وتضعف المناعة عوضا عن أن تقويها. لهذا يجب عدم تناول مكمل الزنك بجرعات كبيرة دون إشراف طبي.",
+            "إذا كنت تتناول مضادات حيوية من نوع التتراسيكلين أو السيبروفلوكساسين، أو دواء للروماتيزم يحتوي على البنيسيلامين، فيجب أن تعلم أن الزنك يتداخل مع امتصاص هذه الأدوية. الحل هو الفصل بين تناول الزنك وتناول الدواء بساعتين على الأقل."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "راجع طبيبك فورا إذا",
+            "items": [
+              "لاحظت جروحا لا تلتئم بعد أسابيع رغم العناية بها",
+              "فقدت حاسة الشم أو التذوق فجأة دون سبب واضح",
+              "طفلك يعاني من تأخر ملحوظ في النمو مع إسهال متكرر",
+              "تناولت مكملات الزنك بجرعة كبيرة وشعرت بغثيان وضعف"
+            ]
+          }
+        },
+        {
+          "h2": "كيف تحسن مستوى الزنك من خلال طعامك اليومي؟",
+          "paras": [
+            "الطريقة الأفضل والأأمن لرفع مستوى الزنك هي تحسين النظام الغذائي. دمج اللحوم الحمراء أو الدواجن مع الوجبة ثلاث إلى أربع مرات في الأسبوع يكفي في الغالب لتغطية الاحتياج اليومي. لست بحاجة لتناول كميات كبيرة، فحصة صغيرة من اللحم البقري حجمها 85 غراما تمد جسمك بنحو 5 إلى 6 مليغرامات من الزنك، ما يعادل أكثر من نصف الاحتياج اليومي للرجل البالغ.",
+            "للأشخاص الذين يعتمدون على النظام النباتي، الاهتمام بنقع البقوليات وتخمير العجين وتنويع البذور والمكسرات يساعد على تحسين الامتصاص. تقليل الاعتماد على الشاي الأسود مع الوجبات يساعد أيضا، لأن العفص الموجود فيه يقلل من امتصاص المعادن بشكل عام، فضّل تناول الشاي بعد الوجبة بساعة على الأقل. تناول مشروبات حمضية كعصير الليمون مع الوجبة لا يحسن امتصاص الزنك بالقدر نفسه الذي يحسن به امتصاص الحديد، لكنه يساهم في الصحة العامة.",
+            "إذا كنت في مرحلة الحمل أو الإرضاع، تحدثي مع طبيبتك حول الجرعة المناسبة من الزنك لك تحديدا، لأن الاحتياج يرتفع في هذه الفترات. كثير من مكملات الفيتامينات المتعددة التي تُوصف للحوامل تحتوي على الزنك بجرعة كافية، لذا قد لا تحتاجين لمكمل زنك منفصل. أخيرا تذكر أن الزنك يتنافس مع الحديد والنحاس على الامتصاص، وإن كنت تتناول مكمل الحديد بجرعة كبيرة فقد يقلل ذلك من امتصاص الزنك، فتحدث مع طبيبك أو صيدلانيك حول أنسب طريقة لتوزيع المكملات خلال اليوم."
+          ]
+        }
+      ],
+      "tie": "تطبيق سهاتك يتيح لك حفظ نتائج تحاليل الزنك والمغذيات الأخرى في مكان واحد، ومتابعة أي تغيير مع الوقت، مما يسهل مشاركة المعلومات مع طبيبك.",
+      "faqs": [
+        {
+          "q": "هل يمكنني معرفة أن لدي نقص في الزنك بدون تحليل؟",
+          "a": "الأعراض كتساقط الشعر وبطء التئام الجروح وضعف الشم والتذوق وكثرة العدوى قد توحي بالنقص، لكنها غير خاصة بالزنك وحده. التحليل المخبري وتقييم الطبيب للنظام الغذائي وتاريخك الصحي هما الطريقة الأدق. في بعض الحالات يبدأ الطبيب العلاج التجريبي إذا كانت الأعراض مقنعة."
+        },
+        {
+          "q": "هل الزنك يفيد في علاج نزلات البرد؟",
+          "a": "الأدلة العلمية تشير إلى أن أقراص الزنك المذابة في الفم إذا بُدئ بها في اليوم الأول من أعراض البرد قد تقلل من مدة نزلة البرد بيوم إلى يومين. هذا لا ينطبق على كبسولات الزنك المبتلعة. التأثير محدود ولا يجب الاعتماد عليه كعلاج أساسي لنزلات البرد."
+        },
+        {
+          "q": "هل الزنك مفيد لصحة الجلد والشعر؟",
+          "a": "نعم، لكن فقط إذا كان هناك نقص حقيقي. الزنك ضروري لتجديد خلايا الجلد والشعر، وتصحيح نقصه يحسن الحالة بوضوح. لكن تناوله كمكمل حين يكون مستواه طبيعيا لن يجعل شعرك أكثر كثافة أو جلدك أكثر صحة."
+        },
+        {
+          "q": "ما هو الفرق بين أنواع مكملات الزنك المختلفة؟",
+          "a": "الأنواع الرئيسية هي زنك الغلوكونات وزنك الأسيتات وزنك السولفات وزنك البيكولينات. الاختلافات بينها في الامتصاص طفيفة عند الجرعات المعتادة. زنك السولفات هو الأرخص لكن قد يسبب غثيانا أكثر. اختر ما هو متوفر ويناسبك من حيث السعر والتحمل."
+        },
+        {
+          "q": "هل يؤثر الزنك على الخصوبة؟",
+          "a": "الزنك ضروري لإنتاج الحيوانات المنوية وجودتها عند الرجال، ونقصه يرتبط بتراجع عددها وحركتها. عند النساء يلعب دورا في دورة التبويض. لكن تصحيح نقص الزنك هو المفيد، أما رفع مستواه فوق الطبيعي فلا يحسن الخصوبة."
+        },
+        {
+          "q": "هل يمكن للزنك أن يتداخل مع أدويتي؟",
+          "a": "نعم. الزنك يقلل من امتصاص مضادات حيوية معينة مثل التتراسيكلين والسيبروفلوكساسين، لذا يجب الفصل بينهما بساعتين. يتداخل أيضا مع دواء البنيسيلامين المستخدم في الروماتيزم وبعض أمراض الكبد. أخبر طبيبك أو صيدلانيك بكل مكمل تتناوله."
+        },
+        {
+          "q": "ما هي علامات الإفراط في تناول الزنك؟",
+          "a": "الجرعات التي تتجاوز 40 مليغراما يوميا باستمرار قد تسبب غثيانا وقيئا واضطرابات معدية، وعلى المدى البعيد تسبب نقصا في النحاس يظهر كفقر دم ومشكلات عصبية. لا تتناول مكملات الزنك بجرعات عالية دون رأي طبي."
+        }
+      ]
+    },
+    "en": {
+      "title": "Zinc deficiency: symptoms, food sources and supplements",
+      "desc": "Learn the signs of zinc deficiency, why cereal-heavy diets raise the risk, the best regional food sources, and when a supplement is genuinely needed.",
+      "keywords": "zinc deficiency symptoms, zinc immunity, zinc foods Arab diet, zinc supplement, zinc children diarrhoea, zinc absorption phytate",
+      "h1": "Zinc deficiency: are you missing it without knowing?",
+      "takeaways": [
+        "Zinc deficiency is common where diets rely heavily on bread, rice and legumes rather than meat.",
+        "The clearest signs are slow wound healing, hair loss, repeated infections, and loss of smell or taste.",
+        "Red meat, poultry and shellfish deliver zinc that the body absorbs easily; zinc in legumes is partly blocked by phytate.",
+        "Children with repeated diarrhoea need zinc supplementation, which is WHO policy and one of the most cost-effective child health interventions.",
+        "Supplementing above recommended amounts for long periods can deplete copper and cause harm, so dose matters."
+      ],
+      "sections": [
+        {
+          "h2": "Why does your body need zinc?",
+          "paras": [
+            "Zinc is an essential mineral involved in more than 300 enzyme reactions inside your cells. The body needs it to build proteins, copy DNA, divide cells, and mount an immune response. Because zinc supports growth at every level, children, pregnant women and adolescents need it most. Dr Ananda Prasad first described human zinc deficiency in the 1960s when he observed stunted growth in young men in Iran and Iraq whose diets consisted mainly of bread and fava beans, as he described in a landmark review in Advances in Nutrition in 2013.",
+            "Zinc sits at the centre of immune defence. A comprehensive review published in Nutrients in 2020 found that even a mild shortfall in zinc reduces the activity of immune cells and prolongs infection. In practical terms, you may notice that you catch colds more often than others, or that small cuts and grazes seem to take longer than usual to close.",
+            "A function less widely known is zinc's role in smell and taste. When those two senses fade without an obvious cause, zinc deficiency is one of the first things a clinician considers. Zinc also helps regulate blood sugar and speeds skin repair, which is why it matters particularly to people with diabetes."
+          ],
+          "visual": {
+            "type": "stats",
+            "items": [
+              {"value": "300+", "label": "enzyme reactions requiring zinc", "tone": "info"},
+              {"value": "17%", "label": "of the world population at risk of zinc deficiency", "tone": "warn"},
+              {"value": "1 in 3", "label": "children in low-income regions show zinc shortfall", "tone": "bad"}
+            ]
+          }
+        },
+        {
+          "h2": "Who is most at risk in the Middle East and North Africa?",
+          "paras": [
+            "A study published in Biological Trace Element Research in 2003 measured zinc levels across an Arab population in Kuwait and found meaningful deficiency rates even in a relatively prosperous urban setting. The core reason is that the regional diet relies heavily on bread, rice, lentils and chickpeas. These foods contain phytate, a naturally occurring compound that binds zinc in the gut and prevents absorption. The more phytate in a meal, the less zinc you actually absorb regardless of what the food label says.",
+            "Children under five are most vulnerable because their bodies are growing fast and their relative zinc requirement per kilogram of body weight is highest. Pregnant and breastfeeding women need more zinc than usual. People with chronic gut disease such as Crohn's disease, liver cirrhosis, or persistent diarrhoea lose zinc faster and absorb it less efficiently. Older adults also absorb zinc less well as enzyme activity declines with age.",
+            "Displaced or conflict-affected populations face a particular risk. Humanitarian food rations focus on calories and tend to be grain-based, with little meat or dairy. A study on nutritional deficiencies in Gaza published in Food and Nutrition Bulletin in 2020 identified zinc as one of the most prominent shortfalls, with direct consequences for child growth and infection vulnerability across the region."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "warn",
+            "title": "Higher-risk groups",
+            "items": [
+              "Children under five in populations relying mainly on cereals",
+              "Pregnant and breastfeeding women",
+              "People with chronic diarrhoea or inflammatory bowel disease",
+              "Older adults with reduced gut absorption",
+              "Those who eat no meat, fish or dairy"
+            ]
+          }
+        },
+        {
+          "h2": "What are the signs of zinc deficiency?",
+          "paras": [
+            "The difficulty with zinc deficiency is that its signs overlap with many other conditions, which is why a dietary assessment and a blood test are more reliable than symptoms alone. The most recognisable sign is that wounds, even small ones, take noticeably longer than usual to heal. Hair thinning or shedding without a clear cause is another common presentation.",
+            "Reduced ability to smell or taste food is a hallmark of more significant zinc shortfall. You may also find that you catch infections more readily than you used to. In children, the deficiency can appear as slower-than-expected height and weight gain, reduced appetite, and delayed sexual maturation. These are the signs that prompted Prasad's original observations in the 1960s.",
+            "Severe deficiency can cause a distinctive skin rash that appears around the mouth, eyes and genital area, a condition called acrodermatitis enteropathica when it results from a rare genetic failure to absorb zinc. This severe form is uncommon but illustrates just how dependent both the gut lining and the skin are on adequate zinc at a cellular level."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Signs of zinc deficiency by body system",
+            "head": ["System", "Sign", "Note"],
+            "rows": [
+              ["Immune", "Frequent infections and slow recovery", "Often one of the first signs"],
+              ["Skin", "Slow wound healing, cracking around mouth", "Common and reversible"],
+              ["Hair", "Unexplained shedding", "Improves within weeks of correction"],
+              ["Senses", "Loss of smell or taste", "Classic sign of significant deficiency"],
+              ["Growth (children)", "Slower height and weight gain", "Reversible with early treatment"]
+            ]
+          }
+        },
+        {
+          "h2": "The best zinc food sources in a regional diet",
+          "paras": [
+            "Oysters and other shellfish are the richest dietary sources of zinc by far. They are not universally available across the Arab world, but they are eaten in Gulf coastal areas and along the Levant coast. Red meat including beef and lamb provides very good zinc that the body absorbs efficiently. A small 85 gram serving of cooked beef delivers around 5 to 6 milligrams, covering roughly half the daily recommended amount for a man.",
+            "Liver, heart and kidney, which are used regularly in Arab cooking, are also excellent sources. Chicken provides less zinc than red meat but is still a meaningful contributor when eaten regularly. Among plant sources, pumpkin seeds, cashews, lentils and chickpeas contain zinc, but research published in The Journal of Nutrition in 2000 showed that the phytate in these foods reduces the amount the body can actually absorb to between 15 and 35 percent of the total present.",
+            "Practical steps to improve zinc uptake from plant foods include soaking legumes overnight and discarding the water, allowing bread dough to ferment before baking, and eating a small portion of meat or fish alongside legume dishes. Shifting strong black tea drinking to an hour after meals rather than during them also helps, because tannins in tea reduce absorption of several minerals."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Zinc content of common foods (per 100 g cooked)",
+            "head": ["Food", "Zinc (mg)", "Absorption quality"],
+            "rows": [
+              ["Beef (cooked)", "7 - 8", "High"],
+              ["Lamb (cooked)", "5 - 6", "High"],
+              ["Beef liver", "5 - 6", "High"],
+              ["Chicken", "2 - 3", "Good"],
+              ["Lentils (cooked)", "1 - 1.5", "Reduced by phytate"],
+              ["Chickpeas (cooked)", "1 - 1.5", "Reduced by phytate"],
+              ["Pumpkin seeds", "6 - 7", "Plant-based, phytate present"]
+            ]
+          }
+        },
+        {
+          "h2": "Why zinc matters so much for children with diarrhoea",
+          "paras": [
+            "The World Health Organization recommends giving zinc supplements to all children under five with acute diarrhoea for ten to fourteen days. Diarrhoea rapidly depletes zinc stores in the body, and zinc deficiency in turn makes the gut lining more permeable and less able to defend against infection, which extends the illness and raises the chance of another episode within weeks.",
+            "A review published in Nutrients in 2023 confirmed that adding zinc to standard oral rehydration therapy in children reduces the duration and severity of acute diarrhoea and lowers mortality in low-income settings. This makes zinc one of the most cost-effective child health interventions available, which is especially relevant in Yemen, Sudan, Syria and parts of Egypt where diarrhoeal disease remains a leading cause of child death.",
+            "If your child has repeated episodes of diarrhoea, seems to grow more slowly than expected, or has a poor appetite alongside frequent infections, it is worth discussing zinc testing with a doctor. Blood zinc levels are an imperfect measure of total body zinc, so the doctor will consider the result alongside dietary history and symptoms rather than acting on the number alone."
+          ]
+        },
+        {
+          "h2": "What does a zinc blood test show and what is normal?",
+          "paras": [
+            "Zinc is measured in blood plasma or serum, referred to as serum zinc or plasma zinc on a lab report. Normal levels in adults generally fall between 70 and 120 micrograms per decilitre (µg/dL), though reference ranges vary between laboratories. Always compare your result against the range printed on your own laboratory report rather than a number you read elsewhere.",
+            "The test is sensitive to several variables. Taking the sample right after eating, having an active infection, or haemolysis of the blood sample can all lower the measured level falsely. For this reason, clinicians interpret zinc levels alongside symptoms, dietary assessment and clinical judgement rather than treating the number in isolation.",
+            "In many cases a doctor will offer a therapeutic trial of zinc supplementation when symptoms are convincing and the diet is clearly deficient, even if the blood level sits in the lower part of the normal range. Rapid improvement in symptoms within two to four weeks confirms the diagnosis in practice."
+          ],
+          "visual": {
+            "type": "range-scale",
+            "title": "Serum zinc reference range in adults",
+            "label": "Serum Zinc",
+            "unit": "µg/dL",
+            "min": 0,
+            "max": 150,
+            "zones": [
+              {"to": 60, "tone": "bad", "label": "Deficient"},
+              {"to": 70, "tone": "warn", "label": "Low"},
+              {"to": 120, "tone": "good", "label": "Normal"},
+              {"to": 150, "tone": "warn", "label": "Elevated"}
+            ],
+            "source": "Saper RB, Rash R: Zinc: an essential micronutrient, American family physician, 2009",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/20141096/"
+          }
+        },
+        {
+          "h2": "When is a zinc supplement useful, and when does it cause harm?",
+          "paras": [
+            "A zinc supplement is genuinely useful when deficiency is confirmed or clinically likely, when caring for a child with acute diarrhoea in a resource-limited setting, or when pregnancy coincides with a diet low in animal protein. The recommended daily intake is 8 milligrams for adult women and 11 milligrams for adult men, rising slightly during pregnancy and breastfeeding. Common supplement forms include zinc gluconate, zinc acetate and zinc picolinate; differences in absorption between them at standard doses are modest.",
+            "Taking high doses over a long period causes problems of its own. Zinc competes with copper for intestinal absorption. Sustained intake above 40 milligrams per day in adults depletes copper and can lead to anaemia and nerve problems that may take months to become apparent. High doses also cause nausea, vomiting and stomach cramps in the short term. Do not take zinc supplements at high doses without medical guidance.",
+            "If you are taking tetracycline or quinolone antibiotics such as ciprofloxacin, or penicillamine for rheumatoid arthritis or liver disease, be aware that zinc binds to these drugs in the gut and reduces how much of them you absorb. Separate the zinc supplement and these medicines by at least two hours when a doctor has prescribed both."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "See a doctor promptly if",
+            "items": [
+              "A wound has not healed after several weeks of basic care",
+              "Your sense of smell or taste has disappeared without obvious cause",
+              "Your child has repeated diarrhoea alongside visible growth faltering",
+              "You have taken high-dose zinc supplements and developed nausea and weakness"
+            ]
+          }
+        },
+        {
+          "h2": "How to improve your zinc intake through everyday food choices",
+          "paras": [
+            "The safest and most sustainable way to raise zinc status is through food rather than supplements. Including red meat or poultry three to four times a week is usually enough to meet daily needs for most adults. You do not need large portions. An 85 gram portion of cooked beef delivers roughly 5 to 6 milligrams of highly available zinc, which is more than half of a man's daily requirement.",
+            "For those who eat little or no meat, preparation methods matter significantly. Soaking legumes overnight and discarding the soaking water reduces phytate content. Allowing bread dough to ferment with yeast degrades phytate. Roasting seeds and nuts has a similar effect. Eating a small amount of animal protein alongside a legume dish also improves mineral absorption from the plant food in the same meal.",
+            "If you take an iron supplement at a high dose, be aware that iron and zinc compete for absorption, so taking large iron supplements can reduce zinc uptake. If you are taking more than one mineral supplement, ask your doctor or pharmacist about the best timing to separate them through the day for maximum benefit."
+          ]
+        }
+      ],
+      "tie": "The Sihtak app lets you store zinc and other blood test results in one place and track changes over time, making it easier to share a clear picture with your doctor at every appointment.",
+      "faqs": [
+        {
+          "q": "Can I tell whether I am zinc deficient without a blood test?",
+          "a": "Symptoms like slow wound healing, hair shedding, frequent infections and loss of smell or taste can suggest zinc deficiency, but none of them are specific to zinc alone. A blood test combined with a dietary assessment from your doctor gives a more reliable answer. Sometimes a doctor will offer a trial of supplementation if the clinical picture is persuasive even before the result is back."
+        },
+        {
+          "q": "Does zinc help with colds?",
+          "a": "Zinc lozenges that dissolve slowly in the mouth, started within the first day of cold symptoms, can reduce the duration of a cold by one to two days according to several clinical trials. This applies to lozenges held in the mouth, not swallowed capsules. The effect is modest and zinc lozenges should not be used long-term as they can reduce copper absorption."
+        },
+        {
+          "q": "Will zinc supplements improve my skin and hair if I am not deficient?",
+          "a": "Only if there is a genuine shortfall. Zinc is essential for skin cell renewal and the hair growth cycle, and correcting a real deficiency does visibly improve both. However, taking zinc supplements when your levels are already in the normal range will not produce cosmetic benefits and may cause unwanted effects at higher doses."
+        },
+        {
+          "q": "Which form of zinc supplement is best?",
+          "a": "Zinc gluconate, zinc acetate and zinc picolinate are all commonly available. Differences in absorption between them at standard doses are small in practice. Zinc sulfate is the cheapest option but tends to cause more stomach upset. Choose whichever form you tolerate well and can take consistently at the recommended dose."
+        },
+        {
+          "q": "Does zinc affect fertility?",
+          "a": "Zinc is needed for sperm production and motility in men, and low zinc has been linked to reduced sperm count. In women it plays a role in the ovulation cycle. Correcting a genuine deficiency can improve these markers. However, supplementing zinc above normal requirements when levels are already adequate does not appear to enhance fertility further."
+        },
+        {
+          "q": "Can zinc interact with my medications?",
+          "a": "Yes. Zinc reduces absorption of tetracycline and quinolone antibiotics such as ciprofloxacin when taken at the same time, so separate them by at least two hours. Zinc also interferes with penicillamine used for rheumatoid arthritis and Wilson disease. Always mention any supplements to your doctor or pharmacist when a new medicine is prescribed."
+        },
+        {
+          "q": "What are the signs of taking too much zinc?",
+          "a": "Taking more than 40 milligrams of zinc daily over several weeks can cause nausea, vomiting and stomach cramps. Over months it depletes copper, leading to anaemia and neurological symptoms that can be mistaken for other conditions. Staying within the recommended dietary intake from food is safe; high-dose supplements should only be used under medical guidance."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,352 @@
+{
+  "slug": "type-2-diabetes-complete-guide",
+  "category": "chronic-conditions",
+  "chip_ar": "أمراض مزمنة",
+  "chip_en": "Chronic Conditions",
+  "date_iso": "2026-07-30",
+  "sources": [
+    {"label": "Aljulifi MZ: Prevalence and reasons of increased type 2 diabetes in Gulf Cooperation Council Countries, Saudi medical journal, 2021", "url": "https://pubmed.ncbi.nlm.nih.gov/33896777/"},
+    {"label": "Hassanein M, Akbar MAJ, Al-Shamiri M et al: Management of Diabetes and Hypertension within the Gulf Region: Updates on Treatment Practices and Therapies, Diabetes therapy, 2022", "url": "https://pubmed.ncbi.nlm.nih.gov/35679010/"},
+    {"label": "Hamdy O, Al Sifri S, Hassanein M et al: The Transcultural Diabetes Nutrition Algorithm: A Middle Eastern Version, Frontiers in nutrition, 2022", "url": "https://pubmed.ncbi.nlm.nih.gov/35769383/"},
+    {"label": "Sonmez A, Sabbour H, Echtay A et al: Current gaps in management and timely referral of cardiorenal complications among people with type 2 diabetes mellitus in the Middle East and African countries, Journal of diabetes, 2022", "url": "https://pubmed.ncbi.nlm.nih.gov/35434900/"},
+    {"label": "Kieu A, Iles A, Khan MA et al: A Systematic Review of Insulin Management Recommendations to Improve Glycemic Control and Reduce Hypoglycemic Events During Ramadan Fasting in Patients With Insulin-Requiring Type 2 Diabetes, Frontiers in nutrition, 2022", "url": "https://pubmed.ncbi.nlm.nih.gov/35634376/"},
+    {"label": "Teo ZL, Tham YC, Yu M et al: Global Prevalence of Diabetic Retinopathy and Projection of Burden through 2045: Systematic Review and Meta-analysis, Ophthalmology, 2021", "url": "https://pubmed.ncbi.nlm.nih.gov/33940045/"},
+    {"label": "Ogurtsova K, Guariguata L, Barengo NC et al: IDF diabetes Atlas: Global estimates of undiagnosed diabetes in adults for 2021, Diabetes research and clinical practice, 2022", "url": "https://pubmed.ncbi.nlm.nih.gov/34883189/"}
+  ],
+  "content": {
+    "ar": {
+      "title": "السكري النوع الثاني: دليل شامل للمريض في المنطقة العربية",
+      "desc": "كل ما تحتاج معرفته عن السكري النوع الثاني: التشخيص وأهداف HbA1c والمضاعفات وإدارة الصيام والعلاج في ظل التحديات الإقليمية الخاصة بمنطقتنا.",
+      "keywords": "السكري النوع الثاني, مرض السكر, HbA1c, سكر الدم, مضاعفات السكري, علاج السكري, رمضان والسكري, الأنسولين, نسبة السكر في الدم, اتباع نظام غذائي مع السكري, السكري في الخليج, انتشار السكري",
+      "h1": "السكري النوع الثاني: الفهم الكامل للتشخيص والعلاج والمضاعفات",
+      "takeaways": [
+        "السكري النوع الثاني منتشر بمعدلات من بين الأعلى عالمياً في منطقتنا العربية، وجزء كبير من المصابين لا يعلمون أنهم مرضى.",
+        "الهيموغلوبين السكري HbA1c هو أهم تحليل لمتابعة التحكم في السكر على المدى البعيد، وهدفه الأمثل أقل من 7 بالمئة لمعظم المرضى.",
+        "مضاعفات السكري تشمل الكلى والعينين والأعصاب والقلب والأوعية الدموية، وكلها يمكن تأخيرها أو الوقاية منها بالتحكم الجيد في السكر.",
+        "إدارة السكري في رمضان تحتاج تخطيطاً مسبقاً مع الطبيب، وبعض الأدوية تحتاج تعديلاً في جرعاتها أو توقيتها.",
+        "السكري ليس نهاية الطريق، وكثيرون يعيشون حياة طبيعية جداً مع التحكم المناسب."
+      ],
+      "sections": [
+        {
+          "h2": "لماذا السكري النوع الثاني مشكلة كبيرة بالذات في منطقتنا؟",
+          "paras": [
+            "السكري النوع الثاني منتشر في منطقة الشرق الأوسط وشمال أفريقيا بمعدلات تُصنَّف من بين الأعلى عالمياً. دراسة نُشرت في Saudi Medical Journal عام 2021 وجدت أن دول مجلس التعاون الخليجي تعاني من معدلات مرتفعة جداً، تتجاوز 17 بالمئة من البالغين في بعض دول المنطقة، وتزداد مع الوقت. بيانات الاتحاد الدولي للسكري تشير إلى أن الإقليم يحمل عبئاً كبيراً ومتزايداً من هذا المرض.",
+            "التحول الغذائي السريع من الأطعمة التقليدية إلى الأغذية المصنّعة العالية في السكر والدهون المشبعة، إلى جانب قلة الحركة وارتفاع معدلات البدانة وعوامل وراثية محددة، جميعها تُفسّر هذا الانتشار. يُضاف إلى ذلك أن شريحة كبيرة من المرضى مُشخَّصون متأخراً لأن المرض يمكن أن يسير في الجسم سنوات بدون أعراض واضحة، وهذا التأخر يسمح بتطور المضاعفات قبل أن يعلم المريض بإصابته.",
+            "حالياً، تتوقع تقديرات الاتحاد الدولي للسكري أن ما يقارب نصف المصابين في منطقتنا لا يعلمون بوجود المرض لديهم، وهي نسبة أعلى من المتوسط العالمي. هذا يجعل الفحص الدوري المنتظم لسكر الدم أمراً ضرورياً لمن لديهم عوامل خطر حتى لو لم يشعروا بأي أعراض."
+          ],
+          "visual": {
+            "type": "stats",
+            "items": [
+              {"value": "فوق 17%", "label": "انتشار السكري لدى البالغين في بعض دول الخليج", "tone": "bad"},
+              {"value": "~50%", "label": "من المصابين لا يعلمون بإصابتهم في المنطقة", "tone": "warn"}
+            ]
+          }
+        },
+        {
+          "h2": "كيف يُشخَّص السكري النوع الثاني؟",
+          "paras": [
+            "لتشخيص السكري لا تكفي نتيجة واحدة عالية، بل يحتاج الطبيب في الغالب إلى تأكيد النتيجة. معايير التشخيص المعتمدة تشمل: سكر الدم الصائم 126 ملغم/ديسيلتر أو أكثر في تحليلين منفصلين، أو سكر الدم العشوائي 200 ملغم/ديسيلتر أو أكثر مع أعراض كلاسيكية للسكري مثل العطش الشديد وكثرة التبول والإرهاق، أو نتيجة HbA1c 6.5 بالمئة أو أكثر في تحليلين.",
+            "مرحلة ما قبل السكري هي المرحلة التي يكون فيها سكر الدم أعلى من الطبيعي لكن لم يصل بعد لحد التشخيص. سكر الصائم بين 100 و125 ملغم/ديسيلتر، أو HbA1c بين 5.7 و6.4 بالمئة، تُشير لهذه المرحلة. إدارة ما قبل السكري بشكل صحيح، خاصةً بالتغييرات في نمط الحياة، يمكن أن تمنع أو يؤخر تطور المرض الكامل.",
+            "عوامل الخطر التي تستوجب الفحص الدوري حتى بدون أعراض تشمل: الوزن الزائد أو السمنة، والعمر فوق 45 سنة، والتاريخ العائلي للسكري، وسكري الحمل السابق، والضغط المرتفع، وارتفاع الكوليسترول، والخمول البدني المزمن. إذا كانت تنطبق عليك عوامل خطر متعددة، ناقش مع طبيبك وتيرة الفحص المناسبة."
+          ],
+          "visual": {
+            "type": "range-scale",
+            "title": "أين يقع HbA1c على مقياس التشخيص؟",
+            "label": "HbA1c",
+            "unit": "%",
+            "min": 4,
+            "max": 12,
+            "zones": [
+              {"to": 5.7, "tone": "good", "label": "طبيعي"},
+              {"to": 6.5, "tone": "warn", "label": "ما قبل السكري"},
+              {"to": 12, "tone": "bad", "label": "سكري"}
+            ],
+            "source": "American Diabetes Association Standards of Care",
+            "source_url": "https://diabetesjournals.org/care/article/47/Supplement_1/S1/153942"
+          }
+        },
+        {
+          "h2": "ما هو HbA1c ولماذا هو أهم تحليل عندك؟",
+          "paras": [
+            "HbA1c أو الهيموغلوبين السكري هو التحليل الذي يقيس متوسط مستوى سكر الدم خلال الثلاثة أشهر الماضية. يعكس نسبة الهيموغلوبين (البروتين الأحمر في كريات الدم) الذي ارتبط بالجلوكوز، وبما أن كريات الدم الحمراء تعيش حوالي ثلاثة أشهر فإن هذا التحليل يعطي صورة متراكمة وليست لحظية كقياس سكر الصائم.",
+            "هدف HbA1c لمعظم مرضى السكري النوع الثاني الذين ليست لديهم أمراض مزمنة إضافية خطيرة هو أقل من 7 بالمئة. لكن الهدف يُكيَّف من شخص إلى آخر، فالمريض الكبير في السن الذي لديه أمراض قلبية أو كلوية قد يكون له هدف أقل صرامة كأقل من 8 بالمئة لتجنب هبوط السكر. من جهة أخرى، الشخص الصغير في السن الصحي الذي يُخطط للحمل قد يسعى لهدف أكثر صرامة.",
+            "مراجعة علمية نُشرت في مجلة Diabetes Therapy عام 2022 عن إدارة السكري وضغط الدم في منطقة الخليج أوضحت أن نسبة كبيرة من مرضى السكري في المنطقة لا تصل إلى أهداف HbA1c الموصى بها، وأن هناك فجوة بين ما تنصح به الإرشادات وما يحدث على أرض الواقع. الإدراك بهذه الفجوة هو الخطوة الأولى لتجاوزها."
+          ]
+        },
+        {
+          "h2": "الأدوية: من الميتفورمين إلى الأنسولين",
+          "paras": [
+            "الميتفورمين هو الدواء الأول الذي يُوصف في الغالب لمرضى السكري النوع الثاني، وذلك لأنه فعّال وآمن وله أثر ضئيل على الوزن وتاريخ طويل من الاستخدام الآمن. يُقلل مقاومة الأنسولين ويُقلل إنتاج الجلوكوز في الكبد. أشيع أعراضه الجانبية هي اضطرابات الجهاز الهضمي خاصةً في بداية الاستخدام، وتقل كثيراً بتناوله مع الطعام.",
+            "مع تطور المرض أو عدم الوصول للهدف بالميتفورمين وحده، يُضاف دواء آخر. مجموعات الأدوية متعددة وتشمل دواء سلفونيل يوريا، ومثبطات SGLT-2، وأدوية GLP-1، وغيرها. لكل مجموعة فوائدها الخاصة وأعراضها الجانبية المحتملة وتأثيراتها على الوزن وعلى القلب والكلى، والطبيب يختار بناءً على الحالة الشاملة لكل مريض.",
+            "الأنسولين ليس خطوة أخيرة ولا عقاباً، بل هو في بعض الحالات الخيار الأمثل منذ التشخيص، مثلاً إذا كان سكر الدم مرتفعاً جداً في البداية. مع تقدم السكري النوع الثاني يحتاج كثيرون إلى الأنسولين في مرحلة ما، لأن الخلايا المنتجة للأنسولين تتعب تدريجياً مع الوقت. العلاج بالأنسولين يتطلب تعلم الحقن وضبط الجرعات ومراقبة سكر الدم، وهذا ممكن بالتدريب المناسب."
+          ]
+        },
+        {
+          "h2": "الغذاء والحركة: أدوات العلاج الأهم",
+          "paras": [
+            "لا يمكن فصل إدارة السكري عن الغذاء والحركة. ورقة عمل علمية نشرتها مجلة Frontiers in Nutrition عام 2022 طوّرت خوارزمية تغذية متعددة الثقافات للمنطقة العربية، وأكدت أن التوصيات الغذائية الغربية العامة لا تنطبق مباشرةً على نمط الأكل الإقليمي وتحتاج إلى تكييف. الرز والخبز العربي والطعام الجماعي والمناسبات الاجتماعية كلها تُشكّل السياق الغذائي الحقيقي للمريض.",
+            "المبدأ الأساسي ليس حرمان الطعام بل ضبط الكميات وتحسين الاختيارات. تقليل السكريات البسيطة والمشروبات المحلاة والأرز الأبيض الكثير والدقيق الأبيض، وزيادة الخضار والبقوليات والألياف، وتوزيع الوجبات على ثلاث وجبات رئيسية بدل وجبة كبيرة واحدة، كلها تساعد في تحقيق التحكم في سكر الدم. اليخنة والشوربات والخضار المطبوخة بزيت الزيتون خيارات ممتازة لمريض السكري.",
+            "الحركة البدنية ترفع حساسية الجسم للأنسولين وتساعد على خفض سكر الدم بشكل مباشر. المشي 30 دقيقة معظم أيام الأسبوع هو هدف واقعي ومفيد بشكل موثق. في المناخ الحار لمنطقتنا، المشي في الداخل في المراكز التجارية أو في المساء وقت الغروب خيارات عملية تجنّب قيظ الصيف. المهم الاستمرارية أكثر من الشدة."
+          ]
+        },
+        {
+          "h2": "مضاعفات السكري: التعرف المبكر يُنقذ",
+          "paras": [
+            "مضاعفات السكري النوع الثاني تتراكم ببطء عبر السنوات من الإهمال أو التحكم غير الكافي في سكر الدم. الإدراك بها مبكراً وإجراء فحوصاتها الدورية هو الطريق الأمثل للوقاية منها أو تأخيرها. المضاعفات تُقسَّم إلى دقيقة الأوعية (تؤثر على الكلى والعينين والأعصاب) وكبيرة الأوعية (تؤثر على القلب والشرايين).",
+            "اعتلال الشبكية السكري يصيب العين، وتُشير دراسة نُشرت في Ophthalmology عام 2021 إلى أن نسبة اعتلال الشبكية ترتفع مع طول مدة الإصابة بالسكري. الفحص السنوي لقاع العين ضروري لاكتشافه مبكراً قبل أن يؤثر على الرؤية. اعتلال الكلى السكري يتطور تدريجياً وقد يُفضي إلى الفشل الكلوي إذا لم يُراقَب. فحص البول سنوياً للكشف عن بروتين الكرياتينين والميكرو ألبومين ضروري لكل مريض سكري.",
+            "اعتلال الأعصاب، وخاصةً في القدمين، يُسبب تنميلاً وألماً أو فقداناً للإحساس، وهو ما يجعل القدم السكرية من أخطر المضاعفات الإقليمية حيث ترتفع معدلات البتر. الفحص السنوي للقدمين في عيادة السكري ضروري. أما أمراض القلب والشرايين فهي المسبب الأكثر شيوعاً للوفاة بين مرضى السكري، وإدارة ضغط الدم والكوليسترول بالتوازي مع السكر جزء أساسي من العلاج."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "متى تتصل بطبيبك أو تذهب للطوارئ فوراً؟",
+            "items": [
+              "سكر الدم أقل من 70 ملغم/ديسيلتر مع ارتجاف أو تعرق أو ارتباك (هبوط السكر)",
+              "سكر الدم أكثر من 400 ملغم/ديسيلتر مع غثيان أو ألم بطن أو ضيق تنفس",
+              "جرح في القدم لا يلتئم خلال 48 ساعة أو يُصبح أحمر ودافئاً ومتورماً",
+              "تشوش الرؤية المفاجئ أو رؤية بقع أو ومضات",
+              "ألم في الصدر أو ضيق مفاجئ في التنفس مع أو بدون سكر مرتفع"
+            ]
+          }
+        },
+        {
+          "h2": "السكري ورمضان: التخطيط المسبق ضرورة",
+          "paras": [
+            "رمضان يُشكّل تحدياً فريداً لمرضى السكري، وهو موضوع ذو أهمية خاصة في منطقتنا. مراجعة منهجية نُشرت في Frontiers in Nutrition عام 2022 وجدت أن مرضى السكري النوع الثاني يحتاجون تعديلاً دقيقاً في جرعات الأنسولين وتوقيته خلال رمضان لتجنب هبوط السكر ومنع الارتفاع الشديد بعد الإفطار.",
+            "الزيارة للطبيب قبل رمضان بأسابيع وليس في آخر يوم ضرورية. يُقيّم الطبيب هل يستطيع المريض الصيام أصلاً من الناحية الطبية، ثم يُعدّل الخطة العلاجية بما يتناسب مع جدول الوجبتين. مرضى يأخذون سلفونيل يوريا أو أنسولين معرضون لخطر هبوط سكر خلال ساعات الصيام الطويلة وتحتاج جرعاتهم إعادة نظر.",
+            "قراءة السكر في المنزل تتضاعف أهميتها في رمضان. علامات هبوط السكر مثل الدوخة والتعرق والارتجاف والارتباك تستدعي كسر الصيام فوراً لأن كسر الصيام لأسباب طبية مباح شرعاً، وإطالة الانتظار أمام هبوط سكر شديد قد يكون خطيراً."
+          ]
+        },
+        {
+          "h2": "التحديات الخاصة بمنطقتنا والعيش الجيد مع السكري",
+          "paras": [
+            "مرضى السكري في منطقتنا يواجهون تحديات خاصة غير موجودة في الغرب. انقطاع إمدادات الأنسولين أو الأدوية في مناطق النزاع كسوريا واليمن والسودان حقيقة يعيشها كثيرون. الحفاظ على الأنسولين في درجة الحرارة المناسبة في مناخ حار دون كهرباء مستقرة تحدٍّ حقيقي. وندرة العيادات المتخصصة في بعض المناطق الريفية أو المناطق المتضررة من النزاعات يجعل المتابعة الدورية صعبة.",
+            "في هذا الواقع تصبح الثقافة الصحية للمريض وعائلته أهم من أي وقت مضى. معرفة متى يكسر المريض الصيام، وكيف يتعامل مع هبوط السكر بمحلول السكر السريع، وكيف يحفظ الأنسولين بأفضل طريقة ممكنة بالظروف المتاحة، وكيف يُدرك أعراض تدهور الكلى أو القدم مبكراً، كلها معرفة تُنقذ أرواحاً في غياب الرعاية الطبية السريعة.",
+            "العيش مع السكري النوع الثاني ليس نهاية الطريق. مرضى كثيرون ضبطوا سكرهم بشكل ممتاز لعقود وعاشوا حياة طبيعية كاملة دون مضاعفات كبيرة. الالتزام بالأدوية ومراقبة السكر والمتابعة الدورية والاهتمام بالقدمين وفحص العينين والكلى سنوياً هي أعمدة الإدارة الجيدة. السكري قابل للإدارة، وأدواتك في ذلك حاضرة."
+          ]
+        },
+        {
+          "h2": "الفحوصات الدورية التي لا تُهمل",
+          "paras": [
+            "روتين المراقبة الدوري لمريض السكري النوع الثاني يشمل عدة فحوصات. HbA1c كل ثلاثة أشهر حتى الوصول للهدف ثم كل ستة أشهر. فحص وظائف الكلى وتحليل البول للكشف عن الألبومين مرة في السنة. فحص قاع العين سنوياً. فحص القدمين في كل زيارة للعيادة. قياس ضغط الدم في كل زيارة. فحص الكوليسترول مرة في السنة على الأقل.",
+            "قياس السكر المنزلي يعطيك صورة يومية مهمة تُكمّل صورة HbA1c. سكر ما قبل الإفطار يعكس التحكم في السكر القاعدي، وسكر ساعتين بعد الوجبة يعكس ردة فعل الجسم على الطعام. تدوين النتائج ومشاركتها مع طبيبك في الزيارة يساعده على تعديل الخطة العلاجية بدقة.",
+            "التطعيمات مهمة أيضاً لمرضى السكري لأن جهازهم المناعي أكثر عرضةً للإصابات. تطعيم الإنفلونزا سنوياً، وتطعيم الكورونا وفق التوصيات، وتطعيم الالتهاب الرئوي وفق إرشادات طبيبك، كلها موصى بها."
+          ],
+          "visual": {
+            "type": "timeline",
+            "title": "جدول الفحوصات الدورية لمريض السكري النوع الثاني",
+            "items": [
+              {"when": "كل زيارة", "what": "قياس ضغط الدم وفحص القدمين ومراجعة الأدوية"},
+              {"when": "كل 3 أشهر", "what": "تحليل HbA1c (كل 6 أشهر بعد الوصول للهدف)"},
+              {"when": "سنوياً", "what": "وظائف الكلى والكوليسترول وألبومين البول"},
+              {"when": "سنوياً", "what": "فحص قاع العين لاكتشاف اعتلال الشبكية"},
+              {"when": "سنوياً", "what": "تطعيم الإنفلونزا وتقييم بقية التطعيمات"}
+            ]
+          }
+        }
+      ],
+      "tie": "تطبيق صحتك يتيح لك تسجيل قراءات سكر الدم وHbA1c وضغط الدم ووزنك بشكل منتظم وتتبع اتجاهها على مدى الأشهر. يمكنك استخدام المساعد الذكي لفهم نتيجة تحليلك، وضبط تذكيرات لجرعات الأدوية ومواعيد الفحوصات الدورية. يبقى التطبيق أداة مساعدة لا تحل محل طبيبك في تعديل العلاج.",
+      "faqs": [
+        {
+          "q": "هل يمكن علاج السكري النوع الثاني نهائياً؟",
+          "a": "السكري النوع الثاني لا يُشفى منه كلياً في الغالب، لكن يمكن التحكم فيه بشكل ممتاز لدرجة أن سكر الدم يبقى ضمن الطبيعي بدون أدوية عند بعض المرضى الذين يفقدون وزناً كبيراً. هذا ما يُسمى بالمغفرة، لكنه لا يعني الشفاء الكامل ويستلزم الاستمرار في نمط الحياة الصحي."
+        },
+        {
+          "q": "ما الفرق بين سكر الصائم وHbA1c؟",
+          "a": "سكر الصائم لقطة لحظية تعكس سكر الدم في لحظة الفحص. أما HbA1c فيعكس متوسط سكر الدم على مدى الأشهر الثلاثة الماضية، وهذا يجعله أدق في تقييم التحكم على المدى البعيد وأقل تأثراً بما أكلته أمس."
+        },
+        {
+          "q": "هل أستطيع الصيام في رمضان وأنا مصاب بالسكري؟",
+          "a": "يعتمد ذلك على نوع العلاج ومدى التحكم في سكرك. كثير من مرضى السكري النوع الثاني يصومون بأمان مع تعديل الأدوية. ناقش مع طبيبك قبل رمضان بأسابيع لتقييم وضعك وتعديل الجرعات، ولا تغير جرعاتك من تلقاء نفسك."
+        },
+        {
+          "q": "ماذا أفعل عند هبوط السكر؟",
+          "a": "عند هبوط السكر دون 70 ملغم/ديسيلتر أو عند ظهور أعراض (رجفة، تعرق، ارتباك)، تناول 15 جرام من سكر سريع الامتصاص: 3 أقراص جلوكوز أو نصف كوب عصير أو ملعقة كبيرة سكر في الماء. أعد قياس السكر بعد 15 دقيقة. إذا لم يتحسن، كرر. إذا فقدت الوعي فهذه حالة طوارئ."
+        },
+        {
+          "q": "هل السكري يؤثر على جميع أعضاء الجسم؟",
+          "a": "نعم، السكري غير المتحكم به يؤثر على شبكة الأوعية الدموية في كل الجسم. الأعضاء الأكثر تأثراً هي الكلى والعينان والأعصاب والقلب والأوعية الدموية الكبيرة. التحكم الجيد في سكر الدم وضغط الدم والكوليسترول معاً يُقلل خطر هذه المضاعفات بشكل كبير."
+        },
+        {
+          "q": "هل يمكن أن تُحسَّن وظائف الكلى بعد أن تتأثر بالسكري؟",
+          "a": "في المراحل المبكرة للتأثر (زيادة البروتين في البول دون انخفاض كبير في وظائف الكلى)، يمكن إبطاء التدهور بل وتحسين الوضع بضبط سكر الدم وضغط الدم وتغيير بعض الأدوية. في المراحل المتقدمة يصعب عكس الضرر لكن يمكن إبطاؤه. لهذا الكشف المبكر السنوي لوظائف الكلى حيوي."
+        },
+        {
+          "q": "هل أحتاج أن أقيس سكر الدم في البيت يومياً؟",
+          "a": "يعتمد ذلك على نوع العلاج. المرضى الذين يأخذون أنسولين يحتاجون في الغالب قياساً يومياً. المرضى على أدوية فموية فقط قد يكفيهم قياس أقل تكراراً حسب توصية الطبيب. التواصل مع طبيبك لتحديد وتيرة القياس المناسبة لك ضروري."
+        },
+        {
+          "q": "هل أعراض السكري دائماً واضحة؟",
+          "a": "لا. كثير من مرضى السكري النوع الثاني لا يشعرون بأعراض في البداية. الأعراض الكلاسيكية كالعطش الشديد وكثرة التبول والإرهاق وضبابية الرؤية قد لا تظهر إلا عندما يكون السكر مرتفعاً جداً. هذا هو سبب أهمية الفحص الدوري لمن لديهم عوامل خطر."
+        }
+      ]
+    },
+    "en": {
+      "title": "Type 2 diabetes: a complete guide for the Middle East",
+      "desc": "Type 2 diabetes in the Middle East: HbA1c targets, complications, Ramadan management, and living well where clinic access and medicine supply can be unpredictable.",
+      "keywords": "type 2 diabetes, diabetes Middle East, HbA1c target, blood sugar control, diabetes complications, diabetes diet Arab, Ramadan diabetes, insulin therapy, diabetes prevention, diabetes Gulf",
+      "h1": "Type 2 diabetes: diagnosis, treatment and living well in the Middle East",
+      "takeaways": [
+        "Type 2 diabetes affects the Middle East and North Africa at rates among the highest in the world, and a large proportion of those affected do not yet know it.",
+        "HbA1c is the most important monitoring test. For most people with type 2 diabetes, the target is below 7 percent, but the right target is personalised.",
+        "Complications affecting the kidneys, eyes, nerves, heart and blood vessels are preventable or delayable with good blood sugar control.",
+        "Managing diabetes during Ramadan requires planning with your doctor weeks in advance, not adjusting medicines on your own.",
+        "Type 2 diabetes can be managed very well. Millions of people live full lives with the condition when it is properly controlled."
+      ],
+      "sections": [
+        {
+          "h2": "Why is type 2 diabetes a particular problem in this region?",
+          "paras": [
+            "The Middle East and North Africa carries one of the heaviest burdens of type 2 diabetes in the world. A study published in the Saudi Medical Journal in 2021 found that Gulf Cooperation Council countries have prevalence rates exceeding 17 percent of adults in some countries, and that the trend continues upward. The International Diabetes Federation's data consistently rank this region among the highest globally.",
+            "The reasons are a combination of rapid dietary transition from traditional foods to processed ones high in sugar and refined carbohydrates, rising rates of overweight and obesity, reduced physical activity driven by urban lifestyles and heat, and genetic factors that increase susceptibility in certain populations. These pressures converged quickly in a region that urbanised and oil-wealth-industrialised faster than its health systems could adapt.",
+            "A substantial proportion of people with type 2 diabetes in the region remain undiagnosed. The IDF Atlas estimates that roughly half of those affected in the Middle East are unaware of their condition, a higher undiagnosed fraction than the global average. This is partly because the disease can run silently for years, damaging blood vessels without producing symptoms obvious enough to prompt a clinic visit."
+          ],
+          "visual": {
+            "type": "stats",
+            "items": [
+              {"value": "Above 17%", "label": "adult diabetes prevalence in some Gulf countries", "tone": "bad"},
+              {"value": "~50%", "label": "of those affected in the region are undiagnosed", "tone": "warn"}
+            ]
+          }
+        },
+        {
+          "h2": "How is type 2 diabetes diagnosed?",
+          "paras": [
+            "Diagnosis requires confirmation, not a single high reading. The accepted criteria include a fasting blood glucose of 126 mg/dL or above on two separate occasions, a random blood glucose of 200 mg/dL or above when classic symptoms such as excessive thirst, frequent urination, and unexplained fatigue are present, or an HbA1c of 6.5 percent or above confirmed on repeat testing.",
+            "Prediabetes is the stage before full diabetes, when blood glucose is above normal but has not yet reached the diagnostic threshold. A fasting glucose between 100 and 125 mg/dL, or an HbA1c between 5.7 and 6.4 percent, points to this stage. Prediabetes is not inevitable as a path to diabetes. Lifestyle change at this stage, particularly weight loss of 5 to 7 percent and regular physical activity, can prevent or significantly delay progression, as multiple trials have confirmed.",
+            "Risk factors that justify regular screening even in the absence of symptoms include overweight or obesity, age above 45, a family history of type 2 diabetes, a history of gestational diabetes, hypertension, raised cholesterol, and physical inactivity. If several of these apply to you, ask your doctor how often you should be tested. In the Middle East context, a first-degree family history of type 2 diabetes is extremely common and is itself a significant risk factor."
+          ],
+          "visual": {
+            "type": "range-scale",
+            "title": "Where HbA1c sits on the diagnostic scale",
+            "label": "HbA1c",
+            "unit": "%",
+            "min": 4,
+            "max": 12,
+            "zones": [
+              {"to": 5.7, "tone": "good", "label": "Normal"},
+              {"to": 6.5, "tone": "warn", "label": "Prediabetes"},
+              {"to": 12, "tone": "bad", "label": "Diabetes"}
+            ],
+            "source": "American Diabetes Association Standards of Care",
+            "source_url": "https://diabetesjournals.org/care/article/47/Supplement_1/S1/153942"
+          }
+        },
+        {
+          "h2": "What is HbA1c and why does it matter more than a fasting glucose?",
+          "paras": [
+            "HbA1c, or glycated haemoglobin, measures the average blood glucose level over the preceding three months. It reflects the proportion of haemoglobin that has had glucose attached to it, and because red blood cells survive for about three months, the result is a rolling average rather than a snapshot of one moment. This makes it much more useful for judging whether someone's diabetes is well managed than a single fasting glucose.",
+            "The target for most people with type 2 diabetes without major complicating illnesses is below 7 percent. This target is adjusted for the individual. An older patient with established heart disease or significant kidney disease may have a less strict target, such as below 8 percent, to reduce the risk of hypoglycaemia. A younger patient planning pregnancy or with few complications may aim for below 6.5 percent. Your doctor sets this target for your situation.",
+            "A review published in Diabetes Therapy in 2022 on diabetes and hypertension management in Gulf countries found that a substantial proportion of patients in the region do not reach their HbA1c targets, and identified gaps between guideline recommendations and real-world practice. Understanding why your HbA1c is the number it is, and what changes in diet, activity, or medicines could move it, is the conversation to have at every follow-up appointment."
+          ]
+        },
+        {
+          "h2": "Medicines for type 2 diabetes",
+          "paras": [
+            "Metformin is the first medicine usually prescribed for type 2 diabetes, because it is effective, safe, weight-neutral, and has decades of evidence behind it. It reduces the liver's overproduction of glucose and improves insulin sensitivity. The most common side effects are digestive, particularly nausea and diarrhoea in the early weeks, and these improve greatly if it is taken with food. Metformin is inexpensive and widely available across the region.",
+            "When metformin alone does not reach the target HbA1c, or as initial treatment when blood glucose is very high, a second medicine is added. Options include sulfonylureas, SGLT-2 inhibitors, GLP-1 receptor agonists, DPP-4 inhibitors, and others. Each class has different advantages and side effect profiles, different effects on weight and on heart and kidney protection. The choice is personalised to the patient's other health conditions, weight, cost considerations, and how the medication is available locally.",
+            "Insulin is not a last resort or a punishment. It is the appropriate treatment in certain situations, including very high initial blood glucose, pregnancy, and progressive beta cell failure as diabetes advances over years. Many people with long-standing type 2 diabetes eventually need insulin. Learning to inject insulin, monitor blood glucose, and adjust doses under guidance is manageable with proper training, and is safer than staying on an inadequate oral regimen when the disease requires more."
+          ]
+        },
+        {
+          "h2": "Food and activity: the most powerful tools",
+          "paras": [
+            "Medicines manage diabetes but food and physical activity are the foundation. A paper published in Frontiers in Nutrition in 2022 developed a transcultural dietary algorithm specifically adapted for Middle Eastern eating patterns, recognising that standard Western dietary recommendations do not translate directly to the regional context of rice-based meals, communal eating, heavy starch portions, and the social role of food at gatherings.",
+            "The guiding principle is not deprivation but portion management and better choices. Reducing added sugar and sugary drinks, cutting large portions of white rice and white bread, eating more vegetables and legumes, and spreading meals across three regular portions rather than one large evening meal all improve blood glucose control. Stewed dishes, vegetable soups, and olive oil based preparations align well with both regional food culture and diabetes management. Dates eaten in moderation with balanced meals are manageable for most patients, but portion size matters because they are concentrated in sugar.",
+            "Physical activity improves insulin sensitivity directly and helps lower blood glucose. Thirty minutes of brisk walking most days of the week is a realistic and evidence-supported target. In the extreme heat of regional summers, morning or evening walks, indoor walking in shopping centres or air-conditioned spaces, and swimming where accessible are all practical options. Consistency matters more than intensity, and any movement is better than none."
+          ]
+        },
+        {
+          "h2": "Complications: early detection protects you",
+          "paras": [
+            "Diabetes complications accumulate silently over years of inadequate blood glucose control. Recognising them early and attending routine screening appointments is the most effective protection. Complications are divided into microvascular, affecting the kidneys, eyes, and nerves, and macrovascular, affecting the heart and large blood vessels.",
+            "Diabetic retinopathy affects the small blood vessels of the retina. A systematic review published in Ophthalmology in 2021 projected that the global burden of retinopathy will continue to rise alongside diabetes prevalence, with the Middle East among the regions of concern. An annual eye examination by a trained professional is needed to detect changes before they affect vision. Diabetic kidney disease develops gradually and can progress to kidney failure if it is not caught. Annual urine testing for microalbumin and measurement of eGFR are essential for every person with diabetes.",
+            "Diabetic neuropathy, particularly in the feet, causes numbness, tingling, or loss of sensation. This is what makes the diabetic foot one of the most serious regional complications, with amputation rates that are high across the Middle East. Annual foot examination in a diabetes clinic, daily self-inspection at home, and appropriate footwear are all part of prevention. Cardiovascular disease is the leading cause of death in people with diabetes, and managing blood pressure and cholesterol alongside blood glucose is not optional."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "Call your doctor or go to the emergency department immediately if",
+            "items": [
+              "Blood glucose is below 70 mg/dL with shakiness, sweating, or confusion (hypoglycaemia)",
+              "Blood glucose is above 400 mg/dL with nausea, abdominal pain, or difficulty breathing",
+              "A foot wound is not healing within 48 hours, or becomes red, warm, and swollen",
+              "You experience sudden blurred vision, floaters, or flashes in one or both eyes",
+              "You develop chest pain or sudden shortness of breath"
+            ]
+          }
+        },
+        {
+          "h2": "Diabetes and Ramadan: plan ahead with your doctor",
+          "paras": [
+            "Ramadan presents a unique challenge for people with type 2 diabetes in this region. The shift from three meals spread across the day to two meals at iftar and suhoor, the nature and timing of those meals, and the long fasting hours all require specific medicine adjustments. A systematic review published in Frontiers in Nutrition in 2022 found that patients on insulin require careful dose and timing adjustment to prevent both hypoglycaemia during fasting hours and post-iftar glucose spikes.",
+            "The most important step is seeing your doctor several weeks before Ramadan begins, not the day before. The doctor needs to assess whether fasting is medically safe for you given your current control and medications, and then adjust the treatment plan accordingly. People on sulfonylureas or insulin carry a real risk of hypoglycaemia during long fasting hours and usually need dose reductions or timing changes.",
+            "Home blood glucose monitoring becomes even more important during Ramadan. Signs of hypoglycaemia, including dizziness, shakiness, sweating, and confusion, mean breaking the fast immediately. Islamic jurisprudence is clear that breaking a fast for a genuine medical necessity is permitted, and continuing to fast through dangerous hypoglycaemia is not required. Pre-planning with your doctor is what makes safe fasting possible for most people with well-controlled type 2 diabetes."
+          ]
+        },
+        {
+          "h2": "Regional realities and living well with diabetes",
+          "paras": [
+            "People with diabetes in parts of the region face challenges that go beyond what standard diabetes guidelines address. Intermittent insulin supply or complete medicine shortages in conflict-affected areas of Syria, Yemen, and Sudan are a reality for many patients. Keeping insulin at the right temperature in a hot climate during power cuts requires practical solutions such as clay pots filled with water, insulated bags, or community refrigerator arrangements. Lack of specialist diabetes clinics in rural or conflict-affected areas makes quarterly follow-up difficult.",
+            "In these circumstances, patient and family knowledge becomes the critical safety net. Knowing when to break a fast, how to treat hypoglycaemia with whatever sugar source is available, how to store insulin as best as possible, and how to recognise early signs of kidney or foot trouble, can prevent catastrophic outcomes when medical care is not promptly accessible. Community health workers and pharmacists often fill the gap.",
+            "Living well with type 2 diabetes is genuinely achievable. Many people maintain excellent blood glucose control for decades and live full, active lives with no major complications. The pillars are medicine adherence, blood glucose monitoring at the frequency your doctor recommends, attention to diet and activity, and regular screening for complications. Diabetes is manageable, and the tools to manage it, even in a resource-constrained setting, are real."
+          ]
+        },
+        {
+          "h2": "The monitoring schedule you should not skip",
+          "paras": [
+            "A structured monitoring routine for type 2 diabetes covers several tests at different intervals. HbA1c every three months until the target is reached, then every six months. Kidney function tests and a urine microalbumin test once a year. An eye examination for retinopathy once a year. A foot examination at every clinic visit. Blood pressure measurement at every visit. A cholesterol panel at least annually.",
+            "Home blood glucose monitoring gives a daily picture that complements the HbA1c. A pre-breakfast fasting reading reflects overnight control, while a reading two hours after a meal shows how the body handles food. Keeping a log and sharing it with your doctor at each visit enables precise medication adjustments based on real patterns rather than guesswork.",
+            "Vaccinations matter more than many patients realise. Diabetes impairs immune defence against certain infections. Annual influenza vaccination, pneumococcal vaccination as recommended by your doctor, and staying up to date with general immunisation schedules all carry extra benefit for people living with diabetes."
+          ],
+          "visual": {
+            "type": "timeline",
+            "title": "Routine monitoring schedule for type 2 diabetes",
+            "items": [
+              {"when": "Every visit", "what": "Blood pressure check, foot examination, medication review"},
+              {"when": "Every 3 months", "what": "HbA1c (every 6 months once target is stable)"},
+              {"when": "Annually", "what": "Kidney function, cholesterol panel, urine microalbumin"},
+              {"when": "Annually", "what": "Eye examination by a trained professional"},
+              {"when": "Annually", "what": "Influenza vaccination and review of other immunisations"}
+            ]
+          }
+        }
+      ],
+      "tie": "The Sihtak app lets you log blood glucose readings, HbA1c results, blood pressure, and weight regularly and track their trends over months. You can use the AI assistant to understand what your latest results mean, and set reminders for medicines and clinic appointments. Keeping this record in one place makes every doctor's visit more productive and helps you see your own progress clearly.",
+      "faqs": [
+        {
+          "q": "Can type 2 diabetes be reversed or cured?",
+          "a": "Type 2 diabetes cannot usually be cured in the conventional sense, but in some people it can go into remission, meaning blood glucose returns to a normal range without diabetes medication. This is most often achieved through significant weight loss. Remission is not the same as a cure because the underlying tendency remains, and it requires sustained lifestyle change to maintain."
+        },
+        {
+          "q": "What is the difference between fasting glucose and HbA1c?",
+          "a": "Fasting glucose is a snapshot of blood sugar at one moment in time. HbA1c reflects the average blood glucose over the preceding three months, making it far more useful for assessing long-term control and much less affected by what you ate the day before the test."
+        },
+        {
+          "q": "Can I fast during Ramadan if I have diabetes?",
+          "a": "Many people with type 2 diabetes fast safely with the right preparation. Whether it is safe for you depends on your current medicines and how well controlled your diabetes is. See your doctor several weeks before Ramadan to assess your individual risk and adjust your treatment plan. Do not change medicine doses on your own."
+        },
+        {
+          "q": "What should I do if my blood glucose is low?",
+          "a": "If your blood glucose falls below 70 mg/dL, or if you feel shaky, sweaty, or confused, take 15 grams of fast-acting sugar immediately: three glucose tablets, half a cup of fruit juice, or a tablespoon of sugar dissolved in water. Recheck after 15 minutes and repeat if still low. If someone loses consciousness, this is a medical emergency requiring ambulance."
+        },
+        {
+          "q": "Can kidney damage from diabetes be reversed?",
+          "a": "In the early stages, characterised by small amounts of protein in urine, the damage can be slowed and sometimes partially reversed by tightly controlling blood glucose and blood pressure and using certain medicines with kidney-protective properties. In more advanced stages, reversal is not possible but progression can be significantly slowed. This is why annual kidney screening matters so much."
+        },
+        {
+          "q": "Do I need to check my blood glucose every day?",
+          "a": "This depends on your treatment. People on insulin generally need daily monitoring. Those on oral medicines alone may need less frequent testing depending on how stable their control is. Ask your doctor to give you a specific monitoring schedule. More frequent testing is not always better; targeted testing at the right times gives more useful information."
+        },
+        {
+          "q": "Are there symptoms I should always look out for?",
+          "a": "Yes. Excessive thirst, frequent urination, unexplained fatigue, blurred vision, slow-healing wounds, and tingling in the feet are all symptoms that warrant a clinic visit if they develop or worsen. Black or darkened skin in the neck or armpits, a condition called acanthosis nigricans, is a visible sign of insulin resistance that sometimes appears before diabetes is diagnosed."
+        },
+        {
+          "q": "Can people with diabetes eat dates and traditional sweets?",
+          "a": "In moderation, yes. Dates contain natural sugar and fibre, and small amounts eaten as part of a balanced meal are manageable for many people with controlled diabetes. Very sweet desserts and drinks consumed in large quantities at gatherings are harder to incorporate. The key is portion size and how the food fits into the overall meal, rather than strict exclusion of individual items."
+        }
+      ]
+    }
+  }
+}

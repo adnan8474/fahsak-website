@@ -1,0 +1,391 @@
+{
+  "slug": "child-fever-what-to-do",
+  "category": "child-health",
+  "chip_ar": "صحة الطفل",
+  "chip_en": "Child Health",
+  "date_iso": "2026-07-22",
+  "sources": [
+    {
+      "label": "Tan E, Braithwaite I, McKinlay CJD et al: Comparison of Acetaminophen (Paracetamol) With Ibuprofen for Treatment of Fever or Pain in Children Younger Than 2 Years: A Systematic Review and Meta-analysis, JAMA network open, 2020",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33125495/"
+    },
+    {
+      "label": "Section on Clinical Pharmacology and Therapeutics, Committee on Drugs, Sullivan JE et al: Fever and antipyretic use in children, Pediatrics, 2011",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21357332/"
+    },
+    {
+      "label": "De la Cruz-Mena JE, Veroniki AA, Acosta-Reyes J et al: Short-term Dual Therapy or Mono Therapy With Acetaminophen and Ibuprofen for Fever: A Network Meta-Analysis, Pediatrics, 2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39318339/"
+    },
+    {
+      "label": "Smith DK, Sadler KP, Benedum M et al: Febrile Seizures: Risks, Evaluation, and Prognosis, American family physician, 2019",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30932454/"
+    },
+    {
+      "label": "Kasbekar R, Naz A, Marcos L et al: Threshold for defining fever varies with age, especially in children: A multi-site diagnostic accuracy study, Nursing open, 2021",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33735515/"
+    },
+    {
+      "label": "Offringa M, Newton R, Nevitt SJ et al: Prophylactic drug management for febrile seizures in children, The Cochrane database of systematic reviews, 2021",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34131913/"
+    }
+  ],
+  "content": {
+    "ar": {
+      "title": "الحمى عند الأطفال: متى تقلق وماذا تفعل",
+      "desc": "دليل عملي لآباء المنطقة العربية عن درجات الحرارة التي تستدعي القلق حسب عمر الطفل، واستخدام باراسيتامول وإيبوبروفين بطريقة صحيحة، والأعراض التي تستوجب الطوارئ.",
+      "keywords": "حمى الأطفال، باراسيتامول للأطفال، إيبوبروفين جرعة الطفل، حمى الرضيع، تشنجات الحمى، تبريد الطفل، متى تأخذ طفلك للطوارئ، علاج الحمى المنزلي",
+      "h1": "الحمى عند الأطفال: درجات الحرارة التي تستدعي القلق وما يجب فعله",
+      "takeaways": [
+        "الحمى عند الرضيع دون ثلاثة أشهر تستوجب زيارة طبية فورية حتى لو بدت خفيفة.",
+        "جرعة الباراسيتامول والإيبوبروفين تُحسب على أساس وزن الطفل لا عمره.",
+        "التكميد بالإسفنجة بالماء الفاتر مقبول لكن الماء البارد والكحول خطران تماماً.",
+        "التشنجات الحموية مخيفة لكنها نادراً ما تترك أذى دائماً؛ هدوؤك أهم من أي دواء.",
+        "الحمى التي تمتد فوق ثلاثة أيام دون تحسن تستوجب زيارة الطبيب حتى لو لم تكن شديدة."
+      ],
+      "sections": [
+        {
+          "h2": "ما هي الحمى وما الدرجة التي تبدأ فيها الحمى الحقيقية؟",
+          "paras": [
+            "الحمى ليست مرضاً بحد ذاتها بل هي استجابة دفاعية يقوم بها الجسم لمحاربة العدوى. عندما يدخل ميكروب جديد إلى جسم طفلك، يُطلق الجهاز المناعي إشارات كيميائية ترفع درجة حرارة الجسم عمداً لأن الميكروبات تكثّر بصعوبة في بيئة أعلى حرارة. هذا يعني أن الحمى البسيطة غالباً دليل على جهاز مناعي يعمل بشكل سليم.",
+            "درجة الحرارة الطبيعية عند الطفل تتراوح بين 36.5 و37.5 درجة مئوية عند القياس من الإبط، وبين 36.6 و38 درجة عند القياس الشرجي. دراسة متعددة المراكز نشرتها مجلة Nursing open عام 2021 أكدت أن العتبة الدقيقة التي تبدأ عندها الحمى تتفاوت تبعاً لعمر الطفل ومكان القياس، وأن التسرع في القطع باتجاه أو آخر يُفضي إلى إفراط في العلاج أو تأخر فيه.",
+            "القاعدة العملية الأوسع قبولاً هي: 38 درجة مئوية فأكثر (شرجياً) أو 37.5 فأكثر (إبطياً) تُعدّ حمى. لكن الرقم وحده لا يكفي، لأن طفلاً عنده 38.5 ويلعب بنشاط يختلف عن طفل عنده 38 وهو خامل ومتوتر وبشرته شاحبة بشكل واضح."
+          ],
+          "visual": {
+            "type": "range-scale",
+            "title": "درجات حرارة الطفل وماذا تعني",
+            "label": "درجة الحرارة الإبطية",
+            "unit": "°C",
+            "min": 35,
+            "max": 41,
+            "zones": [
+              {"to": 36.5, "tone": "warn", "label": "منخفضة"},
+              {"to": 37.5, "tone": "good", "label": "طبيعية"},
+              {"to": 38.5, "tone": "warn", "label": "حمى خفيفة"},
+              {"to": 39.5, "tone": "bad", "label": "حمى متوسطة"},
+              {"to": 41, "tone": "bad", "label": "حمى عالية"}
+            ],
+            "source": "Kasbekar et al, Nursing open, 2021",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/33735515/"
+          }
+        },
+        {
+          "h2": "متى تكون الحمى خطيرة عند الرضيع؟",
+          "paras": [
+            "الرضيع دون ثلاثة أشهر من العمر هو الحالة الأكثر حساسية. في هذا العمر الجهاز المناعي لا يزال ناضجاً ولا يعرف الأطباء بعد مصدر الحمى بسهولة، لأن الرضيع الصغير يمكن أن يكون مصاباً بعدوى بكتيرية خطيرة كالتهاب السحايا (Meningitis) أو تعفن الدم (Sepsis) مع أعراض تبدو بسيطة في البداية. القاعدة الذهبية عند معظم أطباء الأطفال: حمى فوق 38 درجة في رضيع عمره أقل من ثلاثة أشهر تستوجب تقييماً طبياً عاجلاً في نفس اليوم، وليس في الصباح ولا في الغد.",
+            "بين ثلاثة وستة أشهر، الأمر أقل إلحاحاً لكن الحمى الأولى يجب أن يُقيّمها طبيب. بعد ستة أشهر معظم الأطفال الأصحاء الذين عندهم حمى ويبدون بصحة معقولة يمكن متابعتهم في المنزل لأربع وعشرين إلى ثماني وأربعين ساعة مع ملاحظة مستمرة، لكن توقف الحمى عن الاستجابة للدواء أو استمرارها فوق ثلاثة أيام يستدعي الطبيب.",
+            "هناك بعض الأعراض المصاحبة للحمى تُعلو على الرقم الحراري في أهميتها. طفل عنده حمى مع طفح جلدي ينتشر بسرعة، أو رقبة متصلبة لا يستطيع ثنيها، أو لثام زرقاء حول الفم، أو كان يبكي ثم فجأة صمت صمتاً غير طبيعي، هذه علامات تستدعي الطوارئ بغض النظر عن درجة الحرارة."
+          ]
+        },
+        {
+          "h2": "كيف تُعطي الباراسيتامول والإيبوبروفين بالطريقة الصحيحة؟",
+          "paras": [
+            "أكبر خطأ يقع فيه الوالدان هو إعطاء الجرعة بناءً على عمر الطفل بدلاً من وزنه. الجرعة الصحيحة من الباراسيتامول (Paracetamol) أو الأسيتامينوفين هي 15 ميلليغراماً لكل كيلوغرام من وزن الطفل، وتُعطى كل أربع إلى ست ساعات عند الحاجة. الإيبوبروفين (Ibuprofen) جرعته 10 ميلليغرامات لكل كيلوغرام وتُعطى كل ست إلى ثماني ساعات. ابدأ بوزن طفلك ثم احسب الجرعة.",
+            "مراجعة منهجية نشرتها JAMA Network Open عام 2020 درست أكثر من 19 دراسة حول الباراسيتامول والإيبوبروفين عند الأطفال دون سنتين ووجدت أن الدواءين فعّالان بشكل مشابه في خفض الحمى، والإيبوبروفين قد يُبقي الحمى أقل لفترة أطول قليلاً. تحليل أجرته مجلة Pediatrics عام 2024 أكد أن التناوب بين الدواءين قد يعطي راحة أطول للطفل لكن لا ضرورة له إذا استجابت الحمى لدواء واحد.",
+            "الإيبوبروفين لا يُعطى للرضع دون ثلاثة أشهر، ولا للأطفال المصابين بالجفاف الشديد أو اضطرابات الكلى، ولا للأطفال الذين يتلقون مضادات التخثر. في هذه الحالات يكون الباراسيتامول هو الخيار الوحيد الآمن. تأكد دائماً من التركيز المكتوب على العبوة، لأن قطرات الأطفال تختلف تركيزاً عن شراب الأطفال الأكبر.",
+            "لا تستخدم أسبرين (Aspirin) لخفض حمى الأطفال أبداً. الأسبرين عند الأطفال المصابين بعدوى فيروسية كالإنفلونزا أو الحصبة يرتبط بمتلازمة رراي (Reye syndrome)، وهي حالة خطيرة نادرة تصيب الكبد والدماغ. هذه القاعدة مطلقة ولا استثناء فيها."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "مقارنة الباراسيتامول والإيبوبروفين لخفض الحمى",
+            "head": ["المعيار", "باراسيتامول", "إيبوبروفين"],
+            "rows": [
+              ["الجرعة", "15 ملغ / كغ", "10 ملغ / كغ"],
+              ["التكرار", "كل 4-6 ساعات", "كل 6-8 ساعات"],
+              ["الحد الأدنى للعمر", "أي عمر", "فوق 3 أشهر"],
+              ["الحد الأقصى يومياً", "4 جرعات", "3 جرعات"],
+              ["تجنب عند", "مرض الكبد الشديد", "الجفاف / أمراض الكلى"]
+            ]
+          }
+        },
+        {
+          "h2": "التكميد بالماء: ما الصحيح وما الخطأ؟",
+          "paras": [
+            "التكميد أو الكمادات المائية (Tepid sponging) تعني مسح جسم الطفل بإسفنجة مبللة بماء فاتر، وهي مقبولة كمساعد لخفض الحرارة لكنها ليست بديلاً عن الدواء. الماء يجب أن يكون فاتراً أي على درجة حرارة الجسم تقريباً، فلا بارداً جداً ولا حاراً. فرك الجلد بحركات لطيفة على الجذع والذراعين والرجلين كافٍ، وليس مطلوباً تكميد الوجه أو الرأس.",
+            "الماء البارد خطأ شائع يجب تجنبه تماماً. الماء البارد يُسبب انقباض الأوعية الدموية الطرفية مما يحبس الحرارة في داخل الجسم بدلاً من تشتيتها، فترتفع درجة الحرارة الداخلية بينما يبدو الجلد بارداً. قد يُسبب أيضاً ارتجافاً شديداً يُرهق الطفل ويزيد إنتاج الحرارة. نتيجة معاكسة لما تريد.",
+            "الكحول على الجلد للتبريد ممارسة منتشرة في بعض المناطق وهي خطيرة تماماً. الكحول يُمتص عبر الجلد بسرعة عند الرضع والأطفال الصغار وقد يسبب تسمماً حقيقياً بالكحول. تجنب هذه الممارسة كلياً بغض النظر عن الشدة. التغليف الزائد أو التدفئة الزائدة خطأ آخر. الطفل المحموم لا يحتاج بطانيات ثقيلة. خففها واتركه في ملابس خفيفة مريحة."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "لا تفعل هذه الأشياء لتبريد طفلك المحموم",
+            "items": [
+              "لا تستخدم ماء بارداً في التكميد: يحبس الحرارة في الداخل",
+              "لا تضع الكحول على الجلد: يُمتص ويُسبب التسمم عند الرضع",
+              "لا تُغطّ الطفل بطبقات ثقيلة: التعرق خير من الخنق الحراري",
+              "لا تُعطِ الأسبرين للأطفال: خطر متلازمة رراي الخطيرة",
+              "لا تُخفض الحرارة إلى ما دون الطبيعي بجرعات مفرطة"
+            ]
+          }
+        },
+        {
+          "h2": "ما هي التشنجات الحموية وهل هي خطيرة؟",
+          "paras": [
+            "التشنجات الحموية (Febrile seizures) هي نوبات تشنجية تحدث عند الأطفال بين ستة أشهر وخمس سنوات جراء ارتفاع مفاجئ في درجة الحرارة. تُصيب ما بين 2 و5% من الأطفال في هذه الفئة العمرية. المشهد مُفزع للغاية: الطفل يُصاب بتصلب في الجسم ثم رجفة في الأطراف وقد يفقد وعيه لثوانٍ إلى دقيقتين. يتوقف عادة وحده في أقل من خمس دقائق ثم يكون الطفل خاملاً نائعاً بعدها.",
+            "التشنجات الحموية البسيطة (Simple febrile seizures) التي تستمر أقل من خمس دقائق وتحدث مرة واحدة في نفس مرضة الحمى ولا تتكرر في نفس اليوم، وليس للطفل تاريخ مرضي عصبي، نادراً جداً ما تُسبب أذى دائماً. مراجعة كوكرين عام 2021 أكدت أن الأدوية الوقائية من التشنجات الحموية لا تُوصى بها روتينياً لأن فائدتها محدودة والتشنجات نفسها حميدة في الغالب.",
+            "دراسة نشرتها مجلة American Family Physician عام 2019 وجدت أن خطر الإصابة بالصرع بعد التشنجات الحموية البسيطة ليس أعلى بشكل ملحوظ من خطر عامة السكان. معظم الأطفال الذين يُصابون بتشنج حموي لا يتشنجون مرة أخرى ولا يُصابون بالصرع.",
+            "ماذا تفعل إذا تشنج طفلك؟ أولاً ابقَ هادئاً فهذا يساعدك على التفكير. ضع الطفل على جانبه لمنع الاختناق. لا تضع أي شيء في فمه. لا تُمسك بأطرافه بقوة. انظر إلى الساعة وابدأ حساب الوقت. إذا استمر أكثر من خمس دقائق أو تكرر مرتين في نفس اليوم، اذهب للطوارئ فوراً. إذا انتهى وحده في أقل من ذلك، أخذ الطفل للطبيب في نفس اليوم لتقييم مصدر الحمى."
+          ],
+          "visual": {
+            "type": "timeline",
+            "title": "ماذا تفعل خطوة بخطوة إذا تشنج طفلك",
+            "items": [
+              {"when": "فور بدء التشنج", "what": "ضعه على جانبه، أزل العوائق من حوله، لا تضع شيئاً في فمه"},
+              {"when": "الدقيقة 1-2", "what": "ابقَ هادئاً وانظر إلى الساعة لتحديد مدة التشنج"},
+              {"when": "الدقيقة 5", "what": "إذا لم يتوقف، اتصل بالإسعاف أو توجه للطوارئ فوراً"},
+              {"when": "بعد التوقف", "what": "الطفل قد يكون خاملاً ونائساً: هذا طبيعي، أبقه مريحاً"},
+              {"when": "نفس اليوم", "what": "أخذه للطبيب لتقييم سبب الحمى حتى لو تعافى تماماً"}
+            ]
+          }
+        },
+        {
+          "h2": "أساطير شائعة عن الحمى في المنطقة العربية",
+          "paras": [
+            "أسطورة التف: يعتقد كثير من الأجداد أن تغطية الطفل المحموم بالبطانيات تُخرج المرض بالتعرق. الحقيقة هي أن التغطية الزائدة ترفع درجة الحرارة أكثر وتُعيق انتشار الحرارة من سطح الجسم. الطفل المحموم يحتاج ملابس خفيفة وغرفة جيدة التهوية لا طبقات من الصوف.",
+            "أسطورة التبريد الفوري: الحد بين تبريد الحمى واستفزاز الجسم رقيق. خفض درجة الحرارة بسرعة كبيرة جداً يُمكن أن يُسبب ارتجافاً مُربكاً للجهاز العصبي المركزي. الهدف هو خفض الحرارة بشكل تدريجي وراحة الطفل وليس الإسراع في الوصول إلى رقم محدد في الميزان.",
+            "أسطورة اللبن والبروتين: لا يوجد دليل علمي على أن امتناع الطفل عن الأكل أثناء الحمى يُعيقه عن الشفاء. الحمى تُخفض الشهية وهذا طبيعي. ما يهم حقاً هو أن يشرب الطفل كميات كافية من السوائل لمنع الجفاف. أجبره على الشرب ولا تُجبره على الأكل.",
+            "أسطورة أن الحمى المرتفعة دائماً تعني مرضاً خطيراً: ليس صحيحاً دائماً. طفل عنده 40 درجة من التهاب حلقي بسيط بكتيري ويلعب ويشرب بشكل مقبول، أكثر أماناً من طفل عنده 38 درجة من التهاب السحايا ويبدو فاتر الحركة وخاملاً. حال الطفل ونشاطه يُخبرك أكثر من الرقم."
+          ]
+        },
+        {
+          "h2": "متى يجب أن تذهب للطوارئ وليس فقط للطبيب؟",
+          "paras": [
+            "ثمة فرق مهم بين ما يستوجب زيارة طبيب الأطفال في الصباح وما يستوجب الطوارئ الآن. الطوارئ فوراً تعني: حمى عند رضيع أقل من ثلاثة أشهر، أو طفح جلدي أرجواني أو أحمر داكن ينتشر بسرعة ولا يختفي عند الضغط عليه بكوب شفاف، أو رقبة متصلبة لا يمكن ثنيها للأمام، أو صعوبة في التنفس أو تسارع غير طبيعي فيه، أو لون مزرق حول الفم.",
+            "أيضاً للطوارئ: تشنجات تستمر أكثر من خمس دقائق، أو طفل يبدو مُشوشاً لا يتعرف عليك بعد توقف التشنج خلال عشرين دقيقة، أو طفل لا يستطيع أن يشرب أي شيء لأكثر من ثماني ساعات متتالية ويظهر عليه علامات الجفاف كجفاف الفم والعيون الغائرة وعدم التبول.",
+            "زيارة الطبيب في نفس اليوم وليس الطوارئ: حمى فوق 39 درجة في طفل بين ثلاثة وستة أشهر، أو حمى أعلى من 40 درجة في أي طفل حتى لو بدا بصحة معقولة، أو حمى استمرت أكثر من 48 ساعة دون تحسن واضح مع العلاج."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "اذهب للطوارئ فوراً إذا رأيت",
+            "items": [
+              "حمى عند رضيع أقل من 3 أشهر بأي درجة فوق 38",
+              "طفح جلدي أرجواني أو أحمر داكن لا يختفي عند الضغط بكوب زجاجي",
+              "رقبة متصلبة لا يستطيع الطفل ثنيها للأمام",
+              "تشنجات تستمر أكثر من 5 دقائق أو تتكرر مرتين",
+              "صعوبة في التنفس أو زرقة حول الفم",
+              "طفل خامل جداً لا يستجيب للمنبهات الاعتيادية"
+            ]
+          }
+        },
+        {
+          "h2": "السوائل والتغذية أثناء الحمى",
+          "paras": [
+            "الجفاف هو المضاعفة الأكثر شيوعاً والأكثر قابلية للوقاية من الحمى عند الأطفال. الحمى ترفع معدل التنفس وتزيد التعرق، وكلاهما يفقد الجسم سوائل بسرعة أكبر من المعتاد. الطفل المريض كثيراً ما يرفض الأكل وهذا مقبول، لكن رفض الشرب لساعات طويلة يستدعي التدخل.",
+            "عرض السوائل بكميات صغيرة ومتكررة أفضل من كميات كبيرة دفعة واحدة. بالنسبة للرضع الذين يرضعون طبيعياً، استمر في الرضاعة بتكرار أعلى من المعتاد. للأطفال الأكبر، الماء والعصير المخفف وشراب إعادة التميؤ الفموي (ORS) كلها مناسبة. الحساء الدافئ كالمرق مفيد لأنه يُعوض الملح والسوائل معاً.",
+            "علامات الجفاف التي تستوجب التدخل عند الطفل: فم جاف ولسان لاصق، بكاء بلا دموع، لم يتبل الطفل منذ أكثر من ست ساعات، عيون غائرة تبدو أعمق من المعتاد، جلد يبقى محتقناً عند قرصه بدلاً من العودة بسرعة. هذه العلامات تستوجب أخذ الطفل للطبيب."
+          ]
+        }
+      ],
+      "tie": "في تطبيق سهتك يمكنك تسجيل مؤشرات طفلك الصحية وتتبع الحمى عبر الزمن. إذا رأيت نمطاً متكرراً، أخبر طبيبه بذلك.",
+      "faqs": [
+        {
+          "q": "هل يجب إيقاظ طفلي من النوم لإعطائه خافض حرارة؟",
+          "a": "إذا كان الطفل نائماً بشكل مريح وحرارته لا تزيد عن 39 درجة وهو أكبر من ستة أشهر وبصحة معقولة، النوم والراحة أهم من إيقاظه. إذا كانت الحرارة عالية جداً أو كان يرتجف في نومه أو يبدو غير مرتاح، يمكن إيقاظه بلطف وإعطائه الدواء."
+        },
+        {
+          "q": "هل يمكن إعطاء الباراسيتامول والإيبوبروفين في نفس الوقت؟",
+          "a": "لا يُنصح بإعطائهما معاً في نفس اللحظة، لكن يمكن التناوب بينهما بعد كل جرعة. على سبيل المثال: باراسيتامول الساعة 12، إيبوبروفين الساعة 3، باراسيتامول الساعة 6. تحليل 2024 في Pediatrics أكد أن التناوب قد يُعطي راحة أطول لكن ليس أفضل بالضرورة من دواء واحد يُعطى منتظماً."
+        },
+        {
+          "q": "ارتفعت حرارة طفلي فجأة إلى 40 درجة وهو يلعب بشكل طبيعي. هل هذا طارئ؟",
+          "a": "ارتفاع الحرارة فوق 40 درجة في طفل أكبر من ستة أشهر يبدو بصحة جيدة ونشيطاً ليس طارئاً بالمعنى الحرفي لكنه يستوجب زيارة الطبيب في نفس اليوم. أعطه خافض حرارة بجرعة الوزن الصحيحة، اجعله يشرب سوائل، وتوجه للطبيب."
+        },
+        {
+          "q": "هل التشنجات الحموية تعني أن طفلي سيُصاب بالصرع؟",
+          "a": "لا في الغالبية العظمى من الحالات. دراسة 2019 في American Family Physician وجدت أن التشنجات الحموية البسيطة لا ترفع خطر الصرع بشكل ملحوظ مقارنة بعامة السكان. معظم الأطفال المصابين بتشنجات حموية لا يُعانون منها مجدداً ولا يتطورون إلى صرع."
+        },
+        {
+          "q": "طفلي عمره سنة ولديه حمى 38.5 لكنه نشيط ويلعب. هل أُعطيه دواءً؟",
+          "a": "الحمى ليست ضرراً بحد ذاتها وراحة الطفل وسلوكه أهم من الرقم. إذا كان نشيطاً يشرب ولا يبدو في ضيق، يمكنك المتابعة وإعطاء خافض الحرارة عند الحاجة لتحسين راحته لا لإجبار الرقم على النزول. إذا ارتفعت الحرارة أو بدأ يضعف ويرفض الشرب، حينئذ أعطه الدواء."
+        },
+        {
+          "q": "هل يمكن استخدام الباراسيتامول التحميلة بدلاً من الشراب؟",
+          "a": "نعم. التحميلة الشرجية مفيدة جداً إذا كان الطفل يتقيأ ولا يستطيع الاحتفاظ بالشراب. امتصاصها أبطأ قليلاً لكنها تصل في النهاية. احسب الجرعة على أساس الوزن وليس على العمر المكتوب على العبوة."
+        },
+        {
+          "q": "هل من الضروري معرفة مصدر الحمى دائماً قبل علاجها؟",
+          "a": "خفض الحرارة وتحسين راحة الطفل لا يتوقفان على معرفة المصدر. لكن إذا استمرت الحمى أكثر من يومين أو رافقتها أعراض أخرى، فإيجاد مصدرها ضروري لأن بعض العدوى البكتيرية تحتاج مضادات حيوية، والعلاج بدون تشخيص ليس بديلاً."
+        }
+      ]
+    },
+    "en": {
+      "title": "Fever in children: when to worry and what to do",
+      "desc": "Temperature thresholds by age, correct paracetamol and ibuprofen doses by weight, tepid sponging facts, and the red flags that mean emergency now.",
+      "keywords": "child fever treatment, paracetamol dose child, ibuprofen dose child, baby fever, febrile seizures, tepid sponging, when to go to emergency with child fever, fever danger signs children",
+      "h1": "Fever in children: the temperature thresholds that matter and what to do",
+      "takeaways": [
+        "Fever in a baby under three months old needs same-day medical assessment even if it looks mild.",
+        "Paracetamol and ibuprofen doses are calculated by weight, not by age.",
+        "Tepid sponging with warm water is acceptable; cold water and alcohol on the skin are both harmful.",
+        "Febrile seizures are frightening but very rarely cause lasting harm; your calm response matters more than any medicine.",
+        "Fever lasting more than three days without improvement needs a doctor visit even if it does not feel severe."
+      ],
+      "sections": [
+        {
+          "h2": "What is fever and at what temperature does it start?",
+          "paras": [
+            "Fever is not a disease in itself. It is a deliberate defence response your child's immune system launches to fight infection. When a new microbe enters the body, immune cells release chemical signals that raise core temperature intentionally, because most bacteria and viruses reproduce less efficiently in a warmer environment. A mild fever is therefore often a sign of an immune system doing its job, not evidence that something is going seriously wrong.",
+            "Normal temperature in a child ranges from 36.5 to 37.5 degrees Celsius measured at the armpit and from 36.6 to 38 degrees measured rectally. A multi-site diagnostic accuracy study published in Nursing open in 2021 confirmed that the exact threshold at which fever begins varies with age and measurement site, and that drawing firm lines too early leads either to over-treatment or to missing genuine illness.",
+            "The practical definition accepted by most paediatric guidelines is 38 degrees Celsius or above measured rectally, or 37.5 degrees or above measured at the armpit. But the number alone is never enough. A child with a temperature of 38.5 who is running around and demanding food is a very different situation from a child with a temperature of 38 who is motionless, pale and will not respond to their name."
+          ],
+          "visual": {
+            "type": "range-scale",
+            "title": "Child temperature and what it means",
+            "label": "Armpit temperature",
+            "unit": "°C",
+            "min": 35,
+            "max": 41,
+            "zones": [
+              {"to": 36.5, "tone": "warn", "label": "Low"},
+              {"to": 37.5, "tone": "good", "label": "Normal"},
+              {"to": 38.5, "tone": "warn", "label": "Low fever"},
+              {"to": 39.5, "tone": "bad", "label": "Moderate fever"},
+              {"to": 41, "tone": "bad", "label": "High fever"}
+            ],
+            "source": "Kasbekar et al, Nursing open, 2021",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/33735515/"
+          }
+        },
+        {
+          "h2": "When is fever dangerous in a young baby?",
+          "paras": [
+            "A baby under three months old is the most vulnerable situation you will encounter. At this age the immune system is still immature, and doctors cannot easily determine the source of fever from symptoms alone, because a very young baby can have a serious bacterial infection such as meningitis or sepsis and appear only mildly unwell in the first hours. The rule that most paediatricians apply is clear: any fever above 38 degrees Celsius in a baby younger than three months needs same-day medical assessment, not in the morning and not tomorrow.",
+            "Between three and six months, the situation is less immediately urgent but a first episode of fever should still be evaluated by a doctor. After six months, a generally healthy child who is alert, drinking fluids and has a known cause such as an upper respiratory infection can usually be monitored at home for 24 to 48 hours with careful observation. But fever that is not responding to medication, or that extends beyond three days without clear improvement, always needs a clinic visit.",
+            "Some features alongside the fever matter more than the number on the thermometer. A child with fever and a rash that spreads rapidly and does not disappear when you press a clear glass against it, or a child with fever and a stiff neck that will not bend forward, or a child who was crying and has gone suddenly and abnormally quiet, these are emergency presentations regardless of what the thermometer says."
+          ]
+        },
+        {
+          "h2": "How to give paracetamol and ibuprofen correctly",
+          "paras": [
+            "The single most common error parents make is giving a dose based on the child's age instead of their weight. The correct dose of paracetamol is 15 milligrams per kilogram of the child's actual weight, given every four to six hours when needed. Ibuprofen is 10 milligrams per kilogram, given every six to eight hours. Weigh your child and calculate from there, not from the age bracket printed on the box.",
+            "A 2020 systematic review in JAMA Network Open examined over 19 studies comparing paracetamol and ibuprofen in children under two years old and found both drugs similarly effective at reducing fever. Ibuprofen may keep temperature lower for slightly longer. A 2024 meta-analysis in Pediatrics found that alternating between the two drugs provides longer stretches of comfort but is not necessarily superior to one drug used consistently and correctly.",
+            "Ibuprofen should not be given to babies under three months, or to children who are significantly dehydrated, or to those with kidney disease or who are taking blood-thinning medicines. In these situations paracetamol is the only safe choice. Always check the concentration printed on the bottle, because infant drops are a different strength from children's liquid suspension and mixing them up is a common source of accidental overdose.",
+            "Never give aspirin to children with fever, under any circumstances. Aspirin used in children with viral infections such as influenza or chickenpox is associated with Reye syndrome, a rare but serious condition affecting the liver and brain. This rule has no exceptions."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Paracetamol versus ibuprofen for fever",
+            "head": ["Factor", "Paracetamol", "Ibuprofen"],
+            "rows": [
+              ["Dose", "15 mg/kg", "10 mg/kg"],
+              ["Frequency", "Every 4-6 hours", "Every 6-8 hours"],
+              ["Minimum age", "Any age", "Over 3 months"],
+              ["Maximum daily doses", "4 doses", "3 doses"],
+              ["Avoid in", "Severe liver disease", "Dehydration or kidney disease"]
+            ]
+          }
+        },
+        {
+          "h2": "Tepid sponging: what works and what harms",
+          "paras": [
+            "Tepid sponging means wiping your child's body with a sponge dampened with lukewarm water, roughly body-temperature water, and it is acceptable as a supplement to medication rather than a replacement for it. Gentle strokes over the torso, arms and legs are enough. You do not need to sponge the face or head.",
+            "Cold water is a common mistake that should be avoided entirely. Cold water causes peripheral blood vessels to constrict, which traps heat inside the body rather than releasing it. The skin feels cool while core temperature rises. Cold water also provokes shivering, which generates even more heat and exhausts the child. The result is the opposite of what you are trying to achieve.",
+            "Rubbing alcohol on the skin to reduce temperature is a practice that persists in some communities and it is genuinely dangerous. Alcohol is absorbed through the skin quickly in infants and young children and can cause real alcohol poisoning. Avoid it entirely regardless of how high the fever climbs. Excessive wrapping in blankets is another error: a feverish child needs light clothing and a ventilated room, not extra layers that prevent heat from escaping."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "Never do these things to cool a feverish child",
+            "items": [
+              "Do not sponge with cold water: it traps heat inside the body",
+              "Do not put alcohol on the skin: absorbed through skin and causes poisoning in infants",
+              "Do not wrap in heavy blankets: overheating makes fever worse",
+              "Do not give aspirin: risk of Reye syndrome in children",
+              "Do not overdose fever medicines trying to force the temperature down fast"
+            ]
+          }
+        },
+        {
+          "h2": "Febrile seizures: what they are and what to do",
+          "paras": [
+            "Febrile seizures are convulsions triggered by a rapid rise in temperature, occurring in children between six months and five years of age. They affect between two and five percent of children in this age group. The episode is terrifying to witness: the child goes rigid, then shakes rhythmically in the limbs, and may lose consciousness for seconds to a couple of minutes. They almost always stop on their own in under five minutes, after which the child is drowsy and limp.",
+            "Simple febrile seizures, defined as those lasting under five minutes, occurring only once during a single fever illness, in a child with no underlying neurological history, very rarely cause lasting harm. A 2021 Cochrane review concluded that preventive drug treatment is not recommended routinely for febrile seizures because the benefit is limited and the seizures themselves are generally benign. A 2019 review in American Family Physician found that the risk of developing epilepsy after a simple febrile seizure is not meaningfully higher than in the general population.",
+            "What to do when a seizure happens: stay calm, because your clarity of action depends on it. Turn the child onto their side to keep the airway clear. Do not put anything in their mouth. Do not hold the limbs down forcibly. Look at the clock and note the time. If the seizure does not stop within five minutes, or if it repeats twice in the same day, call for emergency help or go to an emergency department. If it stops on its own before five minutes, take the child to a doctor on the same day to assess the cause of the fever.",
+            "One important distinction to understand: the convulsion itself is not what makes febrile seizures serious in uncomplicated cases. What matters is identifying and treating the underlying infection causing the fever. A child who has had a febrile seizure and has been assessed by a doctor and sent home is not at high risk of permanent harm from the seizure. The fever is the issue to address."
+          ],
+          "visual": {
+            "type": "timeline",
+            "title": "Step-by-step: what to do when your child has a febrile seizure",
+            "items": [
+              {"when": "Seizure starts", "what": "Turn child on their side, clear the area, do not put anything in mouth"},
+              {"when": "Minutes 1-2", "what": "Stay calm and check the time to track how long it lasts"},
+              {"when": "5 minute mark", "what": "If not stopping, call emergency services or go to A and E immediately"},
+              {"when": "After it stops", "what": "Child will likely be drowsy and limp: this is normal, let them rest"},
+              {"when": "Same day", "what": "Take to a doctor to find and treat the source of the fever"}
+            ]
+          }
+        },
+        {
+          "h2": "Common fever myths that cause harm",
+          "paras": [
+            "The bundling myth: many grandparents advise covering a feverish child in heavy blankets to sweat out the illness. This does the opposite of what is intended. Extra layers prevent the body's normal heat-dissipation from the skin surface and raise core temperature further. A feverish child needs light clothing and good air circulation, not insulation.",
+            "The rapid cooling myth: there is a fine line between reducing fever and stressing the body by cooling it too fast. The goal is gradual, comfortable reduction and child comfort, not reaching a particular number on the thermometer as quickly as possible. Cold baths and ice packs to the body cause peripheral vasoconstriction and shivering that can worsen the situation.",
+            "The high number means serious illness myth: not always. A child with a temperature of 40 from a straightforward streptococcal throat infection who is still drinking and recognises their parents is in a very different situation from a child with a temperature of 38 from early meningitis who is drowsy and will not meet your eyes. Your child's behaviour and responsiveness tell you more than the thermometer does.",
+            "The stop feeding myth: it is true that fever reduces appetite and forcing food on a sick child is unhelpful. But refusing fluids for hours is a serious problem. Prioritise drinking over eating consistently. Warm broth is useful because it replaces both salt and fluids. Breast milk remains the best fluid for a feverish infant."
+          ]
+        },
+        {
+          "h2": "When to go to emergency versus when to see a doctor tomorrow",
+          "paras": [
+            "There is an important practical distinction between what needs the emergency department tonight and what can wait for a morning clinic appointment. Emergency now means: any fever in a baby under three months, a rash that is dark purple or dark red and does not fade when you press a clear glass firmly against it, a neck that is too stiff to bend the chin towards the chest, difficulty breathing or an unusual change in breathing rate, or a bluish tinge around the lips.",
+            "Also emergency: a seizure lasting more than five minutes, a child who is confused and does not recognise you within twenty minutes of a seizure stopping, or a child who has been unable to keep any fluid down for more than eight hours and is showing signs of dehydration such as a dry mouth, no tears when crying, sunken eyes, or no urine in the last six to eight hours.",
+            "See a doctor on the same day but not as an emergency: fever above 39 degrees in a baby between three and six months who is otherwise alert, or fever above 40 degrees in any child even if they appear reasonably well, or fever that has continued for more than 48 hours without clear improvement despite treatment at the correct dose."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "Go to emergency immediately if you see",
+            "items": [
+              "Fever in any baby under 3 months old at or above 38 degrees Celsius",
+              "A dark purple or red rash that does not fade when pressed with a clear glass",
+              "A neck too stiff to bend forward toward the chest",
+              "Seizure lasting more than 5 minutes or repeating twice",
+              "Difficulty breathing or blue colouring around the lips",
+              "A child who is unusually unresponsive or impossible to rouse"
+            ]
+          }
+        },
+        {
+          "h2": "Fluids and feeding during a fever",
+          "paras": [
+            "Dehydration is the most common and most preventable complication of fever in children. Fever raises the breathing rate and increases sweating, both of which lose fluid faster than normal. A sick child often refuses food, which is acceptable, but refusing to drink for extended periods needs active attention.",
+            "Offer fluids in small, frequent amounts rather than large volumes at once. For breastfed babies, continue feeding more frequently than usual. For older children, water, diluted fruit juice and oral rehydration solution are all suitable. Warm broth is useful because it replaces both salt and fluid together. Do not force food but do insist on drinking.",
+            "Signs that dehydration needs attention in a feverish child: a dry mouth and sticky tongue, crying with no tears, no urination in more than six hours, eyes that appear sunken and deeper set than usual, and skin that stays tented briefly when pinched rather than snapping back immediately. These signs in a feverish child need a same-day doctor visit."
+          ]
+        }
+      ],
+      "tie": "Track your child's temperature readings over time in the Sihtak app. A pattern of recurring fevers gives the doctor far more information than a verbal account, and it means you go to the appointment prepared.",
+      "faqs": [
+        {
+          "q": "Should I wake my child from sleep to give a fever reducer?",
+          "a": "If the child is sleeping comfortably and the temperature is not above 39 degrees and they are older than six months and otherwise well, sleep and rest are more valuable than waking them. If the temperature is very high, the child is shivering visibly, or they seem distressed in their sleep, waking them gently to give medicine is the right call."
+        },
+        {
+          "q": "Can I give paracetamol and ibuprofen at the same time?",
+          "a": "Not simultaneously, but alternating between doses is possible and sometimes used. For example: paracetamol at noon, ibuprofen at three, paracetamol at six. The 2024 Pediatrics meta-analysis confirmed alternating may give longer stretches of comfort but is not necessarily better than one medicine given correctly and on schedule."
+        },
+        {
+          "q": "My child's temperature jumped to 40 but they are playing normally. Is this an emergency?",
+          "a": "A temperature above 40 in a child over six months who is alert, drinking and playing is not an emergency in the strictest sense but it does need a same-day doctor visit to identify the cause. Give a weight-correct dose of a fever reducer, encourage fluids, and head to the clinic."
+        },
+        {
+          "q": "Do febrile seizures mean my child will develop epilepsy?",
+          "a": "Almost certainly not. The 2019 American Family Physician review found that simple febrile seizures do not meaningfully raise the lifetime risk of epilepsy compared with the general population. The large majority of children who have a febrile seizure never have another one and do not develop epilepsy."
+        },
+        {
+          "q": "My one-year-old has a temperature of 38.5 but is active and playing. Do I give medicine?",
+          "a": "Fever is not harmful in itself and your child's behaviour is more important than the number. If they are active, drinking and not clearly distressed, you can monitor without immediately giving medicine. Give a fever reducer when it is clearly needed for the child's comfort, not to force the number down to normal. If temperature rises further or they become less willing to drink, give the medicine."
+        },
+        {
+          "q": "Can I use paracetamol suppositories instead of liquid?",
+          "a": "Yes. Rectal suppositories are particularly useful when a child is vomiting and cannot keep liquid medicine down. Absorption is slightly slower but the medicine arrives. Calculate the dose by weight, not by the age on the box."
+        },
+        {
+          "q": "Do I always need to find the cause of fever before treating it?",
+          "a": "Reducing fever and keeping the child comfortable does not require knowing the cause. But if fever persists beyond two days or is accompanied by other worrying symptoms, finding the source becomes necessary, because some bacterial infections need antibiotics and treating symptoms without a diagnosis is not a substitute for treatment."
+        }
+      ]
+    }
+  }
+}

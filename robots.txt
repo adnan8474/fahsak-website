@@ -1,9 +1,7 @@
+# Everything is open, including AI crawlers. Being quoted by an assistant is
+# how a lot of this audience will find the site at all, so GPTBot, CCBot,
+# ClaudeBot and the rest are deliberately not blocked.
 User-agent: *
 Allow: /
+
 Sitemap: https://www.sihtak.com/sitemap.xml
-
-User-agent: GPTBot
-Disallow: /
-
-User-agent: CCBot
-Disallow: /

@@ -1,0 +1,335 @@
+{
+  "slug": "heart-failure-explained",
+  "category": "chronic-conditions",
+  "chip_ar": "القلب والأوعية",
+  "chip_en": "Heart Health",
+  "date_iso": "2026-07-22",
+  "sources": [
+    {
+      "label": "McDonagh TA, Metra M, Adamo M et al: 2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure, European heart journal, 2021",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34447992/"
+    },
+    {
+      "label": "McDonagh TA, Metra M, Adamo M et al: 2023 Focused Update of the 2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure, European heart journal, 2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37622666/"
+    },
+    {
+      "label": "Campbell P, Rutten FH, Lee MM et al: Heart failure with preserved ejection fraction: everything the clinician needs to know, Lancet (London, England), 2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38367642/"
+    },
+    {
+      "label": "Gauer RL, Rifaat A, Foulkrod AM et al: Heart Failure With Reduced Ejection Fraction: Medical Management, American family physician, 2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40834370/"
+    },
+    {
+      "label": "Mensah GA, Fuster V, Murray CJL et al: Global Burden of Cardiovascular Diseases and Risks, 1990-2022, Journal of the American College of Cardiology, 2023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38092509/"
+    },
+    {
+      "label": "Yoon M, Lee S, Choi JY et al: Effectiveness of a Smartphone App-Based Intervention With Bluetooth-Connected Monitoring Devices and a Feedback System in Heart Failure (SMART-HF Trial), Journal of medical Internet research, 2024",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38683665/"
+    }
+  ],
+  "content": {
+    "ar": {
+      "title": "قصور القلب: ما الذي يعنيه وكيف تعيش معه",
+      "desc": "دليل واضح لقصور القلب (Heart Failure): كسر الإخراج، مراقبة الوزن اليومية، ملح السوائل، الأدوية الأساسية، وعلامات التدهور التي تستدعي الطوارئ.",
+      "keywords": "قصور القلب, فشل القلب, كسر الإخراج, قصور القلب المزمن, ضيق التنفس, تورم القدمين, علاج قصور القلب, مراقبة الوزن, الإجهاد والقلب",
+      "h1": "قصور القلب: المعنى الحقيقي وكيف تدير حياتك معه",
+      "takeaways": [
+        "قصور القلب (Heart Failure) لا يعني أن القلب توقف، بل يعني أنه يضخ الدم بكفاءة أقل من احتياج الجسم. الحالة مزمنة وقابلة للإدارة.",
+        "كسر الإخراج (Ejection Fraction) هو القياس الأساسي لقوة ضخ القلب: المعدل الطبيعي فوق 50%، وما دون 40% يعني قصور القلب ذا كسر إخراج منخفض.",
+        "مراقبة وزنك يومياً في الصباح هي أبسط وأقوى أداة لرصد تراكم السوائل قبل أن تصبح مشكلة.",
+        "أدوية قصور القلب الأربعة الرئيسية عند الكسر المنخفض تحسن الأعراض وتطيل العمر معاً."
+      ],
+      "sections": [
+        {
+          "h2": "ما قصور القلب بالضبط؟",
+          "paras": [
+            "قصور القلب (Heart Failure) مصطلح طبي مخيف في ظاهره، لكن معناه الدقيق هو أن القلب لا يزال ينبض، لكنه يضخ الدم بكفاءة أقل من التي يحتاجها الجسم. قد يكون ذلك لأن عضلة القلب ضعفت وباتت تنقبض بقوة أقل، أو لأن القلب يضخ بقوة معقولة لكنه لا يمتلئ بالدم بصورة كافية بين النبضات. كلا النوعين يسميهما الأطباء قصور القلب وإن كان علاجهما يختلف في التفاصيل.",
+            "الكسر المنخفض في الضخ يعني أن الأنسجة لا تحصل على الأكسجين والمواد الغذائية بالمقدار الكافي. يحاول الجسم تعويض ذلك بأن يرسل إشارات لاحتجاز الماء والملح، فيتراكم السائل في الرئتين والقدمين. هذا التراكم هو ما يسبب ضيق التنفس وانتفاخ الكاحلين اللذين يعرف بهما المرض.",
+            "تحليل نشرته مجلة Journal of the American College of Cardiology عام 2023 وتناول العبء العالمي لأمراض القلب أظهر أن أمراض القلب وفي مقدمتها قصور القلب تشكل السبب الأول للوفاة في كثير من دول المنطقة، وأن داء السكري وارتفاع ضغط الدم اللذين ينتشران بشدة في المنطقة العربية هما أكثر أسباب قصور القلب شيوعاً. معرفتك بما يحدث داخل قلبك هو الخطوة الأولى في إدارة الحالة بفاعلية.",
+            "قصور القلب ليس حكماً بالنهاية. مع العلاج المناسب والتغييرات في نمط الحياة يستطيع كثيرون العيش بشكل مريح لسنوات طويلة. القاعدة الأساسية هي الشراكة الحقيقية بينك وبين فريقك الطبي."
+          ]
+        },
+        {
+          "h2": "كسر الإخراج: الرقم الأهم في تقرير القلب",
+          "paras": [
+            "كسر الإخراج (Ejection Fraction أو EF) يقيس النسبة المئوية للدم التي يدفعها القلب خارجاً في كل نبضة. يُقاس بالموجات فوق الصوتية على القلب (Echocardiogram). قلب سليم يدفع عادةً بين 50% و70% من الدم الذي يمتلئ به في كل نبضة، أي أنه لا يفرغ تماماً وهذا طبيعي.",
+            "عندما ينخفض كسر الإخراج دون 40% يسمى الأطباء الحالة قصور القلب ذا كسر الإخراج المنخفض (HFrEF)، وفيه تضعف عضلة القلب وتنقبض بشكل ناقص. حين يكون الكسر بين 40% و49% تسمى الحالة بالكسر الوسطى. أما حين يكون الكسر فوق 50% لكن القلب ما زال يسبب أعراض قصور القلب، فتسمى الحالة قصور القلب ذا كسر الإخراج المحفوظ (HFpEF) ويعني أن القلب ينقبض جيداً لكنه لا يرتخي ويمتلئ بالدم بالشكل الكافي.",
+            "مراجعة 2024 في The Lancet ناقشت قصور القلب ذا كسر الإخراج المحفوظ بالتفصيل ووجدت أنه يمثل الآن نحو نصف جميع حالات قصور القلب في العالم، وأنه أكثر شيوعاً عند النساء وكبار السن ومن يعانون من السكري. السبب المباشر له في الغالب هو تصلب عضلة القلب بفعل ارتفاع ضغط الدم المزمن."
+          ],
+          "visual": {
+            "type": "range-scale",
+            "title": "كسر الإخراج (Ejection Fraction): أين يقع رقمك",
+            "label": "EF",
+            "unit": "%",
+            "min": 0,
+            "max": 70,
+            "zones": [
+              {"to": 40, "tone": "bad", "label": "منخفض"},
+              {"to": 50, "tone": "warn", "label": "وسطى"},
+              {"to": 70, "tone": "good", "label": "طبيعي"}
+            ],
+            "source": "ESC Heart Failure Guidelines 2021",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/34447992/"
+          }
+        },
+        {
+          "h2": "أعراض قصور القلب التي ينبغي التعرف عليها",
+          "paras": [
+            "ضيق التنفس عند الجهد هو أول ما يلاحظه معظم المرضى. في البداية قد يكون فقط عند صعود الدرج أو المشي السريع، ثم يتدرج مع تراكم السوائل في الرئتين حتى يظهر عند أدنى مجهود أو حتى في الراحة. الاستلقاء على ظهرك يزيد ضيق التنفس لأن السوائل تنتقل من الساقين إلى الرئتين في وضع الاستلقاء، ولذلك يُفضل كثيرون النوم على عدة وسائد.",
+            "التورم في الكاحلين والقدمين وربما الساقين هو العلامة الثانية الكلاسيكية. يكون طرياً في البداية ويترك أثراً عند الضغط عليه بالإصبع. قد يتراكم أيضاً في البطن مسبباً انتفاخاً أو شعوراً بالامتلاء. التعب الشديد والإرهاق عند أدنى جهد هو عرض محوري آخر لأن عضلات الجسم لا تحصل على ما يكفيها من الدم.",
+            "أعراض أخرى تشمل السعال المزمن، لا سيما عند الاستلقاء، وقد يصاحبه بلغم وردي في الحالات الشديدة. الغثيان وفقدان الشهية يحدثان حين يتراكم السائل في البطن ويضغط على الكبد والأمعاء. كثرة التبول ليلاً هي أيضاً علامة شائعة لأن السوائل المحتبسة في الساقين تعود إلى الدورة الدموية عند الاستلقاء وتصل إلى الكلى."
+          ]
+        },
+        {
+          "h2": "مراقبة الوزن اليومي: أداة الإنذار المبكر",
+          "paras": [
+            "وزنك كل صباح قبل الفطور وبعد التبول وبالملابس نفسها هو أبسط طريقة وأكثرها فاعلية لاكتشاف تراكم السوائل في جسمك. كيلوغرام واحد زائداً في 24 ساعة يعادل ليتراً واحداً من السوائل المتراكمة. الزيادة السريعة تسبق ظهور الأعراض بيوم أو يومين، وهذا هو المكان الذهبي للتدخل.",
+            "تواصل مع طبيبك أو عيادة قلبك فوراً إذا ارتفع وزنك بأكثر من كيلوغرامين في ثلاثة أيام أو أكثر من ثلاثة كيلوغرامات في أسبوع واحد. كثير من الأطباء يُزودون مرضى قصور القلب بجدول مراقبة الوزن ورقم هاتف للاستشارة السريعة دون الحاجة إلى انتظار موعد.",
+            "دراسة عشوائية نشرتها مجلة Journal of Medical Internet Research عام 2024 وتتبعت مرضى قصور القلب الذين استخدموا أجهزة قياس وزن مرتبطة بتطبيق للهاتف أظهرت أن المتابعة المنظمة لوزن المريض وتكيف الجرعة الدوائية بناءً عليها يقلل من معدلات دخول المستشفى بصورة ملموسة. المبدأ بسيط: الكشف المبكر يُجنبك الأزمات."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "كيف تزن نفسك بصورة صحيحة كل يوم",
+            "items": [
+              "زِن نفسك في الصباح فور الاستيقاظ وبعد ذهابك للحمام",
+              "استخدم الميزان نفسه في المكان نفسه كل يوم",
+              "ارتدِ الملابس الداخلية فقط أو نفس الملابس الخفيفة دائماً",
+              "سجل الرقم في دفتر أو تطبيق هاتف مع التاريخ",
+              "إذا ارتفع الوزن أكثر من كيلوغرامين في 3 أيام اتصل بطبيبك في نفس اليوم"
+            ]
+          }
+        },
+        {
+          "h2": "الملح والسوائل وما يجب أن تعرفه",
+          "paras": [
+            "الصوديوم يحتجز الماء في الجسم. في قصور القلب، الكليتان اللتان تعملان أصلاً تحت ضغط ناتج عن ضعف ضخ القلب تصبحان أكثر حساسية لأي كمية زائدة من الملح. معظم إرشادات الأطباء توصي بتقليل الصوديوم إلى ما دون 2 غرام يومياً، وهو ما يعادل أقل من نصف ملعقة صغيرة من ملح الطعام.",
+            "المشكلة أن الملح يختبئ في كثير من الأطعمة الشائعة في منطقتنا: الخبز الصناعي والمخلل والجبن المالح والمعلبات ومرق المكعبات وشرائح اللحم المعالجة. شراء الغذاء الطازج وطهيه في المنزل باستخدام الأعشاب والتوابل بدل الملح هو الاستراتيجية الأكثر فاعلية.",
+            "تقييد السوائل يختلف من مريض لآخر وليس قاعدة عامة لجميع مرضى قصور القلب. في الحالات الخفيفة قد لا تحتاج إلى أي تقييد. في الحالات المتقدمة أو حين يكون تراكم السوائل مشكلة متكررة قد يوصي الطبيب بحد يومي للسوائل. اسأل طبيبك تحديداً عن كميتك."
+          ]
+        },
+        {
+          "h2": "الأدوية الأساسية لقصور القلب ذي كسر الإخراج المنخفض",
+          "paras": [
+            "إرشادات الجمعية الأوروبية لأمراض القلب 2021 وتحديثها 2023 ترسّخت على أربع فئات دوائية تحسن البقاء على قيد الحياة في قصور القلب ذي كسر الإخراج المنخفض. هذه الأدوية لا تخفف الأعراض فحسب بل تحمي القلب من التدهور وترفع معدل البقاء حياً فعلياً.",
+            "مثبطات ACE أو مثبطات مستقبل الأنجيوتنسين (ACEi/ARBs) توسع الأوعية وتخفف الضغط على القلب. حاصرات بيتا (Beta-blockers) تحمي القلب من التسارع الزائد والضرر الناتج عن هرمونات التوتر. مضادات الألدوستيرون (MRAs) تقلل احتجاز السوائل وتحمي القلب. ومثبطات SGLT2 وهي الأدوية التي اشتهرت أصلاً لمرضى السكري وثبت أنها تحسن نتائج قصور القلب بمعزل عن وجود السكري.",
+            "مقالة نشرتها مجلة American Family Physician عام 2025 راجعت هذه الأدوية وأكدت أن العلاج بهذه الفئات الأربعة معاً يخفض خطر الوفاة والدخول إلى المستشفى بشكل ملموس. الأمر الحاسم هو الالتزام بالجرعات المحددة والتعديل التدريجي بإشراف طبيب، وليس التوقف عن أي منها من تلقاء النفس.",
+            "مدرات البول (Diuretics) مثل فوروسيميد (Furosemide) تُستخدم لإزالة السوائل الزائدة والتخفيف الفوري من ضيق التنفس والتورم. هي ضرورية لراحتك اليومية لكنها لا تحمي القلب على المدى البعيد بالطريقة التي تفعلها الأدوية الأربعة السابقة."
+          ]
+        },
+        {
+          "h2": "علامات التدهور: متى تتصل وأين تذهب",
+          "paras": [
+            "حتى المرضى المتابعون بانتظام قد يتعرضون لفترات تراكم سوائل أو ضعف حاد. التعرف على العلامات المبكرة وعدم الانتظار حتى تصبح الحالة طارئة هو مفتاح البقاء خارج المستشفى. طبيبك يفضل سماعك على الهاتف في وقت مبكر بدلاً من رؤيتك في الطوارئ في حالة سيئة تتطلب إجراءات طارئة كان يمكن تفاديها.",
+            "التواصل مع عيادة القلب في نفس اليوم إذا ارتفع وزنك المعتاد بسرعة، أو إذا ازداد ضيق تنفسك بشكل ملحوظ دون سبب واضح كنزلة صدرية، أو إذا شعرت بتورم جديد أو أسوأ في الساقين، أو إذا شعرت بدوار أو سرعة قلب غير معتادة. هذه التغيرات قابلة للحل في كثير من الأحيان بتعديل جرعة مدر البول أو مراجعة مؤقتة دون الحاجة إلى دخول المستشفى.",
+            "من المهم معرفة أن حرارة الصيف الشديدة الشائعة في منطقتنا تزيد ضغط الجسم وتتسبب في توسع الأوعية الدموية وانخفاض ضغط الدم بشكل يجعل أدوية قصور القلب تعمل بصورة مختلفة. ارتفاع درجات الحرارة قد يزيد الحاجة إلى المراقبة خلال موجات الحر الصيفي."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "اتصل بالإسعاف أو اذهب إلى الطوارئ فوراً إذا",
+            "items": [
+              "ضيق تنفس شديد مفاجئ لا تستطيع إتمام جملة كاملة",
+              "ألم أو ضيق في الصدر أو الذراع أو الفك",
+              "سعال مصحوب ببلغم وردي أو مرقط بالدم",
+              "فقدان الوعي أو الإغماء حتى لو لبرهة قصيرة",
+              "تسارع قلب حاد مفاجئ مع دوار وعرق بارد"
+            ]
+          }
+        },
+        {
+          "h2": "الحياة اليومية مع قصور القلب: النشاط والنوم والمتابعة",
+          "paras": [
+            "الراحة التامة ليست الحل الأمثل وقد يكون مضراً في الواقع. الحركة المعتدلة المنتظمة تقوي عضلة القلب وتحسن قدرتها على الضخ وتخفف الأعراض بمرور الوقت. يوصي معظم أطباء قلب قصور القلب بالمشي اليومي على مستوى لا يسبب ضيق تنفس حاداً أو ألم صدر، ثم زيادة المدة والسرعة تدريجياً حسب تحملك الفعلي. في صيف الخليج الحار يكون المشي المبكر في الصباح أو الأماكن المكيفة خياراً عملياً بديلاً عن الهواء الخارجي.",
+            "النوم على عدة وسائد أو رفع رأس السرير بمقدار 15 إلى 20 سنتيمتراً يخفف ضيق التنفس الليلي الناجم عن انتقال السوائل من الساقين إلى الرئتين عند الاستلقاء. إذا كنت تستيقظ ليلاً بضيق تنفس مفاجئ يتحسن حين تجلس أو تقف، فهذه علامة تسمى ضيق التنفس الانتيابي الليلي وهي مهمة ويجب أن تخبر بها طبيبك في أقرب فرصة.",
+            "زيارات المتابعة المنتظمة مع طبيب القلب ضرورية حتى حين تشعر بتحسن تام. تشمل عادةً قياس الوزن والضغط والتحاليل الدموية لوظائف الكلى والصوديوم والبوتاسيوم وهي ذات أهمية بالغة لمرضى قصور القلب الذين يتناولون مدرات البول ومثبطات ACE. لا توقف أي دواء من أدوية قصور القلب من تلقاء نفسك حتى حين تشعر بتحسن، لأن هذه الأدوية تعمل في الخلفية لحماية قلبك بصرف النظر عن كيف تشعر اليوم.",
+            "الإقلاع عن التدخين إذا كنت مدخناً هو من أكثر الخطوات تأثيراً التي يمكنك اتخاذها. التدخين يزيد خطر النوبة القلبية وضيق الأوعية ويقلل من استجابة القلب للأدوية. كذلك يرتبط شرب الكحول بضعف عضلة القلب المباشر وهو سبب قابل للعكس إذا توقف الشخص عن التناول."
+          ]
+        }
+      ],
+      "tie": "يساعدك تطبيق سهتك على تسجيل وزنك اليومي وأعراضك وقراءات ضغط الدم وضبط تذكيرات للأدوية، مما يمنحك ومقدم رعايتك صورة واضحة عن مسار حالتك بين الزيارات.",
+      "faqs": [
+        {
+          "q": "هل قصور القلب علاج دائم أم يمكن الشفاء منه؟",
+          "a": "بعض حالات قصور القلب تحسنت وظيفة القلب فيها بشكل كبير مع العلاج المناسب، لا سيما إذا كان السبب قابلاً للعلاج كعدوى فيروسية أو اضطراب إيقاع القلب أو ارتفاع ضغط الدم غير المسيطر عليه. في كثير من حالات قصور القلب الناتجة عن تلف عضلة القلب فالحالة مزمنة لكنها قابلة للإدارة الجيدة بالأدوية وتغييرات نمط الحياة."
+        },
+        {
+          "q": "لماذا تهم قراءة كسر الإخراج كثيراً؟",
+          "a": "كسر الإخراج يحدد نوع قصور القلب الذي تعاني منه ويوجه الأدوية الأنسب لحالتك. قصور القلب ذو الكسر المنخفض لديه خيارات دوائية ثبت علمياً أنها تقلل الوفيات، بينما قصور القلب ذو الكسر المحفوظ يتطلب نهجاً مختلفاً. الرقم يتغير مع الوقت والعلاج ويقيسه طبيبك دورياً."
+        },
+        {
+          "q": "كيف يختلف قصور القلب عن النوبة القلبية؟",
+          "a": "النوبة القلبية (Heart Attack) حدث حاد يُسبب انسداداً مفاجئاً في أحد شرايين القلب. قصور القلب هو حالة مزمنة ناتجة عن ضعف عضلة القلب في الضخ أو الامتلاء. النوبة القلبية قد تكون أحد أسباب قصور القلب إذا أتلفت جزءاً من عضلة القلب، لكن قصور القلب له أسباب أخرى كثيرة."
+        },
+        {
+          "q": "هل يمكن ممارسة الرياضة وأنا مصاب بقصور القلب؟",
+          "a": "نعم، وذلك مفيد جداً. التمارين المعتدلة تحسن القدرة على التحمل وتقلل الأعراض وتحسن نوعية الحياة. المشي هو نقطة البداية الأكثر أماناً لأغلب المرضى. تجنب الجهد الشديد جداً أو الذي يسبب ضيق تنفس حاداً أو ألم صدر. ناقش مستوى النشاط المناسب لحالتك مع طبيبك."
+        },
+        {
+          "q": "لماذا أتبول كثيراً بعد تناول مدر البول؟",
+          "a": "مدرات البول مصممة لفعل ذلك بالضبط. هي ترغم الكليتين على إخراج الصوديوم والماء الزائدين من الجسم عبر البول، مما يخفف العبء عن القلب ويقلل التورم وضيق التنفس. كثرة التبول في الساعات الأولى بعد الجرعة أمر متوقع وليس مشكلة."
+        },
+        {
+          "q": "هل أحتاج إلى تقليل السوائل التي أشربها؟",
+          "a": "يختلف ذلك من مريض لآخر. في قصور القلب الخفيف غير المصحوب بتراكم سوائل متكرر لا يلزم عادةً تقييد صارم للسوائل. في الحالات الأكثر تقدماً أو مع تكرار الأزمات قد يوصي الطبيب بحد يومي للسوائل. الأهم دائماً هو تقليل الملح."
+        },
+        {
+          "q": "هل يزداد قصور القلب سوءاً مع الوقت دائماً؟",
+          "a": "ليس بالضرورة. مع العلاج المنتظم والالتزام بالتعليمات يستطيع كثيرون الحفاظ على حالة مستقرة لسنوات. بعضهم تتحسن وظيفة قلبه بشكل ملحوظ. التدهور الحاد الأكثر شيوعاً يحدث حين يتوقف المريض عن أدويته أو يتجاهل الأعراض التحذيرية المبكرة."
+        }
+      ]
+    },
+    "en": {
+      "title": "Heart failure: what it means and how to live with it",
+      "desc": "Heart failure explained: ejection fraction, daily weight monitoring, salt limits, the four medicines that extend life, and when symptoms need emergency care.",
+      "keywords": "heart failure, ejection fraction, chronic heart failure, breathlessness, ankle swelling, heart failure treatment, daily weight, fluid restriction, HFrEF, HFpEF",
+      "h1": "Heart failure: understanding the diagnosis and managing it well",
+      "takeaways": [
+        "Heart failure does not mean the heart has stopped. It means the heart pumps less efficiently than the body needs, and the condition is chronic but manageable.",
+        "Ejection fraction (EF) measures pumping strength. A normal EF is above 50%. Below 40% is heart failure with reduced ejection fraction, which has specific treatments proven to extend life.",
+        "Weighing yourself every morning is the simplest and most effective way to catch fluid build-up before it becomes a crisis.",
+        "Four drug classes improve survival in reduced ejection fraction heart failure, not just symptoms. Staying on them matters."
+      ],
+      "sections": [
+        {
+          "h2": "What does heart failure actually mean?",
+          "paras": [
+            "Heart failure is a term that sounds final, but its clinical meaning is more specific and more hopeful than it sounds. The heart is still beating. The problem is that it pumps blood less efficiently than the body requires, either because the heart muscle has weakened and squeezes with less force, or because the heart squeezes reasonably well but cannot relax and fill properly between beats. Both patterns cause the same result: tissues receive less oxygen and nutrients than they need.",
+            "The body responds to this by retaining salt and water, which creates the fluid overload that causes the most visible symptoms: breathlessness as fluid accumulates in the lungs, and ankle swelling as it pools in the legs. This is not a flaw in the body's response but an attempt to compensate for reduced cardiac output that unfortunately overloads an already struggling heart.",
+            "Heart failure is one of the most common causes of hospital admission worldwide. A 2023 analysis in the Journal of the American College of Cardiology examining the global burden of cardiovascular diseases noted that diabetes and high blood pressure, both extremely prevalent across the Arab world, are among the leading causes of heart failure. Understanding your diagnosis is the first step in managing it actively rather than being managed by it.",
+            "With appropriate treatment, lifestyle adjustment and regular monitoring, many people with heart failure live comfortably and actively for many years. The partnership between you and your medical team is the single most important factor in how well you do."
+          ]
+        },
+        {
+          "h2": "Ejection fraction: the number that shapes your treatment",
+          "paras": [
+            "Ejection fraction (EF) is the percentage of the blood inside the left ventricle that is pushed out with each heartbeat, measured by an echocardiogram (heart ultrasound). A healthy heart typically ejects between 55% and 70% of the blood it contains. It does not empty completely with each beat, and this is normal.",
+            "When the ejection fraction falls below 40%, doctors call the condition heart failure with reduced ejection fraction, abbreviated HFrEF. The heart muscle itself has weakened and cannot squeeze with sufficient force. This is the form where the four main drug classes have the strongest evidence for improving survival. When EF sits between 40% and 49%, it is called mildly reduced. When EF is 50% or above but symptoms of heart failure are present, the condition is called heart failure with preserved ejection fraction, or HFpEF, meaning the heart squeezes adequately but has become too stiff to fill properly.",
+            "A 2024 review in The Lancet on heart failure with preserved ejection fraction found that this form now accounts for roughly half of all heart failure cases globally and is particularly common in women, older adults, those with diabetes and those with longstanding high blood pressure. Regional populations in the Arab world carry all these risk factors at high rates, which makes HFpEF highly relevant here."
+          ],
+          "visual": {
+            "type": "range-scale",
+            "title": "Ejection fraction: where your result sits",
+            "label": "EF",
+            "unit": "%",
+            "min": 0,
+            "max": 70,
+            "zones": [
+              {"to": 40, "tone": "bad", "label": "Reduced"},
+              {"to": 50, "tone": "warn", "label": "Mildly reduced"},
+              {"to": 70, "tone": "good", "label": "Normal"}
+            ],
+            "source": "ESC Heart Failure Guidelines 2021",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/34447992/"
+          }
+        },
+        {
+          "h2": "The symptoms to recognise",
+          "paras": [
+            "Breathlessness on exertion is usually the first thing people notice. Initially it may appear only on climbing stairs or walking quickly, then progress over months to difficulty with lighter activities or even at rest. Lying flat makes breathlessness worse because fluid that has pooled in the legs during the day shifts towards the lungs when you lie down. This is why many people with heart failure prop themselves up on several pillows to sleep more comfortably.",
+            "Ankle swelling is the other hallmark symptom. The fluid is soft and leaves a temporary dent when you press it with a finger, a phenomenon doctors call pitting oedema. It tends to be worst at the end of the day and better in the morning after the fluid has had time to redistribute. In more advanced cases the swelling can involve the calves, thighs and abdomen.",
+            "Fatigue and weakness out of proportion to activity are very common and are caused by the muscles receiving less blood than they need. A persistent cough, especially when lying down, can be a sign of fluid in the lungs. Nausea and loss of appetite occur when fluid accumulates around the liver and gut. Waking at night with sudden breathlessness that improves when you sit or stand up, a pattern called paroxysmal nocturnal dyspnoea, is a specific symptom worth reporting to your doctor."
+          ]
+        },
+        {
+          "h2": "Daily weight monitoring: your early warning system",
+          "paras": [
+            "Weighing yourself every morning before eating and after your first visit to the bathroom, wearing the same light clothing each time, is the most powerful self-monitoring tool available to someone with heart failure. One kilogram of weight gained in 24 hours represents roughly one litre of fluid retained. This fluid accumulation typically precedes worsening breathlessness or swelling by one to two days, which means you have a window to act before a crisis develops.",
+            "Contact your cardiology team on the same day if your weight rises more than two kilograms in three days, or more than three kilograms in a week. Many heart failure clinics provide a direct phone number or messaging system for exactly this purpose. Do not wait for your next scheduled appointment.",
+            "A randomised trial published in the Journal of Medical Internet Research in 2024 followed heart failure patients using bluetooth-connected scales linked to a monitoring app. The study showed that systematic weight tracking combined with responsive medication adjustment significantly reduced hospital admissions compared with usual care. The principle is straightforward: detecting fluid accumulation early when a dose adjustment or an extra diuretic tablet can resolve it is far better than arriving at an emergency department in respiratory distress."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "How to weigh yourself correctly each day",
+            "items": [
+              "Weigh yourself every morning immediately after waking and using the toilet",
+              "Use the same scales in the same spot every day",
+              "Wear the same light clothing or just underwear each time",
+              "Record the number with the date in a notebook or phone app",
+              "If weight rises more than 2 kg in 3 days, call your heart team the same day"
+            ]
+          }
+        },
+        {
+          "h2": "Salt, fluid and what actually makes the difference",
+          "paras": [
+            "Sodium causes the body to retain water. In heart failure, the kidneys are already operating under the stress of reduced cardiac output and retain sodium more aggressively than normal. Most heart failure guidelines recommend keeping sodium intake below 2 grams per day, which is less than half a teaspoon of table salt. This limit applies to salt added during cooking and eating, but equally to the sodium already present in processed foods.",
+            "The challenge in the Arab world is that sodium hides in many common foods: commercial bread, pickled vegetables, salted white cheese such as akkawi and halloum, canned goods, stock cubes and processed meats. Cooking fresh food at home and flavouring it with herbs, lemon, cumin and other spices rather than salt is the most effective practical strategy. Reading nutrition labels when buying packaged food and choosing low-sodium versions where available also helps.",
+            "Fluid restriction varies between patients and is not a universal rule for everyone with heart failure. In mild or well-controlled disease, no specific fluid limit is needed beyond reducing salt. In more advanced disease or when fluid overload recurs repeatedly, your doctor may set a daily fluid limit, typically 1.5 to 2 litres including all drinks and water in food. Ask your doctor whether a specific limit applies to you rather than assuming one direction or the other."
+          ]
+        },
+        {
+          "h2": "The four medicines that change the outcome",
+          "paras": [
+            "For heart failure with reduced ejection fraction specifically, the 2021 ESC guidelines and their 2023 update identified four drug classes that reduce mortality and hospitalisation, not just relieve symptoms. Getting to the target dose of all four is the goal, achieved gradually over weeks to months.",
+            "ACE inhibitors or ARBs (angiotensin receptor blockers) reduce the pressure the heart works against and protect the heart muscle from further remodelling. Beta-blockers slow the heart rate, reduce the harmful effects of the stress hormones that flood the system in heart failure, and lower the risk of dangerous rhythm problems. Mineralocorticoid receptor antagonists such as spironolactone or eplerenone reduce fluid retention and provide additional heart protection. SGLT2 inhibitors, originally developed for diabetes, were found to substantially reduce heart failure hospitalisations and death in people both with and without diabetes.",
+            "A 2025 review in American Family Physician confirmed that combining all four drug classes produces outcomes superior to any individual drug or pair. The critical point is not to stop any of these medicines based on how you feel on a good day. They are working even when you feel well, and their benefit accumulates over months and years.",
+            "Diuretics such as furosemide are the most immediately noticeable medicines because they reduce fluid and relieve breathlessness within hours. They are essential for comfort and safety but do not improve long-term prognosis the way the four disease-modifying drugs do. Your doctor adjusts the diuretic dose most actively, increasing it during periods of fluid accumulation and reducing it when you are dry and stable."
+          ]
+        },
+        {
+          "h2": "When to act urgently: the warning signs",
+          "paras": [
+            "Even people who manage their heart failure well will have periods of instability. Recognising the early signs and contacting your team promptly, before symptoms become severe, is what keeps you out of hospital and protects your heart from each additional episode of overload. Your cardiology team genuinely prefers an early phone call to seeing you in an acute state.",
+            "Contact your heart failure clinic or GP on the same day, not at the next scheduled appointment, if your weight rises rapidly, if your breathlessness worsens noticeably without an obvious cause such as a respiratory infection, if you develop new or worsening ankle swelling, or if you feel faint or notice an unusual change in your heart rate or rhythm.",
+            "Some symptoms require emergency care immediately, not a telephone call tomorrow."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "Call an ambulance or go to emergency immediately if",
+            "items": [
+              "Sudden severe breathlessness that prevents you completing a sentence",
+              "Chest pain, tightness or pressure radiating to the arm or jaw",
+              "Coughing up frothy, pink or blood-tinged sputum",
+              "Fainting or loss of consciousness even briefly",
+              "Sudden very fast heart rate with dizziness and cold sweating"
+            ]
+          }
+        },
+        {
+          "h2": "Exercise, sleep and keeping active with heart failure",
+          "paras": [
+            "Complete rest is not the right approach. Regular moderate exercise improves the heart's efficiency, reduces symptoms, and improves quality of life for people with stable heart failure. Supervised cardiac rehabilitation programmes, where available, provide structured exercise under monitoring and education about self-management. Where these are not accessible, daily walking at a pace that allows conversation without gasping is a practical and effective starting point.",
+            "Start with whatever you can currently manage without causing breathlessness or chest discomfort, and build up the duration gradually over weeks. Aim for 20 to 30 minutes most days once you are stable. Avoid very heavy exertion, prolonged standing in extreme heat, and exercise immediately after large meals. In Gulf summers, early morning or late evening walks, or indoor walking in air-conditioned spaces, are sensible alternatives to midday exercise.",
+            "Sleep position matters. Elevating the head of the bed by 15 to 20 centimetres, using extra pillows, or using an adjustable base helps prevent the nocturnal breathlessness caused by fluid redistribution when lying flat. If you wake at night feeling as though you cannot breathe and it relieves when you sit up, record this and tell your doctor at your next visit.",
+            "Regular follow-up appointments, even when you feel well, are essential. They typically include weight check, blood pressure measurement, review of symptoms, and blood tests for kidney function, sodium and potassium, all of which are closely monitored in heart failure because the medicines affect them. Dose adjustments happen gradually based on your readings, not based on how you feel."
+          ]
+        }
+      ],
+      "tie": "The Sihtak app lets you log your daily weight, symptoms, blood pressure and medication reminders in one place, giving you and your care team a clear picture of your condition between appointments.",
+      "faqs": [
+        {
+          "q": "Is heart failure permanent, or can it improve?",
+          "a": "Some causes of heart failure are reversible. Viral myocarditis, a fast heart rhythm that has been present too long, or poorly controlled high blood pressure can all cause heart failure that significantly improves or even resolves once the underlying problem is treated. When the cause is permanent damage to heart muscle, the condition is chronic but can be well managed. Ejection fraction sometimes improves substantially with treatment even in cases that initially seemed severe."
+        },
+        {
+          "q": "Why does ejection fraction matter so much?",
+          "a": "Ejection fraction determines which type of heart failure you have, and the treatment approach differs between types. The four drug classes with the strongest survival evidence apply specifically to reduced ejection fraction. Preserved ejection fraction requires a different set of strategies. Your ejection fraction can change over time with treatment, which is why repeat echocardiograms are part of follow-up."
+        },
+        {
+          "q": "How is heart failure different from a heart attack?",
+          "a": "A heart attack is an acute event caused by a sudden blockage in one of the coronary arteries, cutting off blood supply to part of the heart muscle. Heart failure is a chronic condition where the heart pumps less efficiently than the body needs. A heart attack can cause heart failure if it damages enough muscle, but heart failure has many other causes including longstanding high blood pressure, diabetes and valve disease."
+        },
+        {
+          "q": "Can I exercise if I have heart failure?",
+          "a": "Yes, and it is beneficial. Regular moderate exercise improves exercise capacity, reduces symptoms and improves quality of life. Walking is the safest starting point for most patients. Avoid exertion that causes severe breathlessness, chest pain or dizziness. Discuss your current activity level with your doctor and ask for specific guidance based on your ejection fraction and symptoms."
+        },
+        {
+          "q": "Why do I need to urinate so much after taking a water tablet?",
+          "a": "That is the intended effect. Diuretics prompt the kidneys to excrete excess sodium and water as urine, reducing the fluid load on your heart and lungs and relieving the swelling and breathlessness that come from fluid overload. The increase in urination in the hours after taking the tablet is expected and is a sign it is working."
+        },
+        {
+          "q": "Should I restrict how much I drink?",
+          "a": "Not necessarily. In mild or stable heart failure without recurrent fluid overload, specific fluid restriction is usually not needed. In more advanced disease your doctor may set a daily limit, often 1.5 to 2 litres including all fluids. The most important priority is always reducing salt, which does more to prevent fluid accumulation than restricting fluid volume alone."
+        },
+        {
+          "q": "Does heart failure always get worse over time?",
+          "a": "Not inevitably. With consistent treatment, dietary adherence and monitoring, many people maintain stable function for years. Some improve significantly. The most common trigger for deterioration is stopping medicines, ignoring rising weight for several days, or an intercurrent illness such as a chest infection. Catching and treating these triggers early is what prevents progressive decline."
+        }
+      ]
+    }
+  }
+}

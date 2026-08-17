@@ -1,0 +1,343 @@
+{
+  "slug": "g6pd-deficiency-favism",
+  "category": "genetic-conditions",
+  "chip_ar": "أمراض وراثية",
+  "chip_en": "Genetic conditions",
+  "date_iso": "2026-08-04",
+  "sources": [
+    {"label": "Luzzatto L, Ally M, Notaro R et al: Glucose-6-phosphate dehydrogenase deficiency, Blood, 2020", "url": "https://pubmed.ncbi.nlm.nih.gov/32702756/"},
+    {"label": "La Vieille S, Lefebvre DE, Khalid AF et al: Dietary restrictions for people with glucose-6-phosphate dehydrogenase deficiency, Nutrition reviews, 2019", "url": "https://pubmed.ncbi.nlm.nih.gov/30380124/"},
+    {"label": "Reading NS, Sirdah MM, Shubair ME et al: Favism, the commonest form of severe hemolytic anemia in Palestinian children, varies in severity with three different variants of G6PD deficiency within the same community, Blood cells, molecules and diseases, 2016", "url": "https://pubmed.ncbi.nlm.nih.gov/27519946/"},
+    {"label": "Luzzatto L, Seneca E: G6PD deficiency: a classic example of pharmacogenetics with on-going clinical implications, British journal of haematology, 2014", "url": "https://pubmed.ncbi.nlm.nih.gov/24372186/"},
+    {"label": "Hagag AA, Badraia IM, Elfarargy MS et al: Study of Glucose-6-Phosphate Dehydrogenase Deficiency: 5 Years Retrospective Egyptian Study, Endocrine, metabolic and immune disorders drug targets, 2018", "url": "https://pubmed.ncbi.nlm.nih.gov/28982343/"},
+    {"label": "Sirdah MM, Al-Kahlout MS, Reading NS et al: National G6PD neonatal screening program in Gaza Strip of Palestine: rationale, challenges and recommendations, Clinical genetics, 2016", "url": "https://pubmed.ncbi.nlm.nih.gov/27064064/"},
+    {"label": "Koromina M, Pandi MT, van der Spek PJ et al: The ethnogeographic variability of genetic factors underlying G6PD deficiency, Pharmacological research, 2021", "url": "https://pubmed.ncbi.nlm.nih.gov/34551338/"}
+  ],
+  "content": {
+    "ar": {
+      "title": "نقص G6PD (الفوّالة): الأطعمة والأدوية التي يجب تجنبها",
+      "desc": "دليل عملي لمن يعاني من نقص G6PD (الفوّالة): قائمة بالأطعمة والأدوية المحظورة، وكيف تتعرف على أزمة انحلال الدم وماذا تفعل.",
+      "keywords": "نقص G6PD، فوالة، نقص إنزيم G6PD، انحلال الدم، الفول وانيميا، أدوية نقص G6PD، الفوالة الأطفال، فحص G6PD",
+      "h1": "نقص G6PD (الفوّالة): الأطعمة والأدوية التي تسبب أزمة انحلال الدم",
+      "takeaways": [
+        "نقص G6PD حالة وراثية تجعل كريات الدم الحمراء هشة أمام بعض الأطعمة والأدوية والمواد الكيميائية فتنحل فجأة مسببة فقر دم حاداً.",
+        "الفول هو المحفز الغذائي الأكثر شهرة، ومن هنا جاء الاسم الشعبي الفوّالة، لكن الحلبة والكشمش والتوت الأزرق وكرات النفثالين تحمل خطراً مماثلاً.",
+        "الأدوية الأكثر خطورة هي بريموكين، داپسون، ونيتروفورانتوين، وبعض سلفا المضادات الحيوية.",
+        "معظم المصابين لا يعلمون بوجود النقص إلا بعد أزمة انحلال الدم الأولى، لهذا معرفة حالتك مسبقاً وحفظ القوائم أهم من أي علاج.",
+        "الذكور أكثر إصابة بالمرض الكامل لأن الجين يقع على الكروموسوم X، لكن الإناث يمكن أن يكنّ مريضات أيضاً."
+      ],
+      "sections": [
+        {
+          "h2": "ما هو نقص G6PD ولماذا يُسمى الفوّالة؟",
+          "paras": [
+            "G6PD اختصار لإنزيم يُدعى Glucose-6-Phosphate Dehydrogenase. هذا الإنزيم موجود داخل كريات الدم الحمراء ومهمته حماية هذه الكريات من التأكسد، أي من الأضرار التي تسببها المواد المؤكسِدة في الدم. عند نقص هذا الإنزيم تصبح كريات الدم الحمراء عُرضة للتحطم السريع حين تتعرض لعوامل مؤكسِدة معينة.",
+            "التسمية الشعبية بالفوّالة جاءت من الفول الأخضر (Fava Beans) الذي يُعدّ أبرز الأطعمة المحفزة للأزمة. الفول يحتوي على مركبات مؤكسِدة تسمى ديفيسين وإيزورمسين تشكّل ضغطاً تأكسدياً شديداً على الكريات الحمراء المعرّضة، فتتحطم في غضون ساعات إلى أيام من الأكل.",
+            "المرض وراثي يرتبط بكروموسوم X. نظراً لأن الذكور لديهم نسخة واحدة من هذا الكروموسوم، فإن وجود الجين المعيب يظهر مباشرة كمرض كامل. الإناث لديهن نسختان، لذا تحتاج الإصابة الكاملة في حالتهن وجود نسختين معيبتين، وهذا يجعل الإناث أكثر احتمالاً لحمل الصفة دون المرض الكامل، لكن بعضهن يُصبن بمرض فعلي.",
+            "مراجعة علمية نشرت في مجلة Pharmacological Research عام 2021 وثّقت التفاوت الكبير في معدلات الانتشار حول العالم، مع ارتفاع ملحوظ في مناطق حوض البحر الأبيض المتوسط وأفريقيا جنوب الصحراء وشبه الجزيرة العربية والهلال الخصيب. في غزة، درسَ باحثون فلسطينيون انتشار المرض ووجدوا أن نقص G6PD هو السبب الأكثر شيوعاً لفقر الدم الانحلالي الحاد عند الأطفال."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "أعراض أزمة انحلال الدم: توجّه للطوارئ فوراً إذا",
+            "items": [
+              "البول اصبح داكناً أو بني اللون (هيموغلوبين في البول)",
+              "اصفرار مفاجئ في الجلد أو بياض العينين (يرقان حاد)",
+              "شحوب شديد مع دوخة أو إغماء أو ضيق في التنفس",
+              "ألم في الظهر أو البطن مع تطور سريع بعد أكل الفول أو تناول دواء جديد",
+              "الأعراض عند رضيع أو طفل صغير تستدعي توجهاً فورياً"
+            ]
+          }
+        },
+        {
+          "h2": "كم هو شائع في المنطقة العربية؟",
+          "paras": [
+            "نقص G6PD من أكثر الاضطرابات الإنزيمية انتشاراً في العالم، ويُقدّر عدد المصابين عالمياً بأكثر من 400 مليون شخص. في المنطقة العربية يتركز انتشاره بشكل خاص في حوض المتوسط ودول الهلال الخصيب والجزيرة العربية وشمال أفريقيا. يعني هذا أن احتمال وجود الحالة عند شخص يُراجع طبيباً في المنطقة أعلى بكثير من المتوسط العالمي.",
+            "دراسة مصرية نُشرت في مجلة Endocrine, Metabolic and Immune Disorders Drug Targets عام 2018 وتابعت حالات نقص G6PD على مدى خمس سنوات، أظهرت أن نسبة ملموسة من حالات فقر الدم الحاد التي تُعالَج في المستشفيات المصرية مرتبطة بهذا النقص، مع تركز في المجموعات التي لها تاريخ من الزيجات المتقاربة. كثير من هذه الحالات كانت أول توصّل لتشخيص النقص عند المريض.",
+            "انتشار المرض في مناطق الملاريا التاريخية كالمنطقة العربية ليس مصادفة. مثلما في مرض الخلايا المنجلية، نقص G6PD يوفر حماية نسبية من الملاريا الحادة، مما أعطى الجين المعيب ميزة تطورية وجعله ينتشر في هذه المناطق عبر آلاف السنوات. هذا التفسير التطوري هو أحد أبرز أمثلة علم الجينات السكانية في الطب."
+          ]
+        },
+        {
+          "h2": "الأطعمة التي يجب تجنبها تجنباً تاماً",
+          "paras": [
+            "الفول الأخضر والجاف هو المحفز الغذائي الأخطر، بغض النظر عن طريقة الطهي. مراجعة علمية نشرتها مجلة Nutrition Reviews عام 2019 حللت الأدلة المتوفرة وأكدت أن طهي الفول لا يُزيل المركبات المؤكسِدة الضارة بشكل كامل، لذا لا توجد كمية آمنة منه لشخص مصاب بنقص G6PD شديد. الفول في صورة مدمّس أو بسلة أو مصحوبة بالزيت أو مطبوخاً مع البيض كلها خطرة بالتساوي.",
+            "الحلبة (Fenugreek) مُدرجة في قوائم التحذير للعديد من التوجيهات الطبية. في المطبخ العربي والمصري خاصة تُستخدم الحلبة في الخبز والأطباق الدافئة وكشاي. المصابون بنقص G6PD الشديد يجب أن يتجنبوها. الكشمش الأسود والتوت الأزرق وبعض أنواع التوت الأخرى تحمل أيضاً مركبات مؤكسِدة توجب الحذر.",
+            "ثمة خلاف علمي حول بعض الأطعمة كالفول السوداني والبقوليات الأخرى. المراجعة ذاتها في Nutrition Reviews خلصت إلى أن الأدلة ليست قوية بما يكفي لحظر هذه الأطعمة عموماً، لكن بعض الأطباء يفضلون الحذر مع المرضى الذين يملكون نقصاً شديداً. الأفضل مناقشة قائمة طعامك مع طبيب يعرف درجة نقصك تحديداً."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "قائمة ما يجب تجنبه في نقص G6PD",
+            "head": ["المادة", "تصنيف الخطر", "ملاحظة"],
+            "rows": [
+              ["الفول الأخضر والجاف (فافا)", "خطر عالٍ - تجنب تاماً", "الطهي لا يُزيل الخطر"],
+              ["الحلبة", "خطر عالٍ في النقص الشديد", "موجودة في خبز الحلبة والشاي"],
+              ["كرات النفثالين (مطرود الحشرات)", "خطر عالٍ - تجنب التعرض", "لا للملابس ولا للبيئة المغلقة"],
+              ["الكشمش الأسود والتوت الأزرق", "تحذير - اعتدال أو تجنب", "وفق درجة النقص"],
+              ["حبوب اللقاح (بعض المكملات)", "تحذير محتمل", "استشر طبيبك قبل الاستخدام"]
+            ]
+          }
+        },
+        {
+          "h2": "الأدوية التي تسبب أزمة انحلال الدم",
+          "paras": [
+            "بريموكين (Primaquine) وتافينوكين (Tafenoquine) وهما دواءان يُستخدمان في علاج الملاريا الناتجة عن Plasmodium vivax، من أخطر الأدوية على مرضى نقص G6PD. التعرض لهما يمكن أن يسبب انحلالاً حاداً مهدداً للحياة. قبل وصف هذين الدواءين يجب الفحص عن نقص G6PD.",
+            "داپسون (Dapsone) المستخدم في علاج الجذام وبعض حالات الأمراض الجلدية وكعلاج وقائي ضد الالتهاب الرئوي بالمتكيسات، وكذلك نيتروفورانتوين (Nitrofurantoin) الذي يُصرف أحياناً لعدوى المسالك البولية، كلاهما يحمل خطراً مرتفعاً. بعض الأدوية السلفا (Sulfa drugs) والأسبرين بجرعات عالية أيضاً في القائمة.",
+            "مراجعة علمية نشرتها مجلة British Journal of Haematology عام 2014 للعلماء لوتسatto وseneca وصفت نقص G6PD بأنه المثال الكلاسيكي على علم الدوائيات الجيني (Pharmacogenetics)، إذ يتوقف خطر الدواء كلياً على التركيب الجيني للمريض. الرسالة العملية هي أن كل طبيب يعالجك يجب أن يعلم بوجود النقص."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "الأدوية الأعلى خطورة في نقص G6PD",
+            "head": ["الدواء", "الاستخدام الشائع", "مستوى الخطر"],
+            "rows": [
+              ["Primaquine بريموكين", "علاج الملاريا vivax", "عالٍ جداً - لا تأخذه بدون فحص G6PD"],
+              ["Tafenoquine تافينوكين", "علاج ووقاية الملاريا", "عالٍ جداً"],
+              ["Dapsone داپسون", "الجذام وأمراض جلدية", "عالٍ"],
+              ["Nitrofurantoin نيتروفورانتوين", "عدوى المسالك البولية", "عالٍ - يوجد بديل أكثر أماناً"],
+              ["Rasburicase راسبيوريكاز", "علاج متلازمة انحلال الورم", "عالٍ جداً"],
+              ["Sulphonamides (السلفا)", "مضادات حيوية متعددة الاستخدامات", "عالٍ في النقص الشديد"]
+            ]
+          }
+        },
+        {
+          "h2": "المواد الكيميائية والبيئية التي تسبب الأزمة",
+          "paras": [
+            "كرات النفثالين (Naphthalene) المستخدمة كطارد للحشرات في الخزائن والملابس المخزنة واحدة من أخطر المحفزات البيئية. تنبعث منها أبخرة تصل عبر الاستنشاق أو حتى عبر الجلد. في الأسر التي تضع هذه الكرات في الخزائن طوال العام، قد يتعرض المصاب بنقص G6PD لجرعات مستمرة من المادة المؤكسِدة دون أن يدرك. البديل البسيط هو صناديق الأرز أو أكياس اللافندر أو بخاخات الزعتر الطبيعية.",
+            "الخضاب الحنّاء (Henna) موضوع خلاف. الحناء النقية الطبيعية تُعتبر بشكل عام آمنة نسبياً، لكن كثيراً من المنتجات المسوَّقة باسم الحناء تحتوي على مادة Para-phenylenediamine أو مواد مضافة أخرى مؤكسِدة. الحناء السوداء خاصةً محل تحذير واضح وموثّق في التقارير الطبية كمحفز لأزمة انحلال الدم. إذا كنت تريد استخدام الحناء فاختر المنتجات التي تضمن نقاءها واستشر طبيبك.",
+            "العدوى البكتيرية والفيروسية نفسها يمكن أن تُحفز أزمة انحلال الدم عند مريض نقص G6PD، بمعزل عن أي دواء أو طعام. الالتهاب يزيد الضغط التأكسدي في الجسم، مما يُضعف كريات الدم الحمراء الهشة أصلاً. لذا أي مرض حموي عند شخص معروف بنقص G6PD يستحق متابعة دقيقة للأعراض.",
+            "الرياضة المعتدلة والمجهود البدني الطبيعي لا تُسبب عادةً أزمة. النقص لا يعني تقييد الحياة أو المنع من الرياضة. القيد الحقيقي محدود: الأطعمة والأدوية والمواد الكيميائية المعروفة بقدرتها على إحداث ضغط تأكسدي مرتفع. ما عدا ذلك، الحياة الطبيعية الكاملة ممكنة ومسموحة."
+          ]
+        },
+        {
+          "h2": "ما الذي يحدث خلال أزمة انحلال الدم؟",
+          "paras": [
+            "الأزمة تبدأ عادة في غضون 24 إلى 72 ساعة من التعرض للمحفز. كريات الدم الحمراء التي تفتقر إلى حماية G6PD تتأكسد وتتحطم في عملية تُسمى الانحلال الدموي (Hemolysis)، ويُطلَق الهيموغلوبين الداخلي منها في مجرى الدم. الكلى تحاول التخلص من هذا الهيموغلوبين الحر، فيظهر البول داكناً أو بنياً أو حتى كالقهوة وهذه هي العلامة الأبرز التي يجب أن تُنبّه فوراً.",
+            "في الوقت ذاته ينخفض مستوى الهيموغلوبين في الدم بسرعة ويتسبب في أعراض فقر الدم الحاد: شحوب، دوار، ضيق في التنفس، وسرعة في نبض القلب. في الحالات الشديدة يمكن أن يتطور الأمر لفشل كلوي حاد إذا لم يُعالَج. الإسعاف الفوري الذي يشمل في الغالب سوائل وريدية وأحياناً نقل دم ضروري في الحالات الشديدة. الوقاية بتجنب المحفزات أهل ألف مرة من علاج الأزمة بعد وقوعها.",
+            "الخبر الجيد أن معظم أزمات نقص G6PD محدودة ذاتياً. بمجرد إيقاف المحفز، يبدأ نخاع العظم بإنتاج كريات حمراء جديدة وصحيحة وتتعافى قيم الدم خلال أسبوعين إلى أربعة أسابيع في الغالب. الأزمة عند الرضع أخطر لأن حجم الدم أصغر والتدهور أسرع.",
+            "الأزمة لا تكون دائماً حادة بنفس الدرجة. تتفاوت درجات نقص G6PD من خفيفة إلى شديدة، والأشخاص ذوو النقص الخفيف قد يتحملون كميات صغيرة من المحفز دون أزمة واضحة، لكن هذا لا يعني أمانهم الكامل. النقص الشديد يُفضي عادةً لأزمات أسرع وأشد خطورة عند التعرض لنفس الكمية."
+          ]
+        },
+        {
+          "h2": "كيف تعيش بشكل طبيعي مع نقص G6PD؟",
+          "paras": [
+            "معظم مرضى نقص G6PD يعيشون حياة طبيعية تماماً إذا تجنبوا المحفزات المعروفة. الفحص الدوري ليس ضرورياً دائماً إلا إذا وُجد سبب للقلق. المفتاح هو الوعي: معرفة حالتك وإبلاغ كل طبيب أو صيدلاني يصف لك دواءً. هذه المعلومة البسيطة تمنع معظم الأزمات.",
+            "من العادات العملية المفيدة حمل بطاقة صغيرة أو ملاحظة في هاتفك تذكر أنك مصاب بنقص G6PD وتدرج الأدوية الخطرة الرئيسية. هذا يُسهّل الأمر في الطوارئ أو عند طبيب لا يعرفك. أيضاً تجنب الملابس أو الخزائن التي تحتوي على كرات النفثالين حتى لو لم تلمسها مباشرة، لأن بخار النفثالين كافٍ للإضرار.",
+            "في موسم الفول، خاصة في مصر وبلاد الشام، قد يواجه الأطفال المصابون ضغطاً اجتماعياً لأكل ما يأكله غيرهم. من الجيد أن يعرف الأسرة والمعلمون والمحيطون بالطفل أسباب هذا التجنب ليحموه من الضغط الاجتماعي وليقوا أنفسهم من المسؤولية في حال تقديم الطعام الخطأ.",
+            "من المهم أيضاً التحقق من مكونات أي دواء شعبي أو مكمل غذائي أو عشبة قبل تناولها. بعض الزيوت العطرية والمستخلصات العشبية تحتوي على مركبات مؤكسِدة. عدم تناول أي شيء جديد دون مراجعة قائمة المكونات مع الصيدلاني أو الطبيب خطوة وقائية بسيطة تُجنّب كثيراً من المشكلات."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "خطوات عملية لمن تم تشخيصه بنقص G6PD",
+            "items": [
+              "احفظ قائمة الأطعمة الخطرة وابلّغ من يطبخون لك",
+              "أبلغ كل طبيب وصيدلاني بوجود النقص قبل أخذ أي دواء جديد",
+              "تخلص من كرات النفثالين في منزلك واستبدلها بطارد حشرات آمن",
+              "تحقق من ملصقات الحناء قبل استخدامها وابتعد عن الحناء السوداء",
+              "عند أي بول داكن أو شحوب مفاجئ توجه للطوارئ فوراً",
+              "أبلغ أفراد أسرتك بالحالة لأنها وراثية وقد تكون موجودة عند غيرك"
+            ]
+          }
+        },
+        {
+          "h2": "نقص G6PD عند الرضع وحديثي الولادة",
+          "paras": [
+            "الرضع المصابون بنقص G6PD معرضون لخطر خاص هو اليرقان الشديد (Neonatal Jaundice) في الأسابيع الأولى من الحياة. كريات الدم الحمراء الهشة تنحل بشكل أعلى من الطبيعي، ويرتفع الببيليروبين في الدم إلى مستويات قد تضر بالدماغ إذا لم تُعالَج بالعلاج الضوئي (Phototherapy) في الوقت المناسب.",
+            "كثير من برامج فحص حديثي الولادة في المنطقة العربية تشمل الآن فحص G6PD ضمن اختبار الكعب الذي يُجرى في اليوم الثاني أو الثالث. فحص غزة لفحص المواليد الموثّق في مجلة Clinical Genetics عام 2016 أوصى بتوسيع الفحص لاعتباره برنامجاً وطنياً شاملاً نظراً للانتشار العالي.",
+            "الأمهات اللواتي يُرضعن أطفالاً مصابين بنقص G6PD يجب أن يتجنبن الأطعمة والأدوية الخطرة هن أيضاً، لأن المركبات المؤكسِدة يمكن أن تنتقل عبر لبن الأم وتُحفز أزمة عند الرضيع."
+          ]
+        }
+      ],
+      "tie": "إذا عُرف لديك أو لدى أحد أطفالك نقص G6PD، يمكنك استخدام تطبيق صحتك لتسجيل الأدوية المستخدمة والمواقف التي سبقت أي أزمة سابقة، مما يساعد طبيبك على فهم نمط حالتك بدقة أكبر.",
+      "faqs": [
+        {
+          "q": "هل نقص G6PD يُشفى منه؟",
+          "a": "لا، نقص G6PD حالة مدى الحياة. لا يوجد علاج يُصحّح الجين المعيب حتى الآن. لكن غياب العلاج لا يعني صعوبة الحياة به، إذ يعيش الغالبية حياة طبيعية تماماً بمجرد معرفة المحفزات وتجنبها."
+        },
+        {
+          "q": "هل الإناث محصّنات من نقص G6PD؟",
+          "a": "لا، لكن احتمال إصابتهن أقل لأن الجين مرتبط بكروموسوم X ولديهن نسختان. الإناث اللواتي يمتلكن نسختين معيبتين يصبن بالمرض الكامل. كذلك بعض الإناث اللواتي يمتلكن نسخة واحدة معيبة قد تظهر لديهن أعراض خفيفة إلى متوسطة."
+        },
+        {
+          "q": "هل الباراسيتامول (أسيتامينوفين) آمن في نقص G6PD؟",
+          "a": "نعم، الباراسيتامول بالجرعات الاعتيادية يُعتبر آمناً لمرضى نقص G6PD ويُفضَّل عادةً كبديل للأسبرين الذي يُعطى بجرعات عالية. مع ذلك دائماً أبلغ طبيبك بحالتك قبل أي دواء."
+        },
+        {
+          "q": "هل يمكن لمريض نقص G6PD أكل العدس والحمص والفاصوليا؟",
+          "a": "هذه البقوليات بشكل عام ليست في قائمة المحظورات الصارمة كالفول، والأدلة العلمية على خطورتها أضعف. تختلف درجات نقص G6PD في الشدة، وما هو آمن لمريض ذو نقص خفيف قد يكون مقلقاً لآخر بنقص شديد. الحل هو مناقشة القائمة مع طبيبك."
+        },
+        {
+          "q": "هل نقص G6PD يؤثر على النساء الحوامل أو الجنين؟",
+          "a": "الأم المصابة بنقص G6PD يجب أن تتجنب الأطعمة والأدوية الخطرة خلال الحمل والرضاعة. إذا كان الجنين مصاباً بنقص G6PD قد يعاني من يرقان حديثي الولادة. الفحص بعد الولادة يتيح اكتشاف ذلك والتدخل بسرعة."
+        },
+        {
+          "q": "هل أحتاج فحص G6PD قبل سفر مناطق الملاريا؟",
+          "a": "نعم، هذا مهم جداً لأن بعض أدوية الوقاية من الملاريا كالبريموكين والتافينوكين خطيرة جداً على مرضى نقص G6PD. الطبيب المسافر يحتاج معرفة حالتك ليختار الدواء الوقائي المناسب."
+        },
+        {
+          "q": "كيف يتم تشخيص نقص G6PD؟",
+          "a": "بتحليل دم بسيط يقيس نشاط إنزيم G6PD في كريات الدم الحمراء. من المهم عدم إجراء الفحص خلال أو مباشرة بعد أزمة انحلال الدم، لأن الكريات القديمة الهشة قد تكون انحلّت وبقيت الشابة، مما يُعطي قراءة أعلى من الحقيقية ويُفوّت التشخيص. أنسب وقت للفحص بعد أسبوعين إلى أربعة أسابيع من استقرار الحالة."
+        }
+      ]
+    },
+    "en": {
+      "title": "G6PD deficiency (favism): the foods and drugs to avoid",
+      "desc": "A practical guide to G6PD deficiency: the avoid list covering fava beans, naphthalene and risky drugs, and how to recognise a haemolytic crisis before it becomes an emergency.",
+      "keywords": "G6PD deficiency, favism, fava beans G6PD, G6PD drugs to avoid, haemolytic anaemia G6PD, G6PD Middle East, glucose-6-phosphate dehydrogenase, G6PD crisis",
+      "h1": "G6PD deficiency (favism): the foods, drugs and chemicals that trigger a crisis",
+      "takeaways": [
+        "G6PD deficiency is a genetic condition that makes red blood cells fragile against certain foods, drugs and chemicals, which can destroy them rapidly and cause acute anaemia.",
+        "Fava beans are the most well-known food trigger, which is why the condition is popularly called favism, but fenugreek, some berries and naphthalene mothballs carry similar risk.",
+        "The most dangerous drugs include primaquine, dapsone and nitrofurantoin, and some sulphonamide antibiotics.",
+        "Most people only discover they have G6PD deficiency after their first haemolytic crisis, which makes knowing your status and memorising the avoid list more valuable than any treatment.",
+        "Males are more commonly fully affected because the gene sits on the X chromosome, but females can have the full disease too."
+      ],
+      "sections": [
+        {
+          "h2": "What is G6PD deficiency and why is it called favism?",
+          "paras": [
+            "G6PD stands for Glucose-6-Phosphate Dehydrogenase, an enzyme that protects red blood cells from oxidative damage. When this enzyme is deficient, red blood cells become vulnerable to rapid destruction by oxidising agents. The destruction is called haemolysis and the resulting drop in haemoglobin is haemolytic anaemia.",
+            "The popular name favism comes from fava beans (Vicia faba), the food most strongly associated with triggering a crisis. Fava beans contain compounds called divicine and isouramil that generate intense oxidative stress in susceptible red blood cells, causing them to break down within hours to days of eating.",
+            "The condition is inherited in an X-linked pattern. Because males have only one X chromosome, a single defective copy produces the full disease. Females have two X chromosomes, so full disease requires two defective copies, making females more likely to be carriers with partial enzyme activity. However, some females do develop meaningful disease.",
+            "A 2021 review in Pharmacological Research documented striking regional variation in G6PD deficiency rates worldwide, with high frequencies across the Mediterranean basin, sub-Saharan Africa, the Arabian Peninsula and the Fertile Crescent. In Gaza, Palestinian researchers found G6PD deficiency to be the single most common cause of severe haemolytic anaemia in children, consistent with what is seen elsewhere in the Arab world."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "Signs of a haemolytic crisis: go to the emergency department immediately if",
+            "items": [
+              "Urine turns dark brown or the colour of cola (haemoglobin in the urine)",
+              "Sudden yellowing of the skin or whites of the eyes (acute jaundice)",
+              "Severe pallor with dizziness, fainting or shortness of breath",
+              "Back or abdominal pain developing rapidly after eating fava beans or starting a new medicine",
+              "Any of these symptoms in an infant or young child"
+            ]
+          }
+        },
+        {
+          "h2": "How common is it in the Arab region?",
+          "paras": [
+            "G6PD deficiency is one of the most common enzyme disorders in the world, affecting an estimated 400 million people. In the Arab region it is particularly concentrated in Mediterranean populations, the Levant, the Arabian Peninsula and North Africa.",
+            "A five-year retrospective Egyptian study published in Endocrine, Metabolic and Immune Disorders Drug Targets in 2018 found that a significant proportion of acute haemolytic anaemia cases admitted to Egyptian hospitals were G6PD related, with a concentration in communities with higher rates of consanguineous marriage.",
+            "The concentration of this condition in historically malaria-endemic regions is not coincidental. Like the sickle cell trait, G6PD deficiency offers partial protection against severe falciparum malaria, giving the defective gene an evolutionary advantage that caused it to spread and persist in these populations across thousands of years. This evolutionary explanation is one of the clearest examples of population genetics in medicine, and it explains why the condition is so remarkably common in the Arab world today."
+          ]
+        },
+        {
+          "h2": "Foods to avoid entirely",
+          "paras": [
+            "Fava beans in any form are the highest-risk food. A 2019 review in Nutrition Reviews analysed the available evidence and confirmed that cooking does not reliably remove the oxidising compounds in fava beans. There is no safe quantity for someone with severe G6PD deficiency. Ful medames, fresh broad beans, split fava bean dips and beans cooked with rice or eggs are all equally risky.",
+            "Fenugreek (Helba) appears on warning lists in several clinical guidelines. In Egyptian and Levantine cooking it features in bread, stews and herbal teas. People with severe G6PD deficiency should avoid it. Black and blue currants and certain other berry varieties contain oxidising compounds that warrant caution, though the evidence is less definitive than for fava beans.",
+            "The evidence is less conclusive for other legumes such as peanuts, lentils and chickpeas. The same Nutrition Reviews analysis concluded that current data are not strong enough to prohibit these foods generally, but individual patients with severe enzyme deficiency may be advised more conservatively. The right approach is to discuss your specific diet with a doctor who knows your exact enzyme level."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Avoid list for G6PD deficiency",
+            "head": ["Substance", "Risk level", "Notes"],
+            "rows": [
+              ["Fava beans (broad beans)", "High risk: avoid completely", "Cooking does not remove the danger"],
+              ["Fenugreek (Helba)", "High risk in severe deficiency", "Common in Arab breads and herbal teas"],
+              ["Naphthalene mothballs", "High risk: avoid any exposure", "Fumes absorbed through skin and breathing"],
+              ["Black currants and blueberries", "Caution: moderation or avoidance", "Depends on severity of deficiency"],
+              ["Black henna products", "Caution: chemical additives", "Pure henna is less concerning; check labels"]
+            ]
+          }
+        },
+        {
+          "h2": "Drugs that trigger a haemolytic crisis",
+          "paras": [
+            "Primaquine and tafenoquine, used to treat and prevent relapsing malaria caused by Plasmodium vivax, are among the most dangerous drugs for people with G6PD deficiency. Exposure can cause life-threatening haemolysis. G6PD testing before prescribing these drugs is mandatory in international treatment guidelines.",
+            "Dapsone, used in leprosy treatment, some skin conditions and as prophylaxis against Pneumocystis pneumonia, and nitrofurantoin, sometimes prescribed for urinary tract infections, carry high risk. Some sulphonamide antibiotics and aspirin at high doses also belong on the list. Before any new prescription, tell your doctor and pharmacist that you have G6PD deficiency.",
+            "A landmark 2014 review in the British Journal of Haematology by Luzzatto and Seneca described G6PD deficiency as the classic example of pharmacogenetics, where drug safety depends entirely on the patient's genetic makeup. The practical implication is that every prescriber who treats you needs to know about this condition."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "High-risk drugs in G6PD deficiency",
+            "head": ["Drug", "Common use", "Risk level"],
+            "rows": [
+              ["Primaquine", "Malaria treatment (vivax)", "Very high: G6PD test required first"],
+              ["Tafenoquine", "Malaria treatment and prevention", "Very high"],
+              ["Dapsone", "Leprosy, skin conditions", "High"],
+              ["Nitrofurantoin", "Urinary tract infection", "High: safer alternatives exist"],
+              ["Rasburicase", "Tumour lysis syndrome", "Very high"],
+              ["Sulphonamides", "Various infections", "High in severe deficiency"]
+            ]
+          }
+        },
+        {
+          "h2": "Environmental and chemical triggers",
+          "paras": [
+            "Naphthalene mothballs are one of the most dangerous environmental triggers. The chemical releases vapours that are absorbed through breathing and even through the skin. In households where mothballs are placed in wardrobes year-round, a person with G6PD deficiency may be exposed to a continuous low-level oxidative stress without realising it.",
+            "Henna is a topic of some debate. Pure natural henna is generally considered relatively safe, but many products sold as henna contain Para-phenylenediamine or other chemical additives that are strongly oxidising. Black henna in particular carries a clear warning. If you use henna, choose products that guarantee purity and check with your doctor.",
+            "Bacterial and viral infections themselves can trigger a haemolytic crisis in someone with G6PD deficiency, independent of any food or drug. Inflammation increases oxidative stress throughout the body, destabilising red blood cells that are already fragile. Any febrile illness in a person with known G6PD deficiency therefore warrants close monitoring of symptoms."
+          ]
+        },
+        {
+          "h2": "What happens during a haemolytic crisis?",
+          "paras": [
+            "A crisis typically begins within 24 to 72 hours of exposure to the trigger. The G6PD-deficient red cells, lacking their protective enzyme, are oxidised and destroyed in a process called haemolysis. Their internal haemoglobin is released into the bloodstream and the kidneys attempt to clear it, turning the urine dark brown or cola-coloured. This dark urine is the most distinctive warning sign and the one that should prompt immediate action.",
+            "At the same time, the haemoglobin level in the blood drops rapidly, producing symptoms of acute anaemia: pallor, dizziness, shortness of breath and a racing heart. In severe cases acute kidney injury can develop if the haemoglobin load overwhelms the kidneys. Hospital treatment including intravenous fluids and sometimes blood transfusion is required in serious crises. Prevention by avoiding triggers is always preferable to treating a crisis that has already started.",
+            "The good news is that most G6PD crises are self-limiting. Once the trigger is removed, the bone marrow produces new, healthy red cells and blood values recover in two to four weeks in most cases. Crises in newborns and infants are more dangerous because blood volume is smaller and deterioration is faster.",
+            "The severity of crises also varies with the degree of enzyme deficiency. People with mild deficiency may tolerate small quantities of a trigger without a noticeable crisis, while those with severe deficiency can develop significant haemolysis from a much smaller exposure. Knowing your specific enzyme level helps calibrate how strictly you need to apply the avoid list."
+          ]
+        },
+        {
+          "h2": "Living a normal life with G6PD deficiency",
+          "paras": [
+            "The great majority of people with G6PD deficiency live entirely normal lives once they know their triggers. Routine blood tests are not necessary unless there is a reason for concern. The key is awareness: knowing your status and telling every prescriber and pharmacist before any new medication is issued. This single step prevents most crises.",
+            "Practical habits that help include keeping a brief note on your phone or a card in your wallet stating that you have G6PD deficiency and listing the main drugs to avoid. This makes a real difference in emergency situations where speed matters and medical staff may not know your history. Replacing naphthalene mothballs with cedar blocks, lavender sachets or other chemical-free options is a simple household change worth making immediately.",
+            "In fava bean season, particularly in Egypt, Syria and the Levant, children with G6PD deficiency may face social pressure to eat what everyone else is eating. It helps if teachers, carers and family members understand why the child avoids fava beans, so the child is not pressured and those preparing food take appropriate care.",
+            "Always check the ingredients list of any herbal remedy, food supplement or over-the-counter product before using it. Some essential oils and herbal extracts contain oxidising compounds. Asking a pharmacist to check unfamiliar products against the G6PD drug list is a simple precaution that takes seconds and can prevent a crisis."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "Practical steps after a G6PD diagnosis",
+            "items": [
+              "Learn the food avoid list and tell everyone who cooks for you",
+              "Tell every doctor and pharmacist about G6PD deficiency before any new prescription",
+              "Remove naphthalene mothballs from your home and replace with safe alternatives",
+              "Check henna product labels before use and avoid black henna",
+              "If urine turns dark or you develop sudden pallor, go to the emergency department immediately",
+              "Tell close family members because G6PD deficiency is inherited and others may be affected"
+            ]
+          }
+        },
+        {
+          "h2": "G6PD deficiency in newborns and infants",
+          "paras": [
+            "Newborns with G6PD deficiency are at particular risk of severe neonatal jaundice in the first days of life. Their fragile red cells break down at a higher rate than normal, raising bilirubin to levels that can cause permanent brain damage if not treated promptly with phototherapy. This is why prompt recognition of significant neonatal jaundice in any baby requires checking whether G6PD deficiency is present.",
+            "Newborn screening programmes in several Arab countries now include G6PD testing alongside the routine heel prick test performed on the second or third day of life. Research in Gaza published in Clinical Genetics in 2016 recommended establishing a national newborn G6PD screening programme given the high local prevalence, and similar recommendations have been made in Egypt and parts of the Gulf.",
+            "Breastfeeding mothers of infants with G6PD deficiency need to be aware that oxidising compounds from foods they eat can pass into breast milk and trigger a crisis in the baby. Avoiding fava beans and other high-risk foods during breastfeeding is therefore important when the infant has confirmed G6PD deficiency. The midwife or paediatrician can advise on specific dietary modifications needed during the breastfeeding period."
+          ]
+        }
+      ],
+      "tie": "If you or one of your children has been diagnosed with G6PD deficiency, Sihtak lets you record medications, foods eaten before any crisis episode and the symptoms that followed, building a clear picture that helps your doctor manage your care more precisely.",
+      "faqs": [
+        {
+          "q": "Can G6PD deficiency be cured?",
+          "a": "No, G6PD deficiency is a lifelong condition. There is currently no treatment that corrects the underlying gene defect. However, the absence of a cure does not mean a difficult life. The vast majority of people with G6PD deficiency live entirely normally once they know and avoid their triggers."
+        },
+        {
+          "q": "Are females protected from G6PD deficiency?",
+          "a": "Not entirely. Females are less commonly fully affected because they carry two X chromosomes, so a defective copy on one is partially compensated by the normal copy on the other. However, females with two defective copies develop full disease, and some with one defective copy can have partial deficiency with real clinical symptoms."
+        },
+        {
+          "q": "Is paracetamol safe in G6PD deficiency?",
+          "a": "Yes, paracetamol at standard doses is considered safe for people with G6PD deficiency and is generally preferred over aspirin, which can be risky at higher doses. Always inform your doctor of your G6PD status before any new medication regardless."
+        },
+        {
+          "q": "Can someone with G6PD deficiency eat lentils, chickpeas and peas?",
+          "a": "These legumes are generally not on the strict prohibited list the way fava beans are, and the scientific evidence for avoiding them is much weaker. Whether they cause problems depends partly on the severity of the individual's enzyme deficiency. Discuss your specific diet with a doctor who knows your enzyme level."
+        },
+        {
+          "q": "Does G6PD deficiency affect pregnancy?",
+          "a": "A pregnant woman with G6PD deficiency should avoid the usual trigger foods and drugs. If the fetus inherits G6PD deficiency, the baby may develop neonatal jaundice requiring phototherapy. Newborn screening identifies this quickly and treatment is straightforward when given promptly."
+        },
+        {
+          "q": "Do I need G6PD testing before travelling to malaria areas?",
+          "a": "Yes, this is important because some malaria prevention drugs, particularly primaquine and tafenoquine, are very dangerous in G6PD deficiency. A travel medicine doctor needs to know your status to choose a safe antimalarial drug for prophylaxis or treatment."
+        },
+        {
+          "q": "When is the right time to test for G6PD?",
+          "a": "The best time to test is at least two to four weeks after any haemolytic crisis has resolved. During or immediately after a crisis, the most fragile cells have already been destroyed, leaving behind only the newer, less deficient cells, which can give a falsely normal enzyme reading and miss the diagnosis."
+        }
+      ]
+    }
+  }
+}

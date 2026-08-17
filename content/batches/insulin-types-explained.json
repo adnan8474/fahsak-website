@@ -1,0 +1,331 @@
+{
+  "slug": "insulin-types-explained",
+  "category": "medicines",
+  "chip_ar": "الأدوية",
+  "chip_en": "Medicines",
+  "date_iso": "2026-07-22",
+  "sources": [
+    {
+      "label": "Frid AH, Kreugel G, Grassi G et al: New Insulin Delivery Recommendations, Mayo Clinic proceedings, 2016",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27594187/"
+    },
+    {
+      "label": "Kaufmann B, Boulle P, Berthou F et al: Heat-stability study of various insulin types in tropical temperature conditions: New insights towards improving diabetes care, PloS one, 2021",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33534816/"
+    },
+    {
+      "label": "Murao S, Murao K, Nagata T et al: Repeated insulin injection without site rotation affects skin thickness - ultrasonographic and histological evaluation, Journal of diabetes investigation, 2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35060349/"
+    },
+    {
+      "label": "Umpierrez G, Korytkowski M: Diabetic emergencies - ketoacidosis, hyperglycaemic hyperosmolar state and hypoglycaemia, Nature reviews. Endocrinology, 2016",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26893262/"
+    },
+    {
+      "label": "Bochanen N, Decochez K, Heleu E et al: Lipohypertrophy Monitoring Study (LIMO): Effect of single use of 4 mm pen needles combined with education on injection site rotation on glycaemic control, Diabetic medicine, 2022",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34407260/"
+    },
+    {
+      "label": "Jacobsen LM, Schatz DA: Type 1 Diabetes: A Review, JAMA, 2026",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41697686/"
+    },
+    {
+      "label": "Gill G, Price C, English P et al: Traditional clay pots as storage containers for insulin in hot climates, Tropical doctor, 2002",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12405311/"
+    }
+  ],
+  "content": {
+    "ar": {
+      "title": "أنواع الأنسولين: السريع والطويل الأمد والمخلوط",
+      "desc": "دليل عملي لأنواع الأنسولين: بداية المفعول وذروته ومدته، تقنية الحقن وتبديل المواضع، الوقاية من انخفاض السكر، وكيف تحفظ الأنسولين في حر الصيف.",
+      "keywords": "أنواع الأنسولين, الأنسولين السريع, الأنسولين طويل الأمد, انخفاض السكر, حقن الأنسولين, تخزين الأنسولين, تبديل مواضع الحقن, السكري والأنسولين, الأنسولين المخلوط, insulin",
+      "h1": "أنواع الأنسولين: كل ما تحتاج معرفته عن السريع والطويل والمخلوط",
+      "takeaways": [
+        "الأنسولين السريع يعمل خلال دقائق ويُؤخذ قرب وقت الأكل، بينما الطويل يعمل طوال اليوم ويُؤخذ مرة أو مرتين.",
+        "حقن الأنسولين دائما في نفس المنطقة الصغيرة يسبب تضخم الأنسجة مما يجعل امتصاصه غير منتظم.",
+        "أعراض انخفاض السكر الشديدة تستدعي تصرفا فوريا ولا تنتظر.",
+        "الأنسولين المفتوح يتحمل درجة حرارة الغرفة لمدة 28 يوما عادة، لكن الحرارة الشديدة كحر الصيف العربي تفسده بشكل أسرع.",
+        "لا تعدل جرعتك بنفسك بناء على قراءة واحدة للسكر، أخبر طبيبك بأي نمط يتكرر."
+      ],
+      "sections": [
+        {
+          "h2": "لماذا توجد أنواع مختلفة من الأنسولين؟",
+          "paras": [
+            "الجسم السليم يفرز الأنسولين (Insulin) بطريقتين مختلفتين: مستوى أساسي ثابت طوال اليوم يمنع ارتفاع السكر في حالة الصيام بين الوجبات، وموجة حادة سريعة عند تناول الطعام تكافح ارتفاع السكر بعد الوجبة. الشخص المصاب بالسكري من النوع الأول فقد هذين النمطين معا، أما في النوع الثاني فقد يحتاج إلى دعم أحدهما أو كليهما.",
+            "صنّع العلماء أنواعا مختلفة من الأنسولين تحاكي هذا النظام الطبيعي: أنسولين سريع يحاكي الموجة الحادة عند الأكل، وأنسولين طويل المفعول يحاكي المستوى الأساسي الثابت، وأنسولين مخلوط يجمع بين النمطين في حقنة واحدة.",
+            "فهم الفرق بين هذه الأنواع ليس ترفا طبيا، بل ضرورة عملية. الشخص الذي يحقن الأنسولين السريع في وقت خاطئ بالنسبة للوجبة، أو يحقن الطويل ويتوقع منه نفس سلوك السريع، سيواجه ارتفاعات وانخفاضات في السكر يصعب فهمها وإدارتها.",
+            "كان الأنسولين المتاح تاريخيا مستخلصا من بنكرياس الخنزير أو البقر وكان يسبب تفاعلات مناعية لدى بعض المرضى. الأنسولين الحديث مُصنَّع بتقنية الهندسة الجينية ومطابق تماما للأنسولين البشري أو مُحسَّن بتعديلات تجعله أسرع أو أطول. هذا يعني تحملا أفضل وتفاعلات أقل."
+          ]
+        },
+        {
+          "h2": "جدول أنواع الأنسولين: البداية والذروة والمدة",
+          "paras": [
+            "الأنسولين السريع (Rapid-acting) مثل ليسبرو وأسبارت وجلوليزين يبدأ مفعوله خلال 10 إلى 20 دقيقة من الحقن، ويصل ذروته بعد 1 إلى 2 ساعة، ويستمر مفعوله 3 إلى 5 ساعات. يُحقن عادة قبل الوجبة بـ 10 إلى 15 دقيقة أو مباشرة عند بدء الأكل. إذا أخرت الأكل بعد الحقن أو أكلت أقل مما قدرت، فأنت في خطر انخفاض السكر.",
+            "الأنسولين قصير المفعول العادي (Short-acting) مثل الريغيولار (Regular) يبدأ مفعوله خلال 30 إلى 60 دقيقة، ويصل ذروته بعد 2 إلى 4 ساعات، ويستمر 6 إلى 8 ساعات. لهذا يُحقن قبل الوجبة بـ 30 دقيقة وليس مباشرة عندها مثل السريع. الخلط بين توقيت السريع والعادي خطأ شائع يسبب إشكاليات في التحكم.",
+            "الأنسولين متوسط المفعول (NPH) يبدأ بعد 2 ساعة ويذروه بين 4 و 12 ساعة ويمتد 12 إلى 18 ساعة. أما الأنسولين طويل المفعول (Long-acting) مثل جلارجين وديتيمير وديغلوديك فيبدأ ببطء ولا تكون له ذروة حادة، ويمتد 20 إلى 42 ساعة حسب النوع. يُعطى مرة واحدة أو مرتين في اليوم لتوفير الغطاء الأساسي."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "مقارنة أنواع الأنسولين",
+            "head": ["النوع", "بداية المفعول", "الذروة", "المدة"],
+            "rows": [
+              ["سريع المفعول (Rapid-acting)", "10 إلى 20 دقيقة", "1 إلى 2 ساعة", "3 إلى 5 ساعات"],
+              ["قصير المفعول (Regular)", "30 إلى 60 دقيقة", "2 إلى 4 ساعات", "6 إلى 8 ساعات"],
+              ["متوسط المفعول (NPH)", "2 ساعة", "4 إلى 12 ساعة", "12 إلى 18 ساعة"],
+              ["طويل المفعول (Long-acting)", "1 إلى 2 ساعة", "لا ذروة واضحة", "20 إلى 42 ساعة"],
+              ["مخلوط (Premixed)", "حسب النسبة", "حسب النسبة", "حسب النسبة"]
+            ]
+          }
+        },
+        {
+          "h2": "الأنسولين المخلوط: لمن يناسب؟",
+          "paras": [
+            "الأنسولين المخلوط يجمع نسبة محددة من الأنسولين السريع أو القصير مع الأنسولين متوسط المفعول في قلم أو فيال واحد. الأرقام على اسم الدواء تدل على النسبة: مثلا 70/30 تعني 70% متوسط و 30% سريع. هذا مريح لأنه يحتاج عدد حقن أقل وأقل تعقيدا في الحساب.",
+            "يناسب المخلوط بشكل خاص من يكون لديهم نمط حياة منتظم وثلاث وجبات بحجم متوقع في نفس الأوقات يوميا تقريبا. لكنه أقل مرونة لمن يتفاوت غذاؤهم أو أوقاتهم، لأنه يصعب تعديله لكل وجبة بشكل مستقل.",
+            "العيب الأساسي للمخلوط هو أنك تحقن النوعين معا فلا يمكنك تعديل أحدهما دون تغيير الآخر. كثير من الأطباء يفضلون في النهاية التحول إلى الأنسولين القاعدي المنفصل عن السريع لإتاحة قدر أكبر من الضبط الدقيق، خاصة لمرضى النوع الأول."
+          ]
+        },
+        {
+          "h2": "كيف تحقن الأنسولين بالطريقة الصحيحة؟",
+          "paras": [
+            "اختيار الموضع الصحيح مهم كما الدواء نفسه. الأماكن المعتمدة هي البطن (على جانبي السرة مع ترك 5 سم حولها)، والفخذ الأمامي الخارجي، والجزء الخارجي العلوي من الذراع، والجزء العلوي من الأرداف. امتصاص الأنسولين يتفاوت بين هذه المناطق: البطن أسرع امتصاصا، والفخذ والأرداف أبطأ. ابق ثابتا في نفس المنطقة لكل نوع من أنسوليناتك لثبات السلوك.",
+            "تبديل الموضع داخل نفس المنطقة ضروري للغاية. أظهرت دراسة نُشرت في Journal of Diabetes Investigation عام 2022 أن الحقن المتكرر في نفس البقعة الصغيرة يسبب تضخما في الأنسجة الدهنية تحت الجلد يسمى الشحم المضخم (Lipohypertrophy). يشعر هذا التضخم وكأنه كتلة صلبة أو طرية تحت الجلد. المشكلة أن الأنسولين المحقون في هذه المنطقة المضخمة يُمتص بشكل غير منتظم، مما يفسر ارتفاعات وانخفاضات سكر لا تفسير لها.",
+            "طريقة الحقن: امسح المنطقة إذا اقتضى الأمر، اجمع جلدة صغيرة بأصبعين إذا كانت طبقة الدهون رفيعة (وهذا مهم خاصة للأطفال والنحيلين)، أدخل الإبرة بزاوية 90 درجة للبالغين ذوي طبقة دهون طبيعية، واضغط على المكبس ببطء. انتظر 10 ثوان قبل سحب الإبرة حتى لا يتسرب الدواء."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "خطوات تبديل مواضع الحقن بشكل صحيح",
+            "items": [
+              "قسّم كل منطقة إلى مربعات صغيرة بعرض الإبهام تقريبا",
+              "في كل حقنة انتقل إلى مربع مجاور وليس نفس المكان",
+              "عد إلى المربع الأول بعد إكمال جولة المنطقة كاملة",
+              "لا تحقن في بقعة فيها كتلة أو تضخم أو ندبة أو احمرار",
+              "افحص كل مناطق الحقن بيدك بانتظام للكشف عن أي تضخم مبكر"
+            ]
+          }
+        },
+        {
+          "h2": "انخفاض السكر: كيف تتصرف؟",
+          "paras": [
+            "انخفاض السكر في الدم (Hypoglycaemia) هو الخطر الأكثر إلحاحا في يوم الشخص الذي يستخدم الأنسولين. يحدث حين يكون الأنسولين في الدم أكثر مما يلزم بالنسبة للسكر المتاح: أكلت أقل من المعتاد، أو أجهدت نفسك بدنيا أكثر، أو تأخرت في الوجبة بعد الحقن.",
+            "الأعراض المبكرة تشمل: رجفة أو ارتجاف، تعرق مفاجئ، شحوب، جوع شديد، ضربات قلب سريعة، دوخة أو شعور بعدم التركيز. عند ظهور هذه الأعراض وتوقعك أن السكر منخفض، تصرف فورا: تناول 15 غراما من الكربوهيدرات السريعة مثل نصف كوب عصير فواكه أو كوب لبن أو 3 إلى 4 حبات حلوى أو كوب من الماء مع ملعقة كبيرة سكر. أعد قياس السكر بعد 15 دقيقة.",
+            "وثّق باحثون في Nature Reviews Endocrinology أن الانخفاض الحاد غير المعالج قد يصل إلى فقدان الوعي وتشنجات. إذا فقد الشخص وعيه لا تحاول إطعامه أو سقيه لأن ذلك خطير جدا. ضعه على جانبه وأعط الجلوكاجون إن توفر، واتصل بالطوارئ فورا."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "انخفاض السكر: اطلب مساعدة فورية إذا",
+            "items": [
+              "فقدان الوعي أو التشنجات",
+              "الشخص مستيقظ لكن مرتبك ولا يعرف أين هو أو من معه",
+              "لم يتحسن السكر بعد 15 دقيقة من تناول السكريات السريعة",
+              "الأعراض تزداد بسرعة رغم أنك أكلت شيئا"
+            ]
+          }
+        },
+        {
+          "h2": "تخزين الأنسولين في المناخ الحار",
+          "paras": [
+            "هذه المشكلة حقيقية في معظم البلدان العربية ولا تجد لها ذكرا كافيا في نشرات الدواء الغربية. الأنسولين غير المفتوح يخزن في الثلاجة بين 2 و 8 درجات مئوية ولا يتجمد. أما القلم أو الفيال المفتوح الذي تستخدمه فيحتفظ بفاعليته عند درجة حرارة الغرفة لمدة 28 يوما عادة، وفق تعليمات معظم الشركات المصنعة.",
+            "أجرى باحثون دراسة نُشرت في PloS One عام 2021 وجدت أن الأنسولين طويل المفعول من فئة الجلارجين (Glargine) يفقد فاعليته بشكل أسرع عند درجات الحرارة العالية التي تتجاوز 37 درجة مئوية. في الصيف العربي حيث تتجاوز الحرارة 40 درجة في كثير من المناطق، ترك الأنسولين في السيارة أو قرب نافذة مشمسة قد يتلفه في ساعات. الأنسولين التالف لا يكون عكرا دائما ولا رائحته مختلفة، ببساطة يصبح أقل فاعلية.",
+            "في حالات انقطاع الكهرباء المتكرر كما يحدث في أجزاء من العراق وسوريا ولبنان، احتفظ بالأنسولين في وعاء بارد ومظلل مع ثلج مكسور لا يلامس الزجاجة مباشرة. وثّق الباحثون في دورية Tropical Doctor أن أواني الفخار الرطبة ترطّب وتبرد ما بداخلها وتحافظ على الأدوية في درجات حرارة أقل بشكل فعلي في غياب الكهرباء. لا تجمد الأنسولين ولا تعرضه لضوء الشمس المباشر."
+          ]
+        },
+        {
+          "h2": "الحياة اليومية مع الأنسولين",
+          "paras": [
+            "ممارسة الرياضة تخفض مستوى السكر في الدم وتزيد من حساسية الخلايا للأنسولين. هذا أمر جيد على المدى البعيد لكنه يستدعي تعديلا في الجرعة أو الأكل عند كل جلسة رياضة. قس سكرك قبل الرياضة وبعدها، واستشر طبيبك عن الخطة المناسبة لك وأنواع التمرين التي تمارسها. الرياضة العنيفة قد تسبب انخفاضا مؤخرا في السكر يظهر بعد ساعات من انتهاء التمرين وليس أثناءه.",
+            "المرض والحمى يرفعان مستوى السكر عادة رغم قلة الأكل. خلال فترات المرض لا توقف الأنسولين حتى لو لم تأكل، لأن الكبد يفرز الجلوكوز تلقائيا في حالات التوتر والمرض. راجع طبيبك عن خطة المرض (Sick Day Rules) الخاصة بك قبل أن تحتاجها. المرضى الذين يتوقفون عن الأنسولين أثناء المرض بسبب قلة الأكل هم أكثر من يصلون إلى الطوارئ بحالات الحموضة السكرية.",
+            "السفر الطويل وتغيير المناطق الزمنية يحتاج تخطيطا مسبقا لمواعيد جرعات الأنسولين طويل المفعول. احمل معك كمية إضافية من الأنسولين في حقيبة اليد لا في أمتعة الشحن التي قد تتعرض لتغيرات في درجات الحرارة. احمل وثيقة طبية تثبت احتياجك لحمل الأنسولين والإبر عند عبور الحدود.",
+            "إخبار أشخاص قريبين منك بأنك تستخدم الأنسولين ليس ضعفا بل حماية لنفسك. إذا أُصبت بانخفاض سكر مفاجئ أثناء العمل أو في مكان عام، وجود شخص يعرف ما تحمله ويعرف كيف يساعدك قد ينقذ حياتك. علّم أفراد عائلتك ومن يعملون معك علامات انخفاض السكر وكيفية إعطائك السكر أو استخدام الجلوكاجون."
+          ]
+        },
+        {
+          "h2": "متى تحتاج إلى مراجعة الجرعة؟",
+          "paras": [
+            "الجرعة التي تعمل بشكل ممتاز الآن قد تحتاج إلى مراجعة مع تغير ظروفك. زيادة الوزن تعني أن خلاياك أصبحت أحوج إلى أنسولين أكثر. نقص الوزن أو زيادة النشاط البدني قد يعني أنك أصبحت أكثر حساسية ويمكنك التحكم بجرعة أقل. تغير الفصول وتغير مستوى النشاط معه قد يكون سببا لتذبذب السكر في نفس الجرعة القديمة.",
+            "أي تغيير في نمط السكر يتكرر لأكثر من يوم أو يومين يستحق مناقشة مع الطبيب أو الممرض المتخصص. لا تعدل الجرعة استنادا إلى قراءة واحدة غير مفهومة، بل سجّل ما تأكله وتوقيت الحقن ونتائج القياس لفترة يومين إلى ثلاثة أيام حتى تظهر الأنماط. السجل الواضح في موعد الطبيب أقيم بكثير من الانطباع الشفهي عن كيف كان السكر.",
+            "بعض الأشخاص يمرون بمرحلة تُعرف بـ شهر العسل (Honeymoon Phase) في بداية مرض السكري من النوع الأول، تبقى فيها بعض الخلايا المنتجة للأنسولين تعمل لفترة مؤقتة. خلال هذه المرحلة تنخفض احتياجات الأنسولين بشكل ملحوظ ثم ترتفع مجددا. الطبيب هو من يتعرف على هذا النمط ويتعامل معه.",
+            "أخبر طبيبك أيضا إذا كنت تلاحظ أن مكان معين من أماكن الحقن أصبح أقل إيلاما وكأنه مخدر، فهذا على الأرجح تضخم أنسجة (Lipohypertrophy) لا تشعر به لأنه فقد حساسيته. هذه المواضع المخدرة تعطي قراءات سكر غير متوقعة وتجعل ضبط الجرعة أصعب بكثير."
+          ]
+        }
+      ],
+      "tie": "مع تطبيق صحتك يمكنك تسجيل جرعات الأنسولين مع توقيت الحقن وكميات الوجبات ونتائج قياس السكر، ومشاركة هذا التاريخ مع طبيبك في الزيارة القادمة بدلا من الاعتماد على الذاكرة. يساعد المساعد الذكي على فهم نتائج HbA1c وقياسات السكر.",
+      "faqs": [
+        {
+          "q": "ما الفرق بين الأنسولين السريع والعادي؟",
+          "a": "الأنسولين السريع (Rapid-acting) يبدأ مفعوله خلال 10 إلى 20 دقيقة ويُحقن قرب وقت الأكل، أما القصير أو العادي (Regular) فيبدأ بعد 30 إلى 60 دقيقة ويُحقن قبل الوجبة بنصف ساعة. الخلط في التوقيت يسبب مشاكل في السكر."
+        },
+        {
+          "q": "هل يمكنني الخلط بين أنواع الأنسولين في نفس المحقنة؟",
+          "a": "بعض الأنواع يمكن خلطها والبعض لا، خاصة الأنسولين طويل المفعول من نوع جلارجين لا يخلط مع غيره. اسأل طبيبك أو الصيدلاني بشكل محدد عن نوعك قبل أي خلط."
+        },
+        {
+          "q": "لماذا قد يختلف امتصاص الأنسولين أحيانا رغم نفس الجرعة ونفس الموضع؟",
+          "a": "يؤثر على الامتصاص: درجة حرارة الجلد، ممارسة الرياضة، ضخ الدم إلى المنطقة، وجود تضخم في الأنسجة من الحقن المتكرر. التبديل المنتظم للمواضع أهم أسباب ثبات الامتصاص."
+        },
+        {
+          "q": "كيف أعرف إذا كان الأنسولين قد تلف؟",
+          "a": "الأنسولين الشفاف الذي أصبح عكرا أو ظهرت فيه رقاقات أو تكتلات تالف ولا تستخدمه. الأنسولين الأبيض المعلق الطبيعي يجب أن يعود شفافا أبيضا متجانسا بعد التقليب اللطيف. لكن الأنسولين التالف بسبب الحرارة لا يظهر عليه تغيير مرئي دائما، لذلك الحفاظ على التخزين الصحيح أهم من الاعتماد على المظهر."
+        },
+        {
+          "q": "هل الأنسولين القلمي أفضل من المحقنة؟",
+          "a": "القلم أسهل في الاستخدام وأدق في الجرعة وأقل إيلاما لأن إبره أرفع. لكن المحقنة أتاحة للخلط بين الأنواع وأرخص ثمنا في بعض الدول. الخيار يعتمد على نوع علاجك وإمكانياتك المادية ورأي طبيبك."
+        },
+        {
+          "q": "هل يمكنني الصيام في رمضان وأنا على الأنسولين؟",
+          "a": "يصوم كثير من المرضى رمضان بسلامة مع تعديل الجرعة والتوقيت. لكن هذا يحتاج خطة محددة مع طبيبك قبل رمضان، وليس تعديلا فرديا في اليوم الأول منه. الانخفاض الحاد في السكر أثناء الصيام خطر ويعفيك من الإكمال."
+        },
+        {
+          "q": "لماذا يختلف مفعول الأنسولين بين منطقة البطن والفخذ؟",
+          "a": "البطن لديها أوعية دموية أكثر في طبقة الأنسجة الدهنية تحت الجلد، مما يجعل الامتصاص منها أسرع. الفخذ والأرداف أبطأ امتصاصا. لذلك يفضل كثير من الأطباء حقن الأنسولين السريع في البطن والطويل في الفخذ للحصول على سلوك أكثر توقعا."
+        }
+      ]
+    },
+    "en": {
+      "title": "Insulin Types: Rapid-Acting, Long-Acting and Premixed",
+      "desc": "A practical guide to insulin types: onset, peak and duration, injection site rotation, hypoglycaemia red flags, and how to store insulin safely in hot climates.",
+      "keywords": "insulin types, rapid-acting insulin, long-acting insulin, hypoglycaemia, insulin injection technique, insulin storage, injection site rotation, type 1 diabetes, premixed insulin, basal bolus",
+      "h1": "Insulin Types: What Every Patient Needs to Know About Rapid, Long-Acting and Premixed",
+      "takeaways": [
+        "Rapid-acting insulin works within minutes and must be timed around meals; long-acting insulin provides a steady background dose once or twice a day.",
+        "Injecting repeatedly into the same small spot causes fatty tissue to build up and makes absorption unpredictable.",
+        "Severe hypoglycaemia requires immediate action and must not be waited out.",
+        "An open insulin vial or pen typically tolerates room temperature for 28 days, but the high heat of Arab summers degrades it far faster.",
+        "Never adjust your dose based on a single unexplained reading. Log the pattern and discuss it with your doctor."
+      ],
+      "sections": [
+        {
+          "h2": "Why do so many different insulin types exist?",
+          "paras": [
+            "A healthy pancreas secretes insulin in two distinct patterns: a low, constant background level throughout the day that prevents blood glucose from rising between meals, and a sharp, fast burst at mealtimes to handle the glucose arriving from food. In type 1 diabetes both patterns are lost entirely. In type 2 diabetes one or both may need to be supplemented as the condition progresses.",
+            "Different insulin formulations were developed to mimic these natural patterns as closely as possible. Rapid-acting and short-acting insulins replicate the mealtime burst; long-acting insulins replicate the steady background; premixed insulins attempt to cover both in a single injection.",
+            "Understanding the difference is not academic. A person who injects rapid-acting insulin at the wrong time relative to a meal, or who expects long-acting insulin to behave like rapid-acting, will experience unexplained swings in glucose that are hard to manage and harder to explain to a doctor."
+          ]
+        },
+        {
+          "h2": "Insulin types: onset, peak and duration",
+          "paras": [
+            "Rapid-acting insulins such as lispro, aspart and glulisine begin working within 10 to 20 minutes, reach their peak effect after 1 to 2 hours, and last 3 to 5 hours. They are usually injected 10 to 15 minutes before a meal, or at the start of eating. If you delay a meal after injecting, or eat substantially less than planned, you are at risk of hypoglycaemia.",
+            "Regular or short-acting insulin is an older formulation that begins working after 30 to 60 minutes, peaks at 2 to 4 hours, and lasts 6 to 8 hours. This is why it must be taken 30 minutes before a meal, not immediately before eating as with rapid-acting. Mixing up the timing of these two types is one of the most common errors patients make.",
+            "Intermediate-acting insulin (NPH) begins working after around 2 hours, peaks between 4 and 12 hours, and lasts 12 to 18 hours. Long-acting insulins such as glargine, detemir and degludec begin slowly, have no pronounced peak, and last 20 to 42 hours depending on the specific formulation. They are given once or twice daily to provide a stable background level."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Insulin types at a glance",
+            "head": ["Type", "Onset", "Peak", "Duration"],
+            "rows": [
+              ["Rapid-acting", "10 to 20 min", "1 to 2 hours", "3 to 5 hours"],
+              ["Short-acting (Regular)", "30 to 60 min", "2 to 4 hours", "6 to 8 hours"],
+              ["Intermediate (NPH)", "2 hours", "4 to 12 hours", "12 to 18 hours"],
+              ["Long-acting", "1 to 2 hours", "No clear peak", "20 to 42 hours"],
+              ["Premixed", "Depends on ratio", "Depends on ratio", "Depends on ratio"]
+            ]
+          }
+        },
+        {
+          "h2": "Premixed insulin: who is it right for?",
+          "paras": [
+            "Premixed insulins combine a fixed proportion of rapid-acting or short-acting insulin with intermediate-acting insulin in one pen or vial. The numbers in the product name indicate the ratio: a 70/30 formulation contains 70 percent intermediate and 30 percent rapid. This is convenient because it requires fewer injections and less calculation at each meal.",
+            "Premixed insulin suits people with a regular lifestyle, consistent meal sizes, and predictable mealtimes. It is less flexible for those whose diet and schedule vary significantly from day to day, because the ratio cannot be adjusted for individual meals without changing the total dose.",
+            "The fundamental limitation of premixed insulin is that both components are locked together. Adjusting one means adjusting the other. Many endocrinologists eventually prefer to move to separate basal and bolus insulins, which allow each component to be titrated independently. This is nearly universal in type 1 diabetes management."
+          ]
+        },
+        {
+          "h2": "Injection technique and site rotation",
+          "paras": [
+            "Approved injection sites are the abdomen on both sides of the navel (keeping at least 5 cm from the navel itself), the front and outer thigh, the outer upper arm, and the upper outer buttock. Absorption speed differs between sites: the abdomen absorbs fastest, the thigh and buttock slowest. Many clinicians advise using the same region for the same type of insulin each day, to keep absorption behaviour predictable.",
+            "Rotating within that region is essential. A 2022 study published in the Journal of Diabetes Investigation confirmed that repeated injections into the same small spot cause fatty tissue to accumulate under the skin in a process called lipohypertrophy. This buildup can be felt as a rubbery lump. Insulin injected into a lipohypertrophic site is absorbed erratically, which explains why glucose can swing unpredictably even when the dose and the meal look identical.",
+            "For the injection itself: draw up or dial the correct dose, pinch a small fold of skin if fat tissue is thin, insert the needle at 90 degrees for most adults, press the plunger slowly, and wait 10 seconds before withdrawing the needle. This pause prevents medicine from leaking back along the needle track."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "How to rotate injection sites correctly",
+            "items": [
+              "Divide each injection area into small squares roughly the width of a thumb",
+              "Move to an adjacent square with each injection, never the same spot twice in a row",
+              "Return to the first square only after working through the whole area",
+              "Never inject into a lump, scar, reddened area or bruise",
+              "Check all injection areas regularly with your fingers and report any lumps to your care team"
+            ]
+          }
+        },
+        {
+          "h2": "Hypoglycaemia: what it is and how to act",
+          "paras": [
+            "Hypoglycaemia (low blood glucose) is the most immediately dangerous risk in the day of a person using insulin. It happens when there is more insulin active in the blood than the available glucose can offset, whether because a meal was smaller than usual, physical activity was greater than expected, or a meal was delayed after an injection.",
+            "Early warning signs include: trembling or shaking, sudden sweating, pallor, intense hunger, a racing heartbeat, and difficulty concentrating. When you notice these signs and suspect your glucose is low, act immediately. Consume 15 grams of fast-acting carbohydrate, such as half a glass of fruit juice, a small carton of milk, or a few glucose tablets. Recheck your glucose after 15 minutes and repeat if still low.",
+            "Researchers writing in Nature Reviews Endocrinology documented that severe, untreated hypoglycaemia can progress to loss of consciousness and seizures. If a person loses consciousness, never try to give them food or drink by mouth because this is dangerous. Turn them onto their side, administer a glucagon kit if one is available, and call emergency services immediately."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "Seek emergency help immediately if",
+            "items": [
+              "The person loses consciousness or has a seizure",
+              "They are awake but confused and do not know where they are or who you are",
+              "Blood glucose has not improved 15 minutes after taking fast-acting carbohydrate",
+              "Symptoms are worsening rapidly despite eating"
+            ]
+          }
+        },
+        {
+          "h2": "Storing insulin in hot climates",
+          "paras": [
+            "This is a genuine and underaddressed problem across the Arab world. Unopened insulin should be stored in a refrigerator between 2 and 8 degrees Celsius and must never be frozen. An opened pen or vial that you are actively using typically remains stable at room temperature for 28 days, according to most manufacturers' instructions.",
+            "A 2021 study published in PloS One tested several insulin types at temperatures above 37 degrees Celsius and found accelerated degradation, particularly in long-acting analogues such as glargine. In Arab summers where temperatures regularly exceed 40 degrees, leaving insulin in a car, near a window or in an unventilated room can damage it within hours. Degraded insulin often shows no visible change in colour or clarity, which makes it particularly deceptive.",
+            "During power cuts, which affect parts of Iraq, Syria and Lebanon frequently, store insulin in a cool, dark container with crushed ice that does not touch the vial directly. Research published in Tropical Doctor documented that unglazed clay pots kept damp provide genuine cooling through evaporation and can protect temperature-sensitive medicines in the absence of refrigeration. Never freeze insulin and never expose it to direct sunlight."
+          ]
+        },
+        {
+          "h2": "Daily life with insulin",
+          "paras": [
+            "Physical exercise lowers blood glucose and increases the cells' sensitivity to insulin, which is a long-term benefit but a short-term challenge requiring adjustment. Measure your glucose before and after activity. Discuss with your doctor whether you need to reduce your rapid-acting insulin before exercise, eat a small snack beforehand, or both. Intense exercise can also cause delayed hypoglycaemia several hours after finishing, so checking glucose before bed after an active day is worthwhile.",
+            "Illness and fever raise blood glucose despite reduced food intake, because the liver releases stored glucose as part of the stress response. Do not stop insulin during illness even if you are eating very little. Work out a sick-day plan with your doctor or diabetes nurse in advance, so you know exactly what to do before you need it. Patients who stop insulin when ill because they are not eating account for a significant proportion of diabetic ketoacidosis admissions.",
+            "Long-distance travel and crossing time zones requires advance planning for long-acting insulin timing. Always carry insulin in hand luggage rather than checked baggage, which may experience extreme temperature swings in the hold. Bring a medical letter confirming your diagnosis and the need to carry needles through security checkpoints.",
+            "Telling people around you that you use insulin is not weakness; it is self-protection. If you experience a sudden episode of hypoglycaemia at work or in a public place, having someone nearby who knows what you carry and how to help can be life-saving. Teach family members and close colleagues the signs of low glucose and how to give you fast sugar or to use a glucagon kit if one is available."
+          ]
+        },
+        {
+          "h2": "When does the dose need to change?",
+          "paras": [
+            "The dose that works well today may need revision when your circumstances change. Weight gain typically increases insulin requirement. Weight loss or increased physical activity may improve insulin sensitivity, allowing better control on a lower dose. The body's needs can also shift seasonally, as people tend to be more active in cooler months.",
+            "Any glucose pattern that repeats over two or more days is worth discussing with your doctor or diabetes nurse. Do not adjust the dose after a single unexplained result. Instead, log your meals, injection times and glucose readings over a few days so that a pattern becomes visible. A clear log is far more useful in a clinic appointment than a recalled impression.",
+            "Some people with newly diagnosed type 1 diabetes experience a honeymoon phase in the first months, during which the remaining beta cells continue producing some insulin. During this period insulin requirements drop noticeably, then rise again as the remaining cells are lost. A review published in JAMA in 2026 described this phase as common but variable in duration. Recognising it prevents unnecessary dose reductions that will need to be reversed later."
+          ]
+        }
+      ],
+      "tie": "With the Sihtak app you can log each insulin dose with the time and injection site, record your meals and glucose readings, and bring a complete log to your next appointment rather than relying on memory. The AI assistant can help explain what your HbA1c result means alongside your day-to-day readings.",
+      "faqs": [
+        {
+          "q": "What is the difference between rapid-acting and regular insulin?",
+          "a": "Rapid-acting insulin starts working in 10 to 20 minutes and is taken around mealtimes. Regular or short-acting insulin takes 30 to 60 minutes to begin working and must be injected 30 minutes before eating. Mixing up the timing of these two types is a common cause of unpredictable glucose levels."
+        },
+        {
+          "q": "Can I mix different insulin types in the same syringe?",
+          "a": "Some combinations can be mixed; others cannot. Long-acting insulins such as glargine must never be mixed with any other insulin. Ask your doctor or pharmacist specifically about your exact products before attempting to mix, as the wrong combination can make both less effective."
+        },
+        {
+          "q": "Why does absorption sometimes vary even with the same dose and site?",
+          "a": "Absorption is affected by local skin temperature, blood flow to the area, exercise, and the presence of lipohypertrophy under the skin. Regular site rotation is the most effective single measure to keep absorption consistent."
+        },
+        {
+          "q": "How can I tell if insulin has been damaged by heat?",
+          "a": "Clear insulin that has become cloudy or contains particles is definitely damaged and must be discarded. Normally cloudy insulin such as NPH should return to a uniform milky appearance after gentle rolling, not remain lumpy. Heat-damaged insulin often looks perfectly normal, which is why proper storage matters more than visual inspection."
+        },
+        {
+          "q": "Is an insulin pen better than a syringe?",
+          "a": "Pens are generally easier to use, more accurate for small doses and less painful because the needles are finer. Syringes allow you to mix insulins and cost less in some countries. The best choice depends on your specific regimen, budget and what your doctor recommends."
+        },
+        {
+          "q": "Can I fast during Ramadan while on insulin?",
+          "a": "Many patients fast safely during Ramadan with adjusted dose timing, but this requires a specific plan agreed with your doctor before Ramadan starts, not a last-minute change on the first day. Severe hypoglycaemia during fasting is a medical emergency and permits breaking the fast."
+        },
+        {
+          "q": "Why does the abdomen absorb insulin faster than the thigh?",
+          "a": "The abdominal subcutaneous tissue has a denser blood supply than the thigh or buttock, so insulin reaches the circulation more quickly. Many clinicians recommend injecting rapid-acting insulin into the abdomen and long-acting into the thigh or buttock to take advantage of this difference in speed."
+        }
+      ]
+    }
+  }
+}

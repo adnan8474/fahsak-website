@@ -1,0 +1,346 @@
+{
+  "slug": "irregular-periods-causes",
+  "category": "womens-health",
+  "chip_ar": "صحة المرأة",
+  "chip_en": "Women's Health",
+  "date_iso": "2026-08-05",
+  "sources": [
+    {"label": "Saei Ghare Naz M, Rostami Dovom M, Ramezani Tehrani F et al: The Menstrual Disturbances in Endocrine Disorders: A Narrative Review, International journal of endocrinology and metabolism, 2020", "url": "https://pubmed.ncbi.nlm.nih.gov/33613678/"},
+    {"label": "Brown EDL, Obeng-Gyasi B, Hall JE et al: The Thyroid Hormone Axis and Female Reproduction, International journal of molecular sciences, 2023", "url": "https://pubmed.ncbi.nlm.nih.gov/37372963/"},
+    {"label": "Yilmaz H, Demirpence M, Belet U et al: Prevalence of endocrine disorders in 304 premenopausal women referred with oligomenorrhoea, Endokrynologia Polska, 2024", "url": "https://pubmed.ncbi.nlm.nih.gov/38497394/"},
+    {"label": "Almahareeq M, Hamdan M, Vanoh D et al: Comparison of premenstrual symptoms, psychological well-being, and nutritional status between Palestinian women with and without polycystic ovarian syndrome: a case-control study, BMC women's health, 2024", "url": "https://pubmed.ncbi.nlm.nih.gov/38907183/"},
+    {"label": "Gordon CM, Ackerman KE, Berga SL et al: Functional Hypothalamic Amenorrhea: An Endocrine Society Clinical Practice Guideline, The Journal of clinical endocrinology and metabolism, 2017", "url": "https://pubmed.ncbi.nlm.nih.gov/28368518/"},
+    {"label": "Awwad O, Saleh M, Bardaweel S et al: Use of complementary and alternative medicine among females with polycystic ovary syndrome in Jordan: a cross-sectional study, BMJ open, 2024", "url": "https://pubmed.ncbi.nlm.nih.gov/39719295/"},
+    {"label": "Kambale T, Sawaimul KD, Prakash S et al: A study of hormonal and anthropometric parameters in polycystic ovarian syndrome, Annals of African medicine, 2023", "url": "https://pubmed.ncbi.nlm.nih.gov/36695232/"}
+  ],
+  "content": {
+    "ar": {
+      "title": "اضطراب الدورة الشهرية: الأسباب وما تحتاجين فحصه",
+      "desc": "الغدة الدرقية وتكيس المبايض والتوتر والوزن كلها تُؤثر على الدورة. تعرفي على الأسباب الشائعة والتحاليل التي تُساعد على التشخيص.",
+      "keywords": "اضطراب الدورة الشهرية, دورة غير منتظمة, أسباب تأخر الدورة, تكيس المبايض الدورة, الغدة الدرقية الدورة, هرمونات الدورة الشهرية, انقطاع الدورة, التحاليل الهرمونية",
+      "h1": "الدورة الشهرية غير المنتظمة: الأسباب الشائعة والتحاليل التي تُجيب على أسئلتك",
+      "takeaways": [
+        "الدورة الشهرية الطبيعية تتراوح بين 21 و35 يوما، وأي دورة خارج هذا النطاق باستمرار تستحق تقييما.",
+        "تكيس المبايض (PCOS) والغدة الدرقية والبرولاكتين المرتفع هي أكثر الأسباب الهرمونية شيوعا لاضطراب الدورة.",
+        "التوتر النفسي الشديد وانخفاض الوزن المفاجئ والتمرين المفرط يمكن أن يوقف الدورة تماما.",
+        "تحليل TSH و FSH و LH والبرولاكتين وتحليل الموجات فوق الصوتية للمبيضين هي البداية الصحيحة للتشخيص.",
+        "اضطراب الدورة ليس طبيعيا ولا يجب تجاهله، لأنه قد يُشير إلى حالة تحتاج علاجا محددا."
+      ],
+      "sections": [
+        {
+          "h2": "ما هي الدورة الشهرية الطبيعية وأين تبدأ حدود الاضطراب؟",
+          "paras": [
+            "الدورة الشهرية الطبيعية تتراوح بين 21 و35 يوما من بداية نزيف إلى بداية التالي. المدة الطبيعية للنزيف بين ثلاثة وسبعة أيام. ما يتجاوز هذه الحدود باستمرار هو ما يُشكّل اضطرابا يستحق التقييم.",
+            "الانقطاع الكامل للدورة (Amenorrhoea) هو عدم نزول الدورة لثلاثة أشهر أو أكثر في امرأة كانت دورتها منتظمة، أو ستة أشهر أو أكثر في من كانت دورتها غير منتظمة أصلا. والندرة (Oligomenorrhoea) هي دورات تأتي كل 35 يوما أو أكثر.",
+            "دورة أو دورتان يتأخران في السنة دون سبب محدد شائع وقد لا يعني مشكلة. لكن اضطرابا مستمرا لأكثر من ثلاثة أشهر يحتاج إلى تقييم، لأن الدورة المنتظمة هي مؤشر صحي يعكس توازن الجهاز الهرموني.",
+            "تدوين تاريخ بداية كل دورة في تطبيق أو دفتر يُساعد كثيرا في التشخيص، إذ يُمكّن الطبيبة من رؤية النمط الفعلي بدلا من الاعتماد على التذكر. الذاكرة وحدها غير دقيقة في تقدير انتظام الدورة."
+          ]
+        },
+        {
+          "h2": "تكيس المبايض (PCOS): السبب الأكثر شيوعا",
+          "paras": [
+            "متلازمة تكيس المبايض (Polycystic Ovary Syndrome, PCOS) هي السبب الهرموني الأول لاضطراب الدورة في النساء في سن الإنجاب. تتميز بارتفاع هرمونات الأندروجين الذكورية، وعدم انتظام أو غياب الإباضة، وأحيانا وجود أكياس صغيرة متعددة على المبيضين في الموجات فوق الصوتية.",
+            "دراسة نُشرت في Annals of African Medicine عام 2023 وجدت أن النساء المصابات بتكيس المبايض يُظهرن اختلالات ملحوظة في مستويات هرمونات LH و FSH مقارنة بمن لا تعانين منه، مما يُفسر لماذا الإباضة غير منتظمة في هذه الحالة. النتيجة دورات متفرقة أو غائبة.",
+            "أعراض تكيس المبايض تتجاوز الدورة الشهرية وتشمل: نمو زائد للشعر في مناطق الذكورة كالوجه والصدر والبطن، بثور وحب الشباب المستمر، صعوبة في إنقاص الوزن أو زيادة وزن غير مفسرة، وأحيانا سواد الجلد في تجاعيد الرقبة والإبطين. وجود أي من هذه الأعراض مع الدورة غير المنتظمة يزيد احتمال التشخيص.",
+            "دراسة نُشرت في BMC Women's Health عام 2024 على نساء فلسطينيات مصابات بتكيس المبايض وجدت أن لديهن مستويات أعلى من الأعراض المزعجة قبل الدورة وأسوأ في مستوى الرفاهية النفسية مقارنة بمن لا يعانين منه. هذا يُؤكد أن التكيس ليس فقط مشكلة هرمونية بل له أثر واسع على جودة الحياة اليومية."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "warn",
+            "title": "أعراض تكيس المبايض (PCOS) المرافقة للدورة غير المنتظمة",
+            "items": [
+              "شعر زائد على الوجه أو البطن أو الصدر",
+              "حب شباب مستمر لا يستجيب للعلاجات العادية",
+              "صعوبة في إنقاص الوزن أو زيادة غير مفسرة",
+              "سواد الجلد في طيات الرقبة أو الإبط",
+              "ترقق أو تساقط شعر الرأس"
+            ]
+          }
+        },
+        {
+          "h2": "الغدة الدرقية والدورة الشهرية: صلة وثيقة يتجاهلها الكثيرون",
+          "paras": [
+            "هرمونات الغدة الدرقية لها دور مباشر في تنظيم الدورة الشهرية. مراجعة شاملة نُشرت في International Journal of Molecular Sciences عام 2023 أوضحت أن قصور الغدة الدرقية يُؤدي إلى دورات ثقيلة ومتقاربة في بعض النساء، بينما يُسبب فرط النشاط دورات خفيفة ومتباعدة أو غائبة عند أخريات.",
+            "مراجعة عام 2024 شملت 304 امرأة في مرحلة ما قبل انقطاع الطمث بسبب اضطراب الدورة، وجدت أن اضطرابات الغدة الدرقية كانت من أبرز الأسباب الغدية المكتشفة. تحليل واحد بسيط وهو TSH يكفي كبداية لاستبعاد هذا السبب أو تأكيده.",
+            "الأخطر هو أن أعراض قصور الغدة الدرقية كالتعب وزيادة الوزن وبرودة الأطراف كثيرا ما تُنسب إلى الإجهاد أو طبيعة الحياة، فتمر سنوات دون تشخيص صحيح. إذا كانت دورتك غير منتظمة مع أي من هذه الأعراض، فحص الغدة الدرقية يجب أن يكون ضمن أول تحاليل تُجرينها.",
+            "علاج الغدة الدرقية بعد تشخيصها يُصحح الدورة في كثير من الحالات خلال أشهر قليلة. وهذا أحد الأمثلة الجميلة على كيف أن التشخيص الصحيح يُغير نتيجة العلاج كليا."
+          ]
+        },
+        {
+          "h2": "ارتفاع البرولاكتين: سبب يُغفله كثيرون",
+          "paras": [
+            "البرولاكتين (Prolactin) هرمون مسؤول أصلا عن إنتاج الحليب بعد الولادة، لكنه قد يرتفع في غير الحامل ويُؤدي إلى اضطراب الدورة أو انقطاعها. ارتفاع البرولاكتين يُثبط إفراز هرمونات GnRH وFSH وLH الضرورية للإباضة.",
+            "أسباب ارتفاع البرولاكتين تشمل: وجود ورم صغير حميد في الغدة النخامية يُسمى برولاكتينوما (Prolactinoma)، بعض أدوية ضغط الدم وأدوية المعدة ومضادات الذهان، قصور الغدة الدرقية، والتوتر الشديد. أحيانا لا يُوجد سبب واضح.",
+            "الأعراض المرافقة لارتفاع البرولاكتين تشمل: إفراز حليب من الثدي دون حمل أو رضاعة، صداع خلف العينين، أو اضطرابات في الرؤية في حالات الورم الكبير. تحليل البرولاكتين في الدم بسيط ويُجرى في أي مختبر، ويجب أن يُؤخذ الصباح الباكر قبل أي إجهاد أو نشاط بدني.",
+            "إذا أكدت التحاليل ارتفاع البرولاكتين، قد يُوصي الطبيب بتصوير الغدة النخامية بالرنين المغناطيسي (MRI) لاستبعاد وجود برولاكتينوما. العلاج بأدوية تُخفض البرولاكتين مثل كابيرغولين (Cabergoline) أو بروموكريبتين (Bromocriptine) فعّال جدا وغالبا ما يُعيد الدورة إلى طبيعتها."
+          ]
+        },
+        {
+          "h2": "التوتر والوزن والرياضة المفرطة: أسباب وظيفية تُوقف الدورة",
+          "paras": [
+            "الدورة الشهرية حساسة جدا للحالة النفسية والجسدية. التوتر النفسي الشديد كالضغوط في الامتحانات أو الأحداث الصعبة، وانخفاض وزن الجسم بشكل مفاجئ، والتمرين الرياضي الشديد والمتواصل، كلها تُؤدي إلى ما يُسمى الانقطاع الوظيفي للدورة بسبب ضعف المهاد (Functional Hypothalamic Amenorrhoea).",
+            "الإرشادات السريرية لجمعية الغدد الصماء الأمريكية الصادرة عام 2017 تُحدد هذه الحالة بأنها انقطاع للدورة ناجم عن ضعف إشارات الدماغ للمبيضين، دون وجود مرض عضوي. هي قابلة للعلاج بالأساس عبر معالجة السبب: استعادة الوزن، أو تخفيف حدة التمرين، أو الدعم النفسي.",
+            "في منطقتنا، الضغوط الحياتية الشديدة والنزوح والأزمات تجعل هذا النوع من الاضطراب أكثر انتشارا مما يظهر في الإحصاءات الغربية. الشاب الذي ينقطع عن الأكل خلال الضغوط ثم يُمارس رياضة مكثفة، والمرأة التي تعيش ضغوطا حياتية حادة، كلاهما عرضة لهذه الحالة.",
+            "الخبر الجيد أن الانقطاع الوظيفي قابل للعلاج دون أدوية هرمونية في الغالب. التركيز على تحسين التغذية واسترداد الوزن الصحي وتقليل الضغط النفسي يُعيد الدورة تدريجيا. الأدوية الهرمونية قد تُنظّم الدورة مؤقتا لكنها لا تُعالج السبب الجذري إذا لم تُعالَج العوامل المُسبِّبة."
+          ]
+        },
+        {
+          "h2": "ما التحاليل التي يجب أن تطلبيها؟",
+          "paras": [
+            "التحاليل الأولية لاضطراب الدورة تشمل عادة: TSH لاستبعاد اضطراب الغدة الدرقية، البرولاكتين لاستبعاد ارتفاعه، FSH وLH لتقييم إشارات المبيضين، هرمون AMH (Anti-Müllerian Hormone) الذي يعكس الاحتياطي المبيضي وهو مفيد بشكل خاص في حالة التكيس، والأندروجينات مثل التستوستيرون الكلي وDHEA-S إذا كانت هناك أعراض كشعر زائد أو حب شباب.",
+            "إذا كانت هناك شكوك من تكيس المبايض، يُضاف تحليل سكر الدم الصيامي ومقاومة الأنسولين، لأن كثيرا من النساء المصابات بتكيس المبايض يُعانين من مقاومة للأنسولين حتى لو لم يُشخَّص لديهن سكري.",
+            "الموجات فوق الصوتية للحوض عبر المهبل أو عبر البطن تُعطي صورة مهمة عن حجم المبيضين وعدد الجريبات ووجود الأكياس. يجب أن تُجرى يوما من الثاني إلى الخامس من الدورة للحصول على نتيجة أكثر دقة في تقييم التكيس."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "التحاليل الأولية لاضطراب الدورة الشهرية",
+            "head": ["التحليل", "ما يكشفه", "الوقت المناسب"],
+            "rows": [
+              ["TSH", "اضطراب الغدة الدرقية", "أي وقت"],
+              ["Prolactin (برولاكتين)", "ارتفاع يُوقف الإباضة", "صباحا قبل الأكل"],
+              ["FSH / LH", "إشارات المبيض والدورة", "اليوم 2 إلى 5 من الدورة"],
+              ["AMH", "احتياطي المبيض والتكيس", "أي وقت"],
+              ["تستوستيرون / DHEA-S", "فرط الأندروجين", "أي وقت"],
+              ["سكر صيامي وأنسولين", "مقاومة الأنسولين", "صيام 8 ساعات"]
+            ]
+          }
+        },
+        {
+          "h2": "حالات أخرى تُسبب اضطراب الدورة",
+          "paras": [
+            "الاقتراب من سن اليأس (Perimenopause) يُسبب دورات غير منتظمة في النساء بين الأربعين والخمسين، مع تغيرات في كمية النزيف وانتظام الدورة. تحليل FSH المرتفع مع LH وانخفاض هرمون الاستروجين يُؤكد هذا التشخيص. معرفة ذلك تُغير التركيز من البحث عن مرض إلى إدارة الأعراض والدعم.",
+            "أسباب تشريحية مثل السليلات الرحمية (Polyps) والأورام الليفية (Fibroids) قد تُؤثر على انتظام الدورة وكميتها. هذه لا تُشخَّص بالتحاليل الهرمونية بل بالموجات فوق الصوتية أو المنظار الرحمي. وجودها لا يُلغي احتمال سبب هرموني مرافق، وقد يتعايش السببان معا.",
+            "بعض أدوية ضغط الدم ومضادات الذهان والأدوية الهرمونية قد تُسبب اضطراب الدورة. إذا بدأ الاضطراب بعد بدء دواء جديد، أخبري طبيبك لأن تغيير الجرعة أو البديل الدوائي قد يُحل المشكلة. لا تُوقفي أي دواء من تلقاء نفسك دون استشارة الطبيب أولا.",
+            "الرياضة العالية الكثافة التي تُمارسها كثير من الشابات دون تناول ما يكفي من السعرات الحرارية حالة تستحق التنبيه. الجسم يُعطي الأولوية لوظائفه الحيوية عند ضيق الطاقة، ويُخفّض إنتاج الهرمونات التناسلية باعتبارها ليست ضرورية للبقاء في المدى القصير. هذا النمط شائع بين من يُمارسن رياضة تحمّل مكثفة مع نظام غذائي مقيد."
+          ]
+        },
+        {
+          "h2": "متى يصبح اضطراب الدورة حالة طارئة؟",
+          "paras": [
+            "معظم حالات اضطراب الدورة ليست طوارئ، لكن بعض العلامات تستدعي مراجعة الطبيب بشكل أسرع من المعتاد. الحمل يجب أن يُستبعد أولا في أي امرأة جنسيا نشطة تُعاني من انقطاع الدورة، لأن حمل خارج الرحم (Ectopic Pregnancy) حالة طارئة حقيقية إذا رافقه ألم.",
+            "نزيف شديد جدا يُغير أكثر من حفاظة كبيرة في الساعة الواحدة لمدة ساعتين متتاليتين أو أكثر، أو نزيف مستمر أكثر من سبعة أيام دون توقف، يستحق تقييما سريعا لاستبعاد أسباب هرمونية أو تشريحية أو أمراض التخثر.",
+            "الألم الشديد المفاجئ مع انقطاع الدورة، أو الألم في الحوض بشكل مستمر مع تأخر الدورة، يستدعي استبعاد حمل خارج الرحم أو التواء المبيض، وكلاهما حالة طارئة."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "اطلبي تقييما طبيا سريعا إذا",
+            "items": [
+              "انقطعت الدورة وأنتِ جنسيا نشطة (استبعدي الحمل أولا)",
+              "نزيف شديد يملأ أكثر من حفاظة كبيرة في الساعة لمدة ساعتين",
+              "ألم شديد مفاجئ في الحوض مع تأخر الدورة",
+              "انقطاع الدورة لأكثر من ثلاثة أشهر دون سبب واضح",
+              "نزيف بين الدورات بشكل متكرر وغير مبرر"
+            ]
+          }
+        },
+        {
+          "h2": "ماذا تتوقعين في زيارة الطبيب؟",
+          "paras": [
+            "الطبيبة ستبدأ بأسئلة تاريخية دقيقة: منذ متى وأنتِ تُعانين من هذا الاضطراب، هل بدأ مع تغيير في وزنك أو في مستوى التوتر أو مع دواء جديد؟ هل توقفت الدورة كليا أم أصبحت متأخرة فقط؟ هل هناك أعراض أخرى كالصداع أو إفراز الحليب أو نمو الشعر؟",
+            "هذه المعلومات تُوجّه التحاليل من البداية وتُوفّر عليك وقتا وتكلفة. الاستعداد لهذه الزيارة بتدوين ملاحظات عن تواريخ الدورة الأخيرة والتغيرات التي لاحظتِها يُساعد الطبيبة كثيرا.",
+            "بعد التحاليل، الخطوة التالية تعتمد على السبب. تكيس المبايض يُعالَج بتغيير نمط الحياة وأدوية تُحفز الإباضة وأحيانا منع الحمل الهرموني لتنظيم الدورة. الغدة الدرقية لها علاج دوائي واضح يُصحح الدورة في أغلب الحالات. ارتفاع البرولاكتين له علاج دوائي فعال جدا. الانقطاع الوظيفي يحتاج إلى معالجة السبب الجذري.",
+            "ما يجمع هذه الحالات جميعا هو أن اضطراب الدورة ليس مجرد عارض جانبي يمكن تجاهله. هو إشارة واضحة أن شيئا في الجسم يستحق اهتماما. الطبيبة المتخصصة في النساء والتوليد أو الغدد الصماء هي المرجع الصحيح لهذا التقييم."
+          ]
+        }
+      ],
+      "tie": "في تطبيق Sihtak يمكنك تسجيل تواريخ دوراتك وأعراضها المرافقة، وهو معلومة ثمينة جدا للطبيب في التشخيص.",
+      "faqs": [
+        {
+          "q": "ما هي الدورة الشهرية الطبيعية؟",
+          "a": "الدورة الطبيعية تتراوح بين 21 و35 يوما من بداية نزيف إلى بداية التالي. مدة النزيف بين 3 و7 أيام. الدورات التي تقع خارج هذا النطاق باستمرار، أو التي تتغير تغيرا ملحوظا عن نمطها السابق، تستحق تقييما."
+        },
+        {
+          "q": "هل يُمكن أن يُسبب التوتر انقطاع الدورة؟",
+          "a": "نعم. التوتر الشديد والمستمر يؤثر على المهاد في الدماغ ويُقلل إفرازه للهرمونات التي تُنشّط المبيضين. هذا ما يُسمى الانقطاع الوظيفي للدورة. عادة يعود مع زوال مصدر التوتر أو مع الدعم النفسي والتغذية الكافية."
+        },
+        {
+          "q": "هل تكيس المبايض يعني أنني لن أستطيع الإنجاب؟",
+          "a": "لا. تكيس المبايض يجعل الإباضة غير منتظمة لكنه لا يُلغيها. كثير من النساء المصابات به يحملن بشكل طبيعي، وأخريات يحتجن لدعم طبي بسيط لتحفيز الإباضة. التشخيص المبكر والعلاج المناسب يُحسّنان فرص الحمل بشكل ملحوظ."
+        },
+        {
+          "q": "هل صح أن الدورة غير المنتظمة ليست مشكلة ما دمت لا تريدين الحمل؟",
+          "a": "هذا غير صحيح. الدورة المنتظمة مؤشر على التوازن الهرموني العام. اضطرابها لفترة طويلة دون علاج، خاصة إذا كان السبب تكيس مبايض أو قصور غدة درقية، يُزيد على المدى البعيد خطر أمراض القلب والسكري وترقق العظام. العلاج مهم بصرف النظر عن رغبتك في الحمل."
+        },
+        {
+          "q": "ما هو أول تحليل يجب أن أطلبه عند اضطراب الدورة؟",
+          "a": "أهم تحليلين كبداية هما TSH للغدة الدرقية والبرولاكتين. إضافة FSH وLH يُكمل الصورة الأولية. هذه التحاليل الثلاثة أو الأربعة تُجيب على أغلب الأسئلة الأولية وتُوجّه الخطوات التالية."
+        },
+        {
+          "q": "هل الغدة الدرقية يمكن أن تُسبب دورات غير منتظمة حتى لو لم أشعر بأعراض الغدة؟",
+          "a": "نعم. اضطراب الغدة الدرقية الخفيف أو المبكر قد لا يُعطي أعراضا واضحة كالتعب أو تغير الوزن، لكنه يكفي ليُؤثر على انتظام الدورة. هذا أحد الأسباب التي تجعل تحليل TSH جزءا أساسيا من أول تحاليل اضطراب الدورة."
+        },
+        {
+          "q": "هل يمكن أن يُؤثر انخفاض الوزن الشديد على الدورة؟",
+          "a": "نعم. الجسم يحتاج إلى نسبة معينة من الدهون لإنتاج هرمون الاستروجين. إذا انخفضت الدهون كثيرا بسبب نظام غذائي صارم جدا أو مرض نقص التغذية، يُوقف الدماغ إشارات المبيض حماية للجسم. استعادة الوزن الصحي عادة تُعيد الدورة."
+        },
+        {
+          "q": "ما الفرق بين تكيس المبايض والانقطاع الوظيفي للدورة؟",
+          "a": "تكيس المبايض يترافق مع ارتفاع هرمونات الذكورة ومقاومة الأنسولين وغالبا مع الوزن الزائد. الانقطاع الوظيفي يترافق مع انخفاض الهرمونات عموما وينتج عن الوزن المنخفض أو الرياضة المفرطة أو التوتر الشديد. كلاهما يُعطي انقطاعا للدورة لكن أسبابهما وعلاجاتهما مختلفة تماما، وهذا سبب الحاجة للتحاليل للتمييز بينهما."
+        }
+      ]
+    },
+    "en": {
+      "title": "Irregular Periods: The Common Causes and What to Test",
+      "desc": "Thyroid disease, PCOS, stress and weight changes all disrupt periods. Learn which causes are most common, what each test checks, and when to act quickly.",
+      "keywords": "irregular periods causes, missed period causes, PCOS irregular periods, thyroid irregular periods, hormonal imbalance periods, amenorrhoea causes, period blood tests, oligomenorrhoea",
+      "h1": "Irregular Periods: Common Causes, the Right Tests and When to Act",
+      "takeaways": [
+        "A normal cycle is 21 to 35 days. Anything consistently outside this range is worth investigating.",
+        "PCOS (Polycystic Ovary Syndrome), thyroid disease and elevated prolactin are the most common hormonal reasons for irregular or absent periods.",
+        "Severe stress, significant weight loss and excessive exercise can stop periods completely through a mechanism called functional hypothalamic amenorrhoea.",
+        "TSH, FSH, LH and prolactin are the starting blood tests, usually combined with a pelvic ultrasound.",
+        "Irregular periods are not something to ignore even if pregnancy is not a current goal, because the underlying cause can have long-term health consequences."
+      ],
+      "sections": [
+        {
+          "h2": "What is a normal cycle and when does irregularity become a problem?",
+          "paras": [
+            "A normal menstrual cycle lasts between 21 and 35 days, measured from the first day of one period to the first day of the next. Normal bleeding lasts between three and seven days. Cycles that consistently fall outside these ranges, or that have changed noticeably from your previous pattern, are worth looking into.",
+            "Complete absence of periods is called amenorrhoea (Amenorrhoea). Primary amenorrhoea means periods have never started by age 15 to 16. Secondary amenorrhoea means periods that were happening have now stopped for three months or more in a woman who previously had regular cycles, or six months in one who was already irregular. Infrequent periods, less often than every 35 days, is called oligomenorrhoea (Oligomenorrhoea).",
+            "One or two delayed cycles in a year without obvious cause are common and usually not a sign of anything serious. A persistent pattern over three months or more is the point at which investigation is helpful, because a regular period is one of the best signs that the hormonal system is in balance."
+          ]
+        },
+        {
+          "h2": "PCOS: the most common hormonal reason for irregular periods",
+          "paras": [
+            "Polycystic Ovary Syndrome (PCOS) is the most common hormonal cause of irregular periods in women of reproductive age worldwide. It is characterised by elevated androgens (male-type hormones), irregular or absent ovulation, and often, though not always, multiple small follicles visible on the ovaries during ultrasound.",
+            "A 2023 study in Annals of African Medicine found that women with PCOS showed notable imbalances in LH and FSH levels compared with unaffected women, which directly explains why ovulation becomes irregular. Without reliable ovulation, the hormonal cycle that drives a regular period does not complete properly, and bleeding becomes unpredictable.",
+            "Symptoms beyond irregular periods include unwanted hair growth on the face, chest or abdomen, persistent acne that does not respond well to standard treatment, difficulty losing weight or unexplained weight gain, and sometimes darkening of the skin in skin folds at the neck or armpits. Any combination of these with irregular periods makes PCOS a strong possibility worth testing for.",
+            "A 2024 case-control study published in BMC Women's Health, examining Palestinian women with PCOS, found that those with the condition experienced significantly worse premenstrual symptoms and poorer overall psychological wellbeing than unaffected women. This reinforces that PCOS is not only a hormonal problem but one that affects daily quality of life in ways that extend well beyond the calendar."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "warn",
+            "title": "Signs that suggest PCOS alongside irregular periods",
+            "items": [
+              "Unwanted hair on the face, abdomen or chest",
+              "Persistent acne that does not respond to usual treatment",
+              "Difficulty losing weight despite lifestyle changes",
+              "Skin darkening in folds of the neck or armpits",
+              "Thinning hair at the crown of the head"
+            ]
+          }
+        },
+        {
+          "h2": "Thyroid disease and periods: a connection many women miss",
+          "paras": [
+            "Thyroid hormones play a direct role in regulating the menstrual cycle. A 2023 review published in the International Journal of Molecular Sciences examined the relationship between thyroid function and female reproduction in detail. Hypothyroidism, an underactive thyroid, tends to cause heavy and frequent bleeding in some women, while hyperthyroidism, an overactive thyroid, more often causes light, infrequent or absent periods.",
+            "A 2024 study of 304 premenopausal women referred for oligomenorrhoea found that thyroid disorders were among the most prominent endocrine causes identified. A single TSH blood test is sufficient to rule this in or out, and it is one of the cheapest and most widely available blood tests in the region.",
+            "The challenge is that the symptoms of hypothyroidism, fatigue, weight gain and feeling cold, are easily attributed to lifestyle or stress, meaning years can pass without diagnosis. If your periods have become irregular alongside any of these symptoms, a thyroid test should be among the first things you check."
+          ]
+        },
+        {
+          "h2": "Elevated prolactin: a common cause that is frequently overlooked",
+          "paras": [
+            "Prolactin (Prolactin) is the hormone that stimulates milk production after delivery, but it can rise abnormally in women who are not pregnant or breastfeeding, and when it does, it disrupts the hormonal signals needed for ovulation and regular periods. A 2020 narrative review in the International Journal of Endocrinology and Metabolism identified hyperprolactinaemia as one of the key endocrine causes of menstrual disturbance.",
+            "Causes of elevated prolactin include: a small benign tumour in the pituitary gland called a prolactinoma (Prolactinoma), certain medications including some antihypertensives, antipsychotics and gastric medications, hypothyroidism, and sometimes intense physical or emotional stress. Occasionally no clear cause is found.",
+            "Associated symptoms worth watching for include milky discharge from the nipple without pregnancy or breastfeeding, headaches behind the eyes, and in rare cases of a larger tumour, visual disturbances. The prolactin blood test is widely available and straightforward. It should ideally be taken in the morning before physical activity or a stressful commute, as both can temporarily raise the level."
+          ]
+        },
+        {
+          "h2": "Stress, weight and intense exercise: functional causes that stop periods",
+          "paras": [
+            "The menstrual cycle is remarkably sensitive to the body's overall energy state and psychological load. Severe and sustained psychological stress, significant and rapid weight loss, and prolonged intensive exercise can all suppress the hypothalamus in the brain, which then reduces or stops its hormonal signals to the pituitary and ovaries. The result is irregular or absent periods without any underlying structural disease.",
+            "The Endocrine Society's 2017 clinical practice guideline on functional hypothalamic amenorrhoea (Functional Hypothalamic Amenorrhoea) defines this condition precisely and notes that it is reversible once the triggering factor is addressed. Weight restoration, a reduction in exercise intensity, and psychological support are the main treatments, not hormonal medication.",
+            "This pattern may be particularly common across much of our region, where economic hardship, conflict and displacement add chronic stress loads that are not captured in Western epidemiological studies. Young women in contexts of food insecurity who are simultaneously restricting intake and exercising to manage stress are especially vulnerable to this pattern."
+          ]
+        },
+        {
+          "h2": "Which blood tests should you ask for?",
+          "paras": [
+            "The standard starting panel for irregular periods includes TSH to rule out thyroid disease, prolactin to rule out hyperprolactinaemia, FSH and LH to assess the signals from the brain to the ovaries, and anti-Mullerian hormone (AMH) which reflects ovarian reserve and is elevated in PCOS. If there are symptoms of excess androgens, such as hair growth or persistent acne, total testosterone and DHEA-S are added.",
+            "If PCOS is suspected, fasting glucose and fasting insulin are valuable because a significant proportion of women with PCOS have insulin resistance, even without a formal diabetes diagnosis. Identifying this changes the treatment approach and has long-term health implications.",
+            "A pelvic ultrasound, either through the abdomen or transvaginally, completes the initial picture by showing the size and appearance of the ovaries and any structural changes to the uterus. For assessing PCOS, it should ideally be performed on days two to five of the cycle if a period is present."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Starting tests for irregular periods",
+            "head": ["Test", "What it checks", "Timing"],
+            "rows": [
+              ["TSH", "Thyroid function", "Any time"],
+              ["Prolactin", "Pituitary hormone excess", "Morning, before activity"],
+              ["FSH / LH", "Brain-ovary signalling", "Day 2 to 5 of period"],
+              ["AMH", "Ovarian reserve and PCOS", "Any time"],
+              ["Testosterone / DHEA-S", "Androgen excess", "Any time"],
+              ["Fasting glucose and insulin", "Insulin resistance", "After 8-hour fast"]
+            ]
+          }
+        },
+        {
+          "h2": "Other causes worth considering",
+          "paras": [
+            "The approach to perimenopause, the transition phase before menopause, typically begins in the mid-forties and causes increasingly irregular cycles with changes in flow and frequency. An elevated FSH combined with low oestradiol confirms this stage. Knowing this is the cause changes the conversation from investigation to management and symptom support.",
+            "Structural causes including uterine polyps (Polyps) and fibroids (Fibroids) can change the pattern and quantity of bleeding without necessarily disrupting the cycle length. These are not identified by hormonal blood tests but by ultrasound or hysteroscopy, and they are common enough to be worth considering alongside hormonal causes.",
+            "Medications are a routinely missed cause of cycle changes. Antihypertensives, antipsychotics, antiepileptics, and hormonal treatments can all affect cycle regularity. If your periods changed after starting a new medication, mention this to your doctor specifically, because a dose adjustment or alternative drug often resolves the problem without further investigation."
+          ]
+        },
+        {
+          "h2": "When does irregular bleeding need urgent attention?",
+          "paras": [
+            "Most menstrual irregularity does not constitute an emergency, but certain patterns should prompt a faster medical assessment. In any sexually active woman, absent periods require a pregnancy test first, because an ectopic pregnancy (Ectopic Pregnancy) can present as a missed period with pelvic pain, and this is a genuine surgical emergency.",
+            "Very heavy bleeding that soaks more than one large pad per hour for two or more consecutive hours, or bleeding that continues without stopping beyond seven days, deserves prompt evaluation to identify hormonal, structural or clotting causes. This is not a pattern to manage at home with iron tablets alone.",
+            "Sudden severe pelvic pain alongside a missed or late period is a red flag for ectopic pregnancy or ovarian torsion. Both require urgent hospital assessment and should not be treated with watchful waiting at home."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "Seek medical assessment promptly if you have",
+            "items": [
+              "Absent periods and you are sexually active (rule out pregnancy first)",
+              "Soaking more than one large pad per hour for two consecutive hours",
+              "Sudden severe pelvic pain with a late or absent period",
+              "Periods absent for more than three months without a known cause",
+              "Frequent spotting or bleeding between periods"
+            ]
+          }
+        },
+        {
+          "h2": "What to expect at your doctor's appointment and what comes next",
+          "paras": [
+            "Your doctor will begin with a detailed history: how long has the irregularity been happening, did it start at the same time as a change in your weight, a new medication, or a period of significant stress? Has your period disappeared entirely or simply become less frequent? Are there accompanying symptoms such as headache, nipple discharge, hair growth or acne?",
+            "The answers to these questions direct the testing from the start and avoid unnecessary investigations. Arriving at the appointment with a list of your last several period dates, your current medications and any supplements you are taking will save time and help your doctor build the right picture quickly.",
+            "Treatment after diagnosis depends on the cause. PCOS is managed with lifestyle modification, sometimes medications that restore ovulation, and hormonal treatment to regulate the cycle if pregnancy is not the immediate goal. Thyroid disorders are treated with medication that, in most cases, restores cycle regularity within a few months. Elevated prolactin responds very well to dopamine agonist drugs. Functional hypothalamic amenorrhoea requires addressing the root cause, whether that is nutrition, exercise load or psychological support, rather than hormonal prescription.",
+            "Whatever the cause, the key point is that irregular periods are not simply a cosmetic inconvenience. They reflect something in the body's hormonal regulation that is not working as it should, and identifying and treating that cause has benefits that extend well beyond cycle regularity.",
+            "A gynaecologist or endocrinologist with experience in reproductive hormones is the right specialist for this evaluation. In settings where specialist access is limited, a general practitioner can order the initial panel of blood tests and refer based on results. The testing itself does not require a specialist."
+          ]
+        }
+      ],
+      "tie": "Use the Sihtak app to log your period dates and any associated symptoms month by month. That record is one of the most useful things you can bring to a diagnostic appointment.",
+      "faqs": [
+        {
+          "q": "How long should I wait before seeing a doctor about irregular periods?",
+          "a": "If you have missed three consecutive periods without an obvious cause such as pregnancy, significant weight loss or a new medication, that is a reasonable point to seek an evaluation. A single missed or late period in isolation, without other symptoms, usually does not require urgent investigation."
+        },
+        {
+          "q": "Can stress really stop periods completely?",
+          "a": "Yes. Sustained severe psychological stress suppresses the hypothalamus, which reduces the hormonal signals needed to trigger ovulation. This is called functional hypothalamic amenorrhoea, and it is fully reversible once the stress is reduced and, if necessary, nutritional status is restored. It is not a sign of permanent damage."
+        },
+        {
+          "q": "Does PCOS mean I cannot have children?",
+          "a": "No. PCOS makes ovulation irregular, but it does not prevent pregnancy in most cases. Many women with PCOS conceive naturally. Others need straightforward ovulation induction, which is a well-established treatment. Early diagnosis and appropriate management significantly improve fertility outcomes."
+        },
+        {
+          "q": "Is it true that irregular periods do not matter if I am not trying to get pregnant?",
+          "a": "This is not correct. Irregular periods are often a sign of an underlying hormonal imbalance. Left untreated, conditions like PCOS or hypothyroidism carry risks that are independent of fertility, including a higher long-term risk of type 2 diabetes, cardiovascular disease and bone loss. Treatment is important regardless of reproductive plans."
+        },
+        {
+          "q": "What is the first blood test I should ask for?",
+          "a": "TSH for thyroid function and prolactin are the two most important starting tests. Adding FSH and LH gives a fuller hormonal picture. These three or four tests answer the most common diagnostic questions and cost relatively little in most regional laboratories."
+        },
+        {
+          "q": "Can thyroid disease cause irregular periods even without obvious thyroid symptoms?",
+          "a": "Yes. Mild or early thyroid dysfunction may not produce the classic symptoms of fatigue or weight change, yet still affect cycle regularity. This is one reason why TSH is routinely included in the initial investigation of irregular periods, even when other thyroid signs are absent."
+        },
+        {
+          "q": "Can being underweight cause irregular periods?",
+          "a": "Yes. The body requires a minimum level of body fat to maintain oestrogen production. When fat stores drop below a certain threshold through severe dietary restriction or an eating disorder, the brain reduces its hormonal signals to the ovaries. Restoring a healthy weight is the primary treatment, and periods typically return once adequate nutrition is sustained."
+        },
+        {
+          "q": "What is the difference between PCOS and functional hypothalamic amenorrhoea?",
+          "a": "PCOS involves elevated androgens and is associated with insulin resistance and weight gain. Functional hypothalamic amenorrhoea involves low hormones across the board and is associated with low body weight, excessive exercise or severe stress. The two conditions can look similar in terms of absent periods but have very different causes and treatments, which is why blood tests are necessary to distinguish them."
+        }
+      ]
+    }
+  }
+}
