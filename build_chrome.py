@@ -94,6 +94,15 @@ L = {
         "search_ph": "ابحث عن مرض أو تحليل أو دواء…",
         "search_none": "لا توجد نتائج مطابقة. جرّب كلمة أخرى.",
         "count_suffix": "مقالاً",
+        "chip_all": "الكل",
+        "filters_label": "تصفية حسب الموضوع",
+        "sort_label": "ترتيب المقالات",
+        "sort_new": "الأحدث",
+        "sort_az": "أبجدياً",
+        "clear_filter": "إزالة التصفية",
+        # {n} = المعروض، {t} = الإجمالي. النص كامل في الصفحة قبل تشغيل جافاسكربت.
+        "tpl_all": "{t} مقالاً",
+        "tpl_some": "{n} من {t} مقالاً",
     },
     "en": {
         "htmltag": '<html lang="en" dir="ltr" data-theme="light">',
@@ -130,6 +139,16 @@ L = {
         "search_ph": "Search a condition, test or medicine…",
         "search_none": "Nothing matched. Try another word.",
         "count_suffix": "articles",
+        "chip_all": "All",
+        "filters_label": "Filter by topic",
+        "sort_label": "Sort articles",
+        "sort_new": "Newest",
+        "sort_az": "A-Z",
+        "clear_filter": "Clear filters",
+        # {n} = shown, {t} = total. Rendered in full server-side so the count
+        # is correct before hub.js runs.
+        "tpl_all": "{t} articles",
+        "tpl_some": "{n} of {t} articles",
     },
 }
 
@@ -345,8 +364,15 @@ PERSON_LD = {
 }
 
 
-def card(lang, a):
-    """One article card, used by hubs, category pages and related sections."""
+def card(lang, a, reveal=True, searchable=False):
+    """One article card, used by hubs, category pages and related sections.
+
+    The library grid on the hub sets reveal=False, because fading in 174 cards
+    one by one looks like a fault rather than a flourish, and a card that is
+    filtered out and back in would have to be re-animated. It sets
+    searchable=True to carry the keywords the client-side filter needs; only
+    the hub pays those bytes, since nothing else filters in place.
+    """
     c = a["content"][lang]
     cid = a.get("category")
     chip = cat_name(lang, cid) or a.get(f"chip_{lang}", "")
@@ -354,8 +380,10 @@ def card(lang, a):
     meta = (f'{fmt_date(a["date_iso"], lang)} · {a["read_min"]} '
             f'{"دقائق قراءة" if lang == "ar" else "min read"}')
     icon = a.get("icon") or (CAT_BY_ID.get(cid, {}).get("icon", ""))
+    cls = "art-card reveal" if reveal else "art-card"
+    kw = f' data-k="{e(c.get("keywords", ""), True)}"' if searchable else ""
     return (
-        f'        <a class="art-card reveal" href="{href}" data-cat="{e(cid or "", True)}">\n'
+        f'        <a class="{cls}" href="{href}" data-cat="{e(cid or "", True)}"{kw}>\n'
         f'          <div class="art-card-icon"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">{icon}</svg></div>\n'
         f'          <span class="art-chip">{e(chip)}</span>\n'
         f'          <h3>{e(c["title"])}</h3>\n'

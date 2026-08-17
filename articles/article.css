@@ -336,8 +336,174 @@
 }
 .art-related--hub { padding-inline: 0; }
 
-/* the hub grid is rendered by JS on search, so cards must not start hidden */
-#artResults .art-card { opacity: 1; transform: none; }
+/* ==========================================================================
+   Hub library: sticky toolbar, filter chips, in-place filtering
+   ========================================================================== */
+
+/* Sticky under the fixed nav. It sits outside .art-hub-body so it can stay
+   stuck for the whole length of <main> rather than only its own column. */
+.hub-toolbar {
+  position: sticky;
+  top: 64px;
+  z-index: 30;
+  background: var(--bg);
+  border-bottom: 1px solid transparent;
+  transition: border-color 0.2s, box-shadow 0.2s;
+}
+.hub-toolbar--stuck {
+  border-bottom-color: var(--border);
+  box-shadow: 0 8px 22px rgba(0, 0, 0, 0.06);
+}
+.hub-toolbar-in { position: relative; max-width: 1000px; margin: 0 auto; padding: 14px 24px 12px; }
+
+/* The chip row scrolls sideways, and a hard cut at the container edge reads as
+   a clipping bug rather than "there is more this way". The overflow runs
+   towards the inline end, which is the left in Arabic and the right in
+   English, so the fade is placed per direction. */
+.hub-toolbar-in::after {
+  content: "";
+  position: absolute;
+  bottom: 8px;
+  height: 42px;
+  width: 70px;
+  pointer-events: none;
+}
+html[dir="rtl"] .hub-toolbar-in::after {
+  left: 0;
+  background: linear-gradient(to left, transparent, var(--bg) 70%);
+}
+html[dir="ltr"] .hub-toolbar-in::after {
+  right: 0;
+  background: linear-gradient(to right, transparent, var(--bg) 70%);
+}
+.hub-toolbar-row { display: flex; align-items: center; gap: 12px; flex-wrap: wrap; }
+.hub-toolbar-row .art-search { flex: 1 1 240px; max-width: none; margin: 0; }
+.hub-toolbar-row .art-search input { padding-block: 11px; }
+
+.hub-sorts {
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 3px;
+  padding: 3px;
+  background: var(--bg-subtle);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+}
+.hub-sort {
+  appearance: none;
+  border: 0;
+  background: none;
+  cursor: pointer;
+  font: inherit;
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--text-m);
+  padding: 7px 14px;
+  border-radius: 999px;
+  transition: background 0.15s, color 0.15s;
+}
+.hub-sort:hover { color: var(--text); }
+.hub-sort--on {
+  background: var(--bg-card);
+  color: var(--text);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
+}
+
+/* One line that scrolls sideways rather than a block that wraps to three
+   rows. The bar is sticky, so its height is height taken away from every
+   article underneath it. */
+.hub-filters {
+  display: flex;
+  gap: 8px;
+  margin-top: 12px;
+  padding-bottom: 2px;
+  overflow-x: auto;
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+  overscroll-behavior-inline: contain;
+}
+.hub-filters::-webkit-scrollbar { display: none; }
+.hub-chip {
+  flex: 0 0 auto;
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  padding: 7px 13px;
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--text-m);
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  text-decoration: none;
+  white-space: nowrap;
+  transition: background 0.15s, border-color 0.15s, color 0.15s;
+}
+.hub-chip:hover { color: var(--text); border-color: var(--border-h); }
+.hub-chip--on {
+  color: var(--teal);
+  background: var(--teal-dim);
+  border-color: var(--teal-glow);
+}
+.hub-chip-n {
+  font-size: 11px;
+  font-variant-numeric: tabular-nums;
+  color: var(--text-d);
+  background: var(--bg-subtle);
+  border-radius: 999px;
+  padding: 1px 7px;
+}
+.hub-chip--on .hub-chip-n {
+  color: inherit;
+  background: none;
+  box-shadow: inset 0 0 0 1px var(--teal-glow);
+}
+
+.hub-meta {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  margin: 10px 0 6px;
+  min-height: 26px;
+}
+.hub-count { font-size: 13.5px; color: var(--text-d); font-variant-numeric: tabular-nums; }
+.hub-clear {
+  appearance: none;
+  border: 0;
+  background: none;
+  cursor: pointer;
+  font: inherit;
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--teal);
+  padding: 4px 2px;
+}
+.hub-clear:hover { text-decoration: underline; }
+
+/* Scoped by the sibling toolbar so the category pages, which use the same
+   .art-related--hub block without a toolbar, keep their own spacing. */
+.hub-toolbar ~ .art-hub-body .art-related--hub { padding-top: 8px; padding-bottom: 0; }
+#hubHeading { scroll-margin-top: 200px; }
+
+/* .art-card sets display:block, which beats the browser default for [hidden],
+   so filtered-out cards need saying explicitly. */
+.art-grid .art-card[hidden] { display: none; }
+
+.hub-topics { margin-top: 52px; padding-top: 36px; border-top: 1px solid var(--border); }
+.hub-topics .cat-strip { margin: 0; }
+
+@media (max-width: 640px) {
+  .hub-toolbar { top: 56px; }
+  .hub-toolbar-in { padding: 10px 18px; }
+  .hub-toolbar-in::after { bottom: 6px; height: 40px; width: 56px; }
+  .hub-toolbar-row { gap: 8px; flex-wrap: nowrap; }
+  .hub-toolbar-row .art-search { flex: 1 1 120px; min-width: 0; }
+  .hub-toolbar-row .art-search input { font-size: 16px; padding-inline-start: 42px; }
+  .hub-sort { padding: 6px 10px; font-size: 12px; }
+  .hub-filters { margin-top: 10px; }
+  .hub-topics { margin-top: 40px; }
+}
 
 /* ==========================================================================
    Breadcrumbs

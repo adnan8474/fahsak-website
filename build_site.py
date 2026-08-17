@@ -4,9 +4,14 @@
 Sihtak site builder: everything that is derived from the article set.
 
 Regenerates, wholesale and idempotently:
-  /articles/  and  /en/articles/            topic tiles + latest + search
+  /articles/  and  /en/articles/            the full library: every article as
+                                            a card, filtered/sorted in place
   /articles/c/<cat>/  and the /en/ mirror   one page per taxonomy category
-  /articles/search-index.json  (+ /en/)     client-side search payload
+  /articles/search-index.json  (+ /en/)     machine-readable index of the whole
+                                            library. The hub no longer fetches
+                                            it (it filters the cards it already
+                                            has), but it is a stable JSON view
+                                            of the content set, so it is kept.
   /sitemap.xml                              sitemap index
   /sitemap-pages.xml, /sitemap-articles.xml
   /articles/feed.xml                        RSS
@@ -27,6 +32,13 @@ from build_chrome import (
 )
 
 TODAY = datetime.date.today().isoformat()
+
+# staticwebapp.config.json caches *.css and *.js for a week, so a returning
+# reader would otherwise get the new hub markup with last week's stylesheet and
+# last week's script. Only the hub needs the busted URLs: the article pages use
+# none of the new rules, and versioning them would throw away a warm cache on
+# 348 pages for nothing.
+ASSET_V = "2026081201"
 
 STATIC_PAGES = [
     ("/", "weekly", "1.0"),
@@ -92,13 +104,52 @@ def topic_tiles(lang, counts, active=None):
 def search_box(lang):
     o = L[lang]
     return (
-        '      <div class="art-search">\n'
-        '        <svg class="art-search-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><line x1="21" y1="21" x2="16.7" y2="16.7"/></svg>\n'
-        f'        <input type="search" id="artSearch" placeholder="{e(o["search_ph"], True)}" '
+        '        <div class="art-search">\n'
+        '          <svg class="art-search-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><line x1="21" y1="21" x2="16.7" y2="16.7"/></svg>\n'
+        f'          <input type="search" id="artSearch" placeholder="{e(o["search_ph"], True)}" '
         f'aria-label="{e(o["search_ph"], True)}" autocomplete="off">\n'
+        '        </div>\n'
+    )
+
+
+def hub_toolbar(lang, counts, total):
+    """Sticky control bar: search, sort, and one filter chip per category.
+
+    The chips are real links to the category pages, not buttons. hub.js
+    intercepts the click and filters in place, but with JS off (or before it
+    loads) they still go somewhere useful, and a crawler sees ordinary
+    internal links rather than dead controls.
+    """
+    o = L[lang]
+    chips = [
+        f'          <a class="hub-chip hub-chip--on" href="{o["nav_articles"]}" data-cat="" '
+        f'data-name="{e(o["all_articles"], True)}" aria-pressed="true">'
+        f'{e(o["chip_all"])}<span class="hub-chip-n">{total}</span></a>\n'
+    ]
+    for c in CATEGORIES:
+        n = counts.get(c["id"], 0)
+        if not n:
+            continue
+        chips.append(
+            f'          <a class="hub-chip" href="{cat_url(lang, c["id"])}" data-cat="{c["id"]}" '
+            f'data-name="{e(c[lang]["name"], True)}" aria-pressed="false">'
+            f'{e(c[lang]["name"])}<span class="hub-chip-n">{n}</span></a>\n'
+        )
+    return (
+        '    <div class="hub-toolbar" id="hubBar">\n'
+        '      <div class="hub-toolbar-in">\n'
+        '        <div class="hub-toolbar-row">\n'
+        + search_box(lang)
+        + f'          <div class="hub-sorts" role="group" aria-label="{e(o["sort_label"], True)}">\n'
+        f'            <button type="button" class="hub-sort hub-sort--on" data-sort="new" aria-pressed="true">{e(o["sort_new"])}</button>\n'
+        f'            <button type="button" class="hub-sort" data-sort="az" aria-pressed="false">{e(o["sort_az"])}</button>\n'
+        '          </div>\n'
+        '        </div>\n'
+        f'        <div class="hub-filters" id="hubFilters" role="group" aria-label="{e(o["filters_label"], True)}">\n'
+        + "".join(chips)
+        + '        </div>\n'
         '      </div>\n'
-        '      <div class="art-grid" id="artResults" hidden></div>\n'
-        f'      <p class="art-search-none" id="artNone" hidden>{e(o["search_none"])}</p>\n'
+        '    </div>\n'
     )
 
 
@@ -106,25 +157,30 @@ def search_box(lang):
 # hub
 # --------------------------------------------------------------------------
 def hub_page(lang, articles, counts):
+    """The whole library on one page.
+
+    Every article is rendered as a card up front rather than a "latest 24"
+    teaser, so the entry point actually links to all of the content: one click
+    from the hub to any article, and one crawlable link per article instead of
+    the 24 that used to be reachable here. Filtering, search and sort are then
+    a matter of hiding cards that are already in the DOM.
+    """
     o = L[lang]
     url = o["hub"]
-    latest = articles[:24]
+    total = len(articles)
     if lang == "ar":
         h1 = "مقالات صحية موثوقة بالعربية"
         sub = ("شروحات طبية مبسطة تهم الشرق الأوسط: التحاليل والأمراض المزمنة والوراثية، "
                "صحة المرأة والطفل، الأدوية والتغذية والصحة النفسية. مكتوبة بلغة يفهمها الجميع "
                "ومدعومة بمصادر منشورة.")
         title = "مقالات صحية بالعربية"
-        latest_h = "أحدث المقالات"
-        all_h = "كل المقالات"
     else:
         h1 = "Health guides for the Middle East"
         sub = ("Plain explanations of the health questions that actually come up here: lab "
                "tests, chronic and inherited conditions, women's and children's health, "
                "medicines, nutrition and mental health. Written clearly and sourced.")
         title = "Health Articles"
-        latest_h = "Latest articles"
-        all_h = "All articles"
+    all_h = o["all_articles"]
 
     ld = {
         "@context": "https://schema.org",
@@ -141,14 +197,17 @@ def hub_page(lang, articles, counts):
              "description": sub, "inLanguage": lang,
              "isPartOf": {"@id": f"{SITE}/#website"},
              "publisher": {"@id": f"{SITE}/#org"},
+             # Summary-page form: url-only list items, one per article actually
+             # on the page. Repeating all 174 titles here would double the
+             # weight of the page for no gain, since the title is already in
+             # the card and again on the article itself.
              "mainEntity": {
                  "@type": "ItemList",
-                 "numberOfItems": len(articles),
+                 "numberOfItems": total,
                  "itemListElement": [
                      {"@type": "ListItem", "position": i,
-                      "url": f'{SITE}{o["base"]}{a["slug"]}/',
-                      "name": a["content"][lang]["title"]}
-                     for i, a in enumerate(latest, 1)]}},
+                      "url": f'{SITE}{o["base"]}{a["slug"]}/'}
+                     for i, a in enumerate(articles, 1)]}},
             {"@type": "BreadcrumbList", "@id": url + "#crumbs", "itemListElement": [
                 {"@type": "ListItem", "position": 1, "name": o["crumb_home"], "item": f"{SITE}/"},
                 {"@type": "ListItem", "position": 2, "name": o["crumb_articles"], "item": url},
@@ -160,6 +219,7 @@ def hub_page(lang, articles, counts):
         head(lang, title=title, desc=sub, url=url,
              ar_url=f"{SITE}/articles/", en_url=f"{SITE}/en/articles/",
              og_type="website",
+             css=("/style.css", f"/articles/article.css?v={ASSET_V}"),
              extra_ld=f'  <script type="application/ld+json">{jd(ld)}</script>\n')
         + nav(lang, "/en/articles/" if lang == "ar" else "/articles/")
         + '  <main class="art-page">\n'
@@ -168,24 +228,32 @@ def hub_page(lang, articles, counts):
         '      <div class="art-hero-inner reveal">\n'
         f'        <h1>{e(h1)}</h1>\n'
         f'        <p class="art-hub-sub">{e(sub)}</p>\n'
-        f'        <p class="art-hub-count">{len(articles)} {e(o["count_suffix"])}</p>\n'
+        # No count in the hero: the meta line under the toolbar carries it and
+        # keeps it live as the reader filters, so printing it twice would just
+        # mean one of the two numbers is wrong most of the time.
         '      </div>\n'
         '    </header>\n'
-        '    <div class="art-hub-body">\n'
-        + search_box(lang)
-        + '      <div id="artDefault">\n'
-        + topic_tiles(lang, counts)
-        + f'      <section class="art-related art-related--hub">\n'
-        f'        <h2 class="reveal">{e(latest_h)}</h2>\n'
-        '        <div class="art-grid">\n'
-        + "".join(card(lang, a) for a in latest)
-        + '        </div>\n'
-        '      </section>\n'
+        + hub_toolbar(lang, counts, total)
+        + '    <div class="art-hub-body">\n'
+        '      <div class="hub-meta">\n'
+        f'        <span class="hub-count" id="hubCount" data-tpl-all="{e(o["tpl_all"], True)}" '
+        f'data-tpl-some="{e(o["tpl_some"], True)}">{o["tpl_all"].replace("{t}", str(total))}</span>\n'
+        f'        <button type="button" class="hub-clear" id="hubClear" hidden>{e(o["clear_filter"])}</button>\n'
         '      </div>\n'
+        '      <section class="art-related art-related--hub">\n'
+        f'        <h2 id="hubHeading">{e(all_h)}</h2>\n'
+        '        <div class="art-grid" id="hubGrid">\n'
+        + "".join(card(lang, a, reveal=False, searchable=True) for a in articles)
+        + '        </div>\n'
+        f'        <p class="art-search-none" id="artNone" hidden>{e(o["search_none"])}</p>\n'
+        '      </section>\n'
+        '      <div class="hub-topics">\n'
+        + topic_tiles(lang, counts)
+        + '      </div>\n'
         '    </div>\n'
         '  </main>\n'
         + footer(lang)
-        + '  <script src="/articles/hub.js" defer></script>\n'
+        + f'  <script src="/articles/hub.js?v={ASSET_V}" defer></script>\n'
         + SCRIPT_BLOCK
     )
 
@@ -475,24 +543,25 @@ def build_search_index(lang, articles):
         json.dump(payload, fh, ensure_ascii=False, separators=(",", ":"))
 
 
-HUB_JS = """/* Sihtak article search. Filters a prebuilt index client-side: no backend,
-   no third-party search, and it works on the Arabic and English hubs alike. */
+HUB_JS = """/* Sihtak article library: search, topic filter and sort for the hub.
+
+   Every card is already in the page, so nothing is fetched and nothing is
+   re-rendered. Filtering toggles [hidden] on cards that exist, which keeps the
+   markup, the links and the crawlable state identical whether or not this file
+   ever runs. With JS off the reader still gets the full list plus chips that
+   behave as ordinary links to the category pages. */
 (function () {
+  var grid = document.getElementById('hubGrid');
+  if (!grid) return;
+
   var box = document.getElementById('artSearch');
-  if (!box) return;
-  var results = document.getElementById('artResults');
   var none = document.getElementById('artNone');
-  var deflt = document.getElementById('artDefault');
-  var index = null, ready = false;
-
-  var base = location.pathname.indexOf('/en/') === 0 ? '/en/articles/' : '/articles/';
-
-  function load() {
-    if (ready) return Promise.resolve();
-    return fetch(base + 'search-index.json')
-      .then(function (r) { return r.json(); })
-      .then(function (j) { index = j; ready = true; });
-  }
+  var countEl = document.getElementById('hubCount');
+  var clearBtn = document.getElementById('hubClear');
+  var heading = document.getElementById('hubHeading');
+  var bar = document.getElementById('hubBar');
+  var chips = [].slice.call(document.querySelectorAll('.hub-chip'));
+  var sorts = [].slice.call(document.querySelectorAll('.hub-sort'));
 
   /* Strip Arabic diacritics and normalise alef/ya/ta-marbuta so that a search
      for "امراض" still matches "أمراض". */
@@ -505,49 +574,189 @@ HUB_JS = """/* Sihtak article search. Filters a prebuilt index client-side: no b
       .replace(/\\u0629/g, '\\u0647');
   }
 
-  function esc(s) {
-    return String(s).replace(/[&<>"']/g, function (m) {
-      return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[m];
-    });
-  }
-
-  function render(list) {
-    results.innerHTML = list.map(function (a) {
-      return '<a class="art-card visible" href="' + a.u + '">' +
-        '<span class="art-chip">' + esc(a.c) + '</span>' +
-        '<h3>' + esc(a.t) + '</h3>' +
-        '<p>' + esc(a.d) + '</p></a>';
-    }).join('');
-  }
-
-  function run() {
-    var q = norm(box.value.trim());
-    if (q.length < 2) {
-      results.hidden = true; none.hidden = true; deflt.hidden = false;
-      return;
-    }
-    load().then(function () {
-      var terms = q.split(/\\s+/);
-      var hits = index.filter(function (a) {
-        var hay = norm(a.t + ' ' + a.d + ' ' + a.c + ' ' + a.k);
-        return terms.every(function (t) { return hay.indexOf(t) !== -1; });
-      }).slice(0, 40);
-      deflt.hidden = true;
-      render(hits);
-      results.hidden = hits.length === 0;
-      none.hidden = hits.length !== 0;
-    });
-  }
-
-  var timer;
-  box.addEventListener('input', function () {
-    clearTimeout(timer);
-    timer = setTimeout(run, 120);
+  /* Read every card once. The haystack is built from what is already on the
+     card plus the keyword list the builder attached, so the page carries no
+     duplicate copy of its own text. */
+  var items = [].slice.call(grid.children).map(function (el, i) {
+    var h = el.querySelector('h3');
+    var p = el.querySelector('p');
+    var c = el.querySelector('.art-chip');
+    return {
+      el: el,
+      i: i,
+      cat: el.getAttribute('data-cat') || '',
+      title: h ? h.textContent.trim() : '',
+      hay: norm([h && h.textContent, p && p.textContent, c && c.textContent,
+                 el.getAttribute('data-k')].join(' '))
+    };
   });
-  box.addEventListener('focus', load);
+  var total = items.length;
+  var allLabel = heading ? heading.textContent : '';
+  var lang = document.documentElement.lang || 'en';
+  var state = { cat: '', q: '', sort: 'new' };
 
-  var pre = new URLSearchParams(location.search).get('q');
-  if (pre) { box.value = pre; run(); }
+  function tpl(s, n, t) {
+    return String(s || '').replace('{n}', n).replace('{t}', t);
+  }
+
+  function paint() {
+    var terms = state.q ? state.q.split(/\\s+/) : [];
+    var shown = 0;
+    for (var i = 0; i < total; i++) {
+      var it = items[i];
+      var ok = !state.cat || it.cat === state.cat;
+      for (var j = 0; ok && j < terms.length; j++) {
+        if (it.hay.indexOf(terms[j]) === -1) ok = false;
+      }
+      it.el.hidden = !ok;
+      if (ok) shown++;
+    }
+
+    var filtered = !!(state.cat || state.q);
+    if (none) none.hidden = shown !== 0;
+    if (countEl) {
+      countEl.textContent = filtered
+        ? tpl(countEl.getAttribute('data-tpl-some'), shown, total)
+        : tpl(countEl.getAttribute('data-tpl-all'), total, total);
+    }
+    if (clearBtn) clearBtn.hidden = !filtered;
+    if (heading) {
+      var on = state.cat ? grid.ownerDocument.querySelector(
+        '.hub-chip[data-cat="' + state.cat + '"]') : null;
+      heading.textContent = on ? on.getAttribute('data-name') : allLabel;
+    }
+    sync();
+  }
+
+  function applySort() {
+    var order = items.slice();
+    if (state.sort === 'az') {
+      order.sort(function (a, b) { return a.title.localeCompare(b.title, lang); });
+    } else {
+      order.sort(function (a, b) { return a.i - b.i; });
+    }
+    var frag = document.createDocumentFragment();
+    order.forEach(function (it) { frag.appendChild(it.el); });
+    grid.appendChild(frag);
+  }
+
+  /* Keep the address bar in step so a filtered view can be shared or
+     reloaded. replaceState, not pushState: the back button should leave the
+     hub, not walk back through every keystroke. */
+  function sync() {
+    if (!window.history || !history.replaceState) return;
+    var p = [];
+    if (state.cat) p.push('cat=' + encodeURIComponent(state.cat));
+    if (box && box.value.trim()) p.push('q=' + encodeURIComponent(box.value.trim()));
+    if (state.sort !== 'new') p.push('sort=' + state.sort);
+    history.replaceState(null, '', location.pathname + (p.length ? '?' + p.join('&') : ''));
+  }
+
+  /* The chip strip scrolls sideways, so an active chip arriving from a ?cat=
+     link can be off screen. Nudge the strip, never the page. */
+  function revealChip(el) {
+    var strip = document.getElementById('hubFilters');
+    if (!strip || !el) return;
+    var er = el.getBoundingClientRect(), sr = strip.getBoundingClientRect();
+    if (er.left < sr.left) strip.scrollLeft -= (sr.left - er.left) + 16;
+    else if (er.right > sr.right) strip.scrollLeft += (er.right - sr.right) + 16;
+  }
+
+  function setCat(cat) {
+    state.cat = cat;
+    var active = null;
+    chips.forEach(function (c) {
+      var on = (c.getAttribute('data-cat') || '') === cat;
+      c.classList.toggle('hub-chip--on', on);
+      c.setAttribute('aria-pressed', on ? 'true' : 'false');
+      if (on) active = c;
+    });
+    revealChip(active);
+  }
+
+  function setSort(s) {
+    state.sort = s;
+    sorts.forEach(function (b) {
+      var on = b.getAttribute('data-sort') === s;
+      b.classList.toggle('hub-sort--on', on);
+      b.setAttribute('aria-pressed', on ? 'true' : 'false');
+    });
+    applySort();
+  }
+
+  chips.forEach(function (chip) {
+    chip.addEventListener('click', function (ev) {
+      /* Modified clicks keep their normal meaning: open the real category
+         page in a tab. */
+      if (ev.metaKey || ev.ctrlKey || ev.shiftKey || ev.altKey) return;
+      ev.preventDefault();
+      setCat(chip.getAttribute('data-cat') || '');
+      paint();
+      var top = grid.getBoundingClientRect().top;
+      var off = window.innerWidth <= 640 ? 170 : 200;
+      if (top < off) window.scrollTo(0, window.pageYOffset + top - off);
+    });
+  });
+
+  sorts.forEach(function (b) {
+    b.addEventListener('click', function () {
+      setSort(b.getAttribute('data-sort'));
+      sync();
+    });
+  });
+
+  if (box) {
+    var timer;
+    box.addEventListener('input', function () {
+      clearTimeout(timer);
+      timer = setTimeout(function () {
+        var v = norm(box.value.trim());
+        state.q = v.length < 2 ? '' : v;
+        paint();
+      }, 120);
+    });
+    /* Escape clears the box the way a search field is expected to. */
+    box.addEventListener('keydown', function (ev) {
+      if (ev.key === 'Escape' && box.value) {
+        box.value = ''; state.q = ''; paint();
+      }
+    });
+  }
+
+  if (clearBtn) {
+    clearBtn.addEventListener('click', function () {
+      if (box) box.value = '';
+      state.q = '';
+      setCat('');
+      paint();
+      if (box) box.focus();
+    });
+  }
+
+  /* Shadow under the bar only once it is actually stuck to the nav. */
+  if (bar) {
+    var ticking = false;
+    var onScroll = function () {
+      if (ticking) return;
+      ticking = true;
+      requestAnimationFrame(function () {
+        var navH = window.innerWidth <= 640 ? 56 : 64;
+        bar.classList.toggle('hub-toolbar--stuck',
+          bar.getBoundingClientRect().top <= navH + 1);
+        ticking = false;
+      });
+    };
+    window.addEventListener('scroll', onScroll, { passive: true });
+    onScroll();
+  }
+
+  var u = new URLSearchParams(location.search);
+  var c0 = u.get('cat') || '';
+  var q0 = u.get('q') || '';
+  if (c0 && chips.some(function (c) { return c.getAttribute('data-cat') === c0; })) setCat(c0);
+  if (q0 && box) { box.value = q0; state.q = norm(q0.trim()); }
+  if (u.get('sort') === 'az') setSort('az');
+  paint();
 })();
 """
 
