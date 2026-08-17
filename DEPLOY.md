@@ -19,6 +19,12 @@ article hero and the two titled share cards, and records the alt text in
 derivatives under `images/articles/` do. Run it before the other builders,
 because they read that manifest to decide which articles have a cover.
 
+`build_og.py` writes `og-image.png`, the fallback social card for every page
+without a cover of its own. It is not part of the per-build chain; run it when
+the branding, the tagline or the app screenshots change. Like the share cards
+it draws its text in Chromium, because Arabic needs bidi ordering and
+contextual shaping and nothing else here does both.
+
 `seo_audit.py` exits non-zero on blocker-level findings. It walks the working
 tree but skips anything gitignored, so what it audits is what ships.
 
@@ -40,7 +46,7 @@ Strip these:
 
 - `deck/` (71M) and `content/` (15M)
 - the builders and dev tooling: `build_about.py`, `build_chrome.py`,
-  `build_content.py`, `build_covers.py`, `build_site.py`, `build_tools.py`,
+  `build_content.py`, `build_covers.py`, `build_og.py`, `build_site.py`, `build_tools.py`,
   `build_visuals.py`, `cite.py`, `merge_batches.py`, `validate_batch.py`,
   `add-analytics.py`, `verify-analytics.js`, `seo_audit.py`
 - `email-signature.html`, `email-signature-ar.html` (email templates, not pages)
