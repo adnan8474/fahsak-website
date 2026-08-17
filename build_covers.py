@@ -54,35 +54,30 @@ TEXT_W = SHARE[0] - ART_W
 FADE = 70          # px over which the artwork dissolves into the text panel
 SCALE = 2          # render at 2x, downsample at the end, so the text is crisp
 
-# What each render actually depicts. Written per cover rather than generated
-# from the headline: a screen reader announcing the headline twice is noise,
-# and Google Images ranks on what the picture shows.
-ALTS = {
-    "thyroid-tsh-guide": (
-        "رسم ثلاثي الأبعاد للغدة الدرقية بجانب أنبوبي سحب دم لتحليل TSH",
-        "3D illustration of the thyroid gland beside two blood collection tubes for a TSH test",
-    ),
-    "high-blood-pressure-guide": (
-        "رسم ثلاثي الأبعاد لجهاز قياس ضغط الدم مع قلب ونبضة",
-        "3D illustration of a blood pressure monitor cuff with a heart and pulse line",
-    ),
-    "mental-health-in-syria": (
-        "رسم ثلاثي الأبعاد لرأس بشري مجرد تنبت منه أغصان، رمز التعافي النفسي",
-        "3D illustration of an abstract human head with growing branches, a symbol of recovery",
-    ),
-    "vitamin-b12-deficiency-guide": (
-        "رسم ثلاثي الأبعاد لكبسولة فيتامين ب12 مع خلايا دم حمراء",
-        "3D illustration of a vitamin B12 capsule with red blood cells",
-    ),
-    "pcos-guide": (
-        "رسم ثلاثي الأبعاد لحلقة الدورة الشهرية مع ميزان يمثل توازن الهرمونات",
-        "3D illustration of a menstrual cycle ring with a scale representing hormone balance",
-    ),
-    "measles-vaccination-syria": (
-        "رسم ثلاثي الأبعاد لقارورة لقاح ومحقنة ودرع حماية وبطاقة تطعيم",
-        "3D illustration of a vaccine vial, syringe, protection shield and immunisation card",
-    ),
-}
+PROMPTS = os.path.join(BASE, "content", "cover-prompts.json")
+
+
+def load_prompts():
+    """The brief for every cover: what to render, and what it depicts.
+
+    One file rather than a dict in this module, because there is one entry per
+    article and the list outgrew the code that reads it. It holds the subject
+    line each render was generated from, so a cover can be regenerated years
+    later without reverse-engineering it from the picture, and the alt text in
+    both languages.
+
+    The alt text is written per cover rather than derived from the headline. A
+    screen reader announcing the headline twice, once as the h1 and once as
+    the picture beneath it, is noise, and Google Images ranks on what the
+    picture shows rather than on what the page is called.
+    """
+    if not os.path.exists(PROMPTS):
+        return {}
+    with open(PROMPTS, encoding="utf-8") as fh:
+        return json.load(fh).get("covers", {})
+
+
+ALTS = load_prompts()
 
 
 # --------------------------------------------------------------------------
@@ -305,7 +300,8 @@ def main():
                         page, slug, lang, cat_name(lang, a.get("category")) or "",
                         head, sub, bg, icon)
 
-                alt_ar, alt_en = ALTS.get(slug, ("", ""))
+                brief = ALTS.get(slug, {})
+                alt_ar, alt_en = brief.get("alt_ar", ""), brief.get("alt_en", "")
                 manifest[slug] = {"alt_ar": alt_ar, "alt_en": alt_en}
                 kb = os.path.getsize(os.path.join(OUT, f"{slug}-share-ar.jpg")) // 1024
                 print(f"  ok {slug}  headline ar {sizes['ar']}px / en {sizes['en']}px, share {kb}KB")

@@ -1,0 +1,888 @@
+{
+  "_readme": "The brief for every article cover. build_covers.py reads alt_ar and alt_en from here; subject is the line the master render in covers-src/ was generated from, kept so a cover can be regenerated without reverse-engineering it from the picture. Generate with: subject + ' ' + _style.",
+  "_style": "Modern 3D render in a soft matte clay style. One hero subject, centred in frame, resting on a seamless warm cream floor with a soft contact shadow. Background is warm cream (#F7F2EC) carrying a very faint, large-scale Islamic geometric star pattern, barely visible. Palette: mint teal (#00D4AA to #2BB39A), deep navy (#1E3A5F), terracotta (#D98B6F) and off-white. Soft diffused studio lighting, gentle rim light, shallow depth of field, subtle glow accents. Generous empty cream space to the left and right of the subject. Absolutely no text, no letters, no numbers, no logos, no watermarks, no human faces. Clean editorial medical illustration, 16:9.",
+  "covers": {
+    "thyroid-tsh-guide": {
+      "subject": "A stylised thyroid gland in mint teal floating inside an open navy arc dotted with glowing nodes, two blood collection tubes with terracotta and navy caps lying in the foreground.",
+      "alt_ar": "رسم ثلاثي الأبعاد للغدة الدرقية بجانب أنبوبي سحب دم لتحليل TSH",
+      "alt_en": "3D illustration of the thyroid gland beside two blood collection tubes for a TSH test"
+    },
+    "high-blood-pressure-guide": {
+      "subject": "A blood pressure cuff coiled around a soft teal heart, a navy pulse line rising out of it.",
+      "alt_ar": "رسم ثلاثي الأبعاد لجهاز قياس ضغط الدم مع قلب ونبضة",
+      "alt_en": "3D illustration of a blood pressure monitor cuff with a heart and pulse line"
+    },
+    "mental-health-in-syria": {
+      "subject": "An abstract human head in matte navy, opened at the crown, with soft teal branches and leaves growing out of it.",
+      "alt_ar": "رسم ثلاثي الأبعاد لرأس بشري مجرد تنبت منه أغصان، رمز التعافي النفسي",
+      "alt_en": "3D illustration of an abstract human head with growing branches, a symbol of recovery"
+    },
+    "vitamin-b12-deficiency-guide": {
+      "subject": "A single glossy capsule split into terracotta and cream halves, orbited by a loose cluster of soft red blood cells.",
+      "alt_ar": "رسم ثلاثي الأبعاد لكبسولة فيتامين ب12 مع خلايا دم حمراء",
+      "alt_en": "3D illustration of a vitamin B12 capsule with red blood cells"
+    },
+    "pcos-guide": {
+      "subject": "A broken teal ring representing an interrupted monthly cycle, balanced on a small navy scale.",
+      "alt_ar": "رسم ثلاثي الأبعاد لحلقة الدورة الشهرية مع ميزان يمثل توازن الهرمونات",
+      "alt_en": "3D illustration of a menstrual cycle ring with a scale representing hormone balance"
+    },
+    "measles-vaccination-syria": {
+      "subject": "A vaccine vial and syringe standing in front of a translucent teal shield, a folded immunisation card at their base.",
+      "alt_ar": "رسم ثلاثي الأبعاد لقارورة لقاح ومحقنة ودرع حماية وبطاقة تطعيم",
+      "alt_en": "3D illustration of a vaccine vial, syringe, protection shield and immunisation card"
+    },
+
+    "adhd-in-children": {
+      "subject": "A child-sized head silhouette in soft navy with bright teal loops and tangled ribbons spilling from it, one ribbon straightening into a clean line.",
+      "alt_ar": "رسم ثلاثي الأبعاد لرأس طفل تخرج منه خيوط متشابكة يستقيم أحدها",
+      "alt_en": "3D illustration of a child's head with tangled ribbons, one straightening into a clear line"
+    },
+    "autism-early-signs": {
+      "subject": "Interlocking soft puzzle pieces in teal and navy arranged in a gentle spiral around one raised terracotta piece.",
+      "alt_ar": "رسم ثلاثي الأبعاد لقطع أحجية متشابكة حول قطعة مميزة",
+      "alt_en": "3D illustration of interlocking puzzle pieces around one distinct raised piece"
+    },
+    "bedwetting-guide": {
+      "subject": "A small bed with a teal blanket, a crescent moon and a soft water droplet floating above it, and a calm alarm clock beside it.",
+      "alt_ar": "رسم ثلاثي الأبعاد لسرير طفل مع هلال وقطرة ماء ومنبه",
+      "alt_en": "3D illustration of a child's bed with a crescent moon, a water droplet and an alarm clock"
+    },
+    "child-anemia-iron": {
+      "subject": "A pale teal child's building block beside a bowl of iron-rich lentils and a cluster of soft red blood cells, one noticeably paler than the rest.",
+      "alt_ar": "رسم ثلاثي الأبعاد لوعاء عدس مع خلايا دم حمراء إحداها شاحبة",
+      "alt_en": "3D illustration of a bowl of lentils with red blood cells, one of them pale"
+    },
+    "child-asthma-guide": {
+      "subject": "A small inhaler with a spacer and child's mask attached, a pair of soft teal lungs glowing gently behind it.",
+      "alt_ar": "رسم ثلاثي الأبعاد لبخاخ ربو مع حجرة استنشاق ورئتين",
+      "alt_en": "3D illustration of an asthma inhaler with a spacer and a pair of lungs"
+    },
+    "child-diarrhoea-dehydration": {
+      "subject": "A glass of oral rehydration solution with a measuring spoon of salt and sugar beside it, and a soft teal water droplet above.",
+      "alt_ar": "رسم ثلاثي الأبعاد لكوب محلول معالجة الجفاف مع ملعقة قياس وقطرة ماء",
+      "alt_en": "3D illustration of a glass of oral rehydration solution with a measuring spoon and a water droplet"
+    },
+    "child-fever-what-to-do": {
+      "subject": "A digital forehead thermometer beside a small teal teddy bear, a soft warm glow rising from the thermometer tip.",
+      "alt_ar": "رسم ثلاثي الأبعاد لمقياس حرارة رقمي بجانب دمية طفل",
+      "alt_en": "3D illustration of a digital thermometer beside a child's soft toy"
+    },
+    "child-growth-stunting": {
+      "subject": "A stepped growth curve rising in soft teal blocks, with a small measuring ruler standing beside it.",
+      "alt_ar": "رسم ثلاثي الأبعاد لمنحنى نمو صاعد مع مسطرة قياس الطول",
+      "alt_en": "3D illustration of a rising growth curve beside a height measuring ruler"
+    },
+    "child-malnutrition-and-feeding": {
+      "subject": "A child's bowl and spoon filled with soft rounded food shapes, a mid-upper-arm measuring tape band curled beside it.",
+      "alt_ar": "رسم ثلاثي الأبعاد لوعاء طعام طفل مع شريط قياس محيط العضد",
+      "alt_en": "3D illustration of a child's food bowl with a mid-upper-arm circumference tape"
+    },
+    "child-vaccination-schedule-arab": {
+      "subject": "A row of small vaccine vials of ascending height beside a folded immunisation card and a soft teal shield.",
+      "alt_ar": "رسم ثلاثي الأبعاد لصف قوارير لقاح مع بطاقة تطعيم ودرع",
+      "alt_en": "3D illustration of a row of vaccine vials with an immunisation card and a shield"
+    },
+    "newborn-jaundice": {
+      "subject": "A swaddled newborn form in soft cream under a warm amber glow, a small teal light panel arcing above.",
+      "alt_ar": "رسم ثلاثي الأبعاد لمولود ملفوف تحت ضوء علاجي دافئ",
+      "alt_en": "3D illustration of a swaddled newborn under a warm phototherapy light"
+    },
+    "rickets-vitamin-d-children": {
+      "subject": "A soft teal leg bone with a gentle bow curve, a warm sun disc glowing behind it and a vitamin D drop bottle at its base.",
+      "alt_ar": "رسم ثلاثي الأبعاد لعظمة ساق منحنية مع شمس وقطارة فيتامين د",
+      "alt_en": "3D illustration of a bowed leg bone with a sun and a vitamin D dropper bottle"
+    },
+
+    "asthma-control-guide": {
+      "subject": "Two inhalers side by side, one teal and one terracotta, in front of a pair of soft lungs with a calm airflow ribbon passing through them.",
+      "alt_ar": "رسم ثلاثي الأبعاد لبخاخين للربو أمام رئتين مع تيار هواء",
+      "alt_en": "3D illustration of two asthma inhalers in front of lungs with an airflow ribbon"
+    },
+    "chronic-kidney-disease-stages": {
+      "subject": "A pair of soft teal kidneys beside five descending steps that fade from teal to terracotta.",
+      "alt_ar": "رسم ثلاثي الأبعاد لكليتين بجانب خمس درجات متدرجة تمثل مراحل المرض",
+      "alt_en": "3D illustration of kidneys beside five descending steps representing disease stages"
+    },
+    "diabetic-foot-care": {
+      "subject": "A stylised bare foot in soft cream resting on a teal cushion, a magnifying lens hovering over the sole and a small protective shield beside it.",
+      "alt_ar": "رسم ثلاثي الأبعاد لقدم مع عدسة فحص ودرع حماية",
+      "alt_en": "3D illustration of a foot with an inspection magnifier and a protective shield"
+    },
+    "diabetic-retinopathy-eyes": {
+      "subject": "A stylised eye in navy and cream with fine teal vessel branches across it, a retinal camera lens ring glowing in front.",
+      "alt_ar": "رسم ثلاثي الأبعاد لعين مع أوعية دموية شبكية وعدسة فحص",
+      "alt_en": "3D illustration of an eye with retinal vessels and an examination lens"
+    },
+    "fatty-liver-disease": {
+      "subject": "A soft liver form in teal with pale cream droplets embedded in its surface, one clean segment showing beneath.",
+      "alt_ar": "رسم ثلاثي الأبعاد لكبد تتخلله قطرات دهنية",
+      "alt_en": "3D illustration of a liver with fat droplets embedded in it"
+    },
+    "gerd-acid-reflux": {
+      "subject": "A stylised stomach in soft teal with a warm terracotta glow rising up the oesophagus, and an antacid tablet dissolving beside it.",
+      "alt_ar": "رسم ثلاثي الأبعاد لمعدة مع ارتجاع حمضي صاعد وقرص مضاد للحموضة",
+      "alt_en": "3D illustration of a stomach with rising acid reflux and an antacid tablet"
+    },
+    "gout-treatment-diet": {
+      "subject": "A big toe joint in soft cream glowing terracotta at the knuckle, sharp crystal shards floating above it.",
+      "alt_ar": "رسم ثلاثي الأبعاد لمفصل إصبع القدم الملتهب مع بلورات حمض اليوريك",
+      "alt_en": "3D illustration of an inflamed toe joint with uric acid crystals"
+    },
+    "heart-failure-explained": {
+      "subject": "A soft teal heart slightly enlarged, resting inside a gentle navy support cradle, with a weakened pulse line beside it.",
+      "alt_ar": "رسم ثلاثي الأبعاد لقلب متضخم مع خط نبض ضعيف",
+      "alt_en": "3D illustration of an enlarged heart with a weakened pulse line"
+    },
+    "hyperthyroidism-overactive-thyroid": {
+      "subject": "A thyroid gland in bright teal with an accelerating dial arc around it swung fully to the high end, its needle in terracotta.",
+      "alt_ar": "رسم ثلاثي الأبعاد للغدة الدرقية مع مؤشر مرتفع يمثل فرط النشاط",
+      "alt_en": "3D illustration of the thyroid gland with a dial swung high, representing overactivity"
+    },
+    "hypothyroidism-underactive-thyroid": {
+      "subject": "A muted teal thyroid gland with a dial arc swung to the low end, a single small tablet resting in front of it.",
+      "alt_ar": "رسم ثلاثي الأبعاد للغدة الدرقية مع مؤشر منخفض وقرص دواء",
+      "alt_en": "3D illustration of the thyroid gland with a dial swung low and a single tablet"
+    },
+    "ibs-irritable-bowel": {
+      "subject": "A softly coiled intestine in teal with one irritated terracotta segment, and a calm navy ring settling around it.",
+      "alt_ar": "رسم ثلاثي الأبعاد لأمعاء ملتوية مع جزء متهيج",
+      "alt_en": "3D illustration of a coiled intestine with one irritated segment"
+    },
+    "iron-deficiency-anemia-guide": {
+      "subject": "A cluster of soft red blood cells, several noticeably pale and small, beside a compact iron tablet blister.",
+      "alt_ar": "رسم ثلاثي الأبعاد لخلايا دم حمراء شاحبة بجانب أقراص حديد",
+      "alt_en": "3D illustration of pale red blood cells beside a blister pack of iron tablets"
+    },
+    "migraine-treatment": {
+      "subject": "A head silhouette in soft navy with a bright jagged aura arc cutting across one side, and a scattering of loose tablets below.",
+      "alt_ar": "رسم ثلاثي الأبعاد لرأس مع هالة الصداع النصفي وأقراص مسكنة",
+      "alt_en": "3D illustration of a head with a migraine aura arc and scattered painkiller tablets"
+    },
+    "osteoporosis-bone-health": {
+      "subject": "A cross-sectioned bone showing a dense teal lattice on one half and a thinned, porous lattice on the other.",
+      "alt_ar": "رسم ثلاثي الأبعاد لمقطع عظمي يقارن بين نسيج كثيف وآخر هش",
+      "alt_en": "3D illustration of a bone cross-section comparing dense and porous structure"
+    },
+    "prediabetes-reversing-it": {
+      "subject": "A dial arc in teal with its needle sitting just before a terracotta zone, a pair of walking shoes and an apple at its base.",
+      "alt_ar": "رسم ثلاثي الأبعاد لمؤشر يقترب من المنطقة الحمراء مع حذاء رياضي وتفاحة",
+      "alt_en": "3D illustration of a gauge approaching a red zone with running shoes and an apple"
+    },
+    "stroke-warning-signs": {
+      "subject": "A brain in soft cream with one hemisphere shaded terracotta, a large clock face beside it with its hands sweeping fast.",
+      "alt_ar": "رسم ثلاثي الأبعاد لدماغ مع منطقة متأثرة وساعة تدل على أهمية الوقت",
+      "alt_en": "3D illustration of a brain with an affected area beside a clock showing urgency"
+    },
+    "type-2-diabetes-complete-guide": {
+      "subject": "A glucose meter with a soft teal drop of blood on its strip, an insulin pen and a small plate of dates beside it.",
+      "alt_ar": "رسم ثلاثي الأبعاد لجهاز قياس السكر مع قلم إنسولين وطبق تمر",
+      "alt_en": "3D illustration of a glucose meter with an insulin pen and a small plate of dates"
+    },
+
+    "congenital-hypothyroidism-newborn": {
+      "subject": "A newborn heel with a single teal blood spot card beside it and a small thyroid gland form glowing gently above.",
+      "alt_ar": "رسم ثلاثي الأبعاد لبطاقة عينة دم من كعب المولود مع الغدة الدرقية",
+      "alt_en": "3D illustration of a newborn heel prick blood spot card with a thyroid gland"
+    },
+    "cousin-marriage-genetic-risk": {
+      "subject": "Two interlinked family tree branches in navy meeting at a shared root, with a teal DNA helix rising between them.",
+      "alt_ar": "رسم ثلاثي الأبعاد لفرعي شجرة عائلة يلتقيان مع لولب حمض نووي",
+      "alt_en": "3D illustration of two family tree branches meeting with a DNA helix between them"
+    },
+    "cystic-fibrosis-arab-families": {
+      "subject": "A pair of soft teal lungs with thick cream mucus strands across the airways, and a small sweat test electrode beside them.",
+      "alt_ar": "رسم ثلاثي الأبعاد لرئتين مع مخاط كثيف واختبار العرق",
+      "alt_en": "3D illustration of lungs with thick mucus and a sweat test electrode"
+    },
+    "down-syndrome-screening": {
+      "subject": "A teal chromosome pair with a third copy set slightly apart, beside a soft probability dial.",
+      "alt_ar": "رسم ثلاثي الأبعاد لزوج كروموسومات مع نسخة ثالثة ومؤشر احتمال",
+      "alt_en": "3D illustration of a chromosome pair with a third copy beside a probability dial"
+    },
+    "familial-mediterranean-fever": {
+      "subject": "A calendar-like ring of soft cream discs with a few flaring terracotta, and a single small tablet at the centre.",
+      "alt_ar": "رسم ثلاثي الأبعاد لحلقة نوبات متكررة مع قرص دواء يومي",
+      "alt_en": "3D illustration of a ring of recurring flare-ups with a single daily tablet"
+    },
+    "g6pd-deficiency-favism": {
+      "subject": "An open broad bean pod in teal beside a red blood cell breaking apart, and a small crossed-out tablet.",
+      "alt_ar": "رسم ثلاثي الأبعاد لقرن فول مع خلية دم حمراء متكسرة",
+      "alt_en": "3D illustration of a broad bean pod beside a breaking red blood cell"
+    },
+    "genetic-counselling-arab-families": {
+      "subject": "A family tree diagram in soft navy with teal and cream nodes, a magnifying lens resting over one branch.",
+      "alt_ar": "رسم ثلاثي الأبعاد لشجرة عائلة وراثية مع عدسة فحص",
+      "alt_en": "3D illustration of a genetic family tree with a magnifying lens over one branch"
+    },
+    "hemophilia-guide": {
+      "subject": "A soft blood droplet with a broken clotting mesh across it and a small factor concentrate vial beside it.",
+      "alt_ar": "رسم ثلاثي الأبعاد لقطرة دم مع شبكة تخثر ناقصة وقارورة عامل تخثر",
+      "alt_en": "3D illustration of a blood droplet with an incomplete clotting mesh and a factor vial"
+    },
+    "newborn-screening-heel-prick": {
+      "subject": "A blood spot card with a row of soft teal circles, one filled, and a tiny lancet resting alongside.",
+      "alt_ar": "رسم ثلاثي الأبعاد لبطاقة فحص حديثي الولادة مع مشرط صغير",
+      "alt_en": "3D illustration of a newborn screening blood spot card with a small lancet"
+    },
+    "premarital-screening-guide": {
+      "subject": "Two interlocking rings in teal and navy resting beside a rack of small blood tubes.",
+      "alt_ar": "رسم ثلاثي الأبعاد لخاتمين متشابكين بجانب حامل أنابيب فحص الدم",
+      "alt_en": "3D illustration of two interlocking rings beside a rack of blood test tubes"
+    },
+    "sickle-cell-disease-guide": {
+      "subject": "A cluster of round red blood cells with several curved into crescent shapes, catching in a narrowed teal vessel.",
+      "alt_ar": "رسم ثلاثي الأبعاد لخلايا دم منجلية تعلق في وعاء دموي ضيق",
+      "alt_en": "3D illustration of sickle-shaped red blood cells catching in a narrowed vessel"
+    },
+    "thalassemia-consanguinity-syria": {
+      "subject": "Two teal carrier figures linked by a soft navy line, with four small outcome discs below and a blood transfusion bag beside them.",
+      "alt_ar": "رسم ثلاثي الأبعاد لتوريث الثلاسيميا مع كيس نقل دم",
+      "alt_en": "3D illustration of thalassaemia inheritance with a blood transfusion bag"
+    },
+
+    "aleppo-boil-leishmaniasis-syria": {
+      "subject": "A single raised skin lesion rendered as a soft crater on a cream surface, with a stylised sandfly silhouette in navy hovering above it.",
+      "alt_ar": "رسم ثلاثي الأبعاد لقرحة جلدية مع ذبابة الرمل الناقلة للمرض",
+      "alt_en": "3D illustration of a skin lesion with the sandfly that transmits the disease"
+    },
+    "antibiotic-resistance-arab-world": {
+      "subject": "A capsule in teal and cream standing before a wall of small bacteria forms, one bacterium glowing terracotta and unharmed.",
+      "alt_ar": "رسم ثلاثي الأبعاد لكبسولة مضاد حيوي أمام بكتيريا مقاومة",
+      "alt_en": "3D illustration of an antibiotic capsule facing bacteria, one of them resistant"
+    },
+    "brucellosis-malta-fever": {
+      "subject": "A glass jug of raw milk and a wedge of homemade white cheese, with a soft teal bacterium form floating above them.",
+      "alt_ar": "رسم ثلاثي الأبعاد لإبريق حليب خام وقطعة جبن مع بكتيريا",
+      "alt_en": "3D illustration of a jug of raw milk and homemade cheese with a bacterium"
+    },
+    "cholera-outbreak-guide": {
+      "subject": "A glass of water with a teal comma-shaped bacterium inside it, an oral rehydration sachet leaning against the base.",
+      "alt_ar": "رسم ثلاثي الأبعاد لكوب ماء ملوث مع كيس محلول معالجة الجفاف",
+      "alt_en": "3D illustration of a glass of contaminated water with an oral rehydration sachet"
+    },
+    "dengue-fever-gulf": {
+      "subject": "A striped mosquito in navy and cream resting beside a thermometer and a crossed-out tablet.",
+      "alt_ar": "رسم ثلاثي الأبعاد لبعوضة مع مقياس حرارة وقرص دواء ممنوع",
+      "alt_en": "3D illustration of a mosquito with a thermometer and a prohibited tablet"
+    },
+    "food-poisoning-guide": {
+      "subject": "A covered plate with a soft warning triangle in terracotta rising from it, and a glass of rehydration fluid beside it.",
+      "alt_ar": "رسم ثلاثي الأبعاد لطبق طعام مع علامة تحذير وكوب سوائل",
+      "alt_en": "3D illustration of a plate of food with a warning symbol and a glass of fluids"
+    },
+    "hepatitis-b-guide": {
+      "subject": "A soft teal liver beside three small marker discs in navy, teal and terracotta, and a vaccine vial in the foreground.",
+      "alt_ar": "رسم ثلاثي الأبعاد لكبد مع دلالات فحص التهاب الكبد ب وقارورة لقاح",
+      "alt_en": "3D illustration of a liver with hepatitis B test markers and a vaccine vial"
+    },
+    "hepatitis-c-cure": {
+      "subject": "A soft teal liver with a healed seam across it, and a blister strip of tablets curving beside it.",
+      "alt_ar": "رسم ثلاثي الأبعاد لكبد متعافٍ مع شريط أقراص علاجية",
+      "alt_en": "3D illustration of a healed liver with a strip of treatment tablets"
+    },
+    "hydatid-cyst-echinococcosis": {
+      "subject": "A soft liver form in teal with a single translucent fluid-filled sphere embedded in it, and a stylised dog silhouette in navy behind.",
+      "alt_ar": "رسم ثلاثي الأبعاد لكبد يحتوي كيسة مائية مع ظل كلب",
+      "alt_en": "3D illustration of a liver containing a fluid-filled cyst with a dog silhouette"
+    },
+    "leishmaniasis-prevention": {
+      "subject": "A fine mesh bed net draped in soft cream with a sandfly silhouette turned away from it, and a repellent bottle beside.",
+      "alt_ar": "رسم ثلاثي الأبعاد لناموسية مع ذبابة رمل وزجاجة طارد للحشرات",
+      "alt_en": "3D illustration of a bed net with a sandfly and a bottle of insect repellent"
+    },
+    "malaria-symptoms-prevention": {
+      "subject": "A mosquito in navy beside a blood smear slide showing tiny teal parasite dots, and a rapid test cassette.",
+      "alt_ar": "رسم ثلاثي الأبعاد لبعوضة مع شريحة دم واختبار سريع للملاريا",
+      "alt_en": "3D illustration of a mosquito with a blood smear slide and a rapid malaria test"
+    },
+    "meningitis-warning-signs": {
+      "subject": "A soft brain form wrapped in an inflamed terracotta membrane, with a clear drinking glass pressed against a patch of skin beside it.",
+      "alt_ar": "رسم ثلاثي الأبعاد لأغشية دماغية ملتهبة مع اختبار الكوب الزجاجي",
+      "alt_en": "3D illustration of inflamed brain membranes with the glass tumbler rash test"
+    },
+    "scabies-treatment": {
+      "subject": "A magnified mite form in navy on a soft cream skin surface with a fine burrow line, and a tube of cream beside it.",
+      "alt_ar": "رسم ثلاثي الأبعاد لعثة الجرب على الجلد مع أنبوب كريم علاجي",
+      "alt_en": "3D illustration of a scabies mite on skin with a tube of treatment cream"
+    },
+    "schistosomiasis-bilharzia": {
+      "subject": "A freshwater snail shell in cream and terracotta at the edge of a teal water surface, with a slender parasite form in the water.",
+      "alt_ar": "رسم ثلاثي الأبعاد لقوقعة مياه عذبة مع طفيلي البلهارسيا",
+      "alt_en": "3D illustration of a freshwater snail with the bilharzia parasite in the water"
+    },
+    "tuberculosis-symptoms-treatment": {
+      "subject": "A pair of soft teal lungs with a small shaded upper lobe, in front of a six-segment pill organiser arc.",
+      "alt_ar": "رسم ثلاثي الأبعاد لرئتين مع منظم أدوية لستة أشهر",
+      "alt_en": "3D illustration of lungs with a six-month pill organiser"
+    },
+    "typhoid-fever-guide": {
+      "subject": "A tap dripping into a glass, a thermometer with a climbing terracotta column standing beside it.",
+      "alt_ar": "رسم ثلاثي الأبعاد لصنبور ماء وكوب مع مقياس حرارة مرتفع",
+      "alt_en": "3D illustration of a dripping tap and glass with a rising thermometer"
+    },
+    "urinary-tract-infection-uti": {
+      "subject": "A bladder form in soft teal with a urine dipstick strip laid across the foreground showing coloured pads.",
+      "alt_ar": "رسم ثلاثي الأبعاد للمثانة مع شريط فحص البول",
+      "alt_en": "3D illustration of a bladder with a urine dipstick test strip"
+    },
+
+    "blood-test-fasting-rules": {
+      "subject": "A blood collection tube standing beside a covered plate and a clock face marking an overnight span.",
+      "alt_ar": "رسم ثلاثي الأبعاد لأنبوب سحب دم مع طبق مغطى وساعة الصيام",
+      "alt_en": "3D illustration of a blood tube with a covered plate and a clock marking fasting hours"
+    },
+    "cbc-blood-test-explained": {
+      "subject": "A lavender-capped blood tube with red blood cells, one white cell and small platelet discs floating out of it in a soft arc.",
+      "alt_ar": "رسم ثلاثي الأبعاد لأنبوب دم مع كريات حمراء وبيضاء وصفائح دموية",
+      "alt_en": "3D illustration of a blood tube with red cells, a white cell and platelets"
+    },
+    "cholesterol-lipid-panel-guide": {
+      "subject": "A cross-sectioned blood vessel in teal with a soft cream plaque on one wall, and two lipid droplets floating above.",
+      "alt_ar": "رسم ثلاثي الأبعاد لمقطع شريان مع ترسبات دهنية وقطرات كوليسترول",
+      "alt_en": "3D illustration of an artery cross-section with plaque and lipid droplets"
+    },
+    "choosing-a-lab-arab-countries": {
+      "subject": "A laboratory microscope in navy beside an accreditation ribbon seal in teal and a rack of sample tubes.",
+      "alt_ar": "رسم ثلاثي الأبعاد لمجهر مختبر مع ختم اعتماد وأنابيب عينات",
+      "alt_en": "3D illustration of a laboratory microscope with an accreditation seal and sample tubes"
+    },
+    "coagulation-tests-inr-pt-ptt": {
+      "subject": "A blue-capped citrate blood tube with a fine teal clotting mesh forming above it and a small stopwatch beside.",
+      "alt_ar": "رسم ثلاثي الأبعاد لأنبوب فحص التخثر مع شبكة تخثر وساعة توقيت",
+      "alt_en": "3D illustration of a coagulation blood tube with a clotting mesh and a stopwatch"
+    },
+    "creatinine-egfr-kidney": {
+      "subject": "A pair of teal kidneys with a fine filtration mesh between them and a small calculation dial in navy.",
+      "alt_ar": "رسم ثلاثي الأبعاد للكليتين مع شبكة ترشيح ومؤشر حساب",
+      "alt_en": "3D illustration of kidneys with a filtration mesh and a calculation dial"
+    },
+    "crp-test-inflammation": {
+      "subject": "A blood tube beside a glowing terracotta ember sphere representing inflammation, with a measuring scale arc around it.",
+      "alt_ar": "رسم ثلاثي الأبعاد لأنبوب دم مع كرة متوهجة تمثل الالتهاب ومقياس",
+      "alt_en": "3D illustration of a blood tube with a glowing sphere representing inflammation and a scale"
+    },
+    "esr-test-explained": {
+      "subject": "A tall narrow glass tube held upright with red cells settled into a band near the bottom and clear plasma above.",
+      "alt_ar": "رسم ثلاثي الأبعاد لأنبوب فحص سرعة الترسيب مع ترسب كريات الدم",
+      "alt_en": "3D illustration of an ESR tube with red cells settled below clear plasma"
+    },
+    "ferritin-test-iron-stores": {
+      "subject": "A rounded storage vessel in teal partly filled with small iron spheres, a blood tube standing beside it.",
+      "alt_ar": "رسم ثلاثي الأبعاد لمخزن حديد نصف ممتلئ بجانب أنبوب دم",
+      "alt_en": "3D illustration of a half-filled iron store beside a blood tube"
+    },
+    "h-pylori-test-explained": {
+      "subject": "A stomach form in soft teal with a spiral bacterium beside it, a breath test collection bag and a stool sample pot in front.",
+      "alt_ar": "رسم ثلاثي الأبعاد لمعدة مع بكتيريا حلزونية وكيس اختبار التنفس",
+      "alt_en": "3D illustration of a stomach with a spiral bacterium and a breath test bag"
+    },
+    "hba1c-test-explained": {
+      "subject": "A red blood cell with small glucose spheres bonded to its surface, beside a three-month calendar arc in teal.",
+      "alt_ar": "رسم ثلاثي الأبعاد لكرية دم حمراء مرتبطة بالسكر مع قوس ثلاثة أشهر",
+      "alt_en": "3D illustration of a red blood cell bonded with glucose beside a three-month arc"
+    },
+    "how-to-read-blood-test-results": {
+      "subject": "A folded lab report sheet in cream with soft teal bars and a magnifying lens resting over it, a blood tube alongside.",
+      "alt_ar": "رسم ثلاثي الأبعاد لتقرير تحليل دم مع عدسة مكبرة وأنبوب عينة",
+      "alt_en": "3D illustration of a blood test report with a magnifying lens and a sample tube"
+    },
+    "kidney-function-tests-guide": {
+      "subject": "A pair of soft teal kidneys with three small marker discs in front and a urine sample pot beside them.",
+      "alt_ar": "رسم ثلاثي الأبعاد للكليتين مع دلالات وظائف الكلى وعينة بول",
+      "alt_en": "3D illustration of kidneys with function test markers and a urine sample pot"
+    },
+    "liver-enzymes-alt-ast": {
+      "subject": "A soft teal liver with two enzyme marker spheres rising out of it, one taller than the other, on a low bar base.",
+      "alt_ar": "رسم ثلاثي الأبعاد للكبد مع مؤشري إنزيمات مرتفعين",
+      "alt_en": "3D illustration of a liver with two raised enzyme markers"
+    },
+    "liver-function-tests-guide": {
+      "subject": "A soft teal liver beside a rack of small blood tubes and a folded report card with faint bars.",
+      "alt_ar": "رسم ثلاثي الأبعاد للكبد مع أنابيب فحص وتقرير نتائج",
+      "alt_en": "3D illustration of a liver with blood test tubes and a results report"
+    },
+    "semen-analysis-explained": {
+      "subject": "A microscope slide in soft cream with abstract teal motile forms across it, and a sample collection pot beside.",
+      "alt_ar": "رسم ثلاثي الأبعاد لشريحة مجهر لتحليل السائل المنوي مع وعاء عينة",
+      "alt_en": "3D illustration of a microscope slide for semen analysis with a sample pot"
+    },
+    "stool-analysis-parasites": {
+      "subject": "A small sample pot with a screw cap beside a microscope slide showing abstract teal parasite ovals.",
+      "alt_ar": "رسم ثلاثي الأبعاد لوعاء عينة براز مع شريحة مجهر تظهر طفيليات",
+      "alt_en": "3D illustration of a stool sample pot with a microscope slide showing parasites"
+    },
+    "thyroid-antibodies-tpo": {
+      "subject": "A thyroid gland in teal with small Y-shaped antibody forms in terracotta approaching its surface.",
+      "alt_ar": "رسم ثلاثي الأبعاد للغدة الدرقية مع أجسام مضادة تهاجمها",
+      "alt_en": "3D illustration of the thyroid gland with antibodies approaching it"
+    },
+    "troponin-heart-attack-test": {
+      "subject": "A soft teal heart with a rising terracotta curve beside it and a small blood tube in the foreground.",
+      "alt_ar": "رسم ثلاثي الأبعاد لقلب مع منحنى صاعد للتروبونين وأنبوب دم",
+      "alt_en": "3D illustration of a heart with a rising troponin curve and a blood tube"
+    },
+    "uric-acid-test-gout": {
+      "subject": "A blood tube beside a small cluster of sharp crystal shards and an inflamed toe joint form in soft terracotta.",
+      "alt_ar": "رسم ثلاثي الأبعاد لأنبوب دم مع بلورات حمض اليوريك ومفصل ملتهب",
+      "alt_en": "3D illustration of a blood tube with uric acid crystals and an inflamed joint"
+    },
+    "urine-analysis-explained": {
+      "subject": "A urine sample pot in soft amber with a dipstick strip beside it showing a row of coloured pads.",
+      "alt_ar": "رسم ثلاثي الأبعاد لعينة بول مع شريط فحص متعدد الألوان",
+      "alt_en": "3D illustration of a urine sample with a multi-pad dipstick test strip"
+    },
+    "vitamin-d-blood-test": {
+      "subject": "A warm sun disc glowing behind a blood collection tube, with a small vitamin D capsule resting in front.",
+      "alt_ar": "رسم ثلاثي الأبعاد لشمس خلف أنبوب دم مع كبسولة فيتامين د",
+      "alt_en": "3D illustration of a sun behind a blood tube with a vitamin D capsule"
+    },
+
+    "back-pain-guide": {
+      "subject": "A stylised lower spine segment in soft cream and teal with one vertebra glowing terracotta, and a rolled exercise mat beside it.",
+      "alt_ar": "رسم ثلاثي الأبعاد لأسفل العمود الفقري مع فقرة مؤلمة وبساط تمارين",
+      "alt_en": "3D illustration of a lower spine with one painful vertebra and an exercise mat"
+    },
+    "better-sleep-guide": {
+      "subject": "A soft pillow and folded teal blanket with a crescent moon above and a silenced phone lying face down beside them.",
+      "alt_ar": "رسم ثلاثي الأبعاد لوسادة وبطانية مع هلال وهاتف مقلوب",
+      "alt_en": "3D illustration of a pillow and blanket with a crescent moon and a face-down phone"
+    },
+    "blood-pressure-home-monitoring": {
+      "subject": "A home blood pressure monitor with its cuff wrapped around a cushioned armrest, and a small notebook beside it.",
+      "alt_ar": "رسم ثلاثي الأبعاد لجهاز ضغط منزلي مع مسند ذراع ودفتر تسجيل",
+      "alt_en": "3D illustration of a home blood pressure monitor with an armrest and a logbook"
+    },
+    "dental-health-guide": {
+      "subject": "A single clean molar in soft cream beside a teal toothbrush and a coiled length of dental floss.",
+      "alt_ar": "رسم ثلاثي الأبعاد لضرس مع فرشاة أسنان وخيط تنظيف",
+      "alt_en": "3D illustration of a molar with a toothbrush and dental floss"
+    },
+    "exercise-in-hot-climates": {
+      "subject": "A pair of running shoes and a water bottle under a strong sun disc, with a shaded cool zone in teal behind them.",
+      "alt_ar": "رسم ثلاثي الأبعاد لحذاء رياضي وزجاجة ماء تحت الشمس مع منطقة ظل",
+      "alt_en": "3D illustration of running shoes and a water bottle under the sun with a shaded zone"
+    },
+    "eye-strain-screens": {
+      "subject": "A stylised eye in cream and navy in front of a glowing screen rectangle, with a small teal distance arc between them.",
+      "alt_ar": "رسم ثلاثي الأبعاد لعين أمام شاشة مضيئة مع قوس مسافة",
+      "alt_en": "3D illustration of an eye in front of a glowing screen with a distance arc"
+    },
+    "first-aid-basics-home": {
+      "subject": "An open first aid box in teal with a rolled bandage, gauze pad and a pair of scissors resting in front of it.",
+      "alt_ar": "رسم ثلاثي الأبعاد لصندوق إسعافات أولية مفتوح مع ضمادات ومقص",
+      "alt_en": "3D illustration of an open first aid box with bandages, gauze and scissors"
+    },
+    "hajj-umrah-health-guide": {
+      "subject": "A small travel bag in cream with a water bottle, a vaccine card, a folded umbrella and a blister pack arranged beside it.",
+      "alt_ar": "رسم ثلاثي الأبعاد لحقيبة سفر مع ماء وبطاقة تطعيم ومظلة وأدوية",
+      "alt_en": "3D illustration of a travel bag with water, a vaccination card, an umbrella and medicines"
+    },
+    "heat-stroke-prevention": {
+      "subject": "A thermometer with a climbing terracotta column beside a large sun disc, and a cold water bottle with condensation in front.",
+      "alt_ar": "رسم ثلاثي الأبعاد لمقياس حرارة مرتفع مع شمس وزجاجة ماء باردة",
+      "alt_en": "3D illustration of a rising thermometer with a sun and a cold water bottle"
+    },
+    "ramadan-fasting-chronic-disease": {
+      "subject": "A crescent moon in navy above a small plate of dates and a glucose meter, with a pill organiser beside them.",
+      "alt_ar": "رسم ثلاثي الأبعاد لهلال رمضان مع تمر وجهاز قياس السكر ومنظم أدوية",
+      "alt_en": "3D illustration of a crescent moon with dates, a glucose meter and a pill organiser"
+    },
+    "shisha-hookah-health-risks": {
+      "subject": "A waterpipe rendered in soft matte navy and teal with a faint smoke ribbon rising from it, and a pair of lungs shaded behind.",
+      "alt_ar": "رسم ثلاثي الأبعاد لأرجيلة مع خيط دخان ورئتين متأثرتين",
+      "alt_en": "3D illustration of a waterpipe with a smoke ribbon and affected lungs"
+    },
+    "sitting-and-sedentary-risk": {
+      "subject": "An office chair in soft navy with a clock face behind it and a small teal figure of walking legs stepping away.",
+      "alt_ar": "رسم ثلاثي الأبعاد لكرسي مكتب مع ساعة وخطوات تبتعد",
+      "alt_en": "3D illustration of an office chair with a clock and walking steps moving away"
+    },
+    "smoking-in-syria": {
+      "subject": "A snapped cigarette in cream and terracotta lying beside a small waterpipe form, with a pair of teal lungs behind them.",
+      "alt_ar": "رسم ثلاثي الأبعاد لسيجارة مكسورة وأرجيلة مع رئتين",
+      "alt_en": "3D illustration of a broken cigarette and a waterpipe with a pair of lungs"
+    },
+    "sun-exposure-skin-and-vitamin-d": {
+      "subject": "A sun disc with soft rays falling on a patch of skin surface, a sunscreen tube and a small vitamin D capsule at the base.",
+      "alt_ar": "رسم ثلاثي الأبعاد لأشعة الشمس على الجلد مع واقي شمس وكبسولة فيتامين د",
+      "alt_en": "3D illustration of sunlight on skin with sunscreen and a vitamin D capsule"
+    },
+    "travel-health-preparation": {
+      "subject": "A small suitcase in teal with a vaccine card, a blister strip and a compact first aid pouch resting against it.",
+      "alt_ar": "رسم ثلاثي الأبعاد لحقيبة سفر مع بطاقة تطعيم وأدوية وحقيبة إسعافات",
+      "alt_en": "3D illustration of a suitcase with a vaccination card, medicines and a first aid pouch"
+    },
+    "walking-for-health": {
+      "subject": "A pair of walking shoes in cream and teal with a soft trail of footprints curving behind them and a step counter band beside.",
+      "alt_ar": "رسم ثلاثي الأبعاد لحذاء مشي مع آثار خطوات وسوار عداد خطوات",
+      "alt_en": "3D illustration of walking shoes with a trail of footprints and a step counter band"
+    },
+    "weight-loss-that-works": {
+      "subject": "A balance scale with a plate of vegetables on one side and a pair of trainers on the other, resting level.",
+      "alt_ar": "رسم ثلاثي الأبعاد لميزان متوازن بين طبق خضار وحذاء رياضي",
+      "alt_en": "3D illustration of a balanced scale between a plate of vegetables and trainers"
+    },
+
+    "antibiotics-when-you-need-them": {
+      "subject": "A capsule in teal and cream standing between a bacterium form and a virus form, angled clearly towards the bacterium.",
+      "alt_ar": "رسم ثلاثي الأبعاد لكبسولة مضاد حيوي بين بكتيريا وفيروس",
+      "alt_en": "3D illustration of an antibiotic capsule between a bacterium and a virus"
+    },
+    "blood-thinners-warfarin-doacs": {
+      "subject": "A blood droplet with a loosened teal clotting mesh, a small tablet and a blue-capped test tube beside it.",
+      "alt_ar": "رسم ثلاثي الأبعاد لقطرة دم مع شبكة تخثر مرتخية وقرص مميع وأنبوب فحص",
+      "alt_en": "3D illustration of a blood droplet with a loosened clot mesh, a tablet and a test tube"
+    },
+    "counterfeit-medicines-arab": {
+      "subject": "Two identical blister packs side by side, one crisp in teal and one subtly warped in dull grey, with a magnifying lens over them.",
+      "alt_ar": "رسم ثلاثي الأبعاد لعلبتي دواء متشابهتين إحداهما مزيفة مع عدسة فحص",
+      "alt_en": "3D illustration of two look-alike medicine packs, one counterfeit, with a magnifying lens"
+    },
+    "drug-interactions-guide": {
+      "subject": "Two capsules in teal and terracotta meeting at an angle with a small spark of light between them, on a low navy base.",
+      "alt_ar": "رسم ثلاثي الأبعاد لكبسولتين تتفاعلان مع ومضة بينهما",
+      "alt_en": "3D illustration of two capsules interacting with a spark between them"
+    },
+    "ibuprofen-nsaids-risks": {
+      "subject": "A round tablet in terracotta above a soft stomach form and a kidney form, both tinted with a faint warning glow.",
+      "alt_ar": "رسم ثلاثي الأبعاد لقرص مسكن فوق معدة وكلية مع توهج تحذيري",
+      "alt_en": "3D illustration of a painkiller tablet above a stomach and a kidney with a warning glow"
+    },
+    "inhaler-technique-guide": {
+      "subject": "An inhaler tilted upright with a spacer attached and a soft teal mist ribbon travelling down into a pair of lungs.",
+      "alt_ar": "رسم ثلاثي الأبعاد لبخاخ مع حجرة استنشاق ورذاذ يصل إلى الرئتين",
+      "alt_en": "3D illustration of an inhaler with a spacer and mist travelling into the lungs"
+    },
+    "insulin-types-explained": {
+      "subject": "Three insulin pens of different cap colours standing in a row, each with a differently shaped action curve behind it.",
+      "alt_ar": "رسم ثلاثي الأبعاد لثلاثة أقلام إنسولين مع منحنيات مفعول مختلفة",
+      "alt_en": "3D illustration of three insulin pens with different action curves behind them"
+    },
+    "levothyroxine-how-to-take": {
+      "subject": "A single small tablet beside a glass of water and a clock face set to early morning, with a covered breakfast plate set back.",
+      "alt_ar": "رسم ثلاثي الأبعاد لقرص دواء مع كوب ماء وساعة صباحية وطبق فطور",
+      "alt_en": "3D illustration of a tablet with a glass of water, a morning clock and a breakfast plate"
+    },
+    "metformin-guide": {
+      "subject": "An oval tablet in cream resting in front of a glucose meter and a small stomach form with a gentle teal glow.",
+      "alt_ar": "رسم ثلاثي الأبعاد لقرص ميتفورمين مع جهاز قياس السكر ومعدة",
+      "alt_en": "3D illustration of a metformin tablet with a glucose meter and a stomach"
+    },
+    "painkillers-and-your-kidneys": {
+      "subject": "A pair of teal kidneys with a small stack of tablets balanced above them and a fine filtration mesh under strain.",
+      "alt_ar": "رسم ثلاثي الأبعاد للكليتين مع أقراص مسكنة فوقهما وشبكة ترشيح",
+      "alt_en": "3D illustration of kidneys with painkiller tablets above them and a filtration mesh"
+    },
+    "paracetamol-safe-use": {
+      "subject": "A single tablet in cream in front of a boxed cold and flu sachet, with a soft dose dial arc in teal beside them.",
+      "alt_ar": "رسم ثلاثي الأبعاد لقرص باراسيتامول مع كيس دواء برد ومؤشر جرعة",
+      "alt_en": "3D illustration of a paracetamol tablet with a cold remedy sachet and a dose dial"
+    },
+    "statins-cholesterol-drugs": {
+      "subject": "A tablet in teal in front of a cross-sectioned artery whose cream plaque is receding, with a small muscle fibre bundle beside it.",
+      "alt_ar": "رسم ثلاثي الأبعاد لقرص ستاتين مع شريان تتراجع ترسباته وألياف عضلية",
+      "alt_en": "3D illustration of a statin tablet with an artery clearing of plaque and a muscle fibre"
+    },
+    "storing-medicines-in-heat": {
+      "subject": "A medicine box and blister strip on a shelf in cool shade, with a thermometer and a strong sun disc kept at a distance behind.",
+      "alt_ar": "رسم ثلاثي الأبعاد لعلبة دواء في الظل مع مقياس حرارة وشمس",
+      "alt_en": "3D illustration of a medicine box stored in shade with a thermometer and the sun behind"
+    },
+
+    "anxiety-disorders-guide": {
+      "subject": "An abstract head form in soft navy with a tight coil of teal thread inside it beginning to unwind, and a calm heart pulse beside.",
+      "alt_ar": "رسم ثلاثي الأبعاد لرأس مع خيط متوتر يبدأ بالانفراج",
+      "alt_en": "3D illustration of a head with a tight coil of thread beginning to unwind"
+    },
+    "burnout-and-work-stress": {
+      "subject": "A battery form in teal drained to its last segment, resting beside a small stack of papers and a cooling cup.",
+      "alt_ar": "رسم ثلاثي الأبعاد لبطارية شبه فارغة مع أوراق عمل وفنجان",
+      "alt_en": "3D illustration of a nearly empty battery with a stack of papers and a cup"
+    },
+    "child-anxiety-and-fears": {
+      "subject": "A small child's backpack in teal with a soft shadow shape behind it and a reassuring hand-shaped form resting on top.",
+      "alt_ar": "رسم ثلاثي الأبعاد لحقيبة طفل مع ظل مخيف ويد مطمئنة",
+      "alt_en": "3D illustration of a child's backpack with a looming shadow and a reassuring hand"
+    },
+    "depression-symptoms-treatment": {
+      "subject": "A heavy grey cloud form with a single teal shaft of light breaking through it onto a small seated silhouette shape.",
+      "alt_ar": "رسم ثلاثي الأبعاد لغيمة ثقيلة يخترقها شعاع ضوء",
+      "alt_en": "3D illustration of a heavy cloud with a shaft of light breaking through"
+    },
+    "grief-and-bereavement": {
+      "subject": "An empty chair in soft cream beside a small teal candle with a steady flame, and a folded blanket.",
+      "alt_ar": "رسم ثلاثي الأبعاد لكرسي فارغ مع شمعة مضاءة وبطانية مطوية",
+      "alt_en": "3D illustration of an empty chair with a lit candle and a folded blanket"
+    },
+    "insomnia-treatment-cbt": {
+      "subject": "A bed in soft cream with a clock face above it and a small teal thought-loop ribbon being redirected away, a pill bottle set aside.",
+      "alt_ar": "رسم ثلاثي الأبعاد لسرير مع ساعة وحلقة أفكار تُعاد توجيهها وعلبة حبوب جانباً",
+      "alt_en": "3D illustration of a bed with a clock, a redirected loop of thought and a pill bottle set aside"
+    },
+    "mental-health-stigma-arab": {
+      "subject": "A closed cream door with a soft teal light spilling from the gap beneath it, and a small key resting in front.",
+      "alt_ar": "رسم ثلاثي الأبعاد لباب مغلق ينفذ منه ضوء مع مفتاح",
+      "alt_en": "3D illustration of a closed door with light spilling beneath it and a key"
+    },
+    "panic-attacks-guide": {
+      "subject": "A soft teal heart with a sharply spiking pulse line and a slow expanding breathing ring in navy settling around it.",
+      "alt_ar": "رسم ثلاثي الأبعاد لقلب مع نبض متسارع وحلقة تنفس هادئة",
+      "alt_en": "3D illustration of a heart with a racing pulse and a calming breathing ring"
+    },
+    "ptsd-after-war-and-disaster": {
+      "subject": "A cracked cream stone form with fine teal seams mending the fractures, and a small green shoot rising from the top.",
+      "alt_ar": "رسم ثلاثي الأبعاد لحجر متصدع تُرمم شقوقه مع برعم ينمو",
+      "alt_en": "3D illustration of a cracked stone with mended seams and a small shoot growing"
+    },
+    "quitting-smoking-guide": {
+      "subject": "A snapped cigarette in cream lying beside a nicotine patch and a small calendar disc marking a start point.",
+      "alt_ar": "رسم ثلاثي الأبعاد لسيجارة مكسورة مع لصقة نيكوتين وتقويم البداية",
+      "alt_en": "3D illustration of a broken cigarette with a nicotine patch and a start-date calendar"
+    },
+    "tramadol-painkiller-addiction": {
+      "subject": "A blister strip curling into a closed loop in terracotta, with a single teal capsule breaking free of the loop.",
+      "alt_ar": "رسم ثلاثي الأبعاد لشريط أقراص يلتف كحلقة مع كبسولة تتحرر منها",
+      "alt_en": "3D illustration of a blister strip curling into a loop with one capsule breaking free"
+    },
+
+    "dates-health-benefits": {
+      "subject": "A small pile of glossy dates in warm terracotta on a shallow cream dish, with a single date opened to show the stone.",
+      "alt_ar": "رسم ثلاثي الأبعاد لتمر في طبق مع حبة مفتوحة",
+      "alt_en": "3D illustration of dates on a dish with one opened to show the stone"
+    },
+    "iron-rich-foods-arab-diet": {
+      "subject": "A shallow bowl of lentils beside a bunch of dark leafy greens, a small liver portion and half a lemon, with a soft teal iron symbol form floating above.",
+      "alt_ar": "رسم ثلاثي الأبعاد لعدس وخضار ورقية وليمون كمصادر للحديد",
+      "alt_en": "3D illustration of lentils, leafy greens and lemon as sources of iron"
+    },
+    "mediterranean-diet-arab-version": {
+      "subject": "A cream plate with olives, tomatoes, a piece of flatbread, a small fish and a jug of olive oil arranged around it.",
+      "alt_ar": "رسم ثلاثي الأبعاد لطبق متوسطي مع زيتون وطماطم وخبز وسمك وزيت زيتون",
+      "alt_en": "3D illustration of a Mediterranean plate with olives, tomatoes, bread, fish and olive oil"
+    },
+    "obesity-in-the-gulf": {
+      "subject": "A bathroom scale in soft cream with a rising bar chart of teal blocks behind it and a measuring tape coiled in front.",
+      "alt_ar": "رسم ثلاثي الأبعاد لميزان مع مخطط صاعد وشريط قياس",
+      "alt_en": "3D illustration of a bathroom scale with a rising chart and a measuring tape"
+    },
+    "olive-oil-health": {
+      "subject": "A dark glass olive oil bottle with a pouring stream caught mid-air into a small dish, an olive branch resting alongside.",
+      "alt_ar": "رسم ثلاثي الأبعاد لزجاجة زيت زيتون تُسكب في طبق مع غصن زيتون",
+      "alt_en": "3D illustration of an olive oil bottle pouring into a dish with an olive branch"
+    },
+    "salt-intake-blood-pressure": {
+      "subject": "A small mound of salt in a cream dish with a teaspoon beside it and a blood pressure cuff dial curving behind.",
+      "alt_ar": "رسم ثلاثي الأبعاد لملح في طبق مع ملعقة ومقياس ضغط الدم",
+      "alt_en": "3D illustration of salt in a dish with a teaspoon and a blood pressure dial"
+    },
+    "sugar-in-arabic-sweets": {
+      "subject": "A piece of layered pastry on a cream dish beside a stack of sugar cubes rising in a small tower.",
+      "alt_ar": "رسم ثلاثي الأبعاد لقطعة حلوى شرقية بجانب برج من مكعبات السكر",
+      "alt_en": "3D illustration of a piece of Arabic pastry beside a tower of sugar cubes"
+    },
+    "vitamin-d-deficiency-signs": {
+      "subject": "A pale sun disc partly hidden behind a cloud, with a bone segment and a small capsule resting in the shade below.",
+      "alt_ar": "رسم ثلاثي الأبعاد لشمس محجوبة مع عظم وكبسولة فيتامين د",
+      "alt_en": "3D illustration of a hidden sun with a bone segment and a vitamin D capsule"
+    },
+    "vitamin-supplements-truth": {
+      "subject": "Three supplement bottles of different sizes in teal, cream and terracotta, with loose tablets spilling from one and a balance scale beside.",
+      "alt_ar": "رسم ثلاثي الأبعاد لثلاث عبوات مكملات مع أقراص وميزان",
+      "alt_en": "3D illustration of three supplement bottles with loose tablets and a balance scale"
+    },
+    "water-intake-hot-climate": {
+      "subject": "A tall glass of water with condensation beside a refillable bottle, under a warm sun disc with a heat shimmer.",
+      "alt_ar": "رسم ثلاثي الأبعاد لكوب ماء وزجاجة تحت شمس حارة",
+      "alt_en": "3D illustration of a glass of water and a bottle under a hot sun"
+    },
+    "zinc-deficiency-guide": {
+      "subject": "A small dish of pumpkin seeds and chickpeas beside a single zinc tablet and a soft healing skin patch form.",
+      "alt_ar": "رسم ثلاثي الأبعاد لبذور وحمص مع قرص زنك",
+      "alt_en": "3D illustration of seeds and chickpeas with a zinc tablet"
+    },
+
+    "air-pollution-dust-storms-health": {
+      "subject": "A pair of soft teal lungs behind a drifting ochre dust cloud, with a fitted face mask resting in the foreground.",
+      "alt_ar": "رسم ثلاثي الأبعاد لرئتين خلف سحابة غبار مع كمامة",
+      "alt_en": "3D illustration of lungs behind a dust cloud with a face mask"
+    },
+    "diabetes-in-syria": {
+      "subject": "A glucose meter with a soft teal drop on its strip, standing in front of a faint map-like relief form in cream.",
+      "alt_ar": "رسم ثلاثي الأبعاد لجهاز قياس السكر أمام تضاريس خريطة",
+      "alt_en": "3D illustration of a glucose meter in front of a faint map relief"
+    },
+    "earthquake-injury-and-aftermath": {
+      "subject": "A cracked concrete slab in cream with a teal medical cross form resting on it and a first aid pouch beside.",
+      "alt_ar": "رسم ثلاثي الأبعاد لبلاطة خرسانية متصدعة مع رمز طبي وحقيبة إسعاف",
+      "alt_en": "3D illustration of a cracked concrete slab with a medical cross and a first aid pouch"
+    },
+    "emergency-numbers-arab-countries": {
+      "subject": "A telephone handset in navy with a teal emergency cross badge beside it and a small ambulance silhouette behind.",
+      "alt_ar": "رسم ثلاثي الأبعاد لسماعة هاتف مع شارة طوارئ وسيارة إسعاف",
+      "alt_en": "3D illustration of a telephone handset with an emergency badge and an ambulance"
+    },
+    "health-insurance-arab-countries": {
+      "subject": "A folded policy document in cream under a translucent teal shield, with a small card and a stethoscope loop beside it.",
+      "alt_ar": "رسم ثلاثي الأبعاد لوثيقة تأمين تحت درع مع بطاقة وسماعة طبيب",
+      "alt_en": "3D illustration of an insurance document under a shield with a card and a stethoscope"
+    },
+    "healthcare-in-syria-today": {
+      "subject": "A small clinic building form in cream with a teal medical cross on its face, a signpost with blank arrows beside it.",
+      "alt_ar": "رسم ثلاثي الأبعاد لمبنى عيادة مع رمز طبي ولافتة إرشادية",
+      "alt_en": "3D illustration of a clinic building with a medical cross and a signpost"
+    },
+    "medication-shortages-coping": {
+      "subject": "An almost empty pill bottle tipped on its side with two tablets left, and a pharmacy shelf form standing bare behind it.",
+      "alt_ar": "رسم ثلاثي الأبعاد لعلبة دواء شبه فارغة مع رف صيدلية خالٍ",
+      "alt_en": "3D illustration of a nearly empty pill bottle with an empty pharmacy shelf"
+    },
+    "refugee-and-displaced-health": {
+      "subject": "A packed duffel bag in cream with a folder of documents and a small medicine pouch resting on it, under a teal shelter arc.",
+      "alt_ar": "رسم ثلاثي الأبعاد لحقيبة سفر مع ملف وثائق وحقيبة أدوية تحت مأوى",
+      "alt_en": "3D illustration of a packed bag with documents and a medicine pouch under a shelter"
+    },
+    "telemedicine-in-the-middle-east": {
+      "subject": "A smartphone standing upright with a soft teal stethoscope curving out of its screen and a small consultation bubble form above.",
+      "alt_ar": "رسم ثلاثي الأبعاد لهاتف تخرج منه سماعة طبيب مع فقاعة استشارة",
+      "alt_en": "3D illustration of a smartphone with a stethoscope emerging and a consultation bubble"
+    },
+    "understanding-your-medical-report": {
+      "subject": "A folded medical report in cream with faint teal bars, a magnifying lens over it and a small question mark form in navy beside.",
+      "alt_ar": "رسم ثلاثي الأبعاد لتقرير طبي مع عدسة مكبرة وعلامة استفهام",
+      "alt_en": "3D illustration of a medical report with a magnifying lens and a question mark"
+    },
+    "water-quality-and-disease": {
+      "subject": "A glass of water beside a small filter cartridge and a boiling kettle, with a teal droplet symbol above.",
+      "alt_ar": "رسم ثلاثي الأبعاد لكوب ماء مع فلتر وغلاية وقطرة نقية",
+      "alt_en": "3D illustration of a glass of water with a filter, a kettle and a clean droplet"
+    },
+
+    "black-seed-nigella-evidence": {
+      "subject": "A small dish of black nigella seeds beside a dark oil bottle, with a balance scale form in teal behind them.",
+      "alt_ar": "رسم ثلاثي الأبعاد لحبة البركة مع زجاجة زيت وميزان",
+      "alt_en": "3D illustration of black seed with an oil bottle and a balance scale"
+    },
+    "ginger-turmeric-evidence": {
+      "subject": "A ginger rhizome and a turmeric root in warm ochre and terracotta beside a small mound of ground spice and a balance scale.",
+      "alt_ar": "رسم ثلاثي الأبعاد لجذور الزنجبيل والكركم مع ميزان",
+      "alt_en": "3D illustration of ginger and turmeric roots with a balance scale"
+    },
+    "herbal-remedies-drug-interactions": {
+      "subject": "A sprig of dried herbs and a capsule meeting at an angle with a small spark between them, on a low navy base.",
+      "alt_ar": "رسم ثلاثي الأبعاد لعشبة وكبسولة دواء تتفاعلان",
+      "alt_en": "3D illustration of a herb sprig and a medicine capsule interacting"
+    },
+    "herbal-remedies-in-pregnancy": {
+      "subject": "A cup of herbal infusion with a leaf floating in it, beside a rounded expectant-abdomen form in soft cream under a teal shield.",
+      "alt_ar": "رسم ثلاثي الأبعاد لكوب أعشاب مع رمز الحمل ودرع حماية",
+      "alt_en": "3D illustration of a herbal infusion with a pregnancy form under a protective shield"
+    },
+    "hijama-cupping-evidence": {
+      "subject": "Three traditional cupping glasses in clear and teal arranged on a cream surface with a soft circular mark beneath one.",
+      "alt_ar": "رسم ثلاثي الأبعاد لكؤوس الحجامة مع أثر دائري على السطح",
+      "alt_en": "3D illustration of cupping glasses with a circular mark beneath one"
+    },
+    "honey-health-evidence": {
+      "subject": "A honey jar with a dipper lifting a thread of honey, a honeycomb piece beside it and a small crossed-out infant bottle set back.",
+      "alt_ar": "رسم ثلاثي الأبعاد لجرة عسل مع ملعقة وقرص شمع",
+      "alt_en": "3D illustration of a honey jar with a dipper and a piece of honeycomb"
+    },
+    "kohl-lead-poisoning": {
+      "subject": "A traditional kohl container with its applicator stick resting beside it, and a soft warning triangle in terracotta behind.",
+      "alt_ar": "رسم ثلاثي الأبعاد لمكحلة تقليدية مع مرود وعلامة تحذير",
+      "alt_en": "3D illustration of a traditional kohl container and applicator with a warning symbol"
+    },
+    "ruqyah-and-modern-medicine": {
+      "subject": "A string of prayer beads in navy resting beside a teal stethoscope, the two curves overlapping gently on a cream surface.",
+      "alt_ar": "رسم ثلاثي الأبعاد لمسبحة بجانب سماعة طبيب متجاورتين",
+      "alt_en": "3D illustration of prayer beads resting beside a stethoscope"
+    },
+    "senna-laxatives-safety": {
+      "subject": "A sachet of dried senna leaves beside a cup of infusion and a small hourglass, with a coiled intestine form in soft teal behind.",
+      "alt_ar": "رسم ثلاثي الأبعاد لأوراق السنا مع كوب منقوع وساعة رملية",
+      "alt_en": "3D illustration of senna leaves with a cup of infusion and an hourglass"
+    },
+    "traditional-bone-setting-risks": {
+      "subject": "A forearm bone with a misaligned break bound in cloth strips, and a proper splint and X-ray plate form resting beside it.",
+      "alt_ar": "رسم ثلاثي الأبعاد لكسر عظمي ملفوف بقماش مع جبيرة وصورة أشعة",
+      "alt_en": "3D illustration of a bound bone fracture beside a proper splint and an X-ray plate"
+    },
+    "weight-loss-herbs-danger": {
+      "subject": "A slimming tea sachet and a capsule bottle in teal, with a hidden pharmaceutical tablet showing through a cutaway in the capsule.",
+      "alt_ar": "رسم ثلاثي الأبعاد لشاي وكبسولات تخسيس مع قرص دوائي مخفي بداخلها",
+      "alt_en": "3D illustration of slimming tea and capsules with a hidden pharmaceutical tablet inside"
+    },
+
+    "anemia-in-pregnancy": {
+      "subject": "A rounded expectant-abdomen form in soft cream with pale red blood cells floating beside it and an iron tablet blister in front.",
+      "alt_ar": "رسم ثلاثي الأبعاد لرمز الحمل مع خلايا دم شاحبة وأقراص حديد",
+      "alt_en": "3D illustration of a pregnancy form with pale red blood cells and iron tablets"
+    },
+    "breast-cancer-screening-arab": {
+      "subject": "A soft teal awareness ribbon standing in front of an abstract mammogram machine arc, with a small calendar disc beside.",
+      "alt_ar": "رسم ثلاثي الأبعاد لشريط توعية مع جهاز تصوير الثدي وتقويم الفحص",
+      "alt_en": "3D illustration of an awareness ribbon with a mammogram machine and a screening calendar"
+    },
+    "breastfeeding-guide": {
+      "subject": "A curved nursing pillow in cream cradling a small swaddled newborn form, with a soft milk droplet and a clock face beside them.",
+      "alt_ar": "رسم ثلاثي الأبعاد لوسادة رضاعة مع مولود ملفوف وقطرة حليب",
+      "alt_en": "3D illustration of a nursing pillow cradling a swaddled newborn with a milk droplet"
+    },
+    "contraception-options-compared": {
+      "subject": "A pill blister pack, a T-shaped intrauterine device and a small implant rod arranged in a row on a cream surface.",
+      "alt_ar": "رسم ثلاثي الأبعاد لوسائل منع الحمل: أقراص ولولب وشريحة",
+      "alt_en": "3D illustration of contraceptive options: a pill pack, an intrauterine device and an implant"
+    },
+    "endometriosis-guide": {
+      "subject": "A uterus form in soft teal with small terracotta patches scattered outside it, and a calendar disc marking painful days.",
+      "alt_ar": "رسم ثلاثي الأبعاد للرحم مع بقع بطانة خارجه وتقويم أيام الألم",
+      "alt_en": "3D illustration of a uterus with endometrial patches outside it and a pain calendar"
+    },
+    "female-infertility-tests": {
+      "subject": "An ovary and fallopian tube form in teal beside a blood tube and a small ultrasound probe.",
+      "alt_ar": "رسم ثلاثي الأبعاد للمبيض وقناة فالوب مع أنبوب فحص ومسبار سونار",
+      "alt_en": "3D illustration of an ovary and fallopian tube with a blood tube and an ultrasound probe"
+    },
+    "folic-acid-before-pregnancy": {
+      "subject": "A single small tablet in teal resting in front of a calendar disc, with a delicate neural tube form curving above.",
+      "alt_ar": "رسم ثلاثي الأبعاد لقرص حمض الفوليك مع تقويم ورمز الأنبوب العصبي",
+      "alt_en": "3D illustration of a folic acid tablet with a calendar and a neural tube form"
+    },
+    "gestational-diabetes-guide": {
+      "subject": "A rounded expectant-abdomen form beside a glucose drink bottle and a glucose meter with a teal drop on its strip.",
+      "alt_ar": "رسم ثلاثي الأبعاد لرمز الحمل مع مشروب الجلوكوز وجهاز قياس السكر",
+      "alt_en": "3D illustration of a pregnancy form with a glucose drink and a glucose meter"
+    },
+    "irregular-periods-causes": {
+      "subject": "A calendar ring of cream discs with the marked days scattered unevenly, and a small hormone vial standing at the centre.",
+      "alt_ar": "رسم ثلاثي الأبعاد لحلقة تقويم بأيام متفرقة مع قارورة هرمونات",
+      "alt_en": "3D illustration of a calendar ring with unevenly scattered days and a hormone vial"
+    },
+    "menopause-guide": {
+      "subject": "An hourglass in cream and teal with a warm glow around its upper chamber, and a small hormone patch resting beside it.",
+      "alt_ar": "رسم ثلاثي الأبعاد لساعة رملية مع توهج دافئ ولصقة هرمونية",
+      "alt_en": "3D illustration of an hourglass with a warm glow and a hormone patch"
+    },
+    "postpartum-depression": {
+      "subject": "A small crib in cream with a heavy grey cloud above it and a single teal shaft of light breaking through the cloud.",
+      "alt_ar": "رسم ثلاثي الأبعاد لسرير مولود مع غيمة يخترقها شعاع ضوء",
+      "alt_en": "3D illustration of a crib beneath a cloud with a shaft of light breaking through"
+    },
+    "preeclampsia-warning-signs": {
+      "subject": "A blood pressure cuff wrapped around a rounded expectant-abdomen form, with a urine dipstick strip and a warning glow beside.",
+      "alt_ar": "رسم ثلاثي الأبعاد لجهاز ضغط حول رمز الحمل مع شريط فحص بول",
+      "alt_en": "3D illustration of a blood pressure cuff around a pregnancy form with a urine dipstick"
+    },
+    "pregnancy-tests-schedule": {
+      "subject": "Three ultrasound probe forms of ascending size in a row beside a blood tube and a calendar disc divided into three arcs.",
+      "alt_ar": "رسم ثلاثي الأبعاد لفحوصات الحمل عبر الفصول الثلاثة مع سونار وأنبوب دم",
+      "alt_en": "3D illustration of pregnancy checks across three trimesters with an ultrasound probe and a blood tube"
+    },
+    "uterine-fibroids-guide": {
+      "subject": "A uterus form in soft teal with two rounded cream nodules on its wall, and a small ultrasound probe beside it.",
+      "alt_ar": "رسم ثلاثي الأبعاد للرحم مع أورام ليفية ومسبار سونار",
+      "alt_en": "3D illustration of a uterus with fibroids and an ultrasound probe"
+    }
+  }
+}
