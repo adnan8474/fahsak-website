@@ -36,9 +36,10 @@
         .login-box p { font-size: 13px; color: var(--text-m); margin: 0 0 24px; }
         .login-box input {
             width: 100%; padding: 12px 16px; background: var(--bg-subtle); border: 1px solid var(--border);
-            border-radius: var(--r-sm); color: var(--text); font-size: 16px; text-align: center;
-            letter-spacing: 8px; outline: none; transition: border-color 0.2s;
+            border-radius: var(--r-sm); color: var(--text); font-size: 15px;
+            outline: none; transition: border-color 0.2s;
         }
+        .login-box input + input { margin-top: 10px; }
         .login-box input:focus { border-color: var(--teal); }
         .login-box .login-btn {
             width: 100%; margin-top: 16px; padding: 12px;
@@ -47,6 +48,7 @@
             transition: all 0.2s;
         }
         .login-box .login-btn:hover { transform: translateY(-1px); }
+        .login-box .login-btn[disabled], .login-box .login-btn[disabled]:hover { opacity: 0.6; cursor: default; transform: none; }
         .login-error { color: #ef4444; font-size: 13px; margin-top: 12px; display: none; }
 
         .admin-nav {
@@ -223,15 +225,17 @@
     </style>
 </head>
 <body>
-    <!-- Login -->
+    <!-- Login. Real Sihtak admin credentials: the applications API only answers
+         an admin bearer token, so anything less than a sign-in cannot work. -->
     <div class="login-overlay" id="loginOverlay">
         <div class="login-box">
             <img src="/icon.png" alt="Sihtak">
             <h2>Careers Admin</h2>
-            <p>Enter access code to continue</p>
-            <input type="password" id="passInput" placeholder="****" maxlength="10" autocomplete="off" onkeydown="if(event.key==='Enter')checkPass()">
-            <button class="login-btn" onclick="checkPass()">Unlock</button>
-            <div class="login-error" id="loginError">Incorrect code. Try again.</div>
+            <p>Sign in with your Sihtak admin account</p>
+            <input type="email" id="emailInput" placeholder="admin@sihtak.app" autocomplete="username" onkeydown="if(event.key==='Enter')document.getElementById('passInput').focus()">
+            <input type="password" id="passInput" placeholder="Password" autocomplete="current-password" onkeydown="if(event.key==='Enter')signIn()">
+            <button class="login-btn" id="loginBtn" onclick="signIn()">Sign in</button>
+            <div class="login-error" id="loginError"></div>
         </div>
     </div>
 
@@ -245,6 +249,7 @@
         <div class="admin-nav-right">
             <button class="btn-refresh" onclick="loadApplications()" title="Refresh">&#x21bb; Refresh</button>
             <button class="btn-refresh" onclick="toggleTheme()" id="themeBtn" title="Toggle theme">&#x263E;</button>
+            <button class="btn-refresh" onclick="signOut()" title="Sign out">Sign out</button>
         </div>
     </nav>
 
@@ -313,7 +318,9 @@
     <div class="toast" id="toast"></div>
 
     <script>
-        const API = 'https://fahsak-api.azurewebsites.net/api/v1/careers';
+        const API_ROOT = 'https://fahsak-api.azurewebsites.net/api/v1';
+        const API = API_ROOT + '/careers';
+        const TOKEN_KEY = 'careers-admin-token';
         let allApps = [];
         let filteredApps = [];
         let expandedId = null;
@@ -336,21 +343,51 @@
             }
         })();
 
+        /**
+         * Every careers endpoint here is admin-only server-side, so a request
+         * without the bearer token comes back 403 no matter who is looking at
+         * the page. A token that has expired is the same as no token: drop it
+         * and show the sign-in box rather than leaving a dead screen up.
+         */
+        async function apiFetch(path, options) {
+            const token = sessionStorage.getItem(TOKEN_KEY);
+            if (!token) { lockAdmin(); throw new Error('Not signed in'); }
+
+            const opts = options || {};
+            const res = await fetch(API + path, Object.assign({}, opts, {
+                headers: Object.assign({ 'Authorization': 'Bearer ' + token }, opts.headers || {}),
+            }));
+
+            if (res.status === 401 || res.status === 403) {
+                sessionStorage.removeItem(TOKEN_KEY);
+                lockAdmin('Your session expired. Please sign in again.');
+                throw new Error('Session expired');
+            }
+            return res;
+        }
+
         // Load data
         async function loadApplications() {
-            document.getElementById('loadingState').style.display = '';
+            const loading = document.getElementById('loadingState');
+            // Put the spinner back: a previous failure replaced it with an error
+            // message, and Refresh should look like it is doing something.
+            loading.innerHTML = '<div class="spinner"></div>Loading applications...';
+            loading.style.display = '';
             document.getElementById('appTable').style.display = 'none';
             document.getElementById('emptyState').style.display = 'none';
 
             try {
-                const res = await fetch(API + '/applications');
+                const res = await apiFetch('/applications');
                 if (!res.ok) throw new Error('Failed to fetch');
                 const data = await res.json();
                 allApps = data.applications || [];
                 updateStats();
                 filterTable();
             } catch (e) {
-                document.getElementById('loadingState').innerHTML = '<p style="color:#ef4444;">Failed to load applications. Check your connection.</p>';
+                // An expired session has already swapped the login box back in,
+                // so there is nothing left here to complain to.
+                if (e.message === 'Session expired' || e.message === 'Not signed in') return;
+                loading.innerHTML = '<p style="color:#ef4444;">Failed to load applications. Check your connection.</p>';
             }
         }
 
@@ -508,7 +545,7 @@
             if (!statusMenuAppId) return;
 
             try {
-                const res = await fetch(API + '/applications/' + statusMenuAppId + '?status=' + status, { method: 'PATCH' });
+                const res = await apiFetch('/applications/' + statusMenuAppId + '?status=' + status, { method: 'PATCH' });
                 if (!res.ok) throw new Error('Failed');
                 const app = allApps.find(a => a.id === statusMenuAppId);
                 if (app) app.status = status;
@@ -516,6 +553,7 @@
                 renderTable();
                 showToast('Status updated to ' + status, 'success');
             } catch (e) {
+                if (e.message === 'Session expired' || e.message === 'Not signed in') return;
                 showToast('Failed to update status', 'error');
             }
         }
@@ -524,12 +562,13 @@
         async function saveNotes(appId) {
             const notes = document.getElementById('notes-' + appId).value;
             try {
-                const res = await fetch(API + '/applications/' + appId + '?notes=' + encodeURIComponent(notes), { method: 'PATCH' });
+                const res = await apiFetch('/applications/' + appId + '?notes=' + encodeURIComponent(notes), { method: 'PATCH' });
                 if (!res.ok) throw new Error('Failed');
                 const app = allApps.find(a => a.id === appId);
                 if (app) app.notes = notes;
                 showToast('Notes saved', 'success');
             } catch (e) {
+                if (e.message === 'Session expired' || e.message === 'Not signed in') return;
                 showToast('Failed to save notes', 'error');
             }
         }
@@ -595,33 +634,90 @@
             if (!menu.contains(e.target)) menu.style.display = 'none';
         });
 
-        // Password
-        const ACCESS_CODE = '8474';
+        /**
+         * Sign in with a real Sihtak admin account.
+         *
+         * The page used to gate on a four-digit code it held in its own source,
+         * which anyone could read and which the API had never heard of, so the
+         * screen unlocked and then every request came back 403. The only thing
+         * that opens these endpoints is an admin bearer token.
+         */
+        async function signIn() {
+            const email = document.getElementById('emailInput').value.trim();
+            const password = document.getElementById('passInput').value;
+            if (!email || !password) { loginError('Enter your email and password.'); return; }
 
-        function checkPass() {
-            const val = document.getElementById('passInput').value;
-            if (val === ACCESS_CODE) {
-                sessionStorage.setItem('careers-admin', '1');
+            const btn = document.getElementById('loginBtn');
+            btn.disabled = true;
+            btn.textContent = 'Signing in...';
+            try {
+                const res = await fetch(API_ROOT + '/auth/login', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ email: email, password: password }),
+                });
+                if (res.status === 401) { loginError('Wrong email or password.'); return; }
+                if (res.status === 403) { loginError('That account is disabled.'); return; }
+                if (res.status === 429) { loginError('Too many attempts. Wait a minute and try again.'); return; }
+                if (!res.ok) { loginError('Sign-in failed. Try again.'); return; }
+
+                const data = await res.json();
+                // Checked here only so a non-admin gets told why rather than a
+                // blank table. The API enforces this regardless of what the page
+                // decides to do with the answer.
+                if (((data.user && data.user.role) || '').toLowerCase() !== 'admin') {
+                    loginError('That account is not an admin.');
+                    return;
+                }
+                // sessionStorage, not localStorage: this is a shared-desk kind of
+                // screen, and closing the tab should end the session.
+                sessionStorage.setItem(TOKEN_KEY, data.access_token);
                 unlockAdmin();
-            } else {
-                document.getElementById('loginError').style.display = 'block';
-                document.getElementById('passInput').value = '';
-                document.getElementById('passInput').focus();
+            } catch (e) {
+                loginError('Could not reach the server.');
+            } finally {
+                btn.disabled = false;
+                btn.textContent = 'Sign in';
             }
         }
 
+        function loginError(msg) {
+            const el = document.getElementById('loginError');
+            el.textContent = msg;
+            el.style.display = 'block';
+            document.getElementById('passInput').value = '';
+            document.getElementById('passInput').focus();
+        }
+
         function unlockAdmin() {
+            document.getElementById('loginError').style.display = 'none';
+            document.getElementById('passInput').value = '';
             document.getElementById('loginOverlay').style.display = 'none';
             document.getElementById('adminNav').style.display = '';
             document.getElementById('adminContainer').style.display = '';
             loadApplications();
         }
 
-        // Init — check if already authenticated this session
-        if (sessionStorage.getItem('careers-admin') === '1') {
+        function lockAdmin(msg) {
+            document.getElementById('adminNav').style.display = 'none';
+            document.getElementById('adminContainer').style.display = 'none';
+            document.getElementById('loginOverlay').style.display = '';
+            if (msg) loginError(msg);
+            document.getElementById('emailInput').focus();
+        }
+
+        function signOut() {
+            sessionStorage.removeItem(TOKEN_KEY);
+            allApps = [];
+            lockAdmin();
+        }
+
+        // Init — a token from earlier in this session skips the sign-in box.
+        // If it has expired, the first request pushes the box back up.
+        if (sessionStorage.getItem(TOKEN_KEY)) {
             unlockAdmin();
         } else {
-            document.getElementById('passInput').focus();
+            document.getElementById('emailInput').focus();
         }
     </script>
 </body>
