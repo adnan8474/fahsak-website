@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="utf-8">
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-JGTTBKMM4G"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-JGTTBKMM4G');
+  </script>
+  <script src="/analytics.js" defer></script>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>حمّل تطبيق صحتك | Sihtak</title>
+  <meta name="description" content="تطبيق صحتك المجاني: احجز موعدك مع الطبيب، واقرأ تحاليلك بالعربية، ونظّم أدويتك.">
+  <meta name="robots" content="noindex">
+  <link rel="icon" type="image/png" href="/icon.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Tajawal:wght@500;700&display=swap" rel="stylesheet">
+  <style>
+    :root { --ink:#12233A; --teal:#3A9D92; --mint:#eaf7f4; }
+    * { box-sizing: border-box; }
+    body { margin:0; min-height:100vh; display:flex; align-items:center; justify-content:center;
+      font-family:'Tajawal',system-ui,sans-serif; color:var(--ink);
+      background:radial-gradient(circle at 75% 15%,#fff 0%,var(--mint) 40%,#cdebe5 100%); padding:24px; }
+    .card { width:100%; max-width:420px; text-align:center; background:rgba(255,255,255,.6);
+      border:1px solid #fff; border-radius:32px; padding:40px 28px; box-shadow:0 20px 50px rgba(18,35,58,.12); }
+    .card img { width:96px; height:96px; }
+    h1 { font-size:26px; margin:18px 0 8px; }
+    p { margin:0 0 26px; line-height:1.7; color:#3b4a5e; }
+    a.btn { display:block; margin:12px 0; padding:16px; border-radius:999px; background:var(--teal); color:#fff;
+      font-weight:700; text-decoration:none; font-size:18px; }
+    a.btn.alt { background:var(--ink); }
+    small { display:block; margin-top:18px; color:#6b7a8c; }
+  </style>
+</head>
+<body>
+  <main class="card">
+    <img src="/icon.png" alt="صحتك">
+    <h1>حمّل تطبيق صحتك</h1>
+    <p>احجز موعدك مع الطبيب، واقرأ نتائج تحاليلك بالعربية، ونظّم أدويتك. التطبيق مجاني.</p>
+    <a class="btn" id="ios" href="https://apps.apple.com/us/app/sihtak-%D8%B5%D8%AD%D8%AA%D9%83/id6764330989">App Store</a>
+    <a class="btn alt" id="android" href="https://play.google.com/store/apps/details?id=com.sihhati.app">Google Play</a>
+    <small>sihtak.com</small>
+  </main>
+  <script>
+  /* Install link for posts and bios: /app/?src=<where the visitor came from>.
+     Records one event with the source, then sends phones straight to their store.
+     A computer stays on this page and picks a store. */
+  (function () {
+    var src = (new URLSearchParams(location.search).get('src') || 'direct').slice(0, 60).replace(/[^\w.-]/g, '');
+    var ua = navigator.userAgent || '';
+    var store = /iPhone|iPad|iPod/i.test(ua) ? 'ios' : (/Android/i.test(ua) ? 'android' : '');
+    var ios = document.getElementById('ios'), android = document.getElementById('android');
+    var play = android.href + '&referrer=' + encodeURIComponent('utm_source=' + src + '&utm_medium=social');
+    android.href = play;
+    function track(dest) {
+      try { gtag('event', 'app_link', { source: src, store: dest || 'chooser', transport_type: 'beacon' }); } catch (e) {}
+      try { if (window.appInsights && appInsights.trackEvent) appInsights.trackEvent({ name: 'app_link' }, { source: src, store: dest || 'chooser' }); } catch (e) {}
+    }
+    ios.addEventListener('click', function () { track('ios'); });
+    android.addEventListener('click', function () { track('android'); });
+    if (store) {
+      track(store);
+      setTimeout(function () { location.href = store === 'ios' ? ios.href : play; }, 350);
+    } else {
+      track('');
+    }
+  })();
+  </script>
+</body>
+</html>

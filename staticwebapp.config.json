@@ -1,38 +1,108 @@
 {
   "routes": [
-    { "route": "/privacy", "redirect": "/privacy/", "statusCode": 301 },
-    { "route": "/terms", "redirect": "/terms/", "statusCode": 301 },
-    { "route": "/contact", "redirect": "/contact/", "statusCode": 301 },
-    { "route": "/delete-account", "redirect": "/delete-account/", "statusCode": 301 },
-    { "route": "/admin", "redirect": "/admin/", "statusCode": 301 },
-    { "route": "/about", "redirect": "/about/", "statusCode": 301 },
-    { "route": "/en/about", "redirect": "/en/about/", "statusCode": 301 },
-    { "route": "/tools", "redirect": "/tools/", "statusCode": 301 },
-    { "route": "/en/tools", "redirect": "/en/tools/", "statusCode": 301 },
-    { "route": "/author", "redirect": "/author/", "statusCode": 301 },
-    { "route": "/en/author", "redirect": "/en/author/", "statusCode": 301 },
-    { "route": "/articles", "redirect": "/articles/", "statusCode": 301 },
-    { "route": "/en/articles", "redirect": "/en/articles/", "statusCode": 301 },
-    { "route": "/join/*", "rewrite": "/join/index.html" },
+    {
+      "route": "/app",
+      "redirect": "/app/",
+      "statusCode": 301
+    },
+    {
+      "route": "/privacy",
+      "redirect": "/privacy/",
+      "statusCode": 301
+    },
+    {
+      "route": "/terms",
+      "redirect": "/terms/",
+      "statusCode": 301
+    },
+    {
+      "route": "/contact",
+      "redirect": "/contact/",
+      "statusCode": 301
+    },
+    {
+      "route": "/delete-account",
+      "redirect": "/delete-account/",
+      "statusCode": 301
+    },
+    {
+      "route": "/admin",
+      "redirect": "/admin/",
+      "statusCode": 301
+    },
+    {
+      "route": "/about",
+      "redirect": "/about/",
+      "statusCode": 301
+    },
+    {
+      "route": "/en/about",
+      "redirect": "/en/about/",
+      "statusCode": 301
+    },
+    {
+      "route": "/tools",
+      "redirect": "/tools/",
+      "statusCode": 301
+    },
+    {
+      "route": "/en/tools",
+      "redirect": "/en/tools/",
+      "statusCode": 301
+    },
+    {
+      "route": "/author",
+      "redirect": "/author/",
+      "statusCode": 301
+    },
+    {
+      "route": "/en/author",
+      "redirect": "/en/author/",
+      "statusCode": 301
+    },
+    {
+      "route": "/articles",
+      "redirect": "/articles/",
+      "statusCode": 301
+    },
+    {
+      "route": "/en/articles",
+      "redirect": "/en/articles/",
+      "statusCode": 301
+    },
+    {
+      "route": "/join/*",
+      "rewrite": "/join/index.html"
+    },
     {
       "route": "/images/*",
-      "headers": { "Cache-Control": "public, max-age=31536000, immutable" }
+      "headers": {
+        "Cache-Control": "public, max-age=31536000, immutable"
+      }
     },
     {
       "route": "/media/*",
-      "headers": { "Cache-Control": "public, max-age=31536000, immutable" }
+      "headers": {
+        "Cache-Control": "public, max-age=31536000, immutable"
+      }
     },
     {
       "route": "*.css",
-      "headers": { "Cache-Control": "public, max-age=604800" }
+      "headers": {
+        "Cache-Control": "public, max-age=604800"
+      }
     },
     {
       "route": "*.js",
-      "headers": { "Cache-Control": "public, max-age=604800" }
+      "headers": {
+        "Cache-Control": "public, max-age=604800"
+      }
     },
     {
       "route": "/sitemap*.xml",
-      "headers": { "Cache-Control": "public, max-age=3600" }
+      "headers": {
+        "Cache-Control": "public, max-age=3600"
+      }
     }
   ],
   "responseOverrides": {
