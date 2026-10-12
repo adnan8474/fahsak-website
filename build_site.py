@@ -403,7 +403,8 @@ def author_page(lang):
         h1 = "أدنان الرفاعي"
         blocks = [
             ("لماذا أكتب هذا المحتوى",
-             ["أعمل منذ سنوات في بناء الأنظمة التي تربط أجهزة التحاليل الطبية بالسجلات الصحية، "
+             ["أحمل ماجستيراً في الكيمياء الحيوية السريرية وعضوية معهد العلوم الطبية الحيوية البريطاني IBMS، "
+              "وأنا عضو لجنة الصحة في المجلس العلمي السوري. أعمل منذ سنوات في بناء الأنظمة التي تربط أجهزة التحاليل الطبية بالسجلات الصحية، "
               "في المملكة المتحدة والشرق الأوسط. هذا يعني أنني أرى يومياً كيف تُنتَج أرقام "
               "التحاليل، وأين تُخطئ الأجهزة، وكيف تصل النتيجة إلى الطبيب والمريض.",
               "لاحظت أن المحتوى الصحي العربي على الإنترنت إما مترجم ترجمة رديئة، أو مكتوب "
@@ -416,18 +417,15 @@ def author_page(lang):
               "والدراسات المنشورة. المصادر مذكورة أسفل كل مقال لتتحقق منها بنفسك.",
               "نتجنب الوعود والعلاجات المعجزة. وحين لا يكون الدليل العلمي حاسماً، نقول ذلك "
               "صراحة بدلاً من اختراع إجابة."]),
-            ("ما لست عليه",
-             ["لستُ طبيباً ولا أدّعي ذلك. هذه المقالات تثقيف صحي يساعدك على فهم حالتك وطرح "
-              "أسئلة أفضل على طبيبك، وليست تشخيصاً ولا وصفة علاج. لا تبدأ دواءً ولا توقفه "
-              "بناءً على ما تقرأه هنا."]),
         ]
-        role = "مؤسس صحتك · مهندس برمجيات صحية"
+        role = "مؤسس صحتك · ماجستير في الكيمياء الحيوية السريرية · عضو IBMS"
     else:
         title = "Adnan Alrefai · Sihtak"
         h1 = "Adnan Alrefai"
         blocks = [
             ("Why I write this",
-             ["I have spent years building the systems that connect laboratory analysers to "
+             ["I hold an MSc in Clinical Biochemistry and am a member of the Institute of Biomedical Science (MIBMS) "
+              "and of the Health Committee of the Syrian Scientific Council. I have spent years building the systems that connect laboratory analysers to "
               "health records, across the UK and the Middle East. That means I see every day "
               "how a lab number is actually produced, where instruments go wrong, and how a "
               "result travels to the doctor and the patient.",
@@ -441,13 +439,8 @@ def author_page(lang):
               "studies. Sources are listed at the foot of each article so you can check them.",
               "We avoid miracle cures and confident promises. Where the evidence is genuinely "
               "unsettled, we say so instead of inventing an answer."]),
-            ("What I am not",
-             ["I am not a doctor and I do not claim to be. These articles are health education "
-              "to help you understand your own situation and ask your doctor better questions. "
-              "They are not a diagnosis and not a prescription. Do not start or stop any "
-              "medicine based on what you read here."]),
         ]
-        role = "Founder of Sihtak · Health software engineer"
+        role = "Founder of Sihtak · MSc Clinical Biochemistry · MIBMS"
 
     secs = "".join(
         f'      <section class="reveal">\n        <h2>{e(h)}</h2>\n'

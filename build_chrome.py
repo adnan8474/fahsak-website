@@ -118,11 +118,12 @@ L = {
         "base": "/articles/", "hub": f"{SITE}/articles/",
         "crumb_home": "الرئيسية", "crumb_articles": "المقالات",
         "oglocale": "ar_SA", "oglocale_alt": "en_US",
-        "author_role": "مؤسس صحتك · هندسة برمجيات الصحة والمختبرات",
-        "author_bio": ("أدنان الرفاعي مهندس برمجيات صحية ومؤسس تطبيق صحتك. يعمل منذ سنوات على "
-                       "أنظمة تربط أجهزة التحاليل الطبية بالسجلات الصحية في المملكة المتحدة "
-                       "والشرق الأوسط. هو ليس طبيباً: تُكتب هذه المقالات اعتماداً على مصادر "
-                       "منشورة من منظمة الصحة العالمية والهيئات الصحية الوطنية، وهي للتثقيف "
+        "author_role": "مؤسس صحتك · ماجستير في الكيمياء الحيوية السريرية · عضو IBMS",
+        "author_bio": ("أدنان الرفاعي مؤسس تطبيق صحتك، حاصل على ماجستير في الكيمياء الحيوية "
+                       "السريرية، وعضو في معهد العلوم الطبية الحيوية البريطاني IBMS، "
+                       "وعضو لجنة الصحة في المجلس العلمي السوري. يعمل منذ سنوات على أنظمة تربط أجهزة التحاليل الطبية بالسجلات "
+                       "الصحية في المملكة المتحدة والشرق الأوسط. تُكتب هذه المقالات اعتماداً على "
+                       "مصادر منشورة من منظمة الصحة العالمية والهيئات الصحية الوطنية، وهي للتثقيف "
                        "الصحي ولا تغني عن استشارة طبيبك."),
         "author_link": "المزيد عن الكاتب",
         "browse_h": "تصفح حسب الموضوع",
@@ -175,11 +176,12 @@ L = {
         "base": "/en/articles/", "hub": f"{SITE}/en/articles/",
         "crumb_home": "Home", "crumb_articles": "Articles",
         "oglocale": "en_US", "oglocale_alt": "ar_SA",
-        "author_role": "Founder of Sihtak · Health and laboratory software engineering",
-        "author_bio": ("Adnan Alrefai is a health software engineer and the founder of Sihtak. "
-                       "He has spent years building systems that connect laboratory analysers to "
-                       "health records across the UK and the Middle East. He is not a physician: "
-                       "these articles are written from published sources including the World "
+        "author_role": "Founder of Sihtak · MSc Clinical Biochemistry · MIBMS",
+        "author_bio": ("Adnan Alrefai is the founder of Sihtak and holds an MSc in Clinical "
+                       "Biochemistry. He is a member of the UK Institute of Biomedical Science (MIBMS) "
+                       "and of the Health Committee of the Syrian Scientific Council. He has spent years building systems that connect laboratory "
+                       "analysers to health records across the UK and the Middle East. These "
+                       "articles are written from published sources including the World "
                        "Health Organization and national health bodies, and are health education "
                        "rather than a substitute for your own doctor."),
         "author_link": "More about the author",
@@ -473,8 +475,12 @@ ORG_LD = {
 PERSON_LD = {
     "@type": "Person", "@id": f"{SITE}/#adnan", "name": AUTHOR, "url": AUTHOR_URL,
     "jobTitle": "Founder, Sihtak",
-    "knowsAbout": ["point-of-care testing", "laboratory information systems",
+    "hasCredential": {"@type": "EducationalOccupationalCredential",
+                      "credentialCategory": "degree", "name": "MSc Clinical Biochemistry"},
+    "knowsAbout": ["clinical biochemistry", "point-of-care testing", "laboratory information systems",
                    "health informatics", "HL7", "medical laboratory diagnostics"],
+    "memberOf": [{"@type": "Organization", "name": "Institute of Biomedical Science", "url": "https://www.ibms.org"},
+                 {"@type": "Organization", "name": "Syrian Scientific Council", "alternateName": "المجلس العلمي السوري"}],
     "worksFor": {"@id": f"{SITE}/#org"},
 }
 
