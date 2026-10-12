@@ -399,8 +399,8 @@ def author_page(lang):
     # English articles link to from their byline.
     url = AUTHOR_URL if lang == "ar" else f"{SITE}/en/author/"
     if lang == "ar":
-        title = "أدنان الرفاعي · كاتب صحتك"
-        h1 = "أدنان الرفاعي"
+        title = "عدنان الرفاعي · كاتب صحتك"
+        h1 = "عدنان الرفاعي"
         blocks = [
             ("لماذا أكتب هذا المحتوى",
              ["أحمل ماجستيراً في الكيمياء الحيوية السريرية وعضوية معهد العلوم الطبية الحيوية البريطاني IBMS، "
