@@ -1,0 +1,340 @@
+{
+  "slug": "celiac-disease-gluten",
+  "category": "nutrition",
+  "chip_ar": "تغذية",
+  "chip_en": "Nutrition",
+  "date_iso": "2026-09-27",
+  "sources": [
+    {"label": "Singh P, Arora A, Strand TA et al: Global Prevalence of Celiac Disease: Systematic Review and Meta-analysis, Clinical gastroenterology and hepatology : the official clinical practice journal of the American Gastroenterological Association, 2018", "url": "https://pubmed.ncbi.nlm.nih.gov/29551598/"},
+    {"label": "El-Metwally A, Toivola P, AlAhmary K et al: The Epidemiology of Celiac Disease in the General Population and High-Risk Groups in Arab Countries: A Systematic Review, BioMed research international, 2020", "url": "https://pubmed.ncbi.nlm.nih.gov/32596351/"},
+    {"label": "Safi MA: Celiac disease among at-risk individuals in Saudi Arabia, Saudi medical journal, 2019", "url": "https://pubmed.ncbi.nlm.nih.gov/30617375/"},
+    {"label": "Aljulifi MZ, Mahzari M, Alkhalifa L et al: The prevalence of celiac disease in Saudi patients with type 1 diabetes mellitus, Annals of Saudi medicine, 2021", "url": "https://pubmed.ncbi.nlm.nih.gov/33818147/"},
+    {"label": "Stefanelli G, Viscido A, Longo S et al: Persistent Iron Deficiency Anemia in Patients with Celiac Disease Despite a Gluten-Free Diet, Nutrients, 2020", "url": "https://pubmed.ncbi.nlm.nih.gov/32708019/"},
+    {"label": "NHS: Coeliac disease, diagnosis", "url": "https://www.nhs.uk/conditions/coeliac-disease/diagnosis/"},
+    {"label": "Coeliac UK: Getting diagnosed", "url": "https://www.coeliac.org.uk/information-and-support/coeliac-disease/getting-diagnosed/"}
+  ],
+  "content": {
+    "ar": {
+      "title": "الداء البطني (السيلياك): الأعراض وتحليل tTG وحمية الغلوتين",
+      "desc": "فقر دم لا يتحسن بالحديد، طفل قصير، أو انتفاخ دائم؟ قد يكون الداء البطني. تعرف على الأعراض وتحليل tTG-IgA والأكلات العربية التي تخفي الغلوتين.",
+      "keywords": "الداء البطني, مرض السيلياك, حساسية القمح, تحليل tTG-IgA, أعراض السيلياك, حمية خالية من الغلوتين, أكلات خالية من الغلوتين, فقر الدم والسيلياك, قصر القامة عند الأطفال",
+      "h1": "الداء البطني (السيلياك): كيف تعرفه، وكيف يُشخص، وكيف تعيش بلا غلوتين في مطبخ عربي",
+      "takeaways": [
+        "الداء البطني مرض مناعي يهاجم فيه الجسم بطانة الأمعاء الدقيقة عند تناول الغلوتين الموجود في القمح والشعير والجاودار.",
+        "كثير من المصابين لا يشكون من الإسهال، بل من فقر دم بنقص الحديد لا يتحسن، أو قصر قامة عند الطفل، أو هشاشة عظام مبكرة.",
+        "التحليل الأول هو tTG-IgA في الدم، ويجب أن تستمر في أكل الغلوتين حتى يتم التحليل وإلا قد تأتي النتيجة سليمة بشكل خادع.",
+        "الفريكة والبرغل والكسكس والسميد والأرز بالشعيرية كلها تحتوي على الغلوتين، بينما الأرز السادة والبطاطا والذرة والبقول والتمر آمنة.",
+        "العلاج هو حمية صارمة خالية من الغلوتين مدى الحياة بعد تأكيد التشخيص، مع متابعة دورية عند الطبيب."
+      ],
+      "sections": [
+        {
+          "h2": "ما هو الداء البطني، وهل يمكن أن يكون سبب أعراضك؟",
+          "paras": [
+            "الداء البطني (Coeliac disease)، ويعرفه كثيرون باسم السيلياك أو حساسية القمح، مرض مناعي ذاتي. عندما يأكل المصاب الغلوتين، وهو بروتين موجود في القمح والشعير والجاودار، يهاجم جهازه المناعي بطانة الأمعاء الدقيقة. مع الوقت تتسطح الزغابات المعوية، وهي النتوءات الدقيقة التي تمتص الغذاء، فيضعف امتصاص الحديد والفولات والكالسيوم وفيتامين د وغيرها حتى لو كان الطعام جيدا. هذا ليس تحسسا عابرا ولا مجرد انزعاج من الخبز، بل ضرر حقيقي داخل الأمعاء يحدث سواء شعرت بشيء بعد الأكل أم لا.",
+            "نعم، قد يكون الداء البطني سبب أعراضك إذا كنت تعاني من انتفاخ مستمر، أو إسهال أو إمساك لا يزول، أو تعب لا يرتفع، أو فقر دم يعود كلما توقفت عن حبوب الحديد. والمفاجأة أن كثيرا من المصابين لا يشكون من بطنهم أصلا، ولهذا يفوت الأطباء هذا المرض كثيرا. الطريقة الوحيدة للمعرفة هي تحليل دم، غالبا tTG-IgA، يُجرى وأنت ما زلت تأكل الغلوتين، ثم في أغلب البالغين خزعة تؤخذ أثناء التنظير.",
+            "الخبر الطيب أن الداء البطني قابل للسيطرة تماما. بعد تأكيد التشخيص تسمح الحمية الخالية من الغلوتين للأمعاء بأن تلتئم، ويشعر معظم الناس بتحسن واضح خلال أسابيع إلى أشهر. لا يوجد دواء يغني عن الحمية، ولا توجد كمية منتظمة آمنة من الغلوتين للمصاب، ولذلك يجب أن يكون التشخيص مؤكدا قبل أن تقلب نظام أكل البيت كله."
+          ]
+        },
+        {
+          "h2": "كم هو شائع الداء البطني في البلاد العربية؟",
+          "paras": [
+            "ظل الداء البطني لعقود يُعد مرضا أوروبيا، وهذه الصورة لم تعد صحيحة. تحليل عالمي جامع نُشر عام 2018 في مجلة Clinical Gastroenterology and Hepatology ضم بيانات 275,818 شخصا، ووجد أن نحو 1.4 بالمئة لديهم أجسام مضادة إيجابية للمرض، وأن 0.7 بالمئة تأكد تشخيصهم بالخزعة. وكان المرض أكثر عند النساء منه عند الرجال، وعند الأطفال أكثر من البالغين.",
+            "البيانات العربية تسير في الاتجاه نفسه مع تفاوت كبير بين البلدان. مراجعة منهجية نُشرت عام 2020 أعدها باحثون من جامعة الملك سعود بن عبدالعزيز للعلوم الصحية في الرياض جمعت 35 دراسة شملت 22,340 مشاركا من 12 بلدا عربيا. سُجل أعلى معدل بين عامة الناس في السعودية بنسبة 3.2 بالمئة، وأدناه في تونس بنسبة 0.1 بالمئة. أما الأطفال المصابون بالسكري من النوع الأول فكانت النسبة عندهم أعلى بكثير، بين 5.5 و20 بالمئة بحسب الدراسة.",
+            "لماذا تفوتنا حالات كثيرة في منطقة لا تخلو فيها وجبة من الخبز؟ جزء من السبب أن الأعراض تُنسب إلى شيء آخر: القولون العصبي، أو الديدان والطفيليات، أو سوء التغذية، أو فقر دم عادي. وجزء آخر أن التحليل ليس روتينيا في كثير من العيادات، والمتابعة متقطعة. في دراسة من الرياض نُشرت عام 2021 في مجلة Annals of Saudi Medicine على 539 مراهقا وبالغا مصابين بالسكري من النوع الأول، كانت نتيجة 11.5 بالمئة منهم إيجابية في تحليل الكشف، لكن 37 بالمئة فقط من هؤلاء أكملوا التنظير اللازم لتأكيد التشخيص."
+          ],
+          "visual": {
+            "type": "stats",
+            "title": "الداء البطني بالأرقام",
+            "items": [
+              {"value": "1.4%", "label": "نسبة الأجسام المضادة الإيجابية عالميا", "tone": "info"},
+              {"value": "3.2%", "label": "أعلى نسبة بين عامة الناس في دراسة عربية (السعودية)", "tone": "warn"},
+              {"value": "5.5% إلى 20%", "label": "بين أطفال السكري من النوع الأول في البلاد العربية", "tone": "bad"}
+            ],
+            "source": "Singh وآخرون 2018، El-Metwally وآخرون 2020",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/32596351/"
+          }
+        },
+        {
+          "h2": "أعراض خارج البطن: فقر الدم وقصر القامة وهشاشة العظام",
+          "paras": [
+            "الصورة التقليدية للمرض هي إسهال مزمن وبطن منتفخ ونقص وزن، لكن كثيرا من البالغين لا يعانون من أي منها. المراجعة العربية المذكورة وجدت أن أكثر ما يظهر عند الأطفال هو تأخر النمو وضعف اكتساب الوزن، يليه قصر القامة، ثم ألم البطن وانتفاخه والإسهال المزمن. أما عند الكبار فكثيرا ما تكون العلامة بعيدة عن الجهاز الهضمي.",
+            "أهم هذه العلامات فقر الدم بنقص الحديد. مراجعة علمية نُشرت عام 2020 في مجلة Nutrients تذكر أن فقر الدم بنقص الحديد هو العلامة الوحيدة غير الطبيعية عند نحو 40 بالمئة من المصابين، لأن الحديد يُمتص في الجزء الأول من الأمعاء الدقيقة، وهو بالضبط المكان الأكثر تضررا. إذا كنت تأخذين حبوب الحديد منذ أشهر والهيموغلوبين (Hemoglobin) والفيريتين (Ferritin) لا يتحركان، ولا توجد دورة غزيرة أو نزف يفسر ذلك، فالداء البطني من أول ما يجب أن يفحصه الطبيب.",
+            "عند الأطفال، الطفل الذي يبتعد عن منحنى نموه، أو يبدو أقصر بوضوح من إخوته وأبناء عمه، أو يتأخر بلوغه، يستحق تحليل الداء البطني حتى لو بدا بطنه سليما. وعند الكبار قد ترتبط بالمرض غير المعالج علامات مثل ترقق العظام المبكر، أو كسر بعد سقطة بسيطة، أو تقرحات الفم المتكررة، أو طفح جلدي مثير للحكة بفقاعات صغيرة على المرفقين والركبتين يسمى التهاب الجلد الحلئي الشكل، أو تنميل في اليدين والقدمين، أو ارتفاع إنزيمات الكبد، أو صعوبة الحمل.",
+            "يزداد الاحتمال عند المصابين بالسكري من النوع الأول، وأمراض الغدة الدرقية المناعية، ومتلازمة داون، ومتلازمة تيرنر، وعند كل من لديه أب أو أم أو أخ أو أخت أو ابن مصاب. مراجعة سعودية جامعة نُشرت عام 2019 في المجلة الطبية السعودية وجدت أن نسبة الأجسام المضادة الإيجابية بين هذه الفئات عالية الخطورة بلغت 15.6 بالمئة. وفي العائلات الكبيرة يفيد أن تسأل: هل قيل لأحد من الأقارب أن يتجنب الخبز؟"
+          ],
+          "visual": {
+            "type": "table",
+            "title": "علامات تجعلك تفكر بالداء البطني",
+            "head": ["أين تظهر", "ماذا قد تلاحظ", "لماذا تحدث"],
+            "rows": [
+              ["الدم", "فقر دم بنقص الحديد لا يتحسن بالحبوب", "تضرر مكان امتصاص الحديد في الأمعاء"],
+              ["النمو عند الطفل", "قصر قامة، ضعف وزن، تأخر بلوغ", "سوء امتصاص الغذاء لفترة طويلة"],
+              ["العظام", "ترقق مبكر أو كسور بسيطة", "نقص امتصاص الكالسيوم وفيتامين د"],
+              ["الجلد والفم", "طفح مثير للحكة، تقرحات متكررة", "تفاعل مناعي مرتبط بالغلوتين"],
+              ["البطن", "انتفاخ، إسهال أو إمساك، غازات", "التهاب بطانة الأمعاء الدقيقة"]
+            ]
+          }
+        },
+        {
+          "h2": "تحليل tTG-IgA: ماذا يقيس وكيف تقرأ نتيجته",
+          "paras": [
+            "التحليل الأول هو فحص دم يبحث عن أجسام مضادة لإنزيم اسمه ترانسغلوتاميناز النسيجي. ستجده في ورقة النتيجة غالبا باسم anti-tTG IgA أو tTG-IgA أو Tissue Transglutaminase IgA. عندما يأكل المصاب الغلوتين يصنع جهازه المناعي هذه الأجسام المضادة، ويميل مستواها إلى الارتفاع مع شدة الضرر في الأمعاء. التحليل رخيص نسبيا ومتوفر، ومعظم المختبرات الخاصة في المنطقة تجريه أو ترسله إلى مختبر مرجعي.",
+            "تُقارن نتيجتك بحد فاصل مطبوع على الورقة، وغالبا تكون الوحدة U/mL. هذا الحد يختلف من جهاز إلى جهاز ومن مختبر إلى آخر، فاقرأ رقمك بالمقارنة مع مرجع مختبرك أنت، لا مع رقم وجدته على الإنترنت. النتيجة الأقل من الحد مطمئنة إذا كنت تأكل الغلوتين وكان مستوى IgA الكلي طبيعيا. والنتيجة الأعلى منه تعني أن المرض محتمل وتحتاج إلى متابعة عند طبيب الجهاز الهضمي. والنتيجة المرتفعة جدا، أي أضعاف الحد الأعلى، تجعل التشخيص أكثر رجحانا.",
+            "المختبر الجيد يقيس معه مستوى IgA الكلي (Total IgA) في العينة نفسها. بعض الناس يصنعون بطبيعتهم كمية قليلة جدا من IgA، وهذا أكثر شيوعا عند مرضى الداء البطني، وعندهم قد يأتي tTG-IgA طبيعيا بشكل خادع. في هذه الحالة يلجأ الطبيب إلى تحاليل تعتمد على IgG مثل DGP-IgG أو tTG-IgG. إذا كانت ورقتك تحمل tTG-IgA وحده دون IgA الكلي، فاسأل الطبيب أو المختبر هل فُحص.",
+            "التحليل الإيجابي ليس نهاية الطريق. عند البالغين يُؤكد التشخيص عادة بالتنظير العلوي، وهو كاميرا رفيعة تدخل من الفم، تؤخذ أثناءه عدة عينات صغيرة من الاثني عشر. وعند بعض الأطفال الذين تكون أجسامهم المضادة مرتفعة جدا ومؤكدة في عينة دم ثانية، قد يضع طبيب الجهاز الهضمي للأطفال التشخيص دون خزعة وفق الإرشادات الأوروبية لطب الأطفال. هذا القرار للطبيب المختص، وليس لورقة المختبر وحدها."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "كيف يُشخص الداء البطني عادة",
+            "items": [
+              "استمر في أكل الغلوتين يوميا قبل التحليل ولا تبدأ الحمية بعد",
+              "تحليل دم tTG-IgA مع قياس IgA الكلي في العينة نفسها",
+              "إذا كان IgA الكلي منخفضا، تحاليل بديلة تعتمد على IgG",
+              "إذا كانت النتيجة إيجابية، موعد عند طبيب الجهاز الهضمي",
+              "تنظير علوي مع عدة خزعات من الاثني عشر عند أغلب البالغين",
+              "بعد التأكيد فقط، حمية صارمة خالية من الغلوتين ومتابعة دورية"
+            ]
+          }
+        },
+        {
+          "h2": "لماذا يجب أن تستمر في أكل الغلوتين حتى تجري التحليل؟",
+          "paras": [
+            "هذا أكثر خطأ يتكرر. يقرأ شخص عن السيلياك، فيقطع الخبز بضعة أسابيع، ويشعر بتحسن، ثم يذهب ليحلل. لكن الأجسام المضادة تنخفض وتبدأ بطانة الأمعاء بالتعافي بمجرد إيقاف الغلوتين، فقد يأتي التحليل والخزعة سليمين رغم أن المرض موجود. وتبقى بعدها حائرا بتشخيص غير مؤكد، لا تعرف هل عليك الالتزام الصارم مدى الحياة أم لا.",
+            "تنص هيئة الخدمات الصحية البريطانية NHS على أنك تحتاج إلى تناول أطعمة تحتوي الغلوتين حتى تكون التحاليل دقيقة. وتنصح جمعية Coeliac UK البريطانية بتناول 3 غرامات على الأقل، ويفضل 6 غرامات، من الغلوتين يوميا لمدة ستة أسابيع على الأقل قبل التحليل، والاستمرار في أكله حتى يضع الطبيب التشخيص. بلغة المطبخ، هذا يعني خبزا عاديا أو معكرونة أو أطعمة قمح أخرى في أكثر من وجبة في اليوم.",
+            "إذا كنت قد بدأت الحمية بالفعل، فلا تعد إلى الخبز اليوم وتحلل غدا. تحدث مع الطبيب عن فترة مخططة لإعادة الغلوتين قبل التحاليل. وإذا ظهرت خلالها أعراض شديدة، مثل قيء متكرر أو إسهال يسبب الجفاف، فتوقف واطلب المشورة الطبية بدل أن تتحمل. وفي هذه الحالة قد يفيد التحليل الجيني HLA-DQ2 وHLA-DQ8، لأن النتيجة السلبية تجعل المرض بعيد الاحتمال جدا، أما الإيجابية فلا تثبته وحدها."
+          ]
+        },
+        {
+          "h2": "الغلوتين المخفي في المطبخ العربي",
+          "paras": [
+            "الخبز هو المصدر الواضح، سواء كان الخبز العربي أو الصاج أو التنور أو الصمون العراقي أو الكماج أو الخبز الفرنسي. الصعب هو الغلوتين الذي لا تراه. كثير من أكلاتنا التقليدية مبنية على القمح بأشكال لا نسميها خبزا. الفريكة قمح أخضر محمص. والبرغل قمح مجروش، وهو أساس التبولة والكبة والمحاشي وكثير من الحشوات. والكسكس المغربي والمفتول الفلسطيني مصنوعان من سميد القمح، وكذلك البسبوسة والمعمول والهريسة الحلوة.",
+            "الأرز خال من الغلوتين بطبيعته، لكن الأرز بالشعيرية المحمصة، وهو طريقة طبخ الأرز اليومية في بيوت كثيرة في الشام ومصر والخليج، ليس آمنا. والهريس والجريش في الخليج يصنعان من القمح، وكذلك المرقوق والقرصان. والكشك الشامي خليط من اللبن والبرغل. والكنافة والقطايف والسمبوسك والفطائر ومعظم حلويات المخابز تحتوي على طحين القمح. ومشروبات الشعير، بما فيها المشروبات الغازية الخالية من الكحول المنتشرة في الخليج، مصنوعة من الشعير.",
+            "ثم هناك المصادر المخفية فعلا. بعض خلطات البهارات ومكعبات المرق وأكياس التتبيل الجاهزة تستخدم طحين القمح مادة مالئة أو مانعة للتكتل. وصلصة الصويا تُخمر عادة مع القمح. والفلافل الجاهزة قد يُضاف إليها طحين لتتماسك، وكثيرا ما تُقلى في الزيت نفسه مع الأطعمة المغطاة بالبقسماط. وتتبيلات الشاورما، والصلصات المكثفة بالطحين، واللحم المغطى بالطحين قبل القلي كلها مصادر. إذا رأيت على العبوة قمحا أو شعيرا أو مالت (Malt) أو سميدا أو كلمة نشا دون تحديد نوعه، فتعامل معها بحذر."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "أكلات عربية فيها غلوتين وبدائل أكثر أمانا",
+            "head": ["الأكلة", "أين الغلوتين", "بديل أكثر أمانا"],
+            "rows": [
+              ["الأرز بالشعيرية", "الشعيرية من القمح", "أرز سادة أو بالبصل والمكسرات"],
+              ["التبولة والكبة", "البرغل قمح مجروش", "تبولة بالكينوا أو بالأرز"],
+              ["شوربة الفريكة", "الفريكة قمح أخضر", "شوربة العدس دون مكعبات مرق"],
+              ["الكسكس والمفتول", "سميد القمح", "أرز أو ذرة مطبوخة بالطريقة نفسها"],
+              ["الهريس والجريش", "حبوب القمح", "أرز مطحون مع اللحم"],
+              ["البسبوسة والمعمول", "السميد وطحين القمح", "محلبية بنشا الذرة أو طحين الأرز"],
+              ["الفلافل الجاهزة", "طحين مضاف وزيت مشترك", "فلافل منزلية تُقلى بزيت مستقل"],
+              ["البهارات ومكعبات المرق", "طحين مالئ أحيانا", "بهارات مفردة تطحنها بنفسك"]
+            ]
+          }
+        },
+        {
+          "h2": "أكلات عربية خالية من الغلوتين يمكنك الاعتماد عليها",
+          "paras": [
+            "الجزء المطمئن أن جزءا كبيرا من طعامنا خال من الغلوتين أصلا. الأرز السادة، والبطاطا، والذرة، والعدس، والحمص، والفول، واللحم والدجاج والسمك الطازج، والبيض، والحليب واللبن واللبنة والجبنة البيضاء، والزيتون وزيت الزيتون، والطحينة، والتمر، والمكسرات، والخضار والفواكه كلها خالية من الغلوتين في صورتها الطبيعية. الحمص بالطحينة، والفول المدمس، والمجدرة بالأرز، والمشاوي دون تتبيلات جاهزة، ومعظم المقبلات المصنوعة من الخضار يمكن أن تبقى على السفرة.",
+            "الدخن والذرة الرفيعة، اللذان تُصنع منهما الكسرة والعصيدة في السودان واليمن، خاليان من الغلوتين بطبيعتهما، بشرط ألا يكون الطحين مخلوطا بالقمح أو مطحونا في المطحنة نفسها. وطحين الأرز ونشا الذرة يحلان محل القمح في المحلبية وفي تغطية الأطعمة المقلية. أما الشوفان فحالة خاصة: لا يحتوي الغلوتين بنفسه، لكنه يتلوث كثيرا بالقمح أثناء التصنيع، وقلة من المرضى يتفاعلون حتى مع الشوفان النقي، فلا تستخدم إلا شوفانا مكتوبا عليه خال من الغلوتين، واسأل طبيبك أو أخصائي التغذية أولا.",
+            "الحمية الخالية من الغلوتين لا تعني بالضرورة منتجات مستوردة غالية. الخبز والمعكرونة الخاليان من الغلوتين قد يكونان مكلفين وصعبي الإيجاد خارج المدن الكبرى، وفي بعض البلدان قد لا يتوفران أصلا. بناء الوجبات حول الأرز والبقول والبطاطا والطعام الطازج أرخص، وأقرب إلى طريقة أكل أجدادنا، وغالبا أصح من الاعتماد على البدائل المصنعة التي قد تكون غنية بالسكر والدهون وفقيرة بالألياف."
+          ]
+        },
+        {
+          "h2": "الحياة اليومية بلا غلوتين: التلوث والمطاعم وسفرة العائلة",
+          "paras": [
+            "حتى الكميات الصغيرة من الغلوتين قد تُبقي الأمعاء ملتهبة، ولذلك التفاصيل مهمة. خصص محمصة خبز أو مقلاة نظيفة، واحتفظ بمرطبان مربى أو طحينة خاص حتى لا يغمس أحد فيه سكينا عليه فتات خبز، واغسل ألواح التقطيع والمصافي جيدا. وكثير من العائلات تجد أن الأسهل أن تجعل الأطباق المشتركة خالية من الغلوتين، كالأرز دون شعيرية، وتضع الخبز جانبا لمن يريده.",
+            "المطاعم أصعب في منطقتنا، لأن العاملين قد لا يعرفون كلمة غلوتين. اشرح ببساطة: لا قمح، لا طحين، لا خبز، لا برغل، لا سميد، واسأل هل يُقلى الطعام في زيت مشترك مع الأشياء المغطاة بالبقسماط. اللحم المشوي مع أرز سادة وسلطة دون خبز محمص هو غالبا أكثر طلب آمن في المطعم. وفي إفطارات رمضان والعزائم العائلية يفيد أن تحضر معك طبقا واحدا تعرف أنه آمن، وأن تشرح لأهل البيت مسبقا أن الأمر علاج وليس دلالا.",
+            "المتابعة جزء من العلاج. يعيد الطبيب عادة تحليل tTG-IgA بعد عدة أشهر إلى سنة ليتأكد أنه ينخفض، ويفحص الحديد والفيريتين وفيتامين د والفولات، وأحيانا كثافة العظام. إذا بقيت الأجسام المضادة مرتفعة فأكثر سبب شائع هو غلوتين مخفي، وزيارة أخصائي تغذية تستحق العناء. لا تبدأ مكملات الحديد أو الفيتامينات أو توقف أي دواء من تلقاء نفسك، فالطبيب يقرر ما تحتاجه بناء على نتائجك."
+          ]
+        },
+        {
+          "h2": "متى تراجع الطبيب، ومتى يكون الأمر عاجلا؟",
+          "paras": [
+            "راجع الطبيب واطلب تحليل الداء البطني إذا كان لديك فقر دم يتكرر، أو انتفاخ أو تغير في الإخراج منذ فترة طويلة، أو نقص وزن غير مفسر، أو طفل لا ينمو جيدا، أو ترقق عظام مبكر، أو قريب من الدرجة الأولى مصاب. اذكر كل أعراضك حتى التي تبدو بعيدة عن البطن، وقل بوضوح إن كنت قد خففت الخبز مؤخرا.",
+            "بعض الأعراض لا تحتمل انتظار موعد عادي. نقص الوزن غير المفسر، والدم في البراز، والقيء الذي لا يتوقف، والألم الشديد في البطن، وعلامات الجفاف تحتاج إلى رعاية طبية سريعة. هذه الأعراض قد تكون لأسباب كثيرة غير الداء البطني، وبعضها خطير. والمريض المشخص منذ سنوات الذي يسوء حاله فجأة رغم التزامه الصارم بالحمية يحتاج إلى مراجعة عند المختص، لأن هناك مضاعفات نادرة يجب استبعادها."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "اطلب رعاية طبية سريعة إذا ظهر",
+            "items": [
+              "دم في البراز أو براز أسود",
+              "قيء متكرر لا يتوقف أو عدم القدرة على شرب السوائل",
+              "علامات جفاف: عطش شديد، بول قليل داكن، دوخة، وعند الطفل خمول وقلة البلل في الحفاض",
+              "ألم شديد في البطن أو بطن منتفخ وقاس",
+              "نقص وزن سريع غير مفسر",
+              "سوء مفاجئ في الحالة رغم الالتزام الصارم بالحمية"
+            ]
+          }
+        }
+      ],
+      "tie": "مع تطبيق صحتك يمكنك تصوير ورقة تحليل tTG-IgA والحديد والفيريتين ليحفظها ماسح المختبر ويُظهر لك هل تنخفض الأجسام المضادة مع الوقت، واسأل المساعد الذكي عن أي مكون غريب في عبوة طعام، وسجل أعراضك لتعرضها على طبيبك في الموعد. يبقى التطبيق أداة مساعدة لا تغني عن طبيبك.",
+      "faqs": [
+        {"q": "هل الداء البطني هو نفسه حساسية القمح؟", "a": "لا. حساسية القمح تفاعل تحسسي قد يسبب طفحا أو تورما أو ضيق نفس بعد الأكل بوقت قصير. أما الداء البطني فمرض مناعي يضر بطانة الأمعاء مع الوقت ويُشخص بتحليل tTG-IgA والخزعة، وكثيرا ما يسميه الناس خطأ حساسية القمح."},
+        {"q": "هل يمكنني إجراء التحليل إذا كنت قد توقفت عن الخبز؟", "a": "قد تأتي النتيجة سليمة بشكل خادع لأن الأجسام المضادة تنخفض بعد إيقاف الغلوتين. تنصح جمعية Coeliac UK بتناول الغلوتين يوميا لستة أسابيع على الأقل قبل التحليل. تحدث مع طبيبك قبل إعادة الغلوتين، خاصة إذا كانت أعراضك شديدة."},
+        {"q": "هل يمكن أن يبدأ الداء البطني في سن الكبر؟", "a": "نعم، يمكن أن يُشخص في أي عمر، من الطفولة حتى الشيخوخة. كثير من البالغين يُكتشف مرضهم بعد سنوات من فقر الدم أو التعب أو هشاشة العظام دون تفسير واضح."},
+        {"q": "هل القليل من الغلوتين من وقت لآخر يضر المصاب؟", "a": "نعم، حتى الكميات الصغيرة المتكررة قد تُبقي الأمعاء ملتهبة وإن لم تشعر بأعراض. لهذا يُطلب من المصاب الالتزام الصارم والانتباه إلى التلوث في المطبخ. الطبيب يتابع ذلك بإعادة تحليل tTG-IgA."},
+        {"q": "هل الأرز والتمر آمنان لمريض السيلياك؟", "a": "الأرز السادة والتمر الطبيعي خاليان من الغلوتين. انتبه للأرز المطبوخ بالشعيرية وللتمر المحشو أو المغطى بخلطات فيها بسكويت أو طحين، ولمعمول التمر المصنوع من السميد."},
+        {"q": "هل سيعود طفلي إلى النمو الطبيعي بعد الحمية؟", "a": "كثير من الأطفال يتحسن نموهم ويلحقون بأقرانهم بعد الالتزام بالحمية، لكن ذلك يختلف من طفل لآخر ويحتاج إلى وقت. يتابع طبيب الأطفال الطول والوزن على منحنى النمو ويفحص أسبابا أخرى إذا لم يتحسن."},
+        {"q": "هل يجب أن يُفحص أفراد عائلتي؟", "a": "يُنصح عادة بفحص الأقارب من الدرجة الأولى، أي الوالدين والإخوة والأبناء، لأن خطرهم أعلى من عامة الناس. يتم ذلك بتحليل tTG-IgA وهم يأكلون الغلوتين كالمعتاد، حتى لو لم تكن لديهم أعراض."}
+      ]
+    },
+    "en": {
+      "title": "Coeliac Disease: Symptoms, Blood Test and Gluten-Free Life",
+      "desc": "Coeliac disease often hides behind anaemia, short height and bloating. Learn the signs, how the tTG-IgA blood test works and which Arab foods hide gluten.",
+      "keywords": "coeliac disease, celiac disease symptoms, tTG-IgA blood test, gluten free diet, gluten free arabic food, coeliac anaemia, coeliac short stature, is bulgur gluten free, coeliac test before going gluten free",
+      "h1": "Coeliac disease: how to recognise it, how it is diagnosed, and how to live gluten-free in an Arab kitchen",
+      "takeaways": [
+        "Coeliac disease is an autoimmune condition in which gluten from wheat, barley and rye damages the lining of the small intestine.",
+        "Many people never have diarrhoea; instead they have iron deficiency anaemia that will not improve, a child who is not growing, or early bone thinning.",
+        "The first test is a tTG-IgA blood test, and you must keep eating gluten until it is done or the result can be falsely normal.",
+        "Freekeh, bulgur, couscous, semolina and rice with vermicelli all contain gluten, while plain rice, potatoes, corn, legumes and dates are safe.",
+        "Treatment is a strict lifelong gluten-free diet once the diagnosis is confirmed, with regular follow-up."
+      ],
+      "sections": [
+        {
+          "h2": "What is coeliac disease, and could it explain your symptoms?",
+          "paras": [
+            "Coeliac disease, also spelled celiac disease, is an autoimmune condition. When someone with it eats gluten, a protein found in wheat, barley and rye, their immune system attacks the lining of the small intestine. Over time the tiny finger-like folds that absorb food, called villi, become flattened. Your gut then struggles to absorb iron, folate, calcium, vitamin D and other nutrients, even if you eat well. It is not a passing intolerance, because real damage happens inside the bowel whether or not you feel unwell after a meal.",
+            "It could explain your symptoms if you have ongoing bloating, diarrhoea or constipation, tiredness that never lifts, or anaemia that comes back every time you stop iron tablets. Surprisingly, many people with coeliac disease have no gut complaints at all, which is why it is missed so often. The only way to know is a blood test, usually tTG-IgA, done while you are still eating gluten, followed in most adults by a biopsy taken during an endoscopy.",
+            "The good news is that coeliac disease is very controllable. Once it is confirmed, a strict gluten-free diet lets the gut lining heal, and most people feel clearly better within weeks to months. No tablet replaces the diet, and there is no safe regular amount of gluten for someone with the condition, so the diagnosis needs to be certain before you change how the whole household eats."
+          ]
+        },
+        {
+          "h2": "How common is coeliac disease in Arab countries?",
+          "paras": [
+            "For decades coeliac disease was treated as a European illness, and that picture is out of date. A global meta-analysis published in 2018 in Clinical Gastroenterology and Hepatology pooled data on 275,818 people and found that about 1.4 percent had positive coeliac antibodies, while 0.7 percent had the disease confirmed by biopsy. It was more common in women than in men, and in children than in adults.",
+            "Arab data point the same way, with wide differences between countries. A 2020 systematic review by researchers at King Saud bin Abdulaziz University for Health Sciences in Riyadh gathered 35 studies covering 22,340 participants from 12 Arab countries. The highest rate in the general population, 3.2 percent, was reported in Saudi Arabia, and the lowest, 0.1 percent, in Tunisia. Children with type 1 diabetes had far higher rates, between 5.5 and 20 percent depending on the study.",
+            "Why does a region with bread at every meal miss so many cases? Partly because symptoms get blamed on something else: irritable bowel, worms and parasites, poor diet, or ordinary anaemia. Partly because testing is not routine in many clinics and follow-up is patchy. In a Riyadh study published in the Annals of Saudi Medicine in 2021, 11.5 percent of 539 teenagers and adults with type 1 diabetes screened positive, yet only 37 percent of those went on to have the endoscopy needed to confirm the diagnosis."
+          ],
+          "visual": {
+            "type": "stats",
+            "title": "Coeliac disease in numbers",
+            "items": [
+              {"value": "1.4%", "label": "positive coeliac antibodies worldwide", "tone": "info"},
+              {"value": "3.2%", "label": "highest general-population rate in Arab studies (Saudi Arabia)", "tone": "warn"},
+              {"value": "5.5% to 20%", "label": "among Arab children with type 1 diabetes", "tone": "bad"}
+            ],
+            "source": "Singh et al 2018; El-Metwally et al 2020",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/32596351/"
+          }
+        },
+        {
+          "h2": "Symptoms beyond the stomach: anaemia, short height and weak bones",
+          "paras": [
+            "The textbook picture is chronic diarrhoea, a swollen belly and weight loss, but many adults have none of these. The Arab review above found that the most common presentation in children was failure to thrive and poor weight gain, followed by short stature, then abdominal pain, bloating and chronic diarrhoea. In adults the clue is often far from the digestive system.",
+            "The biggest clue is iron deficiency anaemia. A 2020 review in the journal Nutrients notes that iron deficiency anaemia is the only abnormal finding in about 40 percent of people with coeliac disease, because iron is absorbed in the first part of the small intestine, exactly where the damage is worst. If you have taken iron for months and your haemoglobin and ferritin barely move, and there are no heavy periods or blood loss to explain it, coeliac disease is one of the first things a doctor should check.",
+            "In children, a child who is drifting away from their growth curve, is clearly shorter than siblings and cousins, or starts puberty late deserves a coeliac blood test even if their tummy seems fine. In adults, untreated coeliac disease can be linked to early bone thinning, a fracture after a minor fall, repeated mouth ulcers, an itchy blistering rash on the elbows and knees called dermatitis herpetiformis, tingling in the hands and feet, raised liver enzymes, and difficulty getting pregnant.",
+            "The risk is higher in people with type 1 diabetes, autoimmune thyroid disease, Down syndrome or Turner syndrome, and in anyone whose parent, brother, sister or child has coeliac disease. A Saudi meta-analysis published in the Saudi Medical Journal in 2019 found that 15.6 percent of people in these higher-risk groups had positive coeliac antibodies. In large families, it is worth asking whether any relative has ever been told to avoid bread."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Signs that should make you think of coeliac disease",
+            "head": ["Where it shows", "What you might notice", "Why it happens"],
+            "rows": [
+              ["Blood", "Iron deficiency anaemia that tablets do not fix", "Damage where iron is absorbed"],
+              ["Child growth", "Short height, low weight, late puberty", "Long-term poor absorption of food"],
+              ["Bones", "Early thinning or fractures after minor falls", "Poor absorption of calcium and vitamin D"],
+              ["Skin and mouth", "Itchy blistering rash, repeated ulcers", "Gluten-linked immune reaction"],
+              ["Gut", "Bloating, diarrhoea or constipation, wind", "Inflamed small intestine lining"]
+            ]
+          }
+        },
+        {
+          "h2": "The tTG-IgA blood test: what it measures and how to read it",
+          "paras": [
+            "The first test looks for antibodies against an enzyme called tissue transglutaminase. On your report it usually appears as anti-tTG IgA, tTG-IgA or Tissue Transglutaminase IgA. When someone with coeliac disease eats gluten, their immune system makes these antibodies, and the level tends to rise with the amount of gut damage. The test is relatively cheap and widely available, and most private labs in the region either run it or send it to a reference lab.",
+            "Your result is compared with a cut-off printed on the report, often in U/mL. That cut-off differs between machines and labs, so read your number against your own lab's reference, not a figure from the internet. A result below the cut-off is reassuring if you were eating gluten and your total IgA is normal. A result above it means coeliac disease is likely and you need follow-up with a gastroenterologist. A very high result, many times the upper limit, makes the diagnosis more likely still.",
+            "A good lab also measures total IgA in the same sample. Some people naturally make very little IgA, which is more common in people with coeliac disease, and in them tTG-IgA can come back falsely normal. The doctor then uses IgG-based tests such as DGP-IgG or tTG-IgG. If your report shows tTG-IgA alone without total IgA, ask your doctor or the lab whether it was checked.",
+            "A positive blood test is not the end of the road. In adults the diagnosis is usually confirmed by an upper endoscopy, a thin camera passed through the mouth, during which several small samples are taken from the duodenum. In some children whose antibodies are very high and confirmed on a second blood sample, a paediatric gastroenterologist may make the diagnosis without a biopsy, following European paediatric guidance. That decision belongs to a specialist, not to a lab report on its own."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "How coeliac disease is usually diagnosed",
+            "items": [
+              "Keep eating gluten every day before the test and do not start the diet yet",
+              "Blood test for tTG-IgA, with total IgA measured in the same sample",
+              "If total IgA is low, IgG-based tests instead",
+              "If positive, an appointment with a gastroenterologist",
+              "Upper endoscopy with several biopsies from the duodenum in most adults",
+              "Only after confirmation, a strict gluten-free diet and regular follow-up"
+            ]
+          }
+        },
+        {
+          "h2": "Why you must keep eating gluten until you are tested",
+          "paras": [
+            "This is the most common mistake. Someone reads about coeliac disease, cuts out bread for a few weeks, feels better, and then asks for a test. But antibodies fall and the gut lining starts to heal as soon as gluten is removed, so the blood test and the biopsy can come back normal even though the disease is there. You are then left with an unconfirmed label, not knowing whether you need to be strict for life.",
+            "The NHS states that you need to eat foods containing gluten for the tests to be accurate. Coeliac UK, the national charity, recommends eating at least 3 g and preferably 6 g of gluten every day for at least six weeks before testing, and continuing to eat gluten until your doctor makes a diagnosis. In kitchen terms, that means ordinary bread, pasta or other wheat foods at more than one meal a day.",
+            "If you have already gone gluten-free, do not restart bread today and test tomorrow. Talk to a doctor about a planned period of eating gluten again before the tests. If severe symptoms appear during that period, such as repeated vomiting or diarrhoea that leaves you dehydrated, stop and get medical advice rather than pushing through. Genetic testing for HLA-DQ2 and HLA-DQ8 can help here, because a negative result makes coeliac disease very unlikely, although a positive result does not prove it on its own."
+          ]
+        },
+        {
+          "h2": "Hidden gluten in Arab kitchen foods",
+          "paras": [
+            "Bread is the obvious source, whether it is Arabic flatbread, saj, tannour, Iraqi samoon or a French-style loaf. The harder part is the gluten you cannot see. Many traditional dishes are built on wheat in forms nobody calls bread. Freekeh is roasted green wheat. Bulgur, also called burghul, is cracked wheat, and it is the base of tabbouleh, kibbeh and many stuffings. Moroccan couscous and Palestinian maftoul are made from wheat semolina, and so are basbousa, maamoul and many semolina cakes.",
+            "Rice is naturally gluten-free, but rice cooked with toasted vermicelli, the everyday way of serving it in many homes across the Levant, Egypt and the Gulf, is not. Harees and jareesh in the Gulf are made from wheat, as are margoog and qursan. Levantine kishk is a mix of yoghurt and bulgur. Kunafa, qatayef, sambousek, fatayer and most bakery sweets contain wheat flour. Malt drinks, including the non-alcoholic malt beverages popular in the Gulf, are made from barley.",
+            "Then there are the truly hidden sources. Some spice blends, stock cubes and ready seasoning packets use wheat flour as a filler or anti-caking agent. Soy sauce is usually brewed with wheat. Shop-bought falafel may have flour added to hold it together, and is often fried in the same oil as breaded foods. Shawarma marinades, sauces thickened with flour, and meat dusted in flour before frying all count. If a label lists wheat, barley, malt, semolina, or simply starch without saying which kind, treat it with caution."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Arab dishes that contain gluten, and safer swaps",
+            "head": ["Dish", "Where the gluten is", "Safer swap"],
+            "rows": [
+              ["Rice with vermicelli", "Vermicelli is wheat", "Plain rice, or rice with onion and nuts"],
+              ["Tabbouleh and kibbeh", "Bulgur is cracked wheat", "Tabbouleh made with quinoa or rice"],
+              ["Freekeh soup", "Freekeh is green wheat", "Lentil soup without stock cubes"],
+              ["Couscous and maftoul", "Wheat semolina", "Rice or corn cooked the same way"],
+              ["Harees and jareesh", "Whole or cracked wheat", "Ground rice cooked with meat"],
+              ["Basbousa and maamoul", "Semolina and wheat flour", "Muhallabia with cornflour or rice flour"],
+              ["Shop falafel", "Added flour, shared frying oil", "Home falafel fried in separate oil"],
+              ["Spice mixes, stock cubes", "Flour sometimes used as filler", "Single spices you grind yourself"]
+            ]
+          }
+        },
+        {
+          "h2": "Gluten-free Arab staples you can rely on",
+          "paras": [
+            "The reassuring part is that a large share of the region's food is naturally gluten-free. Plain rice, potatoes, corn, lentils, chickpeas, fava beans, fresh meat, chicken and fish, eggs, milk, laban, labneh, white cheese, olives and olive oil, tahini, dates, nuts, vegetables and fruit are all gluten-free in their natural form. Hummus, ful medames, mujaddara made with rice, grilled meat without ready-made marinades, and most vegetable mezze can stay on the table.",
+            "Millet and sorghum, used for kisra and aseeda in Sudan and Yemen, are naturally gluten-free, as long as the flour has not been mixed with wheat or ground in the same mill. Rice flour and cornflour can replace wheat in muhallabia and as a coating for fried food. Oats are a special case: they contain no gluten themselves, but are often contaminated with wheat during processing, and a small number of people with coeliac disease react even to pure oats. Use only oats labelled gluten-free, and ask your doctor or a dietitian first.",
+            "A gluten-free diet does not have to mean expensive imported products. Gluten-free bread and pasta can be costly and hard to find outside big cities, and in some countries they may not be available at all. Building meals around rice, legumes, potatoes and fresh food is cheaper, closer to how our grandparents ate, and usually healthier than relying on processed substitutes, which can be high in sugar and fat and low in fibre."
+          ]
+        },
+        {
+          "h2": "Living gluten-free day to day: cross-contamination, restaurants and family meals",
+          "paras": [
+            "Even small amounts of gluten can keep the gut inflamed, so the details matter. Use a separate toaster or a clean pan, keep your own jar of jam or tahini so nobody dips a knife covered in breadcrumbs into it, and wash chopping boards and colanders well. Many families find it easiest to make shared dishes gluten-free, such as rice without vermicelli, and keep bread on the side for those who want it.",
+            "Restaurants are harder in the region, where staff may not know the word gluten. Explain it simply: no wheat, no flour, no bread, no bulgur, no semolina, and ask whether fried food shares oil with breaded items. Grilled meat with plain rice and a salad without croutons is usually the safest restaurant order. At Ramadan iftars and family gatherings, it helps to bring one dish you know is safe, and to explain to your hosts in advance that this is treatment, not fussiness.",
+            "Follow-up is part of treatment. Your doctor will usually repeat the tTG-IgA after several months to a year to check that it is falling, and check iron, ferritin, vitamin D, folate and sometimes bone density. If the antibodies stay high, the most common reason is hidden gluten, and seeing a dietitian is worth the effort. Do not start iron or vitamin supplements or stop any medicine on your own, because your doctor will decide what you need from your results."
+          ]
+        },
+        {
+          "h2": "When to see a doctor, and when it is urgent",
+          "paras": [
+            "See a doctor and ask for a coeliac blood test if you have anaemia that keeps returning, long-standing bloating or bowel changes, weight loss you cannot explain, a child who is not growing well, early bone thinning, or a first-degree relative with coeliac disease. Mention all your symptoms, including ones that seem unrelated to your stomach, and say clearly if you have recently cut down on bread.",
+            "Some symptoms should not wait for a routine appointment. Unexplained weight loss, blood in your stool, vomiting that will not stop, severe abdominal pain and signs of dehydration need prompt medical care. These can have many causes besides coeliac disease, and some of them are serious. Someone diagnosed years ago who suddenly gets worse despite a strict diet also needs a specialist review, because rare complications have to be ruled out."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "Get prompt medical care if you notice",
+            "items": [
+              "Blood in your stool or black stool",
+              "Vomiting that keeps coming back, or you cannot keep fluids down",
+              "Signs of dehydration: intense thirst, little dark urine, dizziness, or in a child, drowsiness and few wet nappies",
+              "Severe abdominal pain or a swollen, hard belly",
+              "Rapid weight loss with no clear reason",
+              "Sudden worsening despite a strict gluten-free diet"
+            ]
+          }
+        }
+      ],
+      "tie": "With the Sihtak app you can photograph your tTG-IgA, iron and ferritin reports so the lab scanner saves them and shows whether your antibodies are falling over time, ask the AI assistant about an unfamiliar ingredient on a food label, and log your symptoms to show your doctor at the next visit. The app supports your care but does not replace your doctor.",
+      "faqs": [
+        {"q": "Is coeliac disease the same as a wheat allergy?", "a": "No. A wheat allergy is an allergic reaction that can cause a rash, swelling or breathing trouble shortly after eating. Coeliac disease is an autoimmune condition that damages the gut lining over time and is diagnosed with a tTG-IgA blood test and a biopsy, although many people loosely call it a wheat allergy."},
+        {"q": "Can I be tested for coeliac disease if I have already stopped eating bread?", "a": "The result may be falsely normal, because antibodies fall once gluten is removed. Coeliac UK advises eating gluten every day for at least six weeks before testing. Speak to your doctor before reintroducing gluten, especially if your symptoms were severe."},
+        {"q": "Can coeliac disease start in adulthood?", "a": "Yes, it can be diagnosed at any age, from early childhood to old age. Many adults are only diagnosed after years of anaemia, tiredness or bone thinning with no clear explanation."},
+        {"q": "Is a little gluten now and then harmful if I have coeliac disease?", "a": "Yes. Even small, repeated amounts can keep the gut inflamed, even when you feel no symptoms. That is why people with coeliac disease are asked to be strict and to watch for cross-contamination, and why doctors recheck tTG-IgA during follow-up."},
+        {"q": "Are rice and dates safe with coeliac disease?", "a": "Plain rice and natural dates are gluten-free. Watch out for rice cooked with vermicelli, dates stuffed or coated with biscuit or flour mixtures, and date maamoul made with semolina."},
+        {"q": "Will my child grow normally once on a gluten-free diet?", "a": "Many children improve their growth and catch up with their peers once they stick to the diet, but this varies and takes time. The paediatrician will track height and weight on a growth chart and look for other causes if growth does not improve."},
+        {"q": "Should my family be tested?", "a": "First-degree relatives, meaning parents, brothers, sisters and children, are usually advised to be tested because their risk is higher than average. This is done with a tTG-IgA blood test while they are eating gluten normally, even if they have no symptoms."}
+      ]
+    }
+  }
+}

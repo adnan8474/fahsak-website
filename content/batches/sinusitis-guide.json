@@ -1,0 +1,374 @@
+{
+  "slug": "sinusitis-guide",
+  "category": "infectious-diseases",
+  "chip_ar": "أمراض معدية",
+  "chip_en": "Infectious Diseases",
+  "date_iso": "2026-09-27",
+  "sources": [
+    {"label": "Rosenfeld RM, Piccirillo JF, Chandrasekhar SS et al: Clinical practice guideline (update): adult sinusitis, Otolaryngology--head and neck surgery : official journal of American Academy of Otolaryngology-Head and Neck Surgery, 2015", "url": "https://pubmed.ncbi.nlm.nih.gov/25832968/"},
+    {"label": "Chow AW, Benninger MS, Brook I et al: IDSA clinical practice guideline for acute bacterial rhinosinusitis in children and adults, Clinical infectious diseases : an official publication of the Infectious Diseases Society of America, 2012", "url": "https://pubmed.ncbi.nlm.nih.gov/22438350/"},
+    {"label": "Fokkens WJ, Lund VJ, Hopkins C et al: European Position Paper on Rhinosinusitis and Nasal Polyps 2020, Rhinology, 2020", "url": "https://pubmed.ncbi.nlm.nih.gov/32077450/"},
+    {"label": "Aburiziza A, Almatrafi MA, Alonazi AS et al: The Prevalence, Clinical Picture, and Triggers of Allergic Rhinitis in Saudi Population: A Systematic Review and Meta-Analysis, Journal of asthma and allergy, 2022", "url": "https://pubmed.ncbi.nlm.nih.gov/36582219/"},
+    {"label": "Alfallaj R, Obaid SB, Almousa H et al: Demographic and clinical profile of patients with chronic rhinosinusitis in Saudi Arabia, Saudi medical journal, 2023", "url": "https://pubmed.ncbi.nlm.nih.gov/37062559/"},
+    {"label": "Shakoor S, Beg MA, Mahmood SF et al: Primary amebic meningoencephalitis caused by Naegleria fowleri, Karachi, Pakistan, Emerging infectious diseases, 2011", "url": "https://pubmed.ncbi.nlm.nih.gov/21291600/"},
+    {"label": "Yoder JS, Straif-Bourgeois S, Roy SL et al: Primary amebic meningoencephalitis deaths associated with sinus irrigation using contaminated tap water, Clinical infectious diseases : an official publication of the Infectious Diseases Society of America, 2012", "url": "https://pubmed.ncbi.nlm.nih.gov/22919000/"}
+  ],
+  "content": {
+    "ar": {
+      "title": "التهاب الجيوب الأنفية: الأعراض والمدة ومتى تفيد المضادات",
+      "desc": "معظم التهابات الجيوب الأنفية فيروسية وتشفى خلال أسبوعين إلى ثلاثة. تعرف على قاعدة الأيام العشرة، وعلامات العدوى البكتيرية، وكيف تغسل أنفك بأمان.",
+      "keywords": "التهاب الجيوب الأنفية, أعراض الجيوب الأنفية, هل الجيوب الأنفية تحتاج مضاد حيوي, مدة التهاب الجيوب, غسول الأنف بالماء والملح, الجيوب الأنفية المزمنة, صداع الجيوب الأنفية, لحميات الأنف, حساسية الأنف والغبار",
+      "h1": "التهاب الجيوب الأنفية: كم يستمر، ومتى يكون بكتيريا فعلا، ومتى تحتاج المضاد الحيوي",
+      "takeaways": [
+        "أغلب التهابات الجيوب الأنفية الحادة سببها فيروس الزكام نفسه، وتتحسن تلقائيا خلال 7 إلى 10 أيام وقد يبقى بعض الانسداد حتى ثلاثة أسابيع.",
+        "يشك الطبيب في العدوى البكتيرية إذا استمرت الأعراض 10 أيام دون أي تحسن، أو إذا تحسنت ثم عادت فجأة أسوأ من قبل.",
+        "لون المخاط الأخضر أو الأصفر وحده لا يعني أنك تحتاج مضادا حيويا.",
+        "غسول الأنف بالماء والملح مفيد وآمن بشرط أن يكون الماء مغليا ثم مبردا أو معقما، وليس ماء الحنفية مباشرة.",
+        "تورم الجفن أو احمرار ما حول العين، أو ازدواج الرؤية، أو صداع شديد مع تيبس الرقبة، كلها علامات تستدعي الطوارئ في اليوم نفسه."
+      ],
+      "sections": [
+        {
+          "h2": "هل التهاب الجيوب الأنفية فيروسي أم بكتيري، وكم يستمر؟",
+          "paras": [
+            "الجواب المختصر: في الغالب فيروسي، ويشفى وحده. الجيوب الأنفية (Sinuses) تجاويف صغيرة مملوءة بالهواء داخل عظام الوجه، حول الأنف وخلف الجبهة وتحت العينين. عندما تصاب بالزكام يلتهب الغشاء المبطن للأنف والجيوب معا، فينسد مخرجها الضيق ويتجمع المخاط داخلها، فتشعر بثقل في الوجه وانسداد في الأنف وسيلان كثيف.",
+            "هذا الالتهاب المرافق للزكام شائع جدا ويحدث بدرجة ما مع معظم نزلات البرد. يذكر الدليل الأمريكي لعلاج التهاب الجيوب عند البالغين، الصادر عن الأكاديمية الأمريكية لطب الأنف والأذن والحنجرة عام 2015، أن نسبة صغيرة فقط من حالات الالتهاب الفيروسي، تقدر بنصف بالمئة إلى 2 بالمئة، تتحول إلى عدوى بكتيرية. معنى ذلك أن معظم من يشترون مضادا حيويا من الصيدلية بسبب الجيوب لا يحتاجونه.",
+            "عادة تبلغ الأعراض ذروتها في اليوم الثاني أو الثالث، ثم تبدأ بالتراجع تدريجيا، ويشعر أغلب الناس بتحسن واضح بين اليوم السابع والعاشر. قد يبقى بعض الانسداد أو السعال الخفيف أو الإحساس بالثقل حتى ثلاثة أسابيع، وهذا لا يعني بالضرورة أن الالتهاب صار بكتيريا. المهم هو الاتجاه العام: هل حالتك تتحسن يوما بعد يوم، أم أنها ثابتة أو تسوء؟",
+            "يسمي الأطباء الالتهاب حادا (Acute sinusitis) عندما يستمر أقل من أربعة أسابيع، ومزمنا (Chronic sinusitis) عندما تبقى الأعراض 12 أسبوعا أو أكثر. لكل منهما أسباب وعلاج مختلف، وسنشرح الاثنين في هذا الدليل."
+          ]
+        },
+        {
+          "h2": "أعراض الجيوب الأنفية: كيف تعرف أن المشكلة في جيوبك؟",
+          "paras": [
+            "العلامات الأساسية التي يعتمد عليها الأطباء أربع: انسداد أو احتقان في الأنف، وإفرازات كثيفة ملونة من الأنف أو تنزل إلى الحلق من الخلف، وألم أو ضغط في الوجه، وضعف حاسة الشم. يكفي وجود اثنتين منها مع إحدى العلامتين الأوليين ليفكر الطبيب في التهاب الجيوب.",
+            "ألم الجيوب له طابع مميز. يكون غالبا ضغطا ثقيلا فوق الخدين أو بين العينين أو في الجبهة، ويزداد عند الانحناء إلى الأمام كأن تنحني لربط حذائك أو أثناء السجود في الصلاة. قد تشعر أيضا بألم في الأسنان العلوية الخلفية، أو برائحة كريهة في النفس، أو بتعب عام وحرارة خفيفة.",
+            "كثيرون يخلطون بين التهاب الجيوب والزكام العادي وحساسية الأنف، لأن الأعراض متداخلة. الجدول التالي يلخص الفروق الأوضح، لكنه دليل تقريبي وليس أداة تشخيص، والطبيب يحكم بالفحص والقصة الكاملة."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "الزكام والتهاب الجيوب وحساسية الأنف: ما الفرق؟",
+            "head": ["الحالة", "المدة المعتادة", "العلامة الأوضح"],
+            "rows": [
+              ["زكام عادي", "7 إلى 10 أيام", "رشح وعطاس واحتقان يتحسن تدريجيا"],
+              ["التهاب جيوب فيروسي", "حتى 3 أسابيع", "ضغط في الوجه وإفرازات كثيفة تتحسن مع الوقت"],
+              ["التهاب جيوب بكتيري محتمل", "أكثر من 10 أيام", "لا تحسن إطلاقا، أو تحسن ثم انتكاس"],
+              ["التهاب جيوب مزمن", "12 أسبوعا أو أكثر", "انسداد دائم وضعف الشم"],
+              ["حساسية الأنف", "تتكرر مع المواسم أو الغبار", "حكة وعطاس متتابع ورشح مائي شفاف"]
+            ]
+          }
+        },
+        {
+          "h2": "قاعدة الأيام العشرة والانتكاسة: متى يصبح الالتهاب بكتيريا؟",
+          "paras": [
+            "لا يوجد تحليل دم بسيط يفرق بين الالتهاب الفيروسي والبكتيري في عيادة عادية، لذلك تعتمد الإرشادات الدولية على نمط الأعراض مع الوقت. دليل جمعية الأمراض المعدية الأمريكية (IDSA) الصادر عام 2012، والدليل الأمريكي للبالغين لعام 2015، يتفقان على علامتين رئيسيتين.",
+            "العلامة الأولى هي قاعدة الأيام العشرة: أعراض مستمرة عشرة أيام أو أكثر دون أي تحسن على الإطلاق. لاحظ كلمة دون أي تحسن، فالشخص الذي يتحسن ببطء في اليوم الحادي عشر ليس كمن بقي على حاله تماما. العلامة الثانية هي ما يسمى الانتكاسة أو التدهور المزدوج: تبدأ بزكام عادي، ثم تتحسن بعد أيام، ثم تعود فجأة أسوأ من البداية، مع حرارة جديدة أو ألم أشد في الوجه أو إفرازات أكثف.",
+            "يضيف دليل IDSA نمطا ثالثا أقل شيوعا: بداية شديدة منذ اليوم الأول، بحرارة 39 درجة مئوية أو أكثر مع إفرازات قيحية أو ألم شديد في الوجه لمدة ثلاثة إلى أربعة أيام متتالية. في أي من هذه الحالات الثلاث يصبح الاحتمال البكتيري واردا، ويستحق الأمر زيارة الطبيب بدل الانتظار.",
+            "أما الإفرازات الخضراء أو الصفراء فلا تكفي وحدها للحكم. اللون يأتي من خلايا المناعة التي تحارب أي عدوى، فيروسية كانت أم بكتيرية، ويظهر عادة في الأيام الأولى من الزكام العادي أيضا."
+          ],
+          "visual": {
+            "type": "timeline",
+            "title": "المسار المعتاد مقارنة بما يدعو للقلق",
+            "items": [
+              {"when": "اليوم 1 إلى 3", "what": "بداية الزكام: رشح واحتقان، وتبلغ الأعراض ذروتها"},
+              {"when": "اليوم 4 إلى 7", "what": "في الحالة الفيروسية تبدأ الأعراض بالتراجع تدريجيا"},
+              {"when": "اليوم 7 إلى 10", "what": "تحسن واضح عند معظم الناس، وقد يبقى انسداد خفيف"},
+              {"when": "تحسن ثم انتكاس", "what": "عودة الحرارة أو الألم بشكل أسوأ: راجع الطبيب"},
+              {"when": "اليوم 10 فما بعد", "what": "لا تحسن إطلاقا: احتمال بكتيري، يحتاج تقييما"},
+              {"when": "الأسبوع 12", "what": "استمرار الأعراض: التهاب مزمن يحتاج طبيب أنف وأذن"}
+            ],
+            "source": "Chow et al, IDSA guideline, 2012",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/22438350/"
+          }
+        },
+        {
+          "h2": "متى يفيد المضاد الحيوي في التهاب الجيوب، ومتى يضر؟",
+          "paras": [
+            "حتى عندما يكون الالتهاب بكتيريا، لا يعني ذلك دائما أن المضاد الحيوي ضروري فورا. يسمح الدليل الأمريكي لعام 2015 للطبيب بخيار الانتظار والمراقبة في الحالات غير المعقدة، بشرط أن يمكن متابعة المريض، ثم البدء بالمضاد إذا ساءت الحالة أو لم تتحسن خلال سبعة أيام. السبب أن كثيرا من الحالات البكتيرية الخفيفة تشفى أيضا وحدها، بينما للمضاد الحيوي آثار جانبية حقيقية مثل الإسهال والطفح الجلدي.",
+            "عندما يقرر الطبيب أن المضاد الحيوي لازم، فإن الخيار الأول في الإرشادات عادة هو أموكسيسيلين، وحده أو مع حمض الكلافولانيك، لمدة تتراوح غالبا بين خمسة وعشرة أيام عند البالغين. نوع المضاد ومدته يحددهما الطبيب حسب حالتك وحساسيتك للأدوية، فلا تأخذ علبة متبقية من مرض سابق ولا تكمل علاج قريب أو جار.",
+            "في كثير من بلداننا يمكن شراء المضاد الحيوي من الصيدلية دون وصفة، وهذا يغري بتجربته منذ اليوم الثالث للزكام. المشكلة أن الاستعمال غير الضروري لا يسرع الشفاء من عدوى فيروسية، لكنه يعرضك للآثار الجانبية ويساهم في مقاومة البكتيريا للمضادات، فيصبح علاجك لاحقا أصعب عندما تحتاجه فعلا.",
+            "ما يخفف الأعراض في كل الأحوال: الراحة وشرب السوائل الدافئة، ومسكنات الألم والحرارة الشائعة بحسب إرشادات العبوة أو الصيدلي، وغسول الأنف بالماء والملح، وبخاخات الكورتيزون الأنفية التي يصفها الطبيب أحيانا. أما بخاخات إزالة الاحتقان التي تفتح الأنف خلال دقائق فتفيد لأيام قليلة فقط، وتنص عبواتها عادة على ألا تتجاوز ثلاثة أيام، لأن الإفراط فيها يسبب احتقانا ارتداديا أسوأ من الأصلي."
+          ]
+        },
+        {
+          "h2": "كيف تغسل أنفك بالماء والملح بطريقة آمنة؟",
+          "paras": [
+            "غسول الأنف بالمحلول الملحي من أفضل العلاجات المنزلية للجيوب، حادة كانت أم مزمنة، وتنصح به الإرشادات الأوروبية لعام 2020 كأحد أعمدة علاج الالتهاب المزمن. يعمل الغسول على إزالة المخاط الكثيف والغبار ومسببات الحساسية، ويخفف تورم الغشاء الأنفي، فيسهل تصريف الجيوب.",
+            "لكن هناك شرطا لا يقبل التهاون: نوع الماء. في حالات نادرة جدا لكنها قاتلة تقريبا، يمكن لأميبا تعيش في الماء الدافئ اسمها نيغليريا فاوليري (Naegleria fowleri) أن تدخل من الأنف إلى الدماغ. في عام 2011 توفي شخصان في ولاية لويزيانا الأمريكية بعد غسل أنفيهما بماء الحنفية باستخدام إبريق الغسول، ووجدت الأميبا في مياه منزليهما. وفي كراتشي بباكستان وصفت دراسة نشرت عام 2011 ثلاث عشرة حالة لأشخاص لم يسبحوا أبدا، ورجح الباحثون أن العدوى جاءت من ماء الحنفية الذي يدخل الأنف.",
+            "هذا مهم في منطقتنا تحديدا، حيث يخزن الماء في خزانات على الأسطح تسخنها شمس الصيف، وحيث تتقطع شبكات المياه في بعض المدن وتنخفض فيها نسبة الكلور. الحل بسيط: استعمل ماء مغليا لمدة دقيقة كاملة ثم مبردا حتى يصبح فاترا، أو ماء مقطرا أو معقما من الصيدلية. ماء الشرب المعبأ أفضل من الحنفية لكنه ليس معقما دائما، لذلك يبقى غليه أولا العادة الأسلم.",
+            "اتبع الخطوات التالية، واستعمل أكياس الملح الجاهزة المخصصة للغسول من الصيدلية بحسب تعليمات العلبة، لأنها مضبوطة التركيز وتحتوي عادة على بيكربونات الصوديوم التي تقلل الحرقة."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "غسول الأنف خطوة بخطوة",
+            "items": [
+              "اغل الماء دقيقة كاملة واتركه يبرد حتى يصبح فاترا، أو استعمل ماء مقطرا أو معقما",
+              "اغسل يديك، ثم اذب كيس الملح الجاهز في الكمية المكتوبة على العلبة",
+              "انحن فوق المغسلة وأمل رأسك جانبا، وتنفس من فمك",
+              "أدخل المحلول ببطء في فتحة الأنف العليا ودعه يخرج من الفتحة الأخرى",
+              "كرر من الجهة الثانية، ثم انف أنفك بلطف دون ضغط قوي",
+              "اغسل الإبريق أو القارورة بالماء النظيف واتركها تجف في الهواء بعد كل استعمال",
+              "لا تشارك أداة الغسول مع أحد، واستبدلها بحسب تعليمات الشركة المصنعة"
+            ],
+            "source": "Yoder et al, Clinical Infectious Diseases, 2012",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/22919000/"
+          }
+        },
+        {
+          "h2": "الغبار والمكيفات والحساسية: لماذا تعود أعراض الجيوب مرارا في منطقتنا؟",
+          "paras": [
+            "إذا كنت تشعر بانسداد الأنف وثقل الجيوب كلما هبت عاصفة غبار أو مع كل تبدل للفصول، فالأرجح أن المشكلة ليست عدوى متكررة، بل حساسية الأنف (Allergic rhinitis). الحساسية تجعل الغشاء الأنفي متورما بشكل دائم، فيضيق مخرج الجيوب، ويصبح كل زكام فرصة لالتهاب أطول وأشد.",
+            "مراجعة منهجية سعودية نشرت عام 2022 جمعت 16 دراسة شملت قرابة 32 ألف شخص، ووجدت أن حساسية الأنف تصيب نحو 21 بالمئة من السكان، وأنها أكثر في المدن منها في الأرياف. وكان الغبار من أكثر المحفزات شيوعا، إلى جانب العطور والبخور ومكيفات الهواء وتقلبات الطقس. هذه صورة يعرفها سكان الخليج والعراق وبلاد الشام جيدا، حيث تتكرر موجات الغبار وحيث يقضي الناس ساعات طويلة في هواء مكيف جاف.",
+            "علاج الحساسية بشكل صحيح يقلل نوبات الجيوب. يشمل ذلك غسول الأنف بعد التعرض للغبار، وارتداء كمامة جيدة في أيام العواصف، وإغلاق النوافذ وتنظيف فلاتر المكيف بانتظام، والابتعاد عن دخان البخور والسجائر والشيشة داخل البيت. وقد يصف الطبيب بخاخ كورتيزون أنفيا للاستعمال المنتظم أو مضادا للهيستامين، وهذه أدوية تعمل ببطء وتحتاج أسابيع لتظهر فائدتها الكاملة."
+          ],
+          "visual": {
+            "type": "stats",
+            "title": "حساسية الأنف في السعودية",
+            "items": [
+              {"value": "21.2%", "label": "نسبة الإصابة بحساسية الأنف في التقدير المجمع", "tone": "warn"},
+              {"value": "27.3%", "label": "ذكروا الغبار محفزا للأعراض", "tone": "bad"},
+              {"value": "23.4%", "label": "ذكروا مكيف الهواء محفزا", "tone": "info"}
+            ],
+            "source": "Aburiziza et al, Journal of Asthma and Allergy, 2022",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/36582219/"
+          }
+        },
+        {
+          "h2": "التهاب الجيوب المزمن ولحميات الأنف: عندما لا تختفي الأعراض",
+          "paras": [
+            "إذا استمر انسداد الأنف وضعف الشم والإفرازات اثني عشر أسبوعا أو أكثر، فهذا التهاب جيوب مزمن، وهو مرض التهابي طويل الأمد أكثر منه عدوى. لا يشخص من الأعراض وحدها، بل يحتاج إلى فحص الأنف بالمنظار عند طبيب الأنف والأذن والحنجرة، أو إلى صورة أشعة مقطعية (CT) للجيوب في بعض الحالات.",
+            "عند بعض المرضى تنمو داخل الأنف زوائد لحمية طرية تسمى السلائل أو لحميات الأنف (Nasal polyps)، تسد المجرى وتفقد صاحبها حاسة الشم تقريبا. دراسة أجريت في مستشفى جامعي بالرياض على 660 مريضا بالتهاب الجيوب المزمن، ونشرت في المجلة الطبية السعودية عام 2023، وجدت أن 67.7 بالمئة منهم لديهم لحميات، و32 بالمئة لديهم ربو، و10 بالمئة لديهم حساسية من الأسبرين. هذه أرقام مرضى مستشفى تخصصي، فهي تمثل الحالات الأشد، لكنها تذكر بأن الجيوب والربو كثيرا ما يسيران معا.",
+            "علاج الالتهاب المزمن طويل النفس. الأساس هو غسول الأنف المنتظم وبخاخ الكورتيزون الأنفي يوميا لفترة طويلة، بحسب ما توصي به الإرشادات الأوروبية لعام 2020. قد يحتاج بعض المرضى إلى كورتيزون بالفم لفترات قصيرة، أو إلى جراحة بالمنظار لتوسيع مخارج الجيوب، أو إلى أدوية حيوية حديثة في الحالات الشديدة مع اللحميات. المضادات الحيوية المتكررة ليست حلا للالتهاب المزمن في أغلب الأحيان.",
+            "إذا كنت مصابا بالربو وتعاني من انسداد دائم في الأنف، فأخبر طبيبك، لأن علاج الأنف الجيد قد يحسن السيطرة على الربو أيضا."
+          ]
+        },
+        {
+          "h2": "هل هو التهاب جيوب فعلا؟ ألم الأسنان والشقيقة وحالات تشبهه",
+          "paras": [
+            "ليس كل ألم في الوجه جيوبا. جذور الأضراس العلوية الخلفية تقع ملاصقة لأرضية الجيب الفكي تحت العين، لذلك قد يشعر المصاب بالتهاب الجيوب بألم في عدة أسنان علوية معا. والعكس صحيح أيضا: خراج في ضرس علوي أو أثر خلع أو حشوة عصب قد ينقل العدوى إلى الجيب نفسه، فيسبب التهابا في جهة واحدة مع رائحة كريهة لا يشفى حتى يعالج السن.",
+            "الشقيقة (Migraine) هي الخطأ الأكثر شيوعا. كثير ممن يقولون إن لديهم صداع جيوب يتكرر كل شهر يعانون في الحقيقة من الشقيقة، لأنها قد تسبب ألما في الجبهة وحول العينين مع احتقان ودموع ورشح خفيف. إذا كان الصداع يأتي على شكل نوبات، مع غثيان أو انزعاج من الضوء والصوت، ودون إفرازات كثيفة أو ضعف في الشم، ففكر بالشقيقة واذكر ذلك لطبيبك، لأن علاجها مختلف تماما.",
+            "هناك أيضا صداع التوتر، وألم مفصل الفك عند من يصرون على أسنانهم ليلا، وانحراف الحاجز الأنفي الذي يسبب انسدادا دائما في جهة واحدة. الجدول التالي يساعدك على ترتيب أفكارك قبل الزيارة."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "ألم الوجه: جيوب أم شيء آخر؟",
+            "head": ["الاحتمال", "ما يميزه غالبا", "من تراجع"],
+            "rows": [
+              ["التهاب الجيوب", "ضغط يزيد عند الانحناء مع انسداد وإفرازات", "طبيب عام أو أنف وأذن"],
+              ["التهاب سن علوي", "ألم في سن واحد يزيد مع الحار والبارد أو العض", "طبيب أسنان"],
+              ["الشقيقة", "نوبات متكررة مع غثيان وانزعاج من الضوء", "طبيب عام أو أعصاب"],
+              ["ألم مفصل الفك", "ألم قرب الأذن يزيد مع المضغ وصرير الأسنان", "طبيب أسنان"]
+            ]
+          }
+        },
+        {
+          "h2": "علامات الخطر: متى يحتاج التهاب الجيوب إلى الطوارئ اليوم؟",
+          "paras": [
+            "مضاعفات التهاب الجيوب نادرة، لكنها خطيرة عندما تحدث، لأن الجيوب ملاصقة لتجويف العين ومجاورة للدماغ. يمكن للعدوى أن تمتد إلى أنسجة العين، أو إلى الأغشية المحيطة بالدماغ، أو إلى عظم الجبهة. هذه الحالات تحتاج علاجا في المستشفى، وغالبا مضادات حيوية بالوريد وصورة أشعة عاجلة، والتأخير فيها يكلف البصر أحيانا.",
+            "انتبه بشكل خاص إذا كنت مصابا بسكري غير منضبط، أو تتناول أدوية تضعف المناعة، أو تتلقى علاجا كيميائيا. عند هؤلاء قد تسبب بعض الفطريات التهابا سريعا وعدوانيا في الجيوب، من علاماته قشور سوداء داخل الأنف أو تنميل في الوجه أو ألم شديد في جهة واحدة. هذا لا يحتمل الانتظار حتى الغد.",
+            "أما متى تراجع الطبيب في الأيام العادية، فعند استمرار الأعراض عشرة أيام دون تحسن، أو الانتكاس بعد تحسن، أو تكرار النوبات أكثر من ثلاث أو أربع مرات في السنة، أو استمرار الأعراض أكثر من ثلاثة أشهر. وإذا كانت الصيدلية هي أول ما تصل إليه، فاطلب من الصيدلي أن يقيس حرارتك ويسألك عن مدة الأعراض قبل أن يعطيك أي مضاد."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "اذهب إلى الطوارئ فورا إذا ظهر",
+            "items": [
+              "تورم أو احمرار في الجفن أو حول العين، أو بروز العين إلى الأمام",
+              "ازدواج الرؤية أو ضعف مفاجئ في النظر أو ألم عند تحريك العين",
+              "صداع شديد جدا مع تيبس الرقبة أو حرارة عالية",
+              "تشوش أو نعاس غير طبيعي أو صعوبة في الكلام أو ضعف في طرف",
+              "تورم طري في الجبهة فوق الحاجبين",
+              "قشور سوداء في الأنف أو تنميل في الوجه عند مريض سكري أو ضعيف المناعة"
+            ]
+          }
+        }
+      ],
+      "tie": "سجل في تطبيق صحتك تاريخ بداية الأعراض ودرجة حرارتك كل يوم، فهذا وحده يجيب عن سؤال الأيام العشرة الذي سيطرحه طبيبك. ويمكنك أن تحفظ أسماء المضادات الحيوية التي أخذتها سابقا وأي حساسية دوائية لديك، لتريها للطبيب أو الصيدلي قبل أي وصفة جديدة.",
+      "faqs": [
+        {"q": "كم يستمر التهاب الجيوب الأنفية دون مضاد حيوي؟", "a": "الالتهاب الفيروسي يتحسن عادة خلال 7 إلى 10 أيام، وقد يبقى بعض الانسداد والسعال حتى ثلاثة أسابيع. المهم أن تتحسن الأعراض يوما بعد يوم. إذا بقيت كما هي عشرة أيام أو ساءت بعد تحسن، فراجع الطبيب."},
+        {"q": "هل المخاط الأخضر يعني أنني أحتاج مضادا حيويا؟", "a": "لا. اللون الأخضر أو الأصفر يأتي من خلايا المناعة ويظهر في الزكام الفيروسي أيضا. يعتمد الأطباء على مدة الأعراض ونمطها، لا على اللون وحده."},
+        {"q": "هل يمكنني غسل أنفي بماء الحنفية؟", "a": "لا يُنصح بذلك. استعمل ماء مغليا دقيقة ثم مبردا، أو ماء مقطرا أو معقما. ماء الحنفية قد يحمل، في حالات نادرة جدا، أميبا خطيرة تدخل من الأنف إلى الدماغ، خصوصا في الماء الدافئ المخزن."},
+        {"q": "هل التهاب الجيوب معد؟", "a": "الالتهاب نفسه لا ينتقل، لكن فيروس الزكام الذي سببه ينتقل بالرذاذ واليدين. غسل اليدين وتغطية الفم عند العطاس يحميان من حولك. أما الالتهاب المزمن والحساسية فلا ينتقلان أبدا."},
+        {"q": "هل يسبب التهاب الجيوب ألما في الأسنان؟", "a": "نعم، قد يسبب ألما في الأضراس العلوية الخلفية لأن جذورها ملاصقة للجيب الفكي. لكن إذا كان الألم في سن واحد ويزيد مع الحار والبارد، فالأرجح أن السبب في السن نفسه، وطبيب الأسنان هو الأنسب."},
+        {"q": "كم يوما يمكن استعمال بخاخ مزيل الاحتقان؟", "a": "تنص معظم العبوات على ألا تتجاوز ثلاثة أيام. الاستعمال الأطول يسبب احتقانا ارتداديا يجعل الأنف أكثر انسدادا ويصعب التوقف. بخاخات الكورتيزون الأنفية مختلفة ويمكن أن يصفها الطبيب لفترات طويلة."},
+        {"q": "متى أحتاج إلى طبيب أنف وأذن وحنجرة؟", "a": "عند استمرار الأعراض أكثر من 12 أسبوعا، أو تكرار النوبات عدة مرات في السنة، أو فقدان الشم الدائم، أو الانسداد في جهة واحدة مع نزيف أو رائحة كريهة. قد يحتاج الطبيب إلى منظار أو صورة مقطعية لتحديد السبب."}
+      ]
+    },
+    "en": {
+      "title": "Sinusitis: Symptoms, How Long It Lasts and Antibiotics",
+      "desc": "Most sinusitis is viral and clears within two to three weeks. Learn the 10 day rule, the signs of a bacterial infection and how to rinse your nose safely.",
+      "keywords": "sinusitis symptoms, how long does sinusitis last, sinus infection antibiotics, viral vs bacterial sinusitis, saline nasal rinse safe water, chronic sinusitis, sinus headache or migraine, nasal polyps, dust allergy sinus",
+      "h1": "Sinusitis: How Long It Lasts, When It Is Really Bacterial and When Antibiotics Help",
+      "takeaways": [
+        "Most acute sinusitis is caused by the same viruses as a cold and improves on its own within 7 to 10 days, though some blockage can last up to three weeks.",
+        "Doctors suspect bacteria when symptoms last 10 days with no improvement at all, or when you get better and then suddenly worse again.",
+        "Green or yellow mucus on its own does not mean you need an antibiotic.",
+        "Salt water nasal rinsing helps and is safe, as long as the water has been boiled and cooled or is sterile, never straight from the tap.",
+        "Swelling around the eye, double vision, or a severe headache with a stiff neck are same day emergencies."
+      ],
+      "sections": [
+        {
+          "h2": "Is sinusitis viral or bacterial, and how long does it last?",
+          "paras": [
+            "The short answer is that it is usually viral and it usually clears on its own. Your sinuses are small air filled spaces inside the bones of your face, around the nose, behind the forehead and under the eyes. When you catch a cold, the lining of the nose and sinuses swells together, the narrow drainage openings block, and mucus collects inside. That is what produces the heavy face, the blocked nose and the thick discharge.",
+            "This cold related inflammation is extremely common and happens to some degree with most colds. The 2015 adult sinusitis guideline from the American Academy of Otolaryngology states that only a small share of viral episodes, roughly 0.5 to 2 percent, go on to become a bacterial infection. In practical terms, most people who buy an antibiotic from the pharmacy for their sinuses do not need one.",
+            "Symptoms usually peak on day two or three and then ease gradually, and most people feel clearly better somewhere between day seven and day ten. Some blockage, a mild cough or a sense of pressure can hang on for up to three weeks, and that alone does not mean the infection has turned bacterial. What matters is the direction of travel: are you improving from one day to the next, or are you flat or getting worse?",
+            "Doctors call it acute sinusitis when it lasts less than four weeks, and chronic sinusitis when symptoms continue for 12 weeks or more. The two have different causes and different treatment, and this guide covers both."
+          ]
+        },
+        {
+          "h2": "Sinusitis symptoms: how do you know it is your sinuses?",
+          "paras": [
+            "Doctors rely on four core symptoms: a blocked or congested nose, thick coloured discharge from the front of the nose or dripping down the back of the throat, pain or pressure in the face, and a reduced sense of smell. Two of these, including either blockage or discharge, are enough for a doctor to start thinking about sinusitis.",
+            "Sinus pain has a recognisable character. It is usually a dull, heavy pressure over the cheeks, between the eyes or across the forehead, and it gets worse when you bend forward, for example when tying your shoes or bowing during prayer. You may also notice an ache in the upper back teeth, bad breath, tiredness and a mild temperature.",
+            "Many people mix up sinusitis, a common cold and nasal allergy, because the symptoms overlap. The table below sets out the clearest differences. Treat it as a rough guide rather than a diagnosis, because a doctor decides on the examination and the full story."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Cold, sinusitis or nasal allergy?",
+            "head": ["Condition", "Usual duration", "Most telling sign"],
+            "rows": [
+              ["Common cold", "7 to 10 days", "Runny nose, sneezing and congestion that steadily ease"],
+              ["Viral sinusitis", "Up to 3 weeks", "Facial pressure and thick discharge that improve over time"],
+              ["Possible bacterial sinusitis", "More than 10 days", "No improvement at all, or better then worse again"],
+              ["Chronic sinusitis", "12 weeks or more", "Constant blockage and loss of smell"],
+              ["Nasal allergy", "Returns with seasons or dust", "Itching, bursts of sneezing, clear watery discharge"]
+            ]
+          }
+        },
+        {
+          "h2": "The 10 day rule and double worsening: when is it bacterial?",
+          "paras": [
+            "There is no simple blood test in an ordinary clinic that separates viral from bacterial sinusitis, so international guidelines rely on how the symptoms behave over time. The 2012 guideline from the Infectious Diseases Society of America (IDSA) and the 2015 American adult guideline agree on two main patterns.",
+            "The first is the 10 day rule: symptoms lasting ten days or more with no improvement at all. Notice the words no improvement. Someone who is slowly getting better on day eleven is not in the same position as someone who has not changed. The second is double worsening: you start with an ordinary cold, improve for a few days, then suddenly become worse than you were at the start, with a new fever, sharper facial pain or thicker discharge.",
+            "The IDSA guideline adds a third, less common pattern: a severe start from day one, with a temperature of 39 degrees Celsius or higher plus pus like discharge or marked facial pain for three to four days in a row. In any of these three situations a bacterial cause becomes a real possibility and it is worth seeing a doctor rather than waiting.",
+            "Green or yellow mucus is not enough on its own. The colour comes from immune cells fighting any infection, viral or bacterial, and it usually appears in the first days of a plain cold as well."
+          ],
+          "visual": {
+            "type": "timeline",
+            "title": "The usual course, and what should worry you",
+            "items": [
+              {"when": "Day 1 to 3", "what": "Cold starts: runny nose and congestion, symptoms peak"},
+              {"when": "Day 4 to 7", "what": "In a viral illness, symptoms begin to ease"},
+              {"when": "Day 7 to 10", "what": "Most people clearly better, some blockage may remain"},
+              {"when": "Better, then worse", "what": "Fever or pain returns more strongly: see a doctor"},
+              {"when": "Day 10 onward", "what": "No improvement at all: possible bacterial cause, needs assessment"},
+              {"when": "Week 12", "what": "Still symptomatic: chronic sinusitis, see an ENT specialist"}
+            ],
+            "source": "Chow et al, IDSA guideline, 2012",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/22438350/"
+          }
+        },
+        {
+          "h2": "When do antibiotics help sinusitis, and when do they do harm?",
+          "paras": [
+            "Even when sinusitis is bacterial, an antibiotic is not always needed straight away. The 2015 American guideline allows doctors to offer watchful waiting for uncomplicated cases, provided the patient can be followed up, and to start an antibiotic if things worsen or fail to improve within seven days. The reason is that many mild bacterial cases also clear by themselves, while antibiotics carry real side effects such as diarrhoea and rashes.",
+            "When a doctor decides an antibiotic is needed, the usual first choice in guidelines is amoxicillin, alone or combined with clavulanic acid, typically for five to ten days in adults. The drug and the length of the course are your doctor's decision, based on your history and any drug allergy. Do not use a leftover pack from a previous illness, and do not finish a course that was prescribed for a relative or a neighbour.",
+            "In much of the region an antibiotic can be bought at a pharmacy without a prescription, which makes it tempting to start one on day three of a cold. The trouble is that an antibiotic does nothing to speed recovery from a virus. It exposes you to side effects and adds to antibiotic resistance, which makes your own treatment harder on the day you really do need it.",
+            "What helps in every case: rest and warm drinks, common pain and fever relievers used according to the pack or your pharmacist, salt water rinses, and nasal steroid sprays, which doctors sometimes prescribe. Decongestant sprays that open the nose within minutes help for a few days only. Their packs usually say not to use them for more than three days, because overuse causes rebound congestion that is worse than the original."
+          ]
+        },
+        {
+          "h2": "How to rinse your nose with salt water safely",
+          "paras": [
+            "Nasal rinsing with saline is one of the best home treatments for both acute and chronic sinusitis, and the 2020 European position paper treats it as a cornerstone of chronic sinusitis care. It washes out thick mucus, dust and allergens, calms swelling of the nasal lining and helps the sinuses drain.",
+            "There is one condition you must not compromise on, and that is the water. In very rare but almost always fatal cases, an amoeba that lives in warm water, Naegleria fowleri, can travel from the nose to the brain. In 2011 two people in Louisiana died after rinsing their sinuses with tap water using a neti pot, and the amoeba was found in the water at both homes. In Karachi, a 2011 report described 13 cases in people who had never been swimming, and the researchers concluded that tap water entering the nose was the likely route.",
+            "That matters in this region in particular, where household water sits in rooftop tanks heated by the summer sun, and where supply in some cities is intermittent and chlorine levels can drop. The fix is simple. Use water that has been boiled for a full minute and cooled until lukewarm, or distilled or sterile water from a pharmacy. Bottled drinking water is better than tap water but is not always sterile, so boiling it first remains the safest habit.",
+            "Follow the steps below, and use the ready made saline sachets sold in pharmacies according to the instructions on the box, because they are mixed to the right strength and usually contain sodium bicarbonate, which reduces stinging."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "Nasal rinsing, step by step",
+            "items": [
+              "Boil water for a full minute and let it cool until lukewarm, or use distilled or sterile water",
+              "Wash your hands, then dissolve a ready made saline sachet in the amount of water the box states",
+              "Lean over the sink, tilt your head to one side and breathe through your mouth",
+              "Pour or squeeze the solution slowly into the upper nostril and let it drain from the other",
+              "Repeat on the other side, then blow your nose gently",
+              "Rinse the bottle or pot with clean water and let it air dry after every use",
+              "Do not share your rinse device, and replace it as the maker advises"
+            ],
+            "source": "Yoder et al, Clinical Infectious Diseases, 2012",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/22919000/"
+          }
+        },
+        {
+          "h2": "Dust storms, air conditioning and allergies: why sinus symptoms keep coming back",
+          "paras": [
+            "If your nose blocks and your sinuses feel heavy every time a dust storm blows in or the seasons turn, the cause is probably not repeated infection but nasal allergy, known as allergic rhinitis. Allergy keeps the nasal lining swollen, which narrows the sinus openings, and every cold then has a better chance of turning into a longer and heavier bout of sinusitis.",
+            "A Saudi systematic review published in 2022 pooled 16 studies covering almost 32,000 people. It estimated that allergic rhinitis affects about 21 percent of the population, with higher rates in cities than in rural areas. Dust was one of the most common triggers, alongside perfume, air conditioning and changes in the weather. That picture will be familiar to anyone in the Gulf, Iraq or the Levant, where dust waves recur and people spend long hours in dry, air conditioned rooms.",
+            "Treating the allergy properly cuts the number of sinus flare ups. That means rinsing your nose after dust exposure, wearing a well fitting mask on storm days, keeping windows shut and cleaning air conditioner filters regularly, and keeping incense, cigarette and shisha smoke out of the house. A doctor may prescribe a nasal steroid spray for regular use or an antihistamine. These medicines work slowly and can take weeks to show their full benefit."
+          ],
+          "visual": {
+            "type": "stats",
+            "title": "Nasal allergy in Saudi Arabia",
+            "items": [
+              {"value": "21.2%", "label": "pooled prevalence of allergic rhinitis", "tone": "warn"},
+              {"value": "27.3%", "label": "named dust as a trigger", "tone": "bad"},
+              {"value": "23.4%", "label": "named air conditioning as a trigger", "tone": "info"}
+            ],
+            "source": "Aburiziza et al, Journal of Asthma and Allergy, 2022",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/36582219/"
+          }
+        },
+        {
+          "h2": "Chronic sinusitis and nasal polyps: when symptoms never quite go",
+          "paras": [
+            "If blockage, loss of smell and discharge continue for twelve weeks or more, that is chronic sinusitis, which is a long term inflammatory condition more than an infection. It cannot be diagnosed from symptoms alone. It needs an examination of the inside of the nose with an endoscope by an ear, nose and throat (ENT) specialist, or in some cases a CT scan of the sinuses.",
+            "Some people develop soft, grape like growths inside the nose called nasal polyps, which block the airway and can almost wipe out the sense of smell. A study of 660 patients with chronic sinusitis at a university hospital in Riyadh, published in the Saudi Medical Journal in 2023, found that 67.7 percent had polyps, 32 percent had asthma and 10 percent were sensitive to aspirin. These are patients at a specialist hospital, so they represent the more severe end, but the figures are a reminder that sinus disease and asthma often travel together.",
+            "Treatment for chronic sinusitis is a long game. The foundation, according to the 2020 European position paper, is regular saline rinsing and a daily nasal steroid spray used over the long term. Some patients need short courses of oral steroids, endoscopic surgery to widen the sinus openings, or newer biologic medicines for severe disease with polyps. Repeated courses of antibiotics are usually not the answer for chronic sinusitis.",
+            "If you have asthma and a nose that never clears, tell your doctor, because treating the nose well can also improve asthma control."
+          ]
+        },
+        {
+          "h2": "Is it really sinusitis? Tooth pain, migraine and other look-alikes",
+          "paras": [
+            "Not every facial pain is your sinuses. The roots of the upper back teeth sit right against the floor of the maxillary sinus under the eye, so sinusitis can make several upper teeth ache at once. It also works the other way: an abscess in an upper molar, a recent extraction or a root canal problem can spread infection into the sinus itself, causing one sided sinusitis with a foul smell that will not settle until the tooth is treated.",
+            "Migraine is the most common mix up. Many people who say they get a sinus headache every month actually have migraine, because migraine can cause pain across the forehead and around the eyes with stuffiness, watery eyes and a slight runny nose. If your headaches come in attacks, with nausea or sensitivity to light and sound, and without thick discharge or loss of smell, think about migraine and mention it to your doctor, because the treatment is completely different.",
+            "Other look-alikes include tension headache, jaw joint pain in people who clench or grind their teeth at night, and a deviated nasal septum, which causes constant blockage on one side. The table below can help you sort your thoughts before an appointment."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Facial pain: sinuses or something else?",
+            "head": ["Possibility", "Usual clues", "Who to see"],
+            "rows": [
+              ["Sinusitis", "Pressure worse on bending, with blockage and discharge", "GP or ENT"],
+              ["Upper tooth infection", "Pain in one tooth, worse with hot, cold or biting", "Dentist"],
+              ["Migraine", "Repeated attacks with nausea and light sensitivity", "GP or neurologist"],
+              ["Jaw joint pain", "Pain near the ear, worse with chewing or grinding", "Dentist"]
+            ]
+          }
+        },
+        {
+          "h2": "Warning signs: when does sinusitis need a hospital today?",
+          "paras": [
+            "Complications of sinusitis are rare but serious, because the sinuses sit right next to the eye socket and close to the brain. Infection can spread into the tissues around the eye, into the membranes around the brain or into the bone of the forehead. These need hospital care, usually intravenous antibiotics and an urgent scan, and delay can sometimes cost a person their sight.",
+            "Be especially alert if you have poorly controlled diabetes, take medicines that weaken the immune system or are having chemotherapy. In these groups certain fungi can cause a fast, aggressive sinus infection. Warning signs include black crusts inside the nose, numbness of the face or severe pain on one side. This cannot wait until tomorrow.",
+            "For everyday situations, see a doctor if symptoms last ten days without improving, if you get worse after getting better, if you have more than three or four episodes a year, or if symptoms go on beyond three months. If a pharmacy is the first place you can reach, ask the pharmacist to check your temperature and to ask how long you have been unwell before handing over any antibiotic."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "Go to an emergency department now if you have",
+            "items": [
+              "Swelling or redness of the eyelid or around the eye, or an eye that pushes forward",
+              "Double vision, sudden blurred vision or pain when moving the eye",
+              "A very severe headache with a stiff neck or high fever",
+              "Confusion, unusual drowsiness, slurred speech or weakness in a limb",
+              "A soft swelling on the forehead above the eyebrows",
+              "Black crusts in the nose or facial numbness in someone with diabetes or weak immunity"
+            ]
+          }
+        }
+      ],
+      "tie": "Use Sihtak to note the day your symptoms started and your temperature each day, because that alone answers the 10 day question your doctor will ask. You can also keep a record of antibiotics you have taken before and any drug allergy, ready to show a doctor or pharmacist before a new prescription.",
+      "faqs": [
+        {"q": "How long does sinusitis last without antibiotics?", "a": "Viral sinusitis usually improves within 7 to 10 days, and some blockage and cough can last up to three weeks. What matters is that you improve from day to day. If you stay the same for ten days or get worse after improving, see a doctor."},
+        {"q": "Does green mucus mean I need antibiotics?", "a": "No. Green or yellow colour comes from immune cells and appears in viral colds too. Doctors judge by how long symptoms last and the pattern they follow, not by colour alone."},
+        {"q": "Can I use tap water for a nasal rinse?", "a": "It is not recommended. Use water boiled for one minute and cooled, or distilled or sterile water. In very rare cases tap water, especially warm stored water, can carry a dangerous amoeba that travels from the nose to the brain."},
+        {"q": "Is sinusitis contagious?", "a": "The sinus inflammation itself does not spread, but the cold virus that triggered it does, through droplets and hands. Washing your hands and covering sneezes protects the people around you. Chronic sinusitis and nasal allergy are not contagious at all."},
+        {"q": "Can sinusitis cause tooth pain?", "a": "Yes. It can make the upper back teeth ache because their roots sit against the maxillary sinus. If the pain is in a single tooth and worse with hot or cold, the tooth itself is the more likely cause and a dentist is the right person to see."},
+        {"q": "How many days can I use a decongestant nasal spray?", "a": "Most packs say no more than three days. Longer use causes rebound congestion that leaves the nose more blocked and makes it hard to stop. Nasal steroid sprays are different and a doctor may prescribe them for long periods."},
+        {"q": "When do I need an ENT specialist?", "a": "When symptoms last more than 12 weeks, when episodes come back several times a year, when your sense of smell does not return, or when one side is blocked with bleeding or a bad smell. The specialist may need an endoscopy or a CT scan to find the cause."}
+      ]
+    }
+  }
+}

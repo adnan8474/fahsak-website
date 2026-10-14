@@ -1,373 +1,448 @@
 {
-  "slug": "telemedicine-in-the-middle-east",
-  "category": "regional-health",
-  "chip_ar": "الصحة الإقليمية",
-  "chip_en": "Regional Health",
-  "date_iso": "2026-07-14",
-  "sources": [
-    {
-      "label": "Al-Samarraie H, Ghazal S, Alzahrani AI et al: Telemedicine in Middle Eastern countries: Progress, barriers, and policy recommendations, International journal of medical informatics, 2020",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/32707430/"
-    },
-    {
-      "label": "Ezeamii VC, Okobi OE, Wambai-Sani H et al: Revolutionizing Healthcare: How Telemedicine Is Improving Patient Outcomes and Expanding Access to Care, Cureus, 2024",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/39099901/"
-    },
-    {
-      "label": "Maaitah W, Abdelhay O, Tourkmani A et al: Telemedicine interventions in type 2 diabetes management: a protocol for systematic review and network meta-analysis, BMJ open, 2024",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/38388501/"
-    },
-    {
-      "label": "Tolu-Akinnawo O, Ezekwueme F, Awoyemi T et al: Telemedicine in Cardiology: Enhancing Access to Care and Improving Patient Outcomes, Cureus, 2024",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/38912070/"
-    },
-    {
-      "label": "World Health Organization: Digital health in the Eastern Mediterranean Region. WHO EMRO fact sheet, 2023"
-    },
-    {
-      "label": "UAE Government official portal: Handling emergencies and telemedicine services",
-      "url": "https://u.ae/en/information-and-services/justice-safety-and-the-law/handling-emergencies"
-    }
-  ],
-  "content": {
-    "en": {
-      "title": "Telemedicine in the Middle East: when online care is enough",
-      "desc": "Learn what telemedicine can and cannot handle, how to prepare for a video consultation, and which platforms are available across Arab countries.",
-      "keywords": "telemedicine Middle East, online doctor consultation Arab countries, video doctor appointment, telemedicine Saudi Arabia, telehealth Jordan Egypt, remote medical consultation, digital health Arab world",
-      "h1": "Telemedicine in the Middle East: when an online consultation is enough",
-      "takeaways": [
-        "Telemedicine works well for follow-up visits, prescription renewals, and many common symptoms, but it cannot replace a physical examination for new or serious complaints.",
-        "A 2020 review of Middle Eastern telemedicine found rapid expansion but identified internet connectivity, digital literacy, and regulatory gaps as the main barriers.",
-        "Prepare your list of symptoms, current medicines, and any recent test results before a video call so the consultation is as useful as possible.",
-        "Prescription rules vary by country: some allow electronic prescriptions via licensed telemedicine platforms, others still require an in-person visit for controlled medicines.",
-        "Your privacy on any telemedicine platform depends on whether it encrypts your data and whether it is licensed in your country."
-      ],
-      "sections": [
-        {
-          "h2": "What is telemedicine and how does it work in the region?",
-          "paras": [
-            "Telemedicine means receiving medical advice, a diagnosis, or a prescription through a phone call, video call, or secure messaging app rather than sitting in a clinic. In the Middle East and North Africa, the field has grown quickly since 2020, driven by high smartphone ownership and a shortage of specialists outside major cities.",
-            "A 2020 analysis published in the International Journal of Medical Informatics examined telemedicine programmes across Middle Eastern countries and found meaningful progress in Saudi Arabia, the UAE, Jordan, and Egypt, while also identifying unreliable internet access and a fragmented legal framework as the most consistent barriers across the region.",
-            "For most people, a telemedicine appointment works like this: you book through an app or website, you enter a video call at the scheduled time, the doctor asks about your symptoms and reviews any documents you share, and you receive advice, a referral, or a prescription sent to a pharmacy. The whole encounter typically takes ten to twenty minutes."
-          ],
-          "visual": {
-            "type": "steps",
-            "title": "How a typical telemedicine appointment works",
-            "items": [
-              "Choose a licensed platform and create an account",
-              "Select a specialty and book an appointment time",
-              "Gather your current medicines list, recent test results, and a photo of any visible symptom",
-              "Join the video call on time and describe your complaint clearly",
-              "Receive a prescription, referral letter, or sick note electronically",
-              "Follow up in person if the doctor asks for an examination or a test"
-            ]
-          }
-        },
-        {
-          "h2": "What can telemedicine handle, and what does it miss?",
-          "paras": [
-            "A video consultation works well for a large number of situations: a rash you can show on camera, a cough or sore throat you can describe, a follow-up visit after a diagnosis has already been made, renewing a stable long-term prescription, a mental health session, or reading and explaining a blood test result together.",
-            "It does not work for anything that requires the doctor to touch you. A doctor cannot measure your blood pressure, listen to your heart with a stethoscope, feel your abdomen for tenderness, or examine your ear canal through a screen. New chest pain, abdominal pain that worsens, shortness of breath, or any symptom that has appeared suddenly and feels severe should not wait for a video call. These need a physical visit, often urgently.",
-            "The table below gives a practical guide to which type of appointment fits which situation. When in doubt, choose in-person care: an unnecessary trip to a clinic costs time, but an unnecessary delay in seeking care can cost much more."
-          ],
-          "visual": {
-            "type": "table",
-            "title": "Telemedicine or in person? A practical guide",
-            "head": ["Situation", "Best approach", "Why"],
-            "rows": [
-              ["Follow-up for diabetes or hypertension, stable", "Telemedicine", "Review numbers and adjust advice without needing examination"],
-              ["Sore throat, cough, mild fever", "Telemedicine", "Symptoms can be described and assessed remotely"],
-              ["Skin rash or wound", "Telemedicine (with photo)", "Visual assessment is often enough for common conditions"],
-              ["Mental health support or counselling", "Telemedicine", "Voice or video call works as well as in person for most sessions"],
-              ["Reading your blood test results", "Telemedicine", "The doctor can explain results without touching you"],
-              ["Chest pain, even mild", "In person or emergency", "Cannot be safely assessed without ECG and examination"],
-              ["Abdominal pain, new or worsening", "In person", "Needs physical examination and possibly imaging"],
-              ["Child with high fever under 3 months", "Emergency or in person", "Young infants need direct assessment"],
-              ["Suspected fracture", "In person", "Needs X-ray and physical assessment"]
-            ]
-          }
-        },
-        {
-          "h2": "Which telemedicine platforms operate across Arab countries?",
-          "paras": [
-            "In Saudi Arabia, the Ministry of Health runs Seha, which allows video consultations with government doctors free of charge. Private platforms including Cura, Okadoc, and Altibbi are also widely used across the Gulf and offer appointments with paid specialists.",
-            "In the UAE, DHA-regulated platforms such as Okadoc and Shafie connect patients to licensed doctors. The government has made telemedicine a formal part of its digital health strategy and many insurers now reimburse qualifying teleconsultations.",
-            "In Egypt and Jordan, Vezeeta operates both an in-person booking system and video consultations. Altibbi, founded in Jordan and now operating across several Arab countries, offers Arabic-language consultations for a wide range of specialties. In countries with less developed infrastructure, including parts of Syria, Yemen, and Sudan, access depends heavily on having a reliable internet connection and power supply."
-          ]
-        },
-        {
-          "h2": "How to get the most out of a video appointment",
-          "paras": [
-            "The single biggest difference between a useful telemedicine call and a wasted one is preparation. Before you join the call, write down your main complaint and how long you have had it, the exact names and doses of any medicines you take, and any test results from the past three months. If your complaint involves a visible symptom such as a rash, a wound, or a swollen joint, take a clear photograph in good light before the call so you are not struggling to position the camera in real time.",
-            "During the call, state your main concern in the first thirty seconds and let the doctor lead the rest. Many patients spend most of their time giving background history and run out of time before asking the question that brought them there. If you do not understand something the doctor says, ask them to explain it in plain words. It is always appropriate to ask why a medicine is being prescribed, what side effects to expect, and when you should come in person if things do not improve.",
-            "After the call, confirm that you have received any prescription or referral letter, and check that the pharmacy in your area can fill it before you end the session. If the doctor recommends a test, ask whether you need a paper request form or whether the platform sends one electronically."
-          ],
-          "visual": {
-            "type": "callout",
-            "tone": "warn",
-            "title": "Before your call, prepare these four things",
-            "items": [
-              "The name and duration of your main complaint",
-              "A list of all medicines you currently take, with doses",
-              "Any blood test or imaging results from the past three months",
-              "A clear photo of any visible symptom, taken in daylight"
-            ]
-          }
-        },
-        {
-          "h2": "Prescriptions, privacy, and what the law says",
-          "paras": [
-            "Prescription rules differ across the region. In Saudi Arabia and the UAE, licensed telemedicine platforms can issue electronic prescriptions that are accepted at most pharmacies. In Egypt, Jordan, and Lebanon, the rules are less uniform: some platforms send a prescription to your registered email, which you can present at a pharmacy, while others require you to pick up a paper prescription from a clinic partner. For controlled medicines, including strong painkillers, sedatives, and some psychiatric drugs, an in-person visit and a handwritten prescription are almost always required regardless of the platform.",
-            "Privacy is a legitimate concern. Your medical conversation is personal and sensitive. Before using any platform, check whether it is licensed by your country's health authority, whether it uses encrypted video and messaging, and whether it stores your data inside the country or on servers abroad. A legitimate platform will state these things clearly in its terms of service. If you cannot find this information, use a different service.",
-            "Insurance coverage for telemedicine is expanding but uneven. In the UAE, most major insurers cover telemedicine visits on licensed platforms. In Saudi Arabia, the Vision 2030 digital health push has encouraged insurer participation. In other countries, you will often pay out of pocket, but costs are generally lower than a private clinic visit."
-          ]
-        },
-        {
-          "h2": "Telemedicine for chronic conditions: the clearest win",
-          "paras": [
-            "The strongest evidence for telemedicine sits in the management of long-term conditions. A 2024 review published in Cureus found that telemedicine improved access to care and reduced unnecessary hospital visits for patients managing diabetes, heart disease, and lung conditions when they had stable symptoms and an established relationship with a treating doctor. A 2024 protocol for a systematic review in BMJ Open specifically examined telemedicine for type 2 diabetes management and found it a promising tool for regions where specialist clinics are distant.",
-            "This matters in the Arab world because diabetes affects a high proportion of adults in the region, and many patients live far from a specialist. Using a video call to discuss your HbA1c result, adjust your medicine dose, or get dietary advice means you do not have to take a half-day off work for what is essentially a conversation. The key is that the underlying condition is already diagnosed and stable: telemedicine is most useful for monitoring and adjusting care, not for the initial investigation of a new problem.",
-            "Patients with high blood pressure, thyroid disorders, asthma, and depression are similarly well-served by regular telehealth check-ins, provided the doctor can see recent test results and knows when to call you in for a physical review."
-          ]
-        },
-        {
-          "h2": "Special situations: what to do when telemedicine is not available",
-          "paras": [
-            "In parts of Syria, Yemen, Sudan, and rural Libya, reliable internet and power are not guaranteed. When video is not possible, telephone consultations with a general practitioner offer a partial alternative, though the doctor's ability to assess you is more limited. Several NGO and charity services in conflict-affected areas run phone-based medical advice lines: the International Medical Corps, Doctors Without Borders, and the Syrian American Medical Society all operate regional advice and referral services.",
-            "If you are managing a long-term condition and cannot reach a doctor at all, the most important information you can have is the name of your medicine's active ingredient rather than its brand name, so a pharmacist in any country can find an equivalent. For this reason, keeping a simple written record of your diagnoses, current medicines with active ingredient names, and your most recent test results is particularly valuable when access to care is unreliable.",
-            "Pharmacists in the Arab world are often the first point of contact when a doctor is unavailable, and most can advise on common symptoms and whether a medicine is appropriate. This is not a substitute for medical care, but it is a practical reality that the site acknowledges."
-          ]
-        },
-        {
-          "h2": "When you must not use telemedicine",
-          "paras": [
-            "There are situations where seeking a teleconsultation is actively dangerous, not because telemedicine is bad but because the delay it creates is harmful. If you or someone near you has sudden chest pain that lasts more than a few minutes, sudden severe headache unlike any before, weakness or numbness on one side of the body, difficulty speaking or understanding, a seizure, loss of consciousness, severe difficulty breathing, or heavy bleeding that does not stop with direct pressure, call an ambulance or go to an emergency room immediately. A video call cannot diagnose a heart attack or a stroke in time to matter.",
-            "For children, any child under three months old with a fever above 38 degrees Celsius needs to be seen in person immediately. Any child with a rash that does not fade when pressed firmly with a glass, any child with rapid breathing, or any child who is unusually difficult to wake should be taken to hospital, not added to an online waiting list.",
-            "These are the limits of what technology can do. Telemedicine is a tool for accessibility, not a replacement for physical medicine when physical medicine is what is needed."
-          ],
-          "visual": {
-            "type": "callout",
-            "tone": "bad",
-            "title": "Do not wait for a video call. Go to emergency or call an ambulance if you see",
-            "items": [
-              "Sudden chest pain lasting more than a few minutes",
-              "One-sided weakness, numbness, or sudden difficulty speaking",
-              "Sudden severe headache unlike any you have had before",
-              "Severe difficulty breathing at rest",
-              "A rash that does not fade when pressed with a glass",
-              "Heavy bleeding that does not stop",
-              "Loss of consciousness or a seizure"
-            ]
-          }
-        },
-        {
-          "h2": "How digital health tools connect to your records",
-          "paras": [
-            "One growing benefit of telemedicine platforms is the ability to store your consultation notes and prescriptions in a single place, accessible from any device. If you use the same platform consistently, your treating doctor has access to your history each time you call, which improves the quality of advice they can give. This is particularly useful for people who move frequently or who split their time between countries, which is common in the Gulf.",
-            "Some platforms also integrate with laboratory services, allowing you to receive a blood test referral, attend a nearby lab partner, and have your results appear automatically in your consultation record before the follow-up call. This removes the need to carry paper results and reduces the chance of a result being lost.",
-            "Keeping your own digital record, even a simple one, complements whatever platform you use. A note of your diagnoses, medicines, allergies, and key test results that you update regularly is a form of health insurance that no connectivity problem can take away."
-          ]
-        }
-      ],
-      "tie": "Sihtak lets you store your test results, medicines list, and health notes in one place, so they are ready to share at your next telemedicine appointment or whenever a new doctor needs your history.",
-      "faqs": [
-        {
-          "q": "Can I get a prescription through a telemedicine consultation in the Arab world?",
-          "a": "In Saudi Arabia and the UAE, licensed telemedicine platforms can issue electronic prescriptions accepted at most pharmacies. In Egypt, Jordan, and Lebanon the rules vary by platform and by medicine type. Controlled medicines almost always require an in-person visit regardless of the country."
-        },
-        {
-          "q": "Is telemedicine covered by health insurance in Arab countries?",
-          "a": "Coverage is expanding. In the UAE, most major insurers now reimburse qualifying telemedicine visits on licensed platforms. In Saudi Arabia, the digital health strategy has encouraged insurer participation. In other Arab countries, you often pay out of pocket, but costs are usually lower than a private clinic visit."
-        },
-        {
-          "q": "What should I do if I do not have a reliable internet connection?",
-          "a": "Some platforms offer telephone consultations as an alternative to video, with reduced but still useful doctor contact. Pharmacists are also a legitimate first contact for common symptoms in much of the region. For serious or unclear symptoms, an in-person visit remains the right choice."
-        },
-        {
-          "q": "How do I know if a telemedicine platform is legitimate?",
-          "a": "Check whether the platform is licensed by your country's health authority. In Saudi Arabia look for registration with the National Digital Health Strategy authority, in the UAE with the DHA or DOH, in Egypt with the Ministry of Health and Population. Legitimate platforms state their licensing and data privacy policy clearly."
-        },
-        {
-          "q": "Can telemedicine replace my regular doctor for a chronic condition?",
-          "a": "It can handle most routine follow-up visits, prescription reviews, and result discussions if your condition is stable and already diagnosed. It cannot replace the physical examination, blood pressure measurement, or blood tests that periodic in-person visits provide. A combination of telemedicine and occasional in-person reviews works best."
-        },
-        {
-          "q": "Is my medical information private on a telemedicine call?",
-          "a": "It should be if you use a licensed platform that uses end-to-end encrypted video and stores data securely. Check the platform's terms of service before your first consultation. Avoid using general video calling apps like WhatsApp or FaceTime for medical consultations, as these are not designed for clinical data privacy."
-        },
-        {
-          "q": "Can children be seen via telemedicine?",
-          "a": "Yes, for many common childhood complaints such as skin conditions, mild fevers in older children, or follow-up consultations. Infants under three months with any fever, children with breathing difficulty, or any child whose symptoms are rapidly worsening should be seen in person immediately. Do not use telemedicine to assess a seriously ill child."
-        }
-      ]
-    },
-    "ar": {
-      "title": "الطب عن بُعد في الشرق الأوسط: متى يكفي الاستشارة الإلكترونية؟",
-      "desc": "دليل عملي شامل لما يستطيع الطب عن بُعد تقديمه وما لا يستطيعه، وكيف تستعد لاستشارة الفيديو وتحمي خصوصيتك في الدول العربية.",
-      "keywords": "طب عن بعد عربي, استشارة طبية اون لاين, طبيب عبر الإنترنت, تطبيقات طبية الخليج, الصحة الرقمية الشرق الأوسط, موعد طبي فيديو, استشارة إلكترونية",
-      "h1": "الطب عن بُعد في الشرق الأوسط: متى تكفيك الاستشارة الإلكترونية؟",
-      "takeaways": [
-        "الطب عن بُعد يناسب زيارات المتابعة وتجديد الوصفات والشكاوى الشائعة، لكنه لا يُغني عن الفحص الجسدي عند ظهور أعراض جديدة أو خطيرة.",
-        "دراسة نُشرت عام 2020 في مجلة المعلوماتية الطبية الدولية وجدت توسعاً سريعاً في خدمات الطب عن بُعد بالدول العربية، لكن ضعف الاتصال بالإنترنت والثغرات التنظيمية تظل التحديين الرئيسيين.",
-        "جهّز قائمة أعراضك وأدويتك الحالية ونتائج تحاليلك الأخيرة قبل الاتصال.",
-        "قواعد الوصفات الإلكترونية تختلف من دولة إلى أخرى، وغالباً تستلزم الأدوية الخاضعة للرقابة زيارة عيادة."
-      ],
-      "sections": [
-        {
-          "h2": "ما هو الطب عن بُعد وكيف يعمل في المنطقة؟",
-          "paras": [
-            "الطب عن بُعد يعني تلقي المشورة الطبية أو التشخيص أو الوصفة عبر مكالمة هاتفية أو فيديو أو تطبيق مشفّر، دون الذهاب إلى عيادة. في منطقة الشرق الأوسط وشمال أفريقيا، نما هذا القطاع بسرعة لافتة منذ عام 2020، مدفوعاً بانتشار الهواتف الذكية وشُح الأطباء المتخصصين خارج المدن الكبرى.",
-            "تحليل نُشر عام 2020 في مجلة المعلوماتية الطبية الدولية فحص برامج الطب عن بُعد عبر دول الشرق الأوسط، ورصد تقدماً ملموساً في السعودية والإمارات والأردن ومصر، مع الإشارة إلى أن ضعف الاتصال بالإنترنت وغياب إطار قانوني موحّد يمثلان العقبتين الأكثر تكراراً في المنطقة.",
-            "الاستشارة تسير عادةً هكذا: تحجز موعداً عبر تطبيق أو موقع، تنضم إلى مكالمة فيديو في الوقت المحدد، يسألك الطبيب عن أعراضك ويطلع على المستندات التي تشاركها، ثم تتلقى نصيحة أو إحالة أو وصفة دواء مرسلة إلكترونياً إلى صيدلية. تستغرق المقابلة في الغالب بين عشر دقائق وعشرين دقيقة."
-          ],
-          "visual": {
-            "type": "steps",
-            "title": "كيف تسير استشارة الطب عن بُعد النموذجية",
-            "items": [
-              "اختر منصة مرخّصة وأنشئ حساباً",
-              "حدد التخصص المطلوب واحجز موعداً",
-              "جهّز قائمة أدويتك الحالية ونتائج تحاليلك وصورة لأي عَرَض ظاهر",
-              "انضم إلى المكالمة في الموعد واشرح شكواك بوضوح",
-              "تسلّم الوصفة أو خطاب الإحالة إلكترونياً",
-              "راجع الطبيب شخصياً إن طلب الفحص الجسدي أو التحليل"
-            ]
-          }
-        },
-        {
-          "h2": "ما الذي يستطيع الطب عن بُعد تقديمه وما الذي يفوته؟",
-          "paras": [
-            "استشارة الفيديو تُجدي كثيراً في حالات عديدة: طفح جلدي تُظهره على الكاميرا، سعال أو التهاب في الحلق تصفه، متابعة تشخيص سبق إثباته، تجديد وصفة حالة مستقرة، جلسة صحة نفسية، أو مناقشة نتيجة تحليل دم مع الطبيب.",
-            "لكنها لا تُجدي في أي موقف يستلزم لمس الطبيب لك. الطبيب لا يستطيع قياس ضغط دمك بالأجهزة، ولا الاستماع إلى قلبك بسماعة، ولا جس بطنك لمعرفة مواضع الألم، ولا فحص قناة أذنك عبر شاشة. ألم صدري جديد، أو ألم بطني يزداد حدة، أو ضيق تنفس، أو أي عَرَض ظهر فجأة ويبدو خطيراً، لا ينبغي الانتظار حتى موعد الفيديو، بل تستوجب هذه الحالات زيارة جسدية عاجلة في الغالب.",
-            "الجدول التالي يُرشدك عملياً إلى أي نوع من المواعيد يناسب كل موقف. عند الشك، اختر الزيارة الشخصية: رحلة إلى العيادة تُكلّفك وقتاً، أما التأخر في طلب الرعاية فقد يُكلّفك أكثر من ذلك بكثير."
-          ],
-          "visual": {
-            "type": "table",
-            "title": "طب عن بُعد أم زيارة شخصية؟ دليل عملي",
-            "head": ["الحالة", "الأنسب", "السبب"],
-            "rows": [
-              ["متابعة السكري أو ضغط الدم، حالة مستقرة", "طب عن بعد", "مراجعة الأرقام وتعديل التوجيهات دون حاجة للفحص"],
-              ["التهاب الحلق أو السعال أو حمى خفيفة", "طب عن بعد", "يمكن وصف الأعراض وتقييمها عن بُعد"],
-              ["طفح جلدي أو جرح", "طب عن بعد مع صورة", "التقييم البصري يكفي في الحالات الشائعة غالباً"],
-              ["دعم الصحة النفسية أو الإرشاد", "طب عن بعد", "المكالمة الصوتية أو الفيديو تؤدي الغرض كالزيارة الشخصية"],
-              ["شرح نتائج التحاليل الدموية", "طب عن بعد", "الطبيب يشرح النتائج دون حاجة لفحصك"],
-              ["ألم صدري ولو خفيف", "طوارئ أو عيادة", "لا يمكن تقييمه أمان دون رسم قلب وفحص"],
-              ["ألم بطني جديد أو متصاعد", "زيارة شخصية", "يستلزم فحصاً جسدياً وربما تصويراً"],
-              ["رضيع دون 3 أشهر مع حمى", "طوارئ أو زيارة شخصية", "الرضع الصغار يحتاجون تقييماً مباشراً"]
-            ]
-          }
-        },
-        {
-          "h2": "أبرز منصات الطب عن بُعد في الدول العربية",
-          "paras": [
-            "في المملكة العربية السعودية، تتيح وزارة الصحة تطبيق 'صحة' لاستشارات فيديو مع أطباء حكوميين مجاناً. أما المنصات الخاصة مثل Cura وOkadoc والطبيب فتعمل في أرجاء الخليج وتوفر مواعيد مع متخصصين مدفوعي الأجر.",
-            "في الإمارات، تتيح منصات مرخّصة من هيئة الصحة بدبي مثل Okadoc وشافي التواصل مع أطباء معتمدين. وقد جعلت الحكومة الطبَّ عن بُعد ركيزةً رسمية في استراتيجيتها الصحية الرقمية، ويُعيد كثير من شركات التأمين الآن تكاليف الاستشارات الإلكترونية المؤهلة.",
-            "في مصر والأردن، تعمل Vezeeta بنظام الحجوزات الشخصية واستشارات الفيديو. أما الطبيب، المنصة المؤسسة في الأردن والعاملة الآن في عدة دول عربية، فتتيح استشارات بالعربية في طيف واسع من التخصصات. في البلدان ذات البنية التحتية الأقل تطوراً كأجزاء من سوريا واليمن والسودان، يظل الوصول رهيناً بتوافر اتصال إنترنت موثوق وتيار كهربائي مستمر."
-          ]
-        },
-        {
-          "h2": "كيف تستفيد أقصى استفادة من موعد الفيديو؟",
-          "paras": [
-            "الفارق الأكبر بين استشارة فيديو مفيدة وأخرى مُضاعة هو التحضير. قبل الانضمام إلى المكالمة، دوّن شكواك الرئيسية ومدة معاناتك منها، والأسماء الدقيقة والجرعات لكل دواء تتناوله، ونتائج أي تحليل أجريته خلال الأشهر الثلاثة الماضية. إن كانت شكواك عَرَضاً مرئياً كطفح أو جرح أو ورم مفصلي، فالتقط له صورة في ضوء جيد قبل المكالمة لتفادي الكفاح مع الكاميرا في وقت الحاجة.",
-            "خلال المكالمة، اذكر شكواك الرئيسية في الثلاثين ثانية الأولى ودع الطبيب يقود بقية الحديث. كثيرون يُمضون معظم الوقت في رواية التاريخ المرضي وينفد الوقت قبل طرح السؤال الذي جاؤوا من أجله. إن لم تفهم شيئاً قاله الطبيب، اطلب منه أن يشرحه بكلام بسيط. من حقك دائماً أن تسأل لماذا وُصف هذا الدواء، وما الآثار الجانبية المتوقعة، ومتى تراجع الطبيب شخصياً إن لم تتحسن الأمور.",
-            "بعد انتهاء المكالمة، تحقق من وصول الوصفة أو خطاب الإحالة إليك، واسأل الطبيب عما إذا كانت الصيدلية القريبة منك تستطيع صرفها قبل إنهاء الجلسة. إن أوصى بإجراء تحليل، اسأله هل تحتاج إلى نموذج طلب ورقي أم أن المنصة ترسله إلكترونياً."
-          ],
-          "visual": {
-            "type": "callout",
-            "tone": "warn",
-            "title": "قبل مكالمتك، جهّز هذه الأربعة",
-            "items": [
-              "اسم شكواك الرئيسية ومدة استمرارها",
-              "قائمة بجميع الأدوية التي تتناولها حالياً مع الجرعات",
-              "نتائج أي تحليل دم أو تصوير خلال الأشهر الثلاثة الماضية",
-              "صورة واضحة لأي عَرَض مرئي التقطتها في ضوء نهاري"
-            ]
-          }
-        },
-        {
-          "h2": "الوصفات والخصوصية والتنظيم القانوني",
-          "paras": [
-            "تختلف قواعد الوصفات بين دول المنطقة. في السعودية والإمارات، تستطيع المنصات الإلكترونية المرخّصة إصدار وصفات رقمية تقبلها معظم الصيدليات. في مصر والأردن ولبنان، تتفاوت الأنظمة بحسب المنصة ونوع الدواء: بعض المنصات ترسل الوصفة إلى بريدك الإلكتروني لتقديمها في الصيدلية، وأخرى تستلزم أخذ نسخة ورقية من شريكة عيادة. أما الأدوية الخاضعة للرقابة كالمسكنات القوية والمهدئات وبعض الأدوية النفسية، فتستلزم تقريباً في كل الأحوال زيارة شخصية ووصفة مكتوبة بخط اليد بغض النظر عن المنصة.",
-            "الخصوصية شاغل مشروع. محادثتك الطبية شخصية وحساسة. قبل استخدام أي منصة، تحقق من أنها مرخّصة من الجهة الصحية في بلدك، وأنها تستخدم فيديو ومراسلة مشفّرَين، وأنها تحفظ بياناتك داخل البلاد لا على خوادم خارجية. المنصة الشرعية تُعلن هذه المعلومات بوضوح في شروط الخدمة. إن لم تجد هذه المعلومات، جرّب منصة أخرى.",
-            "تغطية التأمين الصحي للاستشارات الإلكترونية في تمدد مستمر لكنها غير متساوية. في الإمارات، يُعيد معظم شركات التأمين الكبرى الآن تكاليف زيارات الطب عن بُعد عبر المنصات المرخّصة. في بلدان أخرى ستدفع في الغالب من جيبك، لكن التكلفة أقل عادةً من زيارة العيادة الخاصة."
-          ]
-        },
-        {
-          "h2": "الطب عن بُعد للأمراض المزمنة: أوضح فائدة",
-          "paras": [
-            "أقوى الأدلة على فعالية الطب عن بُعد تتركز في إدارة الأمراض طويلة الأمد. مراجعة نُشرت عام 2024 في مجلة Cureus وجدت أن الطب عن بُعد حسّن إمكانية الوصول إلى الرعاية وقلّل من الزيارات الاستشفائية غير الضرورية لمرضى السكري وأمراض القلب وأمراض الرئة ذوي الأعراض المستقرة والعلاقة المستمرة مع طبيب معالج.",
-            "هذا يكتسب أهمية خاصة في العالم العربي، حيث يُصاب نسبة مرتفعة من البالغين بمرض السكري، ويعيش كثيرون منهم بعيداً عن عيادات المتخصصين. استخدام مكالمة فيديو لمناقشة نتيجة HbA1c أو تعديل جرعة الدواء أو الحصول على مشورة غذائية يعني أنك لن تضطر لأخذ نصف يوم إجازة من العمل في مقابل حديث يمكن إجراؤه عن بُعد.",
-            "مرضى ضغط الدم واضطرابات الغدة الدرقية والربو والاكتئاب يستفيدون بالمثل من المتابعة الدورية عبر الطب عن بُعد، شريطة أن يطّلع الطبيب على نتائج تحاليلهم الأخيرة ويعرف متى يستدعيهم للفحص الجسدي."
-          ]
-        },
-        {
-          "h2": "ماذا تفعل حين لا تتوفر خدمة الطب عن بُعد؟",
-          "paras": [
-            "في أجزاء من سوريا واليمن والسودان وريف ليبيا، لا يمكن الاعتماد على الإنترنت أو التيار الكهربائي باستمرار. حين لا تتاح المكالمة المرئية، تُقدّم الاستشارة الهاتفية مع الطبيب العام بديلاً جزئياً، وإن كانت قدرة الطبيب على التقييم أكثر محدودية. تُشغّل عدة منظمات إنسانية وخيرية في المناطق المتضررة من النزاعات خطوط استشارة ومراجعة هاتفية طبية، منها: المجلس الطبي السوري الأمريكي، ومنظمة أطباء بلا حدود، والمجلس الطبي الدولي.",
-            "إن كنت تُدير حالة مزمنة ولا تستطيع الوصول إلى طبيب على الإطلاق، فأهم معلومة تحتاجها هي الاسم العلمي للمادة الفعّالة في دوائك لا الاسم التجاري، حتى يجد لك الصيدلاني في أي بلد بديلاً مناسباً. لهذا السبب، يُعدّ الاحتفاظ بسجل بسيط مكتوب يضم تشخيصاتك وأدويتك بأسمائها العلمية ونتائج تحاليلك الأخيرة قيمةً لا تُقدَّر حين يكون الوصول إلى الرعاية غير منتظم.",
-            "الصيدلاني في العالم العربي هو في الغالب أول من يُلجأ إليه حين يتعذّر الوصول إلى الطبيب، ومعظمهم قادرون على تقديم المشورة بشأن الأعراض الشائعة وما إذا كان الدواء مناسباً. هذا ليس بديلاً عن الرعاية الطبية، لكنه واقع عملي تسعى هذه المنصة إلى الاعتراف به والمساعدة في التعامل معه."
-          ]
-        },
-        {
-          "h2": "متى يُحظر اللجوء إلى الطب عن بُعد؟",
-          "paras": [
-            "ثمة مواقف يكون فيها البحث عن استشارة إلكترونية أمراً خطيراً فعلاً، لا لأن الطب عن بُعد سيئ، بل لأن التأخير الناجم عنه يُلحق الضرر. إن عانيت أنت أو من بجانبك من ألم صدري مفاجئ يمتد لأكثر من دقائق، أو صداع شديد مفاجئ لم تُصَب بمثله قط، أو ضعف أو تنميل في نصف الجسم، أو صعوبة في الكلام أو الفهم، أو نوبة صرع، أو فقدان الوعي، أو صعوبة شديدة في التنفس، أو نزيف غزير لا يتوقف عند الضغط المباشر، فاتصل بالإسعاف فوراً أو توجه إلى قسم الطوارئ. لا يستطيع اتصال فيديو تشخيص نوبة قلبية أو جلطة دماغية في الوقت المناسب.",
-            "بالنسبة للأطفال: أي طفل دون ثلاثة أشهر مع حرارة تتجاوز 38 درجة مئوية يجب أن يُعرض على الطبيب فوراً. أي طفل لديه طفح جلدي لا يختفي عند الضغط عليه بزجاج، أو يتنفس بسرعة غير طبيعية، أو يصعب إيقاظه، ينبغي أخذه إلى المستشفى لا إضافته إلى قائمة انتظار إلكترونية."
-          ],
-          "visual": {
-            "type": "callout",
-            "tone": "bad",
-            "title": "لا تنتظر مكالمة فيديو. اتصل بالإسعاف أو اذهب إلى الطوارئ فوراً عند",
-            "items": [
-              "ألم صدري مفاجئ يمتد أكثر من دقائق",
-              "ضعف أو تنميل في جانب واحد من الجسم أو صعوبة مفاجئة في الكلام",
-              "صداع شديد مفاجئ لم تُصَب بمثله من قبل",
-              "صعوبة شديدة في التنفس في حالة الراحة",
-              "طفح جلدي لا يختفي عند الضغط عليه بزجاج",
-              "نزيف غزير لا يتوقف",
-              "فقدان الوعي أو نوبة صرع"
-            ]
-          }
-        },
-        {
-          "h2": "كيف تربط الأدوات الرقمية استشاراتك بسجلاتك الصحية؟",
-          "paras": [
-            "من المزايا المتنامية لمنصات الطب عن بُعد أنها تُخزّن ملاحظات استشارتك ووصفاتك في مكان واحد يمكنك الوصول إليه من أي جهاز. إن استخدمت المنصة ذاتها باستمرار، يطّلع طبيبك على تاريخك كاملاً في كل مرة تتصل، مما يُحسّن جودة المشورة التي يُقدّمها. هذا مفيد بوجه خاص للأشخاص الذين يتنقلون كثيراً أو يقضون وقتهم بين بلدين، وهو أمر شائع في منطقة الخليج.",
-            "بعض المنصات تتكامل أيضاً مع خدمات المختبرات، إذ تصلك إحالة تحليل دم، تذهب إلى مختبر شريك قريب منك، وتظهر نتائجك تلقائياً في سجل استشارتك قبل المكالمة التالية، دون حاجة لحمل أوراق، ودون خطر ضياع نتيجة.",
-            "الاحتفاظ بسجلك الصحي الخاص، حتى لو كان بسيطاً، يُكمّل أي منصة تستخدمها. ملف يحتوي تشخيصاتك وأدويتك بأسمائها العلمية وحساسياتك ونتائج تحاليلك الرئيسية، تُحدّثه بانتظام، هو ضمان صحي لا يستطيع أي انقطاع بالإنترنت أو توقف في الخدمة أن يسلبك إياه. تذكّر أن تسجّل اسم المادة الفعّالة للدواء وليس الاسم التجاري فقط، حتى يتمكن أي طبيب أو صيدلاني في أي بلد من إيجاد بديل مناسب عند الحاجة."
-          ]
-        }
-      ],
-      "tie": "تُتيح لك سهتك تخزين نتائج تحاليلك وقائمة أدويتك وملاحظاتك الصحية في مكان واحد، فتكون جاهزة للمشاركة في استشارتك الإلكترونية القادمة أو عند كل طبيب جديد يحتاج إلى تاريخك المرضي.",
-      "faqs": [
-        {
-          "q": "هل أستطيع الحصول على وصفة طبية عبر استشارة إلكترونية في الدول العربية؟",
-          "a": "في السعودية والإمارات، تستطيع المنصات الإلكترونية المرخّصة إصدار وصفات رقمية تقبلها معظم الصيدليات. في مصر والأردن ولبنان تتفاوت القواعد حسب المنصة ونوع الدواء. الأدوية الخاضعة للرقابة تستلزم تقريباً في كل الأحوال زيارة شخصية بغض النظر عن البلد."
-        },
-        {
-          "q": "هل يُغطي التأمين الصحي استشارات الطب عن بُعد؟",
-          "a": "التغطية في توسع مستمر. في الإمارات يُعيد معظم شركات التأمين الكبرى تكاليف الاستشارات الإلكترونية عبر المنصات المرخّصة. في السعودية شجّعت الاستراتيجية الرقمية على مشاركة شركات التأمين. في دول عربية أخرى ستدفع في الغالب من جيبك، لكن التكلفة أقل من زيارة العيادة الخاصة."
-        },
-        {
-          "q": "ماذا أفعل إن لم يكن لديّ اتصال إنترنت موثوق؟",
-          "a": "بعض المنصات تتيح مكالمات هاتفية بديلاً عن الفيديو مع تواصل أقل لكنه مفيد. الصيدلاني هو أيضاً جهة تواصل أولى مشروعة للأعراض الشائعة في كثير من دول المنطقة. للأعراض الخطيرة أو غير الواضحة، تبقى الزيارة الشخصية الخيار الصحيح."
-        },
-        {
-          "q": "كيف أعرف إن كانت المنصة الإلكترونية شرعية؟",
-          "a": "تحقق من أنها مرخّصة من الجهة الصحية في بلدك: في السعودية ابحث عن التسجيل ضمن استراتيجية الصحة الرقمية الوطنية، في الإمارات من هيئة الصحة بدبي أو دائرة الصحة أبوظبي، في مصر من وزارة الصحة. المنصة الشرعية تُعلن ترخيصها وسياسة خصوصية البيانات بوضوح."
-        },
-        {
-          "q": "هل يمكن للأطفال تلقي الرعاية عبر الطب عن بُعد؟",
-          "a": "نعم، لكثير من شكاوى الأطفال الشائعة كالطفح الجلدي والحمى الخفيفة عند الأطفال الأكبر سناً والمتابعات. الرضع دون ثلاثة أشهر مع أي حمى، أو الأطفال ذوو صعوبة التنفس، أو من تتفاقم أعراضهم بسرعة، يجب أن يُعرضوا على الطبيب شخصياً فوراً. لا تستخدم الطب عن بُعد لتقييم طفل مريض بشكل خطير."
-        },
-        {
-          "q": "هل معلوماتي الطبية خاصة في مكالمة الطب عن بُعد؟",
-          "a": "ينبغي أن تكون كذلك إن استخدمت منصة مرخّصة بفيديو ومراسلة مشفّرَين وتحفظ البيانات بأمان. تجنّب استخدام تطبيقات الاتصال العامة كواتساب أو فيس تايم للاستشارات الطبية، فهي غير مُصمَّمة لحماية البيانات السريرية."
-        },
-        {
-          "q": "ما هي الحالات التي لا يُجدي فيها الطب عن بُعد على الإطلاق؟",
-          "a": "أي حالة طارئة تستلزم اتصل فيها بالإسعاف مباشرة لا تنتظر أي استشارة إلكترونية. كذلك الأعراض الجديدة غير المشخّصة التي تستلزم فحصاً جسدياً أو تصويراً، مثل الألم البطني الجديد أو كتلة مجهولة، تحتاج زيارة شخصية للتشخيص الدقيق."
-        }
-      ]
-    }
+ "slug": "telemedicine-in-the-middle-east",
+ "category": "regional-health",
+ "chip_ar": "الصحة الإقليمية",
+ "chip_en": "Regional Health",
+ "date_iso": "2026-07-14",
+ "sources": [
+  {
+   "label": "Al-Samarraie H, Ghazal S, Alzahrani AI et al: Telemedicine in Middle Eastern countries: Progress, barriers, and policy recommendations, International journal of medical informatics, 2020",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/32707430/"
+  },
+  {
+   "label": "Ezeamii VC, Okobi OE, Wambai-Sani H et al: Revolutionizing Healthcare: How Telemedicine Is Improving Patient Outcomes and Expanding Access to Care, Cureus, 2024",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/39099901/"
+  },
+  {
+   "label": "Maaitah W, Abdelhay O, Tourkmani A et al: Telemedicine interventions in type 2 diabetes management: a protocol for systematic review and network meta-analysis, BMJ open, 2024",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/38388501/"
+  },
+  {
+   "label": "Tolu-Akinnawo O, Ezekwueme F, Awoyemi T et al: Telemedicine in Cardiology: Enhancing Access to Care and Improving Patient Outcomes, Cureus, 2024",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/38912070/"
+  },
+  {
+   "label": "World Health Organization: Digital health in the Eastern Mediterranean Region. WHO EMRO fact sheet, 2023"
+  },
+  {
+   "label": "UAE Government official portal: Handling emergencies and telemedicine services"
   }
+ ],
+ "content": {
+  "en": {
+   "title": "Telemedicine in the Middle East: when online care is enough",
+   "desc": "Learn what telemedicine can and cannot handle, how to prepare for a video consultation, and which platforms are available across Arab countries.",
+   "keywords": "telemedicine Middle East, online doctor consultation Arab countries, video doctor appointment, telemedicine Saudi Arabia, telehealth Jordan Egypt, remote medical consultation, digital health Arab world",
+   "h1": "Telemedicine in the Middle East: when an online consultation is enough",
+   "takeaways": [
+    "Telemedicine works well for follow-up visits, prescription renewals, and many common symptoms, but it cannot replace a physical examination for new or serious complaints.",
+    "A 2020 review of Middle Eastern telemedicine found rapid expansion but identified internet connectivity, digital literacy, and regulatory gaps as the main barriers.",
+    "Prepare your list of symptoms, current medicines, and any recent test results before a video call so the consultation is as useful as possible.",
+    "Prescription rules vary by country: some allow electronic prescriptions via licensed telemedicine platforms, others still require an in-person visit for controlled medicines.",
+    "Your privacy on any telemedicine platform depends on whether it encrypts your data and whether it is licensed in your country."
+   ],
+   "sections": [
+    {
+     "h2": "What is telemedicine and how does it work in the region?",
+     "paras": [
+      "Telemedicine means receiving medical advice, a diagnosis, or a prescription through a phone call, video call, or secure messaging app rather than sitting in a clinic. In the Middle East and North Africa, the field has grown quickly since 2020, driven by high smartphone ownership and a shortage of specialists outside major cities.",
+      "A 2020 analysis published in the International Journal of Medical Informatics examined telemedicine programmes across Middle Eastern countries and found meaningful progress in Saudi Arabia, the UAE, Jordan, and Egypt, while also identifying unreliable internet access and a fragmented legal framework as the most consistent barriers across the region.",
+      "For most people, a telemedicine appointment works like this: you book through an app or website, you enter a video call at the scheduled time, the doctor asks about your symptoms and reviews any documents you share, and you receive advice, a referral, or a prescription sent to a pharmacy. The whole encounter typically takes ten to twenty minutes."
+     ],
+     "visual": {
+      "type": "steps",
+      "title": "How a typical telemedicine appointment works",
+      "items": [
+       "Choose a licensed platform and create an account",
+       "Select a specialty and book an appointment time",
+       "Gather your current medicines list, recent test results, and a photo of any visible symptom",
+       "Join the video call on time and describe your complaint clearly",
+       "Receive a prescription, referral letter, or sick note electronically",
+       "Follow up in person if the doctor asks for an examination or a test"
+      ]
+     }
+    },
+    {
+     "h2": "What can telemedicine handle, and what does it miss?",
+     "paras": [
+      "A video consultation works well for a large number of situations: a rash you can show on camera, a cough or sore throat you can describe, a follow-up visit after a diagnosis has already been made, renewing a stable long-term prescription, a mental health session, or reading and explaining a blood test result together.",
+      "It does not work for anything that requires the doctor to touch you. A doctor cannot measure your blood pressure, listen to your heart with a stethoscope, feel your abdomen for tenderness, or examine your ear canal through a screen. New chest pain, abdominal pain that worsens, shortness of breath, or any symptom that has appeared suddenly and feels severe should not wait for a video call. These need a physical visit, often urgently.",
+      "The table below gives a practical guide to which type of appointment fits which situation. When in doubt, choose in-person care: an unnecessary trip to a clinic costs time, but an unnecessary delay in seeking care can cost much more."
+     ],
+     "visual": {
+      "type": "table",
+      "title": "Telemedicine or in person? A practical guide",
+      "head": [
+       "Situation",
+       "Best approach",
+       "Why"
+      ],
+      "rows": [
+       [
+        "Follow-up for diabetes or hypertension, stable",
+        "Telemedicine",
+        "Review numbers and adjust advice without needing examination"
+       ],
+       [
+        "Sore throat, cough, mild fever",
+        "Telemedicine",
+        "Symptoms can be described and assessed remotely"
+       ],
+       [
+        "Skin rash or wound",
+        "Telemedicine (with photo)",
+        "Visual assessment is often enough for common conditions"
+       ],
+       [
+        "Mental health support or counselling",
+        "Telemedicine",
+        "Voice or video call works as well as in person for most sessions"
+       ],
+       [
+        "Reading your blood test results",
+        "Telemedicine",
+        "The doctor can explain results without touching you"
+       ],
+       [
+        "Chest pain, even mild",
+        "In person or emergency",
+        "Cannot be safely assessed without ECG and examination"
+       ],
+       [
+        "Abdominal pain, new or worsening",
+        "In person",
+        "Needs physical examination and possibly imaging"
+       ],
+       [
+        "Child with high fever under 3 months",
+        "Emergency or in person",
+        "Young infants need direct assessment"
+       ],
+       [
+        "Suspected fracture",
+        "In person",
+        "Needs X-ray and physical assessment"
+       ]
+      ]
+     }
+    },
+    {
+     "h2": "Which telemedicine platforms operate across Arab countries?",
+     "paras": [
+      "In Saudi Arabia, the Ministry of Health runs Seha, which allows video consultations with government doctors free of charge. Private platforms including Cura, Okadoc, and Altibbi are also widely used across the Gulf and offer appointments with paid specialists.",
+      "In the UAE, DHA-regulated platforms such as Okadoc and Shafie connect patients to licensed doctors. The government has made telemedicine a formal part of its digital health strategy and many insurers now reimburse qualifying teleconsultations.",
+      "In Egypt and Jordan, Vezeeta operates both an in-person booking system and video consultations. Altibbi, founded in Jordan and now operating across several Arab countries, offers Arabic-language consultations for a wide range of specialties. In countries with less developed infrastructure, including parts of Syria, Yemen, and Sudan, access depends heavily on having a reliable internet connection and power supply."
+     ]
+    },
+    {
+     "h2": "How to get the most out of a video appointment",
+     "paras": [
+      "The single biggest difference between a useful telemedicine call and a wasted one is preparation. Before you join the call, write down your main complaint and how long you have had it, the exact names and doses of any medicines you take, and any test results from the past three months. If your complaint involves a visible symptom such as a rash, a wound, or a swollen joint, take a clear photograph in good light before the call so you are not struggling to position the camera in real time.",
+      "During the call, state your main concern in the first thirty seconds and let the doctor lead the rest. Many patients spend most of their time giving background history and run out of time before asking the question that brought them there. If you do not understand something the doctor says, ask them to explain it in plain words. It is always appropriate to ask why a medicine is being prescribed, what side effects to expect, and when you should come in person if things do not improve.",
+      "After the call, confirm that you have received any prescription or referral letter, and check that the pharmacy in your area can fill it before you end the session. If the doctor recommends a test, ask whether you need a paper request form or whether the platform sends one electronically."
+     ],
+     "visual": {
+      "type": "callout",
+      "tone": "warn",
+      "title": "Before your call, prepare these four things",
+      "items": [
+       "The name and duration of your main complaint",
+       "A list of all medicines you currently take, with doses",
+       "Any blood test or imaging results from the past three months",
+       "A clear photo of any visible symptom, taken in daylight"
+      ]
+     }
+    },
+    {
+     "h2": "Prescriptions, privacy, and what the law says",
+     "paras": [
+      "Prescription rules differ across the region. In Saudi Arabia and the UAE, licensed telemedicine platforms can issue electronic prescriptions that are accepted at most pharmacies. In Egypt, Jordan, and Lebanon, the rules are less uniform: some platforms send a prescription to your registered email, which you can present at a pharmacy, while others require you to pick up a paper prescription from a clinic partner. For controlled medicines, including strong painkillers, sedatives, and some psychiatric drugs, an in-person visit and a handwritten prescription are almost always required regardless of the platform.",
+      "Privacy is a legitimate concern. Your medical conversation is personal and sensitive. Before using any platform, check whether it is licensed by your country's health authority, whether it uses encrypted video and messaging, and whether it stores your data inside the country or on servers abroad. A legitimate platform will state these things clearly in its terms of service. If you cannot find this information, use a different service.",
+      "Insurance coverage for telemedicine is expanding but uneven. In the UAE, most major insurers cover telemedicine visits on licensed platforms. In Saudi Arabia, the Vision 2030 digital health push has encouraged insurer participation. In other countries, you will often pay out of pocket, but costs are generally lower than a private clinic visit."
+     ]
+    },
+    {
+     "h2": "Telemedicine for chronic conditions: the clearest win",
+     "paras": [
+      "The strongest evidence for telemedicine sits in the management of long-term conditions. A 2024 review published in Cureus found that telemedicine improved access to care and reduced unnecessary hospital visits for patients managing diabetes, heart disease, and lung conditions when they had stable symptoms and an established relationship with a treating doctor. A 2024 protocol for a systematic review in BMJ Open specifically examined telemedicine for type 2 diabetes management and found it a promising tool for regions where specialist clinics are distant.",
+      "This matters in the Arab world because diabetes affects a high proportion of adults in the region, and many patients live far from a specialist. Using a video call to discuss your HbA1c result, adjust your medicine dose, or get dietary advice means you do not have to take a half-day off work for what is essentially a conversation. The key is that the underlying condition is already diagnosed and stable: telemedicine is most useful for monitoring and adjusting care, not for the initial investigation of a new problem.",
+      "Patients with high blood pressure, thyroid disorders, asthma, and depression are similarly well-served by regular telehealth check-ins, provided the doctor can see recent test results and knows when to call you in for a physical review."
+     ]
+    },
+    {
+     "h2": "Special situations: what to do when telemedicine is not available",
+     "paras": [
+      "In parts of Syria, Yemen, Sudan, and rural Libya, reliable internet and power are not guaranteed. When video is not possible, telephone consultations with a general practitioner offer a partial alternative, though the doctor's ability to assess you is more limited. Several NGO and charity services in conflict-affected areas run phone-based medical advice lines: the International Medical Corps, Doctors Without Borders, and the Syrian American Medical Society all operate regional advice and referral services.",
+      "If you are managing a long-term condition and cannot reach a doctor at all, the most important information you can have is the name of your medicine's active ingredient rather than its brand name, so a pharmacist in any country can find an equivalent. For this reason, keeping a simple written record of your diagnoses, current medicines with active ingredient names, and your most recent test results is particularly valuable when access to care is unreliable.",
+      "Pharmacists in the Arab world are often the first point of contact when a doctor is unavailable, and most can advise on common symptoms and whether a medicine is appropriate. This is not a substitute for medical care, but it is a practical reality that the site acknowledges."
+     ]
+    },
+    {
+     "h2": "When you must not use telemedicine",
+     "paras": [
+      "There are situations where seeking a teleconsultation is actively dangerous, not because telemedicine is bad but because the delay it creates is harmful. If you or someone near you has sudden chest pain that lasts more than a few minutes, sudden severe headache unlike any before, weakness or numbness on one side of the body, difficulty speaking or understanding, a seizure, loss of consciousness, severe difficulty breathing, or heavy bleeding that does not stop with direct pressure, call an ambulance or go to an emergency room immediately. A video call cannot diagnose a heart attack or a stroke in time to matter.",
+      "For children, any child under three months old with a fever above 38 degrees Celsius needs to be seen in person immediately. Any child with a rash that does not fade when pressed firmly with a glass, any child with rapid breathing, or any child who is unusually difficult to wake should be taken to hospital, not added to an online waiting list.",
+      "These are the limits of what technology can do. Telemedicine is a tool for accessibility, not a replacement for physical medicine when physical medicine is what is needed."
+     ],
+     "visual": {
+      "type": "callout",
+      "tone": "bad",
+      "title": "Do not wait for a video call. Go to emergency or call an ambulance if you see",
+      "items": [
+       "Sudden chest pain lasting more than a few minutes",
+       "One-sided weakness, numbness, or sudden difficulty speaking",
+       "Sudden severe headache unlike any you have had before",
+       "Severe difficulty breathing at rest",
+       "A rash that does not fade when pressed with a glass",
+       "Heavy bleeding that does not stop",
+       "Loss of consciousness or a seizure"
+      ]
+     }
+    },
+    {
+     "h2": "How digital health tools connect to your records",
+     "paras": [
+      "One growing benefit of telemedicine platforms is the ability to store your consultation notes and prescriptions in a single place, accessible from any device. If you use the same platform consistently, your treating doctor has access to your history each time you call, which improves the quality of advice they can give. This is particularly useful for people who move frequently or who split their time between countries, which is common in the Gulf.",
+      "Some platforms also integrate with laboratory services, allowing you to receive a blood test referral, attend a nearby lab partner, and have your results appear automatically in your consultation record before the follow-up call. This removes the need to carry paper results and reduces the chance of a result being lost.",
+      "Keeping your own digital record, even a simple one, complements whatever platform you use. A note of your diagnoses, medicines, allergies, and key test results that you update regularly is a form of health insurance that no connectivity problem can take away."
+     ]
+    }
+   ],
+   "tie": "Sihtak lets you store your test results, medicines list, and health notes in one place, so they are ready to share at your next telemedicine appointment or whenever a new doctor needs your history.",
+   "faqs": [
+    {
+     "q": "Can I get a prescription through a telemedicine consultation in the Arab world?",
+     "a": "In Saudi Arabia and the UAE, licensed telemedicine platforms can issue electronic prescriptions accepted at most pharmacies. In Egypt, Jordan, and Lebanon the rules vary by platform and by medicine type. Controlled medicines almost always require an in-person visit regardless of the country."
+    },
+    {
+     "q": "Is telemedicine covered by health insurance in Arab countries?",
+     "a": "Coverage is expanding. In the UAE, most major insurers now reimburse qualifying telemedicine visits on licensed platforms. In Saudi Arabia, the digital health strategy has encouraged insurer participation. In other Arab countries, you often pay out of pocket, but costs are usually lower than a private clinic visit."
+    },
+    {
+     "q": "What should I do if I do not have a reliable internet connection?",
+     "a": "Some platforms offer telephone consultations as an alternative to video, with reduced but still useful doctor contact. Pharmacists are also a legitimate first contact for common symptoms in much of the region. For serious or unclear symptoms, an in-person visit remains the right choice."
+    },
+    {
+     "q": "How do I know if a telemedicine platform is legitimate?",
+     "a": "Check whether the platform is licensed by your country's health authority. In Saudi Arabia look for registration with the National Digital Health Strategy authority, in the UAE with the DHA or DOH, in Egypt with the Ministry of Health and Population. Legitimate platforms state their licensing and data privacy policy clearly."
+    },
+    {
+     "q": "Can telemedicine replace my regular doctor for a chronic condition?",
+     "a": "It can handle most routine follow-up visits, prescription reviews, and result discussions if your condition is stable and already diagnosed. It cannot replace the physical examination, blood pressure measurement, or blood tests that periodic in-person visits provide. A combination of telemedicine and occasional in-person reviews works best."
+    },
+    {
+     "q": "Is my medical information private on a telemedicine call?",
+     "a": "It should be if you use a licensed platform that uses end-to-end encrypted video and stores data securely. Check the platform's terms of service before your first consultation. Avoid using general video calling apps like WhatsApp or FaceTime for medical consultations, as these are not designed for clinical data privacy."
+    },
+    {
+     "q": "Can children be seen via telemedicine?",
+     "a": "Yes, for many common childhood complaints such as skin conditions, mild fevers in older children, or follow-up consultations. Infants under three months with any fever, children with breathing difficulty, or any child whose symptoms are rapidly worsening should be seen in person immediately. Do not use telemedicine to assess a seriously ill child."
+    }
+   ]
+  },
+  "ar": {
+   "title": "الطب عن بُعد في الشرق الأوسط: متى يكفي الاستشارة الإلكترونية؟",
+   "desc": "دليل عملي شامل لما يستطيع الطب عن بُعد تقديمه وما لا يستطيعه، وكيف تستعد لاستشارة الفيديو وتحمي خصوصيتك في الدول العربية.",
+   "keywords": "طب عن بعد عربي, استشارة طبية اون لاين, طبيب عبر الإنترنت, تطبيقات طبية الخليج, الصحة الرقمية الشرق الأوسط, موعد طبي فيديو, استشارة إلكترونية",
+   "h1": "الطب عن بُعد في الشرق الأوسط: متى تكفيك الاستشارة الإلكترونية؟",
+   "takeaways": [
+    "الطب عن بُعد يناسب زيارات المتابعة وتجديد الوصفات والشكاوى الشائعة، لكنه لا يُغني عن الفحص الجسدي عند ظهور أعراض جديدة أو خطيرة.",
+    "دراسة نُشرت عام 2020 في مجلة المعلوماتية الطبية الدولية وجدت توسعاً سريعاً في خدمات الطب عن بُعد بالدول العربية، لكن ضعف الاتصال بالإنترنت والثغرات التنظيمية تظل التحديين الرئيسيين.",
+    "جهّز قائمة أعراضك وأدويتك الحالية ونتائج تحاليلك الأخيرة قبل الاتصال.",
+    "قواعد الوصفات الإلكترونية تختلف من دولة إلى أخرى، وغالباً تستلزم الأدوية الخاضعة للرقابة زيارة عيادة."
+   ],
+   "sections": [
+    {
+     "h2": "ما هو الطب عن بُعد وكيف يعمل في المنطقة؟",
+     "paras": [
+      "الطب عن بُعد يعني تلقي المشورة الطبية أو التشخيص أو الوصفة عبر مكالمة هاتفية أو فيديو أو تطبيق مشفّر، دون الذهاب إلى عيادة. في منطقة الشرق الأوسط وشمال أفريقيا، نما هذا القطاع بسرعة لافتة منذ عام 2020، مدفوعاً بانتشار الهواتف الذكية وشُح الأطباء المتخصصين خارج المدن الكبرى.",
+      "تحليل نُشر عام 2020 في مجلة المعلوماتية الطبية الدولية فحص برامج الطب عن بُعد عبر دول الشرق الأوسط، ورصد تقدماً ملموساً في السعودية والإمارات والأردن ومصر، مع الإشارة إلى أن ضعف الاتصال بالإنترنت وغياب إطار قانوني موحّد يمثلان العقبتين الأكثر تكراراً في المنطقة.",
+      "الاستشارة تسير عادةً هكذا: تحجز موعداً عبر تطبيق أو موقع، تنضم إلى مكالمة فيديو في الوقت المحدد، يسألك الطبيب عن أعراضك ويطلع على المستندات التي تشاركها، ثم تتلقى نصيحة أو إحالة أو وصفة دواء مرسلة إلكترونياً إلى صيدلية. تستغرق المقابلة في الغالب بين عشر دقائق وعشرين دقيقة."
+     ],
+     "visual": {
+      "type": "steps",
+      "title": "كيف تسير استشارة الطب عن بُعد النموذجية",
+      "items": [
+       "اختر منصة مرخّصة وأنشئ حساباً",
+       "حدد التخصص المطلوب واحجز موعداً",
+       "جهّز قائمة أدويتك الحالية ونتائج تحاليلك وصورة لأي عَرَض ظاهر",
+       "انضم إلى المكالمة في الموعد واشرح شكواك بوضوح",
+       "تسلّم الوصفة أو خطاب الإحالة إلكترونياً",
+       "راجع الطبيب شخصياً إن طلب الفحص الجسدي أو التحليل"
+      ]
+     }
+    },
+    {
+     "h2": "ما الذي يستطيع الطب عن بُعد تقديمه وما الذي يفوته؟",
+     "paras": [
+      "استشارة الفيديو تُجدي كثيراً في حالات عديدة: طفح جلدي تُظهره على الكاميرا، سعال أو التهاب في الحلق تصفه، متابعة تشخيص سبق إثباته، تجديد وصفة حالة مستقرة، جلسة صحة نفسية، أو مناقشة نتيجة تحليل دم مع الطبيب.",
+      "لكنها لا تُجدي في أي موقف يستلزم لمس الطبيب لك. الطبيب لا يستطيع قياس ضغط دمك بالأجهزة، ولا الاستماع إلى قلبك بسماعة، ولا جس بطنك لمعرفة مواضع الألم، ولا فحص قناة أذنك عبر شاشة. ألم صدري جديد، أو ألم بطني يزداد حدة، أو ضيق تنفس، أو أي عَرَض ظهر فجأة ويبدو خطيراً، لا ينبغي الانتظار حتى موعد الفيديو، بل تستوجب هذه الحالات زيارة جسدية عاجلة في الغالب.",
+      "الجدول التالي يُرشدك عملياً إلى أي نوع من المواعيد يناسب كل موقف. عند الشك، اختر الزيارة الشخصية: رحلة إلى العيادة تُكلّفك وقتاً، أما التأخر في طلب الرعاية فقد يُكلّفك أكثر من ذلك بكثير."
+     ],
+     "visual": {
+      "type": "table",
+      "title": "طب عن بُعد أم زيارة شخصية؟ دليل عملي",
+      "head": [
+       "الحالة",
+       "الأنسب",
+       "السبب"
+      ],
+      "rows": [
+       [
+        "متابعة السكري أو ضغط الدم، حالة مستقرة",
+        "طب عن بعد",
+        "مراجعة الأرقام وتعديل التوجيهات دون حاجة للفحص"
+       ],
+       [
+        "التهاب الحلق أو السعال أو حمى خفيفة",
+        "طب عن بعد",
+        "يمكن وصف الأعراض وتقييمها عن بُعد"
+       ],
+       [
+        "طفح جلدي أو جرح",
+        "طب عن بعد مع صورة",
+        "التقييم البصري يكفي في الحالات الشائعة غالباً"
+       ],
+       [
+        "دعم الصحة النفسية أو الإرشاد",
+        "طب عن بعد",
+        "المكالمة الصوتية أو الفيديو تؤدي الغرض كالزيارة الشخصية"
+       ],
+       [
+        "شرح نتائج التحاليل الدموية",
+        "طب عن بعد",
+        "الطبيب يشرح النتائج دون حاجة لفحصك"
+       ],
+       [
+        "ألم صدري ولو خفيف",
+        "طوارئ أو عيادة",
+        "لا يمكن تقييمه أمان دون رسم قلب وفحص"
+       ],
+       [
+        "ألم بطني جديد أو متصاعد",
+        "زيارة شخصية",
+        "يستلزم فحصاً جسدياً وربما تصويراً"
+       ],
+       [
+        "رضيع دون 3 أشهر مع حمى",
+        "طوارئ أو زيارة شخصية",
+        "الرضع الصغار يحتاجون تقييماً مباشراً"
+       ]
+      ]
+     }
+    },
+    {
+     "h2": "أبرز منصات الطب عن بُعد في الدول العربية",
+     "paras": [
+      "في المملكة العربية السعودية، تتيح وزارة الصحة تطبيق 'صحة' لاستشارات فيديو مع أطباء حكوميين مجاناً. أما المنصات الخاصة مثل Cura وOkadoc والطبيب فتعمل في أرجاء الخليج وتوفر مواعيد مع متخصصين مدفوعي الأجر.",
+      "في الإمارات، تتيح منصات مرخّصة من هيئة الصحة بدبي مثل Okadoc وشافي التواصل مع أطباء معتمدين. وقد جعلت الحكومة الطبَّ عن بُعد ركيزةً رسمية في استراتيجيتها الصحية الرقمية، ويُعيد كثير من شركات التأمين الآن تكاليف الاستشارات الإلكترونية المؤهلة.",
+      "في مصر والأردن، تعمل Vezeeta بنظام الحجوزات الشخصية واستشارات الفيديو. أما الطبيب، المنصة المؤسسة في الأردن والعاملة الآن في عدة دول عربية، فتتيح استشارات بالعربية في طيف واسع من التخصصات. في البلدان ذات البنية التحتية الأقل تطوراً كأجزاء من سوريا واليمن والسودان، يظل الوصول رهيناً بتوافر اتصال إنترنت موثوق وتيار كهربائي مستمر."
+     ]
+    },
+    {
+     "h2": "كيف تستفيد أقصى استفادة من موعد الفيديو؟",
+     "paras": [
+      "الفارق الأكبر بين استشارة فيديو مفيدة وأخرى مُضاعة هو التحضير. قبل الانضمام إلى المكالمة، دوّن شكواك الرئيسية ومدة معاناتك منها، والأسماء الدقيقة والجرعات لكل دواء تتناوله، ونتائج أي تحليل أجريته خلال الأشهر الثلاثة الماضية. إن كانت شكواك عَرَضاً مرئياً كطفح أو جرح أو ورم مفصلي، فالتقط له صورة في ضوء جيد قبل المكالمة لتفادي الكفاح مع الكاميرا في وقت الحاجة.",
+      "خلال المكالمة، اذكر شكواك الرئيسية في الثلاثين ثانية الأولى ودع الطبيب يقود بقية الحديث. كثيرون يُمضون معظم الوقت في رواية التاريخ المرضي وينفد الوقت قبل طرح السؤال الذي جاؤوا من أجله. إن لم تفهم شيئاً قاله الطبيب، اطلب منه أن يشرحه بكلام بسيط. من حقك دائماً أن تسأل لماذا وُصف هذا الدواء، وما الآثار الجانبية المتوقعة، ومتى تراجع الطبيب شخصياً إن لم تتحسن الأمور.",
+      "بعد انتهاء المكالمة، تحقق من وصول الوصفة أو خطاب الإحالة إليك، واسأل الطبيب عما إذا كانت الصيدلية القريبة منك تستطيع صرفها قبل إنهاء الجلسة. إن أوصى بإجراء تحليل، اسأله هل تحتاج إلى نموذج طلب ورقي أم أن المنصة ترسله إلكترونياً."
+     ],
+     "visual": {
+      "type": "callout",
+      "tone": "warn",
+      "title": "قبل مكالمتك، جهّز هذه الأربعة",
+      "items": [
+       "اسم شكواك الرئيسية ومدة استمرارها",
+       "قائمة بجميع الأدوية التي تتناولها حالياً مع الجرعات",
+       "نتائج أي تحليل دم أو تصوير خلال الأشهر الثلاثة الماضية",
+       "صورة واضحة لأي عَرَض مرئي التقطتها في ضوء نهاري"
+      ]
+     }
+    },
+    {
+     "h2": "الوصفات والخصوصية والتنظيم القانوني",
+     "paras": [
+      "تختلف قواعد الوصفات بين دول المنطقة. في السعودية والإمارات، تستطيع المنصات الإلكترونية المرخّصة إصدار وصفات رقمية تقبلها معظم الصيدليات. في مصر والأردن ولبنان، تتفاوت الأنظمة بحسب المنصة ونوع الدواء: بعض المنصات ترسل الوصفة إلى بريدك الإلكتروني لتقديمها في الصيدلية، وأخرى تستلزم أخذ نسخة ورقية من شريكة عيادة. أما الأدوية الخاضعة للرقابة كالمسكنات القوية والمهدئات وبعض الأدوية النفسية، فتستلزم تقريباً في كل الأحوال زيارة شخصية ووصفة مكتوبة بخط اليد بغض النظر عن المنصة.",
+      "الخصوصية شاغل مشروع. محادثتك الطبية شخصية وحساسة. قبل استخدام أي منصة، تحقق من أنها مرخّصة من الجهة الصحية في بلدك، وأنها تستخدم فيديو ومراسلة مشفّرَين، وأنها تحفظ بياناتك داخل البلاد لا على خوادم خارجية. المنصة الشرعية تُعلن هذه المعلومات بوضوح في شروط الخدمة. إن لم تجد هذه المعلومات، جرّب منصة أخرى.",
+      "تغطية التأمين الصحي للاستشارات الإلكترونية في تمدد مستمر لكنها غير متساوية. في الإمارات، يُعيد معظم شركات التأمين الكبرى الآن تكاليف زيارات الطب عن بُعد عبر المنصات المرخّصة. في بلدان أخرى ستدفع في الغالب من جيبك، لكن التكلفة أقل عادةً من زيارة العيادة الخاصة."
+     ]
+    },
+    {
+     "h2": "الطب عن بُعد للأمراض المزمنة: أوضح فائدة",
+     "paras": [
+      "أقوى الأدلة على فعالية الطب عن بُعد تتركز في إدارة الأمراض طويلة الأمد. مراجعة نُشرت عام 2024 في مجلة Cureus وجدت أن الطب عن بُعد حسّن إمكانية الوصول إلى الرعاية وقلّل من الزيارات الاستشفائية غير الضرورية لمرضى السكري وأمراض القلب وأمراض الرئة ذوي الأعراض المستقرة والعلاقة المستمرة مع طبيب معالج.",
+      "هذا يكتسب أهمية خاصة في العالم العربي، حيث يُصاب نسبة مرتفعة من البالغين بمرض السكري، ويعيش كثيرون منهم بعيداً عن عيادات المتخصصين. استخدام مكالمة فيديو لمناقشة نتيجة HbA1c أو تعديل جرعة الدواء أو الحصول على مشورة غذائية يعني أنك لن تضطر لأخذ نصف يوم إجازة من العمل في مقابل حديث يمكن إجراؤه عن بُعد.",
+      "مرضى ضغط الدم واضطرابات الغدة الدرقية والربو والاكتئاب يستفيدون بالمثل من المتابعة الدورية عبر الطب عن بُعد، شريطة أن يطّلع الطبيب على نتائج تحاليلهم الأخيرة ويعرف متى يستدعيهم للفحص الجسدي."
+     ]
+    },
+    {
+     "h2": "ماذا تفعل حين لا تتوفر خدمة الطب عن بُعد؟",
+     "paras": [
+      "في أجزاء من سوريا واليمن والسودان وريف ليبيا، لا يمكن الاعتماد على الإنترنت أو التيار الكهربائي باستمرار. حين لا تتاح المكالمة المرئية، تُقدّم الاستشارة الهاتفية مع الطبيب العام بديلاً جزئياً، وإن كانت قدرة الطبيب على التقييم أكثر محدودية. تُشغّل عدة منظمات إنسانية وخيرية في المناطق المتضررة من النزاعات خطوط استشارة ومراجعة هاتفية طبية، منها: المجلس الطبي السوري الأمريكي، ومنظمة أطباء بلا حدود، والمجلس الطبي الدولي.",
+      "إن كنت تُدير حالة مزمنة ولا تستطيع الوصول إلى طبيب على الإطلاق، فأهم معلومة تحتاجها هي الاسم العلمي للمادة الفعّالة في دوائك لا الاسم التجاري، حتى يجد لك الصيدلاني في أي بلد بديلاً مناسباً. لهذا السبب، يُعدّ الاحتفاظ بسجل بسيط مكتوب يضم تشخيصاتك وأدويتك بأسمائها العلمية ونتائج تحاليلك الأخيرة قيمةً لا تُقدَّر حين يكون الوصول إلى الرعاية غير منتظم.",
+      "الصيدلاني في العالم العربي هو في الغالب أول من يُلجأ إليه حين يتعذّر الوصول إلى الطبيب، ومعظمهم قادرون على تقديم المشورة بشأن الأعراض الشائعة وما إذا كان الدواء مناسباً. هذا ليس بديلاً عن الرعاية الطبية، لكنه واقع عملي تسعى هذه المنصة إلى الاعتراف به والمساعدة في التعامل معه."
+     ]
+    },
+    {
+     "h2": "متى يُحظر اللجوء إلى الطب عن بُعد؟",
+     "paras": [
+      "ثمة مواقف يكون فيها البحث عن استشارة إلكترونية أمراً خطيراً فعلاً، لا لأن الطب عن بُعد سيئ، بل لأن التأخير الناجم عنه يُلحق الضرر. إن عانيت أنت أو من بجانبك من ألم صدري مفاجئ يمتد لأكثر من دقائق، أو صداع شديد مفاجئ لم تُصَب بمثله قط، أو ضعف أو تنميل في نصف الجسم، أو صعوبة في الكلام أو الفهم، أو نوبة صرع، أو فقدان الوعي، أو صعوبة شديدة في التنفس، أو نزيف غزير لا يتوقف عند الضغط المباشر، فاتصل بالإسعاف فوراً أو توجه إلى قسم الطوارئ. لا يستطيع اتصال فيديو تشخيص نوبة قلبية أو جلطة دماغية في الوقت المناسب.",
+      "بالنسبة للأطفال: أي طفل دون ثلاثة أشهر مع حرارة تتجاوز 38 درجة مئوية يجب أن يُعرض على الطبيب فوراً. أي طفل لديه طفح جلدي لا يختفي عند الضغط عليه بزجاج، أو يتنفس بسرعة غير طبيعية، أو يصعب إيقاظه، ينبغي أخذه إلى المستشفى لا إضافته إلى قائمة انتظار إلكترونية."
+     ],
+     "visual": {
+      "type": "callout",
+      "tone": "bad",
+      "title": "لا تنتظر مكالمة فيديو. اتصل بالإسعاف أو اذهب إلى الطوارئ فوراً عند",
+      "items": [
+       "ألم صدري مفاجئ يمتد أكثر من دقائق",
+       "ضعف أو تنميل في جانب واحد من الجسم أو صعوبة مفاجئة في الكلام",
+       "صداع شديد مفاجئ لم تُصَب بمثله من قبل",
+       "صعوبة شديدة في التنفس في حالة الراحة",
+       "طفح جلدي لا يختفي عند الضغط عليه بزجاج",
+       "نزيف غزير لا يتوقف",
+       "فقدان الوعي أو نوبة صرع"
+      ]
+     }
+    },
+    {
+     "h2": "كيف تربط الأدوات الرقمية استشاراتك بسجلاتك الصحية؟",
+     "paras": [
+      "من المزايا المتنامية لمنصات الطب عن بُعد أنها تُخزّن ملاحظات استشارتك ووصفاتك في مكان واحد يمكنك الوصول إليه من أي جهاز. إن استخدمت المنصة ذاتها باستمرار، يطّلع طبيبك على تاريخك كاملاً في كل مرة تتصل، مما يُحسّن جودة المشورة التي يُقدّمها. هذا مفيد بوجه خاص للأشخاص الذين يتنقلون كثيراً أو يقضون وقتهم بين بلدين، وهو أمر شائع في منطقة الخليج.",
+      "بعض المنصات تتكامل أيضاً مع خدمات المختبرات، إذ تصلك إحالة تحليل دم، تذهب إلى مختبر شريك قريب منك، وتظهر نتائجك تلقائياً في سجل استشارتك قبل المكالمة التالية، دون حاجة لحمل أوراق، ودون خطر ضياع نتيجة.",
+      "الاحتفاظ بسجلك الصحي الخاص، حتى لو كان بسيطاً، يُكمّل أي منصة تستخدمها. ملف يحتوي تشخيصاتك وأدويتك بأسمائها العلمية وحساسياتك ونتائج تحاليلك الرئيسية، تُحدّثه بانتظام، هو ضمان صحي لا يستطيع أي انقطاع بالإنترنت أو توقف في الخدمة أن يسلبك إياه. تذكّر أن تسجّل اسم المادة الفعّالة للدواء وليس الاسم التجاري فقط، حتى يتمكن أي طبيب أو صيدلاني في أي بلد من إيجاد بديل مناسب عند الحاجة."
+     ]
+    }
+   ],
+   "tie": "تُتيح لك سهتك تخزين نتائج تحاليلك وقائمة أدويتك وملاحظاتك الصحية في مكان واحد، فتكون جاهزة للمشاركة في استشارتك الإلكترونية القادمة أو عند كل طبيب جديد يحتاج إلى تاريخك المرضي.",
+   "faqs": [
+    {
+     "q": "هل أستطيع الحصول على وصفة طبية عبر استشارة إلكترونية في الدول العربية؟",
+     "a": "في السعودية والإمارات، تستطيع المنصات الإلكترونية المرخّصة إصدار وصفات رقمية تقبلها معظم الصيدليات. في مصر والأردن ولبنان تتفاوت القواعد حسب المنصة ونوع الدواء. الأدوية الخاضعة للرقابة تستلزم تقريباً في كل الأحوال زيارة شخصية بغض النظر عن البلد."
+    },
+    {
+     "q": "هل يُغطي التأمين الصحي استشارات الطب عن بُعد؟",
+     "a": "التغطية في توسع مستمر. في الإمارات يُعيد معظم شركات التأمين الكبرى تكاليف الاستشارات الإلكترونية عبر المنصات المرخّصة. في السعودية شجّعت الاستراتيجية الرقمية على مشاركة شركات التأمين. في دول عربية أخرى ستدفع في الغالب من جيبك، لكن التكلفة أقل من زيارة العيادة الخاصة."
+    },
+    {
+     "q": "ماذا أفعل إن لم يكن لديّ اتصال إنترنت موثوق؟",
+     "a": "بعض المنصات تتيح مكالمات هاتفية بديلاً عن الفيديو مع تواصل أقل لكنه مفيد. الصيدلاني هو أيضاً جهة تواصل أولى مشروعة للأعراض الشائعة في كثير من دول المنطقة. للأعراض الخطيرة أو غير الواضحة، تبقى الزيارة الشخصية الخيار الصحيح."
+    },
+    {
+     "q": "كيف أعرف إن كانت المنصة الإلكترونية شرعية؟",
+     "a": "تحقق من أنها مرخّصة من الجهة الصحية في بلدك: في السعودية ابحث عن التسجيل ضمن استراتيجية الصحة الرقمية الوطنية، في الإمارات من هيئة الصحة بدبي أو دائرة الصحة أبوظبي، في مصر من وزارة الصحة. المنصة الشرعية تُعلن ترخيصها وسياسة خصوصية البيانات بوضوح."
+    },
+    {
+     "q": "هل يمكن للأطفال تلقي الرعاية عبر الطب عن بُعد؟",
+     "a": "نعم، لكثير من شكاوى الأطفال الشائعة كالطفح الجلدي والحمى الخفيفة عند الأطفال الأكبر سناً والمتابعات. الرضع دون ثلاثة أشهر مع أي حمى، أو الأطفال ذوو صعوبة التنفس، أو من تتفاقم أعراضهم بسرعة، يجب أن يُعرضوا على الطبيب شخصياً فوراً. لا تستخدم الطب عن بُعد لتقييم طفل مريض بشكل خطير."
+    },
+    {
+     "q": "هل معلوماتي الطبية خاصة في مكالمة الطب عن بُعد؟",
+     "a": "ينبغي أن تكون كذلك إن استخدمت منصة مرخّصة بفيديو ومراسلة مشفّرَين وتحفظ البيانات بأمان. تجنّب استخدام تطبيقات الاتصال العامة كواتساب أو فيس تايم للاستشارات الطبية، فهي غير مُصمَّمة لحماية البيانات السريرية."
+    },
+    {
+     "q": "ما هي الحالات التي لا يُجدي فيها الطب عن بُعد على الإطلاق؟",
+     "a": "أي حالة طارئة تستلزم اتصل فيها بالإسعاف مباشرة لا تنتظر أي استشارة إلكترونية. كذلك الأعراض الجديدة غير المشخّصة التي تستلزم فحصاً جسدياً أو تصويراً، مثل الألم البطني الجديد أو كتلة مجهولة، تحتاج زيارة شخصية للتشخيص الدقيق."
+    }
+   ]
+  }
+ }
 }

@@ -1,0 +1,412 @@
+{
+  "slug": "tonsillitis-strep-throat",
+  "category": "infectious-diseases",
+  "chip_ar": "أمراض معدية",
+  "chip_en": "Infectious Diseases",
+  "date_iso": "2026-09-26",
+  "sources": [
+    {"label": "World Health Organization: Rheumatic heart disease fact sheet", "url": "https://www.who.int/news-room/fact-sheets/detail/rheumatic-heart-disease"},
+    {"label": "Al-Baghli NA, Al Saif A, Al Dorazi SA et al: Prevalence of Positive Rapid Antigen Detection Test for Group A Streptococcus Among Patients With Respiratory Symptoms in Eastern Province, Kingdom of Saudi Arabia, Cureus, 2023", "url": "https://pubmed.ncbi.nlm.nih.gov/38090423/"},
+    {"label": "Fareed A, Saleh O, Maklady F et al: Screening for the prevalence of rheumatic heart disease among school children in Egypt, Echocardiography (Mount Kisco, N.Y.), 2023", "url": "https://pubmed.ncbi.nlm.nih.gov/37129364/"},
+    {"label": "Ali Sulafa KM, Karrar ZA, Elkurdufani N et al: Sudan's rheumatic fever and rheumatic heart disease guidelines: a simplified approach in an endemic country, Frontiers in cardiovascular medicine, 2024", "url": "https://pubmed.ncbi.nlm.nih.gov/38798925/"},
+    {"label": "Hamadouk RM, Ibrahim OM, Ahmed MT et al: Non-Prescription Dispensing of Antibiotics in Community Pharmacies in Port Sudan: A Simulated Patient Study Using a Sore Throat Scenario in a Conflict-Affected Setting, Integrated pharmacy research & practice, 2026", "url": "https://pubmed.ncbi.nlm.nih.gov/42859808/"},
+    {"label": "Lakkis NA, Alameddine R, Issa HG et al: Prescribing antibiotics in adults with respiratory tract infections in Lebanon, International journal of clinical practice, 2021", "url": "https://pubmed.ncbi.nlm.nih.gov/34117820/"},
+    {"label": "Guntinas-Lichius O, Geißler K, Mäkitie AA et al: Treatment of recurrent acute tonsillitis-a systematic review and clinical practice recommendations, Frontiers in surgery, 2023", "url": "https://pubmed.ncbi.nlm.nih.gov/37881239/"}
+  ],
+  "content": {
+    "en": {
+      "title": "Tonsillitis and Strep Throat: Do You Need Antibiotics?",
+      "desc": "Most sore throats are viral and heal without antibiotics. Learn the signs that point to strep, how the rapid test works, and why confirmed strep must be treated.",
+      "keywords": "tonsillitis, strep throat, sore throat antibiotics, viral or bacterial sore throat, rapid strep test, Centor score, rheumatic fever, quinsy, tonsillectomy, tonsillitis in children",
+      "h1": "Tonsillitis and strep throat: how to tell viral from bacterial, and when antibiotics really matter",
+      "takeaways": [
+        "Most sore throats and most cases of tonsillitis are caused by viruses and get better within a week without antibiotics.",
+        "Fever, swollen tender neck glands, pus on the tonsils and no cough together point towards strep, especially in children aged 5 to 15.",
+        "A rapid strep test or throat swab is the only reliable way to confirm strep, and it prevents a lot of unnecessary antibiotics.",
+        "When strep is confirmed, finishing the full prescribed course matters because untreated strep can trigger rheumatic fever and lasting heart valve damage.",
+        "Drooling, being unable to swallow, a muffled voice or swelling on one side of the throat need hospital care the same day."
+      ],
+      "sections": [
+        {
+          "h2": "Is my sore throat viral or bacterial?",
+          "paras": [
+            "Most likely viral. The large majority of sore throats, including most cases of tonsillitis, are caused by the same viruses that cause colds and flu. They usually come with a cough, a runny nose, a hoarse voice or red eyes, and they settle on their own within about a week. Antibiotics do nothing for them. The bacterial infection doctors watch for is strep throat, caused by group A streptococcus, a bacterium also known as Streptococcus pyogenes. It is most common in children and teenagers between about 5 and 15 years old, and it is much less common in adults.",
+            "Tonsillitis simply means inflamed tonsils, the two pads of tissue at the back of the throat. It is a description, not a cause, and both viruses and bacteria can produce it. Red, swollen tonsils with white spots look alarming, but they can be caused by a virus too, including the virus behind glandular fever. That is why the appearance of the throat alone is not enough to decide on antibiotics.",
+            "A 2023 study in Dammam, in Saudi Arabia's Eastern Province, gives a sense of the real numbers. Doctors performed a rapid strep test on 469 children and adults who came to primary health centres or a children's emergency department with respiratory symptoms. Only 4.1% tested positive overall. In the primary health centres just 0.6% were positive, compared with 14% of the children seen in the emergency department. In other words, most people who walk into a clinic with a sore throat do not have strep."
+          ],
+          "visual": {
+            "type": "stats",
+            "title": "How often a sore throat was strep, Dammam 2023",
+            "items": [
+              {"value": "4.1%", "label": "positive rapid strep tests overall, of 469 patients", "tone": "info"},
+              {"value": "0.6%", "label": "positive in primary health centres", "tone": "good"},
+              {"value": "14%", "label": "positive in a children's emergency department", "tone": "warn"}
+            ],
+            "source": "Al-Baghli NA et al, Cureus, 2023",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/38090423/"
+          }
+        },
+        {
+          "h2": "Signs that point to strep throat: the Centor and FeverPAIN scores",
+          "paras": [
+            "Doctors use simple scoring systems to estimate how likely a sore throat is to be strep. The best known is the Centor score, which gives one point each for a fever above 38 degrees Celsius, the absence of a cough, swollen and tender glands at the front of the neck, and swelling or pus on the tonsils. A modified version, called the McIsaac score, adds a point for children aged 3 to 14 and takes one away for adults over 45. The FeverPAIN score, used widely in the UK, counts fever in the past day, pus on the tonsils, coming to the doctor within three days of starting, very inflamed tonsils, and no cough or runny nose.",
+            "A low score makes strep unlikely, and most guidelines say no antibiotic and no test is needed. A higher score raises the probability, but even a high score is wrong a good part of the time. In the Dammam study, patients with the maximum score of 5 had the highest positive rate, yet only 33.3% of them actually had strep on the rapid test. The authors concluded that a Centor score of 2 or more should be followed by a confirmatory test rather than an automatic antibiotic.",
+            "Some clues point the other way, towards a virus. A cough, a runny or blocked nose, hoarseness, red itchy eyes, mouth ulcers or diarrhoea all make strep less likely. A sore throat that comes with a fine, rough red rash that feels like sandpaper, often on the neck and chest, can be scarlet fever, which is strep with a rash and does need a doctor."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Clues that point to strep or to a virus",
+            "head": ["Clue", "Points to strep", "Points to a virus"],
+            "rows": [
+              ["Cough", "Absent", "Present"],
+              ["Runny nose, hoarse voice", "Absent", "Present"],
+              ["Fever", "Above 38 degrees", "Mild or none"],
+              ["Neck glands", "Swollen and tender at the front", "Mild or not swollen"],
+              ["Tonsils", "Swollen, often with pus", "Red, sometimes with spots"],
+              ["Age", "5 to 15 years", "Any age, most adults"],
+              ["Rash", "Rough sandpaper rash", "Usually none"]
+            ],
+            "source": "Centor, McIsaac and FeverPAIN criteria, as summarised by Guntinas-Lichius O et al, Frontiers in Surgery, 2023",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/37881239/"
+          }
+        },
+        {
+          "h2": "The rapid strep test and throat swab: what to expect",
+          "paras": [
+            "The rapid antigen detection test, often called the rapid strep test, looks for proteins from group A streptococcus on a swab taken from the back of the throat. The swab takes a few seconds and can make you gag briefly, but it is not painful. The result is usually ready in 10 to 15 minutes, while you are still in the clinic. When the test is positive, it is very reliable, and the Dammam researchers highlighted its high specificity as a way to avoid prescribing antibiotics that are not needed.",
+            "A negative rapid test in an adult with a typical viral picture is usually enough to stop there. In children, some doctors send a second swab for a throat culture, which is grown in the laboratory for a day or two, because the rapid test can occasionally miss strep. If your clinic does not have rapid tests, ask whether a throat culture can be sent to a laboratory. Waiting a day or two for a result is safe for most people, because a short delay in starting treatment does not remove the protection against rheumatic fever.",
+            "Do not take an antibiotic you already have at home before the swab. Even one or two doses can make the test falsely negative, which leaves you and your doctor guessing. If you have already started one, tell the doctor what you took and when."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "What happens at a strep test",
+            "items": [
+              "The doctor checks your temperature, throat and neck glands and works out a score",
+              "If strep is possible, a swab is rubbed over the tonsils and back of the throat",
+              "A rapid test gives a result in about 10 to 15 minutes",
+              "Positive: an antibiotic is prescribed, usually from the penicillin family",
+              "Negative in a child: a throat culture may be sent to the laboratory",
+              "Negative with viral signs: home care, and come back if things get worse"
+            ]
+          }
+        },
+        {
+          "h2": "Why antibiotics are bought for nearly every sore throat, and why it backfires",
+          "paras": [
+            "Across much of the region, a sore throat and an antibiotic go together. The antibiotic can be bought over the counter, the pharmacist is the first and sometimes the only health worker a family sees, and there is a widespread belief that tonsillitis always needs one. Researchers measured this in 2025 in Port Sudan. A trained simulated patient visited 113 community pharmacies describing an acute sore throat. An antibiotic was dispensed without a prescription in 80.5% of visits, and azithromycin made up 76.1% of the antibiotics handed over.",
+            "Doctors' prescriptions follow a similar pattern. A review of prescriptions for employees in Greater Beirut found that 94.6% of adults diagnosed with acute pharyngitis, an inflamed throat, were given an antibiotic, and about a third of those were broad-spectrum third-generation cephalosporins or fluoroquinolones, which are not first-line choices for a sore throat.",
+            "This matters for three reasons. A viral sore throat gets no benefit, while the antibiotic can still cause diarrhoea, rashes and allergic reactions. Overuse breeds resistant bacteria, and azithromycin in particular loses its power against strep when it is used heavily. And antibiotics taken for a few days and then stopped, which is common when bought without advice, may calm the symptoms of a real strep infection without clearing the bacteria. Penicillin and amoxicillin remain the standard first choice for confirmed strep, because group A streptococcus has not become resistant to penicillin."
+          ],
+          "visual": {
+            "type": "donut",
+            "value": 80.5,
+            "label": "of Port Sudan pharmacies sold an antibiotic for a sore throat without a prescription",
+            "tone": "bad",
+            "source": "Hamadouk RM et al, Integrated Pharmacy Research and Practice, 2026",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/42859808/"
+          }
+        },
+        {
+          "h2": "When strep is confirmed: why the full course matters",
+          "paras": [
+            "If a test confirms strep, antibiotics are genuinely useful. They shorten the illness by a day or so, reduce the chance of passing the infection to others, lower the risk of complications such as a tonsil abscess, and above all prevent rheumatic fever. The usual first choice is penicillin V or amoxicillin by mouth. Many guidelines advise a course of about ten days for strep throat, and the length your doctor prescribes is the length to take. For people allergic to penicillin, the doctor will choose an alternative.",
+            "The temptation is to stop once the throat feels better, often after two or three days. That is exactly when the bacteria may still be present in the tonsils. A course cut short is one of the reasons strep can return, and in places where rheumatic fever still occurs, incomplete treatment removes the protection the antibiotic was meant to give. If side effects make it hard to keep going, speak to the doctor or pharmacist rather than simply stopping.",
+            "People with strep throat stop being infectious to others after about 24 hours of the right antibiotic. A child can usually go back to school after a full day of treatment once the fever has gone. Family members who develop a sore throat in the following days should be checked rather than given leftover tablets."
+          ]
+        },
+        {
+          "h2": "Rheumatic fever and rheumatic heart disease: why strep is taken seriously",
+          "paras": [
+            "In a small number of people, usually children, an untreated strep throat is followed two to four weeks later by rheumatic fever. This is not an infection of the heart but an immune reaction: the body's defences, primed against the streptococcus, attack its own tissues. It can cause fever, painful swollen joints that move from one joint to another, a rash, jerky involuntary movements, and inflammation of the heart. Repeated attacks scar the heart valves, a condition called rheumatic heart disease, which can lead to heart failure, stroke and the need for valve surgery in young adults.",
+            "According to the World Health Organization, rheumatic heart disease is the most common acquired heart disease in people under 25. It affects an estimated 55 million people worldwide and causes around 360,000 deaths a year, the large majority in low and middle income countries. It has largely disappeared from wealthy countries, but it has not disappeared from this region.",
+            "In Egypt, a 2023 study screened 1,560 school children aged 6 to 18 in the eastern governorates with heart ultrasound and found definite rheumatic heart disease in 2.3% of them, with leaking of the mitral valve the most common finding. In Sudan, rheumatic heart disease is the leading cause of acquired heart disease in children and young adults, and the Federal Ministry of Health, working with the WHO regional office, issued simplified national guidelines in 2023. They advise primary care workers to treat a sore throat without viral symptoms in school-age children as bacterial, and to start preventive penicillin as soon as rheumatic fever is suspected.",
+            "Anyone who has had rheumatic fever usually needs regular preventive penicillin injections for years to stop further attacks. If your child develops joint pain, breathlessness or unusual movements a few weeks after a sore throat, tell the doctor about the throat infection, because that detail can change the diagnosis."
+          ],
+          "visuals": [
+            {
+              "type": "timeline",
+              "title": "From untreated strep throat to heart damage",
+              "items": [
+                {"when": "Day 0", "what": "Strep throat that is not treated or not fully treated"},
+                {"when": "2 to 4 weeks", "what": "Rheumatic fever: fever, moving joint pains, heart inflammation"},
+                {"when": "Months later", "what": "Further strep infections can trigger repeat attacks"},
+                {"when": "Years later", "what": "Scarred heart valves: rheumatic heart disease"}
+              ],
+              "source": "World Health Organization: Rheumatic heart disease fact sheet",
+              "source_url": "https://www.who.int/news-room/fact-sheets/detail/rheumatic-heart-disease"
+            },
+            {
+              "type": "stats",
+              "title": "Rheumatic heart disease",
+              "items": [
+                {"value": "55 million", "label": "people affected worldwide", "tone": "warn"},
+                {"value": "360,000", "label": "deaths every year", "tone": "bad"},
+                {"value": "2.3%", "label": "of Egyptian school children screened had it", "tone": "bad"}
+              ],
+              "source": "WHO rheumatic heart disease fact sheet; Fareed A et al, Echocardiography, 2023",
+              "source_url": "https://pubmed.ncbi.nlm.nih.gov/37129364/"
+            }
+          ]
+        },
+        {
+          "h2": "How to ease a sore throat at home",
+          "paras": [
+            "Whether the cause is a virus or strep, the same home measures help with the pain. Drink plenty, even when swallowing hurts, because dehydration makes everything feel worse. Cool drinks and soft foods such as yoghurt, soup and ice lollies are often easier than hot, spicy or crunchy foods. Paracetamol or ibuprofen, used as the pack directs, relieve the pain and fever and make it easier to eat and drink.",
+            "Gargling with warm salty water can soothe the throat in adults and older children who can gargle without swallowing. Warm drinks with honey and lemon help many people, but honey should never be given to babies under one year old. Medicated lozenges and throat sprays can numb the throat for a while, though they are not suitable for young children.",
+            "Most viral sore throats improve within three to seven days. See a doctor if the pain is getting worse after three or four days, if the fever is high and persistent, if the sore throat keeps coming back, or if you have a weakened immune system. People taking medicines that lower white blood cells, such as some thyroid, rheumatology and cancer treatments, should get a sore throat with fever checked quickly."
+          ]
+        },
+        {
+          "h2": "Danger signs: quinsy and other throat emergencies",
+          "paras": [
+            "Occasionally tonsillitis leads to a collection of pus beside the tonsil, called a peritonsillar abscess or quinsy. It usually affects one side only. The pain becomes severe and one-sided, swallowing even saliva becomes difficult, the voice sounds muffled as if speaking with a hot potato in the mouth, and it may be hard to open the mouth fully. Quinsy needs hospital treatment, usually draining the pus and antibiotics, and it will not settle with tablets at home.",
+            "Other serious throat infections can spread into the deep tissues of the neck or swell the airway itself. In a child, drooling, leaning forward to breathe, a high-pitched noise when breathing in, or refusing to swallow are warning signs that need emergency care immediately. Do not try to look into the throat of a child who is struggling to breathe, as this can make it worse. Keep the child calm and upright and get to hospital.",
+            "Severe dehydration, a stiff neck with fever, and a rash that does not fade when pressed are also reasons to seek urgent help, because they can point to an infection beyond the throat."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "Go to hospital the same day if",
+            "items": [
+              "Drooling or unable to swallow saliva",
+              "Severe pain on one side of the throat, or swelling on one side of the neck",
+              "A muffled, hot potato voice or difficulty opening the mouth",
+              "Noisy or difficult breathing, or leaning forward to breathe",
+              "Not drinking and very little urine",
+              "Stiff neck, confusion or a rash that does not fade when pressed"
+            ]
+          }
+        },
+        {
+          "h2": "When is tonsillectomy considered?",
+          "paras": [
+            "Removing the tonsils, called tonsillectomy, used to be offered very readily, and many parents in the region still hear it suggested after two or three bad episodes. Current evidence supports a more selective approach. A 2023 systematic review and international consensus on recurrent tonsillitis concluded that surgery is highly effective for people who have had seven or more properly treated episodes in the past year, five or more in each of the past two years, or three or more in each of the past three years.",
+            "The same review recommends counting episodes carefully and recording how much each one affects daily life, school or work, because memory tends to exaggerate. Other reasons doctors consider surgery include repeated quinsy and, in children, tonsils so large that they block breathing at night, causing loud snoring with pauses in breathing, restless sleep and daytime tiredness.",
+            "Tonsillectomy is a common operation, but it is not trivial. Pain after surgery is significant for a week or more, and there is a small risk of bleeding in the days that follow, which is a reason to stay near a hospital during recovery. Many children have fewer throat infections as they grow older even without surgery, so a period of careful observation is often reasonable."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "When tonsillectomy is usually justified",
+            "head": ["Pattern of tonsillitis", "Number of episodes", "Surgery considered?"],
+            "rows": [
+              ["In the past year", "7 or more", "Yes"],
+              ["In each of the past 2 years", "5 or more", "Yes"],
+              ["In each of the past 3 years", "3 or more", "Yes"],
+              ["Fewer episodes than this", "Below threshold", "Usually watch and wait"]
+            ],
+            "source": "Guntinas-Lichius O et al, Frontiers in Surgery, 2023",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/37881239/"
+          }
+        }
+      ],
+      "tie": "Sihtak lets you record each sore throat episode, the test result and the antibiotic course, so you have an accurate count if tonsillectomy is ever discussed. It can also remind you to finish a prescribed course and keep track of preventive injections for anyone who has had rheumatic fever.",
+      "faqs": [
+        {"q": "How do I know if my sore throat needs antibiotics?", "a": "Most sore throats are viral and do not need antibiotics. Fever, no cough, swollen tender neck glands and pus on the tonsils raise the chance of strep, especially in children aged 5 to 15. A rapid strep test or throat swab is the reliable way to decide."},
+        {"q": "Are white spots on the tonsils always bacterial?", "a": "No. White spots or pus can appear with viral infections too, including glandular fever. The appearance of the throat alone cannot tell a virus from strep, which is why a swab test is used."},
+        {"q": "How long does tonsillitis last?", "a": "Viral tonsillitis usually improves within three to seven days. Strep throat treated with the right antibiotic usually feels better within one to three days. Pain that is getting worse after several days, or that is severe on one side, should be checked by a doctor."},
+        {"q": "Why do I have to finish the antibiotic if I feel better?", "a": "Feeling better after two or three days does not mean the strep bacteria have gone from the tonsils. Stopping early raises the chance of the infection returning and reduces the protection against rheumatic fever. Take the length of course your doctor prescribed."},
+        {"q": "Can strep throat damage the heart?", "a": "It can, rarely. An untreated strep throat can be followed weeks later by rheumatic fever, an immune reaction that can scar the heart valves. Rheumatic heart disease is still found in parts of the region, including Egypt and Sudan, which is why confirmed strep is always treated."},
+        {"q": "What is quinsy?", "a": "Quinsy is a collection of pus next to a tonsil, a complication of tonsillitis. It causes severe pain on one side, difficulty swallowing, a muffled voice and trouble opening the mouth. It needs hospital treatment, usually drainage, the same day."},
+        {"q": "Is strep throat contagious?", "a": "Yes, it spreads through droplets and shared cups or utensils. People stop being contagious after about 24 hours of the right antibiotic. Children can usually return to school after a full day of treatment once the fever has gone."},
+        {"q": "When should tonsils be removed?", "a": "Surgery is usually considered after seven or more properly treated episodes in one year, five or more a year for two years, or three or more a year for three years. Repeated quinsy and large tonsils that block breathing during sleep are other reasons. Fewer episodes than this are usually managed without surgery."}
+      ]
+    },
+    "ar": {
+      "title": "التهاب اللوزتين والتهاب الحلق العقدي: متى تحتاج مضادا حيويا؟",
+      "desc": "معظم التهابات الحلق فيروسية وتشفى دون مضاد حيوي. تعرف إلى العلامات التي ترجح البكتيريا العقدية، وكيف يعمل الفحص السريع، ولماذا يجب علاجها كاملا.",
+      "keywords": "التهاب اللوزتين, التهاب الحلق العقدي, مضاد حيوي لالتهاب الحلق, التهاب الحلق فيروسي أم بكتيري, الفحص السريع للعقديات, الحمى الروماتيزمية, خراج اللوزة, استئصال اللوزتين, التهاب اللوز عند الأطفال",
+      "h1": "التهاب اللوزتين والتهاب الحلق العقدي: كيف تفرق بين الفيروسي والبكتيري، ومتى يكون المضاد الحيوي ضروريا فعلا",
+      "takeaways": [
+        "معظم التهابات الحلق ومعظم حالات التهاب اللوزتين سببها فيروسات، وتتحسن خلال أسبوع دون مضاد حيوي.",
+        "الحرارة وتضخم غدد الرقبة المؤلمة والقيح على اللوزتين وغياب السعال معا ترجح البكتيريا العقدية، خاصة بين 5 و15 سنة.",
+        "الفحص السريع للعقديات أو مسحة الحلق هو الطريقة الموثوقة الوحيدة للتأكيد، ويوفر كثيرا من المضادات الحيوية غير اللازمة.",
+        "حين يتأكد الالتهاب العقدي يجب إكمال العلاج كاملا، لأن إهماله قد يؤدي إلى الحمى الروماتيزمية وتلف دائم في صمامات القلب.",
+        "سيلان اللعاب أو العجز عن البلع أو الصوت المكتوم أو التورم في جهة واحدة من الحلق أسباب لمراجعة المستشفى في اليوم نفسه."
+      ],
+      "sections": [
+        {
+          "h2": "هل التهاب حلقي فيروسي أم بكتيري؟",
+          "paras": [
+            "الأرجح أنه فيروسي. الأغلبية الكبيرة من التهابات الحلق، ومنها معظم حالات «التهاب اللوز»، تسببها الفيروسات نفسها التي تسبب الزكام والإنفلونزا. وتأتي عادة مع سعال أو سيلان في الأنف أو بحة في الصوت أو احمرار في العينين، وتهدأ وحدها خلال أسبوع تقريبا. والمضاد الحيوي لا يفعل لها شيئا. أما العدوى البكتيرية التي يهتم بها الأطباء فهي التهاب الحلق العقدي (Strep throat)، الذي تسببه المكورات العقدية من المجموعة أ (Group A Streptococcus)، وتعرف أيضا باسم العقدية المقيحة (Streptococcus pyogenes). وهي أشيع عند الأطفال واليافعين بين 5 و15 سنة تقريبا، وأقل بكثير عند الكبار.",
+            "التهاب اللوزتين (Tonsillitis) يعني ببساطة أن اللوزتين ملتهبتان، وهما الكتلتان اللحميتان في مؤخرة الحلق. إنه وصف للحالة لا تحديد لسببها، والفيروسات والبكتيريا كلاهما قد يسببه. اللوزتان المحمرتان المتورمتان المغطاتان بنقاط بيضاء تثيران قلق الأهل، لكن الفيروس قد يسبب هذا المنظر أيضا، ومنه فيروس داء كثرة الوحيدات أو «حمى التقبيل». لذلك لا يكفي شكل الحلق وحده لاتخاذ قرار المضاد الحيوي.",
+            "دراسة أجريت عام 2023 في الدمام بالمنطقة الشرقية في السعودية تعطي فكرة عن الأرقام الحقيقية. أجرى الأطباء الفحص السريع للعقديات على 469 طفلا وبالغا راجعوا مراكز الرعاية الأولية أو قسم إسعاف الأطفال بأعراض تنفسية. كانت النتيجة إيجابية عند 4.1% فقط من المجموع. وفي مراكز الرعاية الأولية لم تتجاوز النسبة 0.6%، مقابل 14% من الأطفال في قسم الإسعاف. أي أن معظم من يدخلون العيادة بألم في الحلق ليست لديهم عدوى عقدية."
+          ],
+          "visual": {
+            "type": "stats",
+            "title": "كم مرة كان التهاب الحلق عقديا، الدمام 2023",
+            "items": [
+              {"value": "4.1%", "label": "نتائج إيجابية للفحص السريع من أصل 469 مريضا", "tone": "info"},
+              {"value": "0.6%", "label": "نتائج إيجابية في مراكز الرعاية الأولية", "tone": "good"},
+              {"value": "14%", "label": "نتائج إيجابية في قسم إسعاف الأطفال", "tone": "warn"}
+            ],
+            "source": "Al-Baghli NA et al, Cureus, 2023",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/38090423/"
+          }
+        },
+        {
+          "h2": "علامات ترجح الالتهاب العقدي: مقياس سنتور ومقياس FeverPAIN",
+          "paras": [
+            "يستعمل الأطباء أنظمة نقاط بسيطة لتقدير احتمال أن يكون التهاب الحلق عقديا. أشهرها مقياس سنتور (Centor score)، الذي يعطي نقطة واحدة لكل من: حرارة تتجاوز 38 درجة مئوية، وغياب السعال، وتضخم الغدد اللمفاوية في مقدمة الرقبة مع ألمها عند اللمس، وتورم اللوزتين أو وجود قيح عليهما. وهناك نسخة معدلة تسمى مقياس ماك آيزك (McIsaac score)، تضيف نقطة للأطفال بين 3 و14 سنة وتنقص نقطة لمن تجاوزوا 45 سنة. أما مقياس FeverPAIN المستعمل كثيرا في بريطانيا فيحسب الحرارة خلال اليوم الأخير، والقيح على اللوزتين، والمراجعة خلال ثلاثة أيام من البداية، والتهاب اللوزتين الشديد، وغياب السعال والرشح.",
+            "النقاط القليلة تجعل العدوى العقدية مستبعدة، ومعظم الإرشادات تقول إنه لا حاجة لمضاد حيوي ولا لفحص. أما النقاط العالية فترفع الاحتمال، لكنها تخطئ في نسبة لا بأس بها من الحالات. ففي دراسة الدمام كانت أعلى نسبة إيجابية عند من حصلوا على العلامة القصوى 5، ومع ذلك لم تتجاوز 33.3% منهم. ولذلك خلص الباحثون إلى أن من يحصل على نقطتين أو أكثر يحتاج فحصا مؤكدا لا مضادا حيويا تلقائيا.",
+            "وبعض العلامات ترجح الفيروس. السعال، وسيلان الأنف أو انسداده، وبحة الصوت، واحمرار العينين وحكتهما، وتقرحات الفم، والإسهال، كلها تجعل العدوى العقدية أقل احتمالا. أما التهاب الحلق المصحوب بطفح أحمر ناعم خشن الملمس كورق الزجاج، غالبا على الرقبة والصدر، فقد يكون الحمى القرمزية (Scarlet fever)، وهي عدوى عقدية مع طفح وتحتاج إلى طبيب."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "علامات ترجح البكتيريا العقدية أو الفيروس",
+            "head": ["العلامة", "ترجح العقديات", "ترجح الفيروس"],
+            "rows": [
+              ["السعال", "غائب", "موجود"],
+              ["سيلان الأنف وبحة الصوت", "غائبان", "موجودان"],
+              ["الحرارة", "فوق 38 درجة", "خفيفة أو غائبة"],
+              ["غدد الرقبة", "متضخمة ومؤلمة في المقدمة", "طبيعية أو تضخم خفيف"],
+              ["اللوزتان", "متورمتان وغالبا عليهما قيح", "حمراوان وأحيانا عليهما نقاط"],
+              ["العمر", "من 5 إلى 15 سنة", "أي عمر ومعظم الكبار"],
+              ["الطفح", "طفح خشن كورق الزجاج", "غالبا لا يوجد"]
+            ],
+            "source": "Centor, McIsaac and FeverPAIN criteria, as summarised by Guntinas-Lichius O et al, Frontiers in Surgery, 2023",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/37881239/"
+          }
+        },
+        {
+          "h2": "الفحص السريع للعقديات ومسحة الحلق: ماذا تتوقع؟",
+          "paras": [
+            "فحص المستضد السريع (Rapid antigen detection test)، المعروف بالفحص السريع للعقديات، يبحث عن بروتينات البكتيريا العقدية في مسحة تؤخذ من مؤخرة الحلق. تستغرق المسحة ثواني وقد تسبب شعورا قصيرا بالغثيان، لكنها غير مؤلمة. وتظهر النتيجة عادة خلال 10 إلى 15 دقيقة وأنت ما زلت في العيادة. وحين تكون النتيجة إيجابية فهي موثوقة جدا، وقد أبرز باحثو الدمام دقتها العالية وسيلة لتجنب وصف مضادات حيوية لا لزوم لها.",
+            "النتيجة السلبية عند بالغ أعراضه فيروسية واضحة تكفي عادة. أما عند الأطفال فبعض الأطباء يرسلون مسحة ثانية لزرع الحلق (Throat culture)، وفيه تنمى البكتيريا في المختبر يوما أو يومين، لأن الفحص السريع قد يفوته بعض الحالات أحيانا. وإن لم يتوفر الفحص السريع في المركز الصحي القريب منك، فاسأل إن كان ممكنا إرسال مسحة إلى مختبر. وانتظار النتيجة يوما أو يومين آمن لمعظم الناس، لأن التأخر القصير في بدء العلاج لا يلغي الوقاية من الحمى الروماتيزمية.",
+            "لا تأخذ مضادا حيويا موجودا في البيت قبل المسحة. فجرعة أو جرعتان قد تكفيان لجعل النتيجة سلبية كاذبة، فتبقى أنت والطبيب في حيرة. وإن كنت قد بدأت أحدها فعلا، فأخبر الطبيب باسمه ومتى أخذته."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "ما الذي يحدث في فحص العقديات",
+            "items": [
+              "يفحص الطبيب الحرارة والحلق وغدد الرقبة ويحسب النقاط",
+              "إن كانت العدوى العقدية محتملة تؤخذ مسحة من اللوزتين ومؤخرة الحلق",
+              "يعطي الفحص السريع نتيجة خلال 10 إلى 15 دقيقة تقريبا",
+              "النتيجة إيجابية: يوصف مضاد حيوي، غالبا من عائلة البنسلين",
+              "النتيجة سلبية عند طفل: قد ترسل مسحة للزرع في المختبر",
+              "النتيجة سلبية مع علامات فيروسية: عناية منزلية والعودة إن ساءت الحالة"
+            ]
+          }
+        },
+        {
+          "h2": "لماذا يشترى المضاد الحيوي لكل التهاب حلق تقريبا، ولماذا يضر ذلك؟",
+          "paras": [
+            "في كثير من بلادنا يرتبط التهاب الحلق بالمضاد الحيوي ارتباطا شبه تلقائي. فالمضاد الحيوي يباع دون وصفة، والصيدلي هو أول عامل صحي تراه العائلة وأحيانا الوحيد، والاعتقاد شائع بأن «التهاب اللوز لازم له مضاد» أو «إبرة بنسلين». وقد قاس باحثون هذا الأمر عام 2025 في بورتسودان. زار مريض متدرب يمثل دور المريض 113 صيدلية وشكا من التهاب حاد في الحلق. فصرف له مضاد حيوي دون وصفة في 80.5% من الزيارات، وكان الأزيثرومايسين (Azithromycin) يمثل 76.1% من المضادات التي صرفت.",
+            "ووصفات الأطباء ليست بعيدة عن ذلك. فمراجعة لوصفات موظفين في بيروت الكبرى وجدت أن 94.6% من البالغين الذين شخصوا بالتهاب البلعوم الحاد (Acute pharyngitis) أعطوا مضادا حيويا، وكان نحو ثلثها من المضادات واسعة الطيف مثل السيفالوسبورينات من الجيل الثالث أو الفلوروكينولونات، وهي ليست الخيار الأول لالتهاب الحلق.",
+            "لهذا أهمية لثلاثة أسباب. الالتهاب الفيروسي لا يستفيد شيئا، بينما قد يسبب المضاد إسهالا وطفحا وتحسسا. والإفراط في الاستعمال يولد بكتيريا مقاومة، والأزيثرومايسين خصوصا يفقد فعاليته ضد العقديات حين يستعمل بكثرة. والمضاد الذي يؤخذ أياما قليلة ثم يترك، وهذا شائع حين يشترى دون استشارة، قد يهدئ أعراض عدوى عقدية حقيقية دون أن يقضي على البكتيريا. ويبقى البنسلين والأموكسيسيلين (Amoxicillin) الخيار الأول المعتاد للالتهاب العقدي المؤكد، لأن العقديات من المجموعة أ لم تكتسب مقاومة للبنسلين."
+          ],
+          "visual": {
+            "type": "donut",
+            "value": 80.5,
+            "label": "من صيدليات بورتسودان صرفت مضادا حيويا لالتهاب الحلق دون وصفة",
+            "tone": "bad",
+            "source": "Hamadouk RM et al, Integrated Pharmacy Research and Practice, 2026",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/42859808/"
+          }
+        },
+        {
+          "h2": "حين يتأكد الالتهاب العقدي: لماذا يجب إكمال العلاج؟",
+          "paras": [
+            "إذا أكد الفحص وجود العقديات فالمضاد الحيوي مفيد فعلا. إنه يقصر المرض يوما أو نحوه، ويقلل احتمال نقل العدوى، ويخفض خطر المضاعفات مثل خراج اللوزة، والأهم من كل ذلك أنه يقي من الحمى الروماتيزمية. والخيار الأول المعتاد هو البنسلين في (Penicillin V) أو الأموكسيسيلين بالفم. وتنصح كثير من الإرشادات بمدة علاج تقارب عشرة أيام لالتهاب الحلق العقدي، والمدة التي يصفها طبيبك هي المدة التي يجب أن تلتزم بها. ولمن لديه تحسس من البنسلين يختار الطبيب بديلا مناسبا.",
+            "الإغراء الكبير هو التوقف حين يتحسن الحلق، غالبا بعد يومين أو ثلاثة. وهذا بالضبط هو الوقت الذي قد تبقى فيه البكتيريا في اللوزتين. والعلاج الناقص من أسباب عودة الالتهاب العقدي، وفي الأماكن التي ما زالت الحمى الروماتيزمية تظهر فيها، يضيع العلاج الناقص الحماية التي وصف المضاد من أجلها. وإن جعلت الآثار الجانبية الاستمرار صعبا، فكلم الطبيب أو الصيدلي بدل أن تتوقف من تلقاء نفسك.",
+            "يتوقف المصاب بالتهاب الحلق العقدي عن نقل العدوى بعد نحو 24 ساعة من المضاد الحيوي المناسب. ويستطيع الطفل عادة العودة إلى المدرسة بعد يوم كامل من العلاج وزوال الحرارة. وإن أصيب أحد أفراد العائلة بألم في الحلق في الأيام التالية، فليفحص بدل أن يعطى ما تبقى من حبوب أخيه."
+          ]
+        },
+        {
+          "h2": "الحمى الروماتيزمية وأمراض القلب الروماتيزمية: لماذا تؤخذ العقديات بجدية",
+          "paras": [
+            "عند عدد قليل من الناس، وغالبا من الأطفال، قد يتبع التهاب الحلق العقدي غير المعالج بعد أسبوعين إلى أربعة أسابيع ما يسمى الحمى الروماتيزمية (Rheumatic fever). وهي ليست عدوى في القلب، بل رد فعل مناعي: دفاعات الجسم التي تهيأت لمهاجمة العقديات تهاجم أنسجة الجسم نفسه. وقد تسبب حرارة، وآلاما وتورما في المفاصل ينتقل من مفصل إلى آخر، وطفحا، وحركات لا إرادية متقطعة تسمى «الرقص»، والتهابا في القلب. والنوبات المتكررة تترك ندبات على صمامات القلب، وهذه هي أمراض القلب الروماتيزمية (Rheumatic heart disease)، التي قد تؤدي إلى قصور القلب والسكتة الدماغية والحاجة إلى جراحة الصمامات عند شباب في مقتبل العمر.",
+            "بحسب منظمة الصحة العالمية، أمراض القلب الروماتيزمية هي أشيع مرض قلبي مكتسب عند من هم دون الخامسة والعشرين. وتصيب نحو 55 مليون شخص في العالم، وتسبب نحو 360,000 وفاة كل عام، معظمها في البلدان المنخفضة والمتوسطة الدخل. وقد اختفت إلى حد كبير من البلدان الغنية، لكنها لم تختف من منطقتنا.",
+            "ففي مصر فحصت دراسة نشرت عام 2023 قلوب 1,560 تلميذا بين 6 و18 سنة في محافظات شرق البلاد بالأمواج فوق الصوتية (الإيكو)، ووجدت مرضا قلبيا روماتيزميا مؤكدا عند 2.3% منهم، وكان قلس الصمام التاجي أكثر الإصابات شيوعا. وفي السودان تعد أمراض القلب الروماتيزمية السبب الأول لأمراض القلب المكتسبة عند الأطفال والشباب، وقد أصدرت وزارة الصحة الاتحادية بالتعاون مع المكتب الإقليمي لمنظمة الصحة العالمية إرشادات وطنية مبسطة عام 2023. وهي تنصح العاملين في الرعاية الأولية بمعاملة التهاب الحلق الخالي من الأعراض الفيروسية عند الأطفال في سن المدرسة على أنه بكتيري، وببدء البنسلين الوقائي فور الاشتباه بالحمى الروماتيزمية.",
+            "من أصيب بالحمى الروماتيزمية يحتاج عادة إلى حقن بنسلين وقائية منتظمة لسنوات لمنع النوبات الجديدة. وإن ظهر على طفلك ألم في المفاصل أو ضيق في النفس أو حركات غريبة بعد أسابيع من التهاب في الحلق، فأخبر الطبيب بقصة التهاب الحلق، لأن هذه المعلومة قد تغير التشخيص."
+          ],
+          "visuals": [
+            {
+              "type": "timeline",
+              "title": "من التهاب حلق عقدي غير معالج إلى تلف القلب",
+              "items": [
+                {"when": "اليوم 0", "what": "التهاب حلق عقدي لم يعالج أو عولج ناقصا"},
+                {"when": "بعد 2 إلى 4 أسابيع", "what": "حمى روماتيزمية: حرارة وآلام مفاصل متنقلة والتهاب في القلب"},
+                {"when": "بعد أشهر", "what": "التهابات عقدية جديدة قد تثير نوبات متكررة"},
+                {"when": "بعد سنوات", "what": "ندبات في صمامات القلب: مرض القلب الروماتيزمي"}
+              ],
+              "source": "World Health Organization: Rheumatic heart disease fact sheet",
+              "source_url": "https://www.who.int/news-room/fact-sheets/detail/rheumatic-heart-disease"
+            },
+            {
+              "type": "stats",
+              "title": "أمراض القلب الروماتيزمية",
+              "items": [
+                {"value": "55 مليون", "label": "مصاب في العالم", "tone": "warn"},
+                {"value": "360,000", "label": "وفاة كل عام", "tone": "bad"},
+                {"value": "2.3%", "label": "من تلاميذ مصريين فحصوا كانوا مصابين", "tone": "bad"}
+              ],
+              "source": "WHO rheumatic heart disease fact sheet; Fareed A et al, Echocardiography, 2023",
+              "source_url": "https://pubmed.ncbi.nlm.nih.gov/37129364/"
+            }
+          ]
+        },
+        {
+          "h2": "كيف تخفف ألم الحلق في البيت؟",
+          "paras": [
+            "سواء كان السبب فيروسا أو عقديات، فالإجراءات المنزلية نفسها تخفف الألم. اشرب كثيرا حتى لو كان البلع مؤلما، لأن الجفاف يجعل كل شيء أسوأ. المشروبات الباردة والأطعمة الطرية مثل اللبن والشوربة والمهلبية والبوظة أسهل غالبا من الأطعمة الساخنة أو الحارة أو المقرمشة. والباراسيتامول (Paracetamol) أو الإيبوبروفين (Ibuprofen)، حسب تعليمات العلبة، يخففان الألم والحرارة ويسهلان الأكل والشرب.",
+            "الغرغرة بماء دافئ مع ملح قد تريح الحلق عند الكبار والأطفال الأكبر سنا القادرين على الغرغرة دون البلع. والمشروبات الدافئة مع العسل والليمون تريح كثيرين، لكن العسل ممنوع تماما على الرضع دون السنة. وأقراص الاستحلاب وبخاخات الحلق المخدرة قد تخفف الألم لبعض الوقت، لكنها لا تناسب الأطفال الصغار.",
+            "معظم التهابات الحلق الفيروسية تتحسن خلال ثلاثة إلى سبعة أيام. راجع الطبيب إن كان الألم يزداد بعد ثلاثة أو أربعة أيام، أو كانت الحرارة عالية ومستمرة، أو صار التهاب الحلق يتكرر، أو كانت مناعتك ضعيفة. ومن يأخذ أدوية قد تخفض كريات الدم البيضاء، مثل بعض أدوية الغدة الدرقية والروماتيزم والسرطان، عليه أن يفحص التهاب الحلق المصحوب بحرارة بسرعة."
+          ]
+        },
+        {
+          "h2": "علامات الخطر: خراج اللوزة وطوارئ الحلق الأخرى",
+          "paras": [
+            "أحيانا يؤدي التهاب اللوزتين إلى تجمع قيح بجانب اللوزة، يسمى الخراج حول اللوزة (Peritonsillar abscess) أو «الذبحة». وهو يصيب جهة واحدة عادة. يصبح الألم شديدا ومن جهة واحدة، ويصعب بلع حتى اللعاب، ويبدو الصوت مكتوما كأن في الفم لقمة ساخنة، وقد يصعب فتح الفم كاملا. هذا الخراج يحتاج علاجا في المستشفى، غالبا بتفريغ القيح مع المضاد الحيوي، ولن يهدأ بالحبوب في البيت.",
+            "وهناك التهابات حلق خطيرة أخرى قد تمتد إلى الأنسجة العميقة في الرقبة أو تسبب تورما في مجرى التنفس نفسه. عند الطفل تعد سيلان اللعاب، والانحناء إلى الأمام ليتنفس، وصوت حاد عند الشهيق، ورفض البلع، علامات خطر تحتاج إسعافا فوريا. لا تحاول فتح فم طفل يجد صعوبة في التنفس لتنظر في حلقه، فقد يزيد ذلك الحالة سوءا. أبقه هادئا وجالسا واتجه إلى المستشفى.",
+            "والجفاف الشديد، وتصلب الرقبة مع الحرارة، والطفح الذي لا يختفي عند الضغط عليه، أسباب أيضا لطلب المساعدة العاجلة، لأنها قد تشير إلى عدوى تجاوزت الحلق."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "اذهب إلى المستشفى في اليوم نفسه إذا",
+            "items": [
+              "سيلان اللعاب أو العجز عن بلع الريق",
+              "ألم شديد في جهة واحدة من الحلق أو تورم في جهة واحدة من الرقبة",
+              "صوت مكتوم كأن في الفم لقمة ساخنة، أو صعوبة في فتح الفم",
+              "تنفس مصحوب بصوت أو صعب، أو الانحناء إلى الأمام للتنفس",
+              "عدم الشرب وقلة البول الشديدة",
+              "تصلب الرقبة أو التشوش أو طفح لا يختفي عند الضغط"
+            ]
+          }
+        },
+        {
+          "h2": "متى يفكر الطبيب في استئصال اللوزتين؟",
+          "paras": [
+            "كانت عملية استئصال اللوزتين (Tonsillectomy) تقترح بسهولة كبيرة في الماضي، وما زال كثير من الأهل في منطقتنا يسمعون عبارة «لازم نشيل اللوز» بعد نوبتين أو ثلاث. لكن الأدلة الحالية تدعم نهجا أكثر انتقائية. فقد خلصت مراجعة منهجية وتوافق دولي نشرا عام 2023 حول التهاب اللوزتين المتكرر إلى أن الجراحة فعالة جدا لمن أصيب بسبع نوبات أو أكثر عولجت بشكل صحيح خلال السنة الأخيرة، أو خمس نوبات أو أكثر في كل من السنتين الأخيرتين، أو ثلاث نوبات أو أكثر في كل من السنوات الثلاث الأخيرة.",
+            "وتنصح المراجعة نفسها بعد النوبات بدقة وتسجيل مدى تأثير كل منها على الحياة اليومية والمدرسة أو العمل، لأن الذاكرة تميل إلى المبالغة. ومن الأسباب الأخرى التي تدفع الطبيب للتفكير في الجراحة تكرار خراج اللوزة، وعند الأطفال لوزتان كبيرتان تسدان التنفس ليلا فيظهر شخير عال مع توقفات في التنفس ونوم مضطرب ونعاس في النهار.",
+            "استئصال اللوزتين عملية شائعة لكنها ليست بسيطة. الألم بعدها كبير لأسبوع أو أكثر، وهناك خطر صغير للنزف في الأيام التالية، وهذا سبب لأن تبقى قريبا من مستشفى أثناء فترة التعافي. وكثير من الأطفال تقل عندهم التهابات الحلق مع تقدمهم في العمر حتى دون جراحة، لذلك تكون فترة من المراقبة الدقيقة معقولة في حالات كثيرة."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "متى يكون استئصال اللوزتين مبررا عادة",
+            "head": ["نمط الالتهاب", "عدد النوبات", "هل تعتبر الجراحة؟"],
+            "rows": [
+              ["خلال السنة الأخيرة", "7 أو أكثر", "نعم"],
+              ["في كل من السنتين الأخيرتين", "5 أو أكثر", "نعم"],
+              ["في كل من السنوات الثلاث الأخيرة", "3 أو أكثر", "نعم"],
+              ["أقل من ذلك", "دون الحد", "المراقبة غالبا"]
+            ],
+            "source": "Guntinas-Lichius O et al, Frontiers in Surgery, 2023",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/37881239/"
+          }
+        }
+      ],
+      "tie": "يتيح لك تطبيق صحتك تسجيل كل نوبة التهاب في الحلق ونتيجة الفحص ومدة المضاد الحيوي، فيكون لديك عدد دقيق إن طرحت فكرة استئصال اللوزتين يوما. كما يذكرك بإكمال العلاج الموصوف، ويساعدك على متابعة مواعيد حقن البنسلين الوقائية لمن أصيب بالحمى الروماتيزمية.",
+      "faqs": [
+        {"q": "كيف أعرف إن كان التهاب حلقي يحتاج مضادا حيويا؟", "a": "معظم التهابات الحلق فيروسية ولا تحتاج مضادا حيويا. الحرارة وغياب السعال وتضخم غدد الرقبة المؤلمة والقيح على اللوزتين ترفع احتمال العدوى العقدية، خاصة بين 5 و15 سنة. والفحص السريع للعقديات أو مسحة الحلق هو الطريقة الموثوقة للحسم."},
+        {"q": "هل النقاط البيضاء على اللوزتين تعني دائما عدوى بكتيرية؟", "a": "لا. النقاط البيضاء أو القيح قد تظهر في الالتهابات الفيروسية أيضا، ومنها داء كثرة الوحيدات. شكل الحلق وحده لا يفرق بين الفيروس والعقديات، ولهذا يستعمل فحص المسحة."},
+        {"q": "كم يستمر التهاب اللوزتين؟", "a": "الالتهاب الفيروسي يتحسن عادة خلال ثلاثة إلى سبعة أيام. والالتهاب العقدي المعالج بالمضاد المناسب يتحسن غالبا خلال يوم إلى ثلاثة أيام. والألم الذي يزداد بعد عدة أيام، أو الشديد في جهة واحدة، يجب أن يفحصه طبيب."},
+        {"q": "لماذا يجب أن أكمل المضاد الحيوي إذا تحسنت؟", "a": "التحسن بعد يومين أو ثلاثة لا يعني أن البكتيريا العقدية غادرت اللوزتين. التوقف المبكر يرفع احتمال عودة الالتهاب ويضعف الوقاية من الحمى الروماتيزمية. التزم بالمدة التي وصفها طبيبك."},
+        {"q": "هل يمكن أن يؤذي التهاب الحلق العقدي القلب؟", "a": "نعم، في حالات نادرة. فالتهاب الحلق العقدي غير المعالج قد تتبعه بعد أسابيع الحمى الروماتيزمية، وهي رد فعل مناعي قد يترك ندبات في صمامات القلب. وما زالت أمراض القلب الروماتيزمية موجودة في أجزاء من المنطقة ومنها مصر والسودان، ولهذا يعالج الالتهاب العقدي المؤكد دائما."},
+        {"q": "ما هو خراج اللوزة؟", "a": "خراج اللوزة تجمع قيح بجانب إحدى اللوزتين، وهو من مضاعفات التهاب اللوزتين. يسبب ألما شديدا في جهة واحدة وصعوبة في البلع وصوتا مكتوما وصعوبة في فتح الفم. ويحتاج علاجا في المستشفى في اليوم نفسه، غالبا بتفريغ القيح."},
+        {"q": "هل التهاب الحلق العقدي معد؟", "a": "نعم، ينتقل بالرذاذ وبتشارك الأكواب والملاعق. ويتوقف المصاب عن نقل العدوى بعد نحو 24 ساعة من المضاد الحيوي المناسب. ويعود الطفل عادة إلى المدرسة بعد يوم كامل من العلاج وزوال الحرارة."},
+        {"q": "متى يجب استئصال اللوزتين؟", "a": "تعتبر الجراحة عادة بعد سبع نوبات أو أكثر عولجت بشكل صحيح في سنة واحدة، أو خمس نوبات سنويا لسنتين، أو ثلاث نوبات سنويا لثلاث سنوات. ومن الأسباب الأخرى تكرار خراج اللوزة وتضخم اللوزتين الذي يسد التنفس أثناء النوم. أما النوبات الأقل من ذلك فتعالج عادة دون جراحة."}
+      ]
+    }
+  }
+}

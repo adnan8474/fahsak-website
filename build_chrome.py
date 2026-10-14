@@ -22,7 +22,7 @@ GA_ID = "G-JGTTBKMM4G"
 # Bump this whenever a shared .css or .js changes. staticwebapp.config.json
 # caches those for seven days, so without a new query string a returning
 # visitor keeps the old file for a week.
-ASSET_V = "2026081702"
+ASSET_V = "2026101401"
 
 # --------------------------------------------------------------------------
 # taxonomy

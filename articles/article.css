@@ -89,6 +89,14 @@
   line-height: 2;
   margin-bottom: 14px;
 }
+.art-ilink {
+  color: var(--teal);
+  text-decoration: underline;
+  text-decoration-color: var(--teal-glow);
+  text-underline-offset: 4px;
+  text-decoration-thickness: 1px;
+}
+.art-ilink:hover { text-decoration-color: var(--teal); }
 .art-list { margin: 4px 0 14px; padding-inline-start: 22px; }
 .art-list li {
   color: var(--text-m);

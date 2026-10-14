@@ -1,0 +1,332 @@
+{
+  "slug": "stomach-ulcer-peptic-ulcer",
+  "category": "chronic-conditions",
+  "chip_ar": "أمراض مزمنة",
+  "chip_en": "Chronic conditions",
+  "date_iso": "2026-10-08",
+  "sources": [
+    {"label": "Almadi MA, Lu Y, Alali AA et al: Peptic ulcer disease, Lancet (London, England), 2024", "url": "https://pubmed.ncbi.nlm.nih.gov/38885678/"},
+    {"label": "Sharara AI, Alsohaibani FI, Alsaegh A et al: First regional consensus on the management of Helicobacter pylori infection in the Middle East, World journal of gastroenterology, 2025", "url": "https://pubmed.ncbi.nlm.nih.gov/40741103/"},
+    {"label": "Hooi JKY, Lai WY, Ng WK et al: Global Prevalence of Helicobacter pylori Infection: Systematic Review and Meta-Analysis, Gastroenterology, 2017", "url": "https://pubmed.ncbi.nlm.nih.gov/28456631/"},
+    {"label": "Eshraghian A: Epidemiology of Helicobacter pylori infection among the healthy population in Iran and countries of the Eastern Mediterranean Region: a systematic review of prevalence and risk factors, World journal of gastroenterology, 2014", "url": "https://pubmed.ncbi.nlm.nih.gov/25516677/"},
+    {"label": "Dajani A, Dham R, El-Sahhar M et al: Importance of Helicobacter pylori eradcation for maintenance of remission of drug associated peptic ulcer disease, Saudi journal of gastroenterology : official journal of the Saudi Gastroenterology Association, 2006", "url": "https://pubmed.ncbi.nlm.nih.gov/19858579/"},
+    {"label": "Al-Qahtani AM, Shaikh IA, Shaikh MAK et al: Prevalence, Perception, and Practice, and Attitudes Towards Self-Medication Among Undergraduate Medical Students of Najran University, Saudi Arabia: A Cross-Sectional Study, Risk management and healthcare policy, 2022", "url": "https://pubmed.ncbi.nlm.nih.gov/35210887/"},
+    {"label": "Søreide K, Thorsen K, Harrison EM et al: Perforated peptic ulcer, Lancet (London, England), 2015", "url": "https://pubmed.ncbi.nlm.nih.gov/26460663/"}
+  ],
+  "content": {
+    "en": {
+      "title": "Stomach Ulcer: Symptoms, Causes and How It Is Treated",
+      "desc": "Burning pain under the ribs that eases with food, then returns? Learn how ulcers differ from reflux, the two real causes, how treatment works and the danger signs.",
+      "keywords": "stomach ulcer symptoms, peptic ulcer treatment, duodenal ulcer, H. pylori ulcer, ulcer from ibuprofen, ulcer vs acid reflux, black stools ulcer, test of cure H. pylori",
+      "h1": "Stomach ulcer: how to recognise it, what causes it, and how it is treated properly",
+      "takeaways": [
+        "A peptic ulcer is an open sore in the lining of the stomach or the first part of the small bowel, and it usually causes a burning or gnawing pain in the upper middle of the abdomen.",
+        "Almost all ulcers come from one of two causes: the H. pylori stomach germ, or anti-inflammatory painkillers such as ibuprofen, diclofenac and aspirin.",
+        "Treatment combines acid-reducing medicine with, if H. pylori is present, a full course of antibiotics, followed by a test to prove the germ has gone.",
+        "Vomiting blood or material like coffee grounds, black tarry stools, or sudden severe abdominal pain are emergencies that need a hospital the same hour.",
+        "Spicy food and stress do not cause ulcers, but smoking slows healing and painkillers bought without a prescription are a common hidden trigger."
+      ],
+      "sections": [
+        {
+          "h2": "What is a stomach ulcer and what does it feel like?",
+          "paras": [
+            "A stomach ulcer is an open sore in the lining of the stomach. When the same kind of sore forms in the duodenum, the first part of the small bowel just after the stomach, it is called a duodenal ulcer. Doctors group both under the name peptic ulcer. They form when the protective layer of mucus that normally shields the lining is damaged, so stomach acid can eat into the tissue beneath.",
+            "The typical symptom is a burning, gnawing or aching pain in the upper middle of the abdomen, between the bottom of the breastbone and the belly button. It often comes and goes over days or weeks. Many people also notice bloating, early fullness after a small meal, nausea or belching. A duodenal ulcer classically hurts two to three hours after eating or wakes you at night, and eases for a while with food or antacids. A stomach ulcer may hurt more soon after eating.",
+            "These patterns are a guide, not a rule. Many people with ulcers have vague indigestion, and some have no pain at all until the ulcer bleeds. This is especially true when the ulcer was caused by painkillers, because the same tablets that damaged the stomach also dull the pain. A large review published in The Lancet in 2024 estimates that between 0.12 and 1.5 percent of people have an active peptic ulcer in any given year."
+          ]
+        },
+        {
+          "h2": "Is it an ulcer, acid reflux or gastritis?",
+          "paras": [
+            "Upper abdominal discomfort has many causes, and they overlap. Acid reflux, also called heartburn or GERD, is acid rising up into the food pipe. It burns behind the breastbone, often climbs towards the throat, and is worse after a heavy meal, when lying down or when bending over. An ulcer pain sits lower, in the pit of the stomach, and does not usually rise into the chest or leave a sour taste in the mouth.",
+            "Gastritis means inflammation of the stomach lining without an open sore. It can cause very similar burning and nausea, and the same two causes, H. pylori and painkillers, are behind most cases. Gallstones cause a severe, steady pain under the right ribs that can spread to the back and often follows a fatty meal. Functional dyspepsia is the name for ongoing indigestion where tests find no ulcer or other cause, and it is actually more common than ulcers.",
+            "You cannot reliably tell these apart by symptoms alone, and that matters because the treatment differs. If your symptoms keep returning, if you are relying on antacids every day, or if you are older or have any of the warning signs in the next section, a doctor should assess you rather than leaving you to guess."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "How the common causes of upper abdominal pain usually differ",
+            "head": ["Condition", "Where it hurts", "Typical pattern", "What usually helps"],
+            "rows": [
+              ["Duodenal ulcer", "Pit of the stomach", "Hours after meals, or at night", "Eating or antacids, briefly"],
+              ["Stomach ulcer", "Pit of the stomach", "Soon after eating", "Acid-reducing medicine"],
+              ["Acid reflux", "Behind the breastbone, rising to the throat", "After big meals, lying down, bending", "Sitting upright, smaller meals"],
+              ["Gastritis", "Upper abdomen, diffuse", "Burning, nausea, fullness", "Treating the cause"],
+              ["Gallstones", "Under the right ribs, into the back", "Severe attacks after fatty food", "Needs medical review"]
+            ]
+          }
+        },
+        {
+          "h2": "Warning signs: when a stomach ulcer is an emergency",
+          "paras": [
+            "Most ulcers are treated at home with tablets. Two complications, bleeding and perforation, are emergencies. An ulcer that erodes into a blood vessel can bleed heavily. You may vomit fresh red blood, or dark brown material that looks like coffee grounds, which is blood that has been partly digested by acid. Blood that passes through the bowel turns the stool black, sticky and tar-like with a very strong smell. Dizziness, fainting, a fast heartbeat or pale, clammy skin mean you have already lost a lot of blood.",
+            "Perforation means the ulcer has worn a hole right through the wall of the stomach or duodenum, so its contents leak into the abdomen. The pain is sudden, severe and constant, often described as the worst pain of your life, and the abdomen becomes hard and tender to touch. A 2015 review in The Lancet reports that perforated ulcers carry a death rate of up to 30 percent, and that early surgery and prompt treatment of infection are what save lives.",
+            "In either case, do not wait to see whether it settles, do not drive yourself, and do not take more painkillers. Go to the nearest hospital emergency department or call an ambulance. Black stools from iron tablets or bismuth medicines can look similar, but they are not sticky and tarry, and if you are unsure it is always safer to be checked."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "Go to hospital now if you have",
+            "items": [
+              "Vomiting blood, or vomit that looks like coffee grounds",
+              "Black, sticky, tar-like stools",
+              "Sudden severe abdominal pain, especially if your belly feels hard",
+              "Dizziness, fainting, a racing heart or cold clammy skin with stomach symptoms",
+              "Repeated vomiting so that you cannot keep food or water down"
+            ]
+          }
+        },
+        {
+          "h2": "What causes stomach ulcers? H. pylori and painkillers",
+          "paras": [
+            "Two causes account for the great majority of ulcers. The first is Helicobacter pylori, usually called H. pylori, a bacterium that lives in the lining of the stomach. It weakens the protective mucus, triggers inflammation and in some people increases acid production, which together allow an ulcer to form. Most infected people never get an ulcer, but the infection is so common that it remains the leading cause worldwide.",
+            "H. pylori is especially widespread in the Middle East and North Africa. A 2017 analysis of studies from 62 countries estimated that about 4.4 billion people carried the germ in 2015, with the highest rates in Africa. A 2014 review of studies across the Eastern Mediterranean region found rates in healthy adults ranging from 22 to 87.6 percent, and the first Middle East consensus on H. pylori, published in 2025, reports infection in 85 to 90 percent of adults in some regional studies. It usually spreads in childhood through contaminated food, water and close family contact.",
+            "The second cause is anti-inflammatory painkillers, known as NSAIDs, which include ibuprofen, diclofenac, naproxen, mefenamic acid and aspirin, even at the low dose used to protect the heart. They block substances that the stomach needs to make its protective mucus. We cover how H. pylori is tested in our guide to H. pylori testing, and who should avoid these painkillers in our guide to ibuprofen and NSAID risks, so here we focus on how they lead to ulcers and what to do about it."
+          ],
+          "visual": {
+            "type": "stats",
+            "title": "The scale of the two main causes",
+            "items": [
+              {"value": "4.4 billion", "label": "people estimated to carry H. pylori worldwide in 2015", "tone": "info"},
+              {"value": "85 to 90%", "label": "of adults infected in some Middle East studies", "tone": "warn"},
+              {"value": "52.7%", "label": "of self-medicating Najran medical students used painkillers and NSAIDs", "tone": "bad"}
+            ],
+            "source": "Hooi et al, Gastroenterology 2017; Sharara et al, World J Gastroenterol 2025; Al-Qahtani et al, 2022",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/40741103/"
+          }
+        },
+        {
+          "h2": "Painkillers bought without a prescription: the hidden cause",
+          "paras": [
+            "Across the region, anti-inflammatory painkillers are easy to buy. A pharmacist will sell a strip of ibuprofen or diclofenac for back pain, a diclofenac injection is given for a sore knee, and cold and flu sachets often contain an NSAID without the buyer realising. A 2022 survey of medical students in Najran, Saudi Arabia, found that 60 percent had treated themselves with medicines in the previous six months, and that painkillers and NSAIDs were the most common choice, used by more than half of them. If future doctors do this, the general public does it more.",
+            "The risk of an ulcer rises with higher doses, longer use, and taking two NSAIDs together, for example a diclofenac tablet plus an ibuprofen cold remedy. It is much higher in people over 65, in anyone who has had an ulcer before, and when NSAIDs are combined with steroid tablets, blood thinners such as warfarin, or some antidepressants. Taking the tablets with food reduces stomach upset but does not prevent ulcers, because the damage happens through the bloodstream as well as directly.",
+            "If you take a daily low-dose aspirin or another blood thinner prescribed after a heart attack or stroke, do not stop it on your own because of stomach symptoms. Stopping can be dangerous. Speak to your doctor, who may add a stomach-protecting medicine. For everyday pain, paracetamol is usually gentler on the stomach, but ask a pharmacist what suits you and how much is safe."
+          ]
+        },
+        {
+          "h2": "Spicy food, stress and fasting: what does and does not cause ulcers",
+          "paras": [
+            "For most of the twentieth century, ulcers were blamed on stress and spicy food, and patients were put on bland milk diets. We now know that neither causes ulcers. Chilli, falafel, pickles or strong coffee may make an existing ulcer or gastritis hurt more, so it is sensible to avoid whatever triggers your pain, but cutting them out will not heal the ulcer. Milk soothes for a few minutes and then stimulates more acid, so it is not a treatment.",
+            "Severe physical stress is different. People who are critically ill in intensive care, after major burns, surgery or serious injury, can develop stress ulcers, which is why hospitals often give them stomach protection. Everyday emotional stress may make symptoms feel worse but is not a recognised cause on its own.",
+            "Smoking increases the risk of ulcers and slows their healing, and heavy alcohol use irritates the stomach lining. During Ramadan, long fasting hours followed by large meals can make ulcer and reflux symptoms worse. If you have an ulcer or take ulcer medicine, ask your doctor before Ramadan how to time your tablets around suhoor and iftar. A small number of ulcers have rare causes, such as a hormone-producing tumour, which a specialist looks for when ulcers keep coming back without H. pylori or painkillers."
+          ]
+        },
+        {
+          "h2": "How is a stomach ulcer diagnosed?",
+          "paras": [
+            "The only way to see an ulcer is an upper endoscopy, sometimes called a gastroscopy. A thin flexible camera is passed through the mouth into the stomach and duodenum, usually under a throat spray or light sedation, and it takes about ten to fifteen minutes. The doctor can see the ulcer, stop bleeding if there is any, and take small tissue samples to test for H. pylori and to rule out cancer.",
+            "Not everyone with indigestion needs an endoscopy. Younger people without warning signs are often tested for H. pylori with a breath or stool test and treated if it is positive. Endoscopy is recommended for people over about 55 with new symptoms, and at any age if there is weight loss, difficulty swallowing, repeated vomiting, anaemia, a family history of stomach cancer, or signs of bleeding. Age thresholds differ between countries, so follow your doctor's advice.",
+            "A stomach ulcer, as opposed to a duodenal one, is often checked with a second endoscopy after treatment, usually six to twelve weeks later. This is because a small number of stomach cancers look like ordinary ulcers at first, and seeing the ulcer heal completely is reassurance. If your doctor books a follow-up endoscopy, it is important to attend."
+          ]
+        },
+        {
+          "h2": "How is a stomach ulcer treated?",
+          "paras": [
+            "Ulcer treatment has two goals: heal the sore, and remove the cause so it does not come back. Healing is done with acid-reducing medicine, most often a proton pump inhibitor, or PPI, such as omeprazole, esomeprazole, lansoprazole or pantoprazole. These cut acid production sharply and are usually prescribed for four to eight weeks. Pain often improves within days, but the ulcer takes weeks to heal, so finishing the course matters.",
+            "If H. pylori is found, you will be given eradication therapy, a combination of a PPI with two or three antibiotics, sometimes with bismuth, taken together for usually ten to fourteen days. The exact combination depends on local antibiotic resistance. The 2025 Middle East consensus warns that resistance to clarithromycin, an antibiotic used in standard triple therapy, is rising across the region and is a leading reason for treatment failure, so doctors increasingly choose regimens that avoid it. Side effects such as a metallic taste, loose stools or nausea are common and usually manageable. Ask your doctor before stopping early.",
+            "If painkillers caused the ulcer, the doctor will advise stopping or changing them where possible. When an NSAID is truly needed, it may be continued with a PPI to protect the stomach. A study of 138 Middle Eastern outpatients on long-term NSAIDs with ulcers or erosions found that 90.6 percent had healed after five weeks of PPI treatment, that H. pylori was cleared in 85.5 percent of those treated for it, and that about 86 percent stayed healed after twenty weeks on a lower maintenance dose."
+          ],
+          "visual": {
+            "type": "bar",
+            "title": "Outcomes in Middle Eastern NSAID users treated for ulcers",
+            "unit": "%",
+            "max": 100,
+            "items": [
+              {"label": "Ulcers healed at 5 weeks", "value": 90.6, "tone": "good", "highlight": true},
+              {"label": "H. pylori cleared by treatment", "value": 85.5, "tone": "good"},
+              {"label": "Still healed at 20 weeks (lower dose)", "value": 86, "tone": "info"}
+            ],
+            "source": "Dajani et al, Saudi Journal of Gastroenterology, 2006",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/19858579/"
+          }
+        },
+        {
+          "h2": "Why the full course and a test of cure matter",
+          "paras": [
+            "Feeling better is not proof that H. pylori has gone. The antibiotics fail in a meaningful share of people, especially where resistance is high, and an ulcer is likely to return if the germ survives. In the Middle Eastern study above, every patient whose H. pylori infection persisted had a relapse. Missing doses or stopping when the pain goes is one of the main reasons treatment fails, and it also helps resistant bacteria to spread.",
+            "That is why guidelines recommend a test of cure, a breath test or stool antigen test done at least four weeks after the antibiotics finish. PPIs can hide the germ and give a falsely negative result, so they are usually stopped about two weeks before the test if your doctor agrees. A blood antibody test is not suitable for this, because antibodies remain for months or years after the germ has gone. Our guide to H. pylori testing explains each test in detail.",
+            "If the test of cure is positive, a different antibiotic combination is used, not a repeat of the first one. Once you are clear, reinfection in adults is uncommon. To keep an ulcer from returning, avoid unnecessary NSAIDs, stop smoking, and tell any doctor or pharmacist that you have had an ulcer before they recommend a painkiller."
+          ],
+          "visual": {
+            "type": "timeline",
+            "title": "A typical treatment journey for an H. pylori ulcer",
+            "items": [
+              {"when": "Day 0", "what": "Ulcer found on endoscopy and H. pylori confirmed"},
+              {"when": "Days 1 to 14", "what": "Eradication course of acid medicine plus antibiotics, every dose taken"},
+              {"when": "Weeks 2 to 8", "what": "Acid-reducing medicine continues while the ulcer heals"},
+              {"when": "About 2 weeks before testing", "what": "PPI paused if your doctor agrees"},
+              {"when": "At least 4 weeks after antibiotics", "what": "Breath or stool test to confirm the germ has gone"},
+              {"when": "6 to 12 weeks", "what": "Repeat endoscopy for stomach ulcers, if your doctor advises"}
+            ]
+          }
+        }
+      ],
+      "tie": "In the Sihtak app you can record your ulcer medicines and set reminders so that you finish every dose of the eradication course, and note the date your test of cure is due. Add your regular medicines to your profile so the health assistant can flag painkillers that may harm your stomach. It supports your doctor's care and does not replace it.",
+      "faqs": [
+        {"q": "How long does a stomach ulcer take to heal?", "a": "With acid-reducing medicine, most ulcers heal within four to eight weeks, although pain often improves within the first few days. Healing is only lasting if the cause, H. pylori or painkillers, is dealt with. Stomach ulcers are often checked with a repeat endoscopy to confirm complete healing."},
+        {"q": "Can a stomach ulcer heal on its own?", "a": "Some small ulcers heal temporarily without treatment, but they tend to come back if H. pylori is still present or painkillers are continued. An untreated ulcer can also bleed or perforate. It is safer to have it assessed and treated properly."},
+        {"q": "Does spicy food cause stomach ulcers?", "a": "No, spicy food does not cause ulcers. It may make existing ulcer or gastritis pain worse, so it is reasonable to avoid foods that trigger your symptoms while you heal. The real causes are H. pylori and anti-inflammatory painkillers."},
+        {"q": "What does an ulcer bleed look like?", "a": "You may vomit fresh blood or dark material like coffee grounds, or pass black, sticky, tar-like stools. You may also feel dizzy, weak or faint. Any of these signs needs a hospital emergency department straight away."},
+        {"q": "Can I take ibuprofen if I have had a stomach ulcer?", "a": "People who have had an ulcer are at much higher risk of another one with NSAIDs such as ibuprofen and diclofenac. Ask your doctor or pharmacist before taking any painkiller, as paracetamol is often a gentler choice. If an NSAID is truly needed, your doctor may add a stomach-protecting medicine."},
+        {"q": "Why do I need a test after finishing H. pylori treatment?", "a": "Treatment does not work for everyone, particularly where antibiotic resistance is common, and the ulcer can return if the germ survives. A breath or stool test at least four weeks after the antibiotics shows whether it has gone. A blood antibody test cannot confirm cure."},
+        {"q": "Is a stomach ulcer cancer?", "a": "Most stomach ulcers are not cancer. A small number of stomach cancers can look like an ulcer at first, which is why doctors take samples during endoscopy and often recheck stomach ulcers after treatment. Duodenal ulcers are very rarely cancerous."}
+      ]
+    },
+    "ar": {
+      "title": "قرحة المعدة: الأعراض والأسباب وطريقة العلاج",
+      "desc": "حرقة أو ألم تحت الأضلاع يهدأ مع الأكل ثم يعود؟ تعرف على الفرق بين القرحة والارتجاع، والسببين الحقيقيين، وكيف تعالج، ومتى تكون حالة طارئة.",
+      "keywords": "قرحة المعدة, أعراض قرحة المعدة, قرحة الاثني عشر, علاج قرحة المعدة, جرثومة المعدة والقرحة, القرحة من المسكنات, الفرق بين القرحة والارتجاع, البراز الأسود",
+      "h1": "قرحة المعدة: كيف تعرفها، وما الذي يسببها، وكيف تعالج بالشكل الصحيح",
+      "takeaways": [
+        "القرحة الهضمية جرح مفتوح في بطانة المعدة أو في الجزء الأول من الأمعاء الدقيقة، وتسبب غالبا ألما حارقا أو قارضا في أعلى منتصف البطن.",
+        "معظم القرحات سببها واحد من اثنين: جرثومة المعدة، أو مسكنات الالتهاب مثل الإيبوبروفين والديكلوفيناك والأسبرين.",
+        "العلاج يجمع بين دواء يخفض الحمض، ومع وجود الجرثومة كورس كامل من المضادات الحيوية، ثم تحليل يثبت أن الجرثومة زالت.",
+        "تقيؤ الدم أو مادة تشبه تفل القهوة، أو البراز الأسود كالقطران، أو ألم البطن المفاجئ الشديد، حالات طارئة تحتاج إلى المستشفى فورا.",
+        "الأكل الحار والتوتر لا يسببان القرحة، لكن التدخين يبطئ شفاءها، والمسكنات التي تشترى دون وصفة سبب خفي شائع."
+      ],
+      "sections": [
+        {
+          "h2": "ما هي قرحة المعدة وكيف تشعر بها؟",
+          "paras": [
+            "قرحة المعدة (Gastric ulcer) جرح مفتوح في بطانة المعدة. وإذا تكون الجرح نفسه في الاثني عشر، وهو الجزء الأول من الأمعاء الدقيقة بعد المعدة مباشرة، سمي قرحة الاثني عشر (Duodenal ulcer). ويجمع الأطباء النوعين تحت اسم القرحة الهضمية (Peptic ulcer). تتكون القرحة عندما تتضرر طبقة المخاط التي تحمي البطانة عادة، فيبدأ حمض المعدة بأكل النسيج تحتها.",
+            "العرض المعروف هو ألم حارق أو قارض أو مكتوم في أعلى منتصف البطن، بين أسفل عظمة القص والسرة، أو ما يسميه الناس فم المعدة. يأتي الألم ويذهب على مدى أيام أو أسابيع، وقد يرافقه انتفاخ وشبع سريع بعد لقمات قليلة وغثيان وتجشؤ. قرحة الاثني عشر تؤلم عادة بعد ساعتين أو ثلاث من الأكل أو توقظك ليلا، وتهدأ قليلا مع الطعام أو مضادات الحموضة. أما قرحة المعدة فقد يشتد ألمها بعد الأكل بقليل.",
+            "هذه الأنماط دليل تقريبي وليست قاعدة. كثير من المصابين يشعرون بعسر هضم غامض فقط، وبعضهم لا يشعر بأي ألم حتى تنزف القرحة. ويحدث هذا خاصة عندما تكون المسكنات هي السبب، لأن الحبوب نفسها التي جرحت المعدة تخفي الألم أيضا. وتقدر مراجعة كبيرة نشرت في مجلة لانسيت (The Lancet) عام 2024 أن ما بين 0.12 و1.5 بالمئة من الناس لديهم قرحة نشطة في أي سنة."
+          ]
+        },
+        {
+          "h2": "هل هي قرحة أم ارتجاع أم التهاب معدة؟",
+          "paras": [
+            "لألم أعلى البطن أسباب كثيرة متداخلة. الارتجاع المريئي (GERD)، أو ما يعرف بالحرقة، هو صعود الحمض إلى المريء. يحرق خلف عظمة القص ويصعد نحو الحلق، ويشتد بعد وجبة دسمة كالمنسف أو المحاشي، وعند الاستلقاء أو الانحناء. أما ألم القرحة فيكون أسفل من ذلك في فم المعدة، ولا يصعد عادة إلى الصدر ولا يترك طعما حامضا في الفم.",
+            "التهاب المعدة (Gastritis) التهاب في بطانة المعدة دون جرح مفتوح، ويسبب حرقة وغثيانا مشابهين، ووراء معظم حالاته السببان نفسهما: الجرثومة والمسكنات. وحصى المرارة تسبب ألما شديدا ثابتا تحت الأضلاع اليمنى قد يمتد إلى الظهر، وغالبا بعد وجبة دسمة. وعسر الهضم الوظيفي اسم لعسر هضم مستمر لا تجد فيه الفحوص قرحة أو سببا آخر، وهو في الحقيقة أكثر شيوعا من القرحة.",
+            "لا يمكنك التمييز بين هذه الحالات بالأعراض وحدها، وهذا مهم لأن العلاج يختلف. إذا تكررت أعراضك، أو صرت تعتمد على مضادات الحموضة كل يوم، أو كنت متقدما في العمر، أو ظهرت عليك إحدى علامات الخطر في القسم التالي، فيجب أن يقيمك الطبيب بدل أن تبقى تخمن."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "كيف تختلف أسباب ألم أعلى البطن عادة",
+            "head": ["الحالة", "مكان الألم", "النمط المعتاد", "ما يخففه غالبا"],
+            "rows": [
+              ["قرحة الاثني عشر", "فم المعدة", "بعد الأكل بساعات أو ليلا", "الأكل أو مضادات الحموضة لفترة قصيرة"],
+              ["قرحة المعدة", "فم المعدة", "بعد الأكل بقليل", "الأدوية المخفضة للحمض"],
+              ["الارتجاع المريئي", "خلف القص صعودا إلى الحلق", "بعد الوجبات الكبيرة وعند الاستلقاء", "الجلوس مستقيما والوجبات الصغيرة"],
+              ["التهاب المعدة", "أعلى البطن بشكل عام", "حرقة وغثيان وامتلاء", "علاج السبب"],
+              ["حصى المرارة", "تحت الأضلاع اليمنى وإلى الظهر", "نوبات شديدة بعد الأكل الدسم", "يحتاج إلى تقييم طبي"]
+            ]
+          }
+        },
+        {
+          "h2": "علامات الخطر: متى تصبح قرحة المعدة حالة طارئة؟",
+          "paras": [
+            "معظم القرحات تعالج في البيت بالحبوب، لكن هناك مضاعفتين طارئتين هما النزيف والانثقاب. القرحة التي تأكل جدار وعاء دموي قد تنزف بغزارة، فتتقيأ دما أحمر، أو مادة بنية داكنة تشبه تفل القهوة، وهي دم هضمه الحمض جزئيا. والدم الذي يمر في الأمعاء يجعل البراز أسود لزجا كالقطران برائحة قوية جدا. والدوخة والإغماء وتسارع القلب وشحوب الجلد وبرودته تعني أنك فقدت كمية كبيرة من الدم.",
+            "الانثقاب يعني أن القرحة ثقبت جدار المعدة أو الاثني عشر كاملا، فتسرب محتواها إلى تجويف البطن. يكون الألم مفاجئا شديدا مستمرا، يصفه كثيرون بأنه أسوأ ألم مر بهم، ويصبح البطن قاسيا كاللوح ومؤلما عند اللمس. وتذكر مراجعة نشرت في لانسيت عام 2015 أن نسبة الوفاة في القرحة المنثقبة تصل إلى 30 بالمئة، وأن الجراحة المبكرة وعلاج الالتهاب بسرعة هما ما ينقذ الحياة.",
+            "في الحالتين لا تنتظر لترى إن كان الأمر سيهدأ، ولا تقد السيارة بنفسك، ولا تأخذ مزيدا من المسكنات. اذهب إلى أقرب قسم طوارئ أو اطلب الإسعاف. قد تجعل حبوب الحديد أو أدوية البزموت البراز أسود أيضا، لكنه لا يكون لزجا كالقطران، وإذا شككت فالأسلم دائما أن تفحص."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "اذهب إلى المستشفى فورا إذا كان لديك",
+            "items": [
+              "تقيؤ دم، أو قيء يشبه تفل القهوة",
+              "براز أسود لزج كالقطران",
+              "ألم بطن مفاجئ وشديد، خاصة إذا صار البطن قاسيا",
+              "دوخة أو إغماء أو تسارع في القلب أو جلد بارد متعرق مع أعراض المعدة",
+              "قيء متكرر يمنعك من الاحتفاظ بالطعام أو الماء"
+            ]
+          }
+        },
+        {
+          "h2": "ما أسباب قرحة المعدة؟ الجرثومة والمسكنات",
+          "paras": [
+            "سببان يفسران الغالبية العظمى من القرحات. الأول جرثومة المعدة، أو الملوية البوابية (H. pylori)، وهي بكتيريا تعيش في بطانة المعدة. تضعف هذه الجرثومة طبقة المخاط الواقية، وتثير الالتهاب، وترفع إفراز الحمض عند بعض الناس، فتتهيأ الظروف لتكون القرحة. معظم المصابين بها لا تصيبهم قرحة أبدا، لكنها منتشرة إلى درجة تجعلها السبب الأول للقرحة في العالم.",
+            "وهذه الجرثومة منتشرة بشكل خاص في الشرق الأوسط وشمال أفريقيا. قدر تحليل لدراسات من 62 دولة نشر عام 2017 أن نحو 4.4 مليار إنسان كانوا يحملونها عام 2015، وأن أعلى النسب في أفريقيا. ووجدت مراجعة لدراسات إقليم شرق المتوسط نشرت عام 2014 أن النسبة بين البالغين الأصحاء تتراوح من 22 إلى 87.6 بالمئة، وأول إجماع شرق أوسطي حول الجرثومة، المنشور عام 2025، يذكر نسب إصابة بين 85 و90 بالمئة عند البالغين في بعض دراسات المنطقة. تنتقل غالبا في الطفولة عبر الطعام والماء الملوثين والمخالطة العائلية القريبة.",
+            "السبب الثاني هو مسكنات الالتهاب غير الستيرويدية (NSAIDs)، ومنها الإيبوبروفين والديكلوفيناك والنابروكسين وحمض الميفيناميك والأسبرين، حتى بالجرعة الصغيرة التي تؤخذ لحماية القلب. هذه الأدوية تعطل مواد تحتاجها المعدة لصنع مخاطها الواقي. شرحنا تحاليل الجرثومة في دليل تحليل جرثومة المعدة، وشرحنا من يجب أن يتجنب هذه المسكنات في دليل مخاطر الإيبوبروفين ومضادات الالتهاب، لذلك نركز هنا على كيف تسبب القرحة وماذا تفعل."
+          ],
+          "visual": {
+            "type": "stats",
+            "title": "حجم السببين الرئيسيين",
+            "items": [
+              {"value": "4.4 مليار","label": "إنسان قدر أنهم يحملون جرثومة المعدة في العالم عام 2015", "tone": "info"},
+              {"value": "85 إلى 90%","label": "من البالغين مصابون بالجرثومة في بعض دراسات الشرق الأوسط", "tone": "warn"},
+              {"value": "52.7%", "label": "من طلاب الطب في نجران الذين عالجوا أنفسهم استخدموا المسكنات ومضادات الالتهاب", "tone": "bad"}
+            ],
+            "source": "Hooi et al, Gastroenterology 2017; Sharara et al, World J Gastroenterol 2025; Al-Qahtani et al, 2022",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/40741103/"
+          }
+        },
+        {
+          "h2": "مسكنات تشترى دون وصفة: السبب الخفي للقرحة",
+          "paras": [
+            "في بلادنا يسهل شراء مسكنات الالتهاب. يبيع الصيدلي شريط إيبوبروفين أو ديكلوفيناك لألم الظهر، وتعطى إبرة ديكلوفيناك لألم الركبة أو المغص الكلوي، وكثير من أظرف الرشح والزكام تحتوي على مسكن التهاب دون أن ينتبه المشتري. ووجد مسح نشر عام 2022 على طلاب الطب في نجران بالسعودية أن 60 بالمئة منهم عالجوا أنفسهم بالأدوية خلال الأشهر الستة السابقة، وأن المسكنات ومضادات الالتهاب كانت الاختيار الأكثر شيوعا، واستخدمها أكثر من نصفهم. وإذا كان أطباء المستقبل يفعلون ذلك، فعامة الناس يفعلونه أكثر.",
+            "يزداد خطر القرحة مع الجرعات الأعلى والاستعمال الأطول، ومع الجمع بين مسكنين من النوع نفسه، مثل حبة ديكلوفيناك مع ظرف زكام فيه إيبوبروفين. ويكون الخطر أعلى بكثير بعد سن 65، وعند من أصيب بقرحة سابقا، وعند الجمع مع حبوب الكورتيزون أو مميعات الدم مثل الوارفارين أو بعض أدوية الاكتئاب. وتناول الحبوب مع الطعام يخفف اضطراب المعدة لكنه لا يمنع القرحة، لأن الضرر يحدث عبر الدم أيضا لا عبر التماس المباشر فقط.",
+            "إذا كنت تتناول أسبرين يوميا بجرعة صغيرة أو مميعا آخر وصفه لك الطبيب بعد جلطة قلبية أو دماغية، فلا توقفه من تلقاء نفسك بسبب أعراض المعدة، فإيقافه قد يكون خطيرا. تحدث مع طبيبك، فقد يضيف دواء يحمي المعدة. أما للآلام اليومية فالباراسيتامول ألطف على المعدة عادة، لكن اسأل الصيدلي عما يناسبك والكمية الآمنة."
+          ]
+        },
+        {
+          "h2": "الأكل الحار والتوتر والصيام: ما الذي يسبب القرحة وما الذي لا يسببها",
+          "paras": [
+            "ظل الناس عقودا يلومون التوتر والأكل الحار على القرحة، وكان المرضى يوضعون على حمية الحليب والطعام المسلوق. اليوم نعرف أن أيا منهما لا يسبب القرحة. الشطة والفلافل والمخللات والقهوة الثقيلة قد تزيد ألم قرحة موجودة أو التهاب معدة، فمن المعقول أن تتجنب ما يثير ألمك، لكن قطعها لن يشفي القرحة. والحليب يهدئ دقائق ثم يحفز إفراز مزيد من الحمض، فهو ليس علاجا.",
+            "الإجهاد الجسدي الشديد أمر مختلف. المرضى في العناية المركزة بعد الحروق الكبيرة أو العمليات أو الإصابات الخطيرة قد تصيبهم قرحات الشدة، ولهذا تعطيهم المستشفيات أدوية لحماية المعدة. أما التوتر النفسي اليومي فقد يجعل الأعراض أسوأ، لكنه ليس سببا معروفا للقرحة وحده.",
+            "التدخين، بما فيه الأرجيلة، يزيد خطر القرحة ويبطئ شفاءها، والكحول بكميات كبيرة يهيج بطانة المعدة. وفي رمضان قد تزيد ساعات الصيام الطويلة ثم الوجبات الكبيرة من أعراض القرحة والارتجاع. إذا كانت لديك قرحة أو تتناول دواءها، فاسأل طبيبك قبل رمضان عن توقيت الحبوب بين السحور والإفطار. وهناك عدد قليل من القرحات لأسباب نادرة، مثل ورم يفرز هرمونات، يبحث عنها الاختصاصي عندما تتكرر القرحة دون جرثومة أو مسكنات."
+          ]
+        },
+        {
+          "h2": "كيف تشخص قرحة المعدة؟",
+          "paras": [
+            "الطريقة الوحيدة لرؤية القرحة هي التنظير العلوي (Endoscopy)، أو ما يعرف بمنظار المعدة. تمرر كاميرا رفيعة مرنة عبر الفم إلى المعدة والاثني عشر، عادة مع بخاخ مخدر للحلق أو تهدئة خفيفة، ويستغرق الأمر عشر إلى خمس عشرة دقيقة. يرى الطبيب القرحة، ويوقف النزيف إن وجد، ويأخذ عينات صغيرة لفحص الجرثومة واستبعاد السرطان.",
+            "ليس كل من يعاني من عسر الهضم يحتاج إلى منظار. الشباب الذين لا تظهر عليهم علامات خطر يفحصون غالبا للجرثومة بتحليل التنفس (Urea breath test) أو تحليل البراز (Stool antigen) ويعالجون إن كانت النتيجة إيجابية. أما المنظار فينصح به لمن تجاوز نحو 55 عاما مع أعراض جديدة، وفي أي عمر مع نقص الوزن أو صعوبة البلع أو القيء المتكرر أو فقر الدم أو وجود سرطان المعدة في العائلة أو علامات نزيف. وتختلف حدود العمر بين البلدان، فاتبع نصيحة طبيبك.",
+            "قرحة المعدة، بخلاف قرحة الاثني عشر، يعاد فحصها غالبا بمنظار ثان بعد العلاج، عادة بعد ستة إلى اثني عشر أسبوعا. السبب أن عددا قليلا من سرطانات المعدة يبدو في البداية مثل قرحة عادية، ورؤية القرحة وقد شفيت تماما تطمئن الطبيب والمريض. إذا حجز لك الطبيب منظارا للمتابعة فمن المهم أن تحضر."
+          ]
+        },
+        {
+          "h2": "كيف تعالج قرحة المعدة؟",
+          "paras": [
+            "لعلاج القرحة هدفان: شفاء الجرح، وإزالة السبب حتى لا يعود. يتم الشفاء بأدوية تخفض الحمض، وأكثرها استعمالا مثبطات مضخة البروتون (PPI) مثل الأوميبرازول والإيزوميبرازول واللانسوبرازول والبانتوبرازول. هذه الأدوية تخفض إفراز الحمض بقوة، وتوصف عادة لمدة أربعة إلى ثمانية أسابيع. يتحسن الألم غالبا خلال أيام، لكن القرحة تحتاج أسابيع لتلتئم، ولهذا فإكمال المدة مهم.",
+            "إذا وجدت الجرثومة فسيصف لك الطبيب علاج الاستئصال، وهو مزيج من دواء الحمض مع مضادين حيويين أو ثلاثة، وأحيانا مع البزموت، تؤخذ معا عادة لمدة عشرة إلى أربعة عشر يوما. يختار الطبيب المزيج حسب مقاومة المضادات الحيوية في بلدك. ويحذر الإجماع الشرق أوسطي لعام 2025 من أن مقاومة الكلاريثرومايسين، وهو مضاد حيوي في العلاج الثلاثي التقليدي، تزداد في المنطقة وهي سبب رئيسي لفشل العلاج، ولذلك يتجه الأطباء أكثر إلى أنظمة لا تعتمد عليه. والطعم المعدني والإسهال الخفيف والغثيان آثار جانبية شائعة يمكن تحملها غالبا، فاسأل طبيبك قبل أن توقف العلاج مبكرا.",
+            "إذا كانت المسكنات هي السبب فسينصحك الطبيب بإيقافها أو تغييرها إن أمكن. وعندما يكون مسكن الالتهاب ضروريا فعلا، قد يستمر مع دواء الحمض لحماية المعدة. وجدت دراسة على 138 مريضا في عيادات شرق أوسطية يتناولون مسكنات الالتهاب باستمرار ولديهم قرحات أو تآكلات أن 90.6 بالمئة شفوا بعد خمسة أسابيع من العلاج، وأن الجرثومة زالت عند 85.5 بالمئة ممن عولجوا منها، وأن نحو 86 بالمئة بقوا في حالة شفاء بعد عشرين أسبوعا على جرعة وقائية أقل."
+          ],
+          "visual": {
+            "type": "bar",
+            "title": "نتائج علاج القرحة عند مستخدمي المسكنات في الشرق الأوسط",
+            "unit": "%",
+            "max": 100,
+            "items": [
+              {"label": "شفاء القرحة بعد 5 أسابيع", "value": 90.6, "tone": "good", "highlight": true},
+              {"label": "زوال الجرثومة بالعلاج", "value": 85.5, "tone": "good"},
+              {"label": "استمرار الشفاء بعد 20 أسبوعا بجرعة أقل", "value": 86, "tone": "info"}
+            ],
+            "source": "Dajani et al, Saudi Journal of Gastroenterology, 2006",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/19858579/"
+          }
+        },
+        {
+          "h2": "لماذا يجب إكمال العلاج وإجراء تحليل التأكد من الشفاء؟",
+          "paras": [
+            "الشعور بالتحسن ليس دليلا على زوال الجرثومة. المضادات الحيوية تفشل عند نسبة لا يستهان بها من المرضى، خاصة حيث تكثر المقاومة، والقرحة تعود غالبا إذا بقيت الجرثومة. وفي الدراسة الشرق أوسطية السابقة، كل مريض بقيت عنده الجرثومة عادت إليه القرحة. ونسيان الجرعات أو التوقف عندما يزول الألم من أهم أسباب فشل العلاج، وهو يساعد أيضا على انتشار البكتيريا المقاومة.",
+            "لهذا توصي الإرشادات بتحليل التأكد من الشفاء، وهو تحليل التنفس أو تحليل البراز بعد أربعة أسابيع على الأقل من انتهاء المضادات الحيوية. أدوية الحمض قد تخفي الجرثومة فتعطي نتيجة سلبية كاذبة، لذلك توقف عادة قبل التحليل بنحو أسبوعين إذا وافق الطبيب. أما تحليل الدم للأجسام المضادة فلا يصلح لهذا الغرض، لأن الأجسام المضادة تبقى شهورا أو سنوات بعد زوال الجرثومة. ويشرح دليل تحليل جرثومة المعدة كل تحليل بالتفصيل.",
+            "إذا كانت نتيجة تحليل التأكد إيجابية يستخدم الطبيب مزيجا آخر من المضادات الحيوية، لا تكرار المزيج الأول. وبعد زوال الجرثومة تكون العدوى من جديد عند البالغين غير شائعة. ولكي لا تعود القرحة، تجنب مسكنات الالتهاب غير الضرورية، وتوقف عن التدخين، وأخبر أي طبيب أو صيدلي بأنك أصبت بقرحة سابقا قبل أن ينصحك بأي مسكن."
+          ],
+          "visual": {
+            "type": "timeline",
+            "title": "رحلة العلاج المعتادة لقرحة سببها الجرثومة",
+            "items": [
+              {"when": "اليوم 0", "what": "اكتشاف القرحة بالمنظار وتأكيد وجود الجرثومة"},
+              {"when": "الأيام 1 إلى 14", "what": "كورس الاستئصال: دواء الحمض مع المضادات الحيوية دون نسيان أي جرعة"},
+              {"when": "الأسابيع 2 إلى 8", "what": "استمرار دواء الحمض حتى تلتئم القرحة"},
+              {"when": "قبل التحليل بنحو أسبوعين", "what": "إيقاف دواء الحمض مؤقتا إذا وافق الطبيب"},
+              {"when": "بعد 4 أسابيع على الأقل من المضادات", "what": "تحليل التنفس أو البراز للتأكد من زوال الجرثومة"},
+              {"when": "بعد 6 إلى 12 أسبوعا", "what": "منظار متابعة لقرحة المعدة إذا نصح الطبيب"}
+            ]
+          }
+        }
+      ],
+      "tie": "في تطبيق صحتك يمكنك تسجيل أدوية القرحة وضبط تذكيرات حتى تكمل كل جرعة من كورس الجرثومة، وتدوين موعد تحليل التأكد من الشفاء. وأضف أدويتك الدائمة إلى ملفك ليتمكن المساعد الصحي من تنبيهك إلى المسكنات التي قد تضر معدتك. يبقى ذلك أداة مساعدة لا تحل محل متابعة طبيبك.",
+      "faqs": [
+        {"q": "كم تحتاج قرحة المعدة لتشفى؟", "a": "مع أدوية خفض الحمض تشفى معظم القرحات خلال أربعة إلى ثمانية أسابيع، مع أن الألم يتحسن غالبا في الأيام الأولى. ولا يدوم الشفاء إلا إذا عولج السبب، أي الجرثومة أو المسكنات. وكثيرا ما يعاد فحص قرحة المعدة بالمنظار للتأكد من شفائها التام."},
+        {"q": "هل تشفى قرحة المعدة وحدها؟", "a": "بعض القرحات الصغيرة قد تلتئم مؤقتا دون علاج، لكنها تعود غالبا إذا بقيت الجرثومة أو استمرت المسكنات. والقرحة غير المعالجة قد تنزف أو تنثقب. الأسلم أن تقيم وتعالج بشكل صحيح."},
+        {"q": "هل الأكل الحار يسبب قرحة المعدة؟", "a": "لا، الأكل الحار لا يسبب القرحة. لكنه قد يزيد ألم قرحة موجودة أو التهاب معدة، فمن المعقول تجنب الأطعمة التي تثير أعراضك أثناء العلاج. السببان الحقيقيان هما الجرثومة ومسكنات الالتهاب."},
+        {"q": "كيف يبدو نزيف القرحة؟", "a": "قد تتقيأ دما أحمر أو مادة داكنة تشبه تفل القهوة، أو يصبح برازك أسود لزجا كالقطران. وقد تشعر بدوخة أو ضعف أو إغماء. أي علامة من هذه تحتاج إلى قسم الطوارئ فورا."},
+        {"q": "هل يمكنني تناول الإيبوبروفين إذا أصبت بقرحة سابقا؟", "a": "من أصيب بقرحة يكون معرضا أكثر بكثير لقرحة جديدة مع مسكنات الالتهاب مثل الإيبوبروفين والديكلوفيناك. اسأل طبيبك أو الصيدلي قبل أي مسكن، فالباراسيتامول غالبا خيار ألطف. وإذا كان مسكن الالتهاب ضروريا فعلا، قد يضيف الطبيب دواء يحمي المعدة."},
+        {"q": "لماذا أحتاج إلى تحليل بعد انتهاء علاج الجرثومة؟", "a": "العلاج لا ينجح عند الجميع، خاصة حيث تنتشر مقاومة المضادات الحيوية، والقرحة قد تعود إذا بقيت الجرثومة. تحليل التنفس أو البراز بعد أربعة أسابيع على الأقل من المضادات يبين إن كانت قد زالت. أما تحليل الدم للأجسام المضادة فلا يؤكد الشفاء."},
+        {"q": "هل قرحة المعدة سرطان؟", "a": "معظم قرحات المعدة ليست سرطانا. لكن عددا قليلا من سرطانات المعدة قد يبدو في البداية مثل القرحة، ولهذا يأخذ الأطباء عينات أثناء المنظار ويعيدون فحص قرحة المعدة بعد العلاج غالبا. أما قرحة الاثني عشر فنادرا جدا ما تكون سرطانية."}
+      ]
+    }
+  }
+}

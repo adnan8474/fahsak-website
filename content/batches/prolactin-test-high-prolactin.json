@@ -1,0 +1,386 @@
+{
+  "slug": "prolactin-test-high-prolactin",
+  "category": "lab-tests",
+  "chip_ar": "فهم التحاليل",
+  "chip_en": "Understanding Lab Tests",
+  "date_iso": "2026-10-07",
+  "sources": [
+    {"label": "Melmed S, Casanueva FF, Hoffman AR et al: Diagnosis and treatment of hyperprolactinemia: an Endocrine Society clinical practice guideline, The Journal of clinical endocrinology and metabolism, 2011", "url": "https://pubmed.ncbi.nlm.nih.gov/21296991/"},
+    {"label": "Petersenn S, Fleseriu M, Casanueva FF et al: Diagnosis and management of prolactin-secreting pituitary adenomas: a Pituitary Society international Consensus Statement, Nature reviews. Endocrinology, 2023", "url": "https://pubmed.ncbi.nlm.nih.gov/37670148/"},
+    {"label": "Mahzari M, Alhamlan KS, Alhussaini NA et al: Epidemiological and clinical profiles of Saudi patients with hyperprolactinemia in a single tertiary care center, Annals of Saudi medicine, 2022", "url": "https://pubmed.ncbi.nlm.nih.gov/36252148/"},
+    {"label": "Alwahhabi AY, Labban RH, Alshaikh MY et al: Prevalence of Hyperprolactinemia and Its Association with Menstrual Abnormalities and Hypothyroidism among Infertile Women: A Cross-Sectional Study from Saudi Arabia, Saudi medical journal, 2026", "url": "https://pubmed.ncbi.nlm.nih.gov/42293713/"},
+    {"label": "Che Soh NAA, Yaacob NM, Omar J et al: Global Prevalence of Macroprolactinemia among Patients with Hyperprolactinemia: A Systematic Review and Meta-Analysis, International journal of environmental research and public health, 2020", "url": "https://pubmed.ncbi.nlm.nih.gov/33171973/"}
+  ],
+  "content": {
+    "ar": {
+      "title": "تحليل هرمون الحليب (البرولاكتين): أسباب الارتفاع وماذا بعد",
+      "desc": "ارتفاع هرمون الحليب شائع وغالبا سببه التوتر أو دواء أو طريقة سحب العينة. تعرف على التحضير الصحيح للتحليل، والمعدل الطبيعي، والأسباب، ومتى يطلب الطبيب الرنين.",
+      "keywords": "تحليل هرمون الحليب, ارتفاع البرولاكتين, البرولاكتين الطبيعي, أسباب ارتفاع هرمون الحليب, ورم البرولاكتين, الماكروبرولاكتين, هرمون الحليب عند الرجال, ارتفاع هرمون الحليب وتأخر الحمل, رنين الغدة النخامية",
+      "h1": "تحليل هرمون الحليب (Prolactin): لماذا يرتفع، وكيف تفهم نتيجتك، وما الخطوة التالية",
+      "takeaways": [
+        "البرولاكتين هرمون تفرزه الغدة النخامية، ووظيفته الأساسية إدرار الحليب بعد الولادة.",
+        "التوتر وقلة النوم وتحفيز الثدي والرياضة قبل التحليل قد ترفع النتيجة، لذلك تسحب العينة صباحا وأنت مرتاح.",
+        "الارتفاع الطفيف يعاد غالبا قبل أي استنتاج، وبعض الحالات سببها الماكروبرولاكتين غير النشط.",
+        "من الأسباب الشائعة الحمل والرضاعة وبعض الأدوية وكسل الغدة الدرقية وأورام النخامية الحميدة.",
+        "يطلب الطبيب رنينا مغناطيسيا للنخامية حين لا يجد سببا واضحا، أو حين يكون الارتفاع كبيرا أو مع صداع واضطراب في النظر."
+      ],
+      "sections": [
+        {
+          "h2": "ما هو هرمون الحليب، وماذا يعني ارتفاعه؟",
+          "paras": [
+            "البرولاكتين (Prolactin)، أو هرمون الحليب كما يسميه الناس، هرمون تفرزه الغدة النخامية، وهي غدة بحجم حبة الحمص تقع في قاعدة الدماغ خلف العينين. وظيفته الأساسية تحفيز الثدي على إنتاج الحليب بعد الولادة، لكنه يؤثر أيضا في هرمونات المبيض والخصية، ولذلك يرتبط ارتفاعه باضطراب الدورة وتأخر الحمل وضعف الرغبة الجنسية.",
+            "الجواب المختصر عن معنى ارتفاعه: الارتفاع الطفيف شائع جدا، وكثيرا ما يكون سببه التوتر أثناء سحب الدم أو قلة النوم أو دواء تتناوله، لا مرضا حقيقيا. أما الارتفاع الواضح والمتكرر فيحتاج إلى بحث عن السبب، وأحد الأسباب المحتملة ورم حميد صغير في الغدة النخامية يسمى ورم البرولاكتين (Prolactinoma)، وهو ليس سرطانا ويعالج عادة بالأقراص.",
+            "لذلك لا تبن قرارا على رقم واحد. الخطوات المنطقية بعد نتيجة مرتفعة هي التأكد من أن العينة سحبت بطريقة صحيحة، ثم إعادة التحليل إن لزم، ثم مراجعة الأدوية وفحص الغدة الدرقية واستبعاد الحمل، وبعدها فقط يأتي التفكير في التصوير.",
+            "ارتفاع البرولاكتين (Hyperprolactinemia) يصيب النساء أكثر من الرجال بكثير. في دراسة أجريت في مدينة الملك عبد العزيز الطبية بالرياض على 295 مريضا بارتفاع هرمون الحليب، كانت 86.8% منهم نساء، وأغلبهم بين 21 و40 عاما."
+          ]
+        },
+        {
+          "h2": "كيف تستعد لتحليل هرمون الحليب؟",
+          "paras": [
+            "البرولاكتين هرمون حساس جدا للظروف المحيطة بلحظة سحب الدم. التوتر والخوف من الإبرة، وقلة النوم، والجهد البدني، وتحفيز الحلمتين أو فحص الثدي، والعلاقة الزوجية قبل التحليل بساعات قليلة، كلها قد ترفع النتيجة مؤقتا. ويرتفع الهرمون طبيعيا أثناء النوم، فإذا سحبت العينة فور الاستيقاظ قد تبدو أعلى من حقيقتها.",
+            "لهذا ينصح كثير من المختبرات بسحب العينة صباحا بعد الاستيقاظ بساعتين أو ثلاث، وبعد الجلوس هادئا ربع ساعة على الأقل. لا داعي للصيام عادة، لكن تجنب وجبة كبيرة غنية بالبروتين قبل التحليل مباشرة، وتجنب التمرين الرياضي صباح ذلك اليوم.",
+            "أخبر المختبر والطبيب بكل الأدوية التي تتناولها، بما فيها ما اشتريته من الصيدلية دون وصفة. في كثير من بلداننا يباع الدومبيريدون والميتوكلوبراميد بسهولة لعلاج الغثيان والانتفاخ، وكلاهما يرفع هرمون الحليب بوضوح. لا توقف أي دواء موصوف لك قبل التحليل من تلقاء نفسك، بل اسأل طبيبك.",
+            "إذا كانت النتيجة مرتفعة ارتفاعا طفيفا وكان سحب الدم مرهقا، كأن تكون انتظرت طويلا في زحام المختبر أو احتاج الممرض إلى عدة محاولات، فمن المعقول أن يطلب الطبيب إعادة التحليل في ظروف أهدأ قبل أي خطوة أخرى."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "قبل تحليل البرولاكتين",
+            "items": [
+              "نم جيدا في الليلة السابقة",
+              "اسحب العينة صباحا بعد الاستيقاظ بساعتين أو ثلاث",
+              "تجنب الرياضة وتحفيز الثدي والعلاقة الزوجية قبل التحليل",
+              "اجلس هادئا ربع ساعة قبل سحب الدم",
+              "أخبر المختبر بكل أدويتك، حتى التي اشتريتها دون وصفة"
+            ]
+          }
+        },
+        {
+          "h2": "ما هو المعدل الطبيعي لهرمون الحليب؟",
+          "paras": [
+            "يختلف المدى الطبيعي بين المختبرات وبين الأجهزة، والمدى المطبوع على ورقتك هو المرجع الأول. لكن كثيرا من المراجع، ومنها دراسة الرياض السابقة، تعد البرولاكتين مرتفعا إذا تجاوز نحو 25 ng/mL لدى المرأة ونحو 20 ng/mL لدى الرجل. وتعادل وحدة ng/mL وحدة μg/L تماما، فلا تحتاج إلى تحويل بينهما.",
+            "بعض المختبرات، خاصة التي تتبع الممارسة البريطانية، تصدر النتيجة بوحدة mIU/L. للتحويل اضرب النتيجة بوحدة ng/mL في نحو 21، فتصبح 25 ng/mL قرابة 530 mIU/L. فإذا رأيت رقما مثل 450 فلا تفزع قبل أن تنظر إلى الوحدة.",
+            "يرتفع البرولاكتين طبيعيا خلال الحمل ويبقى مرتفعا أثناء الرضاعة، لذلك لا معنى لقياسه عند امرأة حامل أو مرضعة إلا لسبب خاص يقدره الطبيب. ولا تقارن نتيجتك بنتيجة قريبتك في مختبر آخر قبل أن تتأكد من الوحدة والمدى المرجعي.",
+            "أما حجم الارتفاع فيعطي الطبيب تلميحا عن السبب. الارتفاع البسيط يرافق غالبا التوتر والأدوية وكسل الغدة الدرقية، في حين أن القيم التي تتجاوز 250 ng/mL تشير في أغلب الحالات إلى ورم برولاكتين، بحسب دليل الجمعية الأمريكية للغدد الصماء."
+          ],
+          "visual": {
+            "type": "range-scale",
+            "title": "أين تقع نتيجة البرولاكتين لدى المرأة",
+            "label": "Prolactin",
+            "unit": "ng/mL",
+            "min": 0,
+            "max": 100,
+            "zones": [
+              {"to": 25, "tone": "good", "label": "طبيعي"},
+              {"to": 100, "tone": "warn", "label": "مرتفع"}
+            ],
+            "marker": {"value": 38, "label": "نتيجة مثال"},
+            "source": "Mahzari et al, Annals of Saudi Medicine, 2022",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/36252148/"
+          }
+        },
+        {
+          "h2": "لماذا يعيد الطبيب التحليل إذا كان الارتفاع طفيفا؟",
+          "paras": [
+            "السبب الأول هو التوتر وظروف سحب العينة التي شرحناها. والسبب الثاني أقل شهرة لكنه مهم جدا: الماكروبرولاكتين (Macroprolactin). في دم بعض الناس يرتبط البرولاكتين بأجسام مضادة فيكوّن جزيئات كبيرة غير نشطة، تبقى في الدم مدة أطول فتظهر في التحليل كأنها ارتفاع، مع أنها لا تؤثر في الجسم.",
+            "تحليل عادي لا يميز بين البرولاكتين النشط والماكروبرولاكتين. لكن المختبر يستطيع إجراء خطوة إضافية بسيطة تسمى الترسيب بالبولي إيثيلين غليكول (PEG)، تكشف كم من الرقم نشط فعلا. إذا كان معظم الارتفاع من الماكروبرولاكتين ولا توجد أعراض، فلا حاجة عادة إلى علاج ولا إلى رنين.",
+            "هذا ليس أمرا نادرا. مراجعة منهجية نشرت عام 2020 جمعت 67 دراسة من 27 بلدا، ووجدت أن الماكروبرولاكتين يفسر نحو 18.9% من حالات ارتفاع البرولاكتين عالميا، ونحو 13.9% في إقليم شرق المتوسط. أي أن قرابة حالة من كل خمس حالات قد تكون إنذارا كاذبا.",
+            "اسأل طبيبك أو المختبر إن كان فحص الماكروبرولاكتين متاحا، خاصة إذا كانت النتيجة مرتفعة دون أعراض واضحة. قد لا يتوفر في المختبرات الصغيرة، لكن المختبرات المرجعية الكبيرة في معظم العواصم العربية تجريه."
+          ],
+          "visual": {
+            "type": "bar",
+            "title": "نسبة الماكروبرولاكتين بين حالات ارتفاع البرولاكتين حسب الإقليم",
+            "unit": "%",
+            "items": [
+              {"label": "أفريقيا", "value": 30.3},
+              {"label": "الأمريكتان", "value": 29.1},
+              {"label": "أوروبا", "value": 17.5},
+              {"label": "شرق المتوسط", "value": 13.9, "highlight": true, "tone": "info"},
+              {"label": "جنوب شرق آسيا", "value": 12.7},
+              {"label": "غرب المحيط الهادئ", "value": 12.6}
+            ],
+            "source": "Che Soh et al, IJERPH, 2020",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/33171973/"
+          }
+        },
+        {
+          "h2": "ما أسباب ارتفاع هرمون الحليب؟",
+          "paras": [
+            "أول سبب يجب استبعاده لدى المرأة في سن الإنجاب هو الحمل، فهو أشيع سبب طبيعي للارتفاع، ويليه الإرضاع. لهذا يطلب الطبيب غالبا تحليل حمل مع البرولاكتين، حتى لو بدا الأمر بديهيا.",
+            "الأدوية سبب شائع جدا. أبرزها مضادات الذهان مثل الريسبيريدون والهالوبيريدول، وأدوية الغثيان والمعدة مثل الميتوكلوبراميد والدومبيريدون، وبعض مضادات الاكتئاب، وبعض أدوية الضغط مثل الميثيل دوبا. وتلجأ بعض الأمهات في منطقتنا إلى الدومبيريدون لزيادة إدرار الحليب، وهذا يرفع البرولاكتين عمدا.",
+            "كسل الغدة الدرقية قد يرفع هرمون الحليب أيضا، لأن الهرمون الذي يحث الغدة الدرقية من الدماغ يحث إفراز البرولاكتين كذلك. لذلك يطلب الطبيب TSH مع كل نتيجة برولاكتين مرتفعة. ومن الأسباب الأخرى الفشل الكلوي، وتكيس المبايض الذي يرافقه أحيانا ارتفاع خفيف، وإصابات جدار الصدر أو الحزام الناري فيه.",
+            "وفي دراسة الرياض كان السبب مجهولا في 36.6% من الحالات، وكان ورما في النخامية في 27.5%. ورم البرولاكتين نفسه حميد، ويصنف صغيرا إذا كان أقل من سنتيمتر واحد، وكبيرا إذا تجاوزه. وأحيانا يضغط ورم آخر غير مفرز في النخامية على الساق التي تصلها بالدماغ فيرفع البرولاكتين ارتفاعا متوسطا."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "الأسباب الشائعة لارتفاع البرولاكتين",
+            "head": ["السبب", "ما يلفت الانتباه", "كيف يتأكد الطبيب"],
+            "rows": [
+              ["الحمل والرضاعة", "تأخر الدورة أو ولادة حديثة", "تحليل الحمل"],
+              ["الأدوية", "بدء دواء نفسي أو دواء للمعدة", "مراجعة قائمة الأدوية"],
+              ["كسل الغدة الدرقية", "تعب وبرودة وزيادة وزن", "تحليل TSH"],
+              ["الماكروبرولاكتين", "ارتفاع دون أعراض", "فحص PEG في المختبر"],
+              ["ورم البرولاكتين", "ارتفاع واضح مع صداع أو اضطراب نظر", "رنين النخامية"],
+              ["الفشل الكلوي", "أمراض كلى معروفة", "الكرياتينين ووظائف الكلى"]
+            ]
+          }
+        },
+        {
+          "h2": "أعراض ارتفاع البرولاكتين عند المرأة والرجل",
+          "paras": [
+            "عند المرأة تظهر الأعراض غالبا في الدورة: قلة الدورات أو انقطاعها، أو تأخر الحمل لأن البرولاكتين المرتفع يكبح الإباضة. وقد تلاحظ خروج سائل حليبي من الحلمة دون حمل أو رضاعة، ويسمى ثر اللبن (Galactorrhea). ومن الأعراض أيضا ضعف الرغبة وجفاف المهبل، ومع الوقت قد تضعف العظام إذا استمر انقطاع الدورة.",
+            "في دراسة الرياض كانت قلة الدورات أشيع عرض لدى النساء بنسبة 35%. ودراسة أخرى نشرت عام 2026 في المجلة الطبية السعودية شملت 480 امرأة يراجعن وحدة أطفال الأنابيب في الرياض، فوجدت ارتفاع البرولاكتين لدى 27.7% منهن، ولذلك يوصي الباحثون بقياسه ضمن فحوص تأخر الحمل.",
+            "أما الرجل فأعراضه أكثر خفاء: ضعف الرغبة الجنسية، وضعف الانتصاب، وقلة الخصوبة، وأحيانا تضخم الثدي. وفي دراسة الرياض كان العقم وضعف الانتصاب أشيع ما شكا منه الرجال، بنسبة 50% و44.7%. ويتأخر كثير من الرجال في مراجعة الطبيب حياء، فيكتشف الورم لديهم أحيانا وهو أكبر حجما، حين يسبب صداعا أو اضطرابا في النظر.",
+            "إذا كنت رجلا وتعاني من ضعف الرغبة أو الانتصاب، فلا تكتف بالأدوية المنشطة التي تباع في الصيدلية. تحليل بسيط للتستوستيرون والبرولاكتين قد يكشف السبب الحقيقي ويغير العلاج."
+          ],
+          "visual": {
+            "type": "stats",
+            "title": "ما وجدته دراستان من الرياض",
+            "items": [
+              {"value": "27.7%", "label": "من نساء وحدة أطفال الأنابيب لديهن ارتفاع البرولاكتين", "tone": "warn"},
+              {"value": "35%", "label": "من النساء المصابات شكون من قلة الدورات", "tone": "info"},
+              {"value": "50%", "label": "من الرجال المصابين شكوا من العقم", "tone": "neutral"}
+            ],
+            "source": "Alwahhabi et al, Saudi Medical Journal, 2026; Mahzari et al, Annals of Saudi Medicine, 2022",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/42293713/"
+          }
+        },
+        {
+          "h2": "متى يطلب الطبيب رنينا مغناطيسيا للغدة النخامية؟",
+          "paras": [
+            "لا يحتاج كل من لديه برولاكتين مرتفع إلى رنين. يطلبه الطبيب عادة حين يتأكد الارتفاع في تحليل ثان، بعد استبعاد الحمل والأدوية وكسل الغدة الدرقية والماكروبرولاكتين، فيبقى الارتفاع دون تفسير. ويطلبه مباشرة إذا كان الارتفاع كبيرا، أو إذا رافقه صداع مستمر أو تراجع في الرؤية الجانبية.",
+            "الفحص المطلوب هو الرنين المغناطيسي للغدة النخامية مع الصبغة (Pituitary MRI)، وهو يختلف عن رنين الدماغ العادي لأنه يعتمد مقاطع رفيعة جدا تكشف الأورام الصغيرة. اطلب من المركز التأكد من أن الطلب مكتوب بهذه الصيغة، فبعض المراكز الصغيرة تجري صورة للدماغ قد تفوت ورما بحجم ملليمترات.",
+            "إذا كشف الرنين ورما كبيرا يطلب الطبيب غالبا فحص الساحة البصرية عند طبيب العيون، لأن الغدة تقع تحت ملتقى العصبين البصريين. وفي الأورام الكبيرة جدا قد يظهر البرولاكتين أقل من حقيقته في بعض الأجهزة، وهي ظاهرة تسمى تأثير الخطاف (Hook effect)، فيطلب الطبيب من المختبر تمديد العينة وإعادة القياس.",
+            "هناك حالة نادرة لكنها طارئة تسمى سكتة النخامية (Pituitary apoplexy)، وفيها ينزف الورم أو يتضخم فجأة. تظهر بصداع مفاجئ شديد جدا مع تراجع النظر أو ازدواجه أو قيء أو نعاس، وتحتاج إلى قسم الطوارئ فورا."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "اذهب إلى الطوارئ فورا إذا",
+            "items": [
+              "أصابك صداع مفاجئ شديد جدا لم تعرف مثله من قبل",
+              "تراجع نظرك فجأة أو صرت ترى الأشياء مزدوجة",
+              "رافق الصداع قيء متكرر أو نعاس أو تشوش",
+              "تدلى جفنك فجأة أو صعب عليك تحريك عينك"
+            ]
+          }
+        },
+        {
+          "h2": "كيف يعالج ارتفاع البرولاكتين وكيف تتابعه؟",
+          "paras": [
+            "العلاج يعتمد على السبب. إذا كان دواء هو السبب، قد يقرر الطبيب تغييره أو تعديل الجرعة أو إبقاءه إن كانت فائدته أكبر، ويتم ذلك دائما بالتنسيق مع الطبيب الذي وصفه. لا توقف دواء نفسيا أو دواء للصرع أو للضغط من تلقاء نفسك، فإيقافه المفاجئ قد يكون أخطر من ارتفاع البرولاكتين نفسه. وإذا كان السبب كسل الغدة الدرقية، فعلاج الغدة يعيد البرولاكتين غالبا إلى طبيعته.",
+            "أما ورم البرولاكتين، صغيرا كان أو كبيرا، فعلاجه الأول عادة بالأقراص لا بالجراحة. تسمى هذه الأدوية ناهضات الدوبامين، وأشهرها الكابرغولين والبروموكريبتين، ويصف الطبيب الكابرغولين عادة مرة أو مرتين في الأسبوع ويعدل الجرعة حسب التحاليل. في دراسة الرياض تلقى 94% من المرضى المعالجين الكابرغولين، وهذا يتفق مع توصيات جمعية النخامية الدولية الصادرة عام 2023.",
+            "يعيد الطبيب تحليل البرولاكتين بعد أسابيع من بدء العلاج، ثم دوريا، وقد يكرر الرنين بعد أشهر للتأكد من انكماش الورم. تعود الدورة لدى كثير من النساء ويحدث الحمل، وإذا حدث حمل فأخبري طبيبك فورا لأن خطة العلاج تتغير عادة. وتلجأ الجراحة عبر الأنف لحالات محددة، مثل عدم الاستجابة للأقراص أو عدم تحملها.",
+            "الارتفاع البسيط دون أعراض، خاصة إذا كان سببه الماكروبرولاكتين، لا يحتاج غالبا إلى علاج، بل إلى متابعة فقط. المهم ألا تبدأ دواء خفض البرولاكتين بناء على تحليل واحد من مختبر صغير، وألا تهمل ارتفاعا واضحا متكررا."
+          ],
+          "visual": {
+            "type": "timeline",
+            "title": "ما يحدث عادة بعد نتيجة برولاكتين مرتفعة",
+            "items": [
+              {"when": "الخطوة 1", "what": "إعادة التحليل صباحا في ظروف هادئة"},
+              {"when": "الخطوة 2", "what": "تحليل حمل و TSH ووظائف الكلى ومراجعة الأدوية"},
+              {"when": "الخطوة 3", "what": "فحص الماكروبرولاكتين إن كان الارتفاع دون أعراض"},
+              {"when": "الخطوة 4", "what": "رنين النخامية إذا بقي الارتفاع دون تفسير"},
+              {"when": "الخطوة 5", "what": "علاج السبب ومتابعة البرولاكتين بعد أسابيع"}
+            ]
+          }
+        }
+      ],
+      "tie": "مع تطبيق صحتك يمكنك تصوير ورقة تحليل البرولاكتين عبر ماسح المختبر ليحفظ النتيجة ووحدتها ويرسم تغيرها بين التحليل الأول والإعادة، ويمكن للمساعد الذكي أن يحول بين ng/mL و mIU/L ويشرح لك ما تعنيه النتيجة. اضبط تذكيرات لأقراص العلاج إن وصفها طبيبك، واحتفظ بقائمة أدويتك جاهزة لتعرضها عليه. يبقى التطبيق أداة مساعدة لا تغني عن الطبيب.",
+      "faqs": [
+        {"q": "هل يحتاج تحليل هرمون الحليب إلى صيام؟", "a": "لا يحتاج عادة إلى صيام، لكن يفضل تجنب وجبة كبيرة غنية بالبروتين قبله مباشرة. الأهم هو النوم الجيد وسحب العينة صباحا بعد الاستيقاظ بساعتين أو ثلاث، والجلوس هادئا قبل سحب الدم. اسأل المختبر عن تعليماته الخاصة."},
+        {"q": "هل يمكن أن يرفع التوتر هرمون الحليب؟", "a": "نعم، التوتر الجسدي والنفسي، بما فيه الخوف من الإبرة، قد يرفع البرولاكتين ارتفاعا طفيفا ومؤقتا. لذلك يعيد الطبيب التحليل غالبا إذا كان الارتفاع بسيطا. لكن التوتر لا يفسر عادة الارتفاعات الكبيرة."},
+        {"q": "هل ارتفاع البرولاكتين يمنع الحمل؟", "a": "قد يمنعه لأنه يكبح الإباضة ويسبب قلة الدورات أو انقطاعها. والخبر الجيد أن علاج السبب يعيد الإباضة لدى كثير من النساء. إذا كنت تحاولين الحمل ولديك ارتفاع متكرر فراجعي طبيبة نسائية أو طبيب غدد."},
+        {"q": "ما معنى الماكروبرولاكتين في ورقة التحليل؟", "a": "هو برولاكتين مرتبط بأجسام مضادة على شكل جزيئات كبيرة غير نشطة، يرفع الرقم في التحليل دون أن يؤثر في الجسم. إذا كان معظم الارتفاع منه ولا توجد أعراض، فلا حاجة عادة إلى علاج أو رنين. يكشفه المختبر بخطوة إضافية تسمى الترسيب بـ PEG."},
+        {"q": "هل ورم البرولاكتين سرطان؟", "a": "لا، ورم البرولاكتين ورم حميد في الغدة النخامية في الغالبية العظمى من الحالات. يعالج عادة بالأقراص التي تخفض الهرمون وتقلص الورم، ونادرا ما يحتاج إلى جراحة. يحتاج إلى متابعة منتظمة عند طبيب الغدد."},
+        {"q": "هل يرتفع هرمون الحليب عند الرجال؟", "a": "نعم، وإن كان أقل شيوعا منه عند النساء. يظهر غالبا بضعف الرغبة الجنسية وضعف الانتصاب وقلة الخصوبة. ويتأخر بعض الرجال في المراجعة، فيكتشف الورم أحيانا وهو أكبر، لذلك لا تؤجل التحليل."},
+        {"q": "هل أوقف دوائي النفسي إذا كان يرفع البرولاكتين؟", "a": "لا توقفه من تلقاء نفسك، فإيقاف مضادات الذهان أو مضادات الاكتئاب فجأة قد يسبب انتكاسة خطيرة. ناقش النتيجة مع الطبيب الذي وصف الدواء، فقد يغيره إلى دواء آخر أو يعدل الجرعة. القرار يوازن بين فائدة الدواء وأثر ارتفاع الهرمون."},
+        {"q": "هل الدومبيريدون الذي أشربه للانتفاخ يرفع البرولاكتين؟", "a": "نعم، الدومبيريدون والميتوكلوبراميد من أشيع الأدوية التي ترفع هرمون الحليب، ويباعان في صيدليات كثيرة دون وصفة. أخبر طبيبك والمختبر إن كنت تتناول أيا منهما قبل التحليل. لا تفسر النتيجة قبل أن يعرف الطبيب ذلك."}
+      ]
+    },
+    "en": {
+      "title": "Prolactin Test: Causes of High Prolactin and Next Steps",
+      "desc": "A high prolactin result is common and often caused by stress, a medicine or how the sample was taken. Learn how to prepare, normal ranges, causes and when MRI helps.",
+      "keywords": "prolactin test, high prolactin, hyperprolactinemia causes, normal prolactin level, prolactinoma, macroprolactin, high prolactin in men, prolactin and infertility, pituitary MRI, prolactin ng/mL to mIU/L",
+      "h1": "The Prolactin Test: Why Prolactin Rises, How to Read Your Result, and What Happens Next",
+      "takeaways": [
+        "Prolactin is a pituitary hormone whose main job is to make breast milk after birth.",
+        "Stress, poor sleep, breast stimulation and exercise before the test can raise the result, so the sample is best taken in the morning while rested.",
+        "A mildly high result is usually repeated before anything is concluded, and some cases are caused by inactive macroprolactin.",
+        "Common causes include pregnancy, breastfeeding, certain medicines, an underactive thyroid and benign pituitary tumours.",
+        "A pituitary MRI is ordered when no clear cause is found, when the level is very high, or when there are headaches or vision problems."
+      ],
+      "sections": [
+        {
+          "h2": "What is prolactin, and what does a high result mean?",
+          "paras": [
+            "Prolactin is a hormone made by the pituitary gland, a pea-sized gland at the base of the brain behind the eyes. Its main job is to make the breasts produce milk after childbirth, but it also affects the hormones of the ovaries and testes. That is why a high level is linked with irregular periods, difficulty conceiving and low sex drive.",
+            "The short answer to what a high result means: a mildly raised prolactin is very common and is often caused by stress during the blood test, poor sleep or a medicine you take, rather than by a real disease. A clearly and repeatedly high level needs a search for the cause. One possible cause is a small benign growth in the pituitary called a prolactinoma, which is not cancer and is usually treated with tablets.",
+            "So do not build a decision on one number. The sensible steps after a high result are to check that the sample was taken properly, repeat the test if needed, review your medicines, check your thyroid and rule out pregnancy. Only after that does imaging come into the picture.",
+            "High prolactin, called hyperprolactinaemia, is far more common in women than in men. In a study of 295 patients with high prolactin at King Abdulaziz Medical City in Riyadh, 86.8% were women, and most were aged between 21 and 40."
+          ]
+        },
+        {
+          "h2": "How to prepare for a prolactin blood test",
+          "paras": [
+            "Prolactin is unusually sensitive to what is happening at the moment your blood is taken. Stress and fear of needles, lack of sleep, physical effort, stimulation of the nipples or a breast examination, and sex in the hours before the test can all push the result up temporarily. Prolactin also rises naturally during sleep, so a sample taken straight after waking may look higher than it really is.",
+            "This is why many labs suggest having the sample taken in the morning, two or three hours after you wake up, after sitting quietly for at least 15 minutes. Fasting is not usually needed, but avoid a large protein-rich meal just before the test, and skip exercise that morning.",
+            "Tell the lab and your doctor about every medicine you take, including anything bought from a pharmacy without a prescription. In many Arab countries domperidone and metoclopramide are sold easily for nausea and bloating, and both raise prolactin markedly. Do not stop any prescribed medicine before the test on your own; ask your doctor first.",
+            "If the result is only mildly high and the blood draw was stressful, for example after a long wait in a crowded lab or several attempts to find a vein, it is reasonable for your doctor to repeat the test in calmer conditions before doing anything else."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "Before your prolactin test",
+            "items": [
+              "Get a good night's sleep beforehand",
+              "Have the sample taken in the morning, two to three hours after waking",
+              "Avoid exercise, breast stimulation and sex before the test",
+              "Sit quietly for 15 minutes before the blood is drawn",
+              "Tell the lab about all your medicines, including those bought without a prescription"
+            ]
+          }
+        },
+        {
+          "h2": "What is a normal prolactin level?",
+          "paras": [
+            "Normal ranges differ between labs and machines, and the range printed on your report comes first. Many references, including the Riyadh study above, treat prolactin as high when it is above about 25 ng/mL in women and about 20 ng/mL in men. A ng/mL is exactly the same as a μg/L, so no conversion is needed between those two.",
+            "Some labs, especially those following British practice, report prolactin in mIU/L. To convert, multiply a result in ng/mL by about 21, so 25 ng/mL is roughly 530 mIU/L. If you see a number like 450, do not panic before you have looked at the unit.",
+            "Prolactin rises naturally throughout pregnancy and stays high during breastfeeding, so measuring it in a pregnant or breastfeeding woman means little unless the doctor has a specific reason. And do not compare your result with a relative's from another lab until you have checked the unit and the reference range.",
+            "How high the level is gives the doctor a clue to the cause. Mild rises usually go with stress, medicines and an underactive thyroid, while values above 250 ng/mL usually point to a prolactinoma, according to the Endocrine Society guideline."
+          ],
+          "visual": {
+            "type": "range-scale",
+            "title": "Where a prolactin result sits in a woman",
+            "label": "Prolactin",
+            "unit": "ng/mL",
+            "min": 0,
+            "max": 100,
+            "zones": [
+              {"to": 25, "tone": "good", "label": "Normal"},
+              {"to": 100, "tone": "warn", "label": "Raised"}
+            ],
+            "marker": {"value": 38, "label": "Example result"},
+            "source": "Mahzari et al, Annals of Saudi Medicine, 2022",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/36252148/"
+          }
+        },
+        {
+          "h2": "Why is a mildly high prolactin result often repeated?",
+          "paras": [
+            "The first reason is stress and the conditions of the blood draw, as described above. The second reason is less well known but very important: macroprolactin. In some people, prolactin binds to antibodies in the blood and forms large, inactive clumps. These stay in the circulation longer, so they show up on the test as a high level even though they have no effect on the body.",
+            "A standard prolactin test cannot tell active prolactin from macroprolactin. But the lab can do a simple extra step called polyethylene glycol (PEG) precipitation, which shows how much of the number is truly active. If most of the rise is macroprolactin and you have no symptoms, you usually need neither treatment nor an MRI.",
+            "This is not rare. A systematic review published in 2020 pooled 67 studies from 27 countries and found that macroprolactin explained about 18.9% of high prolactin results worldwide, and about 13.9% in the Eastern Mediterranean region. In other words, close to one in five high results may be a false alarm.",
+            "Ask your doctor or the lab whether a macroprolactin check is available, especially if your result is high but you have no clear symptoms. Small labs may not offer it, but the larger reference labs in most Arab capitals do."
+          ],
+          "visual": {
+            "type": "bar",
+            "title": "Share of high prolactin results caused by macroprolactin, by region",
+            "unit": "%",
+            "items": [
+              {"label": "Africa", "value": 30.3},
+              {"label": "Americas", "value": 29.1},
+              {"label": "Europe", "value": 17.5},
+              {"label": "Eastern Mediterranean", "value": 13.9, "highlight": true, "tone": "info"},
+              {"label": "South-East Asia", "value": 12.7},
+              {"label": "Western Pacific", "value": 12.6}
+            ],
+            "source": "Che Soh et al, IJERPH, 2020",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/33171973/"
+          }
+        },
+        {
+          "h2": "What causes high prolactin?",
+          "paras": [
+            "In a woman of childbearing age, the first cause to rule out is pregnancy, which is the most common natural reason for a high level, followed by breastfeeding. That is why doctors often order a pregnancy test alongside prolactin, even when it seems obvious.",
+            "Medicines are a very common cause. The main ones are antipsychotics such as risperidone and haloperidol, anti-sickness and stomach medicines such as metoclopramide and domperidone, some antidepressants, and some blood pressure medicines such as methyldopa. Some mothers in the region use domperidone to boost breast milk, which raises prolactin on purpose.",
+            "An underactive thyroid can also raise prolactin, because the brain hormone that stimulates the thyroid also stimulates prolactin release. This is why your doctor will check TSH alongside any high prolactin result. Other causes include kidney failure, polycystic ovary syndrome, which sometimes comes with a mild rise, and injuries or shingles affecting the chest wall.",
+            "In the Riyadh study, no cause was found in 36.6% of cases, and a pituitary tumour was found in 27.5%. A prolactinoma is benign, and it is called a microprolactinoma if it is under one centimetre and a macroprolactinoma if it is larger. Sometimes a different, non-secreting pituitary growth presses on the stalk that links the gland to the brain and raises prolactin moderately."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Common causes of high prolactin",
+            "head": ["Cause", "What raises suspicion", "How the doctor checks"],
+            "rows": [
+              ["Pregnancy and breastfeeding", "Late period or recent birth", "Pregnancy test"],
+              ["Medicines", "Starting a psychiatric or stomach medicine", "Review of your medicine list"],
+              ["Underactive thyroid", "Tiredness, feeling cold, weight gain", "TSH test"],
+              ["Macroprolactin", "High result with no symptoms", "PEG test at the lab"],
+              ["Prolactinoma", "Clearly high level, headache or vision problems", "Pituitary MRI"],
+              ["Kidney failure", "Known kidney disease", "Creatinine and kidney tests"]
+            ]
+          }
+        },
+        {
+          "h2": "Symptoms of high prolactin in women and in men",
+          "paras": [
+            "In women, symptoms usually show up in the menstrual cycle: fewer periods or none at all, or difficulty conceiving, because high prolactin suppresses ovulation. You may notice a milky discharge from the nipple when you are not pregnant or breastfeeding, called galactorrhoea. Low sex drive and vaginal dryness are also common, and over time the bones can weaken if periods stay absent.",
+            "In the Riyadh study, infrequent periods were the most common symptom in women, at 35%. Another study, published in the Saudi Medical Journal in 2026, looked at 480 women attending an IVF unit in Riyadh and found high prolactin in 27.7% of them, which is why the researchers recommend checking it routinely in fertility assessments.",
+            "In men the symptoms are subtler: low sex drive, erectile problems, reduced fertility and sometimes breast enlargement. In the Riyadh study, infertility and erectile dysfunction were the commonest complaints in men, at 50% and 44.7%. Many men delay seeing a doctor out of embarrassment, so their tumours are sometimes found when they are larger and already causing headaches or vision problems.",
+            "If you are a man with low desire or erectile problems, do not rely only on the performance pills sold in pharmacies. A simple blood test for testosterone and prolactin may reveal the real cause and change your treatment."
+          ],
+          "visual": {
+            "type": "stats",
+            "title": "What two Riyadh studies found",
+            "items": [
+              {"value": "27.7%", "label": "of women at an IVF unit had high prolactin", "tone": "warn"},
+              {"value": "35%", "label": "of affected women had infrequent periods", "tone": "info"},
+              {"value": "50%", "label": "of affected men reported infertility", "tone": "neutral"}
+            ],
+            "source": "Alwahhabi et al, Saudi Medical Journal, 2026; Mahzari et al, Annals of Saudi Medicine, 2022",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/42293713/"
+          }
+        },
+        {
+          "h2": "When is a pituitary MRI ordered?",
+          "paras": [
+            "Not everyone with a high prolactin needs an MRI. A doctor usually orders one when the rise is confirmed on a second test and stays unexplained after pregnancy, medicines, an underactive thyroid and macroprolactin have been ruled out. It is ordered straight away if the level is very high, or if there are persistent headaches or loss of side vision.",
+            "The scan you need is a dedicated pituitary MRI with contrast, which is different from a routine brain MRI because it uses very thin slices that can show tiny tumours. Ask the imaging centre to confirm the request is written this way, because some smaller centres perform a standard brain scan that can miss a tumour only a few millimetres across.",
+            "If the MRI shows a large tumour, the doctor will usually request a visual field test from an eye specialist, because the pituitary sits just below the point where the optic nerves cross. With very large tumours, some analysers can report prolactin lower than it really is, an effect called the hook effect, so the doctor may ask the lab to dilute the sample and measure again.",
+            "There is a rare but urgent condition called pituitary apoplexy, in which a pituitary tumour bleeds or swells suddenly. It causes a sudden, very severe headache with loss of vision or double vision, vomiting or drowsiness, and it needs an emergency department immediately."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "Go to the emergency department now if",
+            "items": [
+              "You have a sudden, extremely severe headache unlike any before",
+              "Your vision suddenly fades or you start seeing double",
+              "The headache comes with repeated vomiting, drowsiness or confusion",
+              "An eyelid suddenly droops or you cannot move one eye normally"
+            ]
+          }
+        },
+        {
+          "h2": "How high prolactin is treated and followed up",
+          "paras": [
+            "Treatment depends on the cause. If a medicine is responsible, the doctor may switch it, adjust the dose or keep it if the benefit outweighs the effect, always in agreement with the doctor who prescribed it. Never stop a psychiatric, epilepsy or blood pressure medicine on your own, because stopping suddenly can be more dangerous than the high prolactin itself. If the cause is an underactive thyroid, treating the thyroid usually brings prolactin back to normal.",
+            "A prolactinoma, small or large, is usually treated first with tablets, not surgery. These medicines are called dopamine agonists, and the best known are cabergoline and bromocriptine. Cabergoline is normally prescribed once or twice a week, with the dose adjusted according to blood tests. In the Riyadh study, 94% of treated patients received cabergoline, in line with the Pituitary Society's 2023 international consensus.",
+            "Your doctor will recheck prolactin a few weeks after treatment starts and then periodically, and may repeat the MRI after some months to confirm the tumour is shrinking. Periods return for many women and pregnancy becomes possible; if you do become pregnant, tell your doctor straight away because the treatment plan usually changes. Surgery through the nose is reserved for particular cases, such as tumours that do not respond to tablets or people who cannot tolerate them.",
+            "A mild rise without symptoms, especially one due to macroprolactin, usually needs monitoring rather than treatment. The important thing is not to start a prolactin-lowering medicine on the strength of a single result from a small lab, and not to ignore a clear rise that keeps coming back."
+          ],
+          "visual": {
+            "type": "timeline",
+            "title": "What usually happens after a high prolactin result",
+            "items": [
+              {"when": "Step 1", "what": "Repeat the test in the morning, in calm conditions"},
+              {"when": "Step 2", "what": "Pregnancy test, TSH, kidney function and a medicine review"},
+              {"when": "Step 3", "what": "Macroprolactin check if the rise comes without symptoms"},
+              {"when": "Step 4", "what": "Pituitary MRI if the rise stays unexplained"},
+              {"when": "Step 5", "what": "Treat the cause and recheck prolactin after a few weeks"}
+            ]
+          }
+        }
+      ],
+      "tie": "With the Sihtak app you can scan your prolactin report with the lab scanner so the result and its unit are saved and charted from the first test to the repeat, and the AI assistant can convert between ng/mL and mIU/L and explain what the number means. Set reminders for any tablets your doctor prescribes, and keep your medicine list ready to show at the appointment. The app supports you, it does not replace your doctor.",
+      "faqs": [
+        {"q": "Do I need to fast before a prolactin test?", "a": "Fasting is not usually required, but it is best to avoid a large protein-rich meal just before the test. What matters most is a good night's sleep, a morning sample two to three hours after waking, and sitting quietly before the blood is drawn. Check the lab's own instructions."},
+        {"q": "Can stress raise prolactin?", "a": "Yes. Physical and emotional stress, including fear of needles, can raise prolactin slightly and temporarily. This is why doctors often repeat a mildly high result. Stress does not usually explain very high levels, though."},
+        {"q": "Can high prolactin stop me getting pregnant?", "a": "It can, because it suppresses ovulation and causes infrequent or absent periods. The good news is that treating the cause restores ovulation for many women. If you are trying to conceive and have a repeatedly high level, see a gynaecologist or endocrinologist."},
+        {"q": "What does macroprolactin mean on my report?", "a": "Macroprolactin is prolactin bound to antibodies in large, inactive clumps, which raise the number on the test without affecting the body. If most of the rise is macroprolactin and you have no symptoms, you usually need neither treatment nor an MRI. The lab detects it with an extra step called PEG precipitation."},
+        {"q": "Is a prolactinoma cancer?", "a": "No. In the vast majority of cases a prolactinoma is a benign growth in the pituitary gland. It is usually treated with tablets that lower the hormone and shrink the tumour, and surgery is rarely needed. It does need regular follow-up with an endocrinologist."},
+        {"q": "Can men have high prolactin?", "a": "Yes, although it is less common than in women. It usually shows up as low sex drive, erectile problems and reduced fertility. Some men delay seeing a doctor and their tumour is found when it is larger, so do not put off the test."},
+        {"q": "Should I stop my psychiatric medicine if it raises my prolactin?", "a": "Do not stop it on your own, because stopping an antipsychotic or antidepressant suddenly can cause a serious relapse. Discuss the result with the doctor who prescribed it, who may switch to another medicine or adjust the dose. The decision weighs the benefit of the medicine against the effect of the high hormone."},
+        {"q": "Does domperidone for bloating raise prolactin?", "a": "Yes. Domperidone and metoclopramide are among the most common medicines that raise prolactin, and many pharmacies sell them without a prescription. Tell your doctor and the lab if you have taken either before the test. Your result should not be interpreted until the doctor knows."}
+      ]
+    }
+  }
+}

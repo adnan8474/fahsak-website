@@ -1,0 +1,331 @@
+{
+  "slug": "kidney-stones-guide",
+  "category": "chronic-conditions",
+  "chip_ar": "أمراض مزمنة",
+  "chip_en": "Chronic Conditions",
+  "date_iso": "2026-09-27",
+  "sources": [
+    {"label": "Safdar OY, Alzahrani WA, Kurdi MA et al: The prevalence of renal stones among local residents in Saudi Arabia, Journal of family medicine and primary care, 2021", "url": "https://pubmed.ncbi.nlm.nih.gov/34041107/"},
+    {"label": "Amir A, Matlaga BR, Ziemba JB et al: Kidney stone composition in the Kingdom of Saudi Arabia , Clinical nephrology, 2018", "url": "https://pubmed.ncbi.nlm.nih.gov/29249235/"},
+    {"label": "Jendeberg J, Geijer H, Alshamari M et al: Size matters: The width and location of a ureteral stone accurately predict the chance of spontaneous passage, European radiology, 2017", "url": "https://pubmed.ncbi.nlm.nih.gov/28593428/"},
+    {"label": "Borghi L, Meschi T, Amato F et al: Urinary volume, water and recurrences in idiopathic calcium nephrolithiasis: a 5-year randomized prospective study, The Journal of urology, 1996", "url": "https://pubmed.ncbi.nlm.nih.gov/8583588/"},
+    {"label": "Haas CR, Li G, Hyams ES et al: Delayed Decompression of Obstructing Stones with Urinary Tract Infection is Associated with Increased Odds of Death, The Journal of urology, 2020", "url": "https://pubmed.ncbi.nlm.nih.gov/32501124/"},
+    {"label": "Pearle MS, Goldfarb DS, Assimos DG et al: Medical management of kidney stones: AUA guideline, The Journal of urology, 2014", "url": "https://pubmed.ncbi.nlm.nih.gov/24857648/"}
+  ],
+  "content": {
+    "ar": {
+      "title": "حصى الكلى: الأعراض والعلاج وكيف تمنع عودتها",
+      "desc": "ألم الكلية من أشد الآلام، وفي حر بلادنا تتكرر الحصى كثيرا. تعرف على الأعراض، ومتى تنزل الحصاة وحدها، ومتى تكون حالة طوارئ، وكيف تمنع عودتها فعلا.",
+      "keywords": "حصى الكلى, أعراض حصى الكلى, مغص كلوي, نزول حصوة الكلى, علاج حصى الكلى, الوقاية من حصى الكلى, أكسالات الكالسيوم, حصوة الحالب, تفتيت الحصى, دم في البول",
+      "h1": "حصى الكلى: كيف تعرفها، ومتى تنزل وحدها، وكيف تمنع رجوعها",
+      "takeaways": [
+        "حصى الكلى بلورات صلبة تتكون من أملاح البول حين يصبح البول مركزا، والحر وقلة الشرب يجعلانها شائعة جدا في الخليج والشرق الأوسط.",
+        "المغص الكلوي ألم شديد في الخاصرة يمتد إلى أسفل البطن أو الفخذ، ويأتي على موجات، وقد يرافقه دم في البول وغثيان.",
+        "الحصاة التي عرضها 4 ملم أو أقل تنزل وحدها في معظم الحالات، أما التي تتجاوز 6 ملم فغالبا تحتاج إلى تدخل.",
+        "الحرارة أو القشعريرة مع ألم الحصاة، أو توقف البول، حالة طوارئ تستدعي الذهاب إلى المستشفى فورا.",
+        "شرب ما يكفي لإخراج نحو لترين ونصف من البول يوميا هو أقوى وسيلة مثبتة لمنع عودة الحصى."
+      ],
+      "sections": [
+        {
+          "h2": "ما هي حصى الكلى ولماذا تكثر في بلادنا؟",
+          "paras": [
+            "حصى الكلى (Kidney stones) بلورات صلبة تتكون داخل الكلية حين يحمل البول أملاحا ومعادن أكثر مما يستطيع إذابته. تبدأ الحصاة ذرة صغيرة ثم تكبر طبقة فوق طبقة، وقد تبقى ساكنة في الكلية سنوات دون أعراض، أو تتحرك فجأة إلى الحالب، وهو الأنبوب الرفيع الذي ينقل البول من الكلية إلى المثانة. عندها يبدأ الألم الذي يصفه كثيرون بأنه أشد من ألم الولادة.",
+            "تقع منطقتنا ضمن ما يسميه الأطباء «حزام الحصى»، وهو شريط من البلدان الحارة الجافة يمتد من الخليج والجزيرة العربية مرورا بالعراق وبلاد الشام ومصر. السبب الأول بسيط: في الحر يفقد الجسم كثيرا من الماء بالتعرق، فيقل البول ويصبح مركزا، وهذه هي البيئة التي تتبلور فيها الأملاح. ويزيد الأمر سوءا العمل في الشمس، والسيارات والمكاتب التي ننتقل بينها دون أن نشعر بالعطش، وعادة الاكتفاء بالشاي والقهوة بدل الماء.",
+            "في دراسة أجريت في السعودية عام 2021 شملت 580 مشاركا من السكان، قال 9.1% منهم إنهم أصيبوا بحصى الكلى من قبل، وكان متوسط العمر عند التشخيص 29 عاما فقط. ولاحظ الباحثون أن 35.9% من المصابين لديهم قريب من الدرجة الأولى أصيب بالحصى، وربطوا ذلك جزئيا بارتفاع نسب زواج الأقارب. أي أن الحصى في بلادنا ليست مرض كبار السن، بل مشكلة شباب يعملون ويتنقلون في الحر.",
+            "الخبر الجيد أن معظم أسباب الحصى قابلة للتعديل. الحصاة الأولى إنذار، وإذا فهمت نوعها وسبب تكونها تستطيع أن تقلل كثيرا احتمال أن تعود إليك في السنوات القادمة."
+          ],
+          "visual": {
+            "type": "stats",
+            "title": "حصى الكلى في دراسة سعودية",
+            "items": [
+              {"value": "9.1%", "label": "من المشاركين أصيبوا بالحصى من قبل", "tone": "warn"},
+              {"value": "29 عاما", "label": "متوسط العمر عند التشخيص", "tone": "info"},
+              {"value": "35.9%", "label": "لديهم قريب درجة أولى مصاب", "tone": "neutral"}
+            ],
+            "source": "Safdar et al, Journal of Family Medicine and Primary Care, 2021",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/34041107/"
+          }
+        },
+        {
+          "h2": "أعراض حصى الكلى: كيف يبدو المغص الكلوي؟",
+          "paras": [
+            "العرض الأشهر هو المغص الكلوي (Renal colic): ألم حاد مفاجئ في الخاصرة أو أسفل الظهر من جهة واحدة، تحت الأضلاع. يأتي الألم على شكل موجات تشتد ثم تخف قليلا ثم تعود، لأن الحالب ينقبض محاولا دفع الحصاة. وكلما نزلت الحصاة في الحالب انتقل الألم إلى أسفل البطن ثم إلى الفخذ، وقد يمتد إلى الخصية عند الرجل أو إلى الشفرين عند المرأة.",
+            "ما يميز ألم الحصى أن المريض لا يستطيع أن يهدأ في وضعية واحدة. يتقلب في الفراش، يقوم ويجلس ويمشي في الغرفة، بعكس ألم التهاب الزائدة مثلا حيث يفضل المريض الثبات. كثيرا ما يرافق الألم غثيان وقيء وتعرق، وقد يظهر دم في البول، أحيانا بلون وردي أو بني واضح، وأحيانا لا يرى إلا تحت المجهر في تحليل البول (Urinalysis).",
+            "حين تقترب الحصاة من المثانة قد تشعر بحاجة ملحة ومتكررة للتبول، وحرقة، وإحساس بأن المثانة لا تفرغ تماما. هذه الأعراض تشبه التهاب المثانة، لذلك يخلط كثيرون بينهما ويأخذون مضادا حيويا من الصيدلية دون فحص، وهذا قد يؤخر التشخيص الصحيح.",
+            "ليست كل حصاة مؤلمة. الحصاة الساكنة داخل الكلية قد تكتشف صدفة في صورة صدى (Ultrasound) أجريت لسبب آخر. وجودها لا يعني دائما أنها تحتاج إلى علاج فوري، لكنه يعني أن عليك أن تبدأ بالوقاية وأن تتابعها مع طبيبك."
+          ]
+        },
+        {
+          "h2": "متى يكون ألم الحصى حالة طوارئ؟",
+          "paras": [
+            "أخطر ما في الحصى ليس الألم، بل اجتماع الانسداد مع الالتهاب. حين تسد الحصاة الحالب يتجمع البول خلفها، وإذا دخلته البكتيريا تحولت الكلية إلى كيس صديد مغلق لا يستطيع المضاد الحيوي وحده تنظيفه. هذه الحالة تسمى التهاب الكلية الانسدادي، وقد تتطور خلال ساعات إلى تسمم في الدم. العلاج هنا ليس الانتظار، بل فتح طريق للبول بسرعة، عادة بأنبوب داخلي (Stent) عبر المثانة أو أنبوب من الظهر إلى الكلية مباشرة.",
+            "أظهرت دراسة أمريكية كبيرة نشرت عام 2020 وحللت أكثر من 311 ألف حالة دخول مستشفى بسبب حصاة سادة مع التهاب، أن تأخير تصريف الكلية يومين أو أكثر بعد الدخول رفع احتمال الوفاة بنسبة 29%. لذلك إذا شعرت بالحرارة أو القشعريرة مع ألم الحصى، فلا تكتف بإبرة مسكن في عيادة صغيرة ثم تعود إلى البيت.",
+            "الحالة الثانية الخطيرة هي توقف البول أو قلته الشديدة، خاصة عند من لديه كلية واحدة أو حصى في الكليتين معا. وكذلك المرأة الحامل التي تشعر بألم في الخاصرة، والمريض الذي يتقيأ ولا يستطيع الاحتفاظ بأي سوائل، والألم الذي لا يستجيب للمسكنات. في كل هذه الحالات اذهب إلى قسم طوارئ في مستشفى فيه طبيب مسالك بولية وجهاز تصوير، لا إلى مستوصف."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "اذهب إلى طوارئ المستشفى فورا إذا",
+            "items": [
+              "ارتفعت حرارتك أو شعرت بقشعريرة ورجفة مع ألم الخاصرة",
+              "توقف البول أو صار قليلا جدا رغم الشرب",
+              "كانت لديك كلية واحدة، أو زرع كلية، أو حصى في الكليتين",
+              "كنت حاملا وتشعرين بألم في الخاصرة",
+              "تقيأت مرارا ولا تستطيع شرب أي شيء",
+              "لم يخف الألم رغم المسكن، أو شعرت بدوخة أو تشوش"
+            ]
+          }
+        },
+        {
+          "h2": "كيف يتم تشخيص حصى الكلى؟",
+          "paras": [
+            "يبدأ الطبيب عادة بتحليل البول للبحث عن الدم والالتهاب، وتحليل دم لقياس الكرياتينين (Creatinine) لمعرفة عمل الكلى، وتعداد الدم إذا كان هناك شك في التهاب. ارتفاع الكريات البيضاء في الدم أو وجود صديد في البول مع حرارة يغير الخطة كلها، لأنه يرجح وجود التهاب خلف الانسداد.",
+            "أدق وسيلة لرؤية الحصاة هي الأشعة المقطعية دون صبغة (Non-contrast CT KUB). فهي تظهر الحصاة مهما كان نوعها، وتحدد حجمها بالمليمتر ومكانها بالضبط، وهذان هما الرقمان اللذان يحددان العلاج. في كثير من المستشفيات تستخدم اليوم جرعة إشعاع منخفضة لهذا الفحص.",
+            "صورة الصدى خيار جيد وآمن للحامل والأطفال ولمتابعة الحصى المعروفة، لكنها أقل دقة في رؤية الحصى الصغيرة داخل الحالب. أما صورة الأشعة العادية للبطن (KUB X-ray) فقد لا تظهر حصى حمض اليوريك أصلا، لأنها لا تظهر في الأشعة السينية. إذا قيل لك إن صورتك العادية سليمة رغم الألم الشديد، فهذا لا ينفي وجود الحصاة."
+          ]
+        },
+        {
+          "h2": "هل تنزل الحصاة وحدها؟ الحجم هو الجواب",
+          "paras": [
+            "أهم سؤال بعد التشخيص: هل ستنزل الحصاة وحدها أم تحتاج إلى تدخل؟ الجواب يعتمد قبل كل شيء على عرض الحصاة بالمليمتر، ثم على مكانها. الحصاة القريبة من المثانة أسهل نزولا من الحصاة العالقة في أعلى الحالب قرب الكلية.",
+            "في دراسة سويدية شملت 392 مريضا لديهم حصوة في الحالب وتابعتهم 20 أسبوعا، نزلت 98% من الحصى التي عرضها 3 ملم أو أقل، و81% من حصى 4 ملم، و65% من حصى 5 ملم. ثم ينخفض الرقم بشدة: 33% فقط من حصى 6 ملم، و9% من الحصى التي عرضها 6.5 ملم أو أكثر. لذلك حين يقول لك الطبيب إن حصاتك 3 ملم وإنها ستنزل غالبا، فهو يتحدث من أرقام حقيقية.",
+            "خلال فترة الانتظار يصف الأطباء عادة مسكنات من فئة مضادات الالتهاب، وفي بعض الحالات دواء يرخي عضلات الحالب ليسهل مرور الحصاة، خاصة إذا كانت في الجزء السفلي منه. اسأل طبيبك كم أسبوعا سينتظر قبل أن يقرر التدخل، لأن الحصاة التي تبقى عالقة شهورا قد تضر الكلية بصمت حتى لو خف الألم.",
+            "إذا نزلت الحصاة، حاول أن تلتقطها بتصفية البول عبر مصفاة شاي نظيفة أو قطعة شاش، واحتفظ بها جافة في علبة صغيرة. تحليل الحصاة في المختبر يخبرك بنوعها، وهذا ما تبنى عليه الوقاية كلها."
+          ],
+          "visual": {
+            "type": "bar",
+            "title": "نسبة الحصى التي نزلت وحدها خلال 20 أسبوعا حسب عرضها",
+            "unit": "%",
+            "max": 100,
+            "items": [
+              {"label": "3 ملم أو أقل", "value": 98, "tone": "good"},
+              {"label": "4 ملم", "value": 81, "tone": "good"},
+              {"label": "5 ملم", "value": 65, "tone": "warn"},
+              {"label": "6 ملم", "value": 33, "tone": "bad"},
+              {"label": "6.5 ملم أو أكثر", "value": 9, "tone": "bad", "highlight": true}
+            ],
+            "source": "Jendeberg et al, European Radiology, 2017 (392 patients)",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/28593428/"
+          }
+        },
+        {
+          "h2": "علاج حصى الكلى الكبيرة: التفتيت والمنظار",
+          "paras": [
+            "إذا كانت الحصاة كبيرة أو لم تنزل بعد فترة كافية، أو كان الألم لا يحتمل، أو ظهر التهاب أو تراجع في عمل الكلية، يلجأ طبيب المسالك إلى إحدى ثلاث طرق رئيسية. يختار بينها حسب حجم الحصاة ومكانها ونوعها وصحة المريض والأجهزة المتوفرة في المستشفى.",
+            "التفتيت بالموجات الصادمة من خارج الجسم (ESWL) يوجه موجات صوتية قوية إلى الحصاة فتتكسر إلى فتات ينزل مع البول، دون جرح، وغالبا دون تخدير عام. يناسب الحصى المتوسطة داخل الكلية أو أعلى الحالب، لكنه أقل نجاحا مع الحصى الصلبة جدا. منظار الحالب (Ureteroscopy) يدخل عبر مجرى البول إلى الحالب أو الكلية، ويفتت الحصاة بالليزر أو يسحبها مباشرة، ونسبة نجاحه عالية. أما الحصى الكبيرة جدا في الكلية فقد تحتاج إلى منظار الكلية عبر الجلد (PCNL) من خلال فتحة صغيرة في الظهر.",
+            "بعد المنظار يترك الطبيب أحيانا أنبوبا داخليا مؤقتا بين الكلية والمثانة. هذا الأنبوب قد يسبب حرقة ورغبة متكررة في التبول ودما خفيفا، وهذا متوقع. المهم ألا تنسى موعد إزالته، لأن الأنبوب المنسي شهورا قد تتكلس عليه الأملاح ويصبح هو نفسه مشكلة كبيرة."
+          ]
+        },
+        {
+          "h2": "أنواع حصى الكلى وماذا يخبرك تحليل الحصاة",
+          "paras": [
+            "ليست كل الحصى متشابهة، ولكل نوع وقايته الخاصة. في دراسة حللت 1,747 حصاة في المنطقة الشرقية من السعودية على مدى 14 عاما، كانت نحو 85% منها من أكسالات الكالسيوم (Calcium oxalate) عند الرجال والنساء على حد سواء، وجاءت حصى حمض اليوريك (Uric acid) في المرتبة الثانية بنحو 10%. وكان 79% من المرضى رجالا.",
+            "معرفة النوع تغير النصيحة جذريا. صاحب حصى أكسالات الكالسيوم لا يحتاج إلى قطع الحليب واللبن، بل العكس، أما صاحب حصى حمض اليوريك فقد تذوب حصاته أحيانا بدواء يجعل البول أقل حموضة دون أي جراحة. لذلك اطلب تحليل الحصاة دائما، سواء نزلت وحدها أو أخرجها الطبيب بالمنظار.",
+            "إذا تكررت الحصى، أو ظهرت في سن صغيرة، أو كانت لديك كلية واحدة، يطلب الطبيب عادة جمع بول 24 ساعة (24-hour urine). يقيس هذا الفحص كمية البول والكالسيوم والأكسالات والسترات (Citrate) وحمض اليوريك والصوديوم، فيكشف السبب الحقيقي في جسمك أنت بدل النصائح العامة."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "أنواع الحصى الشائعة وما يساعد على الوقاية منها",
+            "head": ["نوع الحصاة", "ما الذي يرفع خطرها", "ما الذي يساعد"],
+            "rows": [
+              ["أكسالات الكالسيوم", "قلة البول، الملح الزائد، الإكثار من الأطعمة الغنية بالأكسالات، نقص السترات", "الماء، تقليل الملح، كمية طبيعية من الحليب ومشتقاته مع الوجبات"],
+              ["حمض اليوريك", "بول شديد الحموضة، الإكثار من اللحوم الحمراء والأحشاء، السكري، النقرس", "الماء، تقليل اللحوم، دواء يقلل حموضة البول يصفه الطبيب"],
+              ["فوسفات الكالسيوم", "بول قلوي، بعض الأمراض الأيضية", "يحدد الطبيب العلاج حسب تحليل البول"],
+              ["حصى الالتهاب (Struvite)", "التهابات بولية متكررة ببكتيريا معينة", "إزالة الحصاة كاملة وعلاج الالتهاب"],
+              ["السيستين (Cystine)", "مرض وراثي نادر، أكثر مع زواج الأقارب", "شرب كميات كبيرة جدا من الماء وعلاج متخصص"]
+            ],
+            "source": "Amir et al, Clinical Nephrology, 2018; Pearle et al, AUA guideline, 2014"
+          }
+        },
+        {
+          "h2": "كيف تمنع عودة حصى الكلى؟ الماء أولا",
+          "paras": [
+            "أقوى دليل على الوقاية يأتي من تجربة إيطالية عشوائية تابعت 199 شخصا بعد أول حصاة لمدة 5 سنوات. المجموعة التي طلب منها الإكثار من الماء فقط عادت الحصى عند 12 من كل 99 منهم، مقابل 27 من كل 100 في المجموعة التي لم تتلق أي نصيحة. أي أن الماء وحده قلل العودة إلى أقل من النصف. ولاحظ الباحثون أن كمية البول اليومية عند أصحاب الحصى كانت في البداية نحو لتر واحد فقط.",
+            "توصي الجمعية الأمريكية لجراحة المسالك بشرب ما يكفي لإخراج لترين ونصف من البول على الأقل يوميا. في صيف الخليج أو العراق أو أثناء العمل في الشمس، هذا يعني غالبا أكثر من ثلاثة لترات من السوائل، لأن جزءا كبيرا يخرج بالعرق. المقياس العملي هو لون البول: يجب أن يبقى فاتحا كالماء أو أصفر باهتا طوال اليوم، وأن تتبول مرة على الأقل خلال الليل. وفي رمضان حاول توزيع الماء بين الإفطار والسحور بدل شرب كمية كبيرة دفعة واحدة.",
+            "الملح هو العدو الثاني. الصوديوم يسحب الكالسيوم معه إلى البول، والمخللات والأجبان البيضاء المملحة ومكعبات المرق والشيبس واللحوم المصنعة تحمل كميات كبيرة منه. أما الكالسيوم في الطعام فلا تقطعه، لأن الكالسيوم في الحليب واللبن يرتبط بالأكسالات في الأمعاء ويمنع امتصاصها، والحمية الفقيرة بالكالسيوم ترفع خطر الحصى. المشكلة في حبوب الكالسيوم الإضافية التي تؤخذ دون حاجة، لا في كوب اللبن.",
+            "إذا كانت حصاتك من أكسالات الكالسيوم وأظهر بول 24 ساعة أن الأكسالات مرتفعة، خفف من السبانخ والسلق والشمندر واللوز والطحينة والسمسم والشوكولاتة والشاي الأسود الثقيل، دون أن تمنعها تماما. عصير الليمون في الماء يضيف قليلا من السترات التي تمنع التبلور، لكنه لا يغني عن سترات البوتاسيوم (Potassium citrate) إذا وصفها الطبيب بعد التحاليل. أما الوصفات الشعبية مثل الخلة وشعر الذرة فلا يوجد دليل قوي على أنها تذيب الحصى، وبعضها له آثار جانبية حقيقية، فلا تؤخر بها العلاج."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "خطة يومية لتقليل عودة الحصى",
+            "items": [
+              "احمل قارورة ماء معك واملأها عدة مرات في اليوم، أكثر في الصيف وأثناء العمل في الشمس",
+              "راقب لون البول، واجعله فاتحا طوال اليوم",
+              "قلل الملح والمخللات ومكعبات المرق والأطعمة المصنعة",
+              "تناول الحليب أو اللبن مع الوجبات ولا تقطع الكالسيوم الغذائي",
+              "خفف اللحوم الحمراء والأحشاء إذا كانت حصاتك من حمض اليوريك",
+              "احتفظ بالحصاة إذا نزلت واطلب تحليلها، واسأل عن بول 24 ساعة إذا تكررت"
+            ]
+          }
+        }
+      ],
+      "tie": "إذا سبق أن أصبت بحصاة، يساعدك تطبيق صحتك على حفظ نتائج تحليل البول والكرياتينين وتقرير تحليل الحصاة في مكان واحد، ومتابعة تغيرها من سنة إلى أخرى، حتى تعرض الصورة كاملة على طبيبك في أي زيارة.",
+      "faqs": [
+        {"q": "كم تستغرق حصوة الكلى حتى تنزل؟", "a": "معظم الحصى الصغيرة التي عرضها 4 ملم أو أقل تنزل خلال أيام إلى بضعة أسابيع، والحصى الأكبر تأخذ وقتا أطول ونسبة نزولها أقل بكثير. إذا لم تنزل الحصاة خلال أربعة إلى ستة أسابيع تقريبا، يعيد الطبيب التقييم عادة لأن بقاءها طويلا قد يضر الكلية."},
+        {"q": "ما الفرق بين ألم الحصى وألم الظهر العادي؟", "a": "ألم الظهر العضلي يزداد مع الحركة ويخف بالراحة، أما ألم الحصى فيأتي على موجات شديدة في الخاصرة ولا يرتاح المريض في أي وضعية. كثيرا ما يرافق ألم الحصى غثيان وقيء ودم في البول، ويمتد إلى أسفل البطن أو الفخذ."},
+        {"q": "هل الحليب ومشتقاته تسبب حصى الكلى؟", "a": "لا، الكالسيوم الموجود في الطعام يحمي غالبا من حصى أكسالات الكالسيوم لأنه يرتبط بالأكسالات في الأمعاء. الحمية الفقيرة بالكالسيوم ترفع خطر الحصى، والمشكلة قد تكون في حبوب الكالسيوم الإضافية التي تؤخذ دون حاجة طبية."},
+        {"q": "هل تعود حصى الكلى بعد إخراجها؟", "a": "نعم، الحصى تعود عند نسبة كبيرة من الناس إذا لم يتغير السبب. في تجربة إيطالية عادت الحصى خلال 5 سنوات عند 27 من كل 100 شخص لم يغيروا شيئا، وانخفضت إلى 12 من كل 99 عند من أكثروا من الماء."},
+        {"q": "هل حرارة مع ألم الكلية أمر خطير؟", "a": "نعم، الحرارة أو القشعريرة مع ألم حصاة قد تعني أن البول المحتبس خلف الحصاة أصيب بالتهاب، وهي حالة طوارئ. تحتاج إلى مستشفى يستطيع تصريف الكلية بأنبوب بسرعة، لا إلى مسكن ومضاد حيوي في البيت."},
+        {"q": "هل تظهر حصى الكلى في صورة الأشعة العادية؟", "a": "ليس دائما، فحصى حمض اليوريك لا تظهر في الأشعة السينية العادية، والحصى الصغيرة قد تختفي خلف الأمعاء. الأشعة المقطعية دون صبغة هي الأدق، والصدى خيار آمن للحامل والأطفال."},
+        {"q": "هل الشاي والقهوة يحسبان من السوائل اليومية؟", "a": "نعم يحسبان، لكن الماء هو الخيار الأفضل. الشاي الأسود الثقيل يحتوي على أكسالات، والمشروبات الغازية المحلاة والعصائر الصناعية المليئة بالسكر قد ترفع خطر الحصى، لذلك اجعل الماء معظم ما تشربه."}
+      ]
+    },
+    "en": {
+      "title": "Kidney Stones: Symptoms, Treatment and Prevention",
+      "desc": "Kidney stones are common in hot countries and they come back. Learn the symptoms, which stones pass alone, when pain is an emergency and what stops them recurring.",
+      "keywords": "kidney stones, kidney stone symptoms, renal colic, passing a kidney stone, kidney stone size, kidney stone treatment, prevent kidney stones, calcium oxalate stones, blood in urine, stone in ureter",
+      "h1": "Kidney Stones: How to Recognise Them, When They Pass on Their Own and How to Stop Them Coming Back",
+      "takeaways": [
+        "Kidney stones are hard crystals that form when urine is too concentrated, and heat and low fluid intake make them very common across the Gulf and Middle East.",
+        "Renal colic is severe pain in the side or lower back that comes in waves and spreads towards the groin, often with nausea and blood in the urine.",
+        "Most stones 4 mm wide or smaller pass on their own, while stones wider than 6 mm usually need a procedure.",
+        "Fever or shivering with stone pain, or passing little or no urine, is an emergency that needs a hospital straight away.",
+        "Drinking enough to pass about 2.5 litres of urine a day is the best proven way to stop stones coming back."
+      ],
+      "sections": [
+        {
+          "h2": "What are kidney stones and why are they so common here?",
+          "paras": [
+            "Kidney stones are hard crystals that form inside the kidney when urine carries more salts and minerals than it can keep dissolved. A stone starts as a tiny grain and grows layer by layer. It can sit quietly in the kidney for years without symptoms, or it can suddenly move into the ureter, the narrow tube that carries urine from the kidney to the bladder. That is when the pain begins, and many people describe it as the worst pain they have ever felt.",
+            "The Middle East sits inside what urologists call the stone belt, a band of hot, dry countries running through the Arabian Peninsula, the Gulf, Iraq, the Levant and Egypt. The main reason is simple. In heat the body loses a lot of water through sweat, so less urine is made and what is made is more concentrated, which is exactly the environment in which salts crystallise. Outdoor work, moving between air-conditioned cars and offices without feeling thirsty, and drinking tea and coffee in place of water all add to the risk.",
+            "In a 2021 survey of 580 residents of Saudi Arabia, 9.1% said they had already had a kidney stone, and the median age at diagnosis was only 29. The researchers also found that 35.9% of those affected had a first-degree relative with stones, and suggested the region's high rates of cousin marriage may play a part. In other words, stones here are not a disease of old age. They are a problem of working adults living and moving in the heat.",
+            "The good news is that most causes of stones can be changed. A first stone is a warning, and if you understand what type it was and why it formed, you can greatly reduce the chance of another one in the years ahead."
+          ],
+          "visual": {
+            "type": "stats",
+            "title": "Kidney stones in a Saudi community survey",
+            "items": [
+              {"value": "9.1%", "label": "had already had a kidney stone", "tone": "warn"},
+              {"value": "29", "label": "median age at diagnosis, in years", "tone": "info"},
+              {"value": "35.9%", "label": "had a first-degree relative with stones", "tone": "neutral"}
+            ],
+            "source": "Safdar et al, Journal of Family Medicine and Primary Care, 2021",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/34041107/"
+          }
+        },
+        {
+          "h2": "Kidney stone symptoms: what does renal colic feel like?",
+          "paras": [
+            "The classic symptom is renal colic: sudden, sharp pain in the side or lower back on one side, just below the ribs. It comes in waves that build, ease slightly and return, because the ureter is squeezing to push the stone along. As the stone moves down, the pain shifts towards the lower abdomen and the groin, and it can spread into the testicle in men or the labia in women.",
+            "What sets stone pain apart is that you cannot get comfortable. People with renal colic roll around, stand up, sit down and pace the room, unlike appendicitis, where people tend to lie still. Nausea, vomiting and sweating are common. Blood may appear in the urine, sometimes as an obvious pink or brown colour and sometimes only under the microscope on a urine test (urinalysis).",
+            "When the stone reaches the lower end of the ureter, close to the bladder, you may feel an urgent and frequent need to pass urine, burning, and a sense that the bladder never fully empties. These symptoms look very much like a bladder infection, so many people buy an antibiotic from the pharmacy without any test, which can delay the right diagnosis.",
+            "Not every stone hurts. A stone sitting still inside the kidney is often found by chance on an ultrasound done for another reason. Finding one does not always mean it needs treatment straight away, but it does mean it is time to start prevention and to keep an eye on it with your doctor."
+          ]
+        },
+        {
+          "h2": "When is kidney stone pain an emergency?",
+          "paras": [
+            "The most dangerous thing about a stone is not the pain but the combination of blockage and infection. When a stone blocks the ureter, urine builds up behind it. If bacteria get into that trapped urine, the kidney becomes a closed pocket of infection that antibiotics alone cannot clear. This is called obstructive pyelonephritis, and it can progress to blood poisoning (sepsis) within hours. The treatment is not to wait but to open a path for the urine quickly, usually with a stent passed up through the bladder or a tube placed through the back directly into the kidney.",
+            "A large American study published in 2020 looked at more than 311,000 hospital admissions for a blocking stone with a urinary infection. Waiting two or more days after admission to drain the kidney raised the odds of death by 29%. So if you have fever or shivering along with stone pain, do not settle for a painkilling injection at a small clinic and go home.",
+            "The second serious situation is passing no urine or very little, especially if you have only one kidney or stones on both sides. The same applies to a pregnant woman with pain in her side, to anyone who is vomiting and cannot keep fluids down, and to pain that strong painkillers do not touch. In any of these cases go to the emergency department of a hospital that has a urologist and a CT scanner, not to a local dispensary."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "Go to hospital emergency straight away if",
+            "items": [
+              "You have a fever, chills or shaking along with pain in your side",
+              "You are passing no urine, or very little, despite drinking",
+              "You have only one kidney, a kidney transplant, or stones in both kidneys",
+              "You are pregnant and have pain in your side",
+              "You are vomiting repeatedly and cannot keep any fluid down",
+              "The pain does not ease with painkillers, or you feel faint or confused"
+            ]
+          }
+        },
+        {
+          "h2": "How are kidney stones diagnosed?",
+          "paras": [
+            "A doctor will usually start with a urine test to look for blood and signs of infection, and a blood test for creatinine to check how well the kidneys are working. A full blood count is added if infection is suspected. A raised white cell count, or pus in the urine along with a fever, changes the whole plan, because it suggests infection behind a blockage.",
+            "The most accurate way to see a stone is a CT scan without contrast dye, often written on the request as non-contrast CT KUB. It shows stones of every type, measures them in millimetres and pinpoints where they are, and those two facts, size and position, decide the treatment. Many hospitals now use a low radiation dose for this scan.",
+            "Ultrasound is a safe and useful choice in pregnancy, in children and for following up known stones, but it is less reliable at spotting small stones inside the ureter. A plain abdominal X-ray (KUB X-ray) may miss uric acid stones completely, because they do not show up on X-ray. If you are told your plain X-ray is clear despite severe typical pain, that does not rule out a stone."
+          ]
+        },
+        {
+          "h2": "Will my kidney stone pass on its own? Size is the answer",
+          "paras": [
+            "The first question after diagnosis is whether the stone will pass by itself or needs a procedure. The answer depends above all on the width of the stone in millimetres, and then on where it sits. A stone near the bladder passes more easily than one stuck high in the ureter close to the kidney.",
+            "A Swedish study followed 392 people with a stone in the ureter for 20 weeks. It found that 98% of stones 3 mm wide or smaller passed on their own, along with 81% of 4 mm stones and 65% of 5 mm stones. Then the numbers fall sharply: only 33% of 6 mm stones passed, and just 9% of stones 6.5 mm or wider. So when a doctor tells you a 3 mm stone will probably pass, that advice rests on real numbers.",
+            "While waiting, doctors usually prescribe anti-inflammatory painkillers, and in some cases a medicine that relaxes the muscle of the ureter to help the stone through, especially when it is in the lower part. Ask your doctor how many weeks they plan to wait before stepping in, because a stone that stays stuck for months can quietly damage the kidney even after the pain settles.",
+            "If the stone passes, try to catch it by passing urine through a clean tea strainer or a piece of gauze, then keep it dry in a small container. A laboratory analysis of the stone tells you its type, and everything about prevention is built on that."
+          ],
+          "visual": {
+            "type": "bar",
+            "title": "Share of ureteral stones that passed on their own within 20 weeks, by width",
+            "unit": "%",
+            "max": 100,
+            "items": [
+              {"label": "3 mm or less", "value": 98, "tone": "good"},
+              {"label": "4 mm", "value": 81, "tone": "good"},
+              {"label": "5 mm", "value": 65, "tone": "warn"},
+              {"label": "6 mm", "value": 33, "tone": "bad"},
+              {"label": "6.5 mm or more", "value": 9, "tone": "bad", "highlight": true}
+            ],
+            "source": "Jendeberg et al, European Radiology, 2017 (392 patients)",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/28593428/"
+          }
+        },
+        {
+          "h2": "Treatment for larger kidney stones: shock waves and keyhole surgery",
+          "paras": [
+            "If a stone is large, has not passed after a reasonable wait, causes pain that cannot be controlled, or comes with infection or falling kidney function, a urologist will usually recommend one of three main procedures. The choice depends on the size, position and hardness of the stone, your general health and the equipment the hospital has.",
+            "Shock wave lithotripsy (ESWL) focuses strong sound waves on the stone from outside the body, breaking it into fragments that pass in the urine. There is no cut and usually no general anaesthetic. It suits medium-sized stones in the kidney or upper ureter but works less well on very hard stones. Ureteroscopy passes a thin telescope up through the urethra and bladder into the ureter or kidney, where the stone is broken with a laser or pulled out, and its success rate is high. Very large kidney stones may need percutaneous nephrolithotomy (PCNL), in which the stone is removed through a small opening in the back.",
+            "After ureteroscopy the surgeon sometimes leaves a temporary stent, a soft tube running from the kidney to the bladder. It can cause burning, a frequent urge to pass urine and some blood, all of which are expected. The important thing is never to miss the appointment to remove it, because a stent forgotten for months can become crusted with minerals and turn into a serious problem of its own."
+          ]
+        },
+        {
+          "h2": "Types of kidney stones and what a stone analysis tells you",
+          "paras": [
+            "Not all stones are the same, and each type has its own prevention. A study that analysed 1,747 stones over 14 years in the Eastern Province of Saudi Arabia found that about 85% were calcium oxalate in both men and women. Uric acid stones came second at about 10%. Men made up 79% of the patients.",
+            "Knowing the type changes the advice completely. A person with calcium oxalate stones does not need to cut out milk and yoghurt, quite the opposite. A person with uric acid stones can sometimes have the stone dissolved, without any surgery, by a medicine that makes the urine less acidic. So always ask for the stone to be analysed, whether it passed on its own or was removed by a surgeon.",
+            "If stones keep coming back, appear at a young age, or you have only one kidney, your doctor will usually ask for a 24-hour urine collection. This measures the volume of urine and the amounts of calcium, oxalate, citrate, uric acid and sodium in it, and shows the actual cause in your body rather than relying on general advice."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Common stone types and what helps prevent them",
+            "head": ["Stone type", "What raises the risk", "What helps"],
+            "rows": [
+              ["Calcium oxalate", "Low urine volume, too much salt, many high-oxalate foods, low citrate in urine", "Water, less salt, a normal amount of dairy with meals"],
+              ["Uric acid", "Very acidic urine, a lot of red meat and offal, diabetes, gout", "Water, less meat, a prescribed medicine that makes urine less acidic"],
+              ["Calcium phosphate", "Alkaline urine, some metabolic conditions", "Treatment guided by urine tests"],
+              ["Infection (struvite)", "Repeated urine infections with certain bacteria", "Complete removal of the stone and treating the infection"],
+              ["Cystine", "A rare inherited condition, more common with cousin marriage", "Very high fluid intake and specialist treatment"]
+            ],
+            "source": "Amir et al, Clinical Nephrology, 2018; Pearle et al, AUA guideline, 2014"
+          }
+        },
+        {
+          "h2": "How to stop kidney stones coming back: water first",
+          "paras": [
+            "The strongest evidence on prevention comes from an Italian randomised trial that followed 199 people for 5 years after their first stone. In the group told only to drink a lot of water, stones returned in 12 of 99 people, compared with 27 of 100 in the group given no advice. Water alone cut recurrence by more than half. The researchers also found that at the start, the stone formers were passing only about one litre of urine a day.",
+            "The American Urological Association advises drinking enough to pass at least 2.5 litres of urine a day. In a Gulf or Iraqi summer, or when working outdoors, that usually means well over three litres of fluid, because so much is lost as sweat. The practical test is the colour of your urine: it should stay pale, close to water, throughout the day, and you should need to get up at least once at night to pass urine. During Ramadan, spread your water between iftar and suhoor instead of drinking a large amount at once.",
+            "Salt is the second enemy. Sodium pulls calcium into the urine with it, and pickles, salty white cheese, stock cubes, crisps and processed meats carry a great deal of it. Do not cut calcium from your food, however. Calcium in milk and yoghurt binds oxalate in the gut and stops it being absorbed, and a low-calcium diet actually raises the risk of stones. The problem is calcium tablets taken without a medical reason, not a glass of laban.",
+            "If your stone was calcium oxalate and a 24-hour urine test shows high oxalate, cut back on spinach, chard, beetroot, almonds, tahini and sesame, chocolate and strong black tea, without banning them entirely. Lemon juice in water adds a little citrate, which discourages crystals, but it is no substitute for potassium citrate if a doctor prescribes it after testing. Folk remedies such as khella or corn silk tea have no strong evidence that they dissolve stones, and some have real side effects, so do not let them delay proper treatment."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "A daily plan to lower the chance of another stone",
+            "items": [
+              "Carry a water bottle and refill it several times a day, more in summer and when working in the sun",
+              "Check the colour of your urine and keep it pale all day",
+              "Cut down on salt, pickles, stock cubes and processed food",
+              "Have milk or yoghurt with meals and do not cut out dietary calcium",
+              "Eat less red meat and offal if your stone was uric acid",
+              "Keep any stone you pass for analysis, and ask about a 24-hour urine test if stones keep coming back"
+            ]
+          }
+        }
+      ],
+      "tie": "If you have had a stone, Sihtak lets you keep your urine tests, creatinine results and stone analysis report in one place and see how they change from year to year, so you can show your doctor the whole picture at any visit.",
+      "faqs": [
+        {"q": "How long does it take to pass a kidney stone?", "a": "Most small stones, 4 mm wide or less, pass within days to a few weeks, while larger stones take longer and are much less likely to pass at all. If a stone has not passed after roughly four to six weeks, doctors usually reassess, because a stone left in place for a long time can damage the kidney."},
+        {"q": "How can I tell kidney stone pain from ordinary back pain?", "a": "Muscular back pain gets worse with movement and eases with rest. Stone pain comes in severe waves in the side, and you cannot get comfortable in any position. It often comes with nausea, vomiting and blood in the urine, and spreads towards the lower abdomen or groin."},
+        {"q": "Does dairy cause kidney stones?", "a": "No. Calcium in food usually protects against calcium oxalate stones because it binds oxalate in the gut before it is absorbed. A low-calcium diet raises the risk of stones, and the concern is with calcium supplements taken without a medical reason."},
+        {"q": "Do kidney stones come back after treatment?", "a": "Yes, stones come back in many people if the cause does not change. In an Italian trial, stones returned within 5 years in 27 of 100 people who changed nothing, falling to 12 of 99 among those who drank more water."},
+        {"q": "Is a fever with kidney pain dangerous?", "a": "Yes. Fever or chills with stone pain can mean the urine trapped behind the stone is infected, which is an emergency. You need a hospital that can drain the kidney quickly with a tube, not a painkiller and antibiotics at home."},
+        {"q": "Do kidney stones show up on an ordinary X-ray?", "a": "Not always. Uric acid stones do not show on a plain X-ray, and small stones can be hidden behind the bowel. A CT scan without contrast is the most accurate test, and ultrasound is a safe option in pregnancy and for children."},
+        {"q": "Do tea and coffee count towards my daily fluids?", "a": "Yes, they count, but water is the better choice. Strong black tea contains oxalate, and sugary fizzy drinks and sweetened juices may raise the risk of stones, so make water most of what you drink."}
+      ]
+    }
+  }
+}

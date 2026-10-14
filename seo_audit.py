@@ -67,7 +67,8 @@ def pages():
     for root, dirs, files in os.walk(BASE):
         dirs[:] = [d for d in dirs if d not in skip]
         for f in files:
-            if f.endswith(".html"):
+            # google<token>.html is Search Console's ownership file: a bare token, not a page
+            if f.endswith(".html") and not re.fullmatch(r"google[0-9a-f]{16}\.html", f):
                 p = os.path.join(root, f)
                 yield p, "/" + os.path.relpath(p, BASE).replace(os.sep, "/")
 

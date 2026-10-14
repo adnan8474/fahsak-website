@@ -1,0 +1,376 @@
+{
+  "slug": "constipation-guide",
+  "category": "chronic-conditions",
+  "chip_ar": "أمراض مزمنة",
+  "chip_en": "Chronic Conditions",
+  "date_iso": "2026-10-09",
+  "sources": [
+    {"label": "Suares NC, Ford AC: Prevalence of, and risk factors for, chronic idiopathic constipation in the community: systematic review and meta-analysis, The American journal of gastroenterology, 2011", "url": "https://pubmed.ncbi.nlm.nih.gov/21606976/"},
+    {"label": "Alhassan M, Alhassan A, Alfarhood A et al: Prevalence of constipation among central region population, Riyadh and Qassim provinces, Saudi Arabia, 2018-2019, Journal of family medicine and primary care, 2019", "url": "https://pubmed.ncbi.nlm.nih.gov/30984693/"},
+    {"label": "Christodoulides S, Dimidi E, Fragkos KC et al: Systematic review with meta-analysis: effect of fibre supplementation on chronic idiopathic constipation in adults, Alimentary pharmacology & therapeutics, 2016", "url": "https://pubmed.ncbi.nlm.nih.gov/27170558/"},
+    {"label": "Tolkien Z, Stecher L, Mander AP et al: Ferrous sulfate supplementation causes significant gastrointestinal side-effects in adults: a systematic review and meta-analysis, PloS one, 2015", "url": "https://pubmed.ncbi.nlm.nih.gov/25700159/"},
+    {"label": "Trieu RQ, Prott G, Sequeira C et al: Using a footstool does not aid simulated defecation in undifferentiated constipation: A randomized trial, Neurogastroenterology and motility, 2023", "url": "https://pubmed.ncbi.nlm.nih.gov/36989181/"},
+    {"label": "Tabbers MM, DiLorenzo C, Berger MY et al: Evaluation and treatment of functional constipation in infants and children: evidence-based recommendations from ESPGHAN and NASPGHAN, Journal of pediatric gastroenterology and nutrition, 2014", "url": "https://pubmed.ncbi.nlm.nih.gov/24345831/"},
+    {"label": "Kothari S, Afshar Y, Friedman LS et al: AGA Clinical Practice Update on Pregnancy-Related Gastrointestinal and Liver Disease: Expert Review, Gastroenterology, 2024", "url": "https://pubmed.ncbi.nlm.nih.gov/39140906/"}
+  ],
+  "content": {
+    "ar": {
+      "title": "الإمساك: الأسباب والعلاج السريع ومتى تقلق",
+      "desc": "هل ما تعانيه إمساك فعلا؟ تعرف على شكل البراز الطبيعي، وأسباب الإمساك الشائعة في بلادنا، وما ينفع للتخلص منه، والعلامات التي تستدعي زيارة الطبيب دون تأخير.",
+      "keywords": "الإمساك, علاج الإمساك, أسباب الإمساك, الإمساك المزمن, ملين, الإمساك عند الأطفال, الإمساك في الحمل, مقياس بريستول للبراز, الألياف والإمساك, دم في البراز",
+      "h1": "الإمساك: ما أسبابه، وكيف ترتاح منه بسرعة، ومتى يكون علامة على شيء أخطر",
+      "takeaways": [
+        "الإمساك يعني براز قاسيا أو صعب الخروج أو أقل من ثلاث مرات في الأسبوع، وليس مجرد عدم الذهاب إلى الحمام يوميا.",
+        "أكثر الأسباب شيوعا في بلادنا قلة الألياف مع الخبز الأبيض والأرز، وقلة الماء في الحر، وبعض الأدوية مثل المسكنات التي تحتوي على الكودايين وحبوب الحديد.",
+        "زيادة الألياف تدريجيا مع الماء والحركة تحل معظم الحالات، وفي مراجعة لسبع تجارب تحسن 77% ممن أخذوا الألياف.",
+        "الاستخدام الطويل للسنامكي وشاي التنحيف الملين يسبب مشاكل أكبر من الإمساك نفسه.",
+        "الدم في البراز، أو نقص الوزن دون سبب، أو تغير عادة التبرز بعد سن الخمسين، أو فقر الدم، علامات تستدعي زيارة الطبيب لاستبعاد سرطان القولون."
+      ],
+      "sections": [
+        {
+          "h2": "ما هو الإمساك فعلا؟ ومتى يعتبر مشكلة؟",
+          "paras": [
+            "الإمساك (Constipation) ليس أن تمر عليك يوم بلا تبرز. يعرفه الأطباء بأنه تبرز أقل من ثلاث مرات في الأسبوع، أو براز قاس جاف، أو حاجة إلى الحزق الشديد، أو شعور بأن الأمعاء لم تفرغ تماما. ما بين ثلاث مرات في اليوم وثلاث مرات في الأسبوع يعتبر طبيعيا عند كثير من الناس، المهم أن يكون البراز لينا ويخرج دون معاناة.",
+            "يصبح الإمساك مزمنا (Chronic constipation) إذا استمرت هذه الأعراض ثلاثة أشهر أو أكثر. وهو شائع جدا: في مراجعة جمعت 45 دراسة شملت أكثر من 261 ألف شخص حول العالم، كانت نسبة الإمساك المزمن 14% تقريبا، وكان أكثر عند النساء بنحو الضعف، ويزيد مع التقدم في العمر وانخفاض الدخل.",
+            "في السعودية، وجدت دراسة شملت 543 شخصا في الرياض والقصيم نسبة أقل بكثير، 4.4%، باستخدام نظام نقاط صارم. هذا الفرق الكبير بين الدراسات يرجع غالبا إلى طريقة تعريف الإمساك، لكن اللافت في هذه الدراسة أن أقوى عاملين ارتبطا بالإمساك كانا التوتر الدائم وعدم شرب الماء الكافي، وهما أمران مألوفان جدا في حياتنا اليومية.",
+            "في معظم الحالات يكون الإمساك وظيفيا، أي أن الأمعاء سليمة لكن حركتها بطيئة أو أن طريقة التبرز غير صحيحة. وفي حالات أقل يكون علامة على مرض آخر، مثل كسل الغدة الدرقية أو السكري أو مرض في القولون نفسه، وهذا ما ستتعلم كيف تميزه في هذا المقال."
+          ]
+        },
+        {
+          "h2": "شكل البراز: ماذا يخبرك مقياس بريستول؟",
+          "paras": [
+            "يستخدم الأطباء في كل العالم مقياس بريستول للبراز (Bristol Stool Chart) لوصف شكل البراز بطريقة موحدة، لأن الشكل يقول عن سرعة مرور الطعام في الأمعاء أكثر مما يقوله عدد المرات. كلما بقي البراز في القولون مدة أطول امتص القولون منه الماء أكثر، فأصبح أقسى وأصغر.",
+            "النوعان الأول والثاني يعنيان الإمساك: كرات صغيرة قاسية تشبه حبات البندق، أو قطعة طويلة متكتلة. النوعان الثالث والرابع هما الشكل المثالي، قطعة لينة ناعمة على شكل نقانق. أما الأنواع من الخامس إلى السابع فتميل إلى الليونة الزائدة والإسهال.",
+            "قد تلاحظ أنك تذهب إلى الحمام كل يوم لكن برازك من النوع الأول، وهذا إمساك رغم انتظام المواعيد. وقد يحدث العكس، فتذهب كل يومين لكن برازك لين يخرج بسهولة، وهذا طبيعي ولا يحتاج إلى ملين. لذلك راقب الشكل قبل أن تقلق من العدد."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "مقياس بريستول لشكل البراز",
+            "head": ["النوع", "الشكل", "ماذا يعني"],
+            "rows": [
+              ["1", "كرات صغيرة قاسية منفصلة، صعبة الخروج", "إمساك شديد"],
+              ["2", "قطعة طويلة متكتلة", "إمساك خفيف"],
+              ["3", "قطعة طويلة بتشققات على سطحها", "طبيعي"],
+              ["4", "قطعة طويلة لينة وناعمة", "طبيعي، الشكل المثالي"],
+              ["5", "قطع لينة بحواف واضحة", "يميل إلى الليونة، قد يدل على نقص الألياف"],
+              ["6", "قطع هشة طرية بحواف غير منتظمة", "إسهال خفيف"],
+              ["7", "سائل بلا قطع صلبة", "إسهال"]
+            ]
+          }
+        },
+        {
+          "h2": "أسباب الإمساك الشائعة في بلادنا",
+          "paras": [
+            "السبب الأول هو الطعام. الخبز الأبيض والأرز الأبيض والمعجنات والحلويات أساس المائدة في كثير من بيوتنا، وكلها فقيرة بالألياف. الألياف هي الجزء من النبات الذي لا يهضم، فتبقى في الأمعاء وتمسك الماء وتعطي البراز حجما وليونة. والمفارقة أن مطبخنا التقليدي غني بالألياف: الفول والعدس والحمص والبرغل والفريكة والملوخية والخضار المطبوخة والتين والتمر، لكنها تراجعت أمام الوجبات السريعة والخبز الأبيض.",
+            "السبب الثاني هو قلة الماء. في الحر يخسر الجسم كثيرا من السوائل بالعرق، فيسحب القولون ما يستطيع من الماء من البراز. وكثيرون لا يشربون إلا الشاي والقهوة، أو ينتظرون العطش، وفي رمضان يتغير موعد الأكل والشرب كله. يضاف إلى ذلك قلة الحركة، والجلوس الطويل في العمل والسيارة، وتأجيل الذهاب إلى الحمام لأن حمامات العمل أو المدرسة أو الطريق غير نظيفة.",
+            "السبب الثالث، وهو كثيرا ما يغفل عنه الناس، هو الأدوية. المسكنات التي تحتوي على الكودايين (Codeine) تباع في بعض البلدان دون وصفة، وهي من أقوى مسببات الإمساك، وكذلك الترامادول. وحبوب الحديد التي توصف بكثرة للنساء والحوامل: في تحليل لـ 43 تجربة شملت 6,831 شخصا، ضاعفت كبريتات الحديد (Ferrous sulfate) تقريبا خطر الأعراض الهضمية مقارنة بالدواء الوهمي، ومنها الإمساك. إذا بدأ إمساكك بعد دواء جديد فأخبر طبيبك، ولا توقف الدواء الموصوف من تلقاء نفسك، فغالبا يوجد بديل أو حل."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "warn",
+            "title": "أدوية ومكملات شائعة قد تسبب الإمساك",
+            "items": [
+              "المسكنات التي تحتوي على الكودايين، والترامادول وغيره من المسكنات الأفيونية",
+              "حبوب الحديد، خاصة كبريتات الحديد",
+              "مضادات الحموضة التي تحتوي على الألمنيوم أو الكالسيوم، وحبوب الكالسيوم",
+              "بعض أدوية الاكتئاب والحساسية القديمة التي تسبب النعاس",
+              "بعض أدوية الضغط مثل فيراباميل",
+              "الإفراط في استخدام الملينات المنبهة نفسها على المدى الطويل"
+            ]
+          }
+        },
+        {
+          "h2": "كيف تتخلص من الإمساك بسرعة وبأمان؟",
+          "paras": [
+            "الخطوة الأولى والأهم هي الألياف. في مراجعة منهجية جمعت سبع تجارب عشوائية على بالغين يعانون من إمساك مزمن، تحسن 77% ممن أخذوا مكملات الألياف مقابل 44% ممن أخذوا دواء وهميا، وزاد عدد مرات التبرز وأصبح البراز أطرى. لكن الألياف زادت الغازات أيضا، لذلك أضفها تدريجيا على مدى أسبوعين أو ثلاثة: رغيف أسمر بدل الأبيض، صحن عدس أو فول، حبات تين أو برقوق مجفف، وخضار في كل وجبة.",
+            "الألياف دون ماء قد تزيد الأمر سوءا، لأنها تحتاج الماء لتنتفخ وتلين البراز. اجعل الماء رفيقك طوال النهار، واشرب أكثر في أيام الحر. والحركة تحرك الأمعاء: مشي نصف ساعة يوميا يساعد كثيرين، خاصة من يقضون يومهم جالسين.",
+            "استفد من منعكس طبيعي يسمى المنعكس المعدي القولوني، فالقولون ينشط عادة بعد الأكل، وخاصة بعد الفطور وفنجان الشاي أو القهوة الصباحي. خصص عشر دقائق بعد الفطور للجلوس في الحمام دون استعجال ودون هاتف، ولا تؤجل الرغبة حين تأتي. التأجيل المتكرر يعلم الأمعاء أن تتجاهل الإشارة.",
+            "ينصح كثيرون بوضع كرسي صغير تحت القدمين لرفع الركبتين أعلى من الوركين، أو استخدام المرحاض العربي. لكن الدليل هنا أضعف مما يشاع: في تجربة أسترالية على 41 مريضا بالإمساك عام 2023، غير الكرسي وضعية الجسم فعلا، لكنه لم يسهل التبرز في الاختبار ولم يشعر المرضى بفرق. جربه إن أحببت، فلا ضرر منه، لكن لا تعتمد عليه وحده."
+          ],
+          "visuals": [
+            {
+              "type": "bar",
+              "title": "نسبة من تحسن الإمساك عندهم في التجارب",
+              "unit": "%",
+              "max": 100,
+              "items": [
+                {"label": "مكملات الألياف", "value": 77, "tone": "good", "highlight": true},
+                {"label": "دواء وهمي", "value": 44, "tone": "neutral"}
+              ],
+              "source": "Christodoulides et al, Alimentary Pharmacology and Therapeutics, 2016 (7 trials)",
+              "source_url": "https://pubmed.ncbi.nlm.nih.gov/27170558/"
+            },
+            {
+              "type": "steps",
+              "title": "خطة أسبوعين للتخلص من الإمساك",
+              "items": [
+                "أضف حصة واحدة غنية بالألياف كل بضعة أيام: خبز أسمر، عدس، فول، برغل، تين، برقوق مجفف",
+                "اشرب الماء طوال اليوم، وزد الكمية في الحر ومع زيادة الألياف",
+                "امش نصف ساعة يوميا إن استطعت",
+                "اجلس في الحمام عشر دقائق بعد الفطور كل يوم، دون استعجال",
+                "لا تؤجل الرغبة في التبرز عندما تأتي",
+                "إذا لم تتحسن بعد أسبوعين، استشر الصيدلي أو الطبيب بدل تجربة الأعشاب"
+              ]
+            }
+          ]
+        },
+        {
+          "h2": "أنواع الملينات وأيها أنسب لك",
+          "paras": [
+            "إذا لم يكف تغيير الطعام والعادات، فالملينات (Laxatives) خيار معقول للاستخدام القصير، لكنها ليست كلها متشابهة. الصيدلي أو الطبيب يساعدك على اختيار النوع المناسب، خاصة إذا كنت حاملا أو كبيرا في السن أو تعاني من أمراض مزمنة أو تأخذ أدوية أخرى.",
+            "الملينات المكونة للكتلة، مثل قشور السيليوم (Psyllium) أو الإسبغول، هي ألياف مركزة تعمل مثل ألياف الطعام وتحتاج كمية جيدة من الماء معها. الملينات الأسموزية، مثل اللاكتولوز (Lactulose) والماكروغول (Macrogol)، تسحب الماء إلى الأمعاء فتلين البراز، وهي من أكثر ما يصفه الأطباء للإمساك المستمر. أما الملينات المنبهة، مثل السنامكي (Senna) والبيساكوديل (Bisacodyl)، فتحرك عضلات القولون مباشرة وتعمل خلال ساعات، وتناسب الاستخدام القصير فقط.",
+            "التحاميل والحقن الشرجية تستخدم حين يكون البراز قاسيا متجمعا في المستقيم، ولا ينبغي أن تصبح عادة. وإذا احتجت إلى ملين أكثر من أسبوعين متتاليين، فهذا بحد ذاته سبب لزيارة الطبيب، لا لزيادة الكمية."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "أنواع الملينات الرئيسية",
+            "head": ["النوع", "أمثلة", "كيف يعمل وملاحظات"],
+            "rows": [
+              ["مكون للكتلة", "السيليوم، الإسبغول", "ألياف تمسك الماء، يحتاج شرب الماء، يعمل خلال أيام"],
+              ["أسموزي", "اللاكتولوز، الماكروغول", "يسحب الماء إلى الأمعاء، شائع للإمساك المستمر"],
+              ["منبه", "السنامكي، البيساكوديل", "يحرك عضلات القولون خلال ساعات، للاستخدام القصير فقط"],
+              ["ملين للبراز", "دوكوسات", "يساعد الماء على دخول البراز، تأثيره خفيف"]
+            ]
+          }
+        },
+        {
+          "h2": "لماذا لا يجب الاعتماد على السنامكي وشاي الأعشاب الملين؟",
+          "paras": [
+            "في محلات العطارة والصيدليات تباع خلطات وأكياس شاي توصف بأنها طبيعية للتنحيف أو لتنظيف القولون، وكثير منها يحتوي على السنامكي أو أوراق مشابهة. لأنها طبيعية يظن الناس أنها آمنة للاستخدام اليومي، لكنها ملينات منبهة حقيقية بكل آثارها.",
+            "الاستخدام الطويل لهذه الملينات قد يسبب تقلصات مؤلمة، وإسهالا يفقدك الماء والبوتاسيوم، وهذا خطير خاصة في الحر وعند كبار السن ومن يأخذون أدوية القلب أو مدرات البول. وكثيرون يجدون أنهم يحتاجون كمية أكبر مع الوقت للحصول على النتيجة نفسها، فيدخلون في دائرة يصعب الخروج منها. ونقص الوزن الذي تعد به أكياس التنحيف هو ماء مفقود، لا دهون.",
+            "الخطر الأخفى أن الملين يخفي العرض. من يأخذ شاي الأعشاب كل ليلة قد لا يلاحظ أن عادة أمعائه تغيرت، أو أن الإمساك صار أسوأ، فيتأخر في اكتشاف سبب يحتاج إلى علاج. إذا كنت تستخدم السنامكي بانتظام فاقرأ مقالنا المفصل عن السنامكي والملينات، وتحدث مع طبيبك عن بديل آمن."
+          ]
+        },
+        {
+          "h2": "متى يكون الإمساك علامة على سرطان القولون أو مرض آخر؟",
+          "paras": [
+            "معظم الإمساك ليس خطيرا، لكن بعض العلامات تعني أن عليك ألا تكتفي بالعلاج في البيت. أهمها تغير جديد في عادة التبرز يستمر أكثر من بضعة أسابيع، خاصة بعد سن الخمسين، مثل إمساك لم يكن موجودا من قبل، أو تناوب الإمساك مع الإسهال، أو براز أرفع من المعتاد.",
+            "الدم في البراز علامة لا يجوز تجاهلها، حتى لو ظننت أنه من البواسير. البواسير شائعة مع الإمساك فعلا، لكن الطبيب وحده يستطيع أن يتأكد أن الدم منها وليس من القولون. وكذلك البراز الأسود الذي يشبه القطران، ونقص الوزن دون محاولة، وفقر الدم بنقص الحديد (Iron deficiency anaemia) عند رجل أو عند امرأة بعد سن اليأس، ووجود قريب من الدرجة الأولى أصيب بسرطان القولون.",
+            "في هذه الحالات قد يطلب الطبيب تحليل البراز للدم الخفي (FIT) أو منظار القولون (Colonoscopy). قد لا يتوفر المنظار بسهولة في كل مدينة، لكن تحليل الدم الخفي أصبح متاحا في كثير من المختبرات الخاصة ويعطي مؤشرا مبدئيا. ويطلب الطبيب أحيانا تحليل الغدة الدرقية (TSH) والسكر والكالسيوم لأنها أسباب قابلة للعلاج.",
+            "وهناك حالة طوارئ يجب أن تعرفها: إذا انتفخ بطنك بشدة مع ألم ولم يعد يخرج منك براز ولا غازات، وبدأت تتقيأ، فقد يكون هذا انسدادا في الأمعاء، واذهب إلى الطوارئ فورا."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "راجع الطبيب دون تأخير إذا ظهر مع الإمساك",
+            "items": [
+              "دم في البراز أو على المحارم، أو براز أسود كالقطران",
+              "نقص في الوزن دون سبب واضح",
+              "تغير جديد في عادة التبرز يستمر أسابيع، خاصة بعد سن الخمسين",
+              "فقر دم بنقص الحديد في التحاليل",
+              "قريب من الدرجة الأولى أصيب بسرطان القولون",
+              "طوارئ فورا: انتفاخ شديد وألم مع توقف خروج البراز والغازات وقيء"
+            ]
+          }
+        },
+        {
+          "h2": "الإمساك عند الأطفال",
+          "paras": [
+            "الإمساك من أكثر أسباب زيارة طبيب الأطفال، وغالبا يبدأ في ثلاث مراحل: عند الانتقال من الرضاعة إلى الطعام الصلب أو الحليب الصناعي، وأثناء تعلم استخدام الحمام، وعند دخول المدرسة حين يرفض الطفل استخدام حماماتها. يتألم الطفل مرة من براز قاس، فيبدأ بحبسه خوفا من الألم، فيتجمع البراز ويقسو أكثر، وتبدأ الدائرة.",
+            "علامات حبس البراز أن يقف الطفل متصلبا أو يشد ساقيه أو يختبئ في زاوية. وقد يتسرب براز لين يلوث ملابسه الداخلية، فيظن الأهل أنه إسهال أو إهمال من الطفل، بينما هو في الحقيقة تسرب حول كتلة براز قاسية. لا تعاقب الطفل على ذلك، فهو لا يتحكم فيه.",
+            "توصي إرشادات الجمعيتين الأوروبية والأمريكية لأمراض الجهاز الهضمي عند الأطفال بأن يأكل الطفل كمية طبيعية من الألياف والسوائل، وبتنظيم الجلوس على الحمام بعد الوجبات، وتعتبر الملينات الأسموزية مثل الماكروغول الخيار الأول حين يحتاج الطفل إلى دواء. لا تعط طفلك ملينا منبها أو شاي أعشاب أو حقنة شرجية من تلقاء نفسك، فالجرعة والنوع يحددهما الطبيب حسب العمر والوزن.",
+            "خذ الطفل إلى الطبيب بسرعة إذا بدأ الإمساك منذ الأسابيع الأولى بعد الولادة، أو تأخر خروج أول براز بعد الولادة أكثر من 48 ساعة، أو ظهر انتفاخ في البطن مع قيء، أو دم في البراز، أو ضعف في النمو أو الوزن."
+          ]
+        },
+        {
+          "h2": "الإمساك في الحمل",
+          "paras": [
+            "تعاني نسبة كبيرة من الحوامل من الإمساك، لأسباب عدة تجتمع معا. هرمون البروجسترون يبطئ حركة الأمعاء، والرحم المتنامي يضغط عليها، وحبوب الحديد التي توصف لمعظم الحوامل في منطقتنا تزيد البراز قساوة. ومع الغثيان في الأشهر الأولى قد تقل كمية الطعام والماء.",
+            "توضح مراجعة الجمعية الأمريكية لأمراض الجهاز الهضمي عام 2024 أن خيارات العلاج في الحمل تشمل ألياف الطعام، واللاكتولوز، والملينات المعتمدة على البولي إيثيلين غلايكول مثل الماكروغول. ابدئي دائما بالألياف والماء والمشي الخفيف، واستشيري طبيبتك أو الصيدلي قبل أي ملين.",
+            "تجنبي في الحمل زيت الخروع وخلطات الأعشاب الملينة، لأن بعضها قد ينبه انقباضات الرحم. وإذا كانت حبوب الحديد هي السبب، فلا توقفيها من نفسك، بل اسألي طبيبتك عن نوع آخر من الحديد أو عن طريقة أخرى لأخذه. والإمساك في الحمل يزيد البواسير، فعلاجه مبكرا يحميك منها."
+          ]
+        }
+      ],
+      "tie": "يساعدك تطبيق صحتك على تسجيل أدويتك ومكملاتك ونتائج تحاليلك مثل تعداد الدم والحديد و TSH في مكان واحد، فإذا بدأ الإمساك مع دواء جديد أو ظهر فقر دم، تستطيع أن تعرض على طبيبك الصورة كاملة بدل الاعتماد على الذاكرة.",
+      "faqs": [
+        {"q": "كم مرة يجب أن أتبرز حتى يكون الأمر طبيعيا؟", "a": "ما بين ثلاث مرات في اليوم وثلاث مرات في الأسبوع يعتبر طبيعيا عند معظم الناس. الأهم من العدد أن يكون البراز لينا ويخرج دون حزق شديد، أي من النوع الثالث أو الرابع على مقياس بريستول."},
+        {"q": "ما أسرع طريقة لعلاج الإمساك؟", "a": "للراحة السريعة قد يقترح الصيدلي ملينا مناسبا للاستخدام القصير. أما الحل الدائم فهو زيادة الألياف تدريجيا مع شرب الماء والحركة والجلوس في الحمام بعد الفطور، وهذا يحتاج عادة أسبوعين أو ثلاثة ليظهر أثره الكامل."},
+        {"q": "هل الاستخدام اليومي للسنامكي آمن؟", "a": "لا ينصح باستخدام السنامكي أو شاي الأعشاب الملين يوميا لفترات طويلة. قد يسبب تقلصات وفقدان الماء والبوتاسيوم، وكثيرون يحتاجون كمية أكبر مع الوقت، كما أنه قد يخفي تغيرا في عادة الأمعاء يحتاج إلى فحص."},
+        {"q": "هل حبوب الحديد تسبب الإمساك؟", "a": "نعم، حبوب الحديد وخاصة كبريتات الحديد من الأسباب الشائعة للإمساك والأعراض الهضمية الأخرى. لا توقفها من تلقاء نفسك إذا وصفها الطبيب، بل اسأله عن نوع آخر أو طريقة أخرى لأخذها، وزد الألياف والماء."},
+        {"q": "متى يكون الإمساك علامة على سرطان القولون؟", "a": "يستدعي الإمساك الفحص إذا كان تغيرا جديدا يستمر أسابيع بعد سن الخمسين، أو رافقه دم في البراز، أو نقص في الوزن، أو فقر دم بنقص الحديد. معظم هذه الحالات ليست سرطانا، لكن الطبيب وحده يستطيع استبعاده بالفحوص المناسبة."},
+        {"q": "هل يساعد الكرسي تحت القدمين على التبرز؟", "a": "يغير الكرسي وضعية الجسم فعلا، وبعض الناس يرتاحون معه. لكن تجربة على 41 مريضا بالإمساك عام 2023 لم تجد أنه يسهل التبرز، لذلك يمكنك تجربته دون ضرر، مع التركيز على الألياف والماء والحركة."},
+        {"q": "ماذا أفعل إذا كان طفلي يحبس البراز؟", "a": "لا تعاقبه، وشجعه على الجلوس في الحمام بعد الوجبات لبضع دقائق، واجعل طعامه وشرابه طبيعيين في الألياف والسوائل. إذا استمر الأمر أو كان البراز قاسيا ومؤلما، راجع طبيب الأطفال، فقد يصف ملينا مناسبا لعمره ووزنه."},
+        {"q": "ما الملينات الآمنة في الحمل؟", "a": "تشمل الخيارات التي تذكرها المراجعات الطبية الألياف واللاكتولوز والماكروغول. ابدئي بالألياف والماء والمشي، واستشيري طبيبتك قبل أي ملين، وتجنبي زيت الخروع وخلطات الأعشاب الملينة."}
+      ]
+    },
+    "en": {
+      "title": "Constipation: Causes, Quick Relief and When to Worry",
+      "desc": "Is it really constipation? Learn what a normal stool looks like, the common causes in hot climates, what actually brings relief, and the warning signs that need a doctor.",
+      "keywords": "constipation, constipation relief, causes of constipation, chronic constipation, laxatives, constipation in children, constipation in pregnancy, Bristol stool chart, fibre for constipation, blood in stool",
+      "h1": "Constipation: What Causes It, How to Get Relief Fast and When It Is a Sign of Something More Serious",
+      "takeaways": [
+        "Constipation means hard stools, stools that are difficult to pass, or fewer than three a week, not simply missing a day.",
+        "The most common causes in the region are low-fibre diets built on white bread and rice, too little water in the heat, and medicines such as codeine painkillers and iron tablets.",
+        "Gradually adding fibre, with water and movement, solves most cases, and in a review of seven trials 77% of people given fibre improved.",
+        "Long-term use of senna and herbal slimming or laxative teas causes more problems than the constipation itself.",
+        "Blood in the stool, weight loss without trying, a change in bowel habit after 50 or iron deficiency anaemia need a doctor to rule out bowel cancer."
+      ],
+      "sections": [
+        {
+          "h2": "What actually counts as constipation?",
+          "paras": [
+            "Constipation is not going a day without opening your bowels. Doctors define it as passing stools fewer than three times a week, passing hard, dry stools, having to strain hard, or feeling that your bowel has not fully emptied. Anything from three times a day to three times a week is normal for many people. What matters is that the stool is soft and passes without a struggle.",
+            "Constipation becomes chronic when these symptoms last three months or more. It is very common. A review that pooled 45 studies covering more than 261,000 people worldwide found that about 14% of adults have chronic constipation. It was roughly twice as common in women, and it became more common with age and with lower income.",
+            "In Saudi Arabia, a study of 543 people in Riyadh and Qassim found a much lower figure of 4.4% using a strict scoring system. Most of the gap between studies comes from how constipation is defined. What stands out in the Saudi study is that the two factors most strongly linked to constipation were constant stress and not drinking enough water, both very familiar in daily life here.",
+            "Most constipation is functional, meaning the bowel itself is healthy but moves slowly, or the way you open your bowels is not working well. Less often it is a sign of another condition, such as an underactive thyroid, diabetes or a problem in the bowel itself, and this page will show you how to tell the difference."
+          ]
+        },
+        {
+          "h2": "What your stool shape tells you: the Bristol stool chart",
+          "paras": [
+            "Doctors around the world use the Bristol Stool Chart to describe stool shape in a consistent way, because shape says more about how fast food moves through your gut than the number of visits does. The longer stool stays in the colon, the more water the colon absorbs from it, so it becomes harder and smaller.",
+            "Types 1 and 2 mean constipation: small, hard pellets like nuts, or a lumpy sausage. Types 3 and 4 are the ideal, a soft, smooth sausage shape. Types 5 to 7 are on the loose side and move towards diarrhoea.",
+            "You may find that you go every day but your stool is type 1, and that is constipation even though you are regular. The opposite also happens: you go every second day but the stool is soft and easy to pass, which is perfectly normal and does not need a laxative. So look at the shape before you worry about the number."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "The Bristol Stool Chart",
+            "head": ["Type", "What it looks like", "What it means"],
+            "rows": [
+              ["1", "Separate hard lumps, hard to pass", "Severe constipation"],
+              ["2", "Sausage-shaped but lumpy", "Mild constipation"],
+              ["3", "Sausage-shaped with cracks on the surface", "Normal"],
+              ["4", "Smooth, soft sausage or snake", "Normal, the ideal"],
+              ["5", "Soft blobs with clear-cut edges", "On the loose side, may mean too little fibre"],
+              ["6", "Fluffy, mushy pieces with ragged edges", "Mild diarrhoea"],
+              ["7", "Watery, no solid pieces", "Diarrhoea"]
+            ]
+          }
+        },
+        {
+          "h2": "Common causes of constipation in the Middle East",
+          "paras": [
+            "The first cause is food. White bread, white rice, pastries and sweets form the base of many family meals, and all of them are low in fibre. Fibre is the part of plant food that is not digested, so it stays in the bowel, holds on to water and gives stool bulk and softness. The irony is that traditional regional cooking is rich in fibre: ful, lentils, chickpeas, bulgur, freekeh, molokhia, cooked vegetables, figs and dates. They have simply lost ground to fast food and white bread.",
+            "The second cause is too little water. In the heat the body loses a lot of fluid through sweat, so the colon pulls as much water as it can out of the stool. Many people drink only tea and coffee, or wait until they feel thirsty, and during Ramadan the whole timing of eating and drinking changes. On top of this come too little movement, long hours sitting at work or in the car, and putting off the toilet because the facilities at work, school or on the road are not clean.",
+            "The third cause, often overlooked, is medicines. Painkillers containing codeine are sold without a prescription in some countries and are among the strongest causes of constipation, as is tramadol. Iron tablets are prescribed very widely to women and in pregnancy. An analysis of 43 trials involving 6,831 adults found that ferrous sulfate roughly doubled the risk of digestive side effects, including constipation, compared with a placebo. If your constipation started after a new medicine, tell your doctor, and do not stop a prescribed medicine on your own, because there is usually an alternative or a fix."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "warn",
+            "title": "Common medicines and supplements that can cause constipation",
+            "items": [
+              "Painkillers containing codeine, tramadol and other opioid painkillers",
+              "Iron tablets, especially ferrous sulfate",
+              "Antacids containing aluminium or calcium, and calcium tablets",
+              "Some antidepressants and older drowsy antihistamines",
+              "Some blood pressure medicines, such as verapamil",
+              "Long-term overuse of stimulant laxatives themselves"
+            ]
+          }
+        },
+        {
+          "h2": "How to relieve constipation quickly and safely",
+          "paras": [
+            "The first and most important step is fibre. A systematic review of seven randomised trials in adults with chronic constipation found that 77% of those given fibre supplements improved, compared with 44% given a placebo, and fibre increased how often people went and made stools softer. Fibre also caused more wind, so add it gradually over two or three weeks: brown bread instead of white, a bowl of lentils or ful, a few figs or prunes, and vegetables with every meal.",
+            "Fibre without water can make things worse, because it needs water to swell and soften the stool. Keep drinking water through the day, and drink more on hot days. Movement moves the bowel too. A half-hour walk every day helps many people, particularly those who spend the day sitting.",
+            "Make use of a natural reflex called the gastrocolic reflex. The colon usually becomes more active after eating, especially after breakfast and a morning cup of tea or coffee. Set aside ten minutes after breakfast to sit on the toilet without rushing and without your phone, and never ignore the urge when it comes. Putting it off again and again teaches the bowel to ignore the signal.",
+            "Many people recommend a small footstool to raise the knees above the hips, or using a squat toilet. The evidence is weaker than its popularity suggests. In a 2023 Australian trial of 41 patients with constipation, a footstool did change body posture, but it did not make passing a test balloon any easier and patients felt no difference. Try it if you like, as it does no harm, but do not rely on it alone."
+          ],
+          "visuals": [
+            {
+              "type": "bar",
+              "title": "Share of people whose constipation improved in trials",
+              "unit": "%",
+              "max": 100,
+              "items": [
+                {"label": "Fibre supplements", "value": 77, "tone": "good", "highlight": true},
+                {"label": "Placebo", "value": 44, "tone": "neutral"}
+              ],
+              "source": "Christodoulides et al, Alimentary Pharmacology and Therapeutics, 2016 (7 trials)",
+              "source_url": "https://pubmed.ncbi.nlm.nih.gov/27170558/"
+            },
+            {
+              "type": "steps",
+              "title": "A two-week plan to get things moving",
+              "items": [
+                "Add one fibre-rich portion every few days: brown bread, lentils, ful, bulgur, figs, prunes",
+                "Drink water through the day, and more in the heat and as you add fibre",
+                "Walk for half an hour a day if you can",
+                "Sit on the toilet for ten minutes after breakfast every day, without rushing",
+                "Do not put off the urge to go when it comes",
+                "If nothing has improved after two weeks, ask a pharmacist or doctor rather than trying herbal mixtures"
+              ]
+            }
+          ]
+        },
+        {
+          "h2": "Types of laxatives and which one suits you",
+          "paras": [
+            "If changes to food and habits are not enough, laxatives are a reasonable short-term option, but they are not all alike. A pharmacist or doctor can help you choose the right type, especially if you are pregnant, older, living with a long-term condition or taking other medicines.",
+            "Bulk-forming laxatives, such as psyllium husk, also sold as ispaghula, are concentrated fibre that works like fibre in food and needs plenty of water with it. Osmotic laxatives, such as lactulose and macrogol, draw water into the bowel to soften the stool, and they are among the laxatives doctors prescribe most often for ongoing constipation. Stimulant laxatives, such as senna and bisacodyl, push the bowel muscles directly and work within hours, and they are suited to short-term use only.",
+            "Suppositories and enemas are used when hard stool has collected in the rectum, and they should not become a habit. If you find you need a laxative for more than two weeks in a row, that is in itself a reason to see a doctor, not a reason to take more."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "The main types of laxatives",
+            "head": ["Type", "Examples", "How it works and notes"],
+            "rows": [
+              ["Bulk-forming", "Psyllium, ispaghula", "Fibre that holds water, needs fluid, works over days"],
+              ["Osmotic", "Lactulose, macrogol", "Draws water into the bowel, common for ongoing constipation"],
+              ["Stimulant", "Senna, bisacodyl", "Pushes the bowel muscles within hours, short-term use only"],
+              ["Stool softener", "Docusate", "Helps water enter the stool, mild effect"]
+            ]
+          }
+        },
+        {
+          "h2": "Why you should not rely on senna or herbal laxative teas",
+          "paras": [
+            "Herbal shops and pharmacies sell blends and tea bags marketed as natural slimming teas or colon cleansers, and many of them contain senna or similar leaves. Because they are natural, people assume they are safe to use every day, but they are true stimulant laxatives with all of the effects that come with that.",
+            "Long-term use can cause painful cramps and diarrhoea that drains water and potassium from the body, which is dangerous in the heat, in older people and in anyone taking heart medicines or water tablets. Many people find they need more and more over time to get the same effect, and end up in a cycle that is hard to break. The weight loss promised on slimming tea packets is lost water, not fat.",
+            "The hidden danger is that the laxative masks the symptom. Someone who drinks a herbal tea every night may not notice that their bowel habit has changed, or that the constipation is getting worse, and so may be late finding a cause that needs treatment. If you use senna regularly, read our detailed article on senna and laxative safety, and talk to your doctor about a safer alternative."
+          ]
+        },
+        {
+          "h2": "When is constipation a sign of bowel cancer or another illness?",
+          "paras": [
+            "Most constipation is not serious, but some signs mean you should not just treat it at home. The most important is a new change in bowel habit that lasts more than a few weeks, especially after the age of 50. That might be constipation you never had before, constipation alternating with diarrhoea, or stools that are narrower than usual.",
+            "Blood in the stool should never be ignored, even if you think it is from piles. Piles are common with constipation, but only a doctor can confirm that the blood is coming from them and not from the bowel. The same applies to black, tar-like stools, losing weight without trying, iron deficiency anaemia in a man or in a woman after menopause, and having a close relative who has had bowel cancer.",
+            "In these cases a doctor may ask for a stool test for hidden blood (FIT) or a colonoscopy, a camera test of the bowel. Colonoscopy may not be easy to get in every city, but the FIT test is now offered by many private laboratories and gives a useful first indication. The doctor may also check thyroid function (TSH), blood sugar and calcium, because these are treatable causes.",
+            "There is also an emergency you should know about. If your belly becomes badly swollen and painful, you are passing no stool and no wind, and you start vomiting, this may be a blocked bowel. Go to the emergency department straight away."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "See a doctor without delay if constipation comes with",
+            "items": [
+              "Blood in the stool or on the tissue, or black, tar-like stools",
+              "Weight loss without a clear reason",
+              "A new change in bowel habit lasting weeks, especially after 50",
+              "Iron deficiency anaemia on a blood test",
+              "A close relative who has had bowel cancer",
+              "Emergency now: severe swelling and pain with no stool or wind and vomiting"
+            ]
+          }
+        },
+        {
+          "h2": "Constipation in children",
+          "paras": [
+            "Constipation is one of the most common reasons children see a doctor, and it usually starts at one of three points: moving from breast milk to solid food or formula, toilet training, and starting school, when a child refuses to use the school toilets. A child has one painful hard stool, starts holding on for fear of the pain, the stool builds up and gets harder, and the cycle begins.",
+            "Signs of holding include standing stiffly, crossing the legs or hiding in a corner. Soft stool may leak and soil the underwear, which parents often mistake for diarrhoea or carelessness, when it is really leakage around a hard mass of stool. Do not punish a child for this, as they cannot control it.",
+            "Guidelines from the European and North American societies for paediatric gastroenterology recommend a normal amount of fibre and fluid for the child's age, regular sitting on the toilet after meals, and osmotic laxatives such as macrogol as the first choice when medicine is needed. Do not give your child a stimulant laxative, a herbal tea or an enema on your own, because the type and dose are decided by the doctor based on age and weight.",
+            "Take your child to a doctor promptly if constipation started in the first weeks of life, if the first stool after birth came more than 48 hours late, or if there is a swollen belly with vomiting, blood in the stool, or poor growth or weight gain."
+          ]
+        },
+        {
+          "h2": "Constipation in pregnancy",
+          "paras": [
+            "Many pregnant women get constipated, for several reasons that add up. The hormone progesterone slows the bowel, the growing womb presses on it, and the iron tablets prescribed to most pregnant women in the region make stools harder. Nausea in the early months can also cut down how much you eat and drink.",
+            "A 2024 review from the American Gastroenterological Association notes that treatment options in pregnancy include dietary fibre, lactulose and polyethylene glycol laxatives such as macrogol. Always start with fibre, water and gentle walking, and check with your doctor or pharmacist before taking any laxative.",
+            "Avoid castor oil and herbal laxative blends in pregnancy, as some can trigger contractions of the womb. If iron tablets are the cause, do not stop them yourself. Ask your doctor about a different form of iron or a different way of taking it. Constipation in pregnancy also makes piles more likely, so treating it early protects you from them."
+          ]
+        }
+      ],
+      "tie": "Sihtak lets you record your medicines, supplements and results such as your blood count, iron and TSH in one place, so if constipation starts with a new medicine or anaemia shows up, you can show your doctor the whole picture instead of relying on memory.",
+      "faqs": [
+        {"q": "How often should I open my bowels for it to be normal?", "a": "Anything from three times a day to three times a week is normal for most people. What matters more than the number is that the stool is soft and passes without hard straining, meaning type 3 or 4 on the Bristol Stool Chart."},
+        {"q": "What is the fastest way to relieve constipation?", "a": "For quick relief a pharmacist may suggest a laxative suitable for short-term use. The lasting fix is to add fibre gradually with water, movement and a regular sit on the toilet after breakfast, which usually takes two to three weeks to show its full effect."},
+        {"q": "Is it safe to take senna every day?", "a": "Daily use of senna or herbal laxative teas over long periods is not advised. It can cause cramps and loss of water and potassium, many people need more over time, and it can hide a change in bowel habit that needs checking."},
+        {"q": "Can iron tablets cause constipation?", "a": "Yes. Iron tablets, especially ferrous sulfate, are a common cause of constipation and other digestive side effects. Do not stop them yourself if a doctor prescribed them, but ask about another form or a different way of taking them, and increase fibre and water."},
+        {"q": "When is constipation a sign of bowel cancer?", "a": "Constipation needs checking if it is a new change lasting weeks after the age of 50, or if it comes with blood in the stool, weight loss or iron deficiency anaemia. Most of these cases are not cancer, but only a doctor can rule it out with the right tests."},
+        {"q": "Does a footstool help with constipation?", "a": "A footstool does change your posture, and some people find it more comfortable. However, a 2023 trial of 41 people with constipation found it did not make passing stool easier, so you can try it without harm while focusing on fibre, water and movement."},
+        {"q": "What should I do if my child is holding in their stool?", "a": "Do not punish them. Encourage a few minutes on the toilet after meals and keep their food and drinks normal in fibre and fluid. If it continues or the stools are hard and painful, see a paediatrician, who may prescribe a laxative suited to their age and weight."},
+        {"q": "Which laxatives are safe in pregnancy?", "a": "Options described in medical reviews include fibre, lactulose and macrogol. Start with fibre, water and walking, check with your doctor before any laxative, and avoid castor oil and herbal laxative blends."}
+      ]
+    }
+  }
+}

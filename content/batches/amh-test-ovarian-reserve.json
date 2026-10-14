@@ -1,0 +1,383 @@
+{
+  "slug": "amh-test-ovarian-reserve",
+  "category": "lab-tests",
+  "chip_ar": "فهم التحاليل",
+  "chip_en": "Understanding Lab Tests",
+  "date_iso": "2026-09-24",
+  "sources": [
+    {"label": "Steiner AZ, Pritchard D, Stanczyk FZ et al: Association Between Biomarkers of Ovarian Reserve and Infertility Among Older Women of Reproductive Age, JAMA, 2017", "url": "https://pubmed.ncbi.nlm.nih.gov/29049585/"},
+    {"label": "Melado L, Vitorino R, Coughlan C et al: Ethnic and Sociocultural Differences in Ovarian Reserve: Age-Specific Anti-Müllerian Hormone Values and Antral Follicle Count for Women of the Arabian Peninsula, Frontiers in endocrinology, 2021", "url": "https://pubmed.ncbi.nlm.nih.gov/34745004/"},
+    {"label": "El-Attar EA, Hosny TA, Ichihara K et al: Nomogram of age-specific anti-Müllerian hormone levels in healthy Egyptian females, PloS one, 2021", "url": "https://pubmed.ncbi.nlm.nih.gov/34310641/"},
+    {"label": "Ahmed N, Batarfi AA, Bajouh OS et al: Serum Anti-Müllerian Hormone in the Diagnosis of Polycystic Ovary Syndrome in Association with Clinical Symptoms, Diagnostics (Basel, Switzerland), 2019", "url": "https://pubmed.ncbi.nlm.nih.gov/31581541/"},
+    {"label": "Teede HJ, Tay CT, Laven JJE et al: Recommendations From the 2023 International Evidence-based Guideline for the Assessment and Management of Polycystic Ovary Syndrome, The Journal of clinical endocrinology and metabolism, 2023", "url": "https://pubmed.ncbi.nlm.nih.gov/37580314/"},
+    {"label": "Al-Rawi SA, Saleh BO, Al-Naqqash MA et al: Serum anti-müllerian hormone levels in evaluation of chemotherapy effect on ovarian reserve in women with breast cancer. A follow-up study, Saudi medical journal, 2018", "url": "https://pubmed.ncbi.nlm.nih.gov/29968900/"}
+  ],
+  "content": {
+    "ar": {
+      "title": "تحليل مخزون البيض AMH: ماذا تعني نتيجتك فعلا؟",
+      "desc": "تحليل AMH يقدر عدد البويضات المتبقية، لا جودتها ولا فرصتك في الحمل الطبيعي. اعرفي المعدل حسب العمر، وتحويل الوحدات، ومتى يفيد التحليل فعلا ومتى لا يفيد.",
+      "keywords": "تحليل مخزون البيض, هرمون AMH, معدل AMH الطبيعي حسب العمر, انخفاض مخزون المبيض, ارتفاع AMH وتكيس المبايض, تحويل ng/mL إلى pmol/L, الهرمون المضاد لمولر, AMH وأطفال الأنابيب, هل يمكن الحمل مع مخزون منخفض",
+      "h1": "تحليل مخزون البيض (AMH): ما الذي يقوله عن مبايضك وما الذي لا يقوله",
+      "takeaways": [
+        "تحليل AMH يقدر عدد البويضات المتبقية في المبيضين، ولا يقيس جودتها.",
+        "في دراسة شملت 750 امرأة بين 30 و44 عاما، لم يقلل انخفاض AMH فرصة الحمل الطبيعي خلال سنة.",
+        "ينخفض AMH طبيعيا مع العمر، فلا معنى للرقم إلا مع عمرك والوحدة التي يستخدمها مختبرك.",
+        "ارتفاع AMH شائع في تكيس المبايض، لكنه لا يكفي وحده للتشخيص.",
+        "يفيد التحليل فعلا قبل أطفال الأنابيب، وقبل علاج السرطان، وعند التخطيط لتوقيت الإنجاب."
+      ],
+      "sections": [
+        {
+          "h2": "ماذا يقيس تحليل مخزون البيض؟",
+          "paras": [
+            "الهرمون المضاد لمولر (Anti-Müllerian Hormone)، ويكتب في ورقة التحليل AMH، هرمون تفرزه الحويصلات الصغيرة في المبيض، وهي أكياس دقيقة مملوءة بسائل تحتضن كل منها بويضة غير ناضجة. كلما زاد عدد هذه الحويصلات ارتفع مستوى AMH في الدم. لذلك يستخدم التحليل لتقدير عدد البويضات المتبقية في المبيضين، وهو ما يسميه الأطباء مخزون المبيض (Ovarian reserve). إنه مقياس للكمية فقط، لا أكثر.",
+            "أما ما لا يقيسه التحليل فلا يقل أهمية. فهو لا يخبرك بجودة البويضات، أي سلامتها الوراثية، وهي السبب الرئيسي لتراجع الخصوبة مع العمر. ولا يكشف إن كانت قناتا فالوب مفتوحتين، أو إن كانت الإباضة تحدث كل شهر، أو إن كان السائل المنوي لدى الزوج سليما. والأهم أنه لا يتنبأ جيدا بسرعة حدوث الحمل الطبيعي لدى امرأة لا تخضع لأطفال الأنابيب.",
+            "تولد المرأة ومعها كل البويضات التي ستملكها في حياتها، ثم يتناقص عددها باستمرار، ويتسارع هذا التناقص في أواخر الثلاثينيات. يتابع AMH هذا التناقص، ولهذا قد تكون النتيجة نفسها مطمئنة لامرأة في الثانية والأربعين، وتستحق النقاش لفتاة في الثامنة والعشرين.",
+            "كثيرا ما تخرج امرأة في أوائل الثلاثينيات من مختبر خاص وهي تحمل ورقة مكتوبا عليها أن مخزونها منخفض، فتظن أن الباب أغلق في وجهها، وتبدأ أسئلة الأهل والجارات تثقل عليها. في أغلب الحالات هذا الاستنتاج خاطئ، وسنشرح لماذا، ومتى يكون التحليل مفيدا فعلا، ومتى يكون من الأفضل عدم إجرائه أصلا."
+          ]
+        },
+        {
+          "h2": "هل انخفاض AMH يعني أنك لن تحملي طبيعيا؟",
+          "paras": [
+            "لا. أقوى دليل على ذلك دراسة نشرت في مجلة JAMA الطبية عام 2017، تابع فيها باحثون في ولاية كارولاينا الشمالية الأمريكية 750 امرأة تتراوح أعمارهن بين 30 و44 عاما، لم يسبق أن عانين من تأخر الحمل، وكن قد بدأن محاولة الإنجاب حديثا. قيس AMH في البداية، ثم رصد الباحثون من حملت منهن وبعد كم شهرا.",
+            "النساء اللواتي كان AMH لديهن منخفضا، أي أقل من 0.7 ng/mL، كانت فرصة حملهن خلال ست دورات 65%، مقابل 62% لدى من كان مستواهن طبيعيا. وبعد اثنتي عشرة دورة بلغت النسبتان 84% و75%. الفرق لم يكن ذا دلالة إحصائية، أي أن انخفاض AMH لم يرتبط بانخفاض الخصوبة. وخلص الباحثون إلى أن هذا التحليل لا يصلح لتقييم الخصوبة الطبيعية لدى نساء في مثل هذه الظروف.",
+            "السبب بسيط حين تفكرين فيه: الحمل الطبيعي يحتاج إلى بويضة واحدة جيدة كل شهر، والمرأة ذات المخزون المنخفض تطلق في الغالب بويضة في كل دورة. ما يحدد قدرة هذه البويضة على أن تصبح حملا سليما هو جودتها، والجودة يحكمها العمر لا AMH. لذلك تكون فرصة امرأة في الثانية والثلاثين بمخزون منخفض أفضل عادة من فرصة امرأة في الثانية والأربعين بمخزون مرتفع.",
+            "للنتيجة المنخفضة معنى حقيقي واحد: قد تشير إلى أن سنوات الخصوبة قد تنتهي أبكر قليلا من المتوسط، وأن سن اليأس قد يأتي مبكرا. هذه معلومة مفيدة للتخطيط، لا حكم على قدرتك على الحمل الآن."
+          ],
+          "visual": {
+            "type": "bar",
+            "title": "فرصة الحمل الطبيعي خلال 12 دورة لدى نساء بين 30 و44 عاما",
+            "unit": "%",
+            "max": 100,
+            "items": [
+              {"label": "AMH منخفض (أقل من 0.7 ng/mL)", "value": 84, "tone": "info"},
+              {"label": "AMH طبيعي", "value": 75, "tone": "good"}
+            ],
+            "source": "Steiner et al, JAMA, 2017",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/29049585/"
+          }
+        },
+        {
+          "h2": "ما هو المعدل الطبيعي لتحليل AMH حسب العمر؟",
+          "paras": [
+            "لا يوجد رقم طبيعي واحد لـ AMH، لأن من الطبيعي أن ينخفض مع التقدم في العمر. يجب مقارنة نتيجتك بنساء في عمرك، ويفضل أن يكون القياس بالنوع نفسه من الأجهزة. ومعظم الجداول المنشورة مأخوذة من نساء أوروبيات أو من شرق آسيا، لذلك تكتسب البيانات العربية أهمية خاصة.",
+            "أكبر قاعدة بيانات للنساء العربيات جاءت من دراسة نشرت عام 2021 شملت 2495 امرأة من أهل شبه الجزيرة العربية راجعن مراكز خصوبة في أبوظبي ودبي. بلغ الوسيط 3.70 ng/mL لدى من أعمارهن 25 عاما أو أقل، وانخفض إلى 1.35 ng/mL بين 36 و40 عاما. حتى سن 36 كان الانخفاض نحو 0.1 ng/mL سنويا، ثم تسارع بين 36 و40 ليصل إلى نحو 0.23 ng/mL في السنة.",
+            "وفي مصر، قاس فريق من جامعة الإسكندرية مستوى AMH لدى 841 امرأة سليمة بين 16 و49 عاما، ووضع أول مخطط عمري خاص بالمصريات، وأكد الانخفاض القوي نفسه مع العمر. تذكري أن أرقام الخليج مأخوذة من نساء يراجعن عيادات الخصوبة، فقد تكون أقل قليلا مما هي عليه لدى عموم النساء. استخدمي الجدول دليلا تقريبيا، لا خطا فاصلا بين النجاح والرسوب.",
+            "لاحظي أيضا اتساع الفروق بين النساء. في الفئة العمرية الواحدة قد يكون AMH لدى امرأة ثلاثة أو أربعة أضعاف غيرها، وتحمل الاثنتان بالسهولة نفسها. الوسيط يعني منتصف المجموعة، وليس هدفا يجب أن تبلغيه."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "وسيط AMH حسب العمر لدى نساء شبه الجزيرة العربية",
+            "head": ["العمر", "الوسيط (ng/mL)", "تقريبا بوحدة pmol/L"],
+            "rows": [
+              ["25 عاما أو أقل", "3.70", "26.4"],
+              ["26 إلى 30", "3.06", "21.8"],
+              ["31 إلى 35", "2.50", "17.9"],
+              ["36 إلى 40", "1.35", "9.6"],
+              ["41 إلى 45", "0.62", "4.4"],
+              ["46 إلى 50", "0.24", "1.7"]
+            ],
+            "source": "Melado et al, Frontiers in Endocrinology, 2021",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/34745004/"
+          }
+        },
+        {
+          "h2": "كيف تقرئين نتيجة AMH المنخفضة أو المعتادة أو المرتفعة؟",
+          "paras": [
+            "تختلف الحدود بين المختبرات والعيادات، لكن دراسة الخليج السابقة صنفت النتائج تصنيفا مألوفا لدى كثير من عيادات المنطقة: أقل من 1.3 ng/mL منخفض، ومن 1.3 إلى 6.24 ng/mL ضمن المعتاد، و6.25 ng/mL فما فوق مرتفع. قد تطبع ورقة تحليلك مدى مختلفا، والمدى المطبوع على ورقتك هو المرجع.",
+            "في تلك الدراسة كانت نتيجة 40.6% من مجمل النساء أقل من 1.3 ng/mL. لكن النسبة لم تتجاوز 8.7% لدى من أعمارهن 25 أو أقل، وبلغت 69.3% بين 41 و45 عاما. أي أن النتيجة المنخفضة في الثانية والأربعين هي ما تحمله أغلب النساء في هذا العمر. العمر يروي القصة أكثر من الرقم.",
+            "النتيجة المنخفضة لدى شابة تستحق نقاشا أكبر، خاصة إذا بدأت دوراتها تقصر أو تضطرب، أو إذا خضعت سابقا لجراحة في المبيض، أو إذا دخلت والدتها سن اليأس مبكرا. وإذا كان AMH منخفضا جدا أو غير قابل للقياس لدى امرأة دون الأربعين انقطعت دورتها، فهذا يطرح احتمال قصور المبيض المبكر (Premature ovarian insufficiency)، وهي حالة تحتاج إلى طبيب وتحاليل أخرى مثل FSH، لا إلى تخمين.",
+            "النتيجة المرتفعة غالبا غير خطرة، وتعكس في الأغلب كثرة الحويصلات الصغيرة، وهو أمر شائع في تكيس المبايض. وفي أطفال الأنابيب يخبر AMH المرتفع الطبيب بأن المبيضين قد يستجيبان بقوة لأدوية التنشيط، فيعدل الجرعة لتقليل خطر فرط التنبيه."
+          ],
+          "visual": {
+            "type": "range-scale",
+            "title": "أين تقع نتيجة AMH",
+            "label": "AMH",
+            "unit": "ng/mL",
+            "min": 0,
+            "max": 10,
+            "zones": [
+              {"to": 1.3, "tone": "warn", "label": "منخفض"},
+              {"to": 6.25, "tone": "good", "label": "معتاد"},
+              {"to": 10, "tone": "info", "label": "مرتفع"}
+            ],
+            "marker": {"value": 1.1, "label": "نتيجة مثال"},
+            "source": "Melado et al, Frontiers in Endocrinology, 2021",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/34745004/"
+          }
+        },
+        {
+          "h2": "ng/mL أم pmol/L؟ لماذا يبدو رقمك غريبا",
+          "paras": [
+            "يصدر AMH بوحدتين مختلفتين، وهذا وحده يسبب كثيرا من الذعر. مختبرات الخليج ومصر ومعظم بلاد الشام تستخدم غالبا ng/mL، بينما المختبرات التي تتبع الممارسة البريطانية أو الأوروبية تستخدم pmol/L. العينة نفسها تعطي رقما أكبر بنحو سبع مرات عند التعبير عنه بوحدة pmol/L، فنتيجة 2 ng/mL تعادل نحو 14 pmol/L.",
+            "للتحويل، اضربي النتيجة بوحدة ng/mL في 7.14 لتحصلي عليها بوحدة pmol/L، أو اقسمي النتيجة بوحدة pmol/L على 7.14. فإذا قالت لك قريبتك المقيمة في لندن إن نتيجتها 15 ونتيجتك 2، فقد تكون النتيجتان متقاربتين جدا في الحقيقة.",
+            "حتى بالوحدة نفسها تعطي الأجهزة المختلفة قراءات متفاوتة قليلا. الأجهزة الآلية في المختبرات الكبيرة تختلف عن بعض الكواشف اليدوية الأقدم التي ما زالت تستخدم في مختبرات صغيرة. إذا أردت متابعة التغير مع الوقت فأعيدي التحليل في المختبر نفسه، كي تقيسي تغيرا فيك أنت لا تغيرا في الطريقة.",
+            "لا يحتاج AMH إلى صيام، ويمكن عادة سحبه في أي يوم من الدورة، بخلاف FSH الذي يفضل قياسه بين اليوم الثاني والخامس. حبوب منع الحمل وغيرها من وسائل منع الحمل الهرمونية قد تخفض AMH قليلا أثناء استخدامها، فأخبري الطبيب إن كنت تستخدمينها. والتدخين يرتبط بفقدان أسرع لمخزون المبيض."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "قراءة ورقة AMH في أربع خطوات",
+            "items": [
+              "انظري إلى الوحدة المكتوبة بجانب الرقم: ng/mL أم pmol/L",
+              "إذا كانت pmol/L فاقسمي الرقم على 7.14 لتقارنيه بجداول ng/mL",
+              "قارني النتيجة بنساء في عمرك، لا بحد واحد ثابت",
+              "احتفظي باسم المختبر لتعيدي التحليل بالطريقة نفسها عند الحاجة"
+            ]
+          }
+        },
+        {
+          "h2": "مخزون منخفض: ماذا تفعلين بعد ذلك؟",
+          "paras": [
+            "إذا كان عمرك أقل من 35 ولم تمض سنة على محاولة الحمل، فإن انخفاض AMH وحده لا يغير الكثير. تبقى النصيحة المعتادة كما هي: المحاولة اثني عشر شهرا قبل فحوص الخصوبة، أو ستة أشهر إن كنت في الخامسة والثلاثين أو أكثر. انتظام الدورة علامة جيدة على حدوث الإباضة مهما قال الرقم.",
+            "أما إذا كنت تعانين فعلا من تأخر الحمل، فالنتيجة المنخفضة تساعد طبيب الخصوبة على التخطيط. قد تعني أن الانتظار الطويل قبل العلاج ليس خيارا جيدا، وتتوقع أن يجمع الحقن المجهري عددا أقل من البويضات في الدورة الواحدة. لكنها لا تعني أن العلاج سيفشل، وكثير من النساء ذوات المخزون المنخفض أنجبن أطفالا أصحاء بعلاج أو من دونه.",
+            "احذري من العيادات والصفحات التي تستغل الرقم المنخفض لبيع حلول مكلفة. ستجدين في المنطقة حقن تجديد المبيض بالبلازما الغنية بالصفائح (PRP)، ومكملات مستوردة تعد برفع AMH، وخلطات أعشاب يروج لها بعض العطارين على أنها تنشط المبايض. لا يوجد لأي منها دليل قوي على زيادة عدد البويضات أو فرصة الإنجاب. اسألي عن الأبحاث المنشورة قبل أن تدفعي.",
+            "وإذا لم تكوني متزوجة بعد، أو لا تخططين للإنجاب قريبا، فقد تكون النتيجة المنخفضة دافعا لحديث صريح مع طبيبتك حول التوقيت، وحول تجميد البويضات حيث يكون متاحا ومسموحا. تختلف القوانين والفتاوى المتعلقة بتجميد البويضات لغير المتزوجات بين البلدان العربية، فاسألي مركز خصوبة مرخصا عما ينطبق في بلدك."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "warn",
+            "title": "قبل أن تدفعي ثمن علاج يعد برفع AMH",
+            "items": [
+              "لم يثبت أن أي حبوب أو أعشاب أو حقن تصنع بويضات جديدة",
+              "حقن البلازما في المبيض ما زالت إجراء تجريبيا",
+              "ارتفاع رقم AMH لا يعني تحسن جودة البويضات",
+              "اطلبي من العيادة نتائج منشورة، لا قصص مريضات"
+            ]
+          }
+        },
+        {
+          "h2": "ارتفاع AMH وتكيس المبايض",
+          "paras": [
+            "لدى المصابات بتكيس المبايض (PCOS) عدد كبير من الحويصلات الصغيرة في كل مبيض، وبما أن كل حويصلة تفرز AMH، يكون مستواه لديهن غالبا أعلى بكثير من المتوسط لأعمارهن. لهذا سمح الدليل الدولي المبني على الأدلة لتكيس المبايض الصادر عام 2023 باستخدام AMH بديلا عن تصوير المبيض بالأمواج فوق الصوتية كأحد معايير التشخيص، وذلك للبالغات فقط.",
+            "لكن ذلك لا يعني أن ارتفاع AMH يساوي تكيس المبايض. يحتاج التشخيص إلى علامتين على الأقل من ثلاث: اضطراب الإباضة أو غيابها، وعلامات ارتفاع الهرمونات الذكرية مثل حب الشباب أو الشعر الزائد، ومظهر المبيض المتعدد الأكياس في التصوير أو ارتفاع AMH. ويجب أولا استبعاد أسباب أخرى لاضطراب الدورة، مثل أمراض الغدة الدرقية وارتفاع هرمون الحليب. ولا يستخدم AMH لتشخيص المراهقات لأن مستواه مرتفع طبيعيا في هذا العمر.",
+            "في دراسة أجريت عام 2019 في جامعة الملك عبد العزيز بجدة، قورنت 79 امرأة مصابة بتكيس المبايض بـ 69 امرأة منتظمة الدورة. كشف AMH الأعلى من 3.19 ng/mL الإصابة بحساسية 72% ونوعية 70%. عمليا يعني ذلك أن نحو ثلاث من كل عشر مصابات كن سيفلتن لو اعتمد على AMH وحده، وأن نحو ثلاث من كل عشر غير مصابات كن سيصنفن خطأ. إنه دليل مساعد، لا حكم نهائي.",
+            "إذا كان AMH لديك مرتفعا ودورتك غير منتظمة، فدليلنا عن تكيس المبايض يشرح الصورة كاملة، من سكر الدم إلى خيارات الإنجاب. والخبر الجيد أن المصابات بالتكيس يملكن عادة بويضات وفيرة، وتحديهن الأساسي هو الإباضة، وهي غالبا قابلة للعلاج."
+          ],
+          "visual": {
+            "type": "stats",
+            "title": "AMH في تشخيص تكيس المبايض، دراسة جدة",
+            "items": [
+              {"value": "3.19 ng/mL", "label": "الحد الفاصل المستخدم", "tone": "info"},
+              {"value": "72%", "label": "من المصابات كشفهن التحليل", "tone": "good"},
+              {"value": "70%", "label": "من غير المصابات صنفهن بشكل صحيح", "tone": "warn"}
+            ],
+            "source": "Ahmed et al, Diagnostics, 2019",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/31581541/"
+          }
+        },
+        {
+          "h2": "متى يكون تحليل مخزون البيض مفيدا فعلا؟",
+          "paras": [
+            "للتحليل مكانه الحقيقي في حالات محددة. قبل أطفال الأنابيب يساعد الطبيب على اختيار جرعة أدوية التنشيط وتوقع عدد البويضات. وقبل العلاج الكيميائي أو الإشعاعي للحوض يعطي قيمة أساسية تسمح بمناقشة تجميد البويضات أو الأجنة قبل بدء العلاج. وقبل جراحات المبيض، مثل استئصال أكياس بطانة الرحم المهاجرة، يساعد على موازنة خطر فقدان جزء من المخزون.",
+            "أثر العلاج الكيميائي حقيقي. دراسة أجريت في بغداد ونشرت في المجلة الطبية السعودية عام 2018 تابعت نساء بين 25 و45 عاما شخصن حديثا بسرطان الثدي، فانخفض AMH لديهن انخفاضا واضحا بعد أربع دورات من العلاج الكيميائي بالأنثراسيكلين. إذا كنت أنت أو قريبة لك على أبواب علاج للسرطان وما زال الإنجاب حلما، فاسألي عن حفظ الخصوبة قبل الجرعة الأولى لا بعدها.",
+            "ويمكن أن يكون AMH جزءا معقولا من حديث تخطيطي إذا كنت تنوين تأجيل الحمل وتريدين فكرة تقريبية عن الوقت المتاح، أو إذا دخلت والدتك أو أخواتك سن اليأس مبكرا. أما فحص فتاة شابة منتظمة الدورة لا تحاول الحمل فلا فائدة منه، ولا يصح أن يستخدم تحليلا قبل الزواج للحكم على قدرة الفتاة على الإنجاب، كما تطلب بعض العائلات أحيانا.",
+            "مهما كان السبب، اطلبي أن يفسر طبيب نسائية أو اختصاصي خصوبة النتيجة إلى جانب عد الحويصلات بالتصوير (Antral follicle count) وعمرك. لا تتركي رقما واحدا على ورقة مختبر يتخذ عنك قرارا مصيريا."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "راجعي الطبيب قريبا إذا",
+            "items": [
+              "انقطعت دورتك ثلاثة أشهر أو أكثر وعمرك أقل من 40 عاما",
+              "بدأت تشعرين بالهبات الساخنة أو التعرق الليلي قبل الأربعين",
+              "حاولت الحمل 12 شهرا، أو 6 أشهر إن كان عمرك 35 أو أكثر",
+              "ستبدئين علاجا كيميائيا وترغبين في الإنجاب مستقبلا"
+            ]
+          }
+        }
+      ],
+      "tie": "مع تطبيق صحتك يمكنك تصوير ورقة تحليل AMH عبر ماسح المختبر ليحفظ الرقم والوحدة بشكل صحيح، ويمكن للمساعد الذكي أن يحول النتيجة بين ng/mL و pmol/L ويشرح لك موقعها بالنسبة لعمرك. احفظيها مع مواعيد دورتك وتحاليل الهرمونات الأخرى لتعرضيها على طبيبتك. التطبيق يساعدك على الاستعداد للموعد، ولا يغني عنه.",
+      "faqs": [
+        {"q": "هل يمكن رفع مستوى AMH أو زيادة مخزون البيض؟", "a": "لا يوجد علاج ثبت أنه يرفع AMH أو يضيف بويضات جديدة، لأن المرأة تولد بعدد ثابت من البويضات يتناقص مع الزمن. الإقلاع عن التدخين يساعد على حماية ما لديك. احذري من المكملات والحقن التي تعد بزيادة المخزون."},
+        {"q": "هل أحتاج إلى الصيام أو إلى يوم محدد من الدورة لتحليل AMH؟", "a": "لا يحتاج AMH إلى صيام، ويمكن سحبه عادة في أي يوم من الدورة. إذا طلب الطبيب معه FSH فقد يفضل سحب العينة بين اليوم الثاني والخامس. أخبري المختبر إن كنت تستخدمين حبوب منع الحمل لأنها قد تخفض النتيجة قليلا."},
+        {"q": "ما الفرق بين تحليل AMH وتحليل FSH؟", "a": "يقيس AMH ما تفرزه الحويصلات الصغيرة مباشرة، فيعكس عدد البويضات المتبقية. أما FSH فهرمون من الغدة النخامية يرتفع حين يضعف عمل المبيض، ويتأثر بيوم الدورة أكثر من AMH. يطلبهما الطبيب غالبا معا مع تصوير المبيضين."},
+        {"q": "نتيجتي 1 ng/mL وعمري 37، هل هذا منخفض؟", "a": "النتيجة أقل من وسيط عمرك في دراسة الخليج، وهو 1.35 ng/mL بين 36 و40 عاما، لكنها شائعة جدا، إذ كانت نحو نصف النساء في هذه الفئة أقل من 1.3. إذا كانت دورتك منتظمة فقد تحملين طبيعيا. وإن كنت تحاولين منذ ستة أشهر دون حمل فراجعي اختصاصي خصوبة."},
+        {"q": "هل يخبرني AMH متى سأدخل سن اليأس؟", "a": "يعطي AMH فكرة تقريبية فقط، فالنتيجة المنخفضة جدا في سن مبكرة قد تشير إلى سن يأس أبكر من المتوسط. لكنه لا يحدد عاما بعينه، والفروق بين النساء كبيرة. التاريخ العائلي، خاصة عمر والدتك عند انقطاع الدورة، مؤشر مفيد أيضا."},
+        {"q": "هل ارتفاع AMH يعني أنني أكثر خصوبة؟", "a": "لا. AMH المرتفع يعني عددا أكبر من الحويصلات، لا بويضات أفضل جودة. وقد يرافقه تكيس المبايض الذي يسبب اضطراب الإباضة. فإذا كانت دورتك غير منتظمة مع AMH مرتفع فراجعي طبيبة نسائية."},
+        {"q": "هل يفيد تحليل AMH قبل الزواج؟", "a": "لا، فالتحليل لا يتنبأ بقدرة الفتاة على الحمل الطبيعي، وقد يسبب قلقا وظلما لا مبرر لهما. الفحوص المفيدة قبل الزواج هي فحوص أمراض الدم الوراثية والأمراض المعدية التي تطلبها وزارات الصحة. أما AMH فمكانه عند التخطيط لعلاج خصوبة أو قبل علاج قد يؤذي المبيض."}
+      ]
+    },
+    "en": {
+      "title": "AMH Test: What Your Egg Reserve Result Really Means",
+      "desc": "AMH estimates how many eggs you have left, not their quality or your odds of conceiving naturally. See age-by-age values, unit conversion and when it helps.",
+      "keywords": "AMH test, anti-mullerian hormone, egg reserve test, ovarian reserve, low AMH, high AMH PCOS, AMH normal range by age, AMH ng/mL to pmol/L, AMH and IVF, can I get pregnant with low AMH",
+      "h1": "The AMH Test: What It Says About Your Egg Reserve, and What It Does Not",
+      "takeaways": [
+        "AMH estimates how many eggs remain in your ovaries, not how healthy those eggs are.",
+        "In a study of 750 women aged 30 to 44, a low AMH did not lower the chance of conceiving naturally within a year.",
+        "AMH falls with age, so your result only makes sense next to your age and the unit your lab uses.",
+        "A high AMH is common in polycystic ovary syndrome (PCOS), but it cannot diagnose PCOS on its own.",
+        "The test is most useful before IVF, before cancer treatment, and when planning how long you can wait to start a family."
+      ],
+      "sections": [
+        {
+          "h2": "What does an AMH test measure?",
+          "paras": [
+            "AMH, short for anti-Müllerian hormone, is made by the small fluid-filled sacs in your ovaries called follicles. Each follicle holds one immature egg. The more of these small follicles you have, the more AMH they release into your blood. So an AMH test is a way of estimating how many eggs are left in your ovaries, which doctors call your ovarian reserve. It is a measure of quantity, and that is all it is.",
+            "What AMH cannot tell you matters just as much. It says nothing about whether your eggs are genetically healthy, which is the main reason fertility falls with age. It does not tell you whether your fallopian tubes are open, whether you ovulate each month, or whether your partner's sperm is normal. And for a woman who is not having IVF, it is a poor predictor of how quickly she will get pregnant naturally.",
+            "You were born with all the eggs you will ever have. Their number falls steadily from birth, and the fall speeds up in the late thirties. AMH tracks that decline, which is why the same result can be reassuring at 42 and worth a conversation at 28.",
+            "This is also why the test causes so much unnecessary fear. A woman in her early thirties is told by a private lab that her reserve is low, hears the word infertile in her head, and goes home convinced she has run out of time. In most cases that conclusion is wrong. The rest of this guide explains how to read the number properly, when the test is worth having, and when it is better left alone."
+          ]
+        },
+        {
+          "h2": "Does a low AMH mean you cannot get pregnant naturally?",
+          "paras": [
+            "No. The best evidence on this question comes from a study published in JAMA in 2017. Researchers in North Carolina followed 750 women aged 30 to 44 who had no history of infertility and had only just started trying to conceive. They measured AMH at the start and then simply recorded who became pregnant, and how quickly.",
+            "Women with a low AMH, below 0.7 ng/mL, had a 65% chance of conceiving within six cycles, compared with 62% for women with a normal AMH. By twelve cycles the figures were 84% and 75%. The difference was not statistically significant, which means a low AMH did not predict lower fertility. The authors concluded that AMH should not be used to assess natural fertility in women like these.",
+            "The reason is simple once you see it. Natural conception needs only one good egg each month, and a woman with a low reserve usually still releases an egg every cycle. What decides whether that egg can become a healthy pregnancy is mainly its quality, and egg quality is governed by age, not by AMH. A 32-year-old with a low AMH generally has better odds than a 42-year-old with a high one.",
+            "A low result does carry one real implication. It may suggest that your fertile years could end somewhat earlier than average, and that menopause may come earlier too. That is useful information for planning, not a verdict on whether you can conceive now."
+          ],
+          "visual": {
+            "type": "bar",
+            "title": "Chance of natural conception within 12 cycles, women aged 30 to 44",
+            "unit": "%",
+            "max": 100,
+            "items": [
+              {"label": "Low AMH (below 0.7 ng/mL)", "value": 84, "tone": "info"},
+              {"label": "Normal AMH", "value": 75, "tone": "good"}
+            ],
+            "source": "Steiner et al, JAMA, 2017",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/29049585/"
+          }
+        },
+        {
+          "h2": "What is a normal AMH level for your age?",
+          "paras": [
+            "There is no single normal AMH level, because AMH is supposed to fall as you get older. A result has to be compared with women of the same age, ideally measured on the same type of machine. Most published age tables come from European, American or East Asian women, so data from the region matter.",
+            "The largest data set for Arab women comes from a 2021 study of 2,495 women native to the Arabian Peninsula, all seen at fertility centres in Abu Dhabi and Dubai. Median AMH was 3.70 ng/mL in women aged 25 or younger and fell to 1.35 ng/mL between 36 and 40. Up to age 36 the median dropped by roughly 0.1 ng/mL a year, and between 36 and 40 the decline accelerated to about 0.23 ng/mL a year.",
+            "In Egypt, a team at Alexandria University measured AMH in 841 healthy women aged 16 to 49 and built the first age chart for Egyptian women, confirming the same strong fall with age. Keep in mind that the Gulf figures come from women attending fertility clinics, so they may sit slightly lower than in the general population. Use the table as a rough guide, not a pass or fail line.",
+            "Notice also how wide the spread is. Within any age group, some women have three or four times the AMH of others and conceive just as easily. A median is the middle of the crowd, not a target you have to reach."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Median AMH by age in women from the Arabian Peninsula",
+            "head": ["Age", "Median AMH (ng/mL)", "Approx. in pmol/L"],
+            "rows": [
+              ["25 or under", "3.70", "26.4"],
+              ["26 to 30", "3.06", "21.8"],
+              ["31 to 35", "2.50", "17.9"],
+              ["36 to 40", "1.35", "9.6"],
+              ["41 to 45", "0.62", "4.4"],
+              ["46 to 50", "0.24", "1.7"]
+            ],
+            "source": "Melado et al, Frontiers in Endocrinology, 2021",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/34745004/"
+          }
+        },
+        {
+          "h2": "How to read a low, normal or high AMH result",
+          "paras": [
+            "Labs and clinics use different cut-offs, but the Gulf study above grouped results in a way many fertility clinics in the region will recognise: below 1.3 ng/mL as low, 1.3 to 6.24 ng/mL as the usual range, and 6.25 ng/mL or above as high. Your report may print a different range, and the range printed on your own report is the one to use.",
+            "In that study, 40.6% of all the women had an AMH below 1.3 ng/mL. Among those aged 25 or under only 8.7% were low, but between 41 and 45 the figure was 69.3%. In other words, a low result at 42 is what most women of that age have. It is the age, more than the number, that tells the story.",
+            "A low result in a young woman is more worth discussing, especially if your periods are becoming shorter or irregular, if you have had surgery on an ovary, or if your mother had an early menopause. A very low or undetectable level in a woman under 40 whose periods have stopped raises the possibility of premature ovarian insufficiency. That needs a doctor and further tests such as FSH, not a guess.",
+            "A high result is usually not dangerous. It most often reflects a large number of small follicles, which is typical of PCOS. Before IVF, a high AMH tells the doctor that your ovaries may respond strongly to stimulation drugs, so the dose can be adjusted to lower the risk of overstimulation."
+          ],
+          "visual": {
+            "type": "range-scale",
+            "title": "Where an AMH result sits",
+            "label": "AMH",
+            "unit": "ng/mL",
+            "min": 0,
+            "max": 10,
+            "zones": [
+              {"to": 1.3, "tone": "warn", "label": "Low"},
+              {"to": 6.25, "tone": "good", "label": "Usual"},
+              {"to": 10, "tone": "info", "label": "High"}
+            ],
+            "marker": {"value": 1.1, "label": "Example result"},
+            "source": "Melado et al, Frontiers in Endocrinology, 2021",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/34745004/"
+          }
+        },
+        {
+          "h2": "ng/mL or pmol/L: why your AMH number might look strange",
+          "paras": [
+            "AMH is reported in two different units, and this alone causes a lot of panic. Labs in the Gulf, Egypt and much of the Levant often use ng/mL, while labs that follow British or European practice use pmol/L. The same blood sample gives a number about seven times larger in pmol/L, so a result of 2 ng/mL is about 14 pmol/L.",
+            "To convert, multiply a result in ng/mL by 7.14 to get pmol/L, or divide a result in pmol/L by 7.14 to get ng/mL. If a cousin in London tells you her AMH is 15 and yours is 2, the two of you may in fact have almost identical results.",
+            "Different machines also give slightly different readings even in the same unit. The automated analysers used in larger labs read differently from some older manual kits that smaller private labs still use. If you want to follow a result over time, repeat it at the same lab, so that you are measuring a change in you and not a change in the method.",
+            "AMH does not need fasting and can usually be taken on any day of the cycle, unlike FSH, which is best measured on days 2 to 5. The pill and other hormonal contraception can lower AMH somewhat while you are using them, so tell the doctor if you are. Smoking is linked to faster loss of ovarian reserve."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "Reading your AMH report in four steps",
+            "items": [
+              "Check the unit printed next to the number: ng/mL or pmol/L",
+              "If it is pmol/L, divide by 7.14 to compare with ng/mL tables",
+              "Compare the result with women of your own age, not with one fixed cut-off",
+              "Note the lab name, so any repeat test is done the same way"
+            ]
+          }
+        },
+        {
+          "h2": "Low AMH: what to do next",
+          "paras": [
+            "If you are under 35 and have been trying for less than a year, a low AMH on its own does not change much. The usual advice still applies: try for 12 months before fertility tests, or 6 months if you are 35 or older. Regular periods are a good sign that you are ovulating, whatever the AMH says.",
+            "If you are already having trouble conceiving, a low AMH helps the fertility doctor plan. It suggests that waiting a long time before treatment may not be wise, and it predicts that IVF may collect fewer eggs per cycle. It does not mean treatment will fail, and many women with a low AMH have healthy babies, with or without treatment.",
+            "Be careful with clinics and online sellers who use a low AMH to sell expensive fixes. In the region you will find ovarian rejuvenation injections with platelet-rich plasma (PRP), imported supplements promising to raise AMH, and herbal mixtures sold by herbalists as ovary boosters. None of these has good evidence that it increases the number of eggs or the chance of a baby. Ask what published evidence exists before you pay.",
+            "If you are not yet married, or not ready for children, a low AMH can be the prompt for an honest conversation with your doctor about timing and, where it is available and permitted, about egg freezing. Laws and religious rulings on egg freezing for unmarried women differ between Arab countries, so ask a licensed fertility centre what applies where you live."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "warn",
+            "title": "Before you pay for a treatment that promises to raise AMH",
+            "items": [
+              "No pill, herb or injection has been shown to create new eggs",
+              "PRP injections into the ovary are still experimental",
+              "A higher AMH number does not mean better egg quality",
+              "Ask the clinic for published results, not patient stories"
+            ]
+          }
+        },
+        {
+          "h2": "High AMH and polycystic ovary syndrome",
+          "paras": [
+            "Women with PCOS often have many small follicles in each ovary, and because each follicle makes AMH, their levels are often well above average for their age. This is why the 2023 International Evidence-based Guideline for PCOS now allows AMH to be used instead of an ovarian ultrasound as one of the diagnostic criteria, in adults only.",
+            "That does not mean a high AMH equals PCOS. The diagnosis still needs at least two of three features: irregular or absent ovulation, signs of raised male hormones such as acne or excess hair, and polycystic ovaries on a scan or a high AMH. Other causes of irregular periods, including thyroid disease and high prolactin, have to be ruled out first. In teenagers AMH is not used for diagnosis, because levels are naturally high at that age.",
+            "A 2019 study at King Abdulaziz University in Jeddah compared 79 women with PCOS and 69 women with regular cycles. An AMH above 3.19 ng/mL identified PCOS with 72% sensitivity and 70% specificity. In practice that means roughly three in ten women with PCOS would have been missed by AMH alone, and roughly three in ten women without PCOS would have been wrongly flagged. It is a helpful piece of evidence, not a verdict.",
+            "If your AMH is high and your periods are irregular, our guide to PCOS explains the full picture, from blood sugar to fertility options. The encouraging part is that women with PCOS usually have plenty of eggs, and their main fertility challenge is ovulation, which is often treatable."
+          ],
+          "visual": {
+            "type": "stats",
+            "title": "AMH as a PCOS test, Jeddah study",
+            "items": [
+              {"value": "3.19 ng/mL", "label": "cut-off used", "tone": "info"},
+              {"value": "72%", "label": "of women with PCOS correctly picked up", "tone": "good"},
+              {"value": "70%", "label": "of women without PCOS correctly cleared", "tone": "warn"}
+            ],
+            "source": "Ahmed et al, Diagnostics, 2019",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/31581541/"
+          }
+        },
+        {
+          "h2": "When is an AMH test genuinely useful?",
+          "paras": [
+            "The test earns its place in a handful of situations. Before IVF, it helps the doctor choose the dose of stimulation drugs and estimate how many eggs to expect. Before chemotherapy or pelvic radiotherapy, it gives a baseline so that freezing eggs or embryos can be discussed before treatment starts. Before surgery on the ovaries, such as removing endometriosis cysts, it helps weigh the risk of losing reserve.",
+            "The effect of cancer treatment is real. A study from Baghdad, published in the Saudi Medical Journal in 2018, followed women aged 25 to 45 newly diagnosed with breast cancer. Their AMH fell significantly after four cycles of anthracycline chemotherapy. If you or a relative are facing cancer treatment and still hope to have children, ask about fertility preservation before the first dose, not after.",
+            "AMH is also reasonable as part of a planning conversation if you intend to delay pregnancy and want a rough sense of your timeline, or if your mother or sisters went through an early menopause. It is not useful as a routine check in a young woman with regular periods who is not trying to conceive. It should never be used as a premarital test to judge whether a bride can have children, as some families request.",
+            "Whatever the reason, ask for the result to be interpreted by a gynaecologist or fertility specialist alongside an ultrasound count of follicles, called the antral follicle count, and your age. Do not let a single number on a lab printout make a life decision for you."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "See a doctor soon if",
+            "items": [
+              "Your periods have stopped for three months or more and you are under 40",
+              "You have hot flushes or night sweats before the age of 40",
+              "You have tried to conceive for 12 months, or 6 months if you are 35 or older",
+              "You are about to start chemotherapy and want children in the future"
+            ]
+          }
+        }
+      ],
+      "tie": "With the Sihtak app you can scan your AMH report with the lab scanner so the number and its unit are saved correctly, and the AI assistant can convert between ng/mL and pmol/L and explain where your result sits for your age. Keep it alongside your cycle dates and other hormone tests to share with your doctor. It helps you prepare for the appointment, it does not replace it.",
+      "faqs": [
+        {"q": "Can I raise my AMH level or increase my egg reserve?", "a": "No treatment has been shown to raise AMH or add new eggs, because women are born with a fixed number of eggs that falls over time. Stopping smoking helps protect what you have. Be wary of supplements and injections that promise to increase your reserve."},
+        {"q": "Do I need to fast or test on a particular day of my cycle for AMH?", "a": "AMH does not need fasting and can usually be taken on any day of the cycle. If your doctor orders FSH at the same time, the sample may be best taken on days 2 to 5. Tell the lab if you use the pill, because it can lower the result a little."},
+        {"q": "What is the difference between AMH and FSH?", "a": "AMH comes directly from the small follicles, so it reflects how many eggs remain. FSH is a pituitary hormone that rises when the ovaries are working less well, and it varies with the day of the cycle more than AMH does. Doctors often order both, together with an ovarian ultrasound."},
+        {"q": "My AMH is 1 ng/mL and I am 37. Is that low?", "a": "It is below the median for your age in the Gulf study, which was 1.35 ng/mL between 36 and 40, but it is very common: about half the women in that age group were below 1.3. If your periods are regular you may well conceive naturally. If you have been trying for six months without success, see a fertility specialist."},
+        {"q": "Can AMH tell me when I will reach menopause?", "a": "Only roughly. A very low AMH at a young age may point to an earlier menopause than average, but it cannot predict a particular year, and women vary widely. Your family history, especially the age your mother reached menopause, is also a useful clue."},
+        {"q": "Does a high AMH mean I am more fertile?", "a": "No. A high AMH means more follicles, not better quality eggs. It can go with PCOS, which disrupts ovulation. If your periods are irregular and your AMH is high, see a gynaecologist."},
+        {"q": "Is an AMH test useful before marriage?", "a": "No. It does not predict whether a woman can conceive naturally, and it can cause worry and unfair judgement for no benefit. The useful premarital tests are the screens for inherited blood disorders and infections that health ministries require. AMH belongs in fertility treatment planning or before treatment that could harm the ovaries."}
+      ]
+    }
+  }
+}

@@ -21,6 +21,7 @@ from build_chrome import (
     load_covers, COVER_HERO, COVER_SHARE,
 )
 import build_visuals
+from build_links import Linker, related_for
 
 DATA = os.path.join(BASE, "content", "articles.json")
 COVERS = load_covers()
@@ -131,10 +132,11 @@ def author_box(lang):
     )
 
 
-def body_html(lang, a):
+def body_html(lang, a, articles=()):
     c = a["content"][lang]
     o = L[lang]
     out = []
+    link = Linker(lang, a["slug"], [x["slug"] for x in articles])
 
     lis = "".join(f'          <li>{e(t)}</li>\n' for t in c["takeaways"])
     out.append(f'      <aside class="art-takeaways reveal">\n        <h2>{o["takeaways_h"]}</h2>\n'
@@ -146,7 +148,7 @@ def body_html(lang, a):
         out.append('      <section class="reveal">\n')
         out.append(f'        <h2 id="s{i}">{e(s["h2"])}</h2>\n')
         for p in s.get("paras", []):
-            out.append(f'        <p>{e(p)}</p>\n')
+            out.append(f'        <p>{link.para(p)}</p>\n')
         if s.get("list"):
             items = "".join(f'          <li>{e(li)}</li>\n' for li in s["list"])
             out.append(f'        <ul class="art-list">\n{items}        </ul>\n')
@@ -277,12 +279,13 @@ def ldjson(lang, a):
 
 # --------------------------------------------------------------------------
 def related(lang, a, articles):
-    """Same category first: topical clusters beat a global rotation both for
-    the reader and for how Google reads the internal link graph."""
+    """Nearest by vocabulary, same category weighted up (build_links.related_for).
+    Topical clusters beat a global rotation for the reader and for how Google
+    reads the internal link graph, and the old first-four-in-file-order pick
+    left most of a large category with no inbound related links at all."""
     cid = a.get("category")
     same = [x for x in articles if x["slug"] != a["slug"] and x.get("category") == cid]
-    other = [x for x in articles if x["slug"] != a["slug"] and x.get("category") != cid]
-    picked = (same + other)[:4]
+    picked = related_for(a, articles)
     heading = L[lang]["related_h"]
     if cid and len(same) >= 3:
         heading = f'{L[lang]["more_in_h"]} {cat_name(lang, cid)}'
@@ -343,7 +346,7 @@ def page(lang, a, articles):
              og_image_alt=og_alt, extra_ld=ldjson(lang, a))
         + nav(lang, other_href)
         + hero
-        + body_html(lang, a)
+        + body_html(lang, a, articles)
         + "    </article>\n"
         + related(lang, a, articles)
         + footer(lang)

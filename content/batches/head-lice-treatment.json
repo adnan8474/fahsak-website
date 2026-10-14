@@ -1,0 +1,396 @@
+{
+  "slug": "head-lice-treatment",
+  "category": "child-health",
+  "chip_ar": "صحة الطفل",
+  "chip_en": "Child Health",
+  "date_iso": "2026-09-24",
+  "sources": [
+    {"label": "AlBashtawy M, Hasna F: Pediculosis capitis among primary-school children in Mafraq Governorate, Jordan, Eastern Mediterranean health journal = La revue de sante de la Mediterranee orientale = al-Majallah al-sihhiyah li-sharq al-mutawassit, 2012", "url": "https://pubmed.ncbi.nlm.nih.gov/22360010/"},
+    {"label": "Khamaiseh AM: Head Lice among Governmental Primary School Students in Southern Jordan: Prevalence and Risk Factors, Journal of global infectious diseases, 2018", "url": "https://pubmed.ncbi.nlm.nih.gov/29563717/"},
+    {"label": "Alsaady IM, Altwaim S, Gattan HS et al: Prevalence of permethrin-resistant kdr mutation in head lice (Pediculus humanus capitis) from elementary school students in Jeddah, Saudi Arabia, PeerJ, 2023", "url": "https://pubmed.ncbi.nlm.nih.gov/37901472/"},
+    {"label": "Leung AKC, Lam JM, Leong KF et al: Paediatrics: how to manage pediculosis capitis, Drugs in context, 2022", "url": "https://pubmed.ncbi.nlm.nih.gov/35371269/"},
+    {"label": "Nolan K, Kamrath J, Levitt J et al: Lindane toxicity: a comprehensive review of the medical literature, Pediatric dermatology, 2012", "url": "https://pubmed.ncbi.nlm.nih.gov/21995612/"},
+    {"label": "Kumar S, Kavitha TK, Angurana SK et al: Kerosene, Camphor, and Naphthalene Poisoning in Children, Indian journal of critical care medicine : peer-reviewed, official publication of Indian Society of Critical Care Medicine, 2019", "url": "https://pubmed.ncbi.nlm.nih.gov/32021004/"},
+    {"label": "NHS: Head lice and nits", "url": "https://www.nhs.uk/conditions/head-lice-and-nits/"}
+  ],
+  "content": {
+    "ar": {
+      "title": "القمل عند الأطفال: كيف تتخلص منه وتمنع عودته",
+      "desc": "دليل عملي للأهل: طريقة التمشيط المبلل خطوة بخطوة، وكيف تستخدم علاجات القمل الصيدلانية، ولماذا الكاز والبنزين ومبيدات المواشي خطر حقيقي على طفلك.",
+      "keywords": "علاج القمل, التخلص من القمل, قمل الرأس عند الأطفال, الصيبان, مشط القمل, القمل والمدرسة, علاج القمل بالكاز, شامبو القمل, بيض القمل, القمل لا يذهب",
+      "h1": "قمل الرأس عند الأطفال: الطريقة الصحيحة للتخلص منه، ولماذا لا علاقة له بالنظافة",
+      "takeaways": [
+        "قمل الرأس شائع جدا بين أطفال المدارس، ولا يدل على أن البيت أو الطفل غير نظيف.",
+        "العلاج الفعال هو مستحضر صيدلاني مخصص للقمل أو التمشيط المبلل المنتظم بمشط القمل، وغالبا يحتاج الأمر إلى دورتين.",
+        "الكاز والبنزين ومبيدات المواشي والزراعة قد تسبب حروقا وتسمما والتهاب رئة عند الطفل، فلا تستخدمها أبدا.",
+        "افحص كل أفراد البيت في اليوم نفسه، وعالج فقط من وجدت عنده قملا حيا.",
+        "لا حاجة لتعقيم البيت أو غسل كل الأغراض بماء مغلي، فالقمل لا يعيش طويلا بعيدا عن الرأس."
+      ],
+      "sections": [
+        {
+          "h2": "كيف أتخلص من القمل عند طفلي بسرعة؟",
+          "paras": [
+            "الجواب المختصر: اختر إحدى طريقتين مجربتين والتزم بها حتى النهاية. الأولى مستحضر صيدلاني مخصص لقمل الرأس، يوضع على الشعر حسب النشرة ثم يعاد بعد نحو أسبوع لأن بعض البيض قد ينجو من المرة الأولى. والثانية التمشيط المبلل بمشط القمل ذي الأسنان الدقيقة، على شعر مبلل بالبلسم، كل أربعة أيام لمدة أسبوعين تقريبا. وفي الحالتين تفحص الشعر بعد انتهاء العلاج لتتأكد أنه لم يبق قمل حي.",
+            "قمل الرأس (Pediculosis capitis) حشرة صغيرة بحجم حبة السمسم تعيش على فروة الرأس وتتغذى على قطرات صغيرة من الدم. تضع الأنثى بيضها، الذي نسميه في بيوتنا الصيبان، ملتصقا بقوة بأصل الشعرة قرب الجلد. يفقس البيض خلال أسبوع تقريبا، ثم تكبر القملة الصغيرة وتبدأ بالتكاثر بعد أيام قليلة. لهذا السبب لا تكفي جلسة علاج واحدة في معظم الأحيان، وهذا هو السر الذي يفوت كثيرا من الأهل.",
+            "أكثر ما يؤخر العلاج في بيوتنا ليس قلة الدواء، بل الخجل. كثير من الأمهات يكتشفن القمل ثم يعالجن الطفل سرا بوصفة من الجارة، ولا يخبرن المدرسة أو بيت الجد، فيعود القمل بعد أسبوعين من طفل آخر. العلاج الصحيح، مع فحص كل من يخالط الطفل، ينهي المشكلة فعلا بدل أن تدور في حلقة لا تنتهي.",
+            "وقبل أن تشتري أي شيء، تأكد أن ما تراه قمل حي يتحرك وليس قشرة أو بيضا فارغا قديما. وجود الصيبان البيضاء البعيدة عن الجلد وحدها لا يعني أن العدوى ما زالت نشطة، لأنها غالبا قشور بيض فقس منذ أسابيع. القملة الحية هي الدليل الذي يبرر العلاج."
+          ]
+        },
+        {
+          "h2": "هل القمل يعني أن الطفل غير نظيف؟",
+          "paras": [
+            "لا، وهذه أهم جملة في هذا المقال. القمل ينتقل أساسا بتلامس الرأس بالرأس، عندما يلعب الأطفال متلاصقين، أو ينامون في سرير واحد، أو يقربون رؤوسهم فوق هاتف أو دفتر. القملة لا تطير ولا تقفز، بل تزحف من شعرة إلى شعرة. ولهذا تصيب الشعر النظيف المغسول كل يوم كما تصيب غيره، وقد تصيب أبناء أكثر البيوت عناية.",
+            "الدراسات في منطقتنا تؤكد مدى انتشاره. دراسة نشرت عام 2012 في المجلة الصحية لشرق المتوسط فحصت 1550 تلميذا في المدارس الابتدائية في محافظة المفرق بالأردن، فوجدت القمل عند 26.6 بالمئة منهم، وعند 34.7 بالمئة من البنات مقابل 19.6 بالمئة من الأولاد. ودراسة أخرى عام 2018 على 500 تلميذ في جنوب الأردن وجدته عند 20.4 بالمئة. أي أن في كل صف تقريبا عدة أطفال مصابين في أي وقت.",
+            "صحيح أن تلك الدراسات ربطت الإصابة بالبيوت المزدحمة وتشارك الأمشاط والأغطية وقلة غسل الشعر، لكن هذه عوامل تسهل الانتقال ولا تجعل القمل عقوبة على قلة النظافة. البنات يصبن أكثر لأن الشعر الطويل والضفائر وتقارب الرؤوس أثناء اللعب تسهل انتقاله، لا لأنهن أقل نظافة.",
+            "عندما تتعامل مع القمل كأي عدوى عادية في المدرسة، مثل الزكام، يصبح من السهل أن تخبر المعلمة وأهل أصدقاء طفلك ليفحصوا أولادهم. هذا التصرف البسيط هو أكثر ما يمنع عودة القمل إلى بيتك بعد أن تتعب في علاجه."
+          ],
+          "visual": {
+            "type": "bar",
+            "title": "نسبة الإصابة بالقمل بين تلاميذ المدارس الابتدائية في الأردن",
+            "unit": "%",
+            "max": 40,
+            "items": [
+              {"label": "بنات، المفرق", "value": 34.7, "tone": "bad"},
+              {"label": "كل التلاميذ، المفرق", "value": 26.6, "tone": "warn", "highlight": true},
+              {"label": "كل التلاميذ، جنوب الأردن", "value": 20.4, "tone": "warn"},
+              {"label": "أولاد، المفرق", "value": 19.6, "tone": "info"}
+            ],
+            "source": "AlBashtawy وHasna، المجلة الصحية لشرق المتوسط 2012، وKhamaiseh، مجلة الأمراض المعدية العالمية 2018",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/22360010/"
+          }
+        },
+        {
+          "h2": "كيف أعرف أن عند طفلي قملا فعلا؟",
+          "paras": [
+            "الحكة في فروة الرأس، خاصة خلف الأذنين وفي مؤخرة الرقبة، هي أشهر علامة. لكن الحكة قد لا تظهر إلا بعد أسابيع من الإصابة، لأنها رد فعل تحسسي على لعاب القملة، وبعض الأطفال لا يشعرون بها أصلا. لذلك لا تنتظر الحكة لتفحص، وافحص طفلك كلما وصلتك رسالة من المدرسة عن وجود قمل في الصف.",
+            "أدق طريقة للفحص هي التمشيط بمشط القمل على شعر مبلل. النظر بالعين وحده يخدع، لأن القمل يهرب من الضوء بسرعة ويختبئ قرب الجلد. بلل الشعر وضع عليه قليلا من البلسم العادي، ثم مرر المشط من جذور الشعر إلى أطرافه وامسحه بعد كل تمريرة على منديل أبيض. إذا رأيت قملة حية واحدة على الأقل، فطفلك مصاب ويحتاج إلى علاج.",
+            "فرق بين الصيبان والقشرة: القشرة تنفض بسهولة وتتساقط على الكتفين، أما بيض القمل فملتصق بالشعرة ولا يتحرك إلا إذا سحبته بأظافرك على طول الشعرة. البيض الحي يكون قريبا جدا من الجلد، بمسافة أقل من سنتيمتر، أما البيض البعيد عن الجلد فغالبا فارغ.",
+            "مشط القمل المعدني ذو الأسنان المتقاربة متوفر في معظم الصيدليات بسعر بسيط، وهو أهم أداة تشتريها. الأمشاط البلاستيكية الرخيصة المرفقة أحيانا مع بعض المستحضرات قد تكون أسنانها متباعدة فلا تلتقط القمل الصغير."
+          ]
+        },
+        {
+          "h2": "طريقة التمشيط المبلل خطوة بخطوة",
+          "paras": [
+            "التمشيط المبلل لا يحتاج إلى أي مادة كيميائية، ولهذا يناسب الأطفال الصغار جدا، والحوامل، والأطفال الذين لديهم حساسية أو ربو. البلسم يجعل القملة بطيئة وغير قادرة على التشبث، فيلتقطها المشط بسهولة. سر النجاح هو التكرار، لأن كل جلسة تزيل القمل الموجود، والجلسة التالية تلتقط القمل الذي فقس من بيض فاتك.",
+            "توصي هيئة الخدمات الصحية البريطانية بالتمشيط في الأيام 1 و5 و9 و13، ثم الفحص مرة أخيرة في اليوم 17. الشعر القصير يحتاج إلى نحو عشر دقائق، والشعر الطويل أو المجعد قد يحتاج إلى نصف ساعة. ضع الطفل أمام التلفاز أو أعطه قصة يقرؤها، فالجلسة الهادئة أنجح بكثير من جلسة يتململ فيها ويبكي.",
+            "كن صريحا مع نفسك: التمشيط وحده يحتاج إلى صبر والتزام. مراجعة علمية نشرت عام 2022 في مجلة Drugs in Context خلصت إلى أن التمشيط المبلل يستغرق وقتا ولا ينبغي أن يكون الوسيلة الوحيدة لعموم الناس، لكنه الخيار المفضل للأطفال دون سن الثانية. إذا كنت تعرف أنك لن تستطيع الالتزام بأربع جلسات كاملة، فالمستحضر الصيدلاني مع التمشيط قد يكون أنسب لعائلتك.",
+            "حتى لو استخدمت مستحضرا صيدلانيا، يبقى المشط مفيدا لإزالة البيض والقمل الميت، وللتأكد بعد أيام أن العلاج نجح. الكثير من حالات القمل الذي لا يذهب تكون في الحقيقة علاجا ناجحا لم يتبعه فحص، أو عدوى جديدة من أخ أو قريب لم يفحص."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "جلسة التمشيط المبلل",
+            "items": [
+              "اغسل الشعر بالشامبو العادي ثم ضع كمية وافرة من البلسم ولا تشطفه.",
+              "فك تشابك الشعر بمشط عادي واسع الأسنان.",
+              "قسم الشعر إلى خصل صغيرة وثبتها بمشابك.",
+              "ضع مشط القمل ملامسا لفروة الرأس واسحبه ببطء حتى أطراف الشعر.",
+              "امسح المشط على منديل أبيض بعد كل تمريرة وانظر هل عليه قمل.",
+              "مر على كل الرأس مرتين، ثم اشطف البلسم.",
+              "كرر الجلسة في الأيام 1 و5 و9 و13، وافحص مرة أخيرة في اليوم 17."
+            ],
+            "source": "NHS: Head lice and nits",
+            "source_url": "https://www.nhs.uk/conditions/head-lice-and-nits/"
+          }
+        },
+        {
+          "h2": "علاجات القمل الصيدلانية: كيف تستخدم بشكل عام",
+          "paras": [
+            "تباع في صيدليات المنطقة عدة أنواع من مستحضرات القمل، وكثير منها دون وصفة. بعضها يقتل القمل عبر جهازه العصبي، مثل البيرمثرين (Permethrin) والبيريثرينات، وبعضها يغلف جسم القملة فيخنقها أو يمنعها من التخلص من الماء، مثل الديميثيكون (Dimeticone)، وهو زيت سيليكوني لا يمتصه الجلد. وهناك خيارات أخرى يصفها الطبيب عادة عند فشل العلاج الأول.",
+            "القاعدة العامة في معظم المستحضرات أنها توضع على الشعر وتترك مدة محددة في النشرة ثم تشطف، وتعاد مرة ثانية بعد سبعة إلى عشرة أيام لقتل القمل الذي فقس من بيض نجا. التزم بتعليمات النشرة حرفيا، ولا تزد الكمية أو المدة ظنا أن ذلك أقوى، ولا تستخدم مستحضرا مخصصا للكبار على طفل صغير دون أن تسأل الصيدلي.",
+            "هناك سبب مهم يجعل بعض المستحضرات تفشل عندنا: مقاومة القمل. دراسة نشرت عام 2023 في مجلة PeerJ حللت قملا جمع من تلاميذ مدارس ابتدائية في جدة، فوجدت طفرة المقاومة للبيرمثرين في 28 عينة من أصل 45، أي 62.2 بالمئة. هذا لا يعني أن البيرمثرين لا يعمل أبدا، لكنه يعني أنه إذا استخدمته بشكل صحيح مرتين ثم وجدت قملا حيا، فالأرجح أن القمل مقاوم وأنك تحتاج إلى نوع مختلف، لا إلى زيادة الكمية.",
+            "المستحضرات التي تعمل فيزيائيا، مثل الديميثيكون، لا يطور القمل مقاومة لها بالطريقة نفسها، ولهذا يلجأ إليها كثير من الأطباء والصيادلة عند الشك في المقاومة. اسأل الصيدلي عن عمر الطفل المسموح به لكل منتج، وأخبره إذا كان الطفل مصابا بالربو أو بحساسية جلدية أو إذا كانت الأم حاملا أو مرضعا."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "أنواع علاجات القمل الشائعة",
+            "head": ["النوع", "كيف يعمل", "ملاحظات"],
+            "rows": [
+              ["البيرمثرين والبيريثرينات", "يشل الجهاز العصبي للقملة", "قمل كثير في المنطقة طور مقاومة له"],
+              ["الديميثيكون", "يغلف القملة فيخنقها", "لا يمتصه الجلد، والمقاومة له غير متوقعة"],
+              ["خيارات بوصفة طبية", "مواد مختلفة يقررها الطبيب", "عند فشل العلاج الأول رغم الاستخدام الصحيح"],
+              ["التمشيط المبلل", "إزالة القمل باليد", "مناسب للرضع والحوامل، ويحتاج التزاما"]
+            ],
+            "source": "Leung وآخرون، Drugs in Context 2022",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/35371269/"
+          }
+        },
+        {
+          "h2": "لماذا الكاز والبنزين ومبيدات المواشي خطر على طفلك؟",
+          "paras": [
+            "في كثير من قرى وأحياء منطقتنا ما زالت تنتقل وصفة قديمة: صب الكاز أو البنزين على رأس الطفل ولفه بكيس نايلون طوال الليل. وأحيانا يستخدم الأهل مبيدا من محل المواد الزراعية، أو بخاخا مخصصا للأغنام والدواجن، أو مسحوقا ضد الحشرات المنزلية. هذه المواد قد تقتل القمل، لكنها قد تؤذي الطفل أكثر بكثير مما تؤذي القملة.",
+            "الكاز والبنزين يحرقان جلد فروة الرأس كيميائيا، وتنبعث منهما أبخرة يستنشقها الطفل لساعات تحت الكيس، وهما سريعا الاشتعال، فشرارة واحدة من مدفأة أو موقد غاز أو ولاعة قد تحول رأس الطفل إلى شعلة. وإذا وصل الكاز إلى فم الطفل أو استنشقه، فقد يسبب التهابا رئويا كيميائيا. مراجعة نشرت عام 2019 في المجلة الهندية لطب العناية المركزة وصفت التهاب الرئة الاستنشاقي بأنه أكثر مضاعفات تسمم الكاز شيوعا عند الأطفال، وأكدت أنه لا يجوز محاولة جعل الطفل يتقيأ إذا ابتلعه.",
+            "أما مبيدات الحشرات الزراعية والبيطرية فهي مركزة ومصممة لحيوانات أكبر أو لرشها في الحقول، لا لجلد طفل. بعضها من عائلة مركبات تؤثر على الجهاز العصبي، وقد تمتص عبر الجلد. وحتى المبيدات التي كانت تستخدم دوائيا ثم سحبت أظهرت هذا الخطر: مراجعة نشرت عام 2012 في مجلة طب الجلد عند الأطفال جمعت 67 حالة من التفاعلات الخطيرة والوفيات المرتبطة بمادة الليندين المستخدمة سابقا ضد القمل والجرب، وكان كثير من أخطرها عند الأطفال.",
+            "الخل وزيت الزيتون والمايونيز ليست خطيرة بالدرجة نفسها، لكن لا يوجد دليل قوي على أنها تقضي على القمل وحدها. إذا أحببت استخدام زيت الزيتون، فاعتبره مجرد بديل للبلسم أثناء التمشيط، لا علاجا قائما بذاته."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "توجه إلى الطوارئ فورا إذا",
+            "items": [
+              "ابتلع الطفل كازا أو بنزينا أو مبيدا، أو بدأ يسعل أو يلهث بعد وضعه على رأسه.",
+              "ظهرت حروق أو فقاعات أو تقرحات على فروة الرأس أو الوجه.",
+              "أصبح الطفل نعسانا بشكل غير طبيعي أو مشوشا أو أصابته رجفة أو تشنج بعد استخدام مبيد.",
+              "اشتعلت النار في شعر الطفل ولو لثوان.",
+              "لا تحاول جعل الطفل يتقيأ، وخذ معك عبوة المادة إلى المستشفى."
+            ],
+            "source": "Kumar وآخرون، المجلة الهندية لطب العناية المركزة 2019",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/32021004/"
+          }
+        },
+        {
+          "h2": "هل أفحص كل أفراد البيت؟ وماذا أغسل؟",
+          "paras": [
+            "نعم، افحص كل من في البيت بالتمشيط المبلل في اليوم نفسه، بما فيهم الأم والأب والجدة إذا كانت تعيش معكم. لكن عالج فقط من وجدت عنده قملا حيا، لأن علاج من لا قمل عنده لا يحميه من العدوى ويعرضه لمواد لا حاجة لها. الأفضل أن تعالج كل المصابين في اليوم نفسه، حتى لا ينقل أحدهم القمل من جديد إلى من شفي.",
+            "إذا كان طفلك يقضي عطلة نهاية الأسبوع عند الأقارب، أو ينام مع أبناء عمه في بيت الجد، فأخبرهم بلطف ليفحصوا أولادهم. في عائلاتنا الكبيرة المتقاربة، هذا هو الطريق الأكثر شيوعا لعودة القمل. وأخبر المدرسة أيضا، دون ذكر اسم طفلك إن أردت، حتى ترسل تنبيها لبقية الأهل.",
+            "الخبر الجيد أنك لا تحتاج إلى تنظيف البيت كله. القملة التي تسقط من الرأس تضعف بسرعة وتموت عادة خلال يوم أو يومين لأنها لا تجد غذاء. تقول هيئة الخدمات الصحية البريطانية إنه لا حاجة لغسل الملابس على حرارة عالية. يكفي أن تغسل أو تنقع أمشاط الطفل وفرشاته، وأن تغسل غطاء الوسادة والحجاب أو الإيشارب الذي لبسه في آخر يومين بالغسيل العادي.",
+            "لا ترش المبيدات على الفرش والسجاد والكنب، فهذا لا يفيد في القمل ويعرض الأطفال لمواد سامة. ولا تحلق شعر البنت إلا إذا كان ذلك رغبتها، فالحلاقة ليست ضرورية، وقد تترك أثرا نفسيا عند البنت في سن المدرسة أكبر من القمل نفسه."
+          ]
+        },
+        {
+          "h2": "خرافات وحقائق عن القمل",
+          "paras": [
+            "تنتشر حول القمل أفكار كثيرة تزيد الخجل أو تدفع إلى علاجات خاطئة. بعضها يجعل الأهل يعزلون الطفل أو يحلقون شعره، وبعضها يجعلهم يكررون المبيد يوميا. الجدول التالي يلخص أشيعها، مع ما تقوله الأدلة.",
+            "تذكر أن طفلك لا يحتاج إلى البقاء في البيت بسبب القمل. هيئة الخدمات الصحية البريطانية تؤكد أن الأطفال لا يحتاجون إلى التغيب عن المدرسة، فالقمل كان على الأرجح موجودا عنده لأسابيع قبل اكتشافه. ابدأ العلاج في المساء، وليذهب الطفل إلى مدرسته في الصباح كالمعتاد.",
+            "وكذلك لا تمنع طفلك من اللعب مع أصدقائه، بل علمه ألا يتشارك الأمشاط والقبعات وربطات الشعر، وأن تجمع البنات ذوات الشعر الطويل شعرهن في ضفيرة أو كعكة في المدرسة. هذه عادات بسيطة تقلل الانتقال دون أن تحول القمل إلى وصمة."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "خرافة أم حقيقة؟",
+            "head": ["الاعتقاد الشائع", "الحقيقة"],
+            "rows": [
+              ["القمل علامة على قلة النظافة", "ينتقل بتلامس الرؤوس ويصيب الشعر النظيف أيضا"],
+              ["القمل يقفز أو يطير", "لا يقفز ولا يطير، بل يزحف من شعرة إلى شعرة"],
+              ["يجب تعقيم البيت كله", "يكفي غسل الأمشاط وأغطية الوسائد بالغسيل العادي"],
+              ["الكاز يقضي على القمل بأمان", "قد يسبب حروقا واشتعالا والتهاب رئة"],
+              ["جلسة علاج واحدة تكفي", "غالبا تحتاج إلى جلسة ثانية بعد أسبوع"],
+              ["يجب أن يبقى الطفل في البيت", "لا حاجة للتغيب عن المدرسة"],
+              ["القمل ينقل أمراضا خطيرة", "قمل الرأس مزعج لكنه لا ينقل أمراضا عادة"]
+            ],
+            "source": "NHS: Head lice and nits",
+            "source_url": "https://www.nhs.uk/conditions/head-lice-and-nits/"
+          }
+        },
+        {
+          "h2": "لماذا يعود القمل؟ ومتى أراجع الطبيب؟",
+          "paras": [
+            "إذا وجدت قملا حيا بعد العلاج، فهناك أربعة أسباب شائعة. الأول أن الجلسة الثانية لم تتم أو تمت مبكرا. والثاني أن المستحضر لم يوضع بكمية كافية لتغطية كل الشعر، وهو أمر شائع مع الشعر الطويل الكثيف. والثالث عدوى جديدة من شخص لم يفحص. والرابع أن القمل مقاوم للمادة المستخدمة، وهو احتمال حقيقي في منطقتنا كما رأينا في دراسة جدة.",
+            "قبل أن تكرر المستحضر نفسه للمرة الثالثة، توقف وراجع الصيدلي أو الطبيب. استخدام المبيد مرارا خلال أيام متقاربة لا يزيد فعاليته، بل يزيد تهيج فروة الرأس، وقد يسبب حكة تستمر حتى بعد موت القمل فيظن الأهل أن العدوى ما زالت قائمة. الحكة قد تستمر أسبوعا أو أكثر بعد العلاج الناجح.",
+            "راجع الطبيب إذا كان الطفل دون سن الثانية، أو إذا كانت الأم حاملا أو مرضعا وتحتاج إلى علاج، أو إذا كان الطفل مصابا بالربو أو بمرض جلدي في فروة الرأس. وراجعه أيضا إذا ظهر احمرار وتورم وصديد في فروة الرأس، أو انتفخت الغدد خلف الرقبة، أو ارتفعت الحرارة، فقد يكون الحك قد سبب التهابا جرثوميا يحتاج إلى علاج.",
+            "وإذا رأيت قملا أو بيضا على رموش العين أو الحاجبين، فلا تضع عليها أي مستحضر للقمل أو مادة كيميائية، فالعين حساسة جدا، واعرض الطفل على الطبيب ليقرر الطريقة الآمنة."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "warn",
+            "title": "راجع الطبيب أو الصيدلي قبل العلاج إذا",
+            "items": [
+              "كان الطفل دون سن الثانية.",
+              "كانت المصابة حاملا أو مرضعا.",
+              "فشل علاجان صحيحان متتاليان.",
+              "ظهر صديد أو تورم في فروة الرأس أو حرارة.",
+              "وجدت قملا على الرموش أو الحاجبين."
+            ]
+          }
+        }
+      ],
+      "tie": "مع تطبيق صحتك يمكنك ضبط تذكيرات لأيام التمشيط والجلسة الثانية من العلاج لكل طفل على حدة، حتى لا تفوتك جلسة في زحمة الدوام والمدرسة. وسجل تاريخ اكتشاف القمل ونوع العلاج الذي استخدمته، فإذا عاد القمل تعرف أنت والصيدلي ما الذي جرب من قبل.",
+      "faqs": [
+        {"q": "كم يستغرق التخلص من القمل نهائيا؟", "a": "عادة نحو أسبوعين إلى ثلاثة أسابيع، لأن البيض يفقس خلال أسبوع تقريبا ويحتاج العلاج إلى جلستين أو أكثر. يكتمل العلاج عندما لا تجد قملا حيا في الفحص الأخير بعد انتهاء الجلسات."},
+        {"q": "هل يمكن علاج القمل بالكاز أو البنزين؟", "a": "لا، أبدا. الكاز والبنزين يسببان حروقا في فروة الرأس، وأبخرتهما مؤذية، وقد يشتعلان من أي شرارة، وإذا وصلا إلى الرئة يسببان التهابا خطيرا. استخدم مستحضرا صيدلانيا مخصصا للقمل أو التمشيط المبلل بدلا منهما."},
+        {"q": "هل يجب أن يبقى طفلي في البيت ولا يذهب إلى المدرسة؟", "a": "لا. القمل لا يستدعي الغياب عن المدرسة، وغالبا كان موجودا عند طفلك منذ أسابيع قبل اكتشافه. ابدأ العلاج في المساء وأخبر المدرسة حتى ينبه بقية الأهل لفحص أولادهم."},
+        {"q": "هل أعالج كل أفراد العائلة حتى لو لم يكن عندهم قمل؟", "a": "افحص الجميع بالتمشيط المبلل، لكن عالج فقط من وجدت عنده قملا حيا. العلاج الوقائي لا يمنع العدوى ويعرض الشخص لمواد لا حاجة لها. والأفضل علاج كل المصابين في اليوم نفسه."},
+        {"q": "لماذا لم ينفع شامبو القمل مع طفلي؟", "a": "الأسباب الشائعة هي عدم إعادة العلاج بعد أسبوع، أو عدم تغطية كل الشعر بكمية كافية، أو عدوى جديدة من شخص آخر، أو أن القمل مقاوم للمادة. دراسات في السعودية وجدت مقاومة واسعة للبيرمثرين، لذلك اسأل الصيدلي عن نوع آخر بدل تكرار المنتج نفسه."},
+        {"q": "هل يعيش القمل في الوسادة والفراش؟", "a": "القملة التي تسقط من الرأس تضعف بسرعة وتموت عادة خلال يوم أو يومين. يكفي غسل غطاء الوسادة والأمشاط والحجاب الذي استخدمه الطفل مؤخرا بالغسيل العادي، ولا حاجة لرش المبيدات في البيت."},
+        {"q": "هل زيت الزيتون أو الخل يقتل القمل؟", "a": "لا يوجد دليل قوي على أنهما يقضيان على القمل وحدهما. يمكن استخدام زيت الزيتون بدل البلسم لتسهيل التمشيط المبلل، لكن الفعل الحقيقي يأتي من المشط والتكرار، لا من الزيت."}
+      ]
+    },
+    "en": {
+      "title": "Head Lice in Children: How to Get Rid of Them for Good",
+      "desc": "A practical guide for parents: wet combing step by step, how pharmacy lice treatments are used, and why kerosene, petrol and animal insecticides can seriously harm a child.",
+      "keywords": "head lice treatment, how to get rid of head lice, nits in children, lice comb, wet combing lice, head lice school, kerosene for lice, lice shampoo not working, lice eggs, head lice myths",
+      "h1": "Head lice in children: how to clear them properly and stop them coming back",
+      "takeaways": [
+        "Head lice are very common in schoolchildren and are not a sign that a child or a home is dirty.",
+        "Effective treatment is a pharmacy lice product or regular wet combing with a fine lice comb, and it usually takes two rounds.",
+        "Kerosene, petrol and farm or veterinary insecticides can burn, poison and inflame a child's lungs, so never use them.",
+        "Check everyone in the household on the same day, and treat only those with live lice.",
+        "You do not need to disinfect the house or boil everything, because lice do not survive long off the head."
+      ],
+      "sections": [
+        {
+          "h2": "How do I get rid of head lice in my child quickly?",
+          "paras": [
+            "The short answer is to choose one of two proven methods and see it through to the end. The first is a pharmacy product made for head lice, applied to the hair as the leaflet directs and repeated about a week later because some eggs can survive the first round. The second is wet combing with a fine-toothed lice comb on conditioner-soaked hair, every four days for about two weeks. With either method, you check the hair once treatment is finished to confirm there are no live lice left.",
+            "Head lice (Pediculosis capitis) are small insects about the size of a sesame seed that live on the scalp and feed on tiny amounts of blood. The female glues her eggs, called nits, firmly to the base of the hair shaft close to the skin. The eggs hatch in about a week, and the young lice grow and start breeding within days. That is why a single treatment session usually is not enough, and it is the detail many parents miss.",
+            "What delays treatment most often in our region is not a lack of products, it is embarrassment. Many parents find lice, treat the child quietly with a neighbour's recipe, and tell neither the school nor the grandparents, and the lice come back two weeks later from another child. Correct treatment, together with checking everyone the child is close to, actually ends the problem instead of letting it go round in circles.",
+            "Before you buy anything, make sure you are seeing live, moving lice and not dandruff or old empty egg cases. White nits sitting well away from the scalp on their own do not mean the infestation is still active, because they are usually shells that hatched weeks ago. A live louse is the evidence that justifies treatment."
+          ]
+        },
+        {
+          "h2": "Do head lice mean my child is not clean?",
+          "paras": [
+            "No, and this is the most important sentence on this page. Head lice spread mainly through head-to-head contact, when children play close together, share a bed, or lean their heads together over a phone or a book. Lice cannot fly or jump, they crawl from one hair to the next. They infest clean hair washed every day just as easily as any other hair, and they turn up in the most careful households.",
+            "Studies from our region show how widespread they are. A 2012 study in the Eastern Mediterranean Health Journal examined 1,550 primary school children in Mafraq Governorate, Jordan, and found head lice in 26.6 percent of them, including 34.7 percent of girls and 19.6 percent of boys. A 2018 study of 500 pupils in southern Jordan found lice in 20.4 percent. In practice, almost every classroom has several affected children at any given time.",
+            "It is true that those studies linked infestation to crowded homes, shared combs and scarves, and less frequent hair washing. These are factors that make it easier for lice to pass between people, not proof that lice are a punishment for poor hygiene. Girls are affected more because long hair, braids and close play let lice cross over more easily, not because girls are less clean.",
+            "Once you treat lice like any other school infection, such as a cold, it becomes much easier to tell the teacher and the parents of your child's friends so they can check their own children. That simple step does more than anything else to stop lice coming back into your home after all your effort."
+          ],
+          "visual": {
+            "type": "bar",
+            "title": "Head lice in Jordanian primary schoolchildren",
+            "unit": "%",
+            "max": 40,
+            "items": [
+              {"label": "Girls, Mafraq", "value": 34.7, "tone": "bad"},
+              {"label": "All pupils, Mafraq", "value": 26.6, "tone": "warn", "highlight": true},
+              {"label": "All pupils, southern Jordan", "value": 20.4, "tone": "warn"},
+              {"label": "Boys, Mafraq", "value": 19.6, "tone": "info"}
+            ],
+            "source": "AlBashtawy and Hasna, Eastern Mediterranean Health Journal 2012; Khamaiseh, Journal of Global Infectious Diseases 2018",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/22360010/"
+          }
+        },
+        {
+          "h2": "How can I tell if my child really has head lice?",
+          "paras": [
+            "An itchy scalp, especially behind the ears and at the nape of the neck, is the best known sign. But itching may only start weeks after the lice arrive, because it is an allergic reaction to louse saliva, and some children never itch at all. So do not wait for itching before you check, and check your child whenever the school sends a note about lice in the class.",
+            "The most reliable way to check is detection combing on wet hair. Looking with the eyes alone is misleading, because lice move quickly away from light and hide close to the scalp. Wet the hair, add some ordinary conditioner, then draw the lice comb from the roots to the tips and wipe it on a white tissue after every stroke. If you find at least one live louse, your child has an active infestation that needs treating.",
+            "Tell nits apart from dandruff. Dandruff brushes off easily and falls onto the shoulders, while a nit is glued to the hair and only moves if you slide it along the shaft with your fingernails. Live eggs sit very close to the scalp, within about a centimetre, while eggs further out along the hair are usually empty.",
+            "A metal lice comb with closely spaced teeth is sold in most pharmacies for very little, and it is the single most useful thing you can buy. The cheap plastic combs that sometimes come in treatment packs can have teeth too far apart to catch young lice."
+          ]
+        },
+        {
+          "h2": "Wet combing step by step",
+          "paras": [
+            "Wet combing uses no chemicals at all, which is why it suits very young children, pregnant women, and children with allergies or asthma. Conditioner makes lice sluggish and unable to grip, so the comb lifts them out easily. The secret is repetition: each session removes the lice that are there, and the next session catches any that hatched from eggs you missed.",
+            "The NHS recommends combing on days 1, 5, 9 and 13, then a final check on day 17. Short hair takes around ten minutes, while long or curly hair can take half an hour. Sit your child in front of a cartoon or give them a story to read, because a calm session works far better than one spent wriggling and crying.",
+            "Be honest with yourself about the effort. Combing alone needs patience and commitment. A 2022 review in Drugs in Context concluded that wet combing is time consuming and should not be the only method for the general population, but that it is the preferred option for children under two. If you know you will not manage four full sessions, a pharmacy product combined with combing may suit your family better.",
+            "Even if you use a pharmacy product, the comb is still useful for removing eggs and dead lice, and for confirming a few days later that treatment worked. Many cases of lice that will not go away are really a successful treatment that was never checked, or a fresh infestation from a sibling or cousin nobody examined."
+          ],
+          "visual": {
+            "type": "steps",
+            "title": "A wet combing session",
+            "items": [
+              "Wash the hair with ordinary shampoo, then apply plenty of conditioner and leave it in.",
+              "Detangle the hair with a normal wide-toothed comb.",
+              "Divide the hair into small sections and clip them out of the way.",
+              "Place the lice comb against the scalp and draw it slowly to the ends of the hair.",
+              "Wipe the comb on a white tissue after every stroke and look for lice.",
+              "Go over the whole head twice, then rinse out the conditioner.",
+              "Repeat on days 1, 5, 9 and 13, and do a final check on day 17."
+            ],
+            "source": "NHS: Head lice and nits",
+            "source_url": "https://www.nhs.uk/conditions/head-lice-and-nits/"
+          }
+        },
+        {
+          "h2": "Pharmacy lice treatments: how they are generally used",
+          "paras": [
+            "Pharmacies across the region sell several kinds of head lice product, many of them without a prescription. Some kill lice by attacking their nervous system, such as permethrin and the pyrethrins. Others coat the louse so it suffocates or cannot regulate its water, such as dimeticone, a silicone oil that the skin does not absorb. There are further options that a doctor usually prescribes if the first treatment fails.",
+            "The general rule for most products is that they are applied to the hair, left on for the time stated in the leaflet, then rinsed off, and the treatment is repeated after seven to ten days to kill lice that hatched from surviving eggs. Follow the leaflet exactly. Do not use more product or leave it on longer in the belief that it will work better, and do not use an adult product on a young child without asking the pharmacist.",
+            "There is an important reason some products fail here: resistance. A 2023 study in PeerJ analysed lice collected from primary school pupils in Jeddah and found the permethrin resistance mutation in 28 of 45 samples, or 62.2 percent. This does not mean permethrin never works, but it does mean that if you have used it correctly twice and still find live lice, the lice are probably resistant and you need a different type of product, not a bigger amount of the same one.",
+            "Products that work physically, such as dimeticone, are not expected to lose their effect to resistance in the same way, which is why many doctors and pharmacists turn to them when resistance is suspected. Ask the pharmacist about the minimum age for each product, and tell them if your child has asthma or a skin condition, or if the person being treated is pregnant or breastfeeding."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Common types of head lice treatment",
+            "head": ["Type", "How it works", "Notes"],
+            "rows": [
+              ["Permethrin and pyrethrins", "Paralyse the louse's nervous system", "Many lice in the region are resistant"],
+              ["Dimeticone", "Coats and suffocates the louse", "Not absorbed by skin, resistance not expected"],
+              ["Prescription options", "Various agents chosen by a doctor", "When first treatment fails despite correct use"],
+              ["Wet combing", "Removes lice by hand", "Suits babies and pregnancy, needs commitment"]
+            ],
+            "source": "Leung et al, Drugs in Context 2022",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/35371269/"
+          }
+        },
+        {
+          "h2": "Why kerosene, petrol and animal insecticides are dangerous",
+          "paras": [
+            "In many villages and neighbourhoods in our region an old remedy is still passed down: pour kerosene or petrol over the child's head and wrap it in a plastic bag overnight. Sometimes parents use a pesticide from the agricultural supply shop, a spray meant for sheep or poultry, or a household insect powder. These substances may kill lice, but they can do far more harm to the child than to the louse.",
+            "Kerosene and petrol cause chemical burns to the scalp, release fumes that the child breathes for hours under the bag, and catch fire easily, so a single spark from a heater, a gas stove or a lighter can set a child's hair alight. If kerosene reaches the child's mouth or is breathed in, it can cause chemical pneumonia. A 2019 review in the Indian Journal of Critical Care Medicine described aspiration pneumonitis as the most common complication of kerosene poisoning in children, and stressed that you must not try to make a child vomit after swallowing it.",
+            "Farm and veterinary insecticides are concentrated and designed for larger animals or for spraying fields, not for a child's skin. Some belong to families of chemicals that act on the nervous system and can be absorbed through the skin. Even insecticides that were once used as medicines have shown this risk: a 2012 review in Pediatric Dermatology gathered 67 cases of serious reactions and deaths linked to lindane, formerly used against lice and scabies, and many of the most serious occurred in children.",
+            "Vinegar, olive oil and mayonnaise are not dangerous in the same way, but there is no strong evidence that they clear lice on their own. If you like using olive oil, treat it as a substitute for conditioner during wet combing, not as a treatment in its own right."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "Go to emergency immediately if",
+            "items": [
+              "Your child has swallowed kerosene, petrol or a pesticide, or starts coughing or gasping after it was put on the head.",
+              "Burns, blisters or raw patches appear on the scalp or face.",
+              "Your child becomes unusually drowsy or confused, or has tremors or a seizure after a pesticide was used.",
+              "Your child's hair caught fire, even for a few seconds.",
+              "Do not try to make the child vomit, and take the container with you to hospital."
+            ],
+            "source": "Kumar et al, Indian Journal of Critical Care Medicine 2019",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/32021004/"
+          }
+        },
+        {
+          "h2": "Should I check the whole family, and what needs washing?",
+          "paras": [
+            "Yes, check everyone in the household with wet combing on the same day, including both parents and a grandparent who lives with you. But treat only the people in whom you find live lice, because treating someone without lice does not protect them and exposes them to products they do not need. Ideally treat everyone affected on the same day, so nobody passes lice back to someone who has just been cleared.",
+            "If your child spends weekends with relatives or sleeps alongside cousins at the grandparents' house, let those families know gently so they can check their children. In large, close-knit families this is the most common route by which lice return. Tell the school too, without naming your child if you prefer, so that it can alert other parents.",
+            "The good news is that you do not need to deep clean the house. A louse that falls off the head weakens quickly and usually dies within a day or two because it cannot feed. The NHS says there is no need to wash laundry on a hot wash. It is enough to wash or soak your child's combs and brushes, and to put the pillowcase and any headscarf worn in the last two days through an ordinary wash.",
+            "Do not spray insecticide on mattresses, carpets or sofas. It does nothing for head lice and exposes children to toxic chemicals. And do not shave a girl's head unless she wants it, because shaving is not necessary and at school age it can leave a deeper mark than the lice themselves."
+          ]
+        },
+        {
+          "h2": "Head lice myths and facts",
+          "paras": [
+            "Many ideas about lice add to the shame or push families towards the wrong treatment. Some lead parents to isolate a child or shave their head, others lead them to apply insecticide every day. The table below sums up the most common, along with what the evidence says.",
+            "Remember that your child does not need to stay home because of lice. The NHS is clear that children do not need to miss school, since the lice were probably there for weeks before anyone noticed. Start treatment in the evening and let your child go to school in the morning as usual.",
+            "Likewise there is no need to stop your child playing with friends. Instead, teach them not to share combs, caps and hair ties, and encourage girls with long hair to wear it tied back in a braid or bun at school. These small habits reduce spread without turning lice into a stigma."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Myth or fact?",
+            "head": ["Common belief", "The facts"],
+            "rows": [
+              ["Lice are a sign of poor hygiene", "They spread by head contact and infest clean hair too"],
+              ["Lice jump or fly", "They cannot jump or fly, they crawl between hairs"],
+              ["You must disinfect the whole house", "Washing combs and pillowcases normally is enough"],
+              ["Kerosene clears lice safely", "It can cause burns, fire and lung inflammation"],
+              ["One treatment is enough", "A second round after about a week is usually needed"],
+              ["The child must stay home", "There is no need to miss school"],
+              ["Head lice spread serious disease", "Head lice are a nuisance but do not usually spread disease"]
+            ],
+            "source": "NHS: Head lice and nits",
+            "source_url": "https://www.nhs.uk/conditions/head-lice-and-nits/"
+          }
+        },
+        {
+          "h2": "Why do lice keep coming back, and when should I see a doctor?",
+          "paras": [
+            "If you still find live lice after treatment, there are four common explanations. The first is that the second round was skipped or done too early. The second is that not enough product was used to cover all the hair, which is common with long, thick hair. The third is a new infestation from someone who was not checked. The fourth is that the lice are resistant to the product used, a real possibility in our region, as the Jeddah study showed.",
+            "Before you use the same product a third time, stop and speak to a pharmacist or doctor. Applying insecticide again and again over a few days does not make it work better. It irritates the scalp and can cause itching that carries on after the lice are dead, so parents assume the infestation is still active. Itching can last a week or more after successful treatment.",
+            "See a doctor if your child is under two, if a pregnant or breastfeeding mother needs treatment, or if your child has asthma or a skin condition on the scalp. See one too if the scalp becomes red, swollen or weeps pus, if the glands at the back of the neck swell, or if your child develops a fever, because scratching may have caused a bacterial infection that needs treatment.",
+            "If you see lice or eggs on the eyelashes or eyebrows, do not put any lice product or chemical near them, because the eye is very sensitive. Have your child seen by a doctor, who can decide on a safe method."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "warn",
+            "title": "Speak to a doctor or pharmacist before treating if",
+            "items": [
+              "Your child is under two.",
+              "The person affected is pregnant or breastfeeding.",
+              "Two correct treatments in a row have failed.",
+              "The scalp has pus, swelling or there is a fever.",
+              "You find lice on the eyelashes or eyebrows."
+            ]
+          }
+        }
+      ],
+      "tie": "Sihtak lets you set reminders for each combing day and the second round of treatment for each child separately, so no session slips through during a busy school week. Log the date you found lice and which product you used, so that if they come back, you and your pharmacist know exactly what has already been tried.",
+      "faqs": [
+        {"q": "How long does it take to get rid of head lice completely?", "a": "Usually about two to three weeks, because eggs hatch in around a week and treatment needs two or more rounds. You are done when the final check after the last session finds no live lice."},
+        {"q": "Can I treat head lice with kerosene or petrol?", "a": "No, never. Kerosene and petrol burn the scalp, give off harmful fumes, can catch fire from any spark, and cause serious lung inflammation if they reach the lungs. Use a pharmacy head lice product or wet combing instead."},
+        {"q": "Does my child need to stay home from school?", "a": "No. Head lice are not a reason to miss school, and they were probably present for weeks before you found them. Start treatment in the evening and tell the school so other parents can check their children."},
+        {"q": "Should I treat the whole family even if they have no lice?", "a": "Check everyone with wet combing, but treat only those in whom you find live lice. Preventive treatment does not stop infestation and exposes people to products they do not need. It is best to treat everyone affected on the same day."},
+        {"q": "Why did the lice shampoo not work on my child?", "a": "Common reasons are not repeating treatment after a week, not using enough to cover all the hair, a new infestation from someone else, or lice that are resistant to the product. Studies in Saudi Arabia have found widespread permethrin resistance, so ask a pharmacist about a different type rather than repeating the same one."},
+        {"q": "Can head lice live in pillows and bedding?", "a": "A louse that falls off the head weakens quickly and usually dies within a day or two. Washing the pillowcase, combs and any headscarf your child used recently in a normal wash is enough, and there is no need to spray insecticide around the house."},
+        {"q": "Does olive oil or vinegar kill head lice?", "a": "There is no strong evidence that either clears lice on its own. Olive oil can be used instead of conditioner to make wet combing easier, but the real work is done by the comb and by repeating the sessions, not by the oil."}
+      ]
+    }
+  }
+}

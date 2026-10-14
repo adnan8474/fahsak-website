@@ -1,0 +1,380 @@
+{
+  "slug": "psa-test-prostate",
+  "category": "lab-tests",
+  "chip_ar": "فهم التحاليل",
+  "chip_en": "Understanding Lab Tests",
+  "date_iso": "2026-10-08",
+  "sources": [
+    {"label": "Rabah DM, Farhat KH, Al-Atawi MA et al: Age-Specific Reference Ranges of Prostate-Specific Antigen among Saudi Men as a Representation of the Arab Population, Medical principles and practice : international journal of the Kuwait University, Health Science Centre, 2019", "url": "https://pubmed.ncbi.nlm.nih.gov/30731465/"},
+    {"label": "Oesterling JE, Jacobsen SJ, Chute CG et al: Serum prostate-specific antigen in a community-based population of healthy men. Establishment of age-specific reference ranges, JAMA, 1993", "url": "https://pubmed.ncbi.nlm.nih.gov/7688054/"},
+    {"label": "Roobol MJ, de Vos II, Månsson M et al: European Study of Prostate Cancer Screening - 23-Year Follow-up, The New England journal of medicine, 2025", "url": "https://pubmed.ncbi.nlm.nih.gov/41160819/"},
+    {"label": "Kasivisvanathan V, Rannikko AS, Borghi M et al: MRI-Targeted or Standard Biopsy for Prostate-Cancer Diagnosis, The New England journal of medicine, 2018", "url": "https://pubmed.ncbi.nlm.nih.gov/29552975/"},
+    {"label": "Mejak SL, Bayliss J, Hanks SD et al: Long distance bicycle riding causes prostate-specific antigen to increase in men aged 50 years and over, PloS one, 2013", "url": "https://pubmed.ncbi.nlm.nih.gov/23418500/"},
+    {"label": "Tarhan F, Demir K, Orcun A et al: Effect of ejaculation on Serum Prostate-Specific Antigen concentration, International braz j urol : official journal of the Brazilian Society of Urology, 2016", "url": "https://pubmed.ncbi.nlm.nih.gov/27286109/"},
+    {"label": "NHS: PSA test", "url": "https://www.nhs.uk/tests-and-treatments/psa-test/"}
+  ],
+  "content": {
+    "en": {
+      "title": "PSA Test: What a High Result Means for Your Prostate",
+      "desc": "A raised PSA is not a cancer diagnosis. Learn what else pushes PSA up, the normal range for your age, free versus total PSA, and what happens after a high result.",
+      "keywords": "PSA test, high PSA, PSA normal range by age, free PSA ratio, prostate specific antigen, enlarged prostate, prostate cancer screening, PSA after ejaculation, raised PSA what next",
+      "h1": "PSA test: what a high result really means for your prostate, and what happens next",
+      "takeaways": [
+        "PSA is a protein made by the prostate, and a raised level means the prostate needs a closer look, not that you have cancer.",
+        "Enlarged prostate, infection, recent ejaculation, cycling and a urinary catheter can all push PSA up.",
+        "PSA rises naturally with age, so a result that is high for a 45-year-old may be usual for a 70-year-old.",
+        "A raised result is normally repeated first, and in many centres an MRI scan now comes before any biopsy.",
+        "Screening men without symptoms is a personal decision best made with a doctor from about age 50, or earlier if your father or brother had prostate cancer."
+      ],
+      "sections": [
+        {
+          "h2": "What does a high PSA result mean?",
+          "paras": [
+            "A high PSA means your prostate is releasing more of this protein into your blood than expected. It is a signal to look more closely, not a diagnosis. Prostate cancer is one possible cause, but the most common reasons for a raised PSA are an enlarged prostate, which affects most men as they age, and inflammation or infection of the prostate. Something as ordinary as ejaculating or a long bike ride in the day or two before the test can also nudge the number up.",
+            "Most labs flag a result above 4.0 ng/mL as high. That threshold is a convention rather than a hard line. Some men with a PSA below 4 have cancer, and many men above 4 do not. Results between about 4 and 10 are often called a grey zone, where benign enlargement and cancer overlap a great deal. Above 10, the chance of a significant problem is higher, and specialist review should not be delayed.",
+            "So if your report shows a raised number, the right next step is rarely panic and rarely nothing. It is usually a repeat test under the right conditions, a urine test to rule out infection, and a conversation with a doctor about your age, your symptoms and your family history."
+          ],
+          "visual": {
+            "type": "range-scale",
+            "title": "Where your PSA result sits",
+            "label": "Total PSA",
+            "unit": "ng/mL",
+            "min": 0,
+            "max": 20,
+            "zones": [
+              {"to": 4, "tone": "good", "label": "Usual"},
+              {"to": 10, "tone": "warn", "label": "Grey zone"},
+              {"to": 20, "tone": "bad", "label": "High"}
+            ],
+            "marker": {"value": 5.6, "label": "Example result"},
+            "source": "Conventional 4.0 ng/mL threshold, discussed in Rabah et al, King Saud University, 2019",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/30731465/"
+          }
+        },
+        {
+          "h2": "What is PSA and why does the prostate make it?",
+          "paras": [
+            "The prostate is a gland about the size of a walnut that sits below the bladder and wraps around the tube that carries urine out of the body. It makes part of the fluid in semen. PSA, short for prostate specific antigen, is a protein it produces to keep semen liquid. Almost all of it stays in the semen, but a small amount leaks into the bloodstream, and that is what the blood test measures in nanograms per millilitre (ng/mL).",
+            "PSA is specific to the prostate, not to cancer. Anything that makes the gland bigger, inflamed or disturbed lets more PSA leak out. A prostate cancer can do this, but so can a benign enlargement or a simple infection. That is the central weakness of the test, and the reason every raised result has to be interpreted rather than read off the page.",
+            "Your PSA also changes over time. A study of 471 healthy men in Minnesota, published in JAMA in 1993, found that PSA tracked both age and prostate size, rising by roughly 3 percent a year in a healthy 60-year-old. That gradual climb is why doctors look at the trend across several tests rather than reacting to one number in isolation."
+          ]
+        },
+        {
+          "h2": "What can raise PSA apart from cancer?",
+          "paras": [
+            "Benign prostatic enlargement, also called BPH, is the commonest cause of a raised PSA. A bigger gland simply makes more PSA. It is extremely common after 50, and it is not cancer and does not turn into cancer, although the two can exist together. Prostatitis, an inflammation or infection of the prostate, and urinary tract infections can push PSA up sharply, sometimes to levels well above 10, before it falls again once the infection has settled.",
+            "Everyday activities matter too. A Turkish study of 98 men, published in 2016, found that total PSA rose in the first hours after ejaculation before returning to baseline. An Australian study of 129 men aged 50 to 71 found that a long recreational bike ride raised PSA by an average of 9.5 percent, and the number of men above the standard cut-off rose from two before the ride to six after it. The NHS therefore advises avoiding ejaculation, vigorous exercise and cycling for 48 hours before the test.",
+            "Procedures on the urinary tract can also raise PSA, including a urinary catheter, a cystoscopy camera test or a prostate biopsy. If you have had a urine infection, the NHS advises waiting 4 to 6 weeks after it clears before testing. In much of the region antibiotics are sold over the counter, and a few days of tablets taken without a diagnosis can leave a half-treated infection that keeps PSA raised, so it is better to have a urine test first.",
+            "Some medicines work the other way and lower PSA. Finasteride and dutasteride, prescribed for an enlarged prostate and, in the case of finasteride, for male pattern hair loss, can roughly halve PSA after several months. If you take either, tell the doctor reading your result, because a normal-looking number may actually be raised for you. Do not stop either medicine before a test unless your doctor tells you to."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Things that change PSA, and what to do about them",
+            "head": ["Cause", "Effect on PSA", "What to do"],
+            "rows": [
+              ["Enlarged prostate (BPH)", "Raises it, often steadily over years", "Your doctor weighs PSA against prostate size"],
+              ["Prostate or urine infection", "Can raise it sharply for weeks", "Treat the infection, retest 4 to 6 weeks after it clears"],
+              ["Ejaculation", "Small rise for hours", "Avoid for 48 hours before the test"],
+              ["Cycling or hard exercise", "Small rise after long rides", "Avoid for 48 hours before the test"],
+              ["Catheter, cystoscopy, biopsy", "Can raise it for weeks", "Ask your doctor how long to wait"],
+              ["Finasteride or dutasteride", "Lowers it, roughly by half", "Tell the doctor reading the result"]
+            ]
+          }
+        },
+        {
+          "h2": "What is a normal PSA for your age?",
+          "paras": [
+            "Because the prostate grows with age, a single cut-off of 4.0 ng/mL suits some men better than others. The 1993 Minnesota study proposed age-specific limits, based on the 95th percentile of healthy men: up to 2.5 ng/mL in your forties, 3.5 in your fifties, 4.5 in your sixties and 6.5 in your seventies. Many urologists still use these figures as a rough guide.",
+            "Arab men appear to run lower. Researchers at King Saud University in Riyadh measured PSA in 7,814 Saudi men aged 30 and over, in one of the largest such studies in the region. The average was 1.24 ng/mL, and 90.5 percent of men had a PSA between 0 and 2.5. The 95th percentile was 3.8 ng/mL in men aged 60 to 70 and jumped to 6.9 ng/mL in men over 71. The authors concluded that Saudi men have lower PSA than the populations on which the usual cut-offs were built.",
+            "In practice this means two things. A PSA of 3.5 in a 48-year-old Arab man may deserve more attention than the word \"normal\" on the lab report suggests. And a PSA of 5 in a man of 75 with an enlarged prostate may not need the same urgency as it would in a younger man. Your doctor should weigh your result against your age rather than the single printed range."
+          ],
+          "visuals": [
+            {
+              "type": "table",
+              "title": "Age-specific upper limits for total PSA",
+              "head": ["Age", "Upper limit (ng/mL)", "What it means"],
+              "rows": [
+                ["40 to 49", "2.5", "Above this deserves a conversation even if the lab says normal"],
+                ["50 to 59", "3.5", "The age when most men first consider testing"],
+                ["60 to 69", "4.5", "Enlargement makes mild rises common"],
+                ["70 to 79", "6.5", "Benefit of chasing small rises falls with age"]
+              ],
+              "source": "Oesterling et al, JAMA, 1993",
+              "source_url": "https://pubmed.ncbi.nlm.nih.gov/7688054/"
+            },
+            {
+              "type": "stats",
+              "title": "PSA in 7,814 Saudi men",
+              "items": [
+                {"value": "1.24", "label": "ng/mL, average PSA", "tone": "info"},
+                {"value": "90.5%", "label": "had PSA between 0 and 2.5", "tone": "good"},
+                {"value": "6.9", "label": "ng/mL, 95th percentile over age 71", "tone": "warn"}
+              ],
+              "source": "Rabah et al, King Saud University, Medical Principles and Practice, 2019",
+              "source_url": "https://pubmed.ncbi.nlm.nih.gov/30731465/"
+            }
+          ]
+        },
+        {
+          "h2": "Free PSA versus total PSA: what the ratio tells you",
+          "paras": [
+            "PSA circulates in two forms. Most of it is bound to other proteins in the blood, and a smaller share floats free. The standard test, total PSA, measures both together. Free PSA measures only the unbound part, and labs usually report it as a percentage of the total, printed as free to total ratio or % free PSA.",
+            "The ratio is useful mainly in the grey zone, when total PSA is somewhere between about 4 and 10. Cancer tends to produce a higher share of bound PSA, so a low free percentage raises the chance that cancer is the cause, while a high free percentage points more towards benign enlargement. The exact cut-off differs between labs, methods and guidelines, so it is your urologist, not the printout, who should decide what your ratio means.",
+            "Free PSA is not a test to request on its own or to repeat endlessly. It is one piece of a wider assessment that also includes your age, the size of your prostate, your family history, a rectal examination and, increasingly, an MRI scan. Some specialists also calculate PSA density, which is the PSA divided by the prostate volume measured on a scan, because a moderately raised PSA in a very large gland is less worrying than the same number in a small one."
+          ]
+        },
+        {
+          "h2": "Should you have a PSA test if you have no symptoms?",
+          "paras": [
+            "This is an honest debate, and it is worth understanding both sides. The largest trial, the European Randomized Study of Screening for Prostate Cancer, followed 162,236 men aged 55 to 69 for a median of 23 years and reported its final results in 2025. Men invited for regular PSA testing were 13 percent less likely to die of prostate cancer. One death from prostate cancer was prevented for every 456 men invited to screening.",
+            "The cost of that benefit is overdiagnosis. Screened men were diagnosed with prostate cancer 30 percent more often, and many of those cancers would never have caused symptoms or shortened life. Diagnosis can lead to biopsies, anxiety and treatments with side effects such as erection problems and urine leakage. That is why most guidelines do not recommend testing every man automatically, and why the NHS does not run a routine screening programme.",
+            "The usual advice is a shared decision with your doctor from about age 50, having weighed the possible benefits and harms. Men at higher risk are often advised to start that conversation earlier, from around 45, including men whose father or brother had prostate cancer, men of Black African descent and men known to carry a BRCA2 gene change. In many Arab countries PSA is added to men's check-up packages at private labs without any discussion, so you may receive a result before you have thought about what you would do with it. It is worth having that conversation before the blood is taken."
+          ],
+          "visual": {
+            "type": "stats",
+            "title": "What 23 years of PSA screening showed",
+            "items": [
+              {"value": "13%", "label": "fewer prostate cancer deaths in screened men", "tone": "good"},
+              {"value": "1 in 456", "label": "men invited to screening avoided a prostate cancer death", "tone": "info"},
+              {"value": "30%", "label": "more prostate cancer diagnoses, many of them harmless", "tone": "warn"}
+            ],
+            "source": "Roobol et al, ERSPC 23-year follow-up, New England Journal of Medicine, 2025",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/41160819/"
+          }
+        },
+        {
+          "h2": "What happens after a raised PSA result?",
+          "paras": [
+            "The first step is almost always a repeat test, taken after 48 hours without ejaculation, cycling or hard exercise, and ideally at the same lab so the results are comparable. A urine test checks for infection. Your doctor may also examine your prostate with a gloved finger through the back passage, which takes less than a minute and tells them about its size, texture and any hard areas.",
+            "If PSA stays raised, the modern next step in many centres is an MRI scan of the prostate before any biopsy. The PRECISION trial, published in 2018, randomised 500 men with suspected prostate cancer. In the MRI group, 28 percent had a scan that did not suggest cancer and avoided a biopsy altogether, and significant cancers were found more often, in 38 percent compared with 26 percent of men who had a standard biopsy. MRI also led to fewer diagnoses of harmless cancers.",
+            "If the MRI shows a suspicious area, a biopsy takes small samples of tissue with a fine needle, often aimed at that area. A pathologist examines them and grades any cancer found. Many low-grade cancers are now managed by active surveillance, meaning regular PSA tests and scans with treatment only if the cancer changes, rather than immediate surgery or radiotherapy.",
+            "Prostate MRI is not available in every city in the region, and where it exists it can be costly. If it is not available to you, ask the urologist what the alternatives are and whether a repeat PSA after a few months is a reasonable way to watch the trend before deciding on a biopsy."
+          ],
+          "visual": {
+            "type": "timeline",
+            "title": "The usual path after a raised PSA",
+            "items": [
+              {"when": "Week 0", "what": "Raised PSA on your report. No conclusions yet"},
+              {"when": "Weeks 1 to 2", "what": "Urine test for infection and a doctor's examination"},
+              {"when": "Weeks 6 to 8", "what": "Repeat PSA after 48 hours without ejaculation or cycling"},
+              {"when": "If still raised", "what": "MRI scan of the prostate, where available"},
+              {"when": "If MRI is suspicious", "what": "Targeted biopsy and a pathology report"},
+              {"when": "After results", "what": "Reassurance, active surveillance or treatment, decided with a urologist"}
+            ]
+          }
+        },
+        {
+          "h2": "Symptoms of an enlarged prostate, and when to get urgent help",
+          "paras": [
+            "Because the prostate surrounds the urine tube, a bigger gland can squeeze it. Typical symptoms include getting up at night to pass urine, needing to go often or urgently, a weak or stop-start stream, difficulty getting started, dribbling at the end and a feeling that the bladder has not emptied. A short questionnaire called the International Prostate Symptom Score (IPSS) scores these symptoms, it has been translated into Arabic and tested in the region, and your doctor may ask you to fill one in.",
+            "These symptoms are very common and are usually caused by benign enlargement, not cancer. Early prostate cancer often causes no symptoms at all, which is part of why the screening debate exists. Effective treatments for enlargement are available, from medicines that relax the prostate to procedures that widen the channel, so urinary symptoms are worth raising with a doctor even if your PSA is normal.",
+            "Some symptoms cannot wait for a routine appointment. Being unable to pass urine at all, with a painful, swollen lower belly, is an emergency because the bladder needs draining. Fever and shivering with burning urine and pain between the legs can mean acute prostatitis, which needs same-day treatment. Visible blood in the urine always deserves prompt assessment."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "Go to an emergency department or see a doctor today if",
+            "items": [
+              "You cannot pass urine at all and your lower belly is painful or swollen",
+              "You have fever or shivering with burning urine or pain between the legs",
+              "You see blood or clots in your urine",
+              "You have new back or hip pain with weight loss you cannot explain",
+              "You have back pain with new weakness, numbness in the legs, or loss of bladder or bowel control"
+            ]
+          }
+        }
+      ],
+      "tie": "With the Sihtak app you can scan each PSA report with the lab scanner so your results are saved in one place and charted over the years, which is exactly how doctors judge PSA, by its trend. The assistant can explain total and free PSA in plain language, and you can set a reminder for a repeat test after the right interval. It supports the conversation with your doctor rather than replacing it.",
+      "faqs": [
+        {"q": "Does a high PSA mean I have prostate cancer?", "a": "No. A raised PSA means the prostate needs a closer look, but the most common causes are benign enlargement and infection or inflammation. Most men with a raised PSA do not have cancer. A repeat test, a urine test and a doctor's assessment come first."},
+        {"q": "What is a normal PSA level for my age?", "a": "A widely used guide gives upper limits of about 2.5 ng/mL in your forties, 3.5 in your fifties, 4.5 in your sixties and 6.5 in your seventies. A large Riyadh study found that Saudi men tend to have lower PSA than these figures, with an average of 1.24 ng/mL. Your doctor should read your result against your age."},
+        {"q": "What should I avoid before a PSA test?", "a": "The NHS advises avoiding ejaculation, vigorous exercise and cycling for 48 hours before the test, as all can raise PSA slightly. You can eat and drink normally. If you have had a urine infection, wait 4 to 6 weeks after it clears."},
+        {"q": "What does a low free PSA percentage mean?", "a": "Free PSA is the part not bound to other proteins. When total PSA is in the grey zone of about 4 to 10, a lower free percentage makes cancer more likely and a higher one points towards benign enlargement. Cut-offs vary between labs, so a urologist should interpret it."},
+        {"q": "At what age should I start having PSA tests?", "a": "Most guidelines suggest discussing PSA testing with a doctor from about age 50. Men whose father or brother had prostate cancer, men of Black African descent and carriers of a BRCA2 gene change are often advised to start that discussion from about 45. It is a choice, not an automatic test."},
+        {"q": "Can finasteride for hair loss affect my PSA?", "a": "Yes. Finasteride and dutasteride can lower PSA by roughly half after several months of use. Tell the doctor reading your result that you take one of them, so the number can be interpreted correctly. Do not stop the medicine without your doctor's advice."},
+        {"q": "Will my PSA go down after a prostate infection?", "a": "Usually yes. Infection and inflammation can raise PSA sharply, and it generally falls back over several weeks once the infection is treated. That is why doctors repeat the test 4 to 6 weeks after an infection has cleared rather than acting on a reading taken during it."}
+      ]
+    },
+    "ar": {
+      "title": "تحليل PSA: ماذا يعني ارتفاعه وما مصير البروستاتا",
+      "desc": "ارتفاع PSA ليس تشخيصا للسرطان. تعرف على الأسباب الأخرى لارتفاعه، والمعدل الطبيعي حسب العمر، والفرق بين PSA الحر والكلي، وماذا يحدث بعد نتيجة مرتفعة.",
+      "keywords": "تحليل PSA, ارتفاع PSA, معدل PSA الطبيعي حسب العمر, تحليل البروستاتا, PSA الحر, تضخم البروستاتا, سرطان البروستاتا, فحص البروستاتا, نسبة PSA الحر للكلي",
+      "h1": "تحليل PSA: ماذا يعني ارتفاعه فعلا لبروستاتك، وما الخطوة التالية",
+      "takeaways": [
+        "PSA بروتين تصنعه البروستاتا، وارتفاعه يعني أن البروستاتا تحتاج نظرة أدق، لا أنك مصاب بالسرطان.",
+        "تضخم البروستاتا والالتهاب والقذف القريب وركوب الدراجة والقثطرة البولية كلها قد ترفع PSA.",
+        "يرتفع PSA طبيعيا مع العمر، فالنتيجة المرتفعة لرجل في الخامسة والأربعين قد تكون معتادة لرجل في السبعين.",
+        "تعاد النتيجة المرتفعة أولا عادة، وفي كثير من المراكز صار تصوير الرنين المغناطيسي يسبق أي خزعة.",
+        "فحص الرجل الذي لا يشكو من أعراض قرار شخصي يتخذ مع الطبيب من نحو سن الخمسين، أو قبل ذلك إذا أصيب الأب أو الأخ بسرطان البروستاتا."
+      ],
+      "sections": [
+        {
+          "h2": "ماذا يعني ارتفاع تحليل PSA؟",
+          "paras": [
+            "ارتفاع PSA يعني أن البروستاتا تطلق في دمك من هذا البروتين أكثر من المتوقع. إنه إشارة إلى ضرورة نظرة أدق، وليس تشخيصا. سرطان البروستاتا أحد الأسباب المحتملة، لكن أكثر أسباب الارتفاع شيوعا هي تضخم البروستاتا الحميد الذي يصيب معظم الرجال مع التقدم في العمر، والتهاب البروستاتا أو عدواها. وحتى أمر عادي مثل القذف أو مشوار طويل على الدراجة في اليوم أو اليومين السابقين للتحليل قد يرفع الرقم قليلا.",
+            "تضع معظم المختبرات علامة الارتفاع على أي نتيجة فوق 4.0 ng/mL. لكن هذا الحد عرف متفق عليه وليس خطا فاصلا. فبعض الرجال الذين تقل نتيجتهم عن 4 مصابون بالسرطان، وكثير ممن تزيد نتيجتهم عن 4 ليسوا مصابين. وتسمى النتائج بين 4 و10 تقريبا المنطقة الرمادية، حيث يتداخل التضخم الحميد والسرطان كثيرا. أما فوق 10 فاحتمال وجود مشكلة مهمة أعلى، ولا ينبغي تأخير مراجعة الاختصاصي.",
+            "فإذا رأيت على ورقة المختبر رقما مرتفعا، فالخطوة الصحيحة نادرا ما تكون الذعر، ونادرا ما تكون التجاهل. هي عادة إعادة التحليل في الظروف المناسبة، وتحليل بول لاستبعاد الالتهاب، وحديث مع طبيب عن عمرك وأعراضك وتاريخ عائلتك."
+          ],
+          "visual": {
+            "type": "range-scale",
+            "title": "أين تقع نتيجة PSA عندك",
+            "label": "Total PSA",
+            "unit": "ng/mL",
+            "min": 0,
+            "max": 20,
+            "zones": [
+              {"to": 4, "tone": "good", "label": "معتاد"},
+              {"to": 10, "tone": "warn", "label": "منطقة رمادية"},
+              {"to": 20, "tone": "bad", "label": "مرتفع"}
+            ],
+            "marker": {"value": 5.6, "label": "نتيجة مثال"},
+            "source": "الحد المعتاد 4.0 ng/mL كما تناقشه دراسة رباح وزملائه، جامعة الملك سعود، 2019",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/30731465/"
+          }
+        },
+        {
+          "h2": "ما هو PSA ولماذا تصنعه البروستاتا؟",
+          "paras": [
+            "البروستاتا (Prostate) غدة بحجم حبة الجوز تقريبا، تقع أسفل المثانة وتحيط بالقناة التي تحمل البول إلى الخارج، وتصنع جزءا من السائل المنوي. أما PSA، واسمه الكامل المستضد النوعي للبروستاتا (Prostate specific antigen)، فهو بروتين تفرزه لتبقي السائل المنوي سائلا. معظمه يبقى في السائل المنوي، لكن كمية صغيرة تتسرب إلى الدم، وهي ما يقيسه التحليل بوحدة النانوغرام في المليلتر (ng/mL).",
+            "PSA خاص بالبروستاتا، وليس خاصا بالسرطان. فكل ما يكبر الغدة أو يلهبها أو يحركها يسمح بتسرب مزيد منه. السرطان قد يفعل ذلك، وكذلك التضخم الحميد أو الالتهاب البسيط. وهذه هي نقطة الضعف الأساسية في التحليل، والسبب في أن كل نتيجة مرتفعة تحتاج تفسيرا لا قراءة سريعة من الورقة.",
+            "ويتغير PSA عندك أيضا مع الوقت. فقد وجدت دراسة شملت 471 رجلا سليما في ولاية مينيسوتا الأمريكية، ونشرت في مجلة JAMA عام 1993، أن PSA يرتبط بالعمر وبحجم البروستاتا معا، ويرتفع بنحو 3 بالمئة سنويا عند رجل سليم في الستين. وهذا الصعود التدريجي هو ما يجعل الأطباء ينظرون إلى اتجاه النتائج عبر عدة تحاليل بدل الحكم على رقم واحد."
+          ]
+        },
+        {
+          "h2": "ما الذي يرفع PSA غير السرطان؟",
+          "paras": [
+            "تضخم البروستاتا الحميد (BPH) هو أشيع سبب لارتفاع PSA، فالغدة الأكبر تصنع ببساطة PSA أكثر. وهو شائع جدا بعد الخمسين، وليس سرطانا ولا يتحول إلى سرطان، وإن كان الاثنان قد يجتمعان. أما التهاب البروستاتا (Prostatitis) والتهابات المسالك البولية فقد ترفع PSA بشدة، أحيانا إلى ما فوق 10 بكثير، ثم ينخفض بعد أن يزول الالتهاب.",
+            "والأنشطة اليومية مهمة أيضا. وجدت دراسة تركية على 98 رجلا نشرت عام 2016 أن PSA الكلي ارتفع في الساعات الأولى بعد القذف ثم عاد إلى مستواه. ووجدت دراسة أسترالية على 129 رجلا بين 50 و71 عاما أن مشوارا طويلا على الدراجة رفع PSA بمتوسط 9.5 بالمئة، وارتفع عدد الرجال فوق الحد المعتاد من اثنين قبل المشوار إلى ستة بعده. لذلك تنصح هيئة الخدمات الصحية البريطانية (NHS) بتجنب القذف والرياضة العنيفة وركوب الدراجة خلال 48 ساعة قبل التحليل.",
+            "والإجراءات على المسالك البولية قد ترفع PSA كذلك، مثل القثطرة البولية أو منظار المثانة أو خزعة البروستاتا. وإذا أصبت بالتهاب بولي فتنصح NHS بالانتظار من 4 إلى 6 أسابيع بعد شفائه قبل التحليل. وفي كثير من بلادنا تباع المضادات الحيوية دون وصفة، وبضعة أيام من حبوب تؤخذ دون تشخيص قد تترك التهابا نصف معالج يبقي PSA مرتفعا، لذلك الأفضل أن تبدأ بتحليل بول.",
+            "وبعض الأدوية تعمل في الاتجاه المعاكس فتخفض PSA. الفيناسترايد والدوتاستيرايد، اللذان يوصفان لتضخم البروستاتا، ويوصف الفيناسترايد أيضا لعلاج الصلع الوراثي، قد يخفضان PSA إلى النصف تقريبا بعد عدة أشهر. إذا كنت تتناول أحدهما فأخبر الطبيب الذي يقرأ نتيجتك، لأن الرقم الذي يبدو طبيعيا قد يكون مرتفعا بالنسبة لك. ولا توقف أيا منهما قبل التحليل إلا إذا طلب طبيبك ذلك."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "ما الذي يغير PSA وماذا تفعل",
+            "head": ["السبب", "أثره على PSA", "ماذا تفعل"],
+            "rows": [
+              ["تضخم البروستاتا الحميد", "يرفعه، غالبا ببطء على مدى سنوات", "يقارن الطبيب PSA بحجم البروستاتا"],
+              ["التهاب البروستاتا أو البول", "قد يرفعه بشدة لأسابيع", "عالج الالتهاب وأعد التحليل بعد 4 إلى 6 أسابيع من الشفاء"],
+              ["القذف", "ارتفاع بسيط لساعات", "تجنبه 48 ساعة قبل التحليل"],
+              ["ركوب الدراجة أو الرياضة العنيفة", "ارتفاع بسيط بعد المشاوير الطويلة", "تجنبها 48 ساعة قبل التحليل"],
+              ["القثطرة أو المنظار أو الخزعة", "قد ترفعه لأسابيع", "اسأل طبيبك كم تنتظر"],
+              ["الفيناسترايد أو الدوتاستيرايد", "يخفضه إلى النصف تقريبا", "أخبر الطبيب الذي يقرأ النتيجة"]
+            ]
+          }
+        },
+        {
+          "h2": "ما معدل PSA الطبيعي حسب العمر؟",
+          "paras": [
+            "لأن البروستاتا تكبر مع العمر، فالحد الواحد 4.0 ng/mL يناسب بعض الرجال أكثر من غيرهم. اقترحت دراسة مينيسوتا عام 1993 حدودا حسب العمر مبنية على المئين 95 عند الرجال الأصحاء: حتى 2.5 ng/mL في الأربعينات، و3.5 في الخمسينات، و4.5 في الستينات، و6.5 في السبعينات. وما زال كثير من أطباء المسالك يستخدمون هذه الأرقام دليلا تقريبيا.",
+            "ويبدو أن الرجال العرب أقل في هذا الرقم. فقد قاس باحثون في جامعة الملك سعود بالرياض PSA عند 7,814 رجلا سعوديا في سن الثلاثين فما فوق، في واحدة من أكبر الدراسات من نوعها في المنطقة. كان المتوسط 1.24 ng/mL، وكانت نتيجة 90.5 بالمئة من الرجال بين 0 و2.5. وبلغ المئين 95 نحو 3.8 ng/mL بين 60 و70 عاما، وقفز إلى 6.9 ng/mL فوق 71 عاما. وخلص الباحثون إلى أن PSA عند الرجال السعوديين أقل منه في المجتمعات التي بنيت عليها الحدود المعتادة.",
+            "ومعنى ذلك عمليا أمران. نتيجة 3.5 عند رجل عربي في الثامنة والأربعين قد تستحق اهتماما أكبر مما توحي به كلمة \"طبيعي\" على ورقة المختبر. ونتيجة 5 عند رجل في الخامسة والسبعين لديه تضخم في البروستاتا قد لا تحتاج الاستعجال نفسه الذي تحتاجه عند رجل أصغر. وعلى طبيبك أن يقرأ نتيجتك مقابل عمرك، لا مقابل المدى الواحد المطبوع."
+          ],
+          "visuals": [
+            {
+              "type": "table",
+              "title": "الحد الأعلى لـPSA الكلي حسب العمر",
+              "head": ["العمر", "الحد الأعلى (ng/mL)", "ماذا يعني"],
+              "rows": [
+                ["40 إلى 49", "2.5", "ما فوقه يستحق نقاشا حتى لو كتب المختبر طبيعي"],
+                ["50 إلى 59", "3.5", "العمر الذي يفكر فيه معظم الرجال بالتحليل أول مرة"],
+                ["60 إلى 69", "4.5", "التضخم يجعل الارتفاع البسيط شائعا"],
+                ["70 إلى 79", "6.5", "فائدة ملاحقة الارتفاع البسيط تقل مع العمر"]
+              ],
+              "source": "Oesterling وزملاؤه، JAMA، 1993",
+              "source_url": "https://pubmed.ncbi.nlm.nih.gov/7688054/"
+            },
+            {
+              "type": "stats",
+              "title": "PSA عند 7,814 رجلا سعوديا",
+              "items": [
+                {"value": "1.24", "label": "ng/mL متوسط PSA", "tone": "info"},
+                {"value": "90.5%", "label": "كانت نتيجتهم بين 0 و2.5", "tone": "good"},
+                {"value": "6.9", "label": "ng/mL المئين 95 فوق سن 71", "tone": "warn"}
+              ],
+              "source": "رباح وزملاؤه، جامعة الملك سعود، Medical Principles and Practice، 2019",
+              "source_url": "https://pubmed.ncbi.nlm.nih.gov/30731465/"
+            }
+          ]
+        },
+        {
+          "h2": "PSA الحر وPSA الكلي: ماذا تخبرك النسبة",
+          "paras": [
+            "يدور PSA في الدم بشكلين. معظمه مرتبط ببروتينات أخرى، وجزء أصغر يسبح حرا. التحليل المعتاد، أي PSA الكلي (Total PSA)، يقيس الاثنين معا. أما PSA الحر (Free PSA) فيقيس الجزء غير المرتبط فقط، وتكتبه المختبرات عادة نسبة مئوية من الكلي تحت اسم Free/Total ratio أو % Free PSA.",
+            "فائدة النسبة الأساسية في المنطقة الرمادية، حين يكون PSA الكلي بين 4 و10 تقريبا. فالسرطان يميل إلى إنتاج حصة أكبر من PSA المرتبط، لذلك تزيد النسبة الحرة المنخفضة احتمال أن يكون السرطان هو السبب، بينما تميل النسبة الحرة المرتفعة نحو التضخم الحميد. والحد الدقيق يختلف بين المختبرات والطرق والإرشادات، فطبيب المسالك هو من يقرر ما تعنيه نسبتك، لا الورقة المطبوعة.",
+            "وتحليل PSA الحر ليس تحليلا يطلب وحده أو يكرر بلا نهاية. إنه قطعة من تقييم أوسع يشمل عمرك وحجم البروستاتا وتاريخ العائلة والفحص بالإصبع، وصار يشمل بشكل متزايد تصوير الرنين المغناطيسي. وبعض الاختصاصيين يحسبون أيضا كثافة PSA، أي قسمة PSA على حجم البروستاتا المقاس بالتصوير، لأن ارتفاعا متوسطا في غدة كبيرة جدا أقل إثارة للقلق من الرقم نفسه في غدة صغيرة."
+          ]
+        },
+        {
+          "h2": "هل تجري تحليل PSA وأنت لا تشكو من شيء؟",
+          "paras": [
+            "هذا نقاش صادق، ويستحق أن تفهم طرفيه. فأكبر تجربة في هذا المجال، وهي الدراسة الأوروبية العشوائية لفحص سرطان البروستاتا (ERSPC)، تابعت 162,236 رجلا بين 55 و69 عاما لمدة 23 عاما في المتوسط، ونشرت نتائجها النهائية عام 2025. كان الرجال الذين دعوا إلى تحليل PSA المنتظم أقل عرضة للوفاة بسرطان البروستاتا بنسبة 13 بالمئة، وتم تجنب وفاة واحدة بسرطان البروستاتا مقابل كل 456 رجلا دعوا إلى الفحص.",
+            "ثمن هذه الفائدة هو التشخيص الزائد. فقد شخص سرطان البروستاتا عند الرجال المفحوصين أكثر بنسبة 30 بالمئة، وكثير من هذه السرطانات ما كان ليسبب أعراضا أو يقصر العمر أصلا. والتشخيص قد يجر إلى خزعات وقلق وعلاجات لها آثار جانبية مثل ضعف الانتصاب وتسرب البول. لهذا لا توصي معظم الإرشادات بفحص كل رجل تلقائيا، ولهذا لا تدير NHS برنامج فحص روتيني.",
+            "والنصيحة المعتادة قرار مشترك مع طبيبك من نحو سن الخمسين، بعد موازنة الفوائد والأضرار المحتملة. وينصح الرجال الأعلى خطرا عادة ببدء هذا الحديث مبكرا من نحو 45 عاما، ومنهم من أصيب أبوه أو أخوه بسرطان البروستاتا، والرجال من أصول إفريقية سوداء، وحاملو تغير في جين BRCA2. وفي كثير من البلاد العربية يضاف PSA إلى باقات الفحص الشامل للرجال في المختبرات الخاصة دون أي نقاش، فقد تصلك النتيجة قبل أن تفكر فيما ستفعله بها. والأفضل أن يجري هذا الحديث قبل سحب الدم."
+          ],
+          "visual": {
+            "type": "stats",
+            "title": "ماذا أظهرت 23 عاما من فحص PSA",
+            "items": [
+              {"value": "13%", "label": "وفيات أقل بسرطان البروستاتا عند المفحوصين", "tone": "good"},
+              {"value": "1 من 456", "label": "رجلا دعوا للفحص تجنب الوفاة بسرطان البروستاتا", "tone": "info"},
+              {"value": "30%", "label": "تشخيصات سرطان أكثر، كثير منها غير مؤذ", "tone": "warn"}
+            ],
+            "source": "Roobol وزملاؤه، متابعة ERSPC لمدة 23 عاما، New England Journal of Medicine، 2025",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/41160819/"
+          }
+        },
+        {
+          "h2": "ماذا يحدث بعد نتيجة PSA مرتفعة؟",
+          "paras": [
+            "الخطوة الأولى تكاد تكون دائما إعادة التحليل، بعد 48 ساعة دون قذف أو ركوب دراجة أو رياضة عنيفة، ويفضل في المختبر نفسه حتى تكون النتائج قابلة للمقارنة. ويفحص تحليل البول وجود التهاب. وقد يفحص الطبيب البروستاتا بإصبع عليه قفاز عبر فتحة الشرج، وهو فحص يستغرق أقل من دقيقة ويخبره بحجم الغدة وقوامها ووجود أي مناطق صلبة.",
+            "إذا بقي PSA مرتفعا، فالخطوة الحديثة التالية في كثير من المراكز هي تصوير البروستاتا بالرنين المغناطيسي (MRI) قبل أي خزعة. ففي تجربة PRECISION المنشورة عام 2018، وزع 500 رجل يشتبه بإصابتهم بسرطان البروستاتا عشوائيا. في مجموعة الرنين، جاء التصوير عند 28 بالمئة منهم غير موح بالسرطان فتجنبوا الخزعة كليا، واكتشفت السرطانات المهمة أكثر، عند 38 بالمئة مقابل 26 بالمئة عند من أجروا الخزعة التقليدية. كما قلل الرنين تشخيص السرطانات غير المؤذية.",
+            "إذا أظهر الرنين منطقة مشبوهة، تؤخذ خزعة بإبرة دقيقة تسحب عينات صغيرة من النسيج، وغالبا توجه إلى تلك المنطقة. ويفحصها اختصاصي علم الأمراض ويحدد درجة أي سرطان يجده. وكثير من السرطانات منخفضة الدرجة تدار اليوم بالمراقبة النشطة، أي تحاليل PSA وتصوير بشكل منتظم مع العلاج فقط إذا تغير الورم، بدل الجراحة أو الأشعة فورا.",
+            "رنين البروستاتا ليس متاحا في كل مدينة في منطقتنا، وحيث يتوفر قد يكون مكلفا. إذا لم يكن متاحا لك، فاسأل طبيب المسالك عن البدائل، وهل إعادة PSA بعد بضعة أشهر طريقة معقولة لمراقبة الاتجاه قبل اتخاذ قرار الخزعة."
+          ],
+          "visual": {
+            "type": "timeline",
+            "title": "المسار المعتاد بعد ارتفاع PSA",
+            "items": [
+              {"when": "الأسبوع 0", "what": "نتيجة PSA مرتفعة على الورقة. لا استنتاجات بعد"},
+              {"when": "الأسبوع 1 إلى 2", "what": "تحليل بول للالتهاب وفحص عند الطبيب"},
+              {"when": "الأسبوع 6 إلى 8", "what": "إعادة PSA بعد 48 ساعة دون قذف أو دراجة"},
+              {"when": "إذا بقي مرتفعا", "what": "تصوير البروستاتا بالرنين حيث يتوفر"},
+              {"when": "إذا كان الرنين مشبوها", "what": "خزعة موجهة وتقرير علم الأمراض"},
+              {"when": "بعد النتائج", "what": "طمأنة أو مراقبة نشطة أو علاج، بالقرار مع طبيب المسالك"}
+            ]
+          }
+        },
+        {
+          "h2": "أعراض تضخم البروستاتا، ومتى تطلب المساعدة العاجلة",
+          "paras": [
+            "لأن البروستاتا تحيط بقناة البول، فالغدة المتضخمة قد تضغط عليها. ومن الأعراض المعتادة الاستيقاظ ليلا للتبول، والحاجة المتكررة أو الملحة للتبول، وضعف تدفق البول أو تقطعه، وصعوبة البدء، والتنقيط في النهاية، والإحساس بأن المثانة لم تفرغ. وهناك استبيان قصير اسمه مقياس أعراض البروستاتا الدولي (IPSS) يعطي هذه الأعراض درجات، وله نسخة عربية جربت في المنطقة، وقد يطلب منك طبيبك تعبئته.",
+            "هذه الأعراض شائعة جدا، وسببها في الغالب التضخم الحميد لا السرطان. أما سرطان البروستاتا المبكر فكثيرا ما لا يسبب أي أعراض، وهذا جزء من سبب وجود النقاش حول الفحص. وتتوفر علاجات فعالة للتضخم، من أدوية ترخي البروستاتا إلى إجراءات توسع القناة، لذلك تستحق أعراض البول أن تذكرها لطبيبك حتى لو كان PSA طبيعيا.",
+            "وبعض الأعراض لا تحتمل انتظار موعد عادي. عدم القدرة على التبول إطلاقا مع ألم وانتفاخ أسفل البطن حالة إسعافية، لأن المثانة تحتاج تفريغا. والحمى والقشعريرة مع حرقة البول وألم بين الساقين قد تعني التهاب البروستاتا الحاد الذي يحتاج علاجا في اليوم نفسه. والدم الظاهر في البول يستحق دائما تقييما سريعا."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "اذهب إلى الإسعاف أو راجع طبيبا اليوم إذا",
+            "items": [
+              "لم تستطع التبول إطلاقا وكان أسفل بطنك مؤلما أو منتفخا",
+              "أصبت بحمى أو قشعريرة مع حرقة في البول أو ألم بين الساقين",
+              "رأيت دما أو جلطات في البول",
+              "ظهر عندك ألم جديد في الظهر أو الورك مع نقص وزن غير مفسر",
+              "أصبت بألم في الظهر مع ضعف جديد أو خدر في الساقين، أو فقدت التحكم في البول أو البراز"
+            ]
+          }
+        }
+      ],
+      "tie": "مع تطبيق صحتك يمكنك مسح كل ورقة تحليل PSA عبر ماسح المختبر لتحفظ نتائجك في مكان واحد وترسم تغيرها عبر السنوات، وهذا تحديدا ما يحكم به الأطباء على PSA، أي من خلال اتجاهه. ويستطيع المساعد الذكي أن يشرح لك PSA الكلي والحر بلغة بسيطة، ويمكنك ضبط تذكير لإعادة التحليل بعد المدة المناسبة. هو يدعم حديثك مع طبيبك ولا يحل محله.",
+      "faqs": [
+        {"q": "هل ارتفاع PSA يعني أنني مصاب بسرطان البروستاتا؟", "a": "لا. ارتفاع PSA يعني أن البروستاتا تحتاج نظرة أدق، لكن أشيع أسبابه التضخم الحميد والالتهاب. ومعظم الرجال الذين يرتفع PSA عندهم ليسوا مصابين بالسرطان. تأتي أولا إعادة التحليل وتحليل البول وتقييم الطبيب."},
+        {"q": "ما معدل PSA الطبيعي لعمري؟", "a": "يعطي دليل مستخدم على نطاق واسع حدودا عليا تقارب 2.5 ng/mL في الأربعينات، و3.5 في الخمسينات، و4.5 في الستينات، و6.5 في السبعينات. ووجدت دراسة كبيرة في الرياض أن PSA عند الرجال السعوديين أقل من هذه الأرقام، بمتوسط 1.24 ng/mL. ويجب أن يقرأ طبيبك نتيجتك مقابل عمرك."},
+        {"q": "ما الذي أتجنبه قبل تحليل PSA؟", "a": "تنصح NHS بتجنب القذف والرياضة العنيفة وركوب الدراجة خلال 48 ساعة قبل التحليل، لأنها قد ترفع PSA قليلا. يمكنك الأكل والشرب كالمعتاد. وإذا أصبت بالتهاب بولي فانتظر من 4 إلى 6 أسابيع بعد شفائه."},
+        {"q": "ماذا تعني نسبة PSA الحر المنخفضة؟", "a": "PSA الحر هو الجزء غير المرتبط ببروتينات أخرى. حين يكون PSA الكلي في المنطقة الرمادية بين 4 و10 تقريبا، فالنسبة الحرة المنخفضة تزيد احتمال السرطان، والمرتفعة تميل نحو التضخم الحميد. والحدود تختلف بين المختبرات، لذلك يفسرها طبيب المسالك."},
+        {"q": "في أي عمر أبدأ تحليل PSA؟", "a": "تقترح معظم الإرشادات مناقشة تحليل PSA مع الطبيب من نحو سن الخمسين. أما من أصيب أبوه أو أخوه بسرطان البروستاتا، والرجال من أصول إفريقية سوداء، وحاملو تغير جين BRCA2، فينصحون غالبا ببدء النقاش من نحو 45 عاما. إنه خيار وليس تحليلا تلقائيا."},
+        {"q": "هل يؤثر الفيناسترايد الذي آخذه للصلع على PSA؟", "a": "نعم. الفيناسترايد والدوتاستيرايد قد يخفضان PSA إلى النصف تقريبا بعد عدة أشهر من الاستعمال. أخبر الطبيب الذي يقرأ نتيجتك أنك تتناول أحدهما حتى يفسر الرقم بشكل صحيح. ولا توقف الدواء دون استشارة طبيبك."},
+        {"q": "هل ينخفض PSA بعد التهاب البروستاتا؟", "a": "غالبا نعم. الالتهاب قد يرفع PSA بشدة، وينخفض عادة خلال عدة أسابيع بعد علاجه. لهذا يعيد الأطباء التحليل بعد 4 إلى 6 أسابيع من الشفاء بدل الاعتماد على نتيجة أخذت أثناء الالتهاب."}
+      ]
+    }
+  }
+}

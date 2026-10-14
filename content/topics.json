@@ -1076,5 +1076,117 @@
   "slug": "painkillers-and-your-kidneys",
   "en": "Painkillers and your kidneys: the damage nobody warns about",
   "angle": "Chronic NSAID use is a major and preventable cause of regional kidney disease, driven by free over-the-counter availability. Which painkillers, how much, who is most at risk, and safer options."
+ },
+ {
+  "b": 20,
+  "cat": "infectious-diseases",
+  "slug": "influenza-flu-guide",
+  "en": "Flu (influenza): symptoms, treatment and when the vaccine matters",
+  "angle": "Seasonal timing: October to March across the region, so this is the page people search now. Separate flu from a common cold with a comparison table (onset, fever, aches, fatigue). Be blunt that antibiotics do nothing for flu, a widespread regional habit. Who is high risk (pregnancy, over 65, diabetes, asthma, young children) and why the annual vaccine is worth it for them. Red-flag callout for breathing difficulty, chest pain, confusion, dehydration in children. Timeline of a typical flu week."
+ },
+ {
+  "b": 20,
+  "cat": "infectious-diseases",
+  "slug": "tonsillitis-strep-throat",
+  "en": "Tonsillitis and strep throat: viral or bacterial, and when you need antibiotics",
+  "angle": "Most sore throats are viral, yet antibiotics are bought over the counter for nearly all of them. Explain the Centor or FeverPAIN style signs that point to strep, the rapid strep test, and why a full course matters when strep is confirmed: rheumatic fever and rheumatic heart disease are still seen in parts of the region, cite regional rheumatic heart disease evidence. Red-flag callout: drooling, can not swallow, muffled voice, one-sided swelling (quinsy). When tonsillectomy is considered."
+ },
+ {
+  "b": 20,
+  "cat": "infectious-diseases",
+  "slug": "sinusitis-guide",
+  "en": "Sinusitis: symptoms, how long it lasts and when antibiotics help",
+  "angle": "Acute sinusitis is usually viral and clears in 2 to 3 weeks. Explain the 10 day rule and the 'double worsening' pattern that suggests bacterial infection. Dust storms and allergic rhinitis drive chronic sinus symptoms in the region. Steps for saline rinsing done safely (boiled or bottled water, a real regional concern). Red flags: swelling around the eye, severe headache with stiff neck, double vision. Distinguish from dental pain and migraine."
+ },
+ {
+  "b": 20,
+  "cat": "child-health",
+  "slug": "ear-infection-children",
+  "en": "Ear infection in children: signs, pain relief and when to see a doctor",
+  "angle": "Acute otitis media is the commonest reason children get antibiotics. Signs in a baby who can not talk (pulling ear, crying at night, fever). Watchful waiting for 48 to 72 hours is standard in many guidelines for mild cases over age 2, explain when antibiotics are needed instead. Never put oil, garlic or anything else in the ear, a common home remedy. Red flags: swelling behind the ear, stiff neck, discharge with high fever. Glue ear and hearing after repeated infections."
+ },
+ {
+  "b": 20,
+  "cat": "child-health",
+  "slug": "head-lice-treatment",
+  "en": "Head lice in children: how to get rid of them and stop them coming back",
+  "angle": "Back-to-school season. Lice are not a sign of poor hygiene, say so plainly because shame stops parents acting. Wet combing method as steps, how approved treatments are used in general terms, why kerosene, petrol and insecticides meant for animals or crops are dangerous (real regional practice, cite poisoning evidence if found). Checking the whole family, what does and does not need washing. Table of myths vs facts."
+ },
+ {
+  "b": 20,
+  "cat": "chronic-conditions",
+  "slug": "heart-attack-warning-signs",
+  "en": "Heart attack warning signs: what to do in the first minutes",
+  "angle": "Highest-stakes page on the site. Classic and atypical symptoms (women, people with diabetes may have no chest pain). Steps for the first minutes: call the emergency number, chew aspirin only if advised by emergency services and not allergic, do not drive yourself. Why time to hospital matters (door to balloon). Regional evidence: heart attacks occur at younger ages in the Middle East than in the West, cite Gulf RACE or similar. Link to troponin test and emergency numbers articles. Red-flag callout up top."
+ },
+ {
+  "b": 20,
+  "cat": "chronic-conditions",
+  "slug": "kidney-stones-guide",
+  "en": "Kidney stones: symptoms, treatment and how to stop them coming back",
+  "angle": "The Gulf and Middle East sit in the global 'stone belt' because of heat and dehydration, cite regional prevalence. Renal colic pain pattern, blood in urine, when stones pass alone by size (table of size vs chance of passing). Prevention: fluid targets in heat, salt, oxalate foods common in the regional diet, citrate. Red flags: fever with stone pain (infected obstructed kidney is an emergency), no urine. Types of stones and what the stone analysis tells you."
+ },
+ {
+  "b": 20,
+  "cat": "chronic-conditions",
+  "slug": "constipation-guide",
+  "en": "Constipation: causes, quick relief and when to worry",
+  "angle": "Digestive health is the biggest gap on the site. Define constipation properly (Bristol stool chart as a table). Common causes in the region: low fibre diets heavy in white bread and rice, low water intake in heat, painkillers containing codeine, iron tablets. Steps that work: fibre, fluid, movement, toilet posture. Warn against long-term senna or herbal laxative teas (link to senna article). Red flags for bowel cancer: blood, weight loss, change in habit after 50, anaemia. Constipation in children and in pregnancy as short sections."
+ },
+ {
+  "b": 20,
+  "cat": "chronic-conditions",
+  "slug": "hemorrhoids-piles-guide",
+  "en": "Haemorrhoids (piles): symptoms, home treatment and when you need a doctor",
+  "angle": "Very high search volume in Arabic and a topic people are too embarrassed to ask about. Internal vs external, what bleeding looks like. Home care steps (fibre, sitz baths, not straining, not sitting on the toilet with a phone). Over-the-counter creams in general terms, avoid long-term steroid creams. Why rectal bleeding must never be assumed to be piles after 40 or 50 (bowel cancer). Treatment options: banding, surgery, table comparing them. Pregnancy and piles."
+ },
+ {
+  "b": 20,
+  "cat": "chronic-conditions",
+  "slug": "stomach-ulcer-peptic-ulcer",
+  "en": "Stomach ulcer: symptoms, causes and how it is treated",
+  "angle": "Peptic ulcer disease. The two main causes are H. pylori (very common in the region, cite regional prevalence) and anti-inflammatory painkillers such as ibuprofen and diclofenac bought without prescription. Link to h-pylori-test-explained and ibuprofen-nsaids-risks, do not repeat them. Symptoms vs reflux. How eradication therapy works in general terms and why the full course plus a test of cure matters. Red flags: vomiting blood or coffee grounds, black tarry stools, sudden severe abdominal pain."
+ },
+ {
+  "b": 20,
+  "cat": "nutrition",
+  "slug": "celiac-disease-gluten",
+  "en": "Coeliac disease: symptoms, the blood test and living gluten-free",
+  "angle": "Coeliac disease is under-diagnosed in the Middle East, where wheat bread is a staple. Cite regional prevalence studies. Symptoms beyond the gut: iron deficiency anaemia that does not respond to iron, short stature in children, osteoporosis. The tTG-IgA blood test and why you must keep eating gluten until tested. Range-scale is not needed; use a table of hidden gluten in regional foods (freekeh, bulgur, burghul, couscous, some spice mixes). Gluten-free Arab staples that are safe."
+ },
+ {
+  "b": 20,
+  "cat": "lab-tests",
+  "slug": "hcg-pregnancy-blood-test",
+  "en": "Pregnancy blood test (beta hCG): what your number means",
+  "angle": "Massive Arabic query (تحليل الحمل الرقمي). When to test after a missed period, home urine test vs blood test, what quantitative beta hCG levels mean by week (table with wide ranges, cite source), why one number means little and the doubling pattern over 48 hours matters. Low or slowly rising hCG, ectopic pregnancy red flags (one-sided pain, shoulder tip pain, fainting) in a bad callout. Range-scale for the pregnant vs not pregnant cut-off (under 5 mIU/mL negative, over 25 positive)."
+ },
+ {
+  "b": 20,
+  "cat": "lab-tests",
+  "slug": "amh-test-ovarian-reserve",
+  "en": "AMH test: what it says about your egg reserve, and what it does not",
+  "angle": "Very high Arabic search interest (تحليل مخزون البيض). Explain AMH honestly: it estimates egg quantity, not quality, and it does not predict natural fertility well in women not trying IVF. Age-based reference table with source. Low AMH is not infertility. High AMH and PCOS link (link pcos-guide). Units differ between labs (ng/mL vs pmol/L), conversion. When the test is genuinely useful: before IVF, before cancer treatment, family planning conversations. Range-scale."
+ },
+ {
+  "b": 20,
+  "cat": "lab-tests",
+  "slug": "prolactin-test-high-prolactin",
+  "en": "Prolactin test: causes of high prolactin and what happens next",
+  "angle": "Common Arabic query (هرمون الحليب). How to prepare (stress, sleep, nipple stimulation, exercise raise it, so morning rested sample), why a mildly high result is often repeated. Causes table: pregnancy, breastfeeding, medicines (antipsychotics, metoclopramide, some antidepressants), hypothyroidism, pituitary prolactinoma, macroprolactin. Symptoms in women and in men. Range-scale with units and a note that ranges vary by lab. When an MRI is ordered."
+ },
+ {
+  "b": 20,
+  "cat": "lab-tests",
+  "slug": "hair-loss-blood-tests",
+  "en": "Hair loss: which blood tests to ask for and what they mean",
+  "angle": "Huge Arabic query (تحاليل تساقط الشعر). Ferritin, vitamin D, TSH, CBC, zinc, and in women testosterone and other androgens when PCOS is suspected. Explain which have strong evidence and which are mostly upsold by labs and clinics (honest about biotin and vitamin panels). Table: test, what it looks for, when it is worth doing. Telogen effluvium after fever, childbirth or crash dieting, and the 3 month delay. Pattern hair loss in men and women. Red flags: patches with scaling, scarring, sudden loss of eyebrows."
+ },
+ {
+  "b": 20,
+  "cat": "lab-tests",
+  "slug": "psa-test-prostate",
+  "en": "PSA test: what a high result means for your prostate",
+  "angle": "Men's health is a gap on the site. Explain PSA plainly, what raises it other than cancer (enlarged prostate, infection, recent ejaculation, cycling, catheter), age-related ranges as a table with source, free vs total PSA. The honest debate about screening: shared decision from about 50, earlier with family history. What happens after a raised result (repeat, MRI, biopsy) as a timeline. Symptoms of an enlarged prostate. Range-scale."
  }
 ]

@@ -1,0 +1,400 @@
+{
+  "slug": "ear-infection-children",
+  "category": "child-health",
+  "chip_ar": "صحة الطفل",
+  "chip_en": "Child Health",
+  "date_iso": "2026-10-08",
+  "sources": [
+    {"label": "Lieberthal AS, Carroll AE, Chonmaitree T et al: The diagnosis and management of acute otitis media, Pediatrics, 2013", "url": "https://pubmed.ncbi.nlm.nih.gov/23439909/"},
+    {"label": "Venekamp RP, Sanders SL, Glasziou PP et al: Antibiotics for acute otitis media in children, The Cochrane database of systematic reviews, 2023", "url": "https://pubmed.ncbi.nlm.nih.gov/37965923/"},
+    {"label": "de Sévaux JLH, Damoiseaux RA, van de Pol AC et al: Paracetamol (acetaminophen) or non-steroidal anti-inflammatory drugs, alone or combined, for pain relief in acute otitis media in children, The Cochrane database of systematic reviews, 2023", "url": "https://pubmed.ncbi.nlm.nih.gov/37594020/"},
+    {"label": "Rosenfeld RM, Shin JJ, Schwartz SR et al: Clinical Practice Guideline: Otitis Media with Effusion (Update), Otolaryngology--head and neck surgery : official journal of American Academy of Otolaryngology-Head and Neck Surgery, 2016", "url": "https://pubmed.ncbi.nlm.nih.gov/26832942/"},
+    {"label": "AlHefdhi HA, Al Qout MM, Alqahtani AY et al: Parents' Knowledge of and Attitude toward Acute Otitis Media and Its Treatment in Children: A Survey at Primary Healthcare Centers in the Aseer Region, Children (Basel, Switzerland), 2023", "url": "https://pubmed.ncbi.nlm.nih.gov/37761534/"},
+    {"label": "Saad K, Abdelmoghny A, Abdel-Raheem YF et al: Prevalence and associated risk factors of recurrent otitis media with effusion in children in Upper Egypt, World journal of otorhinolaryngology - head and neck surgery, 2021", "url": "https://pubmed.ncbi.nlm.nih.gov/34632340/"},
+    {"label": "Alshehri S, Alahmari KA: Pediatric Acute Mastoiditis in Saudi Arabia: Demographic Insights, Clinical Profiles, and Prognostic Factors, Children (Basel, Switzerland), 2024", "url": "https://pubmed.ncbi.nlm.nih.gov/38671619/"}
+  ],
+  "content": {
+    "ar": {
+      "title": "التهاب الأذن عند الأطفال: العلامات والمسكنات ومتى تزور الطبيب",
+      "desc": "معظم التهابات الأذن الوسطى عند الأطفال تتحسن خلال أيام. تعرف على علاماتها عند الرضيع، وكيف تخفف الألم، ومتى يحتاج طفلك مضادا حيويا أو طوارئ فورا.",
+      "keywords": "التهاب الأذن عند الأطفال, التهاب الأذن الوسطى, ألم الأذن عند الرضيع, هل التهاب الأذن يحتاج مضاد حيوي, الطفل يشد أذنه, ماء خلف طبلة الأذن, زيت الزيتون في الأذن, التهاب الأذن المتكرر, ضعف السمع عند الأطفال",
+      "h1": "التهاب الأذن عند الأطفال: كيف تعرفه، وكيف تخفف ألم طفلك، ومتى يحتاج إلى الطبيب",
+      "takeaways": [
+        "التهاب الأذن الوسطى من أكثر أسباب وصف المضادات الحيوية للأطفال، ومع ذلك يتحسن كثير منه وحده خلال يومين إلى ثلاثة.",
+        "تخفيف الألم بالمسكن المناسب لعمر الطفل ووزنه هو الخطوة الأولى دائما، سواء احتاج إلى مضاد حيوي أم لا.",
+        "في الحالات الخفيفة عند الأطفال فوق السنتين، تسمح الإرشادات بالمراقبة 48 إلى 72 ساعة قبل المضاد، بشرط إمكانية المتابعة.",
+        "لا تضع في أذن طفلك زيتا أو ثوما أو حليبا أو أي قطرة لم يصفها الطبيب.",
+        "التورم أو الاحمرار خلف الأذن، أو تيبس الرقبة، أو إفرازات مع حرارة عالية، علامات تستدعي الطوارئ."
+      ],
+      "sections": [
+        {
+          "h2": "ما هو التهاب الأذن الوسطى عند الأطفال، وهل يشفى وحده؟",
+          "paras": [
+            "التهاب الأذن الوسطى الحاد (Acute otitis media) هو عدوى في التجويف الصغير الواقع خلف طبلة الأذن. يبدأ غالبا بعد زكام أو التهاب حلق، حين يتورم الأنبوب الذي يصل الأذن بخلف الأنف، فيتجمع السائل خلف الطبلة وتتكاثر فيه الفيروسات أو البكتيريا، فتنتفخ الطبلة ويشعر الطفل بألم شديد.",
+            "والخبر المطمئن أن أغلب هذه الالتهابات تتحسن وحدها. مراجعة كوكرين (Cochrane) لعام 2023، التي جمعت 13 تجربة شملت أكثر من 3400 طفل، خلصت إلى أن معظم حالات التهاب الأذن في الدول ذات الدخل المرتفع تشفى تلقائيا دون مضاعفات، وأن المضاد الحيوي لا يقلل الألم في اليوم الأول أصلا.",
+            "هذا لا يعني أن تتجاهل ألم أذن طفلك. يعني أن الأولوية هي تخفيف الألم، ثم أن يفحص الطبيب الأذن بالمنظار ليقرر ما إذا كان الطفل يحتاج مضادا حيويا الآن، أم أن المراقبة لبضعة أيام هي الأنسب. ولا يمكن تشخيص التهاب الأذن الوسطى دون النظر إلى الطبلة، فالألم وحده قد يكون من الأسنان أو الحلق.",
+            "يصيب هذا الالتهاب الأطفال الصغار أكثر من الكبار، وذروته بين عمر ستة أشهر وسنتين تقريبا. ومع دخول الطفل المدرسة وكبر حجم قناة الأذن تقل النوبات عادة بشكل واضح."
+          ]
+        },
+        {
+          "h2": "علامات التهاب الأذن عند الرضيع الذي لا يستطيع الكلام",
+          "paras": [
+            "الطفل الكبير يقول لك ببساطة إن أذنه تؤلمه. أما الرضيع فيعبر بطرق أخرى، وأغلبها غير محددة. أكثر ما تلاحظه الأمهات بكاء غير معتاد، خصوصا في الليل أو عند الاستلقاء، لأن الضغط داخل الأذن يزداد في وضع النوم. وقد يرفض الرضاعة أو يتركها بعد ثوان، لأن المص والبلع يحركان الضغط في الأذن فيزيد الألم.",
+            "شد الأذن أو فركها علامة يعرفها الجميع، لكنها وحدها ليست دليلا قويا، فكثير من الأطفال يلمسون آذانهم عند ظهور الأسنان أو عند النعاس. تصبح العلامة أهم إذا جاءت مع حرارة، أو بعد زكام بأيام، أو مع نوم متقطع وتهيج واضح.",
+            "وأحيانا تلاحظ سائلا أصفر أو مائلا للخضرة يخرج من الأذن، وقد يهدأ الطفل فجأة بعد خروجه. هذا يعني غالبا أن الطبلة انثقبت ثقبا صغيرا من شدة الضغط، وهو ثقب يلتئم عادة وحده، لكن خروج الإفرازات سبب كاف لزيارة الطبيب في اليوم نفسه أو التالي.",
+            "انتبه أيضا للفرق بين التهاب الأذن الوسطى والتهاب الأذن الخارجية الذي يسمى أذن السباح. الأخير يأتي غالبا بعد السباحة في المسابح أو البحر صيفا، ويزداد ألمه بشدة عند لمس صيوان الأذن أو سحبه، وعلاجه مختلف."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "ما الذي قد يلاحظه الأهل، وماذا قد يعني",
+            "head": ["العلامة", "ماذا قد تعني", "مدى أهميتها"],
+            "rows": [
+              ["بكاء في الليل أو عند الاستلقاء", "ضغط وألم داخل الأذن", "مهمة مع الحرارة أو بعد زكام"],
+              ["رفض الرضاعة أو تركها بسرعة", "البلع يزيد الألم", "مهمة إذا تكررت مع كل رضعة"],
+              ["شد الأذن أو فركها", "قد تكون ألما، أو تسنينا، أو نعاسا", "ضعيفة وحدها"],
+              ["حرارة 38 درجة أو أكثر", "عدوى نشطة", "مهمة، ودون 3 أشهر عاجلة"],
+              ["إفرازات من الأذن", "ثقب صغير في الطبلة على الأرجح", "تحتاج طبيبا خلال يوم"]
+            ]
+          }
+        },
+        {
+          "h2": "لماذا يصاب الأطفال بالتهاب الأذن أكثر من الكبار؟",
+          "paras": [
+            "السبب تشريحي في الدرجة الأولى. الأنبوب الذي يصل الأذن الوسطى بخلف الأنف، واسمه قناة استاكيوس (Eustachian tube)، يكون عند الطفل أقصر وأكثر أفقية وأضيق منه عند البالغ. لذلك ينسد بسهولة مع أي زكام، ولا يصرف السائل جيدا، وتصل إليه الميكروبات من الأنف والحلق بسرعة.",
+            "وتلعب اللحمية دورا أيضا، وهي النسيج اللمفاوي الموجود خلف الأنف. عندما تتضخم عند بعض الأطفال تضغط على فتحة القناة وتصبح مخزنا للبكتيريا. يضاف إلى ذلك أن الأطفال الصغار يصابون بالزكام مرات كثيرة في السنة، خاصة في الحضانات والمدارس وفي البيوت المزدحمة.",
+            "هناك عوامل يمكنك التحكم بها. التعرض لدخان السجائر والشيشة داخل البيت يزيد خطر التهاب الأذن بوضوح، والرضاعة الطبيعية الحصرية في الأشهر الستة الأولى تحمي منه بحسب دليل الأكاديمية الأمريكية لطب الأطفال لعام 2013. وينصح كثير من أطباء الأطفال بعدم إعطاء الرضاعة الصناعية للطفل وهو مستلق على ظهره تماما. كما توصي الإرشادات بإتمام لقاح المكورات الرئوية ولقاح الإنفلونزا السنوي، لأنهما يقللان العدوى التي تسبق التهاب الأذن."
+          ]
+        },
+        {
+          "h2": "كيف تخفف ألم أذن طفلك في البيت؟",
+          "paras": [
+            "الألم هو العرض الأهم في التهاب الأذن، وهو ما يسهر الطفل وأهله. لذلك تعتبر الإرشادات تسكين الألم حجر الأساس في العلاج، قبل أي قرار يخص المضاد الحيوي. مراجعة كوكرين لعام 2023 حول المسكنات وجدت أن نسبة الأطفال الذين بقي عندهم ألم بعد 48 ساعة كانت 25 بالمئة مع الدواء الوهمي، مقابل 10 بالمئة مع الباراسيتامول و7 بالمئة مع الإيبوبروفين، وإن كانت الأدلة محدودة العدد.",
+            "المسكنان الشائعان للأطفال هما الباراسيتامول والإيبوبروفين، ويحسب مقدارهما بحسب وزن الطفل لا عمره فقط. استعمل الشراب المخصص للأطفال والمحقنة المرفقة به، لا ملعقة المطبخ، واقرأ العبوة أو اسأل الصيدلي عن الكمية والفاصل بين الجرعات. ولا يعطى الإيبوبروفين عادة للرضع دون ثلاثة أشهر، ولا يعطى الأسبرين أبدا لمن هم دون السادسة عشرة.",
+            "كثير من الأهل يخلطون بين أسماء تجارية مختلفة تحتوي المادة نفسها، فيعطون الطفل جرعتين من الباراسيتامول دون قصد، مرة في شراب الحرارة ومرة في شراب الزكام. اقرأ المكونات على كل علبة قبل أن تجمع بين دواءين.",
+            "إلى جانب المسكن، يرتاح بعض الأطفال بكمادة دافئة غير ساخنة توضع على الأذن من الخارج، وبإعطائهم السوائل والرضاعة على دفعات صغيرة. أما قطرات الأذن المخدرة فلا تستعمل إلا بإرشاد الطبيب، ولا توضع أبدا إذا كانت هناك إفرازات من الأذن."
+          ],
+          "visual": {
+            "type": "bar",
+            "title": "أطفال بقي عندهم ألم الأذن بعد 48 ساعة",
+            "unit": "%",
+            "max": 30,
+            "items": [
+              {"label": "دواء وهمي", "value": 25, "tone": "bad"},
+              {"label": "باراسيتامول", "value": 10, "tone": "info"},
+              {"label": "إيبوبروفين", "value": 7, "tone": "good", "highlight": true}
+            ],
+            "source": "de Sévaux et al, Cochrane, 2023",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/37594020/"
+          }
+        },
+        {
+          "h2": "المراقبة أم المضاد الحيوي فورا: كيف يقرر الطبيب؟",
+          "paras": [
+            "تقسم إرشادات الأكاديمية الأمريكية لطب الأطفال الأطفال بحسب العمر وشدة الأعراض. الشدة تعني ألما متوسطا أو شديدا، أو ألما مستمرا 48 ساعة أو أكثر، أو حرارة 39 درجة مئوية فما فوق. وإذا كانت هناك إفرازات من الأذن فالمضاد الحيوي هو الخيار الموصى به.",
+            "في الحالات غير الشديدة عند الأطفال فوق السنتين، أو في أذن واحدة عند الأطفال بين ستة أشهر وسنتين، يمكن للطبيب أن يقترح المراقبة لمدة 48 إلى 72 ساعة مع تسكين الألم، بدل المضاد الفوري. الشرط الأساسي أن تستطيع العودة أو التواصل مع الطبيب، وأن يبدأ المضاد إذا ساءت الحالة أو لم تتحسن خلال هذه المدة. بعض الأطباء يعطونك وصفة مؤجلة تشتريها فقط إذا لم يتحسن الطفل.",
+            "الأطفال دون ستة أشهر لم يشملهم هذا الخيار في الدليل الأمريكي، ويجب أن يفحصهم طبيب دائما. وأي رضيع دون ثلاثة أشهر لديه حرارة 38 درجة أو أكثر يحتاج تقييما طبيا عاجلا مهما كان السبب الظاهر."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "متى تكفي المراقبة ومتى يوصى بالمضاد",
+            "head": ["حالة الطفل", "النهج المعتاد في الإرشادات"],
+            "rows": [
+              ["دون 6 أشهر", "فحص طبي دائما، والقرار للطبيب"],
+              ["أي عمر مع إفرازات من الأذن", "مضاد حيوي"],
+              ["6 أشهر فأكثر مع أعراض شديدة", "مضاد حيوي"],
+              ["6 أشهر إلى سنتين، الأذنان، غير شديد", "مضاد حيوي"],
+              ["6 أشهر إلى سنتين، أذن واحدة، غير شديد", "مضاد حيوي أو مراقبة 48 إلى 72 ساعة"],
+              ["فوق السنتين، غير شديد", "مراقبة 48 إلى 72 ساعة أو مضاد حيوي"]
+            ],
+            "source": "Lieberthal et al, Pediatrics, 2013",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/23439909/"
+          }
+        },
+        {
+          "h2": "ماذا يفعل المضاد الحيوي فعلا في التهاب الأذن؟",
+          "paras": [
+            "تقدم مراجعة كوكرين لعام 2023 صورة صريحة. المضاد الحيوي لا يخفف الألم في الأربع والعشرين ساعة الأولى، ويخفف الألم في اليوم الثاني والثالث لطفل واحد إضافي من كل 20 طفلا يعالجون. في المقابل، يصاب طفل واحد من كل 14 طفلا يأخذون المضاد بقيء أو إسهال أو طفح جلدي ما كان ليحدث دونه.",
+            "هذا لا يجعل المضاد الحيوي سيئا، فهو مهم في الحالات الشديدة وعند الرضع الصغار وعندما تخرج إفرازات. لكنه يعني أن إعطاءه لكل ألم أذن ليس في مصلحة الطفل. وعندما يصفه الطبيب، يكون الأموكسيسيلين عادة الخيار الأول، وتختلف مدة العلاج بحسب العمر والشدة، والطبيب هو من يحدد الجرعة والمدة.",
+            "في منطقتنا، المضاد الحيوي متاح في الصيدلية بسهولة. دراسة أجريت عام 2023 على 406 من الأهالي في مراكز الرعاية الأولية بمدينة أبها السعودية وجدت أن 28.8 بالمئة منهم أعطوا أطفالهم مضادا حيويا دون وصفة طبية قبل موعد الطبيب، خوفا من تطور المرض، وأن 51 بالمئة يعتقدون أن التهاب الأذن يحتاج مضادا دائما. هذا التصرف مفهوم من قلق الأهل، لكنه يعرض الطفل للآثار الجانبية دون فائدة واضحة في كثير من الأحيان، ويساهم في مقاومة البكتيريا.",
+            "إذا وصف الطبيب المضاد، فأكمل المدة كما قال، ولا تعط الطفل بقايا علبة أخيه، ولا تزد الجرعة لأن الألم لم يختف في اليوم الأول، فالمضاد يحتاج يومين إلى ثلاثة ليظهر أثره."
+          ],
+          "visual": {
+            "type": "stats",
+            "title": "المضاد الحيوي في التهاب الأذن بالأرقام",
+            "items": [
+              {"value": "1 من 20", "label": "طفل إضافي يتخلص من الألم في اليوم 2 إلى 3 بفضل المضاد", "tone": "info"},
+              {"value": "1 من 14", "label": "طفل يصاب بقيء أو إسهال أو طفح بسبب المضاد", "tone": "warn"},
+              {"value": "28.8%", "label": "من أهالي أبها أعطوا المضاد دون وصفة", "tone": "bad"}
+            ],
+            "source": "Venekamp et al, Cochrane, 2023, and AlHefdhi et al, Children, 2023",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/37965923/"
+          }
+        },
+        {
+          "h2": "لماذا لا تضع الزيت أو الثوم أو أي شيء في أذن طفلك؟",
+          "paras": [
+            "من أكثر النصائح المتداولة في بيوتنا: نقطة زيت زيتون دافئ، أو فص ثوم مهروس، أو قطرة من حليب الأم، أو عصير البصل، أو زيت الحبة السوداء. هذه وصفات تنتقل من الجدات بنية طيبة، لكنها لا تصل إلى مكان الالتهاب أصلا، لأن العدوى خلف الطبلة وليست في قناة الأذن الخارجية.",
+            "والمشكلة أنها قد تضر. إذا كانت الطبلة مثقوبة، وهو أمر لا يمكنك رؤيته في البيت، فقد يدخل الزيت أو العصير إلى الأذن الوسطى ويزيد العدوى. والثوم قد يسبب حروقا كيميائية في جلد القناة، والزيت المسخن قد يحرق الأذن إذا كان أسخن مما تظن. كما أن أي مادة في الأذن تخفي الإفرازات وتصعب على الطبيب رؤية الطبلة عند الفحص.",
+            "الأمر نفسه ينطبق على أعواد القطن، فهي تدفع الشمع والإفرازات إلى الداخل وقد تجرح الطبلة. وقطرات الأذن المضادة للبكتيريا التي تباع في الصيدليات لها استعمالات محددة، مثل الطبلة المثقوبة أو أنابيب التهوية، ويقرر استعمالها الطبيب بعد الفحص."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "warn",
+            "title": "لا تضع في أذن طفلك",
+            "items": [
+              "زيت الزيتون أو أي زيت، دافئا كان أم باردا",
+              "الثوم أو البصل أو عصيرهما",
+              "حليب الأم أو أي سائل منزلي",
+              "أعواد القطن أو أي أداة لتنظيف الأذن من الداخل",
+              "قطرات أذن لم يصفها الطبيب بعد فحص الطبلة"
+            ]
+          }
+        },
+        {
+          "h2": "علامات الخطر: متى تذهب بطفلك إلى الطوارئ فورا؟",
+          "paras": [
+            "معظم التهابات الأذن تمر بسلام، لكن العدوى قد تمتد في حالات قليلة إلى العظم الموجود خلف الأذن، وهو ما يسمى التهاب الخشاء (Mastoiditis)، أو إلى الأغشية المحيطة بالدماغ. هذه المضاعفات نادرة، لكنها تحتاج مستشفى ومضادات بالوريد، وأحيانا جراحة.",
+            "دراسة سعودية متعددة المراكز نشرت عام 2024 عن الأطفال المصابين بالتهاب الخشاء وجدت أن متوسط المدة بين بداية الأعراض والتشخيص كان نحو 14 يوما، وأن مضاعفات مثل الخراج والتهاب السحايا لم تكن نادرة بين هؤلاء الأطفال. الدرس هنا أن الألم والحرارة والإفرازات التي تستمر أو تزداد رغم العلاج لا يصح انتظارها أسبوعين.",
+            "راجع الطبيب في الأيام العادية إذا لم يتحسن الطفل خلال 48 إلى 72 ساعة، أو إذا ظهرت إفرازات من الأذن، أو إذا تكررت الالتهابات، أو إذا شككت في أن سمعه ضعف. أما العلامات في الصندوق التالي فلا تنتظر بها موعدا."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "اذهب إلى الطوارئ فورا إذا ظهر",
+            "items": [
+              "تورم أو احمرار أو ألم عند اللمس خلف الأذن، أو بروز صيوان الأذن إلى الأمام",
+              "تيبس الرقبة أو صداع شديد أو انتفاخ اليافوخ عند الرضيع",
+              "نعاس شديد أو صعوبة في إيقاظ الطفل أو تشنج",
+              "ميلان أو ضعف في جهة واحدة من الوجه",
+              "إفرازات من الأذن مع حرارة عالية وطفل يبدو مريضا جدا",
+              "رضيع دون 3 أشهر لديه حرارة 38 درجة أو أكثر",
+              "دوخة شديدة أو فقدان التوازن"
+            ]
+          }
+        },
+        {
+          "h2": "الماء خلف الطبلة والالتهاب المتكرر: هل يتأثر سمع طفلك؟",
+          "paras": [
+            "بعد أن يزول الألم والحرارة، يبقى عند كثير من الأطفال سائل خلف الطبلة لأسابيع. هذه الحالة تسمى التهاب الأذن الوسطى الإفرازي، أو الأذن الصمغية (Otitis media with effusion)، وهي ليست عدوى نشطة ولا تسبب ألما عادة، لكنها قد تضعف السمع مؤقتا فيبدو الطفل كأنه لا ينتبه، أو يرفع صوت التلفاز، أو يتأخر في الكلام.",
+            "دراسة أجريت في مركزين تخصصيين بصعيد مصر على أكثر من ألفي طفل وجدت أن 15.5 بالمئة منهم لديهم هذا السائل، وأن تكراره ارتبط بتضخم اللحمية واللوزتين وحساسية الأنف والزكام المتكرر والارتجاع. ويوصي الدليل الأمريكي لعام 2016 بالمراقبة ثلاثة أشهر لأن معظم الحالات تزول وحدها، وبإجراء اختبار سمع إذا استمر السائل ثلاثة أشهر أو أكثر. كما ينصح بعدم استعمال المضادات الحيوية أو الكورتيزون أو مضادات الهيستامين أو مزيلات الاحتقان لعلاج هذه الحالة.",
+            "إذا استمر السائل في الأذنين مع ضعف في السمع، أو تكرر التهاب الأذن الحاد ثلاث مرات في ستة أشهر أو أربع مرات في سنة، فقد يقترح طبيب الأنف والأذن والحنجرة أنابيب تهوية صغيرة توضع في الطبلة بعملية قصيرة، وأحيانا إزالة اللحمية. القرار يعتمد على سمع الطفل وكلامه وتطوره، لا على عدد الالتهابات وحده."
+          ],
+          "visual": {
+            "type": "timeline",
+            "title": "متابعة الماء خلف الطبلة بعد الالتهاب",
+            "items": [
+              {"when": "الأيام الأولى", "what": "يزول الألم والحرارة غالبا خلال يومين إلى ثلاثة"},
+              {"when": "الأسابيع التالية", "what": "قد يبقى سائل خلف الطبلة مع سمع مكتوم قليلا"},
+              {"when": "حتى 3 أشهر", "what": "مراقبة، وأغلب الحالات تزول وحدها"},
+              {"when": "بعد 3 أشهر", "what": "اختبار سمع إذا بقي السائل"},
+              {"when": "سائل مستمر مع ضعف سمع", "what": "تقييم عند طبيب أنف وأذن لبحث أنابيب التهوية"}
+            ],
+            "source": "Rosenfeld et al, Otolaryngology Head and Neck Surgery, 2016",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/26832942/"
+          }
+        }
+      ],
+      "tie": "سجل في تطبيق صحتك تاريخ كل التهاب أذن عند طفلك، والحرارة، وهل أخذ مضادا حيويا ومن أي نوع. هذا السجل البسيط هو ما يحتاجه طبيب الأنف والأذن ليقرر إن كانت الالتهابات متكررة فعلا، ويساعدك على تذكر مواعيد اختبار السمع ولقاحات طفلك.",
+      "faqs": [
+        {"q": "كم يستمر التهاب الأذن عند الطفل؟", "a": "يتحسن الألم والحرارة عادة خلال يومين إلى ثلاثة، سواء أخذ الطفل مضادا حيويا أم لا. قد يبقى سائل خلف الطبلة وسمع مكتوم لأسابيع بعدها، ويزول في أغلب الحالات خلال ثلاثة أشهر."},
+        {"q": "هل كل التهاب أذن يحتاج مضادا حيويا؟", "a": "لا. في الحالات الخفيفة عند الأطفال فوق السنتين تسمح الإرشادات بالمراقبة 48 إلى 72 ساعة مع المسكن. يوصى بالمضاد عند الرضع الصغار، وفي الأعراض الشديدة، وعند خروج إفرازات من الأذن."},
+        {"q": "هل شد الطفل لأذنه يعني أن عنده التهابا؟", "a": "ليس بالضرورة. كثير من الرضع يشدون آذانهم مع التسنين أو النعاس. تزداد أهمية هذه العلامة إذا جاءت مع حرارة أو بكاء ليلي أو رفض للرضاعة بعد زكام."},
+        {"q": "هل زيت الزيتون الدافئ يفيد ألم الأذن؟", "a": "لا. الالتهاب خلف الطبلة ولا يصل إليه الزيت، وإذا كانت الطبلة مثقوبة فقد يزيد العدوى. استعمل المسكن المناسب لعمر الطفل ووزنه وراجع الطبيب."},
+        {"q": "هل يمكن أن يسبب التهاب الأذن فقدان السمع؟", "a": "السائل الذي يبقى بعد الالتهاب قد يضعف السمع مؤقتا. إذا استمر ثلاثة أشهر أو لاحظت تأخرا في الكلام، فاطلب اختبار سمع. فقدان السمع الدائم نادر ويرتبط عادة بالمضاعفات أو بالإهمال الطويل."},
+        {"q": "هل يمكن للطفل السباحة أو السفر بالطائرة مع التهاب الأذن؟", "a": "السفر بالطائرة ممكن غالبا، لكن تغير الضغط قد يزيد الألم، وإعطاء الرضاعة أو الماء عند الإقلاع والهبوط يساعد. أما السباحة مع وجود إفرازات أو ثقب في الطبلة فتحتاج إذنا من الطبيب أولا."},
+        {"q": "متى يعتبر التهاب الأذن متكررا؟", "a": "عادة عند ثلاث نوبات في ستة أشهر، أو أربع نوبات في سنة إحداها في الأشهر الستة الأخيرة. في هذه الحالة يستحق الطفل تقييما عند طبيب الأنف والأذن والحنجرة، مع اختبار للسمع."}
+      ]
+    },
+    "en": {
+      "title": "Ear Infection in Children: Signs, Pain Relief, When to Worry",
+      "desc": "Most middle ear infections in children ease within days. Learn the signs in a baby, how to relieve the pain, and when your child needs antibiotics or urgent care.",
+      "keywords": "ear infection in children, middle ear infection, baby ear infection signs, does ear infection need antibiotics, child pulling ear, fluid behind eardrum, olive oil in ear, recurrent ear infections, glue ear hearing",
+      "h1": "Ear Infection in Children: How to Spot It, How to Ease the Pain and When to See a Doctor",
+      "takeaways": [
+        "Middle ear infection is one of the commonest reasons children are given antibiotics, yet many cases improve on their own within two to three days.",
+        "Pain relief suited to your child's age and weight always comes first, whether or not an antibiotic is needed.",
+        "For mild cases in children over two, guidelines allow watching for 48 to 72 hours before antibiotics, as long as follow up is possible.",
+        "Do not put oil, garlic, milk or any drop your doctor has not prescribed into your child's ear.",
+        "Swelling or redness behind the ear, a stiff neck, or discharge with a high fever are emergency signs."
+      ],
+      "sections": [
+        {
+          "h2": "What is a middle ear infection, and does it go away on its own?",
+          "paras": [
+            "Acute otitis media is an infection of the small air space behind the eardrum. It usually starts after a cold or sore throat, when the tube that connects the ear to the back of the nose swells shut. Fluid collects behind the drum, viruses or bacteria multiply in it, the eardrum bulges outward and the child feels sharp pain.",
+            "The reassuring news is that most of these infections get better by themselves. A 2023 Cochrane review, which pooled 13 trials covering more than 3,400 children, concluded that in high income countries most cases of acute otitis media resolve spontaneously without complications, and that antibiotics do not reduce pain at all in the first 24 hours.",
+            "That does not mean you should ignore your child's ear pain. It means the first priority is relieving the pain, and the second is having a doctor look at the eardrum to decide whether your child needs an antibiotic now or whether a few days of watching is the better choice. A middle ear infection cannot be diagnosed without seeing the eardrum, because ear pain alone can come from the teeth or throat.",
+            "Young children are affected far more than older ones, with the peak roughly between six months and two years. Episodes usually become much less frequent once a child reaches school age and the ear tubes grow."
+          ]
+        },
+        {
+          "h2": "Signs of an ear infection in a baby who cannot talk yet",
+          "paras": [
+            "An older child will simply tell you their ear hurts. A baby shows it in other ways, and most of them are not specific. What parents notice most is unusual crying, especially at night or when lying down, because pressure inside the ear rises in that position. A baby may refuse feeds or pull away after a few seconds, because sucking and swallowing shift the pressure in the ear and make the pain worse.",
+            "Pulling or rubbing the ear is the sign everyone knows, but on its own it is weak evidence. Many babies touch their ears when teething or tired. It matters more when it comes with a fever, a few days after a cold, or with broken sleep and obvious irritability.",
+            "Sometimes you will see yellow or greenish fluid coming out of the ear, and the child may suddenly calm down when it appears. This usually means the eardrum has developed a small hole from the pressure. The hole normally heals on its own, but discharge is still a reason to see a doctor the same day or the next.",
+            "Keep in mind the difference between a middle ear infection and an outer ear infection, often called swimmer's ear. Swimmer's ear tends to follow swimming in pools or the sea in summer, hurts sharply when you touch or tug the outer ear, and is treated differently."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "What parents may notice, and what it may mean",
+            "head": ["Sign", "What it may mean", "How much it counts"],
+            "rows": [
+              ["Crying at night or when lying down", "Pressure and pain inside the ear", "Important with fever or after a cold"],
+              ["Refusing feeds or stopping quickly", "Swallowing makes the pain worse", "Important if it happens at every feed"],
+              ["Pulling or rubbing the ear", "Pain, teething or tiredness", "Weak on its own"],
+              ["Temperature of 38 C or more", "Active infection", "Important, and urgent under 3 months"],
+              ["Fluid draining from the ear", "Probably a small hole in the eardrum", "See a doctor within a day"]
+            ]
+          }
+        },
+        {
+          "h2": "Why do children get ear infections more than adults?",
+          "paras": [
+            "The main reason is anatomy. The tube linking the middle ear to the back of the nose, the Eustachian tube, is shorter, flatter and narrower in a child than in an adult. It blocks easily with any cold, drains fluid poorly, and lets germs from the nose and throat reach the ear quickly.",
+            "The adenoids also play a part. This is lymph tissue at the back of the nose, and when it is enlarged in some children it presses on the opening of the tube and acts as a reservoir for bacteria. On top of that, young children catch many colds a year, especially in nurseries, schools and crowded homes.",
+            "Some risk factors are within your control. Exposure to cigarette and shisha smoke indoors clearly raises the risk of ear infection, and exclusive breastfeeding for the first six months is protective, according to the 2013 American Academy of Pediatrics guideline. Many paediatricians also advise against bottle feeding a baby who is lying flat on their back. The guideline recommends completing the pneumococcal vaccine and the yearly flu vaccine, because both reduce the infections that come before ear infection."
+          ]
+        },
+        {
+          "h2": "How to ease your child's ear pain at home",
+          "paras": [
+            "Pain is the central symptom of an ear infection and it is what keeps the child and the whole household awake. That is why guidelines treat pain relief as the cornerstone of care, before any decision about antibiotics. A 2023 Cochrane review of pain relievers found that 25 percent of children on placebo still had pain at 48 hours, compared with 10 percent on paracetamol and 7 percent on ibuprofen, although the number of trials was small.",
+            "The two common children's pain relievers are paracetamol and ibuprofen, and the amount is based on your child's weight, not only their age. Use the children's syrup with the syringe that comes in the box rather than a kitchen spoon, and follow the pack or ask the pharmacist about the amount and the gap between doses. Ibuprofen is not usually given to babies under three months, and aspirin should never be given to anyone under 16.",
+            "Many parents mix up brand names that contain the same ingredient and end up giving a double dose of paracetamol without realising, once in a fever syrup and again in a cold syrup. Read the ingredients on every box before combining two medicines.",
+            "Alongside the pain reliever, some children find a warm, not hot, compress held against the outside of the ear comforting, and small frequent drinks or feeds help. Numbing ear drops should only be used on a doctor's advice, and never when there is discharge from the ear."
+          ],
+          "visual": {
+            "type": "bar",
+            "title": "Children still in ear pain at 48 hours",
+            "unit": "%",
+            "max": 30,
+            "items": [
+              {"label": "Placebo", "value": 25, "tone": "bad"},
+              {"label": "Paracetamol", "value": 10, "tone": "info"},
+              {"label": "Ibuprofen", "value": 7, "tone": "good", "highlight": true}
+            ],
+            "source": "de Sévaux et al, Cochrane, 2023",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/37594020/"
+          }
+        },
+        {
+          "h2": "Watchful waiting or antibiotics now: how does the doctor decide?",
+          "paras": [
+            "The American Academy of Pediatrics guideline sorts children by age and by how severe the illness is. Severe means moderate or severe ear pain, pain lasting 48 hours or more, or a temperature of 39 degrees Celsius or higher. If fluid is draining from the ear, an antibiotic is the recommended choice.",
+            "For non severe illness in children over two, or in one ear in children between six months and two years, the doctor may suggest watching for 48 to 72 hours with pain relief instead of an immediate antibiotic. The key condition is that you can come back or contact the doctor, and that an antibiotic is started if your child gets worse or does not improve in that time. Some doctors give a delayed prescription, which you fill only if your child has not improved.",
+            "Babies under six months were not included in this watchful waiting option and should always be examined by a doctor. Any baby under three months with a temperature of 38 degrees or more needs urgent medical assessment, whatever the apparent cause."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "When watching is enough and when antibiotics are advised",
+            "head": ["Your child", "Usual approach in guidelines"],
+            "rows": [
+              ["Under 6 months", "Always examined by a doctor, who decides"],
+              ["Any age with ear discharge", "Antibiotic"],
+              ["6 months or older with severe symptoms", "Antibiotic"],
+              ["6 months to 2 years, both ears, not severe", "Antibiotic"],
+              ["6 months to 2 years, one ear, not severe", "Antibiotic or watch for 48 to 72 hours"],
+              ["Over 2 years, not severe", "Watch for 48 to 72 hours or antibiotic"]
+            ],
+            "source": "Lieberthal et al, Pediatrics, 2013",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/23439909/"
+          }
+        },
+        {
+          "h2": "What do antibiotics actually do for an ear infection?",
+          "paras": [
+            "The 2023 Cochrane review gives a frank picture. Antibiotics do not ease pain in the first 24 hours. They spare one extra child out of every 20 treated from pain on days two to three. On the other side, one child in every 14 who takes an antibiotic gets vomiting, diarrhoea or a rash that would not otherwise have happened.",
+            "That does not make antibiotics bad. They matter in severe cases, in young babies and when the ear is discharging. It does mean that giving one for every earache is not in the child's interest. When a doctor does prescribe, amoxicillin is usually the first choice, and the length of the course depends on age and severity. The dose and duration are for the doctor to set.",
+            "In this region antibiotics are easy to buy at a pharmacy. A 2023 survey of 406 parents at primary care centres in Abha, Saudi Arabia, found that 28.8 percent had given their child an antibiotic without a prescription before seeing the doctor, out of fear the illness would get worse, and that 51 percent believed ear infections always need antibiotics. That reaction comes from understandable worry, but it often exposes the child to side effects without clear benefit and feeds antibiotic resistance.",
+            "If the doctor does prescribe an antibiotic, finish the course as instructed, do not use a sibling's leftover bottle, and do not increase the dose because the pain has not gone on day one. An antibiotic needs two to three days to show its effect."
+          ],
+          "visual": {
+            "type": "stats",
+            "title": "Antibiotics for ear infection, in numbers",
+            "items": [
+              {"value": "1 in 20", "label": "extra children free of pain on days 2 to 3 thanks to antibiotics", "tone": "info"},
+              {"value": "1 in 14", "label": "children who get vomiting, diarrhoea or rash from the antibiotic", "tone": "warn"},
+              {"value": "28.8%", "label": "of parents in Abha gave antibiotics without a prescription", "tone": "bad"}
+            ],
+            "source": "Venekamp et al, Cochrane, 2023, and AlHefdhi et al, Children, 2023",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/37965923/"
+          }
+        },
+        {
+          "h2": "Why you should never put oil, garlic or anything else in the ear",
+          "paras": [
+            "Some of the most widely shared home remedies are a drop of warm olive oil, a crushed garlic clove, a drop of breast milk, onion juice or black seed oil. These recipes are passed down with the best intentions, but they never reach the infection, because it sits behind the eardrum and not in the outer ear canal.",
+            "Worse, they can cause harm. If the eardrum has a hole in it, which you cannot see at home, oil or juice can get into the middle ear and make the infection worse. Garlic can cause chemical burns to the skin of the canal, and warmed oil can scald if it is hotter than you think. Anything put in the ear also hides discharge and makes it harder for the doctor to see the eardrum.",
+            "The same goes for cotton buds, which push wax and discharge deeper and can damage the eardrum. Antibacterial ear drops sold in pharmacies have specific uses, such as a perforated eardrum or ventilation tubes, and a doctor should decide on them after examining the ear."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "warn",
+            "title": "Do not put any of these in your child's ear",
+            "items": [
+              "Olive oil or any other oil, warm or cold",
+              "Garlic, onion or their juice",
+              "Breast milk or any home made liquid",
+              "Cotton buds or anything used to clean inside the ear",
+              "Ear drops a doctor has not prescribed after examining the eardrum"
+            ]
+          }
+        },
+        {
+          "h2": "Warning signs: when should you take your child to the emergency department?",
+          "paras": [
+            "Most ear infections pass safely, but in a small number the infection spreads into the bone behind the ear, called mastoiditis, or to the membranes around the brain. These complications are rare, but they need a hospital, intravenous antibiotics and sometimes surgery.",
+            "A multicentre Saudi study of children with mastoiditis, published in 2024, found an average of about 14 days between the first symptoms and diagnosis, and complications such as abscess and meningitis were not unusual among these children. The lesson is that pain, fever or discharge that persists or worsens despite treatment should not be left for two weeks.",
+            "For everyday concerns, see a doctor if your child has not improved within 48 to 72 hours, if fluid comes out of the ear, if infections keep coming back, or if you think their hearing has dropped. The signs in the box below should not wait for an appointment."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "Go to an emergency department now if you see",
+            "items": [
+              "Swelling, redness or tenderness behind the ear, or the ear pushed forward",
+              "A stiff neck, severe headache or a bulging soft spot in a baby",
+              "Extreme drowsiness, difficulty waking the child or a seizure",
+              "Drooping or weakness on one side of the face",
+              "Discharge from the ear with a high fever and a child who looks very unwell",
+              "A baby under 3 months with a temperature of 38 C or more",
+              "Severe dizziness or loss of balance"
+            ]
+          }
+        },
+        {
+          "h2": "Fluid behind the eardrum and repeated infections: will it affect hearing?",
+          "paras": [
+            "Once the pain and fever have gone, many children are left with fluid behind the eardrum for weeks. This is called otitis media with effusion, or glue ear. It is not an active infection and is usually painless, but it can dull hearing for a while, so a child may seem not to listen, turn the television up or be slow to talk.",
+            "A study at two specialist centres in Upper Egypt, covering more than 2,000 children, found this fluid in 15.5 percent of them, and repeated episodes were linked with enlarged adenoids and tonsils, nasal allergy, frequent colds and reflux. The 2016 American guideline recommends watching for three months, because most cases clear on their own, and a hearing test if the fluid lasts three months or more. It advises against antibiotics, steroids, antihistamines or decongestants to treat this condition.",
+            "If fluid persists in both ears with reduced hearing, or acute infections come back three times in six months or four times in a year, an ear, nose and throat specialist may suggest small ventilation tubes placed in the eardrum during a short procedure, sometimes with removal of the adenoids. The decision depends on your child's hearing, speech and development, not just on the number of infections."
+          ],
+          "visual": {
+            "type": "timeline",
+            "title": "Following fluid behind the eardrum after an infection",
+            "items": [
+              {"when": "First few days", "what": "Pain and fever usually settle within two to three days"},
+              {"when": "Following weeks", "what": "Fluid may remain behind the drum, with slightly muffled hearing"},
+              {"when": "Up to 3 months", "what": "Watch and wait, most cases clear on their own"},
+              {"when": "After 3 months", "what": "Hearing test if the fluid is still there"},
+              {"when": "Lasting fluid with hearing loss", "what": "ENT assessment to discuss ventilation tubes"}
+            ],
+            "source": "Rosenfeld et al, Otolaryngology Head and Neck Surgery, 2016",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/26832942/"
+          }
+        }
+      ],
+      "tie": "Use Sihtak to log each ear infection your child has, the temperature, and whether an antibiotic was given and which one. That simple record is exactly what an ENT specialist needs to judge whether infections are truly recurrent, and it helps you keep track of hearing checks and vaccinations.",
+      "faqs": [
+        {"q": "How long does an ear infection last in a child?", "a": "Pain and fever usually improve within two to three days, whether or not the child takes an antibiotic. Fluid behind the eardrum and muffled hearing can last for weeks afterwards, and in most children it clears within three months."},
+        {"q": "Does every ear infection need antibiotics?", "a": "No. For mild cases in children over two, guidelines allow watching for 48 to 72 hours with pain relief. Antibiotics are advised for young babies, for severe symptoms and when fluid drains from the ear."},
+        {"q": "Does ear pulling mean my baby has an ear infection?", "a": "Not necessarily. Many babies pull their ears when teething or tired. The sign matters more when it comes with fever, night crying or refusing feeds after a cold."},
+        {"q": "Does warm olive oil help ear pain?", "a": "No. The infection is behind the eardrum where oil cannot reach, and if the drum has a hole, oil can make the infection worse. Use a pain reliever suited to your child's age and weight and see a doctor."},
+        {"q": "Can an ear infection cause hearing loss?", "a": "The fluid left after an infection can reduce hearing for a while. If it lasts three months or you notice delayed speech, ask for a hearing test. Permanent hearing loss is rare and is usually linked to complications or long neglect."},
+        {"q": "Can my child fly or swim with an ear infection?", "a": "Flying is usually possible, but pressure changes can increase pain, and feeding or sipping water during take off and landing helps. Swimming with discharge or a perforated eardrum needs a doctor's go ahead first."},
+        {"q": "When are ear infections considered recurrent?", "a": "Usually at three episodes in six months, or four in a year with one in the last six months. At that point your child should be assessed by an ear, nose and throat specialist, including a hearing test."}
+      ]
+    }
+  }
+}

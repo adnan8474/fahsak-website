@@ -1,0 +1,371 @@
+{
+  "slug": "hcg-pregnancy-blood-test",
+  "category": "lab-tests",
+  "chip_ar": "تحاليل مخبرية",
+  "chip_en": "Lab Tests",
+  "date_iso": "2026-10-09",
+  "sources": [
+    {"label": "MedlinePlus, US National Library of Medicine: Quantitative HCG blood test", "url": "https://medlineplus.gov/ency/article/003510.htm"},
+    {"label": "American Pregnancy Association: hCG levels", "url": "https://americanpregnancy.org/getting-pregnant/hcg-levels/"},
+    {"label": "Barnhart KT, Sammel MD, Rinaudo PF et al: Symptomatic patients with an early viable intrauterine pregnancy: HCG curves redefined, Obstetrics and gynecology, 2004", "url": "https://pubmed.ncbi.nlm.nih.gov/15229000/"},
+    {"label": "Al-Turki HA: Ectopic pregnancy. Prevalence and risk factors in women attending a tertiary care hospital in Saudi Arabia, Saudi medical journal, 2012", "url": "https://pubmed.ncbi.nlm.nih.gov/22886121/"},
+    {"label": "Betz D, Fane K: Human Chorionic Gonadotropin, , 2025", "url": "https://pubmed.ncbi.nlm.nih.gov/30422545/"},
+    {"label": "NHS: Ectopic pregnancy", "url": "https://www.nhs.uk/conditions/ectopic-pregnancy/"}
+  ],
+  "content": {
+    "ar": {
+      "title": "تحليل الحمل الرقمي في الدم (Beta hCG): ماذا يعني رقمك؟",
+      "desc": "هل نتيجتك حمل أم لا؟ تعرفي على معنى رقم Beta hCG، والمعدلات حسب الأسبوع، ولماذا يهم تضاعف الرقم خلال 48 ساعة، ومتى يكون الألم علامة طوارئ.",
+      "keywords": "تحليل الحمل الرقمي, تحليل الحمل في الدم, هرمون الحمل, Beta hCG, نسبة هرمون الحمل حسب الأسابيع, تضاعف هرمون الحمل, انخفاض هرمون الحمل, الحمل خارج الرحم, اختبار الحمل المنزلي",
+      "h1": "تحليل الحمل الرقمي (Beta hCG): كيف تقرئين الرقم، ومتى تعيدين التحليل، ومتى تذهبين إلى الطوارئ",
+      "takeaways": [
+        "نتيجة Beta hCG أقل من 5 mIU/mL تعتبر سلبية للحمل، وأعلى من 25 mIU/mL تعتبر إيجابية، وما بينهما منطقة رمادية تحتاج إلى إعادة.",
+        "المعدلات حسب الأسبوع واسعة جدا، فرقم واحد لا يكفي للحكم على سلامة الحمل.",
+        "الأهم هو تغير الرقم خلال 48 ساعة: في معظم الحمول السليمة يرتفع بوضوح، وفي دراسة كبيرة كان أبطأ ارتفاع في حمل سليم 53 بالمئة خلال يومين.",
+        "ألم في جهة واحدة من أسفل البطن، أو ألم في طرف الكتف، أو دوخة وإغماء مع حمل مبكر علامات طوارئ قد تعني حملا خارج الرحم.",
+        "أعيدي التحليل في المختبر نفسه كلما أمكن، لأن الأجهزة تختلف قليلا في أرقامها."
+      ],
+      "sections": [
+        {
+          "h2": "ماذا يعني رقم تحليل الحمل في الدم؟",
+          "paras": [
+            "تحليل الحمل الرقمي أو الكمي يقيس هرمون موجهة الغدد التناسلية المشيمائية (Beta hCG) في الدم. هذا الهرمون تصنعه خلايا الحمل التي ستصبح لاحقا جزءا من المشيمة، ولذلك لا يظهر بكمية واضحة إلا عند وجود حمل. النتيجة تُكتب غالبا بوحدة mIU/mL، وبعض المختبرات تكتبها IU/L، والوحدتان متساويتان في القيمة.",
+            "القاعدة المبسطة التي تعتمدها جمعية الحمل الأمريكية (American Pregnancy Association): الرقم أقل من 5 mIU/mL يعتبر سلبيا، أي لا حمل، والرقم أعلى من 25 mIU/mL يعتبر إيجابيا. أما ما بين 6 و24 فهو منطقة رمادية، وغالبا يُطلب إعادة التحليل بعد يومين أو ثلاثة لنرى هل يرتفع. ويذكر موقع MedlinePlus التابع للمكتبة الوطنية الأمريكية للطب أن المرأة غير الحامل يكون الهرمون عندها أقل من 5 mIU/mL.",
+            "لكن الرقم وحده لا يجيب عن السؤال الأهم عند أغلب النساء: هل الحمل سليم وفي مكانه؟ الجواب يأتي من تتبع الرقم مع الوقت، ثم من السونار عندما يصبح الرقم والأسابيع كافيين لرؤية كيس الحمل. لهذا يطلب الطبيب كثيرا تحليلين بينهما 48 ساعة بدل تحليل واحد."
+          ],
+          "visual": {
+            "type": "range-scale",
+            "title": "أين تقع نتيجتك",
+            "label": "Beta hCG",
+            "unit": "mIU/mL",
+            "min": 0,
+            "max": 50,
+            "zones": [
+              {"to": 5, "tone": "neutral", "label": "سلبي"},
+              {"to": 25, "tone": "warn", "label": "رمادي"},
+              {"to": 50, "tone": "good", "label": "إيجابي"}
+            ],
+            "marker": {"value": 14, "label": "مثال: نتيجة تحتاج إعادة"},
+            "source": "American Pregnancy Association: hCG levels",
+            "source_url": "https://americanpregnancy.org/getting-pregnant/hcg-levels/"
+          }
+        },
+        {
+          "h2": "متى أجري تحليل الحمل بعد تأخر الدورة؟",
+          "paras": [
+            "يذكر MedlinePlus أن الهرمون يظهر في دم المرأة الحامل وبولها في وقت مبكر قد يصل إلى 10 أيام بعد الإخصاب. تحليل الدم أكثر حساسية من اختبار البول، فقد يلتقط الحمل قبل موعد الدورة المتوقع بأيام قليلة، لكن النتيجة المبكرة جدا قد تكون منخفضة أو سلبية رغم وجود حمل بدأ للتو.",
+            "التوقيت العملي الأفضل لمعظم النساء هو من أول يوم تأخر في الدورة فما بعد. إذا كانت دورتك غير منتظمة، كما يحدث مع تكيس المبايض، فاحسبي نحو أسبوعين إلى ثلاثة من آخر جماع غير محمي بدل الاعتماد على موعد الدورة. وإذا جاءت النتيجة سلبية وما زالت الدورة متأخرة، فأعيدي التحليل بعد بضعة أيام إلى أسبوع.",
+            "لا تحتاجين إلى صيام قبل تحليل Beta hCG، ويمكن إجراؤه في أي وقت من اليوم. أما اختبار البول المنزلي فيفضل أن يكون على أول بول في الصباح، لأنه يكون أكثر تركيزا. وإذا كنت تتلقين علاج خصوبة فيه حقنة hCG لتفجير البويضة، فهذه الحقنة نفسها قد تبقى في الدم أياما وتعطي نتيجة إيجابية كاذبة، فالتزمي بموعد التحليل الذي يحدده طبيب الخصوبة."
+          ],
+          "visual": {
+            "type": "timeline",
+            "title": "متى يظهر هرمون الحمل",
+            "items": [
+              {"when": "يوم الإخصاب", "what": "يبدأ تكون الحمل ولا يظهر الهرمون بعد"},
+              {"when": "نحو 10 أيام بعد الإخصاب", "what": "قد يظهر الهرمون في الدم والبول لأول مرة"},
+              {"when": "أول يوم تأخر للدورة", "what": "وقت مناسب لاختبار البول المنزلي أو تحليل الدم"},
+              {"when": "بعد 48 ساعة من أول تحليل", "what": "تحليل ثان إذا طلبه الطبيب لمتابعة الارتفاع"},
+              {"when": "عندما يكفي الرقم والأسابيع", "what": "سونار لتأكيد مكان الحمل"}
+            ]
+          }
+        },
+        {
+          "h2": "اختبار البول المنزلي أم تحليل الدم: أيهما أصدق؟",
+          "paras": [
+            "اختبار البول المنزلي الذي تشترينه من الصيدلية يكشف وجود الهرمون فقط، فيعطي خطين أو كلمة حامل أو غير حامل، ولا يعطي رقما. هو سريع ورخيص وخاص، ويكفي في معظم الحالات لمعرفة الجواب الأول. لكن دقته تتأثر بالتوقيت، وتخفيف البول بشرب الكثير من الماء، وطريقة قراءة الخطوط، وجودة الشريط نفسه، فبعض الأنواع الرخيصة المنتشرة في الصيدليات أقل حساسية من غيرها.",
+            "تحليل الدم في المختبر يعطي رقما دقيقا، ولذلك يسمى التحليل الرقمي أو الكمي. وتظهر قيمته الحقيقية حين نحتاج إلى أكثر من نعم أو لا: عند وجود نزف أو ألم، أو بعد إجهاض سابق، أو بعد حمل خارج الرحم سابق، أو خلال علاج الخصوبة، أو عندما تكون نتيجة البول باهتة وغير واضحة. وبعض المختبرات تجري أيضا تحليلا نوعيا في الدم يكتب إيجابي أو سلبي فقط، فاطلبي الرقمي إذا كان الطبيب يريد المتابعة.",
+            "الخط الباهت في اختبار البول يعني غالبا وجود الهرمون بكمية قليلة، وقد يكون حملا مبكرا جدا. الأفضل أن تعيدي الاختبار بعد يومين، أو أن تجري تحليل الدم. وإذا كان اختبار البول إيجابيا ثم جاءت الدورة بعد أيام، فقد يكون هذا ما يسمى الحمل الكيميائي، أي حمل توقف مبكرا جدا، وهو شائع ولا يعني غالبا وجود مشكلة في الحمل القادم."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "الفرق بين اختبار البول وتحليل الدم",
+            "head": ["البند", "اختبار البول المنزلي", "تحليل Beta hCG في الدم"],
+            "rows": [
+              ["النتيجة", "نعم أو لا", "رقم بوحدة mIU/mL"],
+              ["أبكر وقت", "غالبا من أول يوم تأخر", "قد يكشف الحمل قبل ذلك بأيام"],
+              ["المتابعة", "لا يصلح لمتابعة الارتفاع", "يصلح لمقارنة الأرقام كل 48 ساعة"],
+              ["متى يفضل", "الجواب الأول في البيت", "النزف أو الألم أو علاج الخصوبة أو نتيجة غير واضحة"]
+            ]
+          }
+        },
+        {
+          "h2": "نسبة هرمون الحمل حسب الأسابيع: لماذا المعدلات واسعة جدا؟",
+          "paras": [
+            "تنتشر على الإنترنت جداول نسبة هرمون الحمل حسب الأسابيع، وكثير من النساء يقارن رقمه بها ويقلق. انظري إلى الجدول أدناه المأخوذ من MedlinePlus: في الأسبوع الخامس مثلا يمتد المعدل من 217 إلى 8,245 mIU/mL، أي أن الحد الأعلى نحو 38 ضعف الحد الأدنى. امرأتان حاملتان في الأسبوع نفسه بحمل سليم تماما قد يختلف رقماهما اختلافا كبيرا.",
+            "سبب هذا الاتساع أن الأسابيع تُحسب عادة من أول يوم في آخر دورة، بينما يختلف يوم الإباضة والإخصاب من امرأة لأخرى ومن دورة لأخرى. ويختلف أيضا يوم انغراس الحمل في الرحم، والجهاز المستخدم في المختبر. فإذا تأخرت إباضتك أسبوعا، سيبدو رقمك منخفضا مقارنة بالجدول رغم أن حملك سليم تماما.",
+            "يرتفع الهرمون بسرعة في الأسابيع الأولى، ويبلغ ذروته تقريبا بين الأسبوع الثامن والعاشر، ثم ينخفض قليلا ويستقر لبقية الحمل. لذلك لا يُستخدم تحليل الهرمون بعد نحو الأسبوع السادس أو السابع لمتابعة سلامة الحمل، فالسونار هنا أدق بكثير. ويذكر MedlinePlus أن القيم قد تختلف قليلا بين المختبرات."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "المعدلات المتوقعة لـ Beta hCG حسب أسابيع الحمل",
+            "head": ["الأسبوع", "المعدل المتوقع (mIU/mL)"],
+            "rows": [
+              ["3 أسابيع", "5 إلى 72"],
+              ["4 أسابيع", "10 إلى 708"],
+              ["5 أسابيع", "217 إلى 8,245"],
+              ["6 أسابيع", "152 إلى 32,177"],
+              ["7 أسابيع", "4,059 إلى 153,767"],
+              ["8 أسابيع", "31,366 إلى 149,094"],
+              ["9 أسابيع", "59,109 إلى 135,901"],
+              ["10 أسابيع", "44,186 إلى 170,409"],
+              ["12 أسبوعا", "27,107 إلى 201,165"]
+            ],
+            "source": "MedlinePlus: Quantitative HCG blood test",
+            "source_url": "https://medlineplus.gov/ency/article/003510.htm"
+          }
+        },
+        {
+          "h2": "لماذا لا يكفي رقم واحد؟ قاعدة الـ 48 ساعة",
+          "paras": [
+            "في بداية الحمل السليم يرتفع الهرمون بسرعة، ويقال كثيرا إنه يتضاعف كل 48 ساعة تقريبا. لكن الصورة الحقيقية أكثر مرونة. في دراسة نُشرت عام 2004 في مجلة Obstetrics and Gynecology تابع الباحثون في جامعة بنسلفانيا 287 امرأة حضرن بنزف أو ألم وثبت لاحقا أن حملهن سليم داخل الرحم، وحللوا 861 قياسا. كان متوسط الارتفاع 124 بالمئة خلال يومين.",
+            "الأهم في تلك الدراسة أن أبطأ ارتفاع سُجل في حمل سليم كان 53 بالمئة خلال يومين، و24 بالمئة خلال يوم واحد. معنى ذلك أن رقما لم يتضاعف تماما بعد 48 ساعة لا يعني بالضرورة أن الحمل فاشل. مثلا، إذا كان رقمك 400 ثم أصبح 700 بعد يومين، فهذا ارتفاع بنحو 75 بالمئة، وهو ضمن ما رآه الباحثون في حمول سليمة.",
+            "في المقابل، الرقم الذي يثبت أو يرتفع ببطء شديد أو ينخفض يحتاج إلى تقييم سريع. الطبيب لا يقرأ الأرقام وحدها، بل يجمعها مع الأعراض والسونار. ولهذا اطلبي أن يكون التحليلان في المختبر نفسه، لأن اختلاف الأجهزة بين مختبرين قد يصنع فرقا يبدو كأنه ارتفاع أو انخفاض وهو ليس كذلك."
+          ],
+          "visual": {
+            "type": "stats",
+            "title": "كيف يرتفع الهرمون في الحمل السليم المبكر",
+            "items": [
+              {"value": "124%", "label": "متوسط الارتفاع خلال يومين", "tone": "good"},
+              {"value": "53%", "label": "أبطأ ارتفاع خلال يومين في حمل سليم", "tone": "warn"},
+              {"value": "287", "label": "امرأة شملتها الدراسة", "tone": "info"}
+            ],
+            "source": "Barnhart وآخرون، Obstetrics and Gynecology، 2004",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/15229000/"
+          }
+        },
+        {
+          "h2": "انخفاض هرمون الحمل أو بطء ارتفاعه: ماذا قد يعني؟",
+          "paras": [
+            "أشيع سبب لرقم يبدو منخفضا هو ببساطة أن الحمل أصغر مما تظنين، لأن الإباضة تأخرت. وهذا يحدث كثيرا مع الدورات غير المنتظمة أو عند عدم تذكر تاريخ آخر دورة بدقة. في هذه الحالة يرتفع الرقم بشكل طبيعي في التحليل الثاني، ويظهر الحمل في السونار لاحقا.",
+            "السبب الثاني هو الإجهاض المبكر، وفيه يثبت الرقم أو ينخفض، وغالبا مع نزف وتقلصات. والسبب الثالث، وهو الأهم من ناحية السلامة، هو الحمل خارج الرحم، أي انغراس الحمل خارج تجويف الرحم، وغالبا في قناة فالوب. في الحمل خارج الرحم كثيرا ما يرتفع الرقم ببطء أو يتذبذب، ولا يُرى كيس الحمل داخل الرحم في السونار رغم أن الرقم كاف لرؤيته.",
+            "لا يوجد رقم واحد يميز بين هذه الاحتمالات الثلاثة، ولا يمكن للمرأة أن تفرق بينها في البيت. الجمع بين تحليلين على الأقل والسونار عبر المهبل هو ما يوضح الصورة. وإلى أن تتضح، لا تبدئي حقن البروجسترون أو أي أدوية تثبيت حمل من تلقاء نفسك، حتى لو كانت تُباع دون وصفة في الصيدلية القريبة، فالقرار للطبيب بعد معرفة مكان الحمل."
+          ]
+        },
+        {
+          "h2": "علامات الحمل خارج الرحم التي تستدعي الطوارئ",
+          "paras": [
+            "الحمل خارج الرحم ليس نادرا. في دراسة من مستشفى الملك فهد الجامعي في الخبر نُشرت عام 2012 في المجلة الطبية السعودية، وامتدت عشر سنوات، بلغت نسبته 1.13 بالمئة من الحالات. وكان ألم البطن والنزف المهبلي أكثر الأعراض شيوعا، ووجدت الدراسة أن النساء اللواتي خضعن لأطفال الأنابيب أو تنشيط التبويض، أو سبق لهن حمل خارج الرحم، أكثر عرضة له.",
+            "تذكر هيئة الخدمات الصحية البريطانية NHS أن أعراضه تبدأ عادة بين الأسبوع الرابع والثاني عشر، وتشمل تأخر الدورة مع علامات الحمل، وألما في أسفل البطن في جهة واحدة، ونزفا مهبليا أو إفرازات بنية مائية، وألما في طرف الكتف، وانزعاجا عند التبول أو التبرز. ألم طرف الكتف بالذات علامة يتجاهلها كثيرون، وقد يعني وجود نزف داخلي يهيج الحجاب الحاجز.",
+            "الحمل خارج الرحم قد ينفجر ويسبب نزفا داخليا خطيرا على الحياة. إذا ظهرت لديك العلامات أدناه وأنت حامل أو قد تكونين حاملا، فاذهبي إلى أقرب طوارئ فورا، ولا تنتظري تحليلا ثانيا أو موعد العيادة. وإذا كنت في منطقة بعيدة عن المستشفى، فلا تقودي السيارة بنفسك واطلبي من أحد أن يوصلك."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "اذهبي إلى الطوارئ فورا إذا ظهر مع حمل مبكر",
+            "items": [
+              "ألم حاد ومفاجئ وشديد في البطن",
+              "ألم مستمر في جهة واحدة من أسفل البطن",
+              "ألم في طرف الكتف دون سبب واضح",
+              "دوخة شديدة أو إغماء",
+              "شحوب واضح أو غثيان مع ألم البطن",
+              "نزف مهبلي غزير يملأ فوطة كل ساعة"
+            ]
+          }
+        },
+        {
+          "h2": "ارتفاع هرمون الحمل كثيرا: توأم أم شيء آخر؟",
+          "paras": [
+            "الرقم المرتفع أعلى من المتوقع لأسبوعك له في الغالب تفسير بسيط: الحمل أكبر مما حسبت، أي أن الإباضة كانت أبكر. والحمل بتوأم قد يرفع الرقم أيضا، لكن لا يمكن الاعتماد على الرقم وحده لمعرفة التوأم، فكثير من الحمول المفردة تعطي أرقاما عالية، والسونار هو الذي يحسم ذلك.",
+            "من الأسباب الأقل شيوعا الحمل العنقودي، وهو نمو غير طبيعي لنسيج المشيمة، وقد يرفع الهرمون إلى مستويات عالية جدا مع نزف أو قيء شديد. وتذكر مراجعة StatPearls عن الهرمون أن قياسه يساعد أيضا في متابعة المرأة بعد فقدان الحمل، وفي تشخيص بعض الأورام النادرة التي تفرزه. لهذا قد يطلب الطبيب متابعة الرقم حتى يعود إلى الصفر بعد الإجهاض أو بعد علاج الحمل العنقودي.",
+            "وهناك نتائج إيجابية لا تعني حملا قائما: بقاء الهرمون أسابيع بعد إجهاض أو ولادة حديثة، أو بعد حقنة hCG في علاج الخصوبة، ونادرا تداخل في جهاز التحليل نفسه. إذا كانت نتيجتك لا تتفق مع وضعك، فاشرحي ذلك للطبيب وأعيدي التحليل بدل أن تعتمدي على رقم واحد."
+          ]
+        },
+        {
+          "h2": "نصائح عملية قبل التحليل وبعده",
+          "paras": [
+            "أعيدي التحليل في المختبر نفسه كلما أمكن، واحتفظي بكل الأوراق مع التاريخ والساعة، وخذيها معك إلى الطبيب أو الطوارئ. كثير من النساء في منطقتنا يحللن في مختبر قريب ثم يراجعن طبيبة في مدينة أخرى، والأوراق المرتبة تختصر الوقت وتمنع تحليلا مكررا. وتأكدي أن الورقة تكتب الوحدة، mIU/mL أو IU/L.",
+            "إذا كان لديك نزف أو ألم، أو سبق لك حمل خارج الرحم، أو جراحة في الحوض، أو حملت بعد علاج خصوبة، أو كان لديك لولب وقت الحمل، فأخبري الطبيب مبكرا، لأن هذه الحالات تستحق متابعة أقرب. وفي الحمل المبكر الطبيعي دون أعراض، تكفي غالبا متابعة هادئة مع طبيبتك وسونار في الوقت المناسب.",
+            "تذكري أن القلق من رقم على ورقة أمر طبيعي جدا، وأن معظم الحمول التي تبدأ بأرقام مقلقة على الإنترنت تكون سليمة في النهاية. لكن الأعراض لها الكلمة الأولى: الألم الشديد في جهة واحدة، أو ألم الكتف، أو الدوخة لا تنتظر تحليلا آخر. وهذا المقال للتوعية ولا يغني عن فحص الطبيب."
+          ]
+        }
+      ],
+      "tie": "مع تطبيق صحتك يمكنك تصوير ورقة تحليل Beta hCG ليحفظ ماسح المختبر الرقم مع تاريخه وساعته، ويعرض لك تغيره بين التحليلين بالنسبة المئوية، واسألي المساعد الذكي عن معنى ما في ورقتك قبل موعدك. يبقى ذلك أداة مساعدة، وأي ألم شديد أو دوخة يعني التوجه إلى الطوارئ لا إلى التطبيق.",
+      "faqs": [
+        {"q": "كم يجب أن يكون تحليل الحمل الرقمي حتى يكون إيجابيا؟", "a": "تعتبر النتيجة إيجابية عادة إذا كانت أعلى من 25 mIU/mL، وسلبية إذا كانت أقل من 5. ما بين ذلك منطقة رمادية تحتاج إلى إعادة التحليل بعد يومين أو ثلاثة لمعرفة هل يرتفع الرقم."},
+        {"q": "هل يمكن أن يكون تحليل الدم سلبيا وأنا حامل؟", "a": "نعم، إذا أُجري التحليل مبكرا جدا قبل أن يرتفع الهرمون بما يكفي. إذا بقيت الدورة متأخرة فأعيدي التحليل بعد بضعة أيام إلى أسبوع، وراجعي الطبيب إذا ظهر ألم أو نزف."},
+        {"q": "هل يجب أن يتضاعف هرمون الحمل كل 48 ساعة؟", "a": "في كثير من الحمول السليمة يرتفع بنحو الضعف أو أكثر خلال يومين، لكن دراسة على 287 امرأة وجدت أن الارتفاع قد يكون 53 بالمئة فقط في حمل سليم. الطبيب يقرأ نسبة الارتفاع مع الأعراض والسونار، لا الرقم وحده."},
+        {"q": "هل أحتاج إلى الصيام قبل تحليل الحمل في الدم؟", "a": "لا، تحليل Beta hCG لا يحتاج إلى صيام ويمكن إجراؤه في أي وقت من اليوم. إذا طُلبت تحاليل أخرى مع العينة نفسها فاسألي المختبر عن تعليماتها."},
+        {"q": "هل ارتفاع الرقم كثيرا يعني أنني حامل بتوأم؟", "a": "قد يرفع التوأم الرقم، لكن كثيرا من الحمول المفردة تعطي أرقاما عالية أيضا، خاصة إذا كان الحمل أكبر مما حسبت. السونار هو الطريقة الوحيدة لمعرفة عدد الأجنة."},
+        {"q": "متى يظهر كيس الحمل في السونار؟", "a": "يظهر عادة عندما يصل الحمل إلى عمر معين ويرتفع الهرمون بما يكفي، وهذا يختلف بين النساء وبين الأجهزة. إذا كان الرقم مرتفعا ولم يظهر كيس داخل الرحم، فقد يطلب الطبيب متابعة قريبة لاستبعاد حمل خارج الرحم."},
+        {"q": "هل يبقى هرمون الحمل في الدم بعد الإجهاض؟", "a": "نعم، قد يبقى عدة أسابيع وينخفض تدريجيا، ولذلك قد يأتي اختبار الحمل إيجابيا بعد الإجهاض. قد يطلب الطبيب متابعة الرقم حتى يعود إلى أقل من 5 للتأكد من اكتمال الإجهاض."}
+      ]
+    },
+    "en": {
+      "title": "Pregnancy Blood Test (Beta hCG): What Your Number Means",
+      "desc": "Pregnant or not? Learn what your beta hCG number means, the ranges by week, why the 48-hour rise matters more than one result, and which pain needs A&E.",
+      "keywords": "beta hcg blood test, quantitative hcg levels, hcg levels by week, hcg doubling time, low hcg levels, pregnancy blood test results, home pregnancy test vs blood test, ectopic pregnancy symptoms",
+      "h1": "Beta hCG pregnancy blood test: how to read your number, when to repeat it, and when to go to the emergency department",
+      "takeaways": [
+        "A beta hCG result under 5 mIU/mL is considered negative for pregnancy, over 25 mIU/mL positive, and anything in between is a grey area that needs repeating.",
+        "Ranges by week are extremely wide, so a single number cannot tell you whether a pregnancy is healthy.",
+        "What matters is the change over 48 hours: in a large study the slowest rise seen in a healthy pregnancy was 53 percent over two days.",
+        "Pain low down on one side, pain at the tip of the shoulder, or dizziness and fainting in early pregnancy are emergency signs that can mean an ectopic pregnancy.",
+        "Repeat the test at the same lab whenever you can, because machines differ slightly in their numbers."
+      ],
+      "sections": [
+        {
+          "h2": "What does your pregnancy blood test number mean?",
+          "paras": [
+            "A quantitative pregnancy blood test measures human chorionic gonadotropin, shown on your report as beta hCG. This hormone is made by the pregnancy cells that later form part of the placenta, so it only appears in meaningful amounts when there is a pregnancy. The result is usually given in mIU/mL, and some labs write IU/L instead. The two units are equal in value.",
+            "The simple rule used by the American Pregnancy Association is that a level under 5 mIU/mL is negative, meaning not pregnant, and a level over 25 mIU/mL is positive. Anything between 6 and 24 is a grey area, and the test is usually repeated two or three days later to see whether it rises. MedlinePlus, from the US National Library of Medicine, also gives under 5 mIU/mL as the normal level in a woman who is not pregnant.",
+            "But one number does not answer the question most women really have: is the pregnancy healthy and in the right place? That answer comes from tracking the number over time, and then from an ultrasound once the level and the dates are high enough to see a pregnancy sac. This is why doctors so often ask for two tests 48 hours apart rather than one."
+          ],
+          "visual": {
+            "type": "range-scale",
+            "title": "Where your result sits",
+            "label": "Beta hCG",
+            "unit": "mIU/mL",
+            "min": 0,
+            "max": 50,
+            "zones": [
+              {"to": 5, "tone": "neutral", "label": "Negative"},
+              {"to": 25, "tone": "warn", "label": "Grey area"},
+              {"to": 50, "tone": "good", "label": "Positive"}
+            ],
+            "marker": {"value": 14, "label": "Example: needs repeating"},
+            "source": "American Pregnancy Association: hCG levels",
+            "source_url": "https://americanpregnancy.org/getting-pregnant/hcg-levels/"
+          }
+        },
+        {
+          "h2": "When should you test after a missed period?",
+          "paras": [
+            "MedlinePlus notes that hCG can appear in the blood and urine of a pregnant woman as early as 10 days after conception. A blood test is more sensitive than a urine test and can sometimes pick up a pregnancy a few days before your period is due, but a very early result can be low or even negative in a pregnancy that has only just started.",
+            "For most women, the most practical time to test is from the first day of a missed period onwards. If your cycle is irregular, as often happens with polycystic ovaries, count about two to three weeks from the last unprotected sex rather than relying on when your period should come. If the result is negative and your period still has not arrived, repeat the test after a few days to a week.",
+            "You do not need to fast before a beta hCG test, and it can be done at any time of day. A home urine test is best done on the first urine of the morning, because it is more concentrated. If you are having fertility treatment that includes an hCG trigger injection, that injection itself can stay in your blood for days and give a false positive, so stick to the test date your fertility doctor gives you."
+          ],
+          "visual": {
+            "type": "timeline",
+            "title": "When the pregnancy hormone shows up",
+            "items": [
+              {"when": "Day of conception", "what": "Pregnancy begins, hormone not yet detectable"},
+              {"when": "About 10 days after conception", "what": "hCG may first appear in blood and urine"},
+              {"when": "First day of a missed period", "what": "A sensible time for a home urine test or blood test"},
+              {"when": "48 hours after the first test", "what": "A second test if your doctor wants to track the rise"},
+              {"when": "When level and dates allow", "what": "Ultrasound to confirm where the pregnancy is"}
+            ]
+          }
+        },
+        {
+          "h2": "Home urine test or blood test: which should you trust?",
+          "paras": [
+            "A home urine test from the pharmacy only detects whether the hormone is present. It shows two lines, or the words pregnant or not pregnant, but no number. It is quick, cheap and private, and in most cases it is enough to give you the first answer. Its accuracy depends on timing, how diluted your urine is from drinking lots of water, how you read the lines, and the quality of the strip itself, since some cheap brands sold in pharmacies are less sensitive than others.",
+            "A lab blood test gives an exact number, which is why it is called quantitative. Its real value shows when you need more than yes or no: when there is bleeding or pain, after a previous miscarriage or ectopic pregnancy, during fertility treatment, or when a urine result is faint and unclear. Some labs also run a qualitative blood test that only reports positive or negative, so ask for the quantitative one if your doctor wants to follow the trend.",
+            "A faint line on a urine test usually means the hormone is present at a low level, which can be a very early pregnancy. It is best to repeat the test in two days or to have a blood test. If a urine test is positive and your period then arrives a few days later, this may be what is called a chemical pregnancy, a pregnancy that stopped very early. It is common and usually does not mean there will be a problem next time."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Urine test versus blood test",
+            "head": ["Feature", "Home urine test", "Beta hCG blood test"],
+            "rows": [
+              ["Result", "Yes or no", "A number in mIU/mL"],
+              ["Earliest use", "Usually from the first missed day", "Can detect pregnancy a few days earlier"],
+              ["Tracking", "Cannot follow the rise", "Can compare numbers every 48 hours"],
+              ["Best for", "The first answer at home", "Bleeding, pain, fertility treatment or an unclear result"]
+            ]
+          }
+        },
+        {
+          "h2": "hCG levels by week: why the ranges are so wide",
+          "paras": [
+            "Charts of hCG levels by week are everywhere online, and many women compare their number with them and panic. Look at the table below from MedlinePlus. At 5 weeks, for example, the range runs from 217 to 8,245 mIU/mL, so the top of the range is about 38 times the bottom. Two women at the same week with completely healthy pregnancies can have very different numbers.",
+            "The ranges are wide because weeks are usually counted from the first day of your last period, while the day of ovulation and conception varies between women and between cycles. The day the pregnancy implants in the womb also varies, and so does the machine used by the lab. If you ovulated a week late, your number will look low against the chart even though your pregnancy is perfectly healthy.",
+            "The hormone rises quickly in the first weeks, peaks roughly between weeks 8 and 10, then falls a little and levels off for the rest of the pregnancy. That is why hCG is not used to check on a pregnancy after about week 6 or 7, when ultrasound is far more informative. MedlinePlus also notes that values can vary slightly between laboratories."
+          ],
+          "visual": {
+            "type": "table",
+            "title": "Expected beta hCG ranges by week of pregnancy",
+            "head": ["Week", "Expected range (mIU/mL)"],
+            "rows": [
+              ["3 weeks", "5 to 72"],
+              ["4 weeks", "10 to 708"],
+              ["5 weeks", "217 to 8,245"],
+              ["6 weeks", "152 to 32,177"],
+              ["7 weeks", "4,059 to 153,767"],
+              ["8 weeks", "31,366 to 149,094"],
+              ["9 weeks", "59,109 to 135,901"],
+              ["10 weeks", "44,186 to 170,409"],
+              ["12 weeks", "27,107 to 201,165"]
+            ],
+            "source": "MedlinePlus: Quantitative HCG blood test",
+            "source_url": "https://medlineplus.gov/ency/article/003510.htm"
+          }
+        },
+        {
+          "h2": "Why one number is not enough: the 48-hour rule",
+          "paras": [
+            "In a healthy early pregnancy the hormone rises fast, and it is often said to double roughly every 48 hours. The real picture is more flexible. In a study published in Obstetrics and Gynecology in 2004, researchers at the University of Pennsylvania followed 287 women who came in with bleeding or pain and were later confirmed to have a healthy pregnancy in the womb, analysing 861 measurements. The median rise was 124 percent over two days.",
+            "The most important finding was that the slowest rise seen in a healthy pregnancy was 53 percent over two days, and 24 percent over one day. So a number that has not quite doubled after 48 hours does not necessarily mean the pregnancy is failing. For example, if your level was 400 and is 700 two days later, that is a rise of about 75 percent, which falls within what the researchers saw in healthy pregnancies.",
+            "On the other hand, a level that stays flat, rises very slowly or falls needs prompt assessment. Your doctor does not read the numbers alone but combines them with your symptoms and the ultrasound. Ask for both tests at the same lab, because differences between machines at two labs can create what looks like a rise or fall when there is none."
+          ],
+          "visual": {
+            "type": "stats",
+            "title": "How hCG rises in a healthy early pregnancy",
+            "items": [
+              {"value": "124%", "label": "median rise over two days", "tone": "good"},
+              {"value": "53%", "label": "slowest two-day rise in a healthy pregnancy", "tone": "warn"},
+              {"value": "287", "label": "women in the study", "tone": "info"}
+            ],
+            "source": "Barnhart et al, Obstetrics and Gynecology, 2004",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/15229000/"
+          }
+        },
+        {
+          "h2": "Low or slowly rising hCG: what can it mean?",
+          "paras": [
+            "The most common reason for a number that looks low is simply that the pregnancy is earlier than you think, because you ovulated later. This happens a lot with irregular cycles, or when you are not sure of the date of your last period. In that case the level rises normally on the second test, and the pregnancy shows on ultrasound later.",
+            "The second possibility is an early miscarriage, where the level stays flat or falls, often with bleeding and cramps. The third, and the most important for your safety, is an ectopic pregnancy, meaning the pregnancy has implanted outside the womb, usually in a fallopian tube. In an ectopic pregnancy the level often rises slowly or wobbles, and no pregnancy sac is seen inside the womb on ultrasound even though the level is high enough for one to be visible.",
+            "No single number separates these three possibilities, and you cannot tell them apart at home. At least two tests plus a transvaginal ultrasound are what make the picture clear. Until it is clear, do not start progesterone injections or any pregnancy support medicine on your own, even if the nearest pharmacy sells them without a prescription, because that decision belongs to the doctor once the pregnancy has been located."
+          ]
+        },
+        {
+          "h2": "Ectopic pregnancy warning signs that need emergency care",
+          "paras": [
+            "Ectopic pregnancy is not rare. In a ten-year study from King Fahd Hospital of the University in Al-Khobar, published in the Saudi Medical Journal in 2012, it occurred in 1.13 percent of cases. Abdominal pain and vaginal bleeding were the most common symptoms, and women who had IVF or ovulation induction, or a previous ectopic pregnancy, were more likely to have one.",
+            "The NHS says symptoms usually start between weeks 4 and 12 of pregnancy and include a missed period with other signs of pregnancy, pain low down on one side of the tummy, vaginal bleeding or a brown watery discharge, pain in the tip of the shoulder, and discomfort when passing urine or stool. Shoulder tip pain in particular is often ignored, yet it can be a sign of internal bleeding irritating the diaphragm.",
+            "An ectopic pregnancy can rupture and cause life-threatening internal bleeding. If you have the signs below and you are pregnant or might be, go to the nearest emergency department straight away. Do not wait for a second blood test or a clinic appointment. If you live far from a hospital, do not drive yourself; ask someone to take you."
+          ],
+          "visual": {
+            "type": "callout",
+            "tone": "bad",
+            "title": "Go to the emergency department now if, in early pregnancy, you have",
+            "items": [
+              "Sharp, sudden and intense pain in your tummy",
+              "Ongoing pain low down on one side",
+              "Pain in the tip of your shoulder with no obvious cause",
+              "Feeling very dizzy or fainting",
+              "Looking very pale, or feeling sick with tummy pain",
+              "Heavy bleeding soaking a pad every hour"
+            ]
+          }
+        },
+        {
+          "h2": "Very high hCG: twins or something else?",
+          "paras": [
+            "A number higher than expected for your week usually has a simple explanation: the pregnancy is further along than you calculated, because you ovulated earlier. Twins can also push the level up, but you cannot rely on the number to tell you about twins, since many single pregnancies produce high levels too. Ultrasound is what settles it.",
+            "A less common cause is a molar pregnancy, an abnormal growth of placental tissue that can push hCG very high, sometimes with bleeding or severe vomiting. The StatPearls review of hCG notes that measuring it also helps monitor women after a pregnancy loss and aids in diagnosing some rare tumours that produce the hormone. This is why a doctor may ask you to track the level until it returns to zero after a miscarriage or after treatment for a molar pregnancy.",
+            "Some positive results do not mean an ongoing pregnancy: hCG lingering for weeks after a recent miscarriage or birth, after an hCG injection during fertility treatment, and rarely interference in the lab machine itself. If your result does not fit your situation, explain this to your doctor and repeat the test rather than relying on one number."
+          ]
+        },
+        {
+          "h2": "Practical tips before and after the test",
+          "paras": [
+            "Repeat the test at the same lab whenever possible, keep every report with the date and time, and bring them to your doctor or the emergency department. Many women in the region test at a nearby lab and then see a doctor in another town, and organised reports save time and avoid repeat tests. Check that your report shows the unit, mIU/mL or IU/L.",
+            "If you have bleeding or pain, have had an ectopic pregnancy or pelvic surgery before, conceived after fertility treatment, or had a coil in place when you became pregnant, tell your doctor early, because these situations deserve closer follow-up. In a normal early pregnancy with no symptoms, calm follow-up with your doctor and an ultrasound at the right time is usually enough.",
+            "Remember that worrying about a number on a page is completely normal, and that most pregnancies that start with numbers that look alarming online turn out to be healthy. But symptoms come first: severe one-sided pain, shoulder tip pain or dizziness do not wait for another blood test. This article is for health education and does not replace an examination by a doctor."
+          ]
+        }
+      ],
+      "tie": "With the Sihtak app you can photograph your beta hCG report so the lab scanner saves the number with its date and time and shows you the percentage change between two tests, and ask the AI assistant what your report means before your appointment. It is a support tool only, and severe pain or dizziness means going to the emergency department, not to the app.",
+      "faqs": [
+        {"q": "What hCG level counts as a positive pregnancy test?", "a": "A level above 25 mIU/mL is usually considered positive, and below 5 mIU/mL negative. Results in between are a grey area, and the test is repeated two or three days later to see whether the level rises."},
+        {"q": "Can a blood test be negative if I am pregnant?", "a": "Yes, if it is done very early, before the hormone has risen enough. If your period is still late, repeat the test after a few days to a week, and see a doctor if you develop pain or bleeding."},
+        {"q": "Does hCG have to double every 48 hours?", "a": "In many healthy pregnancies it roughly doubles or more over two days, but a study of 287 women found the rise can be as little as 53 percent in a healthy pregnancy. Your doctor reads the rate of rise together with your symptoms and the ultrasound, not the number alone."},
+        {"q": "Do I need to fast before a pregnancy blood test?", "a": "No. A beta hCG test does not require fasting and can be done at any time of day. If other tests are being taken from the same sample, ask the lab about their instructions."},
+        {"q": "Does a very high hCG mean twins?", "a": "Twins can raise the level, but many single pregnancies also give high numbers, especially if the pregnancy is further along than you thought. Ultrasound is the only way to know how many babies there are."},
+        {"q": "When will the pregnancy sac show on ultrasound?", "a": "It usually appears once the pregnancy reaches a certain age and the hormone is high enough, and this varies between women and machines. If your level is high and no sac is seen in the womb, your doctor may arrange close follow-up to rule out an ectopic pregnancy."},
+        {"q": "Does hCG stay in the blood after a miscarriage?", "a": "Yes, it can stay for several weeks while it gradually falls, which is why a pregnancy test can still be positive after a miscarriage. Your doctor may track the level until it drops below 5 to confirm the miscarriage is complete."}
+      ]
+    }
+  }
+}
