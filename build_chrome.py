@@ -482,6 +482,8 @@ PERSON_LD = {
     "memberOf": [{"@type": "Organization", "name": "Institute of Biomedical Science", "url": "https://www.ibms.org"},
                  {"@type": "Organization", "name": "Syrian Scientific Council", "alternateName": "المجلس العلمي السوري"}],
     "worksFor": {"@id": f"{SITE}/#org"},
+    "sameAs": ["https://www.adnanalrefai.net/", "https://www.wikidata.org/wiki/Q140467467",
+               "https://orcid.org/0009-0004-1559-075X", "https://www.linkedin.com/in/adnan-alrefai-69a53842"],
 }
 
 
