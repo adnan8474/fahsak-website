@@ -65,6 +65,7 @@ ART_COVERS = load_covers()
 # market. Single-language documents (the legal set, which is English only) go
 # in SOLO_PAGES and carry no alternates.
 PAIRED_PAGES = [
+    ("/", "/en/", "weekly", "1.0"),
     ("/articles/", "/en/articles/", "daily", "0.9"),
     ("/tools/", "/en/tools/", "monthly", "0.8"),
     ("/tools/bmi/", "/en/tools/bmi/", "monthly", "0.7"),
@@ -75,7 +76,6 @@ PAIRED_PAGES = [
 ]
 
 SOLO_PAGES = [
-    ("/", "weekly", "1.0"),
     ("/privacy/", "yearly", "0.3"),
     ("/terms/", "yearly", "0.3"),
     ("/contact/", "yearly", "0.4"),
@@ -1003,6 +1003,10 @@ def main():
 
     print("  index.html library band " +
           ("rewritten" if patch_homepage(len(articles)) else "already current"))
+    # The English homepage is derived from index.html, so it has to be rebuilt
+    # after the library band changes, never before.
+    import build_home
+    build_home.main()
 
     build_feed(articles)
     n_pages, n_arts = build_sitemaps(articles, counts)

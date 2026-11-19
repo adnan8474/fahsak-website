@@ -46,7 +46,7 @@ Strip these:
 
 - `deck/` (71M) and `content/` (15M)
 - the builders and dev tooling: `build_about.py`, `build_chrome.py`,
-  `build_content.py`, `build_covers.py`, `build_og.py`, `build_site.py`, `build_tools.py`,
+  `build_content.py`, `build_covers.py`, `build_home.py`, `build_og.py`, `build_site.py`, `build_tools.py`,
   `build_visuals.py`, `cite.py`, `merge_batches.py`, `validate_batch.py`,
   `add-analytics.py`, `verify-analytics.js`, `seo_audit.py`
 - `email-signature.html`, `email-signature-ar.html` (email templates, not pages)

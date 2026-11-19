@@ -12,42 +12,37 @@
   <script src="/analytics.js" defer></script>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <!-- Both of these get cut in the result list, not on the page, so they are
-       written to the room Google actually gives them: about 65 characters of
-       title and 165 of description. The longer pitch lives in the og:* tags
-       below, where a social card has space for it. -->
-  <title>صحتك: تطبيق صحي ذكي مجاني | Sihtak Free AI Health App</title>
-  <meta name="description" content="تطبيق صحتك المجاني: مساعد صحي ذكي، ماسح تحاليل، وتذكير أدوية. Sihtak is a free AI health app in Arabic and English. No ads, no subscription.">
-  <meta name="keywords" content="health app, AI health assistant, lab scanner OCR, medication tracker, drug interactions, nutrition tracking, exercise log, sleep tracker, period tracker, Apple Health, family health, health passport, symptom checker, voice chat, sihtak, صحتك, تطبيق صحة, ماسح تحاليل, تفاعلات أدوية, دورة شهرية, جواز صحي, ذكاء اصطناعي, تطبيق صحي مجاني, ai doctor, health tracking app, free health app, medical app arabic">
+  <!-- This file is the Arabic homepage AND the source of the English one:
+       build_home.py (run by build_site.py) writes /en/index.html from it by
+       swapping every data-ar/data-en pair, and regenerates the FAQ JSON-LD of
+       both pages from the visible FAQ. Keep every data-ar/data-en element a
+       leaf, and edit the English head tags in build_home.py. -->
+  <title>صحتك: تذكير الدواء وشرح نتائج التحاليل ومساعد صحي مجاني</title>
+  <meta name="description" content="تطبيق صحتك المجاني بالعربية: تذكير بمواعيد الأدوية، وشرح واضح لنتائج التحاليل، ومساعد صحي يجيبك كتابةً أو صوتاً، وملف صحي لعائلتك كلها. بلا إعلانات.">
   <meta name="author" content="Adnan Alrefai">
-  <meta name="creator" content="Adnan Alrefai">
   <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
   <meta name="google-site-verification" content="N7qc9HQrsMHfBu1q1rnwGDD9A03c1Uxh1AzZILu_7rI" />
   <link rel="canonical" href="https://www.sihtak.com/">
-  <!-- There is no English homepage: this page is Arabic. Claiming an "en"
-       alternate that serves Arabic is an invalid annotation, so only the real
-       language is declared. Add the en pair here if /en/ is ever built. -->
   <link rel="alternate" hreflang="ar" href="https://www.sihtak.com/">
+  <link rel="alternate" hreflang="en" href="https://www.sihtak.com/en/">
   <link rel="alternate" hreflang="x-default" href="https://www.sihtak.com/">
-  <meta property="og:title" content="Sihtak: Free AI Health Companion App | صحتك">
-  <meta property="og:description" content="Free AI-powered health app. Voice AI chat, lab scanner OCR, medication tracker, nutrition, exercise, sleep & period tracking, family health, PDF health passport. Arabic & English. No ads.">
+  <meta property="og:title" content="صحتك: دواؤك في وقته، وتحاليلك مفهومة">
+  <meta property="og:description" content="تطبيق صحي مجاني بالعربية والإنجليزية: تذكير بكل جرعة، وشرح واضح لنتائج التحاليل، ومساعد صحي يجيبك، وصحة عائلتك في مكان واحد.">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://www.sihtak.com/">
   <meta property="og:image" content="https://www.sihtak.com/og-image.png">
   <meta property="og:image:width" content="1200">
   <meta property="og:image:height" content="630">
   <meta property="og:image:type" content="image/png">
-  <meta property="og:image:alt" content="Sihtak - AI Health Companion App showing dashboard with health score, AI chat, and medication tracking">
-  <meta property="og:site_name" content="Sihtak">
-  <meta property="og:locale" content="ar_SA">
+  <meta property="og:image:alt" content="تطبيق صحتك: تذكير الدواء وشرح التحاليل">
+  <meta property="og:site_name" content="Sihtak صحتك">
+  <meta property="og:locale" content="ar_AR">
   <meta property="og:locale:alternate" content="en_US">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:site" content="@sihtak_app">
-  <meta name="twitter:creator" content="@sihtak_app">
-  <meta name="twitter:title" content="Sihtak: Free AI Health Companion | صحتك">
-  <meta name="twitter:description" content="Free AI health app: voice chat with an AI health assistant, lab scanner OCR, medication tracker with drug interactions, nutrition, exercise, sleep & period tracking, family health circles, PDF health passport. Arabic & English.">
+  <meta name="twitter:title" content="صحتك: دواؤك في وقته، وتحاليلك مفهومة">
+  <meta name="twitter:description" content="تطبيق صحي مجاني بالعربية والإنجليزية: تذكير بكل جرعة، وشرح واضح لنتائج التحاليل، ومساعد صحي يجيبك.">
   <meta name="twitter:image" content="https://www.sihtak.com/og-image.png">
-  <meta name="twitter:image:alt" content="Sihtak AI Health Companion App">
   <meta name="apple-itunes-app" content="app-id=6764330989">
   <link rel="manifest" href="/manifest.json">
   <meta name="theme-color" content="#ffffff" id="meta-theme-color">
@@ -57,174 +52,273 @@
   <link rel="sitemap" type="application/xml" href="/sitemap.xml">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link rel="preload" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Tajawal:wght@400;500;700;800&display=swap" as="style">
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Tajawal:wght@400;500;700;800&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="/style.css?v=2026081702">
   <link rel="stylesheet" href="/articles/article.css?v=2026081702">
   <script>(function(){var t=localStorage.getItem('sihtak-theme');if(t!=='dark'){document.documentElement.setAttribute('data-theme','light');}})();</script>
 
-  <!-- Schema: SoftwareApplication -->
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
     "@type": "MobileApplication",
     "name": "Sihtak",
     "alternateName": "صحتك",
-    "operatingSystem": "Android, iOS 16+",
+    "operatingSystem": "Android, iOS",
     "applicationCategory": "HealthApplication",
-    "applicationSubCategory": "Medical",
-    "offers": { "@type": "Offer", "price": "0", "priceCurrency": "USD", "availability": "https://schema.org/InStock" },
-    "description": "AI-powered health companion. Features include AI health chat with voice mode, lab scanner OCR, medication manager with drug interaction detection, nutrition and exercise tracking, sleep and period cycle monitoring, Apple Health sync, family health circles with real-time messaging, provider network, professional PDF health passport with QR code, emergency SOS, and full bilingual Arabic/English support. Works offline.",
-    "url": "https://www.sihtak.com",
-    "downloadUrl": "https://play.google.com/store/apps/details?id=com.sihhati.app",
-    "screenshot": [
-      "https://www.sihtak.com/screenshots/dashboard.png",
-      "https://www.sihtak.com/screenshots/ai-chat.png",
-      "https://www.sihtak.com/screenshots/voice-chat.png"
-    ],
-    "author": { "@type": "Person", "name": "Adnan Alrefai" },
+    "offers": { "@type": "Offer", "price": "0", "priceCurrency": "USD" },
+    "description": "Free Arabic and English health app: medicine reminders, plain-language lab result explanations from a photo of the report, a health assistant by text or voice, and family health profiles.",
+    "url": "https://www.sihtak.com/",
+    "installUrl": "https://play.google.com/store/apps/details?id=com.sihhati.app",
+    "downloadUrl": ["https://play.google.com/store/apps/details?id=com.sihhati.app", "https://apps.apple.com/app/id6764330989"],
+    "screenshot": ["https://www.sihtak.com/screenshots/dashboard.png", "https://www.sihtak.com/screenshots/ai-chat.png"],
     "inLanguage": ["ar", "en"],
-    "permissions": "Requires iOS 16+. Optional: Camera (lab scanning), HealthKit (Apple Health sync), Notifications (reminders), Microphone (voice chat), Face ID/Touch ID (biometric auth)",
-    "featureList": "AI Health Chat, Voice Conversations, Lab Scanner OCR, Medication Manager, Drug Interaction Detection, Symptom Checker, Nutrition Tracking, Exercise Logging, Sleep Tracker, Period Tracker, Vital Signs, Health Score, Health Passport PDF, QR Emergency Code, Apple Health Sync, Family Health Circle, Family Messaging, Provider Network, Provider Messaging, Lab Directory, Pharmacy Locator, Vaccination Records, Health Trends Analysis, AI Daily Insights, Smart Reminders, Emergency SOS, Offline Mode, Biometric Authentication, Bilingual Arabic/English, Dark Mode"
+    "featureList": "Medicine reminders, Dose log, Refill alerts, Lab report scan and explanation, Lab trends, Health assistant by text or voice, Symptom guidance, Family profiles, Vitals log, Health passport PDF, Clinic and lab booking where available, Arabic and English",
+    "publisher": { "@type": "Organization", "name": "POCTIFY LTD", "url": "https://poctify.com" }
   }
   </script>
-
-  <!-- Schema: Organization -->
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
     "@type": "Organization",
     "name": "Sihtak",
     "alternateName": "صحتك",
-    "url": "https://www.sihtak.com",
+    "url": "https://www.sihtak.com/",
     "logo": "https://www.sihtak.com/icon.png",
     "founder": { "@type": "Person", "name": "Adnan Alrefai" },
-    "foundingDate": "2025",
-    "parentOrganization": {
-      "@type": "Organization",
-      "name": "POCTIFY LTD",
-      "url": "https://poctify.com",
-      "identifier": { "@type": "PropertyValue", "name": "Companies House", "propertyID": "GB-COH", "value": "16340235" }
-    },
-    "contactPoint": [
-      { "@type": "ContactPoint", "contactType": "customer service", "email": "contact@sihtak.com", "url": "https://www.sihtak.com/contact", "availableLanguage": ["Arabic", "English"] }
-    ],
-    "sameAs": ["https://www.instagram.com/sihtak_app", "https://play.google.com/store/apps/details?id=com.sihhati.app", "https://fahsak.com", "https://fahsak.co.uk", "https://poctify.com"]
+    "parentOrganization": { "@type": "Organization", "name": "POCTIFY LTD", "url": "https://poctify.com" },
+    "contactPoint": [{ "@type": "ContactPoint", "contactType": "customer service", "email": "contact@sihtak.com", "availableLanguage": ["Arabic", "English"] }],
+    "sameAs": ["https://www.instagram.com/sihtak_app", "https://play.google.com/store/apps/details?id=com.sihhati.app", "https://apps.apple.com/app/id6764330989"]
   }
   </script>
-
-  <!-- Schema: WebSite (for sitelinks search box) -->
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
     "@type": "WebSite",
     "name": "Sihtak",
     "alternateName": "صحتك",
-    "url": "https://www.sihtak.com",
+    "url": "https://www.sihtak.com/",
     "inLanguage": ["ar", "en"],
-    "description": "Free AI-powered health companion app. Voice chat, lab scanner, medication tracker, nutrition, exercise, sleep, period tracking, family health, and PDF health passport.",
-    "publisher": { "@type": "Organization", "name": "Sihtak", "url": "https://www.sihtak.com" }
+    "publisher": { "@type": "Organization", "name": "Sihtak", "url": "https://www.sihtak.com/" }
   }
   </script>
-
-  <!-- Schema: FAQ -->
+  <!-- faq-jsonld:start (generated by build_home.py) -->
   <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "FAQPage",
-    "mainEntity": [
-      {
-        "@type": "Question",
-        "name": "Is Sihtak free?",
-        "acceptedAnswer": { "@type": "Answer", "text": "Yes, Sihtak is completely free to download and use. There are no ads and we never sell your data. Premium features are available through optional subscription tiers." }
-      },
-      {
-        "@type": "Question",
-        "name": "How does the AI health assistant work?",
-        "acceptedAnswer": { "@type": "Answer", "text": "Sihtak's AI assistant is powered by Claude AI and understands your complete medical context: medications, lab results, conditions, vitals, and wellness data. You can chat by text or voice in both Arabic and English. It provides personalized health insights, symptom checking, drug interaction alerts, and 90-day trend analysis." }
-      },
-      {
-        "@type": "Question",
-        "name": "Can I scan my lab results?",
-        "acceptedAnswer": { "@type": "Answer", "text": "Yes! Simply photograph your lab report and Sihtak's OCR technology extracts all test results automatically. The AI then analyzes each value, highlights abnormal results, and provides a clinical interpretation you can understand." }
-      },
-      {
-        "@type": "Question",
-        "name": "Is my health data secure?",
-        "acceptedAnswer": { "@type": "Answer", "text": "Absolutely. Sihtak uses end-to-end encryption, biometric authentication (Face ID/Touch ID), and secure token storage. Your data is never sold or shared with third parties. The app is GDPR compliant and supports full data export and account deletion." }
-      },
-      {
-        "@type": "Question",
-        "name": "Does it work offline?",
-        "acceptedAnswer": { "@type": "Answer", "text": "Yes. Sihtak uses an offline-first architecture. Your health data is cached locally so you can view medications, vitals, lab results, and more without internet. Failed requests are automatically queued and synced when connectivity returns." }
-      },
-      {
-        "@type": "Question",
-        "name": "What languages does Sihtak support?",
-        "acceptedAnswer": { "@type": "Answer", "text": "Sihtak is fully bilingual in Arabic and English. The entire interface, AI assistant, voice mode, and all notifications work seamlessly in both languages. You can switch languages anytime from settings." }
-      },
-      {
-        "@type": "Question",
-        "name": "How does the medication tracker work?",
-        "acceptedAnswer": { "@type": "Answer", "text": "Add your medications with dosage, frequency, and schedule. Sihtak sends smart reminders, tracks adherence, checks for drug-drug and drug-food interactions using a clinical database, and alerts you to potential side effects. Your doctor can also view your medication list if you share access." }
-      },
-      {
-        "@type": "Question",
-        "name": "Can I share my health data with my doctor?",
-        "acceptedAnswer": { "@type": "Answer", "text": "Yes. Sihtak's Health Passport feature lets you generate a shareable summary of your medical profile, including medications, lab results, conditions, allergies, and vitals, which you can share with any healthcare provider via a secure link or PDF." }
-      },
-      {
-        "@type": "Question",
-        "name": "Does Sihtak have a family sharing feature?",
-        "acceptedAnswer": { "@type": "Answer", "text": "Yes. The Social Connections feature lets you connect with family members and caregivers. You can share health updates, coordinate care, and manage health profiles for children or elderly family members, all within the app." }
-      },
-      {
-        "@type": "Question",
-        "name": "Is there a period and cycle tracker?",
-        "acceptedAnswer": { "@type": "Answer", "text": "Yes. Sihtak includes a full menstrual cycle tracker with period logging, cycle predictions, symptom tracking, and AI-powered insights. It integrates with your overall health profile so the AI assistant can consider your cycle in its health recommendations." }
-      },
-      {
-        "@type": "Question",
-        "name": "Is Sihtak available on Android?",
-        "acceptedAnswer": { "@type": "Answer", "text": "Yes! Sihtak is on Google Play for Android and on the App Store for iPhone, free on both. Visit sihtak.com for download links or follow @sihtak_app on Instagram." }
-      },
-      {
-        "@type": "Question",
-        "name": "What makes Sihtak different from other health apps?",
-        "acceptedAnswer": { "@type": "Answer", "text": "Sihtak combines 12+ health tools into one AI-powered app: voice AI chat, lab scanner with OCR, drug interaction checker, symptom checker, medication tracker, vitals logging, period tracker, health passport, and more. Most health apps do one thing. Sihtak connects everything with AI that understands your full medical context." }
-      },
-      {
-        "@type": "Question",
-        "name": "Can I export or delete my data?",
-        "acceptedAnswer": { "@type": "Answer", "text": "Yes. Sihtak is fully GDPR compliant. You can export all your health data at any time from Settings, and you can permanently delete your account and all associated data. We believe your health data belongs to you." }
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "inLanguage": "ar",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "هل صحتك مجاني؟",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "نعم. صحتك مجاني بالكامل للجميع، بلا إعلانات، ولا نبيع بياناتك."
       }
-    ]
-  }
+    },
+    {
+      "@type": "Question",
+      "name": "كيف يذكّرني صحتك بمواعيد الأدوية؟",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "أضف الدواء وجرعته ومواعيده، فيصلك تنبيه في وقت كل جرعة. سجّل أخذها بلمسة، وتابع التزامك أسبوعاً بعد أسبوع، واحصل على تنبيه عند اقتراب نفاد الدواء."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "كيف يشرح صحتك نتائج التحاليل؟",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "صوّر ورقة التحليل بكاميرا الهاتف، فيقرأ صحتك القيم ويرتبها مع معدلاتها الطبيعية، ويشرح كل قيمة بلغة واضحة، ويقارنها بنتائجك السابقة. الشرح للفهم، أما التشخيص فلطبيبك."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "ماذا يستطيع المساعد الصحي أن يفعل؟",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "يجيب عن أسئلتك الصحية العامة بالعربية أو الإنجليزية، كتابةً أو بصوتك، ويأخذ في الحسبان أدويتك وتحاليلك المسجلة إن سمحت له بذلك. لا يشخّص ولا يصف علاجاً، ويوجّهك إلى الطبيب عند الحاجة."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "في أي الدول يعمل صحتك؟",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "يعمل صحتك في الدول العربية كلها وخارجها، على أندرويد وآيفون. أما دليل العيادات والحجز فمتاح في المدن التي انضمت فيها عيادات، ويتوسع تباعاً."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "هل أستطيع متابعة صحة عائلتي؟",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "نعم. أضف والديك أو أطفالك إلى حسابك، وتابع أدويتهم وتحاليلهم ومواعيدهم من مكان واحد."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "هل بياناتي الصحية آمنة؟",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "تنتقل بياناتك مشفرة، ويمكنك قفل التطبيق ببصمتك أو وجهك. لا إعلانات في التطبيق، ولا نبيع بياناتك، ويمكنك حذف حسابك وبياناته في أي وقت."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "أنا طبيب أو أدير مختبراً، كيف أنضم؟",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "الحساب المهني مجاني للعيادات والمختبرات. أنشئ ملفك من بوابة صحتك على portal.sihtak.com، وأدر المواعيد وسجلات المراجعين من الهاتف أو المتصفح."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "هل يغني صحتك عن الطبيب؟",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "لا. صحتك يساعدك على الفهم والتنظيم والتذكّر، ويبقى القرار الطبي لطبيبك."
+      }
+    }
+  ]
+}
   </script>
+  <!-- faq-jsonld:end -->
 
-  <!-- Schema: BreadcrumbList -->
-  <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.sihtak.com/" },
-      { "@type": "ListItem", "position": 2, "name": "Features", "item": "https://www.sihtak.com/#features" },
-      { "@type": "ListItem", "position": 3, "name": "How it Works", "item": "https://www.sihtak.com/#how-it-works" },
-      { "@type": "ListItem", "position": 4, "name": "FAQ", "item": "https://www.sihtak.com/#faq" },
-      { "@type": "ListItem", "position": 5, "name": "Contact", "item": "https://www.sihtak.com/contact" }
-    ]
-  }
-  </script>
+  <style>
+    /* Home page only. Flat surfaces, one accent, real content in the mock-ups. */
+    .h-wrap{max-width:1120px;margin:0 auto;padding:0 24px;}
+    .h-eyebrow{display:inline-block;font-size:13px;font-weight:700;color:var(--teal);margin:0 0 14px;letter-spacing:.02em;}
+    .h-h2{font-size:clamp(26px,3.6vw,38px);line-height:1.3;font-weight:800;color:var(--text);margin:0 0 14px;}
+    .h-lead{font-size:17px;line-height:1.85;color:var(--text-m);margin:0;max-width:60ch;}
+    .h-sec{padding:88px 0;}
+    .h-sec--alt{background:var(--bg-surface);border-top:1px solid var(--border);border-bottom:1px solid var(--border);}
+    .h-head{max-width:680px;margin:0 0 44px;}
+    .h-head--c{margin-inline:auto;text-align:center;}
+    .h-head--c .h-lead{margin-inline:auto;}
 
-  <!-- Preloads removed: 2.9MB images killed LCP score -->
+    /* Hero */
+    .h-hero{padding:120px 0 72px;}
+    .h-hero-grid{display:grid;grid-template-columns:1.1fr .9fr;gap:56px;align-items:center;}
+    .h-hero h1{font-size:clamp(32px,4.4vw,50px);line-height:1.22;font-weight:800;color:var(--text);margin:0 0 20px;letter-spacing:-.01em;}
+    .h-hero h1 span{display:block;}
+    .h-hero h1 .h-accent{color:var(--teal);}
+    .h-hero .h-lead{font-size:18px;margin-bottom:30px;}
+    .h-stores{display:flex;gap:12px;flex-wrap:wrap;margin-bottom:18px;}
+    .h-store{display:inline-flex;align-items:center;gap:10px;padding:13px 22px;border-radius:14px;background:var(--text);color:var(--bg);text-decoration:none;font-weight:700;font-size:15.5px;transition:transform .2s;}
+    .h-store:hover{transform:translateY(-2px);}
+    .h-store svg{width:20px;height:20px;flex-shrink:0;}
+    .h-store--ghost{background:transparent;color:var(--text);border:1px solid var(--border-h);}
+    .h-facts{display:flex;gap:18px;flex-wrap:wrap;color:var(--text-m);font-size:14px;margin:0;padding:0;list-style:none;}
+    .h-facts li{display:flex;align-items:center;gap:7px;}
+    .h-facts li::before{content:"";width:7px;height:7px;border-radius:50%;background:var(--teal);}
+
+    /* Phone mock-up made of real text, so it is light and readable by search engines */
+    .h-phone{position:relative;max-width:340px;margin-inline:auto;width:100%;border-radius:40px;border:1px solid var(--border-h);background:var(--bg-surface);padding:18px 14px 22px;box-shadow:0 40px 80px -48px rgba(10,30,40,.45);}
+    .h-phone-top{display:flex;justify-content:space-between;align-items:center;padding:4px 8px 14px;color:var(--text-m);font-size:12.5px;font-family:'Inter','Tajawal',sans-serif;}
+    .h-phone-hello{font-weight:800;color:var(--text);font-size:17px;padding:0 8px 12px;}
+    .h-card{background:var(--bg);border:1px solid var(--border);border-radius:18px;padding:14px 16px;margin-bottom:10px;}
+    .h-card-row{display:flex;align-items:center;gap:12px;}
+    .h-ic{width:38px;height:38px;border-radius:11px;display:flex;align-items:center;justify-content:center;flex-shrink:0;}
+    .h-ic svg{width:20px;height:20px;}
+    .h-ic--teal{background:var(--teal-dim);color:var(--teal);}
+    .h-ic--blue{background:var(--blue-dim);color:var(--blue);}
+    .h-ic--amber{background:var(--amber-dim);color:var(--amber);}
+    .h-ic--rose{background:var(--rose-dim);color:var(--rose);}
+    .h-card-t{font-weight:700;color:var(--text);font-size:14.5px;line-height:1.4;}
+    .h-card-s{color:var(--text-m);font-size:12.5px;line-height:1.5;}
+    .h-pill{margin-inline-start:auto;font-size:12px;font-weight:700;padding:5px 11px;border-radius:999px;background:var(--teal);color:#fff;white-space:nowrap;}
+    .h-pill--soft{background:var(--teal-dim);color:var(--teal);}
+    .h-value{font-family:'Inter','Tajawal',sans-serif;font-weight:800;font-size:22px;color:var(--text);}
+    .h-why{display:inline-block;margin-top:8px;font-size:12.5px;font-weight:700;color:var(--teal);}
+    .h-bubble{background:var(--teal-dim);border-radius:16px;padding:12px 14px;font-size:13px;line-height:1.7;color:var(--text);}
+
+    /* A day with Sihtak */
+    .h-day{display:grid;grid-template-columns:repeat(4,1fr);gap:16px;}
+    .h-moment{background:var(--bg);border:1px solid var(--border);border-radius:20px;padding:22px;display:flex;flex-direction:column;gap:14px;}
+    .h-time{font-family:'Inter',sans-serif;font-weight:800;font-size:14px;color:var(--teal);direction:ltr;text-align:start;}
+    html[dir="rtl"] .h-time{text-align:right;}
+    .h-moment h3{margin:0;font-size:17px;color:var(--text);font-weight:800;line-height:1.4;}
+    .h-moment p{margin:0;font-size:14.5px;color:var(--text-m);line-height:1.75;}
+    .h-moment .h-card{margin:auto 0 0;}
+
+    /* Against your own numbers */
+    .h-trend{display:grid;grid-template-columns:1fr 1fr;gap:48px;align-items:center;}
+    .h-chart{background:var(--bg);border:1px solid var(--border);border-radius:24px;padding:26px;}
+    .h-chart-head{display:flex;justify-content:space-between;align-items:baseline;margin-bottom:18px;gap:12px;}
+    .h-chart svg{width:100%;height:auto;display:block;}
+    .h-chart-note{margin:16px 0 0;font-size:14px;color:var(--text-m);line-height:1.7;}
+    .h-legend{display:flex;gap:16px;flex-wrap:wrap;margin-top:12px;font-size:12.5px;color:var(--text-m);}
+    .h-legend span{display:inline-flex;align-items:center;gap:6px;}
+    .h-legend i{width:12px;height:12px;border-radius:3px;display:inline-block;}
+    .h-points{list-style:none;padding:0;margin:26px 0 0;display:grid;gap:14px;}
+    .h-points li{display:flex;gap:12px;align-items:flex-start;color:var(--text);font-size:15.5px;line-height:1.7;}
+    .h-points li::before{content:"";flex-shrink:0;margin-top:9px;width:8px;height:8px;border-radius:2px;background:var(--teal);}
+
+    /* Features */
+    .h-feats{display:grid;grid-template-columns:repeat(2,1fr);gap:18px;}
+    .h-feat{background:var(--bg);border:1px solid var(--border);border-radius:22px;padding:28px;display:flex;flex-direction:column;gap:12px;}
+    .h-feat h3{margin:0;font-size:20px;font-weight:800;color:var(--text);}
+    .h-feat p{margin:0;color:var(--text-m);font-size:15px;line-height:1.8;}
+    .h-feat ul{margin:4px 0 0;padding:0;list-style:none;display:grid;gap:8px;}
+    .h-feat li{font-size:14.5px;color:var(--text);display:flex;gap:9px;}
+    .h-feat li::before{content:"✓";color:var(--teal);font-weight:800;}
+    .h-feat a.h-more{margin-top:auto;padding-top:6px;color:var(--teal);font-weight:700;font-size:14.5px;text-decoration:none;}
+    .h-feat a.h-more:hover{text-decoration:underline;}
+    .h-feats--3{grid-template-columns:repeat(3,1fr);}
+    .h-also{margin-top:26px;display:flex;flex-wrap:wrap;gap:10px;justify-content:center;}
+    .h-also span{border:1px solid var(--border);border-radius:999px;padding:8px 16px;font-size:14px;color:var(--text-m);background:var(--bg);}
+
+    /* Privacy */
+    .h-priv{display:grid;grid-template-columns:.9fr 1.1fr;gap:48px;align-items:start;}
+    .h-priv-list{display:grid;grid-template-columns:1fr 1fr;gap:16px;}
+    .h-priv-item{border:1px solid var(--border);border-radius:18px;padding:22px;background:var(--bg);}
+    .h-priv-item h3{margin:12px 0 6px;font-size:16.5px;color:var(--text);font-weight:800;}
+    .h-priv-item p{margin:0;font-size:14.5px;line-height:1.75;color:var(--text-m);}
+
+    /* Clinics */
+    .h-pro{border-radius:28px;background:#06231f;color:#e6f2ef;padding:56px;display:grid;grid-template-columns:1.2fr .8fr;gap:40px;align-items:center;}
+    .h-pro .h-eyebrow{color:#5fd3c3;}
+    .h-pro h2{color:#fff;font-size:clamp(26px,3.4vw,36px);line-height:1.3;margin:0 0 14px;font-weight:800;}
+    .h-pro p{color:#b5cdc8;font-size:16.5px;line-height:1.85;margin:0 0 22px;}
+    .h-pro ul{list-style:none;margin:0 0 26px;padding:0;display:grid;gap:10px;}
+    .h-pro li{display:flex;gap:10px;font-size:15.5px;color:#e6f2ef;}
+    .h-pro li::before{content:"✓";color:#5fd3c3;font-weight:800;}
+    .h-pro-ctas{display:flex;gap:12px;flex-wrap:wrap;}
+    .h-pro-cta{display:inline-flex;align-items:center;gap:8px;padding:14px 24px;border-radius:999px;font-weight:800;font-size:15.5px;text-decoration:none;}
+    .h-pro-cta--wa{background:#25D366;color:#062b18;}
+    .h-pro-cta--line{border:1px solid rgba(255,255,255,.3);color:#fff;}
+    .h-pro-card{background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.12);border-radius:20px;padding:20px;}
+    .h-pro-card .h-card{background:rgba(255,255,255,.95);border:0;}
+    .h-pro-card .h-card-t{color:#0c1b1a;}
+    .h-pro-card .h-card-s{color:#4a5a58;}
+    .h-pro-card-h{font-size:13px;color:#9fbcb7;margin:0 0 12px;font-weight:700;}
+
+    /* Final CTA */
+    .h-cta{text-align:center;padding:96px 0;}
+    .h-cta .h-stores{justify-content:center;margin-top:28px;}
+
+    @media (max-width:980px){
+      .h-day{grid-template-columns:1fr 1fr;}
+      .h-hero-grid,.h-trend,.h-priv,.h-pro{grid-template-columns:1fr;}
+      .h-pro{padding:40px 26px;}
+    }
+    @media (max-width:640px){
+      .h-hero{padding:96px 0 48px;}
+      .h-sec{padding:64px 0;}
+      .h-day,.h-feats,.h-feats--3,.h-priv-list{grid-template-columns:1fr;}
+      .h-wrap{padding:0 18px;}
+      .h-store{flex:1 1 100%;justify-content:center;}
+      .h-hero .h-lead{font-size:16.5px;}
+    }
+    @media (prefers-reduced-motion:reduce){.h-store{transition:none;}}
+  </style>
 </head>
 <body>
 
-  <!-- Navigation -->
   <nav class="nav" role="navigation" aria-label="Main navigation">
     <div class="nav-inner">
-      <a href="/" class="nav-brand" aria-label="Sihtak Home">
+      <a href="/" data-href-ar="/" data-href-en="/en/" class="nav-brand" aria-label="Sihtak">
         <img src="/icon.png" alt="" class="nav-logo" width="36" height="36">
         <span class="nav-name" data-ar="صحتك" data-en="Sihtak">صحتك</span>
       </a>
@@ -235,10 +329,7 @@
           <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="theme-icon-sun"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg>
           <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="theme-icon-moon" style="display:none"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>
         </button>
-        <button class="lang-btn" onclick="toggleLang()" aria-label="Switch language">EN</button>
-        <a href="https://play.google.com/store/apps/details?id=com.sihhati.app" class="btn btn-primary btn-sm" target="_blank" rel="noopener">
-          <span data-ar="حمّل الآن" data-en="Download">حمّل الآن</span>
-        </a>
+        <a class="lang-btn" href="/en/" hreflang="en" lang="en">EN</a>
       </div>
     </div>
   </nav>
@@ -246,202 +337,231 @@
   <main>
 
   <!-- Hero -->
-  <section class="hero" aria-labelledby="hero-title">
-    <img src="/images/dna-helix.svg" alt="" class="hero-deco" aria-hidden="true" width="200" height="600">
-    <div class="light-orb light-orb--lg light-orb--teal" style="top:-10%;left:5%;" aria-hidden="true"></div>
-    <div class="light-orb light-orb--md light-orb--blue light-orb--delay-1" style="top:30%;right:0;" aria-hidden="true"></div>
-    <div class="light-orb light-orb--sm light-orb--purple light-orb--delay-2" style="bottom:10%;left:30%;" aria-hidden="true"></div>
-    <div class="hero-inner">
-      <div class="hero-content reveal">
-        <div class="hero-badge">
-          <span class="hero-badge-dot" aria-hidden="true"></span>
-          <span data-ar="متوفر الآن · مجاني بالكامل · بدون إعلانات" data-en="Available Now · Completely Free · No Ads">متوفر الآن · مجاني بالكامل · بدون إعلانات</span>
-        </div>
-        <h1 id="hero-title">
-          <span data-ar="كل صحتك." data-en="All your health.">كل صحتك.</span><br>
-          <span data-ar="ذكاء واحد." data-en="One intelligence.">ذكاء واحد.</span><br>
-          <span class="gradient-text" data-ar="رفيق واحد." data-en="One companion.">رفيق واحد.</span>
-        </h1>
-        <p class="hero-sub" data-ar="مساعد صحي ذكي يتحدث معك بالصوت، يمسح تحاليلك بالكاميرا، يتابع أدويتك ويكشف تفاعلاتها، يراقب تغذيتك ونومك وتمارينك ودورتك الشهرية، ويدير صحة عائلتك بالكامل." data-en="An AI health assistant that talks by voice, scans your labs with the camera, tracks medications and detects interactions, monitors nutrition, sleep, exercise, and your menstrual cycle, and manages your entire family's health.">مساعد صحي ذكي يتحدث معك بالصوت، يمسح تحاليلك بالكاميرا، يتابع أدويتك ويكشف تفاعلاتها، يراقب تغذيتك ونومك وتمارينك ودورتك الشهرية، ويدير صحة عائلتك بالكامل.</p>
-        <div class="hero-ctas">
-          <a href="https://play.google.com/store/apps/details?id=com.sihhati.app" class="btn btn-primary btn-lg" target="_blank" rel="noopener">
-            <span data-ar="حمّل من Google Play" data-en="Get it on Google Play">حمّل من Google Play</span>
-          </a>
-          <a href="https://apps.apple.com/us/app/sihtak-%D8%B5%D8%AD%D8%AA%D9%83/id6764330989" class="btn btn-ghost btn-lg" target="_blank" rel="noopener">
-            <span data-ar="حمّل من App Store" data-en="Download on the App Store">حمّل من App Store</span>
-          </a>
-          <a href="#providers" class="btn btn-ghost btn-lg" style="border-color:#3a9d92;color:#3a9d92;">
-            <span data-ar="🩺 طبيب أو صاحب عيادة؟" data-en="🩺 Doctor or clinic owner?">🩺 طبيب أو صاحب عيادة؟</span>
-          </a>
-        </div>
-        <p class="hero-beta" style="margin-top:16px;font-size:14px;color:var(--text-m);">
-          <span data-ar="متوفر الآن على iPhone و Android · تابعنا على" data-en="Available now on iPhone and Android · Follow us on">متوفر الآن على iPhone و Android · تابعنا على</span>
-          <a href="https://instagram.com/sihtak_app" style="color:var(--teal);font-weight:600;" target="_blank" rel="noopener">@sihtak_app</a>
-        </p>
-      </div>
-      <div class="hero-visual reveal reveal-delay-2">
-        <div class="phone-showcase">
-          <div class="phone-secondary phone-secondary--left">
-            <div class="phone">
-              <img src="/screenshots/ai-chat.png" alt="Sihtak AI chat with voice mode" width="260" height="540" loading="eager">
-            </div>
-          </div>
-          <div class="phone-main">
-            <div class="phone phone--xl">
-              <img src="/screenshots/dashboard.png" alt="Sihtak health dashboard showing health score, features, and medication timeline" width="300" height="640" loading="eager">
-            </div>
-          </div>
-          <div class="phone-secondary phone-secondary--right">
-            <div class="phone">
-              <img src="/screenshots/voice-chat.png" alt="Sihtak AI voice chat speaking mode" width="260" height="540" loading="eager">
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <img src="/images/heartbeat.svg" alt="" class="heartbeat-divider" aria-hidden="true">
-
-  <!-- Providers band: recruit clinics/labs/pharmacies. WhatsApp-first CTA. -->
-  <style>
-    .prov{position:relative;overflow:hidden;background:#04121f;border-radius:32px;margin:8px auto 40px;max-width:1160px;padding:64px 48px;color:#e7f2f0;}
-    .prov::before{content:'';position:absolute;width:640px;height:520px;top:-220px;inset-inline-start:-160px;background:radial-gradient(closest-side,rgba(58,157,146,.35),transparent);pointer-events:none;}
-    .prov::after{content:'';position:absolute;width:520px;height:420px;bottom:-200px;inset-inline-end:-120px;background:radial-gradient(closest-side,rgba(34,211,238,.16),transparent);pointer-events:none;}
-    .prov-inner{position:relative;display:grid;grid-template-columns:1.15fr .85fr;gap:44px;align-items:center;}
-    @media(max-width:860px){.prov{padding:44px 24px;border-radius:24px;margin-inline:14px;}.prov-inner{grid-template-columns:1fr;}}
-    .prov-kicker{display:inline-flex;align-items:center;gap:8px;background:rgba(58,157,146,.16);border:1px solid rgba(58,157,146,.45);color:#7fd6cb;border-radius:999px;padding:8px 18px;font-weight:700;font-size:14.5px;}
-    .prov h2{font-size:clamp(28px,4vw,44px);line-height:1.25;margin:18px 0 12px;color:#fff;font-weight:800;}
-    .prov h2 .gr{background:linear-gradient(90deg,#4fd1c5,#22d3ee);-webkit-background-clip:text;background-clip:text;color:transparent;}
-    .prov-sub{color:#b7ccc9;font-size:17px;line-height:1.8;max-width:560px;}
-    .prov-points{margin:22px 0 26px;display:flex;flex-direction:column;gap:10px;}
-    .prov-points div{display:flex;gap:10px;align-items:flex-start;font-size:15.5px;color:#dcebe9;font-weight:500;}
-    .prov-points .tk{color:#4fd1c5;font-weight:800;flex-shrink:0;}
-    .prov-offer{display:inline-flex;align-items:center;gap:10px;background:rgba(245,158,11,.12);border:1px solid rgba(245,158,11,.45);color:#fbbf24;border-radius:14px;padding:12px 18px;font-weight:700;font-size:15px;margin-bottom:26px;}
-    .prov-ctas{display:flex;gap:14px;flex-wrap:wrap;}
-    .prov-wa{display:inline-flex;align-items:center;gap:10px;background:#25D366;color:#062b18;border-radius:999px;padding:16px 30px;font-weight:800;font-size:17px;text-decoration:none;box-shadow:0 14px 34px -12px rgba(37,211,102,.65);transition:transform .2s;}
-    .prov-wa:hover{transform:translateY(-2px);}
-    .prov-portal{display:inline-flex;align-items:center;gap:8px;border:1px solid rgba(255,255,255,.28);color:#fff;border-radius:999px;padding:16px 26px;font-weight:700;font-size:16px;text-decoration:none;transition:transform .2s,border-color .2s;}
-    .prov-portal:hover{transform:translateY(-2px);border-color:#4fd1c5;}
-    .prov-note{margin-top:14px;font-size:13.5px;color:#8fa6a3;}
-    .prov-visual{position:relative;text-align:center;}
-    .prov-visual img{max-width:100%;border-radius:18px;border:1px solid rgba(255,255,255,.14);box-shadow:0 30px 60px -20px rgba(0,0,0,.6);}
-    .wa-float{position:fixed;bottom:22px;inset-inline-start:22px;z-index:80;display:flex;align-items:center;gap:10px;background:#25D366;color:#062b18;border-radius:999px;padding:13px 20px;font-weight:800;font-size:15px;text-decoration:none;box-shadow:0 16px 40px -10px rgba(37,211,102,.7);}
-    .wa-float:hover{transform:translateY(-2px);}
-    @media(max-width:640px){.wa-float span{display:none;}.wa-float{padding:14px;}}
-  </style>
-  <section class="prov" id="providers" aria-labelledby="prov-title">
-    <div class="prov-inner">
+  <section class="h-hero" aria-labelledby="hero-title">
+    <div class="h-wrap h-hero-grid">
       <div>
-        <span class="prov-kicker"><span data-ar="للأطباء والعيادات والمخابر والصيدليات" data-en="For doctors, clinics, labs and pharmacies">للأطباء والعيادات والمخابر والصيدليات</span></span>
-        <h2 id="prov-title"><span data-ar="عيادتك" data-en="Your clinic,">عيادتك</span> <span class="gr" data-ar="أونلاين" data-en="online">أونلاين</span> <span data-ar="خلال دقائق" data-en="in minutes">خلال دقائق</span></h2>
-        <p class="prov-sub" data-ar="ودّع دفتر المواعيد الورقي والمكالمات. مرضاك يحجزون بأنفسهم من تطبيق صحتك، وأنت تدير مواعيدك وعروضك من جوالك أو المتصفح." data-en="Say goodbye to the paper diary and phone calls. Your patients book themselves from the Sihtak app while you manage appointments and offers from your phone or browser.">ودّع دفتر المواعيد الورقي والمكالمات. مرضاك يحجزون بأنفسهم من تطبيق صحتك، وأنت تدير مواعيدك وعروضك من جوالك أو المتصفح.</p>
-        <div class="prov-points">
-          <div><span class="tk">✓</span><span data-ar="حجوزات المرضى تصلك فوراً على جوالك" data-en="Patient bookings reach your phone instantly">حجوزات المرضى تصلك فوراً على جوالك</span></div>
-          <div><span class="tk">✓</span><span data-ar="ملف عيادتك أمام آلاف مستخدمي التطبيق" data-en="Your clinic profile in front of thousands of app users">ملف عيادتك أمام آلاف مستخدمي التطبيق</span></div>
-          <div><span class="tk">✓</span><span data-ar="عروضك الترويجية تظهر في واجهة التطبيق" data-en="Your promotions appear on the app's front screen">عروضك الترويجية تظهر في واجهة التطبيق</span></div>
-        </div>
-        <div class="prov-offer">🎁 <span data-ar="عرض الإطلاق: التسجيل مجاني، وأول 50 عيادة تحصل على الظهور المميز مجاناً لمدة شهرين" data-en="Launch offer: registration is free, and the first 50 clinics get featured placement free for 2 months">عرض الإطلاق: التسجيل مجاني، وأول 50 عيادة تحصل على الظهور المميز مجاناً لمدة شهرين</span></div>
-        <div class="prov-ctas">
-          <a class="prov-wa" href="https://wa.me/447440487115?text=%D9%85%D8%B1%D8%AD%D8%A8%D8%A7%D9%8B%D8%8C%20%D8%A3%D8%B1%D8%BA%D8%A8%20%D8%A8%D8%AA%D8%B3%D8%AC%D9%8A%D9%84%20%D8%B9%D9%8A%D8%A7%D8%AF%D8%AA%D9%8A%20%D9%81%D9%8A%20%D9%85%D9%86%D8%B5%D8%A9%20%D8%B5%D8%AD%D8%AA%D9%83" target="_blank" rel="noopener">
-            <svg width="22" height="22" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.297-.347.446-.52.149-.174.198-.298.297-.497.1-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
-            <span data-ar="سجّل عبر واتساب" data-en="Register via WhatsApp">سجّل عبر واتساب</span>
+        <p class="h-eyebrow" data-ar="تطبيق صحي مجاني بالعربية والإنجليزية" data-en="A free health app in Arabic and English">تطبيق صحي مجاني بالعربية والإنجليزية</p>
+        <h1 id="hero-title">
+          <span data-ar="دواؤك في وقته." data-en="Your medicine on time.">دواؤك في وقته.</span>
+          <span data-ar="تحاليلك مفهومة." data-en="Your lab results explained.">تحاليلك مفهومة.</span>
+          <span class="h-accent" data-ar="وسؤالك له جواب." data-en="Your questions answered.">وسؤالك له جواب.</span>
+        </h1>
+        <p class="h-lead" data-ar="صحتك يذكّرك بكل جرعة، ويشرح نتائج تحاليلك من صورة الورقة، ويجيب عن أسئلتك الصحية كتابةً أو بصوتك، ويجمع صحة عائلتك في مكان واحد. مجاناً، وبلا إعلانات." data-en="Sihtak reminds you of every dose, explains your lab results from a photo of the report, answers your health questions by text or voice, and keeps your family's health in one place. Free, with no ads.">صحتك يذكّرك بكل جرعة، ويشرح نتائج تحاليلك من صورة الورقة، ويجيب عن أسئلتك الصحية كتابةً أو بصوتك، ويجمع صحة عائلتك في مكان واحد. مجاناً، وبلا إعلانات.</p>
+        <div class="h-stores">
+          <a class="h-store" href="https://play.google.com/store/apps/details?id=com.sihhati.app" target="_blank" rel="noopener">
+            <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M3.6 1.8c-.3.3-.4.7-.4 1.2v18c0 .5.1.9.4 1.2l10-10.2L3.6 1.8zm11.4 11.6 2.8 2.8-11.9 6.8 9.1-9.6zm0-2.8L6 1l11.9 6.8-2.9 2.8zm6.3 1.4c.6.4.6 1.6 0 2l-2.8 1.6-3-3 3-3 2.8 2.4z"/></svg>
+            <span data-ar="Google Play" data-en="Google Play">Google Play</span>
           </a>
-          <a class="prov-portal" href="https://portal.sihtak.com" target="_blank" rel="noopener">
-            <span data-ar="التسجيل الذاتي من المتصفح ←" data-en="Self-register in the browser →">التسجيل الذاتي من المتصفح ←</span>
+          <a class="h-store h-store--ghost" href="https://apps.apple.com/app/id6764330989" target="_blank" rel="noopener">
+            <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M16.4 12.6c0-2.4 2-3.6 2.1-3.7-1.1-1.7-2.9-1.9-3.5-1.9-1.5-.2-2.9.9-3.7.9-.8 0-1.9-.8-3.2-.8-1.6 0-3.1 1-4 2.4-1.7 3-.4 7.4 1.2 9.8.8 1.2 1.8 2.5 3 2.4 1.2 0 1.7-.8 3.1-.8 1.5 0 1.9.8 3.2.8 1.3 0 2.2-1.2 3-2.4.9-1.4 1.3-2.7 1.3-2.8 0 0-2.5-1-2.5-3.9zM14 5.4c.7-.8 1.1-1.9 1-3-1 0-2.1.6-2.8 1.4-.6.7-1.2 1.8-1 2.9 1.1.1 2.1-.5 2.8-1.3z"/></svg>
+            <span data-ar="App Store" data-en="App Store">App Store</span>
           </a>
         </div>
-        <p class="prov-note" data-ar="راسلنا على واتساب ونجهّز ملف عيادتك خلال 24 ساعة، أو سجّل بنفسك خلال 5 دقائق." data-en="Message us on WhatsApp and we set up your clinic profile within 24 hours, or self-register in 5 minutes.">راسلنا على واتساب ونجهّز ملف عيادتك خلال 24 ساعة، أو سجّل بنفسك خلال 5 دقائق.</p>
+        <ul class="h-facts">
+          <li data-ar="أكثر من 1,000 مستخدم" data-en="1,000+ users">أكثر من 1,000 مستخدم</li>
+          <li data-ar="مجاني بالكامل" data-en="Completely free">مجاني بالكامل</li>
+          <li data-ar="بلا إعلانات" data-en="No ads">بلا إعلانات</li>
+        </ul>
       </div>
-      <div class="prov-visual">
-        <a href="https://wa.me/447440487115?text=%D9%85%D8%B1%D8%AD%D8%A8%D8%A7%D9%8B%D8%8C%20%D8%A3%D8%B1%D8%BA%D8%A8%20%D8%A8%D8%AA%D8%B3%D8%AC%D9%8A%D9%84%20%D8%B9%D9%8A%D8%A7%D8%AF%D8%AA%D9%8A%20%D9%81%D9%8A%20%D9%85%D9%86%D8%B5%D8%A9%20%D8%B5%D8%AD%D8%AA%D9%83" target="_blank" rel="noopener" aria-label="سجّل عيادتك عبر واتساب">
-          <img src="/images/provider-ad.jpg" alt="عيادتك أقرب لمرضاك — انضم إلى صحتك مجاناً" width="1122" height="1402" loading="lazy" style="max-width:380px;height:auto;">
-        </a>
-      </div>
-    </div>
-  </section>
-  <a class="wa-float" href="https://wa.me/447440487115?text=%D9%85%D8%B1%D8%AD%D8%A8%D8%A7%D9%8B%D8%8C%20%D8%A3%D8%B1%D8%BA%D8%A8%20%D8%A8%D8%AA%D8%B3%D8%AC%D9%8A%D9%84%20%D8%B9%D9%8A%D8%A7%D8%AF%D8%AA%D9%8A%20%D9%81%D9%8A%20%D9%85%D9%86%D8%B5%D8%A9%20%D8%B5%D8%AD%D8%AA%D9%83" target="_blank" rel="noopener" aria-label="WhatsApp">
-    <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.297-.347.446-.52.149-.174.198-.298.297-.497.1-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
-    <span data-ar="سجّل عيادتك" data-en="Register your clinic">سجّل عيادتك</span>
-  </a>
 
-  <!-- Stats Bar -->
-  <section class="stats" aria-label="Key statistics">
-    <div class="stats-inner">
-      <div class="stat-card reveal">
-        <div class="stat-icon stat-icon--teal">
-          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="2" y="3" width="20" height="14" rx="2"/><line x1="8" y1="21" x2="16" y2="21"/><line x1="12" y1="17" x2="12" y2="21"/></svg>
+      <div class="h-phone" role="img" aria-label="Sihtak home screen: a dose reminder, a lab result explained, and the health assistant">
+        <div class="h-phone-top"><span>9:41</span><span data-ar="صحتك" data-en="Sihtak">صحتك</span></div>
+        <div class="h-phone-hello" data-ar="صباح الخير، سلمى" data-en="Good morning, Salma">صباح الخير، سلمى</div>
+        <div class="h-card">
+          <div class="h-card-row">
+            <span class="h-ic h-ic--teal"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="13" r="8"/><path d="M12 9v4l2 2"/><path d="M5 3 2 6M22 6l-3-3"/></svg></span>
+            <div>
+              <div class="h-card-t" data-ar="أملوديبين 5 ملغ" data-en="Amlodipine 5 mg">أملوديبين 5 ملغ</div>
+              <div class="h-card-s" data-ar="الآن · حبة واحدة بعد الفطور" data-en="Now · one tablet after breakfast">الآن · حبة واحدة بعد الفطور</div>
+            </div>
+            <span class="h-pill" data-ar="أخذتها" data-en="Taken">أخذتها</span>
+          </div>
         </div>
-        <div class="stat-text">
-          <span class="stat-value" data-ar="١٢+" data-en="12+">١٢+</span>
-          <span class="stat-label" data-ar="أداة صحية" data-en="Health tools">أداة صحية</span>
+        <div class="h-card">
+          <div class="h-card-row">
+            <span class="h-ic h-ic--blue"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 2v6L4 18a2 2 0 0 0 2 3h12a2 2 0 0 0 2-3L15 8V2"/><path d="M8 2h8M7 14h10"/></svg></span>
+            <div>
+              <div class="h-card-s" data-ar="السكر التراكمي HbA1c" data-en="HbA1c">السكر التراكمي HbA1c</div>
+              <div class="h-value">6.1%</div>
+            </div>
+            <span class="h-pill h-pill--soft" data-ar="تحسّن" data-en="Improved">تحسّن</span>
+          </div>
+          <span class="h-why" data-ar="ماذا تعني هذه النتيجة؟" data-en="What does this result mean?">ماذا تعني هذه النتيجة؟</span>
         </div>
-      </div>
-      <div class="stat-card reveal reveal-delay-1">
-        <div class="stat-icon stat-icon--purple">
-          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 2a3 3 0 0 0-3 3v7a3 3 0 0 0 6 0V5a3 3 0 0 0-3-3z"/><path d="M19 10v2a7 7 0 0 1-14 0v-2"/><line x1="12" y1="19" x2="12" y2="23"/></svg>
-        </div>
-        <div class="stat-text">
-          <span class="stat-value" data-ar="ذكاء + صوت" data-en="AI + Voice">ذكاء + صوت</span>
-          <span class="stat-label" data-ar="محادثات ذكية" data-en="Smart Chats">محادثات ذكية</span>
-        </div>
-      </div>
-      <div class="stat-card reveal reveal-delay-2">
-        <div class="stat-icon stat-icon--blue">
-          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><line x1="2" y1="12" x2="22" y2="12"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></svg>
-        </div>
-        <div class="stat-text">
-          <span class="stat-value" data-ar="عربي + EN" data-en="AR + EN">عربي + EN</span>
-          <span class="stat-label" data-ar="ثنائي اللغة" data-en="Bilingual">ثنائي اللغة</span>
-        </div>
-      </div>
-      <div class="stat-card reveal reveal-delay-3">
-        <div class="stat-icon stat-icon--amber">
-          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
-        </div>
-        <div class="stat-text">
-          <span class="stat-value" data-ar="مشفّر" data-en="Encrypted">مشفّر</span>
-          <span class="stat-label" data-ar="خصوصية أولاً" data-en="Privacy First">خصوصية أولاً</span>
-        </div>
-      </div>
-      <div class="stat-card reveal reveal-delay-4">
-        <div class="stat-icon stat-icon--rose">
-          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87M16 3.13a4 4 0 0 1 0 7.75"/></svg>
-        </div>
-        <div class="stat-text">
-          <span class="stat-value" data-ar="عائلة" data-en="Family">عائلة</span>
-          <span class="stat-label" data-ar="إدارة شاملة" data-en="Full Management">إدارة شاملة</span>
+        <div class="h-card">
+          <div class="h-bubble" data-ar="نتيجتك أقل من المرة السابقة، لكنها ما زالت فوق 5.7%. استمري على خطتك وراجعي طبيبك بالنتيجة." data-en="Your result is lower than last time but still above 5.7%. Keep to your plan and take the result to your doctor.">نتيجتك أقل من المرة السابقة، لكنها ما زالت فوق 5.7%. استمري على خطتك وراجعي طبيبك بالنتيجة.</div>
         </div>
       </div>
     </div>
   </section>
 
-  <!-- Brand band: your health, understood -->
-  <style>
-    .brand-band{padding:84px 24px;background:linear-gradient(135deg,#fff6ee 0%,#eef6f4 100%);border-top:1px solid rgba(0,0,0,.05);border-bottom:1px solid rgba(0,0,0,.05);}
-    .brand-inner{max-width:1140px;margin:0 auto;display:grid;grid-template-columns:1.05fr .95fr;gap:44px;align-items:center;}
-    .brand-eyebrow{font-family:'Inter','Tajawal',sans-serif;font-size:12.5px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:#3a9d92;margin:0 0 14px;}
-    .brand-band h2{font-size:clamp(26px,3.7vw,40px);line-height:1.28;color:#12233a;margin:0 0 16px;font-weight:800;}
-    .brand-lead{font-size:16px;line-height:1.9;color:#48566b;margin:0 0 26px;max-width:540px;}
-    .brand-ctas{display:flex;gap:12px;flex-wrap:wrap;}
-    .brand-ctas a{display:inline-flex;align-items:center;gap:6px;padding:12px 22px;border-radius:999px;font-weight:700;font-size:15px;text-decoration:none;border:1px solid rgba(18,35,58,.16);color:#12233a;background:rgba(255,255,255,.6);transition:transform .2s,border-color .2s,box-shadow .2s;}
-    .brand-ctas a:hover{transform:translateY(-2px);border-color:#3a9d92;box-shadow:0 12px 26px -14px rgba(58,157,146,.5);}
-    .brand-visual img{width:100%;height:auto;border-radius:26px;display:block;box-shadow:0 30px 60px -30px rgba(20,40,70,.35);}
-    @media (max-width:820px){.brand-inner{grid-template-columns:1fr;gap:26px;}.brand-visual{order:-1;}}
-  </style>
-  <section class="brand-band" aria-labelledby="brand-title">
-    <div class="brand-inner">
-      <div class="brand-copy">
-        <p class="brand-eyebrow" data-ar="رفيقك الصحي" data-en="Your health companion">رفيقك الصحي</p>
-        <h2 id="brand-title" data-ar="كل ما يخص صحتك، في مكان واحد تفهمه." data-en="Everything about your health, in one place you understand.">كل ما يخص صحتك، في مكان واحد تفهمه.</h2>
-        <p class="brand-lead" data-ar="صحتك ليست مجرد تطبيق. إنها رفيق يفهم جسدك، يبسّط تحاليلك، ويجيب أسئلتك بلغتك، مع مكتبة صحية وأدوات مجانية تساعدك كل يوم." data-en="Sihtak is not just an app. It is a companion that understands your body, simplifies your labs, and answers your questions in your language, with a health library and free tools that help you every day.">صحتك ليست مجرد تطبيق. إنها رفيق يفهم جسدك، يبسّط تحاليلك، ويجيب أسئلتك بلغتك، مع مكتبة صحية وأدوات مجانية تساعدك كل يوم.</p>
-        <div class="brand-ctas">
-          <a href="/articles/" data-href-ar="/articles/" data-href-en="/en/articles/" data-ar="اكتشف المكتبة الصحية" data-en="Explore the health library">اكتشف المكتبة الصحية</a>
-          <a href="/tools/" data-href-ar="/tools/" data-href-en="/en/tools/" data-ar="جرّب الأدوات المجانية" data-en="Try the free tools">جرّب الأدوات المجانية</a>
-        </div>
+  <!-- A day with Sihtak -->
+  <section class="h-sec h-sec--alt" id="how-it-works" aria-labelledby="day-title">
+    <div class="h-wrap">
+      <div class="h-head">
+        <p class="h-eyebrow" data-ar="يوم مع صحتك" data-en="A day with Sihtak">يوم مع صحتك</p>
+        <h2 class="h-h2" id="day-title" data-ar="يعمل في خلفية يومك، ويظهر حين تحتاجه." data-en="It works in the background of your day and shows up when you need it.">يعمل في خلفية يومك، ويظهر حين تحتاجه.</h2>
       </div>
-      <div class="brand-visual">
-        <img src="/images/health-aura.jpg" alt="" width="1400" height="781" loading="lazy" aria-hidden="true">
+      <div class="h-day">
+        <article class="h-moment">
+          <div class="h-time">08:00</div>
+          <h3 data-ar="تذكير في وقت الجرعة" data-en="A reminder at dose time">تذكير في وقت الجرعة</h3>
+          <p data-ar="تنبيه باسم الدواء والجرعة، وتسجيل الأخذ بلمسة واحدة." data-en="A notification with the medicine and the dose, logged with one tap.">تنبيه باسم الدواء والجرعة، وتسجيل الأخذ بلمسة واحدة.</p>
+          <div class="h-card"><div class="h-card-row"><span class="h-ic h-ic--teal"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="m10.5 20.5 10-10a4.95 4.95 0 1 0-7-7l-10 10a4.95 4.95 0 1 0 7 7Z"/><path d="m8.5 8.5 7 7"/></svg></span><div class="h-card-t" data-ar="ميتفورمين 500 ملغ" data-en="Metformin 500 mg">ميتفورمين 500 ملغ</div></div></div>
+        </article>
+        <article class="h-moment">
+          <div class="h-time">13:10</div>
+          <h3 data-ar="صورة لورقة التحليل" data-en="A photo of the lab report">صورة لورقة التحليل</h3>
+          <p data-ar="يقرأ صحتك القيم، ويضعها بجانب المعدل الطبيعي، ويشرح كل واحدة." data-en="Sihtak reads each value, places it next to the normal range, and explains it.">يقرأ صحتك القيم، ويضعها بجانب المعدل الطبيعي، ويشرح كل واحدة.</p>
+          <div class="h-card"><div class="h-card-row"><span class="h-ic h-ic--blue"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M23 19a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h4l2-3h6l2 3h4a2 2 0 0 1 2 2z"/><circle cx="12" cy="13" r="4"/></svg></span><div class="h-card-t" data-ar="فيتامين د: 18 ng/mL" data-en="Vitamin D: 18 ng/mL">فيتامين د: 18 ng/mL</div></div></div>
+        </article>
+        <article class="h-moment">
+          <div class="h-time">17:45</div>
+          <h3 data-ar="سؤال قبل أن تأخذ مسكّناً" data-en="A question before a painkiller">سؤال قبل أن تأخذ مسكّناً</h3>
+          <p data-ar="يجيبك المساعد بالعربية، ويعرف أدويتك المسجلة إن سمحت له." data-en="The assistant answers in Arabic or English and knows your listed medicines if you allow it.">يجيبك المساعد بالعربية، ويعرف أدويتك المسجلة إن سمحت له.</p>
+          <div class="h-card"><div class="h-bubble" data-ar="بعض مسكنات الالتهاب قد ترفع الضغط. اسأل الصيدلي قبل أخذها بانتظام." data-en="Some anti-inflammatory painkillers can raise blood pressure. Ask your pharmacist before taking them regularly.">بعض مسكنات الالتهاب قد ترفع الضغط. اسأل الصيدلي قبل أخذها بانتظام.</div></div>
+        </article>
+        <article class="h-moment">
+          <div class="h-time">21:30</div>
+          <h3 data-ar="جرعة والدتك المسائية" data-en="Your mother's evening dose">جرعة والدتك المسائية</h3>
+          <p data-ar="تابع أدوية والديك وأطفالك وتحاليلهم ومواعيدهم من حسابك." data-en="Follow your parents' and children's medicines, results and visits from your account.">تابع أدوية والديك وأطفالك وتحاليلهم ومواعيدهم من حسابك.</p>
+          <div class="h-card"><div class="h-card-row"><span class="h-ic h-ic--rose"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87M16 3.13a4 4 0 0 1 0 7.75"/></svg></span><div class="h-card-t" data-ar="أمي · تم أخذ جرعة المساء" data-en="Mum · evening dose taken">أمي · تم أخذ جرعة المساء</div></div></div>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <!-- Measured against your own numbers -->
+  <section class="h-sec" aria-labelledby="trend-title">
+    <div class="h-wrap h-trend">
+      <div>
+        <p class="h-eyebrow" data-ar="نتائجك مقارنةً بنتائجك" data-en="Your results against your results">نتائجك مقارنةً بنتائجك</p>
+        <h2 class="h-h2" id="trend-title" data-ar="رقم واحد لا يكفي. المهم اتجاهه." data-en="One number is not enough. What matters is where it is heading.">رقم واحد لا يكفي. المهم اتجاهه.</h2>
+        <p class="h-lead" data-ar="كل تحليل تصوّره يُحفظ في ملفك، فترى كيف تتغير قيمك من فحص إلى آخر، وتصل إلى موعد الطبيب ومعك الصورة كاملة." data-en="Every report you photograph is saved to your record, so you see how your values move from one test to the next and arrive at your doctor's appointment with the whole picture.">كل تحليل تصوّره يُحفظ في ملفك، فترى كيف تتغير قيمك من فحص إلى آخر، وتصل إلى موعد الطبيب ومعك الصورة كاملة.</p>
+        <ul class="h-points">
+          <li data-ar="القيمة ومعدلها الطبيعي وشرحها في بطاقة واحدة" data-en="The value, its normal range and what it means, on one card">القيمة ومعدلها الطبيعي وشرحها في بطاقة واحدة</li>
+          <li data-ar="رسم لتغيّر كل قيمة عبر الزمن" data-en="A chart of how each value changes over time">رسم لتغيّر كل قيمة عبر الزمن</li>
+          <li data-ar="ملخص صحي بصيغة PDF تشاركه مع طبيبك" data-en="A PDF health summary you can share with your doctor">ملخص صحي بصيغة PDF تشاركه مع طبيبك</li>
+        </ul>
+      </div>
+      <figure class="h-chart" style="margin:0;">
+        <div class="h-chart-head">
+          <div>
+            <div class="h-card-s" data-ar="السكر التراكمي HbA1c" data-en="HbA1c">السكر التراكمي HbA1c</div>
+            <div class="h-value"><span dir="ltr">6.9% → 6.1%</span></div>
+          </div>
+          <span class="h-pill h-pill--soft" data-ar="مثال توضيحي" data-en="Illustration">مثال توضيحي</span>
+        </div>
+        <svg viewBox="0 0 400 200" role="img" direction="ltr" aria-label="HbA1c falling from 6.9 to 6.5 to 6.1 percent across three tests">
+          <rect x="0" y="136" width="400" height="64" fill="var(--teal-dim)"/>
+          <rect x="0" y="73" width="400" height="63" fill="var(--amber-dim)"/>
+          <line x1="0" y1="136" x2="400" y2="136" stroke="var(--border-h)" stroke-dasharray="4 4"/>
+          <line x1="0" y1="73" x2="400" y2="73" stroke="var(--border-h)" stroke-dasharray="4 4"/>
+          <polyline points="60,27 200,64 340,100" fill="none" stroke="var(--teal)" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+          <circle cx="60" cy="27" r="6" fill="var(--bg)" stroke="var(--teal)" stroke-width="3"/>
+          <circle cx="200" cy="64" r="6" fill="var(--bg)" stroke="var(--teal)" stroke-width="3"/>
+          <circle cx="340" cy="100" r="7" fill="var(--teal)"/>
+          <text x="60" y="16" text-anchor="middle" font-size="14" font-weight="700" fill="var(--text)" font-family="Inter, sans-serif">6.9</text>
+          <text x="200" y="50" text-anchor="middle" font-size="14" font-weight="700" fill="var(--text)" font-family="Inter, sans-serif">6.5</text>
+          <text x="340" y="86" text-anchor="middle" font-size="14" font-weight="700" fill="var(--text)" font-family="Inter, sans-serif">6.1</text>
+        </svg>
+        <div class="h-legend">
+          <span><i style="background:var(--teal-dim);border:1px solid var(--teal)"></i><b data-ar="طبيعي: أقل من 5.7%" data-en="Normal: below 5.7%">طبيعي: أقل من 5.7%</b></span>
+          <span><i style="background:var(--amber-dim);border:1px solid var(--amber)"></i><b data-ar="مرحلة ما قبل السكري: 5.7% إلى 6.4%" data-en="Prediabetes range: 5.7% to 6.4%">مرحلة ما قبل السكري: 5.7% إلى 6.4%</b></span>
+        </div>
+        <figcaption class="h-chart-note" data-ar="ثلاثة تحاليل خلال تسعة أشهر. صحتك يشرح الاتجاه، والتشخيص والعلاج لطبيبك." data-en="Three tests over nine months. Sihtak explains the trend; diagnosis and treatment stay with your doctor.">ثلاثة تحاليل خلال تسعة أشهر. صحتك يشرح الاتجاه، والتشخيص والعلاج لطبيبك.</figcaption>
+      </figure>
+    </div>
+  </section>
+
+  <!-- Features -->
+  <section class="h-sec h-sec--alt" id="features" aria-labelledby="feat-title">
+    <div class="h-wrap">
+      <div class="h-head h-head--c">
+        <p class="h-eyebrow" data-ar="ما يقدمه التطبيق" data-en="What the app does">ما يقدمه التطبيق</p>
+        <h2 class="h-h2" id="feat-title" data-ar="أربعة أشياء، يتقنها صحتك" data-en="Four things Sihtak does well">أربعة أشياء، يتقنها صحتك</h2>
+      </div>
+      <div class="h-feats">
+        <article class="h-feat">
+          <span class="h-ic h-ic--teal"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="13" r="8"/><path d="M12 9v4l2 2"/><path d="M5 3 2 6M22 6l-3-3"/></svg></span>
+          <h3 data-ar="تذكير الدواء" data-en="Medicine reminders">تذكير الدواء</h3>
+          <p data-ar="منبه لكل دواء في موعده، مهما تعددت الأدوية واختلفت أوقاتها." data-en="An alarm for every medicine at its time, however many medicines and schedules you have.">منبه لكل دواء في موعده، مهما تعددت الأدوية واختلفت أوقاتها.</p>
+          <ul>
+            <li data-ar="سجل للجرعات المأخوذة والفائتة" data-en="A log of doses taken and missed">سجل للجرعات المأخوذة والفائتة</li>
+            <li data-ar="تنبيه عند اقتراب نفاد الدواء" data-en="An alert when a medicine is running low">تنبيه عند اقتراب نفاد الدواء</li>
+          </ul>
+          <a class="h-more" href="/articles/c/medicines/" data-href-ar="/articles/c/medicines/" data-href-en="/en/articles/c/medicines/" data-ar="مقالات عن الأدوية" data-en="Articles on medicines">مقالات عن الأدوية</a>
+        </article>
+        <article class="h-feat">
+          <span class="h-ic h-ic--blue"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 2v6L4 18a2 2 0 0 0 2 3h12a2 2 0 0 0 2-3L15 8V2"/><path d="M8 2h8M7 14h10"/></svg></span>
+          <h3 data-ar="شرح نتائج التحاليل" data-en="Lab results explained">شرح نتائج التحاليل</h3>
+          <p data-ar="صوّر ورقة التحليل، واحصل على كل قيمة مرتبة مع معدلها الطبيعي وشرح بلغة واضحة." data-en="Photograph the report and get every value laid out with its normal range and a plain explanation.">صوّر ورقة التحليل، واحصل على كل قيمة مرتبة مع معدلها الطبيعي وشرح بلغة واضحة.</p>
+          <ul>
+            <li data-ar="السكر التراكمي والكوليسترول والغدة وفيتامين د وغيرها" data-en="HbA1c, cholesterol, thyroid, vitamin D and more">السكر التراكمي والكوليسترول والغدة وفيتامين د وغيرها</li>
+            <li data-ar="مقارنة تلقائية مع تحاليلك السابقة" data-en="Automatic comparison with your earlier results">مقارنة تلقائية مع تحاليلك السابقة</li>
+          </ul>
+          <a class="h-more" href="/articles/c/lab-tests/" data-href-ar="/articles/c/lab-tests/" data-href-en="/en/articles/c/lab-tests/" data-ar="دليل التحاليل الطبية" data-en="Guide to lab tests">دليل التحاليل الطبية</a>
+        </article>
+        <article class="h-feat">
+          <span class="h-ic h-ic--amber"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg></span>
+          <h3 data-ar="مساعد صحي بالعربية" data-en="A health assistant in Arabic">مساعد صحي بالعربية</h3>
+          <p data-ar="اسأل عن عرض أو دواء أو نتيجة، كتابةً أو بصوتك، واحصل على إجابة واضحة ومتحفظة." data-en="Ask about a symptom, a medicine or a result, by text or voice, and get a clear, careful answer.">اسأل عن عرض أو دواء أو نتيجة، كتابةً أو بصوتك، واحصل على إجابة واضحة ومتحفظة.</p>
+          <ul>
+            <li data-ar="إرشاد للأعراض يساعدك على تقرير متى تراجع الطبيب" data-en="Symptom guidance that helps you decide when to see a doctor">إرشاد للأعراض يساعدك على تقرير متى تراجع الطبيب</li>
+            <li data-ar="يشرح ولا يشخّص، ويحيلك إلى الطبيب عند الحاجة" data-en="It explains, it does not diagnose, and refers you to a doctor when needed">يشرح ولا يشخّص، ويحيلك إلى الطبيب عند الحاجة</li>
+          </ul>
+          <a class="h-more" href="/articles/c/chronic-conditions/" data-href-ar="/articles/c/chronic-conditions/" data-href-en="/en/articles/c/chronic-conditions/" data-ar="مقالات عن الأمراض المزمنة" data-en="Articles on chronic conditions">مقالات عن الأمراض المزمنة</a>
+        </article>
+        <article class="h-feat">
+          <span class="h-ic h-ic--rose"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87M16 3.13a4 4 0 0 1 0 7.75"/></svg></span>
+          <h3 data-ar="صحة عائلتك" data-en="Your family's health">صحة عائلتك</h3>
+          <p data-ar="أضف والديك وأطفالك، وتابع أدويتهم وتحاليلهم ومواعيدهم من حساب واحد." data-en="Add your parents and children and follow their medicines, results and visits from one account.">أضف والديك وأطفالك، وتابع أدويتهم وتحاليلهم ومواعيدهم من حساب واحد.</p>
+          <ul>
+            <li data-ar="ملف صحي لكل فرد" data-en="A health record for each person">ملف صحي لكل فرد</li>
+            <li data-ar="الضغط والسكر والوزن في سجل واحد" data-en="Blood pressure, glucose and weight in one log">الضغط والسكر والوزن في سجل واحد</li>
+          </ul>
+          <a class="h-more" href="/articles/c/child-health/" data-href-ar="/articles/c/child-health/" data-href-en="/en/articles/c/child-health/" data-ar="مقالات عن صحة الطفل" data-en="Articles on child health">مقالات عن صحة الطفل</a>
+        </article>
+      </div>
+      <div class="h-also">
+        <span data-ar="سجل العلامات الحيوية" data-en="Vitals log">سجل العلامات الحيوية</span>
+        <span data-ar="التغذية والنشاط والنوم" data-en="Nutrition, activity and sleep">التغذية والنشاط والنوم</span>
+        <span data-ar="متابعة الدورة الشهرية" data-en="Cycle tracking">متابعة الدورة الشهرية</span>
+        <span data-ar="ملخص صحي PDF" data-en="Health summary PDF">ملخص صحي PDF</span>
+        <span data-ar="حجز العيادات حيث يتوفر" data-en="Clinic booking where available">حجز العيادات حيث يتوفر</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- Privacy -->
+  <section class="h-sec" id="privacy" aria-labelledby="priv-title">
+    <div class="h-wrap h-priv">
+      <div>
+        <p class="h-eyebrow" data-ar="الخصوصية" data-en="Privacy">الخصوصية</p>
+        <h2 class="h-h2" id="priv-title" data-ar="صحتك تخصك وحدك." data-en="Your health is yours alone.">صحتك تخصك وحدك.</h2>
+        <p class="h-lead" data-ar="بنينا صحتك لعائلات تثق به بأدق تفاصيلها. لذلك تبقى القواعد بسيطة وواضحة." data-en="Sihtak is built for families who trust it with their most private details, so the rules stay simple and clear.">بنينا صحتك لعائلات تثق به بأدق تفاصيلها. لذلك تبقى القواعد بسيطة وواضحة.</p>
+      </div>
+      <div class="h-priv-list">
+        <div class="h-priv-item">
+          <span class="h-ic h-ic--teal"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg></span>
+          <h3 data-ar="بلا إعلانات وبلا بيع للبيانات" data-en="No ads, no data selling">بلا إعلانات وبلا بيع للبيانات</h3>
+          <p data-ar="لا تظهر إعلانات في التطبيق، ولا نبيع بياناتك لأي جهة." data-en="There are no ads in the app, and we never sell your data to anyone.">لا تظهر إعلانات في التطبيق، ولا نبيع بياناتك لأي جهة.</p>
+        </div>
+        <div class="h-priv-item">
+          <span class="h-ic h-ic--teal"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="11" width="18" height="11" rx="2"/><path d="M7 11V7a5 5 0 0 1 10 0v4"/></svg></span>
+          <h3 data-ar="قفل بالبصمة أو الوجه" data-en="Fingerprint or face lock">قفل بالبصمة أو الوجه</h3>
+          <p data-ar="تنتقل بياناتك مشفرة، ويمكنك قفل التطبيق بالبصمة أو بالوجه." data-en="Your data travels encrypted, and you can lock the app with your fingerprint or face.">تنتقل بياناتك مشفرة، ويمكنك قفل التطبيق بالبصمة أو بالوجه.</p>
+        </div>
+        <div class="h-priv-item">
+          <span class="h-ic h-ic--teal"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 6h18M8 6V4h8v2M19 6l-1 14H6L5 6"/></svg></span>
+          <h3 data-ar="احذف حسابك متى شئت" data-en="Delete your account any time">احذف حسابك متى شئت</h3>
+          <p data-ar="من الإعدادات أو من صفحة حذف الحساب، فتُحذف بياناتك معه." data-en="From Settings or the account deletion page, and your data goes with it.">من الإعدادات أو من صفحة حذف الحساب، فتُحذف بياناتك معه.</p>
+        </div>
+        <div class="h-priv-item">
+          <span class="h-ic h-ic--teal"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="9"/><path d="M12 8v4l3 2"/></svg></span>
+          <h3 data-ar="الذكاء الاصطناعي حين تطلبه" data-en="AI only when you ask">الذكاء الاصطناعي حين تطلبه</h3>
+          <p data-ar="لا يطّلع المساعد على ملفك إلا بموافقتك، ويمكنك إيقاف ذلك من الإعدادات." data-en="The assistant reads your record only with your consent, and you can switch that off in Settings.">لا يطّلع المساعد على ملفك إلا بموافقتك، ويمكنك إيقاف ذلك من الإعدادات.</p>
+        </div>
       </div>
     </div>
   </section>
@@ -486,752 +606,110 @@
   </section>
   <!-- library-band:end -->
 
-  <!-- How it helps: illustrated + animated -->
-  <style>
-    .cbn-band{padding:82px 24px;background:linear-gradient(180deg,#fbf6f0 0%,#f1f7f5 100%);border-top:1px solid rgba(0,0,0,.04);border-bottom:1px solid rgba(0,0,0,.04);}
-    .cbn-inner{max-width:1140px;margin:0 auto;}
-    .cbn-head{text-align:center;max-width:640px;margin:0 auto 46px;}
-    .cbn-eyebrow{font-family:'Inter','Tajawal',sans-serif;font-size:12.5px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:#3a9d92;margin:0 0 12px;}
-    .cbn-head h2{font-size:clamp(26px,4vw,38px);color:#12233a;margin:0 0 12px;font-weight:800;}
-    .cbn-head p{color:#556579;font-size:16px;line-height:1.8;margin:0;}
-    .cbn-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:24px;}
-    .cbn-card{background:rgba(255,255,255,.62);border:1px solid rgba(18,35,58,.07);border-radius:22px;padding:22px 22px 26px;text-align:center;box-shadow:0 20px 46px -30px rgba(20,40,70,.25);}
-    .cbn-img{aspect-ratio:4/3;border-radius:16px;overflow:hidden;margin-bottom:18px;background:#fff;}
-    .cbn-img img{width:100%;height:100%;object-fit:cover;display:block;}
-    .cbn-card h3{color:#12233a;font-size:19px;margin:0 0 8px;font-weight:800;}
-    .cbn-card p{color:#556579;font-size:14.5px;line-height:1.75;margin:0;}
-    @keyframes sihtakFloat{0%,100%{transform:translateY(0)}50%{transform:translateY(-9px)}}
-    .cbn-img img{animation:sihtakFloat 5.5s ease-in-out infinite;}
-    .cbn-card:nth-child(2) .cbn-img img{animation-delay:.8s;}
-    .cbn-card:nth-child(3) .cbn-img img{animation-delay:1.6s;}
-    @media (prefers-reduced-motion:reduce){.cbn-img img{animation:none;}}
-    @media (max-width:820px){.cbn-grid{grid-template-columns:1fr;}}
-  </style>
-  <section class="cbn-band" aria-labelledby="cbn-title">
-    <div class="cbn-inner">
-      <div class="cbn-head">
-        <p class="cbn-eyebrow" data-ar="كيف يساعدك" data-en="How it helps">كيف يساعدك</p>
-        <h2 id="cbn-title" data-ar="صحتك، بلطفٍ وذكاء" data-en="Your health, with care and intelligence">صحتك، بلطفٍ وذكاء</h2>
-        <p data-ar="من فهم تحاليلك إلى الاطمئنان على عائلتك، صحتك معك في كل خطوة." data-en="From understanding your labs to checking on your family, Sihtak is with you every step.">من فهم تحاليلك إلى الاطمئنان على عائلتك، صحتك معك في كل خطوة.</p>
-      </div>
-      <div class="cbn-grid">
-        <div class="cbn-card">
-          <div class="cbn-img"><img src="/images/sihtak-ai.jpg" alt="" width="920" height="686" loading="lazy"></div>
-          <h3 data-ar="مساعد يتحدث معك" data-en="A companion that talks">مساعد يتحدث معك</h3>
-          <p data-ar="اسأل بصوتك أو نصك، بالعربي أو الإنجليزي، واحصل على إجابة تفهم حالتك." data-en="Ask by voice or text, in Arabic or English, and get an answer that understands you.">اسأل بصوتك أو نصك، بالعربي أو الإنجليزي، واحصل على إجابة تفهم حالتك.</p>
+  <!-- Clinics and labs -->
+  <section class="h-sec" id="providers" aria-labelledby="prov-title">
+    <div class="h-wrap">
+      <div class="h-pro">
+        <div>
+          <p class="h-eyebrow" data-ar="للعيادات والمختبرات" data-en="For clinics and labs">للعيادات والمختبرات</p>
+          <h2 id="prov-title" data-ar="حساب مهني مجاني لعيادتك أو مختبرك" data-en="A free professional account for your clinic or lab">حساب مهني مجاني لعيادتك أو مختبرك</h2>
+          <p data-ar="يحجز مراجعوك مواعيدهم من التطبيق، وتديرها أنت من الهاتف أو المتصفح. الدليل متاح في المدن التي انضمت فيها عيادات، ويتوسع تباعاً." data-en="Your patients book from the app and you manage it all from your phone or browser. The directory is live in cities where clinics have joined and grows as more do.">يحجز مراجعوك مواعيدهم من التطبيق، وتديرها أنت من الهاتف أو المتصفح. الدليل متاح في المدن التي انضمت فيها عيادات، ويتوسع تباعاً.</p>
+          <ul>
+            <li data-ar="جدول مواعيد لكل طبيب أو قسم" data-en="A booking calendar for each doctor or department">جدول مواعيد لكل طبيب أو قسم</li>
+            <li data-ar="سجلات المراجعين في مكان واحد" data-en="Patient records in one place">سجلات المراجعين في مكان واحد</li>
+            <li data-ar="التسجيل والاستخدام مجانيان" data-en="Free to register and free to use">التسجيل والاستخدام مجانيان</li>
+          </ul>
+          <div class="h-pro-ctas">
+            <a class="h-pro-cta h-pro-cta--line" href="https://portal.sihtak.com" target="_blank" rel="noopener" data-ar="سجّل من المتصفح" data-en="Register in the browser">سجّل من المتصفح</a>
+            <a class="h-pro-cta h-pro-cta--wa" href="https://wa.me/447440487115" target="_blank" rel="noopener" data-ar="تواصل عبر واتساب" data-en="Message us on WhatsApp">تواصل عبر واتساب</a>
+          </div>
         </div>
-        <div class="cbn-card">
-          <div class="cbn-img"><img src="/images/sihtak-labs.jpg" alt="" width="920" height="686" loading="lazy"></div>
-          <h3 data-ar="تحاليلك، مفهومة" data-en="Your labs, understood">تحاليلك، مفهومة</h3>
-          <p data-ar="صوّر تحليلك ودع صحتك تشرح كل قيمة بلغة بسيطة، وتنبّهك لما يحتاج انتباهك." data-en="Scan your report and let Sihtak explain every value in plain language, flagging what needs attention.">صوّر تحليلك ودع صحتك تشرح كل قيمة بلغة بسيطة، وتنبّهك لما يحتاج انتباهك.</p>
-        </div>
-        <div class="cbn-card">
-          <div class="cbn-img"><img src="/images/sihtak-family.jpg" alt="" width="920" height="686" loading="lazy"></div>
-          <h3 data-ar="عائلتك في قلبٍ واحد" data-en="Your family, together">عائلتك في قلبٍ واحد</h3>
-          <p data-ar="تابع أدوية والديك، وذكّر أطفالك، واطمئن على من تحب من مكان واحد." data-en="Track your parents' medications, remind your children, and care for loved ones from one place.">تابع أدوية والديك، وذكّر أطفالك، واطمئن على من تحب من مكان واحد.</p>
+        <div class="h-pro-card" aria-hidden="true">
+          <p class="h-pro-card-h" data-ar="مواعيد اليوم" data-en="Today's bookings">مواعيد اليوم</p>
+          <div class="h-card"><div class="h-card-row"><span class="h-ic h-ic--teal"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="18" rx="2"/><path d="M16 2v4M8 2v4M3 10h18"/></svg></span><div><div class="h-card-t" data-ar="10:30 · مراجعة" data-en="10:30 · Follow-up">10:30 · مراجعة</div><div class="h-card-s" data-ar="طب الأسرة" data-en="Family medicine">طب الأسرة</div></div></div></div>
+          <div class="h-card"><div class="h-card-row"><span class="h-ic h-ic--blue"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M9 2v6L4 18a2 2 0 0 0 2 3h12a2 2 0 0 0 2-3L15 8V2"/></svg></span><div><div class="h-card-t" data-ar="11:15 · سحب عينة" data-en="11:15 · Blood draw">11:15 · سحب عينة</div><div class="h-card-s" data-ar="المختبر" data-en="Laboratory">المختبر</div></div></div></div>
+          <div class="h-card" style="margin-bottom:0"><div class="h-card-row"><span class="h-ic h-ic--amber"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg></span><div><div class="h-card-t" data-ar="12:00 · موعد جديد" data-en="12:00 · New booking">12:00 · موعد جديد</div><div class="h-card-s" data-ar="أطفال" data-en="Paediatrics">أطفال</div></div></div></div>
         </div>
       </div>
     </div>
   </section>
 
-  <!-- Health library + tools preview -->
-  <style>
-    .explore-band{padding:78px 24px;}
-    .explore-inner{max-width:1140px;margin:0 auto;}
-    .explore-head{text-align:center;max-width:640px;margin:0 auto 42px;}
-    .explore-head .ex-eyebrow{font-family:'Inter','Tajawal',sans-serif;font-size:12.5px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--teal);margin:0 0 12px;}
-    .explore-head h2{font-size:clamp(26px,4vw,38px);color:var(--text);margin:0 0 12px;font-weight:800;}
-    .explore-head p{color:var(--text-m);font-size:16px;line-height:1.8;margin:0;}
-    .explore-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:18px;margin-bottom:36px;}
-    .ex-card{display:flex;flex-direction:column;gap:11px;background:var(--bg-card);border:1px solid var(--border);border-radius:16px;padding:22px;text-decoration:none;transition:transform .2s,border-color .2s,background .2s;}
-    .ex-card:hover{transform:translateY(-3px);border-color:var(--teal);background:var(--bg-card-h);}
-    .ex-tag{font-family:'Inter','Tajawal',sans-serif;font-size:11px;font-weight:700;letter-spacing:.04em;color:var(--teal);}
-    .ex-card h3{color:var(--text);font-size:16.5px;line-height:1.55;margin:0;font-weight:700;}
-    .ex-card .go{color:var(--teal);font-weight:700;font-size:13.5px;margin-top:auto;}
-    .explore-tools{display:grid;grid-template-columns:repeat(3,1fr);gap:14px;margin-bottom:32px;}
-    .tool-card{display:flex;align-items:center;gap:13px;background:var(--bg-card);border:1px solid var(--border);border-radius:14px;padding:16px 18px;text-decoration:none;transition:transform .2s,border-color .2s;}
-    .tool-card:hover{transform:translateY(-2px);border-color:var(--teal);}
-    .tool-card .tic{width:42px;height:42px;flex:none;display:flex;align-items:center;justify-content:center;border-radius:12px;background:rgba(87,168,162,.14);color:var(--teal);}
-    .tool-card .tic svg{width:22px;height:22px;}
-    .tool-card .tt{display:flex;flex-direction:column;}
-    .tool-card .tt b{color:var(--text);font-size:15px;}
-    .tool-card .tt span{color:var(--text-m);font-size:12.5px;}
-    .explore-all{display:inline-flex;color:var(--teal);font-weight:700;font-size:15px;text-decoration:none;}
-    @media (max-width:820px){.explore-grid,.explore-tools{grid-template-columns:1fr;}}
-  </style>
-  <section class="explore-band" aria-labelledby="explore-title">
-    <div class="explore-inner">
-      <div class="explore-head reveal">
-        <p class="ex-eyebrow" data-ar="أدوات مجانية" data-en="Free tools">أدوات مجانية</p>
-        <h2 id="explore-title" data-ar="احسب ما تحتاجه في ثوانٍ" data-en="Work out what you need in seconds">احسب ما تحتاجه في ثوانٍ</h2>
-        <p data-ar="حاسبات صحية تعمل داخل المتصفح مباشرة، بلا تسجيل وبلا تحميل. أدخل أرقامك واحصل على النتيجة فوراً." data-en="Health calculators that run right in your browser. No sign-up, no download. Put your numbers in and get the answer straight away.">حاسبات صحية تعمل داخل المتصفح مباشرة، بلا تسجيل وبلا تحميل. أدخل أرقامك واحصل على النتيجة فوراً.</p>
+  <!-- Free tools -->
+  <section class="h-sec h-sec--alt" aria-labelledby="tools-title">
+    <div class="h-wrap">
+      <div class="h-head h-head--c">
+        <p class="h-eyebrow" data-ar="بلا تحميل" data-en="No download needed">بلا تحميل</p>
+        <h2 class="h-h2" id="tools-title" data-ar="أدوات مجانية تعمل في متصفحك" data-en="Free tools that work in your browser">أدوات مجانية تعمل في متصفحك</h2>
       </div>
-      <div class="explore-tools">
-        <a class="tool-card reveal" href="/tools/bmi/" data-href-ar="/tools/bmi/" data-href-en="/en/tools/bmi/"><span class="tic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="5" r="2.5"/><path d="M6 22l2-9h8l2 9"/></svg></span><span class="tt"><b data-ar="حاسبة كتلة الجسم" data-en="BMI calculator">حاسبة كتلة الجسم</b><span data-ar="مؤشر BMI في ثوانٍ" data-en="Your BMI in seconds">مؤشر BMI في ثوانٍ</span></span></a>
-        <a class="tool-card reveal" href="/tools/a1c-converter/" data-href-ar="/tools/a1c-converter/" data-href-en="/en/tools/a1c-converter/"><span class="tic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2s6 7 6 12a6 6 0 01-12 0c0-5 6-12 6-12z"/></svg></span><span class="tt"><b data-ar="محوّل السكر التراكمي" data-en="A1c converter">محوّل السكر التراكمي</b><span data-ar="HbA1c إلى متوسط السكر" data-en="HbA1c to average glucose">HbA1c إلى متوسط السكر</span></span></a>
-        <a class="tool-card reveal" href="/tools/lab-unit-converter/" data-href-ar="/tools/lab-unit-converter/" data-href-en="/en/tools/lab-unit-converter/"><span class="tic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 7h13l-3-3M20 17H7l3 3"/></svg></span><span class="tt"><b data-ar="محوّل وحدات التحاليل" data-en="Lab unit converter">محوّل وحدات التحاليل</b><span data-ar="بين الوحدات المختلفة" data-en="Between common units">بين الوحدات المختلفة</span></span></a>
-      </div>
-      <div style="text-align:center;"><a class="explore-all" href="/tools/" data-ar="كل الأدوات ←" data-en="All tools →" data-href-ar="/tools/" data-href-en="/en/tools/">كل الأدوات ←</a></div>
-    </div>
-  </section>
-
-  <!-- Feature 1: AI Health Assistant -->
-  <section class="feature feature--accent-teal" id="features" aria-labelledby="feat-ai">
-    <div class="light-orb light-orb--md light-orb--teal" style="top:-20%;right:10%;" aria-hidden="true"></div>
-    <div class="light-orb light-orb--sm light-orb--blue light-orb--delay-1" style="bottom:0;left:5%;" aria-hidden="true"></div>
-    <img src="/images/brain.svg" alt="" class="floater floater--top-right" width="140" height="140" aria-hidden="true">
-    <img src="/images/molecule.svg" alt="" class="floater floater--bottom-left" width="120" height="120" aria-hidden="true">
-    <div class="feature-inner">
-      <div class="feature-content reveal">
-        <div class="feature-tag feature-tag--teal" data-ar="مساعد ذكي" data-en="AI ASSISTANT">مساعد ذكي</div>
-        <h2 class="feature-title" id="feat-ai" data-ar="مساعد صحي يقرأ ملفك قبل كل إجابة" data-en="A health assistant that reads your record before it answers">مساعد صحي يقرأ ملفك قبل كل إجابة</h2>
-        <p class="feature-desc" data-ar="مساعد صحي مدعوم بتقنية Claude AI يفهم تاريخك الطبي بالكامل: أدويتك، تحاليلك، أعراضك، علاماتك الحيوية، وتغذيتك. اسأله أي سؤال صحي واحصل على إجابات مخصصة لحالتك، بالعربي أو الإنجليزي." data-en="An AI health assistant powered by Claude AI that understands your complete medical history: medications, lab results, symptoms, vitals, and nutrition. Ask any health question and get personalized answers, in Arabic or English.">مساعد صحي مدعوم بتقنية Claude AI يفهم تاريخك الطبي بالكامل: أدويتك، تحاليلك، أعراضك، علاماتك الحيوية، وتغذيتك. اسأله أي سؤال صحي واحصل على إجابات مخصصة لحالتك، بالعربي أو الإنجليزي.</p>
-        <ul class="feature-list">
-          <li><svg class="feature-list-icon feature-check" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"/></svg><span data-ar="محادثات صوتية كاملة: تكلم ويجيبك بالصوت فوراً" data-en="Full voice conversations: speak and hear instant responses">محادثات صوتية كاملة: تكلم ويجيبك بالصوت فوراً</span></li>
-          <li><svg class="feature-list-icon feature-check" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"/></svg><span data-ar="فحص أعراض ذكي مع تقييم مستوى الخطورة والإجراءات المقترحة" data-en="Smart symptom checker with urgency assessment and recommended actions">فحص أعراض ذكي مع تقييم مستوى الخطورة والإجراءات المقترحة</span></li>
-          <li><svg class="feature-list-icon feature-check" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"/></svg><span data-ar="كشف تفاعلات أدوية تلقائي: يحذّرك قبل الخطر" data-en="Automatic drug interaction detection: warns you before danger">كشف تفاعلات أدوية تلقائي: يحذّرك قبل الخطر</span></li>
-          <li><svg class="feature-list-icon feature-check" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"/></svg><span data-ar="رؤى صحية يومية + تحليل اتجاهات ٩٠ يوماً بالذكاء الاصطناعي" data-en="Daily health insights + AI-powered 90-day trend analysis">رؤى صحية يومية + تحليل اتجاهات ٩٠ يوماً بالذكاء الاصطناعي</span></li>
-        </ul>
-        <p class="feature-note" data-ar="وقد صُمّم المساعد عن قصد ليكون متحفّظاً: يشرح ولا يشخّص، ويحيلك إلى الطبيب." data-en="The assistant is deliberately cautious. It explains, it does not diagnose, and it points you to a doctor.">وقد صُمّم المساعد عن قصد ليكون متحفّظاً: يشرح ولا يشخّص، ويحيلك إلى الطبيب.</p>
-      </div>
-      <div class="feature-visual reveal reveal-delay-1">
-        <div class="phone-reflect">
-          <div class="phone phone--large">
-            <img src="/screenshots/ai-chat.png" alt="Sihtak AI health chat with voice mode button, suggestion chips, and Arabic conversation" width="280" height="600" loading="lazy">
-          </div>
-        </div>
+      <div class="h-feats h-feats--3">
+        <a class="h-feat" style="text-decoration:none" href="/tools/a1c-converter/" data-href-ar="/tools/a1c-converter/" data-href-en="/en/tools/a1c-converter/"><h3 data-ar="محول السكر التراكمي" data-en="HbA1c converter">محول السكر التراكمي</h3><p data-ar="حوّل HbA1c إلى متوسط السكر في الدم، والعكس." data-en="Convert HbA1c to average blood glucose and back.">حوّل HbA1c إلى متوسط السكر في الدم، والعكس.</p></a>
+        <a class="h-feat" style="text-decoration:none" href="/tools/lab-unit-converter/" data-href-ar="/tools/lab-unit-converter/" data-href-en="/en/tools/lab-unit-converter/"><h3 data-ar="محول وحدات التحاليل" data-en="Lab unit converter">محول وحدات التحاليل</h3><p data-ar="من mg/dL إلى mmol/L وغيرها، لأشهر التحاليل." data-en="From mg/dL to mmol/L and more, for common tests.">من mg/dL إلى mmol/L وغيرها، لأشهر التحاليل.</p></a>
+        <a class="h-feat" style="text-decoration:none" href="/tools/bmi/" data-href-ar="/tools/bmi/" data-href-en="/en/tools/bmi/"><h3 data-ar="حاسبة كتلة الجسم" data-en="BMI calculator">حاسبة كتلة الجسم</h3><p data-ar="احسب مؤشر كتلة جسمك واعرف ما يعنيه." data-en="Work out your body mass index and what it means.">احسب مؤشر كتلة جسمك واعرف ما يعنيه.</p></a>
       </div>
     </div>
   </section>
 
-  <!-- Feature 2: Lab Scanner & Tracking -->
-  <section class="feature feature--left feature--accent-blue" aria-labelledby="feat-labs">
-    <div class="light-orb light-orb--md light-orb--blue light-orb--delay-2" style="top:10%;left:0;" aria-hidden="true"></div>
-    <img src="/images/dna-helix.svg" alt="" class="floater floater--mid-right" width="120" height="360" aria-hidden="true" style="opacity:0.6;">
-    <div class="feature-inner">
-      <div class="feature-content reveal">
-        <div class="feature-tag feature-tag--blue" data-ar="تتبع صحي شامل" data-en="COMPLETE TRACKING">تتبع صحي شامل</div>
-        <h2 class="feature-title" id="feat-labs" data-ar="صوّر تحاليلك، والذكاء الاصطناعي يتولى الباقي" data-en="Snap your lab results, and AI handles the rest">صوّر تحاليلك، والذكاء الاصطناعي يتولى الباقي</h2>
-        <p class="feature-desc" data-ar="ماسح تحاليل بتقنية OCR يستخرج كل النتائج من صورة الورقة تلقائياً مع تحليل ذكي يميّز القيم الطبيعية وغير الطبيعية. أضف لذلك: متابعة أدوية مع تنبيهات وعدّاد مخزون، علامات حيوية مع رسوم بيانية، وسجل تطعيمات كامل." data-en="OCR lab scanner extracts all results from a photo automatically with AI analysis that distinguishes normal from abnormal values. Plus: medication tracking with reminders and stock counter, vitals with charts, and complete vaccination records.">ماسح تحاليل بتقنية OCR يستخرج كل النتائج من صورة الورقة تلقائياً مع تحليل ذكي يميّز القيم الطبيعية وغير الطبيعية. أضف لذلك: متابعة أدوية مع تنبيهات وعدّاد مخزون، علامات حيوية مع رسوم بيانية، وسجل تطعيمات كامل.</p>
-        <ul class="feature-list">
-          <li><svg class="feature-list-icon feature-check--blue" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"/></svg><span data-ar="ماسح تحاليل OCR: صوّر ورقة التحليل واحصل على النتائج + تحليل ذكي" data-en="OCR Lab Scanner: photograph your report and get results + AI analysis">ماسح تحاليل OCR: صوّر ورقة التحليل واحصل على النتائج + تحليل ذكي</span></li>
-          <li><svg class="feature-list-icon feature-check--blue" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"/></svg><span data-ar="متابعة أدوية مع تنبيهات المواعيد وعدّاد المخزون وسجل الجرعات" data-en="Medication tracking with dose reminders, stock counter, and dose history">متابعة أدوية مع تنبيهات المواعيد وعدّاد المخزون وسجل الجرعات</span></li>
-          <li><svg class="feature-list-icon feature-check--blue" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"/></svg><span data-ar="٦ أنواع علامات حيوية مع رسوم بيانية واتجاهات تاريخية" data-en="6 vital sign types with charts and historical trends">٦ أنواع علامات حيوية مع رسوم بيانية واتجاهات تاريخية</span></li>
-          <li><svg class="feature-list-icon feature-check--blue" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"/></svg><span data-ar="سجل تطعيمات مع تنبيهات الجرعات القادمة والمتأخرة" data-en="Vaccination records with upcoming and overdue dose alerts">سجل تطعيمات مع تنبيهات الجرعات القادمة والمتأخرة</span></li>
-        </ul>
-      </div>
-      <div class="feature-visual reveal reveal-delay-1">
-        <div class="phone-reflect">
-          <div class="phone phone--large">
-            <img src="/screenshots/dashboard.png" alt="Sihtak health dashboard with health score ring, colorful feature cards, and medication timeline" width="280" height="600" loading="lazy">
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <!-- Feature 3: Wellness -->
-  <section class="feature feature--accent-purple" aria-labelledby="feat-wellness">
-    <div class="light-orb light-orb--md light-orb--purple" style="top:-15%;right:15%;" aria-hidden="true"></div>
-    <div class="light-orb light-orb--sm light-orb--rose light-orb--delay-1" style="bottom:5%;left:10%;" aria-hidden="true"></div>
-    <img src="/images/wave.svg" alt="" class="floater floater--bottom-right" width="240" height="120" aria-hidden="true" style="opacity:0.7;">
-    <img src="/images/pill.svg" alt="" class="floater floater--top-left" width="100" height="50" aria-hidden="true" style="opacity:0.8;">
-    <div class="feature-inner">
-      <div class="feature-content reveal">
-        <div class="feature-tag feature-tag--purple" data-ar="عافية وأسلوب حياة" data-en="WELLNESS & LIFESTYLE">عافية وأسلوب حياة</div>
-        <h2 class="feature-title" id="feat-wellness" data-ar="تغذية، تمارين، نوم، ودورة شهرية. كل شيء متصل" data-en="Nutrition, exercise, sleep, and period. All connected">تغذية، تمارين، نوم، ودورة شهرية. كل شيء متصل</h2>
-        <p class="feature-desc" data-ar="سجّل وجباتك مع البحث في قاعدة الأطعمة والسعرات والماكروز. تابع ١٥ نوع تمرين مع حساب السعرات المحروقة تلقائياً. راقب نومك مع جودة النوم. تابع دورتك الشهرية مع تنبؤات ذكية للدورة القادمة وفترة الخصوبة. كل البيانات تغذي الذكاء الاصطناعي لنصائح أدق." data-en="Log meals with food database search, calories, and macros. Track 15 exercise types with automatic calorie estimation. Monitor sleep with quality tracking. Track your menstrual cycle with smart predictions for next period and fertile window. All data feeds the AI for smarter advice.">سجّل وجباتك مع البحث في قاعدة الأطعمة والسعرات والماكروز. تابع ١٥ نوع تمرين مع حساب السعرات المحروقة تلقائياً. راقب نومك مع جودة النوم. تابع دورتك الشهرية مع تنبؤات ذكية للدورة القادمة وفترة الخصوبة. كل البيانات تغذي الذكاء الاصطناعي لنصائح أدق.</p>
-        <ul class="feature-list">
-          <li><svg class="feature-list-icon feature-check--purple" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"/></svg><span data-ar="تغذية: بحث أطعمة، سعرات، بروتين، كربوهيدرات، دهون + ملخص أسبوعي" data-en="Nutrition: food search, calories, protein, carbs, fat + weekly summary">تغذية: بحث أطعمة، سعرات، بروتين، كربوهيدرات، دهون + ملخص أسبوعي</span></li>
-          <li><svg class="feature-list-icon feature-check--purple" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"/></svg><span data-ar="تمارين: ١٥ نوع، حساب سعرات بنظام MET، تحليلات أسبوعية حسب النوع" data-en="Exercise: 15 types, MET calorie estimation, weekly analytics by type">تمارين: ١٥ نوع، حساب سعرات بنظام MET، تحليلات أسبوعية حسب النوع</span></li>
-          <li><svg class="feature-list-icon feature-check--purple" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"/></svg><span data-ar="نوم: وقت النوم/الاستيقاظ، تقييم الجودة، توزيع أسبوعي" data-en="Sleep: bedtime/wake time, quality rating, weekly distribution">نوم: وقت النوم/الاستيقاظ، تقييم الجودة، توزيع أسبوعي</span></li>
-          <li><svg class="feature-list-icon feature-check--purple" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"/></svg><span data-ar="دورة شهرية: تسجيل الدورة والأعراض، تنبؤ الدورة القادمة وفترة الخصوبة" data-en="Period: log cycle and symptoms, predict next period and fertile window">دورة شهرية: تسجيل الدورة والأعراض، تنبؤ الدورة القادمة وفترة الخصوبة</span></li>
-          <li><svg class="feature-list-icon feature-check--purple" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"/></svg><span data-ar="مزامنة مع Apple Health + لوحة بيانات الأجهزة القابلة للارتداء" data-en="Apple Health sync + wearable device dashboard">مزامنة مع Apple Health + لوحة بيانات الأجهزة القابلة للارتداء</span></li>
-        </ul>
-      </div>
-      <div class="feature-visual reveal reveal-delay-1">
-        <div class="bento bento--2x2">
-          <div class="bento-card">
-            <div class="bento-icon bento-icon--purple"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 8h1a4 4 0 0 1 0 8h-1"/><path d="M2 8h16v9a4 4 0 0 1-4 4H6a4 4 0 0 1-4-4V8z"/><line x1="6" y1="1" x2="6" y2="4"/><line x1="10" y1="1" x2="10" y2="4"/><line x1="14" y1="1" x2="14" y2="4"/></svg></div>
-            <div class="bento-label" data-ar="تغذية" data-en="Nutrition">تغذية</div>
-            <div class="bento-detail" data-ar="سعرات + ماكروز" data-en="Calories + Macros">سعرات + ماكروز</div>
-          </div>
-          <div class="bento-card">
-            <div class="bento-icon bento-icon--teal"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 12h-4l-3 9L9 3l-3 9H2"/></svg></div>
-            <div class="bento-label" data-ar="تمارين" data-en="Exercise">تمارين</div>
-            <div class="bento-detail" data-ar="١٥ نوع تمرين" data-en="15 Types">١٥ نوع تمرين</div>
-          </div>
-          <div class="bento-card">
-            <div class="bento-icon bento-icon--blue"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M17 18a5 5 0 0 0-10 0"/><line x1="12" y1="2" x2="12" y2="9"/><line x1="4.22" y1="10.22" x2="5.64" y2="11.64"/><line x1="1" y1="18" x2="3" y2="18"/><line x1="21" y1="18" x2="23" y2="18"/><line x1="18.36" y1="11.64" x2="19.78" y2="10.22"/><line x1="23" y1="22" x2="1" y2="22"/></svg></div>
-            <div class="bento-label" data-ar="نوم" data-en="Sleep">نوم</div>
-            <div class="bento-detail" data-ar="جودة + مدة" data-en="Quality + Duration">جودة + مدة</div>
-          </div>
-          <div class="bento-card">
-            <div class="bento-icon bento-icon--rose"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><path d="M12 6v6l4 2"/></svg></div>
-            <div class="bento-label" data-ar="الدورة" data-en="Cycle">الدورة</div>
-            <div class="bento-detail" data-ar="تنبؤات ذكية" data-en="Smart Predictions">تنبؤات ذكية</div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <!-- Feature 4: Family & Providers -->
-  <section class="feature feature--left feature--accent-rose" aria-labelledby="feat-family">
-    <div class="light-orb light-orb--md light-orb--rose light-orb--delay-2" style="top:5%;right:5%;" aria-hidden="true"></div>
-    <img src="/images/shield.svg" alt="" class="floater floater--top-right" width="100" height="120" aria-hidden="true" style="opacity:0.7;">
-    <img src="/images/heartbeat.svg" alt="" class="floater floater--bottom-left" width="240" height="60" aria-hidden="true" style="opacity:0.6;">
-    <div class="feature-inner">
-      <div class="feature-content reveal">
-        <div class="feature-tag feature-tag--rose" data-ar="عائلة وأطباء" data-en="FAMILY & PROVIDERS">عائلة وأطباء</div>
-        <h2 class="feature-title" id="feat-family" data-ar="صحة عائلتك تحت عينك، وتواصل مباشر مع طبيبك" data-en="Your family's health at a glance, and direct access to your doctor">صحة عائلتك تحت عينك، وتواصل مباشر مع طبيبك</h2>
-        <p class="feature-desc" data-ar="أنشئ دائرة عائلية وتابع صحة أحبائك بالكامل. تراسل مع العائلة والأطباء فوراً. شبكة مقدمي خدمات تشمل مختبرات وعيادات وصيدليات. اطلب إعادة صرف أدويتك من أقرب صيدلية. واحجز مواعيد المختبر بضغطة زر." data-en="Create a family circle and fully monitor your loved ones' health. Message family and doctors instantly. Provider directory includes labs, clinics, and pharmacies. Request medication refills from nearby pharmacies. Book lab appointments with one tap.">أنشئ دائرة عائلية وتابع صحة أحبائك بالكامل. تراسل مع العائلة والأطباء فوراً. شبكة مقدمي خدمات تشمل مختبرات وعيادات وصيدليات. اطلب إعادة صرف أدويتك من أقرب صيدلية. واحجز مواعيد المختبر بضغطة زر.</p>
-        <ul class="feature-list">
-          <li><svg class="feature-list-icon feature-check--rose" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"/></svg><span data-ar="دائرة عائلية مع دعوات بكود/رابط ومستويات صلاحية (عرض، إدارة، كامل)" data-en="Family circle with code/link invites and permission levels (view, manage, full)">دائرة عائلية مع دعوات بكود/رابط ومستويات صلاحية (عرض، إدارة، كامل)</span></li>
-          <li><svg class="feature-list-icon feature-check--rose" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"/></svg><span data-ar="رسائل فورية مع العائلة والأطباء + إشعارات دفع" data-en="Real-time messaging with family and doctors + push notifications">رسائل فورية مع العائلة والأطباء + إشعارات دفع</span></li>
-          <li><svg class="feature-list-icon feature-check--rose" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"/></svg><span data-ar="دليل مختبرات وعيادات وصيدليات مع تقييمات وترتيب حسب المسافة" data-en="Lab, clinic, and pharmacy directory with ratings and distance sorting">دليل مختبرات وعيادات وصيدليات مع تقييمات وترتيب حسب المسافة</span></li>
-          <li><svg class="feature-list-icon feature-check--rose" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"/></svg><span data-ar="طوارئ SOS: مشاركة بياناتك الصحية مع جهات الاتصال بضغطة واحدة" data-en="Emergency SOS: share health data with contacts in one tap">طوارئ SOS: مشاركة بياناتك الصحية مع جهات الاتصال بضغطة واحدة</span></li>
-        </ul>
-      </div>
-      <div class="feature-visual reveal reveal-delay-1">
-        <div class="bento bento--3x2">
-          <div class="bento-card">
-            <div class="bento-icon bento-icon--rose"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87M16 3.13a4 4 0 0 1 0 7.75"/></svg></div>
-            <div class="bento-label" data-ar="عائلة" data-en="Family">عائلة</div>
-          </div>
-          <div class="bento-card">
-            <div class="bento-icon bento-icon--blue"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg></div>
-            <div class="bento-label" data-ar="رسائل" data-en="Chat">رسائل</div>
-          </div>
-          <div class="bento-card">
-            <div class="bento-icon bento-icon--teal"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 12h-4l-3 9L9 3l-3 9H2"/></svg></div>
-            <div class="bento-label" data-ar="أطباء" data-en="Doctors">أطباء</div>
-          </div>
-          <div class="bento-card">
-            <div class="bento-icon bento-icon--amber"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><line x1="12" y1="8" x2="12" y2="12"/><line x1="12" y1="16" x2="12.01" y2="16"/></svg></div>
-            <div class="bento-label" data-ar="طوارئ" data-en="SOS">طوارئ</div>
-          </div>
-          <div class="bento-card">
-            <div class="bento-icon bento-icon--purple"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/></svg></div>
-            <div class="bento-label" data-ar="صيدليات" data-en="Pharmacy">صيدليات</div>
-          </div>
-          <div class="bento-card">
-            <div class="bento-icon bento-icon--teal"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg></div>
-            <div class="bento-label" data-ar="مواعيد" data-en="Appointments">مواعيد</div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <!-- Feature 5: Health Passport & Security -->
-  <section class="feature feature--accent-amber" aria-labelledby="feat-passport">
-    <div class="light-orb light-orb--md light-orb--amber" style="top:-10%;left:15%;" aria-hidden="true"></div>
-    <div class="light-orb light-orb--sm light-orb--teal light-orb--delay-1" style="bottom:10%;right:5%;" aria-hidden="true"></div>
-    <img src="/images/medical-cross.svg" alt="" class="floater floater--bottom-right" width="100" height="100" aria-hidden="true" style="opacity:0.6;">
-    <img src="/images/molecule.svg" alt="" class="floater floater--top-left" width="120" height="120" aria-hidden="true" style="opacity:0.6;">
-    <div class="feature-inner">
-      <div class="feature-content reveal">
-        <div class="feature-tag feature-tag--amber" data-ar="جواز صحي وأمان" data-en="HEALTH PASSPORT & SECURITY">جواز صحي وأمان</div>
-        <h2 class="feature-title" id="feat-passport" data-ar="جواز صحي PDF احترافي، وبياناتك محمية بالكامل" data-en="Professional PDF health passport, your data fully protected">جواز صحي PDF احترافي، وبياناتك محمية بالكامل</h2>
-        <p class="feature-desc" data-ar="صدّر تقريراً طبياً شاملاً بصيغة PDF يتضمن: معلوماتك، أمراضك، حساسياتك، أدويتك، تحاليلك (مع تمييز القيم غير الطبيعية)، تطعيماتك، علاماتك الحيوية، وملخصات العافية، مع رمز QR للطوارئ." data-en="Export a comprehensive PDF medical report containing: personal info, conditions, allergies, medications, lab results (with abnormal highlighting), vaccinations, vitals, and wellness summaries, with an emergency QR code.">صدّر تقريراً طبياً شاملاً بصيغة PDF يتضمن: معلوماتك، أمراضك، حساسياتك، أدويتك، تحاليلك (مع تمييز القيم غير الطبيعية)، تطعيماتك، علاماتك الحيوية، وملخصات العافية، مع رمز QR للطوارئ.</p>
-        <ul class="feature-list">
-          <li><svg class="feature-list-icon feature-check--amber" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"/></svg><span data-ar="نقاط صحة من ١٠٠ محسوبة من ٥ عوامل: علامات حيوية، أدوية، تحاليل، نشاط، عافية" data-en="Health score out of 100 from 5 factors: vitals, medications, labs, activity, wellness">نقاط صحة من ١٠٠ محسوبة من ٥ عوامل: علامات حيوية، أدوية، تحاليل، نشاط، عافية</span></li>
-          <li><svg class="feature-list-icon feature-check--amber" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"/></svg><span data-ar="تقرير PDF ثنائي اللغة بتصميم طبي احترافي + رمز QR للطوارئ" data-en="Bilingual PDF with professional medical layout + emergency QR code">تقرير PDF ثنائي اللغة بتصميم طبي احترافي + رمز QR للطوارئ</span></li>
-          <li><svg class="feature-list-icon feature-check--amber" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"/></svg><span data-ar="Face ID / Touch ID + تشفير كامل + تخزين آمن للتوكنات" data-en="Face ID / Touch ID + end-to-end encryption + secure token storage">Face ID / Touch ID + تشفير كامل + تخزين آمن للتوكنات</span></li>
-          <li><svg class="feature-list-icon feature-check--amber" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"/></svg><span data-ar="متوافق مع GDPR: تصدير بيانات، حذف حساب، بياناتك ملكك فقط" data-en="GDPR compliant: data export, account deletion, your data is only yours">متوافق مع GDPR: تصدير بيانات، حذف حساب، بياناتك ملكك فقط</span></li>
-        </ul>
-      </div>
-      <div class="feature-visual reveal reveal-delay-1">
-        <div class="bento bento--3x2">
-          <div class="bento-card"><div class="bento-icon bento-icon--amber"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/></svg></div><div class="bento-label" data-ar="جواز PDF" data-en="PDF Passport">جواز PDF</div></div>
-          <div class="bento-card"><div class="bento-icon bento-icon--teal"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="18" height="18" rx="2" ry="2"/><rect x="7" y="7" width="3" height="3"/><rect x="14" y="7" width="3" height="3"/><rect x="7" y="14" width="3" height="3"/></svg></div><div class="bento-label" data-ar="رمز QR" data-en="QR Code">رمز QR</div></div>
-          <div class="bento-card"><div class="bento-icon bento-icon--blue"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="11" width="18" height="11" rx="2" ry="2"/><path d="M7 11V7a5 5 0 0 1 10 0v4"/></svg></div><div class="bento-label" data-ar="تشفير" data-en="Encrypted">تشفير</div></div>
-          <div class="bento-card"><div class="bento-icon bento-icon--purple"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg></div><div class="bento-label" data-ar="حماية" data-en="Protected">حماية</div></div>
-          <div class="bento-card"><div class="bento-icon bento-icon--rose"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="1" y="5" width="22" height="14" rx="7" ry="7"/><circle cx="16" cy="12" r="3"/></svg></div><div class="bento-label" data-ar="Face ID" data-en="Face ID">Face ID</div></div>
-          <div class="bento-card"><div class="bento-icon bento-icon--teal"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"/><circle cx="12" cy="12" r="3"/></svg></div><div class="bento-label" data-ar="GDPR" data-en="GDPR">GDPR</div></div>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <!-- App Gallery -->
-  <section class="gallery" aria-label="App preview gallery">
-    <div class="light-orb light-orb--lg light-orb--teal light-orb--delay-1" style="top:20%;left:10%;" aria-hidden="true"></div>
-    <div class="light-orb light-orb--md light-orb--purple light-orb--delay-2" style="bottom:10%;right:15%;" aria-hidden="true"></div>
-    <img src="/images/dna-helix.svg" alt="" class="floater floater--mid-left" width="100" height="300" aria-hidden="true" style="opacity:0.4;">
-    <img src="/images/pill.svg" alt="" class="floater floater--top-right" width="120" height="60" aria-hidden="true" style="opacity:0.5;">
-    <div class="gallery-inner">
-      <div class="section-head reveal">
-        <div class="section-tag" data-ar="معاينة التطبيق" data-en="APP PREVIEW">معاينة التطبيق</div>
-        <h2 class="section-title" data-ar="تصميم أنيق وتجربة سلسة" data-en="Beautiful design, seamless experience">تصميم أنيق وتجربة سلسة</h2>
-        <p class="section-sub" data-ar="واجهات مصممة بعناية مع وضع مظلم بالكامل وتصفّح سلس بين كل الشاشات" data-en="Carefully crafted interfaces with full dark mode and smooth navigation across all screens">واجهات مصممة بعناية مع وضع مظلم بالكامل وتصفّح سلس بين كل الشاشات</p>
-      </div>
-      <div class="gallery-phones reveal-scale">
-        <div class="gallery-phone gallery-phone--left">
-          <div class="phone">
-            <img src="/screenshots/ai-chat.png" alt="AI Chat screen" width="260" height="540" loading="lazy">
-          </div>
-        </div>
-        <div class="gallery-phone gallery-phone--center">
-          <div class="phone phone--large">
-            <img src="/screenshots/dashboard.png" alt="Health dashboard" width="280" height="600" loading="lazy">
-          </div>
-        </div>
-        <div class="gallery-phone gallery-phone--right">
-          <div class="phone">
-            <img src="/screenshots/voice-chat.png" alt="Sihtak AI voice chat speaking mode" width="260" height="540" loading="lazy">
-          </div>
-        </div>
-      </div>
-      <div class="gallery-labels reveal">
-        <div class="gallery-label">
-          <span data-ar="محادثة ذكية" data-en="AI Chat">محادثة ذكية</span>
-          <span data-ar="صوت + كتابة" data-en="Voice + Text">صوت + كتابة</span>
-        </div>
-        <div class="gallery-label">
-          <span data-ar="لوحة الصحة" data-en="Health Dashboard">لوحة الصحة</span>
-          <span data-ar="كل بياناتك" data-en="All Your Data">كل بياناتك</span>
-        </div>
-        <div class="gallery-label">
-          <span data-ar="الوضع الصوتي" data-en="Voice Mode">الوضع الصوتي</span>
-          <span data-ar="تحدث بحرية" data-en="Speak Freely">تحدث بحرية</span>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <!-- All Features Grid -->
-  <section class="grid-section" id="all-features" aria-labelledby="grid-title">
-    <div class="grid-inner">
-      <div class="section-head reveal">
-        <div class="section-tag" data-ar="كل المزايا" data-en="EVERY FEATURE">كل المزايا</div>
-        <h2 class="section-title" id="grid-title" data-ar="منصة صحية متكاملة في جيبك" data-en="A complete health platform in your pocket">منصة صحية متكاملة في جيبك</h2>
-        <p class="section-sub" data-ar="كل هذه المزايا مجانية: بدون إعلانات، بدون بيع بيانات، وتعمل بدون إنترنت" data-en="All features are free: no ads, no data selling, and works offline">كل هذه المزايا مجانية: بدون إعلانات، بدون بيع بيانات، وتعمل بدون إنترنت</p>
-      </div>
-      <div class="feature-grid reveal">
-        <div class="grid-item"><div class="grid-icon">🤖</div><span class="grid-label" data-ar="محادثة ذكية" data-en="AI Chat">محادثة ذكية</span></div>
-        <div class="grid-item"><div class="grid-icon">🎙️</div><span class="grid-label" data-ar="وضع صوتي" data-en="Voice Mode">وضع صوتي</span></div>
-        <div class="grid-item"><div class="grid-icon">🔬</div><span class="grid-label" data-ar="ماسح تحاليل" data-en="Lab Scanner">ماسح تحاليل</span></div>
-        <div class="grid-item"><div class="grid-icon">💊</div><span class="grid-label" data-ar="متابعة أدوية" data-en="Medications">متابعة أدوية</span></div>
-        <div class="grid-item"><div class="grid-icon">⚠️</div><span class="grid-label" data-ar="تفاعلات أدوية" data-en="Interactions">تفاعلات أدوية</span></div>
-        <div class="grid-item"><div class="grid-icon">🩺</div><span class="grid-label" data-ar="فحص أعراض" data-en="Symptoms">فحص أعراض</span></div>
-        <div class="grid-item"><div class="grid-icon">❤️</div><span class="grid-label" data-ar="علامات حيوية" data-en="Vitals">علامات حيوية</span></div>
-        <div class="grid-item"><div class="grid-icon">📊</div><span class="grid-label" data-ar="نقاط صحة" data-en="Health Score">نقاط صحة</span></div>
-        <div class="grid-item"><div class="grid-icon">🥗</div><span class="grid-label" data-ar="تغذية" data-en="Nutrition">تغذية</span></div>
-        <div class="grid-item"><div class="grid-icon">🏋️</div><span class="grid-label" data-ar="تمارين" data-en="Exercise">تمارين</span></div>
-        <div class="grid-item"><div class="grid-icon">😴</div><span class="grid-label" data-ar="تتبع نوم" data-en="Sleep">تتبع نوم</span></div>
-        <div class="grid-item"><div class="grid-icon">🌙</div><span class="grid-label" data-ar="دورة شهرية" data-en="Period">دورة شهرية</span></div>
-        <div class="grid-item"><div class="grid-icon">💉</div><span class="grid-label" data-ar="تطعيمات" data-en="Vaccines">تطعيمات</span></div>
-        <div class="grid-item"><div class="grid-icon">🛂</div><span class="grid-label" data-ar="جواز صحي" data-en="Passport">جواز صحي</span></div>
-        <div class="grid-item"><div class="grid-icon">⌚</div><span class="grid-label" data-ar="Apple Health" data-en="Apple Health">Apple Health</span></div>
-        <div class="grid-item"><div class="grid-icon">👨‍👩‍👧</div><span class="grid-label" data-ar="صحة عائلة" data-en="Family">صحة عائلة</span></div>
-        <div class="grid-item"><div class="grid-icon">👨‍⚕️</div><span class="grid-label" data-ar="شبكة أطباء" data-en="Providers">شبكة أطباء</span></div>
-        <div class="grid-item"><div class="grid-icon">💬</div><span class="grid-label" data-ar="رسائل فورية" data-en="Messaging">رسائل فورية</span></div>
-        <div class="grid-item"><div class="grid-icon">🏥</div><span class="grid-label" data-ar="دليل مختبرات" data-en="Lab Directory">دليل مختبرات</span></div>
-        <div class="grid-item"><div class="grid-icon">💊</div><span class="grid-label" data-ar="صيدليات" data-en="Pharmacies">صيدليات</span></div>
-        <div class="grid-item"><div class="grid-icon">🚨</div><span class="grid-label" data-ar="طوارئ SOS" data-en="Emergency">طوارئ SOS</span></div>
-        <div class="grid-item"><div class="grid-icon">🔔</div><span class="grid-label" data-ar="تنبيهات ذكية" data-en="Alerts">تنبيهات ذكية</span></div>
-        <div class="grid-item"><div class="grid-icon">📈</div><span class="grid-label" data-ar="اتجاهات صحية" data-en="Trends">اتجاهات صحية</span></div>
-        <div class="grid-item"><div class="grid-icon">📱</div><span class="grid-label" data-ar="بدون إنترنت" data-en="Offline">بدون إنترنت</span></div>
-      </div>
-    </div>
-  </section>
-
-  <!-- How It Works -->
-  <section class="steps" id="how-it-works" aria-labelledby="steps-title">
-    <img src="/images/medical-cross.svg" alt="" class="floater floater--top-right" width="70" height="70" aria-hidden="true" style="opacity:0.4;">
-    <div class="steps-inner">
-      <div class="section-head reveal">
-        <div class="section-tag" data-ar="كيف يعمل" data-en="HOW IT WORKS">كيف يعمل</div>
-        <h2 class="section-title" id="steps-title" data-ar="ثلاث خطوات لصحة أذكى" data-en="Three steps to smarter health">ثلاث خطوات لصحة أذكى</h2>
-      </div>
-      <div class="steps-row">
-        <div class="step reveal">
-          <div class="step-num">1</div>
-          <h3 class="step-title" data-ar="حمّل وسجّل" data-en="Download & Sign Up">حمّل وسجّل</h3>
-          <p class="step-desc" data-ar="حمّل من Google Play أو App Store. سجّل بإيميلك أو عبر Apple أو Google، وحسابك جاهز في ثوانٍ." data-en="Download from Google Play or the App Store. Sign up with email or via Apple or Google, and your account is ready in seconds.">حمّل من Google Play أو App Store. سجّل بإيميلك أو عبر Apple أو Google، وحسابك جاهز في ثوانٍ.</p>
-        </div>
-        <div class="step reveal reveal-delay-1">
-          <div class="step-num">2</div>
-          <h3 class="step-title" data-ar="أضف بياناتك" data-en="Add Your Data">أضف بياناتك</h3>
-          <p class="step-desc" data-ar="صوّر تحاليلك، أضف أدويتك، سجّل علاماتك الحيوية، فعّل Apple Health، والتطبيق يبني ملفك الصحي تلقائياً." data-en="Scan labs, add medications, log vitals, enable Apple Health, and the app builds your health profile automatically.">صوّر تحاليلك، أضف أدويتك، سجّل علاماتك الحيوية، فعّل Apple Health، والتطبيق يبني ملفك الصحي تلقائياً.</p>
-        </div>
-        <div class="step reveal reveal-delay-2">
-          <div class="step-num">3</div>
-          <h3 class="step-title" data-ar="اسأل واطمئن" data-en="Ask & Thrive">اسأل واطمئن</h3>
-          <p class="step-desc" data-ar="اسأل المساعد الذكي أي سؤال، تابع اتجاهاتك، احصل على رؤى يومية، وشارك جوازك الصحي مع طبيبك." data-en="Ask the AI anything, track trends, get daily insights, and share your health passport with your doctor.">اسأل المساعد الذكي أي سؤال، تابع اتجاهاتك، احصل على رؤى يومية، وشارك جوازك الصحي مع طبيبك.</p>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <!-- Visual Strip -->
-  <section class="image-strip" aria-hidden="true">
-    <div class="image-strip-inner">
-      <div class="section-img section-img--glow-teal reveal">
-        <img src="/images/health-app.jpg" alt="" loading="lazy" width="400" height="250">
-      </div>
-      <div class="section-img section-img--glow-purple reveal reveal-delay-1">
-        <img src="/images/wellness.jpg" alt="" loading="lazy" width="400" height="250">
-      </div>
-      <div class="section-img section-img--glow-blue reveal reveal-delay-2">
-        <img src="/images/laboratory.jpg" alt="" loading="lazy" width="400" height="250">
-      </div>
-    </div>
-  </section>
-
-  <!-- Testimonials -->
-  <section class="testimonials" id="reviews" aria-labelledby="reviews-title">
-    <div class="testimonials-inner">
-      <div class="section-head reveal">
-        <div class="section-tag" data-ar="آراء المستخدمين" data-en="USER REVIEWS">آراء المستخدمين</div>
-        <h2 class="section-title" id="reviews-title" data-ar="ماذا يقول المستخدمون" data-en="What users are saying">ماذا يقول المستخدمون</h2>
-      </div>
-      <div class="testimonials-grid">
-        <div class="testimonial-card reveal">
-          <div class="testimonial-stars">
-            <svg class="testimonial-star" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>
-            <svg class="testimonial-star" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>
-            <svg class="testimonial-star" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>
-            <svg class="testimonial-star" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>
-            <svg class="testimonial-star" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>
-          </div>
-          <p class="testimonial-text" data-ar="تطبيق مذهل! ميزة المحادثة الصوتية مع الذكاء الاصطناعي غيّرت طريقة تعاملي مع صحتي. أسأله عن أدويتي وتحاليلي ويجيبني بدقة مثل طبيب شخصي." data-en="Amazing app! The AI voice chat feature transformed how I manage my health. I ask about my medications and lab results and get precise answers like having a personal doctor.">"تطبيق مذهل! ميزة المحادثة الصوتية مع الذكاء الاصطناعي غيّرت طريقة تعاملي مع صحتي. أسأله عن أدويتي وتحاليلي ويجيبني بدقة مثل طبيب شخصي."</p>
-          <div class="testimonial-author">
-            <div class="testimonial-avatar testimonial-avatar--teal" data-ar="س" data-en="S">س</div>
-            <div>
-              <div class="testimonial-name" data-ar="سارة م." data-en="Sarah M.">سارة م.</div>
-              <div class="testimonial-role" data-ar="أم لثلاثة أطفال" data-en="Mother of three">أم لثلاثة أطفال</div>
-            </div>
-          </div>
-        </div>
-        <div class="testimonial-card reveal reveal-delay-1">
-          <div class="testimonial-stars">
-            <svg class="testimonial-star" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>
-            <svg class="testimonial-star" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>
-            <svg class="testimonial-star" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>
-            <svg class="testimonial-star" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>
-            <svg class="testimonial-star" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>
-          </div>
-          <p class="testimonial-text" data-ar="ماسح التحاليل مدهش. صوّرت ورقة التحليل والتطبيق استخرج كل النتائج وفسّرها. ميزة تتبع الأدوية والتنبيه بالتفاعلات أنقذتني أكثر من مرة." data-en="The lab scanner is incredible. I photographed my report and the app extracted and interpreted everything. The medication tracking with interaction alerts has saved me more than once.">"ماسح التحاليل مدهش. صوّرت ورقة التحليل والتطبيق استخرج كل النتائج وفسّرها. ميزة تتبع الأدوية والتنبيه بالتفاعلات أنقذتني أكثر من مرة."</p>
-          <div class="testimonial-author">
-            <div class="testimonial-avatar testimonial-avatar--purple" data-ar="أ" data-en="A">أ</div>
-            <div>
-              <div class="testimonial-name" data-ar="أحمد ع." data-en="Ahmed A.">أحمد ع.</div>
-              <div class="testimonial-role" data-ar="مريض سكري" data-en="Diabetes patient">مريض سكري</div>
-            </div>
-          </div>
-        </div>
-        <div class="testimonial-card reveal reveal-delay-2">
-          <div class="testimonial-stars">
-            <svg class="testimonial-star" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>
-            <svg class="testimonial-star" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>
-            <svg class="testimonial-star" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>
-            <svg class="testimonial-star" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>
-            <svg class="testimonial-star" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>
-          </div>
-          <p class="testimonial-text" data-ar="أفضل ميزة هي دائرة العائلة. أتابع صحة والدتي المسنة من هاتفي: أدويتها، تحاليلها، مواعيدها. وميزة الجواز الصحي ممتازة لزيارات الطبيب." data-en="The best feature is the family circle. I monitor my elderly mother's health from my phone: medications, labs, appointments. The health passport is perfect for doctor visits.">"أفضل ميزة هي دائرة العائلة. أتابع صحة والدتي المسنة من هاتفي: أدويتها، تحاليلها، مواعيدها. وميزة الجواز الصحي ممتازة لزيارات الطبيب."</p>
-          <div class="testimonial-author">
-            <div class="testimonial-avatar testimonial-avatar--blue" data-ar="ن" data-en="N">ن</div>
-            <div>
-              <div class="testimonial-name" data-ar="نور ح." data-en="Nour H.">نور ح.</div>
-              <div class="testimonial-role" data-ar="صيدلانية" data-en="Pharmacist">صيدلانية</div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <!-- Trust Bar -->
-  <section class="trust" aria-label="Trust indicators">
-    <div class="trust-inner">
-      <div class="trust-grid">
-        <div class="trust-item reveal">
-          <div class="trust-icon trust-icon--teal">
-            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 2a3 3 0 0 0-3 3v7a3 3 0 0 0 6 0V5a3 3 0 0 0-3-3z"/><path d="M19 10v2a7 7 0 0 1-14 0v-2"/></svg>
-          </div>
-          <div class="trust-text" data-ar="Claude AI" data-en="Claude AI">Claude AI<span data-ar="ذكاء اصطناعي متقدم" data-en="Advanced AI Engine">ذكاء اصطناعي متقدم</span></div>
-        </div>
-        <div class="trust-item reveal reveal-delay-1">
-          <div class="trust-icon trust-icon--blue">
-            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 12h-4l-3 9L9 3l-3 9H2"/></svg>
-          </div>
-          <div class="trust-text" data-ar="Apple Health" data-en="Apple Health">Apple Health<span data-ar="مزامنة كاملة" data-en="Full Sync">مزامنة كاملة</span></div>
-        </div>
-        <div class="trust-item reveal reveal-delay-2">
-          <div class="trust-icon trust-icon--purple">
-            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
-          </div>
-          <div class="trust-text" data-ar="E2E تشفير" data-en="E2E Encrypted">E2E تشفير<span data-ar="خصوصية كاملة" data-en="Full Privacy">خصوصية كاملة</span></div>
-        </div>
-        <div class="trust-item reveal reveal-delay-3">
-          <div class="trust-icon trust-icon--amber">
-            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg>
-          </div>
-          <div class="trust-text" data-ar="GDPR" data-en="GDPR">GDPR<span data-ar="متوافق بالكامل" data-en="Fully Compliant">متوافق بالكامل</span></div>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <!-- Sibling project: LabSyria -->
-  <section class="sibling" aria-labelledby="sibling-title">
-    <div class="sibling-inner">
-      <div class="sibling-card reveal">
-        <a class="sibling-logo" href="https://labsyria.com" target="_blank" rel="noopener">
-          <img src="/labsyria-logo.png" alt="LabSyria - Innovating diagnostics. Empowering health." width="1033" height="276" loading="lazy">
-        </a>
-        <div class="sibling-body">
-          <div class="section-tag" data-ar="من مجموعتنا" data-en="From our family">من مجموعتنا</div>
-          <h2 class="sibling-title" id="sibling-title" data-ar="الدعم المتكامل لمختبرك" data-en="Complete support for your laboratory">الدعم المتكامل لمختبرك</h2>
-          <p class="sibling-text" data-ar="LabSyria تخدم المخابر والعيادات في سوريا: أجهزة ومستلزمات التشخيص المخبري، وأنظمة معلومات مخبرية LIMS، وأكاديمية عربية مجانية بشهادات قابلة للتحقق. من المختبر، إلى النتيجة، إلى المريض." data-en="LabSyria serves laboratories and clinics across Syria: IVD instruments and supplies, lab information systems, and a free Arabic academy with verifiable certificates. From the lab, to the result, to the patient.">LabSyria تخدم المخابر والعيادات في سوريا: أجهزة ومستلزمات التشخيص المخبري، وأنظمة معلومات مخبرية LIMS، وأكاديمية عربية مجانية بشهادات قابلة للتحقق. من المختبر، إلى النتيجة، إلى المريض.</p>
-          <a class="sibling-link" href="https://labsyria.com" target="_blank" rel="noopener">
-            <span data-ar="زيارة LabSyria" data-en="Visit LabSyria">زيارة LabSyria</span>
-            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><line x1="7" y1="17" x2="17" y2="7"/><polyline points="7 7 17 7 17 17"/></svg>
-          </a>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <!-- Why trust Sihtak -->
-  <style>
-    .trust-band{padding:74px 24px;}
-    .trust-inner{max-width:1080px;margin:0 auto;}
-    .trust-head{text-align:center;max-width:600px;margin:0 auto 40px;}
-    .trust-eyebrow{font-family:'Inter','Tajawal',sans-serif;font-size:12.5px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--teal);margin:0 0 12px;}
-    .trust-head h2{font-size:clamp(24px,3.6vw,34px);color:var(--text);margin:0;font-weight:800;}
-    .trust-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:16px;}
-    .trust-card{background:var(--bg-card);border:1px solid var(--border);border-radius:16px;padding:24px 20px;text-align:center;}
-    .trust-ic{width:46px;height:46px;margin:0 auto 14px;display:flex;align-items:center;justify-content:center;border-radius:13px;background:rgba(87,168,162,.14);color:var(--teal);}
-    .trust-ic svg{width:23px;height:23px;}
-    .trust-card h3{color:var(--text);font-size:15.5px;margin:0 0 6px;font-weight:700;}
-    .trust-card p{color:var(--text-m);font-size:13px;line-height:1.6;margin:0;}
-    @media(max-width:820px){.trust-grid{grid-template-columns:1fr 1fr;}}
-    @media(max-width:520px){.trust-grid{grid-template-columns:1fr;}}
-  </style>
-  <section class="trust-band" aria-labelledby="trust-title">
-    <div class="trust-inner">
-      <div class="trust-head reveal">
-        <p class="trust-eyebrow" data-ar="لماذا تطمئن" data-en="Why you can trust it">لماذا تطمئن</p>
-        <h2 id="trust-title" data-ar="صحتك آمنة، وخصوصيتك أولاً" data-en="Your health is safe, and your privacy comes first">صحتك آمنة، وخصوصيتك أولاً</h2>
-      </div>
-      <div class="trust-grid">
-        <div class="trust-card reveal">
-          <div class="trust-ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg></div>
-          <h3 data-ar="مجاني بلا إعلانات" data-en="Free, no ads">مجاني بلا إعلانات</h3>
-          <p data-ar="لا إعلانات، ولا نبيع بياناتك أبداً." data-en="No ads, and we never sell your data.">لا إعلانات، ولا نبيع بياناتك أبداً.</p>
-        </div>
-        <div class="trust-card reveal">
-          <div class="trust-ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="11" width="18" height="11" rx="2"/><path d="M7 11V7a5 5 0 0 1 10 0v4"/></svg></div>
-          <h3 data-ar="مشفّر ومحمي" data-en="Encrypted and secure">مشفّر ومحمي</h3>
-          <p data-ar="بياناتك مشفّرة ومحمية ببصمتك أو وجهك." data-en="Your data is encrypted and locked with your fingerprint or face.">بياناتك مشفّرة ومحمية ببصمتك أو وجهك.</p>
-        </div>
-        <div class="trust-card reveal">
-          <div class="trust-ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/></svg></div>
-          <h3 data-ar="بياناتك ملكك" data-en="Your data is yours">بياناتك ملكك</h3>
-          <p data-ar="متوافق مع GDPR: صدّر أو احذف كل شيء وقت ما تشاء." data-en="GDPR compliant: export or delete everything anytime.">متوافق مع GDPR: صدّر أو احذف كل شيء وقت ما تشاء.</p>
-        </div>
-        <div class="trust-card reveal">
-          <div class="trust-ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M12 8v4l3 2"/></svg></div>
-          <h3 data-ar="مساعد متحفّظ" data-en="A cautious assistant">مساعد متحفّظ</h3>
-          <p data-ar="يشرح ولا يشخّص، ويحيلك دائماً إلى الطبيب." data-en="It explains, it does not diagnose, and always points you to a doctor.">يشرح ولا يشخّص، ويحيلك دائماً إلى الطبيب.</p>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <!-- FAQ -->
+  <!-- FAQ: the JSON-LD in <head> is generated from these items -->
   <section class="faq" id="faq" aria-labelledby="faq-title">
     <div class="faq-inner">
-      <div class="section-head reveal">
-        <div class="section-tag" data-ar="أسئلة شائعة" data-en="FAQ">أسئلة شائعة</div>
-        <h2 class="section-title" id="faq-title" data-ar="أسئلة شائعة" data-en="Frequently Asked Questions">أسئلة شائعة</h2>
+      <div class="section-head">
+        <h2 class="section-title" id="faq-title" data-ar="أسئلة شائعة" data-en="Frequently asked questions">أسئلة شائعة</h2>
       </div>
-      <div class="reveal">
+      <div>
         <div class="faq-item">
-          <button class="faq-q" onclick="this.parentElement.classList.toggle('open')">
-            <span data-ar="هل التطبيق مجاني فعلاً؟" data-en="Is the app really free?">هل التطبيق مجاني فعلاً؟</span>
-            <svg class="faq-arrow" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"/></svg>
-          </button>
-          <div class="faq-a"><p data-ar="نعم، صحتك مجاني بالكامل للتحميل والاستخدام. لا توجد إعلانات ولا نبيع بياناتك أبداً. يتوفر اشتراكات اختيارية للمزايا المتقدمة مثل محادثات ذكاء اصطناعي غير محدودة والوضع الصوتي." data-en="Yes, Sihtak is completely free to download and use. There are no ads and we never sell your data. Optional subscriptions are available for advanced features like unlimited AI chats and voice mode.">نعم، صحتك مجاني بالكامل للتحميل والاستخدام. لا توجد إعلانات ولا نبيع بياناتك أبداً. يتوفر اشتراكات اختيارية للمزايا المتقدمة مثل محادثات ذكاء اصطناعي غير محدودة والوضع الصوتي.</p></div>
+          <button class="faq-q" onclick="this.parentElement.classList.toggle('open')"><span data-ar="هل صحتك مجاني؟" data-en="Is Sihtak free?">هل صحتك مجاني؟</span><svg class="faq-arrow" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"/></svg></button>
+          <div class="faq-a"><p data-ar="نعم. صحتك مجاني بالكامل للجميع، بلا إعلانات، ولا نبيع بياناتك." data-en="Yes. Sihtak is completely free for everyone, with no ads, and we never sell your data.">نعم. صحتك مجاني بالكامل للجميع، بلا إعلانات، ولا نبيع بياناتك.</p></div>
         </div>
         <div class="faq-item">
-          <button class="faq-q" onclick="this.parentElement.classList.toggle('open')">
-            <span data-ar="كيف يعمل المساعد الذكي؟" data-en="How does the AI assistant work?">كيف يعمل المساعد الذكي؟</span>
-            <svg class="faq-arrow" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"/></svg>
-          </button>
-          <div class="faq-a"><p data-ar="المساعد مدعوم بتقنية Claude AI ويفهم سياقك الطبي الكامل: أدويتك، تحاليلك، أمراضك، علاماتك الحيوية، وبيانات العافية. يمكنك التحدث معه بالصوت أو الكتابة بالعربي والإنجليزي. يقدم فحص أعراض، كشف تفاعلات أدوية، تحليل اتجاهات ٩٠ يوماً، ورؤى صحية يومية." data-en="The assistant is powered by Claude AI and understands your complete medical context: medications, labs, conditions, vitals, and wellness data. You can chat by voice or text in Arabic and English. It provides symptom checking, drug interaction detection, 90-day trend analysis, and daily health insights.">المساعد مدعوم بتقنية Claude AI ويفهم سياقك الطبي الكامل: أدويتك، تحاليلك، أمراضك، علاماتك الحيوية، وبيانات العافية. يمكنك التحدث معه بالصوت أو الكتابة بالعربي والإنجليزي. يقدم فحص أعراض، كشف تفاعلات أدوية، تحليل اتجاهات ٩٠ يوماً، ورؤى صحية يومية.</p></div>
+          <button class="faq-q" onclick="this.parentElement.classList.toggle('open')"><span data-ar="كيف يذكّرني صحتك بمواعيد الأدوية؟" data-en="How does Sihtak remind me to take my medicines?">كيف يذكّرني صحتك بمواعيد الأدوية؟</span><svg class="faq-arrow" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"/></svg></button>
+          <div class="faq-a"><p data-ar="أضف الدواء وجرعته ومواعيده، فيصلك تنبيه في وقت كل جرعة. سجّل أخذها بلمسة، وتابع التزامك أسبوعاً بعد أسبوع، واحصل على تنبيه عند اقتراب نفاد الدواء." data-en="Add the medicine, its dose and its times, and you get a notification at every dose. Log it with one tap, follow how well you keep to it week by week, and get an alert when the medicine is running low.">أضف الدواء وجرعته ومواعيده، فيصلك تنبيه في وقت كل جرعة. سجّل أخذها بلمسة، وتابع التزامك أسبوعاً بعد أسبوع، واحصل على تنبيه عند اقتراب نفاد الدواء.</p></div>
         </div>
         <div class="faq-item">
-          <button class="faq-q" onclick="this.parentElement.classList.toggle('open')">
-            <span data-ar="هل يمكنني مسح تحاليلي بالكاميرا؟" data-en="Can I scan my lab results with the camera?">هل يمكنني مسح تحاليلي بالكاميرا؟</span>
-            <svg class="faq-arrow" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"/></svg>
-          </button>
-          <div class="faq-a"><p data-ar="نعم! صوّر ورقة التحليل وسيستخرج التطبيق كل النتائج تلقائياً بتقنية OCR. ثم يحلل الذكاء الاصطناعي كل قيمة ويميّز القيم الطبيعية وغير الطبيعية ويقدم تفسيراً طبياً تفهمه." data-en="Yes! Photograph your lab report and the app extracts all results automatically using OCR. Then AI analyzes each value, highlights normal and abnormal results, and provides a clinical interpretation you can understand.">نعم! صوّر ورقة التحليل وسيستخرج التطبيق كل النتائج تلقائياً بتقنية OCR. ثم يحلل الذكاء الاصطناعي كل قيمة ويميّز القيم الطبيعية وغير الطبيعية ويقدم تفسيراً طبياً تفهمه.</p></div>
+          <button class="faq-q" onclick="this.parentElement.classList.toggle('open')"><span data-ar="كيف يشرح صحتك نتائج التحاليل؟" data-en="How does Sihtak explain lab results?">كيف يشرح صحتك نتائج التحاليل؟</span><svg class="faq-arrow" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"/></svg></button>
+          <div class="faq-a"><p data-ar="صوّر ورقة التحليل بكاميرا الهاتف، فيقرأ صحتك القيم ويرتبها مع معدلاتها الطبيعية، ويشرح كل قيمة بلغة واضحة، ويقارنها بنتائجك السابقة. الشرح للفهم، أما التشخيص فلطبيبك." data-en="Photograph the report with your phone camera. Sihtak reads the values, lays them out with their normal ranges, explains each one in plain language and compares it with your earlier results. The explanation is there to help you understand; diagnosis is for your doctor.">صوّر ورقة التحليل بكاميرا الهاتف، فيقرأ صحتك القيم ويرتبها مع معدلاتها الطبيعية، ويشرح كل قيمة بلغة واضحة، ويقارنها بنتائجك السابقة. الشرح للفهم، أما التشخيص فلطبيبك.</p></div>
         </div>
         <div class="faq-item">
-          <button class="faq-q" onclick="this.parentElement.classList.toggle('open')">
-            <span data-ar="هل بياناتي الصحية آمنة؟" data-en="Is my health data secure?">هل بياناتي الصحية آمنة؟</span>
-            <svg class="faq-arrow" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"/></svg>
-          </button>
-          <div class="faq-a"><p data-ar="بالتأكيد. نستخدم تشفيراً كاملاً ومصادقة بيومترية (Face ID / Touch ID) وتخزيناً آمناً للتوكنات. بياناتك لا تُباع ولا تُشارك مع أي طرف ثالث أبداً. التطبيق متوافق مع GDPR ويدعم تصدير البيانات وحذف الحساب بالكامل." data-en="Absolutely. We use end-to-end encryption, biometric authentication (Face ID / Touch ID), and secure token storage. Your data is never sold or shared with any third party. The app is GDPR compliant and supports full data export and account deletion.">بالتأكيد. نستخدم تشفيراً كاملاً ومصادقة بيومترية (Face ID / Touch ID) وتخزيناً آمناً للتوكنات. بياناتك لا تُباع ولا تُشارك مع أي طرف ثالث أبداً. التطبيق متوافق مع GDPR ويدعم تصدير البيانات وحذف الحساب بالكامل.</p></div>
+          <button class="faq-q" onclick="this.parentElement.classList.toggle('open')"><span data-ar="ماذا يستطيع المساعد الصحي أن يفعل؟" data-en="What can the health assistant do?">ماذا يستطيع المساعد الصحي أن يفعل؟</span><svg class="faq-arrow" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"/></svg></button>
+          <div class="faq-a"><p data-ar="يجيب عن أسئلتك الصحية العامة بالعربية أو الإنجليزية، كتابةً أو بصوتك، ويأخذ في الحسبان أدويتك وتحاليلك المسجلة إن سمحت له بذلك. لا يشخّص ولا يصف علاجاً، ويوجّهك إلى الطبيب عند الحاجة." data-en="It answers general health questions in Arabic or English, by text or voice, and takes your listed medicines and results into account if you allow it. It does not diagnose or prescribe, and it points you to a doctor when you need one.">يجيب عن أسئلتك الصحية العامة بالعربية أو الإنجليزية، كتابةً أو بصوتك، ويأخذ في الحسبان أدويتك وتحاليلك المسجلة إن سمحت له بذلك. لا يشخّص ولا يصف علاجاً، ويوجّهك إلى الطبيب عند الحاجة.</p></div>
         </div>
         <div class="faq-item">
-          <button class="faq-q" onclick="this.parentElement.classList.toggle('open')">
-            <span data-ar="هل يعمل بدون إنترنت؟" data-en="Does it work offline?">هل يعمل بدون إنترنت؟</span>
-            <svg class="faq-arrow" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"/></svg>
-          </button>
-          <div class="faq-a"><p data-ar="نعم. التطبيق مبني بمعمارية offline-first: بياناتك الصحية محفوظة محلياً فيمكنك عرض أدويتك وعلاماتك الحيوية وتحاليلك بدون إنترنت. الطلبات الفاشلة تُحفظ تلقائياً وتُرسل عند عودة الاتصال." data-en="Yes. The app uses an offline-first architecture: your health data is cached locally so you can view medications, vitals, and lab results without internet. Failed requests are queued and synced when connectivity returns.">نعم. التطبيق مبني بمعمارية offline-first: بياناتك الصحية محفوظة محلياً فيمكنك عرض أدويتك وعلاماتك الحيوية وتحاليلك بدون إنترنت. الطلبات الفاشلة تُحفظ تلقائياً وتُرسل عند عودة الاتصال.</p></div>
+          <button class="faq-q" onclick="this.parentElement.classList.toggle('open')"><span data-ar="في أي الدول يعمل صحتك؟" data-en="Which countries does Sihtak work in?">في أي الدول يعمل صحتك؟</span><svg class="faq-arrow" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"/></svg></button>
+          <div class="faq-a"><p data-ar="يعمل صحتك في الدول العربية كلها وخارجها، على أندرويد وآيفون. أما دليل العيادات والحجز فمتاح في المدن التي انضمت فيها عيادات، ويتوسع تباعاً." data-en="Sihtak works across the Arab world and beyond, on Android and iPhone. The clinic directory and booking are live in cities where clinics have joined, and grow as more do.">يعمل صحتك في الدول العربية كلها وخارجها، على أندرويد وآيفون. أما دليل العيادات والحجز فمتاح في المدن التي انضمت فيها عيادات، ويتوسع تباعاً.</p></div>
         </div>
         <div class="faq-item">
-          <button class="faq-q" onclick="this.parentElement.classList.toggle('open')">
-            <span data-ar="ما هي اللغات التي يدعمها صحتك؟" data-en="What languages does Sihtak support?">ما هي اللغات التي يدعمها صحتك؟</span>
-            <svg class="faq-arrow" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"/></svg>
-          </button>
-          <div class="faq-a"><p data-ar="صحتك ثنائي اللغة بالكامل: عربي وإنجليزي. الواجهة بالكامل، المساعد الذكي، الوضع الصوتي، وجميع الإشعارات تعمل بسلاسة بكلتا اللغتين. يمكنك تبديل اللغة في أي وقت من الإعدادات." data-en="Sihtak is fully bilingual in Arabic and English. The entire interface, AI assistant, voice mode, and all notifications work seamlessly in both languages. You can switch languages anytime from settings.">صحتك ثنائي اللغة بالكامل: عربي وإنجليزي. الواجهة بالكامل، المساعد الذكي، الوضع الصوتي، وجميع الإشعارات تعمل بسلاسة بكلتا اللغتين. يمكنك تبديل اللغة في أي وقت من الإعدادات.</p></div>
+          <button class="faq-q" onclick="this.parentElement.classList.toggle('open')"><span data-ar="هل أستطيع متابعة صحة عائلتي؟" data-en="Can I look after my family's health?">هل أستطيع متابعة صحة عائلتي؟</span><svg class="faq-arrow" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"/></svg></button>
+          <div class="faq-a"><p data-ar="نعم. أضف والديك أو أطفالك إلى حسابك، وتابع أدويتهم وتحاليلهم ومواعيدهم من مكان واحد." data-en="Yes. Add your parents or children to your account and follow their medicines, results and visits in one place.">نعم. أضف والديك أو أطفالك إلى حسابك، وتابع أدويتهم وتحاليلهم ومواعيدهم من مكان واحد.</p></div>
         </div>
         <div class="faq-item">
-          <button class="faq-q" onclick="this.parentElement.classList.toggle('open')">
-            <span data-ar="كيف يعمل متتبع الأدوية؟" data-en="How does the medication tracker work?">كيف يعمل متتبع الأدوية؟</span>
-            <svg class="faq-arrow" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"/></svg>
-          </button>
-          <div class="faq-a"><p data-ar="أضف أدويتك مع الجرعة والتكرار والجدول. صحتك يرسل تذكيرات ذكية، يتتبع الالتزام، يفحص تفاعلات الأدوية مع بعضها ومع الطعام باستخدام قاعدة بيانات طبية، وينبهك للآثار الجانبية المحتملة. يمكن لطبيبك أيضاً عرض قائمة أدويتك إذا شاركت الوصول." data-en="Add your medications with dosage, frequency, and schedule. Sihtak sends smart reminders, tracks adherence, checks for drug-drug and drug-food interactions using a clinical database, and alerts you to potential side effects. Your doctor can also view your medication list if you share access.">أضف أدويتك مع الجرعة والتكرار والجدول. صحتك يرسل تذكيرات ذكية، يتتبع الالتزام، يفحص تفاعلات الأدوية مع بعضها ومع الطعام باستخدام قاعدة بيانات طبية، وينبهك للآثار الجانبية المحتملة. يمكن لطبيبك أيضاً عرض قائمة أدويتك إذا شاركت الوصول.</p></div>
+          <button class="faq-q" onclick="this.parentElement.classList.toggle('open')"><span data-ar="هل بياناتي الصحية آمنة؟" data-en="Is my health data safe?">هل بياناتي الصحية آمنة؟</span><svg class="faq-arrow" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"/></svg></button>
+          <div class="faq-a"><p data-ar="تنتقل بياناتك مشفرة، ويمكنك قفل التطبيق ببصمتك أو وجهك. لا إعلانات في التطبيق، ولا نبيع بياناتك، ويمكنك حذف حسابك وبياناته في أي وقت." data-en="Your data travels encrypted and you can lock the app with your fingerprint or face. There are no ads, we never sell your data, and you can delete your account and its data at any time.">تنتقل بياناتك مشفرة، ويمكنك قفل التطبيق ببصمتك أو وجهك. لا إعلانات في التطبيق، ولا نبيع بياناتك، ويمكنك حذف حسابك وبياناته في أي وقت.</p></div>
         </div>
         <div class="faq-item">
-          <button class="faq-q" onclick="this.parentElement.classList.toggle('open')">
-            <span data-ar="هل يمكنني مشاركة بياناتي مع طبيبي؟" data-en="Can I share my health data with my doctor?">هل يمكنني مشاركة بياناتي مع طبيبي؟</span>
-            <svg class="faq-arrow" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"/></svg>
-          </button>
-          <div class="faq-a"><p data-ar="نعم. ميزة جواز السفر الصحي تمكّنك من إنشاء ملخص قابل للمشاركة لملفك الطبي، بما في ذلك الأدوية، نتائج التحاليل، الأمراض، الحساسيات، والعلامات الحيوية، ويمكنك مشاركته مع أي مقدم رعاية صحية عبر رابط آمن أو PDF." data-en="Yes. The Health Passport feature lets you generate a shareable summary of your medical profile, including medications, lab results, conditions, allergies, and vitals, which you can share with any healthcare provider via a secure link or PDF.">نعم. ميزة جواز السفر الصحي تمكّنك من إنشاء ملخص قابل للمشاركة لملفك الطبي، بما في ذلك الأدوية، نتائج التحاليل، الأمراض، الحساسيات، والعلامات الحيوية، ويمكنك مشاركته مع أي مقدم رعاية صحية عبر رابط آمن أو PDF.</p></div>
+          <button class="faq-q" onclick="this.parentElement.classList.toggle('open')"><span data-ar="أنا طبيب أو أدير مختبراً، كيف أنضم؟" data-en="I run a clinic or a lab. How do I join?">أنا طبيب أو أدير مختبراً، كيف أنضم؟</span><svg class="faq-arrow" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"/></svg></button>
+          <div class="faq-a"><p data-ar="الحساب المهني مجاني للعيادات والمختبرات. أنشئ ملفك من بوابة صحتك على portal.sihtak.com، وأدر المواعيد وسجلات المراجعين من الهاتف أو المتصفح." data-en="The professional account is free for clinics and labs. Create your profile on the Sihtak portal at portal.sihtak.com and manage bookings and patient records from your phone or browser.">الحساب المهني مجاني للعيادات والمختبرات. أنشئ ملفك من بوابة صحتك على portal.sihtak.com، وأدر المواعيد وسجلات المراجعين من الهاتف أو المتصفح.</p></div>
         </div>
         <div class="faq-item">
-          <button class="faq-q" onclick="this.parentElement.classList.toggle('open')">
-            <span data-ar="هل يوجد ميزة مشاركة عائلية؟" data-en="Does Sihtak have a family sharing feature?">هل يوجد ميزة مشاركة عائلية؟</span>
-            <svg class="faq-arrow" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"/></svg>
-          </button>
-          <div class="faq-a"><p data-ar="نعم. ميزة الروابط الاجتماعية تمكّنك من التواصل مع أفراد العائلة ومقدمي الرعاية. يمكنك مشاركة التحديثات الصحية، تنسيق الرعاية، وإدارة الملفات الصحية للأطفال أو كبار السن. كل ذلك داخل التطبيق." data-en="Yes. The Social Connections feature lets you connect with family members and caregivers. You can share health updates, coordinate care, and manage health profiles for children or elderly family members, all within the app.">نعم. ميزة الروابط الاجتماعية تمكّنك من التواصل مع أفراد العائلة ومقدمي الرعاية. يمكنك مشاركة التحديثات الصحية، تنسيق الرعاية، وإدارة الملفات الصحية للأطفال أو كبار السن. كل ذلك داخل التطبيق.</p></div>
-        </div>
-        <div class="faq-item">
-          <button class="faq-q" onclick="this.parentElement.classList.toggle('open')">
-            <span data-ar="هل يوجد متتبع للدورة الشهرية؟" data-en="Is there a period and cycle tracker?">هل يوجد متتبع للدورة الشهرية؟</span>
-            <svg class="faq-arrow" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"/></svg>
-          </button>
-          <div class="faq-a"><p data-ar="نعم. صحتك يتضمن متتبع كامل للدورة الشهرية مع تسجيل الدورة، توقعات الدورة، تتبع الأعراض، ورؤى مدعومة بالذكاء الاصطناعي. يتكامل مع ملفك الصحي الشامل حتى يتمكن المساعد الذكي من مراعاة دورتك في توصياته الصحية." data-en="Yes. Sihtak includes a full menstrual cycle tracker with period logging, cycle predictions, symptom tracking, and AI-powered insights. It integrates with your overall health profile so the AI assistant can consider your cycle in its health recommendations.">نعم. صحتك يتضمن متتبع كامل للدورة الشهرية مع تسجيل الدورة، توقعات الدورة، تتبع الأعراض، ورؤى مدعومة بالذكاء الاصطناعي. يتكامل مع ملفك الصحي الشامل حتى يتمكن المساعد الذكي من مراعاة دورتك في توصياته الصحية.</p></div>
-        </div>
-        <div class="faq-item">
-          <button class="faq-q" onclick="this.parentElement.classList.toggle('open')">
-            <span data-ar="هل صحتك متوفر على أندرويد؟" data-en="Is Sihtak available on Android?">هل صحتك متوفر على أندرويد؟</span>
-            <svg class="faq-arrow" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"/></svg>
-          </button>
-          <div class="faq-a"><p data-ar="نعم. صحتك متوفر على Google Play للأندرويد وعلى App Store للآيفون، مجاناً على الاثنين. حمّله من الروابط أعلاه أو تابعنا على إنستغرام @sihtak_app." data-en="Yes. Sihtak is on Google Play for Android and on the App Store for iPhone, free on both. Download it from the links above or follow us on Instagram @sihtak_app.">نعم. صحتك متوفر على Google Play للأندرويد وعلى App Store للآيفون، مجاناً على الاثنين. حمّله من الروابط أعلاه أو تابعنا على إنستغرام @sihtak_app.</p></div>
-        </div>
-        <div class="faq-item">
-          <button class="faq-q" onclick="this.parentElement.classList.toggle('open')">
-            <span data-ar="ما الذي يميز صحتك عن تطبيقات الصحة الأخرى؟" data-en="What makes Sihtak different from other health apps?">ما الذي يميز صحتك عن تطبيقات الصحة الأخرى؟</span>
-            <svg class="faq-arrow" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"/></svg>
-          </button>
-          <div class="faq-a"><p data-ar="صحتك يجمع ١٢+ أداة صحية في تطبيق واحد مدعوم بالذكاء الاصطناعي: محادثة ذكية صوتية، ماسح تحاليل بتقنية OCR، كاشف تفاعلات أدوية، فاحص أعراض، متتبع أدوية، تسجيل علامات حيوية، متتبع دورة شهرية، جواز سفر صحي، والمزيد. معظم التطبيقات تفعل شيئاً واحداً. صحتك يربط كل شيء بذكاء اصطناعي يفهم سياقك الطبي الكامل." data-en="Sihtak combines 12+ health tools into one AI-powered app: voice AI chat, lab scanner with OCR, drug interaction checker, symptom checker, medication tracker, vitals logging, period tracker, health passport, and more. Most health apps do one thing. Sihtak connects everything with AI that understands your full medical context.">صحتك يجمع ١٢+ أداة صحية في تطبيق واحد مدعوم بالذكاء الاصطناعي: محادثة ذكية صوتية، ماسح تحاليل بتقنية OCR، كاشف تفاعلات أدوية، فاحص أعراض، متتبع أدوية، تسجيل علامات حيوية، متتبع دورة شهرية، جواز سفر صحي، والمزيد. معظم التطبيقات تفعل شيئاً واحداً. صحتك يربط كل شيء بذكاء اصطناعي يفهم سياقك الطبي الكامل.</p></div>
-        </div>
-        <div class="faq-item">
-          <button class="faq-q" onclick="this.parentElement.classList.toggle('open')">
-            <span data-ar="هل يمكنني تصدير أو حذف بياناتي؟" data-en="Can I export or delete my data?">هل يمكنني تصدير أو حذف بياناتي؟</span>
-            <svg class="faq-arrow" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"/></svg>
-          </button>
-          <div class="faq-a"><p data-ar="نعم. صحتك متوافق بالكامل مع GDPR. يمكنك تصدير جميع بياناتك الصحية في أي وقت من الإعدادات، ويمكنك حذف حسابك وجميع البيانات المرتبطة نهائياً. نؤمن أن بياناتك الصحية ملكك أنت." data-en="Yes. Sihtak is fully GDPR compliant. You can export all your health data at any time from Settings, and you can permanently delete your account and all associated data. We believe your health data belongs to you.">نعم. صحتك متوافق بالكامل مع GDPR. يمكنك تصدير جميع بياناتك الصحية في أي وقت من الإعدادات، ويمكنك حذف حسابك وجميع البيانات المرتبطة نهائياً. نؤمن أن بياناتك الصحية ملكك أنت.</p></div>
+          <button class="faq-q" onclick="this.parentElement.classList.toggle('open')"><span data-ar="هل يغني صحتك عن الطبيب؟" data-en="Does Sihtak replace my doctor?">هل يغني صحتك عن الطبيب؟</span><svg class="faq-arrow" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"/></svg></button>
+          <div class="faq-a"><p data-ar="لا. صحتك يساعدك على الفهم والتنظيم والتذكّر، ويبقى القرار الطبي لطبيبك." data-en="No. Sihtak helps you understand, organise and remember; medical decisions stay with your doctor.">لا. صحتك يساعدك على الفهم والتنظيم والتذكّر، ويبقى القرار الطبي لطبيبك.</p></div>
         </div>
       </div>
     </div>
   </section>
 
-  <!-- CTA -->
-  <section class="cta" aria-labelledby="cta-title">
-    <div class="light-orb light-orb--lg light-orb--teal" style="top:-20%;left:20%;" aria-hidden="true"></div>
-    <div class="light-orb light-orb--md light-orb--blue light-orb--delay-1" style="bottom:-10%;right:20%;" aria-hidden="true"></div>
-    <div class="light-orb light-orb--sm light-orb--purple light-orb--delay-2" style="top:40%;right:5%;" aria-hidden="true"></div>
-    <img src="/images/shield.svg" alt="" class="floater floater--top-left" width="120" height="144" aria-hidden="true" style="opacity:0.5;">
-    <img src="/images/brain.svg" alt="" class="floater floater--bottom-right" width="130" height="130" aria-hidden="true" style="opacity:0.5;">
-    <img src="/images/wave.svg" alt="" class="floater floater--mid-left" width="220" height="110" aria-hidden="true" style="opacity:0.4;">
-    <div class="cta-content reveal">
-      <h2 id="cta-title">
-        <span data-ar="صحتك تستحق الأفضل." data-en="Your health deserves better.">صحتك تستحق الأفضل.</span><br>
-        <span class="gradient-text" data-ar="ابدأ الآن، مجاناً." data-en="Start now, for free.">ابدأ الآن، مجاناً.</span>
-      </h2>
-      <p class="cta-sub" data-ar="ذكاء اصطناعي. محادثات صوتية. ماسح تحاليل. متابعة أدوية. تغذية وتمارين ونوم ودورة. صحة عائلة. جواز صحي PDF. كل هذا مجاناً." data-en="AI assistant. Voice chat. Lab scanner. Medication tracking. Nutrition, exercise, sleep & period. Family health. PDF passport. All free.">ذكاء اصطناعي. محادثات صوتية. ماسح تحاليل. متابعة أدوية. تغذية وتمارين ونوم ودورة. صحة عائلة. جواز صحي PDF. كل هذا مجاناً.</p>
-      <div class="hero-ctas" style="justify-content: center;">
-        <a href="https://play.google.com/store/apps/details?id=com.sihhati.app" class="btn btn-primary btn-lg" target="_blank" rel="noopener">
-          <span data-ar="حمّل من Google Play" data-en="Get it on Google Play">حمّل من Google Play</span>
-        </a>
-        <a href="https://apps.apple.com/us/app/sihtak-%D8%B5%D8%AD%D8%AA%D9%83/id6764330989" class="btn btn-ghost btn-lg" target="_blank" rel="noopener">
-          <span data-ar="حمّل من App Store" data-en="Download on the App Store">حمّل من App Store</span>
-        </a>
-      </div>
-      <p style="margin-top:14px;font-size:14px;color:var(--text-m);">
-        <span data-ar="متوفر الآن على iPhone و Android · تابعنا على" data-en="Available now on iPhone and Android · Follow us on">متوفر الآن على iPhone و Android · تابعنا على</span>
-        <a href="https://instagram.com/sihtak_app" style="color:var(--teal);font-weight:600;" target="_blank" rel="noopener">@sihtak_app</a>
-      </p>
-      <div class="cta-badges">
-        <span class="cta-badge">
-          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
-          <span data-ar="تشفير كامل" data-en="End-to-end encrypted">تشفير كامل</span>
-        </span>
-        <span class="cta-badge">
-          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg>
-          <span data-ar="بدون إعلانات" data-en="No ads">بدون إعلانات</span>
-        </span>
-        <span class="cta-badge">
-          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="1" y="5" width="22" height="14" rx="7" ry="7"/><circle cx="16" cy="12" r="3"/></svg>
-          <span data-ar="Face ID / Touch ID" data-en="Face ID / Touch ID">Face ID / Touch ID</span>
-        </span>
-      </div>
-    </div>
-  </section>
-
-  <!-- Free health hub band -->
-  <style>
-    .hub-band .hub-grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(240px,1fr)); gap:18px; }
-    .hub-card { display:flex; flex-direction:column; gap:10px; background:var(--bg-card); border:1px solid var(--border); border-radius:16px; padding:24px; transition:transform .2s, border-color .2s, background .2s; }
-    .hub-card:hover { transform:translateY(-3px); border-color:var(--teal-glow); background:var(--bg-card-h); }
-    .hub-card .ic { width:44px; height:44px; display:flex; align-items:center; justify-content:center; border-radius:12px; background:var(--teal-dim); color:var(--teal); }
-    .hub-card h3 { color:var(--text); font-size:18px; margin:0; }
-    .hub-card p { color:var(--text-m); font-size:14.5px; line-height:1.7; margin:0; }
-    .hub-card .go { color:var(--teal); font-weight:700; font-size:14px; margin-top:auto; }
-  </style>
-  <section class="hub-band" aria-labelledby="hub-title" style="padding:72px 0;border-top:1px solid var(--border);">
-    <div class="container">
-      <div class="reveal" style="text-align:center;max-width:640px;margin:0 auto 40px;">
-        <span style="display:inline-block;font-size:12.5px;font-weight:700;color:var(--teal);background:var(--teal-dim);border:1px solid var(--teal-glow);border-radius:999px;padding:5px 14px;margin-bottom:14px;" data-ar="مجاني ومفتوح للجميع" data-en="Free and open to everyone">مجاني ومفتوح للجميع</span>
-        <h2 id="hub-title" style="font-size:clamp(26px,4vw,36px);color:var(--text);margin-bottom:12px;" data-ar="أكثر من مجرد تطبيق" data-en="More than just an app">أكثر من مجرد تطبيق</h2>
-        <p style="color:var(--text-m);font-size:17px;line-height:1.8;" data-ar="صحتك منصة معرفة صحية: مقالات موثوقة بالعربية وأدوات وحاسبات مجانية تستخدمها الآن مباشرة في متصفحك دون تحميل أي شيء." data-en="Sihtak is a health knowledge platform: trusted Arabic articles and free tools and calculators you can use right now in your browser, no download needed.">صحتك منصة معرفة صحية: مقالات موثوقة بالعربية وأدوات وحاسبات مجانية تستخدمها الآن مباشرة في متصفحك دون تحميل أي شيء.</p>
-      </div>
-      <div class="hub-grid">
-        <a class="hub-card reveal" href="/articles/" data-href-ar="/articles/" data-href-en="/en/articles/">
-          <span class="ic"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M4 4a2 2 0 0 1 2-2h9l5 5v13a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2z"/><polyline points="14 2 14 8 20 8"/><line x1="8" y1="13" x2="16" y2="13"/><line x1="8" y1="17" x2="14" y2="17"/></svg></span>
-          <h3 data-ar="مقالات صحية موثوقة" data-en="Trusted health articles">مقالات صحية موثوقة</h3>
-          <p data-ar="شروحات مبسطة بالعربية عن التحاليل والأدوية والأمراض المزمنة، وأبحاث تهم منطقتنا." data-en="Plain-language Arabic guides on lab tests, medications, and chronic conditions, plus research that matters to our region.">شروحات مبسطة بالعربية عن التحاليل والأدوية والأمراض المزمنة، وأبحاث تهم منطقتنا.</p>
-          <span class="go" data-ar="تصفح المقالات ←" data-en="Browse articles →">تصفح المقالات ←</span>
-        </a>
-        <a class="hub-card reveal" href="/tools/" data-href-ar="/tools/" data-href-en="/en/tools/">
-          <span class="ic"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><line x1="4" y1="21" x2="4" y2="14"/><line x1="4" y1="10" x2="4" y2="3"/><line x1="12" y1="21" x2="12" y2="12"/><line x1="12" y1="8" x2="12" y2="3"/><line x1="20" y1="21" x2="20" y2="16"/><line x1="20" y1="12" x2="20" y2="3"/><line x1="1" y1="14" x2="7" y2="14"/><line x1="9" y1="8" x2="15" y2="8"/><line x1="17" y1="16" x2="23" y2="16"/></svg></span>
-          <h3 data-ar="أدوات وحاسبات مجانية" data-en="Free tools and calculators">أدوات وحاسبات مجانية</h3>
-          <p data-ar="حاسبة كتلة الجسم، ومحول السكر التراكمي، ومحول وحدات التحاليل، تعمل فوراً دون تسجيل." data-en="BMI calculator, HbA1c converter, and lab unit converter, working instantly with no sign-up.">حاسبة كتلة الجسم، ومحول السكر التراكمي، ومحول وحدات التحاليل، تعمل فوراً دون تسجيل.</p>
-          <span class="go" data-ar="جرّب الأدوات ←" data-en="Try the tools →">جرّب الأدوات ←</span>
-        </a>
-        <a class="hub-card reveal" href="/about/" data-href-ar="/about/" data-href-en="/en/about/">
-          <span class="ic"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><line x1="12" y1="16" x2="12" y2="12"/><line x1="12" y1="8" x2="12.01" y2="8"/></svg></span>
-          <h3 data-ar="من نحن ومهمتنا" data-en="Who we are and our mission">من نحن ومهمتنا</h3>
-          <p data-ar="نجعل المعرفة الصحية الموثوقة في متناول كل عربي، بلغة بسيطة، ومجاناً وبدون إعلانات." data-en="Making trusted health knowledge reachable for every Arabic speaker, in plain language, free and with no ads.">نجعل المعرفة الصحية الموثوقة في متناول كل عربي، بلغة بسيطة، ومجاناً وبدون إعلانات.</p>
-          <span class="go" data-ar="تعرّف على صحتك ←" data-en="Learn about Sihtak →">تعرّف على صحتك ←</span>
-        </a>
+  <!-- Final call to action -->
+  <section class="h-cta" aria-labelledby="cta-title">
+    <div class="h-wrap">
+      <h2 class="h-h2" id="cta-title" data-ar="ابدأ بشيء واحد اليوم." data-en="Start with one thing today.">ابدأ بشيء واحد اليوم.</h2>
+      <p class="h-lead" style="margin-inline:auto" data-ar="أضف دواءك الأول أو صوّر تحليلك الأخير. يستغرق ذلك دقيقة، والتطبيق مجاني." data-en="Add your first medicine or photograph your last lab report. It takes a minute, and the app is free.">أضف دواءك الأول أو صوّر تحليلك الأخير. يستغرق ذلك دقيقة، والتطبيق مجاني.</p>
+      <div class="h-stores">
+        <a class="h-store" href="https://play.google.com/store/apps/details?id=com.sihhati.app" target="_blank" rel="noopener"><span data-ar="حمّله من Google Play" data-en="Get it on Google Play">حمّله من Google Play</span></a>
+        <a class="h-store h-store--ghost" href="https://apps.apple.com/app/id6764330989" target="_blank" rel="noopener"><span data-ar="حمّله من App Store" data-en="Download on the App Store">حمّله من App Store</span></a>
       </div>
     </div>
   </section>
 
   </main>
 
-  <!-- Footer -->
   <footer class="footer" role="contentinfo">
     <div class="footer-inner">
       <div class="footer-top">
@@ -1240,132 +718,62 @@
             <img src="/icon.png" alt="" width="40" height="40">
             <span data-ar="صحتك" data-en="Sihtak">صحتك</span>
           </div>
-          <p class="footer-tagline" data-ar="تطبيق صحة مجاني مدعوم بالذكاء الاصطناعي. ثنائي اللغة، يعمل بدون إنترنت، بدون إعلانات. مبني بحب لصحتك." data-en="Free AI-powered health app. Bilingual, works offline, no ads. Built with care for your health.">تطبيق صحة مجاني مدعوم بالذكاء الاصطناعي. ثنائي اللغة، يعمل بدون إنترنت، بدون إعلانات. مبني بحب لصحتك.</p>
-          <a href="https://play.google.com/store/apps/details?id=com.sihhati.app" class="btn btn-primary btn-sm" target="_blank" rel="noopener" data-ar="حمّل الآن" data-en="Download Now">حمّل الآن</a>
+          <p class="footer-tagline" data-ar="تطبيق صحي مجاني بالعربية والإنجليزية: تذكير الدواء، وشرح التحاليل، ومساعد صحي، وصحة العائلة." data-en="A free health app in Arabic and English: medicine reminders, lab results explained, a health assistant and family health.">تطبيق صحي مجاني بالعربية والإنجليزية: تذكير الدواء، وشرح التحاليل، ومساعد صحي، وصحة العائلة.</p>
         </div>
         <div class="footer-col">
-          <h4 data-ar="التطبيق" data-en="App">التطبيق</h4>
+          <p class="footer-col-h" data-ar="التطبيق" data-en="App">التطبيق</p>
           <ul class="footer-links">
             <li><a href="#features" data-ar="المزايا" data-en="Features">المزايا</a></li>
-            <li><a href="/articles/" data-href-ar="/articles/" data-href-en="/en/articles/" data-ar="المقالات" data-en="Articles">المقالات</a></li>
-            <li><a href="/tools/" data-href-ar="/tools/" data-href-en="/en/tools/" data-ar="الأدوات الصحية" data-en="Health Tools">الأدوات الصحية</a></li>
-            <li><a href="/about/" data-href-ar="/about/" data-href-en="/en/about/" data-ar="من نحن" data-en="About">من نحن</a></li>
-            <li><a href="#how-it-works" data-ar="كيف يعمل" data-en="How it Works">كيف يعمل</a></li>
-            <li><a href="#reviews" data-ar="آراء المستخدمين" data-en="Reviews">آراء المستخدمين</a></li>
+            <li><a href="#how-it-works" data-ar="يوم مع صحتك" data-en="A day with Sihtak">يوم مع صحتك</a></li>
+            <li><a href="#providers" data-ar="للعيادات والمختبرات" data-en="For clinics and labs">للعيادات والمختبرات</a></li>
             <li><a href="#faq" data-ar="أسئلة شائعة" data-en="FAQ">أسئلة شائعة</a></li>
-            <li><a href="mailto:contact@sihtak.com" data-ar="تجربة مبكرة" data-en="Beta Testing">تجربة مبكرة</a></li>
           </ul>
         </div>
         <div class="footer-col">
-          <h4 data-ar="قانوني" data-en="Legal">قانوني</h4>
+          <p class="footer-col-h" data-ar="المعرفة" data-en="Learn">المعرفة</p>
           <ul class="footer-links">
-            <li><a href="/privacy/" data-ar="سياسة الخصوصية" data-en="Privacy Policy">سياسة الخصوصية</a></li>
-            <li><a href="/terms/" data-ar="شروط الاستخدام" data-en="Terms of Service">شروط الاستخدام</a></li>
-            <li><a href="/contact/" data-ar="تواصل معنا" data-en="Contact Us">تواصل معنا</a></li>
+            <li><a href="/articles/" data-href-ar="/articles/" data-href-en="/en/articles/" data-ar="المقالات الصحية" data-en="Health articles">المقالات الصحية</a></li>
+            <li><a href="/articles/c/lab-tests/" data-href-ar="/articles/c/lab-tests/" data-href-en="/en/articles/c/lab-tests/" data-ar="التحاليل الطبية" data-en="Lab tests">التحاليل الطبية</a></li>
+            <li><a href="/tools/" data-href-ar="/tools/" data-href-en="/en/tools/" data-ar="الأدوات الصحية" data-en="Health tools">الأدوات الصحية</a></li>
+            <li><a href="/about/" data-href-ar="/about/" data-href-en="/en/about/" data-ar="من نحن" data-en="About">من نحن</a></li>
+          </ul>
+        </div>
+        <div class="footer-col">
+          <p class="footer-col-h" data-ar="قانوني" data-en="Legal">قانوني</p>
+          <ul class="footer-links">
+            <li><a href="/privacy/" data-ar="سياسة الخصوصية" data-en="Privacy policy">سياسة الخصوصية</a></li>
+            <li><a href="/terms/" data-ar="شروط الاستخدام" data-en="Terms of use">شروط الاستخدام</a></li>
+            <li><a href="/delete-account/" data-ar="حذف الحساب" data-en="Delete account">حذف الحساب</a></li>
+            <li><a href="/contact/" data-ar="تواصل معنا" data-en="Contact us">تواصل معنا</a></li>
           </ul>
         </div>
       </div>
       <div class="footer-bottom">
-        <p class="footer-copy">&copy; 2026 Sihtak. <span data-ar="جميع الحقوق محفوظة." data-en="All rights reserved.">جميع الحقوق محفوظة.</span></p>
-        <p class="footer-creator" style="font-size:13px;color:var(--text-d);margin-top:6px;">
-          <span data-ar="صُنع بواسطة" data-en="Built by">صُنع بواسطة</span> <strong style="color:var(--text-m);">Adnan Alrefai</strong>
-        </p>
-        <p class="footer-owner" style="font-size:13px;color:var(--text-d);margin-top:4px;">
-          <span data-ar="منتج من" data-en="A product of">منتج من</span> <a href="https://poctify.com" target="_blank" rel="noopener" style="color:var(--text-m);font-weight:600;text-decoration:none;">POCTIFY LTD</a>
-        </p>
-        <p class="footer-disclaimer" data-ar="صحتك ليس بديلاً عن الاستشارة الطبية المتخصصة. المعلومات المقدمة للأغراض التعليمية فقط. استشر طبيبك دائماً." data-en="Sihtak is not a substitute for professional medical advice. Information provided is for educational purposes only. Always consult your doctor.">صحتك ليس بديلاً عن الاستشارة الطبية المتخصصة. المعلومات المقدمة للأغراض التعليمية فقط. استشر طبيبك دائماً.</p>
+        <p class="footer-copy">&copy; 2026 Sihtak. <span data-ar="منتج من POCTIFY LTD، المملكة المتحدة." data-en="A product of POCTIFY LTD, United Kingdom.">منتج من POCTIFY LTD، المملكة المتحدة.</span></p>
+        <p class="footer-disclaimer" data-ar="صحتك لا يغني عن الاستشارة الطبية. المعلومات للتثقيف الصحي فقط، فاستشر طبيبك دائماً." data-en="Sihtak is not a substitute for medical advice. Information is for health education only; always consult your doctor.">صحتك لا يغني عن الاستشارة الطبية. المعلومات للتثقيف الصحي فقط، فاستشر طبيبك دائماً.</p>
       </div>
     </div>
   </footer>
 
   <script>
-    // --- Theme management ---
-    function getPreferredTheme() {
-      var stored = localStorage.getItem('sihtak-theme');
-      if (stored) return stored;
-      return 'light';
-    }
-
     function applyTheme(theme) {
       var html = document.documentElement;
-      if (theme === 'light') {
-        html.setAttribute('data-theme', 'light');
-      } else {
-        html.removeAttribute('data-theme');
-      }
-      var sunIcon = document.querySelector('.theme-icon-sun');
-      var moonIcon = document.querySelector('.theme-icon-moon');
-      if (sunIcon && moonIcon) {
-        sunIcon.style.display = theme === 'light' ? 'none' : 'block';
-        moonIcon.style.display = theme === 'light' ? 'block' : 'none';
-      }
-      var metaTheme = document.getElementById('meta-theme-color');
-      var metaScheme = document.getElementById('meta-color-scheme');
-      if (metaTheme) metaTheme.content = theme === 'light' ? '#ffffff' : '#030303';
-      if (metaScheme) metaScheme.content = theme === 'light' ? 'light' : 'dark';
-      localStorage.setItem('sihtak-theme', theme);
+      if (theme === 'light') html.setAttribute('data-theme', 'light'); else html.removeAttribute('data-theme');
+      var sun = document.querySelector('.theme-icon-sun'), moon = document.querySelector('.theme-icon-moon');
+      if (sun && moon) { sun.style.display = theme === 'light' ? 'none' : 'block'; moon.style.display = theme === 'light' ? 'block' : 'none'; }
+      var mt = document.getElementById('meta-theme-color'), ms = document.getElementById('meta-color-scheme');
+      if (mt) mt.content = theme === 'light' ? '#ffffff' : '#030303';
+      if (ms) ms.content = theme === 'light' ? 'light' : 'dark';
+      try { localStorage.setItem('sihtak-theme', theme); } catch (e) {}
     }
+    function toggleTheme() { applyTheme(document.documentElement.hasAttribute('data-theme') ? 'dark' : 'light'); }
+    var storedTheme = null; try { storedTheme = localStorage.getItem('sihtak-theme'); } catch (e) {}
+    applyTheme(storedTheme || 'light');
 
-    function toggleTheme() {
-      var current = document.documentElement.hasAttribute('data-theme') ? 'light' : 'dark';
-      applyTheme(current === 'light' ? 'dark' : 'light');
-    }
-
-    applyTheme(getPreferredTheme());
-
-    window.matchMedia('(prefers-color-scheme: light)').addEventListener('change', function(e) {
-      if (!localStorage.getItem('sihtak-theme')) {
-        applyTheme(e.matches ? 'light' : 'dark');
-      }
-    });
-
-    // --- Language management ---
-    let currentLang = localStorage.getItem('sihtak-lang') || 'ar';
-
-    function switchLang(lang) {
-      currentLang = lang;
-      const html = document.documentElement;
-      html.lang = lang;
-      html.dir = lang === 'ar' ? 'rtl' : 'ltr';
-      document.querySelectorAll('[data-ar][data-en]').forEach(el => {
-        el.textContent = el.dataset[lang];
-      });
-      // Links into the article library exist twice, once per language. Without
-      // this an English reader clicking "Articles" landed on the Arabic hub.
-      const hrefKey = lang === 'ar' ? 'hrefAr' : 'hrefEn';
-      document.querySelectorAll('[data-href-ar][data-href-en]').forEach(el => {
-        el.setAttribute('href', el.dataset[hrefKey]);
-      });
-      document.querySelector('.lang-btn').textContent = lang === 'ar' ? 'EN' : 'عربي';
-      localStorage.setItem('sihtak-lang', lang);
-    }
-
-    function toggleLang() {
-      switchLang(currentLang === 'ar' ? 'en' : 'ar');
-    }
-
-    if (currentLang !== 'ar') switchLang(currentLang);
-
-    // Scroll reveal with IntersectionObserver
-    const observer = new IntersectionObserver((entries) => {
-      entries.forEach(entry => {
-        if (entry.isIntersecting) {
-          entry.target.classList.add('visible');
-          observer.unobserve(entry.target);
-        }
-      });
-    }, { threshold: 0.08, rootMargin: '0px 0px -30px 0px' });
-
-    document.querySelectorAll('.reveal, .reveal-scale').forEach(el => observer.observe(el));
-
-    // Smooth scroll for anchor links
-    document.querySelectorAll('a[href^="#"]').forEach(link => {
-      link.addEventListener('click', e => {
-        e.preventDefault();
-        const target = document.querySelector(link.getAttribute('href'));
-        if (target) target.scrollIntoView({ behavior: 'smooth' });
-      });
-    });
+    var io = new IntersectionObserver(function (entries) {
+      entries.forEach(function (en) { if (en.isIntersecting) { en.target.classList.add('visible'); io.unobserve(en.target); } });
+    }, { threshold: 0.08 });
+    document.querySelectorAll('.reveal, .reveal-scale').forEach(function (el) { io.observe(el); });
   </script>
 
 </body>
