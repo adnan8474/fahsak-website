@@ -108,6 +108,14 @@ def english(page):
         el.string = el["data-en"]
     for el in soup.select("[data-href-en]"):
         el["href"] = el["data-href-en"]
+    # Any other attribute that differs by language is carried as
+    # data-en-<attr> (srcset, src, alt, aria-label, href of non-library links).
+    for el in soup.find_all(True):
+        for k in [k for k in el.attrs if k.startswith("data-en-")]:
+            el[k[len("data-en-"):]] = el[k]
+    # The hero image is preloaded by language too.
+    for link in soup.select('link[rel="preload"][data-en-imagesrcset]'):
+        link["imagesrcset"] = link["data-en-imagesrcset"]
 
     lang = soup.select_one("a.lang-btn")
     lang["href"] = "/"
