@@ -124,7 +124,7 @@
   <section class="legal">
     <div class="container legal-inner">
       <h1>Privacy Policy</h1>
-      <p class="updated">Last updated: March 27, 2026</p>
+      <p class="updated">Last updated: November 20, 2026</p>
 
       <p>Sihtak ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application ("App").</p>
 
@@ -135,7 +135,15 @@
       <p><strong>Usage Data:</strong> We collect anonymized usage analytics to improve the App experience, such as feature usage frequency and crash reports.</p>
       <p><strong>Camera &amp; Photos:</strong> If you use the lab scanner feature, we access your camera or photo library solely to capture and process lab reports. Images are processed and not stored beyond the analysis.</p>
       <p><strong>Location:</strong> If you use the lab directory feature, we may access your location to show nearby laboratories. Location data is used in real-time and not stored.</p>
-      <p><strong>Apple Health (HealthKit) Data:</strong> With your explicit permission, Sihtak can read the following health data from Apple Health: heart rate, blood pressure (systolic and diastolic), blood glucose, body temperature, body mass (weight), oxygen saturation, step count, and active energy burned. Sihtak may also write body mass data back to Apple Health. This data is used solely to display your health metrics within the App, calculate your health score, provide personalized AI health guidance, and generate health alerts. <strong>HealthKit data is stored only on your device and is never sold, shared with third parties, used for advertising, or transferred to any external service.</strong> HealthKit data may be included as context when you use the AI Health Chat feature to enable personalized responses, but it is not stored on our servers beyond the chat session. You can connect or disconnect Apple Health at any time from the App's Health Dashboard settings.</p>
+      <p><strong>Apple Health (HealthKit) Data:</strong> With your explicit permission, Sihtak can read the following health data from Apple Health: heart rate, blood pressure (systolic and diastolic), blood glucose, body temperature, body mass (weight), oxygen saturation, step count, and active energy burned. Sihtak may also write body mass data back to Apple Health. This data is used solely to display your health metrics within the App, calculate your health score, provide personalized AI health guidance, and generate health alerts. <strong>HealthKit data is stored only on your device and is never sold, shared with third parties, used for advertising, or transferred to any external service.</strong> HealthKit data may be included as context when you use the AI Health Chat feature to enable personalized responses, but it is not stored on our servers beyond the chat session. You can connect or disconnect Apple Health at any time from the App's Health Dashboard settings. Since version 2.5 the App can also read heart rate variability, resting heart rate, sleep analysis (including sleep stages) and time in daylight, on the same terms.</p>
+
+      <h2 id="health-connect">1a. Health Connect, Apple Health and Wearables</h2>
+      <p><strong>Health Connect (Android):</strong> With your explicit permission, Sihtak reads the following data types from Health Connect: active calories burned, blood glucose, blood pressure, exercise sessions, heart rate, heart rate variability, oxygen saturation, respiratory rate, resting heart rate, sleep, steps and weight. Sihtak only reads; it never writes to Health Connect.</p>
+      <p><strong>How we use it:</strong> this data is used only to show your readings in the App, to compare today with your own usual values ("your normal"), and to choose the single daily suggestion on your home screen. These rules run on your device. Health Connect and Apple Health data are not sent to our servers, are never sold, are never used for advertising, and are never used to train AI models. If you choose "Ask about my week", the App writes a short summary of your week into the chat box; it is only sent to the AI assistant if you press send.</p>
+      <p><strong>Limited Use:</strong> Sihtak's use of information received from Health Connect adheres to the Health Connect Permissions policy, including the Limited Use requirements.</p>
+      <p><strong>WHOOP and Oura (optional):</strong> if you connect a WHOOP or Oura account, Sihtak receives your sleep, recovery or readiness, resting heart rate and heart rate variability from that service through our server, using access you can revoke at any time. Access tokens are stored encrypted. Disconnecting the service, or deleting your account, deletes the data received from it.</p>
+      <p><strong>Calendar (optional):</strong> if you allow it, Sihtak reads only the start and end times of today's events on your device to time its suggestions. Calendar data is never stored or sent anywhere.</p>
+      <p>You can switch each source on or off at any time from Settings, Connected apps, and revoke access in Health Connect or Apple Health settings.</p>
 
       <h2>2. How We Use Your Information</h2>
       <ul>
@@ -191,6 +199,8 @@
       <p>The App may integrate with third-party services:</p>
       <ul>
         <li><strong>Apple Health (HealthKit):</strong> For reading and displaying your health and fitness data (heart rate, steps, blood glucose, oxygen saturation, weight, temperature, blood pressure, active energy). Data is processed on-device only and never shared externally.</li>
+        <li><strong>Health Connect (Android):</strong> Read-only access to the data types listed in section 1a, processed on-device.</li>
+        <li><strong>WHOOP and Oura:</strong> Optional, only if you connect them (see section 1a).</li>
         <li><strong>Apple Sign-In / Google Sign-In:</strong> For authentication</li>
         <li><strong>RevenueCat:</strong> For subscription management</li>
         <li><strong>Anthropic:</strong> For AI chat functionality</li>
