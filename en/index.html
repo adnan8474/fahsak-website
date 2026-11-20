@@ -552,6 +552,9 @@
       .hero .phone,.hero-note,.hero-grid>div:first-child>*,.faq details p{animation:none!important;}
     }
   
+    /* Damascene khatam lattice in the paper, fading out under the heading (20 Nov 2026), same tile as the app. */
+    .light,.lib-band{position:relative;isolation:isolate;}
+    .light::after,.lib-band::after{content:"";position:absolute;inset:0;z-index:-1;pointer-events:none;background-image:url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width='56' height='56'><path d='M14 14H42V42H14ZM28 8L48 28L28 48L8 28ZM28 8V0M48 28H56M28 48V56M8 28H0M14 14L0 0M42 14L56 0M42 42L56 56M14 42L0 56M28 22L34 28L28 34L22 28Z' fill='none' stroke='%230f766e' stroke-width='1'/></svg>");background-size:56px 56px;opacity:.1;-webkit-mask-image:linear-gradient(180deg,#000 0%,rgba(0,0,0,.45) 35%,transparent 70%);mask-image:linear-gradient(180deg,#000 0%,rgba(0,0,0,.45) 35%,transparent 70%);}
     /* Everything in Sihtak: the app's own feature grid, as a wall of colour (20 Nov 2026). Icons: Ionicons 7.4.0, MIT licence, (c) Ionic. */
     .every{position:relative;padding:clamp(64px,9vw,120px) 0;}
     .every .h2{max-width:16ch;}
