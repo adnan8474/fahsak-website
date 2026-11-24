@@ -1166,3 +1166,30 @@ html[dir="rtl"] .viz-bar-fill--good { background: linear-gradient(270deg, var(--
     margin-bottom: 2px;
   }
 }
+
+/* App strip after the key takeaways, and the free-tool box mid-article
+   (build_content.py: app_strip, tool_box). */
+.art-app {
+  display: flex; align-items: center; gap: 14px; flex-wrap: wrap;
+  padding: 14px 18px; margin: -22px 0 40px;
+  border-radius: 14px; background: var(--teal-dim); border: 1px solid var(--border);
+}
+.art-app img { width: 40px; height: 40px; border-radius: 10px; flex-shrink: 0; }
+.art-app p { flex: 1; min-width: 220px; margin: 0; font-size: 15px; line-height: 1.7; color: var(--text); }
+.art-app p b { color: var(--teal); }
+.art-app-btns { display: flex; gap: 8px; flex-wrap: wrap; }
+.art-app-btns a {
+  display: inline-flex; align-items: center; padding: 8px 14px; border-radius: 999px;
+  font-size: 13.5px; font-weight: 700; text-decoration: none;
+  background: var(--teal); color: #fff;
+}
+.art-app-btns a + a { background: transparent; color: var(--text); border: 1px solid var(--border); }
+.art-app-btns a:focus-visible, .art-tool a:focus-visible { outline: 2px solid var(--teal); outline-offset: 2px; }
+.art-tool {
+  margin: 8px 0 36px; padding: 14px 18px; border-radius: 14px;
+  border: 1px dashed var(--teal-glow); background: var(--bg-card);
+}
+.art-tool-h { margin: 0 0 6px !important; font-size: 13.5px !important; font-weight: 700; color: var(--teal) !important; }
+.art-tool ul { margin: 0; padding-inline-start: 18px; }
+.art-tool li { margin: 2px 0; font-size: 15px; }
+.art-tool a { color: var(--text); font-weight: 600; text-decoration-color: var(--teal); text-underline-offset: 3px; }

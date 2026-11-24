@@ -74,6 +74,11 @@ PAIRED_PAGES = [
     ("/about/", "/en/about/", "monthly", "0.6"),
     ("/author/", "/en/author/", "monthly", "0.5"),
 ]
+# The single-analyte converters (build_tools.py writes them from this file).
+with open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "content", "converters.json"),
+          encoding="utf-8") as _fh:
+    PAIRED_PAGES += [(f"/tools/{c['slug']}/", f"/en/tools/{c['slug']}/", "monthly", "0.7")
+                     for c in json.load(_fh)]
 
 SOLO_PAGES = [
     ("/privacy/", "yearly", "0.3"),

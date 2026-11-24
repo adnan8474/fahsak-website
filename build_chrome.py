@@ -22,7 +22,7 @@ GA_ID = "G-JGTTBKMM4G"
 # Bump this whenever a shared .css or .js changes. staticwebapp.config.json
 # caches those for seven days, so without a new query string a returning
 # visitor keeps the old file for a week.
-ASSET_V = "2026101401"
+ASSET_V = "2026112401"
 
 # --------------------------------------------------------------------------
 # taxonomy
@@ -289,7 +289,7 @@ def footer(lang):
       <div class="footer-top">
         <div class="footer-brand-section">
           <div class="footer-logo-row">
-            <img src="/icon.png" alt="" width="40" height="40">
+            <img src="/images/app-icon-112.webp" alt="" width="40" height="40">
             <span>{brand}</span>
           </div>
           <p class="footer-tag">{tag}</p>
@@ -338,7 +338,7 @@ def nav(lang, other_href):
         '  <nav class="nav" role="navigation" aria-label="Main navigation">\n'
         '    <div class="nav-inner">\n'
         '      <a href="/" class="nav-brand" aria-label="Sihtak Home">\n'
-        '        <img src="/icon.png" alt="" class="nav-logo" width="36" height="36">\n'
+        '        <img src="/images/app-icon-112.webp" alt="" class="nav-logo" width="36" height="36">\n'
         f'        <span class="nav-name">{o["site"]}</span>\n'
         '      </a>\n'
         '      <div class="nav-actions">\n'

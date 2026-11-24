@@ -1,0 +1,484 @@
+[
+ {
+  "slug": "glucose-mmol-to-mg",
+  "preset": "glucose",
+  "conv": "mg/dL",
+  "si": "mmol/L",
+  "f": 0.0555,
+  "si_dec": 1,
+  "conv_dec": 0,
+  "conv_values": [
+   54,
+   70,
+   90,
+   100,
+   110,
+   126,
+   140,
+   180,
+   200,
+   250,
+   300
+  ],
+  "si_values": [
+   3,
+   3.9,
+   4.5,
+   5,
+   5.6,
+   6,
+   7,
+   7.8,
+   9,
+   10,
+   11.1,
+   15,
+   20
+  ],
+  "related": [
+   "type-2-diabetes-complete-guide",
+   "prediabetes-reversing-it",
+   "hba1c-test-explained"
+  ],
+  "ar": {
+   "title": "تحويل السكر من mmol/L إلى mg/dL: حاسبة وجدول",
+   "h1": "تحويل سكر الدم بين mmol/L و mg/dL",
+   "desc": "حوّل قراءة سكر الدم من mmol/L إلى mg/dL وبالعكس: اضرب في 18 أو اقسم عليه. حاسبة فورية وجدول للقيم الشائعة، مع حدود السكر الصائم المعتمدة.",
+   "keywords": "تحويل السكر من mmol إلى mg, تحويل mmol/l الى mg/dl, سكر الدم mmol, جدول تحويل السكر, 5.6 mmol كم mg",
+   "intro": "تكتب بعض المختبرات وأجهزة قياس السكر النتيجة بوحدة mmol/L، وتكتبها أخرى بوحدة mg/dL. أدخل رقمك واختر الاتجاه لترى القيمة بالوحدة الأخرى.",
+   "howto": [
+    "القاعدة بسيطة: 1 mmol/L من الغلوكوز يساوي نحو 18 mg/dL. لتحويل mmol/L إلى mg/dL اضرب في 18، ولتحويل mg/dL إلى mmol/L اقسم على 18.",
+    "مثال: قراءة 7 mmol/L تساوي نحو 126 mg/dL، وقراءة 100 mg/dL تساوي نحو 5.6 mmol/L.",
+    "وفق الجمعية الأمريكية للسكري (ADA): السكر الصائم أقل من 100 mg/dL (5.6 mmol/L) طبيعي، ومن 100 إلى 125 mg/dL (5.6 إلى 6.9 mmol/L) يدل على ما قبل السكري، و126 mg/dL (7.0 mmol/L) فأكثر في فحصين منفصلين يشير إلى السكري. والسكر الأقل من 70 mg/dL (3.9 mmol/L) يُعدّ انخفاضاً. التشخيص يضعه الطبيب لا الحاسبة."
+   ],
+   "faqs": [
+    {
+     "q": "كم يساوي 5.6 mmol/L بوحدة mg/dL؟",
+     "a": "يساوي نحو 100 mg/dL، وهو الحد الأعلى للسكر الصائم الطبيعي وفق الجمعية الأمريكية للسكري."
+    },
+    {
+     "q": "كيف أحوّل السكر من mmol إلى mg يدوياً؟",
+     "a": "اضرب القيمة بوحدة mmol/L في 18. مثلاً 6 mmol/L × 18 = 108 mg/dL تقريباً."
+    },
+    {
+     "q": "لماذا يقرأ جهازي بوحدة مختلفة عن المختبر؟",
+     "a": "تُضبط الأجهزة على وحدة البلد الذي بيعت فيه. القيمة نفسها لا تتغير، والفرق في طريقة كتابتها فقط."
+    }
+   ]
+  },
+  "en": {
+   "title": "Blood sugar converter: mmol/L to mg/dL, with chart",
+   "h1": "Convert blood glucose between mmol/L and mg/dL",
+   "desc": "Convert blood sugar from mmol/L to mg/dL and back: multiply or divide by 18. Instant calculator, a table of common values, and the standard fasting glucose cut-offs.",
+   "keywords": "glucose mmol to mg, blood sugar converter, mmol/L to mg/dL, glucose conversion chart",
+   "intro": "Some labs and glucose meters report in mmol/L, others in mg/dL. Enter your number and pick a direction to see it in the other unit.",
+   "howto": [
+    "The rule: 1 mmol/L of glucose is about 18 mg/dL. Multiply mmol/L by 18 to get mg/dL, and divide mg/dL by 18 to get mmol/L.",
+    "Example: 7 mmol/L is about 126 mg/dL, and 100 mg/dL is about 5.6 mmol/L.",
+    "American Diabetes Association cut-offs: fasting glucose under 100 mg/dL (5.6 mmol/L) is normal, 100 to 125 mg/dL (5.6 to 6.9 mmol/L) is prediabetes, and 126 mg/dL (7.0 mmol/L) or more on two separate tests indicates diabetes. Under 70 mg/dL (3.9 mmol/L) is low. Your doctor makes the diagnosis, not a calculator."
+   ],
+   "faqs": [
+    {
+     "q": "What is 5.6 mmol/L in mg/dL?",
+     "a": "About 100 mg/dL, the upper limit of a normal fasting glucose according to the American Diabetes Association."
+    },
+    {
+     "q": "How do I convert glucose from mmol to mg by hand?",
+     "a": "Multiply the mmol/L value by 18. For example, 6 mmol/L x 18 is about 108 mg/dL."
+    },
+    {
+     "q": "Why does my meter use a different unit from the lab?",
+     "a": "Meters are set to the unit of the country they were sold in. The value is the same; only the way it is written differs."
+    }
+   ]
+  },
+  "js": "labunit.js",
+  "icon": "<polyline points=\"17 1 21 5 17 9\"/><path d=\"M3 11V9a4 4 0 0 1 4-4h14\"/><polyline points=\"7 23 3 19 7 15\"/><path d=\"M21 13v2a4 4 0 0 1-4 4H3\"/>",
+  "chip_ar": "محوّل وحدات",
+  "chip_en": "Unit converter"
+ },
+ {
+  "slug": "creatinine-umol-to-mg",
+  "preset": "creatinine",
+  "conv": "mg/dL",
+  "si": "µmol/L",
+  "f": 88.4,
+  "si_dec": 0,
+  "conv_dec": 2,
+  "conv_values": [
+   0.5,
+   0.6,
+   0.7,
+   0.8,
+   0.9,
+   1.0,
+   1.1,
+   1.2,
+   1.5,
+   2.0,
+   3.0,
+   5.0
+  ],
+  "si_values": [
+   44,
+   53,
+   62,
+   70,
+   80,
+   88,
+   97,
+   106,
+   120,
+   150,
+   200,
+   300,
+   450
+  ],
+  "related": [
+   "creatinine-egfr-kidney",
+   "kidney-function-tests-guide",
+   "chronic-kidney-disease-stages"
+  ],
+  "ar": {
+   "title": "تحويل الكرياتينين من µmol/L و mmol/L إلى mg/dL",
+   "h1": "تحويل الكرياتينين بين µmol/L و mg/dL",
+   "desc": "حوّل الكرياتينين من µmol/L إلى mg/dL بالقسمة على 88.4، ومن mmol/L بالضرب في 1000 أولاً. حاسبة فورية وجدول للقيم الشائعة.",
+   "keywords": "تحويل الكرياتينين من mmol إلى mg, تحويل الكرياتينين من umol الى mg, كرياتينين ميكرومول, 88.4",
+   "intro": "يكتب كثير من المختبرات الكرياتينين بوحدة الميكرومول لكل لتر (µmol/L)، ويكتبه غيرها بوحدة mg/dL. أدخل الرقم واختر الاتجاه.",
+   "howto": [
+    "1 mg/dL من الكرياتينين يساوي 88.4 µmol/L. لتحويل µmol/L إلى mg/dL اقسم على 88.4، وللعكس اضرب في 88.4.",
+    "إذا كانت نتيجتك مكتوبة بوحدة mmol/L فحوّلها أولاً إلى µmol/L بالضرب في 1000. مثلاً 0.088 mmol/L تساوي 88 µmol/L، أي نحو 1.0 mg/dL.",
+    "يختلف الكرياتينين الطبيعي بين المختبرات وبين الرجال والنساء ويتأثر بالكتلة العضلية، لذلك قارن رقمك بالنطاق المطبوع على تقريرك. ويقدّر الطبيب وظيفة الكلى عادةً بمعدل الترشيح الكبيبي (eGFR) المحسوب من الكرياتينين والعمر والجنس، لا بالرقم وحده."
+   ],
+   "faqs": [
+    {
+     "q": "كم يساوي 1 mg/dL من الكرياتينين بوحدة µmol/L؟",
+     "a": "يساوي 88.4 µmol/L."
+    },
+    {
+     "q": "نتيجتي بوحدة mmol/L، كيف أحوّلها؟",
+     "a": "اضربها في 1000 لتصبح µmol/L، ثم اقسم على 88.4 لتحصل على mg/dL."
+    },
+    {
+     "q": "هل يكفي رقم الكرياتينين لمعرفة وظيفة الكلى؟",
+     "a": "لا. يعتمد الطبيب على معدل الترشيح الكبيبي eGFR وعلى فحوصات أخرى مثل البروتين في البول، ويفسّرها ضمن حالتك."
+    }
+   ]
+  },
+  "en": {
+   "title": "Creatinine converter: µmol/L to mg/dL, with chart",
+   "h1": "Convert creatinine between µmol/L and mg/dL",
+   "desc": "Convert creatinine from µmol/L to mg/dL by dividing by 88.4, and from mmol/L by multiplying by 1000 first. Instant calculator and a table of common values.",
+   "keywords": "creatinine umol to mg, creatinine converter, creatinine mmol to mg/dL, 88.4",
+   "intro": "Many labs report creatinine in micromoles per litre (µmol/L), others in mg/dL. Enter the number and pick a direction.",
+   "howto": [
+    "1 mg/dL of creatinine equals 88.4 µmol/L. Divide µmol/L by 88.4 to get mg/dL, and multiply mg/dL by 88.4 for the reverse.",
+    "If your result is in mmol/L, multiply by 1000 first to get µmol/L. For example, 0.088 mmol/L is 88 µmol/L, about 1.0 mg/dL.",
+    "Normal creatinine varies between labs and between men and women, and depends on muscle mass, so compare with the range printed on your report. Doctors usually judge kidney function by the eGFR, calculated from creatinine, age and sex, rather than by the number alone."
+   ],
+   "faqs": [
+    {
+     "q": "What is 1 mg/dL of creatinine in µmol/L?",
+     "a": "88.4 µmol/L."
+    },
+    {
+     "q": "My result is in mmol/L. How do I convert it?",
+     "a": "Multiply by 1000 to get µmol/L, then divide by 88.4 to get mg/dL."
+    },
+    {
+     "q": "Does creatinine alone tell me how my kidneys are working?",
+     "a": "No. Doctors use the eGFR and other tests such as protein in the urine, and interpret them for your situation."
+    }
+   ]
+  },
+  "js": "labunit.js",
+  "icon": "<polyline points=\"17 1 21 5 17 9\"/><path d=\"M3 11V9a4 4 0 0 1 4-4h14\"/><polyline points=\"7 23 3 19 7 15\"/><path d=\"M21 13v2a4 4 0 0 1-4 4H3\"/>",
+  "chip_ar": "محوّل وحدات",
+  "chip_en": "Unit converter"
+ },
+ {
+  "slug": "cholesterol-mmol-to-mg",
+  "preset": "cholesterol",
+  "conv": "mg/dL",
+  "si": "mmol/L",
+  "f": 0.02586,
+  "si_dec": 2,
+  "conv_dec": 0,
+  "conv_values": [
+   40,
+   50,
+   60,
+   70,
+   100,
+   130,
+   160,
+   190,
+   200,
+   240,
+   280
+  ],
+  "si_values": [
+   1,
+   1.5,
+   2,
+   2.6,
+   3,
+   3.4,
+   4,
+   4.5,
+   5,
+   5.2,
+   6,
+   6.2,
+   7
+  ],
+  "related": [
+   "cholesterol-lipid-panel-guide",
+   "statins-cholesterol-drugs",
+   "heart-attack-warning-signs"
+  ],
+  "ar": {
+   "title": "تحويل الكوليسترول من mmol/L إلى mg/dL: حاسبة وجدول",
+   "h1": "تحويل الكوليسترول بين mmol/L و mg/dL",
+   "desc": "حوّل الكوليسترول الكلي وLDL وHDL من mmol/L إلى mg/dL بالضرب في 38.67، وبالعكس. حاسبة فورية وجدول للقيم الشائعة وحدود الكوليسترول الكلي.",
+   "keywords": "تحويل الكوليسترول من mmol الى mg, LDL mmol, كوليسترول ملي مول, جدول الكوليسترول",
+   "intro": "يصلح هذا التحويل للكوليسترول الكلي وللكوليسترول الضار LDL والنافع HDL، فالمعامل واحد لها جميعاً.",
+   "howto": [
+    "1 mmol/L من الكوليسترول يساوي نحو 38.67 mg/dL. لتحويل mmol/L إلى mg/dL اضرب في 38.67، وللعكس اقسم عليها.",
+    "مثال: 5.2 mmol/L تساوي نحو 200 mg/dL، و3.4 mmol/L تساوي نحو 130 mg/dL.",
+    "وفق البرنامج الوطني الأمريكي لتثقيف الكوليسترول (NCEP ATP III): الكوليسترول الكلي أقل من 200 mg/dL (5.2 mmol/L) مرغوب، ومن 200 إلى 239 حدّي، و240 (6.2 mmol/L) فأكثر مرتفع. أما هدف LDL فيحدده طبيبك بحسب خطر القلب لديك."
+   ],
+   "faqs": [
+    {
+     "q": "هل المعامل نفسه للكوليسترول الضار والنافع؟",
+     "a": "نعم. الكوليسترول الكلي وLDL وHDL تُحوَّل كلها بالمعامل نفسه 38.67."
+    },
+    {
+     "q": "كم يساوي 5 mmol/L من الكوليسترول؟",
+     "a": "يساوي نحو 193 mg/dL."
+    },
+    {
+     "q": "هل يصلح هذا المعامل للدهون الثلاثية؟",
+     "a": "لا. للدهون الثلاثية معامل مختلف هو 88.57، ولها صفحة تحويل خاصة."
+    }
+   ]
+  },
+  "en": {
+   "title": "Cholesterol converter: mmol/L to mg/dL, with chart",
+   "h1": "Convert cholesterol between mmol/L and mg/dL",
+   "desc": "Convert total, LDL and HDL cholesterol from mmol/L to mg/dL: multiply by 38.67, or divide for the reverse. Calculator, a table of common values and the cut-offs.",
+   "keywords": "cholesterol mmol to mg, LDL mmol/L to mg/dL, cholesterol conversion chart",
+   "intro": "The same conversion works for total cholesterol, LDL and HDL, because they share one factor.",
+   "howto": [
+    "1 mmol/L of cholesterol is about 38.67 mg/dL. Multiply mmol/L by 38.67 to get mg/dL, and divide for the reverse.",
+    "Example: 5.2 mmol/L is about 200 mg/dL, and 3.4 mmol/L is about 130 mg/dL.",
+    "NCEP ATP III cut-offs: total cholesterol under 200 mg/dL (5.2 mmol/L) is desirable, 200 to 239 is borderline, and 240 (6.2 mmol/L) or more is high. Your LDL target depends on your heart risk, which your doctor assesses."
+   ],
+   "faqs": [
+    {
+     "q": "Is the factor the same for LDL and HDL?",
+     "a": "Yes. Total, LDL and HDL cholesterol all convert with the same factor, 38.67."
+    },
+    {
+     "q": "What is 5 mmol/L of cholesterol in mg/dL?",
+     "a": "About 193 mg/dL."
+    },
+    {
+     "q": "Does this factor work for triglycerides?",
+     "a": "No. Triglycerides use a different factor, 88.57, and have their own converter."
+    }
+   ]
+  },
+  "js": "labunit.js",
+  "icon": "<polyline points=\"17 1 21 5 17 9\"/><path d=\"M3 11V9a4 4 0 0 1 4-4h14\"/><polyline points=\"7 23 3 19 7 15\"/><path d=\"M21 13v2a4 4 0 0 1-4 4H3\"/>",
+  "chip_ar": "محوّل وحدات",
+  "chip_en": "Unit converter"
+ },
+ {
+  "slug": "triglycerides-mmol-to-mg",
+  "preset": "triglycerides",
+  "conv": "mg/dL",
+  "si": "mmol/L",
+  "f": 0.01129,
+  "si_dec": 2,
+  "conv_dec": 0,
+  "conv_values": [
+   50,
+   100,
+   150,
+   200,
+   300,
+   400,
+   500,
+   1000
+  ],
+  "si_values": [
+   0.5,
+   1,
+   1.5,
+   1.7,
+   2,
+   2.3,
+   3,
+   5,
+   5.6,
+   10
+  ],
+  "related": [
+   "cholesterol-lipid-panel-guide",
+   "statins-cholesterol-drugs"
+  ],
+  "ar": {
+   "title": "تحويل الدهون الثلاثية من mmol/L إلى mg/dL: حاسبة وجدول",
+   "h1": "تحويل الدهون الثلاثية بين mmol/L و mg/dL",
+   "desc": "حوّل الدهون الثلاثية من mmol/L إلى mg/dL بالضرب في 88.57، وبالعكس. حاسبة فورية وجدول للقيم الشائعة، مع الحدود المعتمدة.",
+   "keywords": "تحويل الدهون الثلاثية, triglycerides mmol to mg, الدهون الثلاثية ملي مول",
+   "intro": "للدهون الثلاثية معامل تحويل خاص بها يختلف عن الكوليسترول. أدخل رقمك واختر الاتجاه.",
+   "howto": [
+    "1 mmol/L من الدهون الثلاثية يساوي نحو 88.57 mg/dL. لتحويل mmol/L إلى mg/dL اضرب في 88.57، وللعكس اقسم عليها.",
+    "مثال: 1.7 mmol/L تساوي نحو 150 mg/dL.",
+    "وفق NCEP ATP III: أقل من 150 mg/dL (1.7 mmol/L) طبيعي، ومن 150 إلى 199 حدّي، ومن 200 إلى 499 مرتفع، و500 (5.6 mmol/L) فأكثر مرتفع جداً. تُقاس عادةً بعد صيام، فاتبع تعليمات مختبرك."
+   ],
+   "faqs": [
+    {
+     "q": "كم يساوي 2 mmol/L من الدهون الثلاثية؟",
+     "a": "يساوي نحو 177 mg/dL."
+    },
+    {
+     "q": "لماذا يختلف معامل الدهون الثلاثية عن الكوليسترول؟",
+     "a": "لأن الوزن الجزيئي مختلف، فيختلف عدد المليغرامات في كل مليمول."
+    }
+   ]
+  },
+  "en": {
+   "title": "Triglycerides converter: mmol/L to mg/dL, with chart",
+   "h1": "Convert triglycerides between mmol/L and mg/dL",
+   "desc": "Convert triglycerides from mmol/L to mg/dL by multiplying by 88.57, and back. Instant calculator, a table of common values and the standard cut-offs.",
+   "keywords": "triglycerides mmol to mg, triglyceride converter, triglycerides mmol/L to mg/dL",
+   "intro": "Triglycerides have their own conversion factor, different from cholesterol. Enter your number and pick a direction.",
+   "howto": [
+    "1 mmol/L of triglycerides is about 88.57 mg/dL. Multiply mmol/L by 88.57 to get mg/dL, and divide for the reverse.",
+    "Example: 1.7 mmol/L is about 150 mg/dL.",
+    "NCEP ATP III cut-offs: under 150 mg/dL (1.7 mmol/L) is normal, 150 to 199 borderline, 200 to 499 high, and 500 (5.6 mmol/L) or more very high. It is usually measured fasting, so follow your lab's instructions."
+   ],
+   "faqs": [
+    {
+     "q": "What is 2 mmol/L of triglycerides in mg/dL?",
+     "a": "About 177 mg/dL."
+    },
+    {
+     "q": "Why is the triglyceride factor different from cholesterol?",
+     "a": "The molecules have different weights, so a millimole holds a different number of milligrams."
+    }
+   ]
+  },
+  "js": "labunit.js",
+  "icon": "<polyline points=\"17 1 21 5 17 9\"/><path d=\"M3 11V9a4 4 0 0 1 4-4h14\"/><polyline points=\"7 23 3 19 7 15\"/><path d=\"M21 13v2a4 4 0 0 1-4 4H3\"/>",
+  "chip_ar": "محوّل وحدات",
+  "chip_en": "Unit converter"
+ },
+ {
+  "slug": "urea-bun-converter",
+  "preset": "urea",
+  "conv": "mg/dL",
+  "si": "mmol/L",
+  "f": 0.1665,
+  "si_dec": 1,
+  "conv_dec": 0,
+  "conv_values": [
+   10,
+   15,
+   20,
+   30,
+   40,
+   50,
+   60,
+   100
+  ],
+  "si_values": [
+   2,
+   2.5,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   10,
+   15
+  ],
+  "bun": {
+   "f": 0.357,
+   "conv_values": [
+    5,
+    7,
+    10,
+    14,
+    20,
+    25,
+    30,
+    50
+   ]
+  },
+  "related": [
+   "kidney-function-tests-guide",
+   "creatinine-egfr-kidney"
+  ],
+  "ar": {
+   "title": "تحويل اليوريا وBUN بين mg/dL و mmol/L",
+   "h1": "تحويل اليوريا ونتروجين اليوريا (BUN)",
+   "desc": "اليوريا بوحدة mg/dL تُضرب في 0.1665 لتصبح mmol/L، أما BUN فيُضرب في 0.357. حاسبة وجدولان، ولماذا لا يصح الخلط بين اليوريا وBUN.",
+   "keywords": "تحويل اليوريا, تحويل urea من mg الى mmol, BUN, نتروجين اليوريا, الفرق بين اليوريا و BUN",
+   "intro": "تكتب مختبرات كثيرة في المنطقة اليوريا (Urea) بوحدة mg/dL، وتكتب مختبرات أخرى نتروجين اليوريا (BUN). هما رقمان مختلفان للتحليل نفسه، فاختر الصحيح من القائمة قبل التحويل.",
+   "howto": [
+    "اليوريا: 1 mg/dL يساوي 0.1665 mmol/L. اضرب في 0.1665 للتحويل إلى mmol/L، أو اقسم عليها للعكس.",
+    "BUN: 1 mg/dL يساوي 0.357 mmol/L من اليوريا. وقيمة اليوريا بوحدة mg/dL تساوي نحو 2.14 ضعف قيمة BUN، فاليوريا 30 mg/dL تقابل BUN بنحو 14 mg/dL، وكلاهما يساوي نحو 5.0 mmol/L.",
+    "الخلط بينهما يعطي رقماً أكبر من الحقيقي بأكثر من الضعف، لذلك تحقق من الاسم المطبوع على تقريرك: Urea أم BUN. وقارن النتيجة بالنطاق المرجعي لمختبرك."
+   ],
+   "faqs": [
+    {
+     "q": "ما الفرق بين اليوريا وBUN؟",
+     "a": "اليوريا هي الجزيء كاملاً، وBUN هو النتروجين الموجود فيها فقط. رقم اليوريا بوحدة mg/dL أكبر من رقم BUN بنحو 2.14 مرة، لكنهما يعبّران عن الشيء نفسه."
+    },
+    {
+     "q": "كم يساوي 40 mg/dL من اليوريا بوحدة mmol/L؟",
+     "a": "يساوي نحو 6.7 mmol/L."
+    },
+    {
+     "q": "كيف أحوّل BUN إلى يوريا؟",
+     "a": "اضرب قيمة BUN بوحدة mg/dL في 2.14 لتحصل على اليوريا بوحدة mg/dL."
+    }
+   ]
+  },
+  "en": {
+   "title": "Urea and BUN converter: mg/dL to mmol/L",
+   "h1": "Convert urea and blood urea nitrogen (BUN)",
+   "desc": "Urea in mg/dL times 0.1665 gives mmol/L; BUN in mg/dL times 0.357. Calculator, two tables, and why urea and BUN must not be mixed up.",
+   "keywords": "urea converter, BUN to mmol/L, urea mg/dL to mmol/L, urea vs BUN",
+   "intro": "Many labs in the Middle East report urea in mg/dL, while others report blood urea nitrogen (BUN). They are two different numbers for the same test, so pick the right one before converting.",
+   "howto": [
+    "Urea: 1 mg/dL equals 0.1665 mmol/L. Multiply by 0.1665 to get mmol/L, or divide for the reverse.",
+    "BUN: 1 mg/dL equals 0.357 mmol/L of urea. Urea in mg/dL is about 2.14 times BUN, so urea of 30 mg/dL matches a BUN of about 14 mg/dL, and both are about 5.0 mmol/L.",
+    "Mixing them up gives a number more than twice too high, so check the name printed on your report: Urea or BUN. Compare the result with your lab's reference range."
+   ],
+   "faqs": [
+    {
+     "q": "What is the difference between urea and BUN?",
+     "a": "Urea is the whole molecule; BUN counts only the nitrogen in it. Urea in mg/dL is about 2.14 times BUN, but both describe the same thing."
+    },
+    {
+     "q": "What is 40 mg/dL of urea in mmol/L?",
+     "a": "About 6.7 mmol/L."
+    },
+    {
+     "q": "How do I convert BUN to urea?",
+     "a": "Multiply BUN in mg/dL by 2.14 to get urea in mg/dL."
+    }
+   ]
+  },
+  "js": "labunit.js",
+  "icon": "<polyline points=\"17 1 21 5 17 9\"/><path d=\"M3 11V9a4 4 0 0 1 4-4h14\"/><polyline points=\"7 23 3 19 7 15\"/><path d=\"M21 13v2a4 4 0 0 1-4 4H3\"/>",
+  "chip_ar": "محوّل وحدات",
+  "chip_en": "Unit converter"
+ }
+]

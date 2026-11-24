@@ -28,6 +28,84 @@ COVERS = load_covers()
 
 
 # --------------------------------------------------------------------------
+# From reading to doing: a one-line app pitch matched to the article's topic,
+# and a link to the free tool that converts the numbers the article discusses.
+# Every claim here is a feature the app ships (see the homepage).
+# --------------------------------------------------------------------------
+APP_LINE = {
+    "lab-tests": ("صوّر ورقة تحاليلك، ويكتب لك صحتك كل نتيجة بالعربية مع حالتها وشرح مبسط لها.",
+                  "Photograph your lab report and Sihtak writes out every result with its status and a plain explanation."),
+    "medicines": ("صحتك يذكّرك بكل جرعة في وقتها، وينبّهك قبل أن ينفد دواؤك.",
+                  "Sihtak reminds you of every dose on time and warns you before your medicine runs out."),
+    "chronic-conditions": ("سجّل أدويتك وقراءات ضغطك وسكرك في مكان واحد، ويخبرك صحتك حين يبتعد رقمك عن معدلك.",
+                           "Keep your medicines and your blood pressure and glucose readings in one place, and Sihtak tells you when a number drifts from your normal."),
+    "child-health": ("أضف ملفاً صحياً لكل فرد في عائلتك، وتابع أدويته وتحاليله من هاتفك.",
+                     "Add a health profile for each person in your family and follow their medicines and results from your phone."),
+    "womens-health": ("أضيفي ملفاً صحياً لكل فرد في عائلتك، وتابعي الأدوية والتحاليل من هاتفك.",
+                      "Add a health profile for each person in your family and follow their medicines and results from your phone."),
+}
+APP_LINE_DEFAULT = ("اسأل المساعد الصحي في صحتك عن أي سؤال، كتابةً أو بصوتك، بالعربية أو الإنجليزية.",
+                    "Ask Sihtak's health assistant anything, by text or voice, in Arabic or English.")
+
+
+def app_strip(lang, a):
+    ar_t, en_t = APP_LINE.get(a.get("category"), APP_LINE_DEFAULT)
+    lead = "تطبيق صحتك مجاني" if lang == "ar" else "Sihtak is a free app"
+    return ('      <aside class="art-app reveal">\n'
+            '        <img src="/images/app-icon-112.webp" alt="" width="40" height="40" loading="lazy">\n'
+            f'        <p><b>{lead}.</b> {e(ar_t if lang == "ar" else en_t)}</p>\n'
+            '        <div class="art-app-btns">'
+            f'<a href="{PLAY}" target="_blank" rel="noopener" data-cta="article-strip-play">Google Play</a>'
+            f'<a href="{APPSTORE}" target="_blank" rel="noopener" data-cta="article-strip-ios">App Store</a></div>\n'
+            '      </aside>\n')
+
+
+def _tool_map():
+    """article slug -> [(tool slug, ar title, en title)]"""
+    with open(os.path.join(BASE, "content", "tools.json"), encoding="utf-8") as fh:
+        tools = json.load(fh)
+    with open(os.path.join(BASE, "content", "converters.json"), encoding="utf-8") as fh:
+        convs = json.load(fh)
+    t = {x["slug"]: (x["ar"]["h1"], x["en"]["h1"]) for x in tools + convs}
+    m = {}
+    for c in convs:
+        for s in c.get("related", []):
+            m.setdefault(s, []).append(c["slug"])
+    extra = {
+        "a1c-converter": ["hba1c-test-explained", "type-2-diabetes-complete-guide", "prediabetes-reversing-it",
+                          "diabetes-in-syria", "gestational-diabetes-guide", "diabetic-foot-care",
+                          "diabetic-retinopathy-eyes", "sugar-in-arabic-sweets"],
+        "bmi": ["obesity-in-the-gulf", "weight-loss-that-works", "weight-loss-herbs-danger",
+                "mediterranean-diet-arab-version", "fatty-liver-disease"],
+        "glucose-mmol-to-mg": ["diabetes-in-syria", "gestational-diabetes-guide"],
+        "creatinine-umol-to-mg": ["painkillers-and-your-kidneys"],
+    }
+    for tool, slugs in extra.items():
+        for s in slugs:
+            m.setdefault(s, [])
+            if tool not in m[s]:
+                m[s].append(tool)
+    return {s: [(x, *t[x]) for x in v if x in t] for s, v in m.items()}, t
+
+
+TOOL_MAP, TOOL_TITLES = _tool_map()
+
+
+def tool_box(lang, a):
+    tools = TOOL_MAP.get(a["slug"])
+    if not tools and a.get("category") == "lab-tests":
+        tools = [("lab-unit-converter", *TOOL_TITLES["lab-unit-converter"])]
+    if not tools:
+        return ""
+    base = "/tools/" if lang == "ar" else "/en/tools/"
+    h = "أداة مجانية لهذا التحليل" if lang == "ar" else "A free tool for this"
+    links = "".join(f'<li><a href="{base}{s}/">{e(ar if lang == "ar" else en)}</a></li>'
+                    for s, ar, en in tools[:3])
+    return (f'      <aside class="art-tool reveal">\n        <p class="art-tool-h">{h}</p>\n'
+            f'        <ul>{links}</ul>\n      </aside>\n')
+
+
+# --------------------------------------------------------------------------
 # normalisation: authors supply the minimum, the builder derives the rest
 # --------------------------------------------------------------------------
 def normalise(a):
@@ -124,7 +202,7 @@ def author_box(lang):
         '      <aside class="art-author reveal">\n'
         '        <div class="art-author-avatar" aria-hidden="true">AA</div>\n'
         '        <div class="art-author-body">\n'
-        f'          <h3><a href="/author/">{AUTHOR}</a></h3>\n'
+        f'          <h3><a href="{"/author/" if lang == "ar" else "/en/author/"}">{AUTHOR}</a></h3>\n'
         f'          <p class="art-author-role">{o["author_role"]}</p>\n'
         f'          <p class="art-author-bio">{o["author_bio"]}</p>\n'
         '        </div>\n'
@@ -141,6 +219,7 @@ def body_html(lang, a, articles=()):
     lis = "".join(f'          <li>{e(t)}</li>\n' for t in c["takeaways"])
     out.append(f'      <aside class="art-takeaways reveal">\n        <h2>{o["takeaways_h"]}</h2>\n'
                f'        <ul>\n{lis}        </ul>\n      </aside>\n')
+    out.append(app_strip(lang, a))
 
     out.append(toc(lang, a))
 
@@ -154,12 +233,14 @@ def body_html(lang, a, articles=()):
             out.append(f'        <ul class="art-list">\n{items}        </ul>\n')
         out.append(build_visuals.render_all(lang, s))
         out.append('      </section>\n')
+        if i == 2:
+            out.append(tool_box(lang, a))
 
     out.append(f'      <section class="art-tie reveal">\n        <p>{e(c["tie"])}</p>\n      </section>\n')
 
     out.append(
         '      <aside class="art-cta reveal">\n'
-        '        <img src="/icon.png" alt="Sihtak app icon" width="56" height="56">\n'
+        '        <img src="/images/app-icon-112.webp" alt="Sihtak app icon" width="56" height="56">\n'
         '        <div class="art-cta-text">\n'
         f'          <h3>{o["cta_h"]}</h3>\n'
         f'          <p>{o["cta_p"]}</p>\n'

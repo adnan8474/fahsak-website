@@ -72,29 +72,29 @@
     "chip_en": "Health Tool",
     "icon": "<polyline points=\"17 1 21 5 17 9\"/><path d=\"M3 11V9a4 4 0 0 1 4-4h14\"/><polyline points=\"7 23 3 19 7 15\"/><path d=\"M21 13v2a4 4 0 0 1-4 4H3\"/>",
     "ar": {
-      "title": "محوّل وحدات التحاليل الطبية (mg/dL و mmol/L)",
+      "title": "محوّل وحدات التحاليل الطبية: mg/dL و mmol/L و µmol/L",
       "h1": "محوّل وحدات التحاليل الطبية",
-      "desc": "حوّل قيم التحاليل الشائعة بين الوحدات التقليدية (mg/dL) والدولية (mmol/L): السكر، الكوليسترول، الدهون الثلاثية، الكرياتينين واليوريا.",
+      "desc": "حوّل نتائج تحاليلك بين mg/dL و mmol/L فوراً: السكر، والكوليسترول، والدهون الثلاثية، والكرياتينين (µmol/L)، واليوريا وBUN. مجاني ومن دون تسجيل.",
       "keywords": "محول وحدات التحاليل, mg/dL, mmol/L, تحويل السكر, تحويل الكوليسترول, الكرياتينين, وحدات المختبر",
       "intro": "اختر التحليل وأدخل القيمة لتحويلها بين الوحدات التقليدية والدولية، فبعض المختبرات تستخدم وحدات مختلفة عن التي اعتدت عليها في نتائجك.",
       "howto": ["تستخدم المختبرات وحدتين شائعتين لقيم الدم: الوحدة التقليدية (مثل ملغم/دل) والوحدة الدولية (مثل ملي مول/لتر). لكل تحليل معامل تحويل ثابت بين الوحدتين، وهذه الأداة تطبّقه لك مباشرة.", "لاحظ أن الكرياتينين يُعبَّر عنه بالوحدة الدولية بالميكرومول/لتر لا الملي مول/لتر. النتيجة هنا تحويل رقمي فقط، أما تفسير القيمة نفسها فيبقى مهمة الطبيب ضمن حالتك والنطاق المرجعي لمختبرك."],
       "faqs": [
         {"q": "لماذا تختلف وحدات نتائج تحاليلي عن غيرها؟", "a": "لأن بعض المختبرات تستخدم الوحدات الدولية (mmol/L) وأخرى الوحدات التقليدية (mg/dL). القيمة نفسها لا تتغير، فقط طريقة التعبير عنها، وهذه الأداة تساعدك على المقارنة بينها."},
         {"q": "هل التحويل يغيّر تفسير النتيجة؟", "a": "لا. التحويل يغيّر الوحدة فقط وليس القيمة الفعلية. ما إذا كانت النتيجة طبيعية أو مرتفعة يعتمد على النطاق المرجعي للمختبر وعلى تفسير طبيبك."},
-        {"q": "أي التحاليل يمكن تحويلها هنا؟", "a": "تدعم الأداة سكر الدم (الغلوكوز)، والكوليسترول، والدهون الثلاثية، والكرياتينين، واليوريا. لتحاليل أخرى استعن بطبيبك أو المختبر."}
+        {"q": "أي التحاليل يمكن تحويلها هنا؟", "a": "تدعم الأداة سكر الدم (الغلوكوز)، والكوليسترول، والدهون الثلاثية، والكرياتينين، واليوريا، ونتروجين اليوريا (BUN). لتحاليل أخرى استعن بطبيبك أو المختبر."}
       ]
     },
     "en": {
-      "title": "Medical Lab Unit Converter (mg/dL and mmol/L)",
+      "title": "Lab unit converter: mg/dL, mmol/L and µmol/L",
       "h1": "Medical Lab Unit Converter",
-      "desc": "Convert common lab values between conventional units (mg/dL) and SI units (mmol/L): glucose, cholesterol, triglycerides, creatinine, and urea.",
+      "desc": "Convert lab results between mg/dL and mmol/L instantly: glucose, cholesterol, triglycerides, creatinine (µmol/L), urea and BUN. Free, no sign-up.",
       "keywords": "lab unit converter, mg/dL, mmol/L, glucose conversion, cholesterol conversion, creatinine, laboratory units",
       "intro": "Choose the analyte and enter the value to convert it between conventional and SI units, since some labs use different units from the ones you are used to seeing in your results.",
       "howto": ["Labs use two common units for blood values: the conventional unit (such as mg/dL) and the SI unit (such as mmol/L). Each analyte has a fixed conversion factor between the two units, and this tool applies it for you instantly.", "Note that creatinine is expressed in SI units as µmol/L, not mmol/L. The result here is a numeric conversion only, while interpreting the value itself remains your doctor's task within your situation and your lab's reference range."],
       "faqs": [
         {"q": "Why do the units on my results differ from others?", "a": "Because some labs use SI units (mmol/L) and others use conventional units (mg/dL). The value itself does not change, only how it is expressed, and this tool helps you compare between them."},
         {"q": "Does converting change how the result is interpreted?", "a": "No. Converting changes only the unit, not the actual value. Whether a result is normal or high depends on the lab's reference range and your doctor's interpretation."},
-        {"q": "Which analytes can I convert here?", "a": "The tool supports glucose, cholesterol, triglycerides, creatinine, and urea. For other tests, ask your doctor or lab."}
+        {"q": "Which analytes can I convert here?", "a": "The tool supports glucose, cholesterol, triglycerides, creatinine, urea and blood urea nitrogen (BUN). For other tests, ask your doctor or lab."}
       ]
     }
   }

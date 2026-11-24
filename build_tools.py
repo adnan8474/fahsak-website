@@ -80,7 +80,7 @@ SCRIPT_BLOCK = """  <script>
 
 FOOTER = {
     "ar": """  <footer class="footer" role="contentinfo"><div class="footer-inner"><div class="footer-top">
-        <div class="footer-brand-section"><div class="footer-logo-row"><img src="/icon.png" alt="" width="40" height="40"><span>صحتك</span></div>
+        <div class="footer-brand-section"><div class="footer-logo-row"><img src="/images/app-icon-112.webp" alt="" width="40" height="40"><span>صحتك</span></div>
           <p class="footer-tag">مساعدك الصحي الذكي، مجاني وبدون إعلانات.</p>
           <a href="__PLAY__" class="btn btn-primary btn-sm" target="_blank" rel="noopener">حمّل الآن</a></div>
         <div class="footer-col"><h4>استكشف</h4><ul class="footer-links"><li><a href="/#features">المزايا</a></li><li><a href="/articles/">المقالات</a></li><li><a href="/tools/">الأدوات</a></li></ul></div>
@@ -91,7 +91,7 @@ FOOTER = {
     </div></footer>
 """.replace("__PLAY__", PLAY),
     "en": """  <footer class="footer" role="contentinfo"><div class="footer-inner"><div class="footer-top">
-        <div class="footer-brand-section"><div class="footer-logo-row"><img src="/icon.png" alt="" width="40" height="40"><span>Sihtak</span></div>
+        <div class="footer-brand-section"><div class="footer-logo-row"><img src="/images/app-icon-112.webp" alt="" width="40" height="40"><span>Sihtak</span></div>
           <p class="footer-tag">Your smart health companion, free with no ads.</p>
           <a href="__PLAY__" class="btn btn-primary btn-sm" target="_blank" rel="noopener">Download</a></div>
         <div class="footer-col"><h4>Explore</h4><ul class="footer-links"><li><a href="/#features">Features</a></li><li><a href="/en/articles/">Articles</a></li><li><a href="/en/tools/">Tools</a></li></ul></div>
@@ -159,7 +159,7 @@ def nav(lang, slug):
     other_href = (f'/en/tools/{slug + "/" if slug else ""}' if lang == "ar" else f'/tools/{slug + "/" if slug else ""}')
     other_label = ("EN" if lang == "ar" else "عربي")
     return ('  <nav class="nav" role="navigation" aria-label="Main navigation">\n    <div class="nav-inner">\n'
-        '      <a href="/" class="nav-brand" aria-label="Sihtak Home">\n        <img src="/icon.png" alt="" class="nav-logo" width="36" height="36">\n'
+        '      <a href="/" class="nav-brand" aria-label="Sihtak Home">\n        <img src="/images/app-icon-112.webp" alt="" class="nav-logo" width="36" height="36">\n'
         f'        <span class="nav-name">{o["site"]}</span>\n      </a>\n      <div class="nav-actions">\n'
         f'        <a href="{o["articles_href"]}" class="art-nav-link">{o["articles_label"]}</a>\n'
         f'        <a href="{o["tools_href"]}" class="art-nav-link">{o["tools_label"]}</a>\n'
@@ -179,7 +179,71 @@ def hero(lang, tool):
 
 
 def tool_card(lang, tool):
+    if tool.get("preset"):
+        # One analyte's converter: the full lab-unit converter opened on that
+        # analyte (labunit.js reads data-lu-preset), so a mistyped test is one
+        # tap away from the right one.
+        return f'<div data-lu-preset="{tool["preset"]}">\n' + labunit_body(lang) + '</div>\n'
     return {"bmi": bmi_body, "a1c-converter": a1c_body, "lab-unit-converter": labunit_body}[tool["slug"]](lang)
+
+
+def _fmt(x, dec):
+    return f"{x:,.{dec}f}" if dec else f"{round(x):,}"
+
+
+def _table(lang, title, head, rows):
+    # Not the article viz-table: that one turns each row into a card on phones,
+    # which makes a two-column lookup table thirteen screens long. Values are
+    # "number unit" and must stay left-to-right inside Arabic pages.
+    ths = "".join(f'<th scope="col" dir="ltr">{e(h)}</th>' for h in head)
+    trs = "".join("<tr>" + "".join(f'<td dir="ltr">{e(c)}</td>' for c in r) + "</tr>\n" for r in rows)
+    return (f'        <table class="conv-table">\n          <caption>{e(title)}</caption>\n'
+            f'          <thead><tr>{ths}</tr></thead>\n          <tbody>\n{trs}          </tbody>\n        </table>\n')
+
+
+def conversion_tables(lang, tool):
+    """Two pre-computed tables, one per direction, so the page answers a query
+    like "5.6 mmol كم mg" without anyone needing to type."""
+    f, cu, su = tool["f"], tool["conv"], tool["si"]
+    ar = lang == "ar"
+    out = [f'      <section class="reveal"><h2>{"جدول التحويل" if ar else "Conversion table"}</h2>\n']
+    if tool.get("bun"):
+        b = tool["bun"]
+        out.append(_table(lang, ("اليوريا (Urea): من mg/dL إلى mmol/L" if ar else "Urea: mg/dL to mmol/L"),
+                          [("اليوريا" if ar else "Urea") + f" ({cu})", su],
+                          [[f"{_fmt(v, 0)} {cu}", f"{_fmt(v * f, 1)} {su}"] for v in tool["conv_values"]]))
+        out.append(_table(lang, ("نتروجين اليوريا (BUN): من mg/dL إلى mmol/L، وما يقابله من اليوريا" if ar
+                                 else "BUN: mg/dL to mmol/L, and the matching urea"),
+                          [f"BUN ({cu})", su, ("اليوريا" if ar else "Urea") + f" ({cu})"],
+                          [[f"{_fmt(v, 0)} {cu}", f"{_fmt(v * b['f'], 1)} {su}", f"{_fmt(v * 2.14, 0)} {cu}"]
+                           for v in b["conv_values"]]))
+    else:
+        out.append(_table(lang, (f"من {su} إلى {cu}" if ar else f"{su} to {cu}"), [su, cu],
+                          [[f"{_fmt(v, tool['si_dec'])} {su}", f"{_fmt(v / f, tool['conv_dec'])} {cu}"]
+                           for v in tool["si_values"]]))
+        out.append(_table(lang, (f"من {cu} إلى {su}" if ar else f"{cu} to {su}"), [cu, su],
+                          [[f"{_fmt(v, tool['conv_dec'])} {cu}", f"{_fmt(v * f, tool['si_dec'])} {su}"]
+                           for v in tool["conv_values"]]))
+    out.append('      </section>\n')
+    return "".join(out)
+
+
+_ARTS = None
+
+
+def related_articles(lang, tool):
+    """Links to the guides that explain the number this tool converts."""
+    global _ARTS
+    if _ARTS is None:
+        with open(os.path.join(BASE, "content", "articles.json"), encoding="utf-8") as fh:
+            _ARTS = {a["slug"]: a for a in json.load(fh)}
+    items = [(_ARTS[s]["content"][lang]["h1"], s) for s in tool.get("related", []) if s in _ARTS]
+    if not items:
+        return ""
+    base = "/articles/" if lang == "ar" else "/en/articles/"
+    h = "اقرأ الشرح الكامل" if lang == "ar" else "Read the full guide"
+    lis = "".join(f'          <li><a href="{base}{s}/">{e(t)}</a></li>\n' for t, s in items)
+    return f'      <section class="reveal"><h2>{h}</h2>\n        <ul class="art-list">\n{lis}        </ul>\n      </section>\n'
 
 
 def bmi_body(lang):
@@ -217,7 +281,7 @@ def a1c_body(lang):
 def labunit_body(lang):
     if lang == "ar":
         opts = [("glucose", "سكر الدم (الغلوكوز)"), ("cholesterol", "الكوليسترول (كلي/LDL/HDL)"),
-                ("triglycerides", "الدهون الثلاثية"), ("creatinine", "الكرياتينين"), ("urea", "اليوريا (BUN)")]
+                ("triglycerides", "الدهون الثلاثية"), ("creatinine", "الكرياتينين"), ("urea", "اليوريا (Urea)"), ("bun", "نتروجين اليوريا (BUN)")]
         options = "".join(f'<option value="{v}">{e(t)}</option>' for v, t in opts)
         return ('<div class="tool-card">\n  <div class="tool-fields">\n'
             f'    <div class="tool-field"><label for="lu-analyte">التحليل</label><select class="tool-select" id="lu-analyte">{options}</select></div>\n'
@@ -227,7 +291,7 @@ def labunit_body(lang):
             '  <button class="tool-btn" id="lu-calc" type="button">حوّل الوحدة</button>\n'
             '  <div class="tool-result" id="lu-result"><div class="tool-big">--</div><div class="tool-unit"></div><div class="tool-sub"></div></div>\n</div>\n')
     opts = [("glucose", "Glucose"), ("cholesterol", "Cholesterol (total/LDL/HDL)"),
-            ("triglycerides", "Triglycerides"), ("creatinine", "Creatinine"), ("urea", "Urea (BUN)")]
+            ("triglycerides", "Triglycerides"), ("creatinine", "Creatinine"), ("urea", "Urea"), ("bun", "Blood urea nitrogen (BUN)")]
     options = "".join(f'<option value="{v}">{e(t)}</option>' for v, t in opts)
     return ('<div class="tool-card">\n  <div class="tool-fields">\n'
         f'    <div class="tool-field"><label for="lu-analyte">Analyte</label><select class="tool-select" id="lu-analyte">{options}</select></div>\n'
@@ -257,7 +321,12 @@ def tool_page(lang, tool, tools):
     c = tool[lang]
     faq_ld = {"@context": "https://schema.org", "@type": "FAQPage",
               "mainEntity": [{"@type": "Question", "name": f["q"], "acceptedAnswer": {"@type": "Answer", "text": f["a"]}} for f in c["faqs"]]}
-    parts = [head(lang, tool["slug"], c["title"], c["desc"], c["keywords"], [faq_ld]), nav(lang, tool["slug"]), hero(lang, tool)]
+    app_ld = {"@context": "https://schema.org", "@type": "WebApplication", "name": c["h1"],
+              "url": f'https://www.sihtak.com{o["base"]}{tool["slug"]}/', "applicationCategory": "HealthApplication",
+              "operatingSystem": "Any", "browserRequirements": "Requires JavaScript", "inLanguage": lang,
+              "isAccessibleForFree": True, "offers": {"@type": "Offer", "price": "0", "priceCurrency": "USD"},
+              "publisher": {"@type": "Organization", "name": "Sihtak", "url": "https://www.sihtak.com/"}}
+    parts = [head(lang, tool["slug"], c["title"], c["desc"], c["keywords"], [faq_ld, app_ld]), nav(lang, tool["slug"]), hero(lang, tool)]
     parts.append('    <div class="tool-wrap">\n')
     parts.append(f'      <p class="tool-intro reveal">{e(c["intro"])}</p>\n')
     parts.append("      " + tool_card(lang, tool).replace("\n", "\n      ").rstrip() + "\n")
@@ -268,18 +337,21 @@ def tool_page(lang, tool, tools):
     for p in c["howto"]:
         parts.append(f'        <p>{e(p)}</p>\n')
     parts.append('      </section>\n')
+    if tool.get("f"):
+        parts.append(conversion_tables(lang, tool))
+    parts.append(related_articles(lang, tool))
     parts.append(f'      <section class="art-faq reveal"><h2>{o["faq_h"]}</h2>\n')
     for f in c["faqs"]:
         parts.append(f'        <details class="art-faq-item"><summary>{e(f["q"])}</summary><p>{e(f["a"])}</p></details>\n')
     parts.append('      </section>\n')
-    parts.append('      <aside class="art-cta reveal"><img src="/icon.png" alt="Sihtak app icon" width="56" height="56"><div class="art-cta-text">'
+    parts.append('      <aside class="art-cta reveal"><img src="/images/app-icon-112.webp" alt="Sihtak app icon" width="56" height="56"><div class="art-cta-text">'
         f'<h3>{o["cta_h"]}</h3><p>{o["cta_p"]}</p></div><div class="art-cta-btns">'
         f'<a href="{PLAY}" class="btn btn-primary btn-sm" target="_blank" rel="noopener">{o["cta_b1"]}</a>'
         f'<a href="https://apps.apple.com/us/app/sihtak-%D8%B5%D8%AD%D8%AA%D9%83/id6764330989" class="btn btn-ghost btn-sm" target="_blank" rel="noopener">{o["cta_b2"]}</a></div></aside>\n')
     parts.append('    </article>\n')
     parts.append(f'    <section class="art-related"><h2 class="reveal">{o["more_h"]}</h2>\n      <div class="art-grid">\n{other_tool_cards(lang, tools, tool["slug"])}      </div>\n    </section>\n  </main>\n')
     parts.append(FOOTER[lang])
-    parts.append(f'  <script src="/tools/js/{tool["js"]}"></script>\n')
+    parts.append(f'  <script src="/tools/js/{tool["js"]}?v={ASSET_V}"></script>\n')
     parts.append(SCRIPT_BLOCK)
     return "".join(parts)
 
@@ -322,7 +394,10 @@ def hub_page(lang, tools):
 
 def load_tools():
     with open(os.path.join(BASE, "content", "tools.json"), encoding="utf-8") as fh:
-        return json.load(fh)
+        tools = json.load(fh)
+    # One page per analyte people search for by name (content/converters.json)
+    with open(os.path.join(BASE, "content", "converters.json"), encoding="utf-8") as fh:
+        return tools + json.load(fh)
 
 
 def main():

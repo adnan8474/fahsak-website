@@ -119,7 +119,7 @@ def nav(lang):
     other = "/en/about/" if lang == "ar" else "/about/"
     other_label = "EN" if lang == "ar" else "عربي"
     return ('  <nav class="nav" role="navigation" aria-label="Main navigation">\n    <div class="nav-inner">\n'
-        '      <a href="/" class="nav-brand" aria-label="Sihtak Home">\n        <img src="/icon.png" alt="" class="nav-logo" width="36" height="36">\n'
+        '      <a href="/" class="nav-brand" aria-label="Sihtak Home">\n        <img src="/images/app-icon-112.webp" alt="" class="nav-logo" width="36" height="36">\n'
         f'        <span class="nav-name">{o["site"]}</span>\n      </a>\n      <div class="nav-actions">\n'
         f'        <a href="{o["articles_href"]}" class="art-nav-link">{o["articles_label"]}</a>\n'
         f'        <a href="{o["tools_href"]}" class="art-nav-link">{o["tools_label"]}</a>\n'
@@ -145,7 +145,7 @@ def page(lang):
         if s.get("list"):
             parts.append('        <ul class="art-list">\n' + "".join(f'          <li>{e(li)}</li>\n' for li in s["list"]) + '        </ul>\n')
         parts.append('      </section>\n')
-    parts.append('      <aside class="art-cta reveal"><img src="/icon.png" alt="Sihtak app icon" width="56" height="56"><div class="art-cta-text">'
+    parts.append('      <aside class="art-cta reveal"><img src="/images/app-icon-112.webp" alt="Sihtak app icon" width="56" height="56"><div class="art-cta-text">'
         f'<h3>{e(c["cta_h"])}</h3><p>{e(c["cta_p"])}</p></div><div class="art-cta-btns">'
         f'<a href="{PLAY}" class="btn btn-primary btn-sm" target="_blank" rel="noopener">{"حمّل من Google Play" if lang=="ar" else "Get it on Google Play"}</a>'
         f'<a href="{APPSTORE}" class="btn btn-ghost btn-sm" target="_blank" rel="noopener">{"حمّل من App Store" if lang=="ar" else "Download on the App Store"}</a></div></aside>\n')
