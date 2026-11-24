@@ -569,6 +569,103 @@
     @media (max-width:1100px){.ev-grid{grid-template-columns:repeat(4,minmax(0,1fr));}}
     @media (max-width:640px){.ev-grid{grid-template-columns:repeat(3,minmax(0,1fr));gap:8px;}.ev{padding:14px 8px 12px;align-items:center;text-align:center;border-radius:18px;}.ev span{display:none;}.ev b{font-size:13px;}.ev i{width:44px;height:44px;border-radius:14px;}}
     @media (prefers-reduced-motion:reduce){.ev{transition:none;}.ev:hover{transform:none;}}
+
+    /* Lab report scan. Static (final state) by default; .live turns it into
+       a pinned, scroll-driven read. --a: paper aligns, --b: beam position,
+       --c: the plain-words card. */
+    .scan{position:relative;padding:clamp(72px,9vw,120px) 0;background:radial-gradient(60% 50% at 70% 40%,rgba(232,196,142,.07),transparent 70%);}
+    .scan-grid{display:grid;grid-template-columns:.95fr 1.05fr;gap:clamp(32px,5vw,72px);align-items:center;}
+    .scan-h{font-size:clamp(30px,3.4vw,48px);line-height:1.12;}
+    html[lang="ar"] .scan-h{line-height:1.35;}
+    .scan-lead{margin-bottom:26px;}
+    .st-ok{--sc:var(--em);} .st-near{--sc:var(--sand);} .st-out{--sc:var(--amber);}
+    .plain{padding:18px 20px;border-radius:22px;background:#fbfaf7;color:#10201d;box-shadow:0 30px 70px -30px rgba(0,0,0,.75);max-width:470px;}
+    .plain-top{display:flex;align-items:center;gap:10px;font-size:12.5px;color:#5d6d68;}
+    .plain-top img{width:26px;height:26px;border-radius:8px;}
+    .plain-top b{font-size:15px;color:#10201d;}
+    .plain-top span{margin-inline-start:auto;}
+    .plain-counts{display:flex;flex-wrap:wrap;gap:6px;margin:12px 0 10px;padding:0;list-style:none;}
+    .plain-counts li{font-size:12.5px;font-weight:500;padding:3px 10px;border-radius:999px;color:#10201d;background:color-mix(in srgb,var(--sc) 22%,#fff);}
+    .plain p{margin:0;font-size:14px;line-height:1.7;color:#3d4d49;}
+    .plain .plain-next{margin-top:10px;padding-top:10px;border-top:1px solid rgba(10,40,35,.1);}
+    .plain-next b{display:block;font-size:12.5px;color:#0d7a70;}
+    .plain .note{margin-top:10px;font-size:11.5px;color:#7a8783;}
+
+    .scan-shot{position:relative;perspective:1400px;padding:22px;}
+    .frame{position:absolute;inset:0;pointer-events:none;}
+    .frame i{position:absolute;width:34px;height:34px;border:2px solid var(--sand);opacity:.9;}
+    .frame i:nth-child(1){top:0;left:0;border-right:0;border-bottom:0;border-radius:12px 0 0 0;}
+    .frame i:nth-child(2){top:0;right:0;border-left:0;border-bottom:0;border-radius:0 12px 0 0;}
+    .frame i:nth-child(3){bottom:0;left:0;border-right:0;border-top:0;border-radius:0 0 0 12px;}
+    .frame i:nth-child(4){bottom:0;right:0;border-left:0;border-top:0;border-radius:0 0 12px 0;}
+    .sheet{position:relative;margin:0;padding:22px 24px 16px;border-radius:6px;overflow:hidden;color:#1d2522;font-family:Poppins,sans-serif;font-weight:300;font-size:13px;line-height:1.4;font-variant-numeric:tabular-nums;
+      background:linear-gradient(172deg,#fffdf8 0%,#f6f1e6 60%,#efe8d9 100%);box-shadow:0 1px 0 rgba(255,255,255,.6) inset,0 40px 80px -30px rgba(0,0,0,.85),0 0 0 1px rgba(0,0,0,.05);transform-origin:50% 60%;}
+    .sheet::after{content:"";position:absolute;inset:0;pointer-events:none;background:linear-gradient(115deg,rgba(255,255,255,.35),transparent 35%,transparent 70%,rgba(80,60,30,.06));}
+    .sheet-head{display:flex;justify-content:space-between;gap:16px;padding-bottom:12px;border-bottom:2px solid #1d2522;}
+    .sheet-head b{display:block;font-weight:700;font-size:15px;letter-spacing:.01em;}
+    .sheet-head span{font-size:11px;color:#66706c;}
+    .sheet-head dl{display:grid;grid-template-columns:auto auto;gap:1px 10px;margin:0;font-size:11px;}
+    .sheet-head dt{color:#66706c;} .sheet-head dd{margin:0;font-weight:500;}
+    .redact{display:inline-block;width:78px;height:9px;border-radius:2px;background:#1d2522;vertical-align:middle;}
+    .sheet-cols,.r-line{display:grid;grid-template-columns:1.6fr .6fr .7fr .9fr;gap:8px;align-items:baseline;}
+    .sheet-cols{padding:9px 0 6px;font-size:10.5px;font-weight:500;color:#66706c;border-bottom:1px solid rgba(29,37,34,.25);}
+    .rows{list-style:none;margin:0;padding:0;}
+    .row{position:relative;padding:7px 0 6px;border-bottom:1px dotted rgba(29,37,34,.22);}
+    .r-line b{font-weight:500;font-size:14px;}
+    .row[data-s="near"] .r-line b,.row[data-s="out"] .r-line b{font-weight:700;}
+    .row::before{content:"";position:absolute;inset:0 -10px;border-radius:6px;background:color-mix(in srgb,var(--sc) 16%,transparent);opacity:var(--hl,1);pointer-events:none;}
+    .row[data-s="ok"]{--sc:var(--em);} .row[data-s="ok"]::before{background:color-mix(in srgb,var(--em) 8%,transparent);} .row[data-s="near"]{--sc:var(--sand);} .row[data-s="out"]{--sc:var(--amber);}
+    .ann{position:relative;display:flex;flex-wrap:wrap;align-items:center;gap:6px;margin:5px 0 0;font-family:var(--font);font-size:12.5px;font-weight:500;color:#0f3f39;line-height:1.5;}
+    .ann em{font-style:normal;font-size:11.5px;font-weight:700;padding:1px 9px;border-radius:999px;background:var(--sc);color:#10201d;}
+    .ann em.mv{background:transparent;color:#0d7a70;border:1px solid rgba(13,122,112,.45);font-weight:500;}
+    html[lang="ar"] .ann{direction:rtl;}
+    .sheet-foot{display:flex;justify-content:space-between;padding-top:10px;font-size:10px;color:#8a918d;}
+    .beam{position:absolute;left:0;right:0;top:0;height:3px;opacity:0;background:linear-gradient(90deg,transparent,var(--sand) 12%,#fff4dc 50%,var(--sand) 88%,transparent);box-shadow:0 0 18px 4px rgba(232,196,142,.55),0 -40px 50px -10px rgba(232,196,142,.18);pointer-events:none;}
+
+    /* Live: pinned and driven by scroll */
+    .scan.live{height:320vh;padding:0;}
+    .scan.live .scan-stage{position:sticky;top:0;height:100svh;display:flex;align-items:center;overflow:hidden;padding-top:64px;}
+    .scan.live .scan-grid{width:100%;}
+    .scan.live .sheet{transform:rotateX(calc(26deg * (1 - var(--a,0)))) rotate(calc(-5deg * (1 - var(--a,0)))) scale(calc(.9 + .1 * var(--a,0)));}
+    html[dir="rtl"] .scan.live .sheet{transform:rotateX(calc(26deg * (1 - var(--a,0)))) rotate(calc(5deg * (1 - var(--a,0)))) scale(calc(.9 + .1 * var(--a,0)));}
+    .scan.live .frame{opacity:calc(.25 + .75 * var(--a,0));transform:scale(calc(1.08 - .08 * var(--a,0)));}
+    .scan.live .beam{opacity:var(--bo,0);top:calc(var(--b,0) * 100%);}
+    .scan.live .row{--hl:0;}
+    .scan.live .row .ann{opacity:0;transform:translateY(-4px);transition:opacity .45s ease,transform .45s cubic-bezier(.2,.8,.2,1);}
+    .scan.live .row::before{transition:opacity .5s ease;}
+    .scan.live .row.lit{--hl:1;}
+    .scan.live .row.lit .ann{opacity:1;transform:none;}
+    .scan.live .plain{opacity:var(--c,0);transform:translateY(calc(24px * (1 - var(--c,0))));}
+    .scan.live .plain-counts li{opacity:var(--c,0);}
+
+    @media (max-width:900px){
+      .scan-grid{grid-template-columns:1fr;}
+      .scan-shot{padding:14px;max-width:520px;margin-inline:auto;width:100%;}
+      .sheet{padding:16px 16px 12px;font-size:12px;}
+      .sheet-head b{font-size:13.5px;}
+      .r-line b{font-size:13px;}
+      .plain{max-width:none;}
+      .scan.live{height:300vh;}
+      .scan.live .scan-stage{align-items:flex-start;padding-top:84px;}
+      .scan.live .scan-grid{gap:10px;}
+      .scan.live .scan-lead{display:none;}
+      .scan.live .scan-h{font-size:clamp(22px,6vw,30px);}
+      .scan.live .kick{margin-bottom:8px;}
+      /* the plain-words card rises over the lower half of the paper */
+      .scan.live .plain{position:absolute;inset-inline:16px;bottom:16px;z-index:3;padding:14px 16px;transform:translateY(calc(110% * (1 - var(--c,0))));opacity:1;}
+      .scan.live .plain .note{display:none;}
+    }
+    @media (max-width:420px){
+      .sheet-head span,.sheet-foot span:first-child{display:none;}
+      .sheet-cols,.r-line{grid-template-columns:1.5fr .55fr .65fr .85fr;gap:6px;}
+      .sheet{font-size:11px;}
+      .sheet-head dl{font-size:10px;}
+      .redact{width:54px;}
+    }
+    @media (max-height:760px) and (min-width:901px){
+      .scan.live .scan-lead{display:none;}
+      .scan.live .row{padding:5px 0 4px;}
+    }
   </style>
 </meta></head>
 <body>
@@ -703,6 +800,49 @@
 <span class="tag" data-ar="وضع رمضان" data-en="Ramadan mode">Ramadan mode</span>
 <div class="bubble"><img src="/icon.png" alt="" width="24" height="24" loading="lazy"><div><b data-ar="ميتفورمين مع السحور" data-en="Metformin with suhoor">Metformin with suhoor</b><span data-ar="بقي 40 دقيقة على الفجر. خذيها مع الطعام." data-en="40 minutes until Fajr. Take it with food.">40 minutes until Fajr. Take it with food.</span></div></div>
 </article>
+</div>
+</div>
+</section>
+<!-- Lab report scan: the paper is read row by row as you scroll -->
+<section class="scan" id="scan" aria-labelledby="scan-title">
+<div class="scan-stage">
+<div class="wrap scan-grid">
+<div class="scan-copy">
+<p class="kick" data-ar="تحاليل ريم، الساعة 12:30" data-en="Reem's results, 12:30">Reem's results, 12:30</p>
+<h2 class="scan-h" id="scan-title" data-ar="صوّر ورقة التحاليل، واقرأ كل نتيجة بالعربية الواضحة." data-en="Photograph the lab sheet. Read every result in plain words.">Photograph the lab sheet. Read every result in plain words.</h2>
+<p class="lead scan-lead" data-ar="يقرأ صحتك القيم والنطاقات المطبوعة على تقريرك، ويكتب بجانب كل نتيجة اسمها بالعربية وحالتها، ثم يشرح التقرير كاملاً بلغة بسيطة." data-en="Sihtak reads the values and ranges printed on your report, writes each result's name and status beside it, then explains the whole report in plain words.">Sihtak reads the values and ranges printed on your report, writes each result's name and status beside it, then explains the whole report in plain words.</p>
+<div class="plain" role="note">
+<div class="plain-top"><img src="/icon.png" alt="" width="26" height="26" loading="lazy"><b data-ar="بلغة بسيطة" data-en="In plain words">In plain words</b><span data-ar="عدد النتائج المستخرجة: 6" data-en="6 results found">6 results found</span></div>
+<ul class="plain-counts">
+<li class="st-ok" data-ar="ضمن النطاق: 3" data-en="3 in range">3 in range</li>
+<li class="st-near" data-ar="قريبة من الحد: 1" data-en="1 near the limit">1 near the limit</li>
+<li class="st-out" data-ar="خارج النطاق: 2" data-en="2 out of range">2 out of range</li>
+</ul>
+<p data-ar="ثلاث نتائج ضمن النطاق. الكوليسترول الضار وفيتامين د خارج النطاق المطبوع على تقريرك، والسكر التراكمي قريب من حدّه الأعلى. واقترب فيتامين د من النطاق مقارنةً بتقريرك السابق." data-en="Three results are in range. LDL cholesterol and vitamin D are outside the range printed on your report, and HbA1c is close to its upper limit. Vitamin D has moved toward the range since your last report.">Three results are in range. LDL cholesterol and vitamin D are outside the range printed on your report, and HbA1c is close to its upper limit. Vitamin D has moved toward the range since your last report.</p>
+<p class="plain-next"><b data-ar="خطوة مفيدة تالية" data-en="A good next step">A good next step</b><span data-ar="اعرضي هذه النتائج على طبيبك، واسأليه عن الكوليسترول وفيتامين د." data-en="Show these results to your doctor and ask about cholesterol and vitamin D.">Show these results to your doctor and ask about cholesterol and vitamin D.</span></p>
+<p class="note" data-ar="مثال توضيحي. معلومات تثقيفية فقط، ولا يقدّم صحتك تشخيصاً؛ ناقش نتائجك مع طبيبك." data-en="Illustration. Educational information only; Sihtak does not diagnose. Discuss your results with your doctor.">Illustration. Educational information only; Sihtak does not diagnose. Discuss your results with your doctor.</p>
+</div>
+</div>
+<div class="scan-shot">
+<div class="frame" aria-hidden="true"><i></i><i></i><i></i><i></i></div>
+<figure class="sheet" lang="en" dir="ltr" aria-label="A printed lab report being read by Sihtak" data-en-aria-label="A printed lab report being read by Sihtak">
+<div class="sheet-head">
+<div><b>Clinical Laboratory</b><span>Biochemistry, Haematology, Endocrinology</span></div>
+<dl><dt>Patient</dt><dd><i class="redact"></i></dd><dt>Sex / Age</dt><dd>F / 34</dd><dt>Collected</dt><dd>12-11-2026 08:10</dd></dl>
+</div>
+<div class="sheet-cols"><span>Test</span><span>Result</span><span>Unit</span><span>Reference</span></div>
+<ol class="rows">
+<li class="row" data-s="ok"><div class="r-line"><span>Glucose, fasting</span><b>94</b><span>mg/dL</span><span>70 - 99</span></div><p class="ann"><span data-ar="سكر الدم الصيامي" data-en="Fasting blood sugar" lang="en" dir="ltr" data-en-lang="en" data-en-dir="ltr">Fasting blood sugar</span><em data-ar="ضمن النطاق" data-en="In range" lang="en" data-en-lang="en">In range</em></p></li>
+<li class="row" data-s="near"><div class="r-line"><span>HbA1c</span><b>5.8</b><span>%</span><span>4.0 - 5.6</span></div><p class="ann"><span data-ar="السكر التراكمي" data-en="Average blood sugar, 2 to 3 months" lang="en" dir="ltr" data-en-lang="en" data-en-dir="ltr">Average blood sugar, 2 to 3 months</span><em data-ar="قريبة من الحد" data-en="Near the limit" lang="en" data-en-lang="en">Near the limit</em></p></li>
+<li class="row" data-s="out"><div class="r-line"><span>LDL Cholesterol</span><b>162</b><span>mg/dL</span><span>< 130</span></div><p class="ann"><span data-ar="الكوليسترول الضار" data-en="LDL, the cholesterol that builds up in vessels" lang="en" dir="ltr" data-en-lang="en" data-en-dir="ltr">LDL, the cholesterol that builds up in vessels</span><em data-ar="خارج النطاق" data-en="Out of range" lang="en" data-en-lang="en">Out of range</em></p></li>
+<li class="row" data-s="ok"><div class="r-line"><span>Haemoglobin</span><b>13.4</b><span>g/dL</span><span>12.0 - 16.0</span></div><p class="ann"><span data-ar="الخضاب (الهيموغلوبين)" data-en="Haemoglobin, carries oxygen" lang="en" dir="ltr" data-en-lang="en" data-en-dir="ltr">Haemoglobin, carries oxygen</span><em data-ar="ضمن النطاق" data-en="In range" lang="en" data-en-lang="en">In range</em></p></li>
+<li class="row" data-s="ok"><div class="r-line"><span>TSH</span><b>2.1</b><span>mIU/L</span><span>0.4 - 4.0</span></div><p class="ann"><span data-ar="الهرمون المنبّه للدرق" data-en="Thyroid-stimulating hormone" lang="en" dir="ltr" data-en-lang="en" data-en-dir="ltr">Thyroid-stimulating hormone</span><em data-ar="ضمن النطاق" data-en="In range" lang="en" data-en-lang="en">In range</em></p></li>
+<li class="row" data-s="out"><div class="r-line"><span>Vitamin D, 25-OH</span><b>18</b><span>ng/mL</span><span>30 - 100</span></div><p class="ann"><span data-ar="فيتامين د" data-en="Vitamin D" lang="en" dir="ltr" data-en-lang="en" data-en-dir="ltr">Vitamin D</span><em data-ar="خارج النطاق" data-en="Out of range" lang="en" data-en-lang="en">Out of range</em><em class="mv" data-ar="تقترب من النطاق" data-en="Moving toward the range" lang="en" data-en-lang="en">Moving toward the range</em></p></li>
+</ol>
+<div class="sheet-foot"><span>Results relate only to the sample tested.</span><span>Page 1 of 1</span></div>
+<div class="beam" aria-hidden="true"></div>
+</figure>
+</div>
 </div>
 </div>
 </section>
@@ -1056,6 +1196,33 @@
       };
       addEventListener('scroll', function () { if (!tick) { tick = true; requestAnimationFrame(draw); } }, { passive: true });
       draw();
+    }
+
+    // Lab report scan: pinned while the paper aligns, the beam reads each
+    // row, then the plain-words card arrives. Without JS or with reduced
+    // motion the section stays in its static, fully-read state.
+    var scan = d.querySelector('.scan');
+    if (scan && !reduce) {
+      scan.classList.add('live');
+      var rows = scan.querySelectorAll('.row'), sheet = scan.querySelector('.sheet'), sTick = false;
+      var clamp = function (v) { return v < 0 ? 0 : v > 1 ? 1 : v; };
+      var drawScan = function () {
+        sTick = false;
+        var r = scan.getBoundingClientRect(), span = r.height - innerHeight;
+        var t = span > 0 ? clamp(-r.top / span) : 1;
+        var a = clamp(t / 0.16), b = clamp((t - 0.16) / 0.5), c = clamp((t - 0.7) / 0.16);
+        scan.style.setProperty('--a', a.toFixed(3));
+        scan.style.setProperty('--c', c.toFixed(3));
+        // the beam rides over the rows only, from the first to the last
+        var top = rows[0].offsetTop, end = rows[rows.length - 1].offsetTop + rows[rows.length - 1].offsetHeight;
+        var y = top + (end - top) * b;
+        scan.style.setProperty('--b', (y / sheet.offsetHeight).toFixed(4));
+        scan.style.setProperty('--bo', (b > 0 && b < 1 ? 1 : 0));
+        rows.forEach(function (row) { row.classList.toggle('lit', y >= row.offsetTop + row.offsetHeight * 0.5 || b >= 1); });
+      };
+      addEventListener('scroll', function () { if (!sTick) { sTick = true; requestAnimationFrame(drawScan); } }, { passive: true });
+      addEventListener('resize', drawScan);
+      drawScan();
     }
 
     // Tabs on the "your normal" card.
